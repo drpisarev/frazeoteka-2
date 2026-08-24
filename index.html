@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Frazeoteka 2</title>
+<style>
+:root{--bg:#f4f6fb;--panel:#fff;--text:#172033;--muted:#667085;--line:#e4e7ec;--accent:#3559e0;--accent2:#eef2ff;--danger:#b42318;--ok:#067647;--warn:#b54708;--shadow:0 12px 32px rgba(16,24,40,.08);--r:18px}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}button,input,textarea,select{font:inherit}button{cursor:pointer}.shell{max-width:1360px;margin:auto;padding:20px}.top{display:flex;gap:16px;align-items:flex-start;justify-content:space-between;margin-bottom:16px}.brand h1{font-size:29px;margin:0 0 4px}.brand p{margin:0;color:var(--muted)}.syncBadge{border-radius:999px;padding:7px 11px;font-size:13px;font-weight:800;background:#f2f4f7;color:#475467;white-space:nowrap}.syncBadge.ok{background:#ecfdf3;color:var(--ok)}.syncBadge.warn{background:#fffaeb;color:var(--warn)}.syncBadge.err{background:#fef3f2;color:var(--danger)}.grid{display:grid;grid-template-columns:360px 1fr;gap:18px}.panel{background:var(--panel);border:1px solid var(--line);border-radius:var(--r);box-shadow:var(--shadow)}.side{padding:15px;position:sticky;top:16px;height:calc(100vh - 32px);display:flex;flex-direction:column}.main{padding:18px;min-height:72vh}.search,.field input,.field textarea,.field select{width:100%;border:1px solid var(--line);border-radius:11px;padding:10px 11px;outline:none;background:#fff;color:var(--text)}.search:focus,.field input:focus,.field textarea:focus,.field select:focus{border-color:#9eaaeb;box-shadow:0 0 0 3px rgba(53,89,224,.10)}.stats{display:flex;justify-content:space-between;color:var(--muted);font-size:13px;margin:8px 2px}.list{overflow:auto;flex:1;padding-right:3px}.item{border:1px solid var(--line);border-radius:12px;padding:10px 11px;margin-bottom:8px;cursor:pointer}.item:hover{background:#fafbff;border-color:#bcc5ef}.item.active{background:var(--accent2);border-color:var(--accent)}.hw{font-weight:800}.def{font-size:13px;color:var(--muted);margin-top:2px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.foot{font-size:12px;color:var(--muted);margin-top:9px}.toolbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:14px}.spacer{flex:1}.btn{border:1px solid var(--line);background:#fff;color:var(--text);padding:9px 12px;border-radius:10px;font-weight:700}.btn:hover{background:#f9fafb}.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}.btn.danger{color:var(--danger);background:#fff8f7;border-color:#f1c8c4}.btn.small{font-size:12px;padding:6px 8px}.tabs{display:flex;gap:5px;border-bottom:1px solid var(--line);margin-bottom:16px;overflow:auto}.tab{border:0;background:transparent;color:var(--muted);padding:10px 11px;font-weight:800;border-bottom:2px solid transparent;white-space:nowrap}.tab.active{color:var(--accent);border-color:var(--accent)}.view{display:none}.view.active{display:block}.empty{padding:36px 18px;text-align:center;border:1px dashed var(--line);border-radius:14px;color:var(--muted)}.titleRow{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}.titleRow h2{margin:0;font-size:27px}.kicker{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.08em}.definition{font-size:18px;color:#344054;margin:5px 0 0}.section{margin:18px 0}.section h3{font-size:12px;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);margin:0 0 8px}.tags{display:flex;gap:7px;flex-wrap:wrap}.tag{background:#f2f4f7;border-radius:999px;padding:5px 9px;color:#475467;font-size:13px}blockquote{margin:0;padding:13px 15px;border-left:4px solid var(--accent);background:#f8f9ff;border-radius:10px}.sr{font-weight:800}.ru{margin-top:4px;color:#475467}.note{background:#fffaf0;border:1px solid #f5e1ad;border-radius:12px;padding:13px 14px}.formgrid{display:grid;grid-template-columns:1fr 1fr;gap:12px}.field{display:flex;flex-direction:column;gap:6px}.field.full{grid-column:1/-1}.field label{font-size:13px;font-weight:800;color:#475467}.field textarea{min-height:88px;resize:vertical}.help{font-size:12px;color:var(--muted)}.status{font-size:13px;font-weight:700;margin-top:8px}.status.ok{color:var(--ok)}.status.err{color:var(--danger)}.status.warn{color:var(--warn)}.exampleRow{border:1px solid var(--line);background:#fafafa;border-radius:12px;padding:10px;margin-bottom:9px}.jsonbox{min-height:320px!important;font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:13px}.settingsCard{border:1px solid var(--line);border-radius:14px;padding:14px;margin-bottom:14px;background:#fbfcff}.settingsCard h3{margin:0 0 5px}.checkrow{display:flex;gap:8px;align-items:center;margin-top:8px}.checkrow input{width:auto}.callout{border:1px solid #d0d5dd;background:#f9fafb;border-radius:12px;padding:12px;color:#475467}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px}dialog{border:0;border-radius:16px;padding:0;width:min(700px,calc(100vw - 28px));box-shadow:0 24px 80px rgba(0,0,0,.3)}dialog::backdrop{background:rgba(15,23,42,.42)}.dialogin{padding:18px}
+@media(max-width:900px){.grid{grid-template-columns:1fr}.side{position:static;height:auto}.list{max-height:300px}}@media(max-width:620px){.shell{padding:10px}.top{flex-direction:column}.formgrid{grid-template-columns:1fr}.field.full{grid-column:auto}}
+</style>
+</head>
+<body>
+<div class="shell">
+  <div class="top">
+    <div class="brand"><h1>Frazeoteka 2</h1><p>Сербские выражения, живые примеры и заметки для русскоязычного читателя</p></div>
+    <div id="syncBadge" class="syncBadge">Локальный режим</div>
+  </div>
+  <div class="grid">
+    <aside class="panel side">
+      <input id="search" class="search" placeholder="Поиск по фразе, переводу, заметке…">
+      <div class="stats"><span id="count">0 статей</span><span id="found"></span></div>
+      <div id="list" class="list"></div>
+      <div class="foot">Локальная копия сохраняется автоматически. GitHub используется как общая база между устройствами.</div>
+    </aside>
+    <main class="panel main">
+      <div class="toolbar">
+        <button id="newBtn" class="btn primary">+ Новая статья</button>
+        <button id="jsonBtn" class="btn">Добавить</button>
+        <button id="pullBtn" class="btn">↓ Получить с GitHub</button>
+        <button id="pushBtn" class="btn">↑ Сохранить на GitHub</button>
+        <div class="spacer"></div>
+        <button id="settingsBtn" class="btn">GitHub</button>
+        <button id="exportBtn" class="btn">Экспорт</button>
+      </div>
+      <div class="tabs">
+        <button class="tab active" data-view="cardView">Карточка</button>
+        <button class="tab" data-view="editView">Редактор</button>
+        <button class="tab" data-view="importView">JSON</button>
+        <button class="tab" data-view="settingsView">GitHub-настройки</button>
+      </div>
+      <section id="cardView" class="view active"><div id="card" class="empty">База пока пуста. Вставьте JSON или подключите GitHub.</div></section>
+      <section id="editView" class="view">
+        <form id="form"><input type="hidden" id="originalKey">
+          <div class="formgrid">
+            <div class="field"><label>headword_latin *</label><input id="headword" required></div>
+            <div class="field"><label>type</label><select id="type"><option>izraz</option><option>frazeologizam</option><option>poslovica</option><option>izreka</option><option>krilatica</option><option>kolokacija</option><option>imenica</option><option>glagol</option><option>pridev</option><option>prilog</option><option>uzvik</option><option>sleng</option><option>replika</option></select></div>
+            <div class="field full"><label>definition_ru *</label><textarea id="definition" required></textarea></div>
+            <div class="field full"><label>analogs_ru</label><input id="analogs" placeholder="аналог 1 • аналог 2"></div>
+            <div class="field"><label>literal_ru</label><input id="literal"></div>
+            <div class="field"><label>keyword</label><input id="keyword"></div>
+            <div class="field full"><label>register</label><textarea id="register"></textarea></div>
+            <div class="field full"><label>examples</label><div id="examples"></div><button type="button" id="addExample" class="btn small">+ пример</button></div>
+            <div class="field full"><label>note</label><textarea id="note"></textarea></div>
+            <div class="field full"><label>source</label><input id="source" placeholder="N1, 2026"></div>
+          </div>
+          <div class="toolbar" style="margin-top:15px"><button class="btn primary" type="submit">Сохранить</button><button id="cancelEdit" class="btn" type="button">Отмена</button><button id="deleteBtn" class="btn danger" type="button">Удалить</button></div>
+          <div id="formStatus" class="status"></div>
+        </form>
+      </section>
+      <section id="importView" class="view">
+        <div class="field"><label>JSON статьи / нескольких статей</label><textarea id="jsonInput" class="jsonbox" placeholder='{"entries":[{"headword_latin":"Fušeraj", ...}]}'></textarea><div class="help">Поддерживаются {"entries":[...]}, массив [...] и один объект статьи. Совпадения по headword_latin обновляются.</div></div>
+        <div class="toolbar" style="margin-top:11px"><button id="importBtn" class="btn primary">Импортировать</button><button id="validateBtn" class="btn">Проверить JSON</button></div><div id="importStatus" class="status"></div>
+      </section>
+      <section id="settingsView" class="view">
+        <div class="settingsCard">
+          <h3>GitHub как облачная база</h3>
+          <div class="help">Сайт читает и обновляет JSON-файл в вашем репозитории через GitHub API.</div>
+          <div class="formgrid" style="margin-top:12px">
+            <div class="field"><label>GitHub owner</label><input id="ghOwner" placeholder="username"></div>
+            <div class="field"><label>Repository</label><input id="ghRepo" placeholder="frazeoteka"></div>
+            <div class="field"><label>Branch</label><input id="ghBranch" value="main"></div>
+            <div class="field"><label>JSON path</label><input id="ghPath" value="data/frazeoteka.json"></div>
+            <div class="field full"><label>Fine-grained Personal Access Token</label><input id="ghToken" type="password" autocomplete="off" placeholder="github_pat_…"><div class="help">Для записи нужен доступ только к выбранному репозиторию и Repository permissions → Contents: Read and write. Не помещайте токен в исходный код.</div></div>
+          </div>
+          <label class="checkrow"><input type="checkbox" id="rememberToken"> Сохранять токен в этом браузере</label>
+          <label class="checkrow"><input type="checkbox" id="autoSync"> Автоматически отправлять изменения на GitHub после сохранения статьи</label>
+          <div class="toolbar" style="margin-top:13px"><button id="saveSettings" class="btn primary">Сохранить настройки</button><button id="testGithub" class="btn">Проверить соединение</button></div>
+          <div id="ghStatus" class="status"></div>
+        </div>
+        <div class="callout"><b>Безопасность.</b> Для статического сайта без собственного сервера GitHub OAuth нельзя реализовать безопасно без дополнительного backend. Поэтому токен вводится только на вашем устройстве. Используйте fine-grained token, ограниченный одним репозиторием; если не включать «Сохранять токен», он живёт только до закрытия вкладки.</div>
+      </section>
+    </main>
+  </div>
+</div>
+<dialog id="exportDialog"><div class="dialogin"><div class="titleRow"><div><div class="kicker">Резервная копия</div><h2>Экспорт JSON</h2></div><button class="btn" onclick="exportDialog.close()">Закрыть</button></div><textarea id="exportText" class="jsonbox" style="width:100%;border:1px solid var(--line);border-radius:11px;padding:11px"></textarea><div class="toolbar" style="margin-top:10px"><button id="copyExport" class="btn primary">Копировать</button><button id="downloadExport" class="btn">Скачать .json</button></div></div></dialog>
+<script>
+(()=>{
+const LS="srpska_frazeoteka_v2", CFG="srpska_frazeoteka_github_v1";
+let entries=[],selected=null,dirty=false,remoteSha=null,lastKnownRemoteSha=null,sessionToken="";
+const $=id=>document.getElementById(id), norm=s=>String(s??"").trim().toLocaleLowerCase("sr-Latn"), esc=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]));
+function cfg(){try{return JSON.parse(localStorage.getItem(CFG)||"{}")||{}}catch{return{}}}
+function setCfg(c){localStorage.setItem(CFG,JSON.stringify(c))}
+function localLoad(){try{entries=JSON.parse(localStorage.getItem(LS)||'{"entries":[]}').entries||[]}catch{entries=[]}selected=entries[0]?.headword_latin||null}
+function localSave(){entries.sort((a,b)=>String(a.headword_latin||"").localeCompare(String(b.headword_latin||""),"sr-Latn"));localStorage.setItem(LS,JSON.stringify({entries}));renderList();renderCard()}
+function countWord(n){let a=n%10,b=n%100;return n+" "+(a===1&&b!==11?"статья":[2,3,4].includes(a)&&![12,13,14].includes(b)?"статьи":"статей")}
+function setBadge(text,kind=""){let b=$("syncBadge");b.textContent=text;b.className="syncBadge"+(kind?" "+kind:"")}
+function setView(id){document.querySelectorAll(".view").forEach(x=>x.classList.toggle("active",x.id===id));document.querySelectorAll(".tab").forEach(x=>x.classList.toggle("active",x.dataset.view===id))}
+document.querySelectorAll(".tab").forEach(x=>x.onclick=()=>setView(x.dataset.view));
+function current(){return entries.find(e=>e.headword_latin===selected)||null}
+function renderList(){let q=norm($("search").value),arr=entries.filter(e=>!q||norm([e.headword_latin,e.definition_ru,e.literal_ru,e.register,e.note,e.keyword,...(e.analogs_ru||[]),...(e.examples||[]).flatMap(x=>[x.serbian_latin,x.russian])].join(" ")).includes(q));$("count").textContent=countWord(entries.length);$("found").textContent=q?"найдено: "+arr.length:"";$("list").innerHTML=arr.length?arr.map(e=>`<div class="item ${e.headword_latin===selected?"active":""}" data-k="${esc(e.headword_latin)}"><div class="hw">${esc(e.headword_latin)}</div><div class="def">${esc(e.definition_ru||"")}</div></div>`).join(""):`<div class="empty">${entries.length?"Ничего не найдено.":"Нет записей."}</div>`;document.querySelectorAll(".item").forEach(x=>x.onclick=()=>{selected=x.dataset.k;renderList();renderCard();setView("cardView")})}
+function renderCard(){let e=current();if(!e){$("card").className="empty";$("card").innerHTML="База пока пуста. Вставьте JSON или подключите GitHub.";return}$("card").className="";let ex=(e.examples||[]).map(x=>`<blockquote><div class="sr">${esc(x.serbian_latin||"")}</div><div class="ru">— ${esc(x.russian||"")}</div></blockquote>`).join("<div style='height:8px'></div>"),tags=(e.analogs_ru||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join("");$("card").innerHTML=`<div class="titleRow"><div><div class="kicker">${esc(e.type||"izraz")}</div><h2>${esc(e.headword_latin)}</h2><div class="definition">${esc(e.definition_ru||"")}</div></div><button id="editCurrent" class="btn">Редактировать</button></div>${tags?`<div class="section"><h3>Аналоги</h3><div class="tags">${tags}</div></div>`:""}${e.literal_ru?`<div class="section"><h3>Буквально</h3>${esc(e.literal_ru)}</div>`:""}${e.register?`<div class="section"><h3>Помета</h3>${esc(e.register)}</div>`:""}${ex?`<div class="section"><h3>Пример</h3>${ex}${e.source?`<div class="help" style="margin-top:7px">Источник: ${esc(e.source)}</div>`:""}</div>`:""}${e.note?`<div class="section"><h3>Заметка</h3><div class="note">${esc(e.note)}</div></div>`:""}${e.keyword?`<div class="section"><h3>Ключ</h3><span class="tag">${esc(e.keyword)}</span></div>`:""}`;$("editCurrent").onclick=()=>openEditor(e)}
+function splitAnalog(s){return String(s||"").split(/[•\n]+/).map(x=>x.trim()).filter(Boolean)}
+function addEx(ex={serbian_latin:"",russian:""}){let d=document.createElement("div");d.className="exampleRow";d.innerHTML=`<div class="field"><label>serbian_latin</label><textarea class="exsr">${esc(ex.serbian_latin||"")}</textarea></div><div class="field" style="margin-top:7px"><label>russian</label><textarea class="exru">${esc(ex.russian||"")}</textarea></div><div style="text-align:right;margin-top:7px"><button type="button" class="btn danger small rmex">Удалить пример</button></div>`;d.querySelector(".rmex").onclick=()=>d.remove();$("examples").appendChild(d)}
+function openEditor(e=null){let x=e||{headword_latin:"",type:"izraz",definition_ru:"",analogs_ru:[],literal_ru:"",register:"",examples:[{}],note:"",keyword:"",source:""};$("originalKey").value=e?.headword_latin||"";$("headword").value=x.headword_latin||"";$("type").value=x.type||"izraz";$("definition").value=x.definition_ru||"";$("analogs").value=(x.analogs_ru||[]).join(" • ");$("literal").value=x.literal_ru||"";$("register").value=x.register||"";$("note").value=x.note||"";$("keyword").value=x.keyword||"";$("source").value=x.source||"";$("examples").innerHTML="";(x.examples?.length?x.examples:[{}]).forEach(addEx);$("formStatus").textContent="";setView("editView")}
+function formData(){let examples=[...document.querySelectorAll(".exampleRow")].map(r=>({serbian_latin:r.querySelector(".exsr").value.trim(),russian:r.querySelector(".exru").value.trim()})).filter(x=>x.serbian_latin||x.russian);return{headword_latin:$("headword").value.trim(),type:$("type").value,definition_ru:$("definition").value.trim(),analogs_ru:splitAnalog($("analogs").value),literal_ru:$("literal").value.trim(),register:$("register").value.trim(),examples,note:$("note").value.trim(),keyword:$("keyword").value.trim(),source:$("source").value.trim()}}
+async function changed(){dirty=true;localSave();setBadge("Есть несинхронизированные изменения","warn");let c=cfg();if(c.autoSync&&token())await pushGithub(false)}
+$("form").onsubmit=async ev=>{ev.preventDefault();let x=formData(),orig=$("originalKey").value;if(!x.headword_latin||!x.definition_ru)return status($("formStatus"),"Заполните headword_latin и definition_ru","err");let dupe=entries.find(e=>norm(e.headword_latin)===norm(x.headword_latin)&&e.headword_latin!==orig);if(dupe)return status($("formStatus"),"Статья с таким headword_latin уже существует","err");if(orig){let i=entries.findIndex(e=>e.headword_latin===orig);i>=0?entries[i]=x:entries.push(x)}else entries.push(x);selected=x.headword_latin;await changed();setView("cardView")};
+$("newBtn").onclick=()=>openEditor();$("cancelEdit").onclick=()=>setView("cardView");$("addExample").onclick=()=>addEx();$("deleteBtn").onclick=async()=>{let k=$("originalKey").value||selected;if(k&&confirm(`Удалить «${k}»?`)){entries=entries.filter(e=>e.headword_latin!==k);selected=entries[0]?.headword_latin||null;await changed();setView("cardView")}};$("search").oninput=renderList;$("jsonBtn").onclick=()=>setView("importView");$("settingsBtn").onclick=()=>{loadSettingsUI();setView("settingsView")};
+function normalize(e){if(!e||typeof e!=="object"||!String(e.headword_latin||"").trim())throw new Error("У записи нет headword_latin");return{headword_latin:String(e.headword_latin).trim(),type:String(e.type||"izraz").trim(),definition_ru:String(e.definition_ru||"").trim(),analogs_ru:Array.isArray(e.analogs_ru)?e.analogs_ru.map(String):splitAnalog(e.analogs_ru||""),literal_ru:String(e.literal_ru||"").trim(),register:String(e.register||"").trim(),examples:Array.isArray(e.examples)?e.examples.map(x=>({serbian_latin:String(x?.serbian_latin||"").trim(),russian:String(x?.russian||"").trim()})).filter(x=>x.serbian_latin||x.russian):[],note:String(e.note||"").trim(),keyword:String(e.keyword||"").trim(),source:String(e.source||"").trim()}}
+function parseJSON(t){let d=JSON.parse(t),a=Array.isArray(d)?d:Array.isArray(d?.entries)?d.entries:d?.headword_latin?[d]:null;if(!a)throw new Error("Ожидается объект {entries:[...]}, массив или одна статья");return a.map(normalize)}
+$("validateBtn").onclick=()=>{try{let a=parseJSON($("jsonInput").value);status($("importStatus"),`JSON корректен. Записей: ${a.length}`,"ok")}catch(e){status($("importStatus"),e.message,"err")}};$("importBtn").onclick=async()=>{try{let a=parseJSON($("jsonInput").value),add=0,upd=0;a.forEach(x=>{let i=entries.findIndex(e=>norm(e.headword_latin)===norm(x.headword_latin));if(i>=0){entries[i]=x;upd++}else{entries.push(x);add++}});selected=a[0]?.headword_latin||selected;await changed();status($("importStatus"),`Добавлено ${add}, обновлено ${upd}`,"ok");setView("cardView")}catch(e){status($("importStatus"),e.message,"err")}};
+function status(el,msg,k=""){el.className="status"+(k?" "+k:"");el.textContent=msg}
+function loadSettingsUI(){let c=cfg();$("ghOwner").value=c.owner||"";$("ghRepo").value=c.repo||"frazeoteka";$("ghBranch").value=c.branch||"main";$("ghPath").value=c.path||"data/frazeoteka.json";$("rememberToken").checked=!!c.rememberToken;$("autoSync").checked=!!c.autoSync;$("ghToken").value=c.rememberToken?(c.token||""):sessionToken}
+function saveSettingsUI(){let old=cfg(),remember=$("rememberToken").checked,t=$("ghToken").value.trim();sessionToken=t;let c={owner:$("ghOwner").value.trim(),repo:$("ghRepo").value.trim(),branch:$("ghBranch").value.trim()||"main",path:$("ghPath").value.trim()||"data/frazeoteka.json",rememberToken:remember,autoSync:$("autoSync").checked,token:remember?t:""};setCfg(c);remoteSha=null;lastKnownRemoteSha=null;status($("ghStatus"),"Настройки сохранены","ok");updateBadgeFromCfg();return c}
+$("saveSettings").onclick=saveSettingsUI;
+function token(){let c=cfg();return c.rememberToken?(c.token||""):sessionToken}
+function ghReady(){let c=cfg();return c.owner&&c.repo&&c.branch&&c.path}
+function apiUrl(c=cfg()){return `https://api.github.com/repos/${encodeURIComponent(c.owner)}/${encodeURIComponent(c.repo)}/contents/${c.path.split("/").map(encodeURIComponent).join("/")}?ref=${encodeURIComponent(c.branch)}`}
+function headers(withJson=false){let h={Accept:"application/vnd.github+json","X-GitHub-Api-Version":"2022-11-28"},t=token();if(t)h.Authorization=`Bearer ${t}`;if(withJson)h["Content-Type"]="application/json";return h}
+function b64decode(s){let bin=atob(String(s).replace(/\s/g,"")),bytes=Uint8Array.from(bin,c=>c.charCodeAt(0));return new TextDecoder().decode(bytes)}
+function b64encode(s){let bytes=new TextEncoder().encode(s),bin="";for(let i=0;i<bytes.length;i+=0x8000)bin+=String.fromCharCode(...bytes.subarray(i,i+0x8000));return btoa(bin)}
+async function fetchRemote(){if(!ghReady())throw new Error("Заполните GitHub owner и repository");let r=await fetch(apiUrl(),{headers:headers()});if(r.status===404)throw new Error("Файл не найден. Проверьте репозиторий, ветку и путь data/frazeoteka.json");if(!r.ok)throw new Error(`GitHub API: ${r.status} ${r.statusText}`);let j=await r.json(),d=JSON.parse(b64decode(j.content));return{entries:(d.entries||[]).map(normalize),sha:j.sha}}
+async function pullGithub(askOnDirty=true){try{if(askOnDirty&&dirty&&!confirm("Есть локальные изменения. Получение с GitHub заменит локальную базу. Продолжить?"))return;setBadge("Получение с GitHub…");let d=await fetchRemote();entries=d.entries;remoteSha=d.sha;lastKnownRemoteSha=d.sha;dirty=false;selected=entries[0]?.headword_latin||null;localSave();setBadge("Синхронизировано с GitHub","ok");status($("ghStatus"),`Получено: ${entries.length} статей`,"ok")}catch(e){setBadge("Ошибка GitHub","err");status($("ghStatus"),e.message,"err");throw e}}
+async function pushGithub(showOk=true){try{let c=cfg();if(!ghReady())throw new Error("Сначала сохраните GitHub-настройки");if(!token())throw new Error("Для записи нужен Personal Access Token");setBadge("Проверка GitHub…");let latest;try{latest=await fetchRemote()}catch(e){if(!String(e.message).includes("Файл не найден"))throw e;latest={entries:[],sha:null}}if(lastKnownRemoteSha&&latest.sha&&latest.sha!==lastKnownRemoteSha){setBadge("Конфликт версий","err");throw new Error("Файл на GitHub изменился после последнего получения. Сначала нажмите «Получить с GitHub», чтобы не затереть изменения с другого устройства.")}let body={message:`Update Frazeoteka (${new Date().toISOString()})`,content:b64encode(JSON.stringify({entries},null,2)),branch:c.branch};if(latest.sha)body.sha=latest.sha;let url=apiUrl().replace(/\?ref=.*/,"");let r=await fetch(url,{method:"PUT",headers:headers(true),body:JSON.stringify(body)});if(!r.ok){let txt=await r.text();throw new Error(`GitHub API: ${r.status}. ${txt.slice(0,220)}`)}let j=await r.json();remoteSha=j.content?.sha||null;lastKnownRemoteSha=remoteSha;dirty=false;setBadge("Синхронизировано с GitHub","ok");if(showOk)status($("ghStatus"),"Изменения сохранены на GitHub","ok")}catch(e){setBadge("Не синхронизировано","err");status($("ghStatus"),e.message,"err");if(showOk)throw e}}
+$("pullBtn").onclick=()=>pullGithub(true).catch(()=>{});$("pushBtn").onclick=()=>pushGithub(true).catch(()=>{});$("testGithub").onclick=async()=>{saveSettingsUI();try{let d=await fetchRemote();lastKnownRemoteSha=d.sha;status($("ghStatus"),`Соединение работает. В GitHub: ${d.entries.length} статей.`,"ok");setBadge("GitHub подключён","ok")}catch(e){status($("ghStatus"),e.message,"err");setBadge("Ошибка GitHub","err")}};
+function updateBadgeFromCfg(){if(ghReady())setBadge(dirty?"Есть несинхронизированные изменения":"GitHub настроен",dirty?"warn":"ok");else setBadge("Локальный режим")}
+$("exportBtn").onclick=()=>{$("exportText").value=JSON.stringify({entries},null,2);exportDialog.showModal()};$("copyExport").onclick=async()=>{await navigator.clipboard.writeText($("exportText").value);$("copyExport").textContent="Скопировано";setTimeout(()=>$("copyExport").textContent="Копировать",1000)};$("downloadExport").onclick=()=>{let blob=new Blob([$("exportText").value],{type:"application/json"}),a=document.createElement("a");a.href=URL.createObjectURL(blob);a.download=`frazeoteka-${new Date().toISOString().slice(0,10)}.json`;a.click();URL.revokeObjectURL(a.href)};
+async function initial(){localLoad();renderList();renderCard();loadSettingsUI();updateBadgeFromCfg();if(ghReady()){try{let d=await fetchRemote();if(!entries.length){entries=d.entries;selected=entries[0]?.headword_latin||null;localSave()}remoteSha=d.sha;lastKnownRemoteSha=d.sha;dirty=false;setBadge("Синхронизировано с GitHub","ok")}catch{setBadge("GitHub недоступен — локальная копия","warn")}}else if(!entries.length){try{let r=await fetch(`data/frazeoteka.json?t=${Date.now()}`);if(r.ok){let d=await r.json();entries=(d.entries||[]).map(normalize);selected=entries[0]?.headword_latin||null;localSave()}}catch{}}}
+initial();
+})();
+</script>
+</body>
+</html>
