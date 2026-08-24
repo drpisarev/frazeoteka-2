@@ -261,17 +261,35 @@ function b64encode(s){return btoa(unescape(encodeURIComponent(s)))}
 
 async function init(){
   const local=loadLocal();
-  if(local.length){entries=local}
-  try{
-    const r=await fetch("data/frazeoteka.json",{cache:"no-store"});
-    if(r.ok){
-      const d=await r.json();
-      if(Array.isArray(d.entries) && d.entries.length){entries=d.entries;saveLocal()}
-    }
-  }catch{}
-  entries.sort((a,b)=>String(a.headword_latin||"").localeCompare(String(b.headword_latin||""),"sr-Latn"));
+
+  if(local.length){
+    // Если в браузере уже есть база — никогда не затираем её
+    // старой копией с GitHub Pages.
+    entries=local;
+  }else{
+    // Только при первом запуске загружаем базу сайта.
+    try{
+      const r=await fetch("data/frazeoteka.json",{cache:"no-store"});
+      if(r.ok){
+        const d=await r.json();
+        if(Array.isArray(d.entries)){
+          entries=d.entries;
+          saveLocal();
+        }
+      }
+    }catch{}
+  }
+
+  entries.sort((a,b)=>
+    String(a.headword_latin||"")
+      .localeCompare(String(b.headword_latin||""),"sr-Latn")
+  );
+
   selected=entries[0]?.headword_latin||null;
-  buildAlphabet();buildFilters();renderList();renderEntry();
+  buildAlphabet();
+  buildFilters();
+  renderList();
+  renderEntry();
 }
 function buildAlphabet(){
   const letters=["SVE","A","B","C","Č","Ć","D","Dž","Đ","E","F","G","H","I","J","K","L","Lj","M","N","Nj","O","P","R","S","Š","T","U","V","Z","Ž"];
