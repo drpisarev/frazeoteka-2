@@ -211,7 +211,7 @@ dialog::backdrop{background:rgba(7,17,40,.38)}
       <div class="field"><label>headword_latin</label><input id="f_head"></div>
       <div class="field"><label>type</label><input id="f_type"></div>
       <div class="field"><label>definition_ru</label><textarea id="f_def"></textarea></div>
-      <div class="field"><label>analogs_ru (через •)</label><input id="f_analogs"></div>
+      <div class="field"><label>synonyms_sr — srpski sinonimi (через •)</label><input id="f_analogs"></div>
       <div class="field"><label>literal_ru</label><input id="f_literal"></div>
       <div class="field"><label>register</label><textarea id="f_reg"></textarea></div>
       <div class="field"><label>Пример — serbian_latin</label><textarea id="f_exsr"></textarea></div>
@@ -287,7 +287,7 @@ function buildFilters(){
 function filtered(){
   const q=norm($("searchInput").value), t=$("typeFilter").value, r=$("registerFilter").value;
   return entries.filter(e=>{
-    const blob=[e.headword_latin,e.definition_ru,e.literal_ru,e.register,e.note,e.keyword,...(e.analogs_ru||[]),...(e.examples||[]).flatMap(x=>[x.serbian_latin,x.russian])].join(" ");
+    const blob=[e.headword_latin,e.definition_ru,e.literal_ru,e.register,e.note,e.keyword,...(e.synonyms_sr||[]),...(e.analogs_ru||[]),...(e.examples||[]).flatMap(x=>[x.serbian_latin,x.russian])].join(" ");
     const alphaOk=alpha==="SVE" || norm(e.headword_latin).startsWith(norm(alpha));
     return (!q||norm(blob).includes(q)) && (!t||e.type===t) && (!r||(e.register||"").startsWith(r)) && alphaOk;
   });
@@ -316,7 +316,7 @@ function renderEntry(){
       <div class="section-label"><span class="icon-circle">▣</span><span>ZNAČENJE</span></div>
       <div class="section-content">${esc(e.definition_ru||"")}</div>
     </div>
-    ${(e.analogs_ru||[]).length?`<div class="section-row"><div class="section-label"><span class="icon-circle">≈</span><span>ANALOZI</span></div><div class="section-content small">${e.analogs_ru.map(esc).join(" • ")}</div></div>`:""}
+    ${((e.synonyms_sr||e.analogs_ru||[]).length)?`<div class="section-row"><div class="section-label"><span class="icon-circle">≈</span><span>SRPSKI<br>SINONIMI</span></div><div class="section-content small">${(e.synonyms_sr||e.analogs_ru||[]).map(esc).join(" • ")}</div></div>`:""}
     ${e.literal_ru?`<div class="section-row"><div class="section-label"><span class="icon-circle">↔</span><span>BUKVALNO</span></div><div class="section-content small">${esc(e.literal_ru)}</div></div>`:""}
     ${e.note?`<div class="section-row"><div class="section-label"><span class="icon-circle">i</span><span>NAPOMENA<br>O UPOTREBI</span></div><div class="section-content small"><div class="note-box">${esc(e.note)}</div></div></div>`:""}
     ${ex?`<div class="section-row"><div class="section-label"><span class="icon-circle">“</span><span>PRIMER</span></div><div class="section-content"><div class="example-serbian">${esc(ex.serbian_latin||"")}</div><div class="example-russian">— ${esc(ex.russian||"")}</div></div></div>`:""}
@@ -331,7 +331,7 @@ function parseIncoming(text){
 function openEdit(){
   const e=entries.find(x=>x.headword_latin===selected); if(!e)return;
   $("f_head").value=e.headword_latin||"";$("f_type").value=e.type||"";$("f_def").value=e.definition_ru||"";
-  $("f_analogs").value=(e.analogs_ru||[]).join(" • ");$("f_literal").value=e.literal_ru||"";$("f_reg").value=e.register||"";
+  $("f_analogs").value=(e.synonyms_sr||e.analogs_ru||[]).join(" • ");$("f_literal").value=e.literal_ru||"";$("f_reg").value=e.register||"";
   $("f_exsr").value=e.examples?.[0]?.serbian_latin||"";$("f_exru").value=e.examples?.[0]?.russian||"";
   $("f_note").value=e.note||"";$("f_keyword").value=e.keyword||"";
 }
@@ -352,7 +352,7 @@ $("addJsonBtn").onclick=()=>{
 };
 $("saveEditBtn").onclick=()=>{
   const old=entries.find(x=>x.headword_latin===selected);if(!old)return;
-  const e={...old,headword_latin:$("f_head").value.trim(),type:$("f_type").value.trim(),definition_ru:$("f_def").value.trim(),analogs_ru:$("f_analogs").value.split("•").map(x=>x.trim()).filter(Boolean),literal_ru:$("f_literal").value.trim(),register:$("f_reg").value.trim(),examples:[{serbian_latin:$("f_exsr").value.trim(),russian:$("f_exru").value.trim()}].filter(x=>x.serbian_latin||x.russian),note:$("f_note").value.trim(),keyword:$("f_keyword").value.trim()};
+  const e={...old,headword_latin:$("f_head").value.trim(),type:$("f_type").value.trim(),definition_ru:$("f_def").value.trim(),synonyms_sr:$("f_analogs").value.split("•").map(x=>x.trim()).filter(Boolean),literal_ru:$("f_literal").value.trim(),register:$("f_reg").value.trim(),examples:[{serbian_latin:$("f_exsr").value.trim(),russian:$("f_exru").value.trim()}].filter(x=>x.serbian_latin||x.russian),note:$("f_note").value.trim(),keyword:$("f_keyword").value.trim()};
   entries[entries.indexOf(old)]=e;selected=e.headword_latin;saveLocal();buildFilters();renderList();renderEntry()
 };
 $("deleteBtn").onclick=()=>{const e=entries.find(x=>x.headword_latin===selected);if(e&&confirm(`Obrisati „${e.headword_latin}“?`)){entries=entries.filter(x=>x!==e);selected=entries[0]?.headword_latin||null;saveLocal();buildFilters();renderList();renderEntry()}};
