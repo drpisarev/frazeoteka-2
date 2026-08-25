@@ -140,6 +140,43 @@
       "keyword": "nema odmora dok traje obnova"
     },
     {
+      "headword_latin": "Pokrij se ušima",
+      "type": "frazeologizam",
+      "definition_ru": "постыдись; сиди тихо после такого; подожми хвост и помалкивай",
+      "synonyms_sr": [
+        "pokunji se",
+        "postidi se",
+        "podvij rep",
+        "priznaj grešku i ćuti"
+      ],
+      "literal_ru": "накройся ушами",
+      "register": "razg., famil., neodobr.; najčešće u imperativu kao strog prekor; česta proširena forma: pokrij se ušima i ćuti",
+      "examples": [
+        {
+          "serbian_latin": "Ništa. Pokrij se ušima i ćuti, to je rešenje.",
+          "russian": "Ничего. Постыдись и помалкивай — вот и всё решение.",
+          "source": "Telegraf, 2012"
+        },
+        {
+          "serbian_latin": "Sedi i ćuti, pokrij se ušima!",
+          "russian": "Сиди тихо и не высовывайся после такого!",
+          "source": "Blic, 2019"
+        },
+        {
+          "serbian_latin": "Šta više ima da kaže, kada je pogazila svaku svoju reč. Pokrij se ušima i ćuti.",
+          "russian": "Что ей ещё говорить, если она сама нарушила каждое своё слово. Пусть теперь постыдится и помалкивает.",
+          "source": "Srpskainfo, 2024"
+        },
+        {
+          "serbian_latin": "Posle takvog promašaja najbolje ti je da se pokriješ ušima i ćutiš.",
+          "russian": "После такого промаха тебе лучше поджать хвост и помалкивать.",
+          "source": ""
+        }
+      ],
+      "note": "Фразеологизм означает не просто «стыдиться», а притихнуть после собственного промаха, глупости, провала или неподобающего поведения и признать, что сейчас лучше не выступать и не поучать других. Именно поэтому типичное продолжение — i ćuti. Фразеографически значение описывается как «покуниться и признать ошибку»; академические работы также отмечают значения стыда, смирения и самокритичности, особенно в императиве как строгий упрёк. Для русского буквальный образ с ушами непрозрачен: в зависимости от ситуации естественны «постыдись и помалкивай», «подожми хвост», «тебе бы после такого молчать». Иван Клайн приводил pokrij se ušima как естественный сербский эквивалент итальянского выражения со смыслом «покуниться, поджать хвост».",
+      "keyword": "pokrij se ušima"
+    },
+    {
       "headword_latin": "Pre roka",
       "type": "kolokacija",
       "definition_ru": "досрочно; раньше срока; до установленного срока",
