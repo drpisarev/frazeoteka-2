@@ -360,103 +360,58 @@ function setAdminView(id){
 document.querySelectorAll(".admin-tab").forEach(t=>t.onclick=()=>{setAdminView(t.dataset.view);if(t.dataset.view==="editView")openEdit()});
 
 $("adminBtn").onclick=()=>{const c=loadCfg();$("ghOwner").value=c.owner||"drpisarev";$("ghRepo").value=c.repo||"frazeoteka-2";$("ghBranch").value=c.branch||"main";$("ghPath").value=c.path||"data/frazeoteka.json";$("ghToken").value=c.token||sessionStorage.getItem("frazeoteka2_token")||"";$("rememberToken").checked=!!c.token;adminDialog.showModal()};
-$("addJsonBtn").onclick=()=>{
+$("addJsonBtn").onclick=async()=>{
   try{
-    const arr=parseIncoming($("jsonInput").value);let a=0,u=0;
-    arr.forEach(e=>{const i=entries.findIndex(x=>norm(x.headword_latin)===norm(e.headword_latin));if(i>=0){entries[i]=e;u++}else{entries.push(e);a++}selected=e.headword_latin});
-    entries.sort((a,b)=>String(a.headword_latin||"").localeCompare(String(b.headword_latin||""),"sr-Latn"));saveLocal();buildFilters();renderList();renderEntry();
-    $("addStatus").className="status ok";$("addStatus").textContent=`Dodato: ${a}, ažurirano: ${u}.`;
-  }catch(e){$("addStatus").className="status err";$("addStatus").textContent=e.message}
-};
-$("saveEditBtn").onclick=()=>{
-  const old=entries.find(x=>x.headword_latin===selected);if(!old)return;
-  const e={...old,headword_latin:$("f_head").value.trim(),type:$("f_type").value.trim(),definition_ru:$("f_def").value.trim(),synonyms_sr:$("f_analogs").value.split("•").map(x=>x.trim()).filter(Boolean),literal_ru:$("f_literal").value.trim(),register:$("f_reg").value.trim(),examples:[{serbian_latin:$("f_exsr").value.trim(),russian:$("f_exru").value.trim()}].filter(x=>x.serbian_latin||x.russian),note:$("f_note").value.trim(),keyword:$("f_keyword").value.trim()};
-  entries[entries.indexOf(old)]=e;selected=e.headword_latin;saveLocal();buildFilters();renderList();renderEntry()
-};
-$("deleteBtn").onclick=()=>{const e=entries.find(x=>x.headword_latin===selected);if(e&&confirm(`Obrisati „${e.headword_latin}“?`)){entries=entries.filter(x=>x!==e);selected=entries[0]?.headword_latin||null;saveLocal();buildFilters();renderList();renderEntry()}};
-$("saveSettings").onclick=()=>{
-  const token=$("ghToken").value.trim(), c={owner:$("ghOwner").value.trim(),repo:$("ghRepo").value.trim(),branch:$("ghBranch").value.trim()||"main",path:$("ghPath").value.trim()||"data/frazeoteka.json"};
-  if($("rememberToken").checked)c.token=token; else sessionStorage.setItem("frazeoteka2_token",token);
-  saveCfg(c);$("ghStatus").className="status ok";$("ghStatus").textContent="Podešavanja sačuvana.";
-};
-function getAuth(){const c=loadCfg(),token=c.token||sessionStorage.getItem("frazeoteka2_token")||"";if(!c.owner||!c.repo||!token)throw new Error("Prvo sačuvajte GitHub podešavanja.");return {...c,token}}
-$("pullBtn").onclick=async()=>{
-  try{
-    const c=getAuth();$("ghStatus").textContent="Učitavanje...";
-    const r=await fetch(`https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}?ref=${encodeURIComponent(c.branch)}`,{headers:ghHeaders(c.token)});
-    if(!r.ok)throw new Error(`GitHub ${r.status}`);
-    const d=await r.json(),obj=JSON.parse(b64decode(d.content));entries=Array.isArray(obj.entries)?obj.entries:[];entries.sort((a,b)=>String(a.headword_latin||"").localeCompare(String(b.headword_latin||""),"sr-Latn"));selected=entries[0]?.headword_latin||null;localStorage.setItem(SHAKEY,d.sha);saveLocal();buildFilters();renderList();renderEntry();$("ghStatus").className="status ok";$("ghStatus").textContent="Baza učitana sa GitHub-a.";
-  }catch(e){$("ghStatus").className="status err";$("ghStatus").textContent=e.message}
-};
-async function pushToGitHub(statusEl=$("ghStatus")){
-  const c=getAuth();
+    const arr=parseIncoming($("jsonInput").value);
+    let a=0,u=0;
 
-  if(statusEl){
-    statusEl.className="status";
-    statusEl.textContent="Čuvanje na GitHub...";
-  }
+    arr.forEach(e=>{
+      const i=entries.findIndex(
+        x=>norm(x.headword_latin)===norm(e.headword_latin)
+      );
 
-  const getUrl=`https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}?ref=${encodeURIComponent(c.branch)}`;
+      if(i>=0){
+        entries[i]=e;
+        u++;
+      }else{
+        entries.push(e);
+        a++;
+      }
 
-  const gr=await fetch(getUrl,{
-    headers:ghHeaders(c.token)
-  });
+      selected=e.headword_latin;
+    });
 
-  if(!gr.ok){
-    throw new Error(`GitHub ${gr.status}`);
-  }
-
-  const gd=await gr.json();
-  const lastSha=localStorage.getItem(SHAKEY);
-
-  if(lastSha && gd.sha!==lastSha){
-    const overwrite=confirm(
-      "Datoteka na GitHub-u se promenila od poslednjeg čuvanja. Ipak prepisati?"
+    entries.sort((a,b)=>
+      String(a.headword_latin||"")
+        .localeCompare(String(b.headword_latin||""),"sr-Latn")
     );
 
-    if(!overwrite){
-      throw new Error("Čuvanje na GitHub je otkazano.");
+    saveLocal();
+    buildFilters();
+    renderList();
+    renderEntry();
+
+    $("addStatus").className="status ok";
+    $("addStatus").textContent=
+      `Dodato: ${a}, ažurirano: ${u}. Sačuvano lokalno.`;
+
+    try{
+      await pushToGitHub($("addStatus"));
+
+      $("addStatus").className="status ok";
+      $("addStatus").textContent=
+        `Dodato: ${a}, ažurirano: ${u}. Sačuvano lokalno i na GitHub.`;
+    }catch(err){
+      $("addStatus").className="status err";
+      $("addStatus").textContent=
+        `Sačuvano lokalno, ali nije sačuvano na GitHub: ${err.message}`;
     }
-  }
 
-  const body={
-    message:"Update Frazeoteka 2 database",
-    content:b64encode(JSON.stringify({entries},null,2)),
-    sha:gd.sha,
-    branch:c.branch
-  };
-
-  const pr=await fetch(
-    `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}`,
-    {
-      method:"PUT",
-      headers:ghHeaders(c.token),
-      body:JSON.stringify(body)
-    }
-  );
-
-  if(!pr.ok){
-    throw new Error(`GitHub ${pr.status}: ${await pr.text()}`);
-  }
-
-  const pd=await pr.json();
-  localStorage.setItem(SHAKEY,pd.content.sha);
-
-  if(statusEl){
-    statusEl.className="status ok";
-    statusEl.textContent="Sačuvano na GitHub.";
-  }
-}
-
-$("pushBtn").onclick=async()=>{
-  try{
-    await pushToGitHub($("ghStatus"));
   }catch(e){
-    $("ghStatus").className="status err";
-    $("ghStatus").textContent=e.message;
+    $("addStatus").className="status err";
+    $("addStatus").textContent=e.message;
   }
 };
-</script>
 
 <footer style="max-width:1480px;margin:0 auto 22px;padding:0 22px;color:#7b86a0;font-size:11px;text-align:right">
   Logo eagle:
