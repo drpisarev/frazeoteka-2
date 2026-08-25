@@ -388,22 +388,74 @@ $("pullBtn").onclick=async()=>{
     const d=await r.json(),obj=JSON.parse(b64decode(d.content));entries=Array.isArray(obj.entries)?obj.entries:[];entries.sort((a,b)=>String(a.headword_latin||"").localeCompare(String(b.headword_latin||""),"sr-Latn"));selected=entries[0]?.headword_latin||null;localStorage.setItem(SHAKEY,d.sha);saveLocal();buildFilters();renderList();renderEntry();$("ghStatus").className="status ok";$("ghStatus").textContent="Baza učitana sa GitHub-a.";
   }catch(e){$("ghStatus").className="status err";$("ghStatus").textContent=e.message}
 };
+async function pushToGitHub(statusEl=$("ghStatus")){
+  const c=getAuth();
+
+  if(statusEl){
+    statusEl.className="status";
+    statusEl.textContent="Čuvanje na GitHub...";
+  }
+
+  const getUrl=`https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}?ref=${encodeURIComponent(c.branch)}`;
+
+  const gr=await fetch(getUrl,{
+    headers:ghHeaders(c.token)
+  });
+
+  if(!gr.ok){
+    throw new Error(`GitHub ${gr.status}`);
+  }
+
+  const gd=await gr.json();
+  const lastSha=localStorage.getItem(SHAKEY);
+
+  if(lastSha && gd.sha!==lastSha){
+    const overwrite=confirm(
+      "Datoteka na GitHub-u se promenila od poslednjeg čuvanja. Ipak prepisati?"
+    );
+
+    if(!overwrite){
+      throw new Error("Čuvanje na GitHub je otkazano.");
+    }
+  }
+
+  const body={
+    message:"Update Frazeoteka 2 database",
+    content:b64encode(JSON.stringify({entries},null,2)),
+    sha:gd.sha,
+    branch:c.branch
+  };
+
+  const pr=await fetch(
+    `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}`,
+    {
+      method:"PUT",
+      headers:ghHeaders(c.token),
+      body:JSON.stringify(body)
+    }
+  );
+
+  if(!pr.ok){
+    throw new Error(`GitHub ${pr.status}: ${await pr.text()}`);
+  }
+
+  const pd=await pr.json();
+  localStorage.setItem(SHAKEY,pd.content.sha);
+
+  if(statusEl){
+    statusEl.className="status ok";
+    statusEl.textContent="Sačuvano na GitHub.";
+  }
+}
+
 $("pushBtn").onclick=async()=>{
   try{
-    const c=getAuth();$("ghStatus").textContent="Čuvanje...";
-    const getUrl=`https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}?ref=${encodeURIComponent(c.branch)}`;
-    const gr=await fetch(getUrl,{headers:ghHeaders(c.token)}); if(!gr.ok)throw new Error(`GitHub ${gr.status}`);
-    const gd=await gr.json(), lastSha=localStorage.getItem(SHAKEY);
-    if(lastSha&&gd.sha!==lastSha&&!confirm("Datoteka na GitHub-u se promenila. Ipak prepisati?"))return;
-    const body={message:"Update Frazeoteka 2 database",content:b64encode(JSON.stringify({entries},null,2)),sha:gd.sha,branch:c.branch};
-    const pr=await fetch(`https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}`,{method:"PUT",headers:ghHeaders(c.token),body:JSON.stringify(body)});
-    if(!pr.ok)throw new Error(`GitHub ${pr.status}: ${await pr.text()}`);
-    const pd=await pr.json();localStorage.setItem(SHAKEY,pd.content.sha);$("ghStatus").className="status ok";$("ghStatus").textContent="Sačuvano na GitHub.";
-  }catch(e){$("ghStatus").className="status err";$("ghStatus").textContent=e.message}
+    await pushToGitHub($("ghStatus"));
+  }catch(e){
+    $("ghStatus").className="status err";
+    $("ghStatus").textContent=e.message;
+  }
 };
-$("searchInput").oninput=renderList;$("typeFilter").onchange=renderList;$("registerFilter").onchange=renderList;
-$("resetBtn").onclick=$("clearFilters").onclick=()=>{$("searchInput").value="";$("typeFilter").value="";$("registerFilter").value="";alpha="SVE";buildAlphabet();renderList()};
-init();
 </script>
 
 <footer style="max-width:1480px;margin:0 auto 22px;padding:0 22px;color:#7b86a0;font-size:11px;text-align:right">
