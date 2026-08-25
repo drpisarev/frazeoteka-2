@@ -191,10 +191,11 @@ dialog::backdrop{background:rgba(7,17,40,.38)}
     </div>
 
     <div class="admin-tabs">
-      <button class="admin-tab active" data-view="addView">Dodaj JSON</button>
-      <button class="admin-tab" data-view="editView">Uredi</button>
-      <button class="admin-tab" data-view="githubView">GitHub</button>
-    </div>
+  <button class="admin-tab active" data-view="addView">Dodaj JSON</button>
+  <button class="admin-tab" data-view="editView">Uredi</button>
+  <button class="admin-tab" data-view="githubView">GitHub</button>
+  <button class="admin-tab" data-view="exportView">Eksport</button>
+</div>
 
     <section class="admin-view active" id="addView">
       <div class="field">
@@ -240,6 +241,20 @@ dialog::backdrop{background:rgba(7,17,40,.38)}
       </div>
       <div id="ghStatus" class="status"></div>
     </section>
+    <section class="admin-view" id="exportView">
+  <div class="field">
+    <label>Eksport celog rečnika</label>
+    <div style="color:#6b7692;font-size:13px">
+      JSON čuva kompletnu bazu. Markdown pravi čitljivu verziju svih članaka,
+      uključujući sve primere, izvore i napomene.
+    </div>
+  </div>
+
+  <div class="toolbar">
+    <button class="btn primary" id="exportJsonBtn">Preuzmi JSON</button>
+    <button class="btn" id="exportMdBtn">Preuzmi Markdown</button>
+  </div>
+</section>
   </div>
 </dialog>
 
@@ -832,6 +847,144 @@ $("saveEditBtn").onclick=()=>{
 
     console.error("GitHub autosave after delete:",err);
   }
+};
+  function downloadText(filename,text,mime){
+  const blob=new Blob([text],{type:mime});
+  const url=URL.createObjectURL(blob);
+
+  const a=document.createElement("a");
+  a.href=url;
+  a.download=filename;
+
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+
+function buildMarkdown(entries){
+  const out=[
+    "# Srpska Frazeoteka",
+    ""
+  ];
+
+  entries.forEach(e=>{
+    out.push(`## ${e.headword_latin||""}`,"");
+
+    if(e.definition_ru){
+      out.push(
+        `**Перевод:** ${e.definition_ru}`,
+        ""
+      );
+    }
+
+    const synonyms=
+      e.synonyms_sr ||
+      e.analogs_ru ||
+      [];
+
+    if(synonyms.length){
+      out.push(
+        `**Сербские синонимы:** ${synonyms.join(" • ")}`,
+        ""
+      );
+    }
+
+    if(e.literal_ru){
+      out.push(
+        `**Букв.:** ${e.literal_ru}`,
+        ""
+      );
+    }
+
+    if(e.register){
+      out.push(
+        `**Помета:** ${e.register}`,
+        ""
+      );
+    }
+
+    const examples=
+      Array.isArray(e.examples)
+        ? e.examples
+        : [];
+
+    if(examples.length){
+      out.push(
+        "### Примеры",
+        ""
+      );
+
+      examples.forEach(x=>{
+        if(x.serbian_latin){
+          out.push(
+            `**${x.serbian_latin}**`
+          );
+        }
+
+        if(x.russian){
+          out.push(
+            `— ${x.russian}`
+          );
+        }
+
+        if(x.source){
+          out.push(
+            `*Источник: ${x.source}.*`
+          );
+        }
+
+        out.push("");
+      });
+    }
+
+    if(e.note){
+      out.push(
+        "### Заметка",
+        "",
+        e.note,
+        ""
+      );
+    }
+
+    out.push(
+      "---",
+      ""
+    );
+  });
+
+  return out.join("\n");
+}
+
+function exportDate(){
+  return new Date()
+    .toISOString()
+    .slice(0,10);
+}
+
+$("exportJsonBtn").onclick=()=>{
+  const json=JSON.stringify(
+    {entries},
+    null,
+    2
+  );
+
+  downloadText(
+    `frazeoteka-${exportDate()}.json`,
+    json,
+    "application/json;charset=utf-8"
+  );
+};
+
+$("exportMdBtn").onclick=()=>{
+  const md=buildMarkdown(entries);
+
+  downloadText(
+    `frazeoteka-${exportDate()}.md`,
+    md,
+    "text/markdown;charset=utf-8"
+  );
 };
 init();
 </script>
