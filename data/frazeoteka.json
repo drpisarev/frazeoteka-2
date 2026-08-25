@@ -7,21 +7,25 @@
       "synonyms_sr": [
         "još ćemo se nadgornjavati",
         "još ćemo se obračunavati",
-        "još ćemo se natezati",
         "nije još gotovo"
       ],
-      "literal_ru": "ещё будем друг друга гонять; ещё будем тягаться",
+      "literal_ru": "ещё будем тягаться; ещё будем друг друга гонять",
       "register": "razg., iron.; krilatica; ćerati je dijalekatski oblik, standardno ekavski terati",
       "examples": [
         {
-          "serbian_latin": "Što bi rekao veliki zvezdaš Matija Bećković, ćeraćemo se još.",
-          "russian": "Как сказал бы большой болельщик «Звезды» Матия Бечкович, мы ещё поборемся.",
-          "source": "Danas, 2023"
+          "serbian_latin": "„Ja sam napisao svojevremeno poemu Ćeraćemo se još.“",
+          "russian": "«Когда-то я написал поэму „Ćeraćemo se još“».",
+          "source": "RTS, 2023"
         },
         {
-          "serbian_latin": "Ćeraćemo se još s tobom, Aleksandre Vučiću.",
+          "serbian_latin": "Ćeraćemo se još sa tobom, Aleksandre Vučiću.",
           "russian": "Мы с тобой ещё поборемся, Александр Вучич.",
-          "source": "Danas, 2016"
+          "source": "N1 Srbija, 2016"
+        },
+        {
+          "serbian_latin": "Partizan je bio strpljiv, ali ćeraćemo se još.",
+          "russian": "«Партизан» был терпеливее, но мы ещё поборемся.",
+          "source": "Sport Klub / N1, 2023"
         },
         {
           "serbian_latin": "Dobio si ovu rundu, ali ćeraćemo se još.",
@@ -29,7 +33,7 @@
           "source": ""
         }
       ],
-      "note": "Крылатое выражение благодаря одноимённой поэме Matije Bećkovića. Означает, что противостояние, спор или соперничество ещё не закончены и говорящий не собирается уступать. Часто употребляется иронически или как узнаваемая литературная цитата. Ćerati — диалектная форма; в стандартной сербской экавице terati, однако в крылатой формуле Ćeraćemo se još сохраняется оригинальная форма.",
+      "note": "Выражение стало крылатым благодаря одноимённой поэме Матии Бечковича Ćeraćemo se još; сам Бечкович называет эту формулу «лозинкой», а RTS характеризует героя монодрамы по его текстам как упрямого человека, готового бесконечно выяснять отношения с другими и никогда не уступать. Поэтому фраза означает больше, чем просто «продолжим»: в ней есть вызов — «ничего ещё не кончено, я не уступаю, мы ещё померяемся силами». В современной речи она легко переносится из литературы в политику и спорт и часто употребляется иронически или как узнаваемая цитата. Ćerati — не стандартная экавская форма: обычно говорят terati, но в крылатом выражении Бечковича Ćeraćemo se još исходную форму не исправляют.",
       "keyword": "ćeraćemo se još"
     },
     {
