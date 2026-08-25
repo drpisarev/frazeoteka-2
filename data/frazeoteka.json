@@ -75,6 +75,40 @@
       "keyword": "fušeraj"
     },
     {
+      "headword_latin": "I posle Tita – Tito",
+      "type": "krilatica",
+      "definition_ru": "и после Тито — Тито; Тито остаётся Тито и после смерти; Тито ушёл, но всё остаётся по-Титовски",
+      "synonyms_sr": [
+        "Mi smo Titovi i Tito je naš"
+      ],
+      "literal_ru": "и после Тито — Тито",
+      "register": "istorijska politička krilatica i parola kasne SFRJ; posle smrti Josipa Broza Tita; danas često iron. i kao produktivni obrazac I posle X – X; nema pravog sinonima",
+      "examples": [
+        {
+          "serbian_latin": "Proslave Dana mladosti nastavljene su, u skladu s tadašnjom parolom „I posle Tita – Tito”, sve do 1987.",
+          "russian": "Празднование Дня молодёжи продолжалось в соответствии с тогдашним лозунгом «И после Тито — Тито» вплоть до 1987 года.",
+          "source": "Politika, 2022"
+        },
+        {
+          "serbian_latin": "Veliki broj ljudi iz svih krajeva bivše SFRJ okupio se danas, pod parolom „I posle Tita Tito”, ispred Muzeja Jugoslavije.",
+          "russian": "Множество людей со всех концов бывшей СФРЮ собралось у Музея Югославии под лозунгом «И после Тито — Тито».",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Italija, i posle Tita, Tito.",
+          "russian": "Италия: и после Тито — всё ещё Тито.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Slogan „I posle Tita – Tito” se nije ostvario. Faktički se ostvario jedan drugi: „I posle Miloševića – Milošević”.",
+          "russian": "Лозунг «И после Тито — Тито» не осуществился. Фактически осуществился другой: «И после Милошевича — Милошевич».",
+          "source": "Nedeljnik, 2019"
+        }
+      ],
+      "note": "Формула I posle Tita – Tito была запущена после смерти Josipa Broza Tita 4 мая 1980 года и выражала официальную идею продолжения его политического курса, сохранения его символического присутствия и верности „Titovom putu“. RTV прямо отмечает, что лозунг был запущен в 1980 году, а научное исследование культа Тито описывает его как средство поиска легитимности власти в наследии умершего лидера в условиях нарастающего кризиса СФРЮ. С формулой тесно связана Štafeta mladosti: после смерти Тито традицию продолжили, и RTS указывает, что она шла под названием I posle Tita – Tito вплоть до 1987 года. Для русскоязычного важно, что фраза построена на намеренной эллиптической парадоксальности: никакого глагола нет, а смысл примерно «Тито физически нет, но Тито как политический принцип остаётся». Сегодня исходная формула часто употребляется исторически или иронически, а конструкция стала продуктивным шаблоном I posle X – X: так можно подчеркнуть, что человек, система или явление формально ушли, но их влияние фактически продолжается; пример I posle Miloševića – Milošević показывает, что современный сербский читатель узнаёт модель без дополнительных объяснений.",
+      "keyword": "i posle Tita Tito"
+    },
+    {
       "headword_latin": "Nema odmora dok traje obnova",
       "type": "krilatica",
       "definition_ru": "пока идёт восстановление, отдыхать некогда; пока дело не сделано — не до отдыха; покой нам только снится",
