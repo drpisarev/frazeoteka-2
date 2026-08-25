@@ -412,7 +412,21 @@ $("addJsonBtn").onclick=async()=>{
     $("addStatus").textContent=e.message;
   }
 };
+$("searchInput").oninput=renderList;
+$("typeFilter").onchange=renderList;
+$("registerFilter").onchange=renderList;
 
+$("resetBtn").onclick=$("clearFilters").onclick=()=>{
+  $("searchInput").value="";
+  $("typeFilter").value="";
+  $("registerFilter").value="";
+  alpha="SVE";
+  buildAlphabet();
+  renderList();
+};
+
+init();
+</script>
 <footer style="max-width:1480px;margin:0 auto 22px;padding:0 22px;color:#7b86a0;font-size:11px;text-align:right">
   Logo eagle:
   <a href="https://commons.wikimedia.org/wiki/File:Serbian_Eagle.svg"
