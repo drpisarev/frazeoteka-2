@@ -803,6 +803,36 @@ $("saveEditBtn").onclick=()=>{
 };
 
 // --- END PATCH ---
+  $("deleteBtn").onclick=async()=>{
+  const e=entries.find(x=>x.headword_latin===selected);
+
+  if(!e)return;
+
+  if(!confirm(`Obrisati „${e.headword_latin}“?`))return;
+
+  entries=entries.filter(x=>x!==e);
+  selected=entries[0]?.headword_latin||null;
+
+  saveLocal();
+  buildFilters();
+  renderList();
+  renderEntry();
+
+  try{
+    await pushToGitHub($("ghStatus"));
+
+    $("ghStatus").className="status ok";
+    $("ghStatus").textContent=
+      `„${e.headword_latin}“ je obrisano i sačuvano na GitHub.`;
+
+  }catch(err){
+    $("ghStatus").className="status err";
+    $("ghStatus").textContent=
+      `Obrisano lokalno, ali GitHub nije sačuvan: ${err.message}`;
+
+    console.error("GitHub autosave after delete:",err);
+  }
+};
 init();
 </script>
 <footer style="max-width:1480px;margin:0 auto 22px;padding:0 22px;color:#7b86a0;font-size:11px;text-align:right">
