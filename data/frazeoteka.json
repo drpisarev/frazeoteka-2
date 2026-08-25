@@ -75,6 +75,37 @@
       "keyword": "fušeraj"
     },
     {
+      "headword_latin": "Nema odmora dok traje obnova",
+      "type": "krilatica",
+      "definition_ru": "пока идёт восстановление, отдыхать некогда; пока дело не сделано — не до отдыха; покой нам только снится",
+      "synonyms_sr": [
+        "nema stajanja",
+        "nema predaha",
+        "dok posao nije gotov, nema odmora"
+      ],
+      "literal_ru": "нет отдыха, пока идёт восстановление",
+      "register": "krilatica; istorijski slogan posleratne socijalističke Jugoslavije; danas često iron. ili šalj.",
+      "examples": [
+        {
+          "serbian_latin": "Bahar se vodio nekadašnjom parolom Titovih omladinaca – „Nema odmora, dok traje obnova“.",
+          "russian": "Бахар, похоже, руководствовался старым лозунгом титовской молодёжи: «Пока идёт восстановление — не до отдыха».",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "„Dok traje obnova, nema odmora“ trajni je posleratni lajtmotiv i ove, jeretičke 1948. godine.",
+          "russian": "«Пока идёт восстановление — не до отдыха» оставалось постоянным послевоенным лейтмотивом и в этом, еретическом 1948 году.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "„Nema odmora dok traje obnova!“",
+          "russian": "«Пока идёт восстановление — отдыхать некогда!»",
+          "source": "Kurir, 2026"
+        }
+      ],
+      "note": "Это один из наиболее узнаваемых лозунгов ранней социалистической Югославии. После Второй мировой войны Nema odmora dok traje obnova! стало одной из главных мобилизационных формул восстановления страны, особенно связанных с omladinske radne akcije — молодёжными трудовыми акциями, на которых строили железные дороги, шоссе, Новый Белград, промышленные и энергетические объекты. В предисловии к собранию произведений Тито эта формула прямо названа glavna akciona parola toga vremena; RTS позднее называет её parola Titovih omladinaca. При этом надёжных оснований считать, что сам Тито придумал эту фразу, нет: правильнее говорить о послевоенном югославском лозунге, тесно связанном с титовской эпохой. Сегодня выражение давно вышло за рамки исторического контекста и употребляется шутливо о ремонте, перестройке команды, напряжённой работе или любом деле, которое нельзя бросить на полпути. Порядок частей свободно обыгрывается: Nema odmora dok traje obnova — наиболее узнаваемая форма, но Dok traje obnova, nema odmora также хорошо засвидетельствовано.",
+      "keyword": "nema odmora dok traje obnova"
+    },
+    {
       "headword_latin": "Pre roka",
       "type": "kolokacija",
       "definition_ru": "досрочно; раньше срока; до установленного срока",
