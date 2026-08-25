@@ -563,7 +563,246 @@ $("resetBtn").onclick=$("clearFilters").onclick=()=>{
   buildAlphabet();
   renderList();
 };
+// --- PATCH: multiple examples + per-example sources + safe editing ---
 
+function ensureExampleSourceField(){
+  const exRu=$("f_exru");
+  if(!exRu || $("f_exsource")) return;
+
+  const field=document.createElement("div");
+  field.className="field";
+  field.innerHTML=
+    '<label>Primer — source</label><input id="f_exsource" placeholder="N1, 2026">';
+
+  exRu.closest(".field").insertAdjacentElement("afterend",field);
+}
+
+function renderExamplesHTML(e){
+  const list=Array.isArray(e.examples)?e.examples:[];
+  if(!list.length)return "";
+
+  const label=list.length>1?"PRIMERI":"PRIMER";
+
+  const body=list.map((x,i)=>{
+    const source=x?.source || (i===0?e.source||"":"");
+
+    return `
+      <div class="example-block"
+           style="${i?"margin-top:22px;padding-top:18px;border-top:1px solid var(--line);":""}">
+        <div class="example-serbian">
+          ${esc(x?.serbian_latin||"")}
+        </div>
+
+        <div class="example-russian">
+          — ${esc(x?.russian||"")}
+        </div>
+
+        ${source?`
+          <div class="source"
+               style="margin-top:7px;color:#7b86a0">
+            Izvor: ${esc(source)}
+          </div>
+        `:""}
+      </div>`;
+  }).join("");
+
+  return `
+    <div class="section-row">
+      <div class="section-label">
+        <span class="icon-circle">“</span>
+        <span>${label}</span>
+      </div>
+      <div class="section-content">
+        ${body}
+      </div>
+    </div>`;
+}
+
+function renderEntry(){
+  const e=entries.find(x=>x.headword_latin===selected);
+
+  if(!e){
+    $("content").innerHTML=
+      '<div class="empty">Rečnik je prazan.</div>';
+    return;
+  }
+
+  $("content").innerHTML=`
+    <div class="entry-header">
+      <h1>${esc(e.headword_latin)}</h1>
+
+      <div class="tags">
+        <span class="tag type">${esc(e.type||"izraz")}</span>
+        ${regTags(e.register)}
+      </div>
+
+      <button class="bookmark">♡</button>
+    </div>
+
+    <div class="section-row">
+      <div class="section-label">
+        <span class="icon-circle">▣</span>
+        <span>ZNAČENJE</span>
+      </div>
+
+      <div class="section-content">
+        ${esc(e.definition_ru||"")}
+      </div>
+    </div>
+
+    ${((e.synonyms_sr||e.analogs_ru||[]).length)?`
+      <div class="section-row">
+        <div class="section-label">
+          <span class="icon-circle">≈</span>
+          <span>SRPSKI<br>SINONIMI</span>
+        </div>
+
+        <div class="section-content small">
+          ${(e.synonyms_sr||e.analogs_ru||[])
+            .map(esc)
+            .join(" • ")}
+        </div>
+      </div>
+    `:""}
+
+    ${e.literal_ru?`
+      <div class="section-row">
+        <div class="section-label">
+          <span class="icon-circle">↔</span>
+          <span>BUKVALNO</span>
+        </div>
+
+        <div class="section-content small">
+          ${esc(e.literal_ru)}
+        </div>
+      </div>
+    `:""}
+
+    ${e.note?`
+      <div class="section-row">
+        <div class="section-label">
+          <span class="icon-circle">i</span>
+          <span>NAPOMENA<br>O UPOTREBI</span>
+        </div>
+
+        <div class="section-content small">
+          <div class="note-box">
+            ${esc(e.note)}
+          </div>
+        </div>
+      </div>
+    `:""}
+
+    ${renderExamplesHTML(e)}
+  `;
+}
+
+function openEdit(){
+  const e=entries.find(x=>x.headword_latin===selected);
+  if(!e)return;
+
+  ensureExampleSourceField();
+
+  $("f_head").value=e.headword_latin||"";
+  $("f_type").value=e.type||"";
+  $("f_def").value=e.definition_ru||"";
+
+  $("f_analogs").value=
+    (e.synonyms_sr||e.analogs_ru||[]).join(" • ");
+
+  $("f_literal").value=e.literal_ru||"";
+  $("f_reg").value=e.register||"";
+
+  $("f_exsr").value=
+    e.examples?.[0]?.serbian_latin||"";
+
+  $("f_exru").value=
+    e.examples?.[0]?.russian||"";
+
+  $("f_exsource").value=
+    e.examples?.[0]?.source||e.source||"";
+
+  $("f_note").value=e.note||"";
+  $("f_keyword").value=e.keyword||"";
+}
+
+ensureExampleSourceField();
+
+$("saveEditBtn").onclick=()=>{
+  const old=entries.find(
+    x=>x.headword_latin===selected
+  );
+
+  if(!old)return;
+
+  const editedFirst={
+    serbian_latin:$("f_exsr").value.trim(),
+    russian:$("f_exru").value.trim(),
+    source:$("f_exsource")?.value.trim()||""
+  };
+
+  // Все примеры начиная со второго сохраняются без изменений.
+  const rest=Array.isArray(old.examples)
+    ? old.examples.slice(1)
+    : [];
+
+  const examples=
+    (
+      editedFirst.serbian_latin ||
+      editedFirst.russian ||
+      editedFirst.source
+    )
+    ? [editedFirst,...rest]
+    : rest;
+
+  const e={
+    ...old,
+
+    headword_latin:
+      $("f_head").value.trim(),
+
+    type:
+      $("f_type").value.trim(),
+
+    definition_ru:
+      $("f_def").value.trim(),
+
+    synonyms_sr:
+      $("f_analogs")
+        .value
+        .split("•")
+        .map(x=>x.trim())
+        .filter(Boolean),
+
+    literal_ru:
+      $("f_literal").value.trim(),
+
+    register:
+      $("f_reg").value.trim(),
+
+    examples,
+
+    note:
+      $("f_note").value.trim(),
+
+    keyword:
+      $("f_keyword").value.trim()
+  };
+
+  // Старое поле source больше не нужно:
+  // источник теперь находится внутри каждого examples[].
+  delete e.source;
+
+  entries[entries.indexOf(old)]=e;
+  selected=e.headword_latin;
+
+  saveLocal();
+  buildFilters();
+  renderList();
+  renderEntry();
+};
+
+// --- END PATCH ---
 init();
 </script>
 <footer style="max-width:1480px;margin:0 auto 22px;padding:0 22px;color:#7b86a0;font-size:11px;text-align:right">
