@@ -109,6 +109,43 @@
       "keyword": "i posle Tita Tito"
     },
     {
+      "headword_latin": "Jedi govna!",
+      "type": "replika",
+      "definition_ru": "иди н***й!; пошёл ты!; отвали!",
+      "synonyms_sr": [
+        "odjebi (vulg.)",
+        "marš",
+        "nosi se",
+        "teraj se"
+      ],
+      "literal_ru": "ешь говно",
+      "register": "krajnje grub., vulg.; agresivna replika za vređanje, teranje sagovornika ili nagli prekid razgovora; pojačano: jedi, bre, govna!",
+      "examples": [
+        {
+          "serbian_latin": "Nemam baš običaj da se upuštam u polemike na društvenim mrežama, ali mi došlo da uzviknem: „Jedi, bre, govna!“",
+          "russian": "Я обычно не вступаю в споры в соцсетях, но тут мне захотелось крикнуть: «Да иди ты н***й!»",
+          "source": "Nova.rs, 2021"
+        },
+        {
+          "serbian_latin": "„Jedi govna“, bilo je dopisano ispod natpisa „Zaključavati obavezno“.",
+          "russian": "Под надписью «Обязательно запирать» кто-то приписал: «Иди н***й».",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "„Ako ti nisam prva opcija, nisam ti ni ultima! Jedi govna!“",
+          "russian": "«Если я для тебя не первый вариант, то не буду и последним! Иди н***й!»",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Ma jedi govna, neću više da se raspravljam s tobom.",
+          "russian": "Да иди ты н***й, я больше не собираюсь с тобой спорить.",
+          "source": ""
+        }
+      ],
+      "note": "Jedi govna! — прежде всего не буквальное пожелание, а очень грубый способ отослать собеседника, выразить презрение или оборвать спор; по функции часто соответствует русскому «иди н***й», хотя в конкретной ситуации может быть ближе к «отвали» или «пошёл ты». В словарной традиции выражение также толкуется как «исчезни, проваливай, ты меня раздражаешь». Важно отличать императив jedi govna! от фразеологического jesti govna: Rečnik Matice srpske фиксирует у последнего значения «говорить гадости или глупости, лгать»; поэтому ne jedi govna часто значит «не неси х*рню», «не ври», а в некоторых ситуациях — «хватит в***бываться / выпендриваться». Между близкими друзьями jedi govna иногда может прозвучать шутливо и почти ритуально, но без такого контекста это сильное оскорбление. Сербское odjebi обычно ещё прямее соответствует русскому «отъ***сь / иди н***й», тогда как marš, nosi se, teraj se заметно мягче.",
+      "keyword": "jedi govna"
+    },
+    {
       "headword_latin": "Nema odmora dok traje obnova",
       "type": "krilatica",
       "definition_ru": "пока идёт восстановление, отдыхать некогда; пока дело не сделано — не до отдыха; покой нам только снится",
