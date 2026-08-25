@@ -1,6 +1,38 @@
 {
   "entries": [
     {
+      "headword_latin": "Ćeraćemo se još",
+      "type": "krilatica",
+      "definition_ru": "мы ещё поборемся; мы ещё потягаемся; это ещё не конец",
+      "synonyms_sr": [
+        "još ćemo se nadgornjavati",
+        "još ćemo se obračunavati",
+        "još ćemo se natezati",
+        "nije još gotovo"
+      ],
+      "literal_ru": "ещё будем друг друга гонять; ещё будем тягаться",
+      "register": "razg., iron.; krilatica; ćerati je dijalekatski oblik, standardno ekavski terati",
+      "examples": [
+        {
+          "serbian_latin": "Što bi rekao veliki zvezdaš Matija Bećković, ćeraćemo se još.",
+          "russian": "Как сказал бы большой болельщик «Звезды» Матия Бечкович, мы ещё поборемся.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Ćeraćemo se još s tobom, Aleksandre Vučiću.",
+          "russian": "Мы с тобой ещё поборемся, Александр Вучич.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Dobio si ovu rundu, ali ćeraćemo se još.",
+          "russian": "Этот раунд ты выиграл, но мы ещё потягаемся.",
+          "source": ""
+        }
+      ],
+      "note": "Крылатое выражение благодаря одноимённой поэме Matije Bećkovića. Означает, что противостояние, спор или соперничество ещё не закончены и говорящий не собирается уступать. Часто употребляется иронически или как узнаваемая литературная цитата. Ćerati — диалектная форма; в стандартной сербской экавице terati, однако в крылатой формуле Ćeraćemo se još сохраняется оригинальная форма.",
+      "keyword": "ćeraćemo se još"
+    },
+    {
       "headword_latin": "Fušeraj",
       "type": "imenica",
       "definition_ru": "халтура; некачественно сделанная работа; кустарщина",
