@@ -1,6 +1,32 @@
 {
   "entries": [
     {
+      "headword_latin": "Biti pravi Pera Ždera",
+      "type": "izraz",
+      "definition_ru": "быть настоящим обжорой; быть Робином-Бобином Барабеком; уплетать всё подряд",
+      "synonyms_sr": [
+        "biti proždrljivac",
+        "biti izelica",
+        "biti žderonja (razg.)"
+      ],
+      "literal_ru": "быть настоящим Перой Ждерой",
+      "register": "razg., šalj.; kulturna aluzija",
+      "examples": [
+        {
+          "serbian_latin": "Izgleda da je opravdano što su neki ovog pešaka nazvali – „Pera Ždera!“",
+          "russian": "Похоже, не зря эту пешку прозвали «Перой Ждерой»: она всё съедает.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Pravi si Pera Ždera — ostavi nešto i za nas!",
+          "russian": "Ну ты и Робин-Бобин Барабек — оставь что-нибудь и нам!",
+          "source": ""
+        }
+      ],
+      "note": "Pera Ždera — сербское имя Wimpy, персонажа мира Попая, знаменитого любовью к еде; персонаж хорошо узнаваем в Сербии. Имя вышло за пределы мультфильма и стало шуточным обозначением обжоры; Vukajlija прямо фиксирует значение „sinonim za proždrljivca“. Русский «Робин-Бобин Барабек» — хороший культурный аналог, но не перевод имени.",
+      "keyword": "Pera Ždera"
+    },
+    {
       "headword_latin": "Ćeraćemo se još",
       "type": "krilatica",
       "definition_ru": "мы ещё поборемся; мы ещё потягаемся; это ещё не конец",
@@ -35,6 +61,70 @@
       ],
       "note": "Выражение стало крылатым благодаря одноимённой поэме Матии Бечковича Ćeraćemo se još; сам Бечкович называет эту формулу «лозинкой», а RTS характеризует героя монодрамы по его текстам как упрямого человека, готового бесконечно выяснять отношения с другими и никогда не уступать. Поэтому фраза означает больше, чем просто «продолжим»: в ней есть вызов — «ничего ещё не кончено, я не уступаю, мы ещё померяемся силами». В современной речи она легко переносится из литературы в политику и спорт и часто употребляется иронически или как узнаваемая цитата. Ćerati — не стандартная экавская форма: обычно говорят terati, но в крылатом выражении Бечковича Ćeraćemo se još исходную форму не исправляют.",
       "keyword": "ćeraćemo se još"
+    },
+    {
+      "headword_latin": "Fali mu daska u glavi",
+      "type": "frazeologizam",
+      "definition_ru": "у него не все дома; у него винтика не хватает; он слегка не в себе",
+      "synonyms_sr": [
+        "nije sav svoj",
+        "nije mu sve na mestu",
+        "prolupao je (razg.)",
+        "šašav je"
+      ],
+      "literal_ru": "у него в голове не хватает доски",
+      "register": "razg., šalj. ili neodobr.; često i: fali mu / joj neka daska u glavi",
+      "examples": [
+        {
+          "serbian_latin": "Fali mu daska u glavi. Jel morao da pretiče?",
+          "russian": "У него, похоже, не все дома. Обязательно было идти на обгон?",
+          "source": "Reddit/r/serbia, 2026"
+        },
+        {
+          "serbian_latin": "Devedeset pet posto šanse da joj fali neka daska u glavi i da nije sva svoja.",
+          "russian": "С вероятностью девяносто пять процентов у неё не все дома и она явно не в себе.",
+          "source": "Reddit/AskSerbia, 2026"
+        },
+        {
+          "serbian_latin": "Fali mu daska u glavi. Dakle, oni traže klikere, a mi daske.",
+          "russian": "У него доски в голове не хватает. То есть англичане теряют шарики, а мы — доски.",
+          "source": "Reddit/AskSerbia, 2024"
+        }
+      ],
+      "note": "Сербский образ особенно полезен для запоминания: странному человеку как будто не хватает доски в конструкции головы. По функции почти идеально соответствует русским «винтика не хватает» и «не все дома». На форуме при обсуждении английского lose one’s marbles сербский пользователь даже шутливо сформулировал культурное различие: «они ищут шарики, а мы доски». В живой речи часто встречается смягчённое fali mu neka daska u glavi.",
+      "keyword": "fali mu daska u glavi"
+    },
+    {
+      "headword_latin": "Farbati nekoga",
+      "type": "sleng",
+      "definition_ru": "обманывать кого-то; морочить голову; вешать лапшу на уши",
+      "synonyms_sr": [
+        "lagati nekoga",
+        "mazati nekome oči",
+        "obmanjivati nekoga",
+        "prodavati nekome maglu"
+      ],
+      "literal_ru": "красить кого-то",
+      "register": "razg., sleng; farbati nekoga + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Mali, nemoj mene da farbaš!",
+          "russian": "Парень, не вешай мне лапшу на уши!",
+          "source": "Teatron, 2008"
+        },
+        {
+          "serbian_latin": "Nemoj ti mene da farbaš, znam šta se stvarno dogodilo.",
+          "russian": "Не морочь мне голову, я знаю, что на самом деле произошло.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Koga ti farbaš tom pričom?",
+          "russian": "Кого ты пытаешься обмануть этой историей?",
+          "source": ""
+        }
+      ],
+      "note": "Переносное farbati nekoga не имеет отношения к окрашиванию: это разговорное «обрабатывать», вводить в заблуждение, рассказывать неправду так, чтобы человек поверил. Особенно естественна реплика Nemoj ti mene da farbaš — «меня-то не обманывай / мне лапшу на уши не вешай». Литературно-драматическая фиксация показывает, что это не новый интернет-сленг, а давно живущее разговорное употребление.",
+      "keyword": "farbati nekoga"
     },
     {
       "headword_latin": "Fušeraj",
@@ -109,6 +199,68 @@
       "keyword": "i posle Tita Tito"
     },
     {
+      "headword_latin": "Ima nas raznih",
+      "type": "izraz",
+      "definition_ru": "всякие люди бывают; люди разные; каких только людей нет",
+      "synonyms_sr": [
+        "ima nas svakakvih",
+        "ima svakakvih ljudi",
+        "sto ljudi, sto ćudi"
+      ],
+      "literal_ru": "",
+      "register": "razg.; često kao pomirljiv, iron. ili blago neodobr. komentar na tuđe ponašanje",
+      "examples": [
+        {
+          "serbian_latin": "Ima nas raznih, očigledno.",
+          "russian": "Люди, как видно, бывают разные.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Ima nas raznih, što bi se reklo. Ljudi imaju različite navike.",
+          "russian": "Всякие люди бывают, как говорится. У людей разные привычки.",
+          "source": "GARAŽA forum, 2026"
+        },
+        {
+          "serbian_latin": "Šta ćeš, ima nas raznih.",
+          "russian": "Что поделать, всякие люди бывают.",
+          "source": ""
+        }
+      ],
+      "note": "Ima nas raznih обычно не является нейтральной декларацией «все люди разные». Чаще это реакция на конкретное странное, неожиданное или непонятное поведение: примерно русское «ну, всякие люди бывают». В публицистике выражение может вводить перечисление разных типов людей, а в разговоре часто содержит лёгкую иронию или смирение с чужими особенностями.",
+      "keyword": "ima nas raznih"
+    },
+    {
+      "headword_latin": "Izigravati žrtvu",
+      "type": "kolokacija",
+      "definition_ru": "изображать из себя жертву; строить из себя пострадавшего; разыгрывать роль жертвы",
+      "synonyms_sr": [
+        "glumiti žrtvu",
+        "praviti se žrtvom",
+        "predstavljati sebe kao žrtvu"
+      ],
+      "literal_ru": "разыгрывать жертву",
+      "register": "razg. i publicist.; obično neodobr., sa pretpostavkom neiskrenosti",
+      "examples": [
+        {
+          "serbian_latin": "Ne izigrava Vučić žrtvu prvi put.",
+          "russian": "Вучич не впервые изображает из себя жертву.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Vučić ovim opet izigrava žrtvu.",
+          "russian": "Вучич и здесь снова разыгрывает жертву.",
+          "source": "Reddit/r/serbia, 2025"
+        },
+        {
+          "serbian_latin": "Nemoj da izigravaš žrtvu — i ti si odgovoran za ono što se desilo.",
+          "russian": "Не строй из себя жертву — ты тоже отвечаешь за случившееся.",
+          "source": ""
+        }
+      ],
+      "note": "Izigravati здесь значит «разыгрывать, изображать определённую роль», причём обычно с отрицательной оценкой: говорящий считает эту роль не вполне искренней. Поэтому izigravati žrtvu сильнее нейтрального biti žrtva. Та же модель встречается в izigravati heroja, stručnjaka, klovna.",
+      "keyword": "izigravati žrtvu"
+    },
+    {
       "headword_latin": "Jedi govna!",
       "type": "replika",
       "definition_ru": "иди н***й!; пошёл ты!; отвали!",
@@ -144,6 +296,101 @@
       ],
       "note": "Jedi govna! — прежде всего не буквальное пожелание, а очень грубый способ отослать собеседника, выразить презрение или оборвать спор; по функции часто соответствует русскому «иди н***й», хотя в конкретной ситуации может быть ближе к «отвали» или «пошёл ты». В словарной традиции выражение также толкуется как «исчезни, проваливай, ты меня раздражаешь». Важно отличать императив jedi govna! от фразеологического jesti govna: Rečnik Matice srpske фиксирует у последнего значения «говорить гадости или глупости, лгать»; поэтому ne jedi govna часто значит «не неси х*рню», «не ври», а в некоторых ситуациях — «хватит в***бываться / выпендриваться». Между близкими друзьями jedi govna иногда может прозвучать шутливо и почти ритуально, но без такого контекста это сильное оскорбление. Сербское odjebi обычно ещё прямее соответствует русскому «отъ***сь / иди н***й», тогда как marš, nosi se, teraj se заметно мягче.",
       "keyword": "jedi govna"
+    },
+    {
+      "headword_latin": "Na ravnoj nozi",
+      "type": "frazeologizam",
+      "definition_ru": "на равных; на равной ноге; как равный с равным",
+      "synonyms_sr": [
+        "ravnopravno",
+        "kao jednak sa jednakim",
+        "pod jednakim uslovima"
+      ],
+      "literal_ru": "на ровной ноге",
+      "register": "neutralno; tipično: biti, razgovarati, pregovarati s nekim na ravnoj nozi",
+      "examples": [
+        {
+          "serbian_latin": "Ljudi međusobno nisu „na ravnoj nozi“, nemaju ista prava i mogućnosti.",
+          "russian": "Люди находятся не на равных, у них неодинаковые права и возможности.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Razgovarali smo o svemu na ravnoj nozi.",
+          "russian": "Мы обо всём разговаривали на равных.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Hoću da sa mnom razgovaraš na ravnoj nozi, a ne s visine.",
+          "russian": "Я хочу, чтобы ты разговаривал со мной на равных, а не свысока.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение описывает именно равноправное положение сторон, а не просто одинаковый уровень мастерства. Поэтому особенно естественно говорить о переговорах, отношениях, правах и общении. Русское «на равной ноге» структурно близко, хотя современное «на равных» обычно звучит естественнее.",
+      "keyword": "na ravnoj nozi"
+    },
+    {
+      "headword_latin": "Neće ti faliti ni dlaka s glave",
+      "type": "frazeologizam",
+      "definition_ru": "с тебя волос не упадёт; тебя никто не тронет; с тобой ничего не случится",
+      "synonyms_sr": [
+        "neće ti niko nauditi",
+        "niko te neće dirati",
+        "bićeš bezbedan",
+        "ništa ti se neće desiti"
+      ],
+      "literal_ru": "у тебя не будет недоставать даже волоска с головы",
+      "register": "razg.; obećanje ili uveravanje u potpunu bezbednost",
+      "examples": [
+        {
+          "serbian_latin": "Nikome dlaka s glave neće faliti ako imaju želju da obiđu glavni grad Kosova.",
+          "russian": "Ни с кого волос не упадёт, если они захотят посетить столицу Косова.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Dođi u Srbiju, prošetaj malo, obiđi sve lepote i neće ti dlaka sa glave faliti.",
+          "russian": "Приезжай в Сербию, погуляй, посмотри страну — тебя никто не тронет.",
+          "source": "Krstarica forum, 2025"
+        },
+        {
+          "serbian_latin": "Ne smeju ti ništa dok sam ja uz tebe. Neće ti faliti ni dlaka s glave.",
+          "russian": "Они тебя не тронут, пока я рядом. С тебя волос не упадёт.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение означает гарантию безопасности вообще: опасность может исходить от третьих лиц, а говорящий лишь обещает, что ничего плохого не случится. Лингвистические исследования прямо приводят Neće ti faliti ni dlaka s glave как сербский эквивалент английского not harm a hair of somebody’s head. В живой речи встречаются варианты neće ti faliti dlaka s glave, neće ti ni dlaka s glave pasti.",
+      "keyword": "neće ti faliti ni dlaka s glave"
+    },
+    {
+      "headword_latin": "Nema mu ravna",
+      "type": "frazeologizam",
+      "definition_ru": "ему нет равных; ему нет равного; он вне конкуренции",
+      "synonyms_sr": [
+        "nema mu premca",
+        "nema mu jednakog",
+        "bez premca je",
+        "neprevaziđen je"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, najčešće pohvalno; mu / joj / im je dativ",
+      "examples": [
+        {
+          "serbian_latin": "Kao moler – nema mu ravna.",
+          "russian": "Как маляру ему нет равных.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Kao lekar, nema mu ravna.",
+          "russian": "Как врачу ему нет равных.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad sprema roštilj, nema mu ravna.",
+          "russian": "Когда дело касается гриля, ему нет равных.",
+          "source": ""
+        }
+      ],
+      "note": "Конструкция буквально устроена как «ему нет равного», поэтому местоимение стоит в дательном: nema mu ravna, nema joj ravne. Выражение обычно является сильной похвалой и может уточняться сферой: kao lekar, kao majstor, u tom poslu. Близкое nema mu premca звучит несколько книжнее и торжественнее.",
+      "keyword": "nema mu ravna"
     },
     {
       "headword_latin": "Nema odmora dok traje obnova",
@@ -248,6 +495,127 @@
       ],
       "note": "Pre roka нейтрально означает, что действие завершено раньше установленного, договорённого или запланированного срока. Особенно характерны završiti radove pre roka, izgraditi pre roka, vratiti dug pre roka и конструкция с мерой времени: dva dana / tri meseca / šest meseci pre roka — «на два дня / три месяца / шесть месяцев раньше срока». Не следует полностью отождествлять с prevremeno и pre vremena: они могут означать «преждевременно, слишком рано» и нередко подразумевают, что действие произошло раньше, чем следовало, тогда как pre roka обычно нейтрально или даже положительно — работа выполнена быстрее плана. Для сербского культурного контекста особенно важна ассоциация с Milutinom Mrkonjićem (Mrka). После бомбардировок 1999 года он руководил восстановлением разрушенных объектов и настолько прочно связал публичный образ со сдачей объектов pre roka, что уже в 2004 году Blic называл его инженером, известным по прозвищу „pre roka”. Politika позднее прямо писала о знаменитом „pre roka” socijaliste Milutina Mrkonjića, а выражение превратилось в материал для газетной игры слов: когда в 2013 году он покинул правительство, статья получила финальную формулу „Mrka je otišao pre roka!”. Danas отмечал, что благодаря объектам, мостам и участкам дорог, завершённым pre roka, Mrkonjić вошёл даже в народные присказки. Поэтому для многих сербов среднего и старшего поколения pre roka может вызвать дополнительную ироническую ассоциацию Mrka pre roka, хотя само выражение остаётся совершенно обычной и политически нейтральной коллокацией.",
       "keyword": "pre roka"
+    },
+    {
+      "headword_latin": "Sve je nekome ravno (do Kosova)",
+      "type": "frazeologizam",
+      "definition_ru": "кому-то всё равно; всё безразлично; совершенно наплевать",
+      "synonyms_sr": [
+        "svejedno mu je",
+        "sve mu je isto",
+        "nije ga briga",
+        "baš ga briga (razg.)"
+      ],
+      "literal_ru": "ему всё ровно до Косова",
+      "register": "razg.; do Kosova je ustaljeno slikovito pojačanje",
+      "examples": [
+        {
+          "serbian_latin": "Tijanić je ostavljao utisak robustnog, odbojnog čoveka kome je sve ravno do Kosova.",
+          "russian": "Тиянич производил впечатление жёсткого человека, которому всё глубоко безразлично.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Ne znači da je nama ovde sve ravno do Kosova.",
+          "russian": "Это не значит, что нам здесь на всё совершенно наплевать.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Uradi kako ti je drago — meni je sve ravno do Kosova.",
+          "russian": "Делай как хочешь — мне совершенно всё равно.",
+          "source": ""
+        }
+      ],
+      "note": "Основное sve mi je ravno уже означает «мне всё равно», а do Kosova усиливает значение и делает фразу более образной и разговорной. Это устойчивая модель, а не случайное упоминание Косова; топоним в обычном употреблении не означает, что речь идёт о политике или территории. Для русскоязычного естественные аналоги — «мне совершенно всё равно», «мне до лампочки», в более грубом контексте — «мне пофиг».",
+      "keyword": "sve ravno do Kosova"
+    },
+    {
+      "headword_latin": "Šta fali?",
+      "type": "replika",
+      "definition_ru": "а что не так?; а что плохого?; чего не хватает?",
+      "synonyms_sr": [
+        "šta nije u redu?",
+        "šta je loše u tome?",
+        "šta mu/joj nedostaje?"
+      ],
+      "literal_ru": "чего не хватает?",
+      "register": "vrlo često u razgovoru; značenje zavisi od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Da, šta joj fali?",
+          "russian": "Да, а что с ней не так?",
+          "source": "Reddit/AskSerbia, 2025"
+        },
+        {
+          "serbian_latin": "Pa šta joj fali ako tako izgleda?",
+          "russian": "Ну а что в ней плохого, если она так выглядит?",
+          "source": "Reddit/serbiancringe, 2023"
+        },
+        {
+          "serbian_latin": "Ana: Nemoj piti tu vodu! — Pera: Što? Šta joj fali?",
+          "russian": "Ана: Не пей эту воду! — Пера: Почему? А что с ней не так?",
+          "source": ""
+        }
+      ],
+      "note": "Ловушка для русского — буквальное значение faliti «не хватать». Šta joj fali? действительно может означать «чего ей не хватает?», но чрезвычайно часто это реплика «а что с ней не так? / а чем она плоха?». То же с Šta mu fali?, Šta tome fali?. Контекст важнее буквальной грамматики.",
+      "keyword": "šta fali"
+    },
+    {
+      "headword_latin": "Tante za kukuriku",
+      "type": "izraz",
+      "definition_ru": "неравноценный обмен; непонятно что в обмен на непонятно что; ерунда вместо равноценной отдачи",
+      "synonyms_sr": [
+        "loša trampa",
+        "nejednaka razmena",
+        "trange-frange (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "razg., iron., šalj.; često se suprotstavlja izrazu tante za tante",
+      "examples": [
+        {
+          "serbian_latin": "Ne može da bude tante za kukuriku, kako se to u našem narodu kaže, nego mora tante za tante.",
+          "russian": "Нельзя, чтобы обмен был неравноценным; должно быть баш на баш.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Nema tante za kukuriku.",
+          "russian": "Никакого «непонятно что в обмен на непонятно что»; обмен должен быть нормальным.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "To je tante za kukuriku: ja dajem nešto vredno, a šta dobijam zauzvrat?",
+          "russian": "Это какой-то неравноценный обмен: я отдаю ценное, а что получаю взамен?",
+          "source": ""
+        }
+      ],
+      "note": "Ваш первоначальный перевод «ты мне — я тебе, око за око» к этой форме не подходит: это скорее tante za tante. Значение tante za kukuriku особенно ясно видно из современного противопоставления: ne može tante za kukuriku, mora tante za tante — нельзя менять несопоставимые вещи, нужна равноценность. В публицистике выражение часто приобретает иронический смысл «сомнительная сделка», «идеологический trange-frange».",
+      "keyword": "tante za kukuriku"
+    },
+    {
+      "headword_latin": "Tante za tante",
+      "type": "izraz",
+      "definition_ru": "баш на баш; ты мне — я тебе; равноценный обмен; той же монетой",
+      "synonyms_sr": [
+        "milo za drago",
+        "istom merom",
+        "usluga za uslugu",
+        "jednako za jednako"
+      ],
+      "literal_ru": "",
+      "register": "razg.; o ravnopravnoj uzajamnosti, razmeni ili odgovoru istom merom",
+      "examples": [
+        {
+          "serbian_latin": "Ne može da bude tante za kukuriku, nego mora tante za tante.",
+          "russian": "Нельзя менять неизвестно что на неизвестно что — должно быть баш на баш.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Ti meni uslugu, ja tebi uslugu — tante za tante.",
+          "russian": "Ты мне услугу, я тебе услугу — баш на баш.",
+          "source": ""
+        }
+      ],
+      "note": "Tante za tante подчёркивает равноценность: услуга за услугу, уступка за уступку, ответ той же мерой. Поэтому русское «око за око» возможно только в конфликтном контексте; само выражение не обязательно означает месть. В современной политической публицистике формула узнаваема именно как противоположность tante za kukuriku.",
+      "keyword": "tante za tante"
     }
   ]
 }
