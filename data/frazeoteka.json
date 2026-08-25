@@ -27,6 +27,66 @@
       "keyword": "Pera Ždera"
     },
     {
+      "headword_latin": "Bolje ikad nego nikad",
+      "type": "poslovica",
+      "definition_ru": "лучше поздно, чем никогда; лучше сделать хоть когда-нибудь, чем не сделать вообще",
+      "synonyms_sr": [
+        "nikad nije kasno",
+        "bolje kasno nego nikako"
+      ],
+      "literal_ru": "лучше когда-нибудь, чем никогда",
+      "register": "poslovica; neutralno, često uz blagu samoironiju zbog zakašnjenja",
+      "examples": [
+        {
+          "serbian_latin": "Trebalo nam je 20 godina, ali bolje ikad nego nikad.",
+          "russian": "Нам понадобилось двадцать лет, но лучше поздно, чем никогда.",
+          "source": "RTS, 2009"
+        },
+        {
+          "serbian_latin": "Objavljena je sa zakašnjenjem — a bolje ikad nego nikad — publikacija o 80 godina rada Narodnog pozorišta Užice.",
+          "russian": "Издание вышло с опозданием, но лучше поздно, чем никогда.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Nije ni to loše, rekli bi neki, bolje ikad nego nikad.",
+          "russian": "И это неплохо, сказали бы некоторые: лучше поздно, чем никогда.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Сербское ikad буквально означает «когда-либо, когда-нибудь», поэтому буквальная конструкция — «лучше хоть когда-нибудь, чем никогда». По функции это точный эквивалент русского «лучше поздно, чем никогда», хотя слово kasno «поздно» в самой сербской пословице отсутствует. Формула широко употребляется от бытовой речи до политических комментариев и газетных заголовков.",
+      "keyword": "bolje ikad nego nikad"
+    },
+    {
+      "headword_latin": "Bolje vrabac u ruci nego golub na grani",
+      "type": "poslovica",
+      "definition_ru": "лучше синица в руках, чем журавль в небе; лучше небольшое, но верное, чем большое, но сомнительное",
+      "synonyms_sr": [
+        "bolje išta nego ništa",
+        "bolje sigurno malo nego nesigurno mnogo"
+      ],
+      "literal_ru": "лучше воробей в руке, чем голубь на ветке",
+      "register": "poslovica; o izboru sigurnog rezultata umesto rizične veće dobiti",
+      "examples": [
+        {
+          "serbian_latin": "„Bolje vrabac u ruci, nego golub na grani“, glasi naša dobro znana izreka.",
+          "russian": "«Лучше синица в руках, чем журавль в небе» — наша хорошо известная пословица.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Bolji bi nam bio vrabac u ruci nego golub na grani.",
+          "russian": "Нам лучше было бы выбрать синицу в руках, чем журавля в небе.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Pitanje je da li treba da se odlučite za zagarantovanu „pobedu“ — „bolje vrabac u ruci“ — ili da rizikujete.",
+          "russian": "Вопрос в том, выбрать ли гарантированный результат — «синицу в руках» — или рискнуть.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Русский эквивалент практически идеален, меняются только птицы: сербский vrabac — golub, русский синица — журавль. Пословица не обязательно проповедует трусость или отсутствие амбиций: её основной смысл — не рисковать реальной ценностью ради неопределённой большей выгоды. Современные сербские обсуждения активно спорят с этой народной мудростью, считая её иногда рецептом чрезмерной осторожности; это хороший признак того, что пословица остаётся живой.",
+      "keyword": "bolje vrabac u ruci nego golub na grani"
+    },
+    {
       "headword_latin": "Ćeraćemo se još",
       "type": "krilatica",
       "definition_ru": "мы ещё поборемся; мы ещё потягаемся; это ещё не конец",
@@ -61,6 +121,36 @@
       ],
       "note": "Выражение стало крылатым благодаря одноимённой поэме Матии Бечковича Ćeraćemo se još; сам Бечкович называет эту формулу «лозинкой», а RTS характеризует героя монодрамы по его текстам как упрямого человека, готового бесконечно выяснять отношения с другими и никогда не уступать. Поэтому фраза означает больше, чем просто «продолжим»: в ней есть вызов — «ничего ещё не кончено, я не уступаю, мы ещё померяемся силами». В современной речи она легко переносится из литературы в политику и спорт и часто употребляется иронически или как узнаваемая цитата. Ćerati — не стандартная экавская форма: обычно говорят terati, но в крылатом выражении Бечковича Ćeraćemo se još исходную форму не исправляют.",
       "keyword": "ćeraćemo se još"
+    },
+    {
+      "headword_latin": "Dok jednom ne smrkne, drugom ne svane",
+      "type": "poslovica",
+      "definition_ru": "одному беда — другому удача; одному убыток — другому прибыль; несчастье одного может стать выгодой другого",
+      "synonyms_sr": [
+        "nečija nesreća je drugome sreća",
+        "nečiji gubitak je drugome dobitak"
+      ],
+      "literal_ru": "пока одному не стемнеет, другому не рассветёт",
+      "register": "poslovica; često realistično ili cinično o tome da nečiji gubitak stvara korist ili priliku drugome",
+      "examples": [
+        {
+          "serbian_latin": "Vole neki apotekari onu narodnu: „Dok se jednom ne smrkne, drugom ne svane“.",
+          "russian": "Некоторые аптекари любят народную мудрость: «Одному не стемнеет — другому не рассветёт».",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Dok jednom ne smrkne, drugom ne svane.",
+          "russian": "Одному беда — другому удача.",
+          "source": "Reddit/AskSerbia, 2025"
+        },
+        {
+          "serbian_latin": "Firma je propala, a konkurencija je odmah preuzela njene klijente — dok jednom ne smrkne, drugom ne svane.",
+          "russian": "Компания разорилась, а конкуренты тут же забрали её клиентов: одному беда — другому удача.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «что русскому хорошо, то немцу смерть» означает различие реакции людей на одно и то же, поэтому это не эквивалент. Сербская пословица говорит о другом: несчастье, потеря или исчезновение одного создаёт шанс другому. В определённых контекстах русское «кому война, а кому мать родна» может передавать эту мысль, но оно намного более жёсткое и обычно подразумевает наживу на чужой беде. Нейтральнее переводить «одному беда — другому удача».",
+      "keyword": "dok jednom ne smrkne drugom ne svane"
     },
     {
       "headword_latin": "Fali mu daska u glavi",
@@ -298,6 +388,96 @@
       "keyword": "jedi govna"
     },
     {
+      "headword_latin": "Ko nema u glavi, ima u nogama",
+      "type": "poslovica",
+      "definition_ru": "дурная голова ногам покоя не даёт; забыл подумать — придётся побегать",
+      "synonyms_sr": [
+        "ko ne misli na vreme, posle trči",
+        "ko zaboravlja, mora da se vraća"
+      ],
+      "literal_ru": "у кого нет в голове, у того есть в ногах",
+      "register": "poslovica, razg.; naročito o zaboravnosti, lošem planiranju i dodatnom hodanju ili radu zbog toga",
+      "examples": [
+        {
+          "serbian_latin": "Ko nema u glavi, ima u nogama.",
+          "russian": "Дурная голова ногам покоя не даёт.",
+          "source": "narodna zbirka poslovica"
+        },
+        {
+          "serbian_latin": "Moj ti je odgovor: ko nema u glavi, ima u nogama... sad trči za njim kad nisi mislila na vreme.",
+          "russian": "Мой ответ: дурная голова ногам покоя не даёт — теперь бегай за ним, раз вовремя не подумала.",
+          "source": "Ana.rs, 2012"
+        },
+        {
+          "serbian_latin": "Opet sam zaboravio ključeve u stanu. Ko nema u glavi, ima u nogama.",
+          "russian": "Опять оставил ключи в квартире. Дурная голова ногам покоя не даёт.",
+          "source": ""
+        }
+      ],
+      "note": "Это почти идеальный сербский эквивалент русской пословицы. Но важно не расширять смысл до общего «глупый человек вынужден много работать». В традиционном пояснении речь прежде всего о забывчивости: Zaboravi radi čega je otišao pa mora još jedanput ići — человек забыл, зачем ходил, и должен идти снова. Пословица настолько узнаваема, что породила интернет-переделки вроде Ko nema u vuglu, ima u Guglu.",
+      "keyword": "ko nema u glavi ima u nogama"
+    },
+    {
+      "headword_latin": "Mi o vuku, a vuk na vrata",
+      "type": "izreka",
+      "definition_ru": "лёгок на помине; вспомнишь о чёрте — а он тут как тут",
+      "synonyms_sr": [
+        "baš smo o njemu pričali",
+        "pomenusmo ga i evo ga"
+      ],
+      "literal_ru": "мы о волке, а волк — в дверь",
+      "register": "razg.; kaže se kada se osoba pojavi upravo dok se o njoj govori",
+      "examples": [
+        {
+          "serbian_latin": "Mi o Vuku, a vukovi na vrata...",
+          "russian": "Мы о Вуке — а «волки» уже у дверей...",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Mi o vuku, Drašković na vrata.",
+          "russian": "Только заговорили о Вуке — и Драшкович тут как тут.",
+          "source": "Reddit/r/serbia, 2022"
+        },
+        {
+          "serbian_latin": "Baš smo pričali o Marku — mi o vuku, a vuk na vrata!",
+          "russian": "Только что говорили о Марко — лёгок на помине!",
+          "source": ""
+        }
+      ],
+      "note": "Для русского лучший естественный эквивалент — «лёгок на помине», а не обязательно более экспрессивное «помяни чёрта». Сербское выражение настолько узнаваемо, что легко переделывается: RTS играет с именем Vuk и множественным vukovi, а в интернете встречается Mi o vuku, Drašković na vrata. Формула сопоставима с латинским lupus in fabula «волк в рассказе», но утверждать прямое происхождение сербского выражения именно от латинского без специального исторического исследования не стоит.",
+      "keyword": "mi o vuku a vuk na vrata"
+    },
+    {
+      "headword_latin": "Mnogo babica, dete kilavo",
+      "type": "poslovica",
+      "definition_ru": "у семи нянек дитя без глазу; слишком много руководителей или советчиков портят дело",
+      "synonyms_sr": [
+        "gde je mnogo gazda, posao trpi",
+        "previše ljudi kvari posao"
+      ],
+      "literal_ru": "много повитух — ребёнок хилый",
+      "register": "poslovica; o situaciji kada se previše ljudi meša, savetuje ili rukovodi istim poslom",
+      "examples": [
+        {
+          "serbian_latin": "Najbolji opis toga je narodna izreka „Mnogo babica, dete kilavo!“",
+          "russian": "Лучше всего это описывает пословица «У семи нянек дитя без глазу».",
+          "source": "Nacionalni konvent o EU, 2011/2012"
+        },
+        {
+          "serbian_latin": "Znaš kako se kaže — „mnogo babica, dete kilavo“.",
+          "russian": "Знаешь, как говорят: у семи нянек дитя без глазу.",
+          "source": "Krstarica forum, 2006"
+        },
+        {
+          "serbian_latin": "Kad pet ljudi uređuje isti tekst bez glavnog urednika, obično bude: mnogo babica, dete kilavo.",
+          "russian": "Когда пять человек правят один текст без главного редактора, получается как у семи нянек дитя без глазу.",
+          "source": ""
+        }
+      ],
+      "note": "Babica здесь исторически следует понимать прежде всего как повитуху, а не как «бабушку»: много людей принимают одни роды, но ребёнок в результате kilav — слабый, хилый, больной. Словарная фиксация прямо объясняет пословицу как ситуацию, когда в деле участвует слишком много людей, чтобы результат мог получиться хорошим. В живой речи встречаются варианты puno babica, kilavo dete и sto babica, kilavo dete; числительное не является главным, важна идея «слишком много вмешивающихся».",
+      "keyword": "mnogo babica dete kilavo"
+    },
+    {
       "headword_latin": "Na ravnoj nozi",
       "type": "frazeologizam",
       "definition_ru": "на равных; на равной ноге; как равный с равным",
@@ -424,6 +604,38 @@
       "keyword": "nema odmora dok traje obnova"
     },
     {
+      "headword_latin": "Nit’ riba, nit’ devojka",
+      "type": "frazeologizam",
+      "definition_ru": "ни рыба ни мясо; ни то ни сё; непонятно что",
+      "synonyms_sr": [
+        "ni riba ni meso",
+        "ni tamo ni ovamo",
+        "ni ovo ni ono",
+        "nit’ smrdi, nit’ miriše"
+      ],
+      "literal_ru": "ни рыба, ни девушка",
+      "register": "razg., iron.; o nečemu neodređenom, hibridnom ili bez jasnog karaktera",
+      "examples": [
+        {
+          "serbian_latin": "Nit je riba, nit devojka. Ali nešto jamačno jeste.",
+          "russian": "Ни рыба ни мясо. Но чем-то оно всё-таки является.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "U ovom sadašnjem statusu „ni riba ni devojka“ niko se ne oseća posebno prijatno.",
+          "russian": "В нынешнем состоянии «ни рыба ни мясо» никому особенно неуютно.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Problem je u tome što knjiga nije ni roman ni esej — nit’ je riba, nit’ devojka.",
+          "russian": "Проблема в том, что книга не то роман, не то эссе — ни рыба ни мясо.",
+          "source": "Vreme, 2007"
+        }
+      ],
+      "note": "Это яркий сербский вариант международной модели «ни то ни другое». Образ прозрачно напоминает sirena — существо, которое одновременно девушка и рыба, но историческое происхождение именно из образа русалки надёжно не установлено. В современной сербской публицистике выражение вполне живое и применяется к государственному устройству, политике, книгам, спектаклям, деловым форматам и всему гибридному или неопределённому. Русское «ни рыба ни мясо» — практически идеальный функциональный эквивалент.",
+      "keyword": "nit riba nit devojka"
+    },
+    {
       "headword_latin": "Pokrij se ušima",
       "type": "frazeologizam",
       "definition_ru": "постыдись; сиди тихо после такого; подожми хвост и помалкивай",
@@ -495,6 +707,38 @@
       ],
       "note": "Pre roka нейтрально означает, что действие завершено раньше установленного, договорённого или запланированного срока. Особенно характерны završiti radove pre roka, izgraditi pre roka, vratiti dug pre roka и конструкция с мерой времени: dva dana / tri meseca / šest meseci pre roka — «на два дня / три месяца / шесть месяцев раньше срока». Не следует полностью отождествлять с prevremeno и pre vremena: они могут означать «преждевременно, слишком рано» и нередко подразумевают, что действие произошло раньше, чем следовало, тогда как pre roka обычно нейтрально или даже положительно — работа выполнена быстрее плана. Для сербского культурного контекста особенно важна ассоциация с Milutinom Mrkonjićem (Mrka). После бомбардировок 1999 года он руководил восстановлением разрушенных объектов и настолько прочно связал публичный образ со сдачей объектов pre roka, что уже в 2004 году Blic называл его инженером, известным по прозвищу „pre roka”. Politika позднее прямо писала о знаменитом „pre roka” socijaliste Milutina Mrkonjića, а выражение превратилось в материал для газетной игры слов: когда в 2013 году он покинул правительство, статья получила финальную формулу „Mrka je otišao pre roka!”. Danas отмечал, что благодаря объектам, мостам и участкам дорог, завершённым pre roka, Mrkonjić вошёл даже в народные присказки. Поэтому для многих сербов среднего и старшего поколения pre roka может вызвать дополнительную ироническую ассоциацию Mrka pre roka, хотя само выражение остаётся совершенно обычной и политически нейтральной коллокацией.",
       "keyword": "pre roka"
+    },
+    {
+      "headword_latin": "Siromašan kao crkveni miš",
+      "type": "frazeologizam",
+      "definition_ru": "беден как церковная мышь; ни гроша за душой; совершенно нищий",
+      "synonyms_sr": [
+        "siromašan kao pas",
+        "bez prebijene pare",
+        "go i bos",
+        "nema pas za šta da ga ujede (razg.)"
+      ],
+      "literal_ru": "бедный как церковная мышь",
+      "register": "razg., ekspresivno poređenje; o krajnjem materijalnom siromaštvu",
+      "examples": [
+        {
+          "serbian_latin": "U politiku se ulazi siromašan kao crkveni miš, a iz nje izlazi bogat kao Bil Gejts.",
+          "russian": "В политику входят бедными как церковная мышь, а выходят богатыми как Билл Гейтс.",
+          "source": "InfoVranjske, 2009"
+        },
+        {
+          "serbian_latin": "E, a ja da imam 150 kila i da sam siromašan ko crkveni miš.",
+          "russian": "А я, оказывается, вешу 150 килограммов и беден как церковная мышь.",
+          "source": "Krstarica forum, 2005"
+        },
+        {
+          "serbian_latin": "Posle razvoda ostao je siromašan kao crkveni miš.",
+          "russian": "После развода он остался беден как церковная мышь.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь русский и сербский фразеологизмы совпадают почти буквально. Выражение интернационально и существует во многих европейских языках. Популярное народное объяснение очень простое: u crkvi miševi nemaju šta da jedu — в церкви мыши не находят запасов еды, как в амбаре или доме. Однако точное историческое происхождение надёжно не установлено: фразеологические исследования связывают образ как с представлением о материальной скромности церкви, так и с более широким европейским фольклором.",
+      "keyword": "siromašan kao crkveni miš"
     },
     {
       "headword_latin": "Sve je nekome ravno (do Kosova)",
@@ -616,6 +860,99 @@
       ],
       "note": "Tante za tante подчёркивает равноценность: услуга за услугу, уступка за уступку, ответ той же мерой. Поэтому русское «око за око» возможно только в конфликтном контексте; само выражение не обязательно означает месть. В современной политической публицистике формула узнаваема именно как противоположность tante za kukuriku.",
       "keyword": "tante za tante"
+    },
+    {
+      "headword_latin": "Tiha voda breg roni",
+      "type": "poslovica",
+      "definition_ru": "вода камень точит; терпение и настойчивость своё возьмут; тихая вода берега подмывает",
+      "synonyms_sr": [
+        "upornost se isplati",
+        "strpljenjem se postiže cilj",
+        "kap po kap i kamen se izdubi"
+      ],
+      "literal_ru": "тихая вода размывает берег",
+      "register": "poslovica; obično pozitivno o mirnoj, dugotrajnoj i upornoj aktivnosti",
+      "examples": [
+        {
+          "serbian_latin": "Vodim se i onim što je moja majka rekla: „Tiha voda breg roni“.",
+          "russian": "Я руководствуюсь и тем, что говорила моя мать: «Вода камень точит».",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Samo „Tiha voda breg roni“… Sve dođe na red, jedino je potrebno biti strpljiv.",
+          "russian": "Только «вода камень точит»… Всему приходит время, нужно лишь терпение.",
+          "source": "Politika, 2011"
+        },
+        {
+          "serbian_latin": "Ona ne odustaje, samo polako radi svoje — tiha voda breg roni.",
+          "russian": "Она не сдаётся и спокойно делает своё: вода камень точит.",
+          "source": ""
+        }
+      ],
+      "note": "Разница с русским «в тихом омуте черти водятся» принципиальна. Русская фраза предупреждает, что за внешней тихостью могут скрываться неожиданные или опасные черты. Сербское Tiha voda breg roni обычно хвалит неброскую, но постоянную силу, терпение и упорство. В исследованиях его используют как метафору стратегии постепенного достижения изменений. Поэтому лучший русский эквивалент — «вода камень точит».",
+      "keyword": "tiha voda breg roni"
+    },
+    {
+      "headword_latin": "Tresla se gora, rodio se miš",
+      "type": "poslovica",
+      "definition_ru": "гора родила мышь; много шума из ничего; замах был большой, результат ничтожный",
+      "synonyms_sr": [
+        "mnogo buke ni oko čega",
+        "velika najava, mali rezultat",
+        "od velikih obećanja ništa"
+      ],
+      "literal_ru": "гора тряслась — родилась мышь",
+      "register": "poslovica; iron., neodobr.; o velikim očekivanjima, obećanjima ili buci i nesrazmerno malom rezultatu",
+      "examples": [
+        {
+          "serbian_latin": "„Tresla se gora, rodio se miš“, navodi Čović.",
+          "russian": "«Гора родила мышь», — говорит Чович о мере, от которой ожидали гораздо большего.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "No tresla se gora, rodio se miš. Sada se može reći da je bilo odveć buke ni oko čega.",
+          "russian": "Но гора родила мышь. Теперь уже можно сказать: шума было много, а толку почти никакого.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Mesecima su najavljivali veliku reformu, a na kraju — tresla se gora, rodio se miš.",
+          "russian": "Несколько месяцев обещали грандиозную реформу, а в итоге — гора родила мышь.",
+          "source": ""
+        }
+      ],
+      "note": "Сербское выражение практически идеально совпадает с русским «гора родила мышь», но в сербской публицистике употребляется чрезвычайно свободно и часто как готовый итоговый комментарий: Tresla se gora, rodio se miš. Это не обязательно означает полный провал: результат может просто оказаться несоразмерно мал по сравнению с шумом, ожиданиями и обещаниями. Выражение обычно называют narodna umotvorina или narodna poslovica; частые политические переделки показывают его высокую узнаваемость.",
+      "keyword": "tresla se gora rodio se miš"
+    },
+    {
+      "headword_latin": "Vuk dlaku menja, ali ćud nikada",
+      "type": "poslovica",
+      "definition_ru": "человек может изменить внешность или поведение, но не свой истинный нрав; горбатого могила исправит",
+      "synonyms_sr": [
+        "ćud se teško menja",
+        "čovek ostaje ono što jeste",
+        "stara narav ostaje"
+      ],
+      "literal_ru": "волк меняет шерсть, но нрав — никогда",
+      "register": "poslovica; obično neodobr. o nepromenljivosti karaktera ili suštine čoveka",
+      "examples": [
+        {
+          "serbian_latin": "Izgleda da se tu nije mnogo promenilo... vuk dlaku menja, ali ćud nikada.",
+          "russian": "Похоже, мало что изменилось: волк шерсть меняет, а нрав — никогда.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Gojkovićeva je rekla da „vuk dlaku menja, ali ćud nikada“.",
+          "russian": "Гойкович сказала: «Волк шерсть меняет, а нрав — никогда».",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Na čuvenu poslovicu „vuk dlaku menja...“, Amvrosije odgovara: „ljubav dlaku menja, ali ćud nikada“.",
+          "russian": "На знаменитую пословицу «волк шерсть меняет...» Амвросий отвечает собственной переделкой.",
+          "source": "Politika, 2009"
+        }
+      ],
+      "note": "Русское «сколько волка ни корми, он всё в лес смотрит» говорит прежде всего о том, что человека тянет к своей среде, привычному образу жизни или истинным привязанностям. Сербская пословица — о неизменности характера: можно сменить одежду, политическую позицию или внешние манеры, но ćud остаётся прежней. Она зафиксирована среди старых сербских пословиц и широко употребляется в современной публицистике. В интернете её постоянно пародируют и переставляют компоненты, что также говорит о высокой узнаваемости.",
+      "keyword": "vuk dlaku menja ali ćud nikada"
     }
   ]
 }
