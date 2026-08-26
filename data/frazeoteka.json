@@ -69,6 +69,43 @@
       "keyword": "bacati drvlje i kamenje"
     },
     {
+      "headword_latin": "Bacati / baciti koplje u trnje",
+      "type": "frazeologizam",
+      "definition_ru": "сдаться; отказаться от борьбы; опустить руки; прекратить попытки",
+      "synonyms_sr": [
+        "odustati",
+        "predati se",
+        "dići ruke",
+        "položiti oružje (preneseno)"
+      ],
+      "literal_ru": "бросить копьё в колючки",
+      "register": "razg. do publicistički, ekspresivno; svršeni vid baciti, nesvršeni bacati; o odustajanju od borbe, takmičenja, posla ili drugog poduhvata",
+      "examples": [
+        {
+          "serbian_latin": "Crvena zvezda je spremna za borbu i da rivala natera da baci koplje u trnje!",
+          "russian": "«Црвена звезда» готова бороться и заставить соперника сдаться.",
+          "source": "Politika, 2018"
+        },
+        {
+          "serbian_latin": "Bajazit je bio taj koji je posle bitke bacio koplje u trnje, podvio repić i vratio se tamo odakle je došao.",
+          "russian": "Именно Баязид после битвы отказался от дальнейшей борьбы, поджал хвост и вернулся туда, откуда пришёл.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Posle prvog neuspeha ne treba odmah baciti koplje u trnje.",
+          "russian": "После первой неудачи не стоит сразу опускать руки.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne bacam koplje u trnje posle jedne izgubljene bitke.",
+          "russian": "Я не сдаюсь после одного проигранного сражения.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение означает не просто «перестать что-то делать», а отказаться от дальнейшей борьбы или попыток, признать поражение. В словарях оно непосредственно определяется как odustati od borbe. Поэтому особенно естественно в контексте соревнования, политической борьбы или трудного предприятия. Baciti koplje u trnje — разовое решение «сдаться», а bacati koplje u trnje — повторяющееся или продолжающееся действие: On nikad ne baca koplje u trnje. Русские соответствия зависят от ситуации: «сдаться», «опустить руки», «выбросить белый флаг».",
+      "keyword": "baciti koplje u trnje"
+    },
+    {
       "headword_latin": "Bacati / baciti nekoga u očaj",
       "type": "frazeologizam",
       "definition_ru": "доводить / довести кого-то до отчаяния; повергать / повергнуть в отчаяние",
