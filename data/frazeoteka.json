@@ -100,6 +100,38 @@
       "keyword": "baciti u očaj"
     },
     {
+      "headword_latin": "Bacati nekome mrvice / mrvice sa stola",
+      "type": "frazeologizam",
+      "definition_ru": "бросать кому-то крохи; давать лишь ничтожную часть; подачками делиться с тем, кому достаётся гораздо меньше положенного",
+      "synonyms_sr": [
+        "davati nekome sitniš",
+        "davati samo mali deo",
+        "davati ostatke",
+        "udeljivati malo"
+      ],
+      "literal_ru": "бросать кому-то крошки со стола",
+      "register": "razg. do publicistički, neodobr.; naročito o novcu, pravima, pomoći, privilegijama i mogućnostima; tipično bacati nekome mrvice, bacati mrvice sa svog stola",
+      "examples": [
+        {
+          "serbian_latin": "Bacaju mrvice siromašnima.",
+          "russian": "Бедным бросают лишь крохи.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Tajkuni su prirasli za srca čak i onima kojima bacaju mrvice sa svoje raskošne trpeze.",
+          "russian": "Тайкуны умудряются быть дороги даже тем, кому они бросают крохи со своего богатого стола.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Radnicima daju minimalac, a onda im pred izbore bacaju mrvice.",
+          "russian": "Рабочим платят минималку, а перед выборами бросают им подачки.",
+          "source": ""
+        }
+      ],
+      "note": "Образ строится на неравенстве: один сидит за богатым столом и распоряжается всем, другому достаются лишь mrvice — остатки. Поэтому это не просто «дать мало», а часто унизительно дать ничтожную долю при явном неравенстве ресурсов или власти. Очень характерны политический и социальный контексты: mrvice sa stola vlasti, bogatih, poslodavaca. Danas использует образ именно для малой доли благ, оставленной тем, кто находится в зависимом положении.",
+      "keyword": "bacati mrvice"
+    },
+    {
       "headword_latin": "Baciti ljagu na nekoga / nešto",
       "type": "frazeologizam",
       "definition_ru": "опорочить; запятнать репутацию; бросить тень на кого-то / что-то",
@@ -701,6 +733,38 @@
       ],
       "note": "Русское «день Х» функционально подходит, но происхождение и образ различаются. Dan D идёт от английского D-Day, военного обозначения дня начала операции; отсюда также D+1, D+2. В современной сербской речи это просто «решающий день».",
       "keyword": "dan D"
+    },
+    {
+      "headword_latin": "Dobijati / dobiti mrvice",
+      "type": "frazeologizam",
+      "definition_ru": "получать крохи; довольствоваться малой долей; получать лишь остатки от того, что досталось другим",
+      "synonyms_sr": [
+        "dobijati vrlo malo",
+        "dobijati ostatke",
+        "dobijati samo mali deo",
+        "ostajati na mrvicama"
+      ],
+      "literal_ru": "получать крошки",
+      "register": "razg. do publicistički; o novcu, mogućnostima, vremenu u igri, resursima, pravima i sličnom",
+      "examples": [
+        {
+          "serbian_latin": "Bio je mlad i nestrpljiv, želeo je odmah sve, i na kraju je dobio samo mrvice.",
+          "russian": "Он был молод и нетерпелив, хотел получить всё сразу, а в итоге ему достались лишь крохи.",
+          "source": "Sport Klub, 2017"
+        },
+        {
+          "serbian_latin": "Da bi dobio minute moraće da promeni sredinu, jer bi u suprotnom i dalje samo čekao da dobije mrvice u Evroligi i ABA ligi.",
+          "russian": "Чтобы получать игровое время, ему придётся сменить клуб, иначе в Евролиге и ABA-лиге ему по-прежнему будут доставаться лишь крохи.",
+          "source": "Sport Klub, 2026"
+        },
+        {
+          "serbian_latin": "Kad poraste nacionalni kolač, neko dobije šlag, neko mrvice, neko krupan komad.",
+          "russian": "Когда общий пирог растёт, кому-то достаются сливки, кому-то крохи, а кому-то большой кусок.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Dobiti mrvice обычно предполагает сравнение с кем-то, кому досталось значительно больше. Поэтому русский «получить мало» слабее образа; часто лучше «получить крохи», «довольствоваться крохами». В спортивной речи dobiti mrvice может означать совсем немного игрового времени, в экономической — ничтожную долю денег, в политической — небольшие уступки или привилегии. Заголовок Danas Trinkijeriju „mrvice“ od Partizana построен на том же образе: требовалась большая сумма, а присуждена лишь малая её часть.",
+      "keyword": "dobiti mrvice"
     },
     {
       "headword_latin": "Doći će cica na kolica",
@@ -3372,6 +3436,38 @@
       ],
       "note": "В сербском языке товаров и инструкций преобладают sklopiva kolica, sklopiti kolica, sklapanje kolica. На сербских сайтах встречается и preklopiti, особенно когда конструкция буквально складывается пополам, но для обычной детской коляски sklopiti — самый безопасный выбор. Сербское kolica — существительное только во множественном числе: ova kolica, sklopiti kolica.",
       "keyword": "sklopiti kolica"
+    },
+    {
+      "headword_latin": "Skupljati / pokupiti mrvice",
+      "type": "frazeologizam",
+      "definition_ru": "собирать крохи; довольствоваться тем, что осталось после других; подбирать остатки возможностей или выгод",
+      "synonyms_sr": [
+        "zadovoljavati se ostacima",
+        "uzimati ono što preostane",
+        "zadovoljavati se malim",
+        "dobijati ostatke"
+      ],
+      "literal_ru": "собирать / подобрать крошки",
+      "register": "razg. do publicistički; skupljati označava trajno ili ponavljano stanje, pokupiti ono što je preostalo u konkretnoj situaciji",
+      "examples": [
+        {
+          "serbian_latin": "Dok živimo u medijskom mraku, gde rob skuplja mrvice sa stola...",
+          "russian": "Пока мы живём в медийной тьме, где раб собирает крохи с чужого стола...",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Srpski seljak skuplja mrvice.",
+          "russian": "Сербскому крестьянину остаётся собирать крохи.",
+          "source": "Zrenjaninski, 2026"
+        },
+        {
+          "serbian_latin": "Dok veliki klubovi dele najveći deo novca, mali pokušavaju da pokupe mrvice.",
+          "russian": "Пока большие клубы делят основную часть денег, маленькие пытаются подобрать оставшиеся крохи.",
+          "source": ""
+        }
+      ],
+      "note": "Skupljati mrvice особенно хорошо передаёт положение человека или группы, которые не участвуют в настоящем разделе ресурсов, а довольствуются остатками. Оно сильнее обычного dobijati malo, поскольку подчёркивает зависимое, второстепенное положение. Pokupiti mrvice обычно относится к конкретному результату: основные выгоды уже разобрали другие, а кто-то pokupi mrvice. ",
+      "keyword": "skupljati mrvice"
     },
     {
       "headword_latin": "Soliti pamet",
