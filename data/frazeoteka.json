@@ -1,6 +1,37 @@
 {
   "entries": [
     {
+      "headword_latin": "Bacati / baciti nekoga u očaj",
+      "type": "frazeologizam",
+      "definition_ru": "доводить / довести кого-то до отчаяния; повергать / повергнуть в отчаяние",
+      "synonyms_sr": [
+        "dovesti nekoga do očajanja",
+        "izazvati beznađe kod nekoga",
+        "potpuno obeshrabriti nekoga"
+      ],
+      "literal_ru": "бросить кого-то в отчаяние",
+      "register": "neutralno do ekspresivno; baciti + akuzativ + u očaj; svršeni vid baciti, nesvršeni bacati",
+      "examples": [
+        {
+          "serbian_latin": "Saznanje da su u Srbiji iscrpljene sve metode lečenja Kristinine bolesti bacilo je porodicu u očaj.",
+          "russian": "Известие о том, что в Сербии исчерпаны все возможности лечения болезни Кристины, повергло семью в отчаяние.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Novi planovi za granice bacaju Palestince u očaj.",
+          "russian": "Новые планы относительно границ приводят палестинцев в отчаяние.",
+          "source": "BBC na srpskom / Danas, 2020"
+        },
+        {
+          "serbian_latin": "Neizvesnost i stalni problemi bacali su ga u očaj.",
+          "russian": "Неопределённость и постоянные проблемы доводили его до отчаяния.",
+          "source": ""
+        }
+      ],
+      "note": "Значение сильнее, чем просто «сильно расстроить». Očaj — состояние утраты надежды, поэтому наиболее точный русский эквивалент — «довести до отчаяния». Подлежащим обычно выступает событие, известие, ситуация или чьи-то действия: Vest ga je bacila u očaj. Problemi su je bacali u očaj. Полезно противопоставлять переходную конструкцию nešto baca nekoga u očaj и непереходную neko pada u očaj.",
+      "keyword": "baciti u očaj"
+    },
+    {
       "headword_latin": "Baciti ljagu na nekoga / nešto",
       "type": "frazeologizam",
       "definition_ru": "опорочить; запятнать репутацию; бросить тень на кого-то / что-то",
@@ -2355,6 +2386,43 @@
       ],
       "note": "Это формула народной морали: то, что получено грабежом, насилием или несправедливостью, в конечном счёте не принесёт добра тому, кто это присвоил. Изречение настолько узнаваемо, что используется как самостоятельный политический лозунг и как основа афоризмов; Danas, например, приводит переделку Oteto, prokleto slatko! Русское «что упало, то пропало» означает совсем другое — что потерянное уже не вернуть.",
       "keyword": "oteto prokleto"
+    },
+    {
+      "headword_latin": "Padati / pasti u očaj",
+      "type": "frazeologizam",
+      "definition_ru": "впадать / впасть в отчаяние; отчаиваться",
+      "synonyms_sr": [
+        "očajavati",
+        "izgubiti nadu",
+        "klonuti duhom",
+        "prepustiti se očaju"
+      ],
+      "literal_ru": "падать / упасть в отчаяние",
+      "register": "neutralno do ekspresivno; svršeni vid pasti, nesvršeni padati",
+      "examples": [
+        {
+          "serbian_latin": "Budući veliki župan nije u zatočeništvu pao u očaj, već se za pomoć obratio Svetom Đorđu.",
+          "russian": "Будущий великий жупан в заточении не впал в отчаяние, а обратился за помощью к святому Георгию.",
+          "source": "Politika, 2011"
+        },
+        {
+          "serbian_latin": "Ukoliko ne dobije ono što traži, histrionična osoba može i pasti u očaj.",
+          "russian": "Если такой человек не получает желаемого, он может впасть в отчаяние.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Nemoj odmah da padaš u očaj — još ništa nije izgubljeno.",
+          "russian": "Не впадай сразу в отчаяние — ещё ничего не потеряно.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad je čuo rezultate, prvo je pao u očaj, ali se brzo pribrao.",
+          "russian": "Услышав результаты, он сначала впал в отчаяние, но быстро взял себя в руки.",
+          "source": ""
+        }
+      ],
+      "note": "Pasti u očaj сильнее, чем postati potišten «приуныть» или biti deprimiran «быть подавленным»: речь идёт именно о состоянии, когда человек почти или полностью теряет надежду. Несовершенное padati u očaj может описывать повторяющуюся реакцию или постепенное состояние: Pri svakom neuspehu pada u očaj. Очень частая утешительная реплика — Ne padaj u očaj! — «Не отчаивайся!»",
+      "keyword": "pasti u očaj"
     },
     {
       "headword_latin": "Parati uši",
