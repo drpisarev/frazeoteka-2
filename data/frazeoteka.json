@@ -3656,6 +3656,43 @@
       "keyword": "sprati ljagu"
     },
     {
+      "headword_latin": "Staviti / baciti nekome bubu u uho",
+      "type": "frazeologizam",
+      "definition_ru": "заронить кому-то мысль; подкинуть идею; заставить задуматься; посеять сомнение",
+      "synonyms_sr": [
+        "navesti nekoga na razmišljanje",
+        "dati nekome ideju",
+        "zaintrigirati nekoga",
+        "probuditi sumnju"
+      ],
+      "literal_ru": "посадить / бросить кому-то жучка в ухо",
+      "register": "razg.; tipično staviti / baciti nekome bubu u uho; staviti je neutralniji osnovni oblik, baciti je takođe razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Drug mi je stavio bubu u uho kad je rekao da bih mogao da promenim posao.",
+          "russian": "Друг заронил мне мысль о смене работы.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nisam ni razmišljala o selidbi, ali si mi sada stavio bubu u uho.",
+          "russian": "Я вообще не думала о переезде, но теперь ты подкинул мне эту мысль.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Trener mu je bacio bubu u uho da bi mogao da nastavi karijeru u inostranstvu.",
+          "russian": "Тренер подкинул ему мысль, что он мог бы продолжить карьеру за границей.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj da mi stavljaš bubu u uho — sad ću ceo dan razmišljati o tome.",
+          "russian": "Не зароняй мне эту мысль — теперь я весь день буду об этом думать.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение не обязательно связано с сомнением или чем-то неприятным. Staviti nekome bubu u uho значит внедрить мысль, идею или подозрение, которое затем начинает занимать человека. Поэтому в одном контексте это «подкинуть идею» (Možda bi mogao da se preseliš...), а в другом — «посеять сомнение» (A jesi li siguran da ti govori istinu?). Полезно также самостоятельное imam bubu u uhu — мысль или подозрение засели в голове и не дают покоя. Baciti bubu u uho передаёт тот же образ, но для активного словаря лучше прежде всего запомнить staviti nekome bubu u uho.",
+      "keyword": "buba u uhu"
+    },
+    {
       "headword_latin": "Sto ljudi, sto ćudi",
       "type": "poslovica",
       "definition_ru": "сколько людей, столько характеров; сколько людей, столько мнений; у каждого свои причуды",
