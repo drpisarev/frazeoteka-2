@@ -497,6 +497,38 @@
       "keyword": "pritisnut uza zid"
     },
     {
+      "headword_latin": "Biti sateran / pritisnut uza zid",
+      "type": "frazeologizam",
+      "definition_ru": "быть загнанным в угол; оказаться в безвыходном положении; быть прижатым к стенке",
+      "synonyms_sr": [
+        "biti priteran uza zid",
+        "biti sateran u ćošak",
+        "biti bez izlaza",
+        "nemati kud"
+      ],
+      "literal_ru": "быть загнанным / прижатым к стене",
+      "register": "razg. do publicistički; često saterati nekoga uza zid, biti sateran uza zid",
+      "examples": [
+        {
+          "serbian_latin": "Partizan je sateran uza zid i otpisan od strane svih u borbi za titulu.",
+          "russian": "«Партизан» загнан в угол, и все уже списали его со счетов в борьбе за титул.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ukoliko pri tome nastaje utisak da je Kijev sateran uza zid, tamošnja vlada bi morala da razmisli šta je uradila pogrešno.",
+          "russian": "Если при этом создаётся впечатление, что Киев загнан в угол, его правительству стоит задуматься, что оно сделало неправильно.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Srpski narod je pritisnut uza zid.",
+          "russian": "Сербский народ прижат к стенке.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Для сербского словаря основными формами являются biti sateran uza zid и biti pritisnut uza zid. Образ почти совпадает с русским «прижать к стенке / загнать в угол»: человек лишён пространства для манёвра и вынужден действовать в крайне неблагоприятных условиях. Sateran uza zid обычно сильнее подчёркивает безвыходность, pritisnut uza zid — давление обстоятельств или другой стороны. В современной сербской прессе особенно частотно sateran uza zid.",
+      "keyword": "sateran uza zid"
+    },
+    {
       "headword_latin": "Biti svakoj vreći zakrpa",
       "type": "frazeologizam",
       "definition_ru": "быть в каждой бочке затычкой; всюду примазываться; лезть во все дела",
@@ -682,34 +714,34 @@
     {
       "headword_latin": "Boriti se rukama i nogama",
       "type": "frazeologizam",
-      "definition_ru": "бороться изо всех сил; всеми силами добиваться чего-то; руками и ногами отбиваться / сопротивляться",
+      "definition_ru": "бороться изо всех сил; всеми силами добиваться чего-то; отчаянно сопротивляться",
       "synonyms_sr": [
         "boriti se svim silama",
-        "svim snagama se boriti",
         "grčevito se boriti",
-        "zapeti iz sve snage"
+        "uporno se boriti",
+        "dati sve od sebe"
       ],
       "literal_ru": "бороться руками и ногами",
-      "register": "razg., ekspresivno; može označavati i snažno nastojanje da se nešto postigne i snažno protivljenje nečemu",
+      "register": "razg., ekspresivno; boriti se rukama i nogama za nešto / protiv nečega",
       "examples": [
         {
-          "serbian_latin": "Đukanović se „rukama i nogama“ borio da ti amandmani ne budu usvojeni.",
-          "russian": "Джуканович всеми силами боролся за то, чтобы эти поправки не были приняты.",
-          "source": "Danas, 2022"
+          "serbian_latin": "Naprednjačka vlast se bori i rukama i nogama da pobedi u dva različita mesta.",
+          "russian": "Власть борется изо всех сил, чтобы победить в двух разных местах.",
+          "source": "Vreme, 2025"
         },
         {
-          "serbian_latin": "Borili smo se rukama i nogama da sačuvamo firmu.",
-          "russian": "Мы изо всех сил боролись за то, чтобы сохранить фирму.",
-          "source": ""
+          "serbian_latin": "Svako se bori za svoje, rukama i nogama.",
+          "russian": "Каждый изо всех сил борется за своё.",
+          "source": "Džejms Džojs, Uliks, srpski prevod"
         },
         {
-          "serbian_latin": "On se rukama i nogama brani od svake promene.",
-          "russian": "Он всеми силами отбивается от любых перемен.",
+          "serbian_latin": "Borio se rukama i nogama da zadrži taj posao.",
+          "russian": "Он всеми силами боролся за то, чтобы сохранить эту работу.",
           "source": ""
         }
       ],
-      "note": "Выражение не обязательно подразумевает буквальную драку. Rukama i nogama усиливает глагол и значит примерно «всеми доступными средствами, изо всех сил». Поэтому возможно не только boriti se rukama i nogama, но и opirati se rukama i nogama, braniti se rukama i nogama. Для русского особенно естественны «руками и ногами отбиваться» при сопротивлении и «бороться всеми силами» при достижении цели.",
-      "keyword": "rukama i nogama"
+      "note": "Выражение подчёркивает максимальное усилие и упорство, а не способ физической борьбы. Возможна и близкая конструкция braniti nešto rukama i nogama — «защищать всеми силами». В живой речи порядок слов свободен: bori se rukama i nogama, rukama i nogama se bori.",
+      "keyword": "boriti se rukama i nogama"
     },
     {
       "headword_latin": "Brz kao vetar",
@@ -745,64 +777,64 @@
     {
       "headword_latin": "Crn kao noć",
       "type": "frazeologizam",
-      "definition_ru": "чёрный как ночь; совершенно чёрный; очень тёмный",
+      "definition_ru": "чёрный как ночь; иссиня-чёрный; совершенно чёрный",
       "synonyms_sr": [
         "crn kao ugalj",
-        "potpuno crn",
-        "taman kao noć"
+        "crn kao katran",
+        "potpuno crn"
       ],
       "literal_ru": "чёрный как ночь",
-      "register": "poredbeni frazeologizam; o boji kose, očiju, predmeta, životinja, mraku; moguće i preneseno",
+      "register": "ustaljeno poređenje; pre svega o boji kose, očiju, predmeta ili veoma mračnom prostoru",
       "examples": [
         {
-          "serbian_latin": "Ekran ostane mrtav, crn kao noć i ne reaguje.",
-          "russian": "Экран остаётся мёртвым, чёрным как ночь, и ни на что не реагирует.",
+          "serbian_latin": "Glavni unutrašnji ekran ostane mrtav, crn kao noć i ne reaguje.",
+          "russian": "Основной экран остаётся мёртвым, чёрным как ночь, и ни на что не реагирует.",
           "source": "Benchmark forum Srbija, 2007"
         },
         {
-          "serbian_latin": "Moj je život crn kao noć!",
-          "russian": "Моя жизнь черна как ночь!",
-          "source": "Kurir, 2023"
+          "serbian_latin": "U srpskom jeziku poređenje crn kao noć najčešće se vezuje za izrazito crnu boju.",
+          "russian": "В сербском языке сравнение «чёрный как ночь» прежде всего обозначает чрезвычайно насыщенный чёрный цвет.",
+          "source": "Univerzitet u Novom Sadu, 2025"
         },
         {
-          "serbian_latin": "Imao je kosu crnu kao noć.",
-          "russian": "У него были волосы чёрные как ночь.",
+          "serbian_latin": "Imala je dugu kosu, crnu kao noć.",
+          "russian": "У неё были длинные волосы, чёрные как ночь.",
           "source": ""
         }
       ],
-      "note": "Сочетание подтверждается и исследованиями именно сербской цветовой фразеологии: noć и mrak входят в число наиболее типичных эталонов чёрного цвета; фиксируется и модель crn kao noć. Обычно выражение просто усиливает степень черноты, но при словах вроде život, budućnost, raspoloženje может переходить к образу мрачности и безысходности.",
+      "note": "Это прозрачное устойчивое сравнение, и русский эквивалент практически полный. Сербские исследования цветообозначений подтверждают noć как один из типичных эталонов максимальной черноты наряду с ugljem, mrakom, katranom. Выражение обычно описывает реальный цвет, поэтому не всякое употребление следует считать полноценной идиомой.",
       "keyword": "crn kao noć"
     },
     {
       "headword_latin": "Crven od besa",
-      "type": "frazeologizam",
-      "definition_ru": "красный от ярости; багровый от злости; вне себя от гнева",
+      "type": "kolokacija",
+      "definition_ru": "красный от ярости; побагровевший от злости; раскрасневшийся от гнева",
       "synonyms_sr": [
         "pocrveneti od besa",
-        "besneti",
+        "kipeti od besa",
         "biti van sebe od besa",
-        "pocrveneti kao rak"
+        "besneti"
       ],
-      "literal_ru": "красный от ярости",
-      "register": "ekspresivno; takođe pocrveneti od besa",
+      "literal_ru": "",
+      "register": "emotivna kolokacija; često biti crven od besa, pocrveneti od besa",
       "examples": [
         {
-          "serbian_latin": "Milošević je to pročitao, pocrveneo od besa i onda ga gađao tim papirima.",
-          "russian": "Милошевич прочитал это, побагровел от ярости и затем швырнул в него этими бумагами.",
-          "source": "RTS, 2018"
+          "serbian_latin": "Zapad crven od besa zbog crvenog tepiha.",
+          "russian": "Запад багровеет от ярости из-за красной дорожки.",
+          "source": "Večernje novosti, cit. Beta, 2024"
         },
         {
-          "serbian_latin": "Ataman crven od besa!",
-          "russian": "Атаман вне себя от ярости!",
-          "source": "Večernje novosti, 2026"
+          "serbian_latin": "Crven kipti od besa.",
+          "russian": "Красный от ярости, он буквально кипит от злости.",
+          "source": "Nova.rs, 2023"
         },
         {
-          "serbian_latin": "Kad je čuo šta se dogodilo, bio je crven od besa.",
-          "russian": "Когда он услышал, что произошло, он весь покраснел от ярости.",
+          "serbian_latin": "Bio je crven od besa i jedva se suzdržavao da ne vikne.",
+          "russian": "Он побагровел от ярости и едва сдерживался, чтобы не закричать.",
           "source": ""
         }
       ],
-      "note": "Для сербского стандарта bes, не bijes: crven od besa, pocrveneti od besa. Образ физиологически прозрачен: сильный гнев вызывает покраснение лица. В исследованиях сербской фразеологии рядом фиксируются crven kao rak / paprika со значением сильного гнева; например Urlao je od besa, crven kao paprika. Русское «красный от злости» совпадает почти полностью.",
+      "note": "Это скорее устойчивая образная коллокация, чем самостоятельный фразеологизм. Сербская фразеология активно связывает красный цвет с гневом: crven kao rak / paprika, pocrveneti od besa, kipeti od besa. Для русского «побагроветь от ярости» часто естественнее буквального «быть красным от злости». Исследования сербской фразеологии прямо описывают модель BESAN ČOVEK JE CRVEN.",
       "keyword": "crven od besa"
     },
     {
@@ -1124,40 +1156,73 @@
       "keyword": "debeo kao svinja"
     },
     {
-      "headword_latin": "Do bola",
-      "type": "izraz",
-      "definition_ru": "до предела; чрезвычайно; ужасно / невероятно; до невозможности",
+      "headword_latin": "Deliti šakom i kapom",
+      "type": "frazeologizam",
+      "definition_ru": "раздавать направо и налево; раздавать щедрой рукой; сорить чем-то",
       "synonyms_sr": [
-        "veoma",
-        "krajnje",
-        "maksimalno",
-        "nenormalno (razg.)"
+        "deliti bez mere",
+        "razbacivati se",
+        "velikodušno deliti",
+        "deliti svima redom"
       ],
-      "literal_ru": "до боли",
-      "register": "razg., sleng; pojačivač prideva ili ocene: dobar do bola, dosadan do bola, iskren do bola",
+      "literal_ru": "раздавать пригоршнями и шапками",
+      "register": "razg. do publicistički, često iron. ili neodobr.; o novcu, nagradama, funkcijama, državljanstvu, ocenama i sl.",
       "examples": [
         {
-          "serbian_latin": "Kad kažu da je nešto „do bola“, to uopšte ne boli, već je izrazito dobro.",
-          "russian": "Когда молодёжь говорит, что что-то do bola, это не значит «больно», а «очень круто».",
-          "source": "Politika, 2007"
+          "serbian_latin": "Zašto se stranim sportistima državljanstvo Srbije deli „šakom i kapom“?",
+          "russian": "Почему иностранным спортсменам сербское гражданство раздают направо и налево?",
+          "source": "Danas, 2021"
         },
         {
-          "serbian_latin": "Suočavanje sa činjenicama bilo je... do bola.",
-          "russian": "Столкновение с фактами было болезненно острым, до предела.",
-          "source": "Danas, 2013"
+          "serbian_latin": "U Beogradu se takođe deli „šakom i kapom“.",
+          "russian": "В Белграде тоже раздают направо и налево.",
+          "source": "Danas, 2023"
         },
         {
-          "serbian_latin": "Film je dosadan do bola.",
-          "russian": "Фильм ужасно скучный.",
-          "source": ""
+          "serbian_latin": "Neminovno je da će se ocene deliti šakom i kapom, pa i masovno poklanjati.",
+          "russian": "Неизбежно, что оценки станут раздавать направо и налево, а то и просто массово дарить.",
+          "source": "Politika, 2025"
+        }
+      ],
+      "note": "Выражение не всегда означает настоящую щедрость. Очень часто оно критическое: нечто ценное раздают слишком легко, без меры и разбора. Поэтому deliti pasoše / novac / funkcije / petice šakom i kapom может переводиться как «раздавать направо и налево». Образ гиперболический: дают уже не отдельными единицами, а буквально пригоршнями и целыми «шапками».",
+      "keyword": "deliti šakom i kapom"
+    },
+    {
+      "headword_latin": "Do bola",
+      "type": "izraz",
+      "definition_ru": "до крайности; ужасно, невероятно, предельно; до боли",
+      "synonyms_sr": [
+        "krajnje",
+        "izuzetno",
+        "veoma",
+        "strašno (razg.)",
+        "maksimalno"
+      ],
+      "literal_ru": "до боли",
+      "register": "razg., ekspresivni pojačivač; tipično dosadan do bola, iskren do bola, aktuelan do bola, skup do bola",
+      "examples": [
+        {
+          "serbian_latin": "Gde god da korakneš, to je „demagogija do bola“.",
+          "russian": "Куда ни шагни — повсюду демагогия до предела.",
+          "source": "Danas / N1, 2024"
         },
         {
-          "serbian_latin": "Ona je iskrena do bola.",
-          "russian": "Она предельно откровенна.",
+          "serbian_latin": "Neki štosovi su veoma, i do bola, aktuelni i danas.",
+          "russian": "Некоторые шутки и сегодня невероятно, буквально до боли актуальны.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Pregovori su bili mučni, a snizili su cene „do bola“.",
+          "russian": "Переговоры были тяжёлыми, а цены сбили до предела.",
+          "source": "Politika, 2017"
+        },
+        {
+          "serbian_latin": "Film je bio dosadan do bola.",
+          "russian": "Фильм был ужасно скучный / скучный до невозможности.",
           "source": ""
         }
       ],
-      "note": "Значение зависит от слова рядом и не обязательно положительное. Молодёжное dobar do bola — «офигенно хороший», но dosadan do bola — «невыносимо скучный», iskren do bola — «предельно откровенный». Поэтому базовая функция do bola — не «очень хорошо», а экспрессивное усиление до крайней степени.",
+      "note": "Сербское do bola значительно шире буквального русского «до боли». В разговорной речи это продуктивный усилитель степени, близкий к «невероятно, предельно, до невозможности»: lep do bola, dosadan do bola, iskren do bola, glup do bola. Оценка может быть как отрицательной, так и положительной. В русском иногда сохраняется «до боли» (до боли знакомый), но чаще требуется другой естественный усилитель.",
       "keyword": "do bola"
     },
     {
