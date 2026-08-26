@@ -466,6 +466,37 @@
       "keyword": "daleko mu lepa kuća"
     },
     {
+      "headword_latin": "Dan D",
+      "type": "izraz",
+      "definition_ru": "день Х; решающий день; ключевой день; день, когда всё решится",
+      "synonyms_sr": [
+        "presudan dan",
+        "odlučujući dan",
+        "ključni dan"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; iz vojne terminologije D-Day, danas široko i preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Danas je Dan D za NIS.",
+          "russian": "Сегодня для NIS решающий день.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Oktobar je „dan D“ za davanje ispita.",
+          "russian": "Октябрь — решающий момент для сдачи экзаменов.",
+          "source": "RTS, 2010"
+        },
+        {
+          "serbian_latin": "Sutra je dan D — saznaćemo rezultate konkursa.",
+          "russian": "Завтра день Х — узнаем результаты конкурса.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «день Х» функционально подходит, но происхождение и образ различаются. Dan D идёт от английского D-Day, военного обозначения дня начала операции; отсюда также D+1, D+2. В современной сербской речи это просто «решающий день».",
+      "keyword": "dan D"
+    },
+    {
       "headword_latin": "Doći će cica na kolica",
       "type": "izreka",
       "definition_ru": "ещё придёт твой черёд; ещё придёшь просить; придёт расплата",
@@ -785,6 +816,38 @@
       "keyword": "i posle Tita Tito"
     },
     {
+      "headword_latin": "Ima jedna caka",
+      "type": "izraz",
+      "definition_ru": "есть одна загвоздка; есть один нюанс; но есть одна хитрость",
+      "synonyms_sr": [
+        "ima jedna kvaka",
+        "postoji jedna začkoljica",
+        "postoji jedan trik",
+        "ima jedna fora (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg.; caka može biti skrivena teškoća, uslov, trik ili praktična dosetka",
+      "examples": [
+        {
+          "serbian_latin": "Možete da jedete hleb u okviru keto ishrane, ali ima jedna caka.",
+          "russian": "На кето-диете можно есть хлеб, но есть одна загвоздка.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Sadnja banana je moguća i u hladnijim krajevima, ali ima jedna caka.",
+          "russian": "Выращивать бананы можно и в более холодных местах, но есть один нюанс.",
+          "source": "Večernje novosti, 2026"
+        },
+        {
+          "serbian_latin": "Sve izgleda jednostavno, samo ima jedna caka.",
+          "russian": "Всё кажется простым, только есть одна загвоздка.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «ловушка» подходит не всегда. Caka может означать хитрость, секрет, тонкость, скрытое условие или загвоздку: U čemu je caka? — «В чём фишка / подвох?». В корпусном употреблении встречается и ima par caka — «есть несколько тонкостей».",
+      "keyword": "caka"
+    },
+    {
       "headword_latin": "Ima nas raznih",
       "type": "izraz",
       "definition_ru": "всякие люди бывают; люди разные; каких только людей нет",
@@ -1074,6 +1137,33 @@
       "keyword": "jedi govna"
     },
     {
+      "headword_latin": "Jedva gledati od umora",
+      "type": "frazeologizam",
+      "definition_ru": "глаза слипаются от усталости; еле держать глаза открытыми; быть совершенно измученным",
+      "synonyms_sr": [
+        "oči mi se sklapaju",
+        "padati s nogu",
+        "biti premoren",
+        "jedva držati oči otvorene"
+      ],
+      "literal_ru": "едва смотреть от усталости",
+      "register": "razg.; tipično Jedva gledam od umora",
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu stajati na nogama, jedva gledam od umora.",
+          "russian": "Я на ногах не стою, глаза от усталости слипаются.",
+          "source": "Dnevnik.hr, 2010"
+        },
+        {
+          "serbian_latin": "Idi spavaj, jedva gledaš od umora.",
+          "russian": "Иди спать, ты уже глаза еле держишь открытыми.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «еле жив от усталости» передаёт степень усталости, но теряет конкретный сербский образ: человек буквально уже с трудом смотрит, потому что глаза закрываются. Поэтому особенно естественно «глаза слипаются».",
+      "keyword": "jedva gledati od umora"
+    },
+    {
       "headword_latin": "Kad na vrbi rodi grožđe",
       "type": "frazeologizam",
       "definition_ru": "когда рак на горе свистнет; после дождичка в четверг; никогда",
@@ -1199,6 +1289,32 @@
       "keyword": "kap koja je prelila čašu"
     },
     {
+      "headword_latin": "Kaži dragička",
+      "type": "replika",
+      "definition_ru": "а знаешь, что я тебе скажу?; хочешь хорошую новость?; угадай, что случилось",
+      "synonyms_sr": [
+        "znaš šta ima novo?",
+        "imam nešto da ti kažem",
+        "pogodi šta se desilo"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj.; ritualizovana replika pre lepe ili zanimljive vesti",
+      "examples": [
+        {
+          "serbian_latin": "— Kaži dragička! — Dragička! — Dobila sam posao!",
+          "russian": "— Хочешь новость? — Ну давай! — Меня взяли на работу!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pre nego što nekome želimo da saopštimo lepu vest, kao uvod koristimo izraz „Kaži dragička“.",
+          "russian": "Перед хорошей новостью в качестве вступления употребляют выражение «Kaži dragička».",
+          "source": "N1 Srbija, 2024"
+        }
+      ],
+      "note": "В классической игре говорящий произносит Kaži dragička!, собеседник отвечает Dragička!, и только затем сообщается новость. N1 приводит популярную версию происхождения от белградской госпожи Dragić и некоего «kluba tračeva» 1950-х, однако источник этой истории — современная популярная публикация, а надёжного исторического подтверждения я не нашёл. Поэтому эту красивую версию лучше считать легендой, а не установленной этимологией.",
+      "keyword": "kaži dragička"
+    },
+    {
       "headword_latin": "Knedla mi stoji u grlu",
       "type": "frazeologizam",
       "definition_ru": "у меня ком в горле; ком стоит в горле",
@@ -1288,6 +1404,59 @@
       ],
       "note": "Rani здесь связано с rano «рано» и означает «рано встаёт / рано начинает», а не с raniti nekoga «ранить кого-то». Русская пословица с Богом функционально почти полностью совпадает. Формула остаётся настолько узнаваемой, что СМИ свободно пародируют её, например противопоставляя «две удачи» сонливости после слишком раннего подъёма.",
       "keyword": "ko rano rani dve sreće grabi"
+    },
+    {
+      "headword_latin": "Koštati kao Svetog Petra kajgana",
+      "type": "frazeologizam",
+      "definition_ru": "стоить бешеных денег; обойтись безумно дорого; влететь в копеечку",
+      "synonyms_sr": [
+        "koštati đavo i po",
+        "biti papreno skup",
+        "skupo stajati",
+        "platiti papreno"
+      ],
+      "literal_ru": "стоить как яичница святого Петра",
+      "register": "razg., ekspresivno; takođe stajati nekoga kao Svetog Petra kajgana",
+      "examples": [
+        {
+          "serbian_latin": "Ovaj popravak će me koštati kao Svetog Petra kajgana.",
+          "russian": "Этот ремонт влетит мне в копеечку.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Platili smo hotel kao Svetog Petra kajgana, a soba je bila prosečna.",
+          "russian": "За гостиницу отдали бешеные деньги, а номер оказался самый обычный.",
+          "source": ""
+        }
+      ],
+      "note": "Значение однозначно: очень дорого стоить / заплатить чрезвычайно высокую цену; выражение фиксируется и в научных работах по сербской фразеологии. А вот происхождение имеет несколько версий. В сербской традиции известна история о том, как Sveti Petar съел предназначенную детям бедной вдовы яичницу и затем дорого расплачивался за проступок; её обработал в стихах Jovan Jovanović Zmaj. Есть и близкое греческое выражение о «дорогой яичнице Svetog Đorđa». Milan Šipka обсуждает обе версии, поэтому единственную легенду как доказанную этимологию лучше не выдавать.",
+      "keyword": "Svetog Petra kajgana"
+    },
+    {
+      "headword_latin": "Liti krokodilske suze",
+      "type": "frazeologizam",
+      "definition_ru": "лить крокодиловы слёзы; изображать неискреннее сочувствие; лицемерно сокрушаться",
+      "synonyms_sr": [
+        "lažno žaliti",
+        "glumiti saosećanje",
+        "pretvarati se da je nekome žao"
+      ],
+      "literal_ru": "лить крокодильи слёзы",
+      "register": "neodobr.; takođe roniti krokodilske suze",
+      "examples": [
+        {
+          "serbian_latin": "Danas krokodilske suze rone zbog navodnih napada na njega.",
+          "russian": "Сегодня они льют крокодиловы слёзы из-за якобы совершённых на него нападок.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Nemoj sada da liješ krokodilske suze — sam si izazvao problem.",
+          "russian": "Не надо теперь лить крокодиловы слёзы — ты сам создал эту проблему.",
+          "source": ""
+        }
+      ],
+      "note": "Русский и сербский фразеологизмы практически полностью совпадают. Krokodilske suze — ложное сожаление и лицемерное сочувствие. Крокодилы действительно выделяют слёзную жидкость, в том числе при кормлении, но не из эмоциональной печали; наблюдение этого физиологического явления породило старый образ хищника, который будто бы «оплакивает» свою жертву.",
+      "keyword": "krokodilske suze"
     },
     {
       "headword_latin": "Malo sutra",
@@ -1445,6 +1614,33 @@
       "keyword": "dirnuta pažnjom"
     },
     {
+      "headword_latin": "Mrtav umoran",
+      "type": "izraz",
+      "definition_ru": "смертельно уставший; устал как собака; совершенно без сил",
+      "synonyms_sr": [
+        "premoren",
+        "iscrpljen",
+        "mrtav od umora",
+        "umoran kao pas"
+      ],
+      "literal_ru": "мёртвый уставший",
+      "register": "razg., ekspresivno; mrtav služi kao pojačivač",
+      "examples": [
+        {
+          "serbian_latin": "Vratio sam se kući mrtav umoran i odmah legao.",
+          "russian": "Я вернулся домой совершенно без сил и сразу лёг.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Posle puta smo svi bili mrtvi umorni.",
+          "russian": "После дороги мы все были смертельно уставшие.",
+          "source": ""
+        }
+      ],
+      "note": "Mrtav здесь не имеет отношения к смерти и просто резко усиливает признак. Сочетание настолько устойчиво, что словарно сопоставляется с английским dead tired. Для русского естественнее «смертельно устал», «устал как собака», а не буквальное «мёртвый уставший».",
+      "keyword": "mrtav umoran"
+    },
+    {
       "headword_latin": "Na ravnoj nozi",
       "type": "frazeologizam",
       "definition_ru": "на равных; на равной ноге; как равный с равным",
@@ -1474,6 +1670,38 @@
       ],
       "note": "Выражение описывает именно равноправное положение сторон, а не просто одинаковый уровень мастерства. Поэтому особенно естественно говорить о переговорах, отношениях, правах и общении. Русское «на равной ноге» структурно близко, хотя современное «на равных» обычно звучит естественнее.",
       "keyword": "na ravnoj nozi"
+    },
+    {
+      "headword_latin": "Nagon",
+      "type": "imenica",
+      "definition_ru": "позыв; влечение; импульс; побуждение; инстинктивное стремление",
+      "synonyms_sr": [
+        "poriv",
+        "impuls",
+        "potreba",
+        "instinkt (nije uvek potpuni sinonim)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; nagon za mokrenjem, nagon za povraćanjem, polni nagon, nagon za samoodržanjem",
+      "examples": [
+        {
+          "serbian_latin": "Osećam jak nagon za mokrenjem.",
+          "russian": "Я чувствую сильный позыв к мочеиспусканию.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kod nagonske inkontinencije dolazi do jakog nagona za mokrenjem.",
+          "russian": "При ургентном недержании возникает сильный позыв к мочеиспусканию.",
+          "source": "Novosadski humanitarni centar, 2020"
+        },
+        {
+          "serbian_latin": "Imao je nagon da odmah odgovori, ali se zaustavio.",
+          "russian": "У него был порыв немедленно ответить, но он сдержался.",
+          "source": ""
+        }
+      ],
+      "note": "Nagon шире русского «инстинкт». Это может быть физиологический позыв (nagon za mokrenjem, povraćanjem), сексуальное или биологическое влечение, либо сильный внутренний импульс к действию. Instinkt чаще обозначает именно врождённую поведенческую программу, поэтому эти слова не всегда взаимозаменяемы.",
+      "keyword": "nagon"
     },
     {
       "headword_latin": "Napaćena duša",
@@ -1822,6 +2050,38 @@
       "keyword": "nit riba nit devojka"
     },
     {
+      "headword_latin": "Odgovarati nekome",
+      "type": "glagol",
+      "definition_ru": "подходить кому-то; устраивать; быть удобным",
+      "synonyms_sr": [
+        "biti po volji",
+        "biti pogodan",
+        "biti zgodan",
+        "pristajati (u pojedinim značenjima)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; odgovarati + dativ: odgovara mi, ti, mu, joj; glagol ima i značenje odgovarati na pitanje",
+      "examples": [
+        {
+          "serbian_latin": "Sada mi to odgovara.",
+          "russian": "Сейчас мне это подходит.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Da li ti odgovara da se vidimo u šest?",
+          "russian": "Тебе удобно встретиться в шесть?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ovaj termin mi ne odgovara, može li sutra?",
+          "russian": "Это время мне не подходит, можно завтра?",
+          "source": ""
+        }
+      ],
+      "note": "Для русского это важный ложный друг: odgovarati означает не только «отвечать», но и «подходить, устраивать». Odgovara mi ovaj termin — «мне подходит это время», а Odgovaram na pitanje — «я отвечаю на вопрос». При значении «подходить» человек стоит в дательном падеже.",
+      "keyword": "odgovarati"
+    },
+    {
       "headword_latin": "Omaklo mi se",
       "type": "replika",
       "definition_ru": "случайно вырвалось; нечаянно получилось; я случайно это сделал / сказал; сорвалось",
@@ -1958,6 +2218,161 @@
       "keyword": "parati uši"
     },
     {
+      "headword_latin": "Pasja vrućina",
+      "type": "frazeologizam",
+      "definition_ru": "собачья жара; невыносимая жара; пекло",
+      "synonyms_sr": [
+        "velika žega",
+        "paklena vrućina",
+        "nesnosna vrućina",
+        "pasji dani"
+      ],
+      "literal_ru": "собачья жара",
+      "register": "razg., ekspresivno; obično o najjačoj letnjoj vrućini",
+      "examples": [
+        {
+          "serbian_latin": "Napolju je pasja vrućina, nemoj izlaziti bez vode.",
+          "russian": "На улице собачья жара, не выходи без воды.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Velika žega tokom jula i avgusta naziva se kod nas pasja vrućina.",
+          "russian": "Сильную июльскую и августовскую жару у нас называют «собачьей жарой».",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Традиционное объяснение связывает pasji dani / pasja vrućina с Siriusom, «Песьей звездой», находящейся в sazvežđu Velikog psa и ассоциировавшейся ещё в античности с периодом сильнейшей летней жары. Именно эту культурную связь подробно приводит Danas.",
+      "keyword": "pasja vrućina"
+    },
+    {
+      "headword_latin": "Pasti s kruške",
+      "type": "frazeologizam",
+      "definition_ru": "как с луны свалиться; быть совершенно растерянным; ничего не понимать; вести себя глупо или наивно",
+      "synonyms_sr": [
+        "biti zbunjen",
+        "biti smušen",
+        "biti pogubljen",
+        "ponašati se naivno"
+      ],
+      "literal_ru": "упасть с груши",
+      "register": "razg.; naročito kao da je pao s kruške i nisam pao s kruške",
+      "examples": [
+        {
+          "serbian_latin": "Da ti pozajmim novac? Pa nisam, valjda, s kruške pao?",
+          "russian": "Одолжить тебе деньги? Я что, по-твоему, совсем дурак?",
+          "source": "Rečnik SANU, cit. Danas, 2022"
+        },
+        {
+          "serbian_latin": "Gleda oko sebe kao da je pao s kruške.",
+          "russian": "Смотрит вокруг как будто с луны свалился.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nisam ja pao s kruške, znam šta pokušavaš.",
+          "russian": "Я не вчера родился, я понимаю, что ты пытаешься сделать.",
+          "source": ""
+        }
+      ],
+      "note": "Утвердительная и отрицательная формы заметно расходятся прагматически: kao da je pao s kruške — «растерянный, смушённый, как с луны свалился», а nisam pao s kruške — «я не дурак, не наивный». Rečnik SANU фиксирует это значение. Связь с народными представлениями о груше как «нехорошем» дереве подробно обсуждал Veselin Čajkanović, но конкретный путь превращения поверья во фразеологизм остаётся реконструкцией.",
+      "keyword": "pasti s kruške"
+    },
+    {
+      "headword_latin": "Peri-deri",
+      "type": "izraz",
+      "definition_ru": "неубиваемый; на каждый день; «стирай и носи»; вещь, которую можно постоянно эксплуатировать",
+      "synonyms_sr": [
+        "izdržljiv",
+        "za svaki dan",
+        "praktičan",
+        "neuništiv (razg.)"
+      ],
+      "literal_ru": "стирай — изнашивай",
+      "register": "razg.; najčešće peri-deri odeća, majica, roba",
+      "examples": [
+        {
+          "serbian_latin": "Kupio sam ih prošle godine, evo peri-deri, samo njih nosim.",
+          "russian": "Купил их в прошлом году — неубиваемые, только их и ношу.",
+          "source": "Reddit/r/serbia, 2022"
+        },
+        {
+          "serbian_latin": "Ceo život se oblačim na buvljaku — živela peri-deri odeća.",
+          "russian": "Всю жизнь одеваюсь на барахолке — да здравствует неубиваемая одежда на каждый день.",
+          "source": "Reddit/AskSerbia, 2026"
+        },
+        {
+          "serbian_latin": "Ovo mi je peri-deri jakna, nosim je već godinama.",
+          "russian": "Это у меня неубиваемая куртка, ношу её уже много лет.",
+          "source": ""
+        }
+      ],
+      "note": "Это не просто «долго носится». Peri-deri обычно характеризует простую, практичную вещь, которую можно постоянно носить, стирать и не особенно беречь. В современной речи выражение особенно характерно для одежды: в 2026 году встречается даже basic crna majica za peri-deri.",
+      "keyword": "peri-deri"
+    },
+    {
+      "headword_latin": "Pijan kao majka",
+      "type": "frazeologizam",
+      "definition_ru": "пьян в дым; совершенно пьян; еле стоит на ногах",
+      "synonyms_sr": [
+        "pijan kao letva",
+        "pijan kao čep",
+        "pijan kao zemlja",
+        "pijan kao dupe (grub.)"
+      ],
+      "literal_ru": "пьяный как мать",
+      "register": "razg., ekspresivno; pijan kao dupe je grublje od ostalih varijanti",
+      "examples": [
+        {
+          "serbian_latin": "Pogledaj kako hoda, pijan je kao majka.",
+          "russian": "Посмотри, как он идёт: пьян в дым.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Sinoć se napio kao letva, nije znao gde je.",
+          "russian": "Вчера он напился в дым и вообще не соображал, где находится.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Bio je pijan kao čep.",
+          "russian": "Он был совершенно пьян.",
+          "source": ""
+        }
+      ],
+      "note": "Pijan kao majka Milan Šipka толкует как «совершенно, до беспамятства пьян». Происхождение точно не установлено. Обсуждаются по крайней мере две версии: сокращение более старого образа pijan kao majka zemlja, где «пьяная» земля означает пропитанную водой, и исторический обычай давать роженицам алкоголь для притупления боли. Сам Шipka считает объяснение через majka zemlja весьма убедительным, но отмечает, что и медицинский обычай мог поддержать выражение в народном сознании.",
+      "keyword": "pijan kao majka"
+    },
+    {
+      "headword_latin": "Piti kao smuk",
+      "type": "frazeologizam",
+      "definition_ru": "пить как не в себя; пить как рыба; пить огромными количествами",
+      "synonyms_sr": [
+        "mnogo piti",
+        "lokati (razg., neodobr.)",
+        "piti bez mere",
+        "nalivati se (razg.)"
+      ],
+      "literal_ru": "пить как полоз",
+      "register": "razg.; često o alkoholu, ali može i o vodi ili drugom piću",
+      "examples": [
+        {
+          "serbian_latin": "Posle treninga pije vodu kao smuk.",
+          "russian": "После тренировки он пьёт воду литрами.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad izađe s društvom, pije kao smuk.",
+          "russian": "Когда идёт гулять с компанией, пьёт как рыба.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Niti smuk pije kao smuk, niti pije sveže mleko sa kravljeg vimena.",
+          "russian": "На самом деле даже полоз вовсе не «пьёт как полоз» и не пьёт свежее молоко из коровьего вымени.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Выражение можно употребить и без алкоголя: piti vodu kao smuk. Любопытно, что сербский герпетолог Rastko Ajtić специально приводит фразу niti smuk pije kao smuk при разоблачении народных представлений о змеях. То есть реальное поведение змеи не объясняет буквально современное значение выражения.",
+      "keyword": "piti kao smuk"
+    },
+    {
       "headword_latin": "Po svoj prilici",
       "type": "izraz",
       "definition_ru": "по всей видимости; судя по всему; по-видимому",
@@ -1988,6 +2403,33 @@
       ],
       "note": "Устойчивое сочетание не связано с современным основным значением prilika «возможность». Здесь сохраняется старое значение, связанное с внешним видом, обстоятельствами, признаками. Поэтому выражение целиком лучше запоминать как «по всей видимости».",
       "keyword": "po svoj prilici"
+    },
+    {
+      "headword_latin": "Podmetnuti kukavičje jaje",
+      "type": "frazeologizam",
+      "definition_ru": "подсунуть кому-то скрытую проблему; навязать чужую идею как его собственную; устроить подставу",
+      "synonyms_sr": [
+        "podvaliti",
+        "nasamariti",
+        "podmetnuti nešto nekome",
+        "prebaciti svoj problem na drugoga"
+      ],
+      "literal_ru": "подложить кукушечье яйцо",
+      "register": "izrazito neodobr.; podmetnuti nekome kukavičje jaje",
+      "examples": [
+        {
+          "serbian_latin": "Pokušavaju da nam podmetnu kukavičje jaje i da njihov problem postane naš.",
+          "russian": "Они пытаются подсунуть нам свою проблему и сделать её нашей.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Opet podmećeš kukavičja jaja.",
+          "russian": "Опять ты сваливаешь свои хитрости и проблемы на других.",
+          "source": "Vukajlija, 2012"
+        }
+      ],
+      "note": "Ваше «обмануть, ввести в заблуждение» слишком широко. Фраза обычно предполагает подсунуть человеку нечто чужое или ложное так, чтобы он принял это за своё и понёс последствия: чужую идею, проблему, ответственность. Образ непосредственно связан с поведением кукушки, которая откладывает яйца в чужие гнёзда, оставляя другим птицам выращивать птенца. Milan Šipka даёт среди значений «насамарить кого-то», «подметнуть свои взгляды» и «обременить другого своими проблемами».",
+      "keyword": "kukavičje jaje"
     },
     {
       "headword_latin": "Pokaži mi jednu osobu koja ne pati!",
@@ -2082,6 +2524,32 @@
       ],
       "note": "Pomeriti не означает, что встречу обязательно отложили: её можно перенести как на более позднее, так и на другое время вообще. Odložiti обычно подчёркивает именно отсрочку. Конструкция pomeriti za četvrtak / za pola sata / na drugi termin очень обычна.",
       "keyword": "pomeriti sastanak"
+    },
+    {
+      "headword_latin": "Poslednji Mohikanac",
+      "type": "krilatica",
+      "definition_ru": "последний из могикан; последний представитель своего рода, поколения или исчезающей традиции",
+      "synonyms_sr": [
+        "poslednji predstavnik",
+        "jedini preostali",
+        "poslednji svoje vrste"
+      ],
+      "literal_ru": "",
+      "register": "knjiški i razg.; često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Ja sam poslednji mohikanac, ja ću se boriti do kraja.",
+          "russian": "Я последний из могикан, буду бороться до конца.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "U gradu je on jedini, ja ga zato zovem „poslednji Mohikanac“.",
+          "russian": "В городе он остался один такой, поэтому я называю его «последним из могикан».",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Источник крылатого выражения — роман Jamesa Fenimora Coopera Poslednji Mohikanac (1826); в самом романе «последним» оказывается Unkas. В современной речи выражение давно оторвалось от индейской темы и означает последнего человека, предмет или явление из исчезающей категории. Это именно литературный образ: реальные потомки народа, послужившего его историческим фоном, не исчезли.",
+      "keyword": "poslednji Mohikanac"
     },
     {
       "headword_latin": "Poštapalica",
@@ -2592,6 +3060,33 @@
       ],
       "note": "Выражение подразумевает не просто «давать совет», а назойливо поучать человека, особенно когда он этого не просил. Типичная форма — Nemoj ti meni da soliš pamet: «Не учи меня жить / не компостируй мне мозги». Не путать с ispirati mozak — «промывать мозги»: там речь об идеологическом или психологическом воздействии, а здесь — о занудном морализаторстве.",
       "keyword": "soliti pamet"
+    },
+    {
+      "headword_latin": "Solomonsko rešenje",
+      "type": "frazeologizam",
+      "definition_ru": "соломоново решение; мудрый компромисс; хитроумный выход из трудной ситуации",
+      "synonyms_sr": [
+        "mudro rešenje",
+        "kompromisno rešenje",
+        "dovitljivo rešenje",
+        "izlaz iz pat-pozicije"
+      ],
+      "literal_ru": "соломоново решение",
+      "register": "knjiški; neretko i ironično",
+      "examples": [
+        {
+          "serbian_latin": "Kako bi se izbegla nesuvisla polemika, pronađeno je „solomonsko“ rešenje.",
+          "russian": "Чтобы избежать бессмысленного спора, было найдено соломоново решение.",
+          "source": "Politika, 2018"
+        },
+        {
+          "serbian_latin": "Iako nikom nije do pesme, našli su solomonsko rešenje.",
+          "russian": "Хотя никому не до песен, они нашли компромиссное соломоново решение.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Образ отсылает к библейскому суду царя Solomona, который предложил разделить ребёнка между двумя женщинами, чтобы выяснить настоящую мать. Поэтому исходное значение — мудрое решение сложной дилеммы. Однако в современной публицистике solomonsko rešenje часто употребляется и слегка иронически: «нашли ловкий компромисс, позволяющий всем сохранить лицо».",
+      "keyword": "solomonsko rešenje"
     },
     {
       "headword_latin": "Spavati kao klada",
@@ -3139,6 +3634,59 @@
       "keyword": "uljudne fraze"
     },
     {
+      "headword_latin": "Upasti nekome sekira u med",
+      "type": "frazeologizam",
+      "definition_ru": "несказанно повезти; сорвать джекпот; неожиданно получить большую выгоду",
+      "synonyms_sr": [
+        "imati veliku sreću",
+        "posrećiti se",
+        "dobro proći",
+        "dobiti premiju (preneseno)"
+      ],
+      "literal_ru": "топор упал кому-то в мёд",
+      "register": "frazeologizam; najčešće Upala mu je sekira u med",
+      "examples": [
+        {
+          "serbian_latin": "Dobio je taj posao bez ikakvih veza — baš mu je upala sekira u med.",
+          "russian": "Ему досталась эта работа без всяких связей — вот уж действительно крупно повезло.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nasledio je stan u centru. Upala mu je sekira u med.",
+          "russian": "Он унаследовал квартиру в центре. Вот это ему повезло.",
+          "source": ""
+        }
+      ],
+      "note": "Значение — неожиданно оказаться в очень выгодном положении, часто без особых собственных усилий. Именно так современное употребление описывает Blic. Популярное объяснение связывает образ с человеком, который рубил дерево и неожиданно попал топором в дупло с мёдом диких пчёл; однако надёжно доказать конкретный исторический эпизод невозможно, поэтому это лучше считать традиционным объяснением образа, а не установленной этимологией.",
+      "keyword": "sekira u med"
+    },
+    {
+      "headword_latin": "Ustati na levu nogu",
+      "type": "frazeologizam",
+      "definition_ru": "встать не с той ноги; с самого утра быть не в духе",
+      "synonyms_sr": [
+        "biti loše volje",
+        "probuditi se neraspoložen",
+        "biti namćorast od jutra"
+      ],
+      "literal_ru": "встать на левую ногу",
+      "register": "razg.; obično o neraspoloženju bez jasnog razloga",
+      "examples": [
+        {
+          "serbian_latin": "Šta ti je danas, kao da si ustao na levu nogu?",
+          "russian": "Что с тобой сегодня, будто не с той ноги встал?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Od jutros se svađa sa svima — izgleda da je ustao na levu nogu.",
+          "russian": "С утра со всеми ругается — видно, встал не с той ноги.",
+          "source": ""
+        }
+      ],
+      "note": "Сербский и русский фразеологизмы практически идентичны. Образ связан с традиционным противопоставлением правой стороны как благоприятной и левой как неблагоприятной; в исследовании сербских афоризмов ustati na levu nogu прямо поясняется как быть «нерасположенным и неприятным без особой причины».",
+      "keyword": "ustati na levu nogu"
+    },
+    {
       "headword_latin": "Uzeti nešto s rezervom",
       "type": "frazeologizam",
       "definition_ru": "отнестись к чему-то с оговоркой; воспринимать скептически; не принимать за чистую монету",
@@ -3331,6 +3879,38 @@
       "keyword": "zaklopiti"
     },
     {
+      "headword_latin": "Zamoriti nekoga",
+      "type": "glagol",
+      "definition_ru": "утомить; надоесть; измучить однообразием",
+      "synonyms_sr": [
+        "umoriti",
+        "iscrpeti",
+        "dosaditi nekome",
+        "smoriti (sleng)"
+      ],
+      "literal_ru": "",
+      "register": "zamoriti nekoga + akuzativ; nenaglašeno: Zamorili su me političari",
+      "examples": [
+        {
+          "serbian_latin": "Zamorili su me političari i njihove svakodnevne svađe.",
+          "russian": "Я устал от политиков и их ежедневных ссор.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zamorile su me beskrajne rasprave o istoj temi.",
+          "russian": "Меня утомили бесконечные споры об одном и том же.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Neki ljudi su me zamorili.",
+          "russian": "Некоторые люди меня утомили.",
+          "source": "Miroslav Mandić, 2015"
+        }
+      ],
+      "note": "Если русский смысл именно «мне надоели политики», часто естественнее Dosadili su mi političari. Zamorili su me političari подчёркивает накопившуюся умственную или эмоциональную усталость. Ещё одна модель — Umorio sam se od političara: буквально «я устал от политиков».",
+      "keyword": "zamoriti"
+    },
+    {
       "headword_latin": "Zatucan čovek",
       "type": "kolokacija",
       "definition_ru": "узколобый человек; косный, ограниченный человек; человек с отсталыми взглядами",
@@ -3393,6 +3973,43 @@
       ],
       "note": "Это не объяснение причины, а демонстративный отказ объяснять. Особенно типично как ответ ребёнку, младшему брату или человеку, который в сотый раз спрашивает zašto?; Vukajlija определяет формулу как ответ на бессмысленный вопрос или вопрос с очевидным ответом. Форму zbog jotovanja как устойчивый сербский эквивалент мне надёжно подтвердить не удалось: в доступных источниках она появляется только как собственно лингвистический термин jotovanje, но не как общеупотребительная отговорка. Поэтому в словарь как равноправный вариант я бы её пока не включал.",
       "keyword": "zbog sira i vojne muzike"
+    },
+    {
+      "headword_latin": "Žuditi za nečim",
+      "type": "glagol",
+      "definition_ru": "жаждать; страстно желать; тосковать по чему-то; испытывать сильную тягу",
+      "synonyms_sr": [
+        "čeznuti za",
+        "silno želeti",
+        "vapiti za",
+        "imati jaku želju za"
+      ],
+      "literal_ru": "",
+      "register": "žuditi za + instrumental: za tobom, za mirom, za picom",
+      "examples": [
+        {
+          "serbian_latin": "U normalnom životu ne smatram sebe prevelikom ljubiteljkom salata, ali žudim za njom dok sam odsutna.",
+          "russian": "В обычной жизни я не большая любительница салата, но вдали от дома страстно его хочу.",
+          "source": "BBC na srpskom / Danas, 2021"
+        },
+        {
+          "serbian_latin": "Žudim za picom.",
+          "russian": "Я ужасно хочу пиццу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Za čim žudiš?",
+          "russian": "Чего ты страстно желаешь?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Žudio je za mirom i normalnim životom.",
+          "russian": "Он жаждал покоя и нормальной жизни.",
+          "source": ""
+        }
+      ],
+      "note": "Žuditi заметно сильнее обычного želeti: это глубокое желание, тоска, страстная тяга. Оно употребляется и с едой, и с человеком, свободой, вниманием, переменами: žuditi za nekim / nečim. После za стоит творительный падеж. В вопросе очень естественно Za čim žudiš?; расширенная форма za čime также встречается, но краткая za čim особенно обычна.",
+      "keyword": "žuditi"
     }
   ]
 }
