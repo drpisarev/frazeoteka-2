@@ -33,6 +33,37 @@
       "keyword": "bez zamerke"
     },
     {
+      "headword_latin": "Biraj, ago, što je tebi drago",
+      "type": "izreka",
+      "definition_ru": "выбирай, ага, что тебе по душе; выбирай, что хочешь; бери на выбор",
+      "synonyms_sr": [
+        "izaberi šta hoćeš",
+        "biraj po volji",
+        "uzmi šta ti je drago"
+      ],
+      "literal_ru": "выбирай, ага, что тебе мило",
+      "register": "arhaizujuće, folklorno; aga je istorijski osmanski naslov i obraćanje; danas uglavnom u epskom, istorijskom ili šaljivo-citatnom kontekstu",
+      "examples": [
+        {
+          "serbian_latin": "Biraj, ago, što je tebi drago.",
+          "russian": "Выбирай, ага, что тебе по душе.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nudili su mu nekoliko mogućnosti — biraj, ago, što je tebi drago.",
+          "russian": "Ему предложили несколько вариантов: выбирай что душе угодно.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ima svega na stolu: biraj, ago, što je tebi drago.",
+          "russian": "На столе есть всё: выбирай что хочешь.",
+          "source": ""
+        }
+      ],
+      "note": "Формула звучит как строка из народной эпики или старинной песни и строится на рифме ago — drago. Aga — турцизм, историческое обращение к османскому военному или административному лицу, позднее и вообще к зажиточному, влиятельному мужчине в османской среде. В современной сербской речи выражение может появляться иронически, когда человеку предоставляют широкий выбор: примерно «выбирай, что душе угодно». Для русского важно не воспринимать ago как имя: это звательный падеж от aga. Без культурного оттенка нейтральный современный эквивалент — biraj šta hoćeš / izaberi šta ti se sviđa.",
+      "keyword": "biraj ago što je tebi drago"
+    },
+    {
       "headword_latin": "Biti mirođija u svakoj čorbi",
       "type": "frazeologizam",
       "definition_ru": "быть в каждой бочке затычкой; быть везде и во всём; всюду успевать отметиться",
