@@ -1762,6 +1762,75 @@
       "keyword": "našla vreća zakrpu"
     },
     {
+      "headword_latin": "Natovariti nekome / sebi nešto na vrat",
+      "type": "frazeologizam",
+      "definition_ru": "взвалить на кого-то / на себя обузу; повесить на кого-то проблему или обязанность; навлечь лишние хлопоты",
+      "synonyms_sr": [
+        "opteretiti nekoga nečim",
+        "nametnuti nekome obavezu",
+        "svaliti nekome teret",
+        "napraviti sebi dodatni problem"
+      ],
+      "literal_ru": "нагрузить что-то кому-то на шею",
+      "register": "razg., ekspresivno; natovariti nekome nešto na vrat / natovariti sebi nešto na vrat; naglasak je na teretu, obavezi ili problemu koji neko mora da nosi",
+      "examples": [
+        {
+          "serbian_latin": "Niko nikome ne može natovariti toliko muke na vrat koliko čovek sam sebi.",
+          "russian": "Никто не может взвалить на человека столько бед, сколько он сам на себя.",
+          "source": "Meša Selimović, Tvrđava, cit. RTS, 2020"
+        },
+        {
+          "serbian_latin": "Samo ne želi Ruse natovariti na vrat nekom nepotrebnom retorikom.",
+          "russian": "Просто он не хочет из-за ненужной риторики взвалить себе на шею ещё и проблемы с русскими.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Ako prihvatim još jedan projekat, natovariću sebi previše obaveza na vrat.",
+          "russian": "Если я возьму ещё один проект, то взвалю на себя слишком много обязанностей.",
+          "source": ""
+        }
+      ],
+      "note": "Natovariti na vrat подчёркивает прежде всего обременение: человеку достаётся проблема, обязанность, забота, ответственность. Можно нагрузить и самого себя: natovariti sebi obaveze na vrat, и другого: natovariti nekome probleme na vrat. Русскому близки «взвалить на шею», «повесить на кого-то», «взвалить на себя». Не обязательно, что неприятность возникла как наказание за собственные действия: главное здесь именно груз.",
+      "keyword": "natovariti na vrat"
+    },
+    {
+      "headword_latin": "Navući nekome / sebi nešto na vrat",
+      "type": "frazeologizam",
+      "definition_ru": "навлечь на себя / на кого-то неприятности; нажить себе врагов; вызвать нежелательные последствия",
+      "synonyms_sr": [
+        "navući sebi nevolju",
+        "izazvati probleme",
+        "napraviti sebi problem",
+        "dovesti sebi nekoga za vrat"
+      ],
+      "literal_ru": "натянуть что-то себе на шею",
+      "register": "razg., neodobr.; naročito navući sebi na vrat probleme, neprijatelje, policiju, nevolju, bes nekoga",
+      "examples": [
+        {
+          "serbian_latin": "Agresivnom, suludom politikom na vrat nam je navukao NATO bombardovanja.",
+          "russian": "Агрессивной безумной политикой он навлёк на нас бомбардировки НАТО.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Ono što bi navukla sebi na vrat bilo bi više od obične nevolje.",
+          "russian": "То, что она могла навлечь на себя, было бы куда серьёзнее обычной неприятности.",
+          "source": "Kristina Kaboni, Vrt tajnog cveća, srpsko izdanje"
+        },
+        {
+          "serbian_latin": "Nemoj da se mešaš u to, samo ćeš sebi navući probleme na vrat.",
+          "russian": "Не вмешивайся, только навлечёшь на себя неприятности.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Takvim ponašanjem navukao je sebi gomilu neprijatelja na vrat.",
+          "russian": "Таким поведением он нажил себе целую кучу врагов.",
+          "source": ""
+        }
+      ],
+      "note": "В отличие от natovariti na vrat, глагол navući сильнее подчёркивает причинно-следственную связь: человек что-то сделал и тем самым сам вызвал нежелательную реакцию или последствия. Поэтому очень естественно navući sebi neprijatelje / policiju / probleme na vrat — «нажить врагов / навлечь полицию / навлечь неприятности». Полезная пара для запоминания: natovariti sebi obaveze na vrat — «взвалить на себя обязанности», но navući sebi probleme na vrat — «навлечь на себя неприятности».",
+      "keyword": "navući na vrat"
+    },
+    {
       "headword_latin": "Ne mogu sebi da priuštim",
       "type": "izraz",
       "definition_ru": "я не могу себе позволить; мне это не по карману; я не могу себе этого допустить",
