@@ -1,6 +1,38 @@
 {
   "entries": [
     {
+      "headword_latin": "Baciti ljagu na nekoga / nešto",
+      "type": "frazeologizam",
+      "definition_ru": "опорочить; запятнать репутацию; бросить тень на кого-то / что-то",
+      "synonyms_sr": [
+        "ocrniti",
+        "osramotiti",
+        "ukaljati ugled",
+        "oblatiti"
+      ],
+      "literal_ru": "бросить пятно на кого-то / что-то",
+      "register": "neodobr.; svršeni vid baciti, nesvršeni bacati; tipično baciti ljagu na ime, ugled, porodicu, profesiju, narod, organizaciju",
+      "examples": [
+        {
+          "serbian_latin": "Atentat su počinili fašisti koji su se nadali da će tako baciti ljagu na anarhiste.",
+          "russian": "Теракт совершили фашисты, рассчитывая таким образом опорочить анархистов.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Moja namera nije bila baciti ljagu na narod, nego poučiti ga i osvestiti.",
+          "russian": "Моей целью было не опорочить народ, а наставить его и заставить задуматься.",
+          "source": "Jovan Sterija Popović, cit. Danas, 2009"
+        },
+        {
+          "serbian_latin": "Njegov postupak je bacio ljagu na ugled cele ustanove.",
+          "russian": "Его поступок бросил тень на репутацию всего учреждения.",
+          "source": ""
+        }
+      ],
+      "note": "Ljaga — «позорное пятно, бесчестье», поэтому выражение сильнее нейтрального «испортить репутацию». Можно baciti ljagu na nekoga, но очень типичны и неодушевлённые объекты: na ime, ugled, profesiju, organizaciju. Близкое okaljati ime / ugled использует тот же образ пятна. Противоположное действие — sprati / skinuti ljagu.",
+      "keyword": "baciti ljagu"
+    },
+    {
       "headword_latin": "Bez dlake na jeziku",
       "type": "frazeologizam",
       "definition_ru": "прямо, без обиняков; не стесняясь в выражениях; говорить всё как есть",
@@ -3144,6 +3176,38 @@
       "keyword": "siromašan kao crkveni miš"
     },
     {
+      "headword_latin": "Skinuti ljagu sa nekoga / nečega",
+      "type": "frazeologizam",
+      "definition_ru": "снять пятно позора; очистить доброе имя; восстановить репутацию",
+      "synonyms_sr": [
+        "sprati ljagu",
+        "očistiti ime",
+        "vratiti ugled",
+        "skinuti sramotu"
+      ],
+      "literal_ru": "снять пятно с кого-то / чего-то",
+      "register": "neutralno do publicistički; često skinuti ljagu sa svog / nečijeg imena; moguće i pasivno: ljaga je skinuta sa...",
+      "examples": [
+        {
+          "serbian_latin": "Konačno je skinuta ljaga sa njegovog imena koja ga je pratila duže od dve decenije.",
+          "russian": "Наконец с его имени сняли пятно, которое преследовало его больше двух десятилетий.",
+          "source": "RTV, 2009"
+        },
+        {
+          "serbian_latin": "Skinuti ljagu sa udžbenika koji je rekao kritičko „ne“ estradizaciji mladosti.",
+          "russian": "Снять пятно с учебника, выступившего с критическим «нет» эстрадизации молодёжи.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Negirao je krivicu i poručio da će skinuti ljagu sa svog imena.",
+          "russian": "Он отрицал вину и заявил, что очистит своё доброе имя.",
+          "source": "BBC na srpskom / Danas, 2023"
+        }
+      ],
+      "note": "Skinuti ljagu и sprati ljagu практически синонимичны, но образ немного различается: sprati представляет позор как грязь, которую надо «смыть», а skinuti — как наложенное на человека пятно или клеймо, которое нужно «снять». Особенно естественно skinuti ljagu sa imena. В пассиве часто говорят skinuta je ljaga sa njegovog imena — «его доброе имя очищено».",
+      "keyword": "skinuti ljagu"
+    },
+    {
       "headword_latin": "Sklopiti kolica",
       "type": "kolokacija",
       "definition_ru": "сложить коляску; сложить тележку",
@@ -3289,6 +3353,38 @@
       ],
       "note": "Spiskati сильнее нейтрального potrošiti «потратить»: обычно подразумевается, что деньги ушли быстро, неразумно, без заметной пользы или на удовольствия. Поэтому русские «промотать», «спустить», разговорное «профукать» часто точнее простого «потратить». Управление прямое: spiskati platu / pare / milion evra.",
       "keyword": "spiskati"
+    },
+    {
+      "headword_latin": "Sprati ljagu sa nekoga / nečega",
+      "type": "frazeologizam",
+      "definition_ru": "смыть позорное пятно; снять обвинения; восстановить доброе имя",
+      "synonyms_sr": [
+        "oprati obraz",
+        "vratiti ugled",
+        "očistiti ime",
+        "otkloniti sramotu"
+      ],
+      "literal_ru": "смыть пятно с кого-то / чего-то",
+      "register": "knjiški i publicistički; sprati + akuzativ: ljagu, zatim sa + genitiv: sa imena, sa čoveka, sa čitavog naroda",
+      "examples": [
+        {
+          "serbian_latin": "Verujem da će potomci dočekati da sud spere ljagu sa imena njihovog pretka.",
+          "russian": "Верю, что потомки дождутся того, что суд снимет позорное пятно с имени их предка.",
+          "source": "Politika, 2006"
+        },
+        {
+          "serbian_latin": "Jedino je na taj način moguće „sprati ljagu“ i povratiti poverenje.",
+          "russian": "Только таким образом можно смыть позорное пятно и вернуть доверие.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Srbija će sprati ljagu sa čitavog naroda da je zločinački.",
+          "russian": "Сербия снимет со всего народа клеймо преступного.",
+          "source": "Radio Beograd 1 / RTS, 2015"
+        }
+      ],
+      "note": "Sprati буквально означает «смыть», поэтому здесь особенно хорошо сохраняется образ ljaga = грязное пятно на репутации. Речь обычно не просто об улучшении имиджа, а об устранении обвинения, позора или подозрения и восстановлении доброго имени. Частая конструкция — sprati ljagu sa imena nekoga.",
+      "keyword": "sprati ljagu"
     },
     {
       "headword_latin": "Sto ljudi, sto ćudi",
