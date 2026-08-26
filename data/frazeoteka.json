@@ -1,6 +1,37 @@
 {
   "entries": [
     {
+      "headword_latin": "Bacati / baciti bisere pred svinje",
+      "type": "frazeologizam",
+      "definition_ru": "метать бисер перед свиньями; предлагать что-то ценное тому, кто не способен это понять или оценить",
+      "synonyms_sr": [
+        "uzalud nuditi nešto vredno",
+        "trošiti reči uzalud",
+        "davati vrednost onome ko je ne ceni"
+      ],
+      "literal_ru": "бросать жемчуг перед свиньями",
+      "register": "knjiški do razgovorno, neodobr.; takođe bacati / baciti biserje pred svinje; česta replika Ne bacaj bisere pred svinje",
+      "examples": [
+        {
+          "serbian_latin": "Ana je rekla: „To je bacanje bisera pred svinje.“",
+          "russian": "Ана сказала: «Это метание бисера перед свиньями».",
+          "source": "N1 Srbija, 2024"
+        },
+        {
+          "serbian_latin": "U srpskom jeziku postoji izreka: „Ne bacaju se biseri pred svinje!“",
+          "russian": "В сербском языке есть выражение: «Не мечут бисер перед свиньями!»",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Ne pokušavaj više da mu objašnjavaš — samo bacaš bisere pred svinje.",
+          "russian": "Не пытайся больше ему объяснять — только мечешь бисер перед свиньями.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение восходит к Новому Завету, к Нагорной проповеди: „Ne dajte svetinje psima, niti bacajte bisere svoje pred svinje...“ В современном сербском значение шире религиозного: не стоит давать знания, советы, искусство, внимание или другие ценности тому, кто их не понимает, не ценит или способен обратить их против вас. Сербские фразеологические исследования фиксируют именно baciti / bacati bisere pred svinje; вариант biserje также существует, но bisere сегодня нейтральнее и чаще. Русское «метать бисер перед свиньями» практически полностью совпадает и по образу, и по значению.",
+      "keyword": "bacati bisere pred svinje"
+    },
+    {
       "headword_latin": "Bacati / baciti nekoga u očaj",
       "type": "frazeologizam",
       "definition_ru": "доводить / довести кого-то до отчаяния; повергать / повергнуть в отчаяние",
