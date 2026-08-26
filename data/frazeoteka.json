@@ -150,6 +150,38 @@
       "keyword": "svakom loncu poklopac"
     },
     {
+      "headword_latin": "Blenuti kao tele u šarena vrata",
+      "type": "frazeologizam",
+      "definition_ru": "смотреть как баран на новые ворота; тупо таращиться; смотреть в полном недоумении",
+      "synonyms_sr": [
+        "tupo gledati",
+        "zuriti zbunjeno",
+        "gledati bez razumevanja",
+        "zinuti od čuda"
+      ],
+      "literal_ru": "таращиться как телёнок на пёстрые ворота",
+      "register": "razg., neodobr. ili šalj.; varijante gledati / blenuti / bleneti kao tele u šarena vrata",
+      "examples": [
+        {
+          "serbian_latin": "Šta je, šta gledaš kao tele u šarena vrata?",
+          "russian": "Чего уставился как баран на новые ворота?",
+          "source": "Vukajlija, 2008"
+        },
+        {
+          "serbian_latin": "Šta bleneš k’o tele u šarena vrata!",
+          "russian": "Что ты таращишься как баран на новые ворота!",
+          "source": "Vukajlija, 2009"
+        },
+        {
+          "serbian_latin": "Gleda kao tele u šarena vrata koristi se da opiše osobu koja nešto ne razume.",
+          "russian": "«Смотрит как телёнок на пёстрые ворота» говорят о человеке, который ничего не понимает.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Русский и сербский фразеологизмы почти совпадают по функции, но русский баран смотрит на новые ворота, а сербский телёнок — на пёстрые. Значение — растерянный, непонимающий, иногда откровенно глуповатый взгляд. Существует лингвистическая версия о связи с немецким выражением типа «стоять как корова/вол перед новыми воротами»; Danas приводит эту версию наряду с несколькими народными объяснениями и подчёркивает, что точная история образа не бесспорна.",
+      "keyword": "tele u šarena vrata"
+    },
+    {
       "headword_latin": "Bolje ikad nego nikad",
       "type": "poslovica",
       "definition_ru": "лучше поздно, чем никогда; лучше сделать хоть когда-нибудь, чем не сделать вообще",
@@ -208,6 +240,68 @@
       ],
       "note": "Русский эквивалент практически идеален, меняются только птицы: сербский vrabac — golub, русский синица — журавль. Пословица не обязательно проповедует трусость или отсутствие амбиций: её основной смысл — не рисковать реальной ценностью ради неопределённой большей выгоды. Современные сербские обсуждения активно спорят с этой народной мудростью, считая её иногда рецептом чрезмерной осторожности; это хороший признак того, что пословица остаётся живой.",
       "keyword": "bolje vrabac u ruci nego golub na grani"
+    },
+    {
+      "headword_latin": "Čiča miča i gotova priča",
+      "type": "izreka",
+      "definition_ru": "вот и сказочке конец; вот и вся история; и на этом всё",
+      "synonyms_sr": [
+        "kraj priče",
+        "i gotovo",
+        "tu je priči kraj"
+      ],
+      "literal_ru": "",
+      "register": "dečja završna formula; van bajke šaljivo: i gotovo, stvar je završena",
+      "examples": [
+        {
+          "serbian_latin": "Živeli su dugo i srećno u kućici na brdu. Čiča miča i gotova priča.",
+          "russian": "Жили они долго и счастливо. Вот и сказочке конец.",
+          "source": "Priručnik medijske i informacione pismenosti, 2022"
+        },
+        {
+          "serbian_latin": "I onda je video-igra srušila „gvozdenu zavesu“, čiča miča i gotova priča.",
+          "russian": "И вот видеоигра разрушила «железный занавес» — и на этом сказочке конец.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Rekao sam što sam rekao i gotovo — čiča miča i gotova priča.",
+          "russian": "Я сказал что сказал, и всё — конец истории.",
+          "source": "Vukajlija, 2010"
+        }
+      ],
+      "note": "Это традиционная рифмованная формула окончания детской сказки; čiča miča здесь самостоятельного современного значения практически не имеет — главное рифмованное созвучие с priča. Взрослая речь охотно переносит формулу на ситуации, которые хотят представить слишком просто завершёнными: «сделали это — и всё, вопрос закрыт». Поэтому в публицистике она часто звучит иронически. Русское продолжение «а кто слушал — молодец» является уже русской сказочной формулой и в сербское выражение не входит.",
+      "keyword": "čiča miča gotova priča"
+    },
+    {
+      "headword_latin": "Čovek planira, a Bog se smeje",
+      "type": "izreka",
+      "definition_ru": "человек предполагает, а Бог располагает; хочешь рассмешить Бога — расскажи ему о своих планах",
+      "synonyms_sr": [
+        "čovek kuje planove, a Bog se smeje",
+        "život ima svoje planove",
+        "ne može se sve isplanirati"
+      ],
+      "literal_ru": "человек планирует, а Бог смеётся",
+      "register": "izreka; o nepredvidivosti života i ograničenosti ljudskih planova",
+      "examples": [
+        {
+          "serbian_latin": "Čovek planira, a Bog se smeje. Nažalost, nije sve krenulo onako kako smo planirali.",
+          "russian": "Человек предполагает, а Бог располагает: к сожалению, всё пошло не по плану.",
+          "source": "Seval novine, 2021"
+        },
+        {
+          "serbian_latin": "Čovek planira, a Bog se smeje.",
+          "russian": "Человек предполагает, а Бог располагает.",
+          "source": "Reddit/AskSerbia, 2025"
+        },
+        {
+          "serbian_latin": "Neki trenutni planovi su Španija, ali čovek planira, Bog se smeje.",
+          "russian": "Пока планирую Испанию, но человек предполагает, а Бог располагает.",
+          "source": "Reddit/r/serbia, 2024"
+        }
+      ],
+      "note": "В сербском действительно широко живёт формула Čovek planira, a Bog se smeje, иногда čovek kuje planove, a Bog se smeje. Это не столько религиозное утверждение, сколько бытовое напоминание: обстоятельства легко перечёркивают идеально составленные планы. Русское «человек предполагает, а Бог располагает» более книжное; разговорный русский аналог — «хочешь рассмешить Бога — расскажи ему о своих планах».",
+      "keyword": "čovek planira a Bog se smeje"
     },
     {
       "headword_latin": "Ćeraćemo se još",
@@ -621,6 +715,38 @@
       "keyword": "imati trip da"
     },
     {
+      "headword_latin": "Ispeci, pa reci",
+      "type": "izreka",
+      "definition_ru": "сначала подумай, потом говори; семь раз отмерь слово; не руби с плеча",
+      "synonyms_sr": [
+        "razmisli pre nego što kažeš",
+        "pazi šta govoriš",
+        "meri reči",
+        "ne govori naprečac"
+      ],
+      "literal_ru": "испеки, потом скажи",
+      "register": "narodna izreka; poziv da se reči promisle pre nego što se izgovore",
+      "examples": [
+        {
+          "serbian_latin": "Za ovakve postove je uvek bolje primeniti ono čuveno „ispeci pa reci“.",
+          "russian": "Перед такими сообщениями лучше придерживаться правила: сначала подумай, потом говори.",
+          "source": "Titlovi forum, 2010"
+        },
+        {
+          "serbian_latin": "Nekada ne uspem da iskažem baš najbolje ono što mislim — „ispeci pa reci“.",
+          "russian": "Иногда я не умею нормально сформулировать мысль — мне бы сначала думать, потом говорить.",
+          "source": "Reddit/r/serbia, 2022"
+        },
+        {
+          "serbian_latin": "Ispeci, pa reci.",
+          "russian": "Сначала подумай, потом говори.",
+          "source": "zbirka narodnih poslovica, 1991"
+        }
+      ],
+      "note": "Здесь ispeci — императив от ispeći «испечь»: мысль метафорически надо сначала «довести до готовности», а уже потом выпускать наружу. Пословица особенно удачно противопоставляется Što na um, to na drum: первая требует речевого самоконтроля, вторая описывает его отсутствие. Выражение получило дополнительную культурную узнаваемость благодаря книге академика Ивана Клайна Ispeci pa reci, одной из его популярных книг о языке.",
+      "keyword": "ispeci pa reci"
+    },
+    {
       "headword_latin": "Izigravati žrtvu",
       "type": "kolokacija",
       "definition_ru": "изображать из себя жертву; строить из себя пострадавшего; разыгрывать роль жертвы",
@@ -750,6 +876,38 @@
       ],
       "note": "Это не обещание далёкого будущего, а выразительное «никогда»: ива не плодоносит виноградом. В живой речи встречается шуточная рифмованная переделка kad na vrbi zasvrbi, особенно в интернете. Надёжно установленной конкретной истории происхождения выражения нет; рассказы о человеке, будто бы пытавшемся вырастить виноград на иве, следует воспринимать как поздний фольклор, а не доказанную этимологию.",
       "keyword": "kad na vrbi rodi grožđe"
+    },
+    {
+      "headword_latin": "Kao kec na deset",
+      "type": "frazeologizam",
+      "definition_ru": "как нельзя кстати; в самый подходящий момент; то, что нужно",
+      "synonyms_sr": [
+        "kao poručeno",
+        "u pravi čas",
+        "baš kad treba",
+        "pravovremeno"
+      ],
+      "literal_ru": "как туз на десятку",
+      "register": "razg.; najčešće doći / pasti nekome kao kec na deset",
+      "examples": [
+        {
+          "serbian_latin": "Sa revizijom tužbe Bakir Izetbegović je nacionalistima iz RS došao kao „kec na deset“.",
+          "russian": "Пересмотр иска оказался для националистов Республики Сербской как нельзя кстати.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Kao „kec na deset“ mi je došlo ono međunarodno istraživanje.",
+          "russian": "Это международное исследование подвернулось мне как нельзя кстати.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Uleteo je kao kec na deset.",
+          "russian": "Он появился именно тогда, когда был нужен.",
+          "source": "BJBikers forum, 2018"
+        }
+      ],
+      "note": "Главное значение — что-то появилось именно вовремя и идеально подошло к ситуации. Фразеологические исследования связывают выражение с карточной игрой ajnc: десятка вместе с тузом даёт выигрышную комбинацию 21; отсюда «идеально, в самый подходящий момент». Поэтому русское «как нельзя кстати» точнее, чем просто «повезло». Существует и противоположная формула kao kec na jedanaest — «совсем некстати, в неподходящий момент».",
+      "keyword": "kao kec na deset"
     },
     {
       "headword_latin": "Kap koja je prelila čašu",
@@ -1154,6 +1312,42 @@
       "keyword": "nema odmora dok traje obnova"
     },
     {
+      "headword_latin": "Neprskano",
+      "type": "pridev",
+      "definition_ru": "необработанное химикатами; не опрыскивавшееся; выращенное без опрыскивания пестицидами",
+      "synonyms_sr": [
+        "netretirano",
+        "bez hemijskog tretiranja",
+        "bez pesticida (samo ako je potvrđeno)"
+      ],
+      "literal_ru": "неопрыскиванное",
+      "register": "razg.; najčešće o voću, povrću i biljkama; srednji rod prideva neprskan: neprskano voće, neprskano povrće",
+      "examples": [
+        {
+          "serbian_latin": "Neprskano je samo ako tako piše. Pa vi verujte.",
+          "russian": "«Неопрыскиванное» оно только потому, что так написано. А верить этому или нет — ваше дело.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ljudi, ima li u Beogradu neko mesto gde mogu kupiti neprskano voće i povrće?",
+          "russian": "Народ, есть ли в Белграде место, где можно купить фрукты и овощи, которые ничем не опрыскивали?",
+          "source": "Reddit/AskSerbia, 2025"
+        },
+        {
+          "serbian_latin": "Kad god sam čuo da je „domaće“ ili da „nije prskano“...",
+          "russian": "Всякий раз, когда я слышал, что продукт «домашний» или «ничем не опрыскивался»...",
+          "source": "Reddit/r/serbia, 2022"
+        },
+        {
+          "serbian_latin": "Ove jabuke su iz našeg dvorišta, potpuno su neprskane.",
+          "russian": "Эти яблоки из нашего сада, их вообще ничем не опрыскивали.",
+          "source": ""
+        }
+      ],
+      "note": "В сербской бытовой речи neprskano — очень частое слово на рынках и при разговорах о «домашних» продуктах. Оно буквально означает, что растение или плод nisu prskani, то есть их не обрабатывали распыляемыми средствами. Но это не официальный синоним organskog proizvoda: «неопрыскиванное», «органическое», «домашнее» и «безопасное» — разные понятия. RTS специально показывает, насколько ненадёжным может быть рыночное заявление neprskano: продавцы используют его свободно, тогда как реальное применение пестицидов и соблюдение karence — срока между последней обработкой и сбором урожая — требуют отдельного контроля. В живой речи можно услышать и субстантивированное Kupujem samo neprskano — «покупаю только то, что не опрыскивали». Для русского важно также не переводить автоматически как «экологически чистое»: сербское слово этого не гарантирует.",
+      "keyword": "neprskano"
+    },
+    {
       "headword_latin": "Nit’ riba, nit’ devojka",
       "type": "frazeologizam",
       "definition_ru": "ни рыба ни мясо; ни то ни сё; непонятно что",
@@ -1186,6 +1380,42 @@
       "keyword": "nit riba nit devojka"
     },
     {
+      "headword_latin": "Osveta",
+      "type": "imenica",
+      "definition_ru": "месть; возмездие",
+      "synonyms_sr": [
+        "odmazda (nije uvek potpuni sinonim)",
+        "vraćanje milog za drago",
+        "revanširanje (kontekstualno)"
+      ],
+      "literal_ru": "",
+      "register": "imenica; važno je razlikovati osvetiti nekoga i osvetiti se nekome",
+      "examples": [
+        {
+          "serbian_latin": "Osvetiti se nekome vraćajući mu bol istom merom nije jedini put za uspostavljanje pravde.",
+          "russian": "Отомстить кому-то, причинив ему такую же боль, — не единственный способ восстановить справедливость.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Osvetiću ti se za ovo.",
+          "russian": "Я тебе за это отомщу.",
+          "source": "Univerzitet u Novom Sadu, 2025"
+        },
+        {
+          "serbian_latin": "Danas ću vas, braćo, osvetiti, osvetiti ili poginuti.",
+          "russian": "Сегодня я отомщу за вас, братья: отомщу или погибну.",
+          "source": "narodna epika, citirano u lingvističkom istraživanju, 2026"
+        },
+        {
+          "serbian_latin": "Osvetiću te.",
+          "russian": "Я отомщу за тебя.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь действительно есть важное управление. Osvetiti nekoga — «отомстить за кого-то, отомстить за причинённое ему зло»: Osvetiću te — «Я отомщу за тебя». Osvetiti se nekome — «отомстить кому-то»: Osvetiću ti se — «Я тебе отомщу». Академическое исследование исторической сербской лексики прямо противопоставляет эпическое osvetiti braću и osvetiti se paši. Ещё одна ловушка: osvetiti hram, vodu, ikonu в церковном контексте означает «освятить», а не «отомстить»; значение определяется объектом и контекстом.",
+      "keyword": "osveta"
+    },
+    {
       "headword_latin": "Oteto – prokleto",
       "type": "izreka",
       "definition_ru": "награбленное счастья не принесёт; чужое добро впрок не идёт; неправедно нажитое проклято",
@@ -1215,6 +1445,43 @@
       ],
       "note": "Это формула народной морали: то, что получено грабежом, насилием или несправедливостью, в конечном счёте не принесёт добра тому, кто это присвоил. Изречение настолько узнаваемо, что используется как самостоятельный политический лозунг и как основа афоризмов; Danas, например, приводит переделку Oteto, prokleto slatko! Русское «что упало, то пропало» означает совсем другое — что потерянное уже не вернуть.",
       "keyword": "oteto prokleto"
+    },
+    {
+      "headword_latin": "Parati uši",
+      "type": "frazeologizam",
+      "definition_ru": "резать слух; резать уши; неприятно звучать",
+      "synonyms_sr": [
+        "neprijatno zvučati",
+        "smetati uhu",
+        "zvučati rogobatno",
+        "iritirati sluh"
+      ],
+      "literal_ru": "распарывать уши",
+      "register": "frazeologizam; tipična konstrukcija nešto nekome para uši: Glas mi para uši",
+      "examples": [
+        {
+          "serbian_latin": "Imaš lepu boju glasa, ali nedopustivo mnogo falša, nekako, para mi uši.",
+          "russian": "У тебя красивый тембр, но слишком много фальши — мне прямо режет слух.",
+          "source": "Ana.rs, 2014"
+        },
+        {
+          "serbian_latin": "Više bi pristajalo „para mi uši“.",
+          "russian": "Здесь лучше подошло бы «режет мне слух».",
+          "source": "Vokabular forum, 2006"
+        },
+        {
+          "serbian_latin": "Narodnjaci mi paraju uši.",
+          "russian": "От народной музыки у меня уши режет.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Isključi televizor. Glas te voditeljke mi para uši.",
+          "russian": "Выключи телевизор. Голос этой ведущей режет мне слух.",
+          "source": ""
+        }
+      ],
+      "note": "Очень полезна конструкция с дательным: mi / ti / mu / joj para uši. Подлежащим является неприятный звук: glas mi para uši, во множественном числе narodnjaci mi paraju uši. Фраза употребляется и шире — о слове, произношении или грамматической форме, которая звучит для говорящего неестественно: именно так выражение используется на языковом форуме.",
+      "keyword": "parati uši"
     },
     {
       "headword_latin": "Pokrij se ušima",
@@ -1606,6 +1873,38 @@
       "keyword": "siromašan kao crkveni miš"
     },
     {
+      "headword_latin": "Soliti pamet",
+      "type": "frazeologizam",
+      "definition_ru": "поучать; читать нотации; компостировать мозги; учить жизни",
+      "synonyms_sr": [
+        "pametovati",
+        "držati predavanje nekome",
+        "deliti neželjene savete",
+        "popovati (razg.)"
+      ],
+      "literal_ru": "солить ум",
+      "register": "razg., neodobr.; obično soliti nekome pamet",
+      "examples": [
+        {
+          "serbian_latin": "Nemojte nam „soliti pamet“!",
+          "russian": "Не надо нас поучать!",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Javno obećavam da nikada neću „soliti pamet“ mlađima.",
+          "russian": "Публично обещаю, что никогда не буду учить молодых жизни.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Zašto soliti pamet klincima?",
+          "russian": "Зачем читать молодёжи нотации?",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Выражение подразумевает не просто «давать совет», а назойливо поучать человека, особенно когда он этого не просил. Типичная форма — Nemoj ti meni da soliš pamet: «Не учи меня жить / не компостируй мне мозги». Не путать с ispirati mozak — «промывать мозги»: там речь об идеологическом или психологическом воздействии, а здесь — о занудном морализаторстве.",
+      "keyword": "soliti pamet"
+    },
+    {
       "headword_latin": "Spavati kao klada",
       "type": "frazeologizam",
       "definition_ru": "спать как убитый; спать как сурок; спать мёртвым сном",
@@ -1818,6 +2117,38 @@
       ],
       "note": "Kus значит «куцый, укороченный, неполный»; поэтому образ пословицы — результат, которому из-за спешки чего-то недостаёт. Сербские носители сами нередко поясняют её через navrat-nanos, «на скорую руку». Русский эквивалент «поспешишь — людей насмешишь» передаёт функцию лучше буквального перевода.",
       "keyword": "što je brzo to je kuso"
+    },
+    {
+      "headword_latin": "Što na um, to na drum",
+      "type": "izreka",
+      "definition_ru": "что на уме, то и на языке; говорить всё, что думаешь; без фильтра",
+      "synonyms_sr": [
+        "govoriti šta misliš",
+        "govoriti bez uvijanja",
+        "nemati dlake na jeziku (delimično)",
+        "biti direktan"
+      ],
+      "literal_ru": "что в голову — то на дорогу",
+      "register": "izreka; može biti pohvala direktnosti ili kritika neuzdržanosti",
+      "examples": [
+        {
+          "serbian_latin": "Za vas važi ona stara „što na um to na drum“ — izgovorite ono što mislite.",
+          "russian": "Про вас говорят: что на уме, то и на языке — вы произносите всё, что думаете.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Poriv da u svakoj prilici govorite istinu — što na um to na drum.",
+          "russian": "Стремление при любом случае говорить всё как есть — что на уме, то и на языке.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "U politici i diplomatiji gotovo uvek jedna priča ide drumom, druga šumom... „što na um to na drum“.",
+          "russian": "В политике и дипломатии обычно говорят одно, думают другое; здесь же — что на уме, то и на языке.",
+          "source": "Politika, 2011"
+        }
+      ],
+      "note": "Drum — дорога, большой путь; образно мысль из головы сразу «выходит наружу», в публичное пространство. Поэтому смысл шире буквального «что на уме, то на языке»: человек не фильтрует сказанное и быстро выносит внутреннюю мысль наружу. Академическое исследование рекламного языка показывает, насколько формула узнаваема: её пародируют как Što na umu, to u somunu!",
+      "keyword": "što na um to na drum"
     },
     {
       "headword_latin": "Tante za kukuriku",
@@ -2094,6 +2425,38 @@
       ],
       "note": "В бытовой речи ещё естественнее часто звучит zaglaviti u gužvi. Zaglavljen u saobraćaju совершенно нормально, но буквально говорит «застрявший в движении», а не называет саму пробку существительным.",
       "keyword": "zaglaviti u saobraćaju"
+    },
+    {
+      "headword_latin": "Zbog sira i vojne muzike",
+      "type": "replika",
+      "definition_ru": "по кочану; потому что потому; не твоё дело почему",
+      "synonyms_sr": [
+        "zato",
+        "zato što ja tako kažem (šalj.)",
+        "šta te briga (grublje)",
+        "zbog sira (razg.)"
+      ],
+      "literal_ru": "из-за сыра и военной музыки",
+      "register": "razg., šalj. ili razdraženo; namerno besmislen odgovor na uporno ili glupo pitanje Zašto?",
+      "examples": [
+        {
+          "serbian_latin": "Zašto si ugazio u baru? — Zbog sira i vojne muzike.",
+          "russian": "Почему ты наступил в лужу? — По кочану.",
+          "source": "Vukajlija, 2007"
+        },
+        {
+          "serbian_latin": "Zašto si izbušila uši na toliko mesta? — Zbog sira i vojne muzike!",
+          "russian": "Зачем ты столько дырок в ушах сделала? — По кочану!",
+          "source": "Vukajlija, 2010"
+        },
+        {
+          "serbian_latin": "Zašto ideš tamo? — Zbog sira i vojne muzike.",
+          "russian": "Почему ты туда идёшь? — Потому что потому.",
+          "source": ""
+        }
+      ],
+      "note": "Это не объяснение причины, а демонстративный отказ объяснять. Особенно типично как ответ ребёнку, младшему брату или человеку, который в сотый раз спрашивает zašto?; Vukajlija определяет формулу как ответ на бессмысленный вопрос или вопрос с очевидным ответом. Форму zbog jotovanja как устойчивый сербский эквивалент мне надёжно подтвердить не удалось: в доступных источниках она появляется только как собственно лингвистический термин jotovanje, но не как общеупотребительная отговорка. Поэтому в словарь как равноправный вариант я бы её пока не включал.",
+      "keyword": "zbog sira i vojne muzike"
     }
   ]
 }
