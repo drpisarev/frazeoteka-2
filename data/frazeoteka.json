@@ -616,6 +616,38 @@
       "keyword": "bolje vrabac u ruci nego golub na grani"
     },
     {
+      "headword_latin": "Boriti se rukama i nogama",
+      "type": "frazeologizam",
+      "definition_ru": "бороться изо всех сил; всеми силами добиваться чего-то; делать всё возможное",
+      "synonyms_sr": [
+        "boriti se svim silama",
+        "grčevito se boriti",
+        "grebati rukama i nogama",
+        "činiti sve što je moguće"
+      ],
+      "literal_ru": "бороться руками и ногами",
+      "register": "razg., ekspresivno; obično boriti se rukama i nogama za nešto / da se nešto postigne ili spreči",
+      "examples": [
+        {
+          "serbian_latin": "On se sad bori rukama i nogama.",
+          "russian": "Теперь он изо всех сил борется за своё.",
+          "source": "Vreme, 2016"
+        },
+        {
+          "serbian_latin": "Zašto se rukama i nogama bori za neku reku?",
+          "russian": "Почему он так отчаянно борется за какую-то реку?",
+          "source": "Nova.rs, 2021"
+        },
+        {
+          "serbian_latin": "Bori se rukama i nogama da zadrži posao.",
+          "russian": "Он всеми силами старается сохранить работу.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение подчёркивает максимальное усилие и упорство, а не способ борьбы в буквальном смысле. Можно как добиваться желаемого — boriti se rukama i nogama za svaki glas, так и сопротивляться чему-то. Близкое grebati rukama i nogama ещё сильнее подчёркивает отчаянные усилия.",
+      "keyword": "boriti se rukama i nogama"
+    },
+    {
       "headword_latin": "Čiča miča i gotova priča",
       "type": "izreka",
       "definition_ru": "вот и сказочке конец; вот и вся история; и на этом всё",
@@ -810,33 +842,33 @@
     {
       "headword_latin": "Do bola",
       "type": "izraz",
-      "definition_ru": "до предела; невероятно; очень, чрезвычайно",
+      "definition_ru": "до предела; чрезвычайно; ужасно, невероятно; до боли",
       "synonyms_sr": [
         "veoma",
-        "izrazito",
+        "izuzetno",
         "krajnje",
-        "maksimalno (po kontekstu)"
+        "neverovatno"
       ],
       "literal_ru": "до боли",
-      "register": "razg., ekspresivni intenzifikator; uz pridev, prilog ili osobinu: glup do bola, dosadan do bola, iskren do bola",
+      "register": "razg., ekspresivni pojačivač; naročito iskren do bola, pošten do bola, dosadan do bola",
       "examples": [
         {
-          "serbian_latin": "Kad kažu da je nešto „do bola“, to uopšte ne boli, već je izrazito dobro.",
-          "russian": "Когда говорят, что что-то do bola, речь вовсе не о боли, а о высшей степени качества.",
-          "source": "Politika, 2007"
+          "serbian_latin": "Veliki čovek, dobrica, iskren do bola.",
+          "russian": "Большой человек, добряк, до предела искренний.",
+          "source": "N1 Srbija, 2020"
         },
         {
-          "serbian_latin": "Pregovori su bili mučni, a snizili su cene „do bola“.",
-          "russian": "Переговоры были тяжёлыми, а цены они сбили до предела.",
-          "source": "Politika, 2017"
+          "serbian_latin": "Vinko je tip pošten do bola.",
+          "russian": "Винко — человек до невозможности честный.",
+          "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Parlament je bio zabavan do bola.",
-          "russian": "Парламент был уморительно смешным.",
-          "source": "Danas, 2025"
+          "serbian_latin": "Za njega je napisao da je „dosadan do bola“.",
+          "russian": "Он написал о нём, что тот «невыносимо скучный».",
+          "source": "Danas, 2017"
         }
       ],
-      "note": "Это не всегда буквально «до боли». В современной разговорной речи do bola превратилось в сильный интенсификатор: примерно «безумно, невероятно, донельзя». Значение сильно зависит от слова: glup do bola — «тупой до невозможности», iskren do bola — «предельно откровенный», dobar do bola — «офигенно хороший». В молодёжном сленге выражение особенно распространилось как усилитель положительной оценки.",
+      "note": "Do bola часто уже не связано с настоящей болью и работает как разговорный усилитель примерно уровня «до невозможности, чрезвычайно». Сочетается и с положительными, и с отрицательными характеристиками: iskren do bola, pošten do bola, dosadan do bola. Русское буквальное «до боли честный» возможно, но во многих контекстах естественнее «предельно честный», «невыносимо скучный».",
       "keyword": "do bola"
     },
     {
@@ -896,6 +928,38 @@
       ],
       "note": "Форма действительно существует во фразеографических источниках как doći će cica na kolica. Но на Ana.rs носительница прямо противопоставляет srbijanska verzija: Došla maca na vratanca и bosanska verzija: Došla cica na kolica. Поэтому для сербского стандарта я бы считал maca na vratanca основной статьёй, а cica na kolica — региональным вариантом. Русское «придёт зима — снега попросишь» возможно по ситуации, но шире смысл «ещё придёт расплата / ещё сам придёшь».",
       "keyword": "doći će cica na kolica"
+    },
+    {
+      "headword_latin": "Doći nekome iz dupeta u glavu",
+      "type": "frazeologizam",
+      "definition_ru": "до кого-то наконец дошло; наконец сообразить; наконец одуматься",
+      "synonyms_sr": [
+        "konačno shvatiti",
+        "opametiti se",
+        "doći pameti",
+        "ukapirati (razg.)"
+      ],
+      "literal_ru": "дойти кому-то из ж*** в голову",
+      "register": "grub., razg., iron.; o zakasnelom shvatanju nečega što je odavno trebalo biti jasno",
+      "examples": [
+        {
+          "serbian_latin": "Izgleda da je premijeru došlo, što kaže naš narod, „iz dupeta u glavu“.",
+          "russian": "Похоже, до премьера наконец дошло, как говорится.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Kad se neko, makar i sa velikim zakašnjenjem otrezni ili opasulji, onda naš narod ovako kaže: Došlo mu iz dupeta u glavu.",
+          "russian": "Когда человек, пусть и с большим опозданием, наконец приходит в себя и соображает, говорят: до него наконец дошло.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Posle deset godina mu je konačno došlo iz dupeta u glavu da taj posao nema budućnost.",
+          "russian": "Через десять лет до него наконец дошло, что у этого дела нет будущего.",
+          "source": ""
+        }
+      ],
+      "note": "Ключевой оттенок — не просто shvatiti, а понять слишком поздно то, что давно следовало понять. Поэтому выражение почти всегда насмешливое или раздражённое. Очень естественна конструкция Došlo mu je iz dupeta u glavu. Сербское dupe здесь сохраняется без эвфемизма; в русском функциональном переводе чаще достаточно «до него наконец дошло», потому что буквальный образ звучит значительно грубее.",
+      "keyword": "iz dupeta u glavu"
     },
     {
       "headword_latin": "Dok jednom ne smrkne, drugom ne svane",
@@ -1154,6 +1218,38 @@
       ],
       "note": "Gledati belo словарно и во фразеологических исследованиях описывается как gledati začuđeno, razrogačenih očiju, то есть смотреть удивлённо и непонимающе; в сопоставительном исследовании ему прямо соответствует значение «смотреть без понимания». Это не совсем русское «смотреть пустым взглядом»: сербское выражение чаще подразумевает конкретную реакцию «я ничего не понял / что ты вообще говоришь?». Очень естественна конструкция gledati nekoga belo: gledao me je belo, gledaju me belo. В художественной прозе выражение употребляется совершенно свободно, что подтверждает его не только разговорный, но и литературно освоенный характер.",
       "keyword": "gledati belo"
+    },
+    {
+      "headword_latin": "Gluv kao top",
+      "type": "frazeologizam",
+      "definition_ru": "совершенно глухой; глухой как пень; ничего не слышащий",
+      "synonyms_sr": [
+        "potpuno gluv",
+        "sasvim gluv",
+        "nagluv (slabije)",
+        "bez sluha (samo o muzičkom sluhu)"
+      ],
+      "literal_ru": "глухой как пушка",
+      "register": "razg., ekspresivno; može i o potpunom nedostatku muzičkog sluha",
+      "examples": [
+        {
+          "serbian_latin": "Što bi rekao, gluv je na jedno uvo kao top.",
+          "russian": "Как он сам говорит, на одно ухо он совершенно глух.",
+          "source": "Politika, 2013"
+        },
+        {
+          "serbian_latin": "Neretko čujemo za nekoga ko je slaboga sluha da je „gluv kao top“.",
+          "russian": "Нередко о человеке, который плохо слышит, говорят, что он «глух как пень».",
+          "source": "Nportal / Večernje novosti, 2022"
+        },
+        {
+          "serbian_latin": "Džabe mu vičeš, gluv je kao top.",
+          "russian": "Бесполезно ему кричать, он совершенно глухой.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском gluv — стандартная экавская форма. Исследователь сербской фразеологии Dragana Mršević-Radović связывает образ с оглушительной силой пушечного выстрела и с тем, что сильный шум повреждает слух артиллеристов. Выражение может быть и гиперболой: человек не обязательно медицински глух, а просто очень плохо слышит.",
+      "keyword": "gluv kao top"
     },
     {
       "headword_latin": "I mirna Bosna",
@@ -1696,6 +1792,38 @@
       "keyword": "kao klinac"
     },
     {
+      "headword_latin": "Kao muva bez glave",
+      "type": "frazeologizam",
+      "definition_ru": "метаться как без головы; носиться как угорелый; действовать растерянно и бессистемно",
+      "synonyms_sr": [
+        "kao bez glave",
+        "pogubljeno",
+        "smušeno",
+        "bez ikakvog plana"
+      ],
+      "literal_ru": "как муха без головы",
+      "register": "razg.; naročito juriti, trčati, ići, lutati kao muva bez glave",
+      "examples": [
+        {
+          "serbian_latin": "Kao muva bez glave sam, ne znam gde udaram.",
+          "russian": "Я совершенно потерян, мечусь и не знаю, за что хвататься.",
+          "source": "Blic, 2020"
+        },
+        {
+          "serbian_latin": "Igrač se kreće „kao muva bez glave“ sve dok ne pronađe dobar skriveni prostor.",
+          "russian": "Игрок мечется как без головы, пока не найдёт хорошее укрытие.",
+          "source": "Blic, 2001"
+        },
+        {
+          "serbian_latin": "Od jutros jurim kao muva bez glave i ništa nisam završio.",
+          "russian": "С утра ношусь как угорелый и ничего не сделал.",
+          "source": ""
+        }
+      ],
+      "note": "В выражении соединены бессмысленная спешка, растерянность и отсутствие направления. Поэтому русское «носиться как угорелый» передаёт скорость, но не всегда растерянность; «метаться как без головы» часто точнее. В сербской речи также употребляется сокращённое kao bez glave: Danas jurim kao bez glave. Сербская форма существительного — muva.",
+      "keyword": "kao muva bez glave"
+    },
+    {
       "headword_latin": "Kap koja je prelila čašu",
       "type": "frazeologizam",
       "definition_ru": "последняя капля; то, что переполнило чашу терпения",
@@ -2176,34 +2304,34 @@
     {
       "headword_latin": "Naivan kao francuska sobarica",
       "type": "frazeologizam",
-      "definition_ru": "прикидываться наивным; строить из себя невинность; «наивный» только с виду",
+      "definition_ru": "ирон. далеко не наивный; прикидывающийся простачком; «наивный, как бы не так»",
       "synonyms_sr": [
         "praviti se naivan",
-        "praviti se nevešt",
-        "glumiti naivnost",
-        "praviti se da ništa ne zna"
+        "biti prevejan",
+        "biti iskusan",
+        "ne biti od juče"
       ],
       "literal_ru": "наивный как французская горничная",
-      "register": "razg., iron.; često o osobi koja glumi naivnost iako dobro razume situaciju",
+      "register": "razg., iron.; naivan / naivna kao francuska sobarica",
       "examples": [
         {
-          "serbian_latin": "Pravi se ona naivna, kao francuska sobarica.",
-          "russian": "Она строит из себя наивную, прямо французская горничная.",
-          "source": "Danas, komentar, 2026"
+          "serbian_latin": "Mi — nevini, naivni, časni kao francuske sobarice... A znali dobro šta rade.",
+          "russian": "А мы, значит, невинные и наивные… Ну конечно. Они прекрасно знали, что делают.",
+          "source": "Nova.rs, 2025"
         },
         {
-          "serbian_latin": "Jesi naivna ko francuska sobarica.",
-          "russian": "Ну да, прямо наивная французская горничная.",
-          "source": "Reddit/r/serbia, 2026"
+          "serbian_latin": "Ne moramo da se pravimo naivni kao francuske sobarice.",
+          "russian": "Не надо делать вид, будто мы такие уж наивные.",
+          "source": "Reddit/r/serbia, 2024"
         },
         {
-          "serbian_latin": "Nemoj da se praviš naivna kao francuska sobarica — dobro znaš o čemu pričam.",
-          "russian": "Не строй из себя невинность — ты прекрасно знаешь, о чём я говорю.",
-          "source": ""
+          "serbian_latin": "Možda su mislili da smo naivni kao francuske sobarice?",
+          "russian": "Может, они решили, что мы совсем уж простачки?",
+          "source": "021.rs, 2025"
         }
       ],
-      "note": "Здесь исходный словарь особенно полезно не копировать буквально. В сербской фразеологии выражение исследовано как пример иронии через противоположное значение: naivna k’o francuska sobarica — «очень опытная, но ведущая себя так, будто всё наоборот». Сербские жаргонные источники также фиксируют значение «делать вид, что ничего не понимаешь», хотя встречается и буквальное толкование «очень наивный». Для активного словаря важнее именно ироническая модель praviti se naivan kao francuska sobarica. Происхождение образа надёжно не установлено; вероятно, оно связано с культурным стереотипом сексуально опытной «французской горничной», из-за чего прилагательное naivan становится насмешливо противоположным реальности.",
-      "keyword": "francuska sobarica"
+      "note": "В сербском это прежде всего ироническое выражение. Оно обычно означает не «очень наивный», а скорее «далеко не наивный; прикидывающийся наивным». Сербский сленговый источник прямо определяет naivna k'o francuska sobarica как nije naivna / izrazito nenaivna osoba, а сербская популярная пресса — как prevejana osoba. Поэтому буквальный перевод «очень наивный» способен полностью перевернуть смысл. Выражение часто употребляют, когда человек делает вид, будто ничего не понимал, хотя говорящий уверен, что тот прекрасно всё понимал.",
+      "keyword": "naivan kao francuska sobarica"
     },
     {
       "headword_latin": "Napaćena duša",
