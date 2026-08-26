@@ -3849,6 +3849,38 @@
       "keyword": "sve se vraća sve se plaća"
     },
     {
+      "headword_latin": "Svirati kurcu",
+      "type": "sleng",
+      "definition_ru": "бездельничать; заниматься бесполезной х*рнёй; ничего полезного не делать; попусту тратить время",
+      "synonyms_sr": [
+        "džabalebariti",
+        "lenčariti",
+        "zabušavati",
+        "mlaćenje prazne slame"
+      ],
+      "literal_ru": "",
+      "register": "grub., vulgarno, razg.; o nekome ko umesto rada besposliči ili radi nešto sasvim beskorisno i besmisleno",
+      "examples": [
+        {
+          "serbian_latin": "Devedeset posto HR-a svira kurcu.",
+          "russian": "Девяносто процентов сотрудников HR ни х*** не делают.",
+          "source": "Reddit/r/serbia, 2026"
+        },
+        {
+          "serbian_latin": "Pametno, bolje i frulu nego što nas devedeset posto sviramo kurcu.",
+          "russian": "И правильно: лучше уж играть на свирели, чем как девяносто процентов из нас заниматься х*рнёй.",
+          "source": "Reddit/r/SerbianCulture, 2026"
+        },
+        {
+          "serbian_latin": "Dok mi završavamo ceo posao, njih dvojica po ceo dan sviraju kurcu.",
+          "russian": "Пока мы делаем всю работу, эти двое целыми днями бездельничают.",
+          "source": ""
+        }
+      ],
+      "note": "Значение шире, чем просто lenčariti. Svirati kurcu может означать и «ничего не делать», и заниматься чем-то совершенно бесполезным, бессмысленным, имитировать деятельность. Сербский сленговый словарь Vukajlija прямо даёт определения džabalebariti и raditi nešto sasvim nebitno i bez ikakve koristi i smisla. Поэтому о сотруднике это часто «пинать х*и», а о совещании, учреждении или проекте — «заниматься бесполезной х*рнёй». Отдельно встречается реплика Pa ti sviraj kurcu, где значение уже другое — грубое «ну и оставайся со своими проблемами / делай что хочешь»",
+      "keyword": "svirati kurcu"
+    },
+    {
       "headword_latin": "Šta fali?",
       "type": "replika",
       "definition_ru": "а что не так?; а что плохого?; чего не хватает?",
