@@ -1,6 +1,38 @@
 {
   "entries": [
     {
+      "headword_latin": "Bez dlake na jeziku",
+      "type": "frazeologizam",
+      "definition_ru": "прямо, без обиняков; не стесняясь в выражениях; говорить всё как есть",
+      "synonyms_sr": [
+        "otvoreno",
+        "direktno",
+        "bez uvijanja",
+        "bez ustručavanja"
+      ],
+      "literal_ru": "без волоска на языке",
+      "register": "razg.; obično govoriti bez dlake na jeziku, nemati dlake na jeziku",
+      "examples": [
+        {
+          "serbian_latin": "„Meso“ je žestoka, savremena i hrabra dramska serija, koja bez dlake na jeziku govori o tranzicionom periodu u maloj sredini.",
+          "russian": "«Мясо» — жёсткий современный сериал, который без обиняков говорит о переходном периоде в маленьком городе.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "O problemima mladih „bez dlake na jeziku“.",
+          "russian": "О проблемах молодёжи — прямо и без обиняков.",
+          "source": "Politika, 2008"
+        },
+        {
+          "serbian_latin": "Ona nema dlake na jeziku i uvek kaže šta misli.",
+          "russian": "Она за словом в карман не лезет и всегда говорит, что думает.",
+          "source": ""
+        }
+      ],
+      "note": "Ваше «что на уме, то и на языке» близко, но не полностью совпадает. Bez dlake na jeziku подчёркивает прежде всего прямоту и отсутствие стеснения, иногда резкость; человек может вполне обдуманно высказать неприятную правду. Što na um, to na drum чаще подчёркивает отсутствие внутреннего фильтра: что подумал, то сразу и сказал. Rečnik SANU объясняет bez dlake na jeziku как открытое говорение без стеснения и оглядки.",
+      "keyword": "bez dlake na jeziku"
+    },
+    {
       "headword_latin": "Bez zamerke",
       "type": "izraz",
       "definition_ru": "без нареканий; безупречно; не к чему придраться",
@@ -580,6 +612,38 @@
       "keyword": "farbati nekoga"
     },
     {
+      "headword_latin": "Floskula",
+      "type": "imenica",
+      "definition_ru": "пустая фраза; избитый штамп; банальность; пустое клише",
+      "synonyms_sr": [
+        "prazna fraza",
+        "otrcana fraza",
+        "kliše",
+        "opšte mesto"
+      ],
+      "literal_ru": "",
+      "register": "neodobr.; naročito o političkom, javnom i birokratskom govoru",
+      "examples": [
+        {
+          "serbian_latin": "„Život piše romane“ — ta floskula silno trošena u svakodnevici...",
+          "russian": "«Жизнь пишет романы» — эта избитая до предела банальность...",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Znam da će zvučati kao floskula, ali jedino što obećavam je da ću uvek dati sve od sebe.",
+          "russian": "Знаю, это прозвучит как дежурная фраза, но могу обещать только одно: всегда буду выкладываться полностью.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "„Mladi su naša budućnost“ često zvuči kao prazna floskula.",
+          "russian": "«Молодёжь — наше будущее» часто звучит как пустой штамп.",
+          "source": ""
+        }
+      ],
+      "note": "Ваше «стандартные фразы практически без смысла» передаёт суть. Но floskula — не просто привычная формула: она ощущается как заезженная, шаблонная и содержательно пустая декларация. RTS прямо называет «Život piše romane» сильно затёртой floskula, а в других текстах слово используется для общеизвестных деклараций, которые повторяются автоматически.",
+      "keyword": "floskula"
+    },
+    {
       "headword_latin": "Fušeraj",
       "type": "imenica",
       "definition_ru": "халтура; работа тяп-ляп; некачественно, непрофессионально сделанная работа",
@@ -815,6 +879,37 @@
       "keyword": "posla preko glave"
     },
     {
+      "headword_latin": "Imati tremu",
+      "type": "kolokacija",
+      "definition_ru": "волноваться; нервничать перед выступлением, экзаменом или встречей; испытывать мандраж",
+      "synonyms_sr": [
+        "biti nervozan",
+        "osećati tremu",
+        "imati frku (šire, razg.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; o uzbuđenju i nervozi pred nastup, ispit, razgovor ili sličnu situaciju",
+      "examples": [
+        {
+          "serbian_latin": "Imate li tremu od gostovanja u Beogradu? — Da, imam tremu i ona je dvojaka.",
+          "russian": "Вы волнуетесь перед выступлением в Белграде? — Да, волнуюсь, причём по двум причинам.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Uvek imam tremu pre prvog predavanja.",
+          "russian": "Я всегда волнуюсь перед первой лекцией.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj da imaš tremu, samo pričaj polako.",
+          "russian": "Не волнуйся, просто говори медленно.",
+          "source": ""
+        }
+      ],
+      "note": "Это не универсальное «нервничать». Если человек нервничает из-за пробки, семейной ссоры или денег, imati tremu обычно не подходит. Trema — сценическое, экзаменационное, соревновательное или социальное волнение: перед концертом, интервью, свиданием, презентацией и т. п.",
+      "keyword": "imati tremu"
+    },
+    {
       "headword_latin": "Imati trip da...",
       "type": "sleng",
       "definition_ru": "иметь загон, что…; казаться себе, что…; иметь навязчивое ощущение, что…",
@@ -1040,6 +1135,37 @@
       ],
       "note": "Главное значение — что-то появилось именно вовремя и идеально подошло к ситуации. Фразеологические исследования связывают выражение с карточной игрой ajnc: десятка вместе с тузом даёт выигрышную комбинацию 21; отсюда «идеально, в самый подходящий момент». Поэтому русское «как нельзя кстати» точнее, чем просто «повезло». Существует и противоположная формула kao kec na jedanaest — «совсем некстати, в неподходящий момент».",
       "keyword": "kao kec na deset"
+    },
+    {
+      "headword_latin": "Kao klinac / kao klinka",
+      "type": "izraz",
+      "definition_ru": "в детстве; когда был пацаном / девчонкой; будучи ребёнком",
+      "synonyms_sr": [
+        "kao dete",
+        "kad sam bio mali / bila mala",
+        "u detinjstvu"
+      ],
+      "literal_ru": "",
+      "register": "razg.; klinac je dečak ili mlad momak, klinka devojčica ili mlada devojka",
+      "examples": [
+        {
+          "serbian_latin": "Kao klinac nisam mislio ni da ću igrati u NBA, a ne biti MVP.",
+          "russian": "В детстве я даже не думал, что буду играть в НБА, не говоря уже о том, что стану MVP.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Kao klinac nisam znao da mi je ćale velika glumačka faca.",
+          "russian": "Когда я был пацаном, я не знал, что мой отец — большая актёрская звезда.",
+          "source": "BBC na srpskom / Danas, 2024"
+        },
+        {
+          "serbian_latin": "Kao klinka sam stalno čitala avanturističke romane.",
+          "russian": "В детстве я постоянно читала приключенческие романы.",
+          "source": ""
+        }
+      ],
+      "note": "Klinac / klinka не обязательно означает совсем маленького ребёнка: это может быть школьник, подросток, молодой парень или девушка — границы определяет контекст. Поэтому kao klinac часто естественнее переводить не буквальным «когда был ребёнком», а «в детстве», «пацаном», «в молодости».",
+      "keyword": "kao klinac"
     },
     {
       "headword_latin": "Kap koja je prelila čašu",
@@ -1350,6 +1476,32 @@
       "keyword": "na ravnoj nozi"
     },
     {
+      "headword_latin": "Napaćena duša",
+      "type": "kolokacija",
+      "definition_ru": "измученная душа; многострадальная душа; измученный человек",
+      "synonyms_sr": [
+        "izmučena duša",
+        "duša puna bola",
+        "napaćen čovek"
+      ],
+      "literal_ru": "",
+      "register": "emotivno, knjiški; ponekad ironično",
+      "examples": [
+        {
+          "serbian_latin": "Napaćena duša, ranjeno srce, pogled ukočen, ispunjen iskrom tuge.",
+          "russian": "Измученная душа, раненое сердце, застывший взгляд, наполненный печалью.",
+          "source": "Bilten Specijalne bolnice za psihijatrijske bolesti, 2015"
+        },
+        {
+          "serbian_latin": "Pusti ga danas, napaćena duša, svašta mu se dogodilo.",
+          "russian": "Оставь его сегодня в покое, бедняга, ему столько всего пришлось пережить.",
+          "source": ""
+        }
+      ],
+      "note": "Napaćen обозначает того, кто много страдал или перенёс много тяжёлого: napaćen čovek, napaćen narod, napaćena zemlja, napaćena duša. В бытовой речи сочетание может быть и ироническим: Jao, napaćena duša! — примерно «ах ты, страдалец наш».",
+      "keyword": "napaćena duša"
+    },
+    {
       "headword_latin": "Našla vreća zakrpu",
       "type": "izreka",
       "definition_ru": "два сапога пара; нашли друг друга; один другого стоит",
@@ -1380,6 +1532,37 @@
       ],
       "note": "Вариант našla krpa zakrpu также существует и фразеологически фиксируется. Однако našla vreća zakrpu очень живо звучит и в современной сербской разговорной речи. В отличие от нейтрального «они подходят друг другу», здесь почти всегда есть насмешка: «оба хороши», «один другого стоит». Не путать с biti svakoj vreći zakrpa — это совсем другой фразеологизм.",
       "keyword": "našla vreća zakrpu"
+    },
+    {
+      "headword_latin": "Ne mogu sebi da priuštim",
+      "type": "izraz",
+      "definition_ru": "я не могу себе позволить; мне это не по карману; я не могу себе этого допустить",
+      "synonyms_sr": [
+        "nemam mogućnosti za to",
+        "nemam para za to (ako je reč o novcu)",
+        "ne mogu to sebi da dozvolim (preneseno)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; priuštiti sebi nešto; značenje može biti materijalno ili preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu sebi da priuštim da omanem na ovom predmetu.",
+          "russian": "Я не могу себе позволить провалить этот предмет.",
+          "source": "K. Dž. Doerti i Karina Rozenfeld, srpski prevod, 2025"
+        },
+        {
+          "serbian_latin": "Ne mogu sebi zaista da priuštim ni kognitivnu terapiju ni kolače u jednoj od najskupljih poslastičarnica u gradu.",
+          "russian": "Вообще-то я не могу себе позволить ни когнитивную терапию, ни пирожные в одной из самых дорогих кондитерских города.",
+          "source": "Sara Paborn, srpski prevod, 2020"
+        },
+        {
+          "serbian_latin": "Ne mogu sebi da priuštim novi auto.",
+          "russian": "Я не могу позволить себе новую машину.",
+          "source": ""
+        }
+      ],
+      "note": "Как и русское «позволить себе», priuštiti sebi давно вышло за пределы денег: Ne mogu sebi da priuštim da zakasnim / da pogrešim / taj luksuz. Возможен и порядок ne mogu da priuštim sebi, но ne mogu sebi da priuštim очень естественно.",
+      "keyword": "priuštiti sebi"
     },
     {
       "headword_latin": "Neće ti faliti ni dlaka s glave",
@@ -1639,6 +1822,38 @@
       "keyword": "nit riba nit devojka"
     },
     {
+      "headword_latin": "Omaklo mi se",
+      "type": "replika",
+      "definition_ru": "случайно вырвалось; нечаянно получилось; я случайно это сделал / сказал; сорвалось",
+      "synonyms_sr": [
+        "izletelo mi je",
+        "slučajno sam rekao / uradio",
+        "desilo se nehotice",
+        "lapsus mi se desio"
+      ],
+      "literal_ru": "",
+      "register": "razg.; omaknuti se nekome označava nešto učinjeno ili izgovoreno nenamerno",
+      "examples": [
+        {
+          "serbian_latin": "Carstva propadaju just like that! Oprostite, omaklo mi se...",
+          "russian": "Империи рушатся just like that! Извините, вырвалось...",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Oprostite na naslovu, omaklo mi se.",
+          "russian": "Простите за заголовок, нечаянно вышло.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Kaže: izvini, omaklo mi se.",
+          "russian": "Говорит: извини, случайно вырвалось.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Ваше «ушло из-под контроля» возможно только в отдельных ситуациях. Центральное значение — непреднамеренность: слово, ругательство, шутка, движение, ошибка «сорвались». «Меня прорвало» обычно сильнее: для внезапного эмоционального потока естественнее pukao sam, izletelo mi je sve, nisam mogao da se zaustavim. Omaklo mi se часто используется и как полушутливое оправдание: «ой, случайно получилось». Очень типично omakla mi se psovka / greška / reč.",
+      "keyword": "omaklo mi se"
+    },
+    {
       "headword_latin": "Osveta",
       "type": "imenica",
       "definition_ru": "месть; возмездие",
@@ -1743,6 +1958,64 @@
       "keyword": "parati uši"
     },
     {
+      "headword_latin": "Po svoj prilici",
+      "type": "izraz",
+      "definition_ru": "по всей видимости; судя по всему; по-видимому",
+      "synonyms_sr": [
+        "izgleda",
+        "verovatno",
+        "po svemu sudeći",
+        "kako stvari stoje"
+      ],
+      "literal_ru": "",
+      "register": "neutralno do knjiški; izražava pretpostavku na osnovu raspoloživih znakova",
+      "examples": [
+        {
+          "serbian_latin": "Anaksagora je, po svoj prilici, među najzaslužnijima za prenošenje helenskog istraživačkog duha iz Jonije u Atinu.",
+          "russian": "Анаксагор, по всей видимости, был одним из тех, кто внёс наибольший вклад в перенос исследовательского духа из Ионии в Афины.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Drugog talasa epidemije će, po svoj prilici, biti.",
+          "russian": "Судя по всему, вторая волна эпидемии будет.",
+          "source": "N1 Srbija, 2020"
+        },
+        {
+          "serbian_latin": "Po svoj prilici, neće stići pre večeri.",
+          "russian": "Судя по всему, он не приедет раньше вечера.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивое сочетание не связано с современным основным значением prilika «возможность». Здесь сохраняется старое значение, связанное с внешним видом, обстоятельствами, признаками. Поэтому выражение целиком лучше запоминать как «по всей видимости».",
+      "keyword": "po svoj prilici"
+    },
+    {
+      "headword_latin": "Pokaži mi jednu osobu koja ne pati!",
+      "type": "replika",
+      "definition_ru": "покажи мне хоть одного человека, который не страдает!; покажи мне, кто не страдает!",
+      "synonyms_sr": [
+        "svi pate",
+        "ko danas ne pati?",
+        "nema čoveka koji ne pati"
+      ],
+      "literal_ru": "",
+      "register": "retorička replika; jednu osobu u ovom kontekstu znači bar jednu osobu",
+      "examples": [
+        {
+          "serbian_latin": "Pokaži mi jednu osobu koja ne pati!",
+          "russian": "Покажи мне хоть одного человека, который не страдает!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Svi imaju svoje probleme. Pokaži mi jednu osobu koja ne pati.",
+          "russian": "У всех свои проблемы. Покажи мне хоть одного человека, который не страдает.",
+          "source": ""
+        }
+      ],
+      "note": "Ваш русский перевод лучше слегка поправить: сербское Pokaži mi jednu osobu koja... буквально строится как «покажи мне одного человека, который...», а прагматически — «назови мне хоть одного...». Это не устойчивый фразеологизм, а очень естественная риторическая модель: Pokaži mi jednog čoveka koji nikad nije pogrešio.",
+      "keyword": "pokaži mi jednu osobu"
+    },
+    {
       "headword_latin": "Pokrij se ušima",
       "type": "frazeologizam",
       "definition_ru": "постыдись; сиди тихо после такого; подожми хвост и помалкивай",
@@ -1809,6 +2082,37 @@
       ],
       "note": "Pomeriti не означает, что встречу обязательно отложили: её можно перенести как на более позднее, так и на другое время вообще. Odložiti обычно подчёркивает именно отсрочку. Конструкция pomeriti za četvrtak / za pola sata / na drugi termin очень обычна.",
       "keyword": "pomeriti sastanak"
+    },
+    {
+      "headword_latin": "Poštapalica",
+      "type": "imenica",
+      "definition_ru": "слово-паразит; речевая присказка; постоянно повторяемое слово или выражение",
+      "synonyms_sr": [
+        "uzrečica (delimično)",
+        "govorna navika",
+        "reč-parazit (opisno)"
+      ],
+      "literal_ru": "",
+      "register": "lingv.; često o rečima znači, ovaj, dakle, brate, kako se zove i sličnim izrazima",
+      "examples": [
+        {
+          "serbian_latin": "„Dakle“, „brate“ i ono čuveno „znači“ pomene se i po nekoliko puta u istoj rečenici.",
+          "russian": "«Итак», «брат», знаменитое «значит» могут повторяться по несколько раз в одном предложении.",
+          "source": "Jezikofil / B92, cit. 021.rs, 2017"
+        },
+        {
+          "serbian_latin": "Reč „znači“ postala je poštapalica u govoru mlađih i starijih ljudi.",
+          "russian": "Слово «значит» стало словом-паразитом в речи и молодых, и пожилых людей.",
+          "source": "Politika, 2007"
+        },
+        {
+          "serbian_latin": "Njegova glavna poštapalica je „ovaj“.",
+          "russian": "Его главное слово-паразит — «этот самый».",
+          "source": ""
+        }
+      ],
+      "note": "Poštapalica — не «цитата» и не «крылатая фраза». Dr Marina Nikolić из Jezikofil определяет poštapalice как слова или фразы, которые стали ненужными для содержания и используются как заполнитель паузы в речи. Русское «крылатая фраза» — это скорее krilatica, «цитата» — citat. Poštapalica может иметь исходное значение, но при навязчивом повторении практически его теряет: znači... ovaj... brate...",
+      "keyword": "poštapalica"
     },
     {
       "headword_latin": "Praviti od komarca magarca",
@@ -2379,6 +2683,32 @@
       "keyword": "sto ljudi sto ćudi"
     },
     {
+      "headword_latin": "Stvari poput toga",
+      "type": "izraz",
+      "definition_ru": "вещи вроде этого; что-то в этом роде; подобные вещи",
+      "synonyms_sr": [
+        "takve stvari",
+        "slične stvari",
+        "stvari te vrste"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; poput + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Ne volim tračeve, svađe i stvari poput toga.",
+          "russian": "Я не люблю сплетни, ссоры и тому подобные вещи.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Razgovarali smo o poslu, novcu i stvarima poput toga.",
+          "russian": "Мы говорили о работе, деньгах и тому подобных вещах.",
+          "source": ""
+        }
+      ],
+      "note": "Poput требует родительного падежа: poput toga, poput njega, poput ove knjige. По смыслу это «подобно, вроде». В живой разговорной речи вместо stvari poput toga часто проще сказать takve stvari — «такие вещи».",
+      "keyword": "stvari poput toga"
+    },
+    {
       "headword_latin": "Sve je nekome ravno (do Kosova)",
       "type": "frazeologizam",
       "definition_ru": "кому-то всё равно; всё безразлично; совершенно наплевать",
@@ -2688,6 +3018,37 @@
       "keyword": "tresla se gora rodio se miš"
     },
     {
+      "headword_latin": "U naponu snage",
+      "type": "frazeologizam",
+      "definition_ru": "в расцвете сил; в самом расцвете; в лучших годах",
+      "synonyms_sr": [
+        "u najboljim godinama",
+        "u punoj snazi",
+        "na vrhuncu snage"
+      ],
+      "literal_ru": "в напряжении / полноте силы",
+      "register": "neutralno do knjiški; često o čoveku koji je prerano umro ili čiji je rad prerano prekinut",
+      "examples": [
+        {
+          "serbian_latin": "Mladi Skerlić umro je prerano, u naponu snage, kada je imao tek 37 godina.",
+          "russian": "Молодой Скерлич умер слишком рано, в самом расцвете сил, когда ему было всего 37 лет.",
+          "source": "Politika, 2014"
+        },
+        {
+          "serbian_latin": "Braća su imala tu privilegiju da umru mirno, u naponu snage.",
+          "russian": "Братья получили привилегию спокойно умереть в расцвете сил.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Bio je u najboljim godinama i u punom naponu snage.",
+          "russian": "Он был в лучших годах и полном расцвете сил.",
+          "source": ""
+        }
+      ],
+      "note": "Для русского «в лучших годах / в расцвете сил» обычно u naponu snage, u naponu života, u najboljim godinama. Сочетание u zaletu svog života для этого значения не является обычной устойчивой формой. Zalet — разбег, разгон, набранный импульс: uzeti zalet, biti u zaletu, prekinuti nekoga u zaletu. Поэтому u zaletu života возможно как авторская метафора, но для словаря лучше u naponu snage / u najboljim godinama.",
+      "keyword": "u naponu snage"
+    },
+    {
       "headword_latin": "Ući u ritam",
       "type": "kolokacija",
       "definition_ru": "войти в ритм; набрать темп; втянуться",
@@ -2749,6 +3110,33 @@
       ],
       "note": "Štos в этой конструкции — не «шутка», а секрет, приём, принцип работы. Поэтому ući u štos часто означает именно приобрести практическое понимание: «врубиться», «набить руку». Это не то же самое, что ući u ritam, хотя в некоторых ситуациях переводы пересекаются.",
       "keyword": "ući u štos"
+    },
+    {
+      "headword_latin": "Uljudne fraze",
+      "type": "kolokacija",
+      "definition_ru": "вежливые фразы; формулы вежливости; любезности",
+      "synonyms_sr": [
+        "ljubazne fraze",
+        "izrazi učtivosti",
+        "fraze uljudnosti",
+        "kurtoazne fraze"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; fraza je imenica ženskog roda",
+      "examples": [
+        {
+          "serbian_latin": "Neki ljudi nemaju strpljenja za uljudne fraze.",
+          "russian": "У некоторых людей нет терпения на вежливые формальности.",
+          "source": "Luftika, 2025"
+        },
+        {
+          "serbian_latin": "Razmenili smo nekoliko uljudnih fraza i prešli na posao.",
+          "russian": "Мы обменялись несколькими любезностями и перешли к делу.",
+          "source": ""
+        }
+      ],
+      "note": "Правильно uljudne fraze, поскольку fraza — существительное женского рода. В конкретном контексте русский перевод может быть «вежливые фразы», «формулы вежливости» или просто «любезности». Uljudan — «вежливый, учтивый». Если речь именно об устойчивых формулах вроде Izvolite, Hvala lepo, Drago mi je, удобно также izrazi učtivosti / fraze uljudnosti.",
+      "keyword": "uljudne fraze"
     },
     {
       "headword_latin": "Uzeti nešto s rezervom",
@@ -2876,6 +3264,42 @@
       "keyword": "zaglaviti u saobraćaju"
     },
     {
+      "headword_latin": "Zakazati termin",
+      "type": "kolokacija",
+      "definition_ru": "записаться; назначить время; договориться о приёме / визите",
+      "synonyms_sr": [
+        "zakazati",
+        "rezervisati termin",
+        "dogovoriti termin"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; kod + genitiv za stručnjaka, za + akuzativ za proceduru ili uslugu",
+      "examples": [
+        {
+          "serbian_latin": "Kad ti završi nokte, odmah zakažeš sledeći termin.",
+          "russian": "Когда тебе закончат маникюр, сразу записываешься на следующий приём.",
+          "source": "Reddit/r/serbia, 2023"
+        },
+        {
+          "serbian_latin": "Želim da zakažem termin kod frizera za petak.",
+          "russian": "Я хочу записаться к парикмахеру на пятницу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Da li mogu da zakažem masažu za sutra u šest?",
+          "russian": "Можно записаться на массаж завтра на шесть?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zakazali smo čas srpskog za ponedeljak.",
+          "russian": "Мы договорились об уроке сербского на понедельник.",
+          "source": ""
+        }
+      ],
+      "note": "С человеком обычно zakazati termin kod frizera / kozmetičara / lekara; с услугой zakazati termin za masažu / tretman. Для урока чаще просто zakazati čas. Не стоит строить одинаково со всеми существительными. В разговоре очень распространено также просто Imam zakazano u pet — «я записан на пять».",
+      "keyword": "zakazati termin"
+    },
+    {
       "headword_latin": "Zaklopiti",
       "type": "glagol",
       "definition_ru": "закрыть; захлопнуть; сомкнуть",
@@ -2905,6 +3329,38 @@
       ],
       "note": "Zaklopiti knjigu — вполне обычное «закрыть книгу». С глазами употребляются zaklopiti oči, sklopiti oči, zatvoriti oči; для простого «закрой глаза» очень естественно sklopi oči / zatvori oči. У сочетания sklopiti / zaklopiti oči существует и традиционное переносное значение «умереть, закрыть глаза навеки», поэтому контекст важен.",
       "keyword": "zaklopiti"
+    },
+    {
+      "headword_latin": "Zatucan čovek",
+      "type": "kolokacija",
+      "definition_ru": "узколобый человек; косный, ограниченный человек; человек с отсталыми взглядами",
+      "synonyms_sr": [
+        "uskogrud",
+        "ograničen",
+        "zaostao",
+        "primitivan (jače, nije uvek isto)"
+      ],
+      "literal_ru": "",
+      "register": "razg., izrazito neodobr.; o osobi zatvorenoj za nove ideje i drugačija shvatanja",
+      "examples": [
+        {
+          "serbian_latin": "Prosečan srpski pisac je zatucan i zaostao.",
+          "russian": "Средний сербский писатель косен и отстал.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Ja možda jesam staromodan, ali ne bih rekao da sam zatucan.",
+          "russian": "Может, я и старомоден, но я бы не сказал, что я узколобый.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Ne vredi mu objašnjavati — potpuno je zatucan.",
+          "russian": "Ему бесполезно объяснять — он совершенно узколобый.",
+          "source": ""
+        }
+      ],
+      "note": "Zatucan сильнее, чем staromodan «старомодный» или konzervativan «консервативный». В слове есть оценка интеллектуальной закрытости: человек «застрял» в примитивных или устаревших представлениях и ничего другого принимать не хочет.",
+      "keyword": "zatucan"
     },
     {
       "headword_latin": "Zbog sira i vojne muzike",
