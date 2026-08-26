@@ -467,33 +467,33 @@
     {
       "headword_latin": "Biti pritisnut uza zid",
       "type": "frazeologizam",
-      "definition_ru": "быть прижатым к стене; быть загнанным в угол; оказаться без выхода",
+      "definition_ru": "быть прижатым к стене; оказаться загнанным в угол; оказаться без пространства для манёвра",
       "synonyms_sr": [
-        "biti sateran u ćošak",
-        "biti bez izlaza",
-        "biti u bezizlaznoj situaciji",
-        "biti prinuđen"
+        "biti sateran uza zid",
+        "biti doveden u bezizlaznu situaciju",
+        "biti priteran uza zid",
+        "nemati kud"
       ],
       "literal_ru": "быть прижатым к стене",
-      "register": "neutralno do publicistički, ekspresivno; o situaciji u kojoj gotovo da nema izbora ili prostora za manevar",
+      "register": "razg. do publicistički; o situaciji u kojoj okolnosti nekome gotovo ne ostavljaju prostor za povlačenje ili izbor",
       "examples": [
         {
           "serbian_latin": "Pritisnuti uza zid, ovi ljudi počinju da upoznaju njima do tada nepoznato osećanje – solidarnost.",
-          "russian": "Оказавшись прижатыми к стене, эти люди начинают познавать прежде незнакомое им чувство — солидарность.",
+          "russian": "Загнанные в угол, эти люди начинают испытывать прежде незнакомое им чувство — солидарность.",
           "source": "Politika, 2015"
         },
         {
-          "serbian_latin": "Srpski narod je pritisnut uza zid.",
-          "russian": "Сербский народ загнан в угол.",
-          "source": "Danas, 2023"
+          "serbian_latin": "Đokoviću je nedostajala ona njegova „sedma brzina“ u koju bi ubacio kada je pritisnut uza zid.",
+          "russian": "Джоковичу не хватало той его «седьмой скорости», которую он обычно включает, когда оказывается прижат к стене.",
+          "source": "Sport Klub, 2023"
         },
         {
-          "serbian_latin": "Kad je bio pritisnut uza zid, morao je konačno da donese odluku.",
-          "russian": "Когда его прижали к стене, ему пришлось наконец принять решение.",
+          "serbian_latin": "Kad je pritisnut uza zid, spreman je da pristane i na kompromis.",
+          "russian": "Когда его прижимают к стене, он готов согласиться даже на компромисс.",
           "source": ""
         }
       ],
-      "note": "Выражение может быть и буквальным, но переносно означает, что человека или группу лишили нормального выбора и вынудили реагировать. Очень близко biti sateran u ćošak, но образ немного различается: pritisnut uza zid подчёркивает давление, а sateran u ćošak — отсутствие пути для отступления. Форма uza zid совершенно нормальна в сербском: uza — расширенный вариант предлога uz.",
+      "note": "Uza zid — очень характерная конструкция: uza = uz + akuzativ, то есть буквально «вплотную к стене». Русский эквивалент «загнать в угол» часто естественнее буквального «прижать к стене». В сербском параллельно живёт saterati / priterati nekoga uza zid, где уже обозначено действие того, кто лишает другого пространства для манёвра. В публицистике особенно часто встречается причастная модель pritisnut uza zid.",
       "keyword": "pritisnut uza zid"
     },
     {
@@ -682,129 +682,127 @@
     {
       "headword_latin": "Boriti se rukama i nogama",
       "type": "frazeologizam",
-      "definition_ru": "бороться всеми силами; зубами и ногтями; делать всё возможное",
+      "definition_ru": "бороться изо всех сил; всеми силами добиваться чего-то; руками и ногами отбиваться / сопротивляться",
       "synonyms_sr": [
         "boriti se svim silama",
-        "grebati rukama i nogama",
-        "boriti se do kraja",
-        "ne odustajati"
+        "svim snagama se boriti",
+        "grčevito se boriti",
+        "zapeti iz sve snage"
       ],
       "literal_ru": "бороться руками и ногами",
-      "register": "razg., ekspresivno; uglavnom preneseno, o korišćenju svih mogućih snaga i sredstava radi nekog cilja",
+      "register": "razg., ekspresivno; može označavati i snažno nastojanje da se nešto postigne i snažno protivljenje nečemu",
       "examples": [
         {
-          "serbian_latin": "Ogrezla u svom beščašću rukama i nogama bori se protiv srpske mladosti koja hoće da stane na put ovom ludilu.",
-          "russian": "Погрязнув в бесчестии, она всеми силами борется против сербской молодёжи, которая хочет остановить это безумие.",
-          "source": "Danas, 2025"
-        },
-        {
-          "serbian_latin": "Tučem se i borim, i rukama i nogama bijem da bih sačuvao nešto što je nemoguće sačuvati.",
-          "russian": "Я бьюсь всеми силами, пытаясь сохранить то, что сохранить практически невозможно.",
+          "serbian_latin": "Đukanović se „rukama i nogama“ borio da ti amandmani ne budu usvojeni.",
+          "russian": "Джуканович всеми силами боролся за то, чтобы эти поправки не были приняты.",
           "source": "Danas, 2022"
         },
         {
-          "serbian_latin": "Za taj projekat se borimo rukama i nogama već godinama.",
-          "russian": "За этот проект мы уже много лет боремся всеми силами.",
+          "serbian_latin": "Borili smo se rukama i nogama da sačuvamo firmu.",
+          "russian": "Мы изо всех сил боролись за то, чтобы сохранить фирму.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "On se rukama i nogama brani od svake promene.",
+          "russian": "Он всеми силами отбивается от любых перемен.",
           "source": ""
         }
       ],
-      "note": "Речь не обязательно о настоящей драке. Фраза обозначает максимальное усилие и упорное сопротивление. Близкий разговорный вариант — grebati rukama i nogama, который ещё ярче передаёт отчаянное стремление чего-то добиться: в N1, например, говорится rukama i nogama grebe da se taj projekat realizuje. Русское «зубами и ногтями» хорошо передаёт экспрессию.",
-      "keyword": "boriti se rukama i nogama"
+      "note": "Выражение не обязательно подразумевает буквальную драку. Rukama i nogama усиливает глагол и значит примерно «всеми доступными средствами, изо всех сил». Поэтому возможно не только boriti se rukama i nogama, но и opirati se rukama i nogama, braniti se rukama i nogama. Для русского особенно естественны «руками и ногами отбиваться» при сопротивлении и «бороться всеми силами» при достижении цели.",
+      "keyword": "rukama i nogama"
     },
     {
       "headword_latin": "Brz kao vetar",
       "type": "frazeologizam",
-      "definition_ru": "быстрый как ветер; стремительный; молниеносный",
+      "definition_ru": "быстрый как ветер; молниеносный; очень быстрый",
       "synonyms_sr": [
-        "brz kao munja",
-        "brz kao metak",
-        "brz kao zec",
-        "munjevit"
+        "munjevito brz",
+        "veoma brz",
+        "brz kao munja"
       ],
       "literal_ru": "быстрый как ветер",
-      "register": "ustaljeno poređenje; najčešće o osobi, sportisti ili kretanju",
+      "register": "poredbeni frazeologizam; najčešće o osobi, sportisti, životinji ili brzom kretanju",
       "examples": [
+        {
+          "serbian_latin": "Osman Bukari: brz kao vetar.",
+          "russian": "Осман Букари — быстрый как ветер.",
+          "source": "Sport Klub, 2023"
+        },
         {
           "serbian_latin": "Denis Šreder, igrač NBA formata, brz kao vetar, postigao je 28 poena.",
           "russian": "Деннис Шрёдер, игрок уровня НБА, быстрый как ветер, набрал 28 очков.",
           "source": "Danas, 2023"
         },
         {
-          "serbian_latin": "Brz kao vetar. Nije slušala lopta Bukarija u prvom poluvremenu, ali je nastavak počeo konkretnije.",
-          "russian": "Быстрый как ветер. В первом тайме мяч не очень слушался Букари, но после перерыва он заиграл конкретнее.",
-          "source": "Sport Klub, 2023"
-        },
-        {
-          "serbian_latin": "Mali je brz kao vetar, ne možeš da ga stigneš.",
-          "russian": "Мальчишка быстрый как ветер, его не догонишь.",
+          "serbian_latin": "Klinac je brz kao vetar, ne mogu da ga stignem.",
+          "russian": "Мальчишка быстрый как ветер, я его догнать не могу.",
           "source": ""
         }
       ],
-      "note": "Исходная форма brz kao vjetar для нашей Frazeoteka нормализуется в сербскую экавицу: brz kao vetar. Это действительно устойчивое сербское сравнение; оно фиксируется и в исследованиях сербской сравнительной фразеологии наряду с brz kao munja и brz kao zec. Brz kao munja обычно сильнее подчёркивает мгновенность, тогда как brz kao vetar — общую стремительность.",
+      "note": "Для сербского стандарта только vetar, не vjetar. Это прозрачное сравнение, но оно вполне живое и особенно характерно для спортивных описаний. Brz kao munja сильнее подчёркивает мгновенность, тогда как brz kao vetar чаще описывает общую скорость движения.",
       "keyword": "brz kao vetar"
     },
     {
       "headword_latin": "Crn kao noć",
       "type": "frazeologizam",
-      "definition_ru": "чёрный как ночь; очень чёрный; непроглядно тёмный",
+      "definition_ru": "чёрный как ночь; совершенно чёрный; очень тёмный",
       "synonyms_sr": [
         "crn kao ugalj",
-        "crn kao mrak",
         "potpuno crn",
-        "sasvim taman"
+        "taman kao noć"
       ],
       "literal_ru": "чёрный как ночь",
-      "register": "ustaljeno poređenje; o boji kose, očiju, odeće, životinje, predmeta ili veoma tamnog prostora",
+      "register": "poredbeni frazeologizam; o boji kose, očiju, predmeta, životinja, mraku; moguće i preneseno",
       "examples": [
         {
-          "serbian_latin": "Važno je da je panter i da je crn. Crn kao noć.",
-          "russian": "Важно, что это пантера и что она чёрная. Чёрная как ночь.",
-          "source": "Nedeljnik, 2022"
+          "serbian_latin": "Ekran ostane mrtav, crn kao noć i ne reaguje.",
+          "russian": "Экран остаётся мёртвым, чёрным как ночь, и ни на что не реагирует.",
+          "source": "Benchmark forum Srbija, 2007"
         },
         {
-          "serbian_latin": "Kosa joj je bila crna kao noć.",
-          "russian": "Волосы у неё были чёрные как ночь.",
-          "source": ""
+          "serbian_latin": "Moj je život crn kao noć!",
+          "russian": "Моя жизнь черна как ночь!",
+          "source": "Kurir, 2023"
         },
         {
-          "serbian_latin": "Pas je potpuno crn, crn kao noć.",
-          "russian": "Пёс совершенно чёрный, чёрный как ночь.",
+          "serbian_latin": "Imao je kosu crnu kao noć.",
+          "russian": "У него были волосы чёрные как ночь.",
           "source": ""
         }
       ],
-      "note": "Сравнение хорошо укоренено в сербском: исследования цветовых ассоциаций сербских носителей фиксируют noć и mrak среди наиболее типичных образов для крайней степени чёрного цвета, в том числе непосредственно crn kao noć. Близкое crn kao ugalj особенно естественно для волос, глаз, шерсти и предметов. Само выражение обычно описывает именно цвет или темноту, а не плохое настроение.",
+      "note": "Сочетание подтверждается и исследованиями именно сербской цветовой фразеологии: noć и mrak входят в число наиболее типичных эталонов чёрного цвета; фиксируется и модель crn kao noć. Обычно выражение просто усиливает степень черноты, но при словах вроде život, budućnost, raspoloženje может переходить к образу мрачности и безысходности.",
       "keyword": "crn kao noć"
     },
     {
       "headword_latin": "Crven od besa",
-      "type": "izraz",
-      "definition_ru": "красный от злости; багровый от ярости; вне себя от гнева",
+      "type": "frazeologizam",
+      "definition_ru": "красный от ярости; багровый от злости; вне себя от гнева",
       "synonyms_sr": [
         "pocrveneti od besa",
-        "kipeti od besa",
+        "besneti",
         "biti van sebe od besa",
-        "besneti"
+        "pocrveneti kao rak"
       ],
       "literal_ru": "красный от ярости",
-      "register": "ekspresivno; takođe pocrveneti u licu od besa, crven u licu od besa",
+      "register": "ekspresivno; takođe pocrveneti od besa",
       "examples": [
         {
-          "serbian_latin": "Crven u licu od besa i gneva zapretio je da ništa od navedenog ne sme da se navede u zapisnik.",
-          "russian": "Красный от ярости и гнева, он пригрозил, чтобы ничего из сказанного не вносили в протокол.",
-          "source": "Sport Klub, 2024"
+          "serbian_latin": "Milošević je to pročitao, pocrveneo od besa i onda ga gađao tim papirima.",
+          "russian": "Милошевич прочитал это, побагровел от ярости и затем швырнул в него этими бумагами.",
+          "source": "RTS, 2018"
         },
         {
-          "serbian_latin": "Predsednik je pocrveneo u licu od besa i drao se.",
-          "russian": "Президент побагровел от злости и начал кричать.",
-          "source": "N1 Srbija, 2025"
+          "serbian_latin": "Ataman crven od besa!",
+          "russian": "Атаман вне себя от ярости!",
+          "source": "Večernje novosti, 2026"
         },
         {
-          "serbian_latin": "Kad je to čuo, bio je crven od besa.",
-          "russian": "Услышав это, он покраснел от ярости.",
+          "serbian_latin": "Kad je čuo šta se dogodilo, bio je crven od besa.",
+          "russian": "Когда он услышал, что произошло, он весь покраснел от ярости.",
           "source": ""
         }
       ],
-      "note": "Для русского важен ложный друг: сербское bes — прежде всего «ярость, сильный гнев», поэтому crven od besa — буквально «красный от ярости». Никакого отношения к русскому существительному «бес» здесь нет. Очень характерны pocrveneti od besa, kipeti od besa, van sebe od besa.",
+      "note": "Для сербского стандарта bes, не bijes: crven od besa, pocrveneti od besa. Образ физиологически прозрачен: сильный гнев вызывает покраснение лица. В исследованиях сербской фразеологии рядом фиксируются crven kao rak / paprika со значением сильного гнева; например Urlao je od besa, crven kao paprika. Русское «красный от злости» совпадает почти полностью.",
       "keyword": "crven od besa"
     },
     {
