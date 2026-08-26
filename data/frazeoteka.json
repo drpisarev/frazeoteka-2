@@ -618,34 +618,66 @@
     {
       "headword_latin": "Boriti se rukama i nogama",
       "type": "frazeologizam",
-      "definition_ru": "бороться изо всех сил; всеми силами добиваться чего-то; делать всё возможное",
+      "definition_ru": "бороться изо всех сил; всеми силами добиваться чего-то; зубами держаться за что-то",
       "synonyms_sr": [
         "boriti se svim silama",
         "grčevito se boriti",
-        "grebati rukama i nogama",
-        "činiti sve što je moguće"
+        "dati sve od sebe",
+        "ne odustajati"
       ],
       "literal_ru": "бороться руками и ногами",
-      "register": "razg., ekspresivno; obično boriti se rukama i nogama za nešto / da se nešto postigne ili spreči",
+      "register": "razg., ekspresivno; obično boriti se rukama i nogama za nešto / da...",
       "examples": [
         {
-          "serbian_latin": "On se sad bori rukama i nogama.",
-          "russian": "Теперь он изо всех сил борется за своё.",
-          "source": "Vreme, 2016"
+          "serbian_latin": "Borio sam se rukama i nogama da zadržim taj osećaj.",
+          "russian": "Я всеми силами боролся за то, чтобы сохранить это чувство.",
+          "source": "Blic, 2020"
         },
         {
-          "serbian_latin": "Zašto se rukama i nogama bori za neku reku?",
-          "russian": "Почему он так отчаянно борется за какую-то реку?",
+          "serbian_latin": "Ako dođe trenutak da smo ugroženi, borićemo se i rukama i nogama i svim silama.",
+          "russian": "Если наступит момент, когда нам что-то будет угрожать, мы будем бороться всеми силами.",
           "source": "Nova.rs, 2021"
         },
         {
-          "serbian_latin": "Bori se rukama i nogama da zadrži posao.",
-          "russian": "Он всеми силами старается сохранить работу.",
+          "serbian_latin": "Boriću se rukama i nogama da ovaj projekat opstane.",
+          "russian": "Я буду всеми силами бороться за то, чтобы этот проект выжил.",
           "source": ""
         }
       ],
-      "note": "Выражение подчёркивает максимальное усилие и упорство, а не способ борьбы в буквальном смысле. Можно как добиваться желаемого — boriti se rukama i nogama za svaki glas, так и сопротивляться чему-то. Близкое grebati rukama i nogama ещё сильнее подчёркивает отчаянные усилия.",
+      "note": "Речь обычно не о буквальной драке, а об очень настойчивой борьбе за цель. Конструкция может выражать и сопротивление: boriti se rukama i nogama protiv nečega. Для русского «руками и ногами» само по себе часто значит активное сопротивление (отбиваться руками и ногами), тогда как в сербском сочетание свободно употребляется и в положительном смысле — «добиваться всеми силами».",
       "keyword": "boriti se rukama i nogama"
+    },
+    {
+      "headword_latin": "Cure sline nekome",
+      "type": "frazeologizam",
+      "definition_ru": "у кого-то слюнки текут; кто-то облизывается; кто-то страстно желает получить что-то",
+      "synonyms_sr": [
+        "balaviti za nečim (razg.)",
+        "žudeti za nečim",
+        "pohlepno želeti",
+        "oblizivati se (preneseno)"
+      ],
+      "literal_ru": "у кого-то текут слюни",
+      "register": "razg.; može biti doslovno o hrani i preneseno o jakoj želji, pohlepi, seksualnom interesovanju ili očekivanju koristi",
+      "examples": [
+        {
+          "serbian_latin": "Našoj političkoj klasi u celini sline cure na samu pomisao da će ovim zakonima začepiti usta štampi.",
+          "russian": "У нашего политического класса слюнки текут от одной мысли, что этими законами удастся заткнуть рот прессе.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Sline nad njim cure. S jedne je strane nezaobilazan, a s druge nepodnošljiv.",
+          "russian": "Они буквально облизываются при мысли о нём: с одной стороны, без него не обойтись, с другой — он невыносим.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Kad vidi sveže bureke u izlogu, odmah mu cure sline.",
+          "russian": "Когда он видит свежий бурек на витрине, у него сразу слюнки текут.",
+          "source": ""
+        }
+      ],
+      "note": "В буквальном употреблении это обычная физиологическая реакция на еду. В переносном nekome cure sline za / nad nečim выражает сильное желание, алчность или предвкушение. Оттенок нередко неодобрительный: человек слишком явно хочет денег, власти, имущества или другого объекта желания. Не путать с sliniti, которое может означать «слюнявить» или, разговорно, сентиментальничать и ныть.",
+      "keyword": "cure sline"
     },
     {
       "headword_latin": "Čiča miča i gotova priča",
@@ -842,33 +874,33 @@
     {
       "headword_latin": "Do bola",
       "type": "izraz",
-      "definition_ru": "до предела; чрезвычайно; ужасно, невероятно; до боли",
+      "definition_ru": "до предела; невероятно; чрезвычайно; аж до боли",
       "synonyms_sr": [
-        "veoma",
         "izuzetno",
         "krajnje",
-        "neverovatno"
+        "veoma",
+        "maksimalno (po kontekstu)"
       ],
       "literal_ru": "до боли",
-      "register": "razg., ekspresivni pojačivač; naročito iskren do bola, pošten do bola, dosadan do bola",
+      "register": "razg., ekspresivni pojačivač; iskren do bola, originalan do bola, dosadan do bola, dobar do bola",
       "examples": [
         {
-          "serbian_latin": "Veliki čovek, dobrica, iskren do bola.",
-          "russian": "Большой человек, добряк, до предела искренний.",
-          "source": "N1 Srbija, 2020"
+          "serbian_latin": "Originalna do bola.",
+          "russian": "Невероятно оригинальная; оригинальная до предела.",
+          "source": "Danas, 2021"
         },
         {
-          "serbian_latin": "Vinko je tip pošten do bola.",
-          "russian": "Винко — человек до невозможности честный.",
-          "source": "Danas, 2014"
+          "serbian_latin": "Kod mene u mojoj produkciji sviraju živi ljudi, sa svojim manama i vrlinama, ali iskreni u izrazu do bola.",
+          "russian": "У меня играют живые музыканты со своими недостатками и достоинствами, но предельно искренние в выражении.",
+          "source": "Danas, 2018"
         },
         {
-          "serbian_latin": "Za njega je napisao da je „dosadan do bola“.",
-          "russian": "Он написал о нём, что тот «невыносимо скучный».",
-          "source": "Danas, 2017"
+          "serbian_latin": "Film je spor do bola, ali vizuelno odličan.",
+          "russian": "Фильм невероятно медленный, но визуально отличный.",
+          "source": ""
         }
       ],
-      "note": "Do bola часто уже не связано с настоящей болью и работает как разговорный усилитель примерно уровня «до невозможности, чрезвычайно». Сочетается и с положительными, и с отрицательными характеристиками: iskren do bola, pošten do bola, dosadan do bola. Русское буквальное «до боли честный» возможно, но во многих контекстах естественнее «предельно честный», «невыносимо скучный».",
+      "note": "Do bola не означает обязательно что-то хорошее. Это сильный разговорный усилитель: качество доведено до крайней степени. Оно может усиливать и положительное, и отрицательное: lep do bola, glup do bola, dosadan do bola, iskren do bola. В молодёжном сленге выражение особенно часто употреблялось как интенсиватор положительной оценки, но современная конструкция значительно шире.",
       "keyword": "do bola"
     },
     {
@@ -1383,33 +1415,32 @@
     {
       "headword_latin": "Imati i ovce i novce",
       "type": "frazeologizam",
-      "definition_ru": "получить и то и другое; хотеть всех выгод сразу; иметь одновременно две трудно совместимые выгоды",
+      "definition_ru": "и рыбку съесть, и в воду не лезть; получить сразу обе выгоды; совместить несовместимое в свою пользу",
       "synonyms_sr": [
-        "hteti sve",
-        "želeti obostranu korist",
-        "dobiti sve što se želi",
-        "hteti i jare i pare"
+        "imati sve",
+        "dobiti i jedno i drugo",
+        "izvući korist na obe strane"
       ],
       "literal_ru": "иметь и овец, и деньги",
-      "register": "razg.; hteti / želeti / imati i ovce i novce; često u negaciji: Ne možeš imati i ovce i novce",
+      "register": "razg., iron.; naročito često u odričnoj konstrukciji Ne možeš i ovce i novce",
       "examples": [
         {
-          "serbian_latin": "Elektroprivrede ne mogu imati i ovce i novce – termoelektrane se moraju uskladiti ili zatvoriti.",
-          "russian": "Энергокомпании не могут получить всё сразу: теплоэлектростанции должны либо соответствовать нормам, либо закрыться.",
-          "source": "N1 Srbija, 2024"
+          "serbian_latin": "Ejdus veruje da Vučić možda želi i ovce i novce.",
+          "russian": "Эйдус считает, что Вучич, возможно, хочет получить выгоду сразу с обеих сторон.",
+          "source": "Danas, 2022"
         },
         {
-          "serbian_latin": "Ne možeš da zadržiš stan, uzimaš kiriju i još tražiš da ti neko plaća troškove — ne možeš imati i ovce i novce.",
-          "russian": "Нельзя оставить себе квартиру, получать аренду и ещё требовать, чтобы кто-то оплачивал расходы: нельзя получить всё сразу.",
-          "source": ""
+          "serbian_latin": "Želim imati i ovce i novce. Želim sigurnost, ali želim i slobodu.",
+          "russian": "Я хочу и того и другого: и стабильности, и свободы.",
+          "source": "City Magazine / Danas, 2024"
         },
         {
-          "serbian_latin": "On bi i visoku platu i da ništa ne radi — hteo bi i ovce i novce.",
-          "russian": "Он хочет и высокую зарплату, и ничего не делать — хочет всех выгод сразу.",
+          "serbian_latin": "Ne možeš i ovce i novce: ili prihvati rizik ili odustani od zarade.",
+          "russian": "Нельзя получить всё сразу: либо принимай риск, либо отказывайся от прибыли.",
           "source": ""
         }
       ],
-      "note": "Сербская фразеология фиксирует обе модели želeti i jare i pare и želeti / imati i ovce i novce. Смысл не просто «иметь две вещи», а получить одновременно две выгоды, которые обычно трудно совместить. Поэтому наиболее естественная русская передача часто — «хотеть и рыбку съесть, и...», «хотеть усидеть на двух стульях» или нейтральное «хотеть получить всё сразу».",
+      "note": "Смысл не в богатстве как таковом, а в желании сохранить две выгоды, которые обычно исключают друг друга. Поэтому наиболее характерна реплика Ne možeš i ovce i novce. Русское «и рыбку съесть, и в воду не лезть» очень близко по прагматике. Выражение настолько узнаваемо, что RTS обыгрывает его буквально в сюжете об овцеводах.",
       "keyword": "ovce i novce"
     },
     {
@@ -1794,34 +1825,34 @@
     {
       "headword_latin": "Kao muva bez glave",
       "type": "frazeologizam",
-      "definition_ru": "метаться как без головы; носиться как угорелый; действовать растерянно и бессистемно",
+      "definition_ru": "как угорелый; метаться без головы; действовать хаотично, без плана и понимания",
       "synonyms_sr": [
-        "kao bez glave",
-        "pogubljeno",
-        "smušeno",
-        "bez ikakvog plana"
+        "bezglavo",
+        "haotično",
+        "bez plana",
+        "pogubljeno"
       ],
       "literal_ru": "как муха без головы",
-      "register": "razg.; naročito juriti, trčati, ići, lutati kao muva bez glave",
+      "register": "razg., neodobr.; često juriti / trčati / ponašati se kao muva bez glave",
       "examples": [
         {
-          "serbian_latin": "Kao muva bez glave sam, ne znam gde udaram.",
-          "russian": "Я совершенно потерян, мечусь и не знаю, за что хвататься.",
-          "source": "Blic, 2020"
+          "serbian_latin": "Ne ide se nikuda kao muva bez glave, svuda mora promišljeno da se ide.",
+          "russian": "Нельзя носиться куда-то сломя голову, действовать надо обдуманно.",
+          "source": "RTS, 2020"
         },
         {
-          "serbian_latin": "Igrač se kreće „kao muva bez glave“ sve dok ne pronađe dobar skriveni prostor.",
-          "russian": "Игрок мечется как без головы, пока не найдёт хорошее укрытие.",
-          "source": "Blic, 2001"
+          "serbian_latin": "Novinar, kaže, kao muva bez glave juri za sadržajem koji mu servira algoritam.",
+          "russian": "Журналист, говорит он, как угорелый гоняется за контентом, который ему подсовывает алгоритм.",
+          "source": "Danas, 2025"
         },
         {
-          "serbian_latin": "Od jutros jurim kao muva bez glave i ništa nisam završio.",
-          "russian": "С утра ношусь как угорелый и ничего не сделал.",
+          "serbian_latin": "Nemoj da trčiš kao muva bez glave — prvo napravi plan.",
+          "russian": "Не мечись как угорелый — сначала составь план.",
           "source": ""
         }
       ],
-      "note": "В выражении соединены бессмысленная спешка, растерянность и отсутствие направления. Поэтому русское «носиться как угорелый» передаёт скорость, но не всегда растерянность; «метаться как без головы» часто точнее. В сербской речи также употребляется сокращённое kao bez glave: Danas jurim kao bez glave. Сербская форма существительного — muva.",
-      "keyword": "kao muva bez glave"
+      "note": "Сербская форма muva bez glave обозначает хаотичность, растерянность и отсутствие направления. В сербском стандартно muva, а не muha. Русское «как угорелый» хорошо передаёт движение, а «как без головы» — отсутствие плана.",
+      "keyword": "muva bez glave"
     },
     {
       "headword_latin": "Kap koja je prelila čašu",
@@ -2304,34 +2335,34 @@
     {
       "headword_latin": "Naivan kao francuska sobarica",
       "type": "frazeologizam",
-      "definition_ru": "ирон. далеко не наивный; прикидывающийся простачком; «наивный, как бы не так»",
+      "definition_ru": "прикидываться наивным; делать вид, что ничего не понимаешь; якобы быть совершенно невинным",
       "synonyms_sr": [
         "praviti se naivan",
-        "biti prevejan",
-        "biti iskusan",
-        "ne biti od juče"
+        "glumiti nevinost",
+        "praviti se nevešt",
+        "praviti se lud (šire, razg.)"
       ],
       "literal_ru": "наивный как французская горничная",
-      "register": "razg., iron.; naivan / naivna kao francuska sobarica",
+      "register": "razg., iron.; često se podrazumeva prividna ili odglumljena naivnost",
       "examples": [
         {
-          "serbian_latin": "Mi — nevini, naivni, časni kao francuske sobarice... A znali dobro šta rade.",
-          "russian": "А мы, значит, невинные и наивные… Ну конечно. Они прекрасно знали, что делают.",
-          "source": "Nova.rs, 2025"
+          "serbian_latin": "Moram sve vreme da se pravim naivan ko francuska sobarica.",
+          "russian": "Мне всё время приходится делать вид, будто я ничего не понимаю.",
+          "source": "N1 Srbija, 2019"
         },
         {
-          "serbian_latin": "Ne moramo da se pravimo naivni kao francuske sobarice.",
-          "russian": "Не надо делать вид, будто мы такие уж наивные.",
-          "source": "Reddit/r/serbia, 2024"
+          "serbian_latin": "Radnici u EPS-u „nevini su ko francuska sobarica“.",
+          "russian": "Работники EPS прямо-таки «невиннее некуда» — разумеется, иронически.",
+          "source": "Danas, 2022"
         },
         {
-          "serbian_latin": "Možda su mislili da smo naivni kao francuske sobarice?",
-          "russian": "Может, они решили, что мы совсем уж простачки?",
-          "source": "021.rs, 2025"
+          "serbian_latin": "Nemoj da se praviš naivan kao francuska sobarica — dobro znaš o čemu pričam.",
+          "russian": "Не прикидывайся невинным — ты прекрасно знаешь, о чём я.",
+          "source": ""
         }
       ],
-      "note": "В сербском это прежде всего ироническое выражение. Оно обычно означает не «очень наивный», а скорее «далеко не наивный; прикидывающийся наивным». Сербский сленговый источник прямо определяет naivna k'o francuska sobarica как nije naivna / izrazito nenaivna osoba, а сербская популярная пресса — как prevejana osoba. Поэтому буквальный перевод «очень наивный» способен полностью перевернуть смысл. Выражение часто употребляют, когда человек делает вид, будто ничего не понимал, хотя говорящий уверен, что тот прекрасно всё понимал.",
-      "keyword": "naivan kao francuska sobarica"
+      "note": "Перевод просто «наивный человек» часто упускает главное: выражение обычно ироническое. Говорящий не верит в наивность человека и намекает, что тот прекрасно понимает происходящее, но изображает невинность или неведение. В сербской публицистике francuska sobarica функционирует как узнаваемый культурный стереотип.",
+      "keyword": "francuska sobarica"
     },
     {
       "headword_latin": "Napaćena duša",
@@ -2426,33 +2457,33 @@
     {
       "headword_latin": "Navrat-nanos",
       "type": "prilog",
-      "definition_ru": "второпях; на скорую руку; в спешке, без подготовки; сломя голову",
+      "definition_ru": "второпях; наспех; в страшной спешке; сломя голову",
       "synonyms_sr": [
         "na brzinu",
         "užurbano",
-        "bez pripreme",
-        "brzopleto (po kontekstu)"
+        "brzopleto",
+        "na prečac (delimično)"
       ],
       "literal_ru": "",
-      "register": "priloški izraz; normativno se piše navrat-nanos, sa crticom",
+      "register": "priloški izraz; piše se navrat-nanos, sa crticom",
       "examples": [
         {
-          "serbian_latin": "Ako bismo pisali domaći zadatak ujutru, navrat-nanos, pred odlazak u školu...",
-          "russian": "Если мы делали домашнее задание утром, второпях, прямо перед уходом в школу...",
-          "source": "RTS, 2018"
+          "serbian_latin": "Pa je navrat-nanos organizovan kakav-takav prevoz za kupače.",
+          "russian": "И тогда наспех организовали хоть какой-то транспорт для купальщиков.",
+          "source": "Danas, 2007"
         },
         {
-          "serbian_latin": "Vlada je „navrat-nanos“ poslala Skupštini zakon.",
-          "russian": "Правительство наспех отправило закон в Скупщину.",
-          "source": "RTS, 2013"
+          "serbian_latin": "Navrat-nanos i iz vedra neba bubnuo je jedan od direktora Gugla.",
+          "russian": "Внезапно и стремительно появился один из директоров Google.",
+          "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Tako je krajiškim Srbima ostavljeno dovoljno vremena da navrat-nanos pokupe malo odeće.",
-          "russian": "Краинским сербам оставили лишь столько времени, чтобы второпях собрать немного одежды.",
-          "source": "RTS, 2018"
+          "serbian_latin": "Ne donosi odluku navrat-nanos, prespavaj pa razmisli.",
+          "russian": "Не принимай решение сгоряча и второпях, переспи с этой мыслью и подумай.",
+          "source": ""
         }
       ],
-      "note": "Значение включает не только быстроту, но нередко и отсутствие нормальной подготовки или обдумывания: navrat-nanos doneta odluka — «решение, принятое в спешке».",
+      "note": "Нормативное написание — navrat-nanos, а не na vrat na nos. Выражение означает «на быстроту, в спешке» и часто содержит оттенок не только быстроты, но и недостаточной продуманности.",
       "keyword": "navrat-nanos"
     },
     {
@@ -2749,6 +2780,38 @@
       "keyword": "nije cvećka"
     },
     {
+      "headword_latin": "Nisu mu sve koze na broju",
+      "type": "frazeologizam",
+      "definition_ru": "у него не все дома; он не совсем в своём уме; с ним что-то не так",
+      "synonyms_sr": [
+        "nije sav svoj",
+        "nije baš normalan",
+        "fali mu daska u glavi",
+        "nije mu sve na mestu"
+      ],
+      "literal_ru": "у него не все козы в наличии",
+      "register": "razg., iron.; nisu nekome sve koze na broju",
+      "examples": [
+        {
+          "serbian_latin": "Kroz njihov razgovor postaje jasno da Kesidiju nisu sve koze na broju.",
+          "russian": "Из их разговора становится ясно, что у Кэссиди не все дома.",
+          "source": "RTS, 2009"
+        },
+        {
+          "serbian_latin": "Možda poneki kojima nisu sve koze na broju, svakako uvrnuti turisti.",
+          "russian": "Возможно, найдутся и такие, у кого не все дома, наверняка какие-нибудь чудаковатые туристы.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Ne slušaj ga ozbiljno, nisu mu baš sve koze na broju.",
+          "russian": "Не воспринимай его всерьёз, у него явно не все дома.",
+          "source": ""
+        }
+      ],
+      "note": "Это шутливо-уничижительная характеристика странного, неразумного или явно неадекватного человека. Русское «не все дома» почти идеально совпадает по конструкции и тону. Важно управление: nisu mu / joj / im sve koze na broju — человек выражается дательным падежом.",
+      "keyword": "nisu sve koze na broju"
+    },
+    {
       "headword_latin": "Nit’ riba, nit’ devojka",
       "type": "frazeologizam",
       "definition_ru": "ни рыба ни мясо; ни то ни сё; непонятно что",
@@ -2910,6 +2973,38 @@
       ],
       "note": "Это формула народной морали: то, что получено грабежом, насилием или несправедливостью, в конечном счёте не принесёт добра тому, кто это присвоил. Изречение настолько узнаваемо, что используется как самостоятельный политический лозунг и как основа афоризмов; Danas, например, приводит переделку Oteto, prokleto slatko! Русское «что упало, то пропало» означает совсем другое — что потерянное уже не вернуть.",
       "keyword": "oteto prokleto"
+    },
+    {
+      "headword_latin": "Pa kud puklo da puklo",
+      "type": "replika",
+      "definition_ru": "будь что будет; была не была; чем бы это ни кончилось",
+      "synonyms_sr": [
+        "pa šta bude",
+        "neka bude šta bude",
+        "pa kako ispadne",
+        "rizikovaću"
+      ],
+      "literal_ru": "пусть лопнет там, где лопнет",
+      "register": "razg., ekspresivno; pred odlučno delovanje kada se prihvata rizik i nepoznat ishod",
+      "examples": [
+        {
+          "serbian_latin": "Ja ću da nastavim sutra, pa kud puklo da puklo!",
+          "russian": "Завтра я продолжу, будь что будет!",
+          "source": "Miloš Crnjanski, cit. u lingvističkom radu, 2010"
+        },
+        {
+          "serbian_latin": "Pa kud puklo da puklo?",
+          "russian": "Ну, будь что будет?",
+          "source": "Reddit/r/serbia, 2023"
+        },
+        {
+          "serbian_latin": "Reći ću mu sve, pa kud puklo da puklo.",
+          "russian": "Я ему всё скажу — будь что будет.",
+          "source": ""
+        }
+      ],
+      "note": "Puklo здесь не означает буквально «лопнуло». Формула выражает решение действовать несмотря на неизвестный исход: человек перестаёт осторожничать и принимает последствия. Частица pa очень типична, но возможна и краткая форма kud puklo da puklo.",
+      "keyword": "kud puklo da puklo"
     },
     {
       "headword_latin": "Padati / pasti u očaj",
