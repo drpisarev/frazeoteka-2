@@ -618,33 +618,33 @@
     {
       "headword_latin": "Boriti se rukama i nogama",
       "type": "frazeologizam",
-      "definition_ru": "бороться изо всех сил; всеми силами добиваться чего-то; зубами держаться за что-то",
+      "definition_ru": "бороться изо всех сил; всеми силами добиваться чего-то; отчаянно бороться",
       "synonyms_sr": [
         "boriti se svim silama",
         "grčevito se boriti",
         "dati sve od sebe",
-        "ne odustajati"
+        "grebati rukama i nogama"
       ],
       "literal_ru": "бороться руками и ногами",
-      "register": "razg., ekspresivno; obično boriti se rukama i nogama za nešto / da...",
+      "register": "razg., ekspresivno; boriti se rukama i nogama za nešto / da nešto uspe; takođe sa pojačajnim i: boriti se i rukama i nogama",
       "examples": [
         {
-          "serbian_latin": "Borio sam se rukama i nogama da zadržim taj osećaj.",
-          "russian": "Я всеми силами боролся за то, чтобы сохранить это чувство.",
-          "source": "Blic, 2020"
+          "serbian_latin": "SDP će se rukama i nogama boriti da to ne uspe.",
+          "russian": "СДП будет изо всех сил бороться, чтобы этого не произошло.",
+          "source": "Politika, 2022"
         },
         {
-          "serbian_latin": "Ako dođe trenutak da smo ugroženi, borićemo se i rukama i nogama i svim silama.",
-          "russian": "Если наступит момент, когда нам что-то будет угрожать, мы будем бороться всеми силами.",
-          "source": "Nova.rs, 2021"
+          "serbian_latin": "Za ovaj projekat se borimo rukama i nogama već godinama.",
+          "russian": "За этот проект мы уже много лет боремся всеми силами.",
+          "source": ""
         },
         {
-          "serbian_latin": "Boriću se rukama i nogama da ovaj projekat opstane.",
-          "russian": "Я буду всеми силами бороться за то, чтобы этот проект выжил.",
+          "serbian_latin": "Ako bude trebalo, boriću se i rukama i nogama da zadržim taj posao.",
+          "russian": "Если понадобится, я сделаю всё возможное, чтобы сохранить эту работу.",
           "source": ""
         }
       ],
-      "note": "Речь обычно не о буквальной драке, а об очень настойчивой борьбе за цель. Конструкция может выражать и сопротивление: boriti se rukama i nogama protiv nečega. Для русского «руками и ногами» само по себе часто значит активное сопротивление (отбиваться руками и ногами), тогда как в сербском сочетание свободно употребляется и в положительном смысле — «добиваться всеми силами».",
+      "note": "Речь обычно не о физической борьбе, а о максимальном усилии и использовании всех доступных средств. Сербская фразеология фиксирует boriti se i rukama i nogama именно как интенсивную борьбу за достижение цели. Близкое grebati rukama i nogama разговорнее и может сильнее намекать на отчаянное стремление чего-то добиться.",
       "keyword": "boriti se rukama i nogama"
     },
     {
@@ -899,39 +899,39 @@
           "source": ""
         }
       ],
-      "note": "Это полноценный сербский сравнительный фразеологизм, подтверждённый современной фразеологической литературой. Сравнение сильное и уничижительное. Более мягким в некоторых ситуациях может быть debeo kao prase, хотя и оно далеко не нейтрально. Для обычного описания внешности лучше gojazan, krupan, ima višak kilograma.",
+      "note": "Сравнение сильное и уничижительное. Более мягким в некоторых ситуациях может быть debeo kao prase, хотя и оно далеко не нейтрально. Для обычного описания внешности лучше gojazan, krupan, ima višak kilograma.",
       "keyword": "debeo kao svinja"
     },
     {
       "headword_latin": "Do bola",
-      "type": "izraz",
-      "definition_ru": "до предела; невероятно, донельзя; чрезвычайно",
+      "type": "sleng",
+      "definition_ru": "до предела; ужасно, безумно, невероятно; до невозможности",
       "synonyms_sr": [
-        "izuzetno",
-        "krajnje",
-        "neverovatno",
-        "maksimalno (po kontekstu)"
+        "veoma",
+        "izrazito",
+        "strašno",
+        "nenormalno (razg., kao pojačivač)"
       ],
       "literal_ru": "до боли",
-      "register": "razg. do publicistički, ekspresivni pojačivač; tipično iskren do bola, originalan do bola, banalan do bola",
+      "register": "razg., sleng; pojačivač stepena: dobar do bola, dosadan do bola, iskren do bola, banalan do bola",
       "examples": [
         {
+          "serbian_latin": "Kad kažu da je nešto „do bola“, to uopšte ne boli, već je izrazito dobro.",
+          "russian": "Когда говорят, что что-то do bola, это вовсе не значит, что больно: имеется в виду «очень круто».",
+          "source": "Politika, 2007"
+        },
+        {
           "serbian_latin": "Originalna do bola.",
-          "russian": "Невероятно оригинальная.",
+          "russian": "Оригинальная до невозможности.",
           "source": "Danas, 2021"
         },
         {
-          "serbian_latin": "Poetski roman je opor, nežan, ironičan, duhovit, razigran do bola i smeha.",
-          "russian": "Поэтический роман резкий, нежный, ироничный, остроумный, невероятно живой и смешной.",
-          "source": "RTS, 2021"
-        },
-        {
-          "serbian_latin": "To je do bola banalno.",
-          "russian": "Это банально до невозможности.",
-          "source": ""
+          "serbian_latin": "Čini mi se da je do bola smešno i tragikomično videti koliko je ljudi promenilo dres.",
+          "russian": "Мне кажется до абсурда смешным и трагикомичным видеть, сколько людей переметнулось.",
+          "source": "Politika, 2026"
         }
       ],
-      "note": "Для русского это небольшой ложный друг. Сербское do bola очень продуктивно как обычный интенсификатор: iskren do bola, moderan do bola, glup do bola. Боль при этом вовсе не обязательно подразумевается. Русское «до боли знакомый» семантически уже и употребляется иначе. В сербской речи возможны как положительные, так и отрицательные сочетания.",
+      "note": "Изначально в молодёжном сленге особенно заметно значение «очень круто, отлично», но современное do bola стало общим усилителем и спокойно соединяется как с положительной, так и с отрицательной оценкой: lep do bola, iskren do bola, glup do bola, dosadan do bola. Перевод поэтому зависит от прилагательного, а не сводится к одному русскому слову.",
       "keyword": "do bola"
     },
     {
@@ -995,33 +995,33 @@
     {
       "headword_latin": "Doći nekome iz dupeta u glavu",
       "type": "frazeologizam",
-      "definition_ru": "до кого-то наконец дошло; наконец сообразить; наконец одуматься",
+      "definition_ru": "наконец дойти до кого-то; наконец понять очевидное; поздно спохватиться и сообразить",
       "synonyms_sr": [
         "konačno shvatiti",
-        "opametiti se",
         "doći pameti",
-        "ukapirati (razg.)"
+        "ukapirati",
+        "sinuti nekome"
       ],
-      "literal_ru": "дойти кому-то из ж*** в голову",
-      "register": "grub., razg., iron.; o zakasnelom shvatanju nečega što je odavno trebalo biti jasno",
+      "literal_ru": "дойти кому-то из задницы в голову",
+      "register": "grub., razg., iron.; tipično Došlo mu je iz dupeta u glavu / Nikako da mu dođe iz dupeta u glavu",
       "examples": [
         {
-          "serbian_latin": "Izgleda da je premijeru došlo, što kaže naš narod, „iz dupeta u glavu“.",
-          "russian": "Похоже, до премьера наконец дошло, как говорится.",
-          "source": "Danas, 2016"
+          "serbian_latin": "Pa došlo i tebi iz dupeta u glavu!",
+          "russian": "Ну наконец-то и до тебя дошло!",
+          "source": "Vukajlija, 2011"
         },
         {
-          "serbian_latin": "Kad se neko, makar i sa velikim zakašnjenjem otrezni ili opasulji, onda naš narod ovako kaže: Došlo mu iz dupeta u glavu.",
-          "russian": "Когда человек, пусть и с большим опозданием, наконец приходит в себя и соображает, говорят: до него наконец дошло.",
-          "source": "Danas, 2012"
+          "serbian_latin": "Tebi nikako da dođe iz dupeta u glavu.",
+          "russian": "До тебя всё никак не дойдёт.",
+          "source": "Vukajlija, 2011"
         },
         {
-          "serbian_latin": "Posle deset godina mu je konačno došlo iz dupeta u glavu da taj posao nema budućnost.",
-          "russian": "Через десять лет до него наконец дошло, что у этого дела нет будущего.",
+          "serbian_latin": "Posle tri godine mu je konačno došlo iz dupeta u glavu da taj posao nema budućnost.",
+          "russian": "Через три года до него наконец дошло, что у этой работы нет будущего.",
           "source": ""
         }
       ],
-      "note": "Ключевой оттенок — не просто shvatiti, а понять слишком поздно то, что давно следовало понять. Поэтому выражение почти всегда насмешливое или раздражённое. Очень естественна конструкция Došlo mu je iz dupeta u glavu. Сербское dupe здесь сохраняется без эвфемизма; в русском функциональном переводе чаще достаточно «до него наконец дошло», потому что буквальный образ звучит значительно грубее.",
+      "note": "Главное здесь не просто «понять», а понять наконец, после долгой тупости, упрямства или запоздания. Из-за этого выражение почти всегда насмешливое или раздражённое. Vukajlija метко описывает образ как долгий «путь познания» до головы и приводит значение момента, когда человек наконец осознаёт собственную ошибку. Для активного сербского словаря очень естественна форма с dupe: Došlo mu je iz dupeta u glavu.",
       "keyword": "iz dupeta u glavu"
     },
     {
@@ -1085,6 +1085,37 @@
       ],
       "note": "Русское «что русскому хорошо, то немцу смерть» означает различие реакции людей на одно и то же, поэтому это не эквивалент. Сербская пословица говорит о другом: несчастье, потеря или исчезновение одного создаёт шанс другому. В определённых контекстах русское «кому война, а кому мать родна» может передавать эту мысль, но оно намного более жёсткое и обычно подразумевает наживу на чужой беде. Нейтральнее переводить «одному беда — другому удача».",
       "keyword": "dok jednom ne smrkne drugom ne svane"
+    },
+    {
+      "headword_latin": "Dokle pogled seže",
+      "type": "frazeologizam",
+      "definition_ru": "сколько хватает глаз; до самого горизонта; насколько видно вдаль",
+      "synonyms_sr": [
+        "dokle oko seže",
+        "dokle pogled dopire",
+        "u nedogled (delimično)"
+      ],
+      "literal_ru": "докуда достигает взгляд",
+      "register": "neutralno do slikovito; obično o prostoru, pejzažu ili velikoj količini nečega",
+      "examples": [
+        {
+          "serbian_latin": "Dokle pogled seže blista ovaj hipermarket koji radi non-stop.",
+          "russian": "Куда ни кинь взгляд, сверкает этот гипермаркет, работающий круглосуточно.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "O putima dalekim i o gradovima dokle pogled seže...",
+          "russian": "О далёких дорогах и городах, простирающихся сколько хватает глаз...",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Polja se pružaju dokle pogled seže.",
+          "russian": "Поля простираются сколько хватает глаз.",
+          "source": ""
+        }
+      ],
+      "note": "Практически эквивалентно русскому «сколько хватает глаз». Вариант dokle oko seže тоже естественен. U nedogled близко, но означает скорее «до бесконечности, насколько можно представить», тогда как dokle pogled seže сохраняет зрительный образ.",
+      "keyword": "dokle pogled seže"
     },
     {
       "headword_latin": "Došla maca na vratanca",
@@ -1249,32 +1280,33 @@
     {
       "headword_latin": "Ginuti kao muve",
       "type": "frazeologizam",
-      "definition_ru": "гибнуть как мухи; массово погибать",
+      "definition_ru": "гибнуть как мухи; погибать в огромном количестве; массово умирать",
       "synonyms_sr": [
         "masovno ginuti",
-        "ginuti u velikom broju",
-        "stradati masovno"
+        "umirati u velikom broju",
+        "padati kao muve",
+        "umirati kao muve"
       ],
       "literal_ru": "гибнуть как мухи",
-      "register": "ekspresivno; obično o velikom broju ljudi ili životinja; srpski oblik muve",
+      "register": "ekspresivno; o masovnom stradanju ljudi ili životinja; padati kao muve može imati širu upotrebu",
       "examples": [
         {
-          "serbian_latin": "Ginu kao muve! Militanti pokušali kontranapad kod Zarnice.",
-          "russian": "Гибнут как мухи: боевики попытались перейти в контратаку у Зарницы.",
-          "source": "Večernje novosti, 2026"
+          "serbian_latin": "Bezumno hrabri, ginu „kao muve“ i ispaljuju više od šest hiljada granata dnevno.",
+          "russian": "Безрассудно храбрые, они гибнут как мухи и ежедневно выпускают более шести тысяч снарядов.",
+          "source": "Politika, 2023"
         },
         {
-          "serbian_latin": "Oni ginu kao muve, idite na njihov forum, rubrika Crna hronika.",
-          "russian": "Они гибнут как мухи, зайдите на их форум в раздел «Чёрная хроника».",
-          "source": "B92 forum, 2023"
+          "serbian_latin": "U toj bici ljudi su ginuli kao muve.",
+          "russian": "В том сражении люди гибли как мухи.",
+          "source": ""
         },
         {
-          "serbian_latin": "U toj epidemiji ljudi su ginuli kao muve.",
-          "russian": "Во время той эпидемии люди гибли как мухи.",
+          "serbian_latin": "Bez odgovarajućeg lečenja životinje su počele da umiru kao muve.",
+          "russian": "Без надлежащего лечения животные начали дохнуть одна за другой.",
           "source": ""
         }
       ],
-      "note": "В сербском выражение совпадает с русским почти полностью, но важно заменить исходную форму muhe на сербское muve. Обычно подразумевается не просто высокая смертность, а впечатление массовости и лёгкости, с которой один за другим погибают люди: vojnici ginu kao muve, ljudi umiru kao muve. Выражение эмоционально сильное и в отношении реальных трагедий может звучать грубо.",
+      "note": "Для сербской заголовочной формы — muve. Выражение подчёркивает прежде всего массовость и лёгкость, с которой происходят смерти. Padati kao muve может означать не только умирать: в разговорной речи люди могут так массово заболевать, падать от жары или выбывать из соревнования.",
       "keyword": "ginuti kao muve"
     },
     {
@@ -1321,28 +1353,28 @@
       "synonyms_sr": [
         "potpuno gluv",
         "ne čuti ništa",
-        "nagluv (slabije)"
+        "biti tvrd na ušima (razg., delimično)"
       ],
       "literal_ru": "глухой как пушка",
-      "register": "razg., ekspresivno; o stvarnom oštećenju sluha može zvučati grubo ili neuljudno",
+      "register": "razg., ekspresivno; može zvučati grubo kada se neposredno govori o osobi sa oštećenjem sluha",
       "examples": [
         {
-          "serbian_latin": "Ma gluv je on kao top kad ne čuje ovoliku pisku i ropac.",
-          "russian": "Да он глухой как пень, если не слышит такого крика и шума.",
-          "source": "Stamen Milovanović, Udovičko kolo, Projekat Rastko"
+          "serbian_latin": "Priča glasno, jer je zbog dugog staža u artiljeriji nagluv na jedno uvo. I šali se i na svoj račun. Što bi rekao, gluv je na jedno uvo kao top.",
+          "russian": "Он говорит громко, потому что из-за долгой службы в артиллерии плохо слышит одним ухом. Сам шутит: на одно ухо глухой как пень.",
+          "source": "Politika, 2013"
         },
         {
-          "serbian_latin": "Svi ovde tako misle jer sam bio dovoljno pametan da ih uverim u to da ne čujem ništa, da sam gluv kao top i nem kao riba.",
-          "russian": "Все здесь так думают, потому что я сумел убедить их, что ничего не слышу, что я глухой как пень и нем как рыба.",
-          "source": "Ken Kizi, Let iznad kukavičjeg gnezda, srpsko izdanje, 2026"
+          "serbian_latin": "Deda, inače gluv kao top, vuče karabin...",
+          "russian": "Дед, между прочим совершенно глухой, тащит карабин...",
+          "source": "Vukajlija, 2010"
         },
         {
           "serbian_latin": "Pojačaj televizor, deda je gluv kao top.",
-          "russian": "Сделай телевизор погромче, дед совсем глухой.",
+          "russian": "Сделай телевизор погромче, дед совсем ничего не слышит.",
           "source": ""
         }
       ],
-      "note": "Фразеологизм хорошо закреплён именно в сербском; он приводится и в сербских лингвистических работах как эквивалент английского deaf as a post. Однако при описании реального человека с нарушением слуха выражение может быть невежливым; в нейтральной речи лучше slabo čuje / ima oštećenje sluha.",
+      "note": "Сербская форма именно gluv kao top. Сравнение устойчиво и фиксируется в сербской лингвистической литературе как эквивалент английского deaf as a post. Сегодня при описании реального нарушения слуха лучше нейтральные ne čuje dobro, nagluv je; фразеологизм остаётся разговорным и гиперболическим.",
       "keyword": "gluv kao top"
     },
     {
@@ -1509,32 +1541,33 @@
     {
       "headword_latin": "Imati i ovce i novce",
       "type": "frazeologizam",
-      "definition_ru": "и рыбку съесть, и в воду не лезть; получить сразу обе выгоды; совместить несовместимое в свою пользу",
+      "definition_ru": "получить всё сразу; сохранить обе выгоды; хотеть совместить несовместимое в свою пользу",
       "synonyms_sr": [
-        "imati sve",
-        "dobiti i jedno i drugo",
-        "izvući korist na obe strane"
+        "hteti sve",
+        "želeti obe koristi",
+        "ne hteti ničega da se odrekneš",
+        "hteti i jedno i drugo"
       ],
       "literal_ru": "иметь и овец, и деньги",
-      "register": "razg., iron.; naročito često u odričnoj konstrukciji Ne možeš i ovce i novce",
+      "register": "razg.; takođe hteti / želeti i ovce i novce; često neodobr. o želji da se zadrže dve međusobno nespojive koristi",
       "examples": [
         {
-          "serbian_latin": "Ejdus veruje da Vučić možda želi i ovce i novce.",
-          "russian": "Эйдус считает, что Вучич, возможно, хочет получить выгоду сразу с обеих сторон.",
-          "source": "Danas, 2022"
+          "serbian_latin": "Ono, i „ovce i novce“? Naravski da ima.",
+          "russian": "То есть хочется и того, и другого, причём всё сразу? Конечно.",
+          "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Želim imati i ovce i novce. Želim sigurnost, ali želim i slobodu.",
-          "russian": "Я хочу и того и другого: и стабильности, и свободы.",
-          "source": "City Magazine / Danas, 2024"
+          "serbian_latin": "Ne možeš da zadržiš sve privilegije i da nemaš nikakve obaveze — hoćeš i ovce i novce.",
+          "russian": "Нельзя сохранить все привилегии и при этом не иметь никаких обязанностей: ты хочешь получить всё сразу.",
+          "source": ""
         },
         {
-          "serbian_latin": "Ne možeš i ovce i novce: ili prihvati rizik ili odustani od zarade.",
-          "russian": "Нельзя получить всё сразу: либо принимай риск, либо отказывайся от прибыли.",
+          "serbian_latin": "On bi da proda firmu, a da i dalje njome upravlja — hteo bi i ovce i novce.",
+          "russian": "Он хочет продать фирму и при этом продолжать ею управлять — хочет усидеть на двух стульях.",
           "source": ""
         }
       ],
-      "note": "Смысл не в богатстве как таковом, а в желании сохранить две выгоды, которые обычно исключают друг друга. Поэтому наиболее характерна реплика Ne možeš i ovce i novce. Русское «и рыбку съесть, и в воду не лезть» очень близко по прагматике. Выражение настолько узнаваемо, что RTS обыгрывает его буквально в сюжете об овцеводах.",
+      "note": "Образ основан на простой несовместимости: если овец продать, получишь деньги, но овец уже не будет. Поэтому выражение означает желание сохранить исходное благо и одновременно получить выгоду от отказа от него. В сербской речи употребляется как с imati, так и особенно с hteti / želeti. Выражение настолько узнаваемо, что RTS использует игру с ним даже в буквальном сюжете об овцеводах.",
       "keyword": "ovce i novce"
     },
     {
@@ -1694,6 +1727,38 @@
       ],
       "note": "Здесь ispeci — императив от ispeći «испечь»: мысль метафорически надо сначала «довести до готовности», а уже потом выпускать наружу. Пословица особенно удачно противопоставляется Što na um, to na drum: первая требует речевого самоконтроля, вторая описывает его отсутствие. Выражение получило дополнительную культурную узнаваемость благодаря книге академика Ивана Клайна Ispeci pa reci, одной из его популярных книг о языке.",
       "keyword": "ispeci pa reci"
+    },
+    {
+      "headword_latin": "Izgledati kao avion",
+      "type": "sleng",
+      "definition_ru": "выглядеть сногсшибательно; быть очень привлекательным / привлекательной; быть в потрясающей форме",
+      "synonyms_sr": [
+        "izgledati vrhunski",
+        "biti prezgodan / prezgodna",
+        "izgledati kao bomba",
+        "izgledati fenomenalno"
+      ],
+      "literal_ru": "выглядеть как самолёт",
+      "register": "sleng, ekspresivno; naročito često o fizički privlačnoj osobi i dobroj formi",
+      "examples": [
+        {
+          "serbian_latin": "Dragana Kosjerina... zbog čega su mnogi prokomentarisali da „izgleda kao avion“.",
+          "russian": "Многие написали о Драгане Косерине, что она выглядит сногсшибательно.",
+          "source": "Večernje novosti, 2026"
+        },
+        {
+          "serbian_latin": "Džesika Alba u petoj deceniji izgleda kao avion.",
+          "russian": "Джессика Альба и после сорока выглядит потрясающе.",
+          "source": "Nova.rs, 2026"
+        },
+        {
+          "serbian_latin": "Posle godinu dana treninga izgleda kao avion.",
+          "russian": "После года тренировок он выглядит просто потрясающе.",
+          "source": ""
+        }
+      ],
+      "note": "Avion здесь — сленговая метафора чего-то эффектного, мощного, впечатляющего. Выражение чаще встречается в таблоидной речи о внешности женщин, но грамматически не ограничено полом. Оно заметно сильнее нейтрального dobro izgledati. Близкое izgledati kao bomba ещё более явно акцентирует сексуальную привлекательность.",
+      "keyword": "izgledati kao avion"
     },
     {
       "headword_latin": "Izigravati žrtvu",
@@ -1919,34 +1984,34 @@
     {
       "headword_latin": "Kao muva bez glave",
       "type": "frazeologizam",
-      "definition_ru": "как угорелый; метаться без головы; действовать хаотично, без плана и понимания",
+      "definition_ru": "метаться как угорелый; суетиться без толку; носиться без цели, не понимая, что делать",
       "synonyms_sr": [
-        "bezglavo",
-        "haotično",
-        "bez plana",
-        "pogubljeno"
+        "juriti bez cilja",
+        "trčati na sve strane",
+        "biti smušen",
+        "ne znati kud udaraš"
       ],
       "literal_ru": "как муха без головы",
-      "register": "razg., neodobr.; često juriti / trčati / ponašati se kao muva bez glave",
+      "register": "razg., ekspresivno; uz glagole kretanja i aktivnosti: juriti, trčati, hodati, raditi kao muva bez glave",
       "examples": [
         {
-          "serbian_latin": "Ne ide se nikuda kao muva bez glave, svuda mora promišljeno da se ide.",
-          "russian": "Нельзя носиться куда-то сломя голову, действовать надо обдуманно.",
+          "serbian_latin": "Vrlo pažljivo, ne ide se nikuda kao muva bez glave, svuda mora promišljeno da se ide.",
+          "russian": "Нужно действовать осторожно, а не носиться куда попало как угорелый; каждую поездку надо обдумывать.",
           "source": "RTS, 2020"
         },
         {
-          "serbian_latin": "Novinar, kaže, kao muva bez glave juri za sadržajem koji mu servira algoritam.",
-          "russian": "Журналист, говорит он, как угорелый гоняется за контентом, который ему подсовывает алгоритм.",
-          "source": "Danas, 2025"
+          "serbian_latin": "Reagovao je „kao muva bez glave“ i bio potpuno neinformisan.",
+          "russian": "Он действовал совершенно беспорядочно, не понимая, что происходит.",
+          "source": "Politika, 2020"
         },
         {
-          "serbian_latin": "Nemoj da trčiš kao muva bez glave — prvo napravi plan.",
-          "russian": "Не мечись как угорелый — сначала составь план.",
-          "source": ""
+          "serbian_latin": "Svaki dan ima neki prijem, koktel... trčim svuda ko muva bez glave.",
+          "russian": "Каждый день то приём, то коктейль... ношусь повсюду как угорелый.",
+          "source": "Danas, 2016"
         }
       ],
-      "note": "Сербская форма muva bez glave обозначает хаотичность, растерянность и отсутствие направления. В сербском стандартно muva, а не muha. Русское «как угорелый» хорошо передаёт движение, а «как без головы» — отсутствие плана.",
-      "keyword": "muva bez glave"
+      "note": "Образ объединяет бесцельность, растерянность и суетливое движение. Поэтому это не просто «быстро бегать»: человек действует без плана и плохо понимает, куда направляться дальше. Сербская научная литература прямо описывает ići / raditi nešto kao muva bez glave как «сметено и ужурбано кретање», а отдельное историко-фразеологическое исследование посвящено именно сербскому muva bez glave.",
+      "keyword": "kao muva bez glave"
     },
     {
       "headword_latin": "Kap koja je prelila čašu",
