@@ -1126,33 +1126,38 @@
     {
       "headword_latin": "Do bola",
       "type": "izraz",
-      "definition_ru": "до невозможности; невероятно; чрезвычайно; очень",
+      "definition_ru": "до предела; чрезвычайно; ужасно / невероятно; до невозможности",
       "synonyms_sr": [
-        "izuzetno",
+        "veoma",
         "krajnje",
-        "strašno",
-        "neverovatno"
+        "maksimalno",
+        "nenormalno (razg.)"
       ],
       "literal_ru": "до боли",
-      "register": "razg., ekspresivno; nekada naročito omladinski žargon, danas široko i u publicistici; pojačava pozitivnu ili negativnu osobinu",
+      "register": "razg., sleng; pojačivač prideva ili ocene: dobar do bola, dosadan do bola, iskren do bola",
       "examples": [
         {
-          "serbian_latin": "Spisateljica je svesno i do bola iskreno ogolila sebe.",
-          "russian": "Писательница сознательно и предельно искренне обнажила себя.",
-          "source": "Radio Beograd 3 / RTS, 2018"
+          "serbian_latin": "Kad kažu da je nešto „do bola“, to uopšte ne boli, već je izrazito dobro.",
+          "russian": "Когда молодёжь говорит, что что-то do bola, это не значит «больно», а «очень круто».",
+          "source": "Politika, 2007"
         },
         {
-          "serbian_latin": "Sve ovo do bola je zastarelo.",
-          "russian": "Всё это устарело до невозможности.",
-          "source": "Vreme, 2008"
+          "serbian_latin": "Suočavanje sa činjenicama bilo je... do bola.",
+          "russian": "Столкновение с фактами было болезненно острым, до предела.",
+          "source": "Danas, 2013"
         },
         {
-          "serbian_latin": "Pregovori su bili mučni, a snizili su cene „do bola“.",
-          "russian": "Переговоры были тяжёлыми, а цены они снизили просто до предела.",
-          "source": "Politika, 2017"
+          "serbian_latin": "Film je dosadan do bola.",
+          "russian": "Фильм ужасно скучный.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ona je iskrena do bola.",
+          "russian": "Она предельно откровенна.",
+          "source": ""
         }
       ],
-      "note": "Do bola функционирует как усилитель: iskren do bola, dosadan do bola, smešan do bola, dobar do bola. Politika ещё в 2007 году отмечала молодёжное употребление, где do bola означало «izrazito dobro». Но сегодня выражение не обязательно положительное: значение задаёт слово, которое оно усиливает. Не следует путать с буквальным do bola в медицинском или физическом контексте: savijati nogu do bola — «сгибать ногу до появления боли».",
+      "note": "Значение зависит от слова рядом и не обязательно положительное. Молодёжное dobar do bola — «офигенно хороший», но dosadan do bola — «невыносимо скучный», iskren do bola — «предельно откровенный». Поэтому базовая функция do bola — не «очень хорошо», а экспрессивное усиление до крайней степени.",
       "keyword": "do bola"
     },
     {
@@ -1248,33 +1253,33 @@
     {
       "headword_latin": "Doći nekome iz guzice u glavu",
       "type": "frazeologizam",
-      "definition_ru": "наконец дойти до кого-то; наконец сообразить; поздно понять очевидное",
+      "definition_ru": "до кого-то наконец дошло; наконец сообразить очевидное; понять слишком поздно",
       "synonyms_sr": [
         "konačno shvatiti",
         "doći pameti",
         "ukapirati (razg.)",
-        "sinuti nekome (delimično)"
+        "sinuti nekome"
       ],
       "literal_ru": "дойти кому-то из задницы в голову",
-      "register": "grub., razg.; tipično došlo mu je iz guzice u glavu; takođe iz dupeta u glavu",
+      "register": "grub., razg.; tipično došlo mu je iz guzice u glavu",
       "examples": [
         {
-          "serbian_latin": "Cinik bi rekao: dugačak je put što ide iz guzice u glavu.",
-          "russian": "Циник сказал бы: долгий же путь от ж*** до головы.",
-          "source": "Politika, 2015"
+          "serbian_latin": "Peva o tipu kom je došlo iz guzice u glavu, probao je sve i svud, a onda rešio da je ipak s njom nešto drugo.",
+          "russian": "Он поёт о парне, до которого наконец дошло: он всё перепробовал и понял, что с ней всё иначе.",
+          "source": "City Magazine / Danas, 2022"
         },
         {
-          "serbian_latin": "Srpskom glavešini bajagi dođe iz dupeta u glavu da famozne srpske podele nikuda ne vode.",
-          "russian": "Сербскому начальнику вдруг наконец доходит, что пресловутые сербские расколы никуда не ведут.",
-          "source": "Danas, 2016"
+          "serbian_latin": "Čini se, ipak, da je većini u ovoj zemlji došlo iz guzice u glavu.",
+          "russian": "Похоже, до большинства в этой стране всё-таки наконец дошло.",
+          "source": "Danas, 2012"
         },
         {
-          "serbian_latin": "Tek mu je posle dve godine došlo iz guzice u glavu da je napravio grešku.",
-          "russian": "Только через два года до него наконец дошло, что он совершил ошибку.",
+          "serbian_latin": "Tek kad je izgubio posao, došlo mu je iz guzice u glavu da mora nešto da promeni.",
+          "russian": "Только когда он потерял работу, до него наконец дошло, что надо что-то менять.",
           "source": ""
         }
       ],
-      "note": "Это грубая и ироническая версия обычного došlo mu je u glavu / konačno je shvatio. Главный оттенок — человек слишком долго не понимал очевидного, и вот наконец «дошло». Очень характерна безличная конструкция с дательным: došlo mi / ti / mu je iz guzice u glavu. Варианты с guzica и dupe оба живы.",
+      "note": "Важен оттенок запоздалого прозрения: человек долго не понимал очевидного, несмотря на опыт, предупреждения или последствия, и только теперь «дошло». Поэтому нейтральное shvatiti слабее. Русский перевод обычно лучше делать без буквальной физиологии — «наконец дошло», «наконец-то мозги включились»; если нужно сохранить грубый образ — «наконец через ж***у дошло до головы».",
       "keyword": "iz guzice u glavu"
     },
     {
@@ -1793,34 +1798,33 @@
     {
       "headword_latin": "Imati i ovce i novce",
       "type": "frazeologizam",
-      "definition_ru": "получить всё сразу; сохранить обе выгоды; хотеть совместить несовместимое в свою пользу",
+      "definition_ru": "получить всё сразу; и сохранить своё, и получить выгоду; хотеть и рыбку съесть, и косточкой не подавиться",
       "synonyms_sr": [
-        "hteti sve",
-        "želeti obe koristi",
-        "ne hteti ničega da se odrekneš",
-        "hteti i jedno i drugo"
+        "imati sve",
+        "dobiti na obe strane",
+        "ne odreći se ničega"
       ],
       "literal_ru": "иметь и овец, и деньги",
-      "register": "razg.; takođe hteti / želeti i ovce i novce; često neodobr. o želji da se zadrže dve međusobno nespojive koristi",
+      "register": "razg.; o želji da se istovremeno dobiju dve međusobno teško spojive koristi",
       "examples": [
         {
           "serbian_latin": "Ono, i „ovce i novce“? Naravski da ima.",
-          "russian": "То есть хочется и того, и другого, причём всё сразу? Конечно.",
+          "russian": "То есть получить и то и другое? Конечно, можно.",
           "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Ne možeš da zadržiš sve privilegije i da nemaš nikakve obaveze — hoćeš i ovce i novce.",
-          "russian": "Нельзя сохранить все привилегии и при этом не иметь никаких обязанностей: ты хочешь получить всё сразу.",
-          "source": ""
+          "serbian_latin": "Ovčari kažu da je najbolje kad broje i ovce i novce.",
+          "russian": "Овцеводы говорят, что лучше всего, когда можно считать и овец, и деньги.",
+          "source": "RTS, 2021"
         },
         {
-          "serbian_latin": "On bi da proda firmu, a da i dalje njome upravlja — hteo bi i ovce i novce.",
-          "russian": "Он хочет продать фирму и при этом продолжать ею управлять — хочет усидеть на двух стульях.",
+          "serbian_latin": "Ne možeš da imaš i ovce i novce — moraćeš nešto da žrtvuješ.",
+          "russian": "Нельзя получить всё сразу — чем-то придётся пожертвовать.",
           "source": ""
         }
       ],
-      "note": "Образ основан на простой несовместимости: если овец продать, получишь деньги, но овец уже не будет. Поэтому выражение означает желание сохранить исходное благо и одновременно получить выгоду от отказа от него. В сербской речи употребляется как с imati, так и особенно с hteti / želeti. Выражение настолько узнаваемо, что RTS использует игру с ним даже в буквальном сюжете об овцеводах.",
-      "keyword": "ovce i novce"
+      "note": "Образ прозрачен: если овец продали, появляются деньги, но овец уже нет. Поэтому imati i ovce i novce означает сохранить первоначальную выгоду и одновременно получить то, что обычно приобретается ценой её утраты. Русское «и рыбку съесть, и косточкой не подавиться» функционально близко, но сербское выражение совершенно нейтрально по грубости.",
+      "keyword": "i ovce i novce"
     },
     {
       "headword_latin": "Imati nešto u malom prstu",
@@ -2236,34 +2240,34 @@
     {
       "headword_latin": "Kao muva bez glave",
       "type": "frazeologizam",
-      "definition_ru": "метаться как угорелый; суетиться без толку; носиться без цели, не понимая, что делать",
+      "definition_ru": "как угорелый; без толку метаться; носиться, не понимая, что делать",
       "synonyms_sr": [
         "juriti bez cilja",
-        "trčati na sve strane",
-        "biti smušen",
-        "ne znati kud udaraš"
+        "biti pogubljen",
+        "ponašati se haotično",
+        "tumarati"
       ],
       "literal_ru": "как муха без головы",
-      "register": "razg., ekspresivno; uz glagole kretanja i aktivnosti: juriti, trčati, hodati, raditi kao muva bez glave",
+      "register": "razg., ekspresivno; tipično juriti / trčati / ponašati se kao muva bez glave",
       "examples": [
         {
-          "serbian_latin": "Vrlo pažljivo, ne ide se nikuda kao muva bez glave, svuda mora promišljeno da se ide.",
-          "russian": "Нужно действовать осторожно, а не носиться куда попало как угорелый; каждую поездку надо обдумывать.",
+          "serbian_latin": "Ne ide se nikuda kao muva bez glave, svuda mora promišljeno da se ide.",
+          "russian": "Нельзя носиться куда попало как угорелый, везде нужно действовать обдуманно.",
           "source": "RTS, 2020"
         },
         {
-          "serbian_latin": "Reagovao je „kao muva bez glave“ i bio potpuno neinformisan.",
-          "russian": "Он действовал совершенно беспорядочно, не понимая, что происходит.",
-          "source": "Politika, 2020"
+          "serbian_latin": "Igrali smo kao muve bez glave.",
+          "russian": "Мы играли совершенно бестолково и хаотично.",
+          "source": "Danas, 2018"
         },
         {
-          "serbian_latin": "Svaki dan ima neki prijem, koktel... trčim svuda ko muva bez glave.",
-          "russian": "Каждый день то приём, то коктейль... ношусь повсюду как угорелый.",
-          "source": "Danas, 2016"
+          "serbian_latin": "Ceo dan jurim kao muva bez glave, a ništa nisam završio.",
+          "russian": "Весь день ношусь как угорелый, а ничего не сделал.",
+          "source": ""
         }
       ],
-      "note": "Образ объединяет бесцельность, растерянность и суетливое движение. Поэтому это не просто «быстро бегать»: человек действует без плана и плохо понимает, куда направляться дальше. Сербская научная литература прямо описывает ići / raditi nešto kao muva bez glave как «сметено и ужурбано кретање», а отдельное историко-фразеологическое исследование посвящено именно сербскому muva bez glave.",
-      "keyword": "kao muva bez glave"
+      "note": "По-сербски muva, не muha. Это не просто «быстро двигаться». Человек много суетится, но его действия хаотичны, непродуманны и плохо направлены к цели. Очень естественна модель juriti kao muva bez glave.",
+      "keyword": "muva bez glave"
     },
     {
       "headword_latin": "Kap koja je prelila čašu",
@@ -2651,33 +2655,33 @@
     {
       "headword_latin": "Mućnuti glavom",
       "type": "frazeologizam",
-      "definition_ru": "пораскинуть мозгами; хорошенько подумать; пошевелить мозгами",
+      "definition_ru": "пораскинуть мозгами; пошевелить мозгами; хорошенько подумать",
       "synonyms_sr": [
         "razmisliti",
-        "promisliti",
         "uključiti mozak (razg.)",
-        "upotrebiti glavu"
+        "promisliti",
+        "razmisliti svojom glavom"
       ],
       "literal_ru": "встряхнуть головой",
-      "register": "razg.; često u imperativu Mućni glavom!",
+      "register": "razg.; često kao podsticaj: Mućni glavom!",
       "examples": [
         {
-          "serbian_latin": "Mućnite glavom, da vas glava više ne boli!",
-          "russian": "Пораскиньте мозгами, чтобы голова больше не болела!",
-          "source": "Radio Beograd 202 / RTS, 2015"
+          "serbian_latin": "Treba samo malo mućnuti glavom pa dokonati kakvo će biti...",
+          "russian": "Достаточно немного пораскинуть мозгами, чтобы понять, чем это закончится.",
+          "source": "Danas, 2020"
         },
         {
-          "serbian_latin": "Mućni malo glavom — nije teško da shvatiš šta se desilo.",
-          "russian": "Пошевели немного мозгами — нетрудно понять, что произошло.",
-          "source": ""
+          "serbian_latin": "Javne podatke je samo trebalo povezati i mućnuti glavom.",
+          "russian": "Нужно было лишь сопоставить открытые данные и немного пораскинуть мозгами.",
+          "source": "Politika, 2024"
         },
         {
-          "serbian_latin": "Da smo na vreme mućnuli glavom, ne bismo napravili ovu grešku.",
-          "russian": "Если бы мы вовремя подумали головой, мы бы не совершили эту ошибку.",
+          "serbian_latin": "Mućni malo glavom pre nego što nešto potpišeš.",
+          "russian": "Сначала пораскинь мозгами, прежде чем что-то подписывать.",
           "source": ""
         }
       ],
-      "note": "Mućnuti буквально означает «встряхнуть, взболтнуть», например жидкость в бутылке. Во фразе mućnuti glavom голова метафорически «встряхивается», чтобы заработала мысль. Это более разговорно и экспрессивно, чем обычное razmisliti. Название многолетней передачи Radio Beograda 202 Mućni glavom хорошо показывает, насколько выражение узнаваемо в Сербии.",
+      "note": "Mućnuti буквально означает встряхнуть, взболтать содержимое чего-либо, поэтому выражение шутливо представляет голову как ёмкость, которую надо «встряхнуть», чтобы начать думать. Оно разговорнее обычного razmisliti и иногда содержит лёгкий упрёк: Mućni glavom! — «Ну подумай же!»",
       "keyword": "mućnuti glavom"
     },
     {
@@ -2742,6 +2746,38 @@
       ],
       "note": "Nagon шире русского «инстинкт». Это может быть физиологический позыв (nagon za mokrenjem, povraćanjem), сексуальное или биологическое влечение, либо сильный внутренний импульс к действию. Instinkt чаще обозначает именно врождённую поведенческую программу, поэтому эти слова не всегда взаимозаменяемы.",
       "keyword": "nagon"
+    },
+    {
+      "headword_latin": "Naivan / naivna kao francuska sobarica",
+      "type": "frazeologizam",
+      "definition_ru": "строить из себя наивного; притворяться невинным; «наивный», который прекрасно всё понимает",
+      "synonyms_sr": [
+        "praviti se naivan",
+        "glumiti nevinašce",
+        "biti prevejan",
+        "praviti se nevešt"
+      ],
+      "literal_ru": "наивный / наивная как французская горничная",
+      "register": "razg., iron.; značenje je često suprotno doslovnom",
+      "examples": [
+        {
+          "serbian_latin": "Naivna k’o francuska sobarica.",
+          "russian": "«Наивная как французская горничная» — то есть опытная, но изображающая наивность.",
+          "source": "Infotheca, Univerzitet u Beogradu, 2017"
+        },
+        {
+          "serbian_latin": "Moguće je da sam ja bila naivna ko francuska sobarica kad nisam slutila da je inspektor pokvaren.",
+          "russian": "Возможно, я была «наивна как французская горничная», раз не подозревала, что инспектор продажный.",
+          "source": "Ana.rs, 2020"
+        },
+        {
+          "serbian_latin": "Nemoj sad da se praviš naivna kao francuska sobarica — dobro znaš o čemu pričam.",
+          "russian": "Не строй теперь из себя невинность — ты прекрасно знаешь, о чём я говорю.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение особенно коварно для иностранца: буквально оно кажется обычным сравнением «очень наивный», но традиционно часто употребляется саркастически — о человеке далеко не наивном, который изображает простодушие. Сербское исследование многочленных выражений прямо описывает это значение как «очень опытный, но ведущий себя так, будто это не так». В живой речи встречается сокращённое naivna k’o francuska sobarica.",
+      "keyword": "francuska sobarica"
     },
     {
       "headword_latin": "Naivan kao francuska sobarica",
@@ -2868,33 +2904,33 @@
     {
       "headword_latin": "Navrat-nanos",
       "type": "prilog",
-      "definition_ru": "второпях; впопыхах; наспех, сломя голову",
+      "definition_ru": "второпях; в спешке; наскоро; сломя голову",
       "synonyms_sr": [
         "na brzinu",
-        "u žurbi",
         "brzopleto",
+        "u žurbi",
         "zbrda-zdola (delimično)"
       ],
       "literal_ru": "",
-      "register": "razg.; piše se s crticom: navrat-nanos; označava brzinu uz nijansu žurbe i nedovoljne pripreme",
+      "register": "priloški izraz; pravilno se piše navrat-nanos, sa crticom",
       "examples": [
         {
-          "serbian_latin": "Navrat-nanos i iz vedra neba glavom i bradom iz svemira...",
-          "russian": "Внезапно, впопыхах, буквально свалившись с неба...",
+          "serbian_latin": "Navrat-nanos i iz vedra neba... bubnuo je iz svemira jedan od direktora Gugla.",
+          "russian": "Совершенно внезапно и стремительно один из директоров Google буквально свалился с неба.",
           "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Tačno je jedino napisati „navrat-nanos“; izraz znači „na brzinu“.",
-          "russian": "Правильно писать только navrat-nanos; выражение означает «на скорую руку, впопыхах».",
-          "source": "Danas, 2024"
+          "serbian_latin": "Sve smo završili navrat-nanos poslednjeg dana.",
+          "russian": "Всё доделали в страшной спешке в последний день.",
+          "source": ""
         },
         {
-          "serbian_latin": "Sve smo organizovali navrat-nanos, pa smo pola stvari zaboravili.",
-          "russian": "Мы всё организовали впопыхах и половину вещей забыли.",
+          "serbian_latin": "Nemoj to da radiš navrat-nanos, napravićeš grešku.",
+          "russian": "Не делай это впопыхах, ошибёшься.",
           "source": ""
         }
       ],
-      "note": "Это не просто brzo «быстро»: navrat-nanos обычно содержит оттенок спешки, суматохи и недостаточной подготовки. Поэтому Odluka je doneta navrat-nanos — скорее «решение приняли поспешно», а не просто «быстро». Написание na vrat na nos в этом значении ненормативно; правильная форма — navrat-nanos.",
+      "note": "Правописно это единое наречное выражение с дефисом: navrat-nanos, а не na vrat na nos. В современном сербском оно означает «наспех, поспешно, без достаточной подготовки». Русское «сломя голову» подходит, когда акцент на стремительности, а «впопыхах» — когда важнее поспешность и плохая подготовка.",
       "keyword": "navrat-nanos"
     },
     {
@@ -3255,6 +3291,38 @@
       "keyword": "nisu sve koze na broju"
     },
     {
+      "headword_latin": "Nisu nekome sve koze na broju",
+      "type": "frazeologizam",
+      "definition_ru": "у кого-то не все дома; с головой не всё в порядке; не все винтики на месте",
+      "synonyms_sr": [
+        "nije sav svoj",
+        "nije baš svoj",
+        "fali mu neka daska u glavi",
+        "nije čist (razg.)"
+      ],
+      "literal_ru": "у кого-то не все козы на месте",
+      "register": "razg., iron. do neodobr.; nisu mu / joj sve koze na broju",
+      "examples": [
+        {
+          "serbian_latin": "Postaje jasno da Kesidiju nisu sve koze na broju.",
+          "russian": "Становится ясно, что у Кэссиди не все дома.",
+          "source": "RTS, 2009"
+        },
+        {
+          "serbian_latin": "To očigledno omogućava i onima kojima nisu sve koze na broju da kupe pušku ili revolver.",
+          "russian": "Это, очевидно, позволяет купить оружие и тем, у кого не все дома.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Ne slušaj ga ozbiljno, njemu nisu baš sve koze na broju.",
+          "russian": "Не воспринимай его всерьёз, у него явно не все дома.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно выражение не означает клиническое психическое расстройство, а разговорно характеризует человека как чудаковатого, не вполне адекватного, совершающего нелепые поступки. Грамматически важно дательное местоимение: nisu mu sve koze na broju, буквально «у него не все козы посчитаны».",
+      "keyword": "nisu sve koze na broju"
+    },
+    {
       "headword_latin": "Nit’ riba, nit’ devojka",
       "type": "frazeologizam",
       "definition_ru": "ни рыба ни мясо; ни то ни сё; непонятно что",
@@ -3419,35 +3487,35 @@
     },
     {
       "headword_latin": "Pa kud puklo da puklo",
-      "type": "replika",
-      "definition_ru": "будь что будет; была не была; чем бы это ни кончилось",
+      "type": "izraz",
+      "definition_ru": "будь что будет; была не была; что бы ни случилось",
       "synonyms_sr": [
         "pa šta bude",
-        "neka bude šta bude",
-        "pa kako ispadne",
-        "rizikovaću"
+        "pa kako bude",
+        "šta god da se desi",
+        "rizikovati do kraja"
       ],
-      "literal_ru": "пусть лопнет там, где лопнет",
-      "register": "razg., ekspresivno; pred odlučno delovanje kada se prihvata rizik i nepoznat ishod",
+      "literal_ru": "пусть рванёт где рванёт",
+      "register": "razg., ekspresivno; o odluci da se nešto uradi bez obzira na moguće posledice",
       "examples": [
         {
-          "serbian_latin": "Ja ću da nastavim sutra, pa kud puklo da puklo!",
-          "russian": "Завтра я продолжу, будь что будет!",
-          "source": "Miloš Crnjanski, cit. u lingvističkom radu, 2010"
+          "serbian_latin": "Pa kud puklo da puklo.",
+          "russian": "Будь что будет.",
+          "source": "Danas, 2010"
         },
         {
-          "serbian_latin": "Pa kud puklo da puklo?",
-          "russian": "Ну, будь что будет?",
-          "source": "Reddit/r/serbia, 2023"
+          "serbian_latin": "Postoji stanje kada se nešto mora izreći, pa kud puklo da puklo.",
+          "russian": "Бывает состояние, когда что-то необходимо сказать — и будь что будет.",
+          "source": "Danas, 2022"
         },
         {
-          "serbian_latin": "Reći ću mu sve, pa kud puklo da puklo.",
-          "russian": "Я ему всё скажу — будь что будет.",
+          "serbian_latin": "Reći ću mu sve u lice, pa kud puklo da puklo.",
+          "russian": "Скажу ему всё в лицо, а там будь что будет.",
           "source": ""
         }
       ],
-      "note": "Puklo здесь не означает буквально «лопнуло». Формула выражает решение действовать несмотря на неизвестный исход: человек перестаёт осторожничать и принимает последствия. Частица pa очень типична, но возможна и краткая форма kud puklo da puklo.",
-      "keyword": "kud puklo da puklo"
+      "note": "Это не просто svejedno mi je «мне всё равно». Говорящий понимает риск, но принимает решение идти до конца: сделаю — и пусть последствия будут какими угодно. Поэтому в русском хорошо работают «будь что будет», «была не была».",
+      "keyword": "pa kud puklo da puklo"
     },
     {
       "headword_latin": "Padati / pasti u očaj",
@@ -3485,6 +3553,37 @@
       ],
       "note": "Pasti u očaj сильнее, чем postati potišten «приуныть» или biti deprimiran «быть подавленным»: речь идёт именно о состоянии, когда человек почти или полностью теряет надежду. Несовершенное padati u očaj может описывать повторяющуюся реакцию или постепенное состояние: Pri svakom neuspehu pada u očaj. Очень частая утешительная реплика — Ne padaj u očaj! — «Не отчаивайся!»",
       "keyword": "pasti u očaj"
+    },
+    {
+      "headword_latin": "Padati / umirati / ginuti kao muve",
+      "type": "frazeologizam",
+      "definition_ru": "падать / умирать / гибнуть как мухи; гибнуть массово, один за другим",
+      "synonyms_sr": [
+        "masovno stradati",
+        "umirati jedan za drugim",
+        "ginuti u velikom broju"
+      ],
+      "literal_ru": "падать / умирать как мухи",
+      "register": "ekspresivno; u srpskom je množina muve",
+      "examples": [
+        {
+          "serbian_latin": "Zatvorenici su padali kao muve. Neki u nesvest, neki su umirali.",
+          "russian": "Заключённые падали как мухи: кто-то терял сознание, кто-то умирал.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Zbog nje su se pacijenti skidali s infuzije i umirali kao muve.",
+          "russian": "Из-за неё пациенты снимались с капельницы и умирали как мухи.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Bez zaštite će ljudi tamo ginuti kao muve.",
+          "russian": "Без защиты там люди будут гибнуть как мухи.",
+          "source": ""
+        }
+      ],
+      "note": "Образ практически совпадает с русским «мрут как мухи». Глагол выбирается по ситуации: padati kao muve шире и может означать также массово падать, заболевать или терпеть поражение; umirati kao muve — именно умирать; ginuti kao muve — массово погибать, особенно в авариях, войне или другой опасной ситуации.",
+      "keyword": "kao muve"
     },
     {
       "headword_latin": "Parati uši",
