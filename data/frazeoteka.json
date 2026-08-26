@@ -340,6 +340,38 @@
       "keyword": "ćeraćemo se još"
     },
     {
+      "headword_latin": "Ćorav posao",
+      "type": "frazeologizam",
+      "definition_ru": "гиблое дело; бесполезная затея; пустая трата времени; безнадёжное предприятие",
+      "synonyms_sr": [
+        "uzaludan posao",
+        "jalov posao",
+        "beskoristan posao",
+        "Sizifov posao (delimično)"
+      ],
+      "literal_ru": "слепое дело",
+      "register": "razg., neodobr.; često to je ćorav posao",
+      "examples": [
+        {
+          "serbian_latin": "Tražiš društvo za taj ćoravi posao.",
+          "russian": "Ты ещё и компанию ищешь для этой бессмысленной затеи.",
+          "source": "književni korpus, cit. Logos et Littera, 2025"
+        },
+        {
+          "serbian_latin": "Prođi se ćorava posla!",
+          "russian": "Брось ты это гиблое дело!",
+          "source": "književni korpus, cit. Logos et Littera, 2025"
+        },
+        {
+          "serbian_latin": "Pokušavati da ga ubediš je ćorav posao.",
+          "russian": "Пытаться его переубедить — гиблое дело.",
+          "source": ""
+        }
+      ],
+      "note": "Фразеографически ćorav posao определяется как uzaludno, beskorisno upuštanje u što — бесполезное занятие или предприятие. Русское «гиблое дело» хорошо передаёт разговорную оценку, но иногда слишком драматично: сербское выражение может означать просто «бесперспективная возня, пустая трата сил».",
+      "keyword": "ćorav posao"
+    },
+    {
       "headword_latin": "Daleko mu lepa kuća",
       "type": "frazeologizam",
       "definition_ru": "скатертью дорога; пусть держится от меня подальше; чем дальше от меня, тем лучше",
@@ -720,6 +752,38 @@
       "keyword": "u malom prstu"
     },
     {
+      "headword_latin": "Imati posla preko glave",
+      "type": "frazeologizam",
+      "definition_ru": "быть по уши в работе; иметь работы выше крыши; быть заваленным работой",
+      "synonyms_sr": [
+        "biti zatrpan poslom",
+        "imati gomilu posla",
+        "imati pune ruke posla",
+        "ne znati gde udarati od posla"
+      ],
+      "literal_ru": "иметь работы выше головы",
+      "register": "razg.; imam / ima / imamo posla preko glave",
+      "examples": [
+        {
+          "serbian_latin": "Rale piše knjigu i ima posla preko glave.",
+          "russian": "Рале пишет книгу и по уши завален работой.",
+          "source": "RTS, Lako je Raletu, 2023"
+        },
+        {
+          "serbian_latin": "Ne mogu danas na kafu, imam posla preko glave.",
+          "russian": "Сегодня не могу пойти на кофе, у меня работы выше крыши.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pred kraj godine svi imamo posla preko glave.",
+          "russian": "Под конец года мы все по уши в работе.",
+          "source": ""
+        }
+      ],
+      "note": "Образ очень близок русскому «работы выше головы». Это именно количество дел, а не обязательно физическая усталость. Поэтому imam posla preko glave может сочетаться с совершенно спокойным состоянием: просто задач слишком много. Сравните raspadam se od posla — там акцент уже на изнеможении.",
+      "keyword": "posla preko glave"
+    },
+    {
       "headword_latin": "Imati trip da...",
       "type": "sleng",
       "definition_ru": "иметь загон, что…; казаться себе, что…; иметь навязчивое ощущение, что…",
@@ -1069,6 +1133,70 @@
       "keyword": "ko rano rani dve sreće grabi"
     },
     {
+      "headword_latin": "Malo sutra",
+      "type": "replika",
+      "definition_ru": "ага, сейчас!; как бы не так!; никогда; щас, разбежался!",
+      "synonyms_sr": [
+        "važi, kako da ne (iron.)",
+        "nikad",
+        "nema šanse",
+        "malo morgen (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg., iron.; izrazito odrična replika kojom se odbacuje obećanje, tvrdnja ili očekivanje",
+      "examples": [
+        {
+          "serbian_latin": "Zadovoljni, ali malo sutra.",
+          "russian": "Довольны? Ага, как бы не так.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Srbija sutra, a misli se Srbija, al’ juče, ili Srbija — malo sutra.",
+          "russian": "«Сербия завтра», а на деле — «Сербия вчера» или вообще «Сербия — как бы не так».",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "On će meni da vrati pare do petka? Malo sutra!",
+          "russian": "Он мне до пятницы деньги вернёт? Ага, сейчас!",
+          "source": ""
+        }
+      ],
+      "note": "Перевод просто «никогда» слишком узок. Malo sutra! часто является реакцией недоверия: «ага, сейчас!», «как бы не так!». В некоторых контекстах результатом действительно является «никогда»: обещанное «завтра» никогда не наступит. Это одна из тех сербских реплик, смысл которых практически невозможно вывести из отдельных слов.",
+      "keyword": "malo sutra"
+    },
+    {
+      "headword_latin": "Mani se ćorava posla",
+      "type": "replika",
+      "definition_ru": "брось это гиблое дело; не связывайся; не майся х*рнёй; оставь бесполезную затею",
+      "synonyms_sr": [
+        "prođi se ćorava posla",
+        "batali to (razg.)",
+        "ostavi se toga",
+        "ne upuštaj se u to"
+      ],
+      "literal_ru": "оставь слепое дело",
+      "register": "razg., neodobr.; manuti se / proći se + genitiv: ćorava posla",
+      "examples": [
+        {
+          "serbian_latin": "Domaćine, sedi kod kuće i mani se ćorava posla.",
+          "russian": "Хозяин, сиди дома и не связывайся с этим гиблым делом.",
+          "source": "Reddit/r/serbia, 2022"
+        },
+        {
+          "serbian_latin": "Mani se ćorava posla, dete.",
+          "russian": "Брось ты это гиблое дело, детка.",
+          "source": "Reddit/AskSerbia, 2026"
+        },
+        {
+          "serbian_latin": "Mani se ćorava posla — samo ćeš izgubiti vreme i novac.",
+          "russian": "Брось эту бесполезную затею — только время и деньги потеряешь.",
+          "source": ""
+        }
+      ],
+      "note": "Ćorav posao — дело бесполезное, бессмысленное или заранее не сулящее нормального результата. Академическое исследование приводит литературные tražiš društvo za taj ćoravi posao и Prođi se ćorava posla!, объясняя значение как beskoristan ili uzaludan poduhvat. Форма ćorava posla здесь не именительный, а родительный после mani se / prođi se.",
+      "keyword": "mani se ćorava posla"
+    },
+    {
       "headword_latin": "Mi o vuku, a vuk na vrata",
       "type": "izreka",
       "definition_ru": "лёгок на помине; вспомнишь о чёрте — а он тут как тут",
@@ -1349,6 +1477,37 @@
       "keyword": "nema odmora dok traje obnova"
     },
     {
+      "headword_latin": "Nema svrhe da...",
+      "type": "izraz",
+      "definition_ru": "нет смысла...; незачем...; бесполезно...",
+      "synonyms_sr": [
+        "nema smisla da",
+        "uzalud je da",
+        "nema potrebe da (nije uvek potpuni sinonim)"
+      ],
+      "literal_ru": "нет цели / пользы",
+      "register": "neutralno; moguće su konstrukcije nema svrhe da + prezent i nema svrhe + infinitiv",
+      "examples": [
+        {
+          "serbian_latin": "Nema svrhe da pričamo o tome.",
+          "russian": "Нет смысла об этом говорить.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nema svrhe pričati s njim ako neće da sluša.",
+          "russian": "Нет смысла говорить с ним, если он не хочет слушать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nema svrhe popravljati, bolje da sruše i da se tu napravi memorijalni centar.",
+          "russian": "Нет смысла ремонтировать, лучше снести и сделать там мемориальный центр.",
+          "source": "Reddit/r/serbia, 2021"
+        }
+      ],
+      "note": "Svrha — «цель, смысл, назначение». Поэтому nema svrhe чуть буквально ближе к «это не служит никакой цели», а nema smisla — к «это бессмысленно»; в обычной речи они часто взаимозаменяемы. С человеком: pričati s njim / razgovarati s njim. Для русского важно, что сербский совершенно нормально использует как инфинитив Nema svrhe pričati, так и da + prezent: Nema svrhe da pričamo.",
+      "keyword": "nema svrhe"
+    },
+    {
       "headword_latin": "Neprskano",
       "type": "pridev",
       "definition_ru": "необработанное химикатами; не опрыскивавшееся; выращенное без опрыскивания пестицидами",
@@ -1383,6 +1542,38 @@
       ],
       "note": "В сербской бытовой речи neprskano — очень частое слово на рынках и при разговорах о «домашних» продуктах. Оно буквально означает, что растение или плод nisu prskani, то есть их не обрабатывали распыляемыми средствами. Но это не официальный синоним organskog proizvoda: «неопрыскиванное», «органическое», «домашнее» и «безопасное» — разные понятия. RTS специально показывает, насколько ненадёжным может быть рыночное заявление neprskano: продавцы используют его свободно, тогда как реальное применение пестицидов и соблюдение karence — срока между последней обработкой и сбором урожая — требуют отдельного контроля. В живой речи можно услышать и субстантивированное Kupujem samo neprskano — «покупаю только то, что не опрыскивали». Для русского важно также не переводить автоматически как «экологически чистое»: сербское слово этого не гарантирует.",
       "keyword": "neprskano"
+    },
+    {
+      "headword_latin": "Nije ni ona cvećka",
+      "type": "izraz",
+      "definition_ru": "она тоже не ангел; она тоже хороша; и за ней водятся грешки",
+      "synonyms_sr": [
+        "nije ni ona bezgrešna",
+        "nije ni ona nevina",
+        "ima i ona svojih mana",
+        "nije ni ona naivna"
+      ],
+      "literal_ru": "она тоже не цветочек",
+      "register": "razg., iron.; nije ni on cvećka, nisu ni oni cvećke",
+      "examples": [
+        {
+          "serbian_latin": "Nije ni on neka cvećka, mada retko neposredno učestvuje u ovakvim zgodama.",
+          "russian": "Он тоже далеко не ангел, хотя редко непосредственно участвует в таких делах.",
+          "source": "Glen Kuk, Prvi letopis Crne čete, srpski prevod, 2025"
+        },
+        {
+          "serbian_latin": "Nije ni on bio cvećka, a ni ja.",
+          "russian": "Он тоже был не ангел, да и я тоже.",
+          "source": "Blic, 2026"
+        },
+        {
+          "serbian_latin": "Nemoj svu krivicu da svaljuješ na njega — nije ni ona cvećka.",
+          "russian": "Не сваливай всю вину на него — она тоже не ангел.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь cvećka употребляется иронически как образ хорошего, безупречного человека. Поэтому nije cvećka означает «не такой уж хороший / невинный». Фраза особенно часто появляется, когда говорящий распределяет вину между двумя сторонами: on jeste kriv, ali nije ni ona cvećka. В сербском корпусе широко представлены ni on nije cvećka, ni ona nije cvećka, ni narod nije cvećka.",
+      "keyword": "nije cvećka"
     },
     {
       "headword_latin": "Nit’ riba, nit’ devojka",
@@ -1656,6 +1847,70 @@
       "keyword": "pre roka"
     },
     {
+      "headword_latin": "Prljav posao",
+      "type": "kolokacija",
+      "definition_ru": "грязная работа; грязное дело; неприятная или морально сомнительная работа",
+      "synonyms_sr": [
+        "neugodan posao",
+        "nečastan posao",
+        "prljava rabota (razg./reg.)",
+        "mutan posao (ako je sumnjiv)"
+      ],
+      "literal_ru": "грязная работа",
+      "register": "neutralno do neodobr.; može imati i sasvim doslovno značenje",
+      "examples": [
+        {
+          "serbian_latin": "Neko mora da obavi prljav posao.",
+          "russian": "Кто-то должен сделать грязную работу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne želim da radim njihov prljavi posao.",
+          "russian": "Я не хочу выполнять за них эту грязную работу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "To nije običan posao, to je prljav posao kojim se ne želim baviti.",
+          "russian": "Это не обычная работа, а грязное дело, которым я не хочу заниматься.",
+          "source": ""
+        }
+      ],
+      "note": "Для словаря полезно разделять prljav posao и prljava posla. Первое — обычная именная группа и может означать как буквально грязную работу, так и неприятное поручение или морально сомнительное занятие. Второе — значительно более идиоматическое «тёмные делишки, нечистые дела». Поэтому ваше Neću da prodajem drogu. To su prljava posla звучит естественно именно во множественной фразеологической модели.",
+      "keyword": "prljav posao"
+    },
+    {
+      "headword_latin": "Prljava posla",
+      "type": "frazeologizam",
+      "definition_ru": "грязные дела; тёмные делишки; нечистые махинации",
+      "synonyms_sr": [
+        "mutna posla",
+        "nečista posla",
+        "sumnjivi poslovi",
+        "kriminalne radnje (po kontekstu)"
+      ],
+      "literal_ru": "грязные дела",
+      "register": "razg., neodobr.; ustaljeni oblik posla, up. mutna posla, čista posla, ženska posla",
+      "examples": [
+        {
+          "serbian_latin": "Prljava posla: osuđeni kriminalci slobodno šetaju Srbijom.",
+          "russian": "Грязные дела: осуждённые преступники свободно ходят по Сербии.",
+          "source": "Blic, 2016"
+        },
+        {
+          "serbian_latin": "Prljava posla — bilans izbornih neregularnosti u Srbiji.",
+          "russian": "Грязные дела: итог нарушений на выборах в Сербии.",
+          "source": "NIN / Blic, 2020"
+        },
+        {
+          "serbian_latin": "Neću da prodajem drogu. To su prljava posla.",
+          "russian": "Я не хочу торговать наркотиками. Это грязные дела.",
+          "source": ""
+        }
+      ],
+      "note": "Это не просто prljav posao «грязная работа». Единственное число может быть буквальным: prljav posao — работа, после которой пачкаешься, либо морально неприятная работа. Устойчивое prljava posla чаще означает сомнительные, нечестные, криминальные или закулисные дела. Форма posla — особая, стилистически закрепившаяся множественная форма, которая живёт именно в сочетаниях вроде nisu čista posla, vražja posla, ženska posla, prljava posla; обычное нейтральное множественное число — poslovi.",
+      "keyword": "prljava posla"
+    },
+    {
       "headword_latin": "Prosto ko pasulj",
       "type": "frazeologizam",
       "definition_ru": "проще простого; проще пареной репы; элементарно",
@@ -1841,6 +2096,38 @@
       "keyword": "raspremiti krevet"
     },
     {
+      "headword_latin": "Rasturati se od posla",
+      "type": "frazeologizam",
+      "definition_ru": "вкалывать как вол; работать до упаду; пахать без остановки",
+      "synonyms_sr": [
+        "ubijati se od posla",
+        "raditi kao konj",
+        "raditi bez prestanka",
+        "crnčiti (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; razlikovati od raspadati se od posla i rasturati na poslu",
+      "examples": [
+        {
+          "serbian_latin": "Od tada se rasturam od posla za ovaj časopis i još uvek verujem da ima potencijala.",
+          "russian": "С тех пор я вкалываю как проклятый для этого журнала и всё ещё верю в его потенциал.",
+          "source": "srWaC korpus"
+        },
+        {
+          "serbian_latin": "Evo, ja ne mogu više da radim... raspadam se od posla.",
+          "russian": "Я уже больше не могу работать — я разваливаюсь от этой работы.",
+          "source": "Blic, 2015"
+        },
+        {
+          "serbian_latin": "Cele nedelje se rasturam od posla, a još nisam završio projekat.",
+          "russian": "Всю неделю пашу как вол, а проект всё ещё не закончил.",
+          "source": ""
+        }
+      ],
+      "note": "Форма rasturam se od posla действительно засвидетельствована, но она менее устойчива, чем ubijam se od posla или raspadam se od posla. Полезно различать оттенки: rasturam se od posla — «вкалываю изо всех сил», тогда как raspadam se od posla фокусируется уже на результате — «я от работы совершенно вымотан». На форумах носители прямо объясняют raspadam se od posla как состояние усталости из-за чрезмерной работы.",
+      "keyword": "rasturati se od posla"
+    },
+    {
       "headword_latin": "Sastavljati kraj s krajem",
       "type": "frazeologizam",
       "definition_ru": "сводить концы с концами; еле дотягивать от зарплаты до зарплаты",
@@ -1908,6 +2195,36 @@
       ],
       "note": "Здесь русский и сербский фразеологизмы совпадают почти буквально. Выражение интернационально и существует во многих европейских языках. Популярное народное объяснение очень простое: u crkvi miševi nemaju šta da jedu — в церкви мыши не находят запасов еды, как в амбаре или доме. Однако точное историческое происхождение надёжно не установлено: фразеологические исследования связывают образ как с представлением о материальной скромности церкви, так и с более широким европейским фольклором.",
       "keyword": "siromašan kao crkveni miš"
+    },
+    {
+      "headword_latin": "Sklopiti kolica",
+      "type": "kolokacija",
+      "definition_ru": "сложить коляску; сложить тележку",
+      "synonyms_sr": [
+        "preklopiti kolica",
+        "sklopiti dečja kolica"
+      ],
+      "literal_ru": "",
+      "register": "svakodnevna kolokacija; suprotno: rasklopiti kolica",
+      "examples": [
+        {
+          "serbian_latin": "Pa možeš li ti sama sa bebom u jednoj ruci sklopiti ta kolica?",
+          "russian": "А ты можешь сама сложить эту коляску, держа ребёнка одной рукой?",
+          "source": "Ringeraja forum, 2009"
+        },
+        {
+          "serbian_latin": "Kolica treba da budu jednostavna za sklapanje i rasklapanje.",
+          "russian": "Коляска должна легко складываться и раскладываться.",
+          "source": "Malisha, 2026"
+        },
+        {
+          "serbian_latin": "Sklopi kolica pre nego što ih staviš u gepek.",
+          "russian": "Сложи коляску, прежде чем положить её в багажник.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском языке товаров и инструкций преобладают sklopiva kolica, sklopiti kolica, sklapanje kolica. На сербских сайтах встречается и preklopiti, особенно когда конструкция буквально складывается пополам, но для обычной детской коляски sklopiti — самый безопасный выбор. Сербское kolica — существительное только во множественном числе: ova kolica, sklopiti kolica.",
+      "keyword": "sklopiti kolica"
     },
     {
       "headword_latin": "Soliti pamet",
@@ -2277,6 +2594,38 @@
       "keyword": "tiha voda breg roni"
     },
     {
+      "headword_latin": "To je za mene špansko selo",
+      "type": "frazeologizam",
+      "definition_ru": "для меня это китайская грамота; я в этом совершенно не разбираюсь; для меня это тёмный лес",
+      "synonyms_sr": [
+        "nemam pojma o tome",
+        "ništa mi nije jasno",
+        "potpuno mi je nepoznato",
+        "ne razumem se u to"
+      ],
+      "literal_ru": "для меня это испанская деревня",
+      "register": "razg.; takođe vrlo često u množini: To su za mene španska sela",
+      "examples": [
+        {
+          "serbian_latin": "Kad nam neka oblast uopšte ne ide od ruke, kažemo: „To su za mene španska sela!“",
+          "russian": "Когда мы совсем не разбираемся в какой-то области, говорим: «Для меня это китайская грамота!»",
+          "source": "Blic, 2026"
+        },
+        {
+          "serbian_latin": "On o tome ne zna ništa, njemu je to špansko selo.",
+          "russian": "Он об этом ничего не знает, для него это китайская грамота.",
+          "source": "lingvistički primer, 2016"
+        },
+        {
+          "serbian_latin": "Računovodstvo je za mene špansko selo.",
+          "russian": "Бухгалтерия для меня — китайская грамота.",
+          "source": ""
+        }
+      ],
+      "note": "Значение — нечто совершенно неизвестное или непонятное, а не просто «сложное». Выражение пришло через немецкую фразеологию; Милан Шипка связывает сербское španska sela с немецким spanische Dörfer и обсуждает его вместе с Иваном Клайном и немецко-сербохорватской фразеографией. Популярные газетные версии происхождения заметно расходятся в деталях, поэтому конкретную красивую историю о том, кто именно «изобрёл» выражение, лучше не считать доказанным фактом. Русское «китайская грамота» — отличный функциональный эквивалент: оба языка выбирают далёкую культуру как образ непонятного.",
+      "keyword": "špansko selo"
+    },
+    {
       "headword_latin": "Tresla se gora, rodio se miš",
       "type": "poslovica",
       "definition_ru": "гора родила мышь; много шума из ничего; замах был большой, результат ничтожный",
@@ -2433,6 +2782,38 @@
       "keyword": "vuk dlaku menja ali ćud nikada"
     },
     {
+      "headword_latin": "Za džabe",
+      "type": "izraz",
+      "definition_ru": "бесплатно; даром; задаром",
+      "synonyms_sr": [
+        "besplatno",
+        "džabe",
+        "badava",
+        "za dž (sleng)"
+      ],
+      "literal_ru": "",
+      "register": "razg.; za dž je izrazito razgovorno skraćenje; džabe može značiti i uzalud",
+      "examples": [
+        {
+          "serbian_latin": "Ko te šiša... za džabe.",
+          "russian": "Кто тебя пострижёт... бесплатно.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Neko je prevario ljude da dobro novinarstvo ima za džabe.",
+          "russian": "Кто-то убедил людей, что хорошую журналистику можно получить бесплатно.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Valjda ti meni treba da platiš ili barem daš za dž.",
+          "russian": "Вообще-то это ты мне должен платить или хотя бы дать бесплатно.",
+          "source": "Reddit/r/serbia, 2026"
+        }
+      ],
+      "note": "Džabe / džaba — турцизм; обе формы нормативно фиксируются со значениями «бесплатно, почти бесплатно» и «напрасно, без пользы». Поэтому Dobio sam ga džabe — «получил бесплатно», но Džabe sam čekao — «я зря ждал». Za džabe однозначнее склоняет смысл к «бесплатно». Za dž — уже чисто разговорное усечение.",
+      "keyword": "za džabe"
+    },
+    {
       "headword_latin": "Zaglaviti u saobraćaju",
       "type": "kolokacija",
       "definition_ru": "застрять в пробке; застрять в дорожном движении",
@@ -2462,6 +2843,37 @@
       ],
       "note": "В бытовой речи ещё естественнее часто звучит zaglaviti u gužvi. Zaglavljen u saobraćaju совершенно нормально, но буквально говорит «застрявший в движении», а не называет саму пробку существительным.",
       "keyword": "zaglaviti u saobraćaju"
+    },
+    {
+      "headword_latin": "Zaklopiti",
+      "type": "glagol",
+      "definition_ru": "закрыть; захлопнуть; сомкнуть",
+      "synonyms_sr": [
+        "zatvoriti",
+        "sklopiti (o očima)",
+        "poklopiti (u pojedinim značenjima)"
+      ],
+      "literal_ru": "",
+      "register": "svršeni glagol; tipično zaklopiti knjigu, zaklopiti oči",
+      "examples": [
+        {
+          "serbian_latin": "Zaklopio je knjigu i ustao od stola.",
+          "russian": "Он закрыл книгу и встал из-за стола.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nakratko ću zaklopiti oči.",
+          "russian": "Я ненадолго закрою глаза.",
+          "source": "rečnički primer"
+        },
+        {
+          "serbian_latin": "Zaklopila je knjigu čim je čula da neko ulazi.",
+          "russian": "Она закрыла книгу, как только услышала, что кто-то входит.",
+          "source": ""
+        }
+      ],
+      "note": "Zaklopiti knjigu — вполне обычное «закрыть книгу». С глазами употребляются zaklopiti oči, sklopiti oči, zatvoriti oči; для простого «закрой глаза» очень естественно sklopi oči / zatvori oči. У сочетания sklopiti / zaklopiti oči существует и традиционное переносное значение «умереть, закрыть глаза навеки», поэтому контекст важен.",
+      "keyword": "zaklopiti"
     },
     {
       "headword_latin": "Zbog sira i vojne muzike",
