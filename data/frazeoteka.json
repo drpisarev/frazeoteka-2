@@ -872,35 +872,66 @@
       "keyword": "dan D"
     },
     {
-      "headword_latin": "Do bola",
-      "type": "izraz",
-      "definition_ru": "до предела; невероятно; чрезвычайно; аж до боли",
+      "headword_latin": "Debeo kao svinja",
+      "type": "frazeologizam",
+      "definition_ru": "толстый как свинья; очень толстый",
       "synonyms_sr": [
-        "izuzetno",
-        "krajnje",
-        "veoma",
-        "maksimalno (po kontekstu)"
+        "veoma debeo",
+        "debeo kao prase",
+        "debeo kao bure (razg., nije potpuni sinonim)"
       ],
-      "literal_ru": "до боли",
-      "register": "razg., ekspresivni pojačivač; iskren do bola, originalan do bola, dosadan do bola, dobar do bola",
+      "literal_ru": "толстый как свинья",
+      "register": "razg., izrazito neodobr.; poređenje o izgledu čoveka lako zvuči uvredljivo",
       "examples": [
         {
-          "serbian_latin": "Originalna do bola.",
-          "russian": "Невероятно оригинальная; оригинальная до предела.",
-          "source": "Danas, 2021"
+          "serbian_latin": "Mogao bih da pobedim Vladimira i da sam teži i debeo kao svinja.",
+          "russian": "Я мог бы победить Владимира, даже если бы весил больше и был толстым как свинья.",
+          "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Kod mene u mojoj produkciji sviraju živi ljudi, sa svojim manama i vrlinama, ali iskreni u izrazu do bola.",
-          "russian": "У меня играют живые музыканты со своими недостатками и достоинствами, но предельно искренние в выражении.",
-          "source": "Danas, 2018"
+          "serbian_latin": "Biti debeo kao svinja.",
+          "russian": "Быть очень толстым, толстым как свинья.",
+          "source": "Univerzitet u Kragujevcu, 2023"
         },
         {
-          "serbian_latin": "Film je spor do bola, ali vizuelno odličan.",
-          "russian": "Фильм невероятно медленный, но визуально отличный.",
+          "serbian_latin": "Ugojio se mnogo, ali nemoj pred njim da kažeš da je debeo kao svinja.",
+          "russian": "Он сильно поправился, но не говори при нём, что он толстый как свинья.",
           "source": ""
         }
       ],
-      "note": "Do bola не означает обязательно что-то хорошее. Это сильный разговорный усилитель: качество доведено до крайней степени. Оно может усиливать и положительное, и отрицательное: lep do bola, glup do bola, dosadan do bola, iskren do bola. В молодёжном сленге выражение особенно часто употреблялось как интенсиватор положительной оценки, но современная конструкция значительно шире.",
+      "note": "Это полноценный сербский сравнительный фразеологизм, подтверждённый современной фразеологической литературой. Сравнение сильное и уничижительное. Более мягким в некоторых ситуациях может быть debeo kao prase, хотя и оно далеко не нейтрально. Для обычного описания внешности лучше gojazan, krupan, ima višak kilograma.",
+      "keyword": "debeo kao svinja"
+    },
+    {
+      "headword_latin": "Do bola",
+      "type": "izraz",
+      "definition_ru": "до предела; невероятно, донельзя; чрезвычайно",
+      "synonyms_sr": [
+        "izuzetno",
+        "krajnje",
+        "neverovatno",
+        "maksimalno (po kontekstu)"
+      ],
+      "literal_ru": "до боли",
+      "register": "razg. do publicistički, ekspresivni pojačivač; tipično iskren do bola, originalan do bola, banalan do bola",
+      "examples": [
+        {
+          "serbian_latin": "Originalna do bola.",
+          "russian": "Невероятно оригинальная.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Poetski roman je opor, nežan, ironičan, duhovit, razigran do bola i smeha.",
+          "russian": "Поэтический роман резкий, нежный, ироничный, остроумный, невероятно живой и смешной.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "To je do bola banalno.",
+          "russian": "Это банально до невозможности.",
+          "source": ""
+        }
+      ],
+      "note": "Для русского это небольшой ложный друг. Сербское do bola очень продуктивно как обычный интенсификатор: iskren do bola, moderan do bola, glup do bola. Боль при этом вовсе не обязательно подразумевается. Русское «до боли знакомый» семантически уже и употребляется иначе. В сербской речи возможны как положительные, так и отрицательные сочетания.",
       "keyword": "do bola"
     },
     {
@@ -992,6 +1023,38 @@
       ],
       "note": "Ключевой оттенок — не просто shvatiti, а понять слишком поздно то, что давно следовало понять. Поэтому выражение почти всегда насмешливое или раздражённое. Очень естественна конструкция Došlo mu je iz dupeta u glavu. Сербское dupe здесь сохраняется без эвфемизма; в русском функциональном переводе чаще достаточно «до него наконец дошло», потому что буквальный образ звучит значительно грубее.",
       "keyword": "iz dupeta u glavu"
+    },
+    {
+      "headword_latin": "Doći nekome iz guzice u glavu",
+      "type": "frazeologizam",
+      "definition_ru": "наконец дойти до кого-то; наконец сообразить; поздно понять очевидное",
+      "synonyms_sr": [
+        "konačno shvatiti",
+        "doći pameti",
+        "ukapirati (razg.)",
+        "sinuti nekome (delimično)"
+      ],
+      "literal_ru": "дойти кому-то из задницы в голову",
+      "register": "grub., razg.; tipično došlo mu je iz guzice u glavu; takođe iz dupeta u glavu",
+      "examples": [
+        {
+          "serbian_latin": "Cinik bi rekao: dugačak je put što ide iz guzice u glavu.",
+          "russian": "Циник сказал бы: долгий же путь от ж*** до головы.",
+          "source": "Politika, 2015"
+        },
+        {
+          "serbian_latin": "Srpskom glavešini bajagi dođe iz dupeta u glavu da famozne srpske podele nikuda ne vode.",
+          "russian": "Сербскому начальнику вдруг наконец доходит, что пресловутые сербские расколы никуда не ведут.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Tek mu je posle dve godine došlo iz guzice u glavu da je napravio grešku.",
+          "russian": "Только через два года до него наконец дошло, что он совершил ошибку.",
+          "source": ""
+        }
+      ],
+      "note": "Это грубая и ироническая версия обычного došlo mu je u glavu / konačno je shvatio. Главный оттенок — человек слишком долго не понимал очевидного, и вот наконец «дошло». Очень характерна безличная конструкция с дательным: došlo mi / ti / mu je iz guzice u glavu. Варианты с guzica и dupe оба живы.",
+      "keyword": "iz guzice u glavu"
     },
     {
       "headword_latin": "Dok jednom ne smrkne, drugom ne svane",
@@ -1254,33 +1317,32 @@
     {
       "headword_latin": "Gluv kao top",
       "type": "frazeologizam",
-      "definition_ru": "совершенно глухой; глухой как пень; ничего не слышащий",
+      "definition_ru": "глухой как пень; совершенно глухой; ничего не слышит",
       "synonyms_sr": [
         "potpuno gluv",
-        "sasvim gluv",
-        "nagluv (slabije)",
-        "bez sluha (samo o muzičkom sluhu)"
+        "ne čuti ništa",
+        "nagluv (slabije)"
       ],
       "literal_ru": "глухой как пушка",
-      "register": "razg., ekspresivno; može i o potpunom nedostatku muzičkog sluha",
+      "register": "razg., ekspresivno; o stvarnom oštećenju sluha može zvučati grubo ili neuljudno",
       "examples": [
         {
-          "serbian_latin": "Što bi rekao, gluv je na jedno uvo kao top.",
-          "russian": "Как он сам говорит, на одно ухо он совершенно глух.",
-          "source": "Politika, 2013"
+          "serbian_latin": "Ma gluv je on kao top kad ne čuje ovoliku pisku i ropac.",
+          "russian": "Да он глухой как пень, если не слышит такого крика и шума.",
+          "source": "Stamen Milovanović, Udovičko kolo, Projekat Rastko"
         },
         {
-          "serbian_latin": "Neretko čujemo za nekoga ko je slaboga sluha da je „gluv kao top“.",
-          "russian": "Нередко о человеке, который плохо слышит, говорят, что он «глух как пень».",
-          "source": "Nportal / Večernje novosti, 2022"
+          "serbian_latin": "Svi ovde tako misle jer sam bio dovoljno pametan da ih uverim u to da ne čujem ništa, da sam gluv kao top i nem kao riba.",
+          "russian": "Все здесь так думают, потому что я сумел убедить их, что ничего не слышу, что я глухой как пень и нем как рыба.",
+          "source": "Ken Kizi, Let iznad kukavičjeg gnezda, srpsko izdanje, 2026"
         },
         {
-          "serbian_latin": "Džabe mu vičeš, gluv je kao top.",
-          "russian": "Бесполезно ему кричать, он совершенно глухой.",
+          "serbian_latin": "Pojačaj televizor, deda je gluv kao top.",
+          "russian": "Сделай телевизор погромче, дед совсем глухой.",
           "source": ""
         }
       ],
-      "note": "В сербском gluv — стандартная экавская форма. Исследователь сербской фразеологии Dragana Mršević-Radović связывает образ с оглушительной силой пушечного выстрела и с тем, что сильный шум повреждает слух артиллеристов. Выражение может быть и гиперболой: человек не обязательно медицински глух, а просто очень плохо слышит.",
+      "note": "Фразеологизм хорошо закреплён именно в сербском; он приводится и в сербских лингвистических работах как эквивалент английского deaf as a post. Однако при описании реального человека с нарушением слуха выражение может быть невежливым; в нейтральной речи лучше slabo čuje / ima oštećenje sluha.",
       "keyword": "gluv kao top"
     },
     {
@@ -1411,6 +1473,38 @@
       ],
       "note": "Ima nas raznih обычно не является нейтральной декларацией «все люди разные». Чаще это реакция на конкретное странное, неожиданное или непонятное поведение: примерно русское «ну, всякие люди бывают». В публицистике выражение может вводить перечисление разных типов людей, а в разговоре часто содержит лёгкую иронию или смирение с чужими особенностями.",
       "keyword": "ima nas raznih"
+    },
+    {
+      "headword_latin": "Imati / hteti i ovce i novce",
+      "type": "frazeologizam",
+      "definition_ru": "хотеть получить всё сразу; хотеть и выгоду сохранить, и ничем не пожертвовать; хотеть несовместимого",
+      "synonyms_sr": [
+        "hteti sve",
+        "hteti oboje",
+        "ne pristajati ni na kakvu žrtvu",
+        "hteti i jare i pare"
+      ],
+      "literal_ru": "хотеть и овец, и денег",
+      "register": "razg.; naročito hteti / želeti i ovce i novce; javlja se i imati i ovce i novce",
+      "examples": [
+        {
+          "serbian_latin": "Ono, i „ovce i novce“? Naravski da ima.",
+          "russian": "То есть и овец, и денег? Конечно, хочется всего сразу.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Želim imati i ovce i novce. Želim sigurnost, ali želim i slobodu.",
+          "russian": "Я хочу и овец, и денег: хочу безопасности, но хочу и свободы.",
+          "source": "City Magazine / Danas, 2024"
+        },
+        {
+          "serbian_latin": "Ne možeš i ovce i novce: ili prihvati veću platu i duže radno vreme, ili ostani ovde.",
+          "russian": "Нельзя получить всё сразу: либо соглашайся на большую зарплату и более долгий рабочий день, либо оставайся здесь.",
+          "source": ""
+        }
+      ],
+      "note": "В сербской фразеологии фиксируются обе рифмованные модели i ovce i novce и i jare i pare. Научные исследования приводят hteti / želeti i ovce i novce именно как сербский фразеологизм. Смысл не в простой жадности, а в желании одновременно сохранить ресурс и получить за него выгоду, то есть избежать выбора между несовместимыми преимуществами.",
+      "keyword": "ovce i novce"
     },
     {
       "headword_latin": "Imati i ovce i novce",
@@ -2457,33 +2551,33 @@
     {
       "headword_latin": "Navrat-nanos",
       "type": "prilog",
-      "definition_ru": "второпях; наспех; в страшной спешке; сломя голову",
+      "definition_ru": "второпях; впопыхах; наспех, сломя голову",
       "synonyms_sr": [
         "na brzinu",
-        "užurbano",
+        "u žurbi",
         "brzopleto",
-        "na prečac (delimično)"
+        "zbrda-zdola (delimično)"
       ],
       "literal_ru": "",
-      "register": "priloški izraz; piše se navrat-nanos, sa crticom",
+      "register": "razg.; piše se s crticom: navrat-nanos; označava brzinu uz nijansu žurbe i nedovoljne pripreme",
       "examples": [
         {
-          "serbian_latin": "Pa je navrat-nanos organizovan kakav-takav prevoz za kupače.",
-          "russian": "И тогда наспех организовали хоть какой-то транспорт для купальщиков.",
-          "source": "Danas, 2007"
-        },
-        {
-          "serbian_latin": "Navrat-nanos i iz vedra neba bubnuo je jedan od direktora Gugla.",
-          "russian": "Внезапно и стремительно появился один из директоров Google.",
+          "serbian_latin": "Navrat-nanos i iz vedra neba glavom i bradom iz svemira...",
+          "russian": "Внезапно, впопыхах, буквально свалившись с неба...",
           "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Ne donosi odluku navrat-nanos, prespavaj pa razmisli.",
-          "russian": "Не принимай решение сгоряча и второпях, переспи с этой мыслью и подумай.",
+          "serbian_latin": "Tačno je jedino napisati „navrat-nanos“; izraz znači „na brzinu“.",
+          "russian": "Правильно писать только navrat-nanos; выражение означает «на скорую руку, впопыхах».",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Sve smo organizovali navrat-nanos, pa smo pola stvari zaboravili.",
+          "russian": "Мы всё организовали впопыхах и половину вещей забыли.",
           "source": ""
         }
       ],
-      "note": "Нормативное написание — navrat-nanos, а не na vrat na nos. Выражение означает «на быстроту, в спешке» и часто содержит оттенок не только быстроты, но и недостаточной продуманности.",
+      "note": "Это не просто brzo «быстро»: navrat-nanos обычно содержит оттенок спешки, суматохи и недостаточной подготовки. Поэтому Odluka je doneta navrat-nanos — скорее «решение приняли поспешно», а не просто «быстро». Написание na vrat na nos в этом значении ненормативно; правильная форма — navrat-nanos.",
       "keyword": "navrat-nanos"
     },
     {
@@ -2522,6 +2616,38 @@
       ],
       "note": "В отличие от natovariti na vrat, глагол navući сильнее подчёркивает причинно-следственную связь: человек что-то сделал и тем самым сам вызвал нежелательную реакцию или последствия. Поэтому очень естественно navući sebi neprijatelje / policiju / probleme na vrat — «нажить врагов / навлечь полицию / навлечь неприятности». Полезная пара для запоминания: natovariti sebi obaveze na vrat — «взвалить на себя обязанности», но navući sebi probleme na vrat — «навлечь на себя неприятности».",
       "keyword": "navući na vrat"
+    },
+    {
+      "headword_latin": "Ne bi ni mrava zgazio",
+      "type": "frazeologizam",
+      "definition_ru": "мухи не обидит; безобиднейший человек; никому зла не причинит",
+      "synonyms_sr": [
+        "biti bezazlen",
+        "biti blag",
+        "ne nauditi nikome",
+        "biti miran čovek"
+      ],
+      "literal_ru": "даже муравья не раздавил бы",
+      "register": "razg.; obično kao karakterizacija mirnog i bezazlenog čoveka",
+      "examples": [
+        {
+          "serbian_latin": "Znam svog sina, ne bi ni mrava zgazio.",
+          "russian": "Я знаю своего сына: он и мухи не обидит.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Mer „ne bi ni mrava zgazio“.",
+          "russian": "Мер и мухи бы не обидел.",
+          "source": "Politika, 2016"
+        },
+        {
+          "serbian_latin": "Deluje grubo, ali zapravo ne bi ni mrava zgazio.",
+          "russian": "С виду он грубоват, но на самом деле мухи не обидит.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «мухи не обидит» — почти точный функциональный эквивалент, только в сербском вместо мухи выступает mrav. Выражение подчёркивает миролюбие и неспособность причинить вред. Оно нередко употребляется контрастно: человек выглядит опасным или обвиняется в чём-то, а окружающие говорят, что он ne bi ni mrava zgazio.",
+      "keyword": "ne bi ni mrava zgazio"
     },
     {
       "headword_latin": "Ne mogu sebi da priuštim",
@@ -3170,6 +3296,38 @@
       ],
       "note": "Это не просто «долго носится». Peri-deri обычно характеризует простую, практичную вещь, которую можно постоянно носить, стирать и не особенно беречь. В современной речи выражение особенно характерно для одежды: в 2026 году встречается даже basic crna majica za peri-deri.",
       "keyword": "peri-deri"
+    },
+    {
+      "headword_latin": "Pijan kao letva",
+      "type": "frazeologizam",
+      "definition_ru": "пьян в дым; мертвецки пьян; лыка не вяжет",
+      "synonyms_sr": [
+        "mrtav pijan",
+        "pijan kao majka",
+        "pijan kao zemlja",
+        "pijan kao čep"
+      ],
+      "literal_ru": "пьяный как доска / планка",
+      "register": "razg., ekspresivno; takođe napiti se kao letva",
+      "examples": [
+        {
+          "serbian_latin": "Gledao sam ga... stvarno mislim da je bio pijan kao letva.",
+          "russian": "Я смотрел на него... по-моему, он был пьян в дым.",
+          "source": "BBC na srpskom / Danas, 2018"
+        },
+        {
+          "serbian_latin": "Milinko nije propuštao nijedan Osmi mart a da se ne naljoska kao letva.",
+          "russian": "Милинко не пропускал ни одного Восьмого марта, чтобы не напиться в дым.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Pogledaj ga, jedva stoji — pijan je kao letva.",
+          "russian": "Посмотри на него, еле стоит — пьян в дым.",
+          "source": ""
+        }
+      ],
+      "note": "Это одно из целой серии сербских сравнений: pijan kao majka, zemlja, letva, čep. Существуют разные популярные объяснения образа letva: пьяный становится неподвижным «как доска» либо «искривляется», как намокшая доска; надёжно установленной этимологии нет. Смысл всегда сильный: не просто popio je, а очень сильно пьян.",
+      "keyword": "pijan kao letva"
     },
     {
       "headword_latin": "Pijan kao majka",
