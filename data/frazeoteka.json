@@ -166,6 +166,43 @@
       "keyword": "mirođija u svakoj čorbi"
     },
     {
+      "headword_latin": "Biti na izmaku snaga",
+      "type": "frazeologizam",
+      "definition_ru": "быть на пределе сил; выбиться из сил; быть совершенно измотанным",
+      "synonyms_sr": [
+        "biti iscrpljen",
+        "biti pri kraju snage",
+        "ostati bez snage",
+        "biti premoren"
+      ],
+      "literal_ru": "быть на исходе сил",
+      "register": "neutralno do ekspresivno; o fizičkoj, psihičkoj ili emocionalnoj iscrpljenosti; tipično biti na izmaku snaga",
+      "examples": [
+        {
+          "serbian_latin": "Mladići koji su prošli kroz iscrpljujuću turneju bili su na izmaku snaga, a neki i bolesni.",
+          "russian": "Музыканты после изнурительного турне были совершенно без сил, а некоторые ещё и болели.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Već teško bolesna, Žanka Stokić je najbližim prijateljima poverila da je „na izmaku snaga“.",
+          "russian": "Уже тяжело больная Жанка Стокич призналась близким друзьям, что силы её были на исходе.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Lekari su na izmaku snaga.",
+          "russian": "Врачи работают на пределе сил / врачи совершенно измотаны.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Naš labrador je bio na izmaku snaga.",
+          "russian": "Наш лабрадор был совершенно без сил.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Два указанных значения лучше не разделять на самостоятельные: основа одна — запас сил почти исчерпан. В зависимости от контекста это может быть буквальное физическое истощение, тяжёлая болезнь, хроническая перегрузка или эмоциональное выгорание. Поэтому в семейном или рабочем контексте na izmaku smo snaga может означать «мы больше не выдерживаем», а после тяжёлой нагрузки — буквально «мы выбились из сил». Izmak здесь означает «исход, завершение»: ср. na izmaku dana, godine, leta — «на исходе дня, года, лета».",
+      "keyword": "na izmaku snaga"
+    },
+    {
       "headword_latin": "Biti pravi Pera Ždera",
       "type": "izraz",
       "definition_ru": "быть настоящим обжорой; быть Робином-Бобином Барабеком; уплетать всё подряд",
