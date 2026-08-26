@@ -33,6 +33,44 @@
       "keyword": "bez dlake na jeziku"
     },
     {
+      "headword_latin": "Bez glave i repa",
+      "type": "frazeologizam",
+      "definition_ru": "ни складу ни ладу; бессвязный; без структуры и смысла; сумбурный",
+      "synonyms_sr": [
+        "bez reda i smisla",
+        "zbrkan",
+        "nepovezan",
+        "nesuvisao",
+        "neorganizovan"
+      ],
+      "literal_ru": "без головы и хвоста",
+      "register": "razg.; o priči, tekstu, govoru, planu, igri, ekipi, organizaciji i sl.; čest je i oblik nema ni glave ni repa",
+      "examples": [
+        {
+          "serbian_latin": "Ponekad bismo poslali po neko pismo bez glave i repa, bez tačaka i sa mnogo zareza.",
+          "russian": "Иногда мы отправляли какие-нибудь бессвязные письма, без точек и с кучей запятых.",
+          "source": "Radio Beograd 1 / RTS, 2017"
+        },
+        {
+          "serbian_latin": "Banderas je podastro uobičajenu, stotinama puta prežvakanu priču bez glave i repa.",
+          "russian": "Бандерас выдал обычную, сто раз пережёванную бессвязную историю без всякой логики.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Višenedeljna igra bez „glave i repa“ ovog puta stigla je za naplatu.",
+          "russian": "На этот раз пришлось расплачиваться за несколько недель совершенно бессистемной игры.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Ništa nisam razumeo — njegovo objašnjenje nema ni glave ni repa.",
+          "russian": "Я ничего не понял: в его объяснении ни складу ни ладу.",
+          "source": ""
+        }
+      ],
+      "note": "Glava и rep образно обозначают начало и конец, то есть части, которые делают нечто цельным и понятным. Поэтому bez glave i repa — не просто «беспорядочный», а лишённый внутренней связи, логической структуры и законченности. В сербских диалектных материалах выражение прямо фиксируется как bez reda, zbrkano. Полезна противоположная модель imati glavu i rep — «иметь стройную структуру, быть логичным и цельным»: Ovaj plan konačno ima glavu i rep. Русское «ни складу ни ладу» особенно хорошо подходит к речи, тексту, рассказу или плану.",
+      "keyword": "bez glave i repa"
+    },
+    {
       "headword_latin": "Bez zamerke",
       "type": "izraz",
       "definition_ru": "без нареканий; безупречно; не к чему придраться",
