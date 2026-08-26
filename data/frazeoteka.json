@@ -1190,39 +1190,33 @@
     {
       "headword_latin": "Do bola",
       "type": "izraz",
-      "definition_ru": "до крайности; ужасно, невероятно, предельно; до боли",
+      "definition_ru": "до предела; невероятно; ужасно",
       "synonyms_sr": [
         "krajnje",
-        "izuzetno",
-        "veoma",
-        "strašno (razg.)",
-        "maksimalno"
+        "neverovatno",
+        "strašno",
+        "do krajnjih granica"
       ],
       "literal_ru": "до боли",
-      "register": "razg., ekspresivni pojačivač; tipično dosadan do bola, iskren do bola, aktuelan do bola, skup do bola",
+      "register": "razg., pojačajno",
       "examples": [
         {
-          "serbian_latin": "Gde god da korakneš, to je „demagogija do bola“.",
-          "russian": "Куда ни шагни — повсюду демагогия до предела.",
-          "source": "Danas / N1, 2024"
-        },
-        {
-          "serbian_latin": "Neki štosovi su veoma, i do bola, aktuelni i danas.",
-          "russian": "Некоторые шутки и сегодня невероятно, буквально до боли актуальны.",
-          "source": "Danas, 2020"
-        },
-        {
-          "serbian_latin": "Pregovori su bili mučni, a snizili su cene „do bola“.",
-          "russian": "Переговоры были тяжёлыми, а цены сбили до предела.",
-          "source": "Politika, 2017"
-        },
-        {
           "serbian_latin": "Film je bio dosadan do bola.",
-          "russian": "Фильм был ужасно скучный / скучный до невозможности.",
+          "russian": "Фильм был невыносимо скучным.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Njena priča je iskrena do bola.",
+          "russian": "Её рассказ предельно, почти болезненно откровенен.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ovaj program je jednostavan do bola.",
+          "russian": "Эта программа невероятно проста.",
           "source": ""
         }
       ],
-      "note": "Сербское do bola значительно шире буквального русского «до боли». В разговорной речи это продуктивный усилитель степени, близкий к «невероятно, предельно, до невозможности»: lep do bola, dosadan do bola, iskren do bola, glup do bola. Оценка может быть как отрицательной, так и положительной. В русском иногда сохраняется «до боли» (до боли знакомый), но чаще требуется другой естественный усилитель.",
+      "note": "Оборот не обязательно связан с настоящей болью: он просто усиливает признак. Особенно характерны сочетания glup do bola, iskren do bola, dosadan do bola, jednostavan do bola. В качестве основной сербской формы выбираем do bola; вариант do boli также встречается, но более характерен для хорватского употребления.",
       "keyword": "do bola"
     },
     {
@@ -1286,34 +1280,33 @@
     {
       "headword_latin": "Doći nekome iz dupeta u glavu",
       "type": "frazeologizam",
-      "definition_ru": "наконец дойти до кого-то; наконец-то понять; поздно сообразить",
+      "definition_ru": "наконец дойти до кого-либо; наконец допереть; наконец осознать",
       "synonyms_sr": [
         "konačno shvatiti",
-        "doći pameti",
-        "opametiti se",
-        "ukapirati (razg.)"
+        "najzad ukapirati (razg.)",
+        "opametiti se"
       ],
-      "literal_ru": "дойти кому-то из задницы в голову",
-      "register": "grub., razg., ekspresivno; tipično došlo mi/ti/mu je iz dupeta u glavu; postoji i varijanta iz guzice u glavu",
+      "literal_ru": "дойти из ж*пы в голову",
+      "register": "razg., vulgarno, podrug. ili neodobr.",
       "examples": [
         {
-          "serbian_latin": "Overlordu Vučiću je prekasno došlo iz dupeta u glavu da jedini spas za Srbiju leži u konsolidaciji države.",
-          "russian": "До Вучича слишком поздно дошло, что единственный выход для Сербии — укрепление государства.",
-          "source": "Danas, 2014"
+          "serbian_latin": "Tek kada je stigla kazna, došlo mu je iz dupeta u glavu da pravila važe i za njega.",
+          "russian": "Только когда пришёл штраф, до него наконец дошло, что правила распространяются и на него.",
+          "source": ""
         },
         {
-          "serbian_latin": "Čini mi se da je državi konačno došlo iz dupeta u glavu da obezbeđujući red i mir zapravo brani samu sebe.",
-          "russian": "Кажется, до государства наконец дошло, что, обеспечивая порядок, оно защищает само себя.",
-          "source": "Danas, 2015"
+          "serbian_latin": "Nadam se da će im konačno doći iz dupeta u glavu koliko je situacija ozbiljna.",
+          "russian": "Надеюсь, до них наконец дойдёт, насколько серьёзна ситуация.",
+          "source": ""
         },
         {
-          "serbian_latin": "Tebi nikako da dođe iz dupeta u glavu da tako samo praviš sebi probleme.",
-          "russian": "До тебя всё никак не дойдёт, что так ты только создаёшь себе проблемы.",
+          "serbian_latin": "Izgleda da mu je najzad došlo iz dupeta u glavu: prestao je da se zadužuje.",
+          "russian": "Похоже, до него наконец дошло: он перестал влезать в долги.",
           "source": ""
         }
       ],
-      "note": "Главное здесь не просто shvatiti «понять», а понять с большим опозданием, часто лишь после ошибок или неприятных последствий. В сербской разговорной речи вариант iz dupeta u glavu очень устойчив: его регулярно использует, например, Svetislav Basara в Danas. Iz guzice u glavu также употребляется, но для активного словаря сербского удобнее поставить первым dupe. Человек оформляется дательным падежом: Došlo mu je iz dupeta u glavu.",
-      "keyword": "iz dupeta u glavu"
+      "note": "Устойчивее всего безличная модель došlo mu je iz dupeta u glavu da…. Вариант iz guzice u glavu также понятен и употребляется, но в Сербии чаще встречается форма с dupe. Выражение заметно грубее русского нейтрального «до него дошло», поэтому не подходит для официальной речи.",
+      "keyword": "doći iz dupeta u glavu"
     },
     {
       "headword_latin": "Doći nekome iz guzice u glavu",
@@ -1380,32 +1373,32 @@
     {
       "headword_latin": "Dokle pogled seže",
       "type": "frazeologizam",
-      "definition_ru": "сколько хватает глаз; до самого горизонта; насколько видно вдаль",
+      "definition_ru": "насколько хватает глаз; куда ни кинешь взгляд",
       "synonyms_sr": [
         "dokle oko seže",
-        "dokle pogled dopire",
-        "u nedogled (delimično)"
+        "koliko pogled dopire",
+        "na sve strane"
       ],
-      "literal_ru": "докуда достигает взгляд",
-      "register": "neutralno do slikovito; obično o prostoru, pejzažu ili velikoj količini nečega",
+      "literal_ru": "",
+      "register": "neutralno",
       "examples": [
         {
-          "serbian_latin": "Dokle pogled seže blista ovaj hipermarket koji radi non-stop.",
-          "russian": "Куда ни кинь взгляд, сверкает этот гипермаркет, работающий круглосуточно.",
-          "source": "Danas, 2012"
+          "serbian_latin": "Vinogradi se prostiru dokle pogled seže.",
+          "russian": "Виноградники простираются насколько хватает глаз.",
+          "source": ""
         },
         {
-          "serbian_latin": "O putima dalekim i o gradovima dokle pogled seže...",
-          "russian": "О далёких дорогах и городах, простирающихся сколько хватает глаз...",
-          "source": "Danas, 2017"
+          "serbian_latin": "Svuda, dokle oko seže, bila je samo voda.",
+          "russian": "Куда ни кинешь взгляд, повсюду была одна вода.",
+          "source": ""
         },
         {
-          "serbian_latin": "Polja se pružaju dokle pogled seže.",
-          "russian": "Поля простираются сколько хватает глаз.",
+          "serbian_latin": "S vrha se vide planine dokle pogled seže.",
+          "russian": "С вершины горы видны до самого горизонта.",
           "source": ""
         }
       ],
-      "note": "Практически эквивалентно русскому «сколько хватает глаз». Вариант dokle oko seže тоже естественен. U nedogled близко, но означает скорее «до бесконечности, насколько можно представить», тогда как dokle pogled seže сохраняет зрительный образ.",
+      "note": "Варианты dokle pogled seže и dokle oko seže равноправны; второй немного более образный. Глагол sezati здесь означает «достигать, простираться». Русскому важно не калькировать выражение как koliko se vidi: такая конструкция возможна, но не передаёт устойчивого образа.",
       "keyword": "dokle pogled seže"
     },
     {
@@ -1602,33 +1595,32 @@
     {
       "headword_latin": "Ginuti kao muve",
       "type": "frazeologizam",
-      "definition_ru": "гибнуть как мухи; погибать в огромном количестве; массово умирать",
+      "definition_ru": "гибнуть как мухи; массово погибать",
       "synonyms_sr": [
         "masovno ginuti",
-        "umirati u velikom broju",
         "padati kao muve",
-        "umirati kao muve"
+        "umirati u velikom broju"
       ],
       "literal_ru": "гибнуть как мухи",
-      "register": "ekspresivno; o masovnom stradanju ljudi ili životinja; padati kao muve može imati širu upotrebu",
+      "register": "ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Bezumno hrabri, ginu „kao muve“ i ispaljuju više od šest hiljada granata dnevno.",
-          "russian": "Безрассудно храбрые, они гибнут как мухи и ежедневно выпускают более шести тысяч снарядов.",
-          "source": "Politika, 2023"
-        },
-        {
-          "serbian_latin": "U toj bici ljudi su ginuli kao muve.",
-          "russian": "В том сражении люди гибли как мухи.",
+          "serbian_latin": "U tom ratu mladi ljudi su ginuli kao muve.",
+          "russian": "В той войне молодые люди гибли как мухи.",
           "source": ""
         },
         {
-          "serbian_latin": "Bez odgovarajućeg lečenja životinje su počele da umiru kao muve.",
-          "russian": "Без надлежащего лечения животные начали дохнуть одна за другой.",
+          "serbian_latin": "Slali su nepripremljene vojnike na front, gde su ginuli kao muve.",
+          "russian": "Неподготовленных солдат отправляли на фронт, где они массово погибали.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Bez hrane i lekova ljudi su počeli da umiru kao muve.",
+          "russian": "Без еды и лекарств люди начали умирать как мухи.",
           "source": ""
         }
       ],
-      "note": "Для сербской заголовочной формы — muve. Выражение подчёркивает прежде всего массовость и лёгкость, с которой происходят смерти. Padati kao muve может означать не только умирать: в разговорной речи люди могут так массово заболевать, падать от жары или выбывать из соревнования.",
+      "note": "Русское и сербское выражения почти полностью совпадают. Однако ginuti обычно предполагает насильственную, трагическую или преждевременную гибель; при болезни естественнее umirati kao muve. В сербском нормативная форма — muve, тогда как muhe является хорватской.",
       "keyword": "ginuti kao muve"
     },
     {
@@ -1671,32 +1663,32 @@
     {
       "headword_latin": "Gluv kao top",
       "type": "frazeologizam",
-      "definition_ru": "глухой как пень; совершенно глухой; ничего не слышит",
+      "definition_ru": "совершенно глухой; глухой как пень; ничего не слышащий",
       "synonyms_sr": [
         "potpuno gluv",
-        "ne čuti ništa",
-        "biti tvrd na ušima (razg., delimično)"
+        "ništa ne čuti",
+        "ne čuti ni reč"
       ],
       "literal_ru": "глухой как пушка",
-      "register": "razg., ekspresivno; može zvučati grubo kada se neposredno govori o osobi sa oštećenjem sluha",
+      "register": "razg., ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Priča glasno, jer je zbog dugog staža u artiljeriji nagluv na jedno uvo. I šali se i na svoj račun. Što bi rekao, gluv je na jedno uvo kao top.",
-          "russian": "Он говорит громко, потому что из-за долгой службы в артиллерии плохо слышит одним ухом. Сам шутит: на одно ухо глухой как пень.",
-          "source": "Politika, 2013"
+          "serbian_latin": "Deda je bez slušnog aparata gluv kao top.",
+          "russian": "Без слухового аппарата дед совершенно ничего не слышит.",
+          "source": ""
         },
         {
-          "serbian_latin": "Deda, inače gluv kao top, vuče karabin...",
-          "russian": "Дед, между прочим совершенно глухой, тащит карабин...",
-          "source": "Vukajlija, 2010"
+          "serbian_latin": "Možeš da vičeš koliko hoćeš — on je gluv kao top.",
+          "russian": "Можешь кричать сколько угодно — он глухой как пень.",
+          "source": ""
         },
         {
-          "serbian_latin": "Pojačaj televizor, deda je gluv kao top.",
-          "russian": "Сделай телевизор погромче, дед совсем ничего не слышит.",
+          "serbian_latin": "Tvrdio je da je gluv kao top, ali je ipak čuo kada smo spomenuli novac.",
+          "russian": "Он утверждал, что совершенно глухой, но всё-таки услышал, когда мы заговорили о деньгах.",
           "source": ""
         }
       ],
-      "note": "Сербская форма именно gluv kao top. Сравнение устойчиво и фиксируется в сербской лингвистической литературе как эквивалент английского deaf as a post. Сегодня при описании реального нарушения слуха лучше нейтральные ne čuje dobro, nagluv je; фразеологизм остаётся разговорным и гиперболическим.",
+      "note": "В сербском выражение прежде всего характеризует человека, который плохо слышит, а не человека без музыкального слуха. Для последнего значения естественнее nemati sluha za muziku или nemati ni trunke sluha. Русский образ строится обычно со словом «пень», поэтому буквальный перевод «глухой как пушка» будет непонятен.",
       "keyword": "gluv kao top"
     },
     {
