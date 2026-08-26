@@ -1,6 +1,38 @@
 {
   "entries": [
     {
+      "headword_latin": "Bez zamerke",
+      "type": "izraz",
+      "definition_ru": "без нареканий; безупречно; не к чему придраться",
+      "synonyms_sr": [
+        "besprekorno",
+        "bez mane",
+        "bez prigovora",
+        "kako treba"
+      ],
+      "literal_ru": "без замечания / претензии",
+      "register": "neutralno; ocena kvaliteta izvedbe, stanja ili ponašanja",
+      "examples": [
+        {
+          "serbian_latin": "Prošlogodišnji Vimbldon odradio je bez ijedne zamerke i krajnje profesionalno.",
+          "russian": "Прошлогодний Уимблдон был отработан без единого нарекания и чрезвычайно профессионально.",
+          "source": "B92 forum, 2009"
+        },
+        {
+          "serbian_latin": "Organizacija je bila bez zamerke.",
+          "russian": "Организация была безупречной.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Sve je prošlo bez zamerke.",
+          "russian": "Всё прошло без нареканий.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «безупречно» хорошо подходит как оценка, но буквальная конструкция ближе к «без нареканий». Ср. nemam zamerke — «у меня нет претензий / замечаний» и bez ijedne zamerke — «без единого замечания». В словарях bez zamerke сопоставляется с besprekoran, bez mane.",
+      "keyword": "bez zamerke"
+    },
+    {
       "headword_latin": "Biti mirođija u svakoj čorbi",
       "type": "frazeologizam",
       "definition_ru": "быть в каждой бочке затычкой; быть везде и во всём; всюду успевать отметиться",
@@ -214,6 +246,63 @@
       "keyword": "ćeraćemo se još"
     },
     {
+      "headword_latin": "Daleko mu lepa kuća",
+      "type": "frazeologizam",
+      "definition_ru": "скатертью дорога; пусть держится от меня подальше; чем дальше от меня, тем лучше",
+      "synonyms_sr": [
+        "neka je što dalje",
+        "neka ide svojim putem",
+        "ne želim da ga vidim"
+      ],
+      "literal_ru": "пусть его красивый дом будет далеко",
+      "register": "razg., iron., neodobr.; daleko mu / joj / im lepa kuća",
+      "examples": [
+        {
+          "serbian_latin": "Kad raskineš sa nekim, pa te pitaju za njega, kaže se: „Daleko mu lepa kuća“.",
+          "russian": "Когда после расставания спрашивают о нём: «Скатертью ему дорога, лишь бы подальше».",
+          "source": "LyricTranslate, 2018"
+        },
+        {
+          "serbian_latin": "Da mi kupiš rudnik zlata ne bi ti pomoglo — daleko ti lepa kuća.",
+          "russian": "Хоть золотой рудник мне купи — не поможет: скатертью дорога.",
+          "source": "pesmeno upotrebljeno"
+        },
+        {
+          "serbian_latin": "Ne pitaj me više za njega — daleko mu lepa kuća.",
+          "russian": "Больше меня о нём не спрашивай — скатертью дорога.",
+          "source": ""
+        }
+      ],
+      "note": "Формула внешне доброжелательна — человеку как будто желают «красивого дома», — но прагматический смысл обратный: желаю ему всего хорошего, только подальше от меня. Выражение зафиксировано и в материалах о говорах Воеводины. Поэтому русский «скатертью дорога» подходит лучше буквального перевода.",
+      "keyword": "daleko mu lepa kuća"
+    },
+    {
+      "headword_latin": "Doći će cica na kolica",
+      "type": "izreka",
+      "definition_ru": "ещё придёт твой черёд; ещё придёшь просить; придёт расплата",
+      "synonyms_sr": [
+        "doći će maca na vratanca",
+        "doći će red i na tebe",
+        "sve dođe na naplatu"
+      ],
+      "literal_ru": "Цица ещё приедет на тележке",
+      "register": "regionalno, šaljivo-upozoravajuće; u Srbiji je znatno uobičajenije doći će / došla maca na vratanca",
+      "examples": [
+        {
+          "serbian_latin": "Doće cica na kolica.",
+          "russian": "Ещё придёт твой черёд.",
+          "source": "Vukajlija, 2012"
+        },
+        {
+          "serbian_latin": "Došla cica na kolica.",
+          "russian": "Вот и пришла расплата.",
+          "source": "Ringeraja.rs, 2010"
+        }
+      ],
+      "note": "Форма действительно существует во фразеографических источниках как doći će cica na kolica. Но на Ana.rs носительница прямо противопоставляет srbijanska verzija: Došla maca na vratanca и bosanska verzija: Došla cica na kolica. Поэтому для сербского стандарта я бы считал maca na vratanca основной статьёй, а cica na kolica — региональным вариантом. Русское «придёт зима — снега попросишь» возможно по ситуации, но шире смысл «ещё придёт расплата / ещё сам придёшь».",
+      "keyword": "doći će cica na kolica"
+    },
+    {
       "headword_latin": "Dok jednom ne smrkne, drugom ne svane",
       "type": "poslovica",
       "definition_ru": "одному беда — другому удача; одному убыток — другому прибыль; несчастье одного может стать выгодой другого",
@@ -242,6 +331,32 @@
       ],
       "note": "Русское «что русскому хорошо, то немцу смерть» означает различие реакции людей на одно и то же, поэтому это не эквивалент. Сербская пословица говорит о другом: несчастье, потеря или исчезновение одного создаёт шанс другому. В определённых контекстах русское «кому война, а кому мать родна» может передавать эту мысль, но оно намного более жёсткое и обычно подразумевает наживу на чужой беде. Нейтральнее переводить «одному беда — другому удача».",
       "keyword": "dok jednom ne smrkne drugom ne svane"
+    },
+    {
+      "headword_latin": "Došla maca na vratanca",
+      "type": "izreka",
+      "definition_ru": "вот и пришла расплата; вот и сам пришёл; теперь пришлось отвечать; ещё придёшь просить",
+      "synonyms_sr": [
+        "došlo je na naplatu",
+        "došao je red i na njega",
+        "sve dođe na svoje"
+      ],
+      "literal_ru": "кошечка пришла к дверцам",
+      "register": "razg.; često likujuće ili pasivno-agresivno kada neko konačno mora da se suoči s posledicama ili zatraži pomoć",
+      "examples": [
+        {
+          "serbian_latin": "Došla maca na vratanca.",
+          "russian": "Ну вот и пришла расплата.",
+          "source": "Ana.rs, 2018"
+        },
+        {
+          "serbian_latin": "Nisi hteo da me poslušaš, a sad tražiš pomoć? Došla maca na vratanca.",
+          "russian": "Не хотел меня слушать, а теперь просишь помощи? Ну вот и пришёл твой черёд.",
+          "source": ""
+        }
+      ],
+      "note": "Это ближе не к общему «когда рак на горе свистнет», а к моменту расплаты или вынужденного возвращения. Фразеологические описания дают смысл: человек уклонялся от обязанности или встречи, но наконец вынужден столкнуться с людьми, фактами или последствиями. Русское «придёт зима — снега попросишь» хорошо передаёт один частный сценарий: «ещё сам ко мне придёшь».",
+      "keyword": "došla maca na vratanca"
     },
     {
       "headword_latin": "Fali mu daska u glavi",
@@ -443,6 +558,37 @@
       "keyword": "ima nas raznih"
     },
     {
+      "headword_latin": "Imati nešto u malom prstu",
+      "type": "frazeologizam",
+      "definition_ru": "знать как свои пять пальцев; знать досконально; великолепно разбираться в чём-то",
+      "synonyms_sr": [
+        "odlično poznavati nešto",
+        "znati nešto uzduž i popreko",
+        "biti stručnjak za nešto"
+      ],
+      "literal_ru": "иметь что-то в мизинце",
+      "register": "frazeologizam; imati + akuzativ + u malom prstu",
+      "examples": [
+        {
+          "serbian_latin": "Dolazi nam Vlade Đurović, koji drži ovaj sport „u malom prstu“.",
+          "russian": "К нам приходит Владе Джурович, который знает этот спорт как свои пять пальцев.",
+          "source": "Radio Beograd 1 / RTS, 2017"
+        },
+        {
+          "serbian_latin": "Držao je košarku u malom prstu, o čemu govore i titule.",
+          "russian": "Он знал баскетбол как свои пять пальцев, о чём говорят и его титулы.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "On taj predmet ima u malom prstu.",
+          "russian": "Он этот предмет знает как свои пять пальцев.",
+          "source": ""
+        }
+      ],
+      "note": "В русском знание помещается во «всех пяти пальцах», а в сербском — буквально в одном мизинце. Выражение относится не только к местности: можно imati košarku, politiku, posao, slučaj u malom prstu. В Politika, например, о людях, прекрасно разбирающихся в теннисе, говорится ovaj sport imaju u malom prstu.",
+      "keyword": "u malom prstu"
+    },
+    {
       "headword_latin": "Imati trip da...",
       "type": "sleng",
       "definition_ru": "иметь загон, что…; казаться себе, что…; иметь навязчивое ощущение, что…",
@@ -504,6 +650,38 @@
       ],
       "note": "Izigravati здесь значит «разыгрывать, изображать определённую роль», причём обычно с отрицательной оценкой: говорящий считает эту роль не вполне искренней. Поэтому izigravati žrtvu сильнее нейтрального biti žrtva. Та же модель встречается в izigravati heroja, stručnjaka, klovna.",
       "keyword": "izigravati žrtvu"
+    },
+    {
+      "headword_latin": "Izvući deblji kraj",
+      "type": "frazeologizam",
+      "definition_ru": "оказаться в проигрыше; пострадать сильнее; понести основные потери; достаться хуже всех",
+      "synonyms_sr": [
+        "gore proći",
+        "nastradati",
+        "pretrpeti veću štetu",
+        "izvući lošiji kraj"
+      ],
+      "literal_ru": "вытянуть более толстый конец",
+      "register": "frazeologizam; subjekat je onaj ko je pretrpeo veće posledice ili prošao lošije",
+      "examples": [
+        {
+          "serbian_latin": "Albanija je izvukla deblji kraj, a Srbija prošla poprilično glatko.",
+          "russian": "Албания оказалась в значительно худшем положении, а Сербия отделалась сравнительно легко.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Hajde u ovoj najvećoj krizi da ne izvučemo deblji kraj.",
+          "russian": "Давайте постараемся в этом крупнейшем кризисе не оказаться главными пострадавшими.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Ukoliko na moru izvučete deblji kraj u susretu sa ježom ili meduzom...",
+          "russian": "Если на море вам не повезёт при встрече с морским ежом или медузой...",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Izvući deblji kraj не означает просто «потерять». Это сравнительная модель: из нескольких сторон одной достались худшие последствия. Поэтому хорошие русские переводы — «пострадать больше всех», «оказаться крайним», «оказаться в проигрыше». Фразеологизм применим к драке, суду, экономическому конфликту, политике и даже бытовой неприятности.",
+      "keyword": "izvući deblji kraj"
     },
     {
       "headword_latin": "Jedi govna!",
@@ -603,6 +781,37 @@
       ],
       "note": "Образ и значение почти полностью совпадают с русским «последняя капля». Важно, что kap — не обязательно главная или самая тяжёлая проблема: это именно последнее сравнительно небольшое событие, которое добавляется к уже накопившемуся напряжению. В сербском очень естественна конструкция biti kap koja je prelila čašu.",
       "keyword": "kap koja je prelila čašu"
+    },
+    {
+      "headword_latin": "Knedla mi stoji u grlu",
+      "type": "frazeologizam",
+      "definition_ru": "у меня ком в горле; ком стоит в горле",
+      "synonyms_sr": [
+        "imam knedlu u grlu",
+        "steglo me je u grlu",
+        "ne mogu od emocija da progovorim"
+      ],
+      "literal_ru": "у меня в горле стоит клёцка",
+      "register": "razg., emotivno; mi je dativ; često i imam knedlu u grlu",
+      "examples": [
+        {
+          "serbian_latin": "Knedla u grlu uvek postoji, a ove godine je ona još teža.",
+          "russian": "Ком в горле остаётся всегда, а в этом году он ещё тяжелее.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Nama je knedla u grlu, a kako će biti vama u subotu?",
+          "russian": "У нас уже ком в горле, а что будет у вас в субботу?",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Knedla mi stoji u grlu.",
+          "russian": "У меня ком стоит в горле.",
+          "source": "književno upotrebljeno, 2019"
+        }
+      ],
+      "note": "Сербский и русский образы практически совпадают. Возможны imam knedlu u grlu, knedla mi stoji u grlu, stade mi knedla u grlu. Именно mi, а не me: буквально «мне стоит ком в горле». Выражение может описывать как печаль и желание заплакать, так и сильное умиление, гордость или волнение.",
+      "keyword": "knedla u grlu"
     },
     {
       "headword_latin": "Ko nema u glavi, ima u nogama",
@@ -725,6 +934,37 @@
       "keyword": "mnogo babica dete kilavo"
     },
     {
+      "headword_latin": "Mnogo sam dirnuta vašom pažnjom i ljubavlju",
+      "type": "replika",
+      "definition_ru": "я очень тронута вашим вниманием и любовью",
+      "synonyms_sr": [
+        "duboko sam ganuta",
+        "veoma me je dirnula vaša pažnja",
+        "iskreno sam dirnuta"
+      ],
+      "literal_ru": "",
+      "register": "emotivno, učtivo; biti dirnut + instrumental",
+      "examples": [
+        {
+          "serbian_latin": "Duboko sam počastvovana i dirnuta vašom pažnjom i naklonošću.",
+          "russian": "Я глубоко польщена и тронута вашим вниманием и расположением.",
+          "source": "Peščanik, književni prevod"
+        },
+        {
+          "serbian_latin": "Mnogo sam dirnuta vašom pažnjom i ljubavlju.",
+          "russian": "Я очень тронута вашим вниманием и любовью.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zaista sam dirnuta svime što ste učinili za mene.",
+          "russian": "Я действительно тронута всем, что вы для меня сделали.",
+          "source": ""
+        }
+      ],
+      "note": "Ваша фраза грамматически правильна. Для русского важно управление: dirnut pažnjom, gestom, rečima, podrškom — творительный падеж без предлога. Ganut близко по значению, но обычно звучит чуть более возвышенно и эмоционально.",
+      "keyword": "dirnuta pažnjom"
+    },
+    {
       "headword_latin": "Na ravnoj nozi",
       "type": "frazeologizam",
       "definition_ru": "на равных; на равной ноге; как равный с равным",
@@ -818,6 +1058,37 @@
       ],
       "note": "Выражение означает гарантию безопасности вообще: опасность может исходить от третьих лиц, а говорящий лишь обещает, что ничего плохого не случится. Лингвистические исследования прямо приводят Neće ti faliti ni dlaka s glave как сербский эквивалент английского not harm a hair of somebody’s head. В живой речи встречаются варианты neće ti faliti dlaka s glave, neće ti ni dlaka s glave pasti.",
       "keyword": "neće ti faliti ni dlaka s glave"
+    },
+    {
+      "headword_latin": "Nema ga ni od korova",
+      "type": "frazeologizam",
+      "definition_ru": "ни слуху ни духу; его нигде нет; и след простыл",
+      "synonyms_sr": [
+        "nema ga nigde",
+        "ni traga ni glasa",
+        "nema ni traga od njega"
+      ],
+      "literal_ru": "его нет даже среди сорняков",
+      "register": "razg., ekspresivno; zamenica se menja: nema ga / je / ih ni od korova",
+      "examples": [
+        {
+          "serbian_latin": "Građanista, liberala, polulevih, levih, centraša ni od korova.",
+          "russian": "Ни либералов, ни левых, ни центристов — и след простыл.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Kad treba da me radi, nema ga ni od korova.",
+          "russian": "Именно когда он мне нужен — его и след простыл.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Čekamo ga sat vremena, a njega ni od korova.",
+          "russian": "Ждём его уже час, а его ни слуху ни духу.",
+          "source": ""
+        }
+      ],
+      "note": "Фразеология фиксирует nema ga ni od korova как «его невозможно найти, его нигде нет»; в сербских диалектных материалах также поясняется: «говорится о том, кого долго ждут». Русское «ни слуху ни духу» особенно удачно, когда речь о человеке, который должен был появиться.",
+      "keyword": "ni od korova"
     },
     {
       "headword_latin": "Nema mu ravna",
@@ -915,6 +1186,37 @@
       "keyword": "nit riba nit devojka"
     },
     {
+      "headword_latin": "Oteto – prokleto",
+      "type": "izreka",
+      "definition_ru": "награбленное счастья не принесёт; чужое добро впрок не идёт; неправедно нажитое проклято",
+      "synonyms_sr": [
+        "tuđe dobro ne donosi sreću",
+        "nepravedno stečeno ne donosi dobro",
+        "što je oteto, dođe na naplatu"
+      ],
+      "literal_ru": "отнятое — проклятое",
+      "register": "narodna izreka; moralna osuda onoga što je oteto, ukradeno ili nepravedno prisvojeno",
+      "examples": [
+        {
+          "serbian_latin": "Rezolucija Evropskog parlamenta o izbornoj krađi u Srbiji, skraćena verzija: Oteto – prokleto.",
+          "russian": "Краткая версия резолюции о предполагаемой краже выборов: «Награбленное счастья не принесёт».",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "To što mi tražimo nije opstrukcija, to je nešto što nam pripada — oteto, prokleto.",
+          "russian": "Мы требуем то, что нам принадлежит: неправедно отнятое добра не принесёт.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Tuđu zemlju možeš da prisvojiš, ali narod kaže: oteto – prokleto.",
+          "russian": "Чужую землю можно присвоить, но народ говорит: неправедно отнятое счастья не принесёт.",
+          "source": ""
+        }
+      ],
+      "note": "Это формула народной морали: то, что получено грабежом, насилием или несправедливостью, в конечном счёте не принесёт добра тому, кто это присвоил. Изречение настолько узнаваемо, что используется как самостоятельный политический лозунг и как основа афоризмов; Danas, например, приводит переделку Oteto, prokleto slatko! Русское «что упало, то пропало» означает совсем другое — что потерянное уже не вернуть.",
+      "keyword": "oteto prokleto"
+    },
+    {
       "headword_latin": "Pokrij se ušima",
       "type": "frazeologizam",
       "definition_ru": "постыдись; сиди тихо после такого; подожми хвост и помалкивай",
@@ -950,6 +1252,37 @@
       ],
       "note": "Фразеологизм означает не просто «стыдиться», а притихнуть после собственного промаха, глупости, провала или неподобающего поведения и признать, что сейчас лучше не выступать и не поучать других. Именно поэтому типичное продолжение — i ćuti. Фразеографически значение описывается как «покуниться и признать ошибку»; академические работы также отмечают значения стыда, смирения и самокритичности, особенно в императиве как строгий упрёк. Для русского буквальный образ с ушами непрозрачен: в зависимости от ситуации естественны «постыдись и помалкивай», «подожми хвост», «тебе бы после такого молчать». Иван Клайн приводил pokrij se ušima как естественный сербский эквивалент итальянского выражения со смыслом «покуниться, поджать хвост».",
       "keyword": "pokrij se ušima"
+    },
+    {
+      "headword_latin": "Pomeriti sastanak",
+      "type": "kolokacija",
+      "definition_ru": "перенести встречу; передвинуть встречу на другое время",
+      "synonyms_sr": [
+        "promeniti termin sastanka",
+        "odložiti sastanak",
+        "prebaciti sastanak za drugi termin (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; svršeni vid pomeriti, nesvršeni pomerati",
+      "examples": [
+        {
+          "serbian_latin": "Sastanak je pomeren za četvrtak.",
+          "russian": "Встречу перенесли на четверг.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Sastanak je pomeren za pola sata.",
+          "russian": "Встречу перенесли на полчаса.",
+          "source": "Pančevo.city, 2022"
+        },
+        {
+          "serbian_latin": "Možemo li da pomerimo sastanak za sutra?",
+          "russian": "Можем перенести встречу на завтра?",
+          "source": ""
+        }
+      ],
+      "note": "Pomeriti не означает, что встречу обязательно отложили: её можно перенести как на более позднее, так и на другое время вообще. Odložiti обычно подчёркивает именно отсрочку. Конструкция pomeriti za četvrtak / za pola sata / na drugi termin очень обычна.",
+      "keyword": "pomeriti sastanak"
     },
     {
       "headword_latin": "Praviti od komarca magarca",
@@ -1146,6 +1479,101 @@
       "keyword": "Radio Mileva"
     },
     {
+      "headword_latin": "Raspremiti",
+      "type": "glagol",
+      "definition_ru": "убрать; прибрать; убрать со стола; привести в порядок после использования",
+      "synonyms_sr": [
+        "pospremiti",
+        "skloniti",
+        "srediti",
+        "raščistiti"
+      ],
+      "literal_ru": "",
+      "register": "svršeni glagol; prevod zavisi od objekta",
+      "examples": [
+        {
+          "serbian_latin": "Hajde da raspremimo sto, pa ćemo popiti kafu.",
+          "russian": "Давай уберём со стола, а потом выпьем кофе.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Gosti su otišli, a meni je ostalo da raspremim kuhinju.",
+          "russian": "Гости ушли, а мне осталось прибрать кухню.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Raspremi stvari kad završiš.",
+          "russian": "Убери вещи, когда закончишь.",
+          "source": ""
+        }
+      ],
+      "note": "Очень полезный бытовой глагол. Raspremiti sto — убрать со стола после еды; словари прямо дают значение clear the table. Raspremiti sobu — прибрать комнату, raspremiti stvari — убрать вещи, raspremiti postelju — привести в порядок / приготовить постель. Русскому не стоит пытаться переводить приставку отдельно.",
+      "keyword": "raspremiti"
+    },
+    {
+      "headword_latin": "Raspremiti krevet",
+      "type": "kolokacija",
+      "definition_ru": "убрать / привести в порядок постель; застелить или подготовить кровать",
+      "synonyms_sr": [
+        "namestiti krevet",
+        "raspremiti postelju",
+        "srediti krevet"
+      ],
+      "literal_ru": "",
+      "register": "svakodnevna kućna kolokacija",
+      "examples": [
+        {
+          "serbian_latin": "Pre nego što izađeš, raspremi krevet i otvori prozor.",
+          "russian": "Перед выходом убери постель и открой окно.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Deca su sama raspremila svoje krevete.",
+          "russian": "Дети сами убрали свои кровати.",
+          "source": ""
+        }
+      ],
+      "note": "Для русского глагол raspremiti может быть обманчив: приставка ras- не означает автоматически «разобрать, раскидать». В словарной традиции raspremiti postelju соотносится с «приготовить / привести постель в порядок», рядом с namestiti krevet. При этом в современной бытовой речи namestiti krevet — самый прозрачный и универсальный вариант «застелить кровать».",
+      "keyword": "raspremiti krevet"
+    },
+    {
+      "headword_latin": "Sastavljati kraj s krajem",
+      "type": "frazeologizam",
+      "definition_ru": "сводить концы с концами; еле дотягивать от зарплаты до зарплаты",
+      "synonyms_sr": [
+        "jedva preživljavati",
+        "krpiti kraj s krajem",
+        "živeti od danas do sutra",
+        "jedva se snalaziti"
+      ],
+      "literal_ru": "соединять конец с концом",
+      "register": "frazeologizam; obično o nedostatku novca; čuju se i s krajem i sa krajem",
+      "examples": [
+        {
+          "serbian_latin": "Čovek je ostao bez posla, jedva sastavlja kraj s krajem.",
+          "russian": "Человек остался без работы и едва сводит концы с концами.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Sa penzijom od 10.000 dinara jedva sastavlja kraj s krajem.",
+          "russian": "С пенсией в 10 000 динаров он еле сводит концы с концами.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Lila sada jedva sastavlja kraj sa krajem od radničke plate.",
+          "russian": "Лила теперь еле сводит концы с концами на рабочую зарплату.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Jedva sastavljam kraj s krajem dok ne legne plata.",
+          "russian": "Я еле свожу концы с концами, пока не придёт зарплата.",
+          "source": ""
+        }
+      ],
+      "note": "Русский и сербский фразеологизмы практически идентичны. Особенно часто встречается усилитель jedva. В сербской художественной прозе конструкция давно вполне освоена: у Zorana Ćirića встречается отдельная формула Ovako se sastavlja kraj s krajem. Leći plata — разговорное «зарплата поступит на счёт».",
+      "keyword": "sastavljati kraj s krajem"
+    },
+    {
       "headword_latin": "Siromašan kao crkveni miš",
       "type": "frazeologizam",
       "definition_ru": "беден как церковная мышь; ни гроша за душой; совершенно нищий",
@@ -1178,6 +1606,32 @@
       "keyword": "siromašan kao crkveni miš"
     },
     {
+      "headword_latin": "Spavati kao klada",
+      "type": "frazeologizam",
+      "definition_ru": "спать как убитый; спать как сурок; спать мёртвым сном",
+      "synonyms_sr": [
+        "spavati kao top",
+        "spavati kao zaklan",
+        "spavati mrtvim snom"
+      ],
+      "literal_ru": "спать как бревно",
+      "register": "razg.; o dubokom snu kada je čoveka teško probuditi",
+      "examples": [
+        {
+          "serbian_latin": "Ne pravi se mrtav, već je radio cijeli dan i spava ko klada.",
+          "russian": "Он не притворяется мёртвым, просто весь день работал и теперь спит как убитый.",
+          "source": "Vukajlija, 2012"
+        },
+        {
+          "serbian_latin": "Posle dvanaest sati vožnje spavao sam kao klada.",
+          "russian": "После двенадцати часов за рулём я спал как убитый.",
+          "source": ""
+        }
+      ],
+      "note": "Образ основан на неподвижности тяжёлого бревна; словарно фиксируются spavati / zaspati kao klada, а также kao top, kao zaklan. Русское «спать как сурок» вполне подходит, но сербский образ ближе к английскому sleep like a log и русскому «спать как убитый».",
+      "keyword": "spavati kao klada"
+    },
+    {
       "headword_latin": "Spiskati",
       "type": "glagol",
       "definition_ru": "промотать; спустить; профукать; растратить",
@@ -1208,6 +1662,37 @@
       ],
       "note": "Spiskati сильнее нейтрального potrošiti «потратить»: обычно подразумевается, что деньги ушли быстро, неразумно, без заметной пользы или на удовольствия. Поэтому русские «промотать», «спустить», разговорное «профукать» часто точнее простого «потратить». Управление прямое: spiskati platu / pare / milion evra.",
       "keyword": "spiskati"
+    },
+    {
+      "headword_latin": "Sto ljudi, sto ćudi",
+      "type": "poslovica",
+      "definition_ru": "сколько людей, столько характеров; сколько людей, столько мнений; у каждого свои причуды",
+      "synonyms_sr": [
+        "ima nas raznih",
+        "svako je drugačiji",
+        "svako ima svoju narav"
+      ],
+      "literal_ru": "сто людей — сто нравов",
+      "register": "poslovica; o različitosti karaktera, ukusa, stavova i navika",
+      "examples": [
+        {
+          "serbian_latin": "Sto ljudi – sto ćudi. Sto trenera – deset hiljada načina igranja fudbala.",
+          "russian": "Сколько людей, столько мнений. Сто тренеров — десять тысяч способов играть в футбол.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Sto ljudi, sto ćudi, pa tako neki su oduševljeni a neki traže ponovno brojanje.",
+          "russian": "Сколько людей, столько мнений: одни в восторге, другие требуют пересчёта.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Sto ljudi, sto ćudi — meni se film dopao, tebi nije.",
+          "russian": "Сколько людей, столько мнений: мне фильм понравился, тебе нет.",
+          "source": ""
+        }
+      ],
+      "note": "Ćud — не буквально «мнение», а «нрав, характер, индивидуальная натура». Поэтому русский «сколько людей, столько мнений» функционально хорош, но несколько сужает сербский смысл. Пословица применяется также к вкусам, привычкам и темпераменту. Она настолько узнаваема, что RTS свободно продолжает её: Sto ljudi, sto ćudi, dvesta problema.",
+      "keyword": "sto ljudi sto ćudi"
     },
     {
       "headword_latin": "Sve je nekome ravno (do Kosova)",
@@ -1455,6 +1940,69 @@
       "keyword": "tresla se gora rodio se miš"
     },
     {
+      "headword_latin": "Ući u ritam",
+      "type": "kolokacija",
+      "definition_ru": "войти в ритм; набрать темп; втянуться",
+      "synonyms_sr": [
+        "uhvatiti ritam",
+        "razigrati se",
+        "uhodati se"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; o radu, učenju, sportu ili svakodnevnom režimu",
+      "examples": [
+        {
+          "serbian_latin": "Tempo teških utakmica pomoći će da ekipa uđe u ritam.",
+          "russian": "Темп сложных матчей поможет команде войти в ритм.",
+          "source": "RTS, 2012"
+        },
+        {
+          "serbian_latin": "Utakmice na startu sezone mnogo su mi pomogle da dođem u formu i uđem u ritam.",
+          "russian": "Матчи в начале сезона очень помогли мне набрать форму и войти в ритм.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Posle odmora mi treba nekoliko dana da ponovo uđem u ritam.",
+          "russian": "После отпуска мне нужно несколько дней, чтобы снова войти в ритм.",
+          "source": ""
+        }
+      ],
+      "note": "Это почти полный эквивалент русского «войти в ритм». Не смешивать с ući u štos: ritam — войти в рабочий темп, а štos — понять принцип, освоиться, «просечь фишку».",
+      "keyword": "ući u ritam"
+    },
+    {
+      "headword_latin": "Ući u štos",
+      "type": "frazeologizam",
+      "definition_ru": "освоиться; въехать, как всё устроено; просечь фишку; набить руку",
+      "synonyms_sr": [
+        "uhodati se",
+        "ukapirati kako nešto funkcioniše (razg.)",
+        "uhvatiti fazon (sleng)",
+        "snaći se"
+      ],
+      "literal_ru": "",
+      "register": "razg.; o savladavanju novog posla, sistema, pravila ili praktičnog postupka",
+      "examples": [
+        {
+          "serbian_latin": "Kažu novinari da nikada nije lako prvog dana na prvom Grend slemu, ali da „brzo uđeš u štos“.",
+          "russian": "Журналисты говорят, что первый день на первом турнире Большого шлема всегда трудный, но потом быстро осваиваешься.",
+          "source": "BBC na srpskom / Danas, 2019"
+        },
+        {
+          "serbian_latin": "Lagano ti je to kad uđeš u štos.",
+          "russian": "Это легко, когда поймёшь, как всё устроено.",
+          "source": "Vukajlija, 2011"
+        },
+        {
+          "serbian_latin": "Prvih nedelju dana je teško, a onda uđeš u štos.",
+          "russian": "Первую неделю трудно, а потом втягиваешься и понимаешь, что к чему.",
+          "source": ""
+        }
+      ],
+      "note": "Štos в этой конструкции — не «шутка», а секрет, приём, принцип работы. Поэтому ući u štos часто означает именно приобрести практическое понимание: «врубиться», «набить руку». Это не то же самое, что ući u ritam, хотя в некоторых ситуациях переводы пересекаются.",
+      "keyword": "ući u štos"
+    },
+    {
       "headword_latin": "Uzeti nešto s rezervom",
       "type": "frazeologizam",
       "definition_ru": "отнестись к чему-то с оговоркой; воспринимать скептически; не принимать за чистую монету",
@@ -1515,6 +2063,37 @@
       ],
       "note": "Русское «сколько волка ни корми, он всё в лес смотрит» говорит прежде всего о том, что человека тянет к своей среде, привычному образу жизни или истинным привязанностям. Сербская пословица — о неизменности характера: можно сменить одежду, политическую позицию или внешние манеры, но ćud остаётся прежней. Она зафиксирована среди старых сербских пословиц и широко употребляется в современной публицистике. В интернете её постоянно пародируют и переставляют компоненты, что также говорит о высокой узнаваемости.",
       "keyword": "vuk dlaku menja ali ćud nikada"
+    },
+    {
+      "headword_latin": "Zaglaviti u saobraćaju",
+      "type": "kolokacija",
+      "definition_ru": "застрять в пробке; застрять в дорожном движении",
+      "synonyms_sr": [
+        "zaglaviti u gužvi",
+        "ostati u saobraćajnoj gužvi",
+        "zapeti u koloni"
+      ],
+      "literal_ru": "",
+      "register": "razg.; zaglaviti označava događaj, biti zaglavljen stanje",
+      "examples": [
+        {
+          "serbian_latin": "Zbog gužve autobus je ostao zaglavljen u saobraćaju.",
+          "russian": "Из-за пробки автобус застрял в дорожном движении.",
+          "source": "RTS, 2012"
+        },
+        {
+          "serbian_latin": "Na putu do posla, ali zaglavljen u saobraćaju?",
+          "russian": "Едете на работу, но застряли в пробке?",
+          "source": "Webex, srpska lokalizacija, 2026"
+        },
+        {
+          "serbian_latin": "Kasnim deset minuta, zaglavio sam u saobraćaju.",
+          "russian": "Я опаздываю на десять минут, застрял в пробке.",
+          "source": ""
+        }
+      ],
+      "note": "В бытовой речи ещё естественнее часто звучит zaglaviti u gužvi. Zaglavljen u saobraćaju совершенно нормально, но буквально говорит «застрявший в движении», а не называет саму пробку существительным.",
+      "keyword": "zaglaviti u saobraćaju"
     }
   ]
 }
