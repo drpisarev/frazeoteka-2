@@ -555,6 +555,43 @@
       "keyword": "fušeraj"
     },
     {
+      "headword_latin": "Gledati belo",
+      "type": "frazeologizam",
+      "definition_ru": "смотреть в полном недоумении; таращиться, ничего не понимая; смотреть пустым взглядом",
+      "synonyms_sr": [
+        "gledati zbunjeno",
+        "gledati začuđeno",
+        "gledati razrogačenih očiju",
+        "gledati bez razumevanja"
+      ],
+      "literal_ru": "смотреть «бело»",
+      "register": "razg.; obično o osobi koja ne razume šta joj se govori, ne zna kako da reaguje ili je toliko začuđena da samo gleda",
+      "examples": [
+        {
+          "serbian_latin": "Gledao me je belo. Izgledalo je kao da nije razumeo šta mu govorim.",
+          "russian": "Он смотрел на меня в полном недоумении. Казалось, он вообще не понимал, что я ему говорю.",
+          "source": "Marko Vidojković, Bog ti pomogo, 2015"
+        },
+        {
+          "serbian_latin": "Devojka je belo gledala i nije kapirala šta ova hoće da joj kaže.",
+          "russian": "Девушка смотрела в полном недоумении и не понимала, что та пытается ей сказать.",
+          "source": "Krstarica forum, 2007"
+        },
+        {
+          "serbian_latin": "Kada sam pitao u drugim radnjama, gledaju me belo.",
+          "russian": "Когда я спрашивал в других магазинах, на меня смотрели как на непонятно кого, не понимая, о чём речь.",
+          "source": "Dacia forum Srbija, 2026"
+        },
+        {
+          "serbian_latin": "Objasnio sam mu tri puta, a on me i dalje gleda belo.",
+          "russian": "Я ему три раза объяснил, а он всё равно смотрит на меня с совершенно непонимающим видом.",
+          "source": ""
+        }
+      ],
+      "note": "Gledati belo словарно и во фразеологических исследованиях описывается как gledati začuđeno, razrogačenih očiju, то есть смотреть удивлённо и непонимающе; в сопоставительном исследовании ему прямо соответствует значение «смотреть без понимания». Это не совсем русское «смотреть пустым взглядом»: сербское выражение чаще подразумевает конкретную реакцию «я ничего не понял / что ты вообще говоришь?». Очень естественна конструкция gledati nekoga belo: gledao me je belo, gledaju me belo. В художественной прозе выражение употребляется совершенно свободно, что подтверждает его не только разговорный, но и литературно освоенный характер.",
+      "keyword": "gledati belo"
+    },
+    {
       "headword_latin": "I mirna Bosna",
       "type": "izreka",
       "definition_ru": "и всё в порядке; и дело с концом; и никаких споров; и все довольны",
