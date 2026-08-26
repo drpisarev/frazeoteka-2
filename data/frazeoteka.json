@@ -808,6 +808,37 @@
       "keyword": "crven od besa"
     },
     {
+      "headword_latin": "Cure / poteku sline nekome",
+      "type": "frazeologizam",
+      "definition_ru": "слюнки текут; очень хочется; глаза загораются при виде желанного",
+      "synonyms_sr": [
+        "silno želeti nešto",
+        "sliniti za nečim (razg.)",
+        "biti željan nečega"
+      ],
+      "literal_ru": "у кого-то текут / потекли слюни",
+      "register": "razg., ekspresivno; sline mi/ti/mu cure, potekle su mi sline; doslovno o hrani i preneseno o novcu, skupim stvarima, koristi i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Svima sline cure dok gledaju tako skupa kola.",
+          "russian": "У всех слюнки текут при виде таких дорогих машин.",
+          "source": "B92, 2012"
+        },
+        {
+          "serbian_latin": "Kad sam video vruću pljeskavicu, odmah su mi potekle sline.",
+          "russian": "Когда я увидел горячую плескавицу, у меня сразу слюнки потекли.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Na pomen tog unosnog posla već mu cure sline.",
+          "russian": "При одном упоминании этой прибыльной работы у него уже глаза загорелись.",
+          "source": ""
+        }
+      ],
+      "note": "В переносном употреблении выражение часто содержит оттенок алчного или чрезмерного желания: человеку уже «слюнки текут» при мысли о деньгах, машине, должности. В пищевом контексте оно нейтральнее и почти буквально совпадает с русским «слюнки потекли». Для русского важно управление: sline mi cure, буквально «мне текут слюни», а не конструкция с притяжательным местоимением.",
+      "keyword": "cure sline"
+    },
+    {
       "headword_latin": "Cure sline nekome",
       "type": "frazeologizam",
       "definition_ru": "у кого-то слюнки текут; кому-то очень хочется чего-то; кто-то облизывается на что-то",
@@ -1064,35 +1095,66 @@
       "keyword": "debeo kao svinja"
     },
     {
-      "headword_latin": "Do bola",
-      "type": "sleng",
-      "definition_ru": "до предела; ужасно, безумно, невероятно; до невозможности",
+      "headword_latin": "Debeo kao svinja / prase",
+      "type": "frazeologizam",
+      "definition_ru": "толстый как свинья; очень толстый; разъевшийся",
       "synonyms_sr": [
-        "veoma",
-        "izrazito",
-        "strašno",
-        "nenormalno (razg., kao pojačivač)"
+        "veoma debeo",
+        "predebeo",
+        "ugojen"
       ],
-      "literal_ru": "до боли",
-      "register": "razg., sleng; pojačivač stepena: dobar do bola, dosadan do bola, iskren do bola, banalan do bola",
+      "literal_ru": "толстый как свинья / поросёнок",
+      "register": "razg., ekspresivno; uvredljivo kada se kaže za osobu; takođe udebljati se / ugojiti se kao svinja / prase",
       "examples": [
         {
-          "serbian_latin": "Kad kažu da je nešto „do bola“, to uopšte ne boli, već je izrazito dobro.",
-          "russian": "Когда говорят, что что-то do bola, это вовсе не значит, что больно: имеется в виду «очень круто».",
-          "source": "Politika, 2007"
+          "serbian_latin": "Mogao bih da pobedim Vladimira i da sam teži i debeo kao svinja.",
+          "russian": "Я мог бы победить Владимира, даже если бы был тяжелее и толстым как свинья.",
+          "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Originalna do bola.",
-          "russian": "Оригинальная до невозможности.",
-          "source": "Danas, 2021"
+          "serbian_latin": "Posle zime se ugojio kao prase.",
+          "russian": "После зимы он разъелся как поросёнок.",
+          "source": ""
         },
         {
-          "serbian_latin": "Čini mi se da je do bola smešno i tragikomično videti koliko je ljudi promenilo dres.",
-          "russian": "Мне кажется до абсурда смешным и трагикомичным видеть, сколько людей переметнулось.",
-          "source": "Politika, 2026"
+          "serbian_latin": "Nemoj čoveku da kažeš da je debeo kao svinja — baš je uvredljivo.",
+          "russian": "Не говори человеку, что он толстый как свинья, — это очень обидно.",
+          "source": ""
         }
       ],
-      "note": "Изначально в молодёжном сленге особенно заметно значение «очень круто, отлично», но современное do bola стало общим усилителем и спокойно соединяется как с положительной, так и с отрицательной оценкой: lep do bola, iskren do bola, glup do bola, dosadan do bola. Перевод поэтому зависит от прилагательного, а не сводится к одному русскому слову.",
+      "note": "Сравнение debeo kao svinja фиксируется именно как сербский сравнительный фразеологизм и в современных лингвистических исследованиях. Kao prase обычно воспринимается чуть менее грубо, но при характеристике человека всё равно может быть оскорбительным. Для изменения состояния естественно udebljati se / ugojiti se kao prase — «разъесться, сильно растолстеть».",
+      "keyword": "debeo kao svinja"
+    },
+    {
+      "headword_latin": "Do bola",
+      "type": "izraz",
+      "definition_ru": "до невозможности; невероятно; чрезвычайно; очень",
+      "synonyms_sr": [
+        "izuzetno",
+        "krajnje",
+        "strašno",
+        "neverovatno"
+      ],
+      "literal_ru": "до боли",
+      "register": "razg., ekspresivno; nekada naročito omladinski žargon, danas široko i u publicistici; pojačava pozitivnu ili negativnu osobinu",
+      "examples": [
+        {
+          "serbian_latin": "Spisateljica je svesno i do bola iskreno ogolila sebe.",
+          "russian": "Писательница сознательно и предельно искренне обнажила себя.",
+          "source": "Radio Beograd 3 / RTS, 2018"
+        },
+        {
+          "serbian_latin": "Sve ovo do bola je zastarelo.",
+          "russian": "Всё это устарело до невозможности.",
+          "source": "Vreme, 2008"
+        },
+        {
+          "serbian_latin": "Pregovori su bili mučni, a snizili su cene „do bola“.",
+          "russian": "Переговоры были тяжёлыми, а цены они снизили просто до предела.",
+          "source": "Politika, 2017"
+        }
+      ],
+      "note": "Do bola функционирует как усилитель: iskren do bola, dosadan do bola, smešan do bola, dobar do bola. Politika ещё в 2007 году отмечала молодёжное употребление, где do bola означало «izrazito dobro». Но сегодня выражение не обязательно положительное: значение задаёт слово, которое оно усиливает. Не следует путать с буквальным do bola в медицинском или физическом контексте: savijati nogu do bola — «сгибать ногу до появления боли».",
       "keyword": "do bola"
     },
     {
@@ -1156,33 +1218,33 @@
     {
       "headword_latin": "Doći nekome iz dupeta u glavu",
       "type": "frazeologizam",
-      "definition_ru": "наконец дойти до кого-то; наконец понять очевидное; поздно спохватиться и сообразить",
+      "definition_ru": "наконец дойти до кого-то; наконец-то понять; поздно сообразить",
       "synonyms_sr": [
         "konačno shvatiti",
         "doći pameti",
-        "ukapirati",
-        "sinuti nekome"
+        "opametiti se",
+        "ukapirati (razg.)"
       ],
       "literal_ru": "дойти кому-то из задницы в голову",
-      "register": "grub., razg., iron.; tipično Došlo mu je iz dupeta u glavu / Nikako da mu dođe iz dupeta u glavu",
+      "register": "grub., razg., ekspresivno; tipično došlo mi/ti/mu je iz dupeta u glavu; postoji i varijanta iz guzice u glavu",
       "examples": [
         {
-          "serbian_latin": "Pa došlo i tebi iz dupeta u glavu!",
-          "russian": "Ну наконец-то и до тебя дошло!",
-          "source": "Vukajlija, 2011"
+          "serbian_latin": "Overlordu Vučiću je prekasno došlo iz dupeta u glavu da jedini spas za Srbiju leži u konsolidaciji države.",
+          "russian": "До Вучича слишком поздно дошло, что единственный выход для Сербии — укрепление государства.",
+          "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Tebi nikako da dođe iz dupeta u glavu.",
-          "russian": "До тебя всё никак не дойдёт.",
-          "source": "Vukajlija, 2011"
+          "serbian_latin": "Čini mi se da je državi konačno došlo iz dupeta u glavu da obezbeđujući red i mir zapravo brani samu sebe.",
+          "russian": "Кажется, до государства наконец дошло, что, обеспечивая порядок, оно защищает само себя.",
+          "source": "Danas, 2015"
         },
         {
-          "serbian_latin": "Posle tri godine mu je konačno došlo iz dupeta u glavu da taj posao nema budućnost.",
-          "russian": "Через три года до него наконец дошло, что у этой работы нет будущего.",
+          "serbian_latin": "Tebi nikako da dođe iz dupeta u glavu da tako samo praviš sebi probleme.",
+          "russian": "До тебя всё никак не дойдёт, что так ты только создаёшь себе проблемы.",
           "source": ""
         }
       ],
-      "note": "Главное здесь не просто «понять», а понять наконец, после долгой тупости, упрямства или запоздания. Из-за этого выражение почти всегда насмешливое или раздражённое. Vukajlija метко описывает образ как долгий «путь познания» до головы и приводит значение момента, когда человек наконец осознаёт собственную ошибку. Для активного сербского словаря очень естественна форма с dupe: Došlo mu je iz dupeta u glavu.",
+      "note": "Главное здесь не просто shvatiti «понять», а понять с большим опозданием, часто лишь после ошибок или неприятных последствий. В сербской разговорной речи вариант iz dupeta u glavu очень устойчив: его регулярно использует, например, Svetislav Basara в Danas. Iz guzice u glavu также употребляется, но для активного словаря сербского удобнее поставить первым dupe. Человек оформляется дательным падежом: Došlo mu je iz dupeta u glavu.",
       "keyword": "iz dupeta u glavu"
     },
     {
@@ -1276,6 +1338,37 @@
         }
       ],
       "note": "Практически эквивалентно русскому «сколько хватает глаз». Вариант dokle oko seže тоже естественен. U nedogled близко, но означает скорее «до бесконечности, насколько можно представить», тогда как dokle pogled seže сохраняет зрительный образ.",
+      "keyword": "dokle pogled seže"
+    },
+    {
+      "headword_latin": "Dokle pogled seže / dokle oko seže",
+      "type": "frazeologizam",
+      "definition_ru": "насколько хватает глаз; куда ни глянь; до самого горизонта",
+      "synonyms_sr": [
+        "dokle oko dopire",
+        "koliko se može videti",
+        "sve do horizonta"
+      ],
+      "literal_ru": "докуда достигает взгляд / глаз",
+      "register": "neutralno do slikovito; najčešće pri opisu velikog otvorenog prostora",
+      "examples": [
+        {
+          "serbian_latin": "Zemljište je u Dolićima, dokle pogled seže, bezvodno.",
+          "russian": "Земля в Доличах, насколько хватает глаз, безводна.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Nepregledna voda pruža se dokle pogled seže.",
+          "russian": "Бескрайняя вода простирается, насколько хватает глаз.",
+          "source": "Politika, 2014"
+        },
+        {
+          "serbian_latin": "Svuda, dokle oko seže, vide se samo njive.",
+          "russian": "Куда ни глянь — одни поля.",
+          "source": ""
+        }
+      ],
+      "note": "Сербский глагол sezati здесь означает «достигать, простираться»: взгляд как бы «дотягивается» до определённой точки. Варианты dokle pogled seže и dokle oko seže равноправны; встречается также dokle ti oko dopire. Русское «насколько хватает глаз» практически полностью передаёт образ. Выражение может переноситься и на абстрактный контекст, но прежде всего связано с видимым пространством.",
       "keyword": "dokle pogled seže"
     },
     {
