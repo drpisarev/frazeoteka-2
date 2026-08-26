@@ -1790,6 +1790,33 @@
       "keyword": "caka"
     },
     {
+      "headword_latin": "Ima na lopate",
+      "type": "frazeologizam",
+      "definition_ru": "Навалом; хоть отбавляй; пруд пруди; хоть лопатой греби.",
+      "synonyms_sr": [
+        "ima koliko hoćeš",
+        "ima ih kao pleve",
+        "ima na pretek",
+        "ima na izvoz"
+      ],
+      "literal_ru": "Имеется лопатами.",
+      "register": "razgovorno; hrv., regionalno; u Srbiji ređe",
+      "examples": [
+        {
+          "sr": "U Istri droge ima na lopate.",
+          "ru": "В Истрии наркотиков хоть лопатой греби.",
+          "source": "Poslovni dnevnik, 2013"
+        },
+        {
+          "sr": "Oni su bend kakvih ima na lopate.",
+          "ru": "Таких групп, как они, пруд пруди.",
+          "source": "Frazeološki rječnik hrvatskoga jezika (Lexonomy), b. g."
+        }
+      ],
+      "note": "В найденных сербских СМИ эта форма надёжно не подтверждается. В сербской части словаря её следует оставить с пометой hrv., regionalno и отсылкой к более естественным сербским соответствиям ima ih kao pleve, ima koliko hoćeš и ima na pretek.",
+      "keyword": "lopata"
+    },
+    {
       "headword_latin": "Ima nas raznih",
       "type": "izraz",
       "definition_ru": "всякие люди бывают; люди разные; каких только людей нет",
@@ -1855,64 +1882,55 @@
     {
       "headword_latin": "Imati i ovce i novce",
       "type": "frazeologizam",
-      "definition_ru": "получить всё сразу; и сохранить своё, и получить выгоду; хотеть и рыбку съесть, и косточкой не подавиться",
+      "definition_ru": "Получить всё сразу; совместить две выгоды; иметь и то и другое; усидеть на двух стульях.",
       "synonyms_sr": [
-        "imati sve",
-        "dobiti na obe strane",
-        "ne odreći se ničega"
+        "imati i jare i pare",
+        "dobiti i jedno i drugo",
+        "hteti sve"
       ],
-      "literal_ru": "иметь и овец, и деньги",
-      "register": "razg.; o želji da se istovremeno dobiju dve međusobno teško spojive koristi",
+      "literal_ru": "Иметь и овец, и деньги.",
+      "register": "razgovorno; poslovično",
       "examples": [
         {
-          "serbian_latin": "Ono, i „ovce i novce“? Naravski da ima.",
-          "russian": "То есть получить и то и другое? Конечно, можно.",
-          "source": "Danas, 2014"
+          "sr": "Kako imati i ovce i novce?",
+          "ru": "Как получить и овец, и деньги?",
+          "source": "Poljoprivreda.info, 2016"
         },
         {
-          "serbian_latin": "Ovčari kažu da je najbolje kad broje i ovce i novce.",
-          "russian": "Овцеводы говорят, что лучше всего, когда можно считать и овец, и деньги.",
-          "source": "RTS, 2021"
-        },
-        {
-          "serbian_latin": "Ne možeš da imaš i ovce i novce — moraćeš nešto da žrtvuješ.",
-          "russian": "Нельзя получить всё сразу — чем-то придётся пожертвовать.",
-          "source": ""
+          "sr": "Da, hoćemo i ovce i novce.",
+          "ru": "Да, мы хотим получить и то и другое.",
+          "source": "CPE, 2014"
         }
       ],
-      "note": "Образ прозрачен: если овец продали, появляются деньги, но овец уже нет. Поэтому imati i ovce i novce означает сохранить первоначальную выгоду и одновременно получить то, что обычно приобретается ценой её утраты. Русское «и рыбку съесть, и косточкой не подавиться» функционально близко, но сербское выражение совершенно нейтрально по грубости.",
-      "keyword": "i ovce i novce"
+      "note": "Выражение нередко обыгрывается буквально в материалах об овцеводстве. В сербской разговорной речи более традиционен вариант imati i jare i pare.",
+      "keyword": "ovca; novac"
     },
     {
       "headword_latin": "Imati nešto u malom prstu",
       "type": "frazeologizam",
-      "definition_ru": "знать как свои пять пальцев; знать досконально; великолепно разбираться в чём-то",
+      "definition_ru": "Знать что-либо как свои пять пальцев; владеть чем-либо в совершенстве; досконально разбираться в чём-либо.",
       "synonyms_sr": [
-        "odlično poznavati nešto",
-        "znati nešto uzduž i popreko",
-        "biti stručnjak za nešto"
+        "držati nešto u malom prstu",
+        "znati nešto kao svoj džep",
+        "vladati nečim",
+        "znati nešto napamet"
       ],
-      "literal_ru": "иметь что-то в мизинце",
-      "register": "frazeologizam; imati + akuzativ + u malom prstu",
+      "literal_ru": "Иметь что-либо в мизинце.",
+      "register": "razgovorno",
       "examples": [
         {
-          "serbian_latin": "Dolazi nam Vlade Đurović, koji drži ovaj sport „u malom prstu“.",
-          "russian": "К нам приходит Владе Джурович, который знает этот спорт как свои пять пальцев.",
-          "source": "Radio Beograd 1 / RTS, 2017"
+          "sr": "On je napamet znao ko je kakav muzičar u orkestru, sve je imao „u malom prstu“.",
+          "ru": "Он наизусть знал возможности каждого оркестранта: весь оркестр был ему знаком до мельчайших деталей.",
+          "source": "Danas, 2021"
         },
         {
-          "serbian_latin": "Držao je košarku u malom prstu, o čemu govore i titule.",
-          "russian": "Он знал баскетбол как свои пять пальцев, о чём говорят и его титулы.",
-          "source": "RTS, 2024"
-        },
-        {
-          "serbian_latin": "On taj predmet ima u malom prstu.",
-          "russian": "Он этот предмет знает как свои пять пальцев.",
-          "source": ""
+          "sr": "Ima košarku u malom prstu i vidi je na jedinstven način.",
+          "ru": "Он знает баскетбол как свои пять пальцев и видит игру по-своему.",
+          "source": "Sport Klub, 2026"
         }
       ],
-      "note": "В русском знание помещается во «всех пяти пальцах», а в сербском — буквально в одном мизинце. Выражение относится не только к местности: можно imati košarku, politiku, posao, slučaj u malom prstu. В Politika, например, о людях, прекрасно разбирающихся в теннисе, говорится ovaj sport imaju u malom prstu.",
-      "keyword": "u malom prstu"
+      "note": "Объект обычно стоит в винительном падеже: imati posao, gradivo, košarku u malom prstu. Употребляется также вариант držati nešto u malom prstu.",
+      "keyword": "prst"
     },
     {
       "headword_latin": "Imati posla preko glave",
@@ -2042,36 +2060,58 @@
       "keyword": "ispeci pa reci"
     },
     {
-      "headword_latin": "Izgledati kao avion",
-      "type": "sleng",
-      "definition_ru": "выглядеть сногсшибательно; быть очень привлекательным / привлекательной; быть в потрясающей форме",
+      "headword_latin": "Isto sranje",
+      "type": "frazeologizam",
+      "definition_ru": "Та же х*рня; одно и то же д*рьмо; никакой существенной разницы.",
       "synonyms_sr": [
-        "izgledati vrhunski",
-        "biti prezgodan / prezgodna",
-        "izgledati kao bomba",
-        "izgledati fenomenalno"
+        "isto sranje, drugo pakovanje",
+        "isti đavo",
+        "ista priča",
+        "sve je to isto"
       ],
-      "literal_ru": "выглядеть как самолёт",
-      "register": "sleng, ekspresivno; naročito često o fizički privlačnoj osobi i dobroj formi",
+      "literal_ru": "То же д*рьмо.",
+      "register": "grubo; vulgarno; razgovorno",
       "examples": [
         {
-          "serbian_latin": "Dragana Kosjerina... zbog čega su mnogi prokomentarisali da „izgleda kao avion“.",
-          "russian": "Многие написали о Драгане Косерине, что она выглядит сногсшибательно.",
-          "source": "Večernje novosti, 2026"
+          "sr": "Znači, nešto kao: isto sranje, drugo pakovanje!",
+          "ru": "Значит, что-то вроде: та же х*рня, только в другой упаковке!",
+          "source": "N1, 2025"
         },
         {
-          "serbian_latin": "Džesika Alba u petoj deceniji izgleda kao avion.",
-          "russian": "Джессика Альба и после сорока выглядит потрясающе.",
-          "source": "Nova.rs, 2026"
-        },
-        {
-          "serbian_latin": "Posle godinu dana treninga izgleda kao avion.",
-          "russian": "После года тренировок он выглядит просто потрясающе.",
-          "source": ""
+          "sr": "— Ma nije. Dega je iz impresionizma. Ne lupaj. — Ma isto sranje.",
+          "ru": "— Да нет, Дега — импрессионист. Не говори ерунды. — Да одна х*рня.",
+          "source": "Vukajlija, 2013"
         }
       ],
-      "note": "Avion здесь — сленговая метафора чего-то эффектного, мощного, впечатляющего. Выражение чаще встречается в таблоидной речи о внешности женщин, но грамматически не ограничено полом. Оно заметно сильнее нейтрального dobro izgledati. Близкое izgledati kao bomba ещё более явно акцентирует сексуальную привлекательность.",
-      "keyword": "izgledati kao avion"
+      "note": "Хорватское isti drek понятно сербскому читателю, но как основную сербскую форму следует давать isto sranje. Особенно устойчиво расширение isto sranje, drugo pakovanje.",
+      "keyword": "sranje"
+    },
+    {
+      "headword_latin": "Izgledati kao avion",
+      "type": "frazeologizam",
+      "definition_ru": "Выглядеть сногсшибательно; выглядеть на все сто; быть просто отпад.",
+      "synonyms_sr": [
+        "izgledati kao milion dolara",
+        "izgledati top",
+        "izgledati brutalno",
+        "izgledati kao bomba"
+      ],
+      "literal_ru": "Выглядеть как самолёт.",
+      "register": "razgovorno; ekspresivno; često tabloidno",
+      "examples": [
+        {
+          "sr": "Snežana Borjan u 43. godini izgleda kao avion.",
+          "ru": "В свои 43 года Снежана Борян выглядит сногсшибательно.",
+          "source": "Blic, 2026"
+        },
+        {
+          "sr": "Pevačica trpela uvrede zbog izgleda, a danas izgleda kao avion.",
+          "ru": "Певицу оскорбляли из-за внешности, а сегодня она выглядит на все сто.",
+          "source": "Blic, 2025"
+        }
+      ],
+      "note": "Обычно говорится о внешней привлекательности человека, особенно женщины. Выражение характерно для разговорной речи, социальных сетей и заголовков развлекательных СМИ; в нейтральном стиле звучит неуместно.",
+      "keyword": "avion"
     },
     {
       "headword_latin": "Izigravati žrtvu",
