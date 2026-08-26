@@ -358,17 +358,6 @@ async function init(){
   renderList();
   renderEntry();
 }
-  entries.sort((a,b)=>
-    String(a.headword_latin||"")
-      .localeCompare(String(b.headword_latin||""),"sr-Latn")
-  );
-
-  selected=entries[0]?.headword_latin||null;
-  buildAlphabet();
-  buildFilters();
-  renderList();
-  renderEntry();
-}
 function buildAlphabet(){
   const letters=["SVE","A","B","C","Č","Ć","D","Dž","Đ","E","F","G","H","I","J","K","L","Lj","M","N","Nj","O","P","R","S","Š","T","U","V","Z","Ž"];
   $("alphabet").innerHTML=letters.map(x=>`<button data-a="${x}" class="${x===alpha?'active':''}">${x}</button>`).join("");
