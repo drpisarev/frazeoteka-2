@@ -808,6 +808,38 @@
       "keyword": "dan D"
     },
     {
+      "headword_latin": "Do bola",
+      "type": "izraz",
+      "definition_ru": "до предела; невероятно; очень, чрезвычайно",
+      "synonyms_sr": [
+        "veoma",
+        "izrazito",
+        "krajnje",
+        "maksimalno (po kontekstu)"
+      ],
+      "literal_ru": "до боли",
+      "register": "razg., ekspresivni intenzifikator; uz pridev, prilog ili osobinu: glup do bola, dosadan do bola, iskren do bola",
+      "examples": [
+        {
+          "serbian_latin": "Kad kažu da je nešto „do bola“, to uopšte ne boli, već je izrazito dobro.",
+          "russian": "Когда говорят, что что-то do bola, речь вовсе не о боли, а о высшей степени качества.",
+          "source": "Politika, 2007"
+        },
+        {
+          "serbian_latin": "Pregovori su bili mučni, a snizili su cene „do bola“.",
+          "russian": "Переговоры были тяжёлыми, а цены они сбили до предела.",
+          "source": "Politika, 2017"
+        },
+        {
+          "serbian_latin": "Parlament je bio zabavan do bola.",
+          "russian": "Парламент был уморительно смешным.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Это не всегда буквально «до боли». В современной разговорной речи do bola превратилось в сильный интенсификатор: примерно «безумно, невероятно, донельзя». Значение сильно зависит от слова: glup do bola — «тупой до невозможности», iskren do bola — «предельно откровенный», dobar do bola — «офигенно хороший». В молодёжном сленге выражение особенно распространилось как усилитель положительной оценки.",
+      "keyword": "do bola"
+    },
+    {
       "headword_latin": "Dobijati / dobiti mrvice",
       "type": "frazeologizam",
       "definition_ru": "получать крохи; довольствоваться малой долей; получать лишь остатки от того, что досталось другим",
@@ -1056,6 +1088,37 @@
       "keyword": "fušeraj"
     },
     {
+      "headword_latin": "Ginuti kao muve",
+      "type": "frazeologizam",
+      "definition_ru": "гибнуть как мухи; массово погибать",
+      "synonyms_sr": [
+        "masovno ginuti",
+        "ginuti u velikom broju",
+        "stradati masovno"
+      ],
+      "literal_ru": "гибнуть как мухи",
+      "register": "ekspresivno; obično o velikom broju ljudi ili životinja; srpski oblik muve",
+      "examples": [
+        {
+          "serbian_latin": "Ginu kao muve! Militanti pokušali kontranapad kod Zarnice.",
+          "russian": "Гибнут как мухи: боевики попытались перейти в контратаку у Зарницы.",
+          "source": "Večernje novosti, 2026"
+        },
+        {
+          "serbian_latin": "Oni ginu kao muve, idite na njihov forum, rubrika Crna hronika.",
+          "russian": "Они гибнут как мухи, зайдите на их форум в раздел «Чёрная хроника».",
+          "source": "B92 forum, 2023"
+        },
+        {
+          "serbian_latin": "U toj epidemiji ljudi su ginuli kao muve.",
+          "russian": "Во время той эпидемии люди гибли как мухи.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском выражение совпадает с русским почти полностью, но важно заменить исходную форму muhe на сербское muve. Обычно подразумевается не просто высокая смертность, а впечатление массовости и лёгкости, с которой один за другим погибают люди: vojnici ginu kao muve, ljudi umiru kao muve. Выражение эмоционально сильное и в отношении реальных трагедий может звучать грубо.",
+      "keyword": "ginuti kao muve"
+    },
+    {
       "headword_latin": "Gledati belo",
       "type": "frazeologizam",
       "definition_ru": "смотреть в полном недоумении; таращиться, ничего не понимая; смотреть пустым взглядом",
@@ -1220,6 +1283,38 @@
       ],
       "note": "Ima nas raznih обычно не является нейтральной декларацией «все люди разные». Чаще это реакция на конкретное странное, неожиданное или непонятное поведение: примерно русское «ну, всякие люди бывают». В публицистике выражение может вводить перечисление разных типов людей, а в разговоре часто содержит лёгкую иронию или смирение с чужими особенностями.",
       "keyword": "ima nas raznih"
+    },
+    {
+      "headword_latin": "Imati i ovce i novce",
+      "type": "frazeologizam",
+      "definition_ru": "получить и то и другое; хотеть всех выгод сразу; иметь одновременно две трудно совместимые выгоды",
+      "synonyms_sr": [
+        "hteti sve",
+        "želeti obostranu korist",
+        "dobiti sve što se želi",
+        "hteti i jare i pare"
+      ],
+      "literal_ru": "иметь и овец, и деньги",
+      "register": "razg.; hteti / želeti / imati i ovce i novce; često u negaciji: Ne možeš imati i ovce i novce",
+      "examples": [
+        {
+          "serbian_latin": "Elektroprivrede ne mogu imati i ovce i novce – termoelektrane se moraju uskladiti ili zatvoriti.",
+          "russian": "Энергокомпании не могут получить всё сразу: теплоэлектростанции должны либо соответствовать нормам, либо закрыться.",
+          "source": "N1 Srbija, 2024"
+        },
+        {
+          "serbian_latin": "Ne možeš da zadržiš stan, uzimaš kiriju i još tražiš da ti neko plaća troškove — ne možeš imati i ovce i novce.",
+          "russian": "Нельзя оставить себе квартиру, получать аренду и ещё требовать, чтобы кто-то оплачивал расходы: нельзя получить всё сразу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "On bi i visoku platu i da ništa ne radi — hteo bi i ovce i novce.",
+          "russian": "Он хочет и высокую зарплату, и ничего не делать — хочет всех выгод сразу.",
+          "source": ""
+        }
+      ],
+      "note": "Сербская фразеология фиксирует обе модели želeti i jare i pare и želeti / imati i ovce i novce. Смысл не просто «иметь две вещи», а получить одновременно две выгоды, которые обычно трудно совместить. Поэтому наиболее естественная русская передача часто — «хотеть и рыбку съесть, и...», «хотеть усидеть на двух стульях» или нейтральное «хотеть получить всё сразу».",
+      "keyword": "ovce i novce"
     },
     {
       "headword_latin": "Imati nešto u malom prstu",
@@ -1984,6 +2079,38 @@
       "keyword": "mrtav umoran"
     },
     {
+      "headword_latin": "Mućnuti glavom",
+      "type": "frazeologizam",
+      "definition_ru": "пораскинуть мозгами; хорошенько подумать; пошевелить мозгами",
+      "synonyms_sr": [
+        "razmisliti",
+        "promisliti",
+        "uključiti mozak (razg.)",
+        "upotrebiti glavu"
+      ],
+      "literal_ru": "встряхнуть головой",
+      "register": "razg.; često u imperativu Mućni glavom!",
+      "examples": [
+        {
+          "serbian_latin": "Mućnite glavom, da vas glava više ne boli!",
+          "russian": "Пораскиньте мозгами, чтобы голова больше не болела!",
+          "source": "Radio Beograd 202 / RTS, 2015"
+        },
+        {
+          "serbian_latin": "Mućni malo glavom — nije teško da shvatiš šta se desilo.",
+          "russian": "Пошевели немного мозгами — нетрудно понять, что произошло.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Da smo na vreme mućnuli glavom, ne bismo napravili ovu grešku.",
+          "russian": "Если бы мы вовремя подумали головой, мы бы не совершили эту ошибку.",
+          "source": ""
+        }
+      ],
+      "note": "Mućnuti буквально означает «встряхнуть, взболтнуть», например жидкость в бутылке. Во фразе mućnuti glavom голова метафорически «встряхивается», чтобы заработала мысль. Это более разговорно и экспрессивно, чем обычное razmisliti. Название многолетней передачи Radio Beograda 202 Mućni glavom хорошо показывает, насколько выражение узнаваемо в Сербии.",
+      "keyword": "mućnuti glavom"
+    },
+    {
       "headword_latin": "Na ravnoj nozi",
       "type": "frazeologizam",
       "definition_ru": "на равных; на равной ноге; как равный с равным",
@@ -2045,6 +2172,38 @@
       ],
       "note": "Nagon шире русского «инстинкт». Это может быть физиологический позыв (nagon za mokrenjem, povraćanjem), сексуальное или биологическое влечение, либо сильный внутренний импульс к действию. Instinkt чаще обозначает именно врождённую поведенческую программу, поэтому эти слова не всегда взаимозаменяемы.",
       "keyword": "nagon"
+    },
+    {
+      "headword_latin": "Naivan kao francuska sobarica",
+      "type": "frazeologizam",
+      "definition_ru": "прикидываться наивным; строить из себя невинность; «наивный» только с виду",
+      "synonyms_sr": [
+        "praviti se naivan",
+        "praviti se nevešt",
+        "glumiti naivnost",
+        "praviti se da ništa ne zna"
+      ],
+      "literal_ru": "наивный как французская горничная",
+      "register": "razg., iron.; često o osobi koja glumi naivnost iako dobro razume situaciju",
+      "examples": [
+        {
+          "serbian_latin": "Pravi se ona naivna, kao francuska sobarica.",
+          "russian": "Она строит из себя наивную, прямо французская горничная.",
+          "source": "Danas, komentar, 2026"
+        },
+        {
+          "serbian_latin": "Jesi naivna ko francuska sobarica.",
+          "russian": "Ну да, прямо наивная французская горничная.",
+          "source": "Reddit/r/serbia, 2026"
+        },
+        {
+          "serbian_latin": "Nemoj da se praviš naivna kao francuska sobarica — dobro znaš o čemu pričam.",
+          "russian": "Не строй из себя невинность — ты прекрасно знаешь, о чём я говорю.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь исходный словарь особенно полезно не копировать буквально. В сербской фразеологии выражение исследовано как пример иронии через противоположное значение: naivna k’o francuska sobarica — «очень опытная, но ведущая себя так, будто всё наоборот». Сербские жаргонные источники также фиксируют значение «делать вид, что ничего не понимаешь», хотя встречается и буквальное толкование «очень наивный». Для активного словаря важнее именно ироническая модель praviti se naivan kao francuska sobarica. Происхождение образа надёжно не установлено; вероятно, оно связано с культурным стереотипом сексуально опытной «французской горничной», из-за чего прилагательное naivan становится насмешливо противоположным реальности.",
+      "keyword": "francuska sobarica"
     },
     {
       "headword_latin": "Napaćena duša",
@@ -2135,6 +2294,38 @@
       ],
       "note": "Natovariti na vrat подчёркивает прежде всего обременение: человеку достаётся проблема, обязанность, забота, ответственность. Можно нагрузить и самого себя: natovariti sebi obaveze na vrat, и другого: natovariti nekome probleme na vrat. Русскому близки «взвалить на шею», «повесить на кого-то», «взвалить на себя». Не обязательно, что неприятность возникла как наказание за собственные действия: главное здесь именно груз.",
       "keyword": "natovariti na vrat"
+    },
+    {
+      "headword_latin": "Navrat-nanos",
+      "type": "prilog",
+      "definition_ru": "второпях; на скорую руку; в спешке, без подготовки; сломя голову",
+      "synonyms_sr": [
+        "na brzinu",
+        "užurbano",
+        "bez pripreme",
+        "brzopleto (po kontekstu)"
+      ],
+      "literal_ru": "",
+      "register": "priloški izraz; normativno se piše navrat-nanos, sa crticom",
+      "examples": [
+        {
+          "serbian_latin": "Ako bismo pisali domaći zadatak ujutru, navrat-nanos, pred odlazak u školu...",
+          "russian": "Если мы делали домашнее задание утром, второпях, прямо перед уходом в школу...",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Vlada je „navrat-nanos“ poslala Skupštini zakon.",
+          "russian": "Правительство наспех отправило закон в Скупщину.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Tako je krajiškim Srbima ostavljeno dovoljno vremena da navrat-nanos pokupe malo odeće.",
+          "russian": "Краинским сербам оставили лишь столько времени, чтобы второпях собрать немного одежды.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "Значение включает не только быстроту, но нередко и отсутствие нормальной подготовки или обдумывания: navrat-nanos doneta odluka — «решение, принятое в спешке».",
+      "keyword": "navrat-nanos"
     },
     {
       "headword_latin": "Navući nekome / sebi nešto na vrat",
