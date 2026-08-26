@@ -201,6 +201,42 @@
       "keyword": "baciti ljagu"
     },
     {
+      "headword_latin": "Baciti se / obesiti se nekome oko vrata",
+      "type": "frazeologizam",
+      "definition_ru": "броситься кому-то на шею; обнять в порыве чувств; повиснуть у кого-то на шее",
+      "synonyms_sr": [
+        "zagrliti nekoga",
+        "poleteti nekome u zagrljaj",
+        "pasti nekome u zagrljaj"
+      ],
+      "literal_ru": "броситься / повиснуть кому-то на шею",
+      "register": "razg., emotivno; nekome je u dativu: bacila mu se oko vrata, obesila joj se oko vrata",
+      "examples": [
+        {
+          "serbian_latin": "Mira je zajecala i obesila joj se oko vrata.",
+          "russian": "Мира разрыдалась и бросилась ей на шею.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Obesila mu se oko vrata kao u ranijim prilikama Nemešu, a priključio im se i Vlada pa su se svo troje grlili.",
+          "russian": "Она повисла у него на шее, как раньше у Немеша, а потом к ним присоединился Влада, и все трое обнимались.",
+          "source": "Blic, 2011"
+        },
+        {
+          "serbian_latin": "Kad me je ugledala posle toliko godina, potrčala je i bacila mi se oko vrata.",
+          "russian": "Увидев меня после стольких лет, она подбежала и бросилась мне на шею.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Dete mu se obesilo oko vrata i nije htelo da ga pusti.",
+          "russian": "Ребёнок повис у него на шее и не хотел отпускать.",
+          "source": ""
+        }
+      ],
+      "note": "Это не просто нейтральное zagrliti. Baciti se nekome oko vrata обычно передаёт внезапный, эмоциональный порыв — от радости, любви, облегчения при встрече. Obesiti se nekome oko vrata сильнее подчёркивает сам жест: человек обхватывает другого руками за шею и буквально «повисает» на нём; в зависимости от ситуации это может быть нежно, бурно или навязчиво. В сербской прозе конструкция obesiti se nekome oko vrata употребляется вполне естественно. Для русского наиболее близки «броситься на шею», «повиснуть на шее», а простое «обнять» часто теряет эмоциональность выражения.",
+      "keyword": "baciti se oko vrata"
+    },
+    {
       "headword_latin": "Bez dlake na jeziku",
       "type": "frazeologizam",
       "definition_ru": "прямо, без обиняков; не стесняясь в выражениях; говорить всё как есть",
