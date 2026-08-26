@@ -32,6 +32,43 @@
       "keyword": "bacati bisere pred svinje"
     },
     {
+      "headword_latin": "Bacati / baciti drvlje i kamenje na nekoga / nešto",
+      "type": "frazeologizam",
+      "definition_ru": "обрушиваться с резкой критикой; резко осуждать; поносить; громить кого-то / что-то",
+      "synonyms_sr": [
+        "žestoko napadati",
+        "oštro osuđivati",
+        "obasipati kritikama",
+        "ocrnjivati"
+      ],
+      "literal_ru": "бросать в кого-то палки и камни",
+      "register": "razg. do publicistički, ekspresivno, neodobr.; česti oblici: osuti drvlje i kamenje na / po nekome; takođe sipati i dići drvlje i kamenje na nekoga",
+      "examples": [
+        {
+          "serbian_latin": "Bio je nepomirljiv opozicionar, i mnogi su ga proglašavali ludim i bacali na njega drvlje i kamenje.",
+          "russian": "Он был непримиримым оппозиционером, и многие объявляли его сумасшедшим и подвергали жесточайшим нападкам.",
+          "source": "Jovan Popović, cit. N1 Srbija, 2024"
+        },
+        {
+          "serbian_latin": "Ne očekujte da ću na tu gospodu i poneku damu osuti drvlje i kamenje.",
+          "russian": "Не ждите, что я обрушусь с резкими нападками на этих господ и некоторых дам.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Nakon svakog lošeg rezultata treba osuti drvlje i kamenje po svima koji su za isti odgovorni.",
+          "russian": "После каждого плохого результата начинают яростно критиковать всех, кто за него отвечает.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Očekivalo se da ćete osuti drvlje i kamenje na pojedine ljude. Vi ste ćutali.",
+          "russian": "Ожидалось, что вы обрушитесь с резкой критикой на некоторых людей. Но вы молчали.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Это не просто kritikovati: выражение обозначает очень резкое, зачастую публичное осуждение и словесную атаку. В сербских источниках основная форма — bacati drvlje i kamenje, а особенно распространённый вариант — osuti drvlje i kamenje; фиксируются также sipati и dići. Sasuti drvlje i kamenje тоже возможно, но для активного словаря полезнее прежде всего запомнить bacati и osuti. N1, со ссылкой на Rečnik SANU и Милана Шипку, связывает образ с древним наказанием каменованием: на осуждённого буквально бросали камни и другие твёрдые предметы; отсюда переносное «яростно нападать, осуждать».",
+      "keyword": "bacati drvlje i kamenje"
+    },
+    {
       "headword_latin": "Bacati / baciti nekoga u očaj",
       "type": "frazeologizam",
       "definition_ru": "доводить / довести кого-то до отчаяния; повергать / повергнуть в отчаяние",
