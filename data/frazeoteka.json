@@ -370,6 +370,33 @@
       "keyword": "biraj ago što je tebi drago"
     },
     {
+      "headword_latin": "Biti kao so na ranu",
+      "type": "poređenje",
+      "definition_ru": "Быть как соль на рану; дополнительно усиливать уже существующую боль, обиду или тяжёлое положение.",
+      "synonyms_sr": [
+        "dodatno zaboleti",
+        "pogoršati situaciju",
+        "produbiti ranu",
+        "sipati so na ranu"
+      ],
+      "literal_ru": "Быть как соль на ране.",
+      "register": "ekspresivno, razgovorno i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Srpski nacionalni forum iz Gračanice izjavu ministarke državne uprave i lokalne samouprave Srbije Snežane Paunović ocenjuje kao „so na ranu“ preostaloj srpskoj zajednici.",
+          "russian": "Сербский национальный форум из Грачаницы считает заявление министра Снежаны Паунович солью на рану оставшейся сербской общины.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Kolumna „So na ranu“: Srpski mehanizam.",
+          "russian": "Колонка «Соль на рану»: сербский механизм.",
+          "source": "Euronews Serbia, 2026"
+        }
+      ],
+      "note": "Образ часто употребляется в именной конструкции nešto je kao so na ranu или nešto oceniti kao so na ranu. Родственный глагольный фразеологизм sipati so na ranu означает намеренно или неосторожно усиливать чужую боль.",
+      "keyword": "so; rana"
+    },
+    {
       "headword_latin": "Biti mirođija u svakoj čorbi",
       "type": "frazeologizam",
       "definition_ru": "быть в каждой бочке затычкой; быть везде и во всём; всюду успевать отметиться",
@@ -1093,6 +1120,62 @@
       "keyword": "dan D"
     },
     {
+      "headword_latin": "Dati vetar u leđa",
+      "type": "glagolski frazem",
+      "definition_ru": "Поддержать; придать сил, уверенности или дополнительный импульс; помочь кому-либо двигаться вперёд.",
+      "synonyms_sr": [
+        "pružiti podršku",
+        "dati podsticaj",
+        "ohrabriti",
+        "dati krila",
+        "pomoći nekome da napreduje"
+      ],
+      "literal_ru": "Дать ветер в спину.",
+      "register": "neutralno, slikovito; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "„Nova“ piše: Kako je režim dao novi vetar u leđa protestima.",
+          "russian": "«Nova» пишет о том, как режим придал протестам новый импульс.",
+          "source": "Nova, 2025"
+        },
+        {
+          "serbian_latin": "Nova humanitarna akcija srpskog šampiona i Fondacije Mozzart dala je krila malom Dušanu, ali i jak vetar u leđa Fondaciji „Jedro“.",
+          "russian": "Новая благотворительная акция сербского чемпиона и фонда Mozzart окрылила маленького Душана, а фонду «Jedro» придала мощный импульс.",
+          "source": "N1, 2025"
+        }
+      ],
+      "note": "Получатель поддержки обычно выражается дательным падежом: dati nekome vetar u leđa. Встречаются также конструкции pružiti vetar u leđa и самостоятельно употребляемое vetar u leđa.",
+      "keyword": "vetar; leđa"
+    },
+    {
+      "headword_latin": "Dati zeleno svetlo",
+      "type": "glagolski frazem",
+      "definition_ru": "Дать разрешение или официальное одобрение; позволить начать или продолжить действие.",
+      "synonyms_sr": [
+        "dati odobrenje",
+        "odobriti",
+        "dozvoliti",
+        "dati saglasnost",
+        "otvoriti put"
+      ],
+      "literal_ru": "Дать зелёный свет.",
+      "register": "neutralno; često poslovno i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "MMF dao „zeleno svetlo“ Srbiji: Uspešno završena druga revizija ekonomskog programa.",
+          "russian": "МВФ дал Сербии зелёный свет: вторая проверка экономической программы успешно завершена.",
+          "source": "UNA, 2025"
+        },
+        {
+          "serbian_latin": "Da li Srbija dobija zeleno svetlo za otvaranje klastera 3 u pregovorima sa Evropskom unijom, znaćemo ove nedelje.",
+          "russian": "Получит ли Сербия зелёный свет на открытие кластера 3 в переговорах с Европейским союзом, станет известно на этой неделе.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Разрешённое действие обычно вводится предлогом za: dati zeleno svetlo za projekat, pregovore, izgradnju. Получатель разрешения может стоять в дательном падеже.",
+      "keyword": "zeleno svetlo"
+    },
+    {
       "headword_latin": "Debeo kao svinja",
       "type": "frazeologizam",
       "definition_ru": "толстый как свинья; очень толстый",
@@ -1276,6 +1359,33 @@
       ],
       "note": "Форма действительно существует во фразеографических источниках как doći će cica na kolica. Но на Ana.rs носительница прямо противопоставляет srbijanska verzija: Došla maca na vratanca и bosanska verzija: Došla cica na kolica. Поэтому для сербского стандарта я бы считал maca na vratanca основной статьёй, а cica na kolica — региональным вариантом. Русское «придёт зима — снега попросишь» возможно по ситуации, но шире смысл «ещё придёт расплата / ещё сам придёшь».",
       "keyword": "doći će cica na kolica"
+    },
+    {
+      "headword_latin": "Doći kao kec na desetku",
+      "type": "glagolski frazem",
+      "definition_ru": "Прийтись как нельзя кстати; появиться именно тогда, когда это особенно нужно; удачно разрешить ситуацию.",
+      "synonyms_sr": [
+        "doći u pravi čas",
+        "doći baš kada treba",
+        "dobro doći",
+        "pojaviti se u pravom trenutku"
+      ],
+      "literal_ru": "Прийти как туз к десятке.",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "U svakodnevnoj komunikaciji često čujemo izraz „doći kao kec na desetku“.",
+          "russian": "В повседневной речи мы часто слышим выражение «прийтись как туз к десятке».",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Krvavi obračun došao kao „kec na deset“ administraciji EU da se obruši na državu.",
+          "russian": "Кровавое столкновение пришлось администрации ЕС как нельзя кстати, чтобы обрушиться на государство.",
+          "source": "Večernje novosti, 2023"
+        }
+      ],
+      "note": "Выражение связывают с карточной игрой tablić: туз, появляющийся при десятке, позволяет получить особенно выгодную комбинацию. Наряду с основной формой kec na desetku в сербской прессе встречается вариант kec na deset.",
+      "keyword": "kec; desetka"
     },
     {
       "headword_latin": "Doći nekome iz dupeta u glavu",
@@ -1717,6 +1827,34 @@
       ],
       "note": "В сербском выражение прежде всего характеризует человека, который плохо слышит, а не человека без музыкального слуха. Для последнего значения естественнее nemati sluha za muziku или nemati ni trunke sluha. Русский образ строится обычно со словом «пень», поэтому буквальный перевод «глухой как пушка» будет непонятен.",
       "keyword": "gluv kao top"
+    },
+    {
+      "headword_latin": "Gurati nešto pod tepih",
+      "type": "glagolski frazem",
+      "definition_ru": "Замалчивать или скрывать проблему; делать вид, что её не существует; откладывать неприятное разбирательство.",
+      "synonyms_sr": [
+        "zataškavati",
+        "prikrivati problem",
+        "praviti se da problem ne postoji",
+        "odlagati suočavanje",
+        "zatvarati oči pred nečim"
+      ],
+      "literal_ru": "Заталкивать что-либо под ковёр.",
+      "register": "razgovorno; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Energetska istina koja se gura pod tepih.",
+          "russian": "Правда об энергетике, которую заметают под ковёр.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Guranje pod tepih nikada ne pomaže jer samo privremeno odlaže neizbežno.",
+          "russian": "Замалчивание проблемы никогда не помогает, потому что лишь временно откладывает неизбежное.",
+          "source": "Sensa, 2021"
+        }
+      ],
+      "note": "Возможны несовершенная форма gurati problem pod tepih, совершенная gurnuti problem pod tepih и отглагольное существительное guranje pod tepih. Выражение обычно подразумевает, что скрытая проблема позднее проявится снова.",
+      "keyword": "tepih"
     },
     {
       "headword_latin": "I mirna Bosna",
@@ -2680,6 +2818,34 @@
       ],
       "note": "Najčešće označava izbor iste profesije, karijere ili životnog puta. Umesto nečijim koriste se oblici očevim, majčinim, njegovim, njenim ili konstrukcija stopama svojih prethodnika. Ići nečijim stopama označava proces, a krenuti njegov početak.",
       "keyword": "stope"
+    },
+    {
+      "headword_latin": "Kriti nešto kao zmija noge",
+      "type": "poređenje",
+      "definition_ru": "Тщательно скрывать что-либо или кого-либо; держать в глубокой тайне; всеми силами не допускать огласки.",
+      "synonyms_sr": [
+        "brižljivo kriti",
+        "skrivati od javnosti",
+        "čuvati kao tajnu",
+        "ne otkrivati ni po koju cenu",
+        "držati u strogoj tajnosti"
+      ],
+      "literal_ru": "Скрывать, как змея ноги.",
+      "register": "razgovorno, ekspresivno; često šaljivo ili ironično",
+      "examples": [
+        {
+          "serbian_latin": "Kija krije verenika kao zmija noge, a sad pokazala šta je dobila od njega.",
+          "russian": "Кия скрывает жениха как змея ноги, но теперь показала, что получила от него.",
+          "source": "Kurir, 2026"
+        },
+        {
+          "serbian_latin": "Mirza Selimović krije verenicu kao zmija noge.",
+          "russian": "Мирза Селимович тщательно скрывает свою невесту.",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Устойчивое сравнение основано на шуточном представлении о том, что змея прячет свои несуществующие ноги. Скрываемый объект употребляется в винительном падеже: kriti verenika, identitet, dokumenta kao zmija noge.",
+      "keyword": "zmija; noge"
     },
     {
       "headword_latin": "lepiti se kao muve na govno",
@@ -3672,6 +3838,61 @@
       "keyword": "odgovarati"
     },
     {
+      "headword_latin": "Okrenuti nekome leđa",
+      "type": "glagolski frazem",
+      "definition_ru": "Отвернуться от кого-либо; оставить без поддержки; отказаться от прежнего союзника, близкого человека или своей страны.",
+      "synonyms_sr": [
+        "napustiti nekoga",
+        "uskratiti podršku",
+        "odreći se nekoga",
+        "prestati podržavati nekoga",
+        "ostaviti nekoga na cedilu"
+      ],
+      "literal_ru": "Повернуться к кому-либо спиной.",
+      "register": "neutralno, ekspresivno; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Predsednik Srbije Aleksandar Vučić je izjavio da njegova zemlja ne želi da okrene leđa Rusiji.",
+          "russian": "Президент Сербии Александр Вучич заявил, что его страна не хочет отворачиваться от России.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Novi slučaj Kerkez: Beograđanin Obrić okrenuo leđa Srbiji.",
+          "russian": "Новый случай Керкеза: белградец Обрич отвернулся от Сербии.",
+          "source": "Sportal, 2025"
+        }
+      ],
+      "note": "Выражение может описывать как отказ от эмоциональной или политической поддержки, так и буквальный поворот спиной. В переносном значении объект обычно стоит в дательном падеже: okrenuti leđa prijatelju, porodici, zemlji.",
+      "keyword": "leđa"
+    },
+    {
+      "headword_latin": "Okrenuti novi list",
+      "type": "glagolski frazem",
+      "definition_ru": "Начать новую жизнь или новый этап; изменить прежнее поведение; начать всё заново.",
+      "synonyms_sr": [
+        "početi iznova",
+        "započeti novo poglavlje",
+        "promeniti život",
+        "raskrstiti sa prošlošću"
+      ],
+      "literal_ru": "Перевернуть новый лист.",
+      "register": "neutralno ili razgovorno; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Branka Sovrlić nakon operacije okrenula novi list.",
+          "russian": "После операции Бранка Соврлич начала новую жизнь.",
+          "source": "Kurir, 2025"
+        },
+        {
+          "serbian_latin": "Ana Nikolić oglasila se iz teretane i pokazala da je okrenula novi list.",
+          "russian": "Ана Николич вышла на связь из спортзала и показала, что начала новую жизнь.",
+          "source": "Kurir, 2026"
+        }
+      ],
+      "note": "Обычно подразумевается сознательный отказ от прежних привычек, образа жизни или отношений. Несовершенный вид okretati novi list описывает процесс или неоднократные попытки перемен.",
+      "keyword": "list"
+    },
+    {
       "headword_latin": "Omaklo mi se",
       "type": "replika",
       "definition_ru": "случайно вырвалось; нечаянно получилось; я случайно это сделал / сказал; сорвалось",
@@ -4232,7 +4453,7 @@
           "source": "POSTINFO, 2026"
         }
       ],
-      "note": "Выражение характеризует человека, который не приспосабливается к мнению большинства, сопротивляется общественному давлению и отстаивает собственные убеждения. Противоположная конструкция — plivati niz struju: следовать за большинством, подчиняться господствующей моде или идеологии. В статье Vreme метафора последовательно разворачивается через противопоставление людей, которых несёт течение, и тех редких людей, которые способны «победить реку» и изменить ход событий. Это нормативное сербское выражение; пометы hrv. и regionalno не требуются.",
+      "note": "Выражение характеризует человека, который не приспосабливается к мнению большинства, сопротивляется общественному давлению и отстаивает собственные убеждения. Противоположная конструкция — plivati niz struju: следовать за большинством, подчиняться господствующей моде или идеологии.",
       "keyword": "struja"
     },
     {
@@ -4783,6 +5004,34 @@
       ],
       "note": "Перевод только «сплетница» слишком узок. Radio Mileva может быть и человеком, и самой системой мгновенного неофициального распространения информации — близко к русским «сарафанное радио» и шутливому «агентство ОБС». Выражение существовало задолго до телесериала RTS Radio Mileva; название сериала сознательно использует уже знакомый культурный тип женщины, которая «всё знает». Даже автор сербской юмористической «квазиэнциклопедии» признавал, что почему говорится именно Mileva, а не другое женское имя, достоверно неизвестно.",
       "keyword": "Radio Mileva"
+    },
+    {
+      "headword_latin": "Raditi nekome o glavi",
+      "type": "glagolski frazem",
+      "definition_ru": "Замышлять против кого-либо серьёзное зло; строить козни с целью погубить, устранить или уничтожить человека либо группу людей.",
+      "synonyms_sr": [
+        "kovati zaveru protiv nekoga",
+        "spremati nekome propast",
+        "ugrožavati nekoga",
+        "spremati napad",
+        "želeti nekoga da ukloni"
+      ],
+      "literal_ru": "Работать кому-либо о голову.",
+      "register": "razgovorno, ekspresivno; često publicistički i preteće",
+      "examples": [
+        {
+          "serbian_latin": "Da on ima dokaze da mu je neko iz policije radio o glavi, teško da bi bio kažnjen penzionisanjem.",
+          "russian": "Если бы у него были доказательства, что кто-то из полиции замышлял его погубить, едва ли виновного наказали бы всего лишь отправкой на пенсию.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Evropska unija nam radi o glavi, upozorava predsednik SRS prof. dr Vojislav Šešelj.",
+          "russian": "Европейский союз замышляет нас погубить, предупреждает председатель СРС профессор Воислав Шешель.",
+          "source": "Večernje novosti, 2026"
+        }
+      ],
+      "note": "Лицо, против которого направлены действия, выражается дательным местоимением или существительным: radi mi, ti, mu, joj, nam, vam, im o glavi. Выражение значительно сильнее, чем raditi nekome iza leđa: обычно подразумевается угроза безопасности, положению или самому существованию.",
+      "keyword": "glava"
     },
     {
       "headword_latin": "Raspremiti",
@@ -5822,6 +6071,33 @@
       ],
       "note": "Štos в этой конструкции — не «шутка», а секрет, приём, принцип работы. Поэтому ući u štos часто означает именно приобрести практическое понимание: «врубиться», «набить руку». Это не то же самое, что ući u ritam, хотя в некоторых ситуациях переводы пересекаются.",
       "keyword": "ući u štos"
+    },
+    {
+      "headword_latin": "Udariti u zid",
+      "type": "glagolski frazem",
+      "definition_ru": "Зайти в тупик; натолкнуться на непреодолимое препятствие; достичь точки, после которой невозможно двигаться дальше.",
+      "synonyms_sr": [
+        "naići na nepremostivu prepreku",
+        "dospeti u ćorsokak",
+        "zapasti u bezizlaznu situaciju",
+        "ne moći dalje"
+      ],
+      "literal_ru": "Удариться о стену.",
+      "register": "razgovorno, ekspresivno; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Sadašnja situacija jasno pokazuje da je evropski put Srbije „udario u zid“.",
+          "russian": "Нынешняя ситуация ясно показывает, что европейский путь Сербии зашёл в тупик.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Možete da radikalizujete šta hoćete, da udarate glavom u zid, ali para nema dok ih ne zaradite.",
+          "russian": "Можете радикализировать что угодно и хоть биться головой о стену, но денег не будет, пока вы их не заработаете.",
+          "source": "Nova, 2025"
+        }
+      ],
+      "note": "Конструкция udariti u zid обозначает столкновение с пределом или тупиком. Расширенный вариант udarati glavom u zid подчёркивает бесполезные, но упорно повторяемые попытки добиться невозможного.",
+      "keyword": "zid"
     },
     {
       "headword_latin": "Uljudne fraze",
