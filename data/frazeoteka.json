@@ -2050,6 +2050,93 @@
       "keyword": "došla maca na vratanca"
     },
     {
+      "headword_latin": "držati konce u rukama",
+      "type": "glagolski frazem",
+      "definition_ru": "держать всё в своих руках; контролировать происходящее; руководить ситуацией",
+      "synonyms_sr": [
+        "imati kontrolu",
+        "upravljati situacijom",
+        "voditi glavnu reč",
+        "pitati se za sve"
+      ],
+      "literal_ru": "держать нити в руках",
+      "register": "neutralno ili publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Rusija drži konce u svojim rukama.",
+          "russian": "Россия держит все нити в своих руках.",
+          "source": "Jezikofil, 2023",
+          "url": "https://jezikofil.rs/ko-drzi-karte-a-ko-konce-u-svojim-rukama-i-sta-nam-to-znaci/"
+        },
+        {
+          "serbian_latin": "Putin već drži konce u svojim rukama.",
+          "russian": "Путин уже держит всё в своих руках.",
+          "source": "Objektivno, 2026",
+          "url": "https://objektivno.net/spektar/putin-vec-drzi-konce-u-svojim-rukama/"
+        }
+      ],
+      "note": "Вариант preuzeti konce u svoje ruke означает взять управление или контроль на себя.",
+      "keyword": "konci"
+    },
+    {
+      "headword_latin": "držati nekoga kao malo / kap vode na dlanu",
+      "type": "poređenje",
+      "definition_ru": "беречь как зеницу ока; окружать заботой; обращаться чрезвычайно бережно",
+      "synonyms_sr": [
+        "čuvati kao oči u glavi",
+        "paziti na nekoga",
+        "brižno čuvati",
+        "obasipati pažnjom"
+      ],
+      "literal_ru": "держать кого-либо как немного воды или каплю воды на ладони",
+      "register": "razgovorno, odobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Znakovi horoskopa koji partnere drže kao malo vode na dlanu.",
+          "russian": "Знаки зодиака, которые берегут партнёров как зеницу ока.",
+          "source": "N1 Srbija, 2025",
+          "url": "https://n1info.rs/magazin/lifestyle/znakovi-horoskopa-koji-partnere-drze-kao-malo-vode-na-dlanu/"
+        },
+        {
+          "serbian_latin": "Ovi znaci su poznati po tome što drže svoje partnere kao kap vode na dlanu.",
+          "russian": "Эти знаки известны тем, что чрезвычайно бережно относятся к своим партнёрам.",
+          "source": "N1 Srbija, 2025",
+          "url": "https://n1info.rs/magazin/lifestyle/znakovi-horoskopa-koji-partnere-drze-kao-malo-vode-na-dlanu/"
+        }
+      ],
+      "note": "В сербском интернете употребляются варианты kao malo vode na dlanu и kao kap vode na dlanu.",
+      "keyword": "dlan"
+    },
+    {
+      "headword_latin": "držati se nečega / nekoga kao pijan plota",
+      "type": "poređenje",
+      "definition_ru": "упрямо держаться за что-либо; цепляться за мнение, правило или человека",
+      "synonyms_sr": [
+        "tvrdoglavo se držati nečega",
+        "ne odstupati",
+        "slepo insistirati",
+        "ne odvajati se od nekoga"
+      ],
+      "literal_ru": "держаться как пьяный за плетень",
+      "register": "razgovorno, ekspresivno, često neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Otkad je upoznao tog tipa, drži ga se k’o pijan plota!",
+          "russian": "С тех пор как он познакомился с этим типом, он цепляется за него как клещ.",
+          "source": "Telegraf, 2016",
+          "url": "https://www.telegraf.rs/vesti/2187437-da-li-znate-zasto-cesto-kazemo-drzi-se-kao-pijan-plota"
+        },
+        {
+          "serbian_latin": "Otkad je čuo za tu teoriju, drži je se k’o pijan plota.",
+          "russian": "С тех пор как он услышал эту теорию, он держится за неё мёртвой хваткой.",
+          "source": "Telegraf, 2016",
+          "url": "https://www.telegraf.rs/vesti/2187437-da-li-znate-zasto-cesto-kazemo-drzi-se-kao-pijan-plota"
+        }
+      ],
+      "note": "Дополнение употребляется в родительном падеже: držati ga se, držati je se, držati ih se.",
+      "keyword": "plot"
+    },
+    {
       "headword_latin": "Držati sve konce u rukama",
       "type": "glagolski frazem",
       "definition_ru": "держать все нити в своих руках; полностью контролировать положение",
@@ -2075,6 +2162,30 @@
       ],
       "note": "Выражение подчёркивает полный контроль над событиями. Близкое vući konce часто имеет отрицательный оттенок и подразумевает закулисное управление.",
       "keyword": "konci"
+    },
+    {
+      "headword_latin": "duša od čoveka",
+      "type": "imenski frazem",
+      "definition_ru": "человек золотой души; исключительно добрый и сердечный человек",
+      "synonyms_sr": [
+        "dobar čovek",
+        "čovek velikog srca",
+        "ljudina",
+        "dobra duša",
+        "zlato od čoveka"
+      ],
+      "literal_ru": "душа из человека",
+      "register": "razgovorno, odobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Fantastičan dečko, dobar čovek, radili smo, pričali, duša od čoveka!",
+          "russian": "Потрясающий парень, хороший человек: мы работали, разговаривали — человек золотой души!",
+          "source": "Grand Online, 2020",
+          "url": "https://grand.nova.rs/zvezde-granda/sako-poleteo-na-sceni-mentor-porucio-da-je-dusa-od-coveka/"
+        }
+      ],
+      "note": "Основная экавская сербская форма — čoveka. Иекавская форма čovjeka не нужна в качестве основного заголовка.",
+      "keyword": "duša"
     },
     {
       "headword_latin": "Fali mu daska u glavi",
@@ -2211,6 +2322,35 @@
       "keyword": "fušeraj"
     },
     {
+      "headword_latin": "gaziti preko leševa",
+      "type": "glagolski frazem",
+      "definition_ru": "идти по головам; не останавливаться ни перед чем ради достижения своей цели",
+      "synonyms_sr": [
+        "ići preko svega",
+        "ne birati sredstva",
+        "ići preko drugih",
+        "biti beskrupulozan"
+      ],
+      "literal_ru": "шагать через трупы",
+      "register": "ekspresivno, izrazito neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Postoji samo jedan način da napredujete u karijeri — da „gazite preko leševa“.",
+          "russian": "Существует только один способ продвигаться по карьерной лестнице — идти по головам.",
+          "source": "Mondo, 2007",
+          "url": "https://mondo.rs/Info/Ekonomija/a68240/Do-uspeha-u-karijeri-gazenjem-preko-leseva.html"
+        },
+        {
+          "serbian_latin": "Do uspeha u karijeri „gaženjem preko leševa“.",
+          "russian": "К карьерному успеху — идя по головам.",
+          "source": "Mondo, 2007",
+          "url": "https://mondo.rs/Info/Ekonomija/a68240/Do-uspeha-u-karijeri-gazenjem-preko-leseva.html"
+        }
+      ],
+      "note": "Выражение характеризует беспринципного человека, готового вредить другим ради карьеры, денег или власти.",
+      "keyword": "leš"
+    },
+    {
       "headword_latin": "Ginuti kao muve",
       "type": "frazeologizam",
       "definition_ru": "гибнуть как мухи; массово погибать",
@@ -2310,6 +2450,64 @@
       "keyword": "gluv kao top"
     },
     {
+      "headword_latin": "gubiti se / izgubiti se svaki trag nekome",
+      "type": "glagolski frazem",
+      "definition_ru": "от кого-либо пропадают все следы; кто-либо бесследно исчезает",
+      "synonyms_sr": [
+        "nestati bez traga",
+        "ne znati ništa o nekome",
+        "izgubiti svaki trag",
+        "iščeznuti"
+      ],
+      "literal_ru": "теряется каждый след кого-либо",
+      "register": "neutralno, često u novinskoj hronici",
+      "examples": [
+        {
+          "serbian_latin": "Otišao do pumpe, posle mu se gubi svaki trag.",
+          "russian": "Он отправился на заправку, после чего бесследно исчез.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/hronika/nestao-muskarac-u-zemunu-otisao-do-pumpe-posle-mu-se-gubi-svaki-trag/xnq9qcz"
+        },
+        {
+          "serbian_latin": "Posle ulaska u Savu gubi im se svaki trag.",
+          "russian": "После того как они вошли в Саву, их следы теряются.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/vesti/region/spasioci-tragaju-za-trojicom-stranaca-posle-ulaska-u-savu-gubi-im-se-svaki-trag-2026-07-20"
+        }
+      ],
+      "note": "Лицо обозначается дательным падежом: gubi mu se trag, gubi joj se trag, gubi im se trag.",
+      "keyword": "trag"
+    },
+    {
+      "headword_latin": "gurati / gurnuti nešto pod tepih",
+      "type": "glagolski frazem",
+      "definition_ru": "замалчивать или скрывать проблему; делать вид, что её не существует",
+      "synonyms_sr": [
+        "zataškavati",
+        "prikrivati problem",
+        "ignorisati problem",
+        "praviti se da nešto ne postoji"
+      ],
+      "literal_ru": "заталкивать что-либо под ковёр",
+      "register": "razgovorno i publicistički, neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Ljudi koji probleme guraju pod tepih stvaraju privid mira.",
+          "russian": "Люди, заметающие проблемы под ковёр, создают лишь видимость спокойствия.",
+          "source": "Stil/Kurir, 2026",
+          "url": "https://stil.kurir.rs/lifestyle/zanimljivosti/258156/11-osobina-ljudi-koji-probleme-guraju-pod-tepih"
+        },
+        {
+          "serbian_latin": "Ne možete stalno da se skrivate i gurate pod tepih neke stvari.",
+          "russian": "Нельзя постоянно прятаться и заметать некоторые вещи под ковёр.",
+          "source": "N1 Srbija, 2026",
+          "url": "https://n1info.rs/vesti/krstic-o-neodgovaranju-vlasti-na-izvestaj-un-ne-mozete-stalno-da-se-skrivate-i-gurate-stvari-pod-tepih/"
+        }
+      ],
+      "note": "Несовершенный вид gurati описывает постоянное замалчивание, а совершенный gurnuti — отдельную попытку скрыть конкретный вопрос.",
+      "keyword": "tepih"
+    },
+    {
       "headword_latin": "Gurati nešto pod tepih",
       "type": "glagolski frazem",
       "definition_ru": "Замалчивать или скрывать проблему; делать вид, что её не существует; откладывать неприятное разбирательство.",
@@ -2336,6 +2534,29 @@
       ],
       "note": "Возможны несовершенная форма gurati problem pod tepih, совершенная gurnuti problem pod tepih и отглагольное существительное guranje pod tepih. Выражение обычно подразумевает, что скрытая проблема позднее проявится снова.",
       "keyword": "tepih"
+    },
+    {
+      "headword_latin": "hvaliti nekoga / nešto na sva zvona",
+      "type": "glagolski frazem",
+      "definition_ru": "превозносить; расхваливать на каждом углу; громогласно восхвалять",
+      "synonyms_sr": [
+        "dizati u nebesa",
+        "preterano hvaliti",
+        "razglasiti svuda",
+        "kovati u zvezde"
+      ],
+      "literal_ru": "хвалить во все колокола",
+      "register": "razgovorno i publicistički, često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Da sam ja putujući cirkus i da ne radimo ništa, hvalili bi me na sva zvona.",
+          "russian": "Если бы я был бродячим цирком и мы ничего не делали, меня бы превозносили на каждом углу.",
+          "source": "Pink, 2026",
+          "url": "https://pink.rs/politika/808007/vucic-porucio-kriticarima-iz-hrvatske-da-ne-radim-nista-za-srbiju-hrvatski-mediji-bi-me-hvalili-na-sva-zvona-tako-da-je-sve-u-redu-video"
+        }
+      ],
+      "note": "Выражение обозначает публичную и подчёркнутую, нередко чрезмерную похвалу.",
+      "keyword": "zvono"
     },
     {
       "headword_latin": "I mirna Bosna",
@@ -2402,6 +2623,35 @@
       ],
       "note": "Формула I posle Tita – Tito была запущена после смерти Josipa Broza Tita 4 мая 1980 года и выражала официальную идею продолжения его политического курса, сохранения его символического присутствия и верности „Titovom putu“. RTV прямо отмечает, что лозунг был запущен в 1980 году, а научное исследование культа Тито описывает его как средство поиска легитимности власти в наследии умершего лидера в условиях нарастающего кризиса СФРЮ. С формулой тесно связана Štafeta mladosti: после смерти Тито традицию продолжили, и RTS указывает, что она шла под названием I posle Tita – Tito вплоть до 1987 года. Для русскоязычного важно, что фраза построена на намеренной эллиптической парадоксальности: никакого глагола нет, а смысл примерно «Тито физически нет, но Тито как политический принцип остаётся». Сегодня исходная формула часто употребляется исторически или иронически, а конструкция стала продуктивным шаблоном I posle X – X: так можно подчеркнуть, что человек, система или явление формально ушли, но их влияние фактически продолжается; пример I posle Miloševića – Milošević показывает, что современный сербский читатель узнаёт модель без дополнительных объяснений.",
       "keyword": "i posle Tita Tito"
+    },
+    {
+      "headword_latin": "ići / prodavati se kao alva",
+      "type": "poređenje",
+      "definition_ru": "расходиться как горячие пирожки; продаваться очень быстро; пользоваться огромным спросом",
+      "synonyms_sr": [
+        "prodavati se kao ludo",
+        "planuti",
+        "biti veoma tražen",
+        "ići kao vruće kifle"
+      ],
+      "literal_ru": "идти или продаваться как халва",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Evo koji stanovi se prodaju kao alva.",
+          "russian": "Вот какие квартиры расходятся как горячие пирожки.",
+          "source": "Telegraf Biznis, 2025",
+          "url": "https://biznis.telegraf.rs/nekretnine/4202739-sve-popularniji-trend-iz-evrope-stigao-i-kod-nas-evo-koji-stanovi-se-prodaju-kao-alva"
+        },
+        {
+          "serbian_latin": "Ova zanimanja tražena su u Srbiji kao alva.",
+          "russian": "Эти профессии в Сербии нарасхват.",
+          "source": "Dnevnik, 2026",
+          "url": "https://www.dnevnik.rs/lat/biznis/najnovije-vesti/ova-zanimanja-trazena-srbiji-kao-alva-plata-4-600-evra-stvarno-cete-se-iznenaditi-trend-je-potpuno-suprotan-od-najava-2026-04-09"
+        }
+      ],
+      "note": "Товары обычно idu или prodaju se kao alva; профессии, квартиры и услуги также могут описываться конструкцией biti tražen kao alva.",
+      "keyword": "alva"
     },
     {
       "headword_latin": "Ima jedna caka",
@@ -4185,6 +4435,29 @@
       ],
       "note": "В сербской бытовой речи neprskano — очень частое слово на рынках и при разговорах о «домашних» продуктах. Оно буквально означает, что растение или плод nisu prskani, то есть их не обрабатывали распыляемыми средствами. Но это не официальный синоним organskog proizvoda: «неопрыскиванное», «органическое», «домашнее» и «безопасное» — разные понятия. RTS специально показывает, насколько ненадёжным может быть рыночное заявление neprskano: продавцы используют его свободно, тогда как реальное применение пестицидов и соблюдение karence — срока между последней обработкой и сбором урожая — требуют отдельного контроля. В живой речи можно услышать и субстантивированное Kupujem samo neprskano — «покупаю только то, что не опрыскивали». Для русского важно также не переводить автоматически как «экологически чистое»: сербское слово этого не гарантирует.",
       "keyword": "neprskano"
+    },
+    {
+      "headword_latin": "nešto je nekome kao dobar dan",
+      "type": "poređenje",
+      "definition_ru": "быть для кого-либо совершенно обычным делом; стать повседневной привычкой",
+      "synonyms_sr": [
+        "biti sasvim uobičajeno",
+        "biti svakodnevica",
+        "biti normalna pojava",
+        "nikoga više ne čuditi"
+      ],
+      "literal_ru": "быть как приветствие «добрый день»",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Psovka za dobar dan.",
+          "russian": "Мат вместо «доброго дня»; ругань стала повседневностью.",
+          "source": "Blic, 2009",
+          "url": "https://www.blic.rs/vesti/drustvo/psovka-za-dobar-dan/qsb764g"
+        }
+      ],
+      "note": "Конструкция nešto je nekome kao dobar dan означает, что действие стало совершенно привычным. В заголовках встречается эллиптическая форма nešto za dobar dan. Точная конструкция kao dobar dan индексируется на Forum B92, но страница сейчас недоступна для проверки цитаты.",
+      "keyword": "dobar dan"
     },
     {
       "headword_latin": "Nije ni ona cvećka",
