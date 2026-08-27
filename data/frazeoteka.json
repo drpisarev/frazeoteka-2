@@ -1459,6 +1459,33 @@
       "keyword": "došla maca na vratanca"
     },
     {
+      "headword_latin": "Držati sve konce u rukama",
+      "type": "glagolski frazem",
+      "definition_ru": "держать все нити в своих руках; полностью контролировать положение",
+      "synonyms_sr": [
+        "imati potpunu kontrolu",
+        "upravljati situacijom",
+        "odlučivati o svemu",
+        "vući konce"
+      ],
+      "literal_ru": "держать все нити в руках",
+      "register": "neutralno do publicistički, preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Imam sve konce u svojim rukama.",
+          "russian": "Все нити находятся у меня в руках.",
+          "source": "Sport Klub, 2021"
+        },
+        {
+          "serbian_latin": "Ana Vintur drži sve konce u svojim rukama.",
+          "russian": "Анна Винтур держит все нити в своих руках.",
+          "source": "Kurir / Naslovi.net, 2026"
+        }
+      ],
+      "note": "Выражение подчёркивает полный контроль над событиями. Близкое vući konce часто имеет отрицательный оттенок и подразумевает закулисное управление.",
+      "keyword": "konci"
+    },
+    {
       "headword_latin": "Fali mu daska u glavi",
       "type": "frazeologizam",
       "definition_ru": "у него не все дома; у него винтика не хватает; он слегка не в себе",
@@ -3735,6 +3762,33 @@
       "keyword": "papci"
     },
     {
+      "headword_latin": "Oterati nekoga u grob",
+      "type": "glagolski frazem",
+      "definition_ru": "свести в могилу; довести до смерти; окончательно извести",
+      "synonyms_sr": [
+        "dovesti nekoga do kraja",
+        "ubiti nekoga brigom",
+        "potpuno izmoriti",
+        "uništiti nekoga"
+      ],
+      "literal_ru": "загнать кого-либо в могилу",
+      "register": "razgovorno, ekspresivno; često hiperbolično",
+      "examples": [
+        {
+          "serbian_latin": "Oteraćeš me u grob svojim ponašanjem.",
+          "russian": "Ты сведёшь меня в могилу своим поведением.",
+          "source": "Sanovnik.net, b. g."
+        },
+        {
+          "serbian_latin": "Sram vas bilo, oterali ste dete u grob!",
+          "russian": "Как вам не стыдно: вы свели ребёнка в могилу!",
+          "source": "Kurir, 2024"
+        }
+      ],
+      "note": "Может обозначать как действительное доведение человека до смерти, так и сильное раздражение, тревогу или изнурение. Реплика Oteraćeš me u grob! обычно соответствует русскому «Ты меня доконаешь!».",
+      "keyword": "grob"
+    },
+    {
       "headword_latin": "Oteto – prokleto",
       "type": "izreka",
       "definition_ru": "награбленное счастья не принесёт; чужое добро впрок не идёт; неправедно нажитое проклято",
@@ -4024,6 +4078,33 @@
       ],
       "note": "Это не просто «долго носится». Peri-deri обычно характеризует простую, практичную вещь, которую можно постоянно носить, стирать и не особенно беречь. В современной речи выражение особенно характерно для одежды: в 2026 году встречается даже basic crna majica za peri-deri.",
       "keyword": "peri-deri"
+    },
+    {
+      "headword_latin": "Pevati koliko te grlo nosi",
+      "type": "glagolski frazem",
+      "definition_ru": "петь во всё горло; петь во весь голос",
+      "synonyms_sr": [
+        "pevati iz sveg glasa",
+        "pevati na sav glas",
+        "pustiti glas",
+        "pevati što jače"
+      ],
+      "literal_ru": "петь, сколько горло несёт",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Pevajte koliko vas grlo nosi.",
+          "russian": "Пойте во всё горло.",
+          "source": "Prva TV, 2019"
+        },
+        {
+          "serbian_latin": "Mnogo je bitno da svako od nas peva koliko nas grlo nosi.",
+          "russian": "Очень важно, чтобы каждый из нас пел во весь голос.",
+          "source": "Prva TV, 2019"
+        }
+      ],
+      "note": "Местоимение изменяется по субъекту: koliko me, te, ga, je, nas, vas, ih grlo nosi. Возможен призыв Pevaj koliko te grlo nosi!",
+      "keyword": "grlo"
     },
     {
       "headword_latin": "Pijan kao letva",
@@ -4399,6 +4480,33 @@
       "keyword": "pre roka"
     },
     {
+      "headword_latin": "Prenositi se od usta do usta",
+      "type": "glagolski frazem",
+      "definition_ru": "передаваться из уст в уста; распространяться посредством личных пересказов",
+      "synonyms_sr": [
+        "širiti se usmeno",
+        "prenositi se usmenim putem",
+        "ići od čoveka do čoveka",
+        "pročuti se"
+      ],
+      "literal_ru": "передаваться от рта ко рту",
+      "register": "neutralno do razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Još jedna tajna priče koja se prenosi od usta do usta je kredibilitet.",
+          "russian": "Ещё один секрет истории, передаваемой из уст в уста, — её достоверность.",
+          "source": "Poslovi Infostud, b. g."
+        },
+        {
+          "serbian_latin": "Najbolja reklama je ona „usta do usta“.",
+          "russian": "Лучшая реклама — сарафанное радио.",
+          "source": "Telegraf Biznis, 2020"
+        }
+      ],
+      "note": "Конструкция od usta do usta может употребляться самостоятельно как определение: reklama, marketing, komunikacija od usta do usta.",
+      "keyword": "usta"
+    },
+    {
       "headword_latin": "Prljav posao",
       "type": "kolokacija",
       "definition_ru": "грязная работа; грязное дело; неприятная или морально сомнительная работа",
@@ -4461,6 +4569,33 @@
       ],
       "note": "Это не просто prljav posao «грязная работа». Единственное число может быть буквальным: prljav posao — работа, после которой пачкаешься, либо морально неприятная работа. Устойчивое prljava posla чаще означает сомнительные, нечестные, криминальные или закулисные дела. Форма posla — особая, стилистически закрепившаяся множественная форма, которая живёт именно в сочетаниях вроде nisu čista posla, vražja posla, ženska posla, prljava posla; обычное нейтральное множественное число — poslovi.",
       "keyword": "prljava posla"
+    },
+    {
+      "headword_latin": "Progledati nekome kroz prste",
+      "type": "glagolski frazem",
+      "definition_ru": "закрыть глаза на проступок; проявить снисхождение; сделать поблажку",
+      "synonyms_sr": [
+        "zažmuriti na jedno oko",
+        "oprostiti propust",
+        "preći preko nečega",
+        "tolerisati"
+      ],
+      "literal_ru": "посмотреть кому-либо сквозь пальцы",
+      "register": "razgovorno do publicistički",
+      "examples": [
+        {
+          "serbian_latin": "UEFA je progledala Englezima kroz prste.",
+          "russian": "УЕФА закрыла глаза на проступок англичан.",
+          "source": "Telegraf, 2024"
+        },
+        {
+          "serbian_latin": "Od 2027. više neće biti „gledanja kroz prste“.",
+          "russian": "С 2027 года поблажек больше не будет.",
+          "source": "Bizportal, 2026"
+        }
+      ],
+      "note": "Адресат ставится в дательном падеже: progledati učeniku, vozaču, klubu kroz prste. Несовершенный вариант gledati kroz prste обозначает регулярную снисходительность.",
+      "keyword": "prsti"
     },
     {
       "headword_latin": "Prosto ko pasulj",
@@ -4556,6 +4691,33 @@
       ],
       "note": "Выражение означает не просто «поздно по времени», а конкретная возможность уже была и исчезла. Фразеологические исследования описывают его именно как образ пропущенного шанса; формула широко представлена и в региональных вариантах. Красочная история о конкретной старушке, торговавшей пирожными, встречается в популярной литературе, но её происхождение надёжно не подтверждено, поэтому принимать её как этимологический факт не следует.",
       "keyword": "prošla baba s kolačima"
+    },
+    {
+      "headword_latin": "Psovati kao kočijaš",
+      "type": "poređenje",
+      "definition_ru": "ругаться как сапожник; постоянно и очень грубо материться",
+      "synonyms_sr": [
+        "sočno psovati",
+        "psovati bez prestanka",
+        "imati pogan jezik",
+        "psovati na sav glas"
+      ],
+      "literal_ru": "ругаться как кучер",
+      "register": "razgovorno, ekspresivno, neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Psuje kao kočijaš.",
+          "russian": "Она ругается как сапожник.",
+          "source": "Blic, 2026"
+        },
+        {
+          "serbian_latin": "Psovao kao kočijaš: pojavio se novi snimak hapšenja.",
+          "russian": "Он ругался как сапожник: появилась новая запись задержания.",
+          "source": "Dnevno, 2025"
+        }
+      ],
+      "note": "Сравнение связано со старым представлением о кучерах как о мастерах громкой и изобретательной брани. В русском функциональном переводе естественнее «ругаться как сапожник».",
+      "keyword": "kočijaš"
     },
     {
       "headword_latin": "Radio Mileva",
@@ -4678,6 +4840,60 @@
       ],
       "note": "Форма rasturam se od posla действительно засвидетельствована, но она менее устойчива, чем ubijam se od posla или raspadam se od posla. Полезно различать оттенки: rasturam se od posla — «вкалываю изо всех сил», тогда как raspadam se od posla фокусируется уже на результате — «я от работы совершенно вымотан». На форумах носители прямо объясняют raspadam se od posla как состояние усталости из-за чрезмерной работы.",
       "keyword": "rasturati se od posla"
+    },
+    {
+      "headword_latin": "Ravan / ravna kao daska",
+      "type": "poređenje",
+      "definition_ru": "совершенно плоский; плоская как доска",
+      "synonyms_sr": [
+        "potpuno ravan",
+        "pljosnat",
+        "bez oblina",
+        "ravan kao ploča"
+      ],
+      "literal_ru": "ровный как доска",
+      "register": "razgovorno, ekspresivno; o izgledu može biti uvredljivo",
+      "examples": [
+        {
+          "serbian_latin": "Bila sam ravna kao daska.",
+          "russian": "Я была плоской как доска.",
+          "source": "Blic, 2025"
+        },
+        {
+          "serbian_latin": "Imaćete stomak ravan kao daska!",
+          "russian": "У вас будет совершенно плоский живот!",
+          "source": "Stil, 2019"
+        }
+      ],
+      "note": "Употребляется о поверхности, животе или фигуре. Применительно к женской груди сравнение обычно имеет насмешливый или самокритичный оттенок.",
+      "keyword": "daska"
+    },
+    {
+      "headword_latin": "Rođen / rođena sa zlatnom kašikom",
+      "type": "frazeologizam",
+      "definition_ru": "родиться в богатой и привилегированной семье",
+      "synonyms_sr": [
+        "roditi se u bogatoj porodici",
+        "biti privilegovan od rođenja",
+        "sve dobiti na gotovo",
+        "odrastati u izobilju"
+      ],
+      "literal_ru": "родиться с золотой ложкой",
+      "register": "razgovorno do publicistički, često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Video koji bi mogao da se nazove „Rođen sa zlatnom kašikom“, a koji je objavljen na profilu European kid privukao je veliko interesovanje na Tiktoku.",
+          "russian": "Видео, которое можно было бы назвать «Рождённый с золотой ложкой», вызвало большой интерес в TikTok.",
+          "source": "Kurir, 2023"
+        },
+        {
+          "serbian_latin": "Rođeni su sa zlatnom kašikom, slavno poreklo im otvara sva vrata.",
+          "russian": "Они родились с золотой ложкой: знаменитое происхождение открывает им все двери.",
+          "source": "Kurir / Naslovi.net, 2026"
+        }
+      ],
+      "note": "В подтверждённых сербских примерах употребляется форма sa zlatnom kašikom. Сербское слово — kašika; хорватское žlica в заголовок не включается.",
+      "keyword": "zlatna kašika"
     },
     {
       "headword_latin": "Sastavljati kraj s krajem",
@@ -4926,6 +5142,33 @@
       ],
       "note": "Образ основан на неподвижности тяжёлого бревна; словарно фиксируются spavati / zaspati kao klada, а также kao top, kao zaklan. Русское «спать как сурок» вполне подходит, но сербский образ ближе к английскому sleep like a log и русскому «спать как убитый».",
       "keyword": "spavati kao klada"
+    },
+    {
+      "headword_latin": "Spavati snom pravednika",
+      "type": "glagolski frazem",
+      "definition_ru": "спать сном праведника; спать спокойно и крепко",
+      "synonyms_sr": [
+        "spavati mirno",
+        "spavati spokojno",
+        "spavati kao beba",
+        "spavati kao top"
+      ],
+      "literal_ru": "спать сном праведника",
+      "register": "razgovorno, ekspresivno; ponekad ironično",
+      "examples": [
+        {
+          "serbian_latin": "Posle ove metode spava se „snom pravednika“.",
+          "russian": "После этого метода спишь сном праведника.",
+          "source": "Nova, 2025"
+        },
+        {
+          "serbian_latin": "Kada te ništa ne muči, lepo spavaš, što se kaže, snom pravednika.",
+          "russian": "Когда тебя ничто не беспокоит, ты спишь спокойно — сном праведника.",
+          "source": "Vukajlija, 2014"
+        }
+      ],
+      "note": "Выражение может подразумевать чистую совесть, но часто обозначает просто очень спокойный сон. Иронически говорится и о человеке, которого не тревожат последствия собственных поступков.",
+      "keyword": "pravednik"
     },
     {
       "headword_latin": "Spiskati",
@@ -5425,6 +5668,33 @@
       ],
       "note": "Сербское выражение практически идеально совпадает с русским «гора родила мышь», но в сербской публицистике употребляется чрезвычайно свободно и часто как готовый итоговый комментарий: Tresla se gora, rodio se miš. Это не обязательно означает полный провал: результат может просто оказаться несоразмерно мал по сравнению с шумом, ожиданиями и обещаниями. Выражение обычно называют narodna umotvorina или narodna poslovica; частые политические переделки показывают его высокую узнаваемость.",
       "keyword": "tresla se gora rodio se miš"
+    },
+    {
+      "headword_latin": "Tući nekoga kao vola u kupusu",
+      "type": "poređenje",
+      "definition_ru": "жестоко избивать; избивать до полусмерти",
+      "synonyms_sr": [
+        "prebiti nekoga",
+        "istući do krvi",
+        "namlatiti",
+        "prebiti na mrtvo"
+      ],
+      "literal_ru": "бить кого-либо как вола в капусте",
+      "register": "grubo, razgovorno, preteće; ponekad šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Tukle su ga kao vola u kupusu!",
+          "russian": "Они избили его до полусмерти!",
+          "source": "Telegraf, 2026"
+        },
+        {
+          "serbian_latin": "Pre 100 godina verovatno biste mu zapretili da ćete ga ubiti „k’o vola u kupusu“.",
+          "russian": "Сто лет назад ему, вероятно, пригрозили бы избить его как вола в капусте.",
+          "source": "Espreso, 2022"
+        }
+      ],
+      "note": "Образ связывают с волом, забравшимся в капусту и уничтожающим посадки. В источниках встречаются глаголы tući, prebiti и ubiti, а также сокращённое k’o vola u kupusu.",
+      "keyword": "vo; kupus"
     },
     {
       "headword_latin": "U naponu snage",
