@@ -4203,6 +4203,39 @@
       "keyword": "piti kao smuk"
     },
     {
+      "headword_latin": "Plivati protiv struje",
+      "type": "glagolski frazem",
+      "definition_ru": "идти против течения; противостоять большинству, господствующим взглядам или общепринятым тенденциям",
+      "synonyms_sr": [
+        "ići protiv struje",
+        "suprotstavljati se većini",
+        "ne povoditi se za drugima",
+        "ići svojim putem",
+        "opirati se vladajućem mišljenju"
+      ],
+      "literal_ru": "плыть против течения",
+      "register": "neutralno do publicistički, preneseno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Većina ljudi pliva niz struju, a ne protiv struje.",
+          "russian": "Большинство людей плывёт по течению, а не против него.",
+          "source": "Vreme, 2017"
+        },
+        {
+          "serbian_latin": "Ko želi da bude košer, neka pliva protiv struje.",
+          "russian": "Кто хочет оставаться праведным, пусть плывёт против течения.",
+          "source": "Vreme, 2017"
+        },
+        {
+          "serbian_latin": "Alžirski pisac Said Hatibi dobitnik nagrade za arapski roman godine: priznanje za novo delo „Plivati protiv struje“.",
+          "russian": "Алжирский писатель Саид Хатиби получил премию за арабский роман года — за новое произведение «Плыть против течения».",
+          "source": "POSTINFO, 2026"
+        }
+      ],
+      "note": "Выражение характеризует человека, который не приспосабливается к мнению большинства, сопротивляется общественному давлению и отстаивает собственные убеждения. Противоположная конструкция — plivati niz struju: следовать за большинством, подчиняться господствующей моде или идеологии. В статье Vreme метафора последовательно разворачивается через противопоставление людей, которых несёт течение, и тех редких людей, которые способны «победить реку» и изменить ход событий. Это нормативное сербское выражение; пометы hrv. и regionalno не требуются.",
+      "keyword": "struja"
+    },
+    {
       "headword_latin": "Po svoj prilici",
       "type": "izraz",
       "definition_ru": "по всей видимости; судя по всему; по-видимому",
