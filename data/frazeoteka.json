@@ -470,8 +470,7 @@
         {
           "serbian_latin": "Dan uživo: Između dve vatre.",
           "russian": "«День в прямом эфире»: между двух огней.",
-          "source": "N1, 2026",
-          "url": "https://n1info.rs/najave-emisija/dan-uzivo-izmedju-dve-vatre/"
+          "source": "N1, 2026"
         },
         {
           "serbian_latin": "Tramp između dve vatre.",
@@ -480,7 +479,7 @@
           "url": "https://www.b92.net/info/svet/215464/tramp-izmedju-dve-vatre/vest"
         }
       ],
-      "note": "Сербская форма — između dve vatre, а не хорватское između dvije vatre. Подчёркивается противостояние двух сторон.",
+      "note": "",
       "keyword": "vatra"
     },
     {
@@ -543,6 +542,34 @@
       "keyword": "mirođija u svakoj čorbi"
     },
     {
+      "headword_latin": "biti na izmaku",
+      "type": "glagolski frazem",
+      "definition_ru": "Быть на исходе; заканчиваться; подходить к концу.",
+      "synonyms_sr": [
+        "biti pri kraju",
+        "privoditi se kraju",
+        "ponestajati"
+      ],
+      "literal_ru": "Быть на исходе.",
+      "register": "neutralno, često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Rezerve su na izmaku i NIS će narednih dana snabdevati samo, takozvane, prioritetne potrošače.",
+          "russian": "Запасы на исходе, и в ближайшие дни NIS будет снабжать только так называемых приоритетных потребителей.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/ekonomija/djilas-ssp-nis-ove-rezerve/"
+        },
+        {
+          "serbian_latin": "Predsednik sumirao nedelju na izmaku.",
+          "russian": "Президент подвёл итоги уходящей недели.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/778959/predsednik-sumirao-nedelju-na-izmaku-zelja-da-zivimo-bolje-i-ostavimo-snazniju-zemlju-mora-da-nas-okuplja"
+        }
+      ],
+      "note": "Izraz se odnosi na zalihe i resurse koji su gotovo iscrpljeni, ali i na vremenski period koji se približava kraju: godina na izmaku, nedelja na izmaku.",
+      "keyword": "izmak"
+    },
+    {
       "headword_latin": "Biti na izmaku snaga",
       "type": "frazeologizam",
       "definition_ru": "быть на пределе сил; выбиться из сил; быть совершенно измотанным",
@@ -578,6 +605,64 @@
       ],
       "note": "Два указанных значения лучше не разделять на самостоятельные: основа одна — запас сил почти исчерпан. В зависимости от контекста это может быть буквальное физическое истощение, тяжёлая болезнь, хроническая перегрузка или эмоциональное выгорание. Поэтому в семейном или рабочем контексте na izmaku smo snaga может означать «мы больше не выдерживаем», а после тяжёлой нагрузки — буквально «мы выбились из сил». Izmak здесь означает «исход, завершение»: ср. na izmaku dana, godine, leta — «на исходе дня, года, лета».",
       "keyword": "na izmaku snaga"
+    },
+    {
+      "headword_latin": "biti na nogama",
+      "type": "glagolski frazem",
+      "definition_ru": "Быть на ногах; подняться; бурно реагировать; быть встревоженным или мобилизованным.",
+      "synonyms_sr": [
+        "ustati",
+        "biti uzbuđen",
+        "biti uznemiren",
+        "biti mobilisan"
+      ],
+      "literal_ru": "Быть на ногах.",
+      "register": "razgovorno i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Cela dvorana u Beču bila je na nogama, a nastup je ispraćen snažnim reakcijama prisutnih.",
+          "russian": "Весь зал в Вене стоял на ногах, а выступление вызвало бурную реакцию зрителей.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/nastup-srbije-na-evroviziji-2026-grupa-lavina-odusevila-sve-u-finalu/60v0f0z"
+        },
+        {
+          "serbian_latin": "Ceo Beograd na nogama, građani u strahu nakon ubistva u centru grada.",
+          "russian": "Весь Белград поднят на ноги: после убийства в центре города жители напуганы.",
+          "source": "Telegraf, 2025",
+          "url": "https://www.telegraf.rs/vesti/hronika/4121935-cuo-sam-6-hitaca-a-onda-ceo-beograd-na-nogama-gradjani-u-strahu-nakon-ubistva-u-centru-grada"
+        }
+      ],
+      "note": "U pozitivnom kontekstu opisuje publiku koja je ustala i oduševljeno reaguje. Konstrukcija ceo grad je na nogama često označava opštu uzbunu, mobilizaciju ili potragu.",
+      "keyword": "noga"
+    },
+    {
+      "headword_latin": "biti na pomolu",
+      "type": "glagolski frazem",
+      "definition_ru": "Намечаться; приближаться; назревать; быть не за горами.",
+      "synonyms_sr": [
+        "nazirati se",
+        "spremati se",
+        "predstojati",
+        "uskoro se dogoditi"
+      ],
+      "literal_ru": "Быть в пределах видимости.",
+      "register": "neutralno, često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Na pomolu gasifikacija vojnih objekata.",
+          "russian": "Намечается газификация военных объектов.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/ekonomija/potpisan-sporazum-o-strateskoj-saradnji-ministarstva-odbrane-i-srbijagasa-na-pomolu-gasifikacija-vojnih-objekata/"
+        },
+        {
+          "serbian_latin": "Na pomolu rekordan transfer u Sloveniji u režiji Celjana.",
+          "russian": "В Словении намечается рекордный трансфер, организованный клубом из Целе.",
+          "source": "Sport Klub, 2026",
+          "url": "https://sportklub.n1info.rs/fudbal/ex-yu-lige/na-pomolu-rekordan-transfer-u-sloveniji-u-reziji-celjana/"
+        }
+      ],
+      "note": "Govori se o događaju čiji su se prvi znaci već pojavili, iako se sam događaj još nije desio. Može se odnositi na pozitivne i negativne događaje.",
+      "keyword": "pomol"
     },
     {
       "headword_latin": "Biti pravi Pera Ždera",
@@ -788,6 +873,35 @@
       "keyword": "biti u bedaku"
     },
     {
+      "headword_latin": "biti u škripcu",
+      "type": "glagolski frazem",
+      "definition_ru": "Оказаться в затруднительном положении; быть зажатым обстоятельствами; испытывать нехватку чего-либо.",
+      "synonyms_sr": [
+        "biti u neprilici",
+        "biti u tesnacu",
+        "naći se u teškoj situaciji",
+        "imati problem"
+      ],
+      "literal_ru": "Быть в тисках.",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Predsednik Srbije Aleksandar Vučić je u škripcu.",
+          "russian": "Президент Сербии Александр Вучич оказался в затруднительном положении.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/politiko-vucic-u-skripcu-ali-njegov-pad-je-jos-na-dugom-stapu/"
+        },
+        {
+          "serbian_latin": "Gospodine Tadiću, u škripcu smo sa vremenom.",
+          "russian": "Господин Тадич, у нас совсем мало времени.",
+          "source": "Vukajlija, 2011",
+          "url": "https://vukajlija.com/u-skripcu-smo-sa-vremenom/512220"
+        }
+      ],
+      "note": "Uzrok teškoće može se uvesti predlogom sa: biti u škripcu sa vremenom, sa novcem ili sa igračima.",
+      "keyword": "škripac"
+    },
+    {
       "headword_latin": "Blenuti kao tele u šarena vrata",
       "type": "frazeologizam",
       "definition_ru": "смотреть как баран на новые ворота; тупо таращиться; смотреть в полном недоумении",
@@ -878,6 +992,34 @@
       ],
       "note": "Русский эквивалент практически идеален, меняются только птицы: сербский vrabac — golub, русский синица — журавль. Пословица не обязательно проповедует трусость или отсутствие амбиций: её основной смысл — не рисковать реальной ценностью ради неопределённой большей выгоды. Современные сербские обсуждения активно спорят с этой народной мудростью, считая её иногда рецептом чрезмерной осторожности; это хороший признак того, что пословица остаётся живой.",
       "keyword": "bolje vrabac u ruci nego golub na grani"
+    },
+    {
+      "headword_latin": "boriti se do poslednje kapi krvi",
+      "type": "glagolski frazem",
+      "definition_ru": "Бороться до последней капли крови; защищать что-либо до конца.",
+      "synonyms_sr": [
+        "boriti se do kraja",
+        "ne odustajati ni po koju cenu",
+        "braniti po svaku cenu"
+      ],
+      "literal_ru": "Бороться до последней капли крови.",
+      "register": "visoko, ekspresivno; često politički i vojno",
+      "examples": [
+        {
+          "serbian_latin": "Spremni smo da branimo domovinu do poslednje kapi krvi.",
+          "russian": "Мы готовы защищать родину до последней капли крови.",
+          "source": "Večernje novosti, 2026",
+          "url": "https://www.novosti.rs/planeta/svet/1563806/kubanski-zvanicnici-odgovorili-trampu-predsednik-kube-spremni-smo-branimo-domovinu-poslednje-kapi-krvi"
+        },
+        {
+          "serbian_latin": "Do poslednje kapi krvi, moćna i otporna iranska nacija suprotstaviće se svakome ko pokuša da odlučuje o našoj sudbini.",
+          "russian": "До последней капли крови могущественный и стойкий иранский народ будет сопротивляться каждому, кто попытается решать его судьбу.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/684533/arakci-za-svakog-naucnika-ili-oficira-koga-izgubimo-postoje-stotine-da-ih-zamene"
+        }
+      ],
+      "note": "Standardna srpska forma glasi do poslednje kapi krvi. Oblik sa zadnje javlja se razgovorno i regionalno, ali se ne preporučuje kao osnovna odrednica.",
+      "keyword": "krv"
     },
     {
       "headword_latin": "Boriti se rukama i nogama",
@@ -1261,6 +1403,35 @@
       "keyword": "dan D"
     },
     {
+      "headword_latin": "dati / dobiti crveni karton",
+      "type": "glagolski frazem",
+      "definition_ru": "Показать или получить красную карточку; отстранить, отвергнуть или положить чему-либо конец.",
+      "synonyms_sr": [
+        "isključiti",
+        "udaljiti",
+        "odbaciti",
+        "reći odlučno ne"
+      ],
+      "literal_ru": "Дать или получить красную карточку.",
+      "register": "sportski; preneseno publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Dijabetes je „dobio” crveni karton.",
+          "russian": "Диабету показали красную карточку.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/scc/clanak/708939/dijabetes-dobio-crveni-karton"
+        },
+        {
+          "serbian_latin": "Živković je zbog tuče i haosa dobio crveni karton.",
+          "russian": "Живкович получил красную карточку из-за драки и возникшего хаоса.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/fudbal/4377949-zivkovic-dao-gol-kakav-ne-daje-cesto-pa-zbog-tuce-i-haosa-dobio-crveni-karton-srbin-ga-smirivao-pa-slavio"
+        }
+      ],
+      "note": "U sportu se izraz upotrebljava doslovno. Preneseno dati crveni karton nekome ili nečemu znači odlučno odbaciti, zaustaviti ili udaljiti.",
+      "keyword": "karton"
+    },
+    {
       "headword_latin": "Dati nekome odrešene ruke",
       "type": "glagolski frazem",
       "definition_ru": "Развязать кому-либо руки; предоставить полную свободу действий и не ограничивать принимаемые решения.",
@@ -1532,6 +1703,34 @@
       "keyword": "dobiti mrvice"
     },
     {
+      "headword_latin": "dočekati raširenih ruku",
+      "type": "glagolski frazem",
+      "definition_ru": "Встретить с распростёртыми объятиями; принять очень радушно.",
+      "synonyms_sr": [
+        "srdačno dočekati",
+        "rado prihvatiti",
+        "dočekati s dobrodošlicom"
+      ],
+      "literal_ru": "Встретить с раскрытыми руками.",
+      "register": "neutralno, ekspresivno pozitivno",
+      "examples": [
+        {
+          "serbian_latin": "Dočekali ste nas raširenih ruku, volimo vas.",
+          "russian": "Вы встретили нас с распростёртыми объятиями, мы вас любим.",
+          "source": "UNA, 2025",
+          "url": "https://una.rs/sport/kosarka/makabi-se-zahvalio-srbiji-docekali-ste-nas-rasirenih-ruku-volimo-vas"
+        },
+        {
+          "serbian_latin": "Srbija je prijateljska zemlja, sve izbeglice dočekuje raširenih ruku.",
+          "russian": "Сербия — дружественная страна, она встречает всех беженцев с распростёртыми объятиями.",
+          "source": "N1, 2022",
+          "url": "https://n1info.rs/vesti/kisic-srbija-prijateljska-zemlja-sve-izbeglice-docekuje-rasirenih-ruku/"
+        }
+      ],
+      "note": "Izraz ne mora označavati doslovan zagrljaj. Najčešće govori o gostoprimstvu, spremnosti da se neko primi ili pozitivnom prihvatanju predloga.",
+      "keyword": "ruka"
+    },
+    {
       "headword_latin": "Doći će cica na kolica",
       "type": "izreka",
       "definition_ru": "ещё придёт твой черёд; ещё придёшь просить; придёт расплата",
@@ -1582,6 +1781,35 @@
         }
       ],
       "note": "Выражение связывают с карточной игрой tablić: туз, появляющийся при десятке, позволяет получить особенно выгодную комбинацию. Наряду с основной формой kec na desetku в сербской прессе встречается вариант kec na deset.",
+      "keyword": "kec; desetka"
+    },
+    {
+      "headword_latin": "doći kao kec na desetku / kao kec na deset",
+      "type": "glagolski frazem",
+      "definition_ru": "Оказаться как нельзя кстати; появиться в самый подходящий момент.",
+      "synonyms_sr": [
+        "doći u pravi čas",
+        "dobro doći",
+        "pojaviti se baš kada treba",
+        "biti kao poručen"
+      ],
+      "literal_ru": "Прийти как туз к десятке.",
+      "register": "razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Izraz „doći kao kec na desetku” koristi se kada se neko ili nešto pojavi u pravom trenutku.",
+          "russian": "Выражение «прийти как туз к десятке» употребляется, когда кто-либо или что-либо появляется в нужный момент.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/drustvo/sta-znaci-i-kako-je-nastao-izraz-doci-kao-kec-na-desetku/"
+        },
+        {
+          "serbian_latin": "Krvavi obračun došao je kao „kec na deset” administraciji EU da se obruši na državu.",
+          "russian": "Кровавое столкновение оказалось для администрации ЕС как нельзя кстати, чтобы обрушиться с нападками на государство.",
+          "source": "Večernje novosti, 2023",
+          "url": "https://www.novosti.rs/vesti/politika/1284984/docekali-beogradu-zaprete-sankcijama-krvavi-obracun-dosao-kao-kec-deset-administraciji-obrusi-drzavu"
+        }
+      ],
+      "note": "U srpskim izvorima potvrđeni su oblici kao kec na desetku i kao kec na deset. Oba označavaju nešto što se pojavilo u naročito pogodnom trenutku.",
       "keyword": "kec; desetka"
     },
     {
@@ -1738,6 +1966,35 @@
       ],
       "note": "Сербский глагол sezati здесь означает «достигать, простираться»: взгляд как бы «дотягивается» до определённой точки. Варианты dokle pogled seže и dokle oko seže равноправны; встречается также dokle ti oko dopire. Русское «насколько хватает глаз» практически полностью передаёт образ. Выражение может переноситься и на абстрактный контекст, но прежде всего связано с видимым пространством.",
       "keyword": "dokle pogled seže"
+    },
+    {
+      "headword_latin": "doliti / dolivati ulje na vatru",
+      "type": "glagolski frazem",
+      "definition_ru": "Подливать масла в огонь; ещё сильнее обострять конфликт или напряжённую ситуацию.",
+      "synonyms_sr": [
+        "pogoršavati situaciju",
+        "raspirivati sukob",
+        "povećavati napetost",
+        "dodatno provocirati"
+      ],
+      "literal_ru": "Долить масла в огонь.",
+      "register": "razgovorno i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Britanija metodično i redovno doliva ulje na vatru.",
+          "russian": "Великобритания методично и регулярно подливает масла в огонь.",
+          "source": "021/BBC na srpskom, 2026",
+          "url": "https://www.021.rs/bbc/bbc/453200/britanija-daje-ukrajini-podatke-o-proizvodnji-raketa-kremlj-porucio-dolivate-ulje-na-vatru"
+        },
+        {
+          "serbian_latin": "Britanija doliva ulje na vatru ukrajinskog sukoba.",
+          "russian": "Великобритания подливает масла в огонь украинского конфликта.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/780562/kremlj-britanija-doliva-ulje-na-vatru-ukrajinskog-sukoba"
+        }
+      ],
+      "note": "Svršeni oblik doliti označava pojedinačno izvršeno dejstvo, a nesvršeni dolivati ponavljano ili trajno pogoršavanje situacije.",
+      "keyword": "ulje; vatra"
     },
     {
       "headword_latin": "Dolivati ulje na vatru",
@@ -6571,6 +6828,34 @@
       ],
       "note": "Значение — неожиданно оказаться в очень выгодном положении, часто без особых собственных усилий. Именно так современное употребление описывает Blic. Популярное объяснение связывает образ с человеком, который рубил дерево и неожиданно попал топором в дупло с мёдом диких пчёл; однако надёжно доказать конкретный исторический эпизод невозможно, поэтому это лучше считать традиционным объяснением образа, а не установленной этимологией.",
       "keyword": "sekira u med"
+    },
+    {
+      "headword_latin": "upisati / biti upisan zlatnim slovima",
+      "type": "glagolski frazem",
+      "definition_ru": "Вписать или быть вписанным золотыми буквами; навсегда занять почётное место в истории.",
+      "synonyms_sr": [
+        "ostati zauvek zapamćen",
+        "ući u istoriju",
+        "ostaviti neizbrisiv trag"
+      ],
+      "literal_ru": "Вписать золотыми буквами.",
+      "register": "svečano, publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Karađorđe i njegovi ustanici upisali su Mišar zlatnim slovima u istorijsko sećanje srpskog naroda.",
+          "russian": "Карагеоргий и его повстанцы золотыми буквами вписали Мишар в историческую память сербского народа.",
+          "source": "Dnevnik, 2026",
+          "url": "https://www.dnevnik.rs/vesti/politika/misar-je-upisan-zlatnim-slovima-obelezeno-220-godina-od-velike-pobede-karadjordjevih-ustanika-2026-08-13"
+        },
+        {
+          "serbian_latin": "Karađorđevi ustanici su zlatnim slovima upisali ovu pobedu u našu istoriju.",
+          "russian": "Повстанцы Карагеоргия золотыми буквами вписали эту победу в нашу историю.",
+          "source": "NS Reporter, 2026",
+          "url": "https://nsreporter.rs/2026/08/djurdjevic-stamenkovski-na-misaru-karadjordjevi-ustanici-su-zlatnim-slovima-upisali-ovu-pobedu-u-nasu-istoriju/"
+        }
+      ],
+      "note": "Upotrebljavaju se aktivna konstrukcija upisati nešto zlatnim slovima i pasivna biti upisan zlatnim slovima.",
+      "keyword": "zlato; slovo"
     },
     {
       "headword_latin": "Ustati na levu nogu",
