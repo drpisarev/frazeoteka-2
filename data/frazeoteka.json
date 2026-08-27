@@ -2889,6 +2889,34 @@
       "keyword": "posla preko glave"
     },
     {
+      "headword_latin": "imati pune ruke posla",
+      "type": "glagolski frazem",
+      "definition_ru": "Иметь дел по горло; быть по уши в работе.",
+      "synonyms_sr": [
+        "imati mnogo posla",
+        "biti zatrpan poslom",
+        "ne znati gde udariti od posla"
+      ],
+      "literal_ru": "Иметь полные руки работы.",
+      "register": "razgovorno, neutralno-ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Pune ruke posla za Hitnu pomoć u Kragujevcu.",
+          "russian": "У службы скорой помощи в Крагуеваце работы по горло.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/vesti/srbija/4325701-pune-ruke-posla-za-hitnu-pomoc-u-kragujevcu-tokom-noci-se-najcesce-javlja-ovaj-zdravstveni-problem"
+        },
+        {
+          "serbian_latin": "Danju temperatura i stres, noću padali u nesvest: pune ruke posla za lekare u Kragujevcu.",
+          "russian": "Днём — температура и стресс, ночью — обмороки: у врачей в Крагуеваце дел по горло.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/drustvo/danju-temperatura-i-stres-nocu-padali-u-nesvest-pune-ruke-posla-za-lekare-u/316y97s"
+        }
+      ],
+      "note": "Izraz označava veliku količinu posla kojim je osoba aktivno zauzeta. Ne mora se odnositi na fizički rad.",
+      "keyword": "ruke; posao"
+    },
+    {
       "headword_latin": "Imati tremu",
       "type": "kolokacija",
       "definition_ru": "волноваться; нервничать перед выступлением, экзаменом или встречей; испытывать мандраж",
@@ -2982,6 +3010,29 @@
       ],
       "note": "Здесь ispeci — императив от ispeći «испечь»: мысль метафорически надо сначала «довести до готовности», а уже потом выпускать наружу. Пословица особенно удачно противопоставляется Što na um, to na drum: первая требует речевого самоконтроля, вторая описывает его отсутствие. Выражение получило дополнительную культурную узнаваемость благодаря книге академика Ивана Клайна Ispeci pa reci, одной из его популярных книг о языке.",
       "keyword": "ispeci pa reci"
+    },
+    {
+      "headword_latin": "isplivati na površinu",
+      "type": "glagolski frazem",
+      "definition_ru": "Всплыть наружу; обнаружиться; стать известным после периода сокрытия.",
+      "synonyms_sr": [
+        "izaći na videlo",
+        "otkriti se",
+        "postati poznato",
+        "razotkriti se"
+      ],
+      "literal_ru": "Выплыть на поверхность.",
+      "register": "neutralno, često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Sablasne tajne Dunava stare decenijama isplivale su na površinu.",
+          "russian": "Мрачные тайны Дуная, скрывавшиеся десятилетиями, всплыли наружу.",
+          "source": "Espreso, 2026",
+          "url": "https://www.espreso.co.rs/svet/planeta/1613451/jezive-tajne-dunava-isplivale-na-povrsinu"
+        }
+      ],
+      "note": "Upotrebljava se doslovno i preneseno. U prenesenom značenju subjekat je često tajna, problem, sukob, afera ili informacija.",
+      "keyword": "površina"
     },
     {
       "headword_latin": "Isto sranje",
@@ -3098,36 +3149,114 @@
       "keyword": "izigravati žrtvu"
     },
     {
-      "headword_latin": "Izvući deblji kraj",
-      "type": "frazeologizam",
-      "definition_ru": "оказаться в проигрыше; пострадать сильнее; понести основные потери; достаться хуже всех",
+      "headword_latin": "izvući deblji kraj",
+      "type": "glagolski frazem",
+      "definition_ru": "Пострадать; оказаться проигравшей стороной; остаться в худшем положении.",
       "synonyms_sr": [
-        "gore proći",
+        "loše proći",
+        "nadrljati",
         "nastradati",
-        "pretrpeti veću štetu",
-        "izvući lošiji kraj"
+        "platiti ceh"
       ],
-      "literal_ru": "вытянуть более толстый конец",
-      "register": "frazeologizam; subjekat je onaj ko je pretrpeo veće posledice ili prošao lošije",
+      "literal_ru": "Вытянуть толстый конец.",
+      "register": "razgovorno",
       "examples": [
         {
-          "serbian_latin": "Albanija je izvukla deblji kraj, a Srbija prošla poprilično glatko.",
-          "russian": "Албания оказалась в значительно худшем положении, а Сербия отделалась сравнительно легко.",
-          "source": "RTS, 2014"
+          "serbian_latin": "Naš pevač je zbog devojke izvukao deblji kraj.",
+          "russian": "Наш певец пострадал из-за девушки.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/4317641-imas-24h-da-nas-pevac-zbog-devojke-izvukao-deblji-kraj-pretnje-dobio-na-ceduljici-ovako-ga-nasamarili"
         },
         {
-          "serbian_latin": "Hajde u ovoj najvećoj krizi da ne izvučemo deblji kraj.",
-          "russian": "Давайте постараемся в этом крупнейшем кризисе не оказаться главными пострадавшими.",
-          "source": "RTS, 2022"
-        },
-        {
-          "serbian_latin": "Ukoliko na moru izvučete deblji kraj u susretu sa ježom ili meduzom...",
-          "russian": "Если на море вам не повезёт при встрече с морским ежом или медузой...",
-          "source": "RTS, 2022"
+          "serbian_latin": "Univerziteti, predsednik, Vlada i igra živaca: ko će izvući deblji kraj?",
+          "russian": "Университеты, президент, правительство и игра нервов: кто в итоге пострадает?",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/na-raskrsnici-univerziteti-predsednik-vlada-i-igra-zivaca-ko-ce-izvuci-deblji-kraj/"
         }
       ],
-      "note": "Izvući deblji kraj не означает просто «потерять». Это сравнительная модель: из нескольких сторон одной достались худшие последствия. Поэтому хорошие русские переводы — «пострадать больше всех», «оказаться крайним», «оказаться в проигрыше». Фразеологизм применим к драке, суду, экономическому конфликту, политике и даже бытовой неприятности.",
-      "keyword": "izvući deblji kraj"
+      "note": "U srpskoj jezičkoj praksi izraz pretežno ima negativno značenje: loše proći ili nastradati.",
+      "keyword": "kraj"
+    },
+    {
+      "headword_latin": "izvući živu glavu",
+      "type": "glagolski frazem",
+      "definition_ru": "Остаться в живых; чудом спастись; унести ноги.",
+      "synonyms_sr": [
+        "ostati živ",
+        "jedva se spasti",
+        "sačuvati živu glavu",
+        "izbeći smrt"
+      ],
+      "literal_ru": "Вытащить живую голову.",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Milorad je spasavao životinje, pa jedva izvukao živu glavu kod Žabljaka.",
+          "russian": "Милорад спасал животных и сам едва остался жив под Жабляком.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/drustvo/milorad-spasavao-zivotinje-pa-jedva-izvukao-zivu-glavu-kod-zabljaka/g2cnh5d"
+        },
+        {
+          "serbian_latin": "Naša pevačica jedva izvukla živu glavu: ujeo je piton od 40 kilograma.",
+          "russian": "Наша певица едва осталась в живых: её укусил сорокакилограммовый питон.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/vip/vip/nasa-pevacica-jedva-izvukla-zivu-glavu-ujeo-je-piton-od-40-kg-sada-se-oglasila-svi-su-mislili-da-je-ujed-bio-smrtonosan-2026-07-29"
+        }
+      ],
+      "note": "Označava spasavanje od smrtne ili veoma ozbiljne opasnosti. Može se upotrebiti i hiperbolički.",
+      "keyword": "glava"
+    },
+    {
+      "headword_latin": "jak kao bik",
+      "type": "poređenje",
+      "definition_ru": "Сильный как бык; чрезвычайно крепкий и физически сильный.",
+      "synonyms_sr": [
+        "snažan kao bik",
+        "jak kao stena",
+        "biti veoma snažan",
+        "biti kao od brega odvaljen"
+      ],
+      "literal_ru": "Сильный как бык.",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Jak kao bik.",
+          "russian": "Сильный как бык.",
+          "source": "RTS, 2022; naslov filma",
+          "url": "https://www.rts.rs/lat/tv/rts2/5036582/jak-kao-bik.html"
+        }
+      ],
+      "note": "Najčešće opisuje fizički veoma snažnog i zdravog muškarca. Pronađeni primer na sajtu RTS-a jeste naslov filma.",
+      "keyword": "bik"
+    },
+    {
+      "headword_latin": "jasno kao dan",
+      "type": "poređenje",
+      "definition_ru": "Ясно как день; совершенно очевидно; не подлежит сомнению.",
+      "synonyms_sr": [
+        "potpuno jasno",
+        "očigledno",
+        "nema nikakve sumnje",
+        "jasno kao sunce"
+      ],
+      "literal_ru": "Ясно как день.",
+      "register": "razgovorno i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Jasno kao dan zašto mešamo babe i žabe.",
+          "russian": "Ясно как день, почему мы смешиваем несопоставимые вещи.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/vesti/drustvo/3568632/jasno-kao-dan-zasto-mesamo-babe-i-zabe.html"
+        },
+        {
+          "serbian_latin": "Jasno kao dan: šta pokazuju naslovi u „Danasu“.",
+          "russian": "Ясно как день: что показывают заголовки в газете «Данас».",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/705375/jasno-kao-dan-sta-pokazuju-naslovi-u-danasu"
+        }
+      ],
+      "note": "Može stajati samostalno ili uz zavisnu rečenicu: jasno je kao dan da..., jasno kao dan zašto...",
+      "keyword": "dan"
     },
     {
       "headword_latin": "Jedi govna!",
@@ -3194,6 +3323,29 @@
       "keyword": "jedva gledati od umora"
     },
     {
+      "headword_latin": "jesti kao lud",
+      "type": "poređenje",
+      "definition_ru": "Есть как не в себя; уплетать с огромным аппетитом; есть в больших количествах.",
+      "synonyms_sr": [
+        "jesti kao provaljen",
+        "jesti bez mere",
+        "halapljivo jesti",
+        "mnogo jesti"
+      ],
+      "literal_ru": "Есть как сумасшедший.",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Srbi je jedu kao ludi, a nisu svesni kako je dobila ime.",
+          "russian": "Сербы едят её как не в себя, но не знают, откуда взялось её название.",
+          "source": "Espreso, 2022",
+          "url": "https://www.espreso.co.rs/lifestyle/zivot/997913/zasto-se-sopska-salata-tako-zove"
+        }
+      ],
+      "note": "Oblik se prilagođava rodu i broju: jede kao lud, jede kao luda, jedu kao ludi.",
+      "keyword": "jesti"
+    },
+    {
       "headword_latin": "Kad na vrbi rodi grožđe",
       "type": "frazeologizam",
       "definition_ru": "когда рак на горе свистнет; после дождичка в четверг; никогда",
@@ -3223,6 +3375,35 @@
       ],
       "note": "Это не обещание далёкого будущего, а выразительное «никогда»: ива не плодоносит виноградом. В живой речи встречается шуточная рифмованная переделка kad na vrbi zasvrbi, особенно в интернете. Надёжно установленной конкретной истории происхождения выражения нет; рассказы о человеке, будто бы пытавшемся вырастить виноград на иве, следует воспринимать как поздний фольклор, а не доказанную этимологию.",
       "keyword": "kad na vrbi rodi grožđe"
+    },
+    {
+      "headword_latin": "kao grom iz vedra neba",
+      "type": "poređenje",
+      "definition_ru": "Как гром среди ясного неба; совершенно неожиданно.",
+      "synonyms_sr": [
+        "potpuno neočekivano",
+        "iznenada",
+        "bez ikakve najave",
+        "kao bomba"
+      ],
+      "literal_ru": "Как гром из ясного неба.",
+      "register": "neutralno-ekspresivno, često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Sekund do kraja, peterci su na pomolu, ali onda, kao grom iz vedra neba, neverovatan gol Denisa Šefika.",
+          "russian": "До конца оставалась секунда, приближалась серия пенальти, но тут, словно гром среди ясного неба, последовал невероятный гол Дениса Шефика.",
+          "source": "Sportal, 2024",
+          "url": "https://sportal.blic.rs/prica/jedini-grobar-kom-su-delije-skandirale-ovo-je-prica-o-golu-s-celog-terena-koji-je-promenio-istoriju-o-njemu-se-pricalo-i-u-engleskoj-2024040809511003306"
+        },
+        {
+          "serbian_latin": "Grom iz vedra neba! Nemanja Nedović ima ugovor sa Zvezdom za narednu sezonu.",
+          "russian": "Гром среди ясного неба! У Неманьи Недовича есть контракт со «Звездой» на следующий сезон.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/kosarka/4350634-grom-iz-vedra-neba-nemanja-nedovic-ima-ugovor-sa-zvezdom-za-narednu-sezonu"
+        }
+      ],
+      "note": "Javljaju se puna forma kao grom iz vedra neba i skraćena naslovna forma grom iz vedra neba.",
+      "keyword": "grom"
     },
     {
       "headword_latin": "Kao kec na deset",
@@ -3432,6 +3613,35 @@
       "keyword": "kaži dragička"
     },
     {
+      "headword_latin": "kipeti od besa",
+      "type": "glagolski frazem",
+      "definition_ru": "Кипеть от гнева; быть вне себя от ярости.",
+      "synonyms_sr": [
+        "pucati od besa",
+        "biti van sebe od besa",
+        "besneti",
+        "biti strašno ljut"
+      ],
+      "literal_ru": "Кипеть от гнева.",
+      "register": "ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Dua Lipa tvrdi da je leskovačka pljeskavica kosovski sendvič: Srbi kipte od besa.",
+          "russian": "Дуа Липа утверждает, что лесковацкая плескавица — косовский сэндвич: сербы кипят от гнева.",
+          "source": "Žena.rs, 2026",
+          "url": "https://zena.blic.rs/puls-poznatih/dua-lipa-tvrdi-da-je-leskovacka-pljeskavica-kosovski-sendvic-srbi-kipte-od-besa/yx1sheg"
+        },
+        {
+          "serbian_latin": "Aleksandra Mladenović kipti od besa i preti: „Ovo je poslednje javno upozorenje“.",
+          "russian": "Александра Младенович кипит от гнева и угрожает: «Это последнее публичное предупреждение».",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/aleksandra-mladenovic-kipti-od-besa-preti-ovo-je-poslednje-javno-upozorenje/qmfer7m"
+        }
+      ],
+      "note": "Glagol se menja kao kipeti: kipim, kipiš, kipi; prošlo vreme: kipteo ili kiptela je od besa.",
+      "keyword": "bes"
+    },
+    {
       "headword_latin": "Knedla mi stoji u grlu",
       "type": "frazeologizam",
       "definition_ru": "у меня ком в горле; ком стоит в горле",
@@ -3521,6 +3731,29 @@
       ],
       "note": "Rani здесь связано с rano «рано» и означает «рано встаёт / рано начинает», а не с raniti nekoga «ранить кого-то». Русская пословица с Богом функционально почти полностью совпадает. Формула остаётся настолько узнаваемой, что СМИ свободно пародируют её, например противопоставляя «две удачи» сонливости после слишком раннего подъёма.",
       "keyword": "ko rano rani dve sreće grabi"
+    },
+    {
+      "headword_latin": "kola su krenula nizbrdo",
+      "type": "rečenični frazem",
+      "definition_ru": "Дела пошли под откос; положение начало стремительно ухудшаться.",
+      "synonyms_sr": [
+        "stvari su krenule po zlu",
+        "sve je počelo da propada",
+        "situacija se pogoršala",
+        "počeo je sunovrat"
+      ],
+      "literal_ru": "Повозка покатилась под гору.",
+      "register": "razgovorno, slikovito",
+      "examples": [
+        {
+          "serbian_latin": "Od tog trenutka kola su krenula niz brdo.",
+          "russian": "С этого момента всё пошло под откос.",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/blato-na-obrazu-srbije-i-dan-kada-su-kola-krenula-niz-brdo-osam-godina-od-rusenja-u-savamali/"
+        }
+      ],
+      "note": "Rečnički oblik priloga je nizbrdo. U navedenom izvoru sačuvano je pisanje niz brdo. Izraz označava početak dužeg perioda propadanja ili pogoršavanja.",
+      "keyword": "kola; nizbrdo"
     },
     {
       "headword_latin": "Koštati kao Svetog Petra kajgana",
