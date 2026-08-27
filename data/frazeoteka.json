@@ -370,6 +370,33 @@
       "keyword": "biraj ago što je tebi drago"
     },
     {
+      "headword_latin": "Biti između čekića i nakovnja",
+      "type": "glagolsko-imenski frazem",
+      "definition_ru": "Быть между молотом и наковальней; оказаться под опасным давлением с двух сторон.",
+      "synonyms_sr": [
+        "biti između dve vatre",
+        "biti pritisnut sa dve strane",
+        "naći se u teškom položaju",
+        "nemati dobar izlaz"
+      ],
+      "literal_ru": "Быть между молотом и наковальней.",
+      "register": "neutralno; ekspresivno; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Veliki broj firmi između čekića i nakovnja: Novi front u ratu trgovaca i države.",
+          "russian": "Множество компаний оказалось между молотом и наковальней: открылся новый фронт в противостоянии торговых сетей и государства.",
+          "source": "NIN, 2026"
+        },
+        {
+          "serbian_latin": "Između čekića i nakovnja: Šta nas čeka ako Amerikanci ne produže licencu NIS-u posle 28. avgusta?",
+          "russian": "Между молотом и наковальней: что нас ждёт, если американцы не продлят лицензию NIS после 28 августа?",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Выражение предполагает столкновение двух сил или требований, каждое из которых угрожает говорящему либо ограничивает свободу выбора. Близкое biti između dve vatre сильнее подчёркивает конфликт двух сторон.",
+      "keyword": "čekić; nakovanj"
+    },
+    {
       "headword_latin": "Biti kao so na ranu",
       "type": "poređenje",
       "definition_ru": "Быть как соль на рану; дополнительно усиливать уже существующую боль, обиду или тяжёлое положение.",
@@ -613,6 +640,33 @@
       ],
       "note": "Из трёх близких выражений это особенно хорошо передаёт человека, который на всё имеет ответ и считает нужным вмешаться или высказать своё единственно правильное мнение. Не путать с svaki lonac nađe svoj poklopac — это уже «каждому найдётся пара». В современном интернете svakom loncu poklopac по-прежнему активно используется именно о навязчивом комментаторе-всезнайке.",
       "keyword": "svakom loncu poklopac"
+    },
+    {
+      "headword_latin": "Biti trn u oku",
+      "type": "glagolsko-imenski frazem",
+      "definition_ru": "Быть бельмом на глазу; вызывать сильное раздражение, неприязнь или враждебность.",
+      "synonyms_sr": [
+        "smetati nekome",
+        "biti stalna smetnja",
+        "biti predmet netrpeljivosti",
+        "ići nekome na živce"
+      ],
+      "literal_ru": "Быть шипом в глазу.",
+      "register": "razgovorno; publicistički; ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Trn u oku bi mogao da bude svaki investitor čiji biznis plan nije po volji vlasti.",
+          "russian": "Бельмом на глазу может стать любой инвестор, чей бизнес-план не устраивает власть.",
+          "source": "N1, 2023"
+        },
+        {
+          "serbian_latin": "Zastave Hamasa praznik za oči, srpske zastave — trn u oku.",
+          "russian": "Флаги ХАМАС — услада для глаз, а сербские флаги — бельмо на глазу.",
+          "source": "Politika, 2025"
+        }
+      ],
+      "note": "Тот, кому что-либо мешает, может обозначаться дательным падежом — biti nekome trn u oku — или определением при слове oko: trn u oku vlastima, režimu, konkurenciji.",
+      "keyword": "trn; oko"
     },
     {
       "headword_latin": "Biti u bedaku",
@@ -1120,6 +1174,33 @@
       "keyword": "dan D"
     },
     {
+      "headword_latin": "Dati nekome odrešene ruke",
+      "type": "glagolski frazem",
+      "definition_ru": "Развязать кому-либо руки; предоставить полную свободу действий и не ограничивать принимаемые решения.",
+      "synonyms_sr": [
+        "dati nekome slobodu delovanja",
+        "pustiti nekoga da radi šta želi",
+        "dati puna ovlašćenja",
+        "ne ograničavati nekoga"
+      ],
+      "literal_ru": "Дать кому-либо развязанные руки.",
+      "register": "neutralno; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "EU mora da preispita politiku kojom Vučiću daje odrešene ruke.",
+          "russian": "ЕС должен пересмотреть политику, которая развязывает Вучичу руки.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Duma dala Putinu odrešene ruke da uradi nezamislivo.",
+          "russian": "Дума развязала Путину руки, позволив ему сделать нечто невообразимое.",
+          "source": "Alo, 2026"
+        }
+      ],
+      "note": "Лицо, получающее свободу действий, ставится в дательном падеже: dati predsedniku, treneru или direktoru odrešene ruke. Форма imati odrešene ruke описывает уже имеющуюся свободу.",
+      "keyword": "ruke"
+    },
+    {
       "headword_latin": "Dati vetar u leđa",
       "type": "glagolski frazem",
       "definition_ru": "Поддержать; придать сил, уверенности или дополнительный импульс; помочь кому-либо двигаться вперёд.",
@@ -1541,6 +1622,33 @@
       ],
       "note": "Сербский глагол sezati здесь означает «достигать, простираться»: взгляд как бы «дотягивается» до определённой точки. Варианты dokle pogled seže и dokle oko seže равноправны; встречается также dokle ti oko dopire. Русское «насколько хватает глаз» практически полностью передаёт образ. Выражение может переноситься и на абстрактный контекст, но прежде всего связано с видимым пространством.",
       "keyword": "dokle pogled seže"
+    },
+    {
+      "headword_latin": "Dolivati ulje na vatru",
+      "type": "glagolski frazem",
+      "definition_ru": "Подливать масла в огонь; ещё сильнее разжигать конфликт или усугублять напряжённую ситуацию.",
+      "synonyms_sr": [
+        "raspirivati sukob",
+        "podsticati tenzije",
+        "pogoršavati situaciju",
+        "dodatno zaoštravati odnose"
+      ],
+      "literal_ru": "Подливать масло в огонь.",
+      "register": "razgovorno; publicistički; ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Britanija metodično i redovno doliva ulje na vatru i planira da spreči bilo kakav napredak u mirovnom procesu.",
+          "russian": "Великобритания методично и регулярно подливает масла в огонь и намеревается помешать любому продвижению мирного процесса.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Vučić doliva ulje na vatru.",
+          "russian": "Вучич подливает масла в огонь.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Несовершенный вид dolivati обозначает продолжающееся или повторяющееся усугубление ситуации. Совершенный вариант doliti ulje na vatru описывает отдельное действие, после которого конфликт обострился.",
+      "keyword": "ulje; vatra"
     },
     {
       "headword_latin": "Došla maca na vratanca",
@@ -2069,6 +2177,34 @@
       ],
       "note": "Выражение нередко обыгрывается буквально в материалах об овцеводстве. В сербской разговорной речи более традиционен вариант imati i jare i pare.",
       "keyword": "ovca; novac"
+    },
+    {
+      "headword_latin": "Imati keca u rukavu",
+      "type": "glagolski frazem",
+      "definition_ru": "Иметь козырь в рукаве; располагать скрытым преимуществом, неожиданным средством или запасным планом.",
+      "synonyms_sr": [
+        "imati adut",
+        "imati tajno oružje",
+        "imati rezervni plan",
+        "čuvati iznenađenje",
+        "imati asa u rukavu"
+      ],
+      "literal_ru": "Иметь туза в рукаве.",
+      "register": "razgovorno; publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Rusi imaju i keca u rukavu.",
+          "russian": "У русских тоже есть козырь в рукаве.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "Hapšenje Popovića i diplomatske karte — ima li Beograd keca u rukavu?",
+          "russian": "Арест Поповича и дипломатические карты: есть ли у Белграда козырь в рукаве?",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Kec — разговорное название туза в карточной игре. Употребляется также вариант imati asa u rukavu. Скрытым козырем может быть информация, ресурс, человек или заранее подготовленный план.",
+      "keyword": "kec; rukav"
     },
     {
       "headword_latin": "Imati nešto u malom prstu",
@@ -4237,6 +4373,33 @@
       "keyword": "pasja vrućina"
     },
     {
+      "headword_latin": "Pasti nekome kamen sa srca",
+      "type": "rečenični frazem",
+      "definition_ru": "У кого-либо отлегло от сердца; кто-либо испытал большое облегчение.",
+      "synonyms_sr": [
+        "laknuti nekome",
+        "odahnuti",
+        "osloboditi se brige",
+        "osetiti veliko olakšanje"
+      ],
+      "literal_ru": "Камень упал у кого-либо с сердца.",
+      "register": "razgovorno; ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Moj prvi utisak je da je ljudima pao kamen sa srca, da im je laknulo, da su prodisali.",
+          "russian": "Моё первое впечатление: у людей отлегло от сердца, им стало легче, они словно снова вздохнули свободно.",
+          "source": "Euronews Srbija, 2025"
+        },
+        {
+          "serbian_latin": "Pao je kamen sa srca!",
+          "russian": "Наконец камень с души свалился!",
+          "source": "Večernje novosti, 2024"
+        }
+      ],
+      "note": "Лицо, испытавшее облегчение, ставится в дательном падеже: pao mi je, pao mu je, pao joj je, ljudima je pao kamen sa srca. В русском идиоматическом переводе обычно говорится о камне с души.",
+      "keyword": "kamen; srce"
+    },
+    {
       "headword_latin": "Pasti s kruške",
       "type": "frazeologizam",
       "definition_ru": "как с луны свалиться; быть совершенно растерянным; ничего не понимать; вести себя глупо или наивно",
@@ -4734,6 +4897,33 @@
       "keyword": "pre roka"
     },
     {
+      "headword_latin": "Preći Rubikon",
+      "type": "glagolski frazem",
+      "definition_ru": "Перейти Рубикон; принять необратимое решение или пересечь черту, после которой возврат к прежнему положению невозможен.",
+      "synonyms_sr": [
+        "preći granicu posle koje nema povratka",
+        "doneti neopozivu odluku",
+        "učiniti presudan korak",
+        "krenuti putem bez povratka"
+      ],
+      "literal_ru": "Перейти реку Рубикон.",
+      "register": "književno; publicistički; ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "…i da se plaši da smo „prešli Rubikon“ i da će biti teško vratiti se u normalnost.",
+          "russian": "…и он опасается, что мы перешли Рубикон и вернуться к нормальному положению будет трудно.",
+          "source": "N1, 2023"
+        },
+        {
+          "serbian_latin": "Srbija manje-više prešla Rubikon.",
+          "russian": "Сербия, можно сказать, перешла Рубикон.",
+          "source": "Kurir, 2013"
+        }
+      ],
+      "note": "Выражение восходит к переходу Юлия Цезаря через реку Рубикон в 49 году до н. э., после которого столкновение с сенатом стало неизбежным. Название реки пишется с прописной буквы.",
+      "keyword": "Rubikon"
+    },
+    {
       "headword_latin": "Prenositi se od usta do usta",
       "type": "glagolski frazem",
       "definition_ru": "передаваться из уст в уста; распространяться посредством личных пересказов",
@@ -4823,6 +5013,34 @@
       ],
       "note": "Это не просто prljav posao «грязная работа». Единственное число может быть буквальным: prljav posao — работа, после которой пачкаешься, либо морально неприятная работа. Устойчивое prljava posla чаще означает сомнительные, нечестные, криминальные или закулисные дела. Форма posla — особая, стилистически закрепившаяся множественная форма, которая живёт именно в сочетаниях вроде nisu čista posla, vražja posla, ženska posla, prljava posla; обычное нейтральное множественное число — poslovi.",
       "keyword": "prljava posla"
+    },
+    {
+      "headword_latin": "Prodavati maglu",
+      "type": "glagolski frazem",
+      "definition_ru": "Пускать пыль в глаза; обманывать пустыми обещаниями; выдавать бессодержательные слова за нечто ценное.",
+      "synonyms_sr": [
+        "obmanjivati",
+        "pričati prazne priče",
+        "zamajavati ljude",
+        "nuditi lažna obećanja",
+        "prodavati praznu priču"
+      ],
+      "literal_ru": "Продавать туман.",
+      "register": "razgovorno; neodobravajuće; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Glamočiću bi bolje bilo da se bavi rešavanjem realnih, ogromnih problema u poljoprivredi umesto što ih „pakuje u lepu mašnu“ i „prodaje maglu“.",
+          "russian": "Гламочичу лучше было бы заниматься решением огромных реальных проблем сельского хозяйства, а не заворачивать их в красивую упаковку и пускать людям пыль в глаза.",
+          "source": "Vreme, 2026"
+        },
+        {
+          "serbian_latin": "Vučićeve priče o neviđenim ekonomskim podvizima Srbije su obična prodaja magle.",
+          "russian": "Рассказы Вучича о невиданных экономических достижениях Сербии — обычное очковтирательство.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Выражение особенно часто относится к политической риторике, рекламе и сомнительным коммерческим предложениям. Существительное prodaja magle обозначает сам процесс обмана, а человека называют prodavac magle.",
+      "keyword": "magla"
     },
     {
       "headword_latin": "Progledati nekome kroz prste",
@@ -5552,6 +5770,34 @@
       ],
       "note": "Выражение не обязательно связано с сомнением или чем-то неприятным. Staviti nekome bubu u uho значит внедрить мысль, идею или подозрение, которое затем начинает занимать человека. Поэтому в одном контексте это «подкинуть идею» (Možda bi mogao da se preseliš...), а в другом — «посеять сомнение» (A jesi li siguran da ti govori istinu?). Полезно также самостоятельное imam bubu u uhu — мысль или подозрение засели в голове и не дают покоя. Baciti bubu u uho передаёт тот же образ, но для активного словаря лучше прежде всего запомнить staviti nekome bubu u uho.",
       "keyword": "buba u uhu"
+    },
+    {
+      "headword_latin": "Staviti tačku na nešto",
+      "type": "glagolski frazem",
+      "definition_ru": "Поставить точку; окончательно завершить или прояснить дело.",
+      "synonyms_sr": [
+        "završiti nešto",
+        "okončati nešto",
+        "privesti kraju",
+        "razrešiti pitanje",
+        "zaključiti priču"
+      ],
+      "literal_ru": "Поставить точку на чём-либо.",
+      "register": "neutralno; često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Predsednik je stavio tačku, iako su studenti nezadovoljni.",
+          "russian": "Президент поставил точку, хотя студенты остались недовольны.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "Idem u tužilaštvo da stavim tačku na farsu o meni na železničkoj stanici.",
+          "russian": "Я иду в прокуратуру, чтобы положить конец фарсу вокруг меня и железнодорожного вокзала.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Дополнение обычно вводится предлогом na: staviti tačku na raspravu, slučaj, priču или spekulacije. Если предмет разговора понятен из контекста, дополнение может опускаться.",
+      "keyword": "tačka"
     },
     {
       "headword_latin": "Sto ljudi, sto ćudi",
@@ -6434,6 +6680,34 @@
       ],
       "note": "Zatucan сильнее, чем staromodan «старомодный» или konzervativan «консервативный». В слове есть оценка интеллектуальной закрытости: человек «застрял» в примитивных или устаревших представлениях и ничего другого принимать не хочет.",
       "keyword": "zatucan"
+    },
+    {
+      "headword_latin": "Zatvarati oči pred nečim",
+      "type": "glagolski frazem",
+      "definition_ru": "Закрывать глаза на что-либо; сознательно не замечать проблему, несправедливость или нарушение.",
+      "synonyms_sr": [
+        "ignorisati nešto",
+        "praviti se da se nešto ne vidi",
+        "prećutkivati problem",
+        "okretati glavu",
+        "žmuriti pred činjenicama"
+      ],
+      "literal_ru": "Закрывать глаза перед чем-либо.",
+      "register": "neutralno; često publicistički; neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Evo zašto ne treba zatvarati oči pred tuđom nesrećom.",
+          "russian": "Вот почему нельзя закрывать глаза на чужую беду.",
+          "source": "Blic, 2025"
+        },
+        {
+          "serbian_latin": "Zašto Brisel zatvara oči pred represijom u Srbiji?",
+          "russian": "Почему Брюссель закрывает глаза на репрессии в Сербии?",
+          "source": "Radio Slobodna Evropa, 2026"
+        }
+      ],
+      "note": "После pred употребляется творительный падеж: pred problemom, nasiljem, nepravdom, činjenicama. Выражение подразумевает, что человек знает о проблеме, но намеренно отказывается реагировать. Совершенный вид — zatvoriti oči pred nečim.",
+      "keyword": "oči"
     },
     {
       "headword_latin": "Zbog sira i vojne muzike",
