@@ -2424,6 +2424,33 @@
       "keyword": "golub"
     },
     {
+      "headword_latin": "Kao riba na suvom",
+      "type": "frazeologizam",
+      "definition_ru": "как рыба, выброшенная на берег; не в своей тарелке; совершенно беспомощно",
+      "synonyms_sr": [
+        "ne snalaziti se",
+        "biti van svog elementa",
+        "osećati se izgubljeno",
+        "biti u neprirodnoj sredini"
+      ],
+      "literal_ru": "как рыба на суше",
+      "register": "razg., ekspresivno; uz glagole osećati se, snalaziti se, živeti",
+      "examples": [
+        {
+          "serbian_latin": "Bolje me ne pitaj ništa… Snašao sam se tamo k’o riba na suvom!",
+          "russian": "Лучше не спрашивай… Я там совершенно не знал, что делать!",
+          "source": "Vukajlija, 2010"
+        },
+        {
+          "serbian_latin": "Živi kao riba na suvom.",
+          "russian": "Он живёт как рыба, выброшенная на берег: мучается и не может приспособиться.",
+          "source": "Rečnikopedija, 2024"
+        }
+      ],
+      "note": "Значение зависит от глагола. Osećati se kao riba na suvom — чувствовать себя не в своей тарелке; snalaziti se kao riba na suvom — совершенно не справляться; živeti kao riba na suvom — находиться в тяжёлых или неподходящих условиях. Антонимичный образ — osećati se kao riba u vodi, то есть чувствовать себя свободно и естественно. Нормативная сербская форма — na suvom.",
+      "keyword": "riba na suvom"
+    },
+    {
       "headword_latin": "Kap koja je prelila čašu",
       "type": "frazeologizam",
       "definition_ru": "последняя капля; то, что переполнило чашу терпения",
@@ -3686,6 +3713,28 @@
       "keyword": "osveta"
     },
     {
+      "headword_latin": "Otegnuti papke",
+      "type": "frazeologizam",
+      "definition_ru": "протянуть ноги; дать дуба; сыграть в ящик; умереть",
+      "synonyms_sr": [
+        "odapeti (sleng)",
+        "riknuti (grub.)",
+        "crći (vrlo grub.)",
+        "umreti"
+      ],
+      "literal_ru": "вытянуть копыта",
+      "register": "grubo, razg., podrugljivo; o smrti čoveka ili životinje",
+      "examples": [
+        {
+          "serbian_latin": "Otegao papke, i to nekom egzotičnom smrću kao što je predoziranje olovom, alkoholom ili venerama.",
+          "russian": "Протянул ноги, причём умер каким-нибудь необычным способом — от передозировки свинцом, алкоголем или «Венерами».",
+          "source": "Vukajlija, 2019"
+        }
+      ],
+      "note": "Papci — копыта парнокопытного животного, поэтому выражение намеренно принижает умершего и передаёт чёрный юмор, презрение или полное отсутствие сочувствия. По отношению к недавно умершему близкому человеку оно прозвучит крайне оскорбительно. Русское «протянуть ноги» обычно несколько мягче. В сербском интернете фраза подтверждается, но ясных современных примеров немного.",
+      "keyword": "papci"
+    },
+    {
       "headword_latin": "Oteto – prokleto",
       "type": "izreka",
       "definition_ru": "награбленное счастья не принесёт; чужое добро впрок не идёт; неправедно нажитое проклято",
@@ -3715,6 +3764,38 @@
       ],
       "note": "Это формула народной морали: то, что получено грабежом, насилием или несправедливостью, в конечном счёте не принесёт добра тому, кто это присвоил. Изречение настолько узнаваемо, что используется как самостоятельный политический лозунг и как основа афоризмов; Danas, например, приводит переделку Oteto, prokleto slatko! Русское «что упало, то пропало» означает совсем другое — что потерянное уже не вернуть.",
       "keyword": "oteto prokleto"
+    },
+    {
+      "headword_latin": "Otići trbuhom za kruhom",
+      "type": "frazeologizam",
+      "definition_ru": "уехать на заработки; покинуть родные места в поисках работы и лучшей жизни",
+      "synonyms_sr": [
+        "otići za poslom",
+        "poći u pečalbu",
+        "potražiti bolji život",
+        "iseliti se iz ekonomskih razloga"
+      ],
+      "literal_ru": "уйти вслед за животом в поисках хлеба",
+      "register": "razg. i publicistički; o ekonomskoj emigraciji",
+      "examples": [
+        {
+          "serbian_latin": "Otišao u Austriju trbuhom za kruhom, pa nagrabusio zbog smeća: jedva izvukao živu glavu.",
+          "russian": "Он уехал в Австрию на заработки, но попал в серьёзные неприятности из-за мусора и едва остался жив.",
+          "source": "Telegraf, 2025"
+        },
+        {
+          "serbian_latin": "Krenuli su „trbuhom za kruhom“, a završili prevareni i poniženi.",
+          "russian": "Они отправились на заработки, но в итоге оказались обманутыми и униженными.",
+          "source": "Telegraf, 2018"
+        },
+        {
+          "serbian_latin": "Trbuhom za kruhom u Srbiju: strancima je izdato više od 50.000 radnih dozvola.",
+          "russian": "В Сербию за заработком: иностранцам выдали более 50 000 разрешений на работу.",
+          "source": "Kurir, 2024"
+        }
+      ],
+      "note": "Хотя общеупотребительное сербское слово — hleb, внутри закрепившегося выражения сохраняется форма trbuhom za kruhom. Сербские издания регулярно используют именно её, поэтому заменять kruhom на hlebom не нужно. Выражение предполагает вынужденный отъезд из-за безработицы или нужды. Otići u pečalbu чаще означает временно отправиться на заработки с намерением вернуться домой.",
+      "keyword": "trbuhom za kruhom"
     },
     {
       "headword_latin": "Pa kud puklo da puklo",
