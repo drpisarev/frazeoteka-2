@@ -137,6 +137,34 @@
       "keyword": "baciti u očaj"
     },
     {
+      "headword_latin": "bacati bisere pred svinje",
+      "type": "biblijski frazem",
+      "definition_ru": "метать бисер перед свиньями; предлагать нечто ценное тому, кто не способен этого понять или оценить",
+      "synonyms_sr": [
+        "uzalud nuditi nešto vredno",
+        "govoriti onome ko ne želi da razume",
+        "davati vredno nezahvalnima"
+      ],
+      "literal_ru": "бросать жемчуг перед свиньями",
+      "register": "biblijski, poslovično, neodobravajuće",
+      "examples": [
+        {
+          "sr": "Ne bacaj bisere pred svinje.",
+          "ru": "Не мечи бисер перед свиньями.",
+          "source": "Mondo, 2025",
+          "url": "https://mondo.rs/Magazin/Stil/a2028310/zasto-kazemo-ne-bacaj-bisere-pred-svinje.html"
+        },
+        {
+          "sr": "Ne bacajte bisere pred svinje.",
+          "ru": "Не мечите бисер перед свиньями.",
+          "source": "Kurir, 2025",
+          "url": "https://www.kurir.rs/zabava/zanimljivosti/9564284/sta-znaci-izreka-ne-bacaj-bisere-pred-svinje"
+        }
+      ],
+      "note": "Выражение восходит к Евангелию от Матфея. Часто употребляется в отрицательной повелительной форме.",
+      "keyword": "biseri; svinje"
+    },
+    {
       "headword_latin": "Bacati nekome mrvice / mrvice sa stola",
       "type": "frazeologizam",
       "definition_ru": "бросать кому-то крохи; давать лишь ничтожную часть; подачками делиться с тем, кому достаётся гораздо меньше положенного",
@@ -167,6 +195,36 @@
       ],
       "note": "Образ строится на неравенстве: один сидит за богатым столом и распоряжается всем, другому достаются лишь mrvice — остатки. Поэтому это не просто «дать мало», а часто унизительно дать ничтожную долю при явном неравенстве ресурсов или власти. Очень характерны политический и социальный контексты: mrvice sa stola vlasti, bogatih, poslodavaca. Danas использует образ именно для малой доли благ, оставленной тем, кто находится в зависимом положении.",
       "keyword": "bacati mrvice"
+    },
+    {
+      "headword_latin": "baciti / bacati ljagu na nekoga, nešto",
+      "type": "glagolski frazem",
+      "definition_ru": "опорочить кого-либо; запятнать репутацию; бросить тень на человека, организацию или профессию",
+      "synonyms_sr": [
+        "okaljati ugled",
+        "oblatiti",
+        "osramotiti",
+        "narušiti reputaciju",
+        "baciti senku na nešto"
+      ],
+      "literal_ru": "бросить пятно или позор на кого-либо",
+      "register": "neutralno ili publicistički, neodobravajuće",
+      "examples": [
+        {
+          "sr": "Ko uprlja značku baca ljagu na sve policajce.",
+          "ru": "Тот, кто позорит полицейский значок, бросает тень на всех полицейских.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/vesti/info/ko-uprlja-znacku-baca-ljagu-na-sve-policajce-dacic-na-dan-policije-u-slucaju-senjak-nema-zasticenih-2026-05-31"
+        },
+        {
+          "sr": "Ne bacati ljagu na poštene policajce.",
+          "ru": "Не следует порочить честных полицейских.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/politika/dacic-uhapsiti-one-koji-brukaju-policiju-ne-bacati-ljagu-na-postene-policajce/rrnygrr"
+        }
+      ],
+      "note": "Baciti ljagu обозначает единичный или завершённый поступок, bacati ljagu — продолжающееся либо повторяющееся очернение.",
+      "keyword": "ljaga"
     },
     {
       "headword_latin": "Baciti ljagu na nekoga / nešto",
@@ -370,31 +428,60 @@
       "keyword": "biraj ago što je tebi drago"
     },
     {
-      "headword_latin": "Biti između čekića i nakovnja",
-      "type": "glagolsko-imenski frazem",
-      "definition_ru": "Быть между молотом и наковальней; оказаться под опасным давлением с двух сторон.",
+      "headword_latin": "biti između čekića i nakovnja",
+      "type": "glagolski frazem",
+      "definition_ru": "находиться между молотом и наковальней; оказаться под давлением двух противоборствующих сторон",
       "synonyms_sr": [
-        "biti između dve vatre",
+        "biti u bezizlaznom položaju",
         "biti pritisnut sa dve strane",
-        "naći se u teškom položaju",
-        "nemati dobar izlaz"
+        "naći se između suprotstavljenih interesa"
       ],
-      "literal_ru": "Быть между молотом и наковальней.",
-      "register": "neutralno; ekspresivno; često publicistički",
+      "literal_ru": "находиться между молотом и наковальней",
+      "register": "neutralno, ekspresivno, često publicistički",
       "examples": [
         {
-          "serbian_latin": "Veliki broj firmi između čekića i nakovnja: Novi front u ratu trgovaca i države.",
-          "russian": "Множество компаний оказалось между молотом и наковальней: открылся новый фронт в противостоянии торговых сетей и государства.",
-          "source": "NIN, 2026"
+          "sr": "Univerzitet, između čekića i nakovnja.",
+          "ru": "Университет между молотом и наковальней.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/najave-emisija/n1-studio-live-u-11h-univerzitet-izmedju-cekica-i-nakovnja/"
         },
         {
-          "serbian_latin": "Između čekića i nakovnja: Šta nas čeka ako Amerikanci ne produže licencu NIS-u posle 28. avgusta?",
-          "russian": "Между молотом и наковальней: что нас ждёт, если американцы не продлят лицензию NIS после 28 августа?",
-          "source": "Danas, 2026"
+          "sr": "Između čekića i nakovnja: Šta nas čeka ako Amerikanci ne produže licencu NIS-u?",
+          "ru": "Между молотом и наковальней: что нас ждёт, если американцы не продлят лицензию NIS?",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/ekonomija/sta-nas-ceka-ako-amerikanci-ne-produze-licencu-nis-u-posle-28-avgusta/"
         }
       ],
-      "note": "Выражение предполагает столкновение двух сил или требований, каждое из которых угрожает говорящему либо ограничивает свободу выбора. Близкое biti između dve vatre сильнее подчёркивает конфликт двух сторон.",
+      "note": "Субъектом может быть человек, учреждение, государство или отрасль. Выражение предполагает давление с двух сторон.",
       "keyword": "čekić; nakovanj"
+    },
+    {
+      "headword_latin": "biti između dve vatre",
+      "type": "glagolski frazem",
+      "definition_ru": "оказаться между двух огней; испытывать давление двух враждующих сторон или несовместимых требований",
+      "synonyms_sr": [
+        "naći se između dve strane",
+        "biti rastrzan između suprotnih zahteva",
+        "trpeti pritisak sa obe strane"
+      ],
+      "literal_ru": "находиться между двумя огнями",
+      "register": "neutralno, ekspresivno, često publicistički",
+      "examples": [
+        {
+          "sr": "Dan uživo: Između dve vatre.",
+          "ru": "«День в прямом эфире»: между двух огней.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/najave-emisija/dan-uzivo-izmedju-dve-vatre/"
+        },
+        {
+          "sr": "Tramp između dve vatre.",
+          "ru": "Трамп между двух огней.",
+          "source": "B92, 2026",
+          "url": "https://www.b92.net/info/svet/215464/tramp-izmedju-dve-vatre/vest"
+        }
+      ],
+      "note": "Сербская форма — između dve vatre, а не хорватское između dvije vatre. Подчёркивается противостояние двух сторон.",
+      "keyword": "vatra"
     },
     {
       "headword_latin": "Biti kao so na ranu",
@@ -1350,6 +1437,35 @@
       ],
       "note": "Выражение не всегда означает настоящую щедрость. Очень часто оно критическое: нечто ценное раздают слишком легко, без меры и разбора. Поэтому deliti pasoše / novac / funkcije / petice šakom i kapom может переводиться как «раздавать направо и налево». Образ гиперболический: дают уже не отдельными единицами, а буквально пригоршнями и целыми «шапками».",
       "keyword": "deliti šakom i kapom"
+    },
+    {
+      "headword_latin": "dizati nekoga u nebesa",
+      "type": "glagolski frazem",
+      "definition_ru": "превозносить кого-либо до небес; чрезмерно восхвалять",
+      "synonyms_sr": [
+        "kovati nekoga u zvezde",
+        "hvaliti na sva usta",
+        "veličati",
+        "preterano hvaliti"
+      ],
+      "literal_ru": "поднимать кого-либо в небеса",
+      "register": "razgovorno, ekspresivno, često publicistički",
+      "examples": [
+        {
+          "sr": "Juga je dizala u nebesa, a sada je svakog dana na groblju deteta.",
+          "ru": "Вся Югославия превозносила её до небес, а теперь она каждый день приходит на могилу сына.",
+          "source": "Ona.rs, 2025",
+          "url": "https://ona.telegraf.rs/ona-price/4228196-pevam-a-vristala-bih-mog-sina-vise-nema-juga-je-dizala-u-nebesa-a-sada-je-svakog-dana-na-groblju-deteta"
+        },
+        {
+          "sr": "Navijači ga dizali u nebesa, ostavio veliki trag u ovom klubu.",
+          "ru": "Болельщики превозносили его до небес: он оставил заметный след в этом клубе.",
+          "source": "Espreso, 2024",
+          "url": "https://www.espreso.co.rs/showbiz/zvezde/1485251/bora-corba-pisao-pesme-za-delije-i-crvenu-zvezdu"
+        }
+      ],
+      "note": "В сербском интернете устойчиво употребляется dizati u nebesa. Форму uzdizati do neba не следует выбирать основной словарной формой.",
+      "keyword": "nebesa"
     },
     {
       "headword_latin": "Do bola",
@@ -6046,6 +6162,34 @@
       "keyword": "što na um to na drum"
     },
     {
+      "headword_latin": "tačan kao švajcarski sat",
+      "type": "poređenje",
+      "definition_ru": "точный как швейцарские часы; исключительно точный, пунктуальный или надёжно работающий",
+      "synonyms_sr": [
+        "tačan u minut",
+        "precizan kao sat",
+        "nepogrešivo tačan"
+      ],
+      "literal_ru": "точный как швейцарские часы",
+      "register": "razgovorno, ekspresivno, pohvalno",
+      "examples": [
+        {
+          "sr": "„Tačan kao švajcarski sat“: Dominacija na svetskom tržištu se nastavlja!",
+          "ru": "«Точный как швейцарские часы»: господство на мировом рынке продолжается!",
+          "source": "Blic, 2023",
+          "url": "https://www.blic.rs/biznis/privreda/evo-zasto-su-svajcarski-satovi-najskuplji-na-svetu/y5gw2b8"
+        },
+        {
+          "sr": "Švajcarci tačni kao sat — preko Alžira do osmine finala Mundijala.",
+          "ru": "Швейцарцы точны как часы: победив Алжир, они вышли в одну восьмую финала чемпионата мира.",
+          "source": "Sputnik Srbija, 2026",
+          "url": "https://lat.sputnikportal.rs/20260703/svajcarska-alzir-sesnaestina-finala-mundijal-sport-fudbal-1200934883.html"
+        }
+      ],
+      "note": "Сербская форма — tačan kao švajcarski sat. Встречается сокращённый вариант tačan kao sat. Хорватская форма točan kao švicarski sat не используется как заголовочная.",
+      "keyword": "sat"
+    },
+    {
       "headword_latin": "Tante za kukuriku",
       "type": "izraz",
       "definition_ru": "неравноценный обмен; непонятно что в обмен на непонятно что; ерунда вместо равноценной отдачи",
@@ -6256,6 +6400,35 @@
       "keyword": "u naponu snage"
     },
     {
+      "headword_latin": "ući / ulaziti u krv",
+      "type": "glagolski frazem",
+      "definition_ru": "войти в привычку; стать второй натурой; глубоко укорениться",
+      "synonyms_sr": [
+        "preći u naviku",
+        "postati deo nekoga",
+        "duboko se ukoreniti",
+        "ne moći bez nečega"
+      ],
+      "literal_ru": "войти в кровь",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "sr": "Darivanje krvi ušlo mu u krv.",
+          "ru": "Донорство крови стало для него второй натурой.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/683548/darivanje-krvi-uslo-mu-u-krv"
+        },
+        {
+          "sr": "Ušlo mi je darivanje krvi u krv.",
+          "ru": "Донорство крови вошло у меня в привычку.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/683548/darivanje-krvi-uslo-mu-u-krv"
+        }
+      ],
+      "note": "Ući обозначает завершившееся изменение, ulaziti — постепенный процесс. Человек обычно выражается дательным падежом: ušlo mi je, ušlo mu je u krv.",
+      "keyword": "krv"
+    },
+    {
       "headword_latin": "Ući u ritam",
       "type": "kolokacija",
       "definition_ru": "войти в ритм; набрать темп; втянуться",
@@ -6457,6 +6630,35 @@
       "keyword": "uzeti s rezervom"
     },
     {
+      "headword_latin": "vući nekoga za nos",
+      "type": "glagolski frazem",
+      "definition_ru": "водить кого-либо за нос; обманывать, морочить или намеренно держать в неведении",
+      "synonyms_sr": [
+        "zavlačiti nekoga",
+        "obmanjivati",
+        "praviti nekoga budalom",
+        "zamajavati"
+      ],
+      "literal_ru": "тянуть кого-либо за нос",
+      "register": "razgovorno, neodobravajuće",
+      "examples": [
+        {
+          "sr": "Vučić nas vuče za nos, izuzetan je političar!",
+          "ru": "Вучич водит нас за нос — он выдающийся политик!",
+          "source": "B92, 2024",
+          "url": "https://www.b92.net/info/politika/55308/vucic-nas-vuce-za-nos-izuzetan-je-politicar-bosanski-islamisti-i-zapadni-analiticari-kipte-od-mrznje/vest"
+        },
+        {
+          "sr": "Vučić vuče Zapad za nos.",
+          "ru": "Вучич водит Запад за нос.",
+          "source": "B92, 2024",
+          "url": "https://www.b92.net/info/politika/55308/vucic-nas-vuce-za-nos-izuzetan-je-politicar-bosanski-islamisti-i-zapadni-analiticari-kipte-od-mrznje/vest"
+        }
+      ],
+      "note": "Объект ставится в винительном падеже: vući mene, nas, javnost или birače za nos.",
+      "keyword": "nos"
+    },
+    {
       "headword_latin": "Vuk dlaku menja, ali ćud nikada",
       "type": "poslovica",
       "definition_ru": "человек может изменить внешность или поведение, но не свой истинный нрав; горбатого могила исправит",
@@ -6518,6 +6720,35 @@
       ],
       "note": "Džabe / džaba — турцизм; обе формы нормативно фиксируются со значениями «бесплатно, почти бесплатно» и «напрасно, без пользы». Поэтому Dobio sam ga džabe — «получил бесплатно», но Džabe sam čekao — «я зря ждал». Za džabe однозначнее склоняет смысл к «бесплатно». Za dž — уже чисто разговорное усечение.",
       "keyword": "za džabe"
+    },
+    {
+      "headword_latin": "za siću",
+      "type": "predloški izraz",
+      "definition_ru": "за гроши; задёшево; за ничтожную сумму",
+      "synonyms_sr": [
+        "za male pare",
+        "budzašto",
+        "gotovo džabe",
+        "za bagatelu"
+      ],
+      "literal_ru": "за мелочь",
+      "register": "razgovorno",
+      "examples": [
+        {
+          "sr": "Hana izgubila hiljade dolara prodajući vrednu haljinu za siću.",
+          "ru": "Хана потеряла тысячи долларов, продав ценное платье за гроши.",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/biznis/vesti/kako-je-hana-izgubila-hiljade-dolara-prodajuci-vrednu-haljinu-za-sicu/4y3ym0t"
+        },
+        {
+          "sr": "Renoviranu kuću prodaju za siću.",
+          "ru": "Отремонтированный дом продают за бесценок.",
+          "source": "Biznis Kurir, 2025",
+          "url": "https://biznis.kurir.rs/nekretnine/9736553/jeftine-kuce-prodaja-srbija"
+        }
+      ],
+      "note": "Sića означает мелочь или незначительную сумму. Выражение может характеризовать и выгодную покупку, и невыгодную продажу.",
+      "keyword": "sića"
     },
     {
       "headword_latin": "Zaglaviti u saobraćaju",
@@ -6708,6 +6939,35 @@
       ],
       "note": "После pred употребляется творительный падеж: pred problemom, nasiljem, nepravdom, činjenicama. Выражение подразумевает, что человек знает о проблеме, но намеренно отказывается реагировать. Совершенный вид — zatvoriti oči pred nečim.",
       "keyword": "oči"
+    },
+    {
+      "headword_latin": "završiti iza rešetaka",
+      "type": "glagolski frazem",
+      "definition_ru": "оказаться за решёткой; попасть в тюрьму",
+      "synonyms_sr": [
+        "završiti u zatvoru",
+        "dopasti zatvora",
+        "otići na robiju",
+        "biti strpan u zatvor"
+      ],
+      "literal_ru": "оказаться позади решёток",
+      "register": "razgovorno, publicistički",
+      "examples": [
+        {
+          "sr": "Lekarka Magdalena završila iza rešetaka.",
+          "ru": "Врач Магдалена оказалась за решёткой.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/svet/desetine-fetusa-zakopano-u-dvoristu-lekarka-magdalena-zavrsila-iza-resetaka/1e455t2"
+        },
+        {
+          "sr": "Srpski reper izašao u petak iz zatvora, danas opet završio iza rešetaka.",
+          "ru": "Сербский рэпер вышел из тюрьмы в пятницу, а сегодня снова оказался за решёткой.",
+          "source": "Telegraf, 2025",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/4177209-srpski-reper-izasao-u-petak-iz-zatvora-danas-opet-zavrsio-iza-resetaka-robija-mi-je-promenila-zivot"
+        }
+      ],
+      "note": "Особенно часто употребляется как газетное клише в криминальной хронике.",
+      "keyword": "rešetke"
     },
     {
       "headword_latin": "Zbog sira i vojne muzike",
