@@ -2868,33 +2868,28 @@
     {
       "headword_latin": "Mućnuti glavom",
       "type": "frazeologizam",
-      "definition_ru": "пораскинуть мозгами; пошевелить мозгами; хорошенько подумать",
+      "definition_ru": "пораскинуть мозгами; хорошенько подумать; включить голову",
       "synonyms_sr": [
         "razmisliti",
         "uključiti mozak (razg.)",
-        "promisliti",
-        "razmisliti svojom glavom"
+        "promućkati glavom (razg.)",
+        "uzeti se u pamet"
       ],
       "literal_ru": "встряхнуть головой",
-      "register": "razg.; često kao podsticaj: Mućni glavom!",
+      "register": "razg., ekspresivno; obično svršeni vid",
       "examples": [
         {
-          "serbian_latin": "Treba samo malo mućnuti glavom pa dokonati kakvo će biti...",
-          "russian": "Достаточно немного пораскинуть мозгами, чтобы понять, чем это закончится.",
-          "source": "Danas, 2020"
+          "serbian_latin": "Mućni glavom.",
+          "russian": "Пораскинь мозгами.",
+          "source": "RTS, Beograd 202, 2015"
         },
         {
-          "serbian_latin": "Javne podatke je samo trebalo povezati i mućnuti glavom.",
-          "russian": "Нужно было лишь сопоставить открытые данные и немного пораскинуть мозгами.",
-          "source": "Politika, 2024"
-        },
-        {
-          "serbian_latin": "Mućni malo glavom pre nego što nešto potpišeš.",
-          "russian": "Сначала пораскинь мозгами, прежде чем что-то подписывать.",
-          "source": ""
+          "serbian_latin": "Mislim da je vreme da se mućne glavom, jer ne možeš isti problem uporno rešavati na isti način.",
+          "russian": "Думаю, пора хорошенько подумать: нельзя упорно решать одну и ту же проблему одним и тем же способом.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
         }
       ],
-      "note": "Mućnuti буквально означает встряхнуть, взболтать содержимое чего-либо, поэтому выражение шутливо представляет голову как ёмкость, которую надо «встряхнуть», чтобы начать думать. Оно разговорнее обычного razmisliti и иногда содержит лёгкий упрёк: Mućni glavom! — «Ну подумай же!»",
+      "note": "Чаще всего употребляется побудительная форма mućni glavom или безличная конструкция treba mućnuti glavom. Глагол создаёт образ короткого умственного усилия: нужно остановиться и наконец сообразить. Не следует путать mućnuti «встряхнуть, взболтнуть» с mučiti «мучить».",
       "keyword": "mućnuti glavom"
     },
     {
@@ -2995,33 +2990,33 @@
     {
       "headword_latin": "Naivan kao francuska sobarica",
       "type": "frazeologizam",
-      "definition_ru": "прикидываться наивным; делать вид, что ничего не понимаешь; якобы быть совершенно невинным",
+      "definition_ru": "наивный как ребёнок; простодушный до смешного; делающий вид, что ничего не понимает",
       "synonyms_sr": [
+        "biti krajnje naivan",
+        "biti lakoveran",
         "praviti se naivan",
-        "glumiti nevinost",
-        "praviti se nevešt",
-        "praviti se lud (šire, razg.)"
+        "biti naivan kao dete"
       ],
       "literal_ru": "наивный как французская горничная",
-      "register": "razg., iron.; često se podrazumeva prividna ili odglumljena naivnost",
+      "register": "razg., ironično; ponekad o prividnoj naivnosti",
       "examples": [
         {
-          "serbian_latin": "Moram sve vreme da se pravim naivan ko francuska sobarica.",
-          "russian": "Мне всё время приходится делать вид, будто я ничего не понимаю.",
-          "source": "N1 Srbija, 2019"
+          "serbian_latin": "Naivan kao francuska sobarica.",
+          "russian": "Наивный как ребёнок; простодушный до смешного.",
+          "source": "Telegraf, 2018"
         },
         {
-          "serbian_latin": "Radnici u EPS-u „nevini su ko francuska sobarica“.",
-          "russian": "Работники EPS прямо-таки «невиннее некуда» — разумеется, иронически.",
-          "source": "Danas, 2022"
+          "serbian_latin": "Svašta je ovde moguće, zato ne smeš biti naivan kao francuska sobarica ako ne želiš da izgubiš novac.",
+          "russian": "Здесь возможно всё, поэтому нельзя быть таким простаком, если не хочешь потерять деньги.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
         },
         {
-          "serbian_latin": "Nemoj da se praviš naivan kao francuska sobarica — dobro znaš o čemu pričam.",
-          "russian": "Не прикидывайся невинным — ты прекрасно знаешь, о чём я.",
-          "source": ""
+          "serbian_latin": "Ispali smo naivni kao sobarice.",
+          "russian": "Мы оказались до смешного наивными.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
         }
       ],
-      "note": "Перевод просто «наивный человек» часто упускает главное: выражение обычно ироническое. Говорящий не верит в наивность человека и намекает, что тот прекрасно понимает происходящее, но изображает невинность или неведение. В сербской публицистике francuska sobarica функционирует как узнаваемый культурный стереотип.",
+      "note": "В употреблении встречаются два близких оттенка: настоящая чрезмерная доверчивость и ироническая «наивность» человека, который прекрасно понимает происходящее, но делает вид, что ничего не знает. Поэтому значение определяется контекстом. Сокращённый вариант — naivan kao sobarica. Происхождение сравнения надёжно не установлено; газетные объяснения связывают его с комедийным образом хитрой служанки, однако считать эту версию доказанной нельзя.",
       "keyword": "francuska sobarica"
     },
     {
@@ -3049,6 +3044,33 @@
       ],
       "note": "Napaćen обозначает того, кто много страдал или перенёс много тяжёлого: napaćen čovek, napaćen narod, napaćena zemlja, napaćena duša. В бытовой речи сочетание может быть и ироническим: Jao, napaćena duša! — примерно «ах ты, страдалец наш».",
       "keyword": "napaćena duša"
+    },
+    {
+      "headword_latin": "Napiti se kao svinja",
+      "type": "frazeologizam",
+      "definition_ru": "напиться как свинья; напиться до бесчувствия; напиться вдрызг",
+      "synonyms_sr": [
+        "napiti se kao stoka (grub.)",
+        "ubiti se od alkohola (razg.)",
+        "olešiti se (sleng)",
+        "obeznaniti se od pića"
+      ],
+      "literal_ru": "напиться как свинья",
+      "register": "grubo, razg., neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "I ja sam kao mlad umeo da se napijem kao svinja.",
+          "russian": "Я тоже в молодости порой напивался как свинья.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
+        },
+        {
+          "serbian_latin": "On ode sa svojim društvom i napije se kao stoka, a ona mora da ga dovuče do kreveta.",
+          "russian": "Он уходит со своей компанией и напивается вдрызг, а ей потом приходится тащить его до кровати.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
+        }
+      ],
+      "note": "Выражение описывает крайнюю степень опьянения и одновременно резко осуждает поведение человека. В живой речи широко употребляются варианты napiti se kao stoka, napiti se kao majka и ubiti se od alkohola. Русское «напиться как свинья» почти полностью совпадает с сербским выражением по образу и степени грубости.",
+      "keyword": "napiti se"
     },
     {
       "headword_latin": "Našla vreća zakrpu",
@@ -3117,33 +3139,34 @@
     {
       "headword_latin": "Navrat-nanos",
       "type": "prilog",
-      "definition_ru": "второпях; в спешке; наскоро; сломя голову",
+      "definition_ru": "наспех; второпях; в спешке; сломя голову",
       "synonyms_sr": [
         "na brzinu",
-        "brzopleto",
-        "u žurbi",
-        "zbrda-zdola (delimično)"
+        "zbrda-zdola",
+        "bez pripreme",
+        "na vrat na nos (razg.)",
+        "brzopleto"
       ],
       "literal_ru": "",
-      "register": "priloški izraz; pravilno se piše navrat-nanos, sa crticom",
+      "register": "razg.; obično o brzopletom i nedovoljno pripremljenom postupku",
       "examples": [
         {
-          "serbian_latin": "Navrat-nanos i iz vedra neba... bubnuo je iz svemira jedan od direktora Gugla.",
-          "russian": "Совершенно внезапно и стремительно один из директоров Google буквально свалился с неба.",
-          "source": "Danas, 2014"
+          "serbian_latin": "Navrat-nanos, preko leđa dece i nastavnika.",
+          "russian": "Всё наспех и за счёт детей и учителей.",
+          "source": "Vreme, 2023"
         },
         {
-          "serbian_latin": "Sve smo završili navrat-nanos poslednjeg dana.",
-          "russian": "Всё доделали в страшной спешке в последний день.",
-          "source": ""
+          "serbian_latin": "Posledice ovako navrat-nanos donetog budžeta tek možemo očekivati.",
+          "russian": "Последствия бюджета, принятого в такой спешке, нам ещё только предстоит увидеть.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
         },
         {
-          "serbian_latin": "Nemoj to da radiš navrat-nanos, napravićeš grešku.",
-          "russian": "Не делай это впопыхах, ошибёшься.",
-          "source": ""
+          "serbian_latin": "Bogami, navrat-nanos.",
+          "russian": "И правда, всё впопыхах.",
+          "source": "Dnevnik, 2025"
         }
       ],
-      "note": "Правописно это единое наречное выражение с дефисом: navrat-nanos, а не na vrat na nos. В современном сербском оно означает «наспех, поспешно, без достаточной подготовки». Русское «сломя голову» подходит, когда акцент на стремительности, а «впопыхах» — когда важнее поспешность и плохая подготовка.",
+      "note": "Наречие обозначает не просто высокую скорость, а поспешность, отсутствие подготовки и нередко небрежный результат. Оно пишется через дефис: navrat-nanos. Наряду с ним употребляется близкое выражение na vrat na nos, которое особенно часто описывает поспешный отъезд, бегство или действие, совершённое без раздумий.",
       "keyword": "navrat-nanos"
     },
     {
@@ -3186,34 +3209,29 @@
     {
       "headword_latin": "Ne bi ni mrava zgazio",
       "type": "frazeologizam",
-      "definition_ru": "мухи не обидит; безобиднейший человек; никому зла не причинит",
+      "definition_ru": "и мухи не обидит; добрейшей души человек; никому не причинит зла",
       "synonyms_sr": [
         "biti bezazlen",
-        "biti blag",
-        "ne nauditi nikome",
-        "biti miran čovek"
+        "biti dobrodušan",
+        "biti blage naravi",
+        "nikome ne učiniti zlo"
       ],
-      "literal_ru": "даже муравья не раздавил бы",
-      "register": "razg.; obično kao karakterizacija mirnog i bezazlenog čoveka",
+      "literal_ru": "не раздавил бы даже муравья",
+      "register": "razg., odobr.; ponekad ironično",
       "examples": [
         {
-          "serbian_latin": "Znam svog sina, ne bi ni mrava zgazio.",
-          "russian": "Я знаю своего сына: он и мухи не обидит.",
-          "source": "Danas, 2023"
+          "serbian_latin": "„Ni mrava ne bi zgazio“, čujemo svakodnevno kada se za nekoga kaže da je dobar čovek.",
+          "russian": "«Он и мухи не обидит», — часто говорим мы о добром человеке.",
+          "source": "Danas, 2022"
         },
         {
-          "serbian_latin": "Mer „ne bi ni mrava zgazio“.",
-          "russian": "Мер и мухи бы не обидел.",
-          "source": "Politika, 2016"
-        },
-        {
-          "serbian_latin": "Deluje grubo, ali zapravo ne bi ni mrava zgazio.",
-          "russian": "С виду он грубоват, но на самом деле мухи не обидит.",
-          "source": ""
+          "serbian_latin": "Miroslav je uzoran fudbaler, divan dečko, ne bi ni mrava zgazio.",
+          "russian": "Мирослав — образцовый футболист и замечательный парень, он и мухи не обидит.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
         }
       ],
-      "note": "Русское «мухи не обидит» — почти точный функциональный эквивалент, только в сербском вместо мухи выступает mrav. Выражение подчёркивает миролюбие и неспособность причинить вред. Оно нередко употребляется контрастно: человек выглядит опасным или обвиняется в чём-то, а окружающие говорят, что он ne bi ni mrava zgazio.",
-      "keyword": "ne bi ni mrava zgazio"
+      "note": "Сербскому mrav в русском устойчивом соответствии обычно отвечает не «муравей», а «муха»: «мухи не обидит». Возможны оба порядка слов: ne bi ni mrava zgazio и ni mrava ne bi zgazio. Выражение может употребляться иронически о человеке, чья показная безобидность противоречит его поступкам.",
+      "keyword": "mrav"
     },
     {
       "headword_latin": "Ne mogu sebi da priuštim",
