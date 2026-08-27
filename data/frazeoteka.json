@@ -2114,6 +2114,35 @@
       "keyword": "avion"
     },
     {
+      "headword_latin": "izgledati kao trokrilni ormar",
+      "type": "poređenje",
+      "definition_ru": "быть огромным, широким и массивным; выглядеть как шкаф",
+      "synonyms_sr": [
+        "biti kao ormar",
+        "biti građen kao ormar",
+        "biti kao od brega odvaljen",
+        "biti veoma krupan"
+      ],
+      "literal_ru": "выглядеть как трёхстворчатый шкаф",
+      "register": "razgovorno, šaljivo ili podrugljivo",
+      "examples": [
+        {
+          "sr": "Sašin sako izgleda kao trokrilni ormar.",
+          "ru": "Пиджак Саши выглядит как трёхстворчатый шкаф.",
+          "source": "Tportal, 2024",
+          "url": "https://www.tportal.hr/lifestyle/clanak/sasin-sako-izgleda-kao-trokrilni-ormar-a-vinko-se-obukao-kao-da-ide-na-plac-u-utrinu-po-krmice-za-rucak-foto-20240223"
+        },
+        {
+          "sr": "Da ja imam toliko, izgledala bih k’o trokrilni ormar.",
+          "ru": "Будь у меня такой вес, я выглядела бы как шкаф.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.",
+          "url": "https://lexonomy.elex.is/#/frazeoloskirjecnikhr/"
+        }
+      ],
+      "note": "Poređenje opisuje veoma krupnu, široku ili punu osobu, odnosno preširoku i bezobličnu odeću. U srpskom su češći kraći izrazi biti kao ormar i biti građen kao ormar. Može zvučati uvredljivo.",
+      "keyword": "ormar"
+    },
+    {
       "headword_latin": "Izigravati žrtvu",
       "type": "kolokacija",
       "definition_ru": "изображать из себя жертву; строить из себя пострадавшего; разыгрывать роль жертвы",
@@ -2335,36 +2364,64 @@
       "keyword": "kao klinac"
     },
     {
-      "headword_latin": "Kao muva bez glave",
-      "type": "frazeologizam",
-      "definition_ru": "как угорелый; без толку метаться; носиться, не понимая, что делать",
+      "headword_latin": "kao muva bez glave",
+      "type": "poređenje",
+      "definition_ru": "хаотично, бессистемно и без определённой цели; как безголовая муха",
       "synonyms_sr": [
         "juriti bez cilja",
-        "biti pogubljen",
-        "ponašati se haotično",
-        "tumarati"
+        "trčati na sve strane",
+        "srljati",
+        "tumarati bez plana",
+        "biti potpuno pogubljen"
       ],
       "literal_ru": "как муха без головы",
-      "register": "razg., ekspresivno; tipično juriti / trčati / ponašati se kao muva bez glave",
+      "register": "razgovorno, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Ne ide se nikuda kao muva bez glave, svuda mora promišljeno da se ide.",
-          "russian": "Нельзя носиться куда попало как угорелый, везде нужно действовать обдуманно.",
-          "source": "RTS, 2020"
+          "sr": "Spoljna politika Crne Gore je kao muva bez glave.",
+          "ru": "Внешняя политика Черногории действует хаотично, словно муха без головы.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/752895/knezevic-spoljna-politika-crne-gore-je-kao-muva-bez-glave"
         },
         {
-          "serbian_latin": "Igrali smo kao muve bez glave.",
-          "russian": "Мы играли совершенно бестолково и хаотично.",
-          "source": "Danas, 2018"
-        },
-        {
-          "serbian_latin": "Ceo dan jurim kao muva bez glave, a ništa nisam završio.",
-          "russian": "Весь день ношусь как угорелый, а ничего не сделал.",
-          "source": ""
+          "sr": "Čovek „kao muva bez glave“ s divljeg parkinga izleteo na put.",
+          "ru": "Мужчина как безголовая муха выскочил на дорогу с нелегальной парковки.",
+          "source": "Telegraf, 2024",
+          "url": "https://www.telegraf.rs/vesti/beograd/3862542-umalo-tragedija-na-putu-ka-aerodromu-covek-kao-muva-bez-glave-s-divljeg-parkinga-izleteo-na-put"
         }
       ],
-      "note": "По-сербски muva, не muha. Это не просто «быстро двигаться». Человек много суетится, но его действия хаотичны, непродуманны и плохо направлены к цели. Очень естественна модель juriti kao muva bez glave.",
-      "keyword": "muva bez glave"
+      "note": "Izraz opisuje osobu koja juri, luta ili postupa nepromišljeno, bez jasnog cilja. Može se odnositi i na organizaciju, politiku ili sistem bez plana. Srpski oblik je muva, a hrvatski muha.",
+      "keyword": "muva"
+    },
+    {
+      "headword_latin": "kao posrani golub",
+      "type": "poređenje",
+      "definition_ru": "понурый, жалкий и подавленный; как побитая собака",
+      "synonyms_sr": [
+        "biti pokunjen",
+        "biti snužden",
+        "oboriti nos",
+        "izgledati jadno",
+        "biti kao pokisla kokoška"
+      ],
+      "literal_ru": "как обгаженный голубь",
+      "register": "grubo, razgovorno, podrugljivo",
+      "examples": [
+        {
+          "sr": "Goksi, šta si oborio nos, k’o posran golub?",
+          "ru": "Гокси, чего ты нос повесил и сидишь как побитая собака?",
+          "source": "Vukajlija, 2010",
+          "url": "https://vukajlija.com/k-o-posran-golub"
+        },
+        {
+          "sr": "Vicekonzul me dočeka kao posrani golub, ni ne pogledavši me.",
+          "ru": "Вице-консул встретил меня понурый и жалкий, даже не взглянув на меня.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.",
+          "url": "https://lexonomy.elex.is/#/frazeoloskirjecnikhr/"
+        }
+      ],
+      "note": "Izraz opisuje neraspoloženu, poniženu ili posramljenu osobu spuštene glave i klonulog držanja. Javljaju se oblici kao posrani golub i k’o posran golub.",
+      "keyword": "golub"
     },
     {
       "headword_latin": "Kap koja je prelila čašu",
@@ -2540,6 +2597,65 @@
       ],
       "note": "Значение однозначно: очень дорого стоить / заплатить чрезвычайно высокую цену; выражение фиксируется и в научных работах по сербской фразеологии. А вот происхождение имеет несколько версий. В сербской традиции известна история о том, как Sveti Petar съел предназначенную детям бедной вдовы яичницу и затем дорого расплачивался за проступок; её обработал в стихах Jovan Jovanović Zmaj. Есть и близкое греческое выражение о «дорогой яичнице Svetog Đorđa». Milan Šipka обсуждает обе версии, поэтому единственную легенду как доказанную этимологию лучше не выдавать.",
       "keyword": "Svetog Petra kajgana"
+    },
+    {
+      "headword_latin": "krenuti nečijim stopama",
+      "type": "glagolski frazem",
+      "definition_ru": "пойти по чьим-либо стопам; последовать чьему-либо примеру",
+      "synonyms_sr": [
+        "poći nečijim putem",
+        "ugledati se na nekoga",
+        "slediti nečiji primer",
+        "nastaviti porodičnu tradiciju"
+      ],
+      "literal_ru": "отправиться по чьим-либо следам",
+      "register": "neutralno, često publicistički",
+      "examples": [
+        {
+          "sr": "Krenula je očevim stopama.",
+          "ru": "Она пошла по стопам отца.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/cerka-naseg-glumca-ima-neobicno-ime-krenula-njegovim-stopama/1xehsw5"
+        },
+        {
+          "sr": "Ibra junior krenuo očevim stopama.",
+          "ru": "Ибра-младший пошёл по стопам отца.",
+          "source": "B92, 2026",
+          "url": "https://www.b92.net/sport/fudbal/vesti/197401/zvanicno-ibra-junior-krenuo-ocevim-stopama/vest"
+        }
+      ],
+      "note": "Najčešće označava izbor iste profesije, karijere ili životnog puta. Umesto nečijim koriste se oblici očevim, majčinim, njegovim, njenim ili konstrukcija stopama svojih prethodnika. Ići nečijim stopama označava proces, a krenuti njegov početak.",
+      "keyword": "stope"
+    },
+    {
+      "headword_latin": "lepiti se kao muve na govno",
+      "type": "poređenje",
+      "definition_ru": "липнуть как мухи к д*рьму; толпиться вокруг кого-либо из-за сильного влечения или корыстного интереса",
+      "synonyms_sr": [
+        "lepiti se za nekoga",
+        "obletati oko nekoga",
+        "navaliti na nekoga",
+        "rojiti se oko nekoga",
+        "skupljati se oko nekoga kao muve"
+      ],
+      "literal_ru": "липнуть как мухи к д*рьму",
+      "register": "vulgarno, grubo, prezrivo",
+      "examples": [
+        {
+          "sr": "Odmah si maneken i zgodan, imaš trbušnjake, a žene se lepe kao muve na govno.",
+          "ru": "Сразу становишься красавчиком с прессом, и женщины липнут к тебе как мухи к д*рьму.",
+          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi",
+          "url": "https://lexonomy.elex.is/#/frazeoloskirjecnikhr/"
+        },
+        {
+          "sr": "Opusti se, momak… ’Oće muva na govno, nije to samo od sebe.",
+          "ru": "Расслабься, парень… Муха к д*рьму тянется не просто так.",
+          "source": "Vukajlija, 2013",
+          "url": "https://vukajlija.com/hoce-muva-na-govno/667221"
+        }
+      ],
+      "note": "Izraz grubo opisuje ljude koji se u velikom broju i nametljivo okupljaju oko privlačne, bogate ili poznate osobe. Može vređati i te ljude i predmet njihovog interesovanja. Drugi primer predstavlja srodnu ustaljenu varijantu hoće muva na govno. Srpski oblici su lepiti i muva, a hrvatski lijepiti i muha.",
+      "keyword": "govno"
     },
     {
       "headword_latin": "Liti krokodilske suze",
