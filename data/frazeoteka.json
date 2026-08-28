@@ -259,6 +259,35 @@
       "keyword": "baciti ljagu"
     },
     {
+      "headword_latin": "baciti rukavicu u lice",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Открыто бросить вызов; резко выступить против кого-либо и предложить вступить в борьбу или соперничество.",
+      "synonyms_sr": [
+        "izazvati nekoga",
+        "uputiti izazov",
+        "otvoreno se suprotstaviti",
+        "pozvati na obračun"
+      ],
+      "literal_ru": "Бросить перчатку в лицо.",
+      "register": "Экспрессивное, публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Tramp Evropljanima bacio rukavicu u lice.",
+          "russian": "Трамп бросил европейцам открытый вызов.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/726506/tramp-evropljanima-bacio-rukavicu-u-lice"
+        },
+        {
+          "serbian_latin": "Šerki bacio Arsenalu rukavicu u lice, Siti u Notingemu preuzeo čelo tabele.",
+          "russian": "Шерки бросил вызов «Арсеналу», а «Сити» в Ноттингеме возглавил таблицу.",
+          "source": "Naslovi.net, 2025",
+          "url": "https://naslovi.net/2025-12-27/sportske/serki-bacio-arsenalu-rukavicu-u-lice-siti-u-notingemu-preuzeo-celo-tabele/41131048"
+        }
+      ],
+      "note": "Употребляется и сокращённая форма baciti rukavicu. Ответ на вызов — prihvatiti или podići bačenu rukavicu.",
+      "keyword": "rukavica"
+    },
+    {
       "headword_latin": "Baciti se / obesiti se nekome oko vrata",
       "type": "frazeologizam",
       "definition_ru": "броситься кому-то на шею; обнять в порыве чувств; повиснуть у кого-то на шее",
@@ -1997,30 +2026,32 @@
       "keyword": "ulje; vatra"
     },
     {
-      "headword_latin": "Dolivati ulje na vatru",
-      "type": "glagolski frazem",
-      "definition_ru": "Подливать масла в огонь; ещё сильнее разжигать конфликт или усугублять напряжённую ситуацию.",
+      "headword_latin": "dolivati ulje na vatru",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Усугублять конфликт или неприятную ситуацию; усиливать раздражение, вражду или панику.",
       "synonyms_sr": [
         "raspirivati sukob",
-        "podsticati tenzije",
         "pogoršavati situaciju",
-        "dodatno zaoštravati odnose"
+        "podizati tenziju",
+        "dodatno provocirati"
       ],
       "literal_ru": "Подливать масло в огонь.",
-      "register": "razgovorno; publicistički; ekspresivno",
+      "register": "Общеупотребительное, экспрессивное.",
       "examples": [
         {
-          "serbian_latin": "Britanija metodično i redovno doliva ulje na vatru i planira da spreči bilo kakav napredak u mirovnom procesu.",
-          "russian": "Великобритания методично и регулярно подливает масла в огонь и намеревается помешать любому продвижению мирного процесса.",
-          "source": "N1, 2026"
+          "serbian_latin": "Rusija je optužila Britaniju da „doliva ulje na vatru“.",
+          "russian": "Россия обвинила Великобританию в том, что она подливает масла в огонь.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/svet/rusija-optuzila-britaniju-da-doliva-ulje-na-vatru-barnam-kaze-da-podrzavaju-ukrajinu-uprkos-necuvenim-pretnjama/"
         },
         {
-          "serbian_latin": "Vučić doliva ulje na vatru.",
-          "russian": "Вучич подливает масла в огонь.",
-          "source": "Danas, 2026"
+          "serbian_latin": "Ekstremne oluje prete milijardama, a El Ninjo doliva ulje na vatru.",
+          "russian": "Экстремальные бури угрожают миллиардам людей, а Эль-Ниньо лишь подливает масла в огонь.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/svet/ekstremne-oluje-prete-milijardama-a-el-ninjo-doliva-ulje-na-vatru-i-vec-nemilosrdno/z6nl882"
         }
       ],
-      "note": "Несовершенный вид dolivati обозначает продолжающееся или повторяющееся усугубление ситуации. Совершенный вариант doliti ulje na vatru описывает отдельное действие, после которого конфликт обострился.",
+      "note": "Субъектом может быть не только человек, но и заявление, решение, событие или природный фактор, дополнительно ухудшающий положение.",
       "keyword": "ulje; vatra"
     },
     {
@@ -4873,6 +4904,35 @@
       "keyword": "nit riba nit devojka"
     },
     {
+      "headword_latin": "obećavati kule i gradove",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Обещать очень много, обычно без намерения или возможности выполнить обещанное; сулить золотые горы.",
+      "synonyms_sr": [
+        "obećavati nemoguće",
+        "davati prazna obećanja",
+        "obećavati sve i svašta",
+        "nuditi brda i doline"
+      ],
+      "literal_ru": "Обещать башни и города.",
+      "register": "Разговорное, экспрессивное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Problemi u prigradskim opštinama nastali su jer je Vesić obećavao „kule i gradove“.",
+          "russian": "Проблемы в пригородных муниципалитетах возникли потому, что Весич обещал золотые горы.",
+          "source": "Politički.rs, 2022",
+          "url": "https://politicki.rs/politika/sapic-problemi-u-prigradskim-opstinama-jer-je-vesic-obecavao-kule-i-gradove/"
+        },
+        {
+          "serbian_latin": "SNS je u dve izborne kampanje obećavala građanima kule i gradove.",
+          "russian": "В двух избирательных кампаниях СНС обещала гражданам золотые горы.",
+          "source": "Direktno, 2024",
+          "url": "https://direktno.rs/beograd/536898/pedja-mitrovic-ana-godjevac-budzet-beograd.html"
+        }
+      ],
+      "note": "Выражение почти всегда критическое: обещания представляются преувеличенными, нереалистичными или заведомо пустыми.",
+      "keyword": "kule; gradovi"
+    },
+    {
       "headword_latin": "Odgovarati nekome",
       "type": "glagol",
       "definition_ru": "подходить кому-то; устраивать; быть удобным",
@@ -5238,6 +5298,35 @@
       ],
       "note": "Образ практически совпадает с русским «мрут как мухи». Глагол выбирается по ситуации: padati kao muve шире и может означать также массово падать, заболевать или терпеть поражение; umirati kao muve — именно умирать; ginuti kao muve — массово погибать, особенно в авариях, войне или другой опасной ситуации.",
       "keyword": "kao muve"
+    },
+    {
+      "headword_latin": "pala / upala je nekome sekira u med",
+      "type": "фразеологизм",
+      "definition_ru": "Кому-либо неожиданно повезло; кто-либо получил большую выгоду, удобное место или редкий шанс.",
+      "synonyms_sr": [
+        "iznenada imati sreće",
+        "dobro proći",
+        "posrećiti se nekome",
+        "doći do velike dobiti"
+      ],
+      "literal_ru": "У кого-либо топор упал в мёд.",
+      "register": "Разговорное, экспрессивное, обычно одобрительное или ироническое.",
+      "examples": [
+        {
+          "serbian_latin": "Čestitam, kaže, kolega… vama je pala sekira u med.",
+          "russian": "Поздравляю, коллега: вам невероятно повезло.",
+          "source": "Espreso, 2024",
+          "url": "https://www.espreso.co.rs/viralno/svastara/1508703/evo-sta-zaista-znaci-kada-vam-neko-kaze-da-vam-je-upala-sekira-u-med"
+        },
+        {
+          "serbian_latin": "Sad mi je pala sekira u med.",
+          "russian": "Вот теперь мне действительно повезло.",
+          "source": "Espreso, 2024",
+          "url": "https://www.espreso.co.rs/viralno/svastara/1508703/evo-sta-zaista-znaci-kada-vam-neko-kaze-da-vam-je-upala-sekira-u-med"
+        }
+      ],
+      "note": "Употребляется с дательным падежом: pala mu je, upala joj je, pala nam je sekira u med. Варианты pala и upala равноправны.",
+      "keyword": "sekira"
     },
     {
       "headword_latin": "Parati uši",
@@ -5882,6 +5971,35 @@
       "keyword": "usta"
     },
     {
+      "headword_latin": "presipati iz šupljeg u prazno",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Заниматься бесполезным делом; вести пустые разговоры; бесконечно обсуждать проблему, ничего не решая.",
+      "synonyms_sr": [
+        "vrteti se u krug",
+        "mlatiti praznu slamu",
+        "uzalud pričati",
+        "baviti se jalovim poslom"
+      ],
+      "literal_ru": "Переливать из полого в пустое.",
+      "register": "Разговорное, экспрессивное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Presipaju iz šupljeg u prazno.",
+          "russian": "Они переливают из пустого в порожнее.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/vesti/politika/10066430/vucic-o-slobodnoj-bosni-presipaju-iz-supljeg-u-prazno"
+        },
+        {
+          "serbian_latin": "Meni se čini da oni iz šupljeg u prazno presipaju, a mi ćemo nastaviti da se bavimo ekonomijom.",
+          "russian": "Мне кажется, они занимаются пустой болтовнёй, а мы продолжим заниматься экономикой.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/vesti/politika/10066430/vucic-o-slobodnoj-bosni-presipaju-iz-supljeg-u-prazno"
+        }
+      ],
+      "note": "Может описывать и бесплодные разговоры, и административную деятельность, при которой ресурсы перемещают, но настоящего результата не получают.",
+      "keyword": "šuplje; prazno"
+    },
+    {
       "headword_latin": "Prljav posao",
       "type": "kolokacija",
       "definition_ru": "грязная работа; грязное дело; неприятная или морально сомнительная работа",
@@ -5993,31 +6111,33 @@
       "keyword": "groblje"
     },
     {
-      "headword_latin": "Prodavati maglu",
-      "type": "glagolski frazem",
-      "definition_ru": "Пускать пыль в глаза; обманывать пустыми обещаниями; выдавать бессодержательные слова за нечто ценное.",
+      "headword_latin": "prodavati maglu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Вводить в заблуждение пустыми словами; выдавать бессодержательные идеи или обещания за нечто ценное и серьёзное.",
       "synonyms_sr": [
         "obmanjivati",
+        "mazati oči",
         "pričati prazne priče",
-        "zamajavati ljude",
-        "nuditi lažna obećanja",
-        "prodavati praznu priču"
+        "nuditi prazna obećanja",
+        "zamajavati nekoga"
       ],
       "literal_ru": "Продавать туман.",
-      "register": "razgovorno; neodobravajuće; često publicistički",
+      "register": "Разговорное, неодобрительное, часто публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Glamočiću bi bolje bilo da se bavi rešavanjem realnih, ogromnih problema u poljoprivredi umesto što ih „pakuje u lepu mašnu“ i „prodaje maglu“.",
-          "russian": "Гламочичу лучше было бы заниматься решением огромных реальных проблем сельского хозяйства, а не заворачивать их в красивую упаковку и пускать людям пыль в глаза.",
-          "source": "Vreme, 2026"
+          "serbian_latin": "Umesto što „prodaje maglu“ najavom uvođenja oznake „100 odsto iz Srbije“, ministru bi bilo bolje da rešava realne probleme.",
+          "russian": "Вместо того чтобы пускать пыль в глаза заявлением о маркировке «100 процентов из Сербии», министру лучше решать реальные проблемы.",
+          "source": "Vreme, 2026",
+          "url": "https://vreme.com/ekonomija/sto-odsto-iz-srbije-proizvodi-prodavnice-trgovine-poljoprivreda/"
         },
         {
-          "serbian_latin": "Vučićeve priče o neviđenim ekonomskim podvizima Srbije su obična prodaja magle.",
-          "russian": "Рассказы Вучича о невиданных экономических достижениях Сербии — обычное очковтирательство.",
-          "source": "Danas, 2026"
+          "serbian_latin": "„Prodaja magle“ najisplativija je kad kažu: „Kol’ko daš“.",
+          "russian": "Торговля пустыми обещаниями выгоднее всего, когда говорят: «Дай сколько можешь».",
+          "source": "Telegraf, 2023",
+          "url": "https://www.telegraf.rs/vesti/srbija/3670733-gatare-i-vidovnjaci-presli-na-aplikacije-prodaja-magle-najisplativija-kad-kazu-kolko-das"
         }
       ],
-      "note": "Выражение особенно часто относится к политической риторике, рекламе и сомнительным коммерческим предложениям. Существительное prodaja magle обозначает сам процесс обмана, а человека называют prodavac magle.",
+      "note": "Объектом обмана могут быть клиенты, избиратели или общественность. Существительное prodaja magle обозначает пустую рекламу, демагогию или псевдоуслугу.",
       "keyword": "magla"
     },
     {
@@ -6168,6 +6288,35 @@
       ],
       "note": "Сравнение связано со старым представлением о кучерах как о мастерах громкой и изобретательной брани. В русском функциональном переводе естественнее «ругаться как сапожник».",
       "keyword": "kočijaš"
+    },
+    {
+      "headword_latin": "pući tikva / pukla je tikva",
+      "type": "фразеологизм",
+      "definition_ru": "Поссориться; разорвать отношения; дойти до открытого конфликта или раскола.",
+      "synonyms_sr": [
+        "posvađati se",
+        "prekinuti odnose",
+        "raskinuti prijateljstvo",
+        "doći do raskola"
+      ],
+      "literal_ru": "Тыква треснула.",
+      "register": "Разговорное, экспрессивное; часто встречается в заголовках.",
+      "examples": [
+        {
+          "serbian_latin": "Pukla tikva! Uroš Stanić stavio tačku na prijateljstvo sa Janjušem.",
+          "russian": "Между ними всё кончено! Урош Станич прекратил дружбу с Яньюшем.",
+          "source": "Pink, 2026",
+          "url": "https://pink.rs/domaci/806935/pukla-tikva-uros-stanic-stavio-tacku-na-prijateljstvo-sa-janjusem-a-ovo-je-razlog-foto"
+        },
+        {
+          "serbian_latin": "Pukla tikva, Maja i Asmin nisu dugo izdržali — čim su se probudili, izbila je svađa.",
+          "russian": "Между Майей и Асмином произошёл разрыв: едва они проснулись, как началась ссора.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/sr/vip/zadruga/pukla-tikva-maja-i-asmin-nisu-dugo-izdrzali-cim-su-se-probudili-izbila-svada-odbija-da-je-slusa-2026-06-05"
+        }
+      ],
+      "note": "Обычно говорится об испортившихся отношениях между людьми, организациями или политическими союзниками. Частая модель: između njih je pukla tikva.",
+      "keyword": "tikva"
     },
     {
       "headword_latin": "Radio Mileva",
@@ -6433,6 +6582,35 @@
       ],
       "note": "Русский и сербский фразеологизмы практически идентичны. Особенно часто встречается усилитель jedva. В сербской художественной прозе конструкция давно вполне освоена: у Zorana Ćirića встречается отдельная формула Ovako se sastavlja kraj s krajem. Leći plata — разговорное «зарплата поступит на счёт».",
       "keyword": "sastavljati kraj s krajem"
+    },
+    {
+      "headword_latin": "sipati so na ranu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Причинять дополнительную душевную боль; напоминать о поражении или несчастье; ещё сильнее задевать уже пострадавшего человека.",
+      "synonyms_sr": [
+        "dodatno povrediti",
+        "pogoršati bol",
+        "dirati u bolno mesto",
+        "podsećati na poraz"
+      ],
+      "literal_ru": "Сыпать соль на рану.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Negucić sipa so na ranu Janičiću nakon poraza.",
+          "russian": "После поражения Негучич продолжает сыпать Яничичу соль на рану.",
+          "source": "Sportissimo, 2026",
+          "url": "https://sportissimo.republika.rs/ostali-sportovi/borilacki-sportovi/101430/ufc-milos-janicic-stefan-negucic-prozivka"
+        },
+        {
+          "serbian_latin": "Prve reakcije Srba sa Kosova na izjavu Paunović: „So na ranu, posledice ćemo snositi mi“.",
+          "russian": "Первые реакции косовских сербов на заявление Паунович: «Это соль на рану, а последствия расхлёбывать нам».",
+          "source": "RTV Mir, 2026",
+          "url": "https://www.rtvmir.com/index.php/vesti/politika/17758-prve-reakcije-srba-sa-kosova-na-izjavu-paunovic-so-na-ranu-posledice-cemo-snositi-mi.html"
+        }
+      ],
+      "note": "Употребляется также существительная конструкция so na ranu: нечто особенно болезненное на фоне уже пережитой обиды, потери или неудачи.",
+      "keyword": "so; rana"
     },
     {
       "headword_latin": "Siromašan kao crkveni miš",
@@ -6758,6 +6936,36 @@
       ],
       "note": "Sprati буквально означает «смыть», поэтому здесь особенно хорошо сохраняется образ ljaga = грязное пятно на репутации. Речь обычно не просто об улучшении имиджа, а об устранении обвинения, позора или подозрения и восстановлении доброго имени. Частая конструкция — sprati ljagu sa imena nekoga.",
       "keyword": "sprati ljagu"
+    },
+    {
+      "headword_latin": "spustiti loptu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Успокоиться или успокоить ситуацию; снизить напряжение, умерить тон, амбиции или чрезмерную эйфорию.",
+      "synonyms_sr": [
+        "smiriti strasti",
+        "ublažiti ton",
+        "ne dizati tenziju",
+        "biti odmeren",
+        "stišati situaciju"
+      ],
+      "literal_ru": "Опустить мяч.",
+      "register": "Разговорное, общеупотребительное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Nikola Dedović iskusno spušta loptu posle dramatične pobede nad Špancima: „Polako, ovo je tek grupna faza“.",
+          "russian": "После драматичной победы над испанцами Никола Дедович благоразумно снижает градус эйфории: «Спокойно, это только групповой этап».",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/evropsko-prventstvo-u-vaterpolu/4249626-nikola-dedovic-iskusno-spusta-loptu-posle-dramaticne-pobede-nad-spancima-polako-ovo-je-tek-grupna-faza"
+        },
+        {
+          "serbian_latin": "Vlast je promenila taktiku i „spustiće loptu“.",
+          "russian": "Власть изменила тактику и постарается снизить напряжение.",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/sta-smo-videli-u-skupstini-vlast-promenila-taktiku-spustice-loptu-opozicija-imala-inicijativu/"
+        }
+      ],
+      "note": "Вне спортивного контекста выражение означает переход к более спокойному и сдержанному поведению. Возможны формы spusti loptu, spustimo loptu и spuštati loptu.",
+      "keyword": "lopta"
     },
     {
       "headword_latin": "Staviti / baciti nekome bubu u uho",
@@ -7926,6 +8134,35 @@
       ],
       "note": "Если русский смысл именно «мне надоели политики», часто естественнее Dosadili su mi političari. Zamorili su me političari подчёркивает накопившуюся умственную или эмоциональную усталость. Ещё одна модель — Umorio sam se od političara: буквально «я устал от политиков».",
       "keyword": "zamoriti"
+    },
+    {
+      "headword_latin": "zasukati / zavrnuti rukave",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Энергично взяться за работу; перейти от разговоров к практическим действиям.",
+      "synonyms_sr": [
+        "prionuti na posao",
+        "baciti se na posao",
+        "početi ozbiljno da radi",
+        "preuzeti inicijativu"
+      ],
+      "literal_ru": "Засучить рукава.",
+      "register": "Разговорное, экспрессивное, обычно одобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Obradović zasukao rukave: „Čistili smo detalje, ideja postaje zrelija“.",
+          "russian": "Обрадович всерьёз взялся за работу: «Мы отрабатывали детали, идея становится более зрелой».",
+          "source": "Meridian Sport, 2026",
+          "url": "https://meridiansport.rs/kosarka/obradovic-zasukao-rukave-cistili-smo-detalje-ideja-postaje-zrelija-nije-vreme-za-bolomboja-imacemo-problem-na-petici/"
+        },
+        {
+          "serbian_latin": "Vreme je da još jednom zajedno zavrnemo rukave.",
+          "russian": "Пора нам ещё раз всем вместе засучить рукава.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/klimatske-promene/zavrni-rukave-10-maj-akcija-ciscenja-otpad/"
+        }
+      ],
+      "note": "Формы zasukati rukave и zavrnuti rukave употребляются в Сербии параллельно. В переносном значении речь идёт о начале серьёзной и активной работы.",
+      "keyword": "rukavi"
     },
     {
       "headword_latin": "Zatucan čovek",
