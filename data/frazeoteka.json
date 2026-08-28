@@ -4199,6 +4199,84 @@
       "keyword": "mani se ćorava posla"
     },
     {
+      "headword_latin": "mek kao duša",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Очень мягкий, нежный и податливый; чаще всего о тесте, выпечке или другой еде.",
+      "synonyms_sr": [
+        "veoma mekan",
+        "mek kao pamuk",
+        "topiti se u ustima"
+      ],
+      "literal_ru": "Мягкий как душа.",
+      "register": "Разговорное, экспрессивное, одобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Mekan kao duša, hrskav po ivicama: Svi traže recept za ovaj pica hleb jer je bolji od svega iz pekare.",
+          "russian": "Мягкий и нежный, с хрустящими краями: все ищут рецепт этого хлеба-пиццы, потому что он лучше любой выпечки из пекарни.",
+          "source": "Ona.rs, 2026",
+          "url": "https://ona.telegraf.rs/recepti-i-priprema/4322366-mekan-kao-dusa-hrskav-po-ivicama-svi-traze-recept-za-ovaj-pica-hleb-jer-je-bolji-od-svega-iz-pekare"
+        },
+        {
+          "serbian_latin": "Mekane kao duša i sutradan: Projice sa jogurtom koje uvek uspevaju.",
+          "russian": "Мягкие и нежные даже на следующий день: проя-кексы с йогуртом, которые всегда получаются.",
+          "source": "Direktno, 2026",
+          "url": "https://direktno.rs/magazin/kuhinjica/663250/proja-recepti-.html"
+        }
+      ],
+      "note": "Прилагательное согласуется с определяемым словом: mek, meka, meko, meki, mekane. В сербском интернете оборот особенно часто встречается в рецептах и заголовках о выпечке.",
+      "keyword": "duša"
+    },
+    {
+      "headword_latin": "mek kao svila",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Очень мягкий, гладкий и приятный на ощупь; обычно о волосах, коже, ткани или ворсе.",
+      "synonyms_sr": [
+        "svilenkast",
+        "gladak kao svila",
+        "nežan na dodir"
+      ],
+      "literal_ru": "Мягкий как шёлк.",
+      "register": "Нейтральное или рекламно-экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Vlakna postaju meka kao svila, a fleke nestaju za 20 minuta.",
+          "russian": "Ворс становится мягким как шёлк, а пятна исчезают за двадцать минут.",
+          "source": "UNA, 2026",
+          "url": "https://una.rs/zivot/dom-i-porodica/poprskajte-tepih-ovim-i-gledajte-cudo-vlakna-postaju-meka-kao-svila-a-fleke-nestaju-za-20-minuta"
+        },
+        {
+          "serbian_latin": "Trik sendvič šampon čini kosu najlepšom na svetu! Ne košta ništa, a kosa je meka kao svila.",
+          "russian": "Приём «сэндвич с шампунем» делает волосы невероятно красивыми! Он ничего не стоит, а волосы становятся мягкими как шёлк.",
+          "source": "Žena.rs, 2025",
+          "url": "https://zena.blic.rs/lepota/trik-sendvic-sampon-cini-kosu-najlepsom-na-svetu-ne-kosta-nista-a-kosa-je-meka-kao/hnbe063"
+        }
+      ],
+      "note": "Вариант poput svile имеет то же значение и часто употребляется в рекламных текстах. Форма прилагательного меняется по роду и числу.",
+      "keyword": "svila"
+    },
+    {
+      "headword_latin": "mešati babe i žabe",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Смешивать несопоставимые вещи; путать разные понятия; объединять то, что нельзя ставить в один ряд.",
+      "synonyms_sr": [
+        "brkati pojmove",
+        "porediti neuporedivo",
+        "mešati različite stvari"
+      ],
+      "literal_ru": "Смешивать баб и лягушек.",
+      "register": "Разговорное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Ljudi su navikli da kažu tako kako kažu, recimo pljunuti pod prozor, mešati babe i žabe ili nešto slično.",
+          "russian": "Люди привыкли употреблять такие выражения, например «плюнуть под окно», «смешивать баб и лягушек» и тому подобное.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3568632/jasno-kao-dan-zasto-mesamo-babe-i-zabe.html"
+        }
+      ],
+      "note": "Это нормативная сербская форма с экавским mešati. Оборот обычно служит упрёком собеседнику, который сравнивает или объединяет принципиально разные явления.",
+      "keyword": "baba; žaba"
+    },
+    {
       "headword_latin": "Mi o vuku, a vuk na vrata",
       "type": "izreka",
       "definition_ru": "лёгок на помине; вспомнишь о чёрте — а он тут как тут",
@@ -4227,6 +4305,58 @@
       ],
       "note": "Для русского лучший естественный эквивалент — «лёгок на помине», а не обязательно более экспрессивное «помяни чёрта». Сербское выражение настолько узнаваемо, что легко переделывается: RTS играет с именем Vuk и множественным vukovi, а в интернете встречается Mi o vuku, Drašković na vrata. Формула сопоставима с латинским lupus in fabula «волк в рассказе», но утверждать прямое происхождение сербского выражения именно от латинского без специального исторического исследования не стоит.",
       "keyword": "mi o vuku a vuk na vrata"
+    },
+    {
+      "headword_latin": "mic po mic",
+      "type": "наречный фразеологизм",
+      "definition_ru": "Понемногу; мало-помалу; очень медленно, небольшими последовательными шагами.",
+      "synonyms_sr": [
+        "malo-pomalo",
+        "korak po korak",
+        "postepeno",
+        "pomalo"
+      ],
+      "literal_ru": "По чуть-чуть, по маленькому движению.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "I ne mora ka tome da grabi krupnim koracima, dovoljno je i ovako — mic po mic.",
+          "russian": "И не обязательно двигаться к этому огромными шагами — достаточно и так, понемногу.",
+          "source": "UNA, 2024",
+          "url": "https://una.rs/vesti/drustvo/mic-po-mic-gimnazijalke-iz-arandelovca-u-carobnu-igru-su-ukljucile-decu-sa-posebnim-potrebama"
+        }
+      ],
+      "note": "Оборот обозначает медленное, почти незаметное продвижение. В публикации выражение одновременно обыгрывает название детской игры, однако приведённое предложение употребляет его и в обычном переносном смысле.",
+      "keyword": "mic"
+    },
+    {
+      "headword_latin": "miran kao bubica",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Очень тихий, спокойный и смирный; не шумящий и не создающий неприятностей.",
+      "synonyms_sr": [
+        "biti potpuno miran",
+        "biti tih kao miš",
+        "ne praviti probleme",
+        "sedeti mirno"
+      ],
+      "literal_ru": "Тихий как букашка.",
+      "register": "Разговорное, экспрессивное; часто о ребёнке или о поведении человека.",
+      "examples": [
+        {
+          "serbian_latin": "Sve vreme boravka u policijskom pritvoru Đuričić je, kako saznajemo, bio miran kao bubica.",
+          "russian": "Всё время пребывания под стражей Джуричич, как нам стало известно, вёл себя тише воды ниже травы.",
+          "source": "Kurir, 2014",
+          "url": "https://www.kurir.rs/crna-hronika/1293379/miran-ko-bubica-miki-izasao-iz-pritvora"
+        },
+        {
+          "serbian_latin": "Matija Đurović, dečačić koji je zbog izjave da je u gostima bio miran „kao bubica“ postao viralan na internetu, sada izgleda skroz drugačije.",
+          "russian": "Матия Джурович, мальчик, прославившийся в интернете словами о том, что в гостях он сидел тихо как мышка, теперь выглядит совсем иначе.",
+          "source": "Kurir, 2025",
+          "url": "https://www.kurir.rs/zabava/pop-kultura/9603865/mali-matija-sve-zasmejavao-izjavom-ka-bubica"
+        }
+      ],
+      "note": "В разговорной речи часто сокращается до miran kô bubica или miran ko bubica. Сравнение может обозначать как спокойный характер, так и временно безупречное поведение.",
+      "keyword": "bubica"
     },
     {
       "headword_latin": "Mnogo babica, dete kilavo",
@@ -4290,6 +4420,29 @@
       "keyword": "dirnuta pažnjom"
     },
     {
+      "headword_latin": "možeš misliti",
+      "type": "реплика-фразеологизм",
+      "definition_ru": "Подумаешь; можно подумать; велика важность; ироническая реакция на преувеличение или сомнительное утверждение.",
+      "synonyms_sr": [
+        "ma daj",
+        "kako da ne",
+        "nije to ništa",
+        "malo sutra"
+      ],
+      "literal_ru": "Можешь подумать.",
+      "register": "Разговорное, ироническое или пренебрежительное.",
+      "examples": [
+        {
+          "serbian_latin": "— Evo je, kiša. Sad nema od izlaska ništa. — Jao, možeš misliti. Pada brzinom pola kapi u minuti. Ne'š se istopiti.",
+          "russian": "— Вот и дождь. Теперь никуда не выйдешь. — Ой, подумаешь. Падает по полкапли в минуту. Не растаешь.",
+          "source": "Vukajlija, 2014",
+          "url": "https://vukajlija.com/mozes-misliti"
+        }
+      ],
+      "note": "Значение сильно зависит от интонации. Реплика может обесценивать чужую жалобу, выражать недоверие или саркастически означать «как бы не так». Не следует смешивать её с буквальным сочетанием možeš misliti o tome — «можешь об этом подумать».",
+      "keyword": "misliti"
+    },
+    {
       "headword_latin": "Mrtav umoran",
       "type": "izraz",
       "definition_ru": "смертельно уставший; устал как собака; совершенно без сил",
@@ -4317,6 +4470,35 @@
       "keyword": "mrtav umoran"
     },
     {
+      "headword_latin": "mrzeti iz dna duše",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Очень сильно ненавидеть; испытывать к кому-либо или чему-либо глубокую неприязнь.",
+      "synonyms_sr": [
+        "duboko mrzeti",
+        "ne podnositi",
+        "prezirati",
+        "mrzeti svim srcem"
+      ],
+      "literal_ru": "Ненавидеть со дна души.",
+      "register": "Нейтральное или экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Kažu da je jedan grad u Srbiji Tito mrzeo iz dna duše.",
+          "russian": "Говорят, что один город в Сербии Тито ненавидел всей душой.",
+          "source": "Žena.rs, 2024",
+          "url": "https://zena.blic.rs/lifestyle/josip-broz-tito-je-iz-dna-duse-mrzeo-jedan-grad-u-srbiji/hxt3pkz"
+        },
+        {
+          "serbian_latin": "Asmin mrzi Maju iz dna duše.",
+          "russian": "Асмин ненавидит Майю всей душой.",
+          "source": "Republika, 2026",
+          "url": "https://www.republika.rs/elita-9-farmeri/elita-9/760003/uros-stanic-elita-9-zadruga-uzivo"
+        }
+      ],
+      "note": "В сербской норме словарная форма — mrzeti. Оборот iz dna duše усиливает чувство и сочетается также с другими глаголами, например voleti или prezirati.",
+      "keyword": "mrzeti; duša"
+    },
+    {
       "headword_latin": "Mućnuti glavom",
       "type": "frazeologizam",
       "definition_ru": "пораскинуть мозгами; хорошенько подумать; включить голову",
@@ -4342,6 +4524,29 @@
       ],
       "note": "Чаще всего употребляется побудительная форма mućni glavom или безличная конструкция treba mućnuti glavom. Глагол создаёт образ короткого умственного усилия: нужно остановиться и наконец сообразить. Не следует путать mućnuti «встряхнуть, взболтнуть» с mučiti «мучить».",
       "keyword": "mućnuti glavom"
+    },
+    {
+      "headword_latin": "na kvadrat",
+      "type": "усилительный фразеологизм",
+      "definition_ru": "В высшей степени; вдвойне; чрезвычайно сильно; с усиленным проявлением названного качества.",
+      "synonyms_sr": [
+        "do kraja",
+        "potpuno",
+        "maksimalno",
+        "u najvećoj meri"
+      ],
+      "literal_ru": "В квадрате.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Pozitiv: lud, komparativ: luđi, superlativ: najluđi, hiperlativ: lud na kvadrat.",
+          "russian": "Положительная степень: сумасшедший, сравнительная: более сумасшедший, превосходная: самый сумасшедший, гиперлатив: сумасшедший в квадрате.",
+          "source": "Vukajlija, 2008",
+          "url": "https://vukajlija.com/na-kvadrat/31486"
+        }
+      ],
+      "note": "Оборот ставится после существительного или прилагательного: lud na kvadrat, glupost na kvadrat, bezobrazluk na kvadrat. Он не обозначает математическую операцию, а резко усиливает оценку.",
+      "keyword": "kvadrat"
     },
     {
       "headword_latin": "Na ravnoj nozi",
@@ -4375,6 +4580,35 @@
       "keyword": "na ravnoj nozi"
     },
     {
+      "headword_latin": "naći se u nebranom grožđu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Оказаться в затруднительном, неловком или безвыходном положении; попасть впросак.",
+      "synonyms_sr": [
+        "naći se u neprilici",
+        "upasti u nezgodnu situaciju",
+        "biti u škripcu",
+        "ne znati kud ćeš"
+      ],
+      "literal_ru": "Оказаться в несобранном винограде.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Grbović u „nebranom grožđu“: Tri puta isto pitanje i potpuni fijasko pred kamerama Insajder TV.",
+          "russian": "Грбович попал впросак: один и тот же вопрос прозвучал трижды, и перед камерами Insajder TV случилось полное фиаско.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/scc/clanak/752093/grbovic-u-nebranom-grozdu-tri-puta-isto-pitanje-i-potpuni-fijasko-pred-kamerama-insajder-tv"
+        },
+        {
+          "serbian_latin": "Milan Aleksić u nebranom grožđu, sada ni Partizan nije opcija.",
+          "russian": "Милан Алексич оказался в затруднительном положении: теперь и «Партизан» для него не вариант.",
+          "source": "Sportske.net, 2026",
+          "url": "https://sportske.net/vest/medjunarodni-fudbal/milan-aleksic-u-nebranom-grozdu-sada-ni-partizan-nije-opcija-566359"
+        }
+      ],
+      "note": "В сербском употребляется форма nebrano grožđe, без o: не neobrano. Часто встречается сокращённая именная конструкция biti u nebranom grožđu.",
+      "keyword": "grožđe"
+    },
+    {
       "headword_latin": "Nagon",
       "type": "imenica",
       "definition_ru": "позыв; влечение; импульс; побуждение; инстинктивное стремление",
@@ -4405,6 +4639,35 @@
       ],
       "note": "Nagon шире русского «инстинкт». Это может быть физиологический позыв (nagon za mokrenjem, povraćanjem), сексуальное или биологическое влечение, либо сильный внутренний импульс к действию. Instinkt чаще обозначает именно врождённую поведенческую программу, поэтому эти слова не всегда взаимозаменяемы.",
       "keyword": "nagon"
+    },
+    {
+      "headword_latin": "nagurani kao sardine",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Очень тесно прижатые друг к другу в переполненном помещении или транспорте.",
+      "synonyms_sr": [
+        "zbijeni kao sardine",
+        "stisnuti kao sardine",
+        "nagurani jedni uz druge",
+        "bez prostora za pomeranje"
+      ],
+      "literal_ru": "Набитые как сардины.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Stalni putnici moraju da stoje zbijeni kao „sardine“, a plaćaju mesečne karte od 12.000 dinara.",
+          "russian": "Постоянным пассажирам приходится стоять, набившись как сардины, хотя месячный проездной стоит 12 000 динаров.",
+          "source": "021.rs, 2024",
+          "url": "https://www.021.rs/info/srbija/375465/kao-sardine-u-vozu-a-placaju-12000-dinara-mesecno-velike-guzve-izmedju-novog-sada-i-beograda"
+        },
+        {
+          "serbian_latin": "To bude baš katastrofa u vozu, budemo svi kao sardine.",
+          "russian": "В поезде тогда просто кошмар: мы все набиваемся как сардины.",
+          "source": "021.rs, 2024",
+          "url": "https://www.021.rs/info/srbija/375465/kao-sardine-u-vozu-a-placaju-12000-dinara-mesecno-velike-guzve-izmedju-novog-sada-i-beograda"
+        }
+      ],
+      "note": "Опорное сравнение — kao sardine. Перед ним возможны разные формы: nagurani, zbijeni, stisnuti или просто svi smo kao sardine. Обычно говорится о переполненном транспорте или тесном помещении.",
+      "keyword": "sardina"
     },
     {
       "headword_latin": "Naivan / naivna kao francuska sobarica",
