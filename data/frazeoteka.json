@@ -3395,6 +3395,35 @@
       "keyword": "kad na vrbi rodi grožđe"
     },
     {
+      "headword_latin": "kakav otac, takav sin / kakva majka, takva ćerka",
+      "type": "пословица",
+      "definition_ru": "Дети похожи на родителей внешностью, характером, способностями или поведением; каков отец, таков и сын.",
+      "synonyms_sr": [
+        "iver ne pada daleko od klade",
+        "isti je otac",
+        "ista je majka",
+        "povući na oca / majku"
+      ],
+      "literal_ru": "Каков отец, таков сын; какова мать, такова дочь.",
+      "register": "Пословичное; нейтральное, одобрительное или ироническое в зависимости от контекста.",
+      "examples": [
+        {
+          "serbian_latin": "Kakav otac, takav sin: Moćna fotografija sa Eurobasketa.",
+          "russian": "Каков отец, таков и сын: впечатляющая фотография с чемпионата Европы.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/kosarka/4366609-kakav-otac-takav-sin-mocna-fotografija-sa-eurobasketa-predrag-danilovic-bodrio-sina-vuka-i-srbiju"
+        },
+        {
+          "serbian_latin": "Kakva majka, takva ćerka: Sloboda Mićalović i Vera blistale u Trebinju.",
+          "russian": "Какова мать, такова и дочь: Слобода Мичалович и Вера блистали в Требине.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/vip/vip/kakva-majka-takva-cerka-sloboda-micalovic-i-vera-blistale-u-trebinju-sve-oci-uprte-u-naslednicu-koja-krece-stopama-slavnih-roditelja-2026-07-31"
+        }
+      ],
+      "note": "Пословица может подчёркивать как положительное сходство — талант, красоту, профессиональный выбор, — так и повторение родительских недостатков.",
+      "keyword": "otac; majka"
+    },
+    {
       "headword_latin": "kako kome dune",
       "type": "priloški frazem",
       "definition_ru": "как кому вздумается; как кому заблагорассудится; по собственной прихоти или настроению",
@@ -3492,33 +3521,116 @@
       "keyword": "stvar"
     },
     {
+      "headword_latin": "kako vetar duva",
+      "type": "фразеологизм",
+      "definition_ru": "Менять взгляды, позицию или поведение в зависимости от обстоятельств и личной выгоды; приспосабливаться к текущей конъюнктуре.",
+      "synonyms_sr": [
+        "menjati mišljenje prema okolnostima",
+        "okretati se kako vetar duva",
+        "prilagođavati se iz koristi",
+        "biti preletač"
+      ],
+      "literal_ru": "Как дует ветер.",
+      "register": "Разговорное, экспрессивное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Danas si zvezdaš, juče si bio grobar, kako vetar duva tako i ti menjaš klub za koji navijaš!",
+          "russian": "Сегодня ты болеешь за «Звезду», вчера был за «Партизан»: куда ветер дует, туда ты и меняешь клуб.",
+          "source": "Vukajlija, 2009",
+          "url": "https://vukajlija.com/kako-vetar-duva/68229"
+        }
+      ],
+      "note": "Выражение критикует беспринципность или оппортунизм. В отличие от kako kome dune, оно обозначает приспособление к внешней обстановке, а не произвольное поведение по собственному капризу.",
+      "keyword": "vetar"
+    },
+    {
+      "headword_latin": "kao da je pao s Marsa / pasti s Marsa",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Выглядеть совершенно растерянным или отрешённым; не понимать, что происходит; не знать общеизвестных вещей.",
+      "synonyms_sr": [
+        "biti potpuno izgubljen",
+        "ne znati šta se dešava",
+        "gledati zbunjeno",
+        "biti odsutan",
+        "kao da je pao s kruške"
+      ],
+      "literal_ru": "Как будто упал с Марса.",
+      "register": "Разговорное, ироническое или насмешливое.",
+      "examples": [
+        {
+          "serbian_latin": "Hej, tebi pričam, jesi pao s Marsa?",
+          "russian": "Эй, я с тобой разговариваю, ты что, с Марса свалился?",
+          "source": "Dnevnik, 2021",
+          "url": "https://www.dnevnik.rs/lat/kultura/jezikomanija-ko-je-pao-s-marsa-07-08-2021"
+        },
+        {
+          "serbian_latin": "Slavni glumac nije imao pojma o pandemiji, kao da je pao s Marsa!",
+          "russian": "Знаменитый актёр ничего не знал о пандемии, словно с Марса свалился!",
+          "source": "Dnevnik, 2021",
+          "url": "https://www.dnevnik.rs/lat/kultura/jezikomanija-ko-je-pao-s-marsa-07-08-2021"
+        }
+      ],
+      "note": "Выражение может описывать временную растерянность, отрешённость от разговора или полную неосведомлённость. Родственное pasti s kruške чаще передаёт недоумение или неспособность понять очевидное.",
+      "keyword": "Mars"
+    },
+    {
       "headword_latin": "kao grom iz vedra neba",
-      "type": "устойчивое сравнение",
-      "definition_ru": "совершенно неожиданно; внезапно и потрясающе",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Совершенно неожиданно; о внезапной новости или событии, которое вызывает потрясение.",
       "synonyms_sr": [
         "potpuno neočekivano",
         "iznenada",
-        "kao bomba",
-        "bez ikakve najave"
+        "kao hladan tuš",
+        "iz čista mira",
+        "neočekivan udar"
       ],
-      "literal_ru": "как гром с ясного неба",
-      "register": "нейтрально-экспрессивное, часто публицистическое",
+      "literal_ru": "Как гром с ясного неба.",
+      "register": "Нейтральное, экспрессивное; часто публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Odluka je došla kao grom iz vedra neba.",
-          "russian": "Решение прозвучало как гром среди ясного неба.",
-          "source": "Večernje novosti, 2026",
-          "url": "https://www.novosti.rs/sport/kosarka/1638728/kosarkas-crvene-zvezde-zavrsio-karijeru-ljubimac-delija-objavio-kraj-karijere-najnovije-kosarkaske-vesti-nikola-kalinic"
+          "serbian_latin": "Grom iz vedra neba! Nemanja Nedović ima ugovor sa Zvezdom za narednu sezonu.",
+          "russian": "Гром среди ясного неба! У Неманьи Недовича есть контракт со «Звездой» на следующий сезон.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/kosarka/4350634-grom-iz-vedra-neba-nemanja-nedovic-ima-ugovor-sa-zvezdom-za-narednu-sezonu"
         },
         {
-          "serbian_latin": "Sad tek razumem šta znači grom iz vedra neba.",
-          "russian": "Только теперь я понимаю, что означает гром среди ясного неба.",
+          "serbian_latin": "Sad tek razumem šta znači „grom iz vedra neba“.",
+          "russian": "Только теперь я понимаю, что означает «гром среди ясного неба».",
           "source": "Blic, 2020",
           "url": "https://www.blic.rs/vesti/hronika/sad-tek-razumem-sta-znaci-grom-iz-vedra-neba-svedok-opisao-sta-se-dogodilo-kada-je/979d0x2"
         }
       ],
-      "note": "Употребляется о внезапной новости, решении, беде или другом событии, которого никто не ожидал. В русском языке естественный эквивалент — «как гром среди ясного неба».",
+      "note": "Особенно часто встречается сокращённая именная форма grom iz vedra neba, в том числе в газетных заголовках.",
       "keyword": "grom"
+    },
+    {
+      "headword_latin": "kao iz topa",
+      "type": "наречный фразеологизм",
+      "definition_ru": "Ответить немедленно, уверенно и без раздумий.",
+      "synonyms_sr": [
+        "odgovoriti bez razmišljanja",
+        "odmah odgovoriti",
+        "odgovoriti bez oklevanja",
+        "ispaliti odgovor"
+      ],
+      "literal_ru": "Как из пушки.",
+      "register": "Разговорное, экспрессивное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Mirić je kao iz topa odgovorio: „32“.",
+          "russian": "Мирич без раздумий выпалил: «32».",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/mitar-miric-ne-zna-koliko-azbuka-ima-slova-voditelj-ga-odmah-prekorio/vfcsl3t"
+        },
+        {
+          "serbian_latin": "Voditeljka je upitala trenera koji su razlozi poraza, on je kao iz topa odgovorio.",
+          "russian": "Ведущая спросила тренера о причинах поражения, и он ответил без малейшего промедления.",
+          "source": "Srbija Danas, 2025",
+          "url": "https://www.sd.rs/sport/kosarka/obradovic-kao-iz-topa-odgovorio-imao-je-sta-da-kaze-voditeljki-posle-meca-2025-01-09"
+        }
+      ],
+      "note": "Обычно сочетается с глаголами odgovoriti, reći и izgovoriti. Выражение подчёркивает скорость и уверенность ответа, но не гарантирует его правильности.",
+      "keyword": "top"
     },
     {
       "headword_latin": "Kao kec na deset",
@@ -3614,6 +3726,65 @@
       "keyword": "muva"
     },
     {
+      "headword_latin": "kao na iglama",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Быть очень нервным, напряжённым или нетерпеливым; не находить себе места.",
+      "synonyms_sr": [
+        "biti nervozan",
+        "biti napet",
+        "biti nestrpljiv",
+        "ne držati mesto",
+        "biti kao na žeravici"
+      ],
+      "literal_ru": "Как на иголках.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Šta je bre tebi, sinak, šta si k’o na iglama?",
+          "russian": "Да что с тобой, парень, чего ты как на иголках?",
+          "source": "Vukajlija, 2010",
+          "url": "https://vukajlija.com/k-o-na-iglama/243498"
+        },
+        {
+          "serbian_latin": "Ne mogu, brate, nervozan sam… kao da sam na iglama!",
+          "russian": "Не могу, брат, я нервничаю… словно на иголках сижу!",
+          "source": "Vukajlija, 2012",
+          "url": "https://vukajlija.com/kao-na-iglama"
+        }
+      ],
+      "note": "Употребляются конструкции biti kao na iglama, sedeti kao na iglama и kao da je na iglama. Разговорное сокращение — k’o na iglama.",
+      "keyword": "igla"
+    },
+    {
+      "headword_latin": "kao od majke rođen",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Совершенно голый; без одежды.",
+      "synonyms_sr": [
+        "potpuno go / gola",
+        "go kao od majke rođen",
+        "bez ijedne krpice",
+        "nag / naga"
+      ],
+      "literal_ru": "Как рождённый матерью.",
+      "register": "Разговорное, экспрессивное, часто шутливое или таблоидное.",
+      "examples": [
+        {
+          "serbian_latin": "Severina se pojavila za rođendan kao od majke rođena.",
+          "russian": "Северина появилась на дне рождения совершенно голой.",
+          "source": "Grand Online, 2023",
+          "url": "https://grand.nova.rs/showbiz/severina-sokirala-pratioce-pojavila-se-za-rodjendan-kao-od-majke-rodjena-video/"
+        },
+        {
+          "serbian_latin": "Milan Kalinić ko od majke rođen.",
+          "russian": "Милан Калинич — в чём мать родила.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/stars/9973252/milan-kalinic-ko-od-majke-rodjen"
+        }
+      ],
+      "note": "Причастие изменяется по роду и числу: rođen, rođena, rođeni. Распространены полная форма go kao od majke rođen и сокращённая kao od majke rođen.",
+      "keyword": "majka"
+    },
+    {
       "headword_latin": "kao posrani golub",
       "type": "poređenje",
       "definition_ru": "понурый, жалкий и подавленный; как побитая собака",
@@ -3644,6 +3815,36 @@
       "keyword": "golub"
     },
     {
+      "headword_latin": "kao prst i nokat / kao nokat i prst",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Быть очень близкими и неразлучными; прекрасно ладить друг с другом.",
+      "synonyms_sr": [
+        "biti nerazdvojni",
+        "slagati se odlično",
+        "biti kao jedno",
+        "biti srodne duše",
+        "biti kao nokat i meso"
+      ],
+      "literal_ru": "Как палец и ноготь.",
+      "register": "Разговорное, образное, обычно одобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Kad već nađe malu da se slažu k’o prst i nokat, i treba!",
+          "russian": "Раз уж он нашёл девушку, с которой они неразлучны, так и надо!",
+          "source": "Vukajlija, 2011",
+          "url": "https://vukajlija.com/k-o-prst-i-nokat/385169"
+        },
+        {
+          "serbian_latin": "Nekad su bili k’o nokat i prst… čekić je presudio.",
+          "russian": "Когда-то они были неразлучны, как ноготь и палец… пока всё не решил молоток.",
+          "source": "Vukajlija, 2010",
+          "url": "https://vukajlija.com/nokat-i-prst/133544"
+        }
+      ],
+      "note": "Встречаются оба порядка компонентов: kao prst i nokat и kao nokat i prst. Более распространённый родственный вариант — kao nokat i meso.",
+      "keyword": "prst; nokat"
+    },
+    {
       "headword_latin": "Kao riba na suvom",
       "type": "frazeologizam",
       "definition_ru": "как рыба, выброшенная на берег; не в своей тарелке; совершенно беспомощно",
@@ -3669,6 +3870,58 @@
       ],
       "note": "Значение зависит от глагола. Osećati se kao riba na suvom — чувствовать себя не в своей тарелке; snalaziti se kao riba na suvom — совершенно не справляться; živeti kao riba na suvom — находиться в тяжёлых или неподходящих условиях. Антонимичный образ — osećati se kao riba u vodi, то есть чувствовать себя свободно и естественно. Нормативная сербская форма — na suvom.",
       "keyword": "riba na suvom"
+    },
+    {
+      "headword_latin": "kao riba u vodi",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Чувствовать себя совершенно естественно, свободно и уверенно в подходящей или хорошо знакомой среде.",
+      "synonyms_sr": [
+        "osećati se kao kod kuće",
+        "biti u svom elementu",
+        "snalaziti se odlično",
+        "osećati se potpuno opušteno"
+      ],
+      "literal_ru": "Как рыба в воде.",
+      "register": "Нейтральное или разговорное, обычно одобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Kad spustim glavu ispod vode, osećam da sam u svom svetu — kao riba u vodi.",
+          "russian": "Когда я опускаю голову под воду, то чувствую себя в своём мире — как рыба в воде.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/magazin/nauka/2709221/kao-riba-u-vodi-.html"
+        },
+        {
+          "serbian_latin": "Plivajte često i osećaćete se na zemlji kao riba u vodi.",
+          "russian": "Плавайте чаще, и на суше вы будете чувствовать себя как рыба в воде.",
+          "source": "Espreso, 2022",
+          "url": "https://www.espreso.co.rs/vesti/drustvo/1147673/pij-vodu-gde-konj-pije-narodna-mudrost"
+        }
+      ],
+      "note": "Чаще всего сочетается с osećati se. Может обозначать как душевный комфорт, так и уверенное владение профессией или деятельностью.",
+      "keyword": "riba"
+    },
+    {
+      "headword_latin": "kao rukom odneseno",
+      "type": "наречный фразеологизм",
+      "definition_ru": "Исчезнуть сразу и полностью; обычно о боли, симптоме, тревоге или проблеме.",
+      "synonyms_sr": [
+        "odmah proći",
+        "nestati bez traga",
+        "potpuno iščeznuti",
+        "kao da ga nikad nije bilo"
+      ],
+      "literal_ru": "Словно рукой унесло.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Do sutra ujutru ima da bude… ko rukom odnešeno!",
+          "russian": "К завтрашнему утру всё пройдёт — как рукой снимет!",
+          "source": "Vukajlija, 2009",
+          "url": "https://vukajlija.com/k-o-rukom-odneseno"
+        }
+      ],
+      "note": "Нормативная форма — odneseno; написание odnešeno в приведённом интернет-примере ненормативно. Окончание согласуется с подлежащим: bol je kao rukom odnesena, problemi su kao rukom odneseni.",
+      "keyword": "ruka"
     },
     {
       "headword_latin": "Kap koja je prelila čašu",
