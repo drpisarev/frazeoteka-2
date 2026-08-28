@@ -3462,6 +3462,36 @@
       "keyword": "dunuti"
     },
     {
+      "headword_latin": "kako stoje stvari / kako stvari stoje",
+      "type": "ustaljeni izraz",
+      "definition_ru": "как обстоят дела; каково реальное положение дел; что происходит",
+      "synonyms_sr": [
+        "kakva je situacija",
+        "kakvo je stanje",
+        "šta se dešava",
+        "na čemu smo",
+        "kakve su okolnosti"
+      ],
+      "literal_ru": "как стоят вещи",
+      "register": "нейтральное, часто разговорное",
+      "examples": [
+        {
+          "serbian_latin": "Čekaj polako, prvo da ti objasnim kako stoje stvari…",
+          "russian": "Подожди, не торопись, сначала я объясню тебе, как обстоят дела.",
+          "source": "Vukajlija, 2010",
+          "url": "https://vukajlija.com/kako-stoje-stvari"
+        },
+        {
+          "serbian_latin": "Pozabavili smo se cenama Big Meka nekad i sada i uporedili ih da bismo videli kako stoje stvari.",
+          "russian": "Мы рассмотрели прежние и нынешние цены на бигмак и сопоставили их, чтобы понять, как в действительности обстоят дела.",
+          "source": "Vreme, 2025",
+          "url": "https://vreme.com/ekonomija/nekad-i-sad-pre-deset-godina-dva-big-mek-obroka-za-920-danas-jedan-za-iste-pare/"
+        }
+      ],
+      "note": "Выражение употребляется, когда говорят о фактической ситуации, реальном положении дел или существующем соотношении обстоятельств. Возможны оба порядка слов: kako stoje stvari и kako stvari stoje. Первая форма особенно характерна для вопросов и придаточных предложений: da vidimo kako stoje stvari. Вторая часто ставится в начале высказывания и передаёт значение «судя по нынешнему положению дел»: Kako stvari stoje, moraćemo da odložimo put.",
+      "keyword": "stvar"
+    },
+    {
       "headword_latin": "kao grom iz vedra neba",
       "type": "устойчивое сравнение",
       "definition_ru": "совершенно неожиданно; внезапно и потрясающе",
