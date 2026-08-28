@@ -3395,6 +3395,30 @@
       "keyword": "kad na vrbi rodi grožđe"
     },
     {
+      "headword_latin": "kako kome dune",
+      "type": "priloški frazem",
+      "definition_ru": "как кому вздумается; как кому заблагорассудится; по собственной прихоти или настроению",
+      "synonyms_sr": [
+        "kako se kome ćefne",
+        "kako ko hoće",
+        "po svom nahođenju",
+        "po sopstvenom ćefu",
+        "samovoljno"
+      ],
+      "literal_ru": "как кому дунет",
+      "register": "разговорное, экспрессивное; часто неодобрительное",
+      "examples": [
+        {
+          "serbian_latin": "— Idemo do Pekija večeras na žuraju? — Ne'am pojma, videću kako mi dune.",
+          "russian": "— Пойдём сегодня вечером на тусовку к Пеки? — Без понятия, посмотрю, как мне захочется.",
+          "source": "Vukajlija, 2011",
+          "url": "https://vukajlija.com/kako-mi-dune/488016"
+        }
+      ],
+      "note": "Это продуктивная разговорная модель: kako mi/ti/mu/joj/nam/vam/im dune. Она обозначает действие по внезапному желанию, настроению или прихоти, нередко без учёта правил и мнения других. В форме kako mi dune выражение может звучать непринуждённо; о другом человеке — часто неодобрительно. Не следует смешивать kako kome dune («как кому вздумается») и kad kome dune («когда кому вздумается»). В сербской части интернета найден один надёжный полноценный пример, поэтому дополнительные примеры не добавлены.",
+      "keyword": "dunuti"
+    },
+    {
       "headword_latin": "kao grom iz vedra neba",
       "type": "устойчивое сравнение",
       "definition_ru": "совершенно неожиданно; внезапно и потрясающе",
