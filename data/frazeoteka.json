@@ -4734,6 +4734,35 @@
       "keyword": "francuska sobarica"
     },
     {
+      "headword_latin": "najebati kao žuti",
+      "type": "glagolski frazem; poređenje",
+      "definition_ru": "очень плохо кончить; крупно влипнуть; серьёзно пострадать",
+      "synonyms_sr": [
+        "gadno nadrljati",
+        "loše proći",
+        "upasti u velike nevolje",
+        "izvući deblji kraj"
+      ],
+      "literal_ru": "н***баться, как Жёлтый",
+      "register": "вульгарное, разговорное, экспрессивное",
+      "examples": [
+        {
+          "serbian_latin": "A: Cuo sam da je Perica krao kod komsije neke kajsije, pa je najebao ko zuti.",
+          "russian": "А: Я слышал, Перица воровал у соседа абрикосы и крупно влип.",
+          "source": "Vukajlija, 2008",
+          "url": "https://vukajlija.com/najebao-ko-zuti/12079"
+        },
+        {
+          "serbian_latin": "Kao i sve druge stvari, nakon nekog vremena događaj je pao u zaborav, ali je ostala izreka kad neko nadrlja ili ga neka nesreća snađe, „najebo ko Žuti“.",
+          "russian": "Как и многое другое, со временем это событие забылось, но осталось выражение «влип, как Жёлтый» — о том, кто попал в беду или с кем случилось несчастье.",
+          "source": "Telegraf, 2017",
+          "url": "https://www.telegraf.rs/zanimljivosti/svastara/2883914-kako-je-nastala-izreka-najeao-ko-zuti-i-kakve-veze-ima-mostarska-legenda-na-veliki-danasnji-praznik-foto"
+        }
+      ],
+      "note": "Сербское грубое выражение о человеке, который оказался в больших неприятностях или тяжело пострадал. В живой речи часто встречаются формы najebao ko žuti и najebo ko Žuti. Интернет предлагает разные легенды о происхождении оборота; надёжно установленной этимологии указывать не следует.",
+      "keyword": "žuti"
+    },
+    {
       "headword_latin": "Napaćena duša",
       "type": "kolokacija",
       "definition_ru": "измученная душа; многострадальная душа; измученный человек",
@@ -4948,6 +4977,35 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "ne moći očima videti nekoga",
+      "type": "glagolski frazem",
+      "definition_ru": "терпеть кого-либо не мочь; испытывать к кому-либо сильную неприязнь",
+      "synonyms_sr": [
+        "ne podnositi nekoga",
+        "mrzeti nekoga",
+        "prezirati nekoga",
+        "ne moći smisliti nekoga"
+      ],
+      "literal_ru": "не мочь видеть кого-либо глазами",
+      "register": "разговорное, экспрессивное",
+      "examples": [
+        {
+          "serbian_latin": "Tog Jaga ne mogu očima da vidim.",
+          "russian": "Я этого Яго терпеть не могу.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/evroliga-kosarka/veciti/4254347-jaga-ne-mogu-ocima-da-vidim-ne-znam-zasto-ima-prostora-da-igra-brutalne-reci-za-zvezdinog-pleja"
+        },
+        {
+          "serbian_latin": "Ne pominji mi ga, ne mogu očima da ga vidim!",
+          "russian": "Не упоминай его при мне, я его видеть не могу!",
+          "source": "Vukajlija, 2010",
+          "url": "https://vukajlija.com/ne-mogu-ocima-da-ga-vidim/218401"
+        }
+      ],
+      "note": "Оборот обозначает сильную личную неприязнь, а не невозможность увидеть человека. В разговорной сербской речи особенно обычна конструкция ne mogu očima da ga/je vidim; словарная инфинитивная форма служит заголовком статьи.",
+      "keyword": "oko"
+    },
+    {
       "headword_latin": "Ne mogu sebi da priuštim",
       "type": "izraz",
       "definition_ru": "я не могу себе позволить; мне это не по карману; я не могу себе этого допустить",
@@ -4977,6 +5035,81 @@
       ],
       "note": "Как и русское «позволить себе», priuštiti sebi давно вышло за пределы денег: Ne mogu sebi da priuštim da zakasnim / da pogrešim / taj luksuz. Возможен и порядок ne mogu da priuštim sebi, но ne mogu sebi da priuštim очень естественно.",
       "keyword": "priuštiti sebi"
+    },
+    {
+      "headword_latin": "ne videti dalje od nosa",
+      "type": "glagolski frazem",
+      "definition_ru": "не видеть дальше собственного носа; мыслить узко и недальновидно",
+      "synonyms_sr": [
+        "biti kratkovid",
+        "imati uske poglede",
+        "ne sagledavati posledice",
+        "gledati samo sopstveni interes"
+      ],
+      "literal_ru": "не видеть дальше носа",
+      "register": "разговорное, неодобрительное",
+      "examples": [
+        {
+          "serbian_latin": "Ne vidite dalje od svog nosa i nema nikoga ko će da vam kaže to.",
+          "russian": "Вы не видите дальше собственного носа, и некому вам об этом сказать.",
+          "source": "Alo, 2025",
+          "url": "https://www.alo.rs/vesti/politika/233344/sram-vas-bilo-ne-vidite-dalje-od-svog-nosa-a-nema-nikoga-da-vam-to-kaze-ana-brnabic-ocitala-lekciju-foteljasima-sa-etf-a-nakon-sramne-objave.html"
+        }
+      ],
+      "note": "Так говорят о человеке, который не способен учитывать более широкую картину, будущее или интересы других. Притяжательное местоимение часто уточняется по субъекту: svog, sopstvenog, dalje od svoga nosa.",
+      "keyword": "nos"
+    },
+    {
+      "headword_latin": "ne videti prst pred okom",
+      "type": "glagolski frazem",
+      "definition_ru": "ничего не видеть из-за темноты, тумана, дождя или снега",
+      "synonyms_sr": [
+        "ništa se ne vidi",
+        "vidljivost je nikakva",
+        "ne vidi se ni na korak",
+        "biti u potpunom mraku"
+      ],
+      "literal_ru": "не видеть пальца перед глазом",
+      "register": "разговорное, экспрессивное",
+      "examples": [
+        {
+          "serbian_latin": "Prst pred okom se ne vidi u prestonici, vidljivost smanjena na nekoliko metara!",
+          "russian": "В столице не видно ни зги: видимость сократилась до нескольких метров!",
+          "source": "Kurir, 2025",
+          "url": "https://www.kurir.rs/vesti/beograd/9865376/VELIKA-MAGLA-SPUSTILA-SE-NA-BEOGRAD-Prst-pred-okom-se-ne-vidi-u-prestonici-vidljivost-smanjena-na-nekoliko-metara-Potreban-poseban-oprez-u-saobracaju"
+        },
+        {
+          "serbian_latin": "Ne vidi se prst pred okom: Nevreme pogodilo ovaj deo Srbije, kiša napravila pometnju na auto-putu.",
+          "russian": "Не видно ни зги: на эту часть Сербии обрушилась непогода, дождь осложнил движение на автомагистрали.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/vesti/srbija/4374301-ne-vidi-se-prst-pred-okom-nevreme-pogodilo-ovaj-deo-srbije-kisa-napravila-pometnju-na-auto-putu"
+        }
+      ],
+      "note": "В сербских источниках устойчиво подтверждается вариант pred okom. Исходную форму pred nosom в сербскую статью не переносим: для данного значения она не получила сопоставимого подтверждения в проверенной сербской выдаче.",
+      "keyword": "prst; oko"
+    },
+    {
+      "headword_latin": "ne vredeti ni pišljiva boba",
+      "type": "glagolski frazem",
+      "definition_ru": "ничего не стоить; не иметь никакой ценности",
+      "synonyms_sr": [
+        "ne vredeti ništa",
+        "ne vredeti ni prebijene pare",
+        "biti bezvredan",
+        "ne vredeti ni pet para"
+      ],
+      "literal_ru": "не стоить даже паршивого боба",
+      "register": "разговорное, экспрессивное, неодобрительное",
+      "examples": [
+        {
+          "serbian_latin": "Vaša duša ne vredi pišljiva boba.",
+          "russian": "Ваша душа не стоит ни гроша.",
+          "source": "Nova.rs, 2022",
+          "url": "https://nova.rs/kultura/slusaj-lutko-reci-cu-ti-istinu-jeiga-dusa-ne-vredi-pisljiva-boba-2/"
+        }
+      ],
+      "note": "Оборот подчёркивает полную ничтожность цены, качества или значения. Частица ni может опускаться в конкретном предложении, как в засвидетельствованном примере, но словарная форма обычно приводится с ni.",
+      "keyword": "boba"
     },
     {
       "headword_latin": "Neće ti faliti ni dlaka s glave",
@@ -5009,6 +5142,29 @@
       ],
       "note": "Выражение означает гарантию безопасности вообще: опасность может исходить от третьих лиц, а говорящий лишь обещает, что ничего плохого не случится. Лингвистические исследования прямо приводят Neće ti faliti ni dlaka s glave как сербский эквивалент английского not harm a hair of somebody’s head. В живой речи встречаются варианты neće ti faliti dlaka s glave, neće ti ni dlaka s glave pasti.",
       "keyword": "neće ti faliti ni dlaka s glave"
+    },
+    {
+      "headword_latin": "nema frke",
+      "type": "rečenični frazem",
+      "definition_ru": "нет проблем; не беспокойся; всё в порядке",
+      "synonyms_sr": [
+        "nema problema",
+        "bez brige",
+        "sve je u redu",
+        "lagano"
+      ],
+      "literal_ru": "нет паники / переполоха",
+      "register": "разговорное, сленговое",
+      "examples": [
+        {
+          "serbian_latin": "Šta me gledaš brate, aj briši da te nisam vido ovde više nikad! — Nema frke brate, otišao sam.",
+          "russian": "Чего смотришь, брат, давай исчезни, чтобы я тебя здесь больше не видел! — Без проблем, брат, я ушёл.",
+          "source": "Vukajlija, 2009",
+          "url": "https://vukajlija.com/nema-frke/89679"
+        }
+      ],
+      "note": "Формула может успокаивать собеседника или выражать готовность без возражений выполнить просьбу. В нейтральной речи предпочтительно nema problema или ne brini.",
+      "keyword": "frka"
     },
     {
       "headword_latin": "Nema ga ni od korova",
@@ -5072,6 +5228,64 @@
       ],
       "note": "Конструкция буквально устроена как «ему нет равного», поэтому местоимение стоит в дательном: nema mu ravna, nema joj ravne. Выражение обычно является сильной похвалой и может уточняться сферой: kao lekar, kao majstor, u tom poslu. Близкое nema mu premca звучит несколько книжнее и торжественнее.",
       "keyword": "nema mu ravna"
+    },
+    {
+      "headword_latin": "nema ni od korova",
+      "type": "rečenični frazem",
+      "definition_ru": "совсем нет; нигде не найти; и следа нет",
+      "synonyms_sr": [
+        "nema nigde",
+        "ni traga ni glasa",
+        "nema ga ni za lek",
+        "nema ni jednog"
+      ],
+      "literal_ru": "нет даже среди сорняков",
+      "register": "разговорное, экспрессивное",
+      "examples": [
+        {
+          "serbian_latin": "A psećeg izmeta na Kališu, ni od korova...",
+          "russian": "А собачьих экскрементов на Калише — нигде ни следа...",
+          "source": "Vukajlija, 2010",
+          "url": "https://vukajlija.com/ni-od-korova/124478"
+        },
+        {
+          "serbian_latin": "Beograd u razvaljenom stanju, Šapićev saradnik ponovo osuđen, gradonačelnika „ni od korova“.",
+          "russian": "Белград в разваленном состоянии, сотрудника Шапича снова осудили, а мэра нигде не видно.",
+          "source": "Nova.rs, 2025",
+          "url": "https://nova.rs/emisije/beograd-u-razvaljenom-stanju-sapicev-saradnik-ponovo-osudjen-gradnonacelnika-ni-od-korova/"
+        }
+      ],
+      "note": "Обычно относится к человеку или предмету, который должен быть на месте, но совершенно не находится. Часто употребляется сокращённо — ni od korova — после уже названного существительного.",
+      "keyword": "korov"
+    },
+    {
+      "headword_latin": "nema ni za lek",
+      "type": "rečenični frazem",
+      "definition_ru": "совсем нет; невозможно найти ни одного экземпляра",
+      "synonyms_sr": [
+        "nema ni od korova",
+        "nema nigde",
+        "nema ni jednog",
+        "ni traga nema"
+      ],
+      "literal_ru": "нет даже на лекарство",
+      "register": "разговорное, экспрессивное",
+      "examples": [
+        {
+          "serbian_latin": "Sine, ostavi taj pištolj, tu nema metka ni za lek.",
+          "russian": "Сынок, оставь этот пистолет, там ни одного патрона не найти.",
+          "source": "Vukajlija, 2013",
+          "url": "https://vukajlija.com/ni-za-lek/687254"
+        },
+        {
+          "serbian_latin": "Deco, nećemo imati čas OTO-a danas, nema lepka ni za lek.",
+          "russian": "Дети, сегодня урока труда не будет: клея совсем нет.",
+          "source": "Vukajlija, 2013",
+          "url": "https://vukajlija.com/ni-za-lek/687254"
+        }
+      ],
+      "note": "Выражение обозначает крайнюю нехватку: нет даже минимального количества того, что требуется. Возможна самостоятельная форма ni za lek после названного предмета.",
+      "keyword": "lek"
     },
     {
       "headword_latin": "Nema odmora dok traje obnova",
@@ -5172,6 +5386,35 @@
       "keyword": "neprskano"
     },
     {
+      "headword_latin": "nestati sa scene",
+      "type": "glagolski frazem",
+      "definition_ru": "исчезнуть из публичной жизни; перестать выступать или появляться в медиапространстве",
+      "synonyms_sr": [
+        "povući se iz javnosti",
+        "prestati da nastupa",
+        "nestati iz medija",
+        "skloniti se sa estrade"
+      ],
+      "literal_ru": "исчезнуть со сцены",
+      "register": "нейтральное, часто публицистическое",
+      "examples": [
+        {
+          "serbian_latin": "Pevačica nestala sa scene, umro joj muž, decu odgajila sama.",
+          "russian": "Певица исчезла со сцены; её муж умер, и детей она вырастила одна.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/pevacica-nestala-sa-scene-umro-joj-muz-decu-odgajila-sama-posle-30-godina-donela/mlt1dk2"
+        },
+        {
+          "serbian_latin": "Svi su je voleli kao Danicu iz „Lajanja na zvezde“, a onda je nestala sa domaće scene.",
+          "russian": "Все любили её в роли Даницы из «Лая на звёзды», а потом она исчезла с отечественной сцены.",
+          "source": "Nova.rs, 2026",
+          "url": "https://nova.rs/zabava/showbiz/svi-su-je-voleli-kao-danicu-iz-lajanja-na-zvezde-a-onda-je-nestala-sa-domace-scene-napustila-je-srbiju-i-pocela-da-radi-kao-bebisiterka-a-evo-kako-danas-izgleda/"
+        }
+      ],
+      "note": "Чаще всего говорится об артистах, политиках и других публичных фигурах. Оборот может означать как сознательный уход из публичной жизни, так и постепенную потерю известности.",
+      "keyword": "scena"
+    },
+    {
       "headword_latin": "nešto je nekome kao dobar dan",
       "type": "poređenje",
       "definition_ru": "быть для кого-либо совершенно обычным делом; стать повседневной привычкой",
@@ -5193,6 +5436,35 @@
       ],
       "note": "Конструкция nešto je nekome kao dobar dan означает, что действие стало совершенно привычным. В заголовках встречается эллиптическая форма nešto za dobar dan. Точная конструкция kao dobar dan индексируется на Forum B92, но страница сейчас недоступна для проверки цитаты.",
       "keyword": "dobar dan"
+    },
+    {
+      "headword_latin": "ni za živu glavu",
+      "type": "priloški frazem",
+      "definition_ru": "ни за что; ни при каких обстоятельствах; ни в коем случае",
+      "synonyms_sr": [
+        "ni po koju cenu",
+        "nipošto",
+        "nikako",
+        "ni u ludilu"
+      ],
+      "literal_ru": "даже ради спасения живой головы",
+      "register": "разговорное, экспрессивное",
+      "examples": [
+        {
+          "serbian_latin": "Jednostavno, ni za živu glavu ne otvarajte sumnjive linkove.",
+          "russian": "Просто ни в коем случае не открывайте подозрительные ссылки.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/vesti/drustvo/9911503/ni-za-zivu-glavu-ne-otvarajte-whatsapp-linkove-prevara-ugrozava-nalog-i-novac"
+        },
+        {
+          "serbian_latin": "Ni za živu glavu ne govorite ovih pet stvari svekrvi i svekru!",
+          "russian": "Ни в коем случае не говорите эти пять вещей свекрови и свёкру!",
+          "source": "Stil, 2020",
+          "url": "https://stil.kurir.rs/porodica/119289/jezik-za-zube-ovih-5-stvari-ni-za-zivu-glavu-ne-govorite-svekrvi-i-svekru"
+        }
+      ],
+      "note": "Усилительная конструкция при категорическом запрете или отказе. Обычно стоит перед отрицательной формой глагола: ni za živu glavu ne otvaraj, ne govori, ne pristaj.",
+      "keyword": "glava"
     },
     {
       "headword_latin": "Nije ni ona cvećka",
