@@ -3780,31 +3780,83 @@
       "keyword": "kola"
     },
     {
-      "headword_latin": "Koštati kao Svetog Petra kajgana",
-      "type": "frazeologizam",
-      "definition_ru": "стоить бешеных денег; обойтись безумно дорого; влететь в копеечку",
+      "headword_latin": "korak po korak",
+      "type": "наречный фразеологизм",
+      "definition_ru": "Постепенно; шаг за шагом; понемногу продвигаясь к цели.",
       "synonyms_sr": [
-        "koštati đavo i po",
-        "biti papreno skup",
-        "skupo stajati",
-        "platiti papreno"
+        "postepeno",
+        "malo-pomalo",
+        "korak za korakom"
       ],
-      "literal_ru": "стоить как яичница святого Петра",
-      "register": "razg., ekspresivno; takođe stajati nekoga kao Svetog Petra kajgana",
+      "literal_ru": "Шаг за шагом.",
+      "register": "Нейтральное, общеупотребительное.",
       "examples": [
         {
-          "serbian_latin": "Ovaj popravak će me koštati kao Svetog Petra kajgana.",
-          "russian": "Этот ремонт влетит мне в копеечку.",
-          "source": ""
+          "serbian_latin": "Korak po korak i naš gost je Bogdan Korak, čućemo kako je tekla ova nemoguća misija.",
+          "russian": "Шаг за шагом — и наш гость Богдан Корак расскажет, как проходила эта невозможная миссия.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-1/5842279/korak-po-korak.html"
         },
         {
-          "serbian_latin": "Platili smo hotel kao Svetog Petra kajgana, a soba je bila prosečna.",
-          "russian": "За гостиницу отдали бешеные деньги, а номер оказался самый обычный.",
-          "source": ""
+          "serbian_latin": "Korak po korak ka nadi?",
+          "russian": "Шаг за шагом к надежде?",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/najave-emisija/n1-direktno-u-20h-korak-po-korak-ka-nadi/"
         }
       ],
-      "note": "Значение однозначно: очень дорого стоить / заплатить чрезвычайно высокую цену; выражение фиксируется и в научных работах по сербской фразеологии. А вот происхождение имеет несколько версий. В сербской традиции известна история о том, как Sveti Petar съел предназначенную детям бедной вдовы яичницу и затем дорого расплачивался за проступок; её обработал в стихах Jovan Jovanović Zmaj. Есть и близкое греческое выражение о «дорогой яичнице Svetog Đorđa». Milan Šipka обсуждает обе версии, поэтому единственную легенду как доказанную этимологию лучше не выдавать.",
-      "keyword": "Svetog Petra kajgana"
+      "note": "Выражение обозначает постепенное продвижение или последовательное выполнение действий. Не следует путать его с буквальным описанием ходьбы.",
+      "keyword": "korak"
+    },
+    {
+      "headword_latin": "koštati kao Svetog Petra kajgana",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Стоить чрезвычайно дорого; обойтись кому-либо в непомерную сумму или потребовать большой жертвы.",
+      "synonyms_sr": [
+        "koštati papreno",
+        "biti preskup",
+        "skupo stajati nekoga"
+      ],
+      "literal_ru": "Стоить как яичница святого Петра.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Kada nešto platimo više nego inače ili je skupo, često kažemo da nas je to koštalo „kao Svetog Petra kajgana“.",
+          "russian": "Когда мы платим за что-то больше обычного или вещь оказывается дорогой, мы часто говорим, что она обошлась нам как яичница святого Петра.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/zivot/zasto-se-kaze-da-nesto-kosta-kao-svetog-petra-kajgana/"
+        },
+        {
+          "serbian_latin": "Zašto nas nešto košta kao Svetog Petra kajgana?",
+          "russian": "Почему что-либо обходится нам как яичница святого Петра?",
+          "source": "Kurir, 2022",
+          "url": "https://www.kurir.rs/zabava/zanimljivosti/3957009/izreke-verovanja-znacenja"
+        }
+      ],
+      "note": "Фразеологизм связан с народными рассказами о том, как дорого святому Петру обошлась яичница. В сербских источниках встречаются написания Svetog Petra и svetog Petra; имя Petar всегда пишется с прописной буквы.",
+      "keyword": "kajgana"
+    },
+    {
+      "headword_latin": "krasti Bogu dane",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Бездельничать; бесцельно проводить время; ничего полезного не делать.",
+      "synonyms_sr": [
+        "dangubiti",
+        "gubiti vreme",
+        "lenčariti",
+        "ne raditi ništa"
+      ],
+      "literal_ru": "Красть у Бога дни.",
+      "register": "Разговорное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Zato kradimo Bogu dane dok ne dođe i na nas red.",
+          "russian": "Так что будем бездельничать, пока очередь не дойдёт и до нас.",
+          "source": "Vukajlija, 2008",
+          "url": "https://vukajlija.com/krasti-bogu-dane"
+        }
+      ],
+      "note": "Выражение обычно содержит неодобрительную оценку: человек тратит отпущенное ему время впустую. Слово Bogu в устойчивом обороте пишется с прописной буквы.",
+      "keyword": "Bog; dan"
     },
     {
       "headword_latin": "krenuti nečijim stopama",
@@ -3864,6 +3916,114 @@
       "keyword": "zmija; noge"
     },
     {
+      "headword_latin": "lagati kao pas",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Нагло, бесстыдно или очень много лгать.",
+      "synonyms_sr": [
+        "besramno lagati",
+        "lagati bez prestanka",
+        "izmišljati",
+        "lagati čim zine"
+      ],
+      "literal_ru": "Лгать как собака.",
+      "register": "Разговорное, грубоватое, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Kada želimo da nekoga označimo kao prevaranta, kažemo da „laže kao pas“.",
+          "russian": "Когда мы хотим назвать кого-либо обманщиком, мы говорим, что он врёт как собака.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/zivot/kako-to-pas-moze-da-laze-dva-objasnjenja-za-poreklo-ovog-izraza/"
+        },
+        {
+          "serbian_latin": "Verovatno ste nekada i sami nekome u ljutnji poručili da „laže kao pas“.",
+          "russian": "Вероятно, вы и сами когда-нибудь в сердцах говорили кому-то, что он врёт как собака.",
+          "source": "Nportal, 2022",
+          "url": "https://nportal.novosti.rs/vest/15336/zanimljivosti/viral/pas-izraz-laze-kao-pas-zasto-se-kaze-da-neko-laze-kao-pas"
+        }
+      ],
+      "note": "Оборот характеризует ложь как особенно наглую или постоянную. В живой речи часто встречается сокращённое ko: laže kô pas.",
+      "keyword": "pas"
+    },
+    {
+      "headword_latin": "lagati nekoga u oči",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Лгать кому-либо прямо в лицо, не смущаясь непосредственного контакта.",
+      "synonyms_sr": [
+        "lagati nekome pravo u lice",
+        "besramno lagati",
+        "obmanjivati nekoga bez ustezanja"
+      ],
+      "literal_ru": "Лгать кому-либо в глаза.",
+      "register": "Разговорное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Evo kako ćete znati da vas neko laže u oči.",
+          "russian": "Вот как понять, что кто-то лжёт вам прямо в глаза.",
+          "source": "City Magazine, 2024",
+          "url": "https://citymagazine.danas.rs/lifestyle/zdravlje/psihologija/strucnjakinja-za-govor-tela-otkrila-evo-kako-cete-znati-da-vas-neko-laze-u-oci/"
+        },
+        {
+          "serbian_latin": "Da li ste ikada primetili da vas neko laže, a gleda vas u oči?",
+          "russian": "Замечали ли вы когда-нибудь, что человек лжёт вам, глядя прямо в глаза?",
+          "source": "City Magazine, 2024",
+          "url": "https://citymagazine.danas.rs/lifestyle/zdravlje/psihologija/strucnjakinja-za-govor-tela-otkrila-evo-kako-cete-znati-da-vas-neko-laze-u-oci/"
+        }
+      ],
+      "note": "В современном сербском объект часто оформляется винительным падежом: lagati nekoga, laže me, laže vas. Возможна и конструкция с дательным падежом: lagati nekome u oči.",
+      "keyword": "oko"
+    },
+    {
+      "headword_latin": "lak kao pero",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Очень лёгкий, почти невесомый.",
+      "synonyms_sr": [
+        "veoma lagan",
+        "lak kao perce",
+        "gotovo bez težine"
+      ],
+      "literal_ru": "Лёгкий как перо.",
+      "register": "Нейтральное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Lagane kao pero: mekane lepinje na žici.",
+          "russian": "Лёгкие как пёрышко: мягкие лепёшки на решётке.",
+          "source": "Stvar ukusa, 2019",
+          "url": "https://stvarukusa.mondo.rs/recepti/domaci-hleb-pite-peciva/hleb/a13623/LAGANE-KAO-PERO-Mekane-lepinje-na-zici-VIDEO.html"
+        }
+      ],
+      "note": "Форма прилагательного согласуется с определяемым словом: lak, laka, lako, laki, lake. Уменьшительный вариант lak kao perce звучит ещё выразительнее.",
+      "keyword": "pero"
+    },
+    {
+      "headword_latin": "laže čim zine",
+      "type": "предикативный фразеологизм",
+      "definition_ru": "Постоянно врёт; врёт всякий раз, как только открывает рот.",
+      "synonyms_sr": [
+        "stalno laže",
+        "laže bez prestanka",
+        "ne može da otvori usta a da ne slaže",
+        "laže kao pas"
+      ],
+      "literal_ru": "Врёт, как только откроет рот.",
+      "register": "Разговорное, экспрессивное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Kažemo da „lažu čim zinu“: ovi znakovi odaju patološkog lažova.",
+          "russian": "Мы говорим, что они врут, едва откроют рот: эти признаки выдают патологического лжеца.",
+          "source": "Prva TV, 2020",
+          "url": "https://www.prva.rs/zivot/zanimljivosti/kazemo-da-lazu-cim-zinu-ovi-znakovi-odaju-patoloskog-lazova-1952282"
+        },
+        {
+          "serbian_latin": "Ni nauka danas nema tačan odgovor zašto ti ljudi lažu čim zinu.",
+          "russian": "Даже наука сегодня не может точно ответить, почему эти люди врут всякий раз, как откроют рот.",
+          "source": "Prva TV, 2020",
+          "url": "https://www.prva.rs/zivot/zanimljivosti/kazemo-da-lazu-cim-zinu-ovi-znakovi-odaju-patoloskog-lazova-1952282"
+        }
+      ],
+      "note": "Словарная форма обычно приводится как готовая конструкция в третьем лице. Подлежащее и форма глагола могут меняться: lažem čim zinem, lažeš čim zineš, lažu čim zinu.",
+      "keyword": "zinuti"
+    },
+    {
       "headword_latin": "lepiti se kao muve na govno",
       "type": "poređenje",
       "definition_ru": "липнуть как мухи к д*рьму; толпиться вокруг кого-либо из-за сильного влечения или корыстного интереса",
@@ -3920,36 +4080,91 @@
       "keyword": "krokodilske suze"
     },
     {
-      "headword_latin": "Malo sutra",
-      "type": "replika",
-      "definition_ru": "ага, сейчас!; как бы не так!; никогда; щас, разбежался!",
+      "headword_latin": "lome se koplja oko nečega",
+      "type": "предикативный фразеологизм",
+      "definition_ru": "Ведутся ожесточённые или длительные споры о чём-либо.",
       "synonyms_sr": [
-        "važi, kako da ne (iron.)",
-        "nikad",
-        "nema šanse",
-        "malo morgen (razg.)"
+        "žestoko se raspravljati",
+        "voditi polemiku",
+        "sporiti se oko nečega",
+        "ukrštati stavove"
       ],
-      "literal_ru": "",
-      "register": "razg., iron.; izrazito odrična replika kojom se odbacuje obećanje, tvrdnja ili očekivanje",
+      "literal_ru": "Ломаются копья вокруг чего-либо.",
+      "register": "Нейтральное, часто публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Zadovoljni, ali malo sutra.",
-          "russian": "Довольны? Ага, как бы не так.",
-          "source": "Danas, 2021"
+          "serbian_latin": "Ovde je sada pitanje, čini mi se, cena — oko toga će se lomiti koplja.",
+          "russian": "Теперь вопрос, как мне кажется, в цене — вокруг неё и разгорятся основные споры.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5861533/banjac-mol-u-se-na-tacni-pruza-celo-trziste-srbije-oko-cene-nis-a-ce-se-lomiti-koplja.html"
         },
         {
-          "serbian_latin": "Srbija sutra, a misli se Srbija, al’ juče, ili Srbija — malo sutra.",
-          "russian": "«Сербия завтра», а на деле — «Сербия вчера» или вообще «Сербия — как бы не так».",
-          "source": "Danas, 2024"
-        },
-        {
-          "serbian_latin": "On će meni da vrati pare do petka? Malo sutra!",
-          "russian": "Он мне до пятницы деньги вернёт? Ага, сейчас!",
-          "source": ""
+          "serbian_latin": "Zašto su se lomila koplja oko Zakona o vodama?",
+          "russian": "Почему вокруг Закона о водах велись такие ожесточённые споры?",
+          "source": "Blic, 2021",
+          "url": "https://www.blic.rs/vesti/politika/cije-su-nase-reke-zasto-su-se-lomila-koplja-oko-zakona-o-vodama-kojeg-je-vucic-vratio/qlvph2b"
         }
       ],
-      "note": "Перевод просто «никогда» слишком узок. Malo sutra! часто является реакцией недоверия: «ага, сейчас!», «как бы не так!». В некоторых контекстах результатом действительно является «никогда»: обещанное «завтра» никогда не наступит. Это одна из тех сербских реплик, смысл которых практически невозможно вывести из отдельных слов.",
-      "keyword": "malo sutra"
+      "note": "Обычно употребляется во множественном числе и в возвратной конструкции: lome se koplja, lomila su se koplja. После oko стоит родительный падеж.",
+      "keyword": "koplje"
+    },
+    {
+      "headword_latin": "mačji kašalj",
+      "type": "именной фразеологизм",
+      "definition_ru": "Пустяк; лёгкое дело; проблема, которую можно решить без особых усилий.",
+      "synonyms_sr": [
+        "sitnica",
+        "dečja igra",
+        "laka stvar",
+        "ništa posebno"
+      ],
+      "literal_ru": "Кошачий кашель.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Obično za nešto što ćemo lako i bez poteškoća uraditi kažemo „mačji kašalj“.",
+          "russian": "Обычно о том, что мы сделаем легко и без затруднений, говорят: «пустяковое дело».",
+          "source": "Pet Magazine, 2019",
+          "url": "https://petmagazine.rs/macka/zdravlje-macji-kasalj/"
+        },
+        {
+          "serbian_latin": "Iako svako od nas povremeno ume reći da je neki zadatak „mačji kašalj“ za obaviti, retko ko zna zbog čega je to sinonim za lakoću.",
+          "russian": "Хотя каждый из нас порой говорит, что выполнить какую-то задачу — пустяк, мало кто знает, почему это выражение стало синонимом лёгкости.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/zivot/zasto-se-kaze-da-je-nesto-macji-kasalj/"
+        }
+      ],
+      "note": "Оборот может называть как лёгкую задачу, так и незначительную проблему. В сербской норме словарной формой является mačji kašalj; в интернете встречается и расширенный вариант mačiji kašalj.",
+      "keyword": "kašalj"
+    },
+    {
+      "headword_latin": "malo sutra",
+      "type": "реплика-фразеологизм",
+      "definition_ru": "Ни за что; как бы не так; ничего подобного; этого не произойдёт.",
+      "synonyms_sr": [
+        "malo morgen",
+        "nema šanse",
+        "nikada",
+        "kad na vrbi rodi grožđe"
+      ],
+      "literal_ru": "Немного завтра.",
+      "register": "Разговорное, ироническое или саркастическое.",
+      "examples": [
+        {
+          "serbian_latin": "Daće ti on povišicu? Malo sutra.",
+          "russian": "Он даст тебе прибавку? Как бы не так.",
+          "source": "Rečnikopedija, 2025",
+          "url": "https://recnikopedija.com/malo-sutra-malo-morgen/"
+        },
+        {
+          "serbian_latin": "— Draga, hoćemo li? — Malo sutra.",
+          "russian": "— Дорогая, может, займёмся этим? — Ещё чего.",
+          "source": "Vukajlija, 2019",
+          "url": "https://vukajlija.com/malo-sutra"
+        }
+      ],
+      "note": "Выражение не относится к следующему дню: это ироническое отрицание или отказ. Близкий вариант malo morgen возник под влиянием немецкого morgen — «завтра».",
+      "keyword": "sutra"
     },
     {
       "headword_latin": "Mani se ćorava posla",
