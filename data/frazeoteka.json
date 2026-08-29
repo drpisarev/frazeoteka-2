@@ -601,6 +601,35 @@
       "keyword": "čekić; nakovanj"
     },
     {
+      "headword_latin": "Biti / sedeti kao na iglama",
+      "type": "frazeologizam",
+      "definition_ru": "быть как на иголках; нервничать в ожидании; не находить себе места",
+      "synonyms_sr": [
+        "biti napet",
+        "biti nervozan",
+        "ne moći da se smiri",
+        "biti u iščekivanju"
+      ],
+      "literal_ru": "быть / сидеть как на иголках",
+      "register": "razg., ekspresivno; naročito o napetom ili zabrinutom iščekivanju",
+      "examples": [
+        {
+          "serbian_latin": "A bila sam kao na iglama.",
+          "russian": "А я была как на иголках.",
+          "source": "Politika, 2023",
+          "url": "https://www.politika.rs/sr/clanak/590541/odlazak-na-konzilijum-kao-izlazak-pred-strasni-sud"
+        },
+        {
+          "serbian_latin": "Kao na iglama sam, pokušavam da predvidim šta će da odigra.",
+          "russian": "Я как на иголках, пытаюсь предугадать, что он сейчас сыграет.",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/sport/dejan-je-veci-fudbalski-znalac-od-mene"
+        }
+      ],
+      "note": "Для русского особенно полезна модель biti kao na iglama: по-русски автоматически хочется сказать «сидеть как на иголках», тогда как по-сербски совершенно естественно просто kao na iglama sam или bio sam kao na iglama. Причина напряжения обычно понятна из контекста.",
+      "keyword": "kao na iglama"
+    },
+    {
       "headword_latin": "biti između čekića i nakovnja",
       "type": "glagolski frazem",
       "definition_ru": "находиться между молотом и наковальней; оказаться под давлением двух противоборствующих сторон",
@@ -1689,6 +1718,35 @@
       ],
       "note": "Русское «день Х» функционально подходит, но происхождение и образ различаются. Dan D идёт от английского D-Day, военного обозначения дня начала операции; отсюда также D+1, D+2. В современной сербской речи это просто «решающий день».",
       "keyword": "dan D"
+    },
+    {
+      "headword_latin": "Dara je prevršila meru",
+      "type": "izreka",
+      "definition_ru": "это уже переходит все границы; чаша терпения переполнилась; всему есть предел",
+      "synonyms_sr": [
+        "prevršiti svaku meru",
+        "preći svaku granicu",
+        "prekipeti",
+        "dosta je bilo"
+      ],
+      "literal_ru": "тара превысила меру",
+      "register": "ekspresivno; nešto stariji izraz, ali i dalje živ u publicistici",
+      "examples": [
+        {
+          "serbian_latin": "Dara je prevršila meru kada je ukupan minus premašio sumu od 2,5 miliona dinara.",
+          "russian": "Чаша терпения переполнилась, когда общий минус превысил 2,5 миллиона динаров.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/drustvo/mitrovacke-skole-na-muci/"
+        },
+        {
+          "serbian_latin": "Kod nas postoji izreka „dara je prevršila meru“.",
+          "russian": "У нас есть выражение: «всему есть предел».",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/vesti/politika/dodik-dara-je-prevrsila-meru/"
+        }
+      ],
+      "note": "Здесь dara — не женское имя Дара. В старой торговой лексике dara означала вес упаковки или тары, который вычитается из общего веса товара; словари фиксируют также переносное «то, чем можно пренебречь». Поэтому внутри предложения пишется со строчной: dara je prevršila meru. Сам фразеологизм словарно фиксируется в значении «перешли все допустимые пределы; стало невыносимо».",
+      "keyword": "dara prevršila meru"
     },
     {
       "headword_latin": "dati / dobiti crveni karton",
@@ -3226,6 +3284,35 @@
       ],
       "note": "Товары обычно idu или prodaju se kao alva; профессии, квартиры и услуги также могут описываться конструкцией biti tražen kao alva.",
       "keyword": "alva"
+    },
+    {
+      "headword_latin": "Ići grlom u jagode",
+      "type": "frazeologizam",
+      "definition_ru": "действовать очертя голову; лезть напролом; необдуманно ввязываться во что-то",
+      "synonyms_sr": [
+        "srljati",
+        "ići bezglavo",
+        "postupati nepromišljeno",
+        "uletati bez razmišljanja"
+      ],
+      "literal_ru": "идти горлом в клубнику",
+      "register": "razg., ekspresivno; obično neodobravajuće o brzopletom i rizičnom postupanju",
+      "examples": [
+        {
+          "serbian_latin": "Pa je „grlom u jagode“ krenula u Ameriku.",
+          "russian": "И она очертя голову отправилась в Америку.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/rts/dijaspora/vesti/2855520/grlom-u-kalifornijske-jagode.html"
+        },
+        {
+          "serbian_latin": "Mladi ljudi vrlo često prave greške, idu „grlom u jagode“.",
+          "russian": "Молодые люди очень часто ошибаются, действуют очертя голову.",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/kultura/jubilej-40-godina-serije-grlom-u-jagode"
+        }
+      ],
+      "note": "Оборот означает именно необдуманное движение вперёд — когда человек сначала действует, а потом думает. Популярное объяснение образа связывает его с тем, что в заросли клубники бросаются, не видя скрытых препятствий, однако точное происхождение выражения надёжно не установлено. Название культового югославского сериала Grlom u jagode сделало фразу особенно узнаваемой, но сам фразеологизм существовал независимо от сериала.",
+      "keyword": "grlom u jagode"
     },
     {
       "headword_latin": "igrati otvorenih karata",
@@ -5079,6 +5166,35 @@
       ],
       "note": "Для русского лучший естественный эквивалент — «лёгок на помине», а не обязательно более экспрессивное «помяни чёрта». Сербское выражение настолько узнаваемо, что легко переделывается: RTS играет с именем Vuk и множественным vukovi, а в интернете встречается Mi o vuku, Drašković na vrata. Формула сопоставима с латинским lupus in fabula «волк в рассказе», но утверждать прямое происхождение сербского выражения именно от латинского без специального исторического исследования не стоит.",
       "keyword": "mi o vuku a vuk na vrata"
+    },
+    {
+      "headword_latin": "Mlatiti praznu slamu",
+      "type": "frazeologizam",
+      "definition_ru": "переливать из пустого в порожнее; заниматься пустой болтовнёй; делать бессмысленную работу",
+      "synonyms_sr": [
+        "presipati iz šupljeg u prazno",
+        "prazno pričati",
+        "uzalud pričati",
+        "vrteti se u krug"
+      ],
+      "literal_ru": "молотить пустую солому",
+      "register": "razg., ekspresivno, neodobr.; o praznim razgovorima ili beskorisnoj delatnosti",
+      "examples": [
+        {
+          "serbian_latin": "Dežurni mudraci, cinici i komentarijat po Tviteru će mlatiti praznu slamu, te mutiti vodu…",
+          "russian": "Штатные мудрецы, циники и комментаторы в Твиттере будут переливать из пустого в порожнее и мутить воду…",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/pad-autokrate/"
+        },
+        {
+          "serbian_latin": "A taj mlati praznu slamu ko zna gde.",
+          "russian": "А тот неизвестно где занимается бессмысленной болтовнёй и пустой вознёй.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/vesti/drustvo/nerad-i-nedisciplina-pod-zastitom/"
+        }
+      ],
+      "note": "Образ связан со старым способом обмолота: молотить снопы имело смысл, пока из колосьев извлекалось зерно; продолжать молотить уже пустую солому — бесполезный труд. Отсюда развились оба современных значения: «заниматься бесполезным делом» и «говорить впустую». Такое объяснение приводит, в частности, Milan Šipka.",
+      "keyword": "mlatiti praznu slamu"
     },
     {
       "headword_latin": "Mnogo babica, dete kilavo",
@@ -7469,6 +7585,35 @@
       "keyword": "pokrij se ušima"
     },
     {
+      "headword_latin": "Pokupiti svoje krpice",
+      "type": "frazeologizam",
+      "definition_ru": "собрать манатки; собрать пожитки и уйти; смотаться",
+      "synonyms_sr": [
+        "pokupiti stvari",
+        "spakovati se i otići",
+        "spakovati kofere",
+        "otići"
+      ],
+      "literal_ru": "собрать свои тряпочки",
+      "register": "razg., ekspresivno; često o odlasku posle svađe, poraza, prekida odnosa ili posla",
+      "examples": [
+        {
+          "serbian_latin": "Ko će da se naljuti i pokupi svoje „krpice“ i, tako u nedogled.",
+          "russian": "Кто обидится, соберёт свои манатки и уйдёт — и так до бесконечности.",
+          "source": "Sport Klub, 2024",
+          "url": "https://sportklub.n1info.rs/kosarka/aba-league/crvena-zvezda-partizan-finale-aba-lige-veciti-derbi-miroslav-nikolic-sport-klub/"
+        },
+        {
+          "serbian_latin": "Niko, od Luksemburga do Portugala, ne pomišlja da pokupi svoje krpice i ode.",
+          "russian": "Никто, от Люксембурга до Португалии, и не думает собрать свои пожитки и уйти.",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/vesti/drustvo/evropa-drugi-put/"
+        }
+      ],
+      "note": "Krpice здесь не следует понимать буквально как «тряпки»: это уменьшительно-ироническое обозначение личных вещей вообще. Возможна и форма pokupiti krpice без svoje. Выражение часто добавляет оттенок демонстративного окончательного ухода: «всё, собираю вещи и ухожу».",
+      "keyword": "pokupiti krpice"
+    },
+    {
       "headword_latin": "Pomeriti sastanak",
       "type": "kolokacija",
       "definition_ru": "перенести встречу; передвинуть встречу на другое время",
@@ -7498,6 +7643,35 @@
       ],
       "note": "Pomeriti не означает, что встречу обязательно отложили: её можно перенести как на более позднее, так и на другое время вообще. Odložiti обычно подчёркивает именно отсрочку. Конструкция pomeriti za četvrtak / za pola sata / na drugi termin очень обычна.",
       "keyword": "pomeriti sastanak"
+    },
+    {
+      "headword_latin": "Pomrsiti nekome konce",
+      "type": "frazeologizam",
+      "definition_ru": "спутать кому-то карты; сорвать планы; помешать осуществить задуманное",
+      "synonyms_sr": [
+        "pokvariti nekome planove",
+        "poremetiti planove",
+        "osujetiti nekoga",
+        "sprečiti nekoga"
+      ],
+      "literal_ru": "спутать кому-то нити",
+      "register": "razg. do publicistički, ekspresivno; osoba je obično u dativu",
+      "examples": [
+        {
+          "serbian_latin": "Evo čobanče sa Balkana da nam pomrsi konce. Nećemo valjda to dozvoliti.",
+          "russian": "Вот пришёл пастушок с Балкан, чтобы спутать нам карты. Неужели мы это допустим?",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5435691/-olimpijac-iz-stragara.html"
+        },
+        {
+          "serbian_latin": "Siner spreman da pomrsi konce Đokoviću.",
+          "russian": "Синнер готов спутать карты Джоковичу.",
+          "source": "Večernje novosti, 2026",
+          "url": "https://www.novosti.rs/sport/tenis/1617616/siner-spreman-pomrsi-konce-djokovicu-evo-gde-igra-pred-vimbldon"
+        }
+      ],
+      "note": "В русском естественный образ — «спутать карты», тогда как в сербском «спутывают нити». Конструкция pomrsiti nekome konce означает вмешаться так, чтобы чужой план стало труднее или невозможно осуществить. Для русского важно управление без предлога: pomrsio mi je konce — «он спутал мне карты».",
+      "keyword": "pomrsiti konce"
     },
     {
       "headword_latin": "pomrsiti nekome račune",
@@ -7762,6 +7936,35 @@
       ],
       "note": "Может описывать и бесплодные разговоры, и административную деятельность, при которой ресурсы перемещают, но настоящего результата не получают.",
       "keyword": "šuplje; prazno"
+    },
+    {
+      "headword_latin": "Prevesti nekoga žednog preko vode",
+      "type": "frazeologizam",
+      "definition_ru": "обвести вокруг пальца; ловко обмануть; провести кого-то",
+      "synonyms_sr": [
+        "prevariti",
+        "nasamariti",
+        "obrlatiti",
+        "podvaliti"
+      ],
+      "literal_ru": "перевести кого-то жаждущим через воду",
+      "register": "razg., ekspresivno, neodobr.; objekat je u akuzativu",
+      "examples": [
+        {
+          "serbian_latin": "Lako je prevariti naivnog i prevesti ga žednog preko vode.",
+          "russian": "Наивного легко обмануть и обвести вокруг пальца.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/eto-sta-je-njegova-politika-batine-i-milostinja/"
+        },
+        {
+          "serbian_latin": "A da ne izgleda kao da ga je Kremlj preveo žednog preko vode.",
+          "russian": "Чтобы при этом не выглядело так, будто Кремль обвёл его вокруг пальца.",
+          "source": "BBC na srpskom / Danas, 2025",
+          "url": "https://www.danas.rs/bbc-news-serbian/putin-daje-trampu-tek-toliko-da-moze-da-tvrdi-da-je-ostvaren-napredak-u-ukrajini/"
+        }
+      ],
+      "note": "Образ особенно выразителен: человека будто провели через воду, но он всё равно остался жаждущим — его ловко оставили ни с чем. Для русскоязычного неожиданна грамматика: žednog относится к объекту и стоит вместе с ним в винительном падеже — prevesti njega žednog; с женским лицом возможно je žednu.",
+      "keyword": "žednog preko vode"
     },
     {
       "headword_latin": "Prljav posao",
@@ -9491,6 +9694,35 @@
       "keyword": "prst; čelo"
     },
     {
+      "headword_latin": "Staviti ruku u vatru za nekoga / nešto",
+      "type": "frazeologizam",
+      "definition_ru": "ручаться за кого-то; быть совершенно уверенным; поручиться головой",
+      "synonyms_sr": [
+        "garantovati za nekoga",
+        "čvrsto verovati u nekoga",
+        "biti potpuno siguran",
+        "verovati bez rezerve"
+      ],
+      "literal_ru": "положить руку в огонь за кого-то",
+      "register": "razg. do neutralno, ekspresivno; za + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Stoga mogu da stavim ruku u vatru za prevode koje objavljuje moj izdavač.",
+          "russian": "Поэтому я могу ручаться за переводы, которые выпускает мой издатель.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kultura/goran-skrobonja-intervju/"
+        },
+        {
+          "serbian_latin": "Ančeloti: Stavio bih ruku u vatru za Kontea.",
+          "russian": "Анчелотти: я бы поручился за Конте.",
+          "source": "Sport Klub, 2016",
+          "url": "https://sportklub.n1info.rs/video/fudbal-video/a103636-anceloti-stavio-bih-ruku-u-vatru-za-kontea/"
+        }
+      ],
+      "note": "Речь не просто о доверии, а о готовности очень уверенно гарантировать чью-либо честность, качество или достоверность чего-либо. Часто употребляется условная форма ne bih stavio ruku u vatru za njega — «я бы за него не поручился». Для русского важно управление: именно za nekoga / nešto.",
+      "keyword": "ruku u vatru"
+    },
+    {
       "headword_latin": "staviti tačku na nešto",
       "type": "глагольный фразеологизм",
       "definition_ru": "Поставить точку в каком-либо деле; окончательно прекратить спор, процесс или отношения.",
@@ -10551,6 +10783,35 @@
       "keyword": "uzeti maha"
     },
     {
+      "headword_latin": "Uzeti nekoga na zub",
+      "type": "frazeologizam",
+      "definition_ru": "взъесться на кого-то; невзлюбить; сделать постоянной мишенью нападок",
+      "synonyms_sr": [
+        "okomiti se na nekoga",
+        "stalno kritikovati nekoga",
+        "napadati nekoga",
+        "proganjati nekoga"
+      ],
+      "literal_ru": "взять кого-то на зуб",
+      "register": "razg., ekspresivno, neodobr.; uzeti + akuzativ + na zub",
+      "examples": [
+        {
+          "serbian_latin": "Rok je još 2016. godine „uzeo na zub“ Vilovu suprugu Džejdu Pinket Smit.",
+          "russian": "Рок ещё в 2016 году взъелся на жену Уилла, Джейду Пинкетт-Смит.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/5325929/dzejda-pinket-smit-vil-smit-samar-brak-.html"
+        },
+        {
+          "serbian_latin": "Zamislite, molim vas, taj beslamać uzeo na zub našeg ministra.",
+          "russian": "Представьте себе, этот оболтус взъелся на нашего министра.",
+          "source": "Danas, 2014",
+          "url": "https://www.danas.rs/kolumna/vladimir-jokic/kursadzije/"
+        }
+      ],
+      "note": "Обычно подразумевается не одна критическая реплика, а устойчивое пристрастное отношение: человека снова и снова задевают, высмеивают, критикуют или преследуют. Поэтому русское «взъесться на кого-то» точнее нейтрального «критиковать». Не путать с imati pik na nekoga, хотя в ряде ситуаций значения близки.",
+      "keyword": "uzeti na zub"
+    },
+    {
       "headword_latin": "Uzeti nešto s rezervom",
       "type": "frazeologizam",
       "definition_ru": "отнестись к чему-то с оговоркой; воспринимать скептически; не принимать за чистую монету",
@@ -10784,6 +11045,35 @@
       ],
       "note": "В бытовой речи ещё естественнее часто звучит zaglaviti u gužvi. Zaglavljen u saobraćaju совершенно нормально, но буквально говорит «застрявший в движении», а не называет саму пробку существительным.",
       "keyword": "zaglaviti u saobraćaju"
+    },
+    {
+      "headword_latin": "Zagrejati stolicu",
+      "type": "frazeologizam",
+      "definition_ru": "засесть за учёбу; серьёзно взяться за книги; усердно поработать",
+      "synonyms_sr": [
+        "prionuti na učenje",
+        "ozbiljno učiti",
+        "sesti i učiti",
+        "prionuti na posao"
+      ],
+      "literal_ru": "нагреть стул",
+      "register": "razg.; pre svega o intenzivnom učenju, ređe šire o dugom i usredsređenom radu",
+      "examples": [
+        {
+          "serbian_latin": "Zato je glumica zagrejala stolicu i 1980. godine diplomirala istoriju umetnosti.",
+          "russian": "Поэтому актриса серьёзно взялась за учёбу и в 1980 году окончила историю искусств.",
+          "source": "Blic, 2020",
+          "url": "https://www.blic.rs/zabava/glumci-skola-nacija-fakultet-obrazovanje/yxgnkpg"
+        },
+        {
+          "serbian_latin": "Budi ponizan, zagrej stolicu. Poštuj druge kulture.",
+          "russian": "Будь скромным, усердно учись. Уважай другие культуры.",
+          "source": "BBC na srpskom / Danas, 2019",
+          "url": "https://www.danas.rs/bbc-news-serbian/tetoviranje-u-japanu-od-jakuza-preko-navijaca-do-hipstera/"
+        }
+      ],
+      "note": "Типичная родительская или преподавательская реплика — zagrej stolicu! Это не просто «посиди подольше», а «садись и серьёзно учись». В более широком контексте выражение может относиться к напряжённой интеллектуальной работе, но учебное значение остаётся центральным.",
+      "keyword": "zagrejati stolicu"
     },
     {
       "headword_latin": "Zakazati termin",
