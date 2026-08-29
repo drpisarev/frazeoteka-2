@@ -2580,35 +2580,32 @@
       "keyword": "leš"
     },
     {
-      "headword_latin": "Ginuti kao muve",
-      "type": "frazeologizam",
-      "definition_ru": "гибнуть как мухи; массово погибать",
+      "headword_latin": "ginuti kao muve",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Гибнуть как мухи; массово погибать за короткое время.",
       "synonyms_sr": [
         "masovno ginuti",
-        "padati kao muve",
-        "umirati u velikom broju"
+        "stradati u velikom broju",
+        "ginuti jedan za drugim"
       ],
-      "literal_ru": "гибнуть как мухи",
-      "register": "ekspresivno",
+      "literal_ru": "Гибнуть как мухи.",
+      "register": "Разговорное, экспрессивное; может звучать грубо и бесчувственно.",
       "examples": [
         {
-          "serbian_latin": "U tom ratu mladi ljudi su ginuli kao muve.",
-          "russian": "В той войне молодые люди гибли как мухи.",
-          "source": ""
+          "serbian_latin": "Radnici ginu kao muve, a niko nije kriv.",
+          "russian": "Рабочие гибнут как мухи, а виновных нет.",
+          "source": "Vreme, 2025",
+          "url": "https://vreme.com/vesti/radnici-ginu-kao-muve-a-niko-nije-kriv/"
         },
         {
-          "serbian_latin": "Slali su nepripremljene vojnike na front, gde su ginuli kao muve.",
-          "russian": "Неподготовленных солдат отправляли на фронт, где они массово погибали.",
-          "source": ""
-        },
-        {
-          "serbian_latin": "Bez hrane i lekova ljudi su počeli da umiru kao muve.",
-          "russian": "Без еды и лекарств люди начали умирать как мухи.",
-          "source": ""
+          "serbian_latin": "Ginu kao muve.",
+          "russian": "Они гибнут как мухи.",
+          "source": "B92, 2023",
+          "url": "https://www.b92.net/o/vesti/vesti?nav_id=2365870"
         }
       ],
-      "note": "Русское и сербское выражения почти полностью совпадают. Однако ginuti обычно предполагает насильственную, трагическую или преждевременную гибель; при болезни естественнее umirati kao muve. В сербском нормативная форма — muve, тогда как muhe является хорватской.",
-      "keyword": "ginuti kao muve"
+      "note": "Сравнение подчёркивает большое количество смертей за короткое время. Из-за обесценивающего оттенка его следует осторожно употреблять применительно к реальным жертвам.",
+      "keyword": "muva"
     },
     {
       "headword_latin": "Gledati belo",
@@ -2966,6 +2963,35 @@
       ],
       "note": "Товары обычно idu или prodaju se kao alva; профессии, квартиры и услуги также могут описываться конструкцией biti tražen kao alva.",
       "keyword": "alva"
+    },
+    {
+      "headword_latin": "igrati otvorenih karata",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Играть в открытую; действовать прозрачно и не скрывать своих намерений.",
+      "synonyms_sr": [
+        "igrati otvoreno",
+        "ništa ne skrivati",
+        "biti iskren",
+        "jasno izneti svoje namere"
+      ],
+      "literal_ru": "Играть открытыми картами.",
+      "register": "Нейтральное или публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Pregovori sa EU se igraju otvorenih karata.",
+          "russian": "Переговоры с ЕС ведутся с открытыми картами.",
+          "source": "Insajder, 2024",
+          "url": "https://www.insajder.net/teme/dragojlovic-pregovori-sa-eu-se-igraju-otvorenih-karata-video"
+        },
+        {
+          "serbian_latin": "Igra otvorenih karata.",
+          "russian": "Игра с открытыми картами.",
+          "source": "Pečat, 2022",
+          "url": "https://www.pecat.co.rs/2022/09/igra-otvorenih-karata/"
+        }
+      ],
+      "note": "Обозначает прозрачное поведение без тайных целей и скрытых условий. Помимо конструкции igrati otvorenih karata, употребляется именная форма igra otvorenih karata.",
+      "keyword": "karta"
     },
     {
       "headword_latin": "Ima jedna caka",
@@ -4653,6 +4679,35 @@
       "keyword": "na ravnoj nozi"
     },
     {
+      "headword_latin": "naći zajednički jezik",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Найти общий язык; достичь взаимопонимания или соглашения.",
+      "synonyms_sr": [
+        "sporazumeti se",
+        "razumeti se",
+        "postići dogovor",
+        "usaglasiti stavove"
+      ],
+      "literal_ru": "Найти общий язык.",
+      "register": "Нейтральное, общеупотребительное.",
+      "examples": [
+        {
+          "serbian_latin": "Prosvetni radnici i Vlada još nisu našli zajednički jezik.",
+          "russian": "Работники образования и правительство ещё не нашли общего языка.",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/ovde-sit-gladnom-ne-veruje-prosvetni-radnici-i-vlada-jos-nisu-nasli-zajednicki-jezik/"
+        },
+        {
+          "serbian_latin": "DS i Zeleni Srbije našli zajednički jezik.",
+          "russian": "Демократическая партия и «Зелёные Сербии» нашли общий язык.",
+          "source": "Mondo, 2012",
+          "url": "https://mondo.rs/Info/Srbija/a243169/DS-i-Zeleni-Srbije-nasli-zajednicki-jezik.html"
+        }
+      ],
+      "note": "Может обозначать как достижение конкретного соглашения, так и более широкое взаимопонимание между людьми, организациями или политическими сторонами.",
+      "keyword": "jezik"
+    },
+    {
       "headword_latin": "Nagon",
       "type": "imenica",
       "definition_ru": "позыв; влечение; импульс; побуждение; инстинктивное стремление",
@@ -6275,6 +6330,35 @@
       "keyword": "po svoj prilici"
     },
     {
+      "headword_latin": "pobeći glavom bez obzira",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Бежать без оглядки; стремительно спасаться или поспешно покидать неприятное место.",
+      "synonyms_sr": [
+        "pobeći bez osvrtanja",
+        "dati petama vetra",
+        "uteći što dalje",
+        "panično pobeći"
+      ],
+      "literal_ru": "Убежать, не обращая внимания на голову.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Arapi uzeli milione i pobegli glavom bez obzira.",
+          "russian": "Арабы забрали миллионы и бежали без оглядки.",
+          "source": "Nova, 2022",
+          "url": "https://nova.rs/vesti/politika/arapi-uzeli-milione-i-pobegli-glavom-bez-obzira-od-vucicevog-projekta-za-spas-jat-ervejza-ostalo-samo-perce/"
+        },
+        {
+          "serbian_latin": "Pobegao sam glavom bez obzira iz Švedske.",
+          "russian": "Я бежал из Швеции без оглядки.",
+          "source": "Nova, 2026",
+          "url": "https://nova.rs/magazin/lifestyle/pobegao-sam-glavom-bez-obzira-iz-svedske-i-vratio-se-u-srbiju-jer-ono-sto-sam-video-je-pakao-evo-kako-sam-ziveo-u-obecanoj-zemlji/"
+        }
+      ],
+      "note": "Выражение обозначает поспешное, иногда паническое бегство. Оно может описывать как непосредственное спасение от опасности, так и резкий отъезд или выход из неприятной ситуации.",
+      "keyword": "glava"
+    },
+    {
       "headword_latin": "Podmetnuti kukavičje jaje",
       "type": "frazeologizam",
       "definition_ru": "подсунуть кому-то скрытую проблему; навязать чужую идею как его собственную; устроить подставу",
@@ -6359,6 +6443,35 @@
       ],
       "note": "Встречается также конструкция podvući crtu pod nešto. Расширенный вариант podvući crtu i krenuti dalje означает закончить прежний этап и двигаться дальше.",
       "keyword": "crta"
+    },
+    {
+      "headword_latin": "pokazati zube",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Показать зубы; проявить силу, решительность или способность сопротивляться.",
+      "synonyms_sr": [
+        "pokazati snagu",
+        "pružiti otpor",
+        "zauzeti čvrst stav",
+        "ne dati na sebe"
+      ],
+      "literal_ru": "Показать зубы.",
+      "register": "Разговорное, экспрессивное; часто спортивное и публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Čukarički pokazao zube protiv OFK Beograda.",
+          "russian": "«Чукарички» показал характер в матче против ОФК «Белград».",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/fudbal/4379046-superliga-srbije-ima-novog-lidera-cukaricki-pokazao-zube-protiv-ofk-beograda-u-gradskom-derbiju"
+        },
+        {
+          "serbian_latin": "Pokazao zube!",
+          "russian": "Он показал зубы!",
+          "source": "Pink, 2026",
+          "url": "https://pink.rs/zadruga/796838/pokazao-zube-aneli-zavrsila-u-suzama-jer-joj-ne-veruju-u-pricu-iz-steka-dukic-odbrusio-staniji-o-sto-si-ti-isla-sa-kristijanom-tamo-gde-nema-kamera"
+        }
+      ],
+      "note": "Выражение может обозначать как успешное сопротивление сильному противнику, так и неожиданно жёсткую реакцию человека, которого считали уступчивым.",
+      "keyword": "zub"
     },
     {
       "headword_latin": "Pokaži mi jednu osobu koja ne pati!",
@@ -7245,6 +7358,35 @@
       "keyword": "sastavljati kraj s krajem"
     },
     {
+      "headword_latin": "saterati nekoga uza zid / biti sateran uza zid",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Загнать кого-либо в угол; поставить в безвыходное положение и практически не оставить выбора.",
+      "synonyms_sr": [
+        "priterati nekoga uza zid",
+        "dovesti nekoga u bezizlazan položaj",
+        "ne ostaviti nekome izbora",
+        "stisnuti nekoga"
+      ],
+      "literal_ru": "Прижать кого-либо к стене.",
+      "register": "Разговорное, экспрессивное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Mi smo saterani uza zid.",
+          "russian": "Нас загнали в угол.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/scc/clanak/732147/stojakovic-saterani-smo-uza-zid"
+        },
+        {
+          "serbian_latin": "Putin je sateran uza zid.",
+          "russian": "Путин загнан в угол.",
+          "source": "Kurir, 2022",
+          "url": "https://www.kurir.rs/planeta/3919621/60-dana-rata-u-ukrajini-zasto-je-vladimir-putin-krenuo-u-rat-da-li-je-kod-njega-kao-i-kod-staljina-uzrok-bio-strah"
+        }
+      ],
+      "note": "Форма saterati nekoga uza zid обозначает действие, а biti sateran uza zid — положение человека или организации, которым практически не оставили выбора. Встречается также вариант priterati uza zid.",
+      "keyword": "zid"
+    },
+    {
       "headword_latin": "sedeti na dve stolice",
       "type": "глагольный фразеологизм",
       "definition_ru": "Пытаться одновременно придерживаться двух несовместимых позиций; лавировать между двумя сторонами ради собственной выгоды.",
@@ -7685,6 +7827,93 @@
       ],
       "note": "Личное местоимение изменяется: srce mi, ti, mu, joj или nam je sišlo u pete. Встречается также вариант srce mi je u petama.",
       "keyword": "srce; pete"
+    },
+    {
+      "headword_latin": "stajati kao ukopan",
+      "type": "устойчивое сравнение",
+      "definition_ru": "Стоять как вкопанный; внезапно застыть от удивления, потрясения или испуга.",
+      "synonyms_sr": [
+        "skameniti se",
+        "ukočiti se",
+        "ostati nepomičan",
+        "zanemeti od šoka"
+      ],
+      "literal_ru": "Стоять словно вкопанный в землю.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Stala je kao ukopana.",
+          "russian": "Она застыла как вкопанная.",
+          "source": "NIN, 2025",
+          "url": "https://www.nin.rs/magazin/vesti/84417/da-li-bi-to-bio-zlocin-kad-je-majka-videla-sta-sam-hteo-da-ucinim-stala-je-kao-ukopana"
+        },
+        {
+          "serbian_latin": "Mačka je odjednom stala kao ukopana.",
+          "russian": "Кошка внезапно застыла как вкопанная.",
+          "source": "Srećne — Republika, 2025",
+          "url": "https://srecne.republika.rs/lifestyle/ljubimci/37117/macka-predosetila-zemljotres"
+        }
+      ],
+      "note": "Обычно описывает внезапную неподвижность, вызванную испугом, потрясением, удивлением или нерешительностью. Форма согласуется с субъектом: stao, stala, stali kao ukopani.",
+      "keyword": "ukopan"
+    },
+    {
+      "headword_latin": "stati na ludi kamen",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Жениться или выйти замуж; вступить в брак.",
+      "synonyms_sr": [
+        "venčati se",
+        "stupiti u brak",
+        "udati se",
+        "oženiti se"
+      ],
+      "literal_ru": "Встать на безумный камень.",
+      "register": "Разговорное, шутливое; часто таблоидное.",
+      "examples": [
+        {
+          "serbian_latin": "Legendarni Srbin stao na ludi kamen.",
+          "russian": "Легендарный серб женился.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/vip/vip/prava-bajka-na-jugu-francuske-legendarni-srbin-stao-na-ludi-kamen-mlada-u-vencanici-koja-oduzima-dah-2026-07-14"
+        },
+        {
+          "serbian_latin": "Zašto se kaže „stati na ludi kamen“?",
+          "russian": "Почему о вступлении в брак говорят «встать на безумный камень»?",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/zivot/zbog-cega-se-za-ulazak-u-brak-kaze-stati-na-ludi-kamen/"
+        }
+      ],
+      "note": "Шутливое обозначение вступления в брак. Обычно употребляется в формах stao je na ludi kamen и stala je na ludi kamen; выражение не указывает непосредственно, кто женился, а кто вышел замуж.",
+      "keyword": "kamen"
+    },
+    {
+      "headword_latin": "stati nekome na žulj",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Наступить кому-либо на больную мозоль; сильно задеть, вызвать раздражение или нарушить чьи-либо интересы.",
+      "synonyms_sr": [
+        "pogoditi nekoga u bolnu tačku",
+        "dirnuti u osetljivo mesto",
+        "izazvati nečiji bes",
+        "zameriti se nekome"
+      ],
+      "literal_ru": "Наступить кому-либо на мозоль.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Pašić kralju stao na žulj.",
+          "russian": "Пашич наступил королю на больную мозоль.",
+          "source": "Mondo, 2023",
+          "url": "https://mondo.rs/Info/Drustvo/a1857297/ZBOG-OVOGA-JE-PASIC-KRALJU-STAO-NA-ZULJ-odbrana-23.html"
+        },
+        {
+          "serbian_latin": "Manaj stao na žulj srpskoj publici.",
+          "russian": "Манай сильно задел сербскую публику.",
+          "source": "Srbija Danas, 2025",
+          "url": "https://www.sd.rs/sport/fudbal/golcina-pa-provokacija-albanci-poveli-u-leskovcu-manaj-posle-gola-stao-na-zulj-srpskoj-publici-video-2025-10-11"
+        }
+      ],
+      "note": "Человек «наступает на мозоль», когда затрагивает особенно болезненную тему, нарушает чужие интересы или совершает нечто, вызывающее сильное недовольство.",
+      "keyword": "žulj"
     },
     {
       "headword_latin": "Staviti / baciti nekome bubu u uho",
@@ -8939,6 +9168,35 @@
       ],
       "note": "Zaklopiti knjigu — вполне обычное «закрыть книгу». С глазами употребляются zaklopiti oči, sklopiti oči, zatvoriti oči; для простого «закрой глаза» очень естественно sklopi oči / zatvori oči. У сочетания sklopiti / zaklopiti oči существует и традиционное переносное значение «умереть, закрыть глаза навеки», поэтому контекст важен.",
       "keyword": "zaklopiti"
+    },
+    {
+      "headword_latin": "zakopati ratne sekire",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Зарыть топор войны; прекратить вражду и восстановить отношения.",
+      "synonyms_sr": [
+        "pomiriti se",
+        "okončati sukob",
+        "izgladiti nesuglasice",
+        "pružiti ruku pomirenja"
+      ],
+      "literal_ru": "Закопать боевые топоры.",
+      "register": "Нейтральное или публицистическое; образное.",
+      "examples": [
+        {
+          "serbian_latin": "Tanja Savić i Jovana Jeremić zakopale ratne sekire.",
+          "russian": "Таня Савич и Йована Еремич зарыли топор войны.",
+          "source": "Telegraf, 2024",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/3998486-tanja-savic-i-jovana-jeremic-zakopale-ratne-sekire-u-uzivo-programu-doci-cu-na-koncert-sa-draganom"
+        },
+        {
+          "serbian_latin": "Tramp i Mask zakopali ratne sekire?",
+          "russian": "Трамп и Маск зарыли топор войны?",
+          "source": "Srbija Danas, 2025",
+          "url": "https://www.sd.rs/vesti/svet/zakopali-ratne-sekire-tramp-i-mask-zajedno-na-komemoraciji-carlija-kirka-2025-09-21"
+        }
+      ],
+      "note": "Означает завершение открытого конфликта и восстановление отношений. Вопросительная форма в заголовках часто выражает сомнение в том, что примирение окончательное.",
+      "keyword": "sekira"
     },
     {
       "headword_latin": "Zamoriti nekoga",
