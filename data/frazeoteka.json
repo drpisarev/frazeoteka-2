@@ -2199,6 +2199,35 @@
       "keyword": "konci"
     },
     {
+      "headword_latin": "držati konce u svojim rukama",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Полностью контролировать ситуацию; руководить происходящим; принимать ключевые решения.",
+      "synonyms_sr": [
+        "imati sve pod kontrolom",
+        "upravljati situacijom",
+        "voditi glavnu reč",
+        "odlučivati o svemu"
+      ],
+      "literal_ru": "Держать нити в своих руках.",
+      "register": "Разговорное и публицистическое, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Rusija drži konce u svojim rukama.",
+          "russian": "Россия держит все нити в своих руках.",
+          "source": "Jezikofil, 2023",
+          "url": "https://jezikofil.rs/ko-drzi-karte-a-ko-konce-u-svojim-rukama-i-sta-nam-to-znaci/"
+        },
+        {
+          "serbian_latin": "Ko drži karte, a ko konce u svojim rukama i šta nam to znači?",
+          "russian": "Кто держит карты, а кто — все нити в своих руках и что это означает?",
+          "source": "Jezikofil, 2023",
+          "url": "https://jezikofil.rs/ko-drzi-karte-a-ko-konce-u-svojim-rukama-i-sta-nam-to-znaci/"
+        }
+      ],
+      "note": "Встречаются варианты držati konce u rukama, držati sve konce u rukama и držati konce u svojim rukama. Образ связан с человеком, управляющим марионетками при помощи нитей.",
+      "keyword": "konac"
+    },
+    {
       "headword_latin": "držati nekoga kao malo / kap vode na dlanu",
       "type": "poređenje",
       "definition_ru": "беречь как зеницу ока; окружать заботой; обращаться чрезвычайно бережно",
@@ -2539,6 +2568,35 @@
       "keyword": "gledati belo"
     },
     {
+      "headword_latin": "gledati nekome kroz prste",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Закрывать глаза на нарушения или недостатки; проявлять неоправданную снисходительность.",
+      "synonyms_sr": [
+        "progledati kroz prste",
+        "tolerisati",
+        "prećutati propust",
+        "praviti se da nešto ne vidiš"
+      ],
+      "literal_ru": "Смотреть кому-либо сквозь пальцы.",
+      "register": "Разговорное и публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Kamere su svuda, nema više gledanja kroz prste.",
+          "russian": "Камеры теперь повсюду: закрывать глаза на нарушения больше не будут.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/vesti/srbija/4278840-kamere-su-svuda-nema-vise-gledanja-kroz-prste-zbog-jedne-stvari-srbi-sada-masovno-padaju-tehnicki"
+        },
+        {
+          "serbian_latin": "Od 2027. više neće biti gledanja kroz prste.",
+          "russian": "С 2027 года на нарушения больше не будут смотреть сквозь пальцы.",
+          "source": "Bizportal, 2026",
+          "url": "https://bizportal.rs/biz-info/srbija/101069444/stizu-velika-pravila-za-tehnicki-pregled---od-2027-vise-nece-biti-gledanja-kroz-prste-evo-sta-prvo-proveravaju.html"
+        }
+      ],
+      "note": "Форма gledati kroz prste обозначает продолжающуюся снисходительность, а progledati kroz prste — отдельное решение простить или не заметить нарушение.",
+      "keyword": "prst"
+    },
+    {
       "headword_latin": "Gluv kao top",
       "type": "frazeologizam",
       "definition_ru": "совершенно глухой; глухой как пень; ничего не слышащий",
@@ -2654,6 +2712,35 @@
       ],
       "note": "Возможны несовершенная форма gurati problem pod tepih, совершенная gurnuti problem pod tepih и отглагольное существительное guranje pod tepih. Выражение обычно подразумевает, что скрытая проблема позднее проявится снова.",
       "keyword": "tepih"
+    },
+    {
+      "headword_latin": "hodati / biti na tankom ledu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Находиться в опасном и неустойчивом положении; сильно рисковать, когда любая ошибка может иметь серьёзные последствия.",
+      "synonyms_sr": [
+        "biti u opasnoj situaciji",
+        "rizikovati",
+        "biti na ivici",
+        "kretati se po nesigurnom terenu"
+      ],
+      "literal_ru": "Ходить / находиться на тонком льду.",
+      "register": "Нейтральное, метафорическое, часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Rizici novog doba i održivost: Hod po tankom ledu.",
+          "russian": "Риски нового времени и устойчивость: хождение по тонкому льду.",
+          "source": "Bonitet, 2026",
+          "url": "https://bonitet.com/rizici-novog-doba-i-odrzivost-hod-po-tankom-ledu/"
+        },
+        {
+          "serbian_latin": "Izveštaj sa konferencije „Rizici novog doba i održivost: Hod po tankom ledu“.",
+          "russian": "Отчёт с конференции «Риски нового времени и устойчивость: хождение по тонкому льду».",
+          "source": "Nedeljnik, 2026",
+          "url": "https://www.nedeljnik.rs/izvestaj-sa-sedme-godisnje-konferencije-rizici-novog-doba-i-odrzivost-hod-po-tankom-ledu/"
+        }
+      ],
+      "note": "Форма hod po tankom ledu обозначает сам рискованный процесс; biti na tankom ledu — неустойчивое положение; hodati po tankom ledu — осторожные действия в опасной ситуации.",
+      "keyword": "led"
     },
     {
       "headword_latin": "hvaliti nekoga / nešto na sva zvona",
@@ -3300,31 +3387,32 @@
     },
     {
       "headword_latin": "izvući deblji kraj",
-      "type": "glagolski frazem",
-      "definition_ru": "Пострадать; оказаться проигравшей стороной; остаться в худшем положении.",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Плохо кончить; пострадать; оказаться проигравшей стороной.",
       "synonyms_sr": [
         "loše proći",
-        "nadrljati",
         "nastradati",
-        "platiti ceh"
+        "nadrljati",
+        "biti na gubitku",
+        "izvući kraći kraj"
       ],
       "literal_ru": "Вытянуть толстый конец.",
-      "register": "razgovorno",
+      "register": "Разговорное, экспрессивное.",
       "examples": [
         {
-          "serbian_latin": "Naš pevač je zbog devojke izvukao deblji kraj.",
-          "russian": "Наш певец пострадал из-за девушки.",
-          "source": "Telegraf, 2026",
-          "url": "https://www.telegraf.rs/jetset/vesti-jetset/4317641-imas-24h-da-nas-pevac-zbog-devojke-izvukao-deblji-kraj-pretnje-dobio-na-ceduljici-ovako-ga-nasamarili"
+          "serbian_latin": "Da li ste prošli dobro ili loše ako „izvučete deblji kraj“?",
+          "russian": "Хорошо или плохо вы закончили дело, если вам достался «толстый конец»?",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/zivot/da-li-ste-prosli-dobro-ili-lose-ako-izvucete-deblji-kraj/"
         },
         {
-          "serbian_latin": "Univerziteti, predsednik, Vlada i igra živaca: ko će izvući deblji kraj?",
-          "russian": "Университеты, президент, правительство и игра нервов: кто в итоге пострадает?",
-          "source": "N1, 2025",
-          "url": "https://n1info.rs/vesti/na-raskrsnici-univerziteti-predsednik-vlada-i-igra-zivaca-ko-ce-izvuci-deblji-kraj/"
+          "serbian_latin": "Jedino pozitivno po vas da izvučete deblji kraj jeste pri nekoj deobi.",
+          "russian": "Получить «толстый конец» выгодно только при разделе чего-либо.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/zivot/da-li-ste-prosli-dobro-ili-lose-ako-izvucete-deblji-kraj/"
         }
       ],
-      "note": "U srpskoj jezičkoj praksi izraz pretežno ima negativno značenje: loše proći ili nastradati.",
+      "note": "Выражение имеет два противоположных значения. При разделе izvući deblji kraj может означать получить большую и лучшую часть, однако в современной речи преобладает значение «пострадать, плохо кончить».",
       "keyword": "kraj"
     },
     {
@@ -3786,6 +3874,35 @@
       "keyword": "kaži dragička"
     },
     {
+      "headword_latin": "kec u rukavu",
+      "type": "именной фразеологизм",
+      "definition_ru": "Козырь; скрытое преимущество; надёжное запасное решение.",
+      "synonyms_sr": [
+        "adut",
+        "tajno oružje",
+        "rezervno rešenje",
+        "skrivena prednost"
+      ],
+      "literal_ru": "Туз в рукаве.",
+      "register": "Разговорное, экспрессивное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Ovo nije samo recept za doručak, ovo je kec u rukavu koji miriše na sigurnost i toplinu doma.",
+          "russian": "Это не просто рецепт завтрака, а настоящий козырь, напоминающий о домашнем тепле и уюте.",
+          "source": "UNA, 2026",
+          "url": "https://una.rs/zivot/gastro/posne-mekike-koje-se-tope-u-ustima-gotove-su-za-10-minuta-ovaj-recept-je-kec-u-rukavu"
+        },
+        {
+          "serbian_latin": "Donosimo vam recept iz osamdesetih koji je pravi kec u rukavu izvrsnih domaćica.",
+          "russian": "Предлагаем вам рецепт из восьмидесятых, который служит настоящим козырем опытных хозяек.",
+          "source": "Krstarica, 2023",
+          "url": "https://www.krstarica.com/kuvar/predjela/kec-u-rukavu-iskusnih-domacica-recept-za-najbolje-testo-ikada-moze-da-stoji-i-do-7-dana/"
+        }
+      ],
+      "note": "Обычно говорят imati keca u rukavu, когда преимущество пока скрыто, и nešto je kec u rukavu, когда предмет или решение само является козырем.",
+      "keyword": "kec"
+    },
+    {
       "headword_latin": "kipeti od besa",
       "type": "glagolski frazem",
       "definition_ru": "Кипеть от гнева; быть вне себя от ярости.",
@@ -3929,31 +4046,33 @@
       "keyword": "kola; nizbrdo"
     },
     {
-      "headword_latin": "Koštati kao Svetog Petra kajgana",
-      "type": "frazeologizam",
-      "definition_ru": "стоить бешеных денег; обойтись безумно дорого; влететь в копеечку",
+      "headword_latin": "koštati kao Svetog Petra kajgana",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Стоить баснословно дорого; обойтись в целое состояние.",
       "synonyms_sr": [
-        "koštati đavo i po",
-        "biti papreno skup",
-        "skupo stajati",
-        "platiti papreno"
+        "koštati papreno",
+        "biti preskupo",
+        "koštati čitavo bogatstvo",
+        "imati astronomsku cenu"
       ],
-      "literal_ru": "стоить как яичница святого Петра",
-      "register": "razg., ekspresivno; takođe stajati nekoga kao Svetog Petra kajgana",
+      "literal_ru": "Стоить как яичница святого Петра.",
+      "register": "Разговорное, экспрессивное, шутливое.",
       "examples": [
         {
-          "serbian_latin": "Ovaj popravak će me koštati kao Svetog Petra kajgana.",
-          "russian": "Этот ремонт влетит мне в копеечку.",
-          "source": ""
+          "serbian_latin": "Kilometar košta kao Svetog Petra kajgana.",
+          "russian": "Один километр обходится баснословно дорого.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/auto/vesti/najskuplji-auto-put-ikada-kilometar-kosta-kao-svetog-petra-kajgana-2026-05-18"
         },
         {
-          "serbian_latin": "Platili smo hotel kao Svetog Petra kajgana, a soba je bila prosečna.",
-          "russian": "За гостиницу отдали бешеные деньги, а номер оказался самый обычный.",
-          "source": ""
+          "serbian_latin": "Kada nešto platimo više nego inače ili je skupo, često kažemo da nas je to koštalo „kao Svetog Petra kajgana“.",
+          "russian": "Когда мы платим за что-либо больше обычного, часто говорим, что это обошлось нам как яичница святого Петра.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/zivot/zasto-se-kaze-da-nesto-kosta-kao-svetog-petra-kajgana/"
         }
       ],
-      "note": "Значение однозначно: очень дорого стоить / заплатить чрезвычайно высокую цену; выражение фиксируется и в научных работах по сербской фразеологии. А вот происхождение имеет несколько версий. В сербской традиции известна история о том, как Sveti Petar съел предназначенную детям бедной вдовы яичницу и затем дорого расплачивался за проступок; её обработал в стихах Jovan Jovanović Zmaj. Есть и близкое греческое выражение о «дорогой яичнице Svetog Đorđa». Milan Šipka обсуждает обе версии, поэтому единственную легенду как доказанную этимологию лучше не выдавать.",
-      "keyword": "Svetog Petra kajgana"
+      "note": "Выражение обозначает не просто высокую, а чрезмерную, вызывающую удивление цену. Возможна форма без глагола: skupo kao Svetog Petra kajgana.",
+      "keyword": "kajgana"
     },
     {
       "headword_latin": "krenuti nečijim stopama",
@@ -4922,6 +5041,35 @@
       ],
       "note": "Конструкция nešto je nekome kao dobar dan означает, что действие стало совершенно привычным. В заголовках встречается эллиптическая форма nešto za dobar dan. Точная конструкция kao dobar dan индексируется на Forum B92, но страница сейчас недоступна для проверки цитаты.",
       "keyword": "dobar dan"
+    },
+    {
+      "headword_latin": "ni luk jeo ni luk mirisao",
+      "type": "фразеологическое предложение",
+      "definition_ru": "Делать вид, будто совершенно ни при чём; изображать невиновность и непричастность.",
+      "synonyms_sr": [
+        "praviti se nevešt",
+        "praviti se nedužan",
+        "tvrditi da nema veze s tim",
+        "prati ruke od svega"
+      ],
+      "literal_ru": "Ни лука не ел, ни луком не пах.",
+      "register": "Разговорное, ироническое, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Fraza „ni luk jeo, ni luk mirisao“ koristi se kada neko tvrdi da nema nikakve veze sa nekim događajem.",
+          "russian": "Фраза «ни лука не ел, ни луком не пах» употребляется, когда человек утверждает, что не имеет никакого отношения к произошедшему.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/drustvo/sta-znaci-izraz-ni-luk-jeo-ni-luk-mirisao/"
+        },
+        {
+          "serbian_latin": "Kada neko kaže „ni luk jeo, ni luk mirisao“, on pokušava da pokaže da je potpuno nevin.",
+          "russian": "Когда человек говорит «ни лука не ел, ни луком не пах», он пытается представить себя совершенно невиновным.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/drustvo/sta-znaci-izraz-ni-luk-jeo-ni-luk-mirisao/"
+        }
+      ],
+      "note": "Выражение чаще употребляется иронически: говорящий не верит в невиновность человека и считает его отрицание ответственности слишком очевидным или неубедительным.",
+      "keyword": "luk"
     },
     {
       "headword_latin": "Nije ni ona cvećka",
@@ -6791,6 +6939,35 @@
       "keyword": "sastavljati kraj s krajem"
     },
     {
+      "headword_latin": "sedeti na dve stolice",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Пытаться одновременно придерживаться двух несовместимых позиций; лавировать между двумя сторонами ради собственной выгоды.",
+      "synonyms_sr": [
+        "balansirati između dve strane",
+        "igrati dvostruku igru",
+        "ne opredeljivati se",
+        "pokušavati da se udovolji svima"
+      ],
+      "literal_ru": "Сидеть на двух стульях.",
+      "register": "Разговорное и публицистическое, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "U poslednja dva veka Srbija se često trudila da „sedi na dve stolice“.",
+          "russian": "В последние два столетия Сербия часто пыталась усидеть на двух стульях.",
+          "source": "Južne vesti / BBC na srpskom, 2022",
+          "url": "https://www.juznevesti.com/bbc-news-na-srpskom/istorija-i-sedenje-na-dve-stolice-ko-je-od-vladara-srbije-i-jugoslavije-bio-za-istok-a-ko-za-zapad-i-kako-su-prosli/"
+        },
+        {
+          "serbian_latin": "Ovo je nastavak uobičajene prakse sedenja na više stolica.",
+          "russian": "Это продолжение привычной практики сидения сразу на нескольких стульях.",
+          "source": "Nova, 2026",
+          "url": "https://nova.rs/vesti/politika/od-samara-rusiji-do-sedenja-na-dve-stolice-bbc-analizara-sta-je-ko-dobio-dolaskom-zelenskog-u-srbiju/"
+        }
+      ],
+      "note": "Чаще всего выражение употребляется при описании политики, деловых интересов или отношений. Встречается расширенный вариант sedeti na više stolica — пытаться одновременно сохранить несколько несовместимых союзов или позиций.",
+      "keyword": "stolica"
+    },
+    {
       "headword_latin": "sipati so na ranu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Причинять дополнительную душевную боль; напоминать о поражении или несчастье; ещё сильнее задевать уже пострадавшего человека.",
@@ -7239,6 +7416,35 @@
       ],
       "note": "Формы staviti, metnuti и baciti glavu u torbu обозначают сознательно пойти на риск. Nositi glavu u torbi описывает уже существующее состояние постоянной опасности.",
       "keyword": "glava; torba"
+    },
+    {
+      "headword_latin": "staviti nekoga pred svršen čin",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Поставить человека перед уже принятым решением или совершившимся фактом, не оставив ему возможности повлиять на ситуацию.",
+      "synonyms_sr": [
+        "dovesti nekoga pred gotovu stvar",
+        "odlučiti bez konsultacija",
+        "ne ostaviti mogućnost izbora",
+        "nametnuti gotovo rešenje"
+      ],
+      "literal_ru": "Поставить кого-либо перед завершённым действием.",
+      "register": "Нейтральное и публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Više nas neće stavljati pred svršen čin.",
+          "russian": "Нас больше не будут ставить перед свершившимся фактом.",
+          "source": "Nedeljnik, 2024",
+          "url": "https://www.nedeljnik.rs/vise-nas-nece-stavljati-pred-svrsen-cin-vucic-najavio-promene-u-pristupu-dijalogu-s-pristinom/"
+        },
+        {
+          "serbian_latin": "Neće moći Srbiju više da stave pred svršen čin.",
+          "russian": "Они больше не смогут ставить Сербию перед свершившимся фактом.",
+          "source": "Kosovo Online, 2024",
+          "url": "https://www.kosovo-online.com/vesti/politika/vucic-promenicemo-pristup-pitanju-kosova-nece-moci-srbiju-vise-da-stave-pred-svrsen-cin"
+        }
+      ],
+      "note": "Svršen čin — решение или действие, которое уже осуществлено и которое другой стороне остаётся только принять. Употребляется также пассивная конструкция biti stavljen pred svršen čin.",
+      "keyword": "čin"
     },
     {
       "headword_latin": "Staviti tačku na nešto",
@@ -7957,6 +8163,35 @@
       ],
       "note": "Конструкция udariti u zid обозначает столкновение с пределом или тупиком. Расширенный вариант udarati glavom u zid подчёркивает бесполезные, но упорно повторяемые попытки добиться невозможного.",
       "keyword": "zid"
+    },
+    {
+      "headword_latin": "uhvatiti se u koštac s nekim / nečim",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Решительно взяться за трудную задачу; вступить в борьбу; противостоять кому-либо или чему-либо.",
+      "synonyms_sr": [
+        "suočiti se",
+        "upustiti se u borbu",
+        "prihvatiti izazov",
+        "boriti se s nečim"
+      ],
+      "literal_ru": "Схватиться с кем-либо врукопашную.",
+      "register": "Нейтральное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Vladica se uhvatio u koštac sa još jednom velikom opasnošću koja tokom letnjih meseci vreba građane — stršljenovima.",
+          "russian": "Владица вступил в борьбу с ещё одной серьёзной опасностью, угрожающей людям летом, — шершнями.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/vesti/drustvo/vladica-ne-zna-za-strah-srpski-zmijolovac-se-uhvatio-u-kostac-sa-jos-jednom-velikom-opasnoscu-nisu-zmije-snimak-ledi-krv-2026-07-17"
+        },
+        {
+          "serbian_latin": "Uhvatiti se u koštac s problemom.",
+          "russian": "Решительно взяться за проблему.",
+          "source": "Dnevnik, 2025",
+          "url": "https://www.dnevnik.rs/lat/kultura/najnovije-vesti/jezikomanija-kostac-s-nedoumicama-2025-07-11"
+        }
+      ],
+      "note": "Пишется раздельно: u koštac. Управление — s nekim / nečim. Выражение предполагает активное и решительное противодействие, а не простое столкновение с проблемой.",
+      "keyword": "koštac"
     },
     {
       "headword_latin": "Uljudne fraze",
