@@ -897,6 +897,35 @@
       "keyword": "na izmaku snaga"
     },
     {
+      "headword_latin": "Biti na konju",
+      "type": "frazeologizam",
+      "definition_ru": "быть на коне; оказаться в выигрышном положении; преодолеть основные трудности",
+      "synonyms_sr": [
+        "dobro stajati",
+        "biti u povoljnom položaju",
+        "uspeti",
+        "izvući se iz teškoća"
+      ],
+      "literal_ru": "быть на коне",
+      "register": "разг., экспр.; обычно о ситуации, когда главный риск уже позади и положение стало значительно лучше",
+      "examples": [
+        {
+          "serbian_latin": "Ukoliko pak bude uspeo da se spusti na oko 55 odsto, Vučić će već biti „na konju“.",
+          "russian": "Если же ему удастся опуститься примерно до 55 процентов, Вучич уже окажется в выигрышном положении.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/vesti/politika/politika-pod-maskama/"
+        },
+        {
+          "serbian_latin": "Nekada je konjički sport u Srbiji bio na konju.",
+          "russian": "Когда-то конный спорт в Сербии был на подъёме.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/sport/ostali-sportovi/2862147/ergela-ljubicevo-najstarija-najveca-i-najtrofejnija.html"
+        }
+      ],
+      "note": "Русское «быть на коне» очень близко, но сербское выражение нередко подчёркивает именно переход из трудной ситуации в благоприятную: основные препятствия преодолены, и дальше должно быть легче. Второй пример построен на игре буквального и переносного значений слова konj.",
+      "keyword": "biti na konju"
+    },
+    {
       "headword_latin": "biti na nogama",
       "type": "glagolski frazem",
       "definition_ru": "Быть на ногах; подняться; бурно реагировать; быть встревоженным или мобилизованным.",
@@ -1280,6 +1309,35 @@
       ],
       "note": "Русский и сербский фразеологизмы почти совпадают по функции, но русский баран смотрит на новые ворота, а сербский телёнок — на пёстрые. Значение — растерянный, непонимающий, иногда откровенно глуповатый взгляд. Существует лингвистическая версия о связи с немецким выражением типа «стоять как корова/вол перед новыми воротами»; Danas приводит эту версию наряду с несколькими народными объяснениями и подчёркивает, что точная история образа не бесспорна.",
       "keyword": "tele u šarena vrata"
+    },
+    {
+      "headword_latin": "Bogu iza nogu",
+      "type": "frazeologizam",
+      "definition_ru": "у чёрта на куличках; в глуши; бог знает где",
+      "synonyms_sr": [
+        "u nedođiji",
+        "u zabiti",
+        "na kraju sveta",
+        "vukojebina (vulg.)"
+      ],
+      "literal_ru": "у Бога за ногами",
+      "register": "разг., экспр.; о месте, которое воспринимается как очень далёкое, глухое и труднодоступное",
+      "examples": [
+        {
+          "serbian_latin": "„Bogu iza nogu“ nije dovoljno daleko da opiše ovu bestragiju.",
+          "russian": "Даже «у чёрта на куличках» недостаточно, чтобы описать эту глушь.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/magazin/putujemo/4817229/nusantara-mogu-li-indonezani-da-pretvore-dzunglu-u-prestonicu-za-samo-dve-godine.html"
+        },
+        {
+          "serbian_latin": "Neće devojke u Šišatovac, „bogu iza nogu“.",
+          "russian": "Девушки не хотят ехать в Шишатовац — такую глушь, у чёрта на куличках.",
+          "source": "Politika, 2013",
+          "url": "https://www.politika.rs/sr/clanak/272477/teslino-etno-selo-u-sisatovcu"
+        }
+      ],
+      "note": "Очень живой образ для далёкого, захолустного места. Русское «у чёрта на куличках» функционально ближе буквального перевода. Значительно более грубый разговорный синоним — vukojebina. Сам оборот прямо приводится RTS как сербский фразеологизм.",
+      "keyword": "bogu iza nogu"
     },
     {
       "headword_latin": "Bolje ikad nego nikad",
@@ -2888,6 +2946,35 @@
       "keyword": "dlan"
     },
     {
+      "headword_latin": "Držati nekoga na kratkom lancu",
+      "type": "frazeologizam",
+      "definition_ru": "держать на коротком поводке; жёстко контролировать; не давать свободы действий",
+      "synonyms_sr": [
+        "strogo kontrolisati",
+        "držati pod kontrolom",
+        "ograničavati",
+        "nadzirati"
+      ],
+      "literal_ru": "держать кого-то на короткой цепи",
+      "register": "разг.-публицист., неодобр.; объект в винительном падеже: držati ga na kratkom lancu",
+      "examples": [
+        {
+          "serbian_latin": "Nas treba držati „na kratkom lancu“. Domaće proizvodnje.",
+          "russian": "Нас следует держать на коротком поводке. Причём собственного производства.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/banalna-trampa-ti-nama-litijum-mi-tebi-odresene-ruke-u-zemlji/"
+        },
+        {
+          "serbian_latin": "Političari budu svedeni na najmanju moguću meru i držani „na kratkom lancu“.",
+          "russian": "Политиков следует максимально ограничить и держать на коротком поводке.",
+          "source": "Danas, 2014",
+          "url": "https://www.danas.rs/vesti/politika/branko-kukic-istorija-se-sada-neprimetno-ponavlja"
+        }
+      ],
+      "note": "Сербский и русский образы почти совпадают, только по-русски естественнее «короткий поводок», а не «короткая цепь». Оборот предполагает постоянный строгий контроль и ограниченную самостоятельность, а не разовое давление.",
+      "keyword": "na kratkom lancu"
+    },
+    {
       "headword_latin": "držati palčeve",
       "type": "глагольный фразеологизм",
       "definition_ru": "Желать удачи; держать за кого-либо кулаки; морально поддерживать.",
@@ -4356,6 +4443,35 @@
       "keyword": "površina"
     },
     {
+      "headword_latin": "Ispod žita",
+      "type": "izraz",
+      "definition_ru": "тайком; исподтишка; неофициально; в обход правил",
+      "synonyms_sr": [
+        "krišom",
+        "tajno",
+        "nezvanično",
+        "mimo procedure"
+      ],
+      "literal_ru": "под зерном",
+      "register": "разг.-публицист., неодобр.; часто о скрытых сделках, договорённостях, выплатах и действиях",
+      "examples": [
+        {
+          "serbian_latin": "Pošta Srbije „ispod žita i daleko od očiju javnosti“ rasprodaje imovinu.",
+          "russian": "«Почта Сербии» тайком и вдали от глаз общественности распродаёт имущество.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/politika/milosevic-posta-srbije-ispod-zita-rasprodaje-imovinu/"
+        },
+        {
+          "serbian_latin": "Tači pokušava da nam ispod žita ponudi da razgovaramo o tome da se obavi razmena severa za jug centralne Srbije.",
+          "russian": "Тачи пытается кулуарно предложить нам переговоры об обмене севера на юг центральной Сербии.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/vesti/politika/2725925/drecun-taci-ispod-zita-beogradu-nudi-razmenu-teritorija.html"
+        }
+      ],
+      "note": "Буквальный образ русскому ничего не объясняет. В современном употреблении ispod žita обычно означает не просто «секретно», а «за кулисами, неофициально, в обход прозрачной процедуры». Очень характерно для политической и экономической публицистики.",
+      "keyword": "ispod žita"
+    },
+    {
       "headword_latin": "Ispravljati krivu Drinu",
       "type": "frazeologizam",
       "definition_ru": "пытаться исправить неисправимое; тратить силы на бесплодное исправление укоренившегося порядка",
@@ -4613,6 +4729,35 @@
       ],
       "note": "Обычно выражение осуждает публичное обсуждение семейных, супружеских или личных конфликтов. Встречается и конструкция prati prljav veš u javnosti — публично выяснять отношения.",
       "keyword": "veš"
+    },
+    {
+      "headword_latin": "Izvoditi besne gliste",
+      "type": "frazeologizam",
+      "definition_ru": "выкидывать номера; дурить; кривляться; устраивать непонятно что",
+      "synonyms_sr": [
+        "praviti gluposti",
+        "izmotavati se",
+        "glupirati se",
+        "izvoljevati"
+      ],
+      "literal_ru": "выводить бешеных червей",
+      "register": "разг., экспр., неодобр.; особенно типично как замечание ребёнку или человеку, который ведёт себя нелепо или капризничает",
+      "examples": [
+        {
+          "serbian_latin": "Voleo bih da vidim tog majčinog sina koji bi se u takvom položaju usudio da izvodi ovakve besne gliste u Narodnoj skupštini.",
+          "russian": "Хотел бы я посмотреть на смельчака, который в таком положении решился бы выкидывать подобные номера в Народной скупщине.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/politika/depresija/"
+        },
+        {
+          "serbian_latin": "Ipak, to ne znači da ćemo izvoditi besne gliste, već preslušavati njihovu muziku.",
+          "russian": "Однако это не значит, что мы будем выкидывать номера: мы будем слушать их музыку.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/radio/beograd-202/2889213/kazi-dragicka-.html"
+        }
+      ],
+      "note": "Выражение особенно легко услышать в реплике Nemoj da izvodiš besne gliste! — «Хватит дурить / выкидывать номера!». Оно может обозначать капризы, бессмысленные выходки, кривляние или намеренно нелепое поведение. RTS отдельно приводит его среди характерных сербских выражений, которые трудно буквально объяснить иностранцу.",
+      "keyword": "izvoditi besne gliste"
     },
     {
       "headword_latin": "izvući deblji kraj",
@@ -4964,6 +5109,34 @@
       ],
       "note": "Izraz opisuje osobu koja juri, luta ili postupa nepromišljeno, bez jasnog cilja. Može se odnositi i na organizaciju, politiku ili sistem bez plana. Srpski oblik je muva, a hrvatski muha.",
       "keyword": "muva"
+    },
+    {
+      "headword_latin": "Kao na dlanu",
+      "type": "frazeologizam",
+      "definition_ru": "как на ладони; весь как на ладони; совершенно отчётливо виден",
+      "synonyms_sr": [
+        "potpuno pregledno",
+        "jasno se videti",
+        "biti pred očima"
+      ],
+      "literal_ru": "как на ладони",
+      "register": "разг.-нейтр., экспр.; обычно о панорамном обзоре, переносно также о чём-то совершенно ясном и открытом",
+      "examples": [
+        {
+          "serbian_latin": "Sava, Dunav, grad – kao na dlanu.",
+          "russian": "Сава, Дунай, город — всё как на ладони.",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/magazin/Zanimljivosti/6025878/ada-ciganlija-panorama-ekspo-balon.html"
+        },
+        {
+          "serbian_latin": "Sa njenih prozora staza beogradskog maratona bila je „kao na dlanu“.",
+          "russian": "Из её окон трасса Белградского марафона была видна как на ладони.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/tv/rts2/4020301/trezor.html"
+        }
+      ],
+      "note": "Значение и образ практически полностью совпадают с русским. Самая типичная модель — grad je kao na dlanu или sve se vidi kao na dlanu. В переносном употреблении так можно сказать и о ситуации, фактах или чьих-либо намерениях, если они совершенно очевидны.",
+      "keyword": "kao na dlanu"
     },
     {
       "headword_latin": "kao posrani golub",
@@ -11035,6 +11208,35 @@
       "keyword": "čin"
     },
     {
+      "headword_latin": "Staviti nekome nož pod grlo",
+      "type": "frazeologizam",
+      "definition_ru": "приставить нож к горлу; поставить перед жёстким ультиматумом; вынудить под угрозой",
+      "synonyms_sr": [
+        "uceniti",
+        "primorati",
+        "pritisnuti",
+        "postaviti ultimatum"
+      ],
+      "literal_ru": "приставить кому-то нож к горлу",
+      "register": "разг.-публицист., экспр.; может употребляться и буквально, и переносно; лицо в дательном падеже",
+      "examples": [
+        {
+          "serbian_latin": "Vlada nam je – ne preterujem kad ovo kažem – stavila nož pod grlo.",
+          "russian": "Правительство — и я не преувеличиваю — фактически приставило нам нож к горлу.",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/vesti/politika/radnici-zahtevaju-pregovore-s-vladom"
+        },
+        {
+          "serbian_latin": "Ne treba da mu stavljamo „nož pod grlo“ jer ne može on sve sam.",
+          "russian": "Не надо ставить его перед ультиматумом: он не может сделать всё в одиночку.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/sport/Fudbal/1354058/Ninkovi%C4%87%2Bostvario%2Bsan.html"
+        }
+      ],
+      "note": "В переносном употреблении физической угрозы нет: речь о таком давлении, при котором человеку практически не оставляют выбора. Контекст особенно важен, потому что совершенно та же конструкция регулярно употребляется и буквально.",
+      "keyword": "nož pod grlo"
+    },
+    {
       "headword_latin": "staviti prst na čelo",
       "type": "глагольный фразеологизм",
       "definition_ru": "Серьёзно задуматься; остановиться и трезво оценить положение; пересмотреть своё поведение.",
@@ -11147,6 +11349,35 @@
       ],
       "note": "На пьедестал можно «ставить» не только человека, но и ценность, идею или принцип. В отношении человека выражение часто подразумевает чрезмерное восхищение и идеализацию; с абстрактным существительным значение может быть нейтральнее: «считать высшим приоритетом».",
       "keyword": "staviti na pijedestal"
+    },
+    {
+      "headword_latin": "Stisnuti zube",
+      "type": "frazeologizam",
+      "definition_ru": "сцепить зубы; стиснуть зубы и терпеть; собраться и выдержать",
+      "synonyms_sr": [
+        "izdržati",
+        "istrpeti",
+        "skupiti snagu",
+        "ne odustati"
+      ],
+      "literal_ru": "стиснуть зубы",
+      "register": "разг.-нейтр., экспр.; о преодолении боли, трудностей, усталости или неприятной ситуации",
+      "examples": [
+        {
+          "serbian_latin": "Stisnuo sam zube i morao sam da dam sve od sebe kada sam video igrače kako se bore.",
+          "russian": "Я сцепил зубы и должен был выложиться полностью, когда увидел, как борются остальные игроки.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/sport/fudbal/liga_sampiona/5836372/crvena-zvezda-fcsb-liga-evrope-2025.html"
+        },
+        {
+          "serbian_latin": "Treba dići glavu, stisnuti zube i praviti novine. Borbene.",
+          "russian": "Нужно поднять голову, стиснуть зубы и делать газету. Боевую.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/vesti/drustvo/zbogom-legendo/"
+        }
+      ],
+      "note": "Совпадение с русским почти полное. В сербском оборот особенно часто означает «терпеть боль или тяжёлые обстоятельства и продолжать действовать». При этом stisnuti zube может быть и буквальным — например, при боли или бруксизме.",
+      "keyword": "stisnuti zube"
     },
     {
       "headword_latin": "Sto ljudi, sto ćudi",
@@ -11894,6 +12125,34 @@
       "keyword": "u naponu snage"
     },
     {
+      "headword_latin": "U poslednji čas",
+      "type": "izraz",
+      "definition_ru": "в последний момент; в самый последний момент; едва успев",
+      "synonyms_sr": [
+        "u poslednjem trenutku",
+        "tik pred kraj",
+        "jedva na vreme"
+      ],
+      "literal_ru": "в последний час",
+      "register": "нейтр., очень употребительно; čas здесь означает последний возможный момент, а не обязательно 60 минут",
+      "examples": [
+        {
+          "serbian_latin": "Vilagoš u poslednji čas do finala Evropskog prvenstva.",
+          "russian": "Вилагош в последний момент пробилась в финал чемпионата Европы.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/sport/atletika/6019655/.html?print=true"
+        },
+        {
+          "serbian_latin": "Iz OK Crvena zvezda uputili su veliku zahvalnost za pomoć koja je stigla u poslednji čas.",
+          "russian": "В «Црвене звезде» выразили большую благодарность за помощь, пришедшую в самый последний момент.",
+          "source": "RTS, 2025",
+          "url": "https://rts.rs/lat/sport/odbojka/5734845/odbojkasice-i-odbojkasi-crvene-zvezde-igrace-u-kupu-izazivaca.html"
+        }
+      ],
+      "note": "Для русского здесь полезен ложный буквальный ориентир: сербское čas действительно может означать «час», но в этом выражении речь именно о последнем возможном моменте. Очень близкий вариант — u poslednjem trenutku.",
+      "keyword": "u poslednji čas"
+    },
+    {
       "headword_latin": "ubiti dve muve jednim udarcem",
       "type": "глагольный фразеологизм",
       "definition_ru": "Убить двух зайцев одним выстрелом; одним действием достичь двух целей.",
@@ -12039,6 +12298,35 @@
       ],
       "note": "Конструкция udariti u zid обозначает столкновение с пределом или тупиком. Расширенный вариант udarati glavom u zid подчёркивает бесполезные, но упорно повторяемые попытки добиться невозможного.",
       "keyword": "zid"
+    },
+    {
+      "headword_latin": "Uhvatiti Boga za bradu",
+      "type": "frazeologizam",
+      "definition_ru": "поймать удачу за хвост; добиться невероятного; решить, что теперь тебе всё нипочём",
+      "synonyms_sr": [
+        "postići veliki uspeh",
+        "dobro proći",
+        "imati veliku sreću",
+        "misliti da ti niko ništa ne može"
+      ],
+      "literal_ru": "схватить Бога за бороду",
+      "register": "разг., экспр.; очень часто иронически: misliti da si uhvatio Boga za bradu",
+      "examples": [
+        {
+          "serbian_latin": "Oni misle da je Vučić zauvek uhvatio Boga za bradu, pa ne pušta.",
+          "russian": "Они считают, что Вучич навсегда поймал удачу за хвост и теперь её не отпустит.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/dijalog/reakcije/izbor-tekstova-dragoljuba-zarkovica/"
+        },
+        {
+          "serbian_latin": "Verovatno su pomislili da su uhvatili Boga za bradu.",
+          "russian": "Наверное, они решили, что теперь им всё нипочём.",
+          "source": "Sportal, 2026",
+          "url": "https://sportal.blic.rs/prica/tjeri-anri-o-lionelu-mesiju-na-mundijalu-2026070809420524396"
+        }
+      ],
+      "note": "Это сильнее простого «повезло»: подразумевается выдающийся успех, исключительно выгодное положение или ощущение собственной неуязвимости. Очень характерна именно ироническая модель misli da je uhvatio Boga za bradu — человек слишком рано решил, что добился всего.",
+      "keyword": "uhvatiti Boga za bradu"
     },
     {
       "headword_latin": "uhvatiti maglu",
