@@ -1213,31 +1213,29 @@
     {
       "headword_latin": "Biti na konju",
       "type": "frazeologizam",
-      "definition_ru": "быть на коне; оказаться в выигрышном положении; преодолеть основные трудности",
+      "definition_ru": "быть в выигрышном положении; добиться своего; быть практически у цели",
       "synonyms_sr": [
-        "dobro stajati",
-        "biti u povoljnom položaju",
+        "biti u dobroj poziciji",
         "uspeti",
-        "izvući se iz teškoća"
+        "dobro proći",
+        "imati prednost"
       ],
       "literal_ru": "быть на коне",
-      "register": "разг., экспр.; обычно о ситуации, когда главный риск уже позади и положение стало значительно лучше",
+      "register": "razg., ekspresivno; često nakon savladavanja glavne prepreke",
       "examples": [
         {
-          "serbian_latin": "Ukoliko pak bude uspeo da se spusti na oko 55 odsto, Vučić će već biti „na konju“.",
-          "russian": "Если же ему удастся опуститься примерно до 55 процентов, Вучич уже окажется в выигрышном положении.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/vesti/politika/politika-pod-maskama/"
+          "serbian_latin": "Ako izdržimo mesec dana, na konju smo!",
+          "russian": "Если продержимся месяц, считай, дело в шляпе!",
+          "source": "Blic, 2020"
         },
         {
-          "serbian_latin": "Nekada je konjički sport u Srbiji bio na konju.",
-          "russian": "Когда-то конный спорт в Сербии был на подъёме.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/sport/ostali-sportovi/2862147/ergela-ljubicevo-najstarija-najveca-i-najtrofejnija.html"
+          "serbian_latin": "Daleko od toga da je Vučić sada „na konju“, naprotiv!",
+          "russian": "Далеко не факт, что Вучич сейчас находится в выигрышном положении, скорее наоборот.",
+          "source": "Politika, 2026"
         }
       ],
-      "note": "Русское «быть на коне» очень близко, но сербское выражение нередко подчёркивает именно переход из трудной ситуации в благоприятную: основные препятствия преодолены, и дальше должно быть легче. Второй пример построен на игре буквального и переносного значений слова konj.",
-      "keyword": "biti na konju"
+      "note": "Русское «быть на коне» существует, но сегодня звучит несколько книжнее и реже, чем сербское biti na konju. В сербском оборот совершенно естественен и означает выгодное, устойчивое положение или момент, когда основная трудность уже преодолена. Образ хорошо образует пару с s konja na magarca — резким переходом из хорошего положения в худшее.",
+      "keyword": "na konju"
     },
     {
       "headword_latin": "biti na nogama",
@@ -1821,31 +1819,29 @@
     {
       "headword_latin": "Bogu iza nogu",
       "type": "frazeologizam",
-      "definition_ru": "у чёрта на куличках; в глуши; бог знает где",
+      "definition_ru": "у чёрта на куличках; на краю света; в глухомани",
       "synonyms_sr": [
         "u nedođiji",
-        "u zabiti",
         "na kraju sveta",
-        "vukojebina (vulg.)"
+        "u zabiti",
+        "u vukojebini (vulg.)"
       ],
       "literal_ru": "у Бога за ногами",
-      "register": "разг., экспр.; о месте, которое воспринимается как очень далёкое, глухое и труднодоступное",
+      "register": "razg., ekspresivno, šalj.; o veoma udaljenom, teško dostupnom ili zabačenom mestu",
       "examples": [
         {
-          "serbian_latin": "„Bogu iza nogu“ nije dovoljno daleko da opiše ovu bestragiju.",
-          "russian": "Даже «у чёрта на куличках» недостаточно, чтобы описать эту глушь.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/magazin/putujemo/4817229/nusantara-mogu-li-indonezani-da-pretvore-dzunglu-u-prestonicu-za-samo-dve-godine.html"
+          "serbian_latin": "Neće devojke u Šišatovac, „bogu iza nogu“, mada je ovo selo od Sremske Mitrovice udaljeno samo 16 kilometara.",
+          "russian": "Девушки не хотят ехать в Шишатовац — «к чёрту на кулички», хотя село находится всего в шестнадцати километрах от Сремской-Митровицы.",
+          "source": "Politika, 2013"
         },
         {
-          "serbian_latin": "Neće devojke u Šišatovac, „bogu iza nogu“.",
-          "russian": "Девушки не хотят ехать в Шишатовац — такую глушь, у чёрта на куличках.",
-          "source": "Politika, 2013",
-          "url": "https://www.politika.rs/sr/clanak/272477/teslino-etno-selo-u-sisatovcu"
+          "serbian_latin": "Osečina je, moglo bi se reći, bogu iza nogu, jok geografski, pre na svaki drugi način.",
+          "russian": "Осечина, можно сказать, находится у чёрта на куличках — не столько географически, сколько во всех остальных смыслах.",
+          "source": "Vreme, 2006"
         }
       ],
-      "note": "Очень живой образ для далёкого, захолустного места. Русское «у чёрта на куличках» функционально ближе буквального перевода. Значительно более грубый разговорный синоним — vukojebina. Сам оборот прямо приводится RTS как сербский фразеологизм.",
-      "keyword": "bogu iza nogu"
+      "note": "Сербский образ гораздо выразительнее нейтрального daleko. RTS приводит Bogu iza nogu как характерный сербский идиом со значением очень далёкого места. Русскому естественны «у чёрта на куличках», «в глуши», «на краю света». Сербское грубое vukojebina близко по смыслу, но заметно сильнее стилистически.",
+      "keyword": "Bogu iza nogu"
     },
     {
       "headword_latin": "Bolje ikad nego nikad",
@@ -4240,6 +4236,33 @@
       "keyword": "duša"
     },
     {
+      "headword_latin": "Đavo je odneo šalu",
+      "type": "frazeologizam",
+      "definition_ru": "шутки кончились; дело стало серьёзным; запахло жареным",
+      "synonyms_sr": [
+        "stvar je postala ozbiljna",
+        "nema više šale",
+        "zagustilo je (razg.)",
+        "postalo je gusto (razg.)"
+      ],
+      "literal_ru": "дьявол унёс шутку",
+      "register": "razg., ekspresivno; kada bezazlena ili kontrolisana situacija postane ozbiljna ili opasna",
+      "examples": [
+        {
+          "serbian_latin": "Nakon desetak minuta smo shvatili da je đavo odneo šalu.",
+          "russian": "Минут через десять мы поняли, что шутки кончились.",
+          "source": "Blic, 2007"
+        },
+        {
+          "serbian_latin": "U zbilji, đavo je odneo šalu. I tek će je odnositi.",
+          "russian": "А если серьёзно, шутки уже кончились. И дальше будет ещё серьёзнее.",
+          "source": "Kurir, 2025"
+        }
+      ],
+      "note": "Обычно выражение маркирует переход: сначала происходящее казалось несерьёзным, но появился риск, конфликт или реальные последствия. Русское «шутки кончились» почти полностью совпадает. Типичная конструкция — kad je đavo odneo šalu «когда стало уже не до шуток».",
+      "keyword": "đavo; šala"
+    },
+    {
       "headword_latin": "Fali mu daska u glavi",
       "type": "frazeologizam",
       "definition_ru": "у него не все дома; у него винтика не хватает; он слегка не в себе",
@@ -5016,31 +5039,29 @@
     {
       "headword_latin": "Ići glavom kroz zid",
       "type": "frazeologizam",
-      "definition_ru": "переть напролом; идти напролом; биться головой о стену",
+      "definition_ru": "переть напролом; лезть напролом; пытаться добиться своего вопреки очевидным препятствиям",
       "synonyms_sr": [
-        "srljati",
-        "terati po svome",
-        "ići silom",
-        "tvrdoglavo istrajavati"
+        "ići na silu",
+        "gurati po svome",
+        "terati svoje",
+        "ne odustajati po svaku cenu"
       ],
       "literal_ru": "идти головой сквозь стену",
-      "register": "разг., экспр., обычно неодобр.; об упрямом движении к цели вопреки очевидным препятствиям",
+      "register": "razg., ekspresivno; može biti neodobravajuće ili pohvalno, zavisno od konteksta",
       "examples": [
         {
-          "serbian_latin": "Kad si mlad ideš glavom kroz zid. Kada dođeš u neke godine, kad vidiš zid ispred sebe, proveravaš koliko je debeo.",
-          "russian": "Когда ты молод, прёшь напролом. А с возрастом, увидев перед собой стену, сначала проверяешь, насколько она толстая.",
-          "source": "Politika, 2025",
-          "url": "https://www.politika.rs/sr/clanak/653868/sport/ostali-sportovi/camac-je-moja-kancelarija"
+          "serbian_latin": "Svi su mi govorili da sam lud, da idem glavom kroz zid. I razbio sam glavu nekoliko puta, ali pao je i zid.",
+          "russian": "Все говорили мне, что я сумасшедший и пру напролом. Несколько раз я разбивал голову, но в конце концов рухнула и стена.",
+          "source": "Nova.rs, 2024"
         },
         {
-          "serbian_latin": "Kad kazujemo, mi idemo glavom kroz zid, to je potrebno i nama i sagovorniku koji nas čeka iza zida.",
-          "russian": "Когда мы говорим, мы идём напролом; это нужно и нам, и собеседнику, который ждёт нас по ту сторону стены.",
-          "source": "Politika, 2015",
-          "url": "https://www.politika.rs/sr/clanak/319891/specijalni-dodaci/preskociti-sebe-znaci-preskociti-svaki-zid"
+          "serbian_latin": "Imamo veru da će se pojaviti mladi ljudi koji će hteti i biti spremni da se bore, pa glavom kroz zid.",
+          "russian": "Мы верим, что появятся молодые люди, готовые бороться, пусть даже пробивая стену головой.",
+          "source": "Vreme, 2019"
         }
       ],
-      "note": "Русский образ «биться головой о стену» чаще подчёркивает бесполезность усилий, а сербское ići glavom kroz zid — ещё и упрямую манеру действовать напролом, не ища обходного пути. Поэтому в зависимости от контекста лучший перевод — «переть напролом», «лезть напролом» или «биться головой о стену».",
-      "keyword": "ići glavom kroz zid"
+      "note": "В отличие от русского «биться головой о стену», где акцент часто на бесполезности, сербское ići glavom kroz zid подчёркивает способ действия: упорно и напролом, невзирая на препятствия. Контекст определяет оценку: это может быть и безрассудное упрямство, и похвала настойчивости.",
+      "keyword": "glavom kroz zid"
     },
     {
       "headword_latin": "Ići grlom u jagode",
@@ -9590,30 +9611,28 @@
     {
       "headword_latin": "Ni živ ni mrtav",
       "type": "frazeologizam",
-      "definition_ru": "ни жив ни мёртв; сам не свой от страха; в страшном напряжении",
+      "definition_ru": "ни жив ни мёртв; сам не свой; в состоянии сильнейшего потрясения",
       "synonyms_sr": [
-        "prestravljen",
         "van sebe",
-        "skamenjen od straha",
-        "silno uznemiren"
+        "potpuno slomljen",
+        "prestravljen",
+        "skamenjen"
       ],
-      "literal_ru": "ни живой ни мёртвый",
-      "register": "разг., экспр.; обычно о сильном страхе, тревоге, шоке или мучительном ожидании",
+      "literal_ru": "ни живой, ни мёртвый",
+      "register": "ekspresivno; o strahu, tuzi, šoku ili krajnjoj iscrpljenosti",
       "examples": [
         {
-          "serbian_latin": "Ni živ ni mrtav sam otišao na taj razgovor, a kao i svaki vojnik mislio sam da je neka nevolja u pitanju.",
-          "russian": "Я пошёл на этот разговор ни жив ни мёртв: как любой солдат, думал, что случилась какая-то неприятность.",
-          "source": "Politika, 2025",
-          "url": "https://www.politika.rs/sr/clanak/653557/kad-je-milan-cuvao-mir-na-sinaju"
+          "serbian_latin": "Ja stojim u mestu, ni živ ni mrtav.",
+          "russian": "А я застыл на месте — ни жив ни мёртв.",
+          "source": "Blic, 2019"
         },
         {
-          "serbian_latin": "Nisam verovao kada su mi pričali da tih nekoliko dana nisi ni živ ni mrtav od uzbuđenja.",
-          "russian": "Я не верил, когда мне говорили, что эти несколько дней ты сам не свой от волнения.",
-          "source": "Danas, 2008",
-          "url": "https://www.danas.rs/vesti/drustvo/cast-mi-je-biti-dzoker-u-ovakvoj-ekipi/"
+          "serbian_latin": "Godinu dana ja nisam ni živ, ni mrtav, nedostaje mi tvoj pogled pun dobrote.",
+          "russian": "Уже год я ни жив ни мёртв, мне не хватает твоего доброго взгляда.",
+          "source": "Blic, 2024"
         }
       ],
-      "note": "В устойчивом переносном употреблении это прежде всего состояние крайнего страха, волнения или потрясения. Возможен и буквальный контекст неопределённости — неизвестно, жив человек или погиб, — поэтому значение всегда определяется ситуацией. Очень естественно bio sam ni živ ni mrtav od straha / uzbuđenja.",
+      "note": "Русский оборот формально совпадает, но сербское выражение особенно естественно для описания человека, которого горе, страх или шок словно лишили нормальной жизни. Возможен и иной контекст — о пропавшем без вести, когда буквально неизвестно, жив человек или мёртв; значение тогда уже не чисто фразеологическое.",
       "keyword": "ni živ ni mrtav"
     },
     {
@@ -11474,6 +11493,32 @@
       ],
       "note": "Ceh буквально означает ресторанный или трактирный счёт, но в выражении platiti ceh речь почти всегда о неприятных последствиях. Очень типично: ошибки совершает один, а ceh plaća кто-то другой. Русскому хорошо подходят «расплачиваться», «платить за чужие ошибки», «расхлёбывать последствия».",
       "keyword": "platiti ceh"
+    },
+    {
+      "headword_latin": "Plava krv",
+      "type": "izraz",
+      "definition_ru": "голубая кровь; аристократическое происхождение; знатный род",
+      "synonyms_sr": [
+        "plemićko poreklo",
+        "aristokratsko poreklo",
+        "plemstvo"
+      ],
+      "literal_ru": "голубая / синяя кровь",
+      "register": "knjiž.-publicistički; međunarodni frazeološki izraz",
+      "examples": [
+        {
+          "serbian_latin": "Već sutra bila sam u odori engleske kraljice sa zadatkom da sama osmislim ko je ona i kako je kad ti venama teče „plava krv“.",
+          "russian": "Уже на следующий день я была в одеянии английской королевы и должна была сама понять, каково это, когда в твоих жилах течёт голубая кровь.",
+          "source": "Večernje novosti, 2020"
+        },
+        {
+          "serbian_latin": "„Plava krv“ bila je dovoljan razlog za kačenje čvaraka i bez ikakve lične zasluge.",
+          "russian": "«Голубой крови» было достаточно для получения военных знаков отличия без каких-либо личных заслуг.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Значение совпадает с русским «голубая кровь», хотя сербское plav охватывает то, что русский различает как «синий» и «голубой». В сербском выражение обозначает прежде всего аристократическое происхождение и может употребляться иронически. Популярное объяснение связывает образ с заметными синими венами светлокожей испанской знати; оно широко приводится в источниках, хотя конкретные детали истории происхождения следует воспринимать осторожно.",
+      "keyword": "plava krv"
     },
     {
       "headword_latin": "Plivati protiv struje",
@@ -14391,6 +14436,32 @@
       "keyword": "kraj s krajem"
     },
     {
+      "headword_latin": "Spala knjiga na dva slova",
+      "type": "frazeologizam",
+      "definition_ru": "осталось всего два варианта; круг сузился до двух; выбирать почти не из кого",
+      "synonyms_sr": [
+        "ostala su samo dva",
+        "izbor se suzio",
+        "ostalo je malo mogućnosti"
+      ],
+      "literal_ru": "книга сократилась до двух букв",
+      "register": "razg.-publicistički, iron.; obično kada je od mnoštva kandidata, mogućnosti ili učesnika ostalo samo dvoje ili vrlo malo",
+      "examples": [
+        {
+          "serbian_latin": "Đilas tvrdi da je „knjiga spala na dva slova“, odnosno na Anu Brnabić i Đuru Macuta.",
+          "russian": "Джилас утверждает, что выбор фактически сузился до двух — Аны Брнабич и Джуро Мацута.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Kada je knjiga spala na dva slova, promenjen je i sponzor.",
+          "russian": "Когда вариантов практически не осталось, сменился и спонсор.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Число dva часто соответствует реальным двум оставшимся вариантам, но образ может употребляться шире: «выбор резко сузился, осталось совсем немного». Русского устойчивого образа с «книгой» нет, поэтому буквальный перевод не работает. Особенно часто выражение встречается в политике, спорте и конкурсах.",
+      "keyword": "knjiga; dva slova"
+    },
+    {
       "headword_latin": "spaliti mostove",
       "type": "глагольный фразеологизм",
       "definition_ru": "Сжечь мосты; окончательно разорвать связи; сделать возвращение невозможным.",
@@ -14706,6 +14777,33 @@
       ],
       "note": "Личное местоимение изменяется: srce mi, ti, mu, joj или nam je sišlo u pete. Встречается также вариант srce mi je u petama.",
       "keyword": "srce; pete"
+    },
+    {
+      "headword_latin": "Srce mi je na mestu",
+      "type": "frazeologizam",
+      "definition_ru": "у меня отлегло от сердца; теперь я спокоен; душа на месте",
+      "synonyms_sr": [
+        "laknulo mi je",
+        "miran sam",
+        "spokojan sam",
+        "zadovoljan sam"
+      ],
+      "literal_ru": "сердце у меня на своём месте",
+      "register": "razg.-neutralno; posle dobrog ishoda, važne vesti ili osećaja da je sve kako treba",
+      "examples": [
+        {
+          "serbian_latin": "Srce mi je na mestu. Ova publika nas je vodila i kad smo gubile.",
+          "russian": "Теперь у меня душа на месте. Эта публика поддерживала нас даже тогда, когда мы проигрывали.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Posle ovog pisma mi je lakše i srce mi je na mestu.",
+          "russian": "После этого письма мне стало легче, и теперь я спокоен.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "Русскому здесь нельзя механически переводить srce как «сердце»: чаще естественны «душа на месте», «отлегло от сердца», «теперь я спокоен». Выражение описывает восстановившееся душевное равновесие или удовлетворение положением дел. Не путать с srce mi je sišlo u pete — «душа ушла в пятки».",
+      "keyword": "srce na mestu"
     },
     {
       "headword_latin": "Srce se stegne nekome",
@@ -16920,30 +17018,28 @@
     {
       "headword_latin": "Upasti nekome sekira u med",
       "type": "frazeologizam",
-      "definition_ru": "невероятно повезти; сорвать куш; неожиданно оказаться в очень выгодном положении",
+      "definition_ru": "сказочно повезти; сорвать куш; неожиданно оказаться в чрезвычайно выгодной ситуации",
       "synonyms_sr": [
-        "posrećiti se",
         "imati veliku sreću",
+        "posrećiti se",
         "dobro proći",
-        "ubosti premiju"
+        "dobiti premiju"
       ],
-      "literal_ru": "у кого-то топор попал в мёд",
-      "register": "разг., экспр.; особенно типична форма upala mu je sekira u med",
+      "literal_ru": "топор попал в мёд",
+      "register": "razg., ekspresivno; tipično upala mu/joj je sekira u med",
       "examples": [
         {
-          "serbian_latin": "Ukućani su rekli da mu je sekira upala u med, a on to odmah shvatio kao ideju za novi proizvod.",
-          "russian": "Домашние сказали, что ему невероятно повезло, а он сразу превратил это в идею для нового продукта.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5039896/tri-generacije-pcelara-u-jednom-domacinstvu.html"
+          "serbian_latin": "Ukućani su rekli da mu je sekira upala u med.",
+          "russian": "Домашние сказали, что ему несказанно повезло.",
+          "source": "RTS, 2022"
         },
         {
-          "serbian_latin": "Političari imaju lepljive prste. Upala im sekira u med.",
-          "russian": "У политиков липкие руки. Вот им и привалило счастье.",
-          "source": "Politika, 2017",
-          "url": "https://www.politika.rs/sr/clanak/374546/bratislav-kostadinov-dobitnik-vibove-nagrade"
+          "serbian_latin": "On živi svoj pasji život, upala mu sekira u med.",
+          "russian": "Он живёт своей собачьей жизнью — ему просто сказочно повезло.",
+          "source": "Nova.rs, 2024"
         }
       ],
-      "note": "Значение включает элемент неожиданной и часто непропорционально большой удачи: получить много при небольшом усилии или случайно оказаться в выигрышной ситуации. Популярное объяснение связывает образ с дровосеком, случайно обнаружившим мёд диких пчёл в дупле, однако надёжно установленной этимологии этой истории нет.",
+      "note": "Выражение часто подразумевает не просто успех, а неожиданную выгоду, доставшуюся без особых усилий: удачный брак, наследство, отличную работу, большой выигрыш. Распространённое объяснение связывает фразу с лесорубом, случайно попавшим топором в дупло с диким мёдом; N1 приводит именно эту версию, но надёжно доказанной этимологией считать её не стоит. Формы upala mu je sekira u med и pala mu je sekira u med обе встречаются.",
       "keyword": "sekira u med"
     },
     {
@@ -18190,6 +18286,32 @@
       ],
       "note": "Образ связан с тем, что почка окружена жировой тканью, которая служит ей защитой и опорой; отсюда представление о максимально «удобном» положении. В речи выражение нередко ироническое: человек живёт очень комфортно, особенно по сравнению с окружающими.",
       "keyword": "bubreg u loju"
+    },
+    {
+      "headword_latin": "Živi bili pa videli",
+      "type": "izreka",
+      "definition_ru": "поживём — увидим; время покажет",
+      "synonyms_sr": [
+        "videćemo",
+        "vreme će pokazati",
+        "ostaje da se vidi"
+      ],
+      "literal_ru": "будем живы — увидим",
+      "register": "ustaljena razg. replika; često izražava skepsu prema obećanju ili prognozi",
+      "examples": [
+        {
+          "serbian_latin": "Živi bili pa videli.",
+          "russian": "Поживём — увидим.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Ukazao je da su ove godine izbori i da će moći da se sagledaju rezultati, uz opasku „živi bili, pa videli“.",
+          "russian": "Он отметил, что выборы пройдут в этом году и результаты всё покажут, добавив: «Поживём — увидим».",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Почти идеальный функциональный эквивалент русского «поживём — увидим». В зависимости от интонации реплика может быть нейтральной, осторожной или насмешливо-недоверчивой: «ну-ну, посмотрим». Возможна пунктуация Živi bili, pa videli, но сама формула остаётся той же.",
+      "keyword": "živi bili; videli"
     },
     {
       "headword_latin": "Žuditi za nečim",
