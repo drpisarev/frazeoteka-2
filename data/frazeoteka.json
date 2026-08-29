@@ -1698,6 +1698,35 @@
       "keyword": "deliti šakom i kapom"
     },
     {
+      "headword_latin": "dići sidro",
+      "type": "фразеологизм",
+      "definition_ru": "Уйти, уехать, покинуть место или организацию.",
+      "synonyms_sr": [
+        "otići",
+        "napustiti mesto",
+        "pokupiti se",
+        "krenuti dalje"
+      ],
+      "literal_ru": "Поднять якорь.",
+      "register": "Разговорное, образное.",
+      "examples": [
+        {
+          "serbian_latin": "Sidro digao i trener Šimičić.",
+          "russian": "Тренер Шимичич тоже покинул клуб.",
+          "source": "Mozzart Sport, 2025",
+          "url": "https://www.mozzartsport.com/ostalo/vesti/vicesampion-srbije-pred-gasenjem-novi-talas-odlazaka-sidro-digao-i-trener-simicic/531668"
+        },
+        {
+          "serbian_latin": "I naslednik Dejana Perića digao sidro.",
+          "russian": "Преемник Деяна Перича тоже ушёл.",
+          "source": "Mozzart Sport, 2023",
+          "url": "https://www.mozzartsport.com/ostalo/vesti/zvezda-se-osipa-i-naslednik-dejana-perica-digao-sidro/454758"
+        }
+      ],
+      "note": "Первоначально морское выражение. В переносном значении часто употребляется при уходе игрока, тренера или работника из команды либо организации.",
+      "keyword": "sidro"
+    },
+    {
       "headword_latin": "dizati nekoga u nebesa",
       "type": "glagolski frazem",
       "definition_ru": "превозносить кого-либо до небес; чрезмерно восхвалять",
@@ -2313,6 +2342,35 @@
       "keyword": "konci"
     },
     {
+      "headword_latin": "držati vodu dok majstori odu",
+      "type": "фразеологизм",
+      "definition_ru": "Быть временным и ненадёжным решением; работать лишь до ухода ответственных лиц.",
+      "synonyms_sr": [
+        "privremeno zakrpiti",
+        "rešenje kratkog daha",
+        "samo da posluži",
+        "zbrda-zdola popraviti"
+      ],
+      "literal_ru": "Держать воду, пока мастера не уйдут.",
+      "register": "Разговорное, ироническое, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Drži vodu dok majstori odu.",
+          "russian": "Сойдёт лишь до тех пор, пока мастера не уйдут.",
+          "source": "Nova Ekonomija, 2026",
+          "url": "https://novaekonomija.rs/vesti-iz-zemlje/drzi-vodu-dok-majstori-odu-tri-puta-za-godinu-dana-puca-isti-magistralni-cevovod"
+        },
+        {
+          "serbian_latin": "Drži vodu, dok majstori odu!?",
+          "russian": "Решение лишь для видимости — пока ответственные не ушли.",
+          "source": "Vesti.rs / JUGpress, 2026",
+          "url": "https://www.vesti.rs/Vranje/Vucicev-poseban-program-za-jug-Srbije-Drzi-vodu-dok-majstori-odu.html"
+        }
+      ],
+      "note": "Говорится о ремонте, обещании, законе или иной мере, которая создаёт лишь кратковременную видимость решения проблемы.",
+      "keyword": "voda; majstor"
+    },
+    {
       "headword_latin": "duša od čoveka",
       "type": "imenski frazem",
       "definition_ru": "человек золотой души; исключительно добрый и сердечный человек",
@@ -2711,6 +2769,35 @@
         }
       ],
       "note": "Возможны несовершенная форма gurati problem pod tepih, совершенная gurnuti problem pod tepih и отглагольное существительное guranje pod tepih. Выражение обычно подразумевает, что скрытая проблема позднее проявится снова.",
+      "keyword": "tepih"
+    },
+    {
+      "headword_latin": "gurati probleme pod tepih",
+      "type": "фразеологизм",
+      "definition_ru": "Замалчивать или игнорировать проблемы вместо их решения.",
+      "synonyms_sr": [
+        "zataškavati probleme",
+        "praviti se da problem ne postoji",
+        "odlagati rešavanje",
+        "izbegavati suočavanje"
+      ],
+      "literal_ru": "Загонять проблемы под ковёр.",
+      "register": "Разговорное и публицистическое, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Guranje problema pod tepih može izgledati kao rešenje.",
+          "russian": "Замалчивание проблем может показаться решением.",
+          "source": "Stil, 2026",
+          "url": "https://stil.kurir.rs/lifestyle/zanimljivosti/258156/11-osobina-ljudi-koji-probleme-guraju-pod-tepih"
+        },
+        {
+          "serbian_latin": "„Gurati probleme pod tepih“ je izraz koji su u Nišu shvatili doslovno.",
+          "russian": "Выражение «заметать проблемы под ковёр» в Нише поняли буквально.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/kad-vec-asfalt-nemamo-nek-nam-poklone-tepih-ali-persijski-da-preletimo-rupe/"
+        }
+      ],
+      "note": "Употребляется о личных конфликтах, общественных проблемах и действиях учреждений, которые скрывают проблему, не устраняя её причины.",
       "keyword": "tepih"
     },
     {
@@ -3353,6 +3440,35 @@
       ],
       "note": "Poređenje opisuje veoma krupnu, široku ili punu osobu, odnosno preširoku i bezobličnu odeću. U srpskom su češći kraći izrazi biti kao ormar i biti građen kao ormar. Može zvučati uvredljivo.",
       "keyword": "ormar"
+    },
+    {
+      "headword_latin": "izgubiti kompas",
+      "type": "фразеологизм",
+      "definition_ru": "Потерять ориентиры; перестать здраво оценивать ситуацию; начать действовать неразумно.",
+      "synonyms_sr": [
+        "izgubiti orijentaciju",
+        "ne znati kuda se ide",
+        "pogubiti konce",
+        "izgubiti osećaj za realnost"
+      ],
+      "literal_ru": "Потерять компас.",
+      "register": "Разговорное, экспрессивное, часто критическое.",
+      "examples": [
+        {
+          "serbian_latin": "Šačica blokadera potpuno je izgubila kompas.",
+          "russian": "Небольшая группа участников блокад окончательно потеряла ориентиры.",
+          "source": "B92, 2026",
+          "url": "https://www.b92.net/info/politika/241401/totalno-izgubili-kompas-saka-blokadera-na-banovom-brdu-ljudi-im-se-podsmevaju-foto/vest"
+        },
+        {
+          "serbian_latin": "Microsoft potpuno izgubio kompas.",
+          "russian": "Microsoft окончательно потеряла ориентиры.",
+          "source": "Benchmark, 2026",
+          "url": "https://benchmark.rs/vesti/softver-i-servisi/microsoft-potpuno-izgubio-kompas-windows-11-postaje-sve-gori-posle-svakog-azuriranja-a-u-najnovijem-rusi-sistem-i-sprecava-pokretanje-racunara/"
+        }
+      ],
+      "note": "Выражение относится как к человеку, так и к организации, компании или политическому движению.",
+      "keyword": "kompas"
     },
     {
       "headword_latin": "Izigravati žrtvu",
@@ -4244,6 +4360,35 @@
       ],
       "note": "Русский и сербский фразеологизмы практически полностью совпадают. Krokodilske suze — ложное сожаление и лицемерное сочувствие. Крокодилы действительно выделяют слёзную жидкость, в том числе при кормлении, но не из эмоциональной печали; наблюдение этого физиологического явления породило старый образ хищника, который будто бы «оплакивает» свою жертву.",
       "keyword": "krokodilske suze"
+    },
+    {
+      "headword_latin": "maca ti je pojela jezik",
+      "type": "фразеологизм",
+      "definition_ru": "Почему ты замолчал? Почему не отвечаешь?",
+      "synonyms_sr": [
+        "što ćutiš?",
+        "zašto ništa ne kažeš?",
+        "ostati bez reči",
+        "ne znati šta odgovoriti"
+      ],
+      "literal_ru": "Кошка съела тебе язык.",
+      "register": "Разговорное, шутливое или насмешливое.",
+      "examples": [
+        {
+          "serbian_latin": "Je l’ ti maca pojela jezik?",
+          "russian": "Что, язык проглотил?",
+          "source": "Kurir, 2024",
+          "url": "https://www.kurir.rs/zabava/zanimljivosti/9453163/maca-ti-pojela-jezik-znacenje-izraza"
+        },
+        {
+          "serbian_latin": "Ako je nekome maca pojela jezik...",
+          "russian": "Если у кого-то словно язык отнялся…",
+          "source": "Prva televizija, 2021",
+          "url": "https://www.prva.rs/zivot/zanimljivosti/zasto-se-kaze-maca-pojela-jezik-1951910"
+        }
+      ],
+      "note": "Обычно обращено к человеку, который намеренно молчит, неожиданно замолчал или не может ответить на аргумент.",
+      "keyword": "maca; jezik"
     },
     {
       "headword_latin": "Malo sutra",
@@ -5261,6 +5406,35 @@
       "keyword": "odgovarati"
     },
     {
+      "headword_latin": "okrenuti / promeniti ploču",
+      "type": "фразеологизм",
+      "definition_ru": "Резко изменить мнение, позицию, тон или отношение.",
+      "synonyms_sr": [
+        "promeniti mišljenje",
+        "promeniti stav",
+        "okrenuti priču",
+        "govoriti drugačije"
+      ],
+      "literal_ru": "Перевернуть или сменить пластинку.",
+      "register": "Разговорное, экспрессивное; часто ироническое.",
+      "examples": [
+        {
+          "serbian_latin": "Blokaderi okrenuli ploču.",
+          "russian": "Участники блокад резко изменили позицию.",
+          "source": "B92, 2026",
+          "url": "https://www.b92.net/info/politika/262238/blokaderi-okrenuli-plocu-nekada-podrzavali-proteste-sada-docekuju-vucica-foto/vest"
+        },
+        {
+          "serbian_latin": "Ona se sada oglasila i potpuno je promenila ploču.",
+          "russian": "Теперь она высказалась совершенно иначе.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/stars/10086436/indi-aradinovic-okrenula-plocu"
+        }
+      ],
+      "note": "Выражение часто подразумевает внезапную и не вполне искреннюю смену позиции под влиянием обстоятельств.",
+      "keyword": "ploča"
+    },
+    {
       "headword_latin": "Okrenuti nekome leđa",
       "type": "glagolski frazem",
       "definition_ru": "Отвернуться от кого-либо; оставить без поддержки; отказаться от прежнего союзника, близкого человека или своей страны.",
@@ -5376,6 +5550,35 @@
       ],
       "note": "Ваше «ушло из-под контроля» возможно только в отдельных ситуациях. Центральное значение — непреднамеренность: слово, ругательство, шутка, движение, ошибка «сорвались». «Меня прорвало» обычно сильнее: для внезапного эмоционального потока естественнее pukao sam, izletelo mi je sve, nisam mogao da se zaustavim. Omaklo mi se часто используется и как полушутливое оправдание: «ой, случайно получилось». Очень типично omakla mi se psovka / greška / reč.",
       "keyword": "omaklo mi se"
+    },
+    {
+      "headword_latin": "ostati / ostaviti nekoga na cedilu",
+      "type": "фразеологизм",
+      "definition_ru": "Оказаться брошенным без помощи; бросить или подвести кого-либо в трудной ситуации.",
+      "synonyms_sr": [
+        "ostaviti nekoga bez pomoći",
+        "izneveriti nekoga",
+        "napustiti nekoga",
+        "prepustiti nekoga samom sebi"
+      ],
+      "literal_ru": "Остаться или оставить на цедилке.",
+      "register": "Разговорное, устойчивое.",
+      "examples": [
+        {
+          "serbian_latin": "Neko je ostao na cedilu.",
+          "russian": "Кто-то оказался брошенным в беде.",
+          "source": "24sedam, 2026",
+          "url": "https://24sedam.rs/drustvo/vesti/467844/odakle-potice-izraz-ostao-na-cedilu-prica-iza-fraze-koju-svi-koristimo-mnogo-je-neobicnija-nego-sto-mislite/vest"
+        },
+        {
+          "serbian_latin": "I tako frajla Jula ostala na cedilu.",
+          "russian": "Так барышня Юла и осталась ни с чем.",
+          "source": "Kurir, 2025; пример Стевана Сремаца",
+          "url": "https://www.kurir.rs/zabava/zanimljivosti/9728569/sta-zaista-znaci-ostavljen-na-cedilu"
+        }
+      ],
+      "note": "Форма ostati na cedilu описывает положение пострадавшего, а ostaviti nekoga na cedilu — действие того, кто бросил или подвёл другого.",
+      "keyword": "cedilo"
     },
     {
       "headword_latin": "Osveta",
@@ -6053,6 +6256,35 @@
       ],
       "note": "Образ основан на поведении кукушки, подкладывающей яйца в чужие гнёзда. В переносном смысле подчёркивается скрытая подмена или перекладывание собственных проблем на другого.",
       "keyword": "kukavica; jaje"
+    },
+    {
+      "headword_latin": "podvući crtu",
+      "type": "фразеологизм",
+      "definition_ru": "Подвести итог; сделать окончательный вывод; завершить определённый этап.",
+      "synonyms_sr": [
+        "sumirati rezultate",
+        "izvesti zaključak",
+        "zaključiti priču",
+        "staviti tačku"
+      ],
+      "literal_ru": "Подчеркнуть; провести черту.",
+      "register": "Нейтральное или публицистическое; переносное.",
+      "examples": [
+        {
+          "serbian_latin": "Vučić podvukao crtu nakon istorijske nedelje.",
+          "russian": "Вучич подвёл итог исторической недели.",
+          "source": "NS Reporter, 2026",
+          "url": "https://nsreporter.rs/2026/07/vucic-podvukao-crtunakon-istorijske-nedelje-predsednik-mocnom-porukom-na-instagramu-zapusio-usta-kriticarima/"
+        },
+        {
+          "serbian_latin": "Vučić podvukao crtu.",
+          "russian": "Вучич подвёл итог.",
+          "source": "Alo, 2026",
+          "url": "https://www.alo.rs/vesti/politika/16857880/vucic-sumirao-nedelju-i-poslao-snaznu-poruku-gradjanima.html"
+        }
+      ],
+      "note": "Встречается также конструкция podvući crtu pod nešto. Расширенный вариант podvući crtu i krenuti dalje означает закончить прежний этап и двигаться дальше.",
+      "keyword": "crta"
     },
     {
       "headword_latin": "Pokaži mi jednu osobu koja ne pati!",
@@ -7352,6 +7584,35 @@
       "keyword": "lopta"
     },
     {
+      "headword_latin": "srce je nekome sišlo u pete",
+      "type": "фразеологизм",
+      "definition_ru": "Кто-либо сильно испугался; у кого-либо душа ушла в пятки.",
+      "synonyms_sr": [
+        "prestraviti se",
+        "srce mu je stalo",
+        "odsekle su mu se noge",
+        "uhvatio ga je strah"
+      ],
+      "literal_ru": "Сердце опустилось кому-либо в пятки.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Srce mi je sišlo u pete.",
+          "russian": "У меня душа ушла в пятки.",
+          "source": "Blic, 2019",
+          "url": "https://www.blic.rs/slobodno-vreme/srce-mi-je-sislo-u-pete-devojka-je-htela-da-upozna-decka-sa-roditeljima-a-kada-je/eyer1zr"
+        },
+        {
+          "serbian_latin": "Srce joj sišlo u pete.",
+          "russian": "У неё душа ушла в пятки.",
+          "source": "Žena.rs, 2026",
+          "url": "https://zena.blic.rs/lifestyle/samohrana-majka-troje-dece-primila-beskucnika-u-svoj-dom-usred-zime/1k6j19c"
+        }
+      ],
+      "note": "Личное местоимение изменяется: srce mi, ti, mu, joj или nam je sišlo u pete. Встречается также вариант srce mi je u petama.",
+      "keyword": "srce; pete"
+    },
+    {
       "headword_latin": "Staviti / baciti nekome bubu u uho",
       "type": "frazeologizam",
       "definition_ru": "заронить кому-то мысль; подкинуть идею; заставить задуматься; посеять сомнение",
@@ -8163,6 +8424,35 @@
       ],
       "note": "Конструкция udariti u zid обозначает столкновение с пределом или тупиком. Расширенный вариант udarati glavom u zid подчёркивает бесполезные, но упорно повторяемые попытки добиться невозможного.",
       "keyword": "zid"
+    },
+    {
+      "headword_latin": "uhvatiti maglu",
+      "type": "фразеологизм",
+      "definition_ru": "Быстро уйти или убежать; скрыться.",
+      "synonyms_sr": [
+        "pobeći",
+        "zbrisati",
+        "dati petama vetra",
+        "nestati"
+      ],
+      "literal_ru": "Схватить туман.",
+      "register": "Разговорное, экспрессивное, часто шутливое.",
+      "examples": [
+        {
+          "serbian_latin": "Blokaderi uhvatili maglu čim su videli policiju.",
+          "russian": "Участники блокад дали дёру, увидев полицию.",
+          "source": "24sedam, 2025",
+          "url": "https://24sedam.rs/politika/vesti/400482/blokaderi-uhvatili-maglu-cim-su-videli-policiju/vest"
+        },
+        {
+          "serbian_latin": "Pobegoše k’o zečevi: blokaderi uhvatili maglu.",
+          "russian": "Разбежались как зайцы: участники блокад дали дёру.",
+          "source": "Informer, 2025",
+          "url": "https://informer.rs/politika/vesti/1031198/blokada-beograd-ruzveltova-policija"
+        }
+      ],
+      "note": "Обычно обозначает поспешное бегство при появлении опасности, полиции или нежелательного человека.",
+      "keyword": "magla"
     },
     {
       "headword_latin": "uhvatiti se u koštac s nekim / nečim",
