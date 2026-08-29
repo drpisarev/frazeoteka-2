@@ -2168,30 +2168,30 @@
     {
       "headword_latin": "dolivati ulje na vatru",
       "type": "глагольный фразеологизм",
-      "definition_ru": "Усугублять конфликт или неприятную ситуацию; усиливать раздражение, вражду или панику.",
+      "definition_ru": "Подливать масла в огонь; своими словами или действиями ещё больше обострять конфликт либо напряжённую ситуацию.",
       "synonyms_sr": [
-        "raspirivati sukob",
         "pogoršavati situaciju",
-        "podizati tenziju",
-        "dodatno provocirati"
+        "raspirivati sukob",
+        "podgrevati tenzije",
+        "dodatno zaoštravati odnose"
       ],
       "literal_ru": "Подливать масло в огонь.",
-      "register": "Общеупотребительное, экспрессивное.",
+      "register": "Разговорное, экспрессивное; часто публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Rusija je optužila Britaniju da „doliva ulje na vatru“.",
-          "russian": "Россия обвинила Великобританию в том, что она подливает масла в огонь.",
+          "serbian_latin": "Britanija metodično i redovno doliva ulje na vatru.",
+          "russian": "Британия методично и постоянно подливает масла в огонь.",
           "source": "N1, 2026",
           "url": "https://n1info.rs/svet/rusija-optuzila-britaniju-da-doliva-ulje-na-vatru-barnam-kaze-da-podrzavaju-ukrajinu-uprkos-necuvenim-pretnjama/"
         },
         {
-          "serbian_latin": "Ekstremne oluje prete milijardama, a El Ninjo doliva ulje na vatru.",
-          "russian": "Экстремальные бури угрожают миллиардам людей, а Эль-Ниньо лишь подливает масла в огонь.",
+          "serbian_latin": "Opasan fenomen doliva ulje na vatru.",
+          "russian": "Опасное явление подливает масла в огонь.",
           "source": "Blic, 2026",
           "url": "https://www.blic.rs/vesti/svet/ekstremne-oluje-prete-milijardama-a-el-ninjo-doliva-ulje-na-vatru-i-vec-nemilosrdno/z6nl882"
         }
       ],
-      "note": "Субъектом может быть не только человек, но и заявление, решение, событие или природный фактор, дополнительно ухудшающий положение.",
+      "note": "Выражение употребляется, когда чьё-либо вмешательство не успокаивает ситуацию, а усиливает конфликт, страх, возмущение или напряжение. Возможен совершенный вид doliti ulje na vatru.",
       "keyword": "ulje; vatra"
     },
     {
@@ -2222,32 +2222,32 @@
     },
     {
       "headword_latin": "držati jezik za zubima",
-      "type": "фразеологизм",
-      "definition_ru": "Держать язык за зубами; молчать; воздерживаться от неосторожных или лишних слов.",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Держать язык за зубами; молчать; не выдавать тайну; воздерживаться от неуместных слов.",
       "synonyms_sr": [
         "ćutati",
-        "ne progovarati",
-        "uzdržati se od komentara",
-        "ne odavati tajnu",
-        "zatvoriti usta"
+        "prećutati",
+        "ne zucnuti",
+        "ne govoriti ništa",
+        "ugristi se za jezik"
       ],
       "literal_ru": "Держать язык за зубами.",
-      "register": "Разговорное, экспрессивное.",
+      "register": "Разговорное.",
       "examples": [
         {
-          "serbian_latin": "Situacije u kojima je najbolje držati jezik za zubima.",
-          "russian": "Ситуации, в которых лучше всего держать язык за зубами.",
-          "source": "Srećne / Republika, 2024",
+          "serbian_latin": "Ako se nađete u situaciji u kojoj vaše reči mogu nekoga da povrede, bolje je držati jezik za zubima.",
+          "russian": "Если ваши слова могут кого-то ранить, лучше держать язык за зубами.",
+          "source": "Srećne, 2024",
           "url": "https://srecne.republika.rs/zdravlje/mentalno-zdravlje/19933/situacije-u-kojima-treba-ucutati"
         },
         {
-          "serbian_latin": "Ako vaše reči mogu nekoga da povrede, bolje je držati jezik za zubima.",
-          "russian": "Если ваши слова могут кого-нибудь ранить, лучше держать язык за зубами.",
-          "source": "Srećne / Republika, 2024",
-          "url": "https://srecne.republika.rs/zdravlje/mentalno-zdravlje/19933/situacije-u-kojima-treba-ucutati"
+          "serbian_latin": "Ako izuzmemo takve primere, kada je najpametnije držati jezik za zubima?",
+          "russian": "Если исключить подобные случаи, когда разумнее всего держать язык за зубами?",
+          "source": "Magazin Novosti, 2022",
+          "url": "https://www.magazin.novosti.rs/sr/zanimljivosti/vesti/vest/u-kojim-situacijama-je-cutanje-najbolja-opcija-psiholoskinja-i-psihoterapeutkinja-objasnjava-kada-je-bolje-drzati-jezik-za-zubima/1480814"
         }
       ],
-      "note": "Выражение может означать как благоразумное молчание, так и необходимость сохранить тайну. Возможен совершенный вид zadržati jezik za zubima.",
+      "note": "Выражение может означать как сохранение тайны, так и сознательный отказ от резкого или опасного высказывания. Не следует полностью отождествлять его с ugristi se za jezik: последнее обычно означает вовремя остановиться и не сказать уже готовые сорваться слова.",
       "keyword": "jezik; zubi"
     },
     {
@@ -3634,6 +3634,35 @@
       ],
       "note": "Izigravati здесь значит «разыгрывать, изображать определённую роль», причём обычно с отрицательной оценкой: говорящий считает эту роль не вполне искренней. Поэтому izigravati žrtvu сильнее нейтрального biti žrtva. Та же модель встречается в izigravati heroja, stručnjaka, klovna.",
       "keyword": "izigravati žrtvu"
+    },
+    {
+      "headword_latin": "izneti prljav veš",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Вынести грязное бельё на публику; обнародовать неприятные подробности частной жизни, семейные конфликты или чужие постыдные секреты.",
+      "synonyms_sr": [
+        "izneti intimne detalje u javnost",
+        "otkriti porodične tajne",
+        "javno razotkriti nekoga",
+        "oprati prljav veš pred svima"
+      ],
+      "literal_ru": "Вынести грязное бельё.",
+      "register": "Разговорное, неодобрительное; часто таблоидное.",
+      "examples": [
+        {
+          "serbian_latin": "Haris Džinović je šokirao javnost kada je izneo prljav veš.",
+          "russian": "Харис Джинович шокировал публику, вынеся грязное бельё на всеобщее обозрение.",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/zabava/nas-pevac-73-ozenio-29-godina-mladju-posle-razvoda-izneo-prljav-ves-i-sokirao-srbiju/g36nmek"
+        },
+        {
+          "serbian_latin": "Anđela Šparavalo iznela je sav prljav veš o svojoj porodici.",
+          "russian": "Анджела Шпаравало вынесла на публику всё грязное бельё своей семьи.",
+          "source": "Blic, 2024",
+          "url": "https://www.blic.rs/zabava/andjela-sparavalo-iznela-prljav-ves-o-porodici-umesala-se-i-bojana/xpcf85q"
+        }
+      ],
+      "note": "Обычно выражение осуждает публичное обсуждение семейных, супружеских или личных конфликтов. Встречается и конструкция prati prljav veš u javnosti — публично выяснять отношения.",
+      "keyword": "veš"
     },
     {
       "headword_latin": "izvući deblji kraj",
@@ -5626,31 +5655,33 @@
       "keyword": "ploča"
     },
     {
-      "headword_latin": "Okrenuti nekome leđa",
-      "type": "glagolski frazem",
-      "definition_ru": "Отвернуться от кого-либо; оставить без поддержки; отказаться от прежнего союзника, близкого человека или своей страны.",
+      "headword_latin": "okrenuti nekome leđa",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Отвернуться от кого-либо; бросить без поддержки; отказаться помогать; отречься от прежнего союзника.",
       "synonyms_sr": [
         "napustiti nekoga",
-        "uskratiti podršku",
         "odreći se nekoga",
-        "prestati podržavati nekoga",
+        "uskratiti podršku",
+        "distancirati se od nekoga",
         "ostaviti nekoga na cedilu"
       ],
       "literal_ru": "Повернуться к кому-либо спиной.",
-      "register": "neutralno, ekspresivno; često publicistički",
+      "register": "Разговорное и публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Predsednik Srbije Aleksandar Vučić je izjavio da njegova zemlja ne želi da okrene leđa Rusiji.",
-          "russian": "Президент Сербии Александр Вучич заявил, что его страна не хочет отворачиваться от России.",
-          "source": "Danas, 2025"
+          "serbian_latin": "Evropa okreće leđa Trampu.",
+          "russian": "Европа отворачивается от Трампа.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/743790/evropa-okrece-leda-trampu"
         },
         {
-          "serbian_latin": "Novi slučaj Kerkez: Beograđanin Obrić okrenuo leđa Srbiji.",
-          "russian": "Новый случай Керкеза: белградец Обрич отвернулся от Сербии.",
-          "source": "Sportal, 2025"
+          "serbian_latin": "Hranio sam porodicu godinama, kad mi je žena zatrudnela — okrenuli mi leđa.",
+          "russian": "Я годами содержал семью, но, когда моя жена забеременела, они от меня отвернулись.",
+          "source": "Ona.rs, 2025",
+          "url": "https://ona.telegraf.rs/porodica-deca/4177041-hranio-sam-porodicu-godinama-kad-mi-je-zena-zatrudnela-okrenuli-mi-ledja-zvali-policiju-nazvali-los-otac"
         }
       ],
-      "note": "Выражение может описывать как отказ от эмоциональной или политической поддержки, так и буквальный поворот спиной. В переносном значении объект обычно стоит в дательном падеже: okrenuti leđa prijatelju, porodici, zemlji.",
+      "note": "Чаще всего выражение подразумевает отказ от поддержки в трудный момент. Возможна и буквальная ситуация, поэтому значение определяется контекстом.",
       "keyword": "leđa"
     },
     {
@@ -5944,6 +5975,36 @@
       ],
       "note": "Выражение употребляется как об эмиграции, так и о переезде из небольшого города в Белград или другой экономический центр.",
       "keyword": "trbuh; kruh"
+    },
+    {
+      "headword_latin": "otvoriti dušu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Открыть душу; откровенно рассказать о своих чувствах, переживаниях или личных проблемах.",
+      "synonyms_sr": [
+        "poveriti se",
+        "iskreno se otvoriti",
+        "izjadati se",
+        "reći šta leži na duši",
+        "ogoliti dušu"
+      ],
+      "literal_ru": "Открыть душу.",
+      "register": "Разговорное, экспрессивное; часто встречается в заголовках СМИ.",
+      "examples": [
+        {
+          "serbian_latin": "Zorana Mićanović otvorila dušu: „Želim ljubav bez bola.“",
+          "russian": "Зорана Мичанович открыла душу: «Я хочу любви без боли».",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/zorana-micanovic-otvorila-dusu-zelim-ljubav-bez-bola/8yb2s9t"
+        },
+        {
+          "serbian_latin": "Sanja Stanković otvorila dušu.",
+          "russian": "Саня Станкович открыла душу.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/stars/9967984/sanja-stankovic-otvorila-dusu"
+        }
+      ],
+      "note": "Выражение предполагает искренний и обычно эмоциональный разговор. В развлекательных СМИ оно часто употребляется шаблонно, когда известный человек публично рассказывает о личной жизни.",
+      "keyword": "duša"
     },
     {
       "headword_latin": "Pa kud puklo da puklo",
@@ -6504,6 +6565,36 @@
       ],
       "note": "Выражение обозначает поспешное, иногда паническое бегство. Оно может описывать как непосредственное спасение от опасности, так и резкий отъезд или выход из неприятной ситуации.",
       "keyword": "glava"
+    },
+    {
+      "headword_latin": "podići prašinu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Наделать шума; вызвать бурную реакцию, споры, возмущение или большой общественный интерес.",
+      "synonyms_sr": [
+        "izazvati buru",
+        "napraviti pometnju",
+        "uzburkati javnost",
+        "izazvati veliku pažnju",
+        "dići galamu"
+      ],
+      "literal_ru": "Поднять пыль.",
+      "register": "Разговорное и публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Jedan skriveni dokument podigao je veliku prašinu u Gadžinom Hanu.",
+          "russian": "Один скрытый документ наделал много шума в Гаджином Хане.",
+          "source": "N1, 2022",
+          "url": "https://n1info.rs/vesti/jedan-skriveni-dokument-podigao-veliku-prasinu-iz-kamenoloma-u-gadzinom-hanu/"
+        },
+        {
+          "serbian_latin": "Poznati jutjuber podigao je poslednjih dana veliku prašinu pred finale Kupa Srbije.",
+          "russian": "Известный ютубер в последние дни наделал много шума перед финалом Кубка Сербии.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/fudbal/4325463-baka-prase-stigao-na-finale-kupa-podigao-tri-prsta-pred-mec-sa-zvezdom-i-sve-iznenadio-stajlingom"
+        }
+      ],
+      "note": "Выражение может относиться к заявлению, документу, фотографии, решению или поступку, вызвавшему заметный общественный резонанс. Продолжительность реакции передаётся конструкцией prašina se još nije slegla — шум ещё не улёгся.",
+      "keyword": "prašina"
     },
     {
       "headword_latin": "Podmetnuti kukavičje jaje",
@@ -7622,6 +7713,35 @@
       "keyword": "stolica"
     },
     {
+      "headword_latin": "sipati / dodati so na ranu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Сыпать соль на рану; усиливать чужую боль, обиду или унижение; напоминанием либо новым поражением делать неприятную ситуацию ещё тяжелее.",
+      "synonyms_sr": [
+        "dodatno povrediti nekoga",
+        "pogoršati nečiju muku",
+        "povećati bol",
+        "učiniti poraz još težim"
+      ],
+      "literal_ru": "Сыпать или добавлять соль на рану.",
+      "register": "Разговорное, экспрессивное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Dodatno sipao Sineru so na ranu.",
+          "russian": "Он дополнительно посыпал Синнеру соль на рану.",
+          "source": "Alo Sport, 2026",
+          "url": "https://sport.alo.rs/tenis/vesti/5109761/dodatno-sipao-sineru-so-na-ranu-o-reakciji-brata-tenisera-koji-je-sokirao-janika-ce-se-dugo-pricati.html"
+        },
+        {
+          "serbian_latin": "Englezi u Tirani dodali so na ranu Srbije.",
+          "russian": "Англичане в Тиране подсыпали соли на рану Сербии.",
+          "source": "Nova.rs, 2025",
+          "url": "https://nova.rs/sport/fudbal/englezi-u-tirani-dodali-so-na-ranu-srbije-posle-ovoga-ce-debakl-protiv-albanije-jos-vise-boleti-video/"
+        }
+      ],
+      "note": "Употребляются варианты sipati so na ranu, dodati so na ranu и stavljati so na ranu. Русское соответствие практически полностью совпадает с сербским.",
+      "keyword": "so; rana"
+    },
+    {
       "headword_latin": "sipati so na ranu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Причинять дополнительную душевную боль; напоминать о поражении или несчастье; ещё сильнее задевать уже пострадавшего человека.",
@@ -7978,31 +8098,31 @@
     {
       "headword_latin": "spustiti loptu",
       "type": "глагольный фразеологизм",
-      "definition_ru": "Успокоиться или успокоить ситуацию; снизить напряжение, умерить тон, амбиции или чрезмерную эйфорию.",
+      "definition_ru": "Сбавить тон; успокоить ситуацию; перестать раздувать конфликт или эйфорию; перейти к более сдержанному поведению.",
       "synonyms_sr": [
-        "smiriti strasti",
+        "smiriti situaciju",
         "ublažiti ton",
-        "ne dizati tenziju",
-        "biti odmeren",
-        "stišati situaciju"
+        "smanjiti tenziju",
+        "ne dizati euforiju",
+        "povući ručnu"
       ],
       "literal_ru": "Опустить мяч.",
-      "register": "Разговорное, общеупотребительное; часто публицистическое.",
+      "register": "Разговорное; часто спортивное и публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Nikola Dedović iskusno spušta loptu posle dramatične pobede nad Špancima: „Polako, ovo je tek grupna faza“.",
-          "russian": "После драматичной победы над испанцами Никола Дедович благоразумно снижает градус эйфории: «Спокойно, это только групповой этап».",
+          "serbian_latin": "Nikola Dedović je odmah spustio loptu i istakao da je ovo samo meč grupne faze.",
+          "russian": "Никола Дедович сразу умерил восторг и подчеркнул, что это всего лишь матч группового этапа.",
           "source": "Telegraf, 2026",
           "url": "https://www.telegraf.rs/sport/evropsko-prventstvo-u-vaterpolu/4249626-nikola-dedovic-iskusno-spusta-loptu-posle-dramaticne-pobede-nad-spancima-polako-ovo-je-tek-grupna-faza"
         },
         {
-          "serbian_latin": "Vlast je promenila taktiku i „spustiće loptu“.",
-          "russian": "Власть изменила тактику и постарается снизить напряжение.",
-          "source": "N1, 2024",
-          "url": "https://n1info.rs/vesti/sta-smo-videli-u-skupstini-vlast-promenila-taktiku-spustice-loptu-opozicija-imala-inicijativu/"
+          "serbian_latin": "Nakon što je izneo optužbe na Miličin račun, Terza je spustio loptu.",
+          "russian": "Высказав обвинения в адрес Милицы, Терза затем сбавил тон.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/stars/10054443/terza-spustio-loptu-nakon-sto-je-izneo-optuzbe-na-racun-milice"
         }
       ],
-      "note": "Вне спортивного контекста выражение означает переход к более спокойному и сдержанному поведению. Возможны формы spusti loptu, spustimo loptu и spuštati loptu.",
+      "note": "Выражение пришло из спортивной лексики, но теперь широко употребляется при описании конфликтов, переговоров и чрезмерной эйфории. Может означать как примирительный тон, так и более реалистичную оценку успеха.",
       "keyword": "lopta"
     },
     {
@@ -8696,6 +8816,36 @@
       "keyword": "tante za tante"
     },
     {
+      "headword_latin": "terati / isterati mak na konac",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Придираться к каждой мелочи; настаивать на своём до конца; довести разбирательство до окончательного результата.",
+      "synonyms_sr": [
+        "cepidlačiti",
+        "insistirati do kraja",
+        "isterati svoje",
+        "tražiti dlaku u jajetu",
+        "razjasniti sve do kraja"
+      ],
+      "literal_ru": "Нанизывать маковое зерно на нитку.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Nisam neko ko će da tera mak na konac.",
+          "russian": "Я не из тех, кто будет придираться к каждой мелочи и настаивать до последнего.",
+          "source": "Kurir, 2023",
+          "url": "https://www.kurir.rs/stars/rijaliti/4189342/necu-terati-mak-na-konac-ivan-marinkovic-otkrio-u-kakvom-je-stvarno-odnosu-s-gocom-trzan-i-cerkom-evo-da-li-ima-kontakt-s-njima"
+        },
+        {
+          "serbian_latin": "Isterala mak na konac: Anđela dokazala da 10 meseci nije lagala.",
+          "russian": "Она довела дело до конца: Анджела доказала, что не лгала десять месяцев.",
+          "source": "Srbija Danas, 2025",
+          "url": "https://www.sd.rs/vip/zadruga/isterala-mak-na-konac-andela-dokazala-da-10-meseci-nije-lagala-dobila-glasove-publike-i-produkcija-je-bogato-nagradila-2025-07-13"
+        }
+      ],
+      "note": "Несовершенный вид terati mak na konac чаще подчёркивает придирчивость и чрезмерную настойчивость. Совершенный isterati mak na konac может означать, что человек всё-таки добился своего или окончательно прояснил дело.",
+      "keyword": "mak; konac"
+    },
+    {
       "headword_latin": "Tiha voda breg roni",
       "type": "poslovica",
       "definition_ru": "вода камень точит; терпение и настойчивость своё возьмут; тихая вода берега подмывает",
@@ -9160,6 +9310,35 @@
       ],
       "note": "Сербский и русский фразеологизмы практически идентичны. Образ связан с традиционным противопоставлением правой стороны как благоприятной и левой как неблагоприятной; в исследовании сербских афоризмов ustati na levu nogu прямо поясняется как быть «нерасположенным и неприятным без особой причины».",
       "keyword": "ustati na levu nogu"
+    },
+    {
+      "headword_latin": "uzeti / preuzeti stvar u svoje ruke",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Взять дело в свои руки; перестать ждать помощи и начать действовать самостоятельно; установить контроль над ситуацией.",
+      "synonyms_sr": [
+        "samostalno delovati",
+        "preuzeti inicijativu",
+        "preuzeti kontrolu",
+        "sam rešavati problem"
+      ],
+      "literal_ru": "Взять дело в собственные руки.",
+      "register": "Нейтральное или разговорное.",
+      "examples": [
+        {
+          "serbian_latin": "Institucije države ne zaštićuju građane i onda oni uzimaju stvari u svoje ruke.",
+          "russian": "Государственные учреждения не защищают граждан, и тогда те берут дело в свои руки.",
+          "source": "Južne vesti, 2018",
+          "url": "https://www.juznevesti.com/bbc-news-na-srpskom/vidjilante-kada-gradjani-u-srbiji-uzmu-zakon-u-svoje-ruke/"
+        },
+        {
+          "serbian_latin": "Građani preuzeli stvar u svoje ruke, a šta kaže Zakon?",
+          "russian": "Граждане взяли дело в свои руки, но что говорит закон?",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/drustvo/gradjani-preuzeli-stvar-svoje-ruke-a-sta-kaze-zakon-slucaj-pustanja-na-slobodu-visestrukog-silovatelja-pokazao-slabosti-drzave/"
+        }
+      ],
+      "note": "Встречаются формы uzeti stvar u svoje ruke, preuzeti stvar u svoje ruke и uzeti stvari u svoje ruke. Родственное выражение uzeti zakon u svoje ruke обычно имеет отрицательный оттенок и обозначает самосуд или действия в обход государственных органов.",
+      "keyword": "stvar; ruke"
     },
     {
       "headword_latin": "Uzeti nešto s rezervom",
