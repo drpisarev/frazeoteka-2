@@ -773,6 +773,35 @@
       "keyword": "čekić; nakovanj"
     },
     {
+      "headword_latin": "Biti / naći se na vetrometini",
+      "type": "frazeologizam",
+      "definition_ru": "оказаться под ударами со всех сторон; быть под сильным давлением; находиться в уязвимом положении",
+      "synonyms_sr": [
+        "biti na udaru",
+        "biti izložen pritiscima",
+        "biti nezaštićen",
+        "biti u nezavidnom položaju"
+      ],
+      "literal_ru": "быть на месте, продуваемом всеми ветрами",
+      "register": "разг.-публицист., экспр.; особенно о человеке, организации или стране, подвергающихся давлению с разных сторон",
+      "examples": [
+        {
+          "serbian_latin": "Danasovci, znam da ste na vetrometini i da trpite veliki medijski pritisak.",
+          "russian": "Коллеги из Danas, я знаю, что вы под ударами со всех сторон и испытываете сильнейшее давление СМИ.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/dijalog/pisma-citalaca/danasovci-izdrzite/"
+        },
+        {
+          "serbian_latin": "Sada će prvi put biti na nekoj maloj vetrometini i videćemo kako se ponaša u takvoj situaciji.",
+          "russian": "Теперь он впервые окажется под некоторым перекрёстным давлением, и мы увидим, как он себя поведёт.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/politika/spasojevic-vucic-ce-na-kraju-prici-zapadu-albahari-ocekuje-se-pridruzivanje-restriktivnim-mera-protiv-rusije/"
+        }
+      ],
+      "note": "Vetrometina буквально — открытое место, куда со всех сторон бьют ветры. В переносном употреблении это положение без защиты, где человек или организация подвергаются политическим, общественным, экономическим или иным ударам. Русскому обычно лучше не переводить буквально «на ветру», а сказать «под перекрёстным давлением», «под ударами со всех сторон».",
+      "keyword": "na vetrometini"
+    },
+    {
       "headword_latin": "Biti / odrastati pod staklenim zvonom",
       "type": "frazeologizam",
       "definition_ru": "жить под стеклянным колпаком; быть чрезмерно опекаемым; расти в тепличных условиях",
@@ -2153,6 +2182,35 @@
       "keyword": "čist račun duga ljubav"
     },
     {
+      "headword_latin": "Čitati između redova",
+      "type": "frazeologizam",
+      "definition_ru": "читать между строк; видеть скрытый смысл; понимать недосказанное",
+      "synonyms_sr": [
+        "naslutiti skriveno značenje",
+        "razumeti ono što nije izrečeno",
+        "tumačiti implicitno",
+        "prepoznati skrivenu poruku"
+      ],
+      "literal_ru": "читать между строк",
+      "register": "нейтр.-публицист.; о понимании смысла, который не выражен прямо",
+      "examples": [
+        {
+          "serbian_latin": "Sovjetsku štampu treba čitati između redova. Tu se krije suština.",
+          "russian": "Советскую прессу нужно читать между строк. Именно там скрывается суть.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/vesti/drustvo/kako-citati-ono-sto-nije-napisano/"
+        },
+        {
+          "serbian_latin": "Ne samo da mora da se čita između redova, već čovek mora da konsultuje više nezavisnih izvora.",
+          "russian": "Нужно не только читать между строк, но и обращаться к нескольким независимым источникам.",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/skrozza-upliv-biznisa-i-politike-u-medije-je-jak-mora-da-se-cita-izmedju-redova/"
+        }
+      ],
+      "note": "Сербский и русский обороты полностью совпадают по образу и практически по употреблению. Особенно часты контексты политики, дипломатии и СМИ, где истинный смысл приходится выводить из намёков, умолчаний и формулировок.",
+      "keyword": "čitati između redova"
+    },
+    {
       "headword_latin": "Čovek planira, a Bog se smeje",
       "type": "izreka",
       "definition_ru": "человек предполагает, а Бог располагает; хочешь рассмешить Бога — расскажи ему о своих планах",
@@ -2778,6 +2836,35 @@
       "keyword": "dići ruke od"
     },
     {
+      "headword_latin": "Dići nos",
+      "type": "frazeologizam",
+      "definition_ru": "задрать нос; зазнаться; возгордиться",
+      "synonyms_sr": [
+        "uobraziti se",
+        "postati nadmen",
+        "praviti se važan",
+        "poneti se"
+      ],
+      "literal_ru": "поднять нос",
+      "register": "разг., неодобр.; о человеке, который после успеха начинает считать себя лучше других",
+      "examples": [
+        {
+          "serbian_latin": "Dijego Kosta je digao nos, pomislivši da su mu golovi dovoljni da bude nedodirljiv.",
+          "russian": "Диего Коста задрал нос, решив, что забитых голов достаточно, чтобы стать неприкосновенным.",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/vesti/drustvo/antonio-konte-fudbalski-fanatik/"
+        },
+        {
+          "serbian_latin": "To ne znači da je digao nos i poverovao da je sada bolji od srpskog asa.",
+          "russian": "Это не значит, что он задрал нос и решил, будто теперь превосходит сербского аса.",
+          "source": "Sport Klub, 2022",
+          "url": "https://sportklub.n1info.rs/tenis/atp/rune-za-sk-jos-ucim-od-djokovica/"
+        }
+      ],
+      "note": "В буквальном смысле dići nos может означать просто поднять нос, но при характеристике поведения почти всегда речь о заносчивости. Особенно типичен контекст успеха: человек чего-то добился и digao nos. Русское «задрать нос» практически полностью совпадает.",
+      "keyword": "dići nos"
+    },
+    {
       "headword_latin": "dići ruke od nekoga / nečega",
       "type": "глагольный фразеологизм",
       "definition_ru": "Махнуть рукой на кого-либо или что-либо; отказаться от дальнейших попыток; перестать поддерживать.",
@@ -2927,6 +3014,35 @@
       ],
       "note": "Dobiti mrvice обычно предполагает сравнение с кем-то, кому досталось значительно больше. Поэтому русский «получить мало» слабее образа; часто лучше «получить крохи», «довольствоваться крохами». В спортивной речи dobiti mrvice может означать совсем немного игрового времени, в экономической — ничтожную долю денег, в политической — небольшие уступки или привилегии. Заголовок Danas Trinkijeriju „mrvice“ od Partizana построен на том же образе: требовалась большая сумма, а присуждена лишь малая её часть.",
       "keyword": "dobiti mrvice"
+    },
+    {
+      "headword_latin": "Dobiti po nosu",
+      "type": "frazeologizam",
+      "definition_ru": "получить по носу; получить отпор; быть наказанным или поставленным на место",
+      "synonyms_sr": [
+        "dobiti lekciju",
+        "biti kažnjen",
+        "pretrpeti udarac",
+        "biti odbijen"
+      ],
+      "literal_ru": "получить по носу",
+      "register": "разг., экспр.; может означать буквальный удар, но часто переносно — неприятное наказание, поражение или жёсткий ответ",
+      "examples": [
+        {
+          "serbian_latin": "Svako ko je u nekom trenutku digao glavu, dobio je po nosu.",
+          "russian": "Каждый, кто в какой-то момент осмеливался поднять голову, получал по носу.",
+          "source": "N1, 2020",
+          "url": "https://n1info.rs/vesti/a599640-Gosti-N1-Svako-ko-je-u-nekom-trenutku-digao-glavu-dobio-je-po-nosu/"
+        },
+        {
+          "serbian_latin": "I šta će se sada desiti, hoće li Kurti dobiti po nosu?",
+          "russian": "И что теперь произойдёт — получит ли Курти по носу?",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/politika/5009736/dacic-kim-briselski-sporazum.html"
+        }
+      ],
+      "note": "В переносном употреблении физический удар не предполагается: человек сталкивается с наказанием, отпором или унизительной неудачей. Хорошая пара для запоминания — dići glavu — dobiti po nosu: «поднять голову — получить за это».",
+      "keyword": "dobiti po nosu"
     },
     {
       "headword_latin": "dočekati raširenih ruku",
@@ -3388,6 +3504,35 @@
       ],
       "note": "Это ближе не к общему «когда рак на горе свистнет», а к моменту расплаты или вынужденного возвращения. Фразеологические описания дают смысл: человек уклонялся от обязанности или встречи, но наконец вынужден столкнуться с людьми, фактами или последствиями. Русское «придёт зима — снега попросишь» хорошо передаёт один частный сценарий: «ещё сам ко мне придёшь».",
       "keyword": "došla maca na vratanca"
+    },
+    {
+      "headword_latin": "Dozvati se pameti",
+      "type": "frazeologizam",
+      "definition_ru": "образумиться; одуматься; взяться за ум",
+      "synonyms_sr": [
+        "opametiti se",
+        "urazumiti se",
+        "početi razumno da postupa",
+        "shvatiti ozbiljnost situacije"
+      ],
+      "literal_ru": "",
+      "register": "разг.-нейтр., экспр.; возвратная конструкция: dozvati se pameti; часто в призывах Dozovite se pameti!",
+      "examples": [
+        {
+          "serbian_latin": "Nada se da će se svi dozvati pameti i shvatiti da je trenutak za vraćanje redovnoj nastavi.",
+          "russian": "Он надеется, что все образумятся и поймут, что пора возвращаться к обычным занятиям.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/politika/5654944/milos-vucevic-obustava-nastave-skole-nastavak-rad.html"
+        },
+        {
+          "serbian_latin": "Sve što se dešava poslednjih dana možda je prilika da se neki ljudi dozovu pameti.",
+          "russian": "Возможно, всё происходящее в последние дни — повод для некоторых наконец образумиться.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/vesti/politika/1401762/.html?print=true"
+        }
+      ],
+      "note": "Dozvati se pameti означает не просто успокоиться, а начать мыслить и поступать разумно после периода безрассудства. Русское «прийти в себя» лишь частично подходит: оно может означать восстановиться после шока, тогда как здесь главное — «взяться за ум». Частая укоризненная реплика — Dozovi se pameti!",
+      "keyword": "dozvati se pameti"
     },
     {
       "headword_latin": "Držati / ne držati vodu",
@@ -5516,6 +5661,35 @@
       ],
       "note": "Ограничение может быть юридическим, политическим, финансовым или административным. Встречается также переходная конструкция vezati nekome ruke — связать кому-либо руки.",
       "keyword": "ruka"
+    },
+    {
+      "headword_latin": "Imati zlatne ruke",
+      "type": "frazeologizam",
+      "definition_ru": "иметь золотые руки; быть отличным мастером; всё уметь делать руками",
+      "synonyms_sr": [
+        "biti vešt",
+        "biti izvrstan majstor",
+        "biti spretan",
+        "imati dara za zanat"
+      ],
+      "literal_ru": "иметь золотые руки",
+      "register": "разг.-нейтр., одобр.; прежде всего о мастерстве в ремесле, ремонте, ручной работе",
+      "examples": [
+        {
+          "serbian_latin": "Predrag Nikolić poznat je u kraju po tome što ima zlatne ruke i u njima pet zanata.",
+          "russian": "Предраг Николич известен в округе как человек с золотыми руками, владеющий пятью ремёслами.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/magazin/Zanimljivosti/2632380/jedan-covek-pet-zanata.html"
+        },
+        {
+          "serbian_latin": "To je kao sa majstorima – kad kažu ima zlatne ruke, ne treba mu reklama.",
+          "russian": "Это как с мастерами: если говорят, что у него золотые руки, реклама ему уже не нужна.",
+          "source": "N1, 2018",
+          "url": "https://n1info.rs/vesti/a391821-Saponja-i-Cavic-u-prelistavanju-stampe/"
+        }
+      ],
+      "note": "Сербский и русский фразеологизмы совпадают почти полностью. Однако zlatne ruke обычно характеризует именно практическое мастерство: плотника, механика, портного, врача с исключительно умелыми руками. Для абстрактного интеллектуального таланта выражение подходит хуже.",
+      "keyword": "zlatne ruke"
     },
     {
       "headword_latin": "Ispeci, pa reci",
@@ -8240,6 +8414,35 @@
       ],
       "note": "Как и русское «позволить себе», priuštiti sebi давно вышло за пределы денег: Ne mogu sebi da priuštim da zakasnim / da pogrešim / taj luksuz. Возможен и порядок ne mogu da priuštim sebi, но ne mogu sebi da priuštim очень естественно.",
       "keyword": "priuštiti sebi"
+    },
+    {
+      "headword_latin": "Ne ostati dužan",
+      "type": "frazeologizam",
+      "definition_ru": "не остаться в долгу; ответить тем же; не оставить выпад без ответа",
+      "synonyms_sr": [
+        "uzvratiti",
+        "odgovoriti istom merom",
+        "uzvratiti udarac",
+        "ne prećutati"
+      ],
+      "literal_ru": "не остаться должным",
+      "register": "разг.-нейтр., экспр.; кроме буквального финансового значения, часто означает ответить на критику, оскорбление, нападение или шутку",
+      "examples": [
+        {
+          "serbian_latin": "Mask nije ostao dužan. Pozvao je na opoziv predsednika.",
+          "russian": "Маск не остался в долгу и призвал к импичменту президента.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/svet/5727637/ilona-mask-donald-tramp-amerika-sukob-svadja-konflikt.html"
+        },
+        {
+          "serbian_latin": "Tramp mu nije ostao dužan, nazivajući oskarovca „osobom niske inteligencije“.",
+          "russian": "Трамп не остался в долгу, назвав обладателя «Оскара» человеком низкого интеллекта.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/3168759/tramp-de-niro-je-osoba-niske-inteligencije.html"
+        }
+      ],
+      "note": "Без контекста ostati dužan может означать настоящий денежный долг. Но конструкция nije mu ostao dužan чрезвычайно часто относится к словесной перепалке: один напал или пошутил, другой тут же ответил. Русское «не остаться в долгу» совпадает и по образу, и по функции.",
+      "keyword": "ne ostati dužan"
     },
     {
       "headword_latin": "Ne videti dalje od svog nosa",
@@ -13195,6 +13398,35 @@
       "keyword": "sklopiti kolica"
     },
     {
+      "headword_latin": "Skočiti sebi u usta",
+      "type": "frazeologizam",
+      "definition_ru": "противоречить самому себе; самому себя опровергнуть; поступить вопреки собственным словам",
+      "synonyms_sr": [
+        "protivrečiti sebi",
+        "sam sebe demantovati",
+        "pobiti sopstvene tvrdnje",
+        "postupiti suprotno svojim rečima"
+      ],
+      "literal_ru": "прыгнуть самому себе в рот",
+      "register": "разг.-публицист., неодобр.; о явном противоречии между двумя заявлениями или между словами и поступками",
+      "examples": [
+        {
+          "serbian_latin": "Evropska komisija u neku ruku samoj sebi skače u usta.",
+          "russian": "Европейская комиссия в некотором смысле сама себе противоречит.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/politika/da-li-je-evropska-komisija-stvarno-nezadovoljna-dijalogom-beograda-i-pristine/"
+        },
+        {
+          "serbian_latin": "RRA je mudro skočio sebi u usta i povukao sopstveno obavezujuće uputstvo.",
+          "russian": "РРА весьма ловко само себя опровергло, отозвав собственную обязательную инструкцию.",
+          "source": "RTS, 2010",
+          "url": "https://www.rts.rs/lat/vesti/merila-vremena/781462/svacije-pravo-da-ne-zna-nista.html"
+        }
+      ],
+      "note": "Для русского образ непривычен: дословный перевод звучит почти бессмысленно. Суть выражения — человек сам разрушает то, что только что утверждал, словами или собственными действиями. Возможны формы skočiti sebi u usta и несовершенное skakati sebi u usta.",
+      "keyword": "skočiti sebi u usta"
+    },
+    {
       "headword_latin": "Skupljati / pokupiti mrvice",
       "type": "frazeologizam",
       "definition_ru": "собирать крохи; довольствоваться тем, что осталось после других; подбирать остатки возможностей или выгод",
@@ -15611,6 +15843,35 @@
       "keyword": "šakom o sto"
     },
     {
+      "headword_latin": "Udariti po džepu",
+      "type": "frazeologizam",
+      "definition_ru": "ударить по карману; дорого обойтись; наказать рублём",
+      "synonyms_sr": [
+        "finansijski pogoditi",
+        "novčano kazniti",
+        "skupo koštati",
+        "opteretiti troškovima"
+      ],
+      "literal_ru": "ударить по карману",
+      "register": "разг.-публицист.; субъектом могут быть штраф, подорожание, налог или другая мера, вызывающая финансовые потери",
+      "examples": [
+        {
+          "serbian_latin": "To je jedini pravi način – kad se udari po džepu.",
+          "russian": "Единственный действенный способ — ударить по карману.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/Zdravlje/5869408/srcana-slabost-kardiovaskularne-bolesti-istrazivanje-prof-dr-miljko-ristic.html"
+        },
+        {
+          "serbian_latin": "Tri najveće stavke koje udaraju po džepu građane Srbije pred zimu.",
+          "russian": "Три крупнейшие статьи расходов, которые перед зимой бьют по карману жителей Сербии.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/ekonomija/tri-najvece-stavke-koje-udaraju-po-dzepu-gradjane-srbije-pred-zimu/"
+        }
+      ],
+      "note": "Конструкция очень продуктивна: cene, kazne, rate kredita udaraju po džepu. Возможно и безличное udariti nekoga po džepu — финансово наказать. Русский образ совпадает, но сербский оборот особенно частотен в экономической журналистике.",
+      "keyword": "udariti po džepu"
+    },
+    {
       "headword_latin": "Udariti u zid",
       "type": "glagolski frazem",
       "definition_ru": "Зайти в тупик; натолкнуться на непреодолимое препятствие; достичь точки, после которой невозможно двигаться дальше.",
@@ -16607,6 +16868,35 @@
       ],
       "note": "Типичная родительская или преподавательская реплика — zagrej stolicu! Это не просто «посиди подольше», а «садись и серьёзно учись». В более широком контексте выражение может относиться к напряжённой интеллектуальной работе, но учебное значение остаётся центральным.",
       "keyword": "zagrejati stolicu"
+    },
+    {
+      "headword_latin": "Zagristi mamac",
+      "type": "frazeologizam",
+      "definition_ru": "клюнуть на приманку; повестись; попасться на уловку",
+      "synonyms_sr": [
+        "nasesti",
+        "upecati se",
+        "nasesti na provokaciju",
+        "poverovati u mamac"
+      ],
+      "literal_ru": "заглотить / куснуть приманку",
+      "register": "разг., экспр.; может быть буквальным рыболовным сочетанием, но часто переносно — поддаться на заманчивое предложение или провокацию",
+      "examples": [
+        {
+          "serbian_latin": "Podolski je navodno zagrizao mamac i odlučio da spakuje kofere i krene u Kinu.",
+          "russian": "Подольски, как сообщается, клюнул на приманку и решил собирать чемоданы и ехать в Китай.",
+          "source": "Sport Klub / N1, 2017",
+          "url": "https://n1info.rs/sport-klub/fudbal/a221034-Lukas-Podolski-sve-blize-Kini/"
+        },
+        {
+          "serbian_latin": "Pa sam „zagrizao mamac“, i to tako žestoko da mi „sve udica viri iz škrga“.",
+          "russian": "И я «клюнул на приманку» — настолько основательно, что, образно говоря, крючок уже торчит из жабр.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/djavo-i-malinari/"
+        }
+      ],
+      "note": "Образ рыболовный: сначала предлагается mamac «наживка», затем жертва zagrize. В переносном смысле это может быть финансовое предложение, провокация, рекламная уловка или намеренно брошенная фраза. Русское «клюнуть» часто передаёт смысл вообще без слова «приманка».",
+      "keyword": "zagristi mamac"
     },
     {
       "headword_latin": "Zakazati termin",
