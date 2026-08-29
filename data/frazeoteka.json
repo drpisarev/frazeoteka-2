@@ -1029,6 +1029,33 @@
       "keyword": "mač"
     },
     {
+      "headword_latin": "Biti manji od makovog zrna",
+      "type": "frazeologizam",
+      "definition_ru": "быть тише воды ниже травы; присмиреть; стать чрезвычайно робким",
+      "synonyms_sr": [
+        "biti potpuno miran",
+        "biti pokoran",
+        "ućutati",
+        "povući se"
+      ],
+      "literal_ru": "быть меньше макового зёрнышка",
+      "register": "razg., ekspresivno; obično o strahu, pokornosti ili nestaloj samouverenosti",
+      "examples": [
+        {
+          "serbian_latin": "Kada ste bili službenik Mrkića i ovog sistema, bili ste manji od makovog zrna.",
+          "russian": "Когда вы были чиновником при этой системе, вы сидели тише воды ниже травы.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Bio sam manji od makovog zrna u prisustvu tog šarmera, beogradskog mangupa.",
+          "russian": "В присутствии этого обаятельного белградского гуляки я совершенно робел.",
+          "source": "Vreme, 2015"
+        }
+      ],
+      "note": "Это не характеристика физического роста. Человек словно «уменьшается» от страха, стеснения или перед чужим авторитетом. В современном политическом языке оборот часто иронически противопоставляет чью-то дерзость в одной ситуации полной покорности в другой. Выражение отмечается и как традиционное сербское.",
+      "keyword": "makovo zrno"
+    },
+    {
       "headword_latin": "Biti mirođija u svakoj čorbi",
       "type": "frazeologizam",
       "definition_ru": "быть в каждой бочке затычкой; быть везде и во всём; всюду успевать отметиться",
@@ -5076,31 +5103,29 @@
     {
       "headword_latin": "Ići linijom manjeg otpora",
       "type": "frazeologizam",
-      "definition_ru": "идти по пути наименьшего сопротивления; выбирать самый лёгкий путь; избегать трудностей",
+      "definition_ru": "идти по пути наименьшего сопротивления; выбирать самый лёгкий путь",
       "synonyms_sr": [
         "birati lakši put",
-        "izbegavati teža rešenja",
-        "ne talasati",
-        "povlađivati okolnostima"
+        "izbegavati problem",
+        "izbegavati sukob",
+        "tražiti lakše rešenje"
       ],
-      "literal_ru": "идти по линии меньшего сопротивления",
-      "register": "нейтр.-публицист., обычно неодобр.; о выборе удобного, но не обязательно правильного решения",
+      "literal_ru": "",
+      "register": "neutralno-publicistički, obično neodobr.; često podrazumeva izbegavanje napora ili odgovornosti",
       "examples": [
         {
-          "serbian_latin": "Svi to znaju, ali je lakše ići linijom manjeg otpora i reći: „Reforme ne moraju da idu preko mojih leđa.“",
-          "russian": "Все это знают, но проще пойти по пути наименьшего сопротивления и сказать: «Реформы не должны проводиться за мой счёт».",
-          "source": "RTS, 2014",
-          "url": "https://www.rts.rs/lat/vesti/politika/1754833/intervju-aleksandar-vucic.html"
+          "serbian_latin": "Lakše je ići linijom manjeg otpora i reći: „Reforme ne moraju da idu preko mojih leđa“.",
+          "russian": "Проще идти по пути наименьшего сопротивления и говорить: «Пусть реформы не проходят за мой счёт».",
+          "source": "RTS, 2014"
         },
         {
-          "serbian_latin": "Verovatno će većina građana ići linijom manjeg otpora pa će koristiti električnu energiju.",
-          "russian": "Вероятно, большинство граждан пойдёт по пути наименьшего сопротивления и станет пользоваться электричеством.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4859079/.html?print=true"
+          "serbian_latin": "Ljudi u školama neretko idu linijom manjeg otpora.",
+          "russian": "В школах люди нередко предпочитают идти по пути наименьшего сопротивления.",
+          "source": "Danas, 2022"
         }
       ],
-      "note": "Значение практически совпадает с русским. Обычно подразумевается не просто рациональный выбор более простого способа, а стремление избежать усилий, конфликта, ответственности или непопулярного решения.",
-      "keyword": "linijom manjeg otpora"
+      "note": "Почти полный эквивалент русского выражения. Типичное управление — ići linijom manjeg otpora. Оценка обычно отрицательная: выбирают не просто рационально более лёгкое решение, а то, которое позволяет избежать конфликта, риска, труда или принципиальной позиции.",
+      "keyword": "linija manjeg otpora"
     },
     {
       "headword_latin": "Ići na ruku nekome",
@@ -6657,6 +6682,33 @@
       "keyword": "kamen oko vrata"
     },
     {
+      "headword_latin": "Kao da je pao s Marsa",
+      "type": "frazeologizam",
+      "definition_ru": "как будто с Луны свалился; ничего не понимает; совершенно не в курсе происходящего",
+      "synonyms_sr": [
+        "kao da nije odavde",
+        "potpuno neobavešten",
+        "izgubljen",
+        "zbunjen"
+      ],
+      "literal_ru": "как будто упал с Марса",
+      "register": "razg., iron.; takođe Jesi li ti pao s Marsa?",
+      "examples": [
+        {
+          "serbian_latin": "Naša javnost tretira Zelenskog kao nekoga ko je pao s Marsa.",
+          "russian": "Наша публика воспринимает Зеленского так, словно он с Луны свалился.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Košta se ponašao kao da je pao s Marsa.",
+          "russian": "Кошта вёл себя так, будто совершенно не понимает, что здесь происходит.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Русский устойчивый образ — «с Луны свалился», сербский — именно s Marsa. Поэтому буквальная калька при переводе звучит менее естественно, хотя понятна. Выражение может означать и растерянность в незнакомой среде, и ироническую оторванность от очевидной реальности. Сербский источник по астрономической тематике также отмечает, что говорят именно pao s Marsa, а не с других планет.",
+      "keyword": "Mars"
+    },
+    {
       "headword_latin": "kao grom iz vedra neba",
       "type": "poređenje",
       "definition_ru": "Как гром среди ясного неба; совершенно неожиданно.",
@@ -8112,31 +8164,29 @@
     {
       "headword_latin": "Na prvu loptu",
       "type": "frazeologizam",
-      "definition_ru": "с ходу; с первого взгляда; по первой реакции",
+      "definition_ru": "с ходу; навскидку; по первому впечатлению",
       "synonyms_sr": [
-        "odmah",
         "na prvi pogled",
+        "odmah",
         "bez mnogo razmišljanja",
         "iz prve"
       ],
-      "literal_ru": "на первый мяч",
-      "register": "разг.-нейтр.; очень продуктивно в конструкциях reagovati na prvu loptu, delovati na prvu loptu, nije na prvu loptu",
+      "literal_ru": "по первому мячу",
+      "register": "razg.-neutralno; iz sportske leksike, danas široko i van sporta",
       "examples": [
         {
-          "serbian_latin": "Zato je, kaže, najvažnije biti oprezan i ne reagovati „na prvu loptu“.",
-          "russian": "Поэтому, говорит он, важнее всего быть осторожным и не реагировать сгоряча, по первой реакции.",
-          "source": "RTS, 2026",
-          "url": "https://rts.rs/lat/vesti/drustvo/6025481/milan-antonijevic-pozari-ne-smeju-biti-povod-za-sirenje-dezinformacija-i-podela.html"
+          "serbian_latin": "Nisam se još adaptirao i privikao – na prvu loptu Lukić priznaje.",
+          "russian": "Я ещё не адаптировался и не привык, — с ходу признаёт Лукич.",
+          "source": "Sportal/Blic, 2023"
         },
         {
-          "serbian_latin": "O pesmi Bedem Hristina kaže da nije „na prvu loptu“ i da je potrebno vreme da se razume o čemu ona govori.",
-          "russian": "Христина говорит, что песня Bedem не воспринимается сразу и нужно время, чтобы понять, о чём она.",
-          "source": "RTS, 2024",
-          "url": "https://www.rts.rs/lat/magazin/muzika/5383284/hristina-vukovic-pze-bedem-album-spot.html"
+          "serbian_latin": "Na prvu loptu, kad sam video ovu ekipu, Doužer mi je bio prvi da mi je zapao za oko.",
+          "russian": "Когда я впервые увидел эту команду, первым мне сразу бросился в глаза Доужер.",
+          "source": "Mozzart Sport, 2024"
         }
       ],
-      "note": "Выражение пришло из спортивного образа игры с мячом, но давно вышло далеко за пределы спорта. Reagovati na prvu loptu — «отреагировать сразу, не обдумав», а pesma nije na prvu loptu — «песня не раскрывается с первого прослушивания». Единого русского перевода поэтому нет.",
-      "keyword": "na prvu loptu"
+      "note": "Исходный футбольный образ — сыграть мяч сразу, первым касанием. Отсюда два близких значения: «первая спонтанная реакция» и «первое впечатление, без долгого анализа». Поэтому na prvu loptu bih rekao... естественно переводить «навскидку я бы сказал…», а не буквально через «мяч».",
+      "keyword": "prva lopta"
     },
     {
       "headword_latin": "Na ravnoj nozi",
@@ -9147,31 +9197,29 @@
     {
       "headword_latin": "Ni kriv ni dužan",
       "type": "frazeologizam",
-      "definition_ru": "ни сном ни духом; без вины виноватый; совершенно ни при чём",
+      "definition_ru": "ни сном ни духом; ни в чём не виноватый; ни за что пострадавший",
       "synonyms_sr": [
-        "ni za šta kriv",
         "nedužan",
         "bez ikakve krivice",
-        "ni luk jeo ni luk mirisao"
+        "ni za šta kriv",
+        "nevin"
       ],
       "literal_ru": "ни виноват, ни должен",
-      "register": "разг.-нейтр., экспр.; изменяется по роду и числу: ni kriva ni dužna, ni krivi ni dužni",
+      "register": "razg.-neutralno, vrlo često; o nekome ko je bez svoje krivice uvučen u problem",
       "examples": [
         {
-          "serbian_latin": "Uskoro, junak filma je ni kriv ni dužan uhvaćen u vrtlog intriga, romanse i opasnosti.",
-          "russian": "Вскоре герой фильма, совершенно ни в чём не виноватый, оказывается втянут в водоворот интриг, романтики и опасностей.",
-          "source": "RTS, 2010",
-          "url": "https://www.rts.rs/lat/magazin/film-i-tv/816384/turista-u-vrtlogu-intriga-i-romanse.html"
+          "serbian_latin": "Simpatični retriver Ark postao je, ni kriv ni dužan, kolateralna šteta napada na njegovog vlasnika.",
+          "russian": "Ретривер Арк, совершенно ни в чём не виноватый, стал побочной жертвой нападок на хозяина.",
+          "source": "RTS, 2011"
         },
         {
-          "serbian_latin": "Ko je u opasnosti da zbog tuđih dugova ni kriv ni dužan izgubi krov nad glavom?",
-          "russian": "Кто рискует совершенно без своей вины лишиться жилья из-за чужих долгов?",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/5936243/ko-je-u-opasnosti-da-zbog-tudjih-dugova-ni-kriv-ni-duzan-izgubi-krov-nad-glavom.html"
+          "serbian_latin": "Ni kriv ni dužan, u saopštenju se našao i Željko Bodrožić.",
+          "russian": "Желько Бодрожич тоже оказался в заявлении совершенно ни с того ни с сего.",
+          "source": "Danas, 2024"
         }
       ],
-      "note": "Dužan здесь не означает буквально «задолжавший деньги»: вся пара значит, что человек совершенно не виноват и оказался вовлечён в неприятность случайно. Очень естественны конструкции stradao je ni kriv ni dužan, našao se tu ni kriv ni dužan.",
-      "keyword": "ni kriv ni dužan"
+      "note": "Dužan здесь не означает буквально наличие денежного долга. Формула описывает человека, который не сделал ничего, что оправдывало бы неприятности, но всё равно оказался затронут ими. Очень естественны конструкции stradati ni kriv ni dužan, ispasti kriv ni kriv ni dužan, uvući nekoga ni krivog ni dužnog.",
+      "keyword": "kriv; dužan"
     },
     {
       "headword_latin": "ni luk jeo ni luk mirisao",
@@ -9347,32 +9395,30 @@
     },
     {
       "headword_latin": "Ni po babu ni po stričevima",
-      "type": "frazeologizam",
-      "definition_ru": "беспристрастно; невзирая на родство и связи; по справедливости",
+      "type": "izreka",
+      "definition_ru": "беспристрастно; невзирая на родню и связи; по справедливости",
       "synonyms_sr": [
         "nepristrasno",
         "po pravdi",
         "bez protekcije",
-        "bez gledanja ko je čiji"
+        "bez povlašćivanja"
       ],
-      "literal_ru": "ни по отцу, ни по дядьям",
-      "register": "устойчивое выражение с архаическим оттенком; часто в политической, судебной и административной речи",
+      "literal_ru": "",
+      "register": "izreka, ekspresivno; često o sudu, imenovanjima, izboru i primeni zakona",
       "examples": [
         {
-          "serbian_latin": "Princip je bio – ni po babu ni po stričevima.",
-          "russian": "Принцип был такой: никаких родственников и протекции, решение принимается беспристрастно.",
-          "source": "RTS, 2015",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/1988307/posao-za-niske-lekare-ni-po-babu-ni-po-stricevima.html"
+          "serbian_latin": "Moj princip je jednostavan – ni po babu ni po stričevima.",
+          "russian": "Мой принцип прост: никаких поблажек своим, всё беспристрастно.",
+          "source": "RTS, 2014"
         },
         {
-          "serbian_latin": "Stara izreka iz narodne pesme ponovo je aktuelna ovih dana. Najpre je Aleksandar Vučić pohvaljen da je postupio ni po babu ni po stričevima.",
-          "russian": "Старинное выражение из народной песни снова стало актуальным: Александра Вучича похвалили за то, что он поступил беспристрастно, не считаясь с личными связями.",
-          "source": "Politika, 2012",
-          "url": "https://www.politika.rs/sr/clanak/228217/ni-po-babu-ni-po-stricevima"
+          "serbian_latin": "Inspekcija će nepristrasno, „ni po babu ni po stričevima“, utvrditi sve relevantne činjenice.",
+          "russian": "Инспекция беспристрастно, невзирая на связи и родство, установит все существенные факты.",
+          "source": "Danas, 2026"
         }
       ],
-      "note": "Формула происходит из сербской эпической песни о царе Уроше и Мрнявчевичах, где Марко должен судить не в пользу отца или дядей, а по справедливости. Babo здесь старое «отец», а не современное обращение к дедушке. Выражение давно живёт самостоятельно и употребляется прежде всего о беспристрастном решении без кумовства и протекции.",
-      "keyword": "babo; stričevi"
+      "note": "Главная ловушка для русского — babu здесь не «бабушке». Это форма от народного и архаического babo «отец». Формула восходит к сербской народной эпической традиции: смысл — судить не в пользу отца или дядей, а по справедливости. Politika прямо называет её старым выражением из народной песни.",
+      "keyword": "babu; stričevima"
     },
     {
       "headword_latin": "Ni po koju cenu",
@@ -9601,6 +9647,33 @@
       ],
       "note": "Здесь cvećka употребляется иронически как образ хорошего, безупречного человека. Поэтому nije cvećka означает «не такой уж хороший / невинный». Фраза особенно часто появляется, когда говорящий распределяет вину между двумя сторонами: on jeste kriv, ali nije ni ona cvećka. В сербском корпусе широко представлены ni on nije cvećka, ni ona nije cvećka, ni narod nije cvećka.",
       "keyword": "nije cvećka"
+    },
+    {
+      "headword_latin": "Nije šija nego vrat",
+      "type": "izreka",
+      "definition_ru": "хрен редьки не слаще; то же самое, только под другим названием",
+      "synonyms_sr": [
+        "isto mu dođe",
+        "isto je",
+        "samo drugo ime",
+        "suštinski isto"
+      ],
+      "literal_ru": "не шея сзади, а шея спереди",
+      "register": "razg., iron., neodobr.; o prividnoj razlici",
+      "examples": [
+        {
+          "serbian_latin": "Ako neko traži da priznate teritorijalni integritet dela vaše teritorije, onda „nije šija nego vrat“.",
+          "russian": "Если от вас фактически требуют того же самого другими словами, разницы нет.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Neće se povećati cena struje nego fantomska stavka troškova... Nije šija nego vrat.",
+          "russian": "Цена электричества вроде бы не повышается, просто появляется другая статья расходов: хрен редьки не слаще.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Šija и vrat обозначают одну и ту же часть тела, хотя стилистически не полностью совпадают: šija обычно относится к задней стороне шеи и звучит грубее. Поэтому выражение высмеивает попытку представить одно и то же как две разные вещи. Danas отдельно обращает внимание именно на эту игру близких слов.",
+      "keyword": "šija; vrat"
     },
     {
       "headword_latin": "Nisu mu sve koze na broju",
@@ -12428,28 +12501,29 @@
     },
     {
       "headword_latin": "Preko noći",
-      "type": "izraz",
-      "definition_ru": "в одночасье; за одну ночь; внезапно и очень быстро",
+      "type": "frazeologizam",
+      "definition_ru": "в одночасье; за одну ночь; очень быстро, внезапно",
       "synonyms_sr": [
         "odjednom",
         "veoma brzo",
-        "za veoma kratko vreme"
+        "za tren",
+        "u veoma kratkom roku"
       ],
       "literal_ru": "за ночь",
-      "register": "нейтр.-разг.; может быть буквальным, но очень часто означает резкую перемену за чрезвычайно короткое время",
+      "register": "neutralno; često ne označava doslovno jednu noć, već veoma kratak rok",
       "examples": [
         {
-          "serbian_latin": "Vlasnik je gotovo preko noći sve radnje zatvorio, a radnici su ostavljeni bez plata.",
-          "russian": "Владелец практически в одночасье закрыл все магазины, а сотрудники остались без зарплаты.",
-          "source": "RTS, 2013"
+          "serbian_latin": "Srbija se ujedinila i preko noći promenila život devetogodišnjem Stefanu.",
+          "russian": "Сербия объединилась и буквально в одночасье изменила жизнь девятилетнего Стефана.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Međutim, promena energenta znači i prekid u isporuci toplotne energije, jer se sa gasa na mazut ne može preći „preko noći“.",
-          "russian": "Однако смена топлива означает и перерыв в теплоснабжении, потому что перейти с газа на мазут в одночасье невозможно.",
-          "source": "RTS, 2022"
+          "serbian_latin": "Ne postiže se uspeh preko noći.",
+          "russian": "Успех не достигается в одночасье.",
+          "source": "Politika, 2025"
         }
       ],
-      "note": "В переносном употреблении настоящая ночь не обязательна: uspeh ne dolazi preko noći — «успех не приходит мгновенно». Поэтому русскому не следует всегда переводить буквально «за ночь»; часто нужны «в одночасье», «мгновенно», «за очень короткое время».",
+      "note": "В русском «за ночь» часто воспринимается буквально, тогда как сербское preko noći очень легко метафоризируется: postati poznat preko noći, obogatiti se preko noći, promeniti se preko noći. Хороший общий перевод — «в одночасье». Politika отдельно приводит это временное значение предлога preko как нормативное.",
       "keyword": "preko noći"
     },
     {
@@ -15834,6 +15908,33 @@
       "keyword": "sat"
     },
     {
+      "headword_latin": "Tamni vilajet",
+      "type": "frazeologizam",
+      "definition_ru": "тёмное царство; безвыходная ситуация; мрачная, запутанная среда",
+      "synonyms_sr": [
+        "bezizlazna situacija",
+        "začarani krug",
+        "mračna situacija",
+        "nedokučivo stanje"
+      ],
+      "literal_ru": "тёмный вилайет",
+      "register": "knjiž.-publicistički, kulturno specifično; značenje je prošireno u odnosu na izvorno predanje",
+      "examples": [
+        {
+          "serbian_latin": "Balkan je često bio „tamni vilajet“, mesto susreta divljeg nagonskog impulsa i uređenog racionalnog projekta.",
+          "russian": "Балканы нередко изображались как «тёмное царство», где сталкиваются стихийное и рациональное начала.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Ogroman i tajnovit, u decenijskom mraku, nalik prastarom tamnom vilajetu, konačno je došao na red.",
+          "russian": "Огромный и таинственный, десятилетиями пребывавший во мраке, словно древний тёмный вилайет, он наконец дождался своей очереди.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Выражение связано с известным преданием о tamni vilajet: путникам в темноте предлагают взять камни с предупреждением, что и взявшие, и не взявшие будут жалеть; на свету камни оказываются драгоценностями. Мотив пришёл через средневековый роман об Александре Великом и был записан Вуком Караджичем. Vilajet — турцизм, исторически «область, провинция».",
+      "keyword": "tamni vilajet"
+    },
+    {
       "headword_latin": "Tante za kukuriku",
       "type": "izraz",
       "definition_ru": "неравноценный обмен; непонятно что в обмен на непонятно что; ерунда вместо равноценной отдачи",
@@ -17347,6 +17448,33 @@
       ],
       "note": "Часто употребляется с глаголами prebacivati, proslediti и dobacivati: передавать неприятную проблему или ответственность другому.",
       "keyword": "krompir"
+    },
+    {
+      "headword_latin": "Vrzino kolo",
+      "type": "frazeologizam",
+      "definition_ru": "заколдованный круг; порочный круг; запутанный клубок проблем",
+      "synonyms_sr": [
+        "začarani krug",
+        "začkoljica bez izlaza",
+        "splet problema",
+        "beskrajni krug"
+      ],
+      "literal_ru": "«врзино коло»",
+      "register": "ekspresivno, publicistički; često upasti u vrzino kolo, izaći iz vrzinog kola, prekinuti vrzino kolo",
+      "examples": [
+        {
+          "serbian_latin": "Stvoreno je pravo vrzino kolo koje je početkom nedelje kulminiralo zakazanom sednicom Odbora.",
+          "russian": "Возник настоящий порочный круг, который в начале недели дошёл до кульминации.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Hajde da se načas zagledamo u to vrzino kolo uz koje besomučno harmonikamo.",
+          "russian": "Давайте на минуту присмотримся к этому заколдованному кругу, вокруг которого мы без конца пляшем.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "В современной речи это система взаимно поддерживающих проблем: одно порождает другое и мешает выйти из ситуации. RTS относит vrzino kolo к традиционным выражениям, в которых сохранились следы старых представлений и преданий. Для русского наиболее точен «заколдованный круг». Происхождение самого компонента vrzino объясняется по-разному, поэтому единственную этимологическую версию лучше не утверждать.",
+      "keyword": "vrzino kolo"
     },
     {
       "headword_latin": "vući nekoga za nos",
