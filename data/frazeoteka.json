@@ -3256,6 +3256,35 @@
       "keyword": "plot"
     },
     {
+      "headword_latin": "Držati se po strani",
+      "type": "izraz",
+      "definition_ru": "держаться в стороне; не вмешиваться; оставаться в стороне",
+      "synonyms_sr": [
+        "ne mešati se",
+        "ostati po strani",
+        "biti uzdržan",
+        "ne uplitati se"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; обычно о сознательном отказе вмешиваться в конфликт, политику, спор или чужие дела",
+      "examples": [
+        {
+          "serbian_latin": "Prijatelji su mu govorili da ne bi trebalo da se meša u politiku i da je najbolje da se drži po strani i da ne talasa.",
+          "russian": "Друзья говорили ему, что не стоит вмешиваться в политику, а лучше держаться в стороне и не раскачивать лодку.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/700852/pogledi/podsticaj-na-kukavicluk"
+        },
+        {
+          "serbian_latin": "„Naši“ Rusi shvatili su da je pametnije držati se po strani, držati se svojih, ne govoriti previše sa Srbima.",
+          "russian": "«Наши» русские поняли, что разумнее держаться в стороне, общаться со своими и не слишком много разговаривать с сербами.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kolumna/marko-vidojkovic/nase-ruske-komsije/"
+        }
+      ],
+      "note": "Po strani не обязательно означает физически стоять где-то сбоку. Это прежде всего позиция невмешательства. Хорошая модель: Pokušao sam da se držim po strani. Близкое ostati po strani сильнее подчёркивает результат: человек так и не включился в происходящее.",
+      "keyword": "držati se po strani"
+    },
+    {
       "headword_latin": "Držati sve konce u rukama",
       "type": "glagolski frazem",
       "definition_ru": "держать все нити в своих руках; полностью контролировать положение",
@@ -3678,6 +3707,34 @@
       ],
       "note": "Форма gledati kroz prste обозначает продолжающуюся снисходительность, а progledati kroz prste — отдельное решение простить или не заметить нарушение.",
       "keyword": "prst"
+    },
+    {
+      "headword_latin": "Gledati smrti u oči",
+      "type": "frazeologizam",
+      "definition_ru": "смотреть смерти в лицо; быть на волосок от смерти; столкнуться со смертельной опасностью",
+      "synonyms_sr": [
+        "biti na ivici smrti",
+        "suočiti se sa smrću",
+        "biti životno ugrožen"
+      ],
+      "literal_ru": "смотреть смерти в глаза",
+      "register": "экспр.; обычно о реальной непосредственной угрозе жизни",
+      "examples": [
+        {
+          "serbian_latin": "Svi smo tog dana u kući osećali taj njegov život i njegove strahote, kada je smrti gledao u oči.",
+          "russian": "В тот день мы особенно чувствовали всё, что он пережил, когда смотрел смерти в лицо.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4257867/nis-logor-crveni-krst-bekstvo-godisnjica.html"
+        },
+        {
+          "serbian_latin": "Preživeo je tog kobnog 2. decembra pakao, gledao smrti u oči i sada od toga ne može da se otrgne.",
+          "russian": "Он пережил ад того рокового 2 декабря, смотрел смерти в лицо и теперь не может от этого оправиться.",
+          "source": "Politika, 2008",
+          "url": "https://www.politika.rs/sr/articles/amp/32029"
+        }
+      ],
+      "note": "Для русского важно именно существительное smrt в форме smrti: gledati smrti u oči. Русский устойчивый эквивалент использует «лицо», а не «глаза»: «смотреть смерти в лицо». Выражение значительно сильнее простого biti u opasnosti.",
+      "keyword": "gledati smrti u oči"
     },
     {
       "headword_latin": "Gledati svoja posla",
@@ -5092,6 +5149,35 @@
       ],
       "note": "Значение почти совпадает с русским, но сербский оборот очень легко переносится с человека на партию, власть, систему или целую модель поведения. Это не обязательно мгновенная паника: gubiti tlo pod nogama может описывать постепенную потерю позиций и устойчивости.",
       "keyword": "izgubiti tlo pod nogama"
+    },
+    {
+      "headword_latin": "Izgubiti živce",
+      "type": "frazeologizam",
+      "definition_ru": "потерять самообладание; сорваться; выйти из себя",
+      "synonyms_sr": [
+        "planuti",
+        "izgubiti kontrolu",
+        "iznervirati se",
+        "puknuti (razg.)"
+      ],
+      "literal_ru": "потерять нервы",
+      "register": "разг.-нейтр., экспр.; о моменте, когда человек перестаёт контролировать раздражение или гнев",
+      "examples": [
+        {
+          "serbian_latin": "Mesić izgubio živce.",
+          "russian": "Месич не выдержал и вышел из себя.",
+          "source": "RTS, 2010",
+          "url": "https://www.rts.rs/lat/vesti/region/497981/mesic-izgubio-zivce.html"
+        },
+        {
+          "serbian_latin": "Na susretu Čelsija i Arsenala, francuski stručnjak izgubio je živce.",
+          "russian": "Во время матча «Челси» и «Арсенала» французский тренер потерял самообладание.",
+          "source": "Sport Klub, 2014",
+          "url": "https://sportklub.n1info.rs/video/fudbal-video/a65681-izgubio-zivce-venger-odgurnuo-murinja/"
+        }
+      ],
+      "note": "Выражение очень близко русскому «нервы сдали», но грамматически субъект активен: izgubio sam živce. Оно описывает именно потерю самоконтроля, а не просто нервозность. Для состояния «нервничать» обычнее biti nervozan или nervirati se.",
+      "keyword": "izgubiti živce"
     },
     {
       "headword_latin": "Izigravati žrtvu",
@@ -7278,6 +7364,35 @@
       "keyword": "priuštiti sebi"
     },
     {
+      "headword_latin": "Ne videti dalje od svog nosa",
+      "type": "frazeologizam",
+      "definition_ru": "не видеть дальше собственного носа; быть недальновидным; мыслить узко и только о ближайшей выгоде",
+      "synonyms_sr": [
+        "biti kratkovid",
+        "usko gledati",
+        "ne sagledavati širu sliku",
+        "misliti samo kratkoročno"
+      ],
+      "literal_ru": "не видеть дальше собственного носа",
+      "register": "разг.-публицист., неодобр.; о неспособности учитывать более широкий контекст или долгосрочные последствия",
+      "examples": [
+        {
+          "serbian_latin": "To je dogovor istomišljenika, zatvorenih u sopstvenom krugu, koji ne vide dalje od svog nosa.",
+          "russian": "Это договор единомышленников, замкнутых в собственном кругу и не способных видеть дальше собственного носа.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/politika/deklaracija-udruzivanje-ds-srce-zajedno-srdjanj-milivojevic/"
+        },
+        {
+          "serbian_latin": "Zbilja dalje od svog nosa ne vidimo.",
+          "russian": "Мы действительно не видим дальше собственного носа.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/kolumna/borka-pavicevic/na-adi-cuprija/"
+        }
+      ],
+      "note": "Оборот характеризует не зрение, а интеллектуальную и стратегическую недальновидность. Возможны варианты ne videti dalje od nosa и ne videti dalje od svog nosa. Русское выражение почти полностью совпадает, поэтому главное — заметить, насколько часто оно употребляется в сербской публицистике для критики краткосрочного мышления.",
+      "keyword": "ne videti dalje od nosa"
+    },
+    {
       "headword_latin": "Ne znati gde udara",
       "type": "frazeologizam",
       "definition_ru": "не понимать, что делать; метаться; действовать совершенно хаотично",
@@ -8400,6 +8515,35 @@
       ],
       "note": "Форма ostati na cedilu описывает положение пострадавшего, а ostaviti nekoga na cedilu — действие того, кто бросил или подвёл другого.",
       "keyword": "cedilo"
+    },
+    {
+      "headword_latin": "Ostati bez teksta",
+      "type": "frazeologizam",
+      "definition_ru": "потерять дар речи; остаться без слов; онеметь от удивления",
+      "synonyms_sr": [
+        "ostati bez reči",
+        "zanemeti",
+        "zaprepastiti se",
+        "ne znati šta reći"
+      ],
+      "literal_ru": "остаться без текста",
+      "register": "разг., экспр.; обычно из-за удивления, потрясения, неожиданности или сильного впечатления",
+      "examples": [
+        {
+          "serbian_latin": "Ostao sam bez teksta, pa sam joj rukom pokazao da uđe i sedne.",
+          "russian": "Я потерял дар речи и только рукой показал ей, чтобы она вошла и села.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/kolumna/slobodan-simic/zanemarivanje/"
+        },
+        {
+          "serbian_latin": "Ostao sam bez teksta… I onda sam morao da počnem da se snalazim.",
+          "russian": "Я остался без слов… А потом пришлось как-то выкручиваться.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/748766/treba-biti-dostojanstven-i-u-pobedi-i-u-porazu-i-u-sportu-i-u-zivotu"
+        }
+      ],
+      "note": "Русского может сбить слово tekst: речь не о забытом сценарии или написанном тексте. Ostati bez teksta — обычное разговорное «не найти слов, онеметь». Причина может быть как приятной, так и неприятной: восхищение, шок, наглость собеседника.",
+      "keyword": "ostati bez teksta"
     },
     {
       "headword_latin": "Ostati kratkih rukava",
@@ -10187,6 +10331,35 @@
       "keyword": "žednog preko vode"
     },
     {
+      "headword_latin": "Prevrnuti nebo i zemlju",
+      "type": "frazeologizam",
+      "definition_ru": "перевернуть небо и землю; всё перерыть; сделать всё возможное, чтобы найти или добиться чего-то",
+      "synonyms_sr": [
+        "učiniti sve",
+        "tražiti svuda",
+        "uložiti sve napore",
+        "ne štedeti truda"
+      ],
+      "literal_ru": "перевернуть небо и землю",
+      "register": "разг.-публицист., экспр.; особенно часто prevrnuti nebo i zemlju da bi se neko / nešto pronašlo",
+      "examples": [
+        {
+          "serbian_latin": "Tadašnji ministar policije Dušan Mihajlović rekao je da će policija „prevrnuti i nebo i zemlju dok ne pronađe ubicu“.",
+          "russian": "Тогдашний министр полиции Душан Михайлович заявил, что полиция перевернёт небо и землю, пока не найдёт убийцу.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/drustvo/kako-je-pre-20-godina-ubijen-general-major-bosko-buha/"
+        },
+        {
+          "serbian_latin": "U privremenoj sirijskoj vladi obećavaju da će „prevrnuti i nebo i zemlju“ kako bi rasvetlili ovaj zločin.",
+          "russian": "Во временном сирийском правительстве обещают перевернуть небо и землю, чтобы раскрыть это преступление.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/683965/teska-sudbina-hriscana-na-bliskom-istoku"
+        }
+      ],
+      "note": "Встречаются варианты с союзом i — prevrnuti i nebo i zemlju — и без него. Выражение означает максимальную интенсивность поиска или усилий, а не просто «много работать». По-русски образ существует, но несколько менее разговорный; часто естественнее «всё перерыть», «сделать всё возможное».",
+      "keyword": "prevrnuti nebo i zemlju"
+    },
+    {
       "headword_latin": "Prljav posao",
       "type": "kolokacija",
       "definition_ru": "грязная работа; грязное дело; неприятная или морально сомнительная работа",
@@ -10854,6 +11027,35 @@
       ],
       "note": "В подтверждённых сербских примерах употребляется форма sa zlatnom kašikom. Сербское слово — kašika; хорватское žlica в заголовок не включается.",
       "keyword": "zlatna kašika"
+    },
+    {
+      "headword_latin": "Ruku na srce",
+      "type": "izraz",
+      "definition_ru": "по правде говоря; надо признать; положа руку на сердце",
+      "synonyms_sr": [
+        "iskreno govoreći",
+        "pravo da kažem",
+        "objektivno gledano",
+        "mora se priznati"
+      ],
+      "literal_ru": "руку на сердце",
+      "register": "разг.-нейтр.; вводное выражение, которым говорящий признаёт факт, в том числе не вполне удобный для собственной позиции",
+      "examples": [
+        {
+          "serbian_latin": "Ipak, bila je toliko brza da oni, ruku na srce, nisu ni imali kada da joj upute eventualnu kritiku.",
+          "russian": "Впрочем, она была настолько быстрой, что, надо признать, они даже не успели высказать ей возможные замечания.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/tv/rts1/4343843/na-veceri-kod-sanje-vucic.html"
+        },
+        {
+          "serbian_latin": "Ruku na srce, nadala sam se da ću uspeti da svog supruga nagovorim da odemo u Srbiju.",
+          "russian": "По правде говоря, я надеялась, что смогу уговорить мужа переехать в Сербию.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/rts/dijaspora/vesti/3745316/olga-otkriva-neotkriveno.html"
+        }
+      ],
+      "note": "В современном сербском это прежде всего вводная формула честного признания или уступки в споре, а реальный жест рукой вовсе не предполагается. Часто стоит в начале предложения: Ruku na srce, nije ni on kriv. Русское «положа руку на сердце» очень близко, но иногда естественнее просто «надо признать».",
+      "keyword": "ruku na srce"
     },
     {
       "headword_latin": "S koca i konopca",
@@ -13446,6 +13648,35 @@
       "keyword": "krv"
     },
     {
+      "headword_latin": "Ući na jedno uho, izaći na drugo",
+      "type": "frazeologizam",
+      "definition_ru": "в одно ухо влететь, из другого вылететь; совершенно не запомниться; не быть услышанным",
+      "synonyms_sr": [
+        "ne slušati",
+        "ne zapamtiti",
+        "ne obraćati pažnju",
+        "odmah zaboraviti"
+      ],
+      "literal_ru": "войти в одно ухо, выйти из другого",
+      "register": "разг., экспр.; о словах, советах или информации, которые человек слышит, но не усваивает",
+      "examples": [
+        {
+          "serbian_latin": "Radije bih imao malo znanja i sposobnost da ga prenesem na smislen način, nego da znam sve i da sve što kažem na jedno uho uđe, a na drugo izađe.",
+          "russian": "Я предпочёл бы знать меньше, но уметь это объяснить, чем знать всё и говорить так, чтобы всё в одно ухо влетало, а из другого вылетало.",
+          "source": "Sport Klub, 2017",
+          "url": "https://sportklub.n1info.rs/skener/a140785-veliki-andre-olga-bodiroga-i-kompletni-idioti/"
+        },
+        {
+          "serbian_latin": "Shvatio sam da je ljudima ušlo na jedno uho, na drugo izašlo.",
+          "russian": "Я понял, что люди пропустили всё мимо ушей: в одно ухо вошло, из другого вышло.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/652165/vucic-objavio-rat-protiv-korupcije"
+        }
+      ],
+      "note": "Русский и сербский образы практически совпадают. В сербском порядок частей может немного варьироваться: na jedno uho uđe, na drugo izađe; встречается и прошедшее ušlo... izašlo. Обычно подразумевается не плохая память вообще, а отсутствие внимания к конкретно сказанному.",
+      "keyword": "na jedno uho uđe na drugo izađe"
+    },
+    {
       "headword_latin": "Ući u ritam",
       "type": "kolokacija",
       "definition_ru": "войти в ритм; набрать темп; втянуться",
@@ -13621,6 +13852,34 @@
       ],
       "note": "Обычно обозначает поспешное бегство при появлении опасности, полиции или нежелательного человека.",
       "keyword": "magla"
+    },
+    {
+      "headword_latin": "Uhvatiti nekoga na delu",
+      "type": "frazeologizam",
+      "definition_ru": "поймать с поличным; застать за делом; поймать непосредственно в момент нарушения",
+      "synonyms_sr": [
+        "zateći na delu",
+        "uhvatiti na licu mesta",
+        "zateći u prekršaju"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; особенно часто в полицейском, юридическом и бытовом контексте",
+      "examples": [
+        {
+          "serbian_latin": "Da bi kaznu napisali – uslov je da prodavce uhvate na delu, što se, kažu, retko dešava.",
+          "russian": "Чтобы выписать штраф, продавца необходимо поймать с поличным, а это, говорят, случается редко.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5375572/.html?print=true"
+        },
+        {
+          "serbian_latin": "Ovaj proces teško funkcioniše u praksi jer nije lako uhvatiti nekoga na delu.",
+          "russian": "На практике этот механизм работает плохо, потому что поймать кого-либо с поличным непросто.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/beograd/lose-komsije-tesko-se-hvataju-na-delu"
+        }
+      ],
+      "note": "Na delu здесь значит не просто «за работой», а прежде всего «в момент совершения конкретного поступка», часто нарушения. Поэтому при преступлении или проступке русский «поймать с поличным» точнее буквального «застать за делом». Возможна и форма zateći nekoga na delu.",
+      "keyword": "uhvatiti na delu"
     },
     {
       "headword_latin": "uhvatiti se u koštac s nekim / nečim",
@@ -14043,6 +14302,35 @@
       ],
       "note": "Выражение нужно запоминать целиком: zdravo здесь нельзя переводить отдельным русским «здорово / здоровый». В зависимости от контекста это либо «считать гарантированным и не ценить», либо «принимать без проверки, сомнений и размышлений». Противоположная полезная конструкция — uzeti nešto s rezervom.",
       "keyword": "zdravo za gotovo"
+    },
+    {
+      "headword_latin": "Više sreće nego pameti",
+      "type": "izreka",
+      "definition_ru": "больше повезло, чем хватило ума; повезло по чистой случайности; дуракам везёт",
+      "synonyms_sr": [
+        "imati sreće",
+        "posrećiti se",
+        "uspeti slučajno",
+        "dobro proći pukom srećom"
+      ],
+      "literal_ru": "больше счастья, чем ума",
+      "register": "разг., часто самоирон.; о хорошем результате, который объясняется скорее удачей, чем собственными способностями",
+      "examples": [
+        {
+          "serbian_latin": "Držim se pravila koja sam dobila još kao dete, jer, što bi naš narod rekao, imala sam više sreće nego pameti.",
+          "russian": "Я придерживаюсь правил, усвоенных ещё в детстве, потому что, как говорится, мне больше везло, чем хватало ума.",
+          "source": "Politika, 2021",
+          "url": "https://www.politika.rs/sr/clanak/485902/ja-sam-timski-igrac"
+        },
+        {
+          "serbian_latin": "Skromno nam je rekao da je „imao više sreće nego pameti“.",
+          "russian": "Он скромно сказал нам, что ему скорее повезло, чем помог собственный ум.",
+          "source": "Politika, 2024",
+          "url": "https://www.politika.rs/sr/clanak/592444/za-studenta-veljka-kotlaju-humanost-je-na-prvom-mestu"
+        }
+      ],
+      "note": "Очень характерна самоирония: говорящий принижает собственную заслугу и приписывает успех удачному стечению обстоятельств. Но о другом человеке фраза может прозвучать пренебрежительно: мол, успеха он не заслужил. По роду меняется только глагольная форма: imao / imala sam više sreće nego pameti.",
+      "keyword": "više sreće nego pameti"
     },
     {
       "headword_latin": "Vrag je odneo šalu",
