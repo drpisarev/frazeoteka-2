@@ -137,6 +137,36 @@
       "keyword": "baciti u očaj"
     },
     {
+      "headword_latin": "bacati / baciti prašinu u oči",
+      "type": "фразеологизм",
+      "definition_ru": "Пускать пыль в глаза; вводить в заблуждение; создавать ложное впечатление или отвлекать внимание от существенного.",
+      "synonyms_sr": [
+        "obmanjivati",
+        "zavaravati",
+        "stvarati lažnu sliku",
+        "skretati pažnju",
+        "zamagljivati stvarnost"
+      ],
+      "literal_ru": "Бросать пыль в глаза.",
+      "register": "Общеупотребительное, неодобрительное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Najava rekonstrukcije Vlade Srbije je bacanje prašine u oči.",
+          "russian": "Объявление о перестановках в правительстве Сербии — это пускание пыли в глаза.",
+          "source": "NIN, 2024",
+          "url": "https://www.nin.rs/politika/vesti/59648/vukadinovic-najava-rekonstrukcije-vlade-srbije-je-bacanje-prasine-u-oci"
+        },
+        {
+          "serbian_latin": "Priča o rekonstrukciji je bacanje prašine u oči.",
+          "russian": "Разговоры о перестановках — это попытка пустить пыль в глаза.",
+          "source": "NIN, 2024",
+          "url": "https://www.nin.rs/politika/vesti/59648/vukadinovic-najava-rekonstrukcije-vlade-srbije-je-bacanje-prasine-u-oci"
+        }
+      ],
+      "note": "Несовершенный вид bacati обозначает продолжительное или повторяющееся введение в заблуждение; совершенный baciti — отдельную попытку обмана.",
+      "keyword": "prašina; oči"
+    },
+    {
       "headword_latin": "bacati bisere pred svinje",
       "type": "biblijski frazem",
       "definition_ru": "метать бисер перед свиньями; предлагать нечто ценное тому, кто не способен этого понять или оценить",
@@ -455,6 +485,35 @@
       ],
       "note": "Формула звучит как строка из народной эпики или старинной песни и строится на рифме ago — drago. Aga — турцизм, историческое обращение к османскому военному или административному лицу, позднее и вообще к зажиточному, влиятельному мужчине в османской среде. В современной сербской речи выражение может появляться иронически, когда человеку предоставляют широкий выбор: примерно «выбирай, что душе угодно». Для русского важно не воспринимать ago как имя: это звательный падеж от aga. Без культурного оттенка нейтральный современный эквивалент — biraj šta hoćeš / izaberi šta ti se sviđa.",
       "keyword": "biraj ago što je tebi drago"
+    },
+    {
+      "headword_latin": "biti / naći se između čekića i nakovnja",
+      "type": "фразеологизм",
+      "definition_ru": "Оказаться между молотом и наковальней; попасть под давление с двух сторон; оказаться в положении без хорошего выхода.",
+      "synonyms_sr": [
+        "naći se između dve vatre",
+        "biti u nezavidnom položaju",
+        "biti pritisnut sa obe strane",
+        "nemati dobar izlaz"
+      ],
+      "literal_ru": "Быть между молотом и наковальней.",
+      "register": "Общеупотребительное, экспрессивное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Srpska industrija između čekića i nakovnja.",
+          "russian": "Сербская промышленность оказалась между молотом и наковальней.",
+          "source": "Biznis.rs, 2026",
+          "url": "https://biznis.rs/vesti/srbija/srpska-industrija-izmedju-cekica-i-nakovnja/"
+        },
+        {
+          "serbian_latin": "Novinari se gotovo uvek nađu između čekića i nakovnja.",
+          "russian": "Журналисты почти всегда оказываются между двух огней.",
+          "source": "Udruženje novinara Srbije, 2025",
+          "url": "https://uns.org.rs/sr/desk/Putovanje-kroz-istoriju-srpske-stampe/174640/izmedju-cekica-i-nakovnja-hronika-srpskog-novinarstva-i-cenzura-koja-radja-heroje-.html"
+        }
+      ],
+      "note": "Выражение обозначает не простую нерешительность, а давление противоположных сил. Употребляются конструкции biti, naći se и ostati između čekića i nakovnja.",
+      "keyword": "čekić; nakovanj"
     },
     {
       "headword_latin": "biti između čekića i nakovnja",
@@ -2081,6 +2140,36 @@
       "keyword": "došla maca na vratanca"
     },
     {
+      "headword_latin": "držati jezik za zubima",
+      "type": "фразеологизм",
+      "definition_ru": "Держать язык за зубами; молчать; воздерживаться от неосторожных или лишних слов.",
+      "synonyms_sr": [
+        "ćutati",
+        "ne progovarati",
+        "uzdržati se od komentara",
+        "ne odavati tajnu",
+        "zatvoriti usta"
+      ],
+      "literal_ru": "Держать язык за зубами.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Situacije u kojima je najbolje držati jezik za zubima.",
+          "russian": "Ситуации, в которых лучше всего держать язык за зубами.",
+          "source": "Srećne / Republika, 2024",
+          "url": "https://srecne.republika.rs/zdravlje/mentalno-zdravlje/19933/situacije-u-kojima-treba-ucutati"
+        },
+        {
+          "serbian_latin": "Ako vaše reči mogu nekoga da povrede, bolje je držati jezik za zubima.",
+          "russian": "Если ваши слова могут кого-нибудь ранить, лучше держать язык за зубами.",
+          "source": "Srećne / Republika, 2024",
+          "url": "https://srecne.republika.rs/zdravlje/mentalno-zdravlje/19933/situacije-u-kojima-treba-ucutati"
+        }
+      ],
+      "note": "Выражение может означать как благоразумное молчание, так и необходимость сохранить тайну. Возможен совершенный вид zadržati jezik za zubima.",
+      "keyword": "jezik; zubi"
+    },
+    {
       "headword_latin": "držati konce u rukama",
       "type": "glagolski frazem",
       "definition_ru": "держать всё в своих руках; контролировать происходящее; руководить ситуацией",
@@ -2946,6 +3035,36 @@
       ],
       "note": "Izraz označava veliku količinu posla kojim je osoba aktivno zauzeta. Ne mora se odnositi na fizički rad.",
       "keyword": "ruke; posao"
+    },
+    {
+      "headword_latin": "imati putera na glavi",
+      "type": "фразеологизм",
+      "definition_ru": "Иметь за собой вину; иметь нечистую совесть; иметь что скрывать; самому быть небезупречным.",
+      "synonyms_sr": [
+        "imati nečistu savest",
+        "imati šta da krije",
+        "ne biti bez krivice",
+        "biti umešan",
+        "imati greh na duši"
+      ],
+      "literal_ru": "Иметь масло на голове.",
+      "register": "Разговорное, экспрессивное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Evo zašto se kaže da neko ima putera na glavi!",
+          "russian": "Вот почему говорят, что у человека рыльце в пушку.",
+          "source": "Telegraf, 2015",
+          "url": "https://www.telegraf.rs/zanimljivosti/1434963-evo-zasto-se-kaze-da-neko-ima-putera-na-glavi"
+        },
+        {
+          "serbian_latin": "Nećemo njega, on ima putera na glavi.",
+          "russian": "Его мы не выберем: у него самого рыльце в пушку.",
+          "source": "Telegraf, 2015",
+          "url": "https://www.telegraf.rs/zanimljivosti/1434963-evo-zasto-se-kaze-da-neko-ima-putera-na-glavi"
+        }
+      ],
+      "note": "Обычно говорится о человеке, который не вправе изображать безупречность или обвинять других, поскольку у него самого есть вина или компрометирующее прошлое.",
+      "keyword": "puter; glava"
     },
     {
       "headword_latin": "Imati tremu",
@@ -3921,6 +4040,35 @@
       ],
       "note": "Устойчивое сравнение основано на шуточном представлении о том, что змея прячет свои несуществующие ноги. Скрываемый объект употребляется в винительном падеже: kriti verenika, identitet, dokumenta kao zmija noge.",
       "keyword": "zmija; noge"
+    },
+    {
+      "headword_latin": "kupiti / kupovati mačku u džaku",
+      "type": "фразеологизм",
+      "definition_ru": "Купить кота в мешке; приобрести или принять что-либо без предварительной проверки; рисковать, не зная, что получишь.",
+      "synonyms_sr": [
+        "kupovati naslepo",
+        "uzeti nešto bez provere",
+        "rizikovati bez dovoljno informacija",
+        "ne znati šta dobijaš"
+      ],
+      "literal_ru": "Купить кошку в мешке.",
+      "register": "Общеупотребительное, разговорное.",
+      "examples": [
+        {
+          "serbian_latin": "„Čudesne cene“ ili „mačka u džaku“: Šta nam je donelo sniženje marži?",
+          "russian": "«Чудесные цены» или кот в мешке: что принесло нам снижение торговых наценок?",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/cudesne-cene-ili-macka-u-dzaku-sta-nam-je-donelo-snizenje-marzi-od-1-septembra/"
+        },
+        {
+          "serbian_latin": "Pančevka kupila „mačku u džaku“.",
+          "russian": "Жительница Панчева купила кота в мешке.",
+          "source": "Telegraf, 2025",
+          "url": "https://www.telegraf.rs/vesti/srbija/4204576-pancevka-objavila-najcudniju-mogucu-sliku-vocke-kupila-macku-u-dzaku-oprez-ovako-izgleda-kada-se-pokvari"
+        }
+      ],
+      "note": "Выражение относится не только к покупкам. Так можно говорить о договоре, инвестиции, назначении или трансфере, результат которых заранее неизвестен. Употребляется и именная конструкция biti mačka u džaku.",
+      "keyword": "mačka; džak"
     },
     {
       "headword_latin": "lepiti se kao muve na govno",
@@ -4993,6 +5141,36 @@
       "keyword": "leđa"
     },
     {
+      "headword_latin": "okrenuti novi / drugi list",
+      "type": "фразеологизм",
+      "definition_ru": "Начать с чистого листа; изменить поведение, курс или отношение; оставить прежнее позади.",
+      "synonyms_sr": [
+        "početi iznova",
+        "promeniti pristup",
+        "krenuti drugim putem",
+        "ostaviti prošlost iza sebe",
+        "promeniti politiku"
+      ],
+      "literal_ru": "Перевернуть новый или другой лист.",
+      "register": "Общеупотребительное, образное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Da li Zapad okreće drugi list u odnosima sa Prištinom?",
+          "russian": "Переворачивает ли Запад новую страницу в отношениях с Приштиной?",
+          "source": "Nedeljnik, 2023",
+          "url": "https://www.nedeljnik.rs/da-li-zapad-okrece-drugi-list-u-odnosima-sa-pristinom/"
+        },
+        {
+          "serbian_latin": "„Okreni novi list“: pokrenuta platforma za prijavu izbornih nepravilnosti.",
+          "russian": "«Переверни новую страницу»: запущена платформа для сообщений о нарушениях на выборах.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/politika/okreni-novi-list-stranka-miroslava-parovica-pokrenula-platformu-za-prijavu-izbornih-nepravilnosti/"
+        }
+      ],
+      "note": "Вариант okrenuti novi list чаще относится к началу нового жизненного этапа. Okrenuti drugi list нередко обозначает изменение политики или отношения к кому-либо.",
+      "keyword": "list"
+    },
+    {
       "headword_latin": "Okrenuti novi list",
       "type": "glagolski frazem",
       "definition_ru": "Начать новую жизнь или новый этап; изменить прежнее поведение; начать всё заново.",
@@ -5699,6 +5877,36 @@
       "keyword": "kukavičje jaje"
     },
     {
+      "headword_latin": "podmetnuti nekome kukavičje jaje",
+      "type": "фразеологизм",
+      "definition_ru": "Подложить кому-либо «кукушкино яйцо»; навязать чужую идею или проблему; устроить скрытую подлость, последствия которой проявятся позднее.",
+      "synonyms_sr": [
+        "podvaliti",
+        "poturiti",
+        "nasamariti",
+        "prebaciti svoj problem drugome",
+        "prikriveno nametnuti nešto"
+      ],
+      "literal_ru": "Подложить кому-либо кукушкино яйцо.",
+      "register": "Экспрессивное, неодобрительное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Treba paziti da se sa zahtevima za promenu ne podmetne i „kukavičje jaje“.",
+          "russian": "Нужно следить, чтобы вместе с требованиями перемен не подложили и «кукушкино яйцо».",
+          "source": "Ekspres, 2026",
+          "url": "https://www.ekspres.net/zivot/da-li-znate-zasto-se-kaze-podmetnuti-kukavicje-jaje-7-4-2026"
+        },
+        {
+          "serbian_latin": "Odobravanje, negiranje ili umanjenje krivičnog dela kao kukavičje jaje.",
+          "russian": "Одобрение, отрицание или преуменьшение преступления как «кукушкино яйцо».",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/762169/pogledi/odobravanje-negiranje-ili-umanjenje-krivicnog-dela-kao-kukavicje-jaje"
+        }
+      ],
+      "note": "Образ основан на поведении кукушки, подкладывающей яйца в чужие гнёзда. В переносном смысле подчёркивается скрытая подмена или перекладывание собственных проблем на другого.",
+      "keyword": "kukavica; jaje"
+    },
+    {
       "headword_latin": "Pokaži mi jednu osobu koja ne pati!",
       "type": "replika",
       "definition_ru": "покажи мне хоть одного человека, который не страдает!; покажи мне, кто не страдает!",
@@ -5850,35 +6058,34 @@
       "keyword": "poštapalica"
     },
     {
-      "headword_latin": "Praviti od komarca magarca",
-      "type": "frazeologizam",
-      "definition_ru": "делать из мухи слона; раздувать проблему; сильно преувеличивать",
+      "headword_latin": "praviti od komarca magarca",
+      "type": "фразеологизм",
+      "definition_ru": "Делать из мухи слона; чрезмерно преувеличивать незначительную проблему.",
       "synonyms_sr": [
         "preuveličavati",
-        "dizati frku ni oko čega",
-        "praviti veliki problem od sitnice"
+        "praviti veliku stvar ni od čega",
+        "dizati nepotrebnu buku",
+        "dramatizovati",
+        "naduvavati problem"
       ],
-      "literal_ru": "делать из комара осла",
-      "register": "frazeologizam, razg.; obično neodobr. ili šalj.",
+      "literal_ru": "Делать из комара осла.",
+      "register": "Разговорное, шутливое или критическое; пословичное.",
       "examples": [
         {
-          "serbian_latin": "U šali taj postupak zovem: praviti od komarca magarca.",
-          "russian": "В шутку я называю этот приём «делать из мухи слона».",
-          "source": "Danas, Ivan Čolović, 2010"
+          "serbian_latin": "Važno je prepoznati negativne misli i ne praviti „od komarca magarca“.",
+          "russian": "Важно распознавать негативные мысли и не делать из мухи слона.",
+          "source": "Radio-televizija Vojvodine, 2022",
+          "url": "https://rtv.rs/sr_lat/zivot/zdravlje/negativne-misli-i-blokirajuce-emocije-vazno-prepoznati-i-ne-praviti-od-komarca-magarca_1315317.html"
         },
         {
-          "serbian_latin": "Ne želi da novim izjavama na ovu temu „od komarca pravi magarca“.",
-          "russian": "Он не хочет новыми заявлениями по этой теме делать из мухи слона.",
-          "source": "Danas, 2018"
-        },
-        {
-          "serbian_latin": "Kasni deset minuta, ne pravi od komarca magarca.",
-          "russian": "Он опаздывает на десять минут, не делай из мухи слона.",
-          "source": ""
+          "serbian_latin": "U njihovom slučaju od komarca pravimo magarca.",
+          "russian": "В их случае мы делаем из мухи слона.",
+          "source": "Radio-televizija Vojvodine, 2022",
+          "url": "https://rtv.rs/sr_lat/zivot/zdravlje/negativne-misli-i-blokirajuce-emocije-vazno-prepoznati-i-ne-praviti-od-komarca-magarca_1315317.html"
         }
       ],
-      "note": "Значение почти идеально совпадает с русским выражением, но животные другие: русский превращает муху в слона, сербский — комара в осла. Сербская формула дополнительно запоминается благодаря рифме komarca — magarca. Типичная конструкция: praviti / napraviti od komarca magarca.",
-      "keyword": "praviti od komarca magarca"
+      "note": "Возможны оба порядка дополнений: praviti od komarca magarca и od komarca praviti magarca. Выражение критикует неоправданную драматизацию.",
+      "keyword": "komarac; magarac"
     },
     {
       "headword_latin": "Pre roka",
@@ -7005,6 +7212,35 @@
       "keyword": "buba u uhu"
     },
     {
+      "headword_latin": "staviti / metnuti glavu u torbu",
+      "type": "фразеологизм",
+      "definition_ru": "Рисковать жизнью; подвергнуть себя смертельной или чрезвычайно серьёзной опасности.",
+      "synonyms_sr": [
+        "rizikovati život",
+        "izložiti se smrtnoj opasnosti",
+        "staviti život na kocku",
+        "nositi glavu u torbi"
+      ],
+      "literal_ru": "Положить голову в сумку.",
+      "register": "Экспрессивное; традиционное образное выражение.",
+      "examples": [
+        {
+          "serbian_latin": "Mnogi ljudi danas nose glavu u torbi.",
+          "russian": "Сегодня многие постоянно рискуют жизнью.",
+          "source": "Kurir, 2014",
+          "url": "https://www.kurir.rs/zabava/pop-kultura/1289357/riznica-znanja-zasto-se-kaze-staviti-glavu-u-torbu"
+        },
+        {
+          "serbian_latin": "Vala sam moju glavu već odavno bacio u torbu.",
+          "russian": "Право же, я уже давно положил свою голову в суму, то есть заранее попрощался с жизнью.",
+          "source": "Kurir, 2014",
+          "url": "https://www.kurir.rs/zabava/pop-kultura/1289357/riznica-znanja-zasto-se-kaze-staviti-glavu-u-torbu"
+        }
+      ],
+      "note": "Формы staviti, metnuti и baciti glavu u torbu обозначают сознательно пойти на риск. Nositi glavu u torbi описывает уже существующее состояние постоянной опасности.",
+      "keyword": "glava; torba"
+    },
+    {
       "headword_latin": "Staviti tačku na nešto",
       "type": "glagolski frazem",
       "definition_ru": "Поставить точку; окончательно завершить или прояснить дело.",
@@ -7886,31 +8122,32 @@
     },
     {
       "headword_latin": "vući nekoga za nos",
-      "type": "glagolski frazem",
-      "definition_ru": "водить кого-либо за нос; обманывать, морочить или намеренно держать в неведении",
+      "type": "фразеологизм",
+      "definition_ru": "Водить кого-либо за нос; обманывать, дурачить или намеренно держать в заблуждении.",
       "synonyms_sr": [
-        "zavlačiti nekoga",
-        "obmanjivati",
+        "obmanjivati nekoga",
         "praviti nekoga budalom",
-        "zamajavati"
+        "zavlačiti nekoga",
+        "nasamariti",
+        "manipulisati nekim"
       ],
-      "literal_ru": "тянуть кого-либо за нос",
-      "register": "razgovorno, neodobravajuće",
+      "literal_ru": "Тянуть кого-либо за нос.",
+      "register": "Разговорное, экспрессивное, неодобрительное.",
       "examples": [
         {
-          "serbian_latin": "Vučić nas vuče za nos, izuzetan je političar!",
-          "russian": "Вучич водит нас за нос — он выдающийся политик!",
-          "source": "B92, 2024",
-          "url": "https://www.b92.net/info/politika/55308/vucic-nas-vuce-za-nos-izuzetan-je-politicar-bosanski-islamisti-i-zapadni-analiticari-kipte-od-mrznje/vest"
+          "serbian_latin": "Ne vucite nas za nos.",
+          "russian": "Не водите нас за нос.",
+          "source": "Večernje novosti, 2025",
+          "url": "https://www.novosti.rs/vesti/politika/1496580/vucite-nas-nos-nasilje-moze-uvije-parole"
         },
         {
-          "serbian_latin": "Vučić vuče Zapad za nos.",
-          "russian": "Вучич водит Запад за нос.",
-          "source": "B92, 2024",
-          "url": "https://www.b92.net/info/politika/55308/vucic-nas-vuce-za-nos-izuzetan-je-politicar-bosanski-islamisti-i-zapadni-analiticari-kipte-od-mrznje/vest"
+          "serbian_latin": "Povlače javnost za nos.",
+          "russian": "Они водят общественность за нос.",
+          "source": "Večernje novosti, 2025",
+          "url": "https://www.novosti.rs/vesti/politika/1496580/vucite-nas-nos-nasilje-moze-uvije-parole"
         }
       ],
-      "note": "Объект ставится в винительном падеже: vući mene, nas, javnost или birače za nos.",
+      "note": "Обычная форма — vući nekoga za nos. В зависимости от контекста выражение может означать прямой обман или длительное уклонение от обещанного решения.",
       "keyword": "nos"
     },
     {
