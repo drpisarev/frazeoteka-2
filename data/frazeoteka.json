@@ -3575,6 +3575,33 @@
       "keyword": "prst"
     },
     {
+      "headword_latin": "Imati nos za nešto",
+      "type": "frazeologizam",
+      "definition_ru": "иметь нюх на что-то; чуять; обладать хорошим чутьём",
+      "synonyms_sr": [
+        "imati njuh za nešto",
+        "imati osećaj za nešto",
+        "dobro procenjivati",
+        "prepoznavati priliku"
+      ],
+      "literal_ru": "иметь нос на что-то",
+      "register": "разг.-нейтр., экспр.; управление za + винительный падеж",
+      "examples": [
+        {
+          "serbian_latin": "Veoma je inteligentan, sposoban, ima nos za biznis.",
+          "russian": "Он очень умён, способен и обладает хорошим деловым чутьём.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ćiro je stari maher, ima nos za talente.",
+          "russian": "Чиро — старый мастер, у него настоящий нюх на таланты.",
+          "source": "Sportal, 2025"
+        }
+      ],
+      "note": "Сербское imati nos za nešto очень близко русскому «иметь нюх на что-то»: интуитивно распознавать талант, выгодную возможность, хорошую сделку и т. п. Особенно типичны сочетания nos za biznis, nos za talente, nos za gol. Синонимичное imati njuh za nešto ещё ближе русскому образу «нюха».",
+      "keyword": "imati nos za nešto"
+    },
+    {
       "headword_latin": "Imati para kao blata",
       "type": "frazeologizam",
       "definition_ru": "денег куры не клюют; иметь денег хоть отбавляй; быть при деньгах",
@@ -8783,6 +8810,33 @@
       "keyword": "skrštenih ruku"
     },
     {
+      "headword_latin": "Servirati nekome nešto na tacni",
+      "type": "frazeologizam",
+      "definition_ru": "преподнести на блюдечке; дать всё в готовом виде; создать готовую возможность",
+      "synonyms_sr": [
+        "dati gotovo rešenje",
+        "olakšati nekome posao",
+        "pružiti bez truda",
+        "namestiti priliku"
+      ],
+      "literal_ru": "подать кому-то что-то на подносе",
+      "register": "разг.-публицист., экспр.; модель servirati nekome nešto na tacni",
+      "examples": [
+        {
+          "serbian_latin": "Srbija bi mogla da destabilizuje Crnu Goru i da tako „servira na tacni“ izgovor Parizu.",
+          "russian": "Сербия могла бы дестабилизировать Черногорию и тем самым преподнести Парижу готовый повод.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Teodosić je saigračima „servirao na tacni“ u 14 navrata.",
+          "russian": "Теодосич четырнадцать раз буквально выкладывал партнёрам мяч на блюдечке.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Выражение означает дать кому-то возможность или решение практически в готовом виде. Особенно часто встречается в спортивной речи: партнёру создают настолько удобный момент, что остаётся только завершить атаку. Для сербского основная форма здесь tacna; хорватское pladanj для нашей фразеотеки не нужно.",
+      "keyword": "servirati na tacni"
+    },
+    {
       "headword_latin": "sipati / dodati so na ranu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Сыпать соль на рану; усиливать чужую боль, обиду или унижение; напоминанием либо новым поражением делать неприятную ситуацию ещё тяжелее.",
@@ -8871,6 +8925,33 @@
       ],
       "note": "Здесь русский и сербский фразеологизмы совпадают почти буквально. Выражение интернационально и существует во многих европейских языках. Популярное народное объяснение очень простое: u crkvi miševi nemaju šta da jedu — в церкви мыши не находят запасов еды, как в амбаре или доме. Однако точное историческое происхождение надёжно не установлено: фразеологические исследования связывают образ как с представлением о материальной скромности церкви, так и с более широким европейским фольклором.",
       "keyword": "siromašan kao crkveni miš"
+    },
+    {
+      "headword_latin": "Skakati po glavi nekome",
+      "type": "frazeologizam",
+      "definition_ru": "садиться кому-то на голову; не давать покоя; изводить",
+      "synonyms_sr": [
+        "gnjaviti",
+        "maltretirati",
+        "dosađivati",
+        "ne davati mira"
+      ],
+      "literal_ru": "прыгать кому-то по голове",
+      "register": "разг., экспр.; лицо обычно в дательном падеже",
+      "examples": [
+        {
+          "serbian_latin": "Zašto ti koji mi sad skaču po glavi nisu prethodnih deset godina svaki dan izlazili u javnost?",
+          "russian": "Почему те, кто сейчас не даёт мне покоя, предыдущие десять лет не выступали публично каждый день?",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Zašto da radimo od kuće, kada deca skaču po glavi?",
+          "russian": "Как работать из дома, когда дети на голове стоят?",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Русское «сидеть на голове» обычно подчёркивает отсутствие дисциплины или чрезмерную дозволенность, тогда как сербское skakati nekome po glavi шире: надоедать, донимать, давить, не давать спокойно жить или работать. Конструкция skaču mi po glavi очень разговорная и естественная.",
+      "keyword": "skakati po glavi"
     },
     {
       "headword_latin": "Skinuti ljagu sa nekoga / nečega",
@@ -8995,6 +9076,32 @@
       "keyword": "slatke muke"
     },
     {
+      "headword_latin": "Slobodan kao ptica",
+      "type": "frazeologizam",
+      "definition_ru": "свободный как птица; совершенно свободный; ничем не связанный",
+      "synonyms_sr": [
+        "potpuno slobodan",
+        "nesputan",
+        "bez ograničenja"
+      ],
+      "literal_ru": "свободный как птица",
+      "register": "разг.-нейтр., экспр.; сравнительный фразеологизм",
+      "examples": [
+        {
+          "serbian_latin": "Bio je u ekstradicionom pritvoru, ali je sada „slobodan kao ptica”.",
+          "russian": "Он находился под экстрадиционным арестом, а теперь свободен как птица.",
+          "source": "Politika, 2021"
+        },
+        {
+          "serbian_latin": "Ponekog putnika policajka, doduše, pusti bez zadržavanja i ovaj izađe slobodan kao ptica.",
+          "russian": "Некоторых пассажиров полицейская всё же отпускает без задержки, и человек выходит свободный как птица.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Русский и сербский образы полностью совпадают. Прилагательное меняется по роду: slobodan kao ptica, slobodna kao ptica. Оборот особенно естественен, когда подчёркивается освобождение от прежних ограничений, обязательств или контроля.",
+      "keyword": "slobodan kao ptica"
+    },
+    {
       "headword_latin": "smejati se kao lud na brašno",
       "type": "устойчивое сравнение",
       "definition_ru": "Смеяться без видимой причины; глупо или неудержимо хохотать.",
@@ -9104,6 +9211,32 @@
       ],
       "note": "Выражение подчёркивает необратимость решения. Возможен усиленный вариант spaliti sve mostove.",
       "keyword": "most"
+    },
+    {
+      "headword_latin": "Spavati kao beba",
+      "type": "frazeologizam",
+      "definition_ru": "спать как младенец; спать крепко и спокойно",
+      "synonyms_sr": [
+        "čvrsto spavati",
+        "mirno spavati",
+        "spavati bez buđenja"
+      ],
+      "literal_ru": "спать как младенец",
+      "register": "разг., экспр.; сравнительный фразеологизм",
+      "examples": [
+        {
+          "serbian_latin": "Kako da spavate kao beba.",
+          "russian": "Как спать как младенец.",
+          "source": "BBC na srpskom / Danas, 2020"
+        },
+        {
+          "serbian_latin": "Bojana se odmara u hotelu, kaže da spava kao beba i izbegava noćne izlaske.",
+          "russian": "Бояна отдыхает в гостинице, говорит, что спит как младенец, и избегает ночных выходов.",
+          "source": "Blic, 2015"
+        }
+      ],
+      "note": "Значение практически совпадает с русским «спать как младенец»: спокойно и крепко. Это не обязательно означает очень глубокий сон без пробуждений — главное впечатление безмятежности. По смыслу близко к spavati kao top, но последнее сильнее подчёркивает именно непробудно крепкий сон.",
+      "keyword": "spavati kao beba"
     },
     {
       "headword_latin": "Spavati kao klada",
@@ -9454,6 +9587,33 @@
       "keyword": "stati na noge"
     },
     {
+      "headword_latin": "Stati na pola puta",
+      "type": "frazeologizam",
+      "definition_ru": "остановиться на полпути; бросить начатое; не довести до конца",
+      "synonyms_sr": [
+        "odustati na pola",
+        "ne dovršiti",
+        "prekinuti započeto",
+        "odustati pre kraja"
+      ],
+      "literal_ru": "остановиться на полпути",
+      "register": "нейтр.-разг.; часто в отрицательной конструкции ne stati na pola puta",
+      "examples": [
+        {
+          "serbian_latin": "Hoće li procesuirati one koji stoje iza napada, ili će opet stati na pola puta?",
+          "russian": "Привлекут ли к ответственности тех, кто стоит за нападением, или снова остановятся на полпути?",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Drago mi je da je Miler konačno nešto učinio i nadam se da neće stati na pola puta.",
+          "russian": "Я рад, что Мюллер наконец что-то сделал, и надеюсь, что он не остановится на полпути.",
+          "source": "N1, 2018"
+        }
+      ],
+      "note": "Выражение может быть буквальным, но очень часто обозначает отказ завершить начатое дело, реформу, расследование, проект и т. п. Для русского соответствие почти полное. Особенно типична оценочная формула ne sme se stati na pola puta — «нельзя останавливаться на полпути».",
+      "keyword": "stati na pola puta"
+    },
+    {
       "headword_latin": "stati nekome na žulj",
       "type": "глагольный фразеологизм",
       "definition_ru": "Наступить кому-либо на больную мозоль; сильно задеть, вызвать раздражение или нарушить чьи-либо интересы.",
@@ -9750,6 +9910,33 @@
       ],
       "note": "Управление — staviti tačku na с винительным падежом: na raspravu, na pregovore, na nagađanja. Вариант staviti tačku может употребляться без дополнения, если контекст понятен.",
       "keyword": "tačka"
+    },
+    {
+      "headword_latin": "Stavljati / staviti nekoga / nešto na pijedestal",
+      "type": "frazeologizam",
+      "definition_ru": "возводить на пьедестал; превозносить; идеализировать",
+      "synonyms_sr": [
+        "uzdizati",
+        "veličati",
+        "idealizovati",
+        "uznositi"
+      ],
+      "literal_ru": "ставить кого-то / что-то на пьедестал",
+      "register": "нейтр.-публицист., экспр.; объект в винительном падеже",
+      "examples": [
+        {
+          "serbian_latin": "I da svi zajedno, kao društvo i kao sistem, očuvanje zdravlja stavimo na pijedestal.",
+          "russian": "И чтобы мы все вместе, как общество и как система, поставили сохранение здоровья во главу угла.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Stavljamo ih na pijedestal, ali kad ih pogledate malo bolje...",
+          "russian": "Мы возводим их на пьедестал, но если присмотреться к ним внимательнее...",
+          "source": "BBC na srpskom / Danas, 2025"
+        }
+      ],
+      "note": "На пьедестал можно «ставить» не только человека, но и ценность, идею или принцип. В отношении человека выражение часто подразумевает чрезмерное восхищение и идеализацию; с абстрактным существительным значение может быть нейтральнее: «считать высшим приоритетом».",
+      "keyword": "staviti na pijedestal"
     },
     {
       "headword_latin": "Sto ljudi, sto ćudi",
@@ -10725,6 +10912,33 @@
       "keyword": "ustati na levu nogu"
     },
     {
+      "headword_latin": "Uvući se pod kožu nekome",
+      "type": "frazeologizam",
+      "definition_ru": "запасть в душу; прочно засесть в чувствах; проникнуть под кожу",
+      "synonyms_sr": [
+        "prirasti srcu",
+        "duboko se usaditi",
+        "ostaviti snažan utisak",
+        "postati drag"
+      ],
+      "literal_ru": "залезть кому-то под кожу",
+      "register": "разг., экспр.; лицо в дательном падеже",
+      "examples": [
+        {
+          "serbian_latin": "Grad koji ljudi izvan Katalonije na španskom zovu Herona... uvukao nam se pod kožu.",
+          "russian": "Город, который за пределами Каталонии по-испански называют Хероной... запал нам в душу.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Bio je duhovit, mnogo smo se smejali i vremenom mi se uvukao pod kožu.",
+          "russian": "Он был остроумным, мы много смеялись, и со временем он запал мне в душу.",
+          "source": "Blic, 2025"
+        }
+      ],
+      "note": "В сербском оборот очень естественен и в положительном смысле: человек, город, песня или атмосфера постепенно становятся особенно близкими. Но возможен и отрицательный контекст — например, когда strah se uvuče pod kožu. Поэтому перевод зависит от объекта: «запасть в душу», «засесть внутри», «пробрать».",
+      "keyword": "uvući se pod kožu"
+    },
+    {
       "headword_latin": "uzeti / preuzeti stvar u svoje ruke",
       "type": "глагольный фразеологизм",
       "definition_ru": "Взять дело в свои руки; перестать ждать помощи и начать действовать самостоятельно; установить контроль над ситуацией.",
@@ -10812,6 +11026,33 @@
       "keyword": "uzeti na zub"
     },
     {
+      "headword_latin": "Uzeti nekome nešto ispred nosa",
+      "type": "frazeologizam",
+      "definition_ru": "увести что-то из-под носа; перехватить; выхватить в последний момент",
+      "synonyms_sr": [
+        "preoteti",
+        "preduhitriti",
+        "ugrabiti",
+        "preuzeti pre nekoga"
+      ],
+      "literal_ru": "взять у кого-то что-то прямо перед носом",
+      "register": "разг., экспр.; типичная модель uzeti mu nešto ispred nosa",
+      "examples": [
+        {
+          "serbian_latin": "Kostić uzeo zemlju Matijeviću ispred nosa.",
+          "russian": "Костич увёл землю у Матиевича прямо из-под носа.",
+          "source": "Blic, 2015"
+        },
+        {
+          "serbian_latin": "Ekipa je uzela „ispred nosa“ još jedan trofej moćnim Parižanima.",
+          "russian": "Команда увела из-под носа у могущественных парижан ещё один трофей.",
+          "source": "Telegraf, 2021"
+        }
+      ],
+      "note": "Речь о чём-то, что другой человек почти получил или считал практически своим, но его опередили в последний момент. Для русского особенно полезен порядок слов: uzeo mu je trofej ispred nosa — буквально «взял у него трофей перед носом», естественно по-русски «увёл трофей из-под носа». Само ispred nosa может употребляться и буквально, поэтому переносное значение определяется контекстом.",
+      "keyword": "uzeti ispred nosa"
+    },
+    {
       "headword_latin": "Uzeti nešto s rezervom",
       "type": "frazeologizam",
       "definition_ru": "отнестись к чему-то с оговоркой; воспринимать скептически; не принимать за чистую монету",
@@ -10841,6 +11082,33 @@
       ],
       "note": "Выражение не означает обязательно «не верить». Скорее информация может быть верной, но её нельзя принимать безоговорочно: нужны осторожность, проверка или учёт ограничений. В употреблении нормальны и s rezervom, и очень частое sa rezervom.",
       "keyword": "uzeti s rezervom"
+    },
+    {
+      "headword_latin": "Uzeti uzde u svoje ruke",
+      "type": "frazeologizam",
+      "definition_ru": "взять бразды правления; взять управление в свои руки; самому взять контроль",
+      "synonyms_sr": [
+        "preuzeti kontrolu",
+        "preuzeti vođstvo",
+        "preuzeti odgovornost",
+        "upravljati samostalno"
+      ],
+      "literal_ru": "взять поводья в свои руки",
+      "register": "нейтр.-публицист., экспр.; о переходе от пассивности к самостоятельному контролю",
+      "examples": [
+        {
+          "serbian_latin": "Čini mi se da sam prvi put uzeo uzde u svoje ruke.",
+          "russian": "Мне кажется, я впервые взял управление своей жизнью в собственные руки.",
+          "source": "Blic, 2024"
+        },
+        {
+          "serbian_latin": "Posle toga je rešio da „vrati uzde u svoje ruke”.",
+          "russian": "После этого он решил снова взять управление в свои руки.",
+          "source": "N1, 2020"
+        }
+      ],
+      "note": "Uzde — «поводья, вожжи», поэтому исходный образ — человек сам начинает управлять лошадью. Выражение употребляется о жизни, работе, политике, организации и любой ситуации, где кто-то возвращает себе контроль. Близкое uzeti stvar u svoje ruke менее образно.",
+      "keyword": "uzeti uzde u svoje ruke"
     },
     {
       "headword_latin": "Uzimati / uzeti zdravo za gotovo",
