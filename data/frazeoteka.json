@@ -1032,6 +1032,35 @@
       "keyword": "mirođija u svakoj čorbi"
     },
     {
+      "headword_latin": "Biti na istoj talasnoj dužini",
+      "type": "frazeologizam",
+      "definition_ru": "быть на одной волне; прекрасно понимать друг друга; иметь сходные взгляды",
+      "synonyms_sr": [
+        "dobro se razumeti",
+        "slično razmišljati",
+        "slagati se",
+        "imati sličan senzibilitet"
+      ],
+      "literal_ru": "быть на одной длине волны",
+      "register": "разг.-нейтр.; обычно biti / naći se sa nekim na istoj talasnoj dužini",
+      "examples": [
+        {
+          "serbian_latin": "Milun i ja smo se našli na istoj talasnoj dužini: rokenrol, duga kosa, književnost, pozorište, film...",
+          "russian": "Мы с Милуном оказались на одной волне: рок-н-ролл, длинные волосы, литература, театр, кино...",
+          "source": "Politika, 2023",
+          "url": "https://www.politika.rs/sr/clanak/573544/pogledi/mek-i-to-je-kosarka"
+        },
+        {
+          "serbian_latin": "To lepo... jedino i može da bude kada se i umetnik i posmatrač nađu „na istoj talasnoj dužini“.",
+          "russian": "Такое восприятие возможно, когда художник и зритель оказываются на одной волне.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/tv/rts-digital/1742252/citanje-slika.html"
+        }
+      ],
+      "note": "Значение почти совпадает с современным русским «быть на одной волне». Сербская форма обычно длиннее: na istoj talasnoj dužini. Употребляется о взглядах, темпераменте, художественном вкусе и взаимопонимании.",
+      "keyword": "ista talasna dužina"
+    },
+    {
       "headword_latin": "Biti na ivici nerava",
       "type": "frazeologizam",
       "definition_ru": "быть на пределе нервов; быть на грани срыва; быть крайне напряжённым",
@@ -1239,6 +1268,35 @@
       ],
       "note": "Обычно описывает очень сильную радость, влюблённость или удовлетворение удачным развитием событий.",
       "keyword": "nebo"
+    },
+    {
+      "headword_latin": "Biti na tapetu",
+      "type": "frazeologizam",
+      "definition_ru": "быть предметом разбора; попасть под огонь критики; оказаться на повестке",
+      "synonyms_sr": [
+        "biti predmet rasprave",
+        "biti na meti",
+        "biti predmet kritike",
+        "razmatrati se"
+      ],
+      "literal_ru": "",
+      "register": "разг.-публицист., экспр.; значение зависит от контекста — от простого обсуждения до критики, проверки или разбирательства",
+      "examples": [
+        {
+          "serbian_latin": "Na tapetu su ljudska prava, Linglong i Rio Tinto.",
+          "russian": "В центре обсуждения — права человека, Linglong и Rio Tinto.",
+          "source": "N1, 2021",
+          "url": "https://n1info.rs/vesti/ep-usvojio-rezoluciju-o-srbiji-na-tapetu-ljudska-prava-linglong-i-rio-tinto/"
+        },
+        {
+          "serbian_latin": "Sada je „na tapetu“ RTS, dok su novinari N1 svakodnevno na udaru.",
+          "russian": "Теперь под огнём критики оказался RTS, а журналисты N1 подвергаются атакам ежедневно.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/targetiranje-novinara-omiljenja-disciplina-vlasti-sada-na-tapetu-rts-novinari-n1-svakodnevno-na-udaru/"
+        }
+      ],
+      "note": "Русское «на ковре» совпадает лишь частично. Сербское na tapetu гораздо шире: что-то может просто рассматриваться на заседании, а человек — подвергаться проверке или критике. Оттенок определяется ситуацией.",
+      "keyword": "na tapetu"
     },
     {
       "headword_latin": "Biti nekome na vrh jezika",
@@ -1825,6 +1883,35 @@
       ],
       "note": "Выражение подчёркивает максимальное усилие и упорство, а не способ физической борьбы. Возможна и близкая конструкция braniti nešto rukama i nogama — «защищать всеми силами». В живой речи порядок слов свободен: bori se rukama i nogama, rukama i nogama se bori.",
       "keyword": "boriti se rukama i nogama"
+    },
+    {
+      "headword_latin": "Boriti se zubima i noktima",
+      "type": "frazeologizam",
+      "definition_ru": "бороться зубами и когтями; отчаянно отстаивать; биться изо всех сил",
+      "synonyms_sr": [
+        "boriti se svim silama",
+        "grčevito se boriti",
+        "ne odustajati",
+        "dati sve od sebe"
+      ],
+      "literal_ru": "бороться зубами и ногтями",
+      "register": "разг.-публицист., экспр.; о предельно упорной защите интересов, позиции, имущества, должности и т. п.",
+      "examples": [
+        {
+          "serbian_latin": "Za našu kulturnu baštinu treba da se borimo „zubima i noktima“.",
+          "russian": "За наше культурное наследие нужно бороться зубами и когтями.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/vesti/Politika/2076085/Kosti%C4%87%2Bza%2BRTS%3A%2BJa%2Bdruge%2Bistine%2Bnemam.html"
+        },
+        {
+          "serbian_latin": "Pretpostavljao sam da će se poredak braniti zubima i noktima.",
+          "russian": "Я предполагал, что режим будет защищаться зубами и когтями.",
+          "source": "Politika, 2017",
+          "url": "https://www.politika.rs/sr/clanak/388943/politika-nije-za-pesnika"
+        }
+      ],
+      "note": "Русское «зубами и когтями» близко, но сербский устойчиво использует nokti — «ногти». Выражение подчёркивает не просто большие усилия, а упорное сопротивление и нежелание уступать.",
+      "keyword": "zubima i noktima"
     },
     {
       "headword_latin": "Brz kao vetar",
@@ -4444,6 +4531,35 @@
       "keyword": "led"
     },
     {
+      "headword_latin": "Hodati / ići kao po jajima",
+      "type": "frazeologizam",
+      "definition_ru": "ходить как по минному полю; действовать крайне осторожно; бояться сделать неверный шаг",
+      "synonyms_sr": [
+        "biti veoma oprezan",
+        "paziti na svaki korak",
+        "ponašati se krajnje obazrivo",
+        "stalno se pribojavati greške"
+      ],
+      "literal_ru": "ходить словно по яйцам",
+      "register": "разг., экспр.; чаще не о буквальной походке, а о психологической ситуации, где любое слово или действие может вызвать неприятную реакцию",
+      "examples": [
+        {
+          "serbian_latin": "Hodate kao po jajima. Niko ne želi da kaže ništa pogrešno.",
+          "russian": "Все ходят как по минному полю: никто не хочет сказать что-нибудь не то.",
+          "source": "BBC na srpskom / Danas, 2020",
+          "url": "https://www.danas.rs/bbc-news-serbian/americki-predsednicki-izbori-2020-trampovi-poslednji-predsednicki-dani/"
+        },
+        {
+          "serbian_latin": "Narednih devet godina provela sam hodajući kao po jajima, nikad ne znajući da li radim nešto pogrešno.",
+          "russian": "Следующие девять лет я прожила словно на минном поле, никогда не зная, не сделала ли чего-нибудь не так.",
+          "source": "BBC na srpskom / Danas, 2018",
+          "url": "https://www.danas.rs/bbc-news-serbian/nije-bio-srecan-dok-me-nije-imao-samo-za-sebe/"
+        }
+      ],
+      "note": "Сербский образ отличается от обычного русского: буквально человек старается не раздавить яйца. По смыслу в русском чаще «ходить по минному полю», «как по тонкому льду», «бояться лишнее слово сказать».",
+      "keyword": "kao po jajima"
+    },
+    {
       "headword_latin": "hvaliti nekoga / nešto na sva zvona",
       "type": "glagolski frazem",
       "definition_ru": "превозносить; расхваливать на каждом углу; громогласно восхвалять",
@@ -5077,6 +5193,35 @@
       "keyword": "imati nos za nešto"
     },
     {
+      "headword_latin": "Imati obraz kao đon",
+      "type": "frazeologizam",
+      "definition_ru": "быть бесстыжим; иметь совершенно непробиваемую совесть; ни стыда ни совести",
+      "synonyms_sr": [
+        "biti bezobrazan",
+        "biti bestidan",
+        "nemati stida",
+        "biti beskrupulozan"
+      ],
+      "literal_ru": "иметь лицо / честь как подошва",
+      "register": "разг., грубовато, резко неодобр.; о человеке, которому совершенно не стыдно за собственные поступки",
+      "examples": [
+        {
+          "serbian_latin": "Neki ljudi imaju obraz kao đon.",
+          "russian": "У некоторых людей, что называется, ни стыда ни совести.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/vesti/politika/2164253/vucic-stranke-vladajuce-koalicije-samostalno-na-pokrajinskim-izborima.html"
+        },
+        {
+          "serbian_latin": "Nije se potresao što su mu radikali govorili da ima obraz kao đon.",
+          "russian": "Его не особенно задевало, что радикалы называли его совершенно бесстыжим.",
+          "source": "Danas, 2014",
+          "url": "https://www.danas.rs/vesti/drustvo/kocoperni-patriota/"
+        }
+      ],
+      "note": "Для понимания образа важно сербское переносное obraz — «честь, чувство стыда». Если «образ как подошва», он настолько «толстый», что человека уже ничто не пробирает. Выражение намного резче нейтрального bezobrazan.",
+      "keyword": "obraz kao đon"
+    },
+    {
       "headword_latin": "Imati oči na leđima",
       "type": "frazeologizam",
       "definition_ru": "иметь глаза на затылке; всё замечать; постоянно быть начеку",
@@ -5426,6 +5571,35 @@
       ],
       "note": "Upotrebljava se doslovno i preneseno. U prenesenom značenju subjekat je često tajna, problem, sukob, afera ili informacija.",
       "keyword": "površina"
+    },
+    {
+      "headword_latin": "Ispod svake kritike",
+      "type": "frazeologizam",
+      "definition_ru": "ниже всякой критики; никуда не годится; совершенно неприемлемо",
+      "synonyms_sr": [
+        "veoma loše",
+        "neprihvatljivo",
+        "katastrofalno",
+        "nedopustivo"
+      ],
+      "literal_ru": "ниже любой критики",
+      "register": "нейтр.-публицист., резко неодобр.; типично ponašanje, igra, nivo, usluga, kvalitet je ispod svake kritike",
+      "examples": [
+        {
+          "serbian_latin": "Partiju koju su pružili Simonović i saigrači ispod je svake kritike.",
+          "russian": "Игра, которую показали Симонович и его партнёры, ниже всякой критики.",
+          "source": "Danas, 2014",
+          "url": "https://www.danas.rs/vesti/drustvo/partija-ispod-svake-kritike/"
+        },
+        {
+          "serbian_latin": "U drugom poluvremenu igrali su „ispod svake kritike“.",
+          "russian": "Во втором тайме они играли совершенно неприемлемо.",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/sport/goleada-crveno-belih-na-banjici/"
+        }
+      ],
+      "note": "По форме и значению выражение почти полностью совпадает с русским. Оно значительно сильнее простого loše: говорящий считает качество настолько низким, что его будто бы бессмысленно даже критиковать.",
+      "keyword": "ispod svake kritike"
     },
     {
       "headword_latin": "Ispod žita",
@@ -9237,6 +9411,35 @@
       "keyword": "ploča"
     },
     {
+      "headword_latin": "Okrenuti ćurak naopako",
+      "type": "frazeologizam",
+      "definition_ru": "переобуться на ходу; резко сменить позицию; переметнуться на другую сторону",
+      "synonyms_sr": [
+        "promeniti stranu",
+        "promeniti stav",
+        "preokrenuti priču",
+        "prikloniti se drugoj strani"
+      ],
+      "literal_ru": "вывернуть тулуп наизнанку",
+      "register": "разг., экспр., неодобр.; особенно о политической или принципиальной позиции, изменённой из выгоды или конъюнктуры",
+      "examples": [
+        {
+          "serbian_latin": "Skandalozno je reći pre izbora da ste protiv sankcija, a posle izbora okrenuti ćurak naopako.",
+          "russian": "Скандально перед выборами выступать против санкций, а после выборов резко переобуться.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/politika/jeremic-rezolucija-o-sankcijama-rusiji-je-vucicevo-kukavicje-jaje-za-opoziciju/"
+        },
+        {
+          "serbian_latin": "Nipošto nije izvesno hoće li opet... okrenuti ćurak naopako i jurnuti u zagrljaj majčice Rosije.",
+          "russian": "Совсем не ясно, не переменит ли она снова позицию и не бросится ли в объятия матушки России.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/predvodnici/"
+        }
+      ],
+      "note": "Главное значение — не просто «передумать», а демонстративно поменять сторону или прежнюю позицию, часто из расчёта. Поэтому выражение почти всегда неодобрительное. В современной речи ćurak вне этого фразеологизма встречается значительно реже.",
+      "keyword": "okrenuti ćurak naopako"
+    },
+    {
       "headword_latin": "Okrenuti leđa nekome / nečemu",
       "type": "frazeologizam",
       "definition_ru": "отвернуться от кого-то; бросить; перестать поддерживать; порвать с чем-то",
@@ -12090,6 +12293,35 @@
       "keyword": "para"
     },
     {
+      "headword_latin": "Pustiti korenje",
+      "type": "frazeologizam",
+      "definition_ru": "пустить корни; прочно обосноваться; укорениться",
+      "synonyms_sr": [
+        "ukoreniti se",
+        "učvrstiti se",
+        "trajno se nastaniti",
+        "postati čvrsto prisutan"
+      ],
+      "literal_ru": "пустить корни",
+      "register": "нейтр.-публицист., экспр.; переносно о человеке, организации, идее или явлении, которые прочно закрепились в новой среде",
+      "examples": [
+        {
+          "serbian_latin": "Vrlo brzo je među Srbima pustila korenje.",
+          "russian": "Она очень быстро пустила корни среди сербов.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/kultura/kultura/5887792/.html?print=true"
+        },
+        {
+          "serbian_latin": "Katarina Nikolić je ovom knjigom pesama pustila korenje u pesničkim vodama Srbije.",
+          "russian": "Этой книгой стихов Катарина Николич прочно закрепилась в поэтической среде Сербии.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/674078/kad-dramaturskinja-pise-pesme-uz-sopena"
+        }
+      ],
+      "note": "Как и по-русски, выражение легко переносится с растения на человека, институт, идею или традицию. Но значение не обязательно связано с местом жительства: ideja je pustila korenje — идея укоренилась, а autor je pustio korenje u nekoj sredini — автор прочно в ней утвердился.",
+      "keyword": "pustiti korenje"
+    },
+    {
       "headword_latin": "pustiti nekoga niz vodu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Бросить кого-либо на произвол судьбы; прекратить поддержку; предать или пожертвовать кем-либо ради собственных интересов.",
@@ -12489,6 +12721,35 @@
       ],
       "note": "Выражение обозначает не просто неожиданность, а резкий переход к теме или чересчур прямолинейное заявление.",
       "keyword": "rebro"
+    },
+    {
+      "headword_latin": "Sačuvati obraz",
+      "type": "frazeologizam",
+      "definition_ru": "сохранить лицо; сохранить честь; не уронить достоинство",
+      "synonyms_sr": [
+        "sačuvati čast",
+        "ostati dostojanstven",
+        "ostati dosledan sebi",
+        "ne osramotiti se"
+      ],
+      "literal_ru": "сохранить лицо",
+      "register": "нейтр.-экспр.; obraz здесь означает честь, достоинство, нравственную репутацию, а не физическое лицо",
+      "examples": [
+        {
+          "serbian_latin": "Važnije je sačuvati obraz i poverenje naroda nego se ogrebati za neki poslanički mandat.",
+          "russian": "Важнее сохранить честь и доверие народа, чем урвать депутатский мандат.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/politika/sarovic-vaznije-je-sacuvati-obraz-nego-se-ogrebati-za-neki-poslanicki-mandat/"
+        },
+        {
+          "serbian_latin": "FoNet je osnovao da bi sačuvao obraz, on je sačuvao obraz.",
+          "russian": "Он основал FoNet, чтобы сохранить профессиональную честь, и свою честь он сохранил.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/komemoracija-zoranu-sekulicu-unikat-na-medijskoj-sceni-niko-nece-moci-da-ga-zameni/"
+        }
+      ],
+      "note": "Это важная культурная особенность слова obraz: в устойчивых сочетаниях оно часто означает честь и моральную репутацию. Поэтому sačuvati obraz не всегда следует механически переводить русским «сохранить лицо»: нередко точнее «сохранить честь», «не поступиться достоинством».",
+      "keyword": "sačuvati obraz"
     },
     {
       "headword_latin": "Sastavljati kraj s krajem",
@@ -15198,6 +15459,35 @@
       ],
       "note": "Ući обозначает завершившееся изменение, ulaziti — постепенный процесс. Человек обычно выражается дательным падежом: ušlo mi je, ušlo mu je u krv.",
       "keyword": "krv"
+    },
+    {
+      "headword_latin": "Ući / vratiti se na velika vrata",
+      "type": "frazeologizam",
+      "definition_ru": "войти с триумфом; громко заявить о себе; вернуться с большим успехом",
+      "synonyms_sr": [
+        "trijumfalno se vratiti",
+        "postići veliki uspeh",
+        "snažno se afirmisati",
+        "vratiti se uz veliku pažnju"
+      ],
+      "literal_ru": "войти через большие двери",
+      "register": "разг.-публицист., экспр.; противопоставлено na mala vrata — исподволь, обходным путём",
+      "examples": [
+        {
+          "serbian_latin": "Ortopedski hirurg Sakari Orava ušao je „na velika vrata“ u srpske medije.",
+          "russian": "Ортопед Сакари Орава громко заявил о себе в сербских СМИ.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/vesti/drustvo/olimpijac/"
+        },
+        {
+          "serbian_latin": "Kviz „Potera“ ulazi u 10. sezonu na velika vrata.",
+          "russian": "Викторина «Potera» входит в десятый сезон с размахом.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/4733598/kviz-potera-ulazi-u-10-sezonu-na-velika-vrata-prijavite-se-.html"
+        }
+      ],
+      "note": "Na velika vrata предполагает открытый, заметный и обычно успешный выход на сцену или возвращение. Сербская фразеология прямо противопоставляет «большие» и «малые» двери: через первые входят с почётом, через вторые — незаметно или обходным путём.",
+      "keyword": "na velika vrata"
     },
     {
       "headword_latin": "Ući na jedno uho, izaći na drugo",
