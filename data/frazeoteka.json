@@ -2001,6 +2001,33 @@
       "keyword": "brz kao vetar"
     },
     {
+      "headword_latin": "Bura u čaši vode",
+      "type": "frazeologizam",
+      "definition_ru": "буря в стакане воды; много шума из ничего; раздутый скандал",
+      "synonyms_sr": [
+        "mnogo buke ni oko čega",
+        "nepotrebna galama",
+        "preuveličavanje",
+        "dizanje prašine"
+      ],
+      "literal_ru": "буря в стакане воды",
+      "register": "neutralno-publicistički, često iron.",
+      "examples": [
+        {
+          "serbian_latin": "Sve ovo što se pojavljivalo u javnosti proteklih dana je „bura u čaši vode“.",
+          "russian": "Всё, что появлялось в последние дни в публичном пространстве, — буря в стакане воды.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Uragan ili bura u čaši vode.",
+          "russian": "Ураган или буря в стакане воды.",
+          "source": "Vreme, 2014"
+        }
+      ],
+      "note": "Практически полный эквивалент русского «буря в стакане воды». Обозначает чрезмерную реакцию, конфликт или общественный шум вокруг сравнительно малозначительного события. В сербской публицистике употребляется совершенно свободно и не воспринимается как редкий книжный оборот.",
+      "keyword": "bura; čaša vode"
+    },
+    {
       "headword_latin": "Crn kao noć",
       "type": "frazeologizam",
       "definition_ru": "чёрный как ночь; иссиня-чёрный; совершенно чёрный",
@@ -2148,6 +2175,33 @@
       ],
       "note": "В буквальном употреблении образ почти совпадает с русским «слюнки текут» от аппетитной еды. Переносно выражение становится более неодобрительным: человек жадно желает денег, власти, выгоды, человека или возможности. Управление важно: sline mi / ti / mu cure. Совершенное начало реакции можно передать potekle su mi sline — «у меня слюнки потекли».",
       "keyword": "cure sline"
+    },
+    {
+      "headword_latin": "Čašica razgovora",
+      "type": "frazeologizam",
+      "definition_ru": "беседа по душам; разговор за рюмкой или чашкой; приятная неформальная беседа",
+      "synonyms_sr": [
+        "prijatan razgovor",
+        "ćaskanje",
+        "neformalni razgovor",
+        "druženje uz piće"
+      ],
+      "literal_ru": "рюмочка разговора",
+      "register": "šalj., blago staromodnije; često uz čašicu razgovora; alkohol nije obavezan",
+      "examples": [
+        {
+          "serbian_latin": "Nabasao je Petrović u kafić kod Nebojše Viškovića i Gojka Andrijaševića, oran za „čašicu razgovora“.",
+          "russian": "Петрович заглянул в кафе к Небойше Вишковичу и Гойко Андрияшевичу, настроенный хорошенько побеседовать.",
+          "source": "Sport Klub Srbija, 2026"
+        },
+        {
+          "serbian_latin": "Iako gost ne pije ni kafu, ni alkoholna pića, čašica razgovora potrajala je čitavih 90 minuta.",
+          "russian": "Хотя гость не пьёт ни кофе, ни алкоголь, беседа продолжалась целых девяносто минут.",
+          "source": "Sport Klub Srbija, 2025"
+        }
+      ],
+      "note": "Это языковая игра на основе обычного čašica pića / rakije: содержимым «рюмочки» становится сам разговор. Поэтому выражение может употребляться даже тогда, когда собеседники вообще ничего не пьют — современный пример Sport Kluba это хорошо показывает. Фраза имеет немного ретро-журналистский оттенок: раньше Čašica razgovora встречалось и как название газетной рубрики.",
+      "keyword": "čašica razgovora"
     },
     {
       "headword_latin": "Čiča miča i gotova priča",
@@ -4784,6 +4838,33 @@
       "keyword": "hvatati se za slamku"
     },
     {
+      "headword_latin": "Hvatati zjale",
+      "type": "frazeologizam",
+      "definition_ru": "бездельничать; ловить мух; праздно проводить время",
+      "synonyms_sr": [
+        "dangubiti",
+        "besposličiti",
+        "zjakati",
+        "traćiti vreme"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr. ili šalj.",
+      "examples": [
+        {
+          "serbian_latin": "Sigurno ste čuli kada za nekoga, ko ne radi ništa i dangubi, kažu kako „hvata zjale“.",
+          "russian": "Наверняка вы слышали, как о человеке, который ничего не делает и бездельничает, говорят, что он «ловит мух».",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Hvata zjale.",
+          "russian": "Бездельничает.",
+          "source": "Euronews Srbija, 2022"
+        }
+      ],
+      "note": "Zjale связано со zjalo — «разинутый рот, пасть», а также с представлением о пустоте; отсюда zjakati «глазеть, бездельничать». В современном сербском hvatati zjale прежде всего означает бесцельно проводить время. Не путать с prodavati zjale: формы пересекаются в значении безделья, но последняя исторически допускает также образ «продавать пустоту».",
+      "keyword": "zjale"
+    },
+    {
       "headword_latin": "I mirna Bosna",
       "type": "izreka",
       "definition_ru": "и всё в порядке; и дело с концом; и никаких споров; и все довольны",
@@ -7204,6 +7285,32 @@
       "keyword": "krv nije voda"
     },
     {
+      "headword_latin": "Kum nije dugme",
+      "type": "izreka",
+      "definition_ru": "кум — человек не последний; кумовство — дело серьёзное; кумом не разбрасываются",
+      "synonyms_sr": [
+        "kumstvo je svetinja",
+        "kum se poštuje",
+        "kumstvo se čuva"
+      ],
+      "literal_ru": "кум — не пуговица",
+      "register": "narodno, razg.; kulturno specifična formula o visokom statusu kumstva",
+      "examples": [
+        {
+          "serbian_latin": "A kum nije dugme, kaže naš narod.",
+          "russian": "А кум — не какой-нибудь пустяк, как говорит наш народ.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Kum kao svedok venčanja imao je važnu ulogu i u životu, pa otuda „kum nije dugme“.",
+          "russian": "Кум как свидетель на свадьбе играл важную роль и в дальнейшей жизни — отсюда и «кум не пуговица».",
+          "source": "Politika, 2017"
+        }
+      ],
+      "note": "Без знания сербской культуры перевод почти ничего не объясняет. Традиционное kumstvo — особое духовное родство, прежде всего через венчание и крещение; исторически оно могло передаваться между семьями поколениями. Отсюда формулы Bog na nebu, kum na zemlji и kumstvo je svetinja. В современной речи kum nije dugme часто говорится шутливо, когда статус кума даёт человеку особое право на внимание или снисхождение.",
+      "keyword": "kum"
+    },
+    {
       "headword_latin": "kupiti / kupovati mačku u džaku",
       "type": "фразеологизм",
       "definition_ru": "Купить кота в мешке; приобрести или принять что-либо без предварительной проверки; рисковать, не зная, что получишь.",
@@ -7609,6 +7716,33 @@
       "keyword": "mi o vuku a vuk na vrata"
     },
     {
+      "headword_latin": "Miran kao bubica",
+      "type": "frazeologizam",
+      "definition_ru": "тише воды ниже травы; тихий как мышка; смирный-пресмирный",
+      "synonyms_sr": [
+        "tih kao bubica",
+        "potpuno miran",
+        "povučen",
+        "poslušan"
+      ],
+      "literal_ru": "тихий как букашка",
+      "register": "razg., ekspresivno; često o detetu, učeniku ili osobi koja sedi tiho i ne smeta",
+      "examples": [
+        {
+          "serbian_latin": "Sada ste vi ovde taj koji mora da bude miran kao bubica, da sedi i da pažljivo sluša.",
+          "russian": "Теперь именно вам придётся сидеть тише воды ниже травы и внимательно слушать.",
+          "source": "Otvoreni parlament, 2007"
+        },
+        {
+          "serbian_latin": "Dok god si dobrica i mirna kao bubica, niko te neće ozbiljno shvatiti.",
+          "russian": "Пока ты паинька и сидишь тише воды ниже травы, никто не будет воспринимать тебя всерьёз.",
+          "source": "LinkedIn Srbija, 2026"
+        }
+      ],
+      "note": "Bubica здесь не означает конкретное насекомое: важен образ крошечного существа, которое почти не слышно и не заметно. Выражение может быть похвалой ребёнку — «вёл себя идеально», но применительно ко взрослому нередко звучит иронически: «сидел смирно, не высовывался». Форма нормативно и лексикографически подтверждается; название Mirna kao bubica зарегистрировано даже в сербской библиографии как название переведённого романа.",
+      "keyword": "bubica"
+    },
+    {
       "headword_latin": "Mlatiti praznu slamu",
       "type": "frazeologizam",
       "definition_ru": "толочь воду в ступе; переливать из пустого в порожнее; заниматься пустой болтовнёй",
@@ -7722,6 +7856,33 @@
       ],
       "note": "Mrtav здесь не имеет отношения к смерти и просто резко усиливает признак. Сочетание настолько устойчиво, что словарно сопоставляется с английским dead tired. Для русского естественнее «смертельно устал», «устал как собака», а не буквальное «мёртвый уставший».",
       "keyword": "mrtav umoran"
+    },
+    {
+      "headword_latin": "Mrzeti iz dna duše",
+      "type": "frazeologizam",
+      "definition_ru": "ненавидеть всей душой; люто ненавидеть",
+      "synonyms_sr": [
+        "duboko mrzeti",
+        "prezirati",
+        "ne podnositi",
+        "organski ne podnositi (razg.)"
+      ],
+      "literal_ru": "ненавидеть из глубины души",
+      "register": "ekspresivno; mrzeti nekoga / nešto iz dna duše",
+      "examples": [
+        {
+          "serbian_latin": "Histerični filistar mora mrzeti iz dna duše.",
+          "russian": "Истеричный филистер должен ненавидеть это всей душой.",
+          "source": "Vreme, 2017"
+        },
+        {
+          "serbian_latin": "Oni mrze sve evropsko iz dna duše koju nemaju.",
+          "russian": "Они всей душой ненавидят всё европейское.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Iz dna duše усиливает не только отрицательные эмоции: возможно zahvaliti iz dna duše, želeti iz dna duše. С mrzeti это очень сильное, но не обязательно грубое обозначение глубокой неприязни. Русскому важно не калькировать как «из дна души»: естественно «всей душой», «до глубины души» — последнее чаще с другими эмоциями.",
+      "keyword": "dno duše"
     },
     {
       "headword_latin": "mućnuti glavom",
@@ -8660,6 +8821,32 @@
       "keyword": "šta ga je snašlo"
     },
     {
+      "headword_latin": "Neće grom u koprive",
+      "type": "izreka",
+      "definition_ru": "таким ничего не сделается; беда таких обходит; дурному всё нипочём",
+      "synonyms_sr": [
+        "takvima se ništa ne dešava",
+        "zlo ih zaobilazi",
+        "takvi uvek nekako prođu"
+      ],
+      "literal_ru": "молния в крапиву не ударит",
+      "register": "narodno, razg., često iron.; značenje može varirati prema kontekstu i kraju",
+      "examples": [
+        {
+          "serbian_latin": "Neće grom u koprive, pa što bi onda kovid u pečurke.",
+          "russian": "Молния в крапиву не бьёт — так с чего бы ковиду бить по грибам.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Narodna izreka „neće grom u koprive“ ne znači da zlo neće u zlo, već naprotiv.",
+          "russian": "Народная поговорка «молния в крапиву не ударит» вовсе не означает буквально, что зло не идёт к злу.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "У выражения нет одного идеального русского эквивалента. В речи оно часто иронически намекает, что с неприятным, незначительным или «живучим» человеком ничего не случится. Объяснение через Перуна и защитные свойства крапивы существует в современной популярной литературе, но конкретную этимологическую историю лучше не считать окончательно доказанной. Даже сербские источники отмечают вариативность толкования.",
+      "keyword": "grom; koprive"
+    },
+    {
       "headword_latin": "Neće ti faliti ni dlaka s glave",
       "type": "frazeologizam",
       "definition_ru": "с тебя волос не упадёт; тебя никто не тронет; с тобой ничего не случится",
@@ -9304,31 +9491,29 @@
     {
       "headword_latin": "Ni za živu glavu",
       "type": "frazeologizam",
-      "definition_ru": "ни за что; ни в коем случае; ни за какие коврижки",
+      "definition_ru": "ни за что на свете; ни в какую; ни под каким видом",
       "synonyms_sr": [
+        "ni po koju cenu",
         "nipošto",
-        "ni slučajno",
-        "ni pod kojim uslovima",
-        "nikako"
+        "nikako",
+        "ni mrtav (razg.)"
       ],
-      "literal_ru": "ни за живую голову",
-      "register": "разг., экспр.; категорический отказ или запрет, обычно при отрицании",
+      "literal_ru": "даже ради живой головы",
+      "register": "razg., ekspresivno; pojačava kategoričko odbijanje",
       "examples": [
         {
-          "serbian_latin": "Primirje je rezultat pojačanog prisustva vojske i policije, ali i naredbe šefova narko-kartela „sikariosima“ da se ni za živu glavu ne mešaju u fudbal.",
-          "russian": "Перемирие стало результатом усиленного присутствия армии и полиции, а также приказа глав наркокартелей своим киллерам ни в коем случае не вмешиваться в футбол.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/sport/mundijal2026/slobodnjak/5980643/meksiko-fifa26-fudbal-narko-karteli-policija.html"
+          "serbian_latin": "Ne otvarajte ga ni za živu glavu.",
+          "russian": "Ни за что на свете не открывайте его.",
+          "source": "Vreme, 2016"
         },
         {
-          "serbian_latin": "A on uzvikne: „Neee, ni za živu glavu!“",
-          "russian": "А он как закричит: «Нееет, ни за что на свете!»",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/kultura/predrag-koraksic-koraks-poslednji-intervju/"
+          "serbian_latin": "Mrđa ni za živu glavu nije hteo da se odvoji od lopte.",
+          "russian": "Мрджа ни в какую не хотел отдавать мяч.",
+          "source": "Politika, 2013"
         }
       ],
-      "note": "Это сильнее простого neću: говорящий подчёркивает, что не согласится ни при каких обстоятельствах. Русскому не следует буквально связывать оборот с «живой головой»; естественные соответствия — «ни за что», «ни в коем случае», «ни за какие коврижки». Не путать с izvući živu glavu — «остаться в живых, спастись».",
-      "keyword": "ni za živu glavu"
+      "note": "Не путать с izvući živu glavu «остаться в живых». В ni za živu glavu значение давно грамматикализовано как усилитель категорического отказа. Особенно естественны ne bih išao ni za živu glavu, ne dam ni za živu glavu, ne priznaje ni za živu glavu.",
+      "keyword": "živa glava"
     },
     {
       "headword_latin": "Ni živ ni mrtav",
@@ -13199,6 +13384,32 @@
       "keyword": "s koca i konopca"
     },
     {
+      "headword_latin": "S konja na magarca",
+      "type": "frazeologizam",
+      "definition_ru": "поменять лучшее на худшее; резко понизиться в статусе; сделать шаг назад",
+      "synonyms_sr": [
+        "nazadovati",
+        "pasti na niži nivo",
+        "preći s boljeg na gore"
+      ],
+      "literal_ru": "с коня на осла",
+      "register": "razg., ekspresivno; često pasti / preći / sići s konja na magarca",
+      "examples": [
+        {
+          "serbian_latin": "Kako to da ste pristali na prelazak iz Bundeslige u Cvajtu, što bi mnogi doživeli kao pad „s konja na magarca“?",
+          "russian": "Как получилось, что вы согласились перейти из Бундеслиги во вторую лигу, что многие восприняли бы как резкое понижение?",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "S „konja na magarca“ pao je i Marko Đurić.",
+          "russian": "Марко Джурич тоже резко понизился в статусе.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Конь в традиционной культуре значительно ценнее осла, поэтому направление метафоры однозначно: сверху вниз, от лучшего положения к худшему. Выражение может относиться к должности, зарплате, качеству жизни, работе или любому невыгодному обмену. В русском естественны «пойти на понижение», «поменять шило на мыло» — последнее только когда важен неудачный обмен.",
+      "keyword": "konj; magarac"
+    },
+    {
       "headword_latin": "s neba pa u rebra",
       "type": "фразеологизм",
       "definition_ru": "Внезапно и без подготовки; без предисловий; ошарашить прямым вопросом или заявлением.",
@@ -15844,6 +16055,33 @@
       ],
       "note": "Образ связывают с волом, забравшимся в капусту и уничтожающим посадки. В источниках встречаются глаголы tući, prebiti и ubiti, а также сокращённое k’o vola u kupusu.",
       "keyword": "vo; kupus"
+    },
+    {
+      "headword_latin": "U bescenje",
+      "type": "izraz",
+      "definition_ru": "за бесценок; за гроши; по смехотворно низкой цене",
+      "synonyms_sr": [
+        "budzašto (razg.)",
+        "za male pare",
+        "ispod cene",
+        "veoma jeftino"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-ekspresivno; obično prodati / dati / rasprodati u bescenje",
+      "examples": [
+        {
+          "serbian_latin": "Dvorci Srbije: zapušteni, oronuli, zaboravljeni i na prodaju u bescenje.",
+          "russian": "Дворцы Сербии: заброшенные, обветшавшие, забытые и выставленные на продажу за бесценок.",
+          "source": "N1 Srbija, 2026"
+        },
+        {
+          "serbian_latin": "Neka čak i u bescenje.",
+          "russian": "Некоторые — буквально за бесценок.",
+          "source": "Politika, 2007"
+        }
+      ],
+      "note": "Для русского здесь почти полное совпадение с «за бесценок». Важно написание слитно: u bescenje. Очень характерно для публицистики о приватизации, продаже земли, недвижимости и имущества по цене значительно ниже реальной.",
+      "keyword": "bescenje"
     },
     {
       "headword_latin": "U četiri oka",
