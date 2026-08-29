@@ -1865,6 +1865,34 @@
       "keyword": "čiča miča gotova priča"
     },
     {
+      "headword_latin": "Čist račun, duga ljubav",
+      "type": "poslovica",
+      "definition_ru": "дружба дружбой, а денежки врозь; ясные расчёты сохраняют хорошие отношения",
+      "synonyms_sr": [
+        "sve treba jasno dogovoriti",
+        "pošten dogovor čuva odnose",
+        "zna se ko kome šta duguje"
+      ],
+      "literal_ru": "чистый счёт — долгая любовь",
+      "register": "пословица; о необходимости заранее и честно урегулировать деньги, долги, имущество и взаимные обязательства",
+      "examples": [
+        {
+          "serbian_latin": "Kako god da odlučite, imajte na umu narodnu mudrost – čist račun, duga ljubav.",
+          "russian": "Как бы вы ни решили, помните народную мудрость: дружба дружбой, а расчёты должны быть ясными.",
+          "source": "RTS, 2012",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/1115576/cist-racun-duga-ljubav.html"
+        },
+        {
+          "serbian_latin": "Prodavci rade po principu: čist račun – duga ljubav.",
+          "russian": "Продавцы придерживаются принципа: хороший расчёт — залог хороших отношений.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5110940/kovani-novac.html"
+        }
+      ],
+      "note": "Ljubav здесь гораздо шире романтической любви: речь может идти о дружбе, родстве, браке, деловых отношениях. Пословица особенно часто всплывает при долгах, разделе имущества и совместных расходах. Русский функциональный аналог — «дружба дружбой, а денежки врозь».",
+      "keyword": "čist račun duga ljubav"
+    },
+    {
       "headword_latin": "Čovek planira, a Bog se smeje",
       "type": "izreka",
       "definition_ru": "человек предполагает, а Бог располагает; хочешь рассмешить Бога — расскажи ему о своих планах",
@@ -1922,6 +1950,35 @@
       ],
       "note": "Русский и сербский образы очень близки, но сербский обычно употребляет множественное oči: čuvati ga kao oči u glavi. Варианты с čuvati и paziti оба живые; čuvati несколько сильнее подчёркивает сохранность и защиту.",
       "keyword": "kao oči u glavi"
+    },
+    {
+      "headword_latin": "Čuvati nekome leđa",
+      "type": "frazeologizam",
+      "definition_ru": "прикрывать кого-то; быть надёжной опорой; поддерживать и защищать",
+      "synonyms_sr": [
+        "štititi",
+        "podržavati",
+        "biti uz nekoga",
+        "pružati sigurnost"
+      ],
+      "literal_ru": "охранять кому-то спину",
+      "register": "разг.-нейтр., экспр.; лицо — дательный падеж: čuvam ti leđa, oni jedan drugom čuvaju leđa",
+      "examples": [
+        {
+          "serbian_latin": "Uvek ćemo biti rame uz rame sa našim bratskim grčkim narodom i čuvaćemo leđa našim grčkim prijateljima.",
+          "russian": "Мы всегда будем плечом к плечу с братским греческим народом и будем прикрывать наших греческих друзей.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/politika/3770483/vucic-sa-poglavarom-grcke-crkve.html"
+        },
+        {
+          "serbian_latin": "Oni jedan drugom čuvaju leđa.",
+          "russian": "Они прикрывают друг друга.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/politika/postoje-neke-stvari-u-zivotu-kada-moramo-da-kazemo-e-sada-je-dosta-profesor-i-politikolog-dusko-radosavljevic-o-razlozima-zbog-kojih-se-vratio-u-politiku/"
+        }
+      ],
+      "note": "Это не обязательно защита от физической опасности. Čuvati nekome leđa означает быть тем, на кого можно положиться, защищать интересы партнёра или союзника. В негативном политическом контексте может означать и взаимное покрывательство.",
+      "keyword": "čuvati leđa"
     },
     {
       "headword_latin": "Ćeraćemo se još",
@@ -4844,6 +4901,35 @@
       ],
       "note": "Образ полностью понятен и по-русски, но естественный русский эквивалент чаще «денег куры не клюют». Для русскоязычного полезна форма para: это родительный множественного числа от pare — «деньги», ср. imam para — «у меня есть деньги». Вариант imati love kao blata ещё более разговорный.",
       "keyword": "para kao blata"
+    },
+    {
+      "headword_latin": "Imati petlju",
+      "type": "frazeologizam",
+      "definition_ru": "иметь смелость; иметь кишку; быть не робкого десятка",
+      "synonyms_sr": [
+        "imati hrabrosti",
+        "biti smeo",
+        "imati muda (vulg.)",
+        "usuditi se"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспр.; противоположность — nemati petlju; также очень употребительно skupiti petlju — набраться смелости",
+      "examples": [
+        {
+          "serbian_latin": "Ima li Tramp petlju da otvori tesnac?",
+          "russian": "Хватит ли Трампу смелости открыть пролив?",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/tv/rts-sat/5921042/takovska-10-ima-li-tramp-petlju-da-otvori-tesnac.html"
+        },
+        {
+          "serbian_latin": "Žene ovde imaju petlju.",
+          "russian": "У здешних женщин есть характер и смелость.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/vesti/drustvo/zene-u-sremu-imaju-petlju/"
+        }
+      ],
+      "note": "Обычное словарное значение petlja — «петля», но в этом разговорном обороте слово означает смелость, решимость. Очень полезная тройка: imati petlju — «иметь смелость», nemati petlju — «струсить / не решиться», skupiti petlju — «набраться смелости». Последнее тоже хорошо засвидетельствовано в современной сербской речи.",
+      "keyword": "imati petlju"
     },
     {
       "headword_latin": "Imati posla preko glave",
@@ -8247,6 +8333,35 @@
       "keyword": "ni po koju cenu"
     },
     {
+      "headword_latin": "Ni pod razno",
+      "type": "izraz",
+      "definition_ru": "ни в коем случае; категорически нет; ни за какие коврижки",
+      "synonyms_sr": [
+        "nipošto",
+        "ni u kom slučaju",
+        "nikako",
+        "ni po koju cenu"
+      ],
+      "literal_ru": "",
+      "register": "разг., усил.; может быть самостоятельной категорической репликой: Ni pod razno!",
+      "examples": [
+        {
+          "serbian_latin": "Poraz ni pod razno.",
+          "russian": "Поражение — ни в коем случае.",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/sport/poraz-ni-pod-razno/"
+        },
+        {
+          "serbian_latin": "Abdikacija ne dolazi u obzir – ni pod razno.",
+          "russian": "Об отречении от престола не может быть и речи — ни в коем случае.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/5891255/norveska-princeza-ragnhild-mete-marit-epstin-skandal-kraljevska-porodica.html"
+        }
+      ],
+      "note": "Это очень живой разговорный усилитель категорического отрицания. Русскому не стоит пытаться буквально интерпретировать pod razno: выражение запоминается целиком. Особенно естественно как короткий ответ: Da li bi pristao? — Ni pod razno.",
+      "keyword": "ni pod razno"
+    },
+    {
       "headword_latin": "Ni traga ni glasa",
       "type": "frazeologizam",
       "definition_ru": "ни слуху ни духу; никаких следов; словно сквозь землю провалился",
@@ -8329,6 +8444,35 @@
       ],
       "note": "Это сильнее простого neću: говорящий подчёркивает, что не согласится ни при каких обстоятельствах. Русскому не следует буквально связывать оборот с «живой головой»; естественные соответствия — «ни за что», «ни в коем случае», «ни за какие коврижки». Не путать с izvući živu glavu — «остаться в живых, спастись».",
       "keyword": "ni za živu glavu"
+    },
+    {
+      "headword_latin": "Ni živ ni mrtav",
+      "type": "frazeologizam",
+      "definition_ru": "ни жив ни мёртв; сам не свой от страха; в страшном напряжении",
+      "synonyms_sr": [
+        "prestravljen",
+        "van sebe",
+        "skamenjen od straha",
+        "silno uznemiren"
+      ],
+      "literal_ru": "ни живой ни мёртвый",
+      "register": "разг., экспр.; обычно о сильном страхе, тревоге, шоке или мучительном ожидании",
+      "examples": [
+        {
+          "serbian_latin": "Ni živ ni mrtav sam otišao na taj razgovor, a kao i svaki vojnik mislio sam da je neka nevolja u pitanju.",
+          "russian": "Я пошёл на этот разговор ни жив ни мёртв: как любой солдат, думал, что случилась какая-то неприятность.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/653557/kad-je-milan-cuvao-mir-na-sinaju"
+        },
+        {
+          "serbian_latin": "Nisam verovao kada su mi pričali da tih nekoliko dana nisi ni živ ni mrtav od uzbuđenja.",
+          "russian": "Я не верил, когда мне говорили, что эти несколько дней ты сам не свой от волнения.",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/vesti/drustvo/cast-mi-je-biti-dzoker-u-ovakvoj-ekipi/"
+        }
+      ],
+      "note": "В устойчивом переносном употреблении это прежде всего состояние крайнего страха, волнения или потрясения. Возможен и буквальный контекст неопределённости — неизвестно, жив человек или погиб, — поэтому значение всегда определяется ситуацией. Очень естественно bio sam ni živ ni mrtav od straha / uzbuđenja.",
+      "keyword": "ni živ ni mrtav"
     },
     {
       "headword_latin": "Nije ni ona cvećka",
@@ -10061,6 +10205,35 @@
       "keyword": "glava"
     },
     {
+      "headword_latin": "Pocrveneti do ušiju",
+      "type": "frazeologizam",
+      "definition_ru": "покраснеть до ушей; залиться краской; сильно смутиться или разозлиться",
+      "synonyms_sr": [
+        "jako pocrveneti",
+        "zarumeneti se",
+        "zacrveneti se",
+        "zajapuriti se"
+      ],
+      "literal_ru": "покраснеть до ушей",
+      "register": "разг., экспр.; причина — стыд, смущение, гнев или сильное эмоциональное возбуждение",
+      "examples": [
+        {
+          "serbian_latin": "Ja penzionisao?! – kolega je pocrveneo do ušiju.",
+          "russian": "Я отправлял на пенсию?! — коллега покраснел до ушей.",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/vesti/drustvo/pacijenti-su-otisli-na-glasanje/"
+        },
+        {
+          "serbian_latin": "Verdi na njene kritike nije odgovorio ništa već je pocrveneo do ušiju.",
+          "russian": "Верди ничего не ответил на её упрёки, а лишь покраснел до ушей.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/vesti/drustvo/zasto-djuzepe-verdi-nije-nosio-sesir/"
+        }
+      ],
+      "note": "По образу выражение полностью совпадает с русским. Важно, что причина определяется контекстом: человек может pocrveneti do ušiju od stida, но также от злости. При более нейтральном описании покраснения употребляются pocrveneti и zarumeneti se.",
+      "keyword": "pocrveneti do ušiju"
+    },
+    {
       "headword_latin": "Počivati / spavati na lovorikama",
       "type": "frazeologizam",
       "definition_ru": "почивать на лаврах; успокоиться на достигнутом; перестать развиваться после успеха",
@@ -10612,6 +10785,34 @@
       ],
       "note": "Poštapalica — не «цитата» и не «крылатая фраза». Dr Marina Nikolić из Jezikofil определяет poštapalice как слова или фразы, которые стали ненужными для содержания и используются как заполнитель паузы в речи. Русское «крылатая фраза» — это скорее krilatica, «цитата» — citat. Poštapalica может иметь исходное значение, но при навязчивом повторении практически его теряет: znači... ovaj... brate...",
       "keyword": "poštapalica"
+    },
+    {
+      "headword_latin": "Povući nekoga za jezik",
+      "type": "frazeologizam",
+      "definition_ru": "потянуть за язык; спровоцировать на откровенность; вынудить сказать больше, чем человек собирался",
+      "synonyms_sr": [
+        "navesti nekoga da progovori",
+        "isprovocirati odgovor",
+        "podstaći nekoga da kaže više"
+      ],
+      "literal_ru": "потянуть кого-то за язык",
+      "register": "разг., экспр.; особенно частая реплика: Nemoj da me vučeš za jezik",
+      "examples": [
+        {
+          "serbian_latin": "Rezolucija Evropskog parlamenta mogla bi da „povuče za jezik“ srpskog biznismena da javno otkrije...",
+          "russian": "Резолюция Европарламента может подтолкнуть сербского бизнесмена к тому, чтобы он публично рассказал...",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/misa-brkic/rezolucija-i-korupcija/"
+        },
+        {
+          "serbian_latin": "Ne bih ni sad rekao da me niste povukli za jezik... ali ste me vukli za jezik.",
+          "russian": "Я бы и сейчас этого не сказал, если бы вы меня не потянули за язык... но вы сами меня на это спровоцировали.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/politika/vucic-nato-austrijski-novinar/"
+        }
+      ],
+      "note": "Сербский и русский образы близки. Однако Nemoj da me vučeš za jezik часто содержит предупреждение: «не заставляй меня рассказывать то, что тебе не понравится». Речь не обязательно о буквальном выпытывании — поводом может стать провокационная реплика или вопрос.",
+      "keyword": "povući za jezik"
     },
     {
       "headword_latin": "Povući ručnu",
@@ -11631,6 +11832,35 @@
       ],
       "note": "Употребляется о поверхности, животе или фигуре. Применительно к женской груди сравнение обычно имеет насмешливый или самокритичный оттенок.",
       "keyword": "daska"
+    },
+    {
+      "headword_latin": "Razvezati jezik",
+      "type": "frazeologizam",
+      "definition_ru": "развязать язык; разговориться; начать выдавать то, о чём раньше молчал",
+      "synonyms_sr": [
+        "progovoriti",
+        "raspričati se",
+        "otvoriti se",
+        "otkriti šta znaš"
+      ],
+      "literal_ru": "развязать язык",
+      "register": "разг., экспр.; часто о человеке, который после молчания начинает много говорить или раскрывать секреты",
+      "examples": [
+        {
+          "serbian_latin": "Palmero nije ostao dužan. Ne samo da je tužio princa... nego je i razvezao jezik i po francuskim medijima krenuo da otkriva ono što zna.",
+          "russian": "Палмеро не остался в долгу: он не только подал в суд на принца, но и развязал язык, начав рассказывать французским СМИ всё, что знает.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/5391199/monako-princ-albert-rodjendan-skandal-princeza-sarlen-.html"
+        },
+        {
+          "serbian_latin": "Popili ljudi malo, razvezao im se jezik, a u SFRJotu čovek nije imao većeg dušmanina od razvezanog jezika.",
+          "russian": "Люди немного выпили, язык у них развязался, а в СФРЮ для человека мало что было опаснее развязавшегося языка.",
+          "source": "Danas, 2012",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/drugomajski-uranak/"
+        }
+      ],
+      "note": "Возможна как переходная модель nešto mu je razvezalo jezik, так и возвратная razvezao mu se jezik. Часто подразумевается, что человек начал говорить лишнее, раскрывать секреты или критиковать тех, о ком прежде молчал. Алкоголь — один из типичных контекстов.",
+      "keyword": "razvezati jezik"
     },
     {
       "headword_latin": "reći popu pop, a bobu bob",
@@ -13224,6 +13454,35 @@
       "keyword": "nož pod grlo"
     },
     {
+      "headword_latin": "Staviti nekome soli na rep",
+      "type": "frazeologizam",
+      "definition_ru": "попробуй поймай; теперь его не достанешь; ищи-свищи",
+      "synonyms_sr": [
+        "ne moći uhvatiti",
+        "ne moći mu ništa",
+        "izmaći nekome",
+        "biti nedostižan"
+      ],
+      "literal_ru": "насыпать кому-то соли на хвост",
+      "register": "разг., экспр., часто ирон.; обычно о том, кто уже ускользнул и практически недосягаем",
+      "examples": [
+        {
+          "serbian_latin": "Eno Branimira u Ljubuškom, pak mu možete staviti soli na rep.",
+          "russian": "Бранимир уже в Любушком — теперь попробуйте-ка его поймайте.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/drustvo/soli-na-rep/"
+        },
+        {
+          "serbian_latin": "Učesnicima se nije moglo staviti soli na rep, jerbo ih je bilo nemoguće nahvatati za kvorum.",
+          "russian": "Участников было не поймать: собрать их в достаточном количестве для кворума оказалось невозможно.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/kolumna/natasa-b-odalovic/a-reke-odnose-decu/"
+        }
+      ],
+      "note": "Оборот связан с детским фольклорным представлением, будто птицу можно поймать, если насыпать ей соли на хвост. В реальной речи выражение употребляется иронически именно о недостижимом человеке: он уже ускользнул — теперь «положи ему соли на хвост». Русскому ближе «ищи-свищи», «попробуй поймай».",
+      "keyword": "soli na rep"
+    },
+    {
       "headword_latin": "staviti prst na čelo",
       "type": "глагольный фразеологизм",
       "definition_ru": "Серьёзно задуматься; остановиться и трезво оценить положение; пересмотреть своё поведение.",
@@ -14537,6 +14796,35 @@
       ],
       "note": "Конструкция udariti u zid обозначает столкновение с пределом или тупиком. Расширенный вариант udarati glavom u zid подчёркивает бесполезные, но упорно повторяемые попытки добиться невозможного.",
       "keyword": "zid"
+    },
+    {
+      "headword_latin": "Udri brigu na veselje",
+      "type": "izreka",
+      "definition_ru": "забудь о заботах и веселись; махни рукой на проблемы; гуляй, пока гуляется",
+      "synonyms_sr": [
+        "zaboraviti brige",
+        "okrenuti sve na šalu",
+        "razvedriti se",
+        "veseliti se uprkos problemima"
+      ],
+      "literal_ru": "ударь заботу о веселье",
+      "register": "разг., экспр.; может быть жизнеутверждающим советом, но также употребляться иронически о беспечности",
+      "examples": [
+        {
+          "serbian_latin": "Stigle su tek trećeg dana našeg boravka, ali to nije uticalo na naše dobro raspoloženje, pa smo sve okrenuli na šalu, što bi stara izreka rekla – udri brigu na veselje.",
+          "russian": "Чемоданы прибыли лишь на третий день, но настроения нам это не испортило: мы всё обратили в шутку — как говорится, махни рукой на заботы и веселись.",
+          "source": "BBC na srpskom / Danas, 2025",
+          "url": "https://www.danas.rs/bbc-news-serbian/ardievas-rigo-sat-protiv-kasnjenja-obrtanje-praseta-i-muzika/"
+        },
+        {
+          "serbian_latin": "Cica je, držeći se devize „udri brigu na veselje“, posvetila se misiji da oraspoloži one koji imaju još veće probleme.",
+          "russian": "Цица, следуя девизу «забудь о заботах и веселись», посвятила себя тому, чтобы поднимать настроение людям с ещё более серьёзными проблемами.",
+          "source": "Radio Beograd 1 / RTS, 2022",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-1/4771964/sis-cevap-za-sampionku.html"
+        }
+      ],
+      "note": "Udri здесь не переводится буквально как «ударь»: вся формула означает сознательно переключиться с тревог на удовольствие и веселье. В положительном контексте это почти «не унывай», а в критическом может подразумевать беспечное игнорирование серьёзных проблем.",
+      "keyword": "udri brigu na veselje"
     },
     {
       "headword_latin": "Uhvatiti Boga za bradu",
