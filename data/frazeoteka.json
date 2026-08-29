@@ -1321,6 +1321,33 @@
       "keyword": "pomol"
     },
     {
+      "headword_latin": "Biti na ratnoj nozi",
+      "type": "frazeologizam",
+      "definition_ru": "быть на ножах; находиться в состоянии открытого конфликта",
+      "synonyms_sr": [
+        "biti u sukobu",
+        "biti u lošim odnosima",
+        "biti zavađen",
+        "sukobljavati se"
+      ],
+      "literal_ru": "быть на военной ноге",
+      "register": "razg.-publicistički; biti na ratnoj nozi s nekim",
+      "examples": [
+        {
+          "serbian_latin": "Američki predsednik je već duže vreme na „ratnoj nozi“ s medijima.",
+          "russian": "Американский президент уже давно находится в состоянии конфликта со СМИ.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Politički odnosi između Volodimira Zelenskog i Vladimira Putina [...] više nisu „na ratnoj nozi“.",
+          "russian": "Политические отношения между Зеленским и Путиным больше не находятся в состоянии открытой конфронтации.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Настоящая война совершенно не обязательна. Выражение нормально употребляется о политиках, коллегах, родственниках, организациях и даже человеке и СМИ. Русское «быть на ножах» обычно разговорнее и более личностно, тогда как сербское na ratnoj nozi очень типично и для нейтральной журналистики.",
+      "keyword": "ratna noga"
+    },
+    {
       "headword_latin": "biti na sedmom nebu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Быть на седьмом небе; испытывать огромное счастье или восторг.",
@@ -2105,6 +2132,33 @@
       ],
       "note": "Это прозрачное устойчивое сравнение, и русский эквивалент практически полный. Сербские исследования цветообозначений подтверждают noć как один из типичных эталонов максимальной черноты наряду с ugljem, mrakom, katranom. Выражение обычно описывает реальный цвет, поэтому не всякое употребление следует считать полноценной идиомой.",
       "keyword": "crn kao noć"
+    },
+    {
+      "headword_latin": "Crno na belo",
+      "type": "frazeologizam",
+      "definition_ru": "чёрным по белому; в письменном виде; документально, с неопровержимым доказательством",
+      "synonyms_sr": [
+        "napismeno",
+        "dokumentovano",
+        "jasno dokazano",
+        "nepobitno"
+      ],
+      "literal_ru": "чёрное на белом",
+      "register": "razg.-neutralno; često imati / dobiti / dokazati crno na belo",
+      "examples": [
+        {
+          "serbian_latin": "Da opštine imaju crno na belo čime raspolažu, odavno bi mnogi atraktivni objekti bili ponuđeni investitorima.",
+          "russian": "Если бы у муниципалитетов было чётко зафиксировано на бумаге, чем они располагают, многие объекты давно предложили бы инвесторам.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Odvajkada se zna da jedino princip „crno na belo“ može biti nesporni dokaz da li neko govori istinu.",
+          "russian": "Давно известно, что только документальное подтверждение может бесспорно доказать, говорит ли человек правду.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Образ связан с чёрными буквами на белой бумаге, поэтому главное значение — не просто «очевидно», а «это можно предъявить как письменное доказательство». Русское «чёрным по белому» почти полностью совпадает. Частая модель: hoću to crno na belo — «хочу увидеть это на бумаге».",
+      "keyword": "crno na belo"
     },
     {
       "headword_latin": "Crven kao rak",
@@ -4504,6 +4558,32 @@
       "keyword": "leš"
     },
     {
+      "headword_latin": "Gde ima dima, ima i vatre",
+      "type": "poslovica",
+      "definition_ru": "нет дыма без огня; слухи обычно возникают не совсем на пустом месте",
+      "synonyms_sr": [
+        "nema dima bez vatre",
+        "glasine imaju neki osnov",
+        "nešto se ipak krije iza toga"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; često služi kao opravdanje sumnje kada nema potpunog dokaza",
+      "examples": [
+        {
+          "serbian_latin": "U skladu sa dobrom, starom „gde ima dima, ima i vatre“, britanska kraljevska porodica pokušala je da uguši vatru.",
+          "russian": "По старому принципу «нет дыма без огня» британская королевская семья попыталась погасить слухи.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Dobro je poznato da ovaj narod [...] polazi od dve osnovne premise: „ništa nije slučajno“ i „gde ima dima – ima i vatre“.",
+          "russian": "Хорошо известно, насколько легко рассуждение строится по принципу: «ничто не случайно» и «нет дыма без огня».",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Русский эквивалент практически полный. Важно, что пословица выражает именно предположение, а не доказанный факт: наличие слухов или подозрений воспринимается как признак некоторой реальной причины. Поэтому в аргументации она может использоваться и иронически — как пример сомнительной логики.",
+      "keyword": "dima; vatre"
+    },
+    {
       "headword_latin": "ginuti kao muve",
       "type": "устойчивое сравнение",
       "definition_ru": "Гибнуть как мухи; массово погибать за короткое время.",
@@ -6063,31 +6143,29 @@
     },
     {
       "headword_latin": "Ispod žita",
-      "type": "izraz",
-      "definition_ru": "тайком; исподтишка; неофициально; в обход правил",
+      "type": "frazeologizam",
+      "definition_ru": "исподтишка; тайком; за кулисами; в обход открытой процедуры",
       "synonyms_sr": [
         "krišom",
         "tajno",
-        "nezvanično",
-        "mimo procedure"
+        "iza kulisa",
+        "mimo pravila"
       ],
       "literal_ru": "под зерном",
-      "register": "разг.-публицист., неодобр.; часто о скрытых сделках, договорённостях, выплатах и действиях",
+      "register": "razg., neodobr.; često označava netransparentnost, dogovor ili nezvaničnu radnju",
       "examples": [
         {
-          "serbian_latin": "Pošta Srbije „ispod žita i daleko od očiju javnosti“ rasprodaje imovinu.",
-          "russian": "«Почта Сербии» тайком и вдали от глаз общественности распродаёт имущество.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/vesti/politika/milosevic-posta-srbije-ispod-zita-rasprodaje-imovinu/"
+          "serbian_latin": "Pošta Srbije demantovala je navode da imovinu preduzeća rasprodaju ispod žita i daleko od očiju javnosti.",
+          "russian": "«Почта Сербии» опровергла утверждения, что имущество предприятия распродают тайком, вдали от глаз общественности.",
+          "source": "N1 Srbija, 2026"
         },
         {
-          "serbian_latin": "Tači pokušava da nam ispod žita ponudi da razgovaramo o tome da se obavi razmena severa za jug centralne Srbije.",
-          "russian": "Тачи пытается кулуарно предложить нам переговоры об обмене севера на юг центральной Сербии.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/vesti/politika/2725925/drecun-taci-ispod-zita-beogradu-nudi-razmenu-teritorija.html"
+          "serbian_latin": "Ovo prevođenje „ispod žita“ na latinicu navodi me na čudne pomisli.",
+          "russian": "Такой скрытый перевод на латиницу наводит меня на странные мысли.",
+          "source": "Politika, 2018"
         }
       ],
-      "note": "Буквальный образ русскому ничего не объясняет. В современном употреблении ispod žita обычно означает не просто «секретно», а «за кулисами, неофициально, в обход прозрачной процедуры». Очень характерно для политической и экономической публицистики.",
+      "note": "Обычно ispod žita обозначает действие, которое намеренно скрывают от посторонних: договориться, продать, провести решение. Русские «из-под полы» и «под ковром» близки лишь в некоторых контекстах; универсальнее «исподтишка», «тайком», «за кулисами». Происхождение конкретного образа точно не установлено.",
       "keyword": "ispod žita"
     },
     {
@@ -7288,6 +7366,32 @@
       "keyword": "knedla u grlu"
     },
     {
+      "headword_latin": "Ko drugome jamu kopa, sam u nju upada",
+      "type": "poslovica",
+      "definition_ru": "не рой другому яму — сам в неё попадёшь",
+      "synonyms_sr": [
+        "zlo se vraća",
+        "ko drugome zlo sprema, sebi ga sprema",
+        "svako žanje što poseje"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; upozorenje da se zla namera može vratiti onome ko je smislio",
+      "examples": [
+        {
+          "serbian_latin": "Izreka „Ko drugome jamu kopa sam u nju upada“ često može da se primeni baš u šahu!",
+          "russian": "Пословицу «Не рой другому яму — сам в неё попадёшь» часто можно применить именно к шахматам.",
+          "source": "Danas, 2007"
+        },
+        {
+          "serbian_latin": "Putin Zapadu: Ko drugome jamu kopa, sam u nju upada.",
+          "russian": "Путин Западу: не рой другому яму — сам в неё попадёшь.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Здесь сербский и русский совпадают почти дословно, поэтому главная сложность не в переводе. В сербском обычна как полная форма с sam u nju upada, так и сокращённое начало ko drugome jamu kopa..., когда продолжение очевидно собеседнику.",
+      "keyword": "jamu kopa"
+    },
+    {
       "headword_latin": "Ko nema u glavi, ima u nogama",
       "type": "poslovica",
       "definition_ru": "дурная голова ногам покоя не даёт; забыл подумать — придётся побегать",
@@ -8303,6 +8407,33 @@
       "keyword": "na krv i nož"
     },
     {
+      "headword_latin": "Na kukovo leto",
+      "type": "frazeologizam",
+      "definition_ru": "когда рак на горе свистнет; неизвестно когда; никогда",
+      "synonyms_sr": [
+        "nikad",
+        "ko zna kada",
+        "malo sutra (razg.)",
+        "ad kalendas Graecas (knjiž.)"
+      ],
+      "literal_ru": "",
+      "register": "narodno, razg., iron.; o beskrajno odloženom ili praktično nemogućem događaju",
+      "examples": [
+        {
+          "serbian_latin": "Vučić će obećane izbore raspisati [...] u duhu naše narodne izreke „Na Kukovo leto“.",
+          "russian": "Обещанные выборы он назначит разве что когда рак на горе свистнет.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "A taj dan će [...] doći na kukovo leto, jer su ljudi bez imena – niko i ništa.",
+          "russian": "А этот день наступит неизвестно когда — скорее никогда.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Это сербский аналог русского «когда рак на горе свистнет». В контексте обещаний выражение практически всегда скептическое: говорящий уверен, что обещанного придётся ждать бесконечно. Не путать с буквальным названием лета или с названием альбома Kukovo leto. Происхождение выражения точно не установлено.",
+      "keyword": "kukovo leto"
+    },
+    {
       "headword_latin": "Na mala vrata",
       "type": "frazeologizam",
       "definition_ru": "исподволь; незаметно; обходным путём; без открытого объявления",
@@ -8474,31 +8605,29 @@
     },
     {
       "headword_latin": "Na svoju ruku",
-      "type": "izraz",
-      "definition_ru": "самовольно; по собственной инициативе; на свой страх и риск",
+      "type": "frazeologizam",
+      "definition_ru": "по собственной инициативе; самовольно; на свой страх и риск",
       "synonyms_sr": [
         "samoinicijativno",
-        "bez konsultacije",
         "samovoljno",
-        "bez odobrenja"
+        "bez odobrenja",
+        "bez dogovora"
       ],
       "literal_ru": "на свою руку",
-      "register": "разг.-нейтр.; обычно подразумевается действие без согласования с тем, с кем следовало посоветоваться",
+      "register": "neutralno-razg.; često podrazumeva odsustvo dozvole, konsultacije ili dogovora",
       "examples": [
         {
           "serbian_latin": "Koliko puta ste čuli da ne treba da uzimate lekove „na svoju ruku“.",
           "russian": "Сколько раз вы слышали, что лекарства не следует принимать самостоятельно, без назначения.",
-          "source": "RTS, 2020",
-          "url": "https://www.rts.rs/lat/magazin/Zdravlje/3885185/jednu-za-pritisak-jednu-za-glavu-malo-vitamina-i-jedna-sumeca-ne-preterujte-sa-lekovima-na-svoju-ruku.html"
+          "source": "RTS, 2020"
         },
         {
-          "serbian_latin": "Ne možete na svoju ruku menjati terapiju.",
-          "russian": "Нельзя самостоятельно менять лечение.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4781396/doktorka-iz-hitne-savetuje.html"
+          "serbian_latin": "Oliver Antić otišao je na svoju ruku u posetu bivšem šefu Državne bezbednosti.",
+          "russian": "Оливер Антич отправился к бывшему главе госбезопасности по собственной инициативе.",
+          "source": "Danas, 2013"
         }
       ],
-      "note": "Частый русский перевод «самостоятельно» иногда слишком нейтрален: na svoju ruku нередко содержит оттенок «без разрешения, не посоветовавшись, вопреки установленному порядку». Особенно характерны uzimati lekove na svoju ruku, menjati nešto na svoju ruku, odlučiti na svoju ruku.",
+      "note": "Русское «самостоятельно» иногда слишком нейтрально. Na svoju ruku часто содержит оттенок «не спросив тех, кого следовало спросить»: uzimati lekove na svoju ruku, menjati terapiju na svoju ruku, postupiti na svoju ruku. Поэтому в зависимости от контекста нужны «самовольно», «по собственной инициативе», «на свой страх и риск».",
       "keyword": "na svoju ruku"
     },
     {
@@ -8891,6 +9020,33 @@
       ],
       "note": "Сербскому mrav в русском устойчивом соответствии обычно отвечает не «муравей», а «муха»: «мухи не обидит». Возможны оба порядка слов: ne bi ni mrava zgazio и ni mrava ne bi zgazio. Выражение может употребляться иронически о человеке, чья показная безобидность противоречит его поступкам.",
       "keyword": "mrav"
+    },
+    {
+      "headword_latin": "Ne cvetaju ruže",
+      "type": "frazeologizam",
+      "definition_ru": "дела идут неважно; не всё гладко; жизнь не сахар",
+      "synonyms_sr": [
+        "ne ide dobro",
+        "stvari loše stoje",
+        "ima problema",
+        "ne ide sve po planu"
+      ],
+      "literal_ru": "розы не цветут",
+      "register": "razg.-publicistički, često iron.; tipično nekome negde ne cvetaju ruže",
+      "examples": [
+        {
+          "serbian_latin": "Toj ekipi ni u šampionatu „ne cvetaju ruže“.",
+          "russian": "У этой команды и в чемпионате дела идут неважно.",
+          "source": "RTS, 2010"
+        },
+        {
+          "serbian_latin": "Ženama ne cvetaju ruže.",
+          "russian": "У женщин далеко не всё благополучно.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Отрицательная форма фразеологизировалась: речь не о цветах, а об отсутствии благополучия, успеха или лёгкой жизни. Особенно естественно ni njemu ne cvetaju ruže — «и у него дела не слишком хороши». Положительное cvetaju mu ruže возможно, но значительно менее характерно.",
+      "keyword": "ne cvetaju ruže"
     },
     {
       "headword_latin": "Ne cvetaju ruže nekome",
@@ -13185,6 +13341,33 @@
       "keyword": "prsti"
     },
     {
+      "headword_latin": "Progutati knedlu",
+      "type": "frazeologizam",
+      "definition_ru": "сглотнуть комок; сдержать эмоции; молча проглотить неприятное",
+      "synonyms_sr": [
+        "jedva zadržati emocije",
+        "prećutati",
+        "otrpeti",
+        "pomiriti se s nečim"
+      ],
+      "literal_ru": "проглотить клёцку / комок",
+      "register": "razg., ekspresivno; o jakoj emociji ili prihvatanju nečeg neprijatnog",
+      "examples": [
+        {
+          "serbian_latin": "Tako je to sročio da sam progutao knedlu!",
+          "russian": "Он так это сформулировал, что у меня комок в горле встал.",
+          "source": "Politika, 2011"
+        },
+        {
+          "serbian_latin": "Nekada treba izaći na crtu i progutati knedlu.",
+          "russian": "Иногда надо принять вызов и проглотить неприятную правду.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "У выражения два близких оттенка. При сильной эмоции progutati knedlu — буквально почувствовать «ком в горле» и с трудом сглотнуть; в переносном контексте — подавить гордость, обиду или неудовольствие и принять неприятное. Сербское knedla — германизм, обычное название клёцки.",
+      "keyword": "progutati knedlu"
+    },
+    {
       "headword_latin": "Prosto ko pasulj",
       "type": "frazeologizam",
       "definition_ru": "проще простого; проще пареной репы; элементарно",
@@ -17048,6 +17231,33 @@
       ],
       "note": "Русский и сербский образы практически совпадают. В сербском порядок частей может немного варьироваться: na jedno uho uđe, na drugo izađe; встречается и прошедшее ušlo... izašlo. Обычно подразумевается не плохая память вообще, а отсутствие внимания к конкретно сказанному.",
       "keyword": "na jedno uho uđe na drugo izađe"
+    },
+    {
+      "headword_latin": "Ući na mala vrata",
+      "type": "frazeologizam",
+      "definition_ru": "проникнуть обходным путём; протащить исподтишка; добиться чего-то в обход обычной процедуры",
+      "synonyms_sr": [
+        "zaobići redovan put",
+        "provući se",
+        "postići nešto zaobilazno",
+        "uvesti nešto prikriveno"
+      ],
+      "literal_ru": "войти через маленькую дверь",
+      "register": "razg.-publicistički, obično neodobr.; takođe uvesti / provući nešto na mala vrata",
+      "examples": [
+        {
+          "serbian_latin": "Stoltenberg je svojom posetom „na mala vrata uveo Srbiju u NATO“.",
+          "russian": "Столтенберг своей поездкой якобы попытался протащить вступление Сербии в НАТО обходным путём.",
+          "source": "N1 Srbija, 2023"
+        },
+        {
+          "serbian_latin": "SNS će u vlast ući na mala vrata, preko koncentracione vlade.",
+          "russian": "СНС войдёт во власть обходным путём — через правительство широкой коалиции.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Образ опирается на противопоставление парадного входа и маленькой служебной двери. Politika прямо объясняет: na velika vrata входят открыто и с почётом, а na mala vrata — обходным, неофициальным путём. Поэтому выражение особенно частотно в политике: так говорят о правилах, решениях или людях, которые пытаются «протащить» без прямого одобрения.",
+      "keyword": "mala vrata"
     },
     {
       "headword_latin": "Ući u ritam",
