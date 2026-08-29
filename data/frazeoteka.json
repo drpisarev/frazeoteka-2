@@ -317,6 +317,35 @@
       "keyword": "baciti ljagu"
     },
     {
+      "headword_latin": "Baciti nekoga / nešto na kolena",
+      "type": "frazeologizam",
+      "definition_ru": "поставить на колени; сокрушить; довести до полного упадка",
+      "synonyms_sr": [
+        "slomiti",
+        "poraziti",
+        "potpuno oslabiti",
+        "dovesti do propasti"
+      ],
+      "literal_ru": "бросить на колени",
+      "register": "разг.-публицист., экспр.; о человеке, стране, экономике, организации, сопернике и т. п.",
+      "examples": [
+        {
+          "serbian_latin": "Vlast je svojim koruptivnim poslovima ceo energetski sektor, nekada najjači u srpskoj ekonomiji, „bacila na kolena“.",
+          "russian": "Власть своими коррупционными действиями поставила на колени весь энергетический сектор, когда-то сильнейший в сербской экономике.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/politika/5827858/srce-na-pomolu-ozbiljna-energetska-katastrofa-ssp-vlast-cekala-da-rusi-i-amerikanci-rese-problem.html"
+        },
+        {
+          "serbian_latin": "Prošlo je 18 godina od početka jedne od najbrutalnijih agresija, kada je trebalo baciti Srbiju na kolena.",
+          "russian": "Прошло 18 лет с начала одной из самых жестоких агрессий, целью которой было поставить Сербию на колени.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/page/stories/sr/story/125/drustvo/2677173/obelezavanje-dana-secanja-na-stradale-u-nato-agresiji.html"
+        }
+      ],
+      "note": "Оборот обозначает не просто поражение, а лишение способности сопротивляться или нормально функционировать. Поэтому естественны baciti ekonomiju, sistem, protivnika, državu na kolena. В спорте может означать разгром соперника.",
+      "keyword": "baciti na kolena"
+    },
+    {
       "headword_latin": "baciti oko na nekoga / nešto",
       "type": "глагольный фразеологизм",
       "definition_ru": "Положить глаз на кого-либо или что-либо; заинтересоваться; присмотреть кого-либо или что-либо для себя.",
@@ -343,6 +372,35 @@
       ],
       "note": "Выражение может обозначать как романтический интерес, так и желание приобрести объект, вложить в него деньги или установить над ним контроль. Употребляется конструкция baciti oko na с винительным падежом.",
       "keyword": "oko"
+    },
+    {
+      "headword_latin": "Baciti peglu",
+      "type": "sleng",
+      "definition_ru": "блевануть; вырвать; стошнить",
+      "synonyms_sr": [
+        "povraćati",
+        "ispovraćati se",
+        "rigati (grub.)",
+        "bljuvati (grub.)"
+      ],
+      "literal_ru": "",
+      "register": "сленг, грубовато; особенно часто о рвоте после алкоголя, но причина может быть любой",
+      "examples": [
+        {
+          "serbian_latin": "Veće su šanse da će svi od tog uzvika baciti peglu.",
+          "russian": "Скорее уж от этого возгласа всех стошнит.",
+          "source": "N1, 2021",
+          "url": "https://n1info.rs/kolumne/draza-petrovic/nova-kolumna-draze-petrovica/"
+        },
+        {
+          "serbian_latin": "Bacio sam peglu i nastavio da tučem vinjak.",
+          "russian": "Меня вырвало, а я продолжил пить виньяк.",
+          "source": "Vukajlija, 2007",
+          "url": "https://vukajlija.com/baciti-peglu?class=smallscreen"
+        }
+      ],
+      "note": "Это устойчивый сербский сленг, не имеющий отношения к настоящему утюгу в современном употреблении. Популярная версия связывает происхождение выражения со старыми угольными утюгами и вызывавшими тошноту испарениями, но надёжного лексикографического подтверждения этой этимологии нет. Значение лучше просто запомнить как жаргонное «вырвать».",
+      "keyword": "baciti peglu"
     },
     {
       "headword_latin": "Baciti peškir",
@@ -536,6 +594,35 @@
       ],
       "note": "Glava и rep образно обозначают начало и конец, то есть части, которые делают нечто цельным и понятным. Поэтому bez glave i repa — не просто «беспорядочный», а лишённый внутренней связи, логической структуры и законченности. В сербских диалектных материалах выражение прямо фиксируется как bez reda, zbrkano. Полезна противоположная модель imati glavu i rep — «иметь стройную структуру, быть логичным и цельным»: Ovaj plan konačno ima glavu i rep. Русское «ни складу ни ладу» особенно хорошо подходит к речи, тексту, рассказу или плану.",
       "keyword": "bez glave i repa"
+    },
+    {
+      "headword_latin": "Bez pardona",
+      "type": "izraz",
+      "definition_ru": "без церемоний; без обиняков; без всякой пощады",
+      "synonyms_sr": [
+        "bez ustručavanja",
+        "bez okolišanja",
+        "otvoreno",
+        "bez milosti"
+      ],
+      "literal_ru": "",
+      "register": "разг.-публицист., экспр.; оттенок меняется от «прямо, не церемонясь» до «беспощадно»",
+      "examples": [
+        {
+          "serbian_latin": "„Kuća zmaja“ je bez pardona ubila jednog od glavnih likova.",
+          "russian": "«Дом дракона» без всяких церемоний убил одного из главных персонажей.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kultura/kuca-zmaja-ubila-jednog-od-glavnih-likova/"
+        },
+        {
+          "serbian_latin": "Preka i direktna narav, zauzimanje i izricanje stavova bez „pardona“ stvorili su mu mnoge neprijatelje.",
+          "russian": "Резкий и прямой характер, привычка высказываться без обиняков нажили ему множество врагов.",
+          "source": "Radio Beograd 2 / RTS, 2019",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-2/3596056/riznica.html"
+        }
+      ],
+      "note": "В русском «без пардона» сегодня может звучать несколько старомодно или шутливо, тогда как сербское bez pardona вполне живо в публицистике и разговорной речи. В зависимости от контекста переводится «без церемоний», «без обиняков», «без снисхождения» или «беспощадно».",
+      "keyword": "bez pardona"
     },
     {
       "headword_latin": "Bez po muke",
@@ -797,6 +884,34 @@
       ],
       "note": "",
       "keyword": "vatra"
+    },
+    {
+      "headword_latin": "Biti jednom nogom u grobu",
+      "type": "frazeologizam",
+      "definition_ru": "быть одной ногой в могиле; быть при смерти; быть очень старым или тяжело больным",
+      "synonyms_sr": [
+        "biti na ivici smrti",
+        "biti veoma bolestan",
+        "biti blizu smrti"
+      ],
+      "literal_ru": "быть одной ногой в могиле",
+      "register": "разг., экспр.; может употребляться серьёзно или гиперболически, с чёрным юмором",
+      "examples": [
+        {
+          "serbian_latin": "Znam da sam jednom nogom u grobu, ali sam potpuno u slavljeničkom raspoloženju.",
+          "russian": "Я знаю, что одной ногой в могиле, но при этом настроена праздновать жизнь.",
+          "source": "BBC na srpskom / Danas, 2023",
+          "url": "https://www.danas.rs/bbc-news-serbian/zdravlje-lindi-evandjelisti-zbog-raka-odstranjene-dojke/"
+        },
+        {
+          "serbian_latin": "ARSen se, drhtavih ruku, oronuo, osušene kičme, praktično jednom nogom u grobu, dovukao do moje izbe.",
+          "russian": "Арсен, дрожа руками, обессиленный и практически одной ногой в могиле, добрался до моей хижины.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/yugonostalghia-6/"
+        }
+      ],
+      "note": "Сербский и русский обороты почти полностью совпадают. Однако в разговорной речи он легко становится гиперболой: человек вовсе не умирает, а лишь жалуется на возраст, болезнь или страшную усталость. Поэтому степень буквальности определяется контекстом.",
+      "keyword": "jednom nogom u grobu"
     },
     {
       "headword_latin": "biti kamen spoticanja",
@@ -1357,6 +1472,35 @@
       ],
       "note": "Лицо, которому кто-либо мешает, выражается дательным падежом: biti meni, njima, vlastima trn u oku.",
       "keyword": "trn"
+    },
+    {
+      "headword_latin": "Biti trn u peti",
+      "type": "frazeologizam",
+      "definition_ru": "быть занозой; постоянно мешать; быть серьёзной помехой",
+      "synonyms_sr": [
+        "smetati",
+        "biti stalna prepreka",
+        "zadavati probleme",
+        "biti kamen spoticanja"
+      ],
+      "literal_ru": "быть шипом в пятке",
+      "register": "разг.-публицист., экспр.; о человеке, организации или явлении, которые постоянно мешают и создают проблемы",
+      "examples": [
+        {
+          "serbian_latin": "Inicijator protesta je postao opasnost, trn u peti, trn u oku i noćna mora mnogih.",
+          "russian": "Инициатор протеста стал угрозой, постоянной занозой и настоящим кошмаром для многих.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/protesti-umesto-bojkota/"
+        },
+        {
+          "serbian_latin": "Izgleda da su trn u peti onima koji bi da pare troše po partijskim i korupcionim motivima.",
+          "russian": "Похоже, они стали занозой для тех, кто хотел бы расходовать деньги в партийных и коррупционных интересах.",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/dijalog/redakcijski-komentar/macva-kao-svajcarska/"
+        }
+      ],
+      "note": "По смыслу оборот близок trn u oku, но оттенки могут различаться: trn u peti особенно хорошо передаёт постоянную помеху, которая не даёт спокойно двигаться дальше, тогда как trn u oku чаще подчёркивает сильное раздражение. Граница между ними не жёсткая.",
+      "keyword": "trn u peti"
     },
     {
       "headword_latin": "Biti tvrd orah",
@@ -3362,6 +3506,35 @@
       "keyword": "držati na oku"
     },
     {
+      "headword_latin": "Držati nekoga / nešto pod svojom šapom",
+      "type": "frazeologizam",
+      "definition_ru": "держать под пятой; держать в своих лапах; полностью контролировать",
+      "synonyms_sr": [
+        "držati pod kontrolom",
+        "potčiniti",
+        "kontrolisati",
+        "imati vlast nad nekim"
+      ],
+      "literal_ru": "держать под своей лапой",
+      "register": "разг.-публицист., резко неодобр.; обычно подразумевает чрезмерный или авторитарный контроль",
+      "examples": [
+        {
+          "serbian_latin": "Najčitanije štampane medije i najgledanije televizije vlast drži pod svojom šapom.",
+          "russian": "Самые читаемые газеты и самые популярные телеканалы власть держит под своим контролем.",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/kolumna/zlatko-pakovic/vucic-je-i-nikolic/"
+        },
+        {
+          "serbian_latin": "Naprednjaci drže ekstremnu desnicu „pod svojom šapom“.",
+          "russian": "Напредняки держат крайне правых под своей пятой.",
+          "source": "N1, 2022",
+          "url": "https://n1info.rs/izbori-2022/balunovic-desnica-oduvek-tu-sada-je-dobila-zamah-da-jaca-kroz-institucije/"
+        }
+      ],
+      "note": "Šapa — «лапа», поэтому метафора заведомо неодобрительная: сильный субъект придавил другого и не позволяет ему действовать самостоятельно. В отличие от нейтрального držati pod kontrolom, оборот почти всегда содержит критику самого контроля.",
+      "keyword": "pod svojom šapom"
+    },
+    {
       "headword_latin": "držati nekoga kao malo / kap vode na dlanu",
       "type": "poređenje",
       "definition_ru": "беречь как зеницу ока; окружать заботой; обращаться чрезвычайно бережно",
@@ -4902,6 +5075,35 @@
       ],
       "note": "Сербское imati nos za nešto очень близко русскому «иметь нюх на что-то»: интуитивно распознавать талант, выгодную возможность, хорошую сделку и т. п. Особенно типичны сочетания nos za biznis, nos za talente, nos za gol. Синонимичное imati njuh za nešto ещё ближе русскому образу «нюха».",
       "keyword": "imati nos za nešto"
+    },
+    {
+      "headword_latin": "Imati oči na leđima",
+      "type": "frazeologizam",
+      "definition_ru": "иметь глаза на затылке; всё замечать; постоянно быть начеку",
+      "synonyms_sr": [
+        "biti stalno na oprezu",
+        "sve primećivati",
+        "imati odličan pregled",
+        "paziti na sve strane"
+      ],
+      "literal_ru": "иметь глаза на спине",
+      "register": "разг., экспр.; о повышенной бдительности или способности замечать происходящее вокруг; в спорте — об исключительном видении площадки",
+      "examples": [
+        {
+          "serbian_latin": "Građani od 1991. godine žive u državi u kojoj moraju „imati oči na leđima“.",
+          "russian": "Граждане с 1991 года живут в стране, где им приходится постоянно быть начеку.",
+          "source": "N1, 2021",
+          "url": "https://n1info.rs/vesti/miting-protiv-fasizma-u-novom-sadu/"
+        },
+        {
+          "serbian_latin": "Popularni Vasa ima „oči na leđima“, tako da često svojim dodavanjima ostavlja zatečenom čitavu odbranu.",
+          "russian": "У популярного Васи словно глаза на затылке: своими передачами он часто застаёт всю защиту врасплох.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/vesti/drustvo/aplauzi-za-mega-vizuru/"
+        }
+      ],
+      "note": "У выражения два естественных контекста. В опасной ситуации оно означает «всё время оглядываться, быть настороже», а в игровых видах спорта — видеть поле настолько хорошо, будто глаза есть и сзади. Русское «глаза на затылке» очень близко.",
+      "keyword": "oči na leđima"
     },
     {
       "headword_latin": "Imati para kao blata",
@@ -6835,6 +7037,35 @@
       ],
       "note": "Ćorav posao — дело бесполезное, бессмысленное или заранее не сулящее нормального результата. Академическое исследование приводит литературные tražiš društvo za taj ćoravi posao и Prođi se ćorava posla!, объясняя значение как beskoristan ili uzaludan poduhvat. Форма ćorava posla здесь не именительный, а родительный после mani se / prođi se.",
       "keyword": "mani se ćorava posla"
+    },
+    {
+      "headword_latin": "Mazati oči nekome",
+      "type": "frazeologizam",
+      "definition_ru": "пускать пыль в глаза; морочить голову; создавать ложное впечатление",
+      "synonyms_sr": [
+        "obmanjivati",
+        "zavaravati",
+        "bacati prašinu u oči",
+        "zamajavati"
+      ],
+      "literal_ru": "мазать кому-то глаза",
+      "register": "разг., неодобр.; лицо — дательный падеж: mazati mi / mu / građanima oči",
+      "examples": [
+        {
+          "serbian_latin": "Borbe protiv korupcije nema, već se samo, s vremena na vreme, „hapšenjima narodu mažu oči“.",
+          "russian": "Борьбы с коррупцией нет, а народу время от времени просто пускают пыль в глаза показательными арестами.",
+          "source": "RTS, 2010",
+          "url": "https://www.rts.rs/lat/vesti/politika/739542/zavrsena-rasprava-o-korupciji.html"
+        },
+        {
+          "serbian_latin": "Samo mažu oči nesrećnom narodu, pokušavajući da bace prašinu u oči.",
+          "russian": "Они лишь морочат несчастному народу голову, пытаясь пустить ему пыль в глаза.",
+          "source": "N1, 2018",
+          "url": "https://n1info.rs/vesti/a426806-Trifunovic-Fondacija-postoji-jer-je-drzava-nesposobna/"
+        }
+      ],
+      "note": "Обычно речь не о прямой лжи, а о действиях, которыми создают видимость решения проблемы и отвлекают от сути. Очень близок более образный оборот bacati prašinu u oči. Для русского полезно управление без предлога: mažu nam oči — «нам пускают пыль в глаза».",
+      "keyword": "mazati oči"
     },
     {
       "headword_latin": "Medveđa usluga",
@@ -12355,6 +12586,35 @@
       "keyword": "saviti glavu"
     },
     {
+      "headword_latin": "Saviti kičmu",
+      "type": "frazeologizam",
+      "definition_ru": "согнуть спину; покориться; прогнуться перед давлением",
+      "synonyms_sr": [
+        "pokoriti se",
+        "povinovati se",
+        "pokleknuti",
+        "popustiti pod pritiskom"
+      ],
+      "literal_ru": "согнуть позвоночник",
+      "register": "разг.-публицист., экспр., неодобр.; особенно часто в отрицании: nećemo saviti kičmu",
+      "examples": [
+        {
+          "serbian_latin": "Ni ovoga puta nećemo saviti kičmu.",
+          "russian": "И на этот раз мы не прогнёмся и не подчинимся.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/vesti/drustvo/prekrsajne-kazne-aktivistima-inicijative-za-pozegu-zbog-blokade-puteva/"
+        },
+        {
+          "serbian_latin": "Lakše je saviti kičmu nego uspraviti se i boriti se.",
+          "russian": "Легче прогнуться, чем выпрямиться и бороться.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/kolumna/nenad-kulacin/dobro-dosli-u-2023/"
+        }
+      ],
+      "note": "Kičma в сербском легко становится символом характера и моральной стойкости, поэтому saviti kičmu — не просто «наклониться», а «подчиниться, прогнуться». Особенно естественно противопоставление saviti kičmu — uspraviti se. Близкое pognuti glavu тоже выражает покорность, но образ несколько иной.",
+      "keyword": "saviti kičmu"
+    },
+    {
       "headword_latin": "Seći granu na kojoj sediš",
       "type": "frazeologizam",
       "definition_ru": "рубить сук, на котором сидишь; вредить самому себе; подрывать собственную опору",
@@ -12613,6 +12873,35 @@
       ],
       "note": "Skinuti ljagu и sprati ljagu практически синонимичны, но образ немного различается: sprati представляет позор как грязь, которую надо «смыть», а skinuti — как наложенное на человека пятно или клеймо, которое нужно «снять». Особенно естественно skinuti ljagu sa imena. В пассиве часто говорят skinuta je ljaga sa njegovog imena — «его доброе имя очищено».",
       "keyword": "skinuti ljagu"
+    },
+    {
+      "headword_latin": "Skinuti rukavice",
+      "type": "frazeologizam",
+      "definition_ru": "снять перчатки; перестать сдерживаться; перейти к открытой жёсткой борьбе",
+      "synonyms_sr": [
+        "prestati da se uzdržava",
+        "krenuti otvoreno",
+        "zaoštriti sukob",
+        "boriti se bez zadrške"
+      ],
+      "literal_ru": "снять перчатки",
+      "register": "разг.-публицист., экспр.; о переходе от сдержанного конфликта к открытому и более жёсткому противостоянию",
+      "examples": [
+        {
+          "serbian_latin": "Skinuli ste potpuno rukavice.",
+          "russian": "Вы окончательно отбросили всякую сдержанность.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/popovic-nema-niceg-opasnijeg-od-odbijanja-policije-da-postupi-po-nalogu-tuzioca-kraj-privida-pravne-drzave/"
+        },
+        {
+          "serbian_latin": "U ovom napadu više nema rukavica, nego vlast udara svom silinom na Univerzitet.",
+          "russian": "В этом наступлении перчатки уже сняты: власть обрушивается на университет со всей силой.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/docent-fpn-vlast-na-najgori-nacin-napada-univerzitet-skinuli-rukavice-i-ugrozili-vise-od-milon-ljudi/"
+        }
+      ],
+      "note": "Образ связан с борьбой: пока «перчатки надеты», стороны ещё соблюдают определённые ограничения; skinuti rukavice означает отказаться от них. Русское «снять перчатки» понятно, но по контексту часто естественнее «перестать церемониться», «перейти к открытой борьбе».",
+      "keyword": "skinuti rukavice"
     },
     {
       "headword_latin": "Sklopiti kolica",
