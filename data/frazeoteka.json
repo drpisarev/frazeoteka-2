@@ -345,6 +345,35 @@
       "keyword": "oko"
     },
     {
+      "headword_latin": "Baciti peškir",
+      "type": "frazeologizam",
+      "definition_ru": "выбросить белый флаг; сдаться; прекратить борьбу",
+      "synonyms_sr": [
+        "odustati",
+        "predati se",
+        "dići ruke",
+        "prestati da se bori"
+      ],
+      "literal_ru": "бросить полотенце",
+      "register": "разг.-публицист., экспр.; из бокса, где выброшенное полотенце означает прекращение боя",
+      "examples": [
+        {
+          "serbian_latin": "Kada osetim da je vreme, ja ću sigurno prvi baciti peškir.",
+          "russian": "Когда почувствую, что пришло время, я первым признаю, что пора остановиться.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/sport/ostali-sportovi/1606677/sok-u-parizu-vavrinka-eliminisan.html"
+        },
+        {
+          "serbian_latin": "Mi nikada nećemo „baciti peškir“ i odustati od našeg napadačkog stila.",
+          "russian": "Мы никогда не выбросим белый флаг и не откажемся от своего атакующего стиля.",
+          "source": "Sport Klub, 2018",
+          "url": "https://sportklub.n1info.rs/fudbal/fifa-world-cup/a244680-osorio-brazil-najbolji-na-svetu-ali-napascemo-ih/"
+        }
+      ],
+      "note": "Происхождение прозрачно связано с боксом: секундант может бросить полотенце, прекращая бой. В переносном смысле речь уже не обязательно о спорте — можно baciti peškir в работе, политике, отношениях или долгой борьбе с проблемой. Русское «выбросить белый флаг» функционально ближе буквального «бросить полотенце».",
+      "keyword": "baciti peškir"
+    },
+    {
       "headword_latin": "baciti rukavicu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Бросить вызов; открыто предложить соперничество или противостояние.",
@@ -1861,6 +1890,35 @@
       "keyword": "ruke"
     },
     {
+      "headword_latin": "Dati nekome vetar u leđa",
+      "type": "frazeologizam",
+      "definition_ru": "дать кому-то поддержку; окрылить; придать сил; дать толчок",
+      "synonyms_sr": [
+        "podržati",
+        "ohrabriti",
+        "podstaći",
+        "dati podstrek"
+      ],
+      "literal_ru": "дать кому-то ветер в спину",
+      "register": "нейтр.-публицист., экспр.; модель dati nekome vetar u leđa",
+      "examples": [
+        {
+          "serbian_latin": "Mnogim porodicama pomogli su na druge načine, dajući im na taj način vetar u leđa i šansu da stanu na svoje noge.",
+          "russian": "Многим семьям они помогли и другими способами, тем самым дав им поддержку и шанс встать на ноги.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/tv/rts1/5691173/srbi-za-srbe.html"
+        },
+        {
+          "serbian_latin": "Svi su se podržavali i davali vetar u leđa jedni drugima.",
+          "russian": "Все поддерживали друг друга и придавали друг другу сил.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/rts/pesma-evrovizije/pesma-evrovizije-2016/vesti/2318630/evrosong-je-nezaboravno-iskustvo.html"
+        }
+      ],
+      "note": "В русском «попутный ветер» тоже может быть метафорой, но сербское vetar u leđa намного более устойчиво и повседневно. Можно не только dati его кому-то, но и dobiti vetar u leđa — «получить поддержку, новый импульс».",
+      "keyword": "vetar u leđa"
+    },
+    {
       "headword_latin": "Dati sve od sebe",
       "type": "frazeologizam",
       "definition_ru": "выложиться полностью; сделать всё возможное; приложить максимум усилий",
@@ -2330,6 +2388,35 @@
       "keyword": "kec; desetka"
     },
     {
+      "headword_latin": "Doći nekome glave",
+      "type": "frazeologizam",
+      "definition_ru": "погубить кого-то; доконать; стать причиной гибели или краха",
+      "synonyms_sr": [
+        "upropastiti",
+        "uništiti",
+        "dokrajčiti",
+        "biti koban za nekoga"
+      ],
+      "literal_ru": "добраться до чьей-то головы",
+      "register": "разг.-публицист., экспр.; лицо в дательном падеже: to će mu doći glave",
+      "examples": [
+        {
+          "serbian_latin": "Neobrazovanje koje će narodu doći glave.",
+          "russian": "Необразованность, которая в конце концов погубит народ.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/neobrazovanje-koje-ce-narodu-doci-glave/"
+        },
+        {
+          "serbian_latin": "I to će vam kad-tad „doći glave“.",
+          "russian": "И это рано или поздно вас погубит.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/uzor-i-uzorak"
+        }
+      ],
+      "note": "Выражение может обозначать как буквальную гибель, так и полный крах карьеры, бизнеса, системы или положения человека. Для русского особенно полезна безличная модель to će mi / ti / mu doći glave — «это меня / тебя / его погубит». Не путать с raditi nekome o glavi — «замышлять против кого-то, желать устранить».",
+      "keyword": "doći glave"
+    },
+    {
       "headword_latin": "Doći nekome iz dupeta u glavu",
       "type": "frazeologizam",
       "definition_ru": "наконец дойти до кого-либо; наконец допереть; наконец осознать",
@@ -2391,6 +2478,35 @@
       ],
       "note": "Важен оттенок запоздалого прозрения: человек долго не понимал очевидного, несмотря на опыт, предупреждения или последствия, и только теперь «дошло». Поэтому нейтральное shvatiti слабее. Русский перевод обычно лучше делать без буквальной физиологии — «наконец дошло», «наконец-то мозги включились»; если нужно сохранить грубый образ — «наконец через ж***у дошло до головы».",
       "keyword": "iz guzice u glavu"
+    },
+    {
+      "headword_latin": "Doći sebi",
+      "type": "frazeologizam",
+      "definition_ru": "прийти в себя; оправиться; прийти в чувство",
+      "synonyms_sr": [
+        "oporaviti se",
+        "pribrati se",
+        "osvestiti se",
+        "smiriti se"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; охватывает как возвращение сознания, так и восстановление после шока, потрясения или сильных эмоций",
+      "examples": [
+        {
+          "serbian_latin": "Nakon što je Nobile došao sebi, okupio je preživele članove posade.",
+          "russian": "Придя в сознание, Нобиле собрал оставшихся в живых членов экипажа.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/drustvo/pad-dirizabla-generala-nobilea-na-severnom-polu/"
+        },
+        {
+          "serbian_latin": "I dalje ne mogu da dođem sebi, jer je neko rekao da ona kao majka ne žali dovoljno svoje ćerke.",
+          "russian": "Я до сих пор не могу прийти в себя из-за того, что кто-то сказал, будто она как мать недостаточно скорбит по дочерям.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/politika/5620402/vucevic-firici-poseta-badnji-dan.html"
+        }
+      ],
+      "note": "Сербское doći sebi очень близко русскому «прийти в себя», включая оба основных значения: очнуться физически и эмоционально оправиться. Особенно часта конструкция ne mogu da dođem sebi od šoka / čuda / tuge. Не путать с doći pameti — «образумиться».",
+      "keyword": "doći sebi"
     },
     {
       "headword_latin": "Dok jednom ne smrkne, drugom ne svane",
@@ -2567,6 +2683,34 @@
       ],
       "note": "Это ближе не к общему «когда рак на горе свистнет», а к моменту расплаты или вынужденного возвращения. Фразеологические описания дают смысл: человек уклонялся от обязанности или встречи, но наконец вынужден столкнуться с людьми, фактами или последствиями. Русское «придёт зима — снега попросишь» хорошо передаёт один частный сценарий: «ещё сам ко мне придёшь».",
       "keyword": "došla maca na vratanca"
+    },
+    {
+      "headword_latin": "Držati fige",
+      "type": "frazeologizam",
+      "definition_ru": "держать кулачки; желать удачи; надеяться на благополучный исход",
+      "synonyms_sr": [
+        "želeti sreću",
+        "nadati se uspehu",
+        "navijati za nekoga"
+      ],
+      "literal_ru": "",
+      "register": "разг., доброжел.; типичная реплика Držim ti fige! / Držimo vam fige!",
+      "examples": [
+        {
+          "serbian_latin": "Držim im fige. Nadam se da će posao koji rade u Rusiji biti uspešan.",
+          "russian": "Держу за них кулачки. Надеюсь, что их работа в России увенчается успехом.",
+          "source": "N1, 2020",
+          "url": "https://n1info.rs/vesti/a630138-Intervju-sa-Ulf-Nehrbass-Luksemburg/"
+        },
+        {
+          "serbian_latin": "Tako da se nadam, zaista, evo držim fige čvrsto, da od ponedeljka svi treba da poveruju nastavnicima.",
+          "russian": "Так что я действительно надеюсь и крепко держу кулачки, чтобы с понедельника все поверили учителям.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/lokalni-funkcioneri-targetiraju-profesorku-iz-kraljeva-ona-porucuje-vise-sam-se-brinula-da-u-govoru-ne-ispadnem-caci/"
+        }
+      ],
+      "note": "Русский естественный эквивалент — «держать кулачки» или «держать пальцы скрещёнными», а не буквальное «держать фиги». В сербском fige в этом обороте связаны с жестом, которому приписывается способность приносить удачу или защищать от неудачи. Самая полезная разговорная модель — Držim ti fige!.",
+      "keyword": "držati fige"
     },
     {
       "headword_latin": "držati jezik za zubima",
@@ -5160,6 +5304,34 @@
       "keyword": "mačka; džak"
     },
     {
+      "headword_latin": "Kupiti mačku u džaku",
+      "type": "frazeologizam",
+      "definition_ru": "купить кота в мешке; купить неизвестно что; приобрести что-то вслепую",
+      "synonyms_sr": [
+        "kupiti naslepo",
+        "kupiti nešto neprovereno",
+        "rizikovati pri kupovini"
+      ],
+      "literal_ru": "купить кошку в мешке",
+      "register": "разг., экспр.; чаще всего о покупке без возможности проверить качество, происхождение или реальное содержание предложения",
+      "examples": [
+        {
+          "serbian_latin": "Ali, kao što vas prevare za stan ili automobil, možete ponekad kupiti i mačku u džaku.",
+          "russian": "Но так же, как вас могут обмануть с квартирой или автомобилем, иногда можно купить и кота в мешке.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3463398/grobna-mesta-skuplja-od-stana.html"
+        },
+        {
+          "serbian_latin": "Ako sve ovo ne znate o trgovcu – kupujete mačku u džaku.",
+          "russian": "Если вы всего этого не знаете о продавце, вы покупаете кота в мешке.",
+          "source": "BBC na srpskom / Danas, 2019",
+          "url": "https://www.danas.rs/bbc-news-serbian/nove-mere-protiv-nelegalne-trgovine-kako-da-na-internetu-ne-kupite-macku-u-dzaku/"
+        }
+      ],
+      "note": "Сербский и русский фразеологизмы практически совпадают. Оборот особенно част в разговорах о недвижимости, подержанных автомобилях и интернет-покупках. Возможна и именная конструкция to je mačka u džaku — «это кот в мешке».",
+      "keyword": "mačka u džaku"
+    },
+    {
       "headword_latin": "lepiti se kao muve na govno",
       "type": "poređenje",
       "definition_ru": "липнуть как мухи к д*рьму; толпиться вокруг кого-либо из-за сильного влечения или корыстного интереса",
@@ -5627,6 +5799,35 @@
       ],
       "note": "Несмотря на буквальный образ «конца концов», это прежде всего дискурсивная формула: говорящий подводит итог или приводит последний, решающий довод. По функции очень близко русскому «в конце концов», но в некоторых контекстах естественнее переводить «в конечном счёте» или «в конце-то концов».",
       "keyword": "na kraju krajeva"
+    },
+    {
+      "headword_latin": "Na prvu loptu",
+      "type": "frazeologizam",
+      "definition_ru": "с ходу; с первого взгляда; по первой реакции",
+      "synonyms_sr": [
+        "odmah",
+        "na prvi pogled",
+        "bez mnogo razmišljanja",
+        "iz prve"
+      ],
+      "literal_ru": "на первый мяч",
+      "register": "разг.-нейтр.; очень продуктивно в конструкциях reagovati na prvu loptu, delovati na prvu loptu, nije na prvu loptu",
+      "examples": [
+        {
+          "serbian_latin": "Zato je, kaže, najvažnije biti oprezan i ne reagovati „na prvu loptu“.",
+          "russian": "Поэтому, говорит он, важнее всего быть осторожным и не реагировать сгоряча, по первой реакции.",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/vesti/drustvo/6025481/milan-antonijevic-pozari-ne-smeju-biti-povod-za-sirenje-dezinformacija-i-podela.html"
+        },
+        {
+          "serbian_latin": "O pesmi Bedem Hristina kaže da nije „na prvu loptu“ i da je potrebno vreme da se razume o čemu ona govori.",
+          "russian": "Христина говорит, что песня Bedem не воспринимается сразу и нужно время, чтобы понять, о чём она.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/magazin/muzika/5383284/hristina-vukovic-pze-bedem-album-spot.html"
+        }
+      ],
+      "note": "Выражение пришло из спортивного образа игры с мячом, но давно вышло далеко за пределы спорта. Reagovati na prvu loptu — «отреагировать сразу, не обдумав», а pesma nije na prvu loptu — «песня не раскрывается с первого прослушивания». Единого русского перевода поэтому нет.",
+      "keyword": "na prvu loptu"
     },
     {
       "headword_latin": "Na ravnoj nozi",
@@ -7924,6 +8125,35 @@
       "keyword": "prašina"
     },
     {
+      "headword_latin": "Podmetati klipove nekome / pod točkove",
+      "type": "frazeologizam",
+      "definition_ru": "вставлять палки в колёса; мешать; создавать препятствия",
+      "synonyms_sr": [
+        "ometati",
+        "sabotirati",
+        "praviti prepreke",
+        "otežavati nekome posao"
+      ],
+      "literal_ru": "подкладывать чурки / колодки под колёса",
+      "register": "разг.-публицист., неодобр.; формы podmetati nekome klipove и podmetati klipove pod točkove обе употребительны",
+      "examples": [
+        {
+          "serbian_latin": "I ko će nam i dalje podmetati klipove pod točkove našeg zahuktalog razvoja.",
+          "russian": "И кто же дальше будет вставлять палки в колёса нашего набравшего ход развития.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/kolumna/teofil-pancic/diverzantska-posla/"
+        },
+        {
+          "serbian_latin": "Zato ne treba podmetati klipove jedni drugima, barem ne u javnosti.",
+          "russian": "Поэтому не надо вставлять друг другу палки в колёса, по крайней мере публично.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/kolumna/nenad-kulacin/uspeh-je-samo-pobeda/"
+        }
+      ],
+      "note": "Для русского особенно коварно слово klip: здесь это не «клип» в современном русском смысле, а предмет, которым можно заклинить движение колеса. Поэтому естественный русский эквивалент — именно «вставлять палки в колёса». Полная образная форма podmetati klipove pod točkove особенно наглядна.",
+      "keyword": "podmetati klipove"
+    },
+    {
       "headword_latin": "Podmetnuti kukavičje jaje",
       "type": "frazeologizam",
       "definition_ru": "подсунуть кому-то скрытую проблему; навязать чужую идею как его собственную; устроить подставу",
@@ -8858,6 +9088,35 @@
       ],
       "note": "Сравнение связано со старым представлением о кучерах как о мастерах громкой и изобретательной брани. В русском функциональном переводе естественнее «ругаться как сапожник».",
       "keyword": "kočijaš"
+    },
+    {
+      "headword_latin": "Pucati sebi u nogu",
+      "type": "frazeologizam",
+      "definition_ru": "стрелять себе в ногу; вредить самому себе; действовать против собственных интересов",
+      "synonyms_sr": [
+        "raditi protiv sebe",
+        "naneti sebi štetu",
+        "sam sebi odmagati",
+        "seći granu na kojoj sediš"
+      ],
+      "literal_ru": "стрелять самому себе в ногу",
+      "register": "разг.-публицист., экспр.; часто о решении с негативными последствиями для самого инициатора",
+      "examples": [
+        {
+          "serbian_latin": "Pucamo sami sebi u nogu, umesto da napravimo takav pravilnik i uslove da još neke kompanije dođu.",
+          "russian": "Мы сами стреляем себе в ногу, вместо того чтобы создать такие правила и условия, чтобы пришли и другие компании.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/kome-smeta-viz-er-u-beogradu-i-zasto-je-vazan/"
+        },
+        {
+          "serbian_latin": "Evropa „puca sebi u nogu“ ukoliko odluči da zaustavi uvoz ruskog gasa.",
+          "russian": "Европа «стреляет себе в ногу», если решает остановить импорт российского газа.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/vesti/ratu-u-ukrajini/5445940/rat-u-ukrjaini-818-dan-22-maj-2024.html"
+        }
+      ],
+      "note": "Образ понятен русскому, но в современном сербском оборот очень активно употребляется именно в публицистике. Нередко используется возвратное усиление sam sebi: sam sebi puca u nogu. Близкая пословичная модель — seći granu na kojoj sediš.",
+      "keyword": "pucati sebi u nogu"
     },
     {
       "headword_latin": "pući film nekome",
@@ -11171,6 +11430,34 @@
       ],
       "note": "Образ сильнее нейтрального tražiti greške: недостаток настолько ничтожен, что его приходится буквально «искать в яйце». Часто употребляется условно: ako baš tražimo dlaku u jajetu — «если уж совсем придираться». Русскому близки «искать соринку», «придираться к каждой мелочи».",
       "keyword": "dlaka; jaje"
+    },
+    {
+      "headword_latin": "Tražiti iglu u plastu sena",
+      "type": "frazeologizam",
+      "definition_ru": "искать иголку в стоге сена; пытаться найти почти ненахodимое",
+      "synonyms_sr": [
+        "tražiti gotovo nemoguće",
+        "teško pronaći",
+        "uzaludno tragati"
+      ],
+      "literal_ru": "искать иголку в стоге сена",
+      "register": "разг.-нейтр., экспр.; о поиске человека, предмета, информации или решения среди огромного количества вариантов",
+      "examples": [
+        {
+          "serbian_latin": "Tražite iglu u plastu sena. Sa mašinskim učenjem, ubrzavamo proces i pametnije tražimo.",
+          "russian": "Вы ищете иголку в стоге сена. С помощью машинного обучения мы ускоряем процесс и ищем более разумно.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5155485/.html?print=true"
+        },
+        {
+          "serbian_latin": "Spasioci ističu da je potraga za preživelima izgledala kao traganje za iglom u plastu sena.",
+          "russian": "Спасатели подчёркивают, что поиск выживших был похож на поиск иголки в стоге сена.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5127211/.html?print=true"
+        }
+      ],
+      "note": "Здесь соответствие русскому полное, но полезно запомнить слово plast — «стог», а не русское «пласт». Употребляются обе модели: tražiti iglu u plastu sena и biti kao traženje igle u plastu sena.",
+      "keyword": "igla u plastu sena"
     },
     {
       "headword_latin": "Trčati pred rudu",
