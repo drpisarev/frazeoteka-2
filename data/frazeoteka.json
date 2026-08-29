@@ -3207,6 +3207,33 @@
       "keyword": "doći đavo po svoje"
     },
     {
+      "headword_latin": "Doći glave nekome",
+      "type": "frazeologizam",
+      "definition_ru": "погубить кого-то; доконать; стать причиной краха или гибели",
+      "synonyms_sr": [
+        "upropastiti",
+        "uništiti",
+        "dokrajčiti",
+        "koštati nekoga glave"
+      ],
+      "literal_ru": "добраться кому-то до головы",
+      "register": "ekspresivno; nekome je u dativu: to će mu doći glave",
+      "examples": [
+        {
+          "serbian_latin": "Neobrazovanje koje će narodu doći glave.",
+          "russian": "Необразованность, которая в конце концов погубит народ.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Da li će rat u Ukrajini doći glave Nacionalnom stadionu?",
+          "russian": "Не поставит ли война на Украине крест на проекте Национального стадиона?",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Выражение имеет два уровня: буквально «стать причиной смерти» и, значительно чаще в публицистике, «погубить, разрушить, привести к краху». Для русского особенно важно управление: сербское doći nekome glave, а не конструкция с винительным. Подлежащим нередко выступает причина: nemar mu je došao glave — «небрежность его погубила».",
+      "keyword": "doći glave"
+    },
+    {
       "headword_latin": "Doći kao kec na desetku",
       "type": "glagolski frazem",
       "definition_ru": "Прийтись как нельзя кстати; появиться именно тогда, когда это особенно нужно; удачно разрешить ситуацию.",
@@ -5342,28 +5369,28 @@
     {
       "headword_latin": "Imati i ovce i novce",
       "type": "frazeologizam",
-      "definition_ru": "Получить всё сразу; совместить две выгоды; иметь и то и другое; усидеть на двух стульях.",
+      "definition_ru": "хотеть получить всё сразу; иметь и то и другое в свою пользу; и рыбку съесть, и…",
       "synonyms_sr": [
-        "imati i jare i pare",
-        "dobiti i jedno i drugo",
-        "hteti sve"
+        "hteti sve",
+        "izvući korist na obe strane",
+        "ne odreći se ničega"
       ],
-      "literal_ru": "Иметь и овец, и деньги.",
-      "register": "razgovorno; poslovično",
+      "literal_ru": "иметь и овец, и деньги",
+      "register": "razg., poslovično; često hteti i ovce i novce, ne može i ovce i novce",
       "examples": [
         {
-          "sr": "Kako imati i ovce i novce?",
-          "ru": "Как получить и овец, и деньги?",
-          "source": "Poljoprivreda.info, 2016"
+          "serbian_latin": "Po sistemu da vladajući političari dobiju „i ovce i novce“, što deluje logički nemoguće.",
+          "russian": "По принципу, чтобы власть получила и то и другое сразу, хотя логически это невозможно.",
+          "source": "Vreme, 2013"
         },
         {
-          "sr": "Da, hoćemo i ovce i novce.",
-          "ru": "Да, мы хотим получить и то и другое.",
-          "source": "CPE, 2014"
+          "serbian_latin": "Najbolje je kad broje i ovce i novce.",
+          "russian": "Лучше всего, конечно, когда остаются и овцы, и деньги.",
+          "source": "RTS, 2021"
         }
       ],
-      "note": "Выражение нередко обыгрывается буквально в материалах об овцеводстве. В сербской разговорной речи более традиционен вариант imati i jare i pare.",
-      "keyword": "ovca; novac"
+      "note": "В основе — намеренно парадоксальное желание сохранить имущество (ovce) и одновременно получить деньги за него (novce). Поэтому типичный контекст — две выгоды, которые нормально исключают друг друга. Русское просторечное продолжение «и рыбку съесть…» функционально близко, но в словарном переводе лучше «хотеть и того и другого сразу». Рифма ovce — novce — важная часть сербской формулы.",
+      "keyword": "ovce i novce"
     },
     {
       "headword_latin": "Imati keca u rukavu",
@@ -7661,29 +7688,28 @@
     {
       "headword_latin": "Mešati babe i žabe",
       "type": "frazeologizam",
-      "definition_ru": "смешивать несопоставимые вещи; валить всё в одну кучу; смешивать божий дар с яичницей",
+      "definition_ru": "смешивать несопоставимые вещи; путать совершенно разные понятия; смешивать тёплое с мягким",
       "synonyms_sr": [
-        "mešati neuporedive stvari",
         "brkati pojmove",
-        "porediti neuporedivo",
+        "mešati neuporedive stvari",
         "trpati sve u isti koš"
       ],
       "literal_ru": "смешивать бабушек и лягушек",
-      "register": "разг., экспр., неодобр.; часто в отрицательном совете: ne treba mešati babe i žabe",
+      "register": "razg., šalj. ili neodobr.; takođe brkati babe i žabe",
       "examples": [
         {
-          "serbian_latin": "Iako cenim tuđa mišljenja i verujem u slobodu izražavanja, valja ipak ne mešati babe i žabe.",
-          "russian": "Хотя я уважаю чужие мнения и верю в свободу выражения, всё же не стоит смешивать совершенно несопоставимые вещи.",
-          "source": "Danas, 2011"
+          "serbian_latin": "Ne bi trebalo „mešati babe i žabe“.",
+          "russian": "Не стоит смешивать совершенно разные вещи.",
+          "source": "Danas, 2007"
         },
         {
-          "serbian_latin": "Držaću se onoga što me je učiteljica naučila još u prvom razredu da ne treba mešati babe i žabe.",
-          "russian": "Буду придерживаться того, чему меня ещё в первом классе научила учительница: не надо смешивать божий дар с яичницей.",
-          "source": "Danas, 2009"
+          "serbian_latin": "Ljudi su navikli da kažu tako kako kažu, recimo „mešati babe i žabe“.",
+          "russian": "Люди привыкли говорить именно так, например «смешивать бабушек и лягушек».",
+          "source": "RTS, 2019"
         }
       ],
-      "note": "Это один из особенно колоритных сербских фразеологизмов: рифма babe — žabe важнее буквальной логики образа. Русские эквиваленты — «смешивать тёплое с мягким», «смешивать божий дар с яичницей». Дословный перевод на иностранный язык легко производит комический эффект. RTS прямо приводит выражение как типичный пример сербской фразеологии.",
-      "keyword": "mešati babe i žabe"
+      "note": "Речь не просто о путанице, а о соединении в одном рассуждении вещей, которые нельзя корректно сопоставлять. Русское «смешивать тёплое с мягким» особенно хорошо передаёт этот оттенок. Форма mešati — стандартная экавская; miješati для нашей фразеотеки не нужна. Оборот настолько узнаваем, что его буквальный перевод mixing grandmothers and frogs стал отдельным источником языковых шуток о переводе сербских идиом.",
+      "keyword": "babe i žabe"
     },
     {
       "headword_latin": "Mi o vuku, a vuk na vrata",
@@ -10222,6 +10248,33 @@
       "keyword": "omaklo mi se"
     },
     {
+      "headword_latin": "Oprati obraz",
+      "type": "frazeologizam",
+      "definition_ru": "смыть позор; восстановить доброе имя; реабилитироваться",
+      "synonyms_sr": [
+        "vratiti čast",
+        "skinuti sramotu",
+        "iskupiti se",
+        "sprati ljagu"
+      ],
+      "literal_ru": "умыть / отмыть лицо",
+      "register": "ekspresivno; obraz ovde znači čast, dobro ime i moralnu reputaciju",
+      "examples": [
+        {
+          "serbian_latin": "Dok su se pravile kombinacije o treneru koji će oprati nacionalni obraz posle sramnog poraza od Albanije...",
+          "russian": "Пока решали, какой тренер сможет восстановить национальную честь после позорного поражения от Албании…",
+          "source": "Politika, 2025"
+        },
+        {
+          "serbian_latin": "Kad bismo bili te sreće da parama možemo obraz oprati. Ali, ne možemo.",
+          "russian": "Если бы ещё можно было отмыть свою честь деньгами. Но нельзя.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Obraz в традиционной сербской фразеологии тесно связан с честью и общественной репутацией: отсюда čist obraz, izgubiti obraz, ukaljati obraz. Поэтому буквальное русское «умыть лицо» здесь совершенно не работает. Oprati obraz — исправить прежний позор поступком, который возвращает честь; близкое sprati ljagu больше акцентирует снятие пятна или обвинения.",
+      "keyword": "oprati obraz"
+    },
+    {
       "headword_latin": "osećati se kao riba na suvom",
       "type": "фразеологическое сравнение",
       "definition_ru": "Чувствовать себя не в своей тарелке; оказаться в непривычной среде и совершенно не понимать, как действовать.",
@@ -10249,6 +10302,32 @@
       ],
       "note": "Сербское выражение соответствует русским «как рыба, выброшенная на берег» и «не в своей тарелке». Второй пример построен иронически.",
       "keyword": "riba; suvo"
+    },
+    {
+      "headword_latin": "Osetiti na svojoj koži",
+      "type": "frazeologizam",
+      "definition_ru": "испытать на себе; почувствовать на собственной шкуре; убедиться на собственном опыте",
+      "synonyms_sr": [
+        "iskusiti na svojoj koži",
+        "lično iskusiti",
+        "osetiti posledice"
+      ],
+      "literal_ru": "почувствовать на своей коже",
+      "register": "neutralno do ekspresivno; najčešće o neprijatnom iskustvu ili posledicama",
+      "examples": [
+        {
+          "serbian_latin": "„Ja sam zlo osetio na svojoj koži“, rekao je Kiš.",
+          "russian": "«Я испытал зло на собственной шкуре», — говорил Киш.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "To nije nikakvo pravilo, što je Denver osetio na svojoj koži.",
+          "russian": "Это вовсе не правило, в чём «Денвер» уже убедился на собственном опыте.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Сербское выражение не обязательно такое грубое, как русское «на собственной шкуре»: оно нормально употребляется и в нейтральной журналистской речи. Поэтому перевод зависит от контекста: «испытать на себе», «убедиться на собственном опыте», а при сильном негативном опыте — «почувствовать на собственной шкуре». Стандартная экавская форма — osetiti, не osjetiti.",
+      "keyword": "na svojoj koži"
     },
     {
       "headword_latin": "ostati / ostaviti nekoga na cedilu",
@@ -12174,6 +12253,33 @@
       "keyword": "komarac; magarac"
     },
     {
+      "headword_latin": "Praviti od muve slona",
+      "type": "frazeologizam",
+      "definition_ru": "делать из мухи слона; сильно преувеличивать",
+      "synonyms_sr": [
+        "preuveličavati",
+        "dramatizovati",
+        "praviti veliku stvar ni od čega",
+        "praviti od komarca magarca"
+      ],
+      "literal_ru": "делать из мухи слона",
+      "register": "razg., neodobr. ili šalj.; takođe od muve praviti slona",
+      "examples": [
+        {
+          "serbian_latin": "Narod od muve napravi slona, krdo slonova.",
+          "russian": "Народ из мухи сделает слона, да ещё целое стадо слонов.",
+          "source": "BBC na srpskom / Danas, 2019"
+        },
+        {
+          "serbian_latin": "Iskoristili su to da naprave od muve slona i prekinu meč.",
+          "russian": "Они воспользовались этим, чтобы сделать из мухи слона и прервать матч.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Здесь русский и сербский образы совпадают буквально. В сербском одновременно живёт более специфическая рифмованная модель praviti od komarca magarca, уже имеющаяся в нашей базе; значения практически одинаковы. Muva — сербская форма; хорватское muha в основной статье не используется.",
+      "keyword": "od muve slona"
+    },
+    {
       "headword_latin": "Praviti račun bez krčmara",
       "type": "frazeologizam",
       "definition_ru": "делить шкуру неубитого медведя; строить расчёты без того, от кого всё зависит; рассчитывать на ещё не решённое",
@@ -12838,33 +12944,31 @@
       "keyword": "pucati sebi u nogu"
     },
     {
-      "headword_latin": "pući film nekome",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Потерять терпение; выйти из себя; сорваться.",
+      "headword_latin": "Pući film nekome",
+      "type": "frazeologizam",
+      "definition_ru": "потерять терпение; не выдержать; сорваться; терпение лопнуло",
       "synonyms_sr": [
-        "izgubiti živce",
         "prekipeti nekome",
         "izgubiti strpljenje",
-        "pasti mrak na oči"
+        "pući",
+        "izgubiti živce"
       ],
-      "literal_ru": "У кого-либо порвалась киноплёнка.",
-      "register": "Разговорное, экспрессивное.",
+      "literal_ru": "у кого-то порвалась плёнка",
+      "register": "razg., ekspresivno; tipično pukao mi / ti / mu je film",
       "examples": [
         {
-          "serbian_latin": "Pukao mu film: Posle haosa Luke i Dače, Virijevićev otac se obratio Vujoviću — sledi pakao.",
-          "russian": "У него лопнуло терпение: после скандала между Лукой и Дачей отец Вириевича обратился к Вуйовичу.",
-          "source": "Srbija Danas, 2026",
-          "url": "https://www.sd.rs/vip/zadruga/pukao-mu-film-posle-haosa-luke-i-dace-virijevicev-otac-se-obratio-vujovicu-sledi-pakao-2026-01-15"
+          "serbian_latin": "Pukao mi je film. Ako zbog ovoga dobijem otkaz, onda neka ga dobijem.",
+          "russian": "Моё терпение лопнуло. Если меня за это уволят — пусть увольняют.",
+          "source": "Nova.rs, 2020"
         },
         {
-          "serbian_latin": "Pukao mu film: Viktor iz petnih žila zarežao na Minu, više ne želi očima da je vidi!",
-          "russian": "У Виктора лопнуло терпение: он накричал на Мину и больше не желает её видеть.",
-          "source": "Pink, 2026",
-          "url": "https://pink.rs/zadruga/784234/pukao-mu-film-viktor-iz-petnih-zila-zarezao-na-minu-vise-ne-zeli-ocima-da-je-vidi-video"
+          "serbian_latin": "Pukao joj je film. Dosta je bilo kompromisa i trpljenja.",
+          "russian": "Она больше не выдержала. Хватит компромиссов и терпения.",
+          "source": "City Magazine / Danas, 2022"
         }
       ],
-      "note": "Лицо, потерявшее терпение, обозначается дательным местоимением: pukao mi je film, pukao mu je film. В разговорной речи вспомогательный глагол часто опускается.",
-      "keyword": "film"
+      "note": "Обычно речь о моменте после накопившегося раздражения: человек долго терпел, а затем произошла последняя капля. Это не обязательно означает вспышку ярости — следствием может быть увольнение, разрыв отношений или просто решительный разговор. Для русскоязычного полезнее всего запомнить целиком pukao mi je film — «моё терпение лопнуло / я больше не выдержал».",
+      "keyword": "pukao mi je film"
     },
     {
       "headword_latin": "pući tikva / pukla je tikva",
@@ -14133,6 +14237,33 @@
       "keyword": "soliti pamet"
     },
     {
+      "headword_latin": "Soliti pamet nekome",
+      "type": "frazeologizam",
+      "definition_ru": "учить кого-то жизни; поучать; навязывать свои умные советы",
+      "synonyms_sr": [
+        "pametovati",
+        "držati lekcije",
+        "prodavati pamet",
+        "prosipati pamet"
+      ],
+      "literal_ru": "солить кому-то ум",
+      "register": "razg., neodobr.; nekome je u dativu: nemoj mi soliti pamet",
+      "examples": [
+        {
+          "serbian_latin": "Niko nema pravo da soli pamet predstavnicima Srba.",
+          "russian": "Никто не вправе поучать представителей сербов.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Nemojte nam „soliti pamet“!",
+          "russian": "Не учите нас жизни!",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Это не нейтральное «давать совет»: говорящий считает чужие советы назойливыми, самоуверенными или непрошеными. Особенно естественна реплика Nemoj ti meni da soliš pamet! — «Ты меня жизни не учи!» Близкие prodavati pamet и prosipati pamet сильнее подчёркивают демонстративное умничанье. Форма подтверждается и фразеографически как сербская.",
+      "keyword": "soliti pamet"
+    },
+    {
       "headword_latin": "Solomonsko rešenje",
       "type": "frazeologizam",
       "definition_ru": "соломоново решение; мудрый компромисс; хитроумный выход из трудной ситуации",
@@ -14158,6 +14289,32 @@
       ],
       "note": "Образ отсылает к библейскому суду царя Solomona, который предложил разделить ребёнка между двумя женщинами, чтобы выяснить настоящую мать. Поэтому исходное значение — мудрое решение сложной дилеммы. Однако в современной публицистике solomonsko rešenje часто употребляется и слегка иронически: «нашли ловкий компромисс, позволяющий всем сохранить лицо».",
       "keyword": "solomonsko rešenje"
+    },
+    {
+      "headword_latin": "Spajati kraj s krajem",
+      "type": "frazeologizam",
+      "definition_ru": "сводить концы с концами; едва хватать на жизнь",
+      "synonyms_sr": [
+        "sastavljati kraj s krajem",
+        "krpiti kraj s krajem",
+        "jedva preživljavati"
+      ],
+      "literal_ru": "соединять конец с концом",
+      "register": "neutralno do razg.; vrlo često jedva spajati kraj s krajem",
+      "examples": [
+        {
+          "serbian_latin": "U Srbiji broj onih koji jedva spaja kraj s krajem nešto je manji nego prethodnih godina – oko 450.000 ljudi.",
+          "russian": "В Сербии число людей, которые едва сводят концы с концами, несколько сократилось — примерно до 450 тысяч.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ogromna većina stanovništva jedva spaja kraj s krajem.",
+          "russian": "Огромное большинство населения едва сводит концы с концами.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Русское «сводить концы с концами» почти идеально совпадает. Обычно подразумеваются именно финансовые трудности: дохода хватает лишь на основные расходы. В сербском живы также варианты sastavljati kraj s krajem и krpiti kraj s krajem; последний ещё сильнее создаёт образ постоянного латания бюджета. Фразеографические источники фиксируют все три формы.",
+      "keyword": "kraj s krajem"
     },
     {
       "headword_latin": "spaliti mostove",
@@ -17000,29 +17157,28 @@
     {
       "headword_latin": "Uzimati / uzeti zdravo za gotovo",
       "type": "frazeologizam",
-      "definition_ru": "принимать как само собой разумеющееся; считать чем-то гарантированным; принимать без проверки",
+      "definition_ru": "принимать как само собой разумеющееся; принимать без проверки; считать гарантированным",
       "synonyms_sr": [
         "podrazumevati",
         "prihvatati bez preispitivanja",
-        "smatrati nečim sigurnim"
+        "smatrati sigurnim",
+        "ne dovoditi u pitanje"
       ],
-      "literal_ru": "",
-      "register": "общеупотребительное; объект обычно в винительном падеже: uzimati nešto / nekoga zdravo za gotovo",
+      "literal_ru": "принимать «здоровым за готовое»",
+      "register": "neutralno; značenje zavisi od objekta",
       "examples": [
         {
-          "serbian_latin": "Normalnost koju naši vršnjaci u nekim delovima sveta uzimaju zdravo za gotovo ostaje nešto o čemu mi i dalje samo sanjamo.",
-          "russian": "Нормальная жизнь, которую наши ровесники в некоторых частях света воспринимают как нечто само собой разумеющееся, для нас по-прежнему остаётся лишь мечтой.",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/kultura/intervju-daze/"
+          "serbian_latin": "Ne treba podršku Latinske Amerike uzeti „zdravo za gotovo“.",
+          "russian": "Поддержку Латинской Америки не следует принимать как нечто гарантированное.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Sposobnost sluha je integralni deo života koji većina ljudi uzima zdravo za gotovo.",
-          "russian": "Способность слышать — неотъемлемая часть жизни, которую большинство людей воспринимает как должное.",
-          "source": "Politika, 2021",
-          "url": "https://www.politika.rs/sr/clanak/481979/specijalni-dodaci/savet-orl-specijaliste-koje-je-resenje-za-dobar-sluh"
+          "serbian_latin": "Starije od sebe treba poštovati, ali njihovo mišljenje ne treba uvek uzimati „zdravo za gotovo“.",
+          "russian": "Старших нужно уважать, но их мнение не следует всегда принимать за непреложную истину.",
+          "source": "Danas, 2008"
         }
       ],
-      "note": "Выражение нужно запоминать целиком: zdravo здесь нельзя переводить отдельным русским «здорово / здоровый». В зависимости от контекста это либо «считать гарантированным и не ценить», либо «принимать без проверки, сомнений и размышлений». Противоположная полезная конструкция — uzeti nešto s rezervom.",
+      "note": "У оборота два тесно связанных употребления. Uzeti tvrdnju zdravo za gotovo — принять утверждение без проверки или сомнений; uzimati partnera / prijatelja zdravo za gotovo — воспринимать человека как гарантированно присутствующего и перестать его ценить. Поэтому русского единственного эквивалента нет: нужны «принимать как должное», «считать само собой разумеющимся» или «принимать за чистую монету» в зависимости от контекста. Не путать с противоположным по прагматике uzeti nešto s rezervom — «отнестись с осторожностью», уже имеющимся в базе.",
       "keyword": "zdravo za gotovo"
     },
     {
