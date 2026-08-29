@@ -597,6 +597,35 @@
       "keyword": "bez zamerke"
     },
     {
+      "headword_latin": "Bežati kao đavo od krsta",
+      "type": "frazeologizam",
+      "definition_ru": "шарахаться как чёрт от ладана; избегать как огня; бежать со всех ног от чего-то",
+      "synonyms_sr": [
+        "zazirati",
+        "kloniti se",
+        "izbegavati po svaku cenu",
+        "bežati glavom bez obzira"
+      ],
+      "literal_ru": "бежать как чёрт от креста",
+      "register": "разг., экспр.; обычно о сильном, демонстративном нежелании иметь дело с человеком, темой, обязанностью или явлением",
+      "examples": [
+        {
+          "serbian_latin": "Iz vaše stranke bežali su ljudi „kao đavo od krsta“.",
+          "russian": "Из вашей партии люди разбегались как чёрт от ладана.",
+          "source": "RTS, 2012",
+          "url": "https://www.rts.rs/lat/vesti/izbori-2012/1103752/debata-predsednickih-kandidata.html?print=true"
+        },
+        {
+          "serbian_latin": "Od onoga čemu tupsoni teže, valja bežati kao đavo od krsta.",
+          "russian": "От того, к чему стремятся болваны, следует шарахаться как чёрт от ладана.",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/implozija-evrope/"
+        }
+      ],
+      "note": "Сербский образ содержит именно krst «крест», тогда как ближайший русский фразеологизм — «как чёрт от ладана». Оборот может описывать и реальное бегство, и особенно активное избегание чего-либо: beži od odgovornosti kao đavo od krsta.",
+      "keyword": "bežati kao đavo od krsta"
+    },
+    {
       "headword_latin": "Biraj, ago, što je tebi drago",
       "type": "izreka",
       "definition_ru": "выбирай, ага, что тебе по душе; выбирай, что хочешь; бери на выбор",
@@ -3305,6 +3334,35 @@
       "keyword": "na kratkom lancu"
     },
     {
+      "headword_latin": "Držati nekoga u šaci",
+      "type": "frazeologizam",
+      "definition_ru": "держать кого-то в кулаке; иметь на крючке; полностью контролировать",
+      "synonyms_sr": [
+        "imati pod kontrolom",
+        "kontrolisati",
+        "držati pod svojom vlašću",
+        "ucenjivati"
+      ],
+      "literal_ru": "держать кого-то в кулаке",
+      "register": "разг., экспр., обычно неодобр.; часто предполагается контроль через зависимость, компромат, страх или возможность причинить неприятности",
+      "examples": [
+        {
+          "serbian_latin": "Lutovac: Kriminalci i vlast drže jedni druge u šaci.",
+          "russian": "Лутовац: преступники и власть держат друг друга на крючке.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/vesti/politika/lutovac-kriminalci-i-vlast-drze-jedni-druge-u-saci/"
+        },
+        {
+          "serbian_latin": "Vesna nema izbora – Lukovac je drži u šaci.",
+          "russian": "У Весны нет выбора: Луковац полностью держит её в своих руках.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/tv/rts-drama/5801860/sumnjiva-lica-2-23-i-24-epizoda.html"
+        }
+      ],
+      "note": "Выражение сильнее нейтрального držati pod kontrolom: нередко подразумевается зависимость, благодаря которой человек не может свободно действовать. Русские «держать в кулаке» и «иметь на крючке» подходят в зависимости от того, подчёркивается власть вообще или конкретный рычаг давления.",
+      "keyword": "držati u šaci"
+    },
+    {
       "headword_latin": "držati palčeve",
       "type": "глагольный фразеологизм",
       "definition_ru": "Желать удачи; держать за кого-либо кулаки; морально поддерживать.",
@@ -3331,6 +3389,35 @@
       ],
       "note": "Обычные формы — držim ti palčeve, držimo vam palčeve и držite mi palčeve. Дословное действие не обязательно: выражение прежде всего сообщает о поддержке.",
       "keyword": "palac"
+    },
+    {
+      "headword_latin": "Držati reč",
+      "type": "izraz",
+      "definition_ru": "держать слово; выполнять обещание; быть верным своему слову",
+      "synonyms_sr": [
+        "održati obećanje",
+        "ispuniti obećanje",
+        "biti pouzdan",
+        "održati datu reč"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; типично držati svoju / datu reč; противоположность — pogaziti reč",
+      "examples": [
+        {
+          "serbian_latin": "Vučić drži svoju reč i Srbija ima reč i kada se nešto dogovori ona to poštuje.",
+          "russian": "Вучич держит слово, и Сербия, если о чём-то договорилась, соблюдает договорённость.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/vesti/politika/2840211/.html?print=true"
+        },
+        {
+          "serbian_latin": "Ko drži svoju reč, taj ima mir koji se ne može kupiti.",
+          "russian": "Тот, кто держит своё слово, обладает спокойствием, которое невозможно купить.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/740847/pogledi/kako-se-u-doba-vestacke-istine-brani-ljudska-cast"
+        }
+      ],
+      "note": "Русское и сербское выражения практически совпадают. Однако по-сербски очень естественны оба варианта — držati reč и održati reč: первое чаще характеризует постоянное качество человека, второе — выполнение конкретного обещания.",
+      "keyword": "držati reč"
     },
     {
       "headword_latin": "Držati se kao pijan plota",
@@ -9609,6 +9696,35 @@
       "keyword": "pasti s neba"
     },
     {
+      "headword_latin": "Pasti u drugi plan",
+      "type": "izraz",
+      "definition_ru": "отойти на второй план; стать менее важным; потерять приоритет",
+      "synonyms_sr": [
+        "postati manje važan",
+        "biti potisnut",
+        "izgubiti prioritet",
+        "otići u pozadinu"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публицист.; субъект — вопрос, человек, деятельность, тема и т. п.: nešto je palo u drugi plan",
+      "examples": [
+        {
+          "serbian_latin": "Posle nekog vremena i muzička karijera je pala u drugi plan.",
+          "russian": "Через некоторое время и музыкальная карьера отошла на второй план.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/5180268/.html?print=true"
+        },
+        {
+          "serbian_latin": "Njihove integracije mogle bi pasti u drugi plan.",
+          "russian": "Их европейская интеграция может отойти на второй план.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/politika/3391879/izazov-za-srbiju-i-hrvatsko-predsedavanje-eu.html"
+        }
+      ],
+      "note": "Конструкция почти полностью совпадает с русской, но полезно запомнить пару: biti u prvom planu — «быть на первом плане» и pasti u drugi plan — «отойти на второй план». Pasti подчёркивает изменение статуса: раньше это было важнее, теперь приоритет уменьшился.",
+      "keyword": "pasti u drugi plan"
+    },
+    {
       "headword_latin": "Pasti u vatru",
       "type": "frazeologizam",
       "definition_ru": "вспылить; горячо возмутиться; выйти из себя",
@@ -9945,6 +10061,35 @@
       "keyword": "glava"
     },
     {
+      "headword_latin": "Počivati / spavati na lovorikama",
+      "type": "frazeologizam",
+      "definition_ru": "почивать на лаврах; успокоиться на достигнутом; перестать развиваться после успеха",
+      "synonyms_sr": [
+        "zadovoljiti se postignutim",
+        "uspavati se posle uspeha",
+        "prestati da napreduje",
+        "opustiti se posle uspeha"
+      ],
+      "literal_ru": "почивать / спать на лаврах",
+      "register": "нейтр.-публицист., часто неодобр.; варианты počivati и spavati na lovorikama",
+      "examples": [
+        {
+          "serbian_latin": "Mi ne možemo počivati na našim lovorikama, već moramo završiti posao.",
+          "russian": "Мы не можем почивать на лаврах, нам нужно довести дело до конца.",
+          "source": "Danas, 2014",
+          "url": "https://www.danas.rs/vesti/drustvo/bajden-smanjiti-energetsku-zavisnost-od-rusije/"
+        },
+        {
+          "serbian_latin": "Učio me je da ne spavam na lovorikama.",
+          "russian": "Он учил меня не почивать на лаврах.",
+          "source": "Politika, 2010",
+          "url": "https://www.politika.rs/sr/clanak/149753/sport/rukomet/i-dalje-zivimo-u-muskoj-srbiji"
+        }
+      ],
+      "note": "Лавровый венок традиционно символизирует победу, поэтому «лежать на лаврах» значит довольствоваться прежними достижениями. Сербский допускает и počivati, и более разговорно-прозрачное spavati na lovorikama. Русский устойчивый эквивалент практически точный.",
+      "keyword": "na lovorikama"
+    },
+    {
       "headword_latin": "podići prašinu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Наделать шума; вызвать бурную реакцию, споры, возмущение или большой общественный интерес.",
@@ -10115,6 +10260,35 @@
       ],
       "note": "Встречается также конструкция podvući crtu pod nešto. Расширенный вариант podvući crtu i krenuti dalje означает закончить прежний этап и двигаться дальше.",
       "keyword": "crta"
+    },
+    {
+      "headword_latin": "Pogaziti reč",
+      "type": "frazeologizam",
+      "definition_ru": "нарушить слово; не сдержать обещание; отречься от данного слова",
+      "synonyms_sr": [
+        "prekršiti obećanje",
+        "ne održati reč",
+        "izneveriti obećanje",
+        "prekršiti datu reč"
+      ],
+      "literal_ru": "растоптать слово",
+      "register": "нейтр.-экспр., неодобр.; типично pogaziti svoju / datu reč",
+      "examples": [
+        {
+          "serbian_latin": "Neću da pogazim reč datu SAD i EU.",
+          "russian": "Я не нарушу слова, данного США и ЕС.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/vesti/Politika/1928011/Edi%2BRama%2Bdanas%2Bna%2BKosovu.html"
+        },
+        {
+          "serbian_latin": "Kako je Savo Milošević iz ljubavi prema Partizanu pogazio reč i vratio se u Humsku.",
+          "russian": "Как Саво Милошевич из любви к «Партизану» нарушил данное слово и вернулся в Хумскую.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/sport/savo-milosevic-pogazio-rec-i-vratio-se-u-partizan/"
+        }
+      ],
+      "note": "Глагол pogaziti буквально означает «растоптать, попрать», поэтому выражение эмоциональнее простого ne ispuniti obećanje. Существительное часто получает уточнение: pogaziti svoju reč, pogaziti datu reč. Русскому лучше переводить «нарушить / не сдержать слово».",
+      "keyword": "pogaziti reč"
     },
     {
       "headword_latin": "pogledati istini u oči",
@@ -11078,6 +11252,35 @@
       "keyword": "kočijaš"
     },
     {
+      "headword_latin": "Pucati po šavovima",
+      "type": "frazeologizam",
+      "definition_ru": "трещать по швам; разваливаться; не выдерживать нагрузки",
+      "synonyms_sr": [
+        "raspadati se",
+        "biti pred raspadom",
+        "jedva izdržavati pritisak",
+        "biti preopterećen"
+      ],
+      "literal_ru": "лопаться по швам",
+      "register": "разг.-публицист., экспр.; о системе, организации, отношениях, психическом состоянии и вообще о чём-то, что больше не выдерживает внутреннего давления",
+      "examples": [
+        {
+          "serbian_latin": "Otac nije spreman za ulogu samohranog oca i njegov se život iz temelja menja i puca po šavovima.",
+          "russian": "Отец не готов к роли родителя-одиночки, и его жизнь начинает буквально трещать по швам.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/tv/rts2/5305016/devojka-iz-dzerzija.html"
+        },
+        {
+          "serbian_latin": "Aktuelnoj Vladi Srbije bilo je potrebno desetak meseci da počne da puca po šavovima.",
+          "russian": "Нынешнему правительству Сербии понадобилось около десяти месяцев, чтобы начать трещать по швам.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/vlada-u-haosu/"
+        }
+      ],
+      "note": "Образ полностью понятен русскому, но диапазон употребления в сербском очень широк: sistem, brak, porodica, država, čovek puca po šavovima. Форма pucati описывает процесс, а puknuti po šavovima — его результат.",
+      "keyword": "pucati po šavovima"
+    },
+    {
       "headword_latin": "Pucati sebi u nogu",
       "type": "frazeologizam",
       "definition_ru": "стрелять себе в ногу; вредить самому себе; действовать против собственных интересов",
@@ -11163,6 +11366,35 @@
       ],
       "note": "Обычно говорится об испортившихся отношениях между людьми, организациями или политическими союзниками. Частая модель: između njih je pukla tikva.",
       "keyword": "tikva"
+    },
+    {
+      "headword_latin": "Pun kao brod",
+      "type": "frazeologizam",
+      "definition_ru": "очень богатый; при деньгах; денег куры не клюют",
+      "synonyms_sr": [
+        "biti pun para",
+        "biti veoma bogat",
+        "imati para kao blata",
+        "biti imućan"
+      ],
+      "literal_ru": "полный как корабль",
+      "register": "разг., экспр.; обычно о человеке с большим количеством денег",
+      "examples": [
+        {
+          "serbian_latin": "Bio sam pun kao brod i odlučio sam da na putu do Sombora napravim jednodnevnu pauzu u Novom Sadu.",
+          "russian": "У меня было полно денег, и я решил по дороге в Сомбор на день остановиться в Нови-Саде.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/grad-traga-za-svojim-identitetom/"
+        },
+        {
+          "serbian_latin": "Henri je bogataš, pun kao brod. Ima milione.",
+          "russian": "Анри богач, денег у него куры не клюют. У него миллионы.",
+          "source": "Politika, 2006",
+          "url": "https://www.politika.rs/sr/clanak/17169/zbogom-moji-himalaji"
+        }
+      ],
+      "note": "Без контекста русский может понять это буквально как «битком набитый», но применительно к человеку pun kao brod означает прежде всего «очень богатый». Есть и сокращённое разговорное pun je — «он при деньгах», если финансовый смысл ясен из контекста.",
+      "keyword": "pun kao brod"
     },
     {
       "headword_latin": "Punom parom",
@@ -13904,6 +14136,35 @@
       "keyword": "trn"
     },
     {
+      "headword_latin": "Trpati / staviti sve u isti koš",
+      "type": "frazeologizam",
+      "definition_ru": "валить всё в одну кучу; стричь всех под одну гребёнку; не делать различий",
+      "synonyms_sr": [
+        "izjednačavati",
+        "generalizovati",
+        "ne praviti razliku",
+        "poistovećivati"
+      ],
+      "literal_ru": "складывать всё в одну корзину",
+      "register": "разг.-публицист., неодобр.; обычно ne treba sve / sve ljude trpati u isti koš",
+      "examples": [
+        {
+          "serbian_latin": "Naučnici pak smatraju grafologiju pseudonaukom i stavljaju je u „isti koš“ sa astrologijom.",
+          "russian": "Учёные считают графологию псевдонаукой и ставят её в один ряд с астрологией.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/magazin/nauka/2335134/ozloglasena-ismevana-ili-precenjena-grafologija.html"
+        },
+        {
+          "serbian_latin": "Nastavni proces je jedno, a ovo je drugo, ne treba sve staviti u isti koš.",
+          "russian": "Учебный процесс — одно, а это — другое; не надо валить всё в одну кучу.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5815804/dekanka-kovacevic-studentska-borba-prerasla-fakultete-profesor-jakovljevic-odvojiti-nastavu-od-politike.html"
+        }
+      ],
+      "note": "Trpati содержит более явный оттенок грубого, безразборного смешивания, чем нейтральное staviti. Поэтому ne trpaj sve u isti koš хорошо соответствует русскому «не вали всё в одну кучу» или «не стриги всех под одну гребёнку». Сравниваются не обязательно люди — это могут быть идеи, профессии, явления или проблемы.",
+      "keyword": "isti koš"
+    },
+    {
       "headword_latin": "Tući nekoga kao vola u kupusu",
       "type": "poređenje",
       "definition_ru": "жестоко избивать; избивать до полусмерти",
@@ -14784,6 +15045,35 @@
       ],
       "note": "Выражение нужно запоминать целиком: zdravo здесь нельзя переводить отдельным русским «здорово / здоровый». В зависимости от контекста это либо «считать гарантированным и не ценить», либо «принимать без проверки, сомнений и размышлений». Противоположная полезная конструкция — uzeti nešto s rezervom.",
       "keyword": "zdravo za gotovo"
+    },
+    {
+      "headword_latin": "Visiti o koncu",
+      "type": "frazeologizam",
+      "definition_ru": "висеть на волоске; быть под угрозой; находиться в крайне неопределённом положении",
+      "synonyms_sr": [
+        "biti ozbiljno ugrožen",
+        "biti neizvestan",
+        "biti na ivici propasti",
+        "biti u kritičnom položaju"
+      ],
+      "literal_ru": "висеть на нитке",
+      "register": "разг.-публицист., экспр.; типично život, sudbina, budućnost, opstanak visi o koncu",
+      "examples": [
+        {
+          "serbian_latin": "Četrnaestogodišnjem dečaku život je visio o koncu.",
+          "russian": "Жизнь четырнадцатилетнего мальчика висела на волоске.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4331404/decak-dijabeticar-se-srusio-ispred-prodavnice-zivot-mu-visio-o-koncu.html"
+        },
+        {
+          "serbian_latin": "Sticao se utisak da Vučićeva vlada visi o koncu.",
+          "russian": "Создавалось впечатление, что правительство Вучича висит на волоске.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/politika/bivsa-ministarka-knajsl-vucic-protesti/"
+        }
+      ],
+      "note": "Русский обычно заменяет сербский konac «нитка» на «волосок»: život mu visi o koncu — «его жизнь висит на волоске». Выражение применимо не только к жизни: так же говорят о правительстве, карьере, проекте, соглашении или будущем.",
+      "keyword": "visiti o koncu"
     },
     {
       "headword_latin": "Više sreće nego pameti",
