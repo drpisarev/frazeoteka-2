@@ -195,6 +195,34 @@
       "keyword": "biseri; svinje"
     },
     {
+      "headword_latin": "bacati drvlje i kamenje na nekoga",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Резко нападать на кого-либо; сурово осуждать; подвергать ожесточённой критике.",
+      "synonyms_sr": [
+        "žestoko napadati nekoga",
+        "oštro osuđivati nekoga",
+        "osuti paljbu po nekome"
+      ],
+      "literal_ru": "Бросать в кого-либо брёвна и камни.",
+      "register": "Разговорное, экспрессивное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Bacaju drvlje i kamenje na njega.",
+          "russian": "На него обрушиваются с резкими нападками.",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/levica-i-desnica-znacenje-bacanje-drvlja-i-kamenja-staviti-ruku-u-vatru/"
+        },
+        {
+          "serbian_latin": "Bacaju drvlje i kamenje na Pavkovića.",
+          "russian": "Павковича подвергают ожесточённой критике.",
+          "source": "025.rs, 2025",
+          "url": "https://www.025.rs/jovanov-govore-o-simbolu-nato-agresije-a-bacaju-drvlje-i-kamenje-na-pavkovica/"
+        }
+      ],
+      "note": "Наряду с bacati употребляются глаголы osuti, sipati и dići: osuti drvlje i kamenje na nekoga.",
+      "keyword": "drvlje; kamenje"
+    },
+    {
       "headword_latin": "Bacati nekome mrvice / mrvice sa stola",
       "type": "frazeologizam",
       "definition_ru": "бросать кому-то крохи; давать лишь ничтожную часть; подачками делиться с тем, кому достаётся гораздо меньше положенного",
@@ -1204,36 +1232,33 @@
       "keyword": "crn kao noć"
     },
     {
-      "headword_latin": "Crven od besa",
-      "type": "kolokacija",
-      "definition_ru": "красный от ярости; побагровевший от злости; раскрасневшийся от гнева",
+      "headword_latin": "crven od besa",
+      "type": "устойчивое фразеологическое сочетание",
+      "definition_ru": "Багровый от ярости; крайне разъярённый, внешне проявляющий сильный гнев.",
       "synonyms_sr": [
-        "pocrveneti od besa",
         "kipeti od besa",
+        "pocrveneti od ljutnje",
         "biti van sebe od besa",
-        "besneti"
+        "pobesneti"
       ],
-      "literal_ru": "",
-      "register": "emotivna kolokacija; često biti crven od besa, pocrveneti od besa",
+      "literal_ru": "Красный от ярости.",
+      "register": "Экспрессивное; разговорное и публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Zapad crven od besa zbog crvenog tepiha.",
-          "russian": "Запад багровеет от ярости из-за красной дорожки.",
-          "source": "Večernje novosti, cit. Beta, 2024"
+          "serbian_latin": "Mitar crven od besa!",
+          "russian": "Митар багровый от ярости!",
+          "source": "Sportal/Blic, 2019",
+          "url": "https://sportal.blic.rs/fudbal/evropski-fudbal/mitar-crven-od-besa-reprezentativac-srbije-opasno-zaratio-sa-sudijom-bljuvao-vatru-i-psovke/2022042111130148977"
         },
         {
-          "serbian_latin": "Crven kipti od besa.",
-          "russian": "Красный от ярости, он буквально кипит от злости.",
-          "source": "Nova.rs, 2023"
-        },
-        {
-          "serbian_latin": "Bio je crven od besa i jedva se suzdržavao da ne vikne.",
-          "russian": "Он побагровел от ярости и едва сдерживался, чтобы не закричать.",
-          "source": ""
+          "serbian_latin": "Crven, kipti od besa.",
+          "russian": "Он багровый и кипит от ярости.",
+          "source": "Nova, 2024",
+          "url": "https://nova.rs/vesti/politika/crven-od-besa-cetiri-slike-nervoznog-vucica-koje-pokazuju-koliko-je-bilo-napeto-u-skupstini/"
         }
       ],
-      "note": "Это скорее устойчивая образная коллокация, чем самостоятельный фразеологизм. Сербская фразеология активно связывает красный цвет с гневом: crven kao rak / paprika, pocrveneti od besa, kipeti od besa. Для русского «побагроветь от ярости» часто естественнее буквального «быть красным от злости». Исследования сербской фразеологии прямо описывают модель BESAN ČOVEK JE CRVEN.",
-      "keyword": "crven od besa"
+      "note": "Обычно характеризует одновременно эмоциональное состояние и внешнее проявление гнева — покрасневшее лицо, возбуждение, резкие жесты.",
+      "keyword": "bes"
     },
     {
       "headword_latin": "Cure / poteku sline nekome",
@@ -1666,36 +1691,33 @@
       "keyword": "debeo kao svinja"
     },
     {
-      "headword_latin": "Deliti šakom i kapom",
-      "type": "frazeologizam",
-      "definition_ru": "раздавать направо и налево; раздавать щедрой рукой; сорить чем-то",
+      "headword_latin": "deliti šakom i kapom",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Раздавать щедро и в больших количествах; раздавать направо и налево, иногда без меры и разбора.",
       "synonyms_sr": [
-        "deliti bez mere",
-        "razbacivati se",
-        "velikodušno deliti",
-        "deliti svima redom"
+        "obilato deliti",
+        "davati bez mere",
+        "rasipati",
+        "deliti na sve strane"
       ],
-      "literal_ru": "раздавать пригоршнями и шапками",
-      "register": "razg. do publicistički, često iron. ili neodobr.; o novcu, nagradama, funkcijama, državljanstvu, ocenama i sl.",
+      "literal_ru": "Раздавать пригоршней и шапкой.",
+      "register": "Разговорное, экспрессивное; может выражать неодобрение.",
       "examples": [
         {
-          "serbian_latin": "Zašto se stranim sportistima državljanstvo Srbije deli „šakom i kapom“?",
-          "russian": "Почему иностранным спортсменам сербское гражданство раздают направо и налево?",
-          "source": "Danas, 2021"
+          "serbian_latin": "Srbija pasoše deli „šakom i kapom“.",
+          "russian": "Сербия раздаёт паспорта направо и налево.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/srbija-pasose-deli-sakom-i-kapom-za-ruske-milijardere-ekspresna-traka-za-obicne-ljude-godine-cekanja/"
         },
         {
-          "serbian_latin": "U Beogradu se takođe deli „šakom i kapom“.",
-          "russian": "В Белграде тоже раздают направо и налево.",
-          "source": "Danas, 2023"
-        },
-        {
-          "serbian_latin": "Neminovno je da će se ocene deliti šakom i kapom, pa i masovno poklanjati.",
-          "russian": "Неизбежно, что оценки станут раздавать направо и налево, а то и просто массово дарить.",
-          "source": "Politika, 2025"
+          "serbian_latin": "Srbija deli državljanstva šakom i kapom.",
+          "russian": "Сербия щедро раздаёт гражданство.",
+          "source": "Nova, 2026",
+          "url": "https://nova.rs/vesti/biznis/eu-srbiji-zamera-sto-deli-drzavljanstva-sakom-i-kapom-a-kome-smo-ih-sve-dali-u-2025-ruski-oligarsi-i-jedan-egipatski-telko-mogul/"
         }
       ],
-      "note": "Выражение не всегда означает настоящую щедрость. Очень часто оно критическое: нечто ценное раздают слишком легко, без меры и разбора. Поэтому deliti pasoše / novac / funkcije / petice šakom i kapom может переводиться как «раздавать направо и налево». Образ гиперболический: дают уже не отдельными единицами, а буквально пригоршнями и целыми «шапками».",
-      "keyword": "deliti šakom i kapom"
+      "note": "Может обозначать как настоящую щедрость, так и безответственную раздачу денег, наград, должностей, документов или обещаний.",
+      "keyword": "šaka; kapa"
     },
     {
       "headword_latin": "dići sidro",
@@ -2655,35 +2677,33 @@
       "keyword": "prst"
     },
     {
-      "headword_latin": "Gluv kao top",
-      "type": "frazeologizam",
-      "definition_ru": "совершенно глухой; глухой как пень; ничего не слышащий",
+      "headword_latin": "gluv kao top",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Совершенно глухой или очень плохо слышащий; не реагирующий на обращённые к нему слова.",
       "synonyms_sr": [
-        "potpuno gluv",
-        "ništa ne čuti",
-        "ne čuti ni reč"
+        "biti potpuno gluv",
+        "slabo čuti",
+        "ne čuti ništa",
+        "ogluveti"
       ],
-      "literal_ru": "глухой как пушка",
-      "register": "razg., ekspresivno",
+      "literal_ru": "Глухой как пушка.",
+      "register": "Разговорное, экспрессивное; применительно к человеку может прозвучать грубо.",
       "examples": [
         {
-          "serbian_latin": "Deda je bez slušnog aparata gluv kao top.",
-          "russian": "Без слухового аппарата дед совершенно ничего не слышит.",
-          "source": ""
+          "serbian_latin": "Neretko ćemo reći da je neko gluv kao top.",
+          "russian": "Мы нередко говорим, что кто-либо глух как пень.",
+          "source": "Jezikofil, 2015; исходный текст транслитерирован в латиницу",
+          "url": "https://jezikofil.rs/gluv-kao-top/"
         },
         {
-          "serbian_latin": "Možeš da vičeš koliko hoćeš — on je gluv kao top.",
-          "russian": "Можешь кричать сколько угодно — он глухой как пень.",
-          "source": ""
-        },
-        {
-          "serbian_latin": "Tvrdio je da je gluv kao top, ali je ipak čuo kada smo spomenuli novac.",
-          "russian": "Он утверждал, что совершенно глухой, но всё-таки услышал, когда мы заговорили о деньгах.",
-          "source": ""
+          "serbian_latin": "Gluv kao top.",
+          "russian": "Глух как пень.",
+          "source": "N portal, 2022; заголовок транслитерирован в латиницу",
+          "url": "https://nportal.novosti.rs/vest/40581/vesti/drustvo/gluv-kao-top-poreklo-poznatog-poredenja"
         }
       ],
-      "note": "В сербском выражение прежде всего характеризует человека, который плохо слышит, а не человека без музыкального слуха. Для последнего значения естественнее nemati sluha za muziku или nemati ni trunke sluha. Русский образ строится обычно со словом «пень», поэтому буквальный перевод «глухой как пушка» будет непонятен.",
-      "keyword": "gluv kao top"
+      "note": "Русскому выражению «глух как пень» соответствует сербское сравнение с пушкой. Не следует смешивать с spavati kao top — «спать как убитый».",
+      "keyword": "top"
     },
     {
       "headword_latin": "gubiti se / izgubiti se svaki trag nekome",
@@ -4573,31 +4593,33 @@
       "keyword": "mrtav umoran"
     },
     {
-      "headword_latin": "Mućnuti glavom",
-      "type": "frazeologizam",
-      "definition_ru": "пораскинуть мозгами; хорошенько подумать; включить голову",
+      "headword_latin": "mućnuti glavom",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Пошевелить мозгами; хорошенько подумать; попытаться найти разумное решение.",
       "synonyms_sr": [
         "razmisliti",
-        "uključiti mozak (razg.)",
-        "promućkati glavom (razg.)",
-        "uzeti se u pamet"
+        "uključiti mozak",
+        "napregnuti vijuge",
+        "promisliti"
       ],
-      "literal_ru": "встряхнуть головой",
-      "register": "razg., ekspresivno; obično svršeni vid",
+      "literal_ru": "Встряхнуть головой.",
+      "register": "Разговорное, побудительное; иногда ироническое.",
       "examples": [
         {
-          "serbian_latin": "Mućni glavom.",
-          "russian": "Пораскинь мозгами.",
-          "source": "RTS, Beograd 202, 2015"
+          "serbian_latin": "Mućnite glavom, da posle ne bi bolela.",
+          "russian": "Пошевелите мозгами, чтобы потом голова не болела.",
+          "source": "Mozzart Sport, 2026",
+          "url": "https://www.mozzartsport.com/ostalo/vesti/mucnite-glavom-da-posle-ne-bi-bolela/538406"
         },
         {
-          "serbian_latin": "Mislim da je vreme da se mućne glavom, jer ne možeš isti problem uporno rešavati na isti način.",
-          "russian": "Думаю, пора хорошенько подумать: нельзя упорно решать одну и ту же проблему одним и тем же способом.",
-          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
+          "serbian_latin": "Mućnite glavom.",
+          "russian": "Пошевелите мозгами.",
+          "source": "Krstarica, 2023",
+          "url": "https://www.krstarica.com/zabava/zanimljivosti/koji-broj-se-krije-iza-upitnika-samo-2-ljudi-ume-da-pronadje-resenje-za-30-sekundi-jeste-li-medju-njima/"
         }
       ],
-      "note": "Чаще всего употребляется побудительная форма mućni glavom или безличная конструкция treba mućnuti glavom. Глагол создаёт образ короткого умственного усилия: нужно остановиться и наконец сообразить. Не следует путать mućnuti «встряхнуть, взболтнуть» с mučiti «мучить».",
-      "keyword": "mućnuti glavom"
+      "note": "Чаще встречается в повелительном наклонении: mućni glavom, mućnite glavom. Может звучать как дружеский совет или как упрёк в недальновидности.",
+      "keyword": "glava"
     },
     {
       "headword_latin": "Na ravnoj nozi",
@@ -4695,36 +4717,33 @@
       "keyword": "francuska sobarica"
     },
     {
-      "headword_latin": "Naivan kao francuska sobarica",
-      "type": "frazeologizam",
-      "definition_ru": "наивный как ребёнок; простодушный до смешного; делающий вид, что ничего не понимает",
+      "headword_latin": "naivan kao francuska sobarica",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Чрезвычайно наивный или намеренно притворяющийся наивным; делать вид, будто ничего не понимаешь.",
       "synonyms_sr": [
-        "biti krajnje naivan",
         "biti lakoveran",
         "praviti se naivan",
-        "biti naivan kao dete"
+        "praviti se nevešt",
+        "biti naivan do krajnosti"
       ],
-      "literal_ru": "наивный как французская горничная",
-      "register": "razg., ironično; ponekad o prividnoj naivnosti",
+      "literal_ru": "Наивный как французская горничная.",
+      "register": "Разговорное, ироническое, неодобрительное.",
       "examples": [
         {
-          "serbian_latin": "Naivan kao francuska sobarica.",
-          "russian": "Наивный как ребёнок; простодушный до смешного.",
-          "source": "Telegraf, 2018"
+          "serbian_latin": "Kaže naš narod: „naivan kao francuska sobarica“.",
+          "russian": "Как говорят в народе: «наивный как французская горничная».",
+          "source": "Južne vesti, 2019",
+          "url": "https://www.juznevesti.com/komentar/danijel-dasic/francuska-sobarica-na-srpski-nacin/"
         },
         {
-          "serbian_latin": "Svašta je ovde moguće, zato ne smeš biti naivan kao francuska sobarica ako ne želiš da izgubiš novac.",
-          "russian": "Здесь возможно всё, поэтому нельзя быть таким простаком, если не хочешь потерять деньги.",
-          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
-        },
-        {
-          "serbian_latin": "Ispali smo naivni kao sobarice.",
-          "russian": "Мы оказались до смешного наивными.",
-          "source": "Frazeološki rječnik hrvatskoga jezika, Lexonomy, b. g.; primer prilagođen srpskoj normi"
+          "serbian_latin": "Knežević je ispao naivan kao „francuska sobarica“.",
+          "russian": "Кнежевич оказался наивным как французская горничная.",
+          "source": "Vesti.rs, 2023",
+          "url": "https://www.vesti.rs/Subotica/Knezevic-Subotic-naivan-kao-francuska-sobarica-2.html"
         }
       ],
-      "note": "В употреблении встречаются два близких оттенка: настоящая чрезмерная доверчивость и ироническая «наивность» человека, который прекрасно понимает происходящее, но делает вид, что ничего не знает. Поэтому значение определяется контекстом. Сокращённый вариант — naivan kao sobarica. Происхождение сравнения надёжно не установлено; газетные объяснения связывают его с комедийным образом хитрой служанки, однако считать эту версию доказанной нельзя.",
-      "keyword": "francuska sobarica"
+      "note": "Выражение нередко подразумевает не подлинную наивность, а притворство: человек всё понимает, но изображает удивление или неосведомлённость.",
+      "keyword": "sobarica"
     },
     {
       "headword_latin": "Napaćena duša",
@@ -5217,6 +5236,35 @@
       "keyword": "luk"
     },
     {
+      "headword_latin": "ni mrava ne bi zgazio",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Он и мухи не обидит; совершенно безобидный, добрый и мягкий человек.",
+      "synonyms_sr": [
+        "biti bezazlen",
+        "biti dobra duša",
+        "biti blag kao jagnje",
+        "nikome ne nauditi"
+      ],
+      "literal_ru": "Он даже муравья не раздавил бы.",
+      "register": "Разговорное, одобрительное; нередко употребляется иронически.",
+      "examples": [
+        {
+          "serbian_latin": "On ni mrava ne bi zgazio.",
+          "russian": "Он и мухи не обидит.",
+          "source": "Blic, 2018",
+          "url": "https://www.blic.rs/vesti/hronika/ubistvo-kuma-goce-trzan-pevacica-u-suzama-on-ni-mrava-ne-bi-zgazio-ovo-je-strasna/y8jjdlg"
+        },
+        {
+          "serbian_latin": "Moj sin ni mrava ne bi zgazio.",
+          "russian": "Мой сын и мухи не обидит.",
+          "source": "Srbija Danas, 2021",
+          "url": "https://www.sd.rs/vesti/hronika/moj-sin-ni-mrava-ne-bi-zgazio-jeziva-ispovest-oca-brutalno-pretucenog-mladica-u-novom-sadu-2021-02-24"
+        }
+      ],
+      "note": "Особенно часто встречается в рассказах родственников и соседей о характере человека. Иронически может употребляться о том, чья безобидность вызывает сомнения.",
+      "keyword": "mrav"
+    },
+    {
       "headword_latin": "Nije ni ona cvećka",
       "type": "izraz",
       "definition_ru": "она тоже не ангел; она тоже хороша; и за ней водятся грешки",
@@ -5552,6 +5600,35 @@
       "keyword": "omaklo mi se"
     },
     {
+      "headword_latin": "osećati se kao riba na suvom",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Чувствовать себя не в своей тарелке; оказаться в непривычной среде и совершенно не понимать, как действовать.",
+      "synonyms_sr": [
+        "ne snalaziti se",
+        "osećati se izgubljeno",
+        "biti van svog elementa",
+        "biti potpuno pogubljen"
+      ],
+      "literal_ru": "Чувствовать себя как рыба на суше.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Osećam se kao riba na suvom.",
+          "russian": "Я чувствую себя не в своей тарелке.",
+          "source": "Basketball Sphere, 2025",
+          "url": "https://basketballsphere.com/nemanja-nedovic-nisam-navikao-na-ovo-osecam-se-kao-riba-na-suvom/"
+        },
+        {
+          "serbian_latin": "Snašao sam se tamo k’o riba na suvom!",
+          "russian": "Я там освоился как рыба на суше, то есть совсем не освоился!",
+          "source": "Vukajlija, 2010",
+          "url": "https://vukajlija.com/k-o-riba-na-suvom/149908"
+        }
+      ],
+      "note": "Сербское выражение соответствует русским «как рыба, выброшенная на берег» и «не в своей тарелке». Второй пример построен иронически.",
+      "keyword": "riba; suvo"
+    },
+    {
       "headword_latin": "ostati / ostaviti nekoga na cedilu",
       "type": "фразеологизм",
       "definition_ru": "Оказаться брошенным без помощи; бросить или подвести кого-либо в трудной ситуации.",
@@ -5697,36 +5774,33 @@
       "keyword": "oteto prokleto"
     },
     {
-      "headword_latin": "Otići trbuhom za kruhom",
-      "type": "frazeologizam",
-      "definition_ru": "уехать на заработки; покинуть родные места в поисках работы и лучшей жизни",
+      "headword_latin": "otići trbuhom za kruhom",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Уехать на заработки; покинуть родные места в поисках работы и лучшей жизни.",
       "synonyms_sr": [
-        "otići za poslom",
-        "poći u pečalbu",
-        "potražiti bolji život",
-        "iseliti se iz ekonomskih razloga"
+        "otići u pečalbu",
+        "otići u potrazi za poslom",
+        "tražiti bolji život",
+        "otići da se zaradi"
       ],
-      "literal_ru": "уйти вслед за животом в поисках хлеба",
-      "register": "razg. i publicistički; o ekonomskoj emigraciji",
+      "literal_ru": "Отправиться животом за хлебом.",
+      "register": "Разговорное, публицистическое; часто с оттенком вынужденности.",
       "examples": [
         {
-          "serbian_latin": "Otišao u Austriju trbuhom za kruhom, pa nagrabusio zbog smeća: jedva izvukao živu glavu.",
-          "russian": "Он уехал в Австрию на заработки, но попал в серьёзные неприятности из-за мусора и едва остался жив.",
-          "source": "Telegraf, 2025"
+          "serbian_latin": "Trbuhom za kruhom odoše ljudi s juga Srbije.",
+          "russian": "В поисках заработка люди уезжают с юга Сербии.",
+          "source": "Info Vranjske, 2022",
+          "url": "https://infovranjske.rs/milosevic-monarhisti-trbuhom-za-kruhom-odose-ljudi-s-juga-srbije/"
         },
         {
-          "serbian_latin": "Krenuli su „trbuhom za kruhom“, a završili prevareni i poniženi.",
-          "russian": "Они отправились на заработки, но в итоге оказались обманутыми и униженными.",
-          "source": "Telegraf, 2018"
-        },
-        {
-          "serbian_latin": "Trbuhom za kruhom u Srbiju: strancima je izdato više od 50.000 radnih dozvola.",
-          "russian": "В Сербию за заработком: иностранцам выдали более 50 000 разрешений на работу.",
-          "source": "Kurir, 2024"
+          "serbian_latin": "Da li se isplati doći „trbuhom za kruhom“?",
+          "russian": "Стоит ли приезжать сюда на заработки?",
+          "source": "Srbija Danas, 2022",
+          "url": "https://www.sd.rs/vesti/drustvo/ne-pipaj-hvala-beograd-obecani-grad-ili-lazni-sjaj-da-li-se-isplati-doci-trbuhom-za-kruhom-ili-2021-10-20"
         }
       ],
-      "note": "Хотя общеупотребительное сербское слово — hleb, внутри закрепившегося выражения сохраняется форма trbuhom za kruhom. Сербские издания регулярно используют именно её, поэтому заменять kruhom на hlebom не нужно. Выражение предполагает вынужденный отъезд из-за безработицы или нужды. Otići u pečalbu чаще означает временно отправиться на заработки с намерением вернуться домой.",
-      "keyword": "trbuhom za kruhom"
+      "note": "Выражение употребляется как об эмиграции, так и о переезде из небольшого города в Белград или другой экономический центр.",
+      "keyword": "trbuh; kruh"
     },
     {
       "headword_latin": "Pa kud puklo da puklo",
@@ -8041,30 +8115,31 @@
     },
     {
       "headword_latin": "tačan kao švajcarski sat",
-      "type": "poređenje",
-      "definition_ru": "точный как швейцарские часы; исключительно точный, пунктуальный или надёжно работающий",
+      "type": "фразеологическое сравнение",
+      "definition_ru": "Предельно точный, пунктуальный и надёжный; работающий без опозданий и сбоев.",
       "synonyms_sr": [
-        "tačan u minut",
-        "precizan kao sat",
-        "nepogrešivo tačan"
+        "biti veoma precizan",
+        "biti pouzdan",
+        "ne kasniti",
+        "raditi besprekorno"
       ],
-      "literal_ru": "точный как швейцарские часы",
-      "register": "razgovorno, ekspresivno, pohvalno",
+      "literal_ru": "Точный как швейцарские часы.",
+      "register": "Разговорное, одобрительное; также рекламное и публицистическое.",
       "examples": [
         {
-          "serbian_latin": "„Tačan kao švajcarski sat“: Dominacija na svetskom tržištu se nastavlja!",
-          "russian": "«Точный как швейцарские часы»: господство на мировом рынке продолжается!",
-          "source": "Blic, 2023",
-          "url": "https://www.blic.rs/biznis/privreda/evo-zasto-su-svajcarski-satovi-najskuplji-na-svetu/y5gw2b8"
+          "serbian_latin": "„Tačan kao švajcarski sat“, kaže naš narod.",
+          "russian": "«Точный как швейцарские часы», — говорят в народе.",
+          "source": "Vojvodina uživo, 2022",
+          "url": "https://vojvodinauzivo.rs/srbin-lazar-konstruisao-sat-200-godina-pre-svajcaraca/"
         },
         {
-          "serbian_latin": "Švajcarci tačni kao sat — preko Alžira do osmine finala Mundijala.",
-          "russian": "Швейцарцы точны как часы: победив Алжир, они вышли в одну восьмую финала чемпионата мира.",
-          "source": "Sputnik Srbija, 2026",
-          "url": "https://lat.sputnikportal.rs/20260703/svajcarska-alzir-sesnaestina-finala-mundijal-sport-fudbal-1200934883.html"
+          "serbian_latin": "Sanogo tačan kao švajcarski sat.",
+          "russian": "Саного точен как швейцарские часы.",
+          "source": "ФК «Црвена звезда», 2020",
+          "url": "https://www.crvenazvezdafk.com/vesti/sanogo-tacan-kao-svajcarski-sat"
         }
       ],
-      "note": "Сербская форма — tačan kao švajcarski sat. Встречается сокращённый вариант tačan kao sat. Хорватская форма točan kao švicarski sat не используется как заголовочная.",
+      "note": "Может характеризовать человека, расписание, механизм, расчёт или точное спортивное действие.",
       "keyword": "sat"
     },
     {
