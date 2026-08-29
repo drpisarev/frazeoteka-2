@@ -317,6 +317,34 @@
       "keyword": "baciti ljagu"
     },
     {
+      "headword_latin": "baciti oko na nekoga / nešto",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Положить глаз на кого-либо или что-либо; заинтересоваться; присмотреть кого-либо или что-либо для себя.",
+      "synonyms_sr": [
+        "zainteresovati se za nekoga / nešto",
+        "zagledati nekoga",
+        "nameriti se na nešto"
+      ],
+      "literal_ru": "Бросить глаз на кого-либо или что-либо.",
+      "register": "разговорное; часто публицистическое",
+      "examples": [
+        {
+          "serbian_latin": "Gigant bacio oko na Srbiju: U planu velike investicije.",
+          "russian": "Гигант положил глаз на Сербию: планируются крупные инвестиции.",
+          "source": "B92, 2024",
+          "url": "https://www.b92.net/biz/srbija/vesti/40075/gigant-bacio-oko-na-srbiju-u-planu-velike-investicije/vest"
+        },
+        {
+          "serbian_latin": "Pevač bacio oko na Anđelu Đuričić.",
+          "russian": "Певец положил глаз на Анджелу Джуричич.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/pevac-bacio-oko-na-andjelu-djuricic-sada-uslikan-u-herceg-novom/bx1ee6r"
+        }
+      ],
+      "note": "Выражение может обозначать как романтический интерес, так и желание приобрести объект, вложить в него деньги или установить над ним контроль. Употребляется конструкция baciti oko na с винительным падежом.",
+      "keyword": "oko"
+    },
+    {
       "headword_latin": "baciti rukavicu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Бросить вызов; открыто предложить соперничество или противостояние.",
@@ -867,6 +895,34 @@
       ],
       "note": "Govori se o događaju čiji su se prvi znaci već pojavili, iako se sam događaj još nije desio. Može se odnositi na pozitivne i negativne događaje.",
       "keyword": "pomol"
+    },
+    {
+      "headword_latin": "biti na sedmom nebu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Быть на седьмом небе; испытывать огромное счастье или восторг.",
+      "synonyms_sr": [
+        "biti presrećan",
+        "biti van sebe od sreće",
+        "blistati od sreće"
+      ],
+      "literal_ru": "Быть на седьмом небе.",
+      "register": "разговорное, экспрессивное, одобрительное",
+      "examples": [
+        {
+          "serbian_latin": "Umesto da se kaže „biti blažen“, „izuzetno srećan“, „presrećan“ i sl., u nas se često govori: biti na sedmom nebu.",
+          "russian": "Вместо «быть блаженным», «чрезвычайно счастливым», «счастливым сверх меры» у нас часто говорят: быть на седьмом небе.",
+          "source": "N2, 2020",
+          "url": "https://n2.rs/mozaik/zasto-se-kaze-biti-na-sedmom-nebu/"
+        },
+        {
+          "serbian_latin": "Da li znate zbog čega se kaže da ste na sedmom nebu kada ste zaljubljeni?",
+          "russian": "Знаете ли вы, почему, когда вы влюблены, говорят, что вы на седьмом небе?",
+          "source": "Objektiv, 2022",
+          "url": "https://objektiv.rs/vest/1008845/da-li-znate-zbog-cega-se-kaze-da-ste-na-sedmom-nebu-kada-ste-zaljubljeni-objasnjenje-ce-vas-iznenaditi/"
+        }
+      ],
+      "note": "Обычно описывает очень сильную радость, влюблённость или удовлетворение удачным развитием событий.",
+      "keyword": "nebo"
     },
     {
       "headword_latin": "Biti pravi Pera Ždera",
@@ -1841,6 +1897,35 @@
       "keyword": "šaka; kapa"
     },
     {
+      "headword_latin": "dići ruke od nekoga / nečega",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Махнуть рукой на кого-либо или что-либо; отказаться от дальнейших попыток; перестать поддерживать.",
+      "synonyms_sr": [
+        "odustati",
+        "prestati pokušavati",
+        "otpisati nekoga",
+        "prepustiti nekoga sudbini"
+      ],
+      "literal_ru": "Поднять руки от кого-либо или чего-либо.",
+      "register": "разговорное, экспрессивное",
+      "examples": [
+        {
+          "serbian_latin": "Da li su digli ruke od Kosova i Metohije?",
+          "russian": "Неужели они махнули рукой на Косово и Метохию?",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/da-li-su-digli-ruke-od-kosova-i-metohije/"
+        },
+        {
+          "serbian_latin": "„Dogorelo do noktiju“: Da li EU „diže ruke“ od Srbije?",
+          "russian": "«Припекло до ногтей»: неужели ЕС махнул рукой на Сербию?",
+          "source": "021.rs, 2026",
+          "url": "https://www.021.rs/info/srbija/448269/dogorelo-do-noktiju-da-li-eu-dize-ruke-od-srbije"
+        }
+      ],
+      "note": "После od употребляется родительный падеж. Dići или dignuti ruke обозначает завершённый отказ, тогда как dizati ruke может описывать процесс или повторяющееся действие.",
+      "keyword": "ruka"
+    },
+    {
       "headword_latin": "dići sidro",
       "type": "фразеологизм",
       "definition_ru": "Уйти, уехать, покинуть место или организацию.",
@@ -2429,6 +2514,34 @@
       "keyword": "dlan"
     },
     {
+      "headword_latin": "držati palčeve",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Желать удачи; держать за кого-либо кулаки; морально поддерживать.",
+      "synonyms_sr": [
+        "želeti sreću",
+        "držati fige",
+        "navijati za nekoga"
+      ],
+      "literal_ru": "Держать большие пальцы.",
+      "register": "разговорное, доброжелательное",
+      "examples": [
+        {
+          "serbian_latin": "Koliko puta smo pred ispit, intervju za posao ili važnu utakmicu nekome rekli: „Držim ti palčeve“?",
+          "russian": "Сколько раз перед экзаменом, собеседованием или важным матчем мы говорили кому-нибудь: «Держу за тебя кулаки»?",
+          "source": "24sedam, 2026",
+          "url": "https://24sedam.rs/drustvo/vesti/456946/zasto-se-kaze-drzim-ti-palceve/vest"
+        },
+        {
+          "serbian_latin": "Držimo im palčeve: Srpski osnovci idu po medalje u Split!",
+          "russian": "Держим за них кулаки: сербские школьники едут в Сплит за медалями!",
+          "source": "Telegraf, 2016",
+          "url": "https://www.telegraf.rs/vesti/2270717-drzimo-im-palceve-srpski-osnovci-idu-po-medalje-u-split-foto"
+        }
+      ],
+      "note": "Обычные формы — držim ti palčeve, držimo vam palčeve и držite mi palčeve. Дословное действие не обязательно: выражение прежде всего сообщает о поддержке.",
+      "keyword": "palac"
+    },
+    {
       "headword_latin": "držati se nečega / nekoga kao pijan plota",
       "type": "poređenje",
       "definition_ru": "упрямо держаться за что-либо; цепляться за мнение, правило или человека",
@@ -2764,6 +2877,35 @@
       ],
       "note": "Gledati belo словарно и во фразеологических исследованиях описывается как gledati začuđeno, razrogačenih očiju, то есть смотреть удивлённо и непонимающе; в сопоставительном исследовании ему прямо соответствует значение «смотреть без понимания». Это не совсем русское «смотреть пустым взглядом»: сербское выражение чаще подразумевает конкретную реакцию «я ничего не понял / что ты вообще говоришь?». Очень естественна конструкция gledati nekoga belo: gledao me je belo, gledaju me belo. В художественной прозе выражение употребляется совершенно свободно, что подтверждает его не только разговорный, но и литературно освоенный характер.",
       "keyword": "gledati belo"
+    },
+    {
+      "headword_latin": "gledati kroz prste",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Смотреть сквозь пальцы; намеренно не замечать проступки или нарушения; проявлять снисхождение.",
+      "synonyms_sr": [
+        "tolerisati",
+        "progledati kroz prste",
+        "praviti se da se nešto ne vidi",
+        "prećutno dopuštati"
+      ],
+      "literal_ru": "Смотреть сквозь пальцы.",
+      "register": "разговорное; также публицистическое",
+      "examples": [
+        {
+          "serbian_latin": "Primetili ste da partner laže: Postoje li granice „gledanja kroz prste“?",
+          "russian": "Вы заметили, что партнёр лжёт: есть ли предел тому, чтобы смотреть на это сквозь пальцы?",
+          "source": "eKlinika, 2026",
+          "url": "https://eklinika.telegraf.rs/psihologija/173146-primetili-ste-da-partner-laze-postoje-li-granice-gledanja-kroz-prste"
+        },
+        {
+          "serbian_latin": "Stižu velika pravila za tehnički pregled — od 2027. više neće biti „gledanja kroz prste“.",
+          "russian": "Грядут серьёзные изменения в правилах техосмотра: с 2027 года больше не будут смотреть сквозь пальцы.",
+          "source": "Biz Portal, 2026",
+          "url": "https://bizportal.rs/biz-info/srbija/101069444/stizu-velika-pravila-za-tehnicki-pregled---od-2027-vise-nece-biti-gledanja-kroz-prste-evo-sta-prvo-proveravaju.html"
+        }
+      ],
+      "note": "Встречаются конструкции gledati nekome kroz prste, gledati kroz prste na nešto и существительное gledanje kroz prste. Обычно подразумевается неоправданная снисходительность.",
+      "keyword": "prst"
     },
     {
       "headword_latin": "gledati nekome kroz prste",
@@ -3113,6 +3255,34 @@
       ],
       "note": "Обозначает прозрачное поведение без тайных целей и скрытых условий. Помимо конструкции igrati otvorenih karata, употребляется именная форма igra otvorenih karata.",
       "keyword": "karta"
+    },
+    {
+      "headword_latin": "igrati se vatrom",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Играть с огнём; сознательно подвергать себя опасности; совершать рискованные действия.",
+      "synonyms_sr": [
+        "opasno rizikovati",
+        "izazivati opasnost",
+        "srljati u nevolju"
+      ],
+      "literal_ru": "Играть с огнём.",
+      "register": "разговорное, предостерегающее; также публицистическое",
+      "examples": [
+        {
+          "serbian_latin": "Ne igrajte se vatrom i vodom!",
+          "russian": "Не играйте с огнём и водой!",
+          "source": "Večernje novosti, 2026",
+          "url": "https://www.novosti.rs/drustvo/vesti/1632723/igrajte-vatrom-vodom-danas-slavimo-ognjenu-mariju-evo-sta-desava-ako-naljutimo"
+        },
+        {
+          "serbian_latin": "Rusi: Igraju se vatrom; svet klizi u Treći svetski rat?",
+          "russian": "Россияне предупреждают: они играют с огнём; мир скатывается к Третьей мировой войне?",
+          "source": "B92, 2024",
+          "url": "https://www.b92.net/info/svet/52943/rusi-igraju-se-vatrom-svet-klizi-u-treci-svetski-rat/vest"
+        }
+      ],
+      "note": "Выражение подчёркивает, что человек понимает опасность или должен её понимать, но всё равно продолжает рискованные действия. Встречается также существительное igra s vatrom.",
+      "keyword": "vatra"
     },
     {
       "headword_latin": "Ima jedna caka",
@@ -3580,6 +3750,35 @@
       ],
       "note": "Хорватское isti drek понятно сербскому читателю, но как основную сербскую форму следует давать isto sranje. Особенно устойчиво расширение isto sranje, drugo pakovanje.",
       "keyword": "sranje"
+    },
+    {
+      "headword_latin": "izaći na videlo",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Выйти наружу; обнаружиться; раскрыться; стать известным.",
+      "synonyms_sr": [
+        "otkriti se",
+        "obznaniti se",
+        "postati poznato",
+        "isplivati na površinu"
+      ],
+      "literal_ru": "Выйти на свет.",
+      "register": "нейтральное; часто публицистическое",
+      "examples": [
+        {
+          "serbian_latin": "Izaći će istina na videlo.",
+          "russian": "Правда выйдет наружу.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/4280073-u-eliti-vanredno-ubacivanje-veceras-on-ulazi-u-belu-kucu-najavljuje-haos-izaci-ce-istina-na-videlo"
+        },
+        {
+          "serbian_latin": "Tek kada je obmanula i Netfliks, istina je izašla na videlo.",
+          "russian": "Лишь когда она обманула и Netflix, правда вышла наружу.",
+          "source": "Stil — Kurir, 2026",
+          "url": "https://stil.kurir.rs/lifestyle/261955/andjela-je-zatvorila-bivsu-devojku-svog-muza-a-onda-je-strasna-istina-izasla-na-videlo"
+        }
+      ],
+      "note": "Подлежащим обычно выступают существительные istina, činjenice, detalji, tajna и prevara. Выражение часто подразумевает, что информация долго скрывалась.",
+      "keyword": "videlo"
     },
     {
       "headword_latin": "Izgledati kao avion",
@@ -4643,6 +4842,35 @@
       ],
       "note": "Русский и сербский фразеологизмы практически полностью совпадают. Krokodilske suze — ложное сожаление и лицемерное сочувствие. Крокодилы действительно выделяют слёзную жидкость, в том числе при кормлении, но не из эмоциональной печали; наблюдение этого физиологического явления породило старый образ хищника, который будто бы «оплакивает» свою жертву.",
       "keyword": "krokodilske suze"
+    },
+    {
+      "headword_latin": "lomiti koplja",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Ломать копья; горячо спорить; вести ожесточённую полемику.",
+      "synonyms_sr": [
+        "žestoko raspravljati",
+        "sporiti se",
+        "voditi polemiku",
+        "sukobljavati stavove"
+      ],
+      "literal_ru": "Ломать копья.",
+      "register": "нейтральное, публицистическое",
+      "examples": [
+        {
+          "serbian_latin": "Glavni trend proleća nekima se baš ne dopada: Patike oko kojih se „lome koplja“.",
+          "russian": "Главный весенний тренд нравится далеко не всем: кроссовки, вокруг которых ломают копья.",
+          "source": "City Magazine — Danas, 2026",
+          "url": "https://citymagazine.danas.rs/moda-i-lepota/moda/glavni-trend-proleca-nekima-se-bas-ne-dopada-patike-oko-kojih-se-lome-koplja/"
+        },
+        {
+          "serbian_latin": "Slučaj oko kog se lome blokaderska koplja: ima tri sina, nijedan se ne zove Žaklina.",
+          "russian": "Случай, вокруг которого ломают копья блокадеры: у него три сына, и ни одного не зовут Жаклина.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/scc/clanak/768579/slucaj-oko-kog-se-lome-blokaderska-koplja-ima-tri-sina-nijedan-se-ne-zove-zaklina"
+        }
+      ],
+      "note": "Часто используется конструкция lomiti koplja oko nečega. Может обозначать не только словесный спор, но и более широкий конфликт интересов или взглядов.",
+      "keyword": "koplje"
     },
     {
       "headword_latin": "maca ti je pojela jezik",
@@ -5979,6 +6207,35 @@
       ],
       "note": "Форма ostati na cedilu описывает положение пострадавшего, а ostaviti nekoga na cedilu — действие того, кто бросил или подвёл другого.",
       "keyword": "cedilo"
+    },
+    {
+      "headword_latin": "ostaviti nekoga bez daha",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Поразить, восхитить или потрясти кого-либо; заставить затаить дыхание.",
+      "synonyms_sr": [
+        "zadiviti nekoga",
+        "ostaviti snažan utisak",
+        "zapanjiti",
+        "oduševiti"
+      ],
+      "literal_ru": "Оставить кого-либо без дыхания.",
+      "register": "экспрессивное; часто рекламное и таблоидное",
+      "examples": [
+        {
+          "serbian_latin": "Usred Beograda ostavila bez daha teksas izdanjem.",
+          "russian": "В центре Белграда она поразила всех своим джинсовым образом.",
+          "source": "Puls Online, 2026",
+          "url": "https://www.pulsonline.rs/puls-poznatih/voditeljka-ostavila-bez-daha-usred-beograda-prezivela-dramu-sa-psihopatom/p38lcdf"
+        },
+        {
+          "serbian_latin": "Kareras publiku ostavio bez daha.",
+          "russian": "Каррерас заставил публику затаить дыхание.",
+          "source": "Večernje novosti, 2024",
+          "url": "https://www.novosti.rs/c/kultura/vesti/1410022/kareras-publiku-ostavio-bez-daha-najveci-tenor-danasnjice-16-godina-nakog-poslednjeg-nastupa-beogradu-sinoc-sava-centru"
+        }
+      ],
+      "note": "Выражение может иметь буквальное значение при описании физической нагрузки или удушья. В данных примерах оно переносное и обозначает исключительно сильное впечатление.",
+      "keyword": "dah"
     },
     {
       "headword_latin": "ostaviti nekoga na cedilu",
@@ -10172,6 +10429,35 @@
       ],
       "note": "После pred употребляется творительный падеж: pred problemom, nasiljem, nepravdom, činjenicama. Выражение подразумевает, что человек знает о проблеме, но намеренно отказывается реагировать. Совершенный вид — zatvoriti oči pred nečim.",
       "keyword": "oči"
+    },
+    {
+      "headword_latin": "zaviti nekoga / nešto u crno",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Принести кому-либо тяжёлое горе; ввергнуть в траур; погубить или сделать несчастным.",
+      "synonyms_sr": [
+        "unesrećiti nekoga",
+        "doneti veliku tugu",
+        "baciti u žalost",
+        "upropastiti"
+      ],
+      "literal_ru": "Завернуть кого-либо или что-либо в чёрное.",
+      "register": "экспрессивное; часто публицистическое",
+      "examples": [
+        {
+          "serbian_latin": "Da li su navijači u Humskoj znali da ih je fudbaler Zvezde zavio u crno?",
+          "russian": "Знали ли болельщики на стадионе в Хумской, что футболист «Звезды» поверг их в отчаяние?",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/sport/fudbal/10078443/fudbaler-crvene-zvezde-uros-sremcevic-zavio-humsku-u-crno"
+        },
+        {
+          "serbian_latin": "Cela Kula zavijena u crno zbog strašne tragedije u Odžacima.",
+          "russian": "Вся Кула погрузилась в траур из-за страшной трагедии в Оджачи.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/hronika/trudna-majka-i-dete-3-stradali-zbog-ovoga-cela-kula-zavijena-u-crno-zbog-tragedije/1hy46jk"
+        }
+      ],
+      "note": "Особенно распространена пассивная конструкция biti zavijen u crno — «быть погружённым в траур». В спортивных заголовках выражение употребляется гиперболически: «нанести тяжёлое поражение, повергнуть в отчаяние».",
+      "keyword": "crno"
     },
     {
       "headword_latin": "završiti iza rešetaka",
