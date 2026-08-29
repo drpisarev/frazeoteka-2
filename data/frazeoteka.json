@@ -3488,6 +3488,34 @@
       "keyword": "prst"
     },
     {
+      "headword_latin": "Imati para kao blata",
+      "type": "frazeologizam",
+      "definition_ru": "денег куры не клюют; иметь денег хоть отбавляй; быть при деньгах",
+      "synonyms_sr": [
+        "biti pun kao brod",
+        "kupati se u novcu",
+        "imati mnogo para"
+      ],
+      "literal_ru": "иметь денег как грязи",
+      "register": "разговорное, экспрессивное; обычно о человеке или организации, располагающих очень большими деньгами",
+      "examples": [
+        {
+          "serbian_latin": "Para kao blata kod Teodosića: VTB liga objavila budžete svih klubova.",
+          "russian": "У Теодосича денег хоть отбавляй: VTB-лига опубликовала бюджеты всех клубов.",
+          "source": "Telegraf, 2017",
+          "url": "https://www.telegraf.rs/sport/2778471-para-kao-blata-kod-teodosica-vtb-liga-objavila-budzete-svih-klubova"
+        },
+        {
+          "serbian_latin": "Imaju para kao blata, a evo kakva izdanja biraju za ovu svečanu priliku.",
+          "russian": "Денег у них куры не клюют, а вот какие наряды они выбирают для этого торжества.",
+          "source": "Žena.rs, 2023",
+          "url": "https://zena.blic.rs/moda/evo-kako-se-oblaci-evropska-elita-na-vencanju-prebogate-princeze-imaju-para-kao-blata/ksk8r9f"
+        }
+      ],
+      "note": "Образ полностью понятен и по-русски, но естественный русский эквивалент чаще «денег куры не клюют». Для русскоязычного полезна форма para: это родительный множественного числа от pare — «деньги», ср. imam para — «у меня есть деньги». Вариант imati love kao blata ещё более разговорный.",
+      "keyword": "para kao blata"
+    },
+    {
       "headword_latin": "Imati posla preko glave",
       "type": "frazeologizam",
       "definition_ru": "быть по уши в работе; иметь работы выше крыши; быть заваленным работой",
@@ -8524,6 +8552,34 @@
       "keyword": "stolica"
     },
     {
+      "headword_latin": "Sedeti skrštenih ruku",
+      "type": "frazeologizam",
+      "definition_ru": "сидеть сложа руки; бездействовать; ничего не предпринимать",
+      "synonyms_sr": [
+        "ne činiti ništa",
+        "pasivno čekati",
+        "ne preduzimati ništa"
+      ],
+      "literal_ru": "сидеть со скрещёнными руками",
+      "register": "общеупотребительное, неодобрительное; часто в отрицательной конструкции ne sedeti skrštenih ruku",
+      "examples": [
+        {
+          "serbian_latin": "Iako emotivno povređena, ni Mira neće sedeti skrštenih ruku.",
+          "russian": "Хотя Мира эмоционально травмирована, сидеть сложа руки она тоже не собирается.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/tv/rts-drama/6013547/.html?print=true"
+        },
+        {
+          "serbian_latin": "Ne želim da sedim skrštenih ruku i gledam kako Srbija ide u pogrešnom pravcu.",
+          "russian": "Я не хочу сидеть сложа руки и смотреть, как Сербия движется в неправильном направлении.",
+          "source": "N1, 2017",
+          "url": "https://n1info.rs/vesti/a223684-Jeremic-Ne-zelim-da-sedim-skrstenih-ruku/"
+        }
+      ],
+      "note": "Русский эквивалент почти полный, но образ немного различается: по-сербски руки skrštene — «скрещены», по-русски обычно «сложены». Возможна и форма без глагола: nećemo skrštenih ruku posmatrati šta se dešava.",
+      "keyword": "skrštenih ruku"
+    },
+    {
       "headword_latin": "sipati / dodati so na ranu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Сыпать соль на рану; усиливать чужую боль, обиду или унижение; напоминанием либо новым поражением делать неприятную ситуацию ещё тяжелее.",
@@ -8708,6 +8764,34 @@
       "keyword": "skupljati mrvice"
     },
     {
+      "headword_latin": "Slatke muke",
+      "type": "frazeologizam",
+      "definition_ru": "приятные хлопоты; приятная проблема; муки выбора между хорошими вариантами",
+      "synonyms_sr": [
+        "prijatna dilema",
+        "muka izbora",
+        "problem koji raduje"
+      ],
+      "literal_ru": "сладкие муки",
+      "register": "разговорное и публицистическое, обычно одобрительное или шутливое; также biti / naći se na slatkim mukama",
+      "examples": [
+        {
+          "serbian_latin": "Spremni smo, vratio se Rade Krunić, svi su na broju, imaću slatke muke.",
+          "russian": "Мы готовы, Раде Крунич вернулся, все в строю — теперь у меня будут приятные муки выбора.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/sport/fudbal/liga_sampiona/6008633/stankovic-zvezda-liga-sampiona-larn-izjava.html"
+        },
+        {
+          "serbian_latin": "Imaće Dešan slatke muke da nacrta defanzivnu liniju pošto na raspolaganju ima igrače za kojih tajni u fudbalu nema.",
+          "russian": "У Дешама будут приятные муки выбора при формировании линии защиты: в его распоряжении первоклассные игроки.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/sport/euro2024/reprezentacije/5390363/francuska-evropsko-prvenstvo-2024-grupa-d.html"
+        }
+      ],
+      "note": "Это не обязательно настоящие трудности. Часто речь идёт о ситуации, когда выбрать сложно именно потому, что хороших вариантов слишком много. Поэтому в спортивной речи trener ima slatke muke почти стандартно говорится о сильном составе и конкуренции за место в команде; в быту оборот шире и может означать любые приятные заботы.",
+      "keyword": "slatke muke"
+    },
+    {
       "headword_latin": "smejati se kao lud na brašno",
       "type": "устойчивое сравнение",
       "definition_ru": "Смеяться без видимой причины; глупо или неудержимо хохотать.",
@@ -8843,6 +8927,34 @@
       ],
       "note": "Образ основан на неподвижности тяжёлого бревна; словарно фиксируются spavati / zaspati kao klada, а также kao top, kao zaklan. Русское «спать как сурок» вполне подходит, но сербский образ ближе к английскому sleep like a log и русскому «спать как убитый».",
       "keyword": "spavati kao klada"
+    },
+    {
+      "headword_latin": "Spavati kao top",
+      "type": "frazeologizam",
+      "definition_ru": "спать как убитый; спать без задних ног; очень крепко спать",
+      "synonyms_sr": [
+        "spavati kao klada",
+        "spavati kao zaklan",
+        "čvrsto spavati"
+      ],
+      "literal_ru": "спать как пушка",
+      "register": "разговорное, экспрессивное; также zaspati kao top; разговорное kao часто сокращается до ko",
+      "examples": [
+        {
+          "serbian_latin": "Predsednik Vlade Japana Fumio Kišida izjavio je da je „spavao kao top“ u zvaničnoj rezidenciji premijera.",
+          "russian": "Премьер-министр Японии Фумио Кисида заявил, что в официальной резиденции спал как убитый.",
+          "source": "N1, 2021",
+          "url": "https://n1info.rs/magazin/lifestyle/japanski-premijer-spavao-kao-top-u-navodno-ukletoj-rezidenciji/"
+        },
+        {
+          "serbian_latin": "Đani u bazenu održao koncert za Slađu, ona spava „kao top“.",
+          "russian": "Джани устроил Сладже концерт прямо из бассейна, а она спит без задних ног.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/isplivao-privatan-snimak-djani-iz-bazena-zapevao-sladji-ona-spava-ko-top/6ehp2cm"
+        }
+      ],
+      "note": "Top здесь действительно означает «пушка», однако из современного значения выражения нельзя надёжно выводить конкретную историю его происхождения. Оборот подчёркивает именно глубину сна: человека трудно разбудить. Близкие spavati kao klada и spavati kao zaklan ещё более разговорны и образны.",
+      "keyword": "spavati kao top"
     },
     {
       "headword_latin": "Spavati snom pravednika",
@@ -8995,6 +9107,34 @@
       "keyword": "srce; pete"
     },
     {
+      "headword_latin": "Sreća je okrenula leđa nekome",
+      "type": "frazeologizam",
+      "definition_ru": "удача отвернулась от кого-то; перестало везти; счастье изменило кому-то",
+      "synonyms_sr": [
+        "prestati imati sreće",
+        "pratiti nekoga maler",
+        "krenuti nekome po zlu"
+      ],
+      "literal_ru": "удача повернулась к кому-то спиной",
+      "register": "экспрессивное; лицо ставится в дательном падеже: sreća mi / ti / mu / joj / nam / im je okrenula leđa",
+      "examples": [
+        {
+          "serbian_latin": "Ali ratna sreća mu je okrenula leđa.",
+          "russian": "Но военная удача от него отвернулась.",
+          "source": "Politika, 2022",
+          "url": "https://www.politika.rs/sr/clanak/522891/dimitrije-tucivuc-veliki-rat"
+        },
+        {
+          "serbian_latin": "Sreća mu je, međutim, okrenula leđa na 28. rođendan, pošto je promašio zicer za pobedu nad Francuskom.",
+          "russian": "Однако в день его 28-летия удача от него отвернулась: он не реализовал верный момент, который мог принести победу над Францией.",
+          "source": "Sport Klub, 2011",
+          "url": "https://sportklub.n1info.rs/kosarka/euroleague/a10779-savanovicu-glavu-gore/"
+        }
+      ],
+      "note": "Конструкция строится так же, как okrenuti leđa nekome — «повернуться к кому-то спиной, отвернуться от кого-то», но субъектом выступает sreća. Поэтому естественна короткая модель sreća mu je okrenula leđa. Русское «удача отвернулась» почти полностью совпадает и по образу, и по употреблению.",
+      "keyword": "sreća okrenula leđa"
+    },
+    {
       "headword_latin": "stajati kao ukopan",
       "type": "устойчивое сравнение",
       "definition_ru": "Стоять как вкопанный; внезапно застыть от удивления, потрясения или испуга.",
@@ -9024,6 +9164,35 @@
       "keyword": "ukopan"
     },
     {
+      "headword_latin": "Stajati na putu nekome / nečemu",
+      "type": "frazeologizam",
+      "definition_ru": "стоять на пути; мешать; препятствовать",
+      "synonyms_sr": [
+        "ometati",
+        "sprečavati",
+        "biti prepreka",
+        "onemogućavati"
+      ],
+      "literal_ru": "стоять на чьём-либо / чём-либо пути",
+      "register": "нейтральное; управление — дательный падеж: stajati nekome / nečemu na putu",
+      "examples": [
+        {
+          "serbian_latin": "Uvek ćemo stajati na putu ovakvih ideja i tendencija.",
+          "russian": "Мы всегда будем препятствовать подобным идеям и тенденциям.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/drustvo/necemo-dozvoliti-fasizaciju-drustva-radomir-lazovic-sa-ulice-na-kojoj-se-dva-kordona-policije-isprecilo-izmedju-antifasista-i-neonacista/"
+        },
+        {
+          "serbian_latin": "Nikozija neće „stajati na putu“ odnosima evropskog bloka sa Ankarom.",
+          "russian": "Никосия не станет препятствовать отношениям европейского блока с Анкарой.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/svet/5859617/kipar-obecava-novi-pristup-tokom-predsedavanja-evropskom-unijom.html"
+        }
+      ],
+      "note": "Для русского особенно важно управление: по-сербски stajati na putu nekome / nečemu, то есть с дательным падежом. Следует различать stajati na putu — «мешать, являться препятствием» и совершенное stati na put nekome / nečemu — «преградить путь, воспрепятствовать, остановить».",
+      "keyword": "stajati na putu"
+    },
+    {
       "headword_latin": "stati na ludi kamen",
       "type": "глагольный фразеологизм",
       "definition_ru": "Жениться или выйти замуж; вступить в брак.",
@@ -9051,6 +9220,35 @@
       ],
       "note": "Шутливое обозначение вступления в брак. Обычно употребляется в формах stao je na ludi kamen и stala je na ludi kamen; выражение не указывает непосредственно, кто женился, а кто вышел замуж.",
       "keyword": "kamen"
+    },
+    {
+      "headword_latin": "Stati na noge",
+      "type": "frazeologizam",
+      "definition_ru": "встать на ноги; оправиться; стать самостоятельным или устойчивым",
+      "synonyms_sr": [
+        "oporaviti se",
+        "osamostaliti se",
+        "stabilizovati se",
+        "konsolidovati se"
+      ],
+      "literal_ru": "встать на ноги",
+      "register": "общеупотребительное; о человеке, семье, фирме, учреждении, бизнесе; как о восстановлении после кризиса, так и о достижении самостоятельности",
+      "examples": [
+        {
+          "serbian_latin": "Nakon nekoliko nedelja ili meseci će biznis stati na noge i počeće dobro da zarađuje ako je ideja dobra.",
+          "russian": "Через несколько недель или месяцев бизнес встанет на ноги и начнёт хорошо зарабатывать, если идея удачная.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/zivot/kako-da-ljudi-prepoznaju-vas-biznis-ili-uslugu"
+        },
+        {
+          "serbian_latin": "Počinjemo da verujemo da firma više nikada neće stati na noge.",
+          "russian": "Мы начинаем думать, что предприятие уже никогда не встанет на ноги.",
+          "source": "RTS, 2011",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/862954/neizvesnost-u-umi-peku-.html"
+        }
+      ],
+      "note": "Сербское и русское выражения очень близки, включая перенос на предприятия и экономику. Помимо «оправиться после кризиса», stati na noge может означать «обрести самостоятельность, начать самому себя обеспечивать». Не путать с biti na nogama, у которого есть другие значения: «быть на ногах», «быть поднятым по тревоге», «бурно реагировать».",
+      "keyword": "stati na noge"
     },
     {
       "headword_latin": "stati nekome na žulj",
@@ -9146,6 +9344,34 @@
       ],
       "note": "Формы staviti, metnuti и baciti glavu u torbu обозначают сознательно пойти на риск. Nositi glavu u torbi описывает уже существующее состояние постоянной опасности.",
       "keyword": "glava; torba"
+    },
+    {
+      "headword_latin": "Staviti / stavljati pod istu kapu",
+      "type": "frazeologizam",
+      "definition_ru": "стричь под одну гребёнку; сваливать в одну кучу; приравнивать разное друг к другу",
+      "synonyms_sr": [
+        "izjednačiti",
+        "svrstati u isti koš",
+        "tretirati kao isto"
+      ],
+      "literal_ru": "поместить под одну шапку",
+      "register": "разговорное и публицистическое, часто неодобрительное; о людях, учреждениях или явлениях, между которыми игнорируют существенные различия",
+      "examples": [
+        {
+          "serbian_latin": "Sva državna preduzeća u kojima država ima 50 odsto i više vlasništva stavimo pod isti krov i pod istu kapu.",
+          "russian": "Все государственные предприятия, в которых государству принадлежит 50 процентов и более, объединим в единую систему.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4211196/lakse-zaposljavanje-u-javnom-sektoru-koja-drzavna-preduzeca-idu-pod-istu-kapu.html"
+        },
+        {
+          "serbian_latin": "Država „pod istu kapu“ stavlja zaposlene u prosveti, zdravstvu sa zaposlenima u administraciji i onima koji rade u propalim državnim preduzećima.",
+          "russian": "Государство стрижёт под одну гребёнку работников образования и здравоохранения, чиновников и сотрудников разорившихся государственных предприятий.",
+          "source": "N1, 2015",
+          "url": "https://n1info.rs/vesti/a36716-Srbijanka-Turajlic-i-Srdjan-Verbic-u-Pressingu-na-N1/"
+        }
+      ],
+      "note": "Выражение нередко содержит именно критику необоснованного уравнивания: разные категории рассматривают так, словно между ними нет важных различий. В административном контексте возможен и более нейтральный смысл «объединить в общую систему». Близкое svrstati u isti koš обычно ещё яснее передаёт русское «свалить всех в одну кучу».",
+      "keyword": "pod istu kapu"
     },
     {
       "headword_latin": "staviti karte na sto",
@@ -10296,6 +10522,35 @@
       "keyword": "stvar; ruke"
     },
     {
+      "headword_latin": "Uzeti maha",
+      "type": "frazeologizam",
+      "definition_ru": "набрать силу; разрастись; принять широкий размах",
+      "synonyms_sr": [
+        "raširiti se",
+        "razbuktati se",
+        "postati sve intenzivniji",
+        "razmahati se"
+      ],
+      "literal_ru": "набрать размах",
+      "register": "нейтрально-экспрессивное, особенно часто публицистическое; о процессе или явлении, которое становится всё масштабнее или интенсивнее",
+      "examples": [
+        {
+          "serbian_latin": "Državni terorizam uzima maha.",
+          "russian": "Государственный террор набирает силу.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/masa-o-slucaju-studentkinje-poljoprivrednog-drzavni-terorizam-uzima-maha/"
+        },
+        {
+          "serbian_latin": "Afrička kuga svinja iz dana u dan sve više uzima maha.",
+          "russian": "Африканская чума свиней с каждым днём распространяется всё шире.",
+          "source": "N1, 2023",
+          "url": "https://n1info.rs/vesti/kuga-doprinela-masakru-svinja-u-srbiji-strah-od-zaraze-na-velikim-farmama/"
+        }
+      ],
+      "note": "В современной прессе особенно часто говорится о кризисе, эпидемии, насилии, протестах, тенденции или другом процессе, который усиливается и распространяется. Однако отрицательное значение не заложено в самом обороте: его задаёт контекст. Mah здесь связан с идеей размаха, набранной силы движения.",
+      "keyword": "uzeti maha"
+    },
+    {
       "headword_latin": "Uzeti nešto s rezervom",
       "type": "frazeologizam",
       "definition_ru": "отнестись к чему-то с оговоркой; воспринимать скептически; не принимать за чистую монету",
@@ -10325,6 +10580,34 @@
       ],
       "note": "Выражение не означает обязательно «не верить». Скорее информация может быть верной, но её нельзя принимать безоговорочно: нужны осторожность, проверка или учёт ограничений. В употреблении нормальны и s rezervom, и очень частое sa rezervom.",
       "keyword": "uzeti s rezervom"
+    },
+    {
+      "headword_latin": "Uzimati / uzeti zdravo za gotovo",
+      "type": "frazeologizam",
+      "definition_ru": "принимать как само собой разумеющееся; считать чем-то гарантированным; принимать без проверки",
+      "synonyms_sr": [
+        "podrazumevati",
+        "prihvatati bez preispitivanja",
+        "smatrati nečim sigurnim"
+      ],
+      "literal_ru": "",
+      "register": "общеупотребительное; объект обычно в винительном падеже: uzimati nešto / nekoga zdravo za gotovo",
+      "examples": [
+        {
+          "serbian_latin": "Normalnost koju naši vršnjaci u nekim delovima sveta uzimaju zdravo za gotovo ostaje nešto o čemu mi i dalje samo sanjamo.",
+          "russian": "Нормальная жизнь, которую наши ровесники в некоторых частях света воспринимают как нечто само собой разумеющееся, для нас по-прежнему остаётся лишь мечтой.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kultura/intervju-daze/"
+        },
+        {
+          "serbian_latin": "Sposobnost sluha je integralni deo života koji većina ljudi uzima zdravo za gotovo.",
+          "russian": "Способность слышать — неотъемлемая часть жизни, которую большинство людей воспринимает как должное.",
+          "source": "Politika, 2021",
+          "url": "https://www.politika.rs/sr/clanak/481979/specijalni-dodaci/savet-orl-specijaliste-koje-je-resenje-za-dobar-sluh"
+        }
+      ],
+      "note": "Выражение нужно запоминать целиком: zdravo здесь нельзя переводить отдельным русским «здорово / здоровый». В зависимости от контекста это либо «считать гарантированным и не ценить», либо «принимать без проверки, сомнений и размышлений». Противоположная полезная конструкция — uzeti nešto s rezervom.",
+      "keyword": "zdravo za gotovo"
     },
     {
       "headword_latin": "vruć krompir",
