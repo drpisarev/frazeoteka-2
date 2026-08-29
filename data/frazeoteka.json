@@ -6042,6 +6042,35 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "Ni pet ni šest",
+      "type": "frazeologizam",
+      "definition_ru": "ни долго думая; вот так сразу; без колебаний",
+      "synonyms_sr": [
+        "bez razmišljanja",
+        "bez oklevanja",
+        "odmah",
+        "tek tako"
+      ],
+      "literal_ru": "ни пять ни шесть",
+      "register": "разг., экспр.; часто в конструкции ni pet ni šest, nego...",
+      "examples": [
+        {
+          "serbian_latin": "Kad će on meni, ni pet ni šest: ili prodaješ ili se razvodimo.",
+          "russian": "А он мне, ни долго думая: либо продаёшь, либо разводимся.",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/vesti/ekonomija/neshvaceni-i-neplaceni-rad-zena-na-selu/"
+        },
+        {
+          "serbian_latin": "Dr Kon – ni pet ni šest – reče da je to bio dan u kome je sedam ljudi umrlo.",
+          "russian": "А доктор Кон ни долго думая заявил, что это был день, когда умерли семь человек.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/krizni-stap/"
+        }
+      ],
+      "note": "Буквальный образ русскому ничего не подсказывает. Выражение вводит действие, совершённое сразу, без долгих размышлений, нередко неожиданное для рассказчика: on ni pet ni šest, nego... По функции близко русским «ни долго думая», «взял да и…», иногда «ни с того ни с сего», но последнее подходит только при оттенке неожиданности.",
+      "keyword": "ni pet ni šest"
+    },
+    {
       "headword_latin": "Ni po babu ni po stričevima",
       "type": "frazeologizam",
       "definition_ru": "беспристрастно; невзирая на родство и связи; по справедливости",
@@ -6980,6 +7009,35 @@
       "keyword": "grana"
     },
     {
+      "headword_latin": "Pasti na pamet",
+      "type": "izraz",
+      "definition_ru": "прийти в голову; взбрести в голову; додуматься",
+      "synonyms_sr": [
+        "setiti se",
+        "pomisliti",
+        "sinuti nekome",
+        "doći na ideju"
+      ],
+      "literal_ru": "",
+      "register": "очень употребительное выражение; лицо в дательном: palo mi je na pamet, nije mu palo na pamet",
+      "examples": [
+        {
+          "serbian_latin": "Nekome ko razmišlja jedan korak unapred će pasti na pamet: uvešćemo tu hranu.",
+          "russian": "Тому, кто думает на шаг вперёд, придёт в голову: будем ввозить эту еду.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5530159/.html"
+        },
+        {
+          "serbian_latin": "To mu svakako nikada više neće pasti na pamet. Ili hoće.",
+          "russian": "Ему наверняка больше никогда не придёт такое в голову. Хотя кто знает.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/magazin/nauka/3207221/kako-se-pravilno-opaza-svet.html"
+        }
+      ],
+      "note": "Для русского здесь важна конструкция: не ja padam na pamet, а meni je palo na pamet. В прошедшем времени особенно часта безличная модель palo mi je na pamet da... — «мне пришло в голову, что / сделать…». С отрицанием ne pada mi na pamet часто означает уже не «не приходит в голову», а решительное «и не подумаю!».",
+      "keyword": "pasti na pamet"
+    },
+    {
       "headword_latin": "Pasti nekome kamen sa srca",
       "type": "rečenični frazem",
       "definition_ru": "У кого-либо отлегло от сердца; кто-либо испытал большое облегчение.",
@@ -7787,6 +7845,35 @@
       "keyword": "poštapalica"
     },
     {
+      "headword_latin": "Povući ručnu",
+      "type": "frazeologizam",
+      "definition_ru": "притормозить; сбавить обороты; остановиться и не спешить",
+      "synonyms_sr": [
+        "usporiti",
+        "zakočiti",
+        "stati",
+        "smiriti se"
+      ],
+      "literal_ru": "потянуть ручник",
+      "register": "разг., экспр.; переносное от ručna kočnica",
+      "examples": [
+        {
+          "serbian_latin": "Ali ajde, rekoh sebi: „Povuci ručnu“, pusti da prođe vreme pre nego što bilo šta zaključiš.",
+          "russian": "Но я сказал себе: «Притормози», дай времени пройти, прежде чем делать выводы.",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/zivot/grad-utisaka/"
+        },
+        {
+          "serbian_latin": "Zaustavi se, silni čoveče, u svom katastrofalnom pohodu. Povuci ručnu!",
+          "russian": "Остановись в своём разрушительном походе. Притормози!",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/dijalog/pisma-citalaca/premijeru-ima-ko-da-pise/"
+        }
+      ],
+      "note": "Помимо буквального автомобильного значения, povući ručnu очень продуктивно переносится на поведение, карьеру, расходы, отношения и политику: «сбавить темп, вовремя остановиться». Русское «дёрнуть ручник» обычно остаётся буквальным, поэтому переводить его буквально не стоит.",
+      "keyword": "povući ručnu"
+    },
+    {
       "headword_latin": "praviti od komarca magarca",
       "type": "фразеологизм",
       "definition_ru": "Делать из мухи слона; чрезмерно преувеличивать незначительную проблему.",
@@ -7815,6 +7902,34 @@
       ],
       "note": "Возможны оба порядка дополнений: praviti od komarca magarca и od komarca praviti magarca. Выражение критикует неоправданную драматизацию.",
       "keyword": "komarac; magarac"
+    },
+    {
+      "headword_latin": "Praviti račun bez krčmara",
+      "type": "frazeologizam",
+      "definition_ru": "делить шкуру неубитого медведя; строить расчёты без того, от кого всё зависит; рассчитывать на ещё не решённое",
+      "synonyms_sr": [
+        "računati unapred",
+        "preuranjeno računati",
+        "praviti plan bez saglasnosti druge strane"
+      ],
+      "literal_ru": "составлять счёт без трактирщика",
+      "register": "разг.-публицист., неодобр.; часто о планах, переговорах и решениях без согласия ключевой стороны",
+      "examples": [
+        {
+          "serbian_latin": "Vojska Srbije u ovom slučaju pravi račun bez krčmara.",
+          "russian": "Армия Сербии в данном случае строит расчёты без того, от кого зависит решение.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/vesti/drustvo/vojska-pravi-racun-bez-krcmara/"
+        },
+        {
+          "serbian_latin": "Beograd upozorava da ne prave račun bez krčmara.",
+          "russian": "Белград предупреждает, чтобы там не делили шкуру неубитого медведя.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/2338466/brezovica-na-ledu-cekajuci-odluku-o-privatizaciji.html"
+        }
+      ],
+      "note": "Русское «делить шкуру неубитого медведя» близко, но сербский оборот сильнее подчёркивает игнорирование того, чьё согласие или решение необходимо. Krčmar — хозяин трактира: невозможно окончательно распорядиться счётом, не считаясь с тем, кто его предъявляет. Встречается и без praviti: to je račun bez krčmara.",
+      "keyword": "račun bez krčmara"
     },
     {
       "headword_latin": "Praviti se lud",
@@ -9529,6 +9644,35 @@
       "keyword": "stajati na putu"
     },
     {
+      "headword_latin": "Star kao Biblija",
+      "type": "frazeologizam",
+      "definition_ru": "стар как мир; древний; очень старый",
+      "synonyms_sr": [
+        "prastar",
+        "star kao Metuzalem",
+        "veoma star",
+        "drevan"
+      ],
+      "literal_ru": "старый как Библия",
+      "register": "разг., экспр., гипербола; о людях, вещах, городах и идеях",
+      "examples": [
+        {
+          "serbian_latin": "Grad star kao Biblija.",
+          "russian": "Город, древний как мир.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/ulica-sabana-bajramovica/"
+        },
+        {
+          "serbian_latin": "Podsećam vas da sam star kao Biblija i Kuran.",
+          "russian": "Напоминаю вам, что я стар как Библия и Коран.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/kultura/a-otac-ludi-od-cudne-ljepote/"
+        }
+      ],
+      "note": "По-русски гораздо естественнее «стар как мир», а буквальное «стар как Библия» звучит необычно. В сербском сравнение может относиться не только к человеку, но и к городу, предмету, истории или идее. Близкое star kao Metuzalem чаще ассоциируется именно с человеком преклонного возраста.",
+      "keyword": "star kao Biblija"
+    },
+    {
       "headword_latin": "stati na ludi kamen",
       "type": "глагольный фразеологизм",
       "definition_ru": "Жениться или выйти замуж; вступить в брак.",
@@ -9612,6 +9756,35 @@
       ],
       "note": "Выражение может быть буквальным, но очень часто обозначает отказ завершить начатое дело, реформу, расследование, проект и т. п. Для русского соответствие почти полное. Особенно типична оценочная формула ne sme se stati na pola puta — «нельзя останавливаться на полпути».",
       "keyword": "stati na pola puta"
+    },
+    {
+      "headword_latin": "Stati nekome na crtu",
+      "type": "frazeologizam",
+      "definition_ru": "бросить кому-то вызов; выйти против кого-то; помериться силами",
+      "synonyms_sr": [
+        "suprotstaviti se",
+        "odmeriti snage",
+        "izaći na megdan",
+        "suočiti se"
+      ],
+      "literal_ru": "встать кому-то на линию",
+      "register": "разг.-публицист., экспр.; лицо обычно в дательном падеже",
+      "examples": [
+        {
+          "serbian_latin": "Moramo svi jedinstveno stati na crtu, kao pojedinci, kao države, kao region.",
+          "russian": "Мы все должны сообща дать отпор — как отдельные люди, как государства, как регион.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/vesti/politika/1303766/istrajnost-u-borbi-protiv-korupcije.html"
+        },
+        {
+          "serbian_latin": "Ko će i na koji način učestvovati na izborima i stati na crtu režimu?",
+          "russian": "Кто и каким образом будет участвовать в выборах и противостоять режиму?",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/politika/istrazivanja-javnog-mnjenja-izbori/"
+        }
+      ],
+      "note": "Это не просто «быть против»: обычно предполагается открытое противостояние, состязание или проверка сил. Очень характерно для политики и спорта: ko može da mu stane na crtu? — «кто способен с ним потягаться?». Не путать с podvući crtu — «подвести черту».",
+      "keyword": "stati na crtu"
     },
     {
       "headword_latin": "stati nekome na žulj",
@@ -9735,6 +9908,35 @@
       ],
       "note": "Выражение нередко содержит именно критику необоснованного уравнивания: разные категории рассматривают так, словно между ними нет важных различий. В административном контексте возможен и более нейтральный смысл «объединить в общую систему». Близкое svrstati u isti koš обычно ещё яснее передаёт русское «свалить всех в одну кучу».",
       "keyword": "pod istu kapu"
+    },
+    {
+      "headword_latin": "Staviti glavu na panj",
+      "type": "frazeologizam",
+      "definition_ru": "поставить голову на кон; рискнуть всем; поручиться своей репутацией",
+      "synonyms_sr": [
+        "rizikovati sve",
+        "preuzeti rizik",
+        "založiti se",
+        "staviti sve na kocku"
+      ],
+      "literal_ru": "положить голову на плаху",
+      "register": "разг.-публицист., экспр.; степень буквальности зависит от контекста",
+      "examples": [
+        {
+          "serbian_latin": "Stavili su glavu na panj pred naučnom zajednicom.",
+          "russian": "Они поставили на кон свою научную репутацию перед научным сообществом.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/magazin/nauka/4063326/viminacijum-sarkofag-hrist-zapis.html"
+        },
+        {
+          "serbian_latin": "Kao častan čovek sam stavio glavu na „panj“.",
+          "russian": "Как честный человек, он сам поставил свою голову на кон.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/drustvo/zoran-mirkovic-castan-odlazak/"
+        }
+      ],
+      "note": "В современном переносном употреблении физическая опасность вовсе не обязательна: можно staviti glavu na panj ради утверждения, решения или прогноза, рискуя карьерой и репутацией. Русское «голову на отсечение» обычно выражает уверенность в истинности слов, а сербский оборот шире и может подчёркивать сам риск.",
+      "keyword": "glavu na panj"
     },
     {
       "headword_latin": "staviti karte na sto",
@@ -10939,6 +11141,35 @@
       "keyword": "uvući se pod kožu"
     },
     {
+      "headword_latin": "Uzdrmati temelje",
+      "type": "frazeologizam",
+      "definition_ru": "потрясти основы; поколебать устои; серьёзно расшатать систему",
+      "synonyms_sr": [
+        "ozbiljno uzdrmati",
+        "poljuljati",
+        "poremetiti iz temelja",
+        "dovesti u pitanje"
+      ],
+      "literal_ru": "расшатать фундамент",
+      "register": "нейтр.-публицист., экспр.; типично с названиями системы, институции или общества",
+      "examples": [
+        {
+          "serbian_latin": "Njegova aktivnost će uticati na odnose između Istoka i Zapada i uzdrmati temelje MI6.",
+          "russian": "Его деятельность повлияет на отношения Востока и Запада и потрясёт основы MI6.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/magazin/nauka/3465033/sivo-je-grinova-omiljena-boja.html"
+        },
+        {
+          "serbian_latin": "Skandal će uzdrmati same temelje francuskog i ostalih evropskih društava.",
+          "russian": "Скандал потрясёт сами основы французского и других европейских обществ.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/drajfus-iz-krusika/"
+        }
+      ],
+      "note": "Сербский образ практически совпадает с русским «потрясти основы». Усилитель same temelje — «сами основы» — очень характерен для публицистики. Глагол uzdrmati не обязательно означает уничтожить систему: скорее серьёзно поколебать её устойчивость.",
+      "keyword": "uzdrmati temelje"
+    },
+    {
       "headword_latin": "uzeti / preuzeti stvar u svoje ruke",
       "type": "глагольный фразеологизм",
       "definition_ru": "Взять дело в свои руки; перестать ждать помощи и начать действовать самостоятельно; установить контроль над ситуацией.",
@@ -11137,6 +11368,63 @@
       ],
       "note": "Выражение нужно запоминать целиком: zdravo здесь нельзя переводить отдельным русским «здорово / здоровый». В зависимости от контекста это либо «считать гарантированным и не ценить», либо «принимать без проверки, сомнений и размышлений». Противоположная полезная конструкция — uzeti nešto s rezervom.",
       "keyword": "zdravo za gotovo"
+    },
+    {
+      "headword_latin": "Vrag je odneo šalu",
+      "type": "izreka",
+      "definition_ru": "шутки кончились; дело стало серьёзным; стало не до шуток",
+      "synonyms_sr": [
+        "nije više šala",
+        "stvar je postala ozbiljna",
+        "dogorelo je do noktiju"
+      ],
+      "literal_ru": "чёрт унёс шутку",
+      "register": "экспр.; о моменте, когда ситуация становится действительно серьёзной или опасной",
+      "examples": [
+        {
+          "serbian_latin": "Dinkić kaže da je „vrag odneo šalu“ i da je krajnje vreme da ojačaju budžeti gradova i opština.",
+          "russian": "Динкич говорит, что шутки кончились и давно пора укреплять бюджеты городов и общин.",
+          "source": "RTS, 2011",
+          "url": "https://www.rts.rs/lat/vesti/politika/898080/intervju-mladjan-dinkic.html"
+        },
+        {
+          "serbian_latin": "Vrag je odneo šalu. Poligraf je u zemlji Dembeliji postao prva i poslednja instanca.",
+          "russian": "Шутки кончились. Полиграф в стране Дурака стал первой и последней инстанцией.",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/vapaji-iz-rupe/"
+        }
+      ],
+      "note": "Vrag в этом выражении — совершенно нормальная сербская форма, её не нужно заменять на đavo. Оборот часто ставится отдельным предложением как резкий переход от прежней терпимости к серьёзному разговору: Vrag je odneo šalu. Русское «чёрт шутку унёс» существует, но гораздо менее обычно, поэтому естественный перевод — «шутки кончились».",
+      "keyword": "vrag je odneo šalu"
+    },
+    {
+      "headword_latin": "Vrteti nekoga oko malog prsta",
+      "type": "frazeologizam",
+      "definition_ru": "вертеть кем-то как хочется; полностью подчинить своему влиянию; манипулировать",
+      "synonyms_sr": [
+        "manipulisati nekim",
+        "upravljati nekim",
+        "raditi s nekim šta hoćeš",
+        "imati nekoga pod kontrolom"
+      ],
+      "literal_ru": "вертеть кого-то вокруг мизинца",
+      "register": "разг., экспр.; объект в винительном падеже",
+      "examples": [
+        {
+          "serbian_latin": "Sultanija Hurem vrtela ga je oko malog prsta i bila uticajnija od samih vezira.",
+          "russian": "Султанша Хюррем вертела им как хотела и была влиятельнее самих визирей.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/kultura/drugacije-vidjenje-otomanskog-carstva/"
+        },
+        {
+          "serbian_latin": "Ne možete ni da zamislite kako me je vrtela oko malog prsta.",
+          "russian": "Вы не представляете, как она мной вертела.",
+          "source": "Blic, 2019",
+          "url": "https://www.blic.rs/zabava/alen-islamovic-zena-alen-islamovic-deca/9s9dyve"
+        }
+      ],
+      "note": "В отличие от русского «обвести вокруг пальца», которое прежде всего значит «обмануть», сербское vrteti oko malog prsta чаще говорит о постоянном влиянии и способности управлять человеком. Однократного обмана здесь может вообще не быть. Русскому поэтому лучше ориентироваться на «вертеть кем-то как хочется».",
+      "keyword": "vrteti oko malog prsta"
     },
     {
       "headword_latin": "vruć krompir",
