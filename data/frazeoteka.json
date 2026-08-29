@@ -4728,6 +4728,35 @@
       "keyword": "zvono"
     },
     {
+      "headword_latin": "Hvatati se za slamku (spasa)",
+      "type": "frazeologizam",
+      "definition_ru": "хвататься за соломинку; цепляться за последнюю надежду",
+      "synonyms_sr": [
+        "tražiti poslednju nadu",
+        "pokušavati sve",
+        "očajnički tražiti izlaz",
+        "držati se poslednje šanse"
+      ],
+      "literal_ru": "хвататься за соломинку (спасения)",
+      "register": "разг.-публицист., экспр.; обычно о слабой или последней возможности избежать поражения или неприятного исхода",
+      "examples": [
+        {
+          "serbian_latin": "Đukanović se hvata za slamku da je koalicija na čelu sa DPS-om osvojila najveći broj mandata.",
+          "russian": "Джуканович цепляется за последнюю соломинку: коалиция во главе с ДПС получила больше всего мандатов.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/dijalog/redakcijski-komentar/posle-niksica/"
+        },
+        {
+          "serbian_latin": "Ne odustaje, hvata se za svaku slamku.",
+          "russian": "Он не сдаётся и хватается за любую соломинку.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/upravni-sud-nije-cesma-da-opere-obraz-sinisi-malom/"
+        }
+      ],
+      "note": "Расширенная форма slamka spasa очень частотна, но hvatati se za slamku уже само по себе имеет фразеологическое значение. Типичная конструкция — hvatati se za svaku slamku. Здесь za требует аккузатива: za slamku.",
+      "keyword": "hvatati se za slamku"
+    },
+    {
       "headword_latin": "I mirna Bosna",
       "type": "izreka",
       "definition_ru": "и всё в порядке; и дело с концом; и никаких споров; и все довольны",
@@ -6178,6 +6207,34 @@
       ],
       "note": "Обычно выражение осуждает публичное обсуждение семейных, супружеских или личных конфликтов. Встречается и конструкция prati prljav veš u javnosti — публично выяснять отношения.",
       "keyword": "veš"
+    },
+    {
+      "headword_latin": "Iznositi prljav veš u javnost",
+      "type": "frazeologizam",
+      "definition_ru": "выносить сор из избы; выставлять грязное бельё напоказ; предавать огласке внутренние скандалы",
+      "synonyms_sr": [
+        "javno iznositi interne probleme",
+        "razotkrivati porodične / interne sukobe",
+        "iznositi intimu u javnost"
+      ],
+      "literal_ru": "выносить грязное бельё на публику",
+      "register": "разг.-публицист., неодобр.; о публичном разглашении конфликтов, компрометирующих подробностей и внутренних дел",
+      "examples": [
+        {
+          "serbian_latin": "Svako ko se brine o interesima stranke ne iznosi prljav veš u javnost.",
+          "russian": "Тот, кому действительно важны интересы партии, не выносит сор из избы.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/politika/jelic-mihailovic-legalno-razresen/"
+        },
+        {
+          "serbian_latin": "Iako izreka kaže da „prljav veš ne treba iznositi u javnost“, meštani sela napravili su od toga njihov zaštitni znak.",
+          "russian": "Хотя поговорка гласит, что грязное бельё не следует выставлять напоказ, жители деревни превратили именно его в свою визитную карточку.",
+          "source": "BBC na srpskom / Danas, 2026",
+          "url": "https://www.danas.rs/bbc-news-serbian/englesko-selo-ukraseno-donjim-vesom-i-brushalterima/"
+        }
+      ],
+      "note": "В сербском нормативно и очень естественно именно iznositi prljav veš u javnost. Вариант с prati возможен как калькированный образ, но для фразеотеки лучше запоминать конструкцию с iznositi. Veš здесь, конечно, переносный: семейные ссоры, партийные интриги, скандалы, компромат.",
+      "keyword": "prljav veš u javnost"
     },
     {
       "headword_latin": "Izvoditi besne gliste",
@@ -8474,6 +8531,35 @@
       "keyword": "ne videti dalje od nosa"
     },
     {
+      "headword_latin": "Ne zna se ko pije, ko plaća",
+      "type": "izreka",
+      "definition_ru": "чёрт ногу сломит; полный бардак; непонятно, кто за что отвечает",
+      "synonyms_sr": [
+        "vlada potpuni haos",
+        "ne zna se ko je za šta odgovoran",
+        "nema nikakvog reda",
+        "sve je zbrkano"
+      ],
+      "literal_ru": "неизвестно, кто пьёт, а кто платит",
+      "register": "разг., экспр., неодобр.; о беспорядке, неясном распределении обязанностей и ответственности",
+      "examples": [
+        {
+          "serbian_latin": "Situacija u svinjarskoj proizvodnji je takva da se „ne zna ni ko pije, ni ko plaća“.",
+          "russian": "В свиноводстве сейчас такой бардак, что вообще непонятно, кто за что отвечает.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5884641/meso-skupo-svinje-jeftine-svinjarstvo.html"
+        },
+        {
+          "serbian_latin": "I vaistinu se ne zna ko pije, a ko plaća.",
+          "russian": "И действительно, уже чёрт ногу сломит: кто что делает и кто за что отвечает — непонятно.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/o-apatiji/"
+        }
+      ],
+      "note": "Выпивка и расчёт здесь лишь образ. Фраза описывает ситуацию, где исчезли правила, роли и ответственность. Варианты ne zna se ko pije, ko plaća, ko pije, a ko plaća и усиленное ni ko pije ni ko plaća сосуществуют.",
+      "keyword": "ko pije ko plaća"
+    },
+    {
       "headword_latin": "Ne znati gde udara",
       "type": "frazeologizam",
       "definition_ru": "не понимать, что делать; метаться; действовать совершенно хаотично",
@@ -9440,6 +9526,35 @@
       "keyword": "od glave do pete"
     },
     {
+      "headword_latin": "Od gotovog praviti veresiju",
+      "type": "frazeologizam",
+      "definition_ru": "упустить почти гарантированный успех; всё испортить в последний момент; из готового сделать проблему",
+      "synonyms_sr": [
+        "prokockati prednost",
+        "upropastiti gotovu stvar",
+        "zakomplikovati gotovo rešen posao",
+        "ispustiti pobedu"
+      ],
+      "literal_ru": "из готового делать покупку в долг",
+      "register": "разг., экспр., неодобр.; особенно частотно в спортивной речи о почти выигранном матче",
+      "examples": [
+        {
+          "serbian_latin": "Navijači pojedinih klubova... gubili su dobijene utakmice, ili, kako se kaže, „od gotovog pravili veresiju“.",
+          "russian": "Болельщики некоторых клубов видели, как их команды умудрялись проигрывать практически выигранные матчи — как говорится, из готового делать проблему.",
+          "source": "RTS, 2011",
+          "url": "https://www.rts.rs/lat/sport/fudbal/908526/najveci-fudbalski-preokreti.html"
+        },
+        {
+          "serbian_latin": "Napravili smo od gotovog veresiju i to pred našim navijačima.",
+          "russian": "Мы сами упустили практически готовую победу, да ещё и перед своими болельщиками.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/vesti/drustvo/poslednji-voz-za-cetvrtfinale/"
+        }
+      ],
+      "note": "Veresija — турцизм со значением «покупка в долг, кредит у продавца»; это значение до сих пор живо. Во фразеологизме контрастируется уже «готовое, надёжное» с чем-то снова неопределённым и сомнительным. Поэтому оборот особенно удобен, когда человек собственными ошибками портит почти решённое дело.",
+      "keyword": "od gotovog veresiju"
+    },
+    {
       "headword_latin": "Od igle do lokomotive",
       "type": "frazeologizam",
       "definition_ru": "всё что угодно; от булавки до паровоза; чего только нет",
@@ -9612,6 +9727,35 @@
       ],
       "note": "Выражение часто подразумевает внезапную и не вполне искреннюю смену позиции под влиянием обстоятельств.",
       "keyword": "ploča"
+    },
+    {
+      "headword_latin": "Okrenuti ćurak (naopako)",
+      "type": "frazeologizam",
+      "definition_ru": "переметнуться; резко сменить позицию; переобуться",
+      "synonyms_sr": [
+        "promeniti stranu",
+        "promeniti stav",
+        "preokrenuti priču",
+        "preleteti (razg.)"
+      ],
+      "literal_ru": "вывернуть тулуп наизнанку",
+      "register": "разг., экспр., неодобр.; особенно о конъюнктурной смене политической или иной позиции",
+      "examples": [
+        {
+          "serbian_latin": "Jeste li spremni na to da će neki od njih, pre ili kasnije, okrenuti ćurak?",
+          "russian": "Готовы ли вы к тому, что некоторые из них рано или поздно переметнутся?",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/sport/milena-delic-djerona-nam-je-vratio-osmeh-na-lica/"
+        },
+        {
+          "serbian_latin": "Dovoljno je da vlast okrene ćurak i proglasi novog prijatelja od dojučerašnjeg neprijatelja.",
+          "russian": "Власти достаточно переобуться и объявить новым другом того, кто ещё вчера был врагом.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/smrt-gospodina-goluze/"
+        }
+      ],
+      "note": "Ćurak — традиционная меховая верхняя одежда; образ легко читается как «вывернуть одежду другой стороной». В переносном значении важна не просто перемена мнения, а подозрение в приспособленчестве: человек быстро меняет позицию вместе с обстоятельствами. Часто встречается развёрнутый вариант okrenuti ćurak naopako.",
+      "keyword": "okrenuti ćurak"
     },
     {
       "headword_latin": "Okrenuti ćurak naopako",
@@ -11304,6 +11448,35 @@
       "keyword": "istina"
     },
     {
+      "headword_latin": "Pokazati pravo lice",
+      "type": "frazeologizam",
+      "definition_ru": "показать истинное лицо; раскрыть свою настоящую сущность; показать, кто ты на самом деле",
+      "synonyms_sr": [
+        "razotkriti se",
+        "pokazati kakav je neko zaista",
+        "otkriti svoje namere",
+        "skinuti masku"
+      ],
+      "literal_ru": "показать настоящее лицо",
+      "register": "нейтр.-публицист., часто неодобр.; о проявившемся характере, намерениях или истинной природе человека или организации",
+      "examples": [
+        {
+          "serbian_latin": "NATO je pre 12 godina pokazao svoje pravo lice bombardovanjem suverene zemlje.",
+          "russian": "НАТО двенадцать лет назад показало своё истинное лицо, подвергнув бомбардировкам суверенную страну.",
+          "source": "RTS, 2011",
+          "url": "https://www.rts.rs/lat/vesti/politika/864090/dss-nato-pokazao-pravo-lice-pre-12-godina.html"
+        },
+        {
+          "serbian_latin": "Svi ovi likovi... u jednom trenutku pokažu svoje pravo lice.",
+          "russian": "Все эти люди в какой-то момент показывают своё истинное лицо.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/773181/dilasovci-udarili-na-studentsku-listu"
+        }
+      ],
+      "note": "Хотя выражение теоретически может быть нейтральным, на практике pokazati pravo lice очень часто означает, что обнаружились неприятные качества или скрытые намерения. Pravo здесь значит не «правое», а «настоящее, подлинное».",
+      "keyword": "pokazati pravo lice"
+    },
+    {
       "headword_latin": "pokazati zube",
       "type": "глагольный фразеологизм",
       "definition_ru": "Оказать сопротивление; продемонстрировать силу и готовность защищать свои интересы.",
@@ -12467,6 +12640,35 @@
       "keyword": "pun kao brod"
     },
     {
+      "headword_latin": "Pun pogodak",
+      "type": "izraz",
+      "definition_ru": "стопроцентное попадание; отличный выбор; то, что надо",
+      "synonyms_sr": [
+        "odličan izbor",
+        "pravi izbor",
+        "pun uspeh",
+        "pogoditi u centar"
+      ],
+      "literal_ru": "полное попадание",
+      "register": "разг.-нейтр., экспр.; может быть буквальным в спорте или стрельбе и переносным — об идее, решении, песне, рекламе, подарке и т. п.",
+      "examples": [
+        {
+          "serbian_latin": "Jednostavno. Jasno. Efektno. U dve reči: pun pogodak!",
+          "russian": "Просто. Ясно. Эффектно. Одним словом — то, что надо!",
+          "source": "Danas, 2012",
+          "url": "https://www.danas.rs/kultura/efgektno-i-pitko/"
+        },
+        {
+          "serbian_latin": "Cecina reakcija dokaz da je napravio pun pogodak.",
+          "russian": "Реакция Цецы — доказательство того, что он попал точно в цель.",
+          "source": "Grand / Nova, 2026",
+          "url": "https://grand.nova.rs/zvezde-granda/keba-objasnio-poentu-cecina-reakcija-dokaz-za-pun-pogodak/"
+        }
+      ],
+      "note": "В переносном значении выражение очень продуктивно: film je pun pogodak, izbor je bio pun pogodak, poklon je pun pogodak. Русские «точное попадание» и «то, что надо» хорошо передают оценочный смысл.",
+      "keyword": "pun pogodak"
+    },
+    {
       "headword_latin": "Punom parom",
       "type": "frazeologizam",
       "definition_ru": "полным ходом; на всех парах; в полную силу",
@@ -13278,6 +13480,63 @@
       ],
       "note": "Здесь русский и сербский фразеологизмы совпадают почти буквально. Выражение интернационально и существует во многих европейских языках. Популярное народное объяснение очень простое: u crkvi miševi nemaju šta da jedu — в церкви мыши не находят запасов еды, как в амбаре или доме. Однако точное историческое происхождение надёжно не установлено: фразеологические исследования связывают образ как с представлением о материальной скромности церкви, так и с более широким европейским фольклором.",
       "keyword": "siromašan kao crkveni miš"
+    },
+    {
+      "headword_latin": "Sitna riba",
+      "type": "frazeologizam",
+      "definition_ru": "мелкая сошка; мелкая рыбёшка; незначительный игрок",
+      "synonyms_sr": [
+        "mali igrač",
+        "nevažna figura",
+        "niži nivo",
+        "sporedni akter"
+      ],
+      "literal_ru": "мелкая рыба",
+      "register": "разг.-публицист., часто пренебр.; о человеке с небольшим влиянием в преступной, политической, деловой или иной иерархии",
+      "examples": [
+        {
+          "serbian_latin": "Sadašnji trgovci oružjem na veliko tek su agenti... Jedan Sloba Tešić u tom poslu je sitna riba.",
+          "russian": "Нынешние крупные торговцы оружием — всего лишь агенты... Слоба Тешич в этом бизнесе мелкая сошка.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/kolumna/milos-vasic/trgovci-oruzjem/"
+        },
+        {
+          "serbian_latin": "S beogradske tačke gledišta, predsednik nekog palanačkog FK je sitna riba.",
+          "russian": "С белградской точки зрения председатель какого-нибудь провинциального футбольного клуба — мелкая сошка.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/alo-pozega-smetnje-na-vezama/"
+        }
+      ],
+      "note": "Здесь речь не о физическом размере, а о месте в иерархии: sitna riba обладает малым влиянием и обычно не принимает ключевых решений. Естественная противоположность — krupna riba «крупная рыба, большая шишка». Особенно частотно выражение в криминальной и политической журналистике.",
+      "keyword": "sitna riba"
+    },
+    {
+      "headword_latin": "Sjaši Kurta da uzjaši Murta",
+      "type": "izreka",
+      "definition_ru": "один ушёл — другой такой же пришёл; шило на мыло; сменились лица, но ничего не изменилось",
+      "synonyms_sr": [
+        "sve ostaje isto",
+        "samo se menjaju ljudi",
+        "promena bez suštinske promene"
+      ],
+      "literal_ru": "слезай, Курта, чтобы сел верхом Мурта",
+      "register": "разг.-публицист., ирон.-неодобр.; прежде всего о политической или кадровой смене без реальных перемен",
+      "examples": [
+        {
+          "serbian_latin": "Sve drugo bi bile puke personalne promene – „sjaši Kurta, da uzjaši Murta“.",
+          "russian": "Всё остальное было бы лишь сменой персоналий: одни ушли, пришли другие такие же.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/bojkot-izbora-nije-resenje-2/"
+        },
+        {
+          "serbian_latin": "„Sjaši Kurta da uzjaši Murta“ izreka je koju sada neretko upotrebljavaju, osporavajući značaj aktuelnih dešavanja.",
+          "russian": "«Слезай, Курта, чтобы сел Мурта» — эту поговорку сейчас нередко используют, утверждая, что происходящее ничего по сути не изменит.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/drustvo/kurta-murta-studenti-protesti-blokade/"
+        }
+      ],
+      "note": "Rečnik SANU фиксирует выражение именно о смене людей или власти, которая не приносит существенных изменений; Kurta и Murta не считаются конкретными историческими персонажами. Исследователи связывают выбор этих имён прежде всего с ритмом, рифмой и узнаваемостью ориентальных имён. По-русски буквальный перевод непонятен, поэтому функционально ближе «шило на мыло».",
+      "keyword": "Kurta Murta"
     },
     {
       "headword_latin": "Skakati po glavi nekome",
@@ -17228,6 +17487,35 @@
       ],
       "note": "Нужно различать две близкие конструкции. Morati duboko zavući ruku u džep означает «прилично раскошелиться», тогда как neko ti zavlači ruku u džep — «кто-то залезает тебе в карман», то есть отнимает деньги посредством цен, налогов, комиссий или обмана. Для русского эта разница определяется прежде всего субъектом действия.",
       "keyword": "zavući ruku u džep"
+    },
+    {
+      "headword_latin": "Zavući se u mišju rupu",
+      "type": "frazeologizam",
+      "definition_ru": "забиться в мышиную нору; спрятаться; залечь на дно и не высовываться",
+      "synonyms_sr": [
+        "sakriti se",
+        "povući se",
+        "ne izlaziti u javnost",
+        "pritajiti se"
+      ],
+      "literal_ru": "забраться в мышиную нору",
+      "register": "разг., экспр., неодобр.; обычно о человеке, который из-за страха, поражения или неловкой ситуации исчезает из публичного пространства",
+      "examples": [
+        {
+          "serbian_latin": "Gde si, dakle, predsedniče Nikoliću, što si se zavukao u mišju rupu?",
+          "russian": "Где же вы, президент Николич, чего это вы забились в мышиную нору?",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/vesti/politika/predsednik/"
+        },
+        {
+          "serbian_latin": "On... se zavukao u mišju rupu na Tehnološkom fakultetu.",
+          "russian": "Он забился в мышиную нору на Технологическом факультете.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/njima-treba-jos-mrtvih/"
+        }
+      ],
+      "note": "Mišja rupa — именно «мышиная нора». Обычно подразумевается не просто уединение, а трусливое или постыдное исчезновение: раньше человек был заметен и громок, а после неприятностей предпочёл спрятаться. Возможна также модель sakriti se u mišju rupu.",
+      "keyword": "mišja rupa"
     },
     {
       "headword_latin": "Zbog sira i vojne muzike",
