@@ -1127,6 +1127,33 @@
       "keyword": "pritisnut uza zid"
     },
     {
+      "headword_latin": "Biti pun sebe",
+      "type": "frazeologizam",
+      "definition_ru": "быть самодовольным; быть слишком высокого мнения о себе; важничать",
+      "synonyms_sr": [
+        "biti uobražen",
+        "biti nadmen",
+        "biti samodopadan",
+        "praviti se važan"
+      ],
+      "literal_ru": "быть полным самого себя",
+      "register": "разг., неодобр.; обычно характеризует самодовольного, самоуверенного или заносчивого человека",
+      "examples": [
+        {
+          "serbian_latin": "Bio je „pun sebe“ i ponašao se kao da je on „država“.",
+          "russian": "Он был донельзя самодоволен и вёл себя так, словно государство — это он.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Pun sebe, sa važnim izrazom lica, spusti slušalicu pred opčinjenim strankama.",
+          "russian": "Самодовольный, с важным выражением лица, он положил трубку перед заворожёнными посетителями.",
+          "source": "Radio Beograd 1 / RTS, 2013"
+        }
+      ],
+      "note": "Это не просто уверенность в себе: pun sebe почти всегда содержит отрицательную оценку — чрезмерное самомнение, важничанье, ощущение собственной исключительности. Для нейтрального «уверенный в себе» нужно samouveren.",
+      "keyword": "pun sebe"
+    },
+    {
       "headword_latin": "Biti sateran / pritisnut uza zid",
       "type": "frazeologizam",
       "definition_ru": "быть загнанным в угол; оказаться в безвыходном положении; быть прижатым к стенке",
@@ -1308,6 +1335,33 @@
       "keyword": "biti u bedaku"
     },
     {
+      "headword_latin": "Biti u svom elementu",
+      "type": "frazeologizam",
+      "definition_ru": "быть в своей стихии; чувствовать себя как рыба в воде; заниматься тем, что хорошо умеешь и любишь",
+      "synonyms_sr": [
+        "osećati se kao kod kuće",
+        "snaći se odlično",
+        "uživati u onome što radiš",
+        "biti svoj na svome"
+      ],
+      "literal_ru": "быть в своей стихии",
+      "register": "нейтр.-разг.; о ситуации или деятельности, в которой человек чувствует себя особенно естественно и уверенно",
+      "examples": [
+        {
+          "serbian_latin": "Moj deda je bio pecaroš, stoga sam u svom elementu.",
+          "russian": "Мой дед был рыбаком, так что здесь я в своей стихии.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Robert je u svom elementu, a ubrzo je i mini-selebriti sa svojim jutjub kanalom.",
+          "russian": "Роберт чувствует себя как рыба в воде и вскоре даже становится местной мини-знаменитостью со своим YouTube-каналом.",
+          "source": "RTS, 2021"
+        }
+      ],
+      "note": "Почти точный аналог русского «быть в своей стихии». Обратная конструкция nisam u svom elementu означает «я здесь не в своей тарелке / это не моя область» и тоже очень употребительна.",
+      "keyword": "u svom elementu"
+    },
+    {
       "headword_latin": "biti u škripcu",
       "type": "glagolski frazem",
       "definition_ru": "Оказаться в затруднительном положении; быть зажатым обстоятельствами; испытывать нехватку чего-либо.",
@@ -1335,6 +1389,32 @@
       ],
       "note": "Uzrok teškoće može se uvesti predlogom sa: biti u škripcu sa vremenom, sa novcem ili sa igračima.",
       "keyword": "škripac"
+    },
+    {
+      "headword_latin": "Biti van sebe",
+      "type": "frazeologizam",
+      "definition_ru": "быть вне себя; потерять голову от сильных эмоций; быть в крайнем возбуждении",
+      "synonyms_sr": [
+        "biti potpuno uzbuđen",
+        "biti izbezumljen",
+        "biti obuzet emocijama"
+      ],
+      "literal_ru": "быть вне себя",
+      "register": "разг.-нейтр., экспр.; почти всегда уточняется причина: van sebe od besa, sreće, straha, očaja",
+      "examples": [
+        {
+          "serbian_latin": "Korisnici su bili van sebe od besa.",
+          "russian": "Пользователи были вне себя от ярости.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Kada smo prvi put čuli njen plač, bio sam van sebe od sreće.",
+          "russian": "Когда мы впервые услышали её плач, я был вне себя от счастья.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "В отличие от русского «быть вне себя», которое без дополнения часто автоматически связывается с гневом, сербское biti van sebe свободно сочетается и с положительными эмоциями: od sreće, radosti. Поэтому причину эмоции важно учитывать при переводе.",
+      "keyword": "biti van sebe"
     },
     {
       "headword_latin": "Blenuti kao tele u šarena vrata",
@@ -1578,6 +1658,32 @@
       ],
       "note": "Это прозрачное устойчивое сравнение, и русский эквивалент практически полный. Сербские исследования цветообозначений подтверждают noć как один из типичных эталонов максимальной черноты наряду с ugljem, mrakom, katranom. Выражение обычно описывает реальный цвет, поэтому не всякое употребление следует считать полноценной идиомой.",
       "keyword": "crn kao noć"
+    },
+    {
+      "headword_latin": "Crven kao rak",
+      "type": "frazeologizam",
+      "definition_ru": "красный как рак; раскрасневшийся донельзя",
+      "synonyms_sr": [
+        "sav crven",
+        "pocrveneo",
+        "zajapuren"
+      ],
+      "literal_ru": "красный как рак",
+      "register": "разг., экспр.; о сильном покраснении от солнца, гнева, жара, стыда или физического напряжения",
+      "examples": [
+        {
+          "serbian_latin": "Linge je stajao u predsoblju kada je Borman, crven kao rak, pored njega projurio u Hitlerovu radnu sobu.",
+          "russian": "Линге стоял в передней, когда Борман, красный как рак, промчался мимо него в кабинет Гитлера.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "Bez najave, u licu crven kao rak, banuo je usred časa.",
+          "russian": "Без предупреждения, красный как рак, он ворвался прямо посреди урока.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Русский и сербский образы совпадают. В сербском выражение особенно часто применяется и к солнечному ожогу — настолько, что Ne budi crven kao rak использовалось как название профилактической кампании по защите от солнца.",
+      "keyword": "crven kao rak"
     },
     {
       "headword_latin": "crven od besa",
@@ -3583,6 +3689,32 @@
       ],
       "note": "Сравнение подчёркивает большое количество смертей за короткое время. Из-за обесценивающего оттенка его следует осторожно употреблять применительно к реальным жертвам.",
       "keyword": "muva"
+    },
+    {
+      "headword_latin": "Gladan kao vuk",
+      "type": "frazeologizam",
+      "definition_ru": "голодный как волк; зверски голодный; жаждущий успеха",
+      "synonyms_sr": [
+        "veoma gladan",
+        "umirati od gladi",
+        "imati vučju glad"
+      ],
+      "literal_ru": "голодный как волк",
+      "register": "разг., экспр.; может описывать настоящий голод, а в спорте и работе — сильную жажду победы или успеха",
+      "examples": [
+        {
+          "serbian_latin": "Onaj iz 2008. bi bio gladan kao vuk, to je sigurno.",
+          "russian": "Тот Новак образца 2008 года был бы голоден как волк — это точно.",
+          "source": "Sport Klub, 2024"
+        },
+        {
+          "serbian_latin": "Ljudi često kada ujutru ustanu kažu: „Gladan sam kao vuk.“",
+          "russian": "Люди часто, встав утром, говорят: «Я голодный как волк».",
+          "source": "Blic, 2020"
+        }
+      ],
+      "note": "Помимо буквального сильного голода, современная спортивная речь активно использует переносное gladan pobeda, gladan uspeha, gladan kao vuk — человек всё ещё чрезвычайно мотивирован и хочет новых побед. Русское выражение совпадает почти полностью.",
+      "keyword": "gladan kao vuk"
     },
     {
       "headword_latin": "Gledati belo",
@@ -6765,6 +6897,33 @@
       "keyword": "na mala vrata"
     },
     {
+      "headword_latin": "Na pretek",
+      "type": "izraz",
+      "definition_ru": "в избытке; хоть отбавляй; навалом",
+      "synonyms_sr": [
+        "u izobilju",
+        "napretek",
+        "više nego dovoljno",
+        "koliko hoćeš"
+      ],
+      "literal_ru": "",
+      "register": "разг.-нейтр.; обычно после imati: imati vremena, razloga, problema, motiva na pretek",
+      "examples": [
+        {
+          "serbian_latin": "Dobila je informaciju da ih je u ovoj opštini, nažalost, na pretek.",
+          "russian": "Она узнала, что в этой общине их, к сожалению, хоть отбавляй.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Uvek morate da nađete motiv, mi ga uvek imamo na pretek.",
+          "russian": "Мотивацию всегда нужно находить, а у нас её всегда хоть отбавляй.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Na pretek означает не просто «достаточно», а «больше чем достаточно, в избытке». Очень естественны модели vremena ima na pretek, primera ima na pretek, problema imamo na pretek. Оборот фактически запоминается целиком.",
+      "keyword": "na pretek"
+    },
+    {
       "headword_latin": "Na prvu loptu",
       "type": "frazeologizam",
       "definition_ru": "с ходу; с первого взгляда; по первой реакции",
@@ -7418,6 +7577,33 @@
       ],
       "note": "Это не просто «не знать, куда идти». Образ описывает потерю ориентации именно в действиях: человек хватается то за одно, то за другое, совершает противоречивые поступки. В отношении человека выражение довольно резкое.",
       "keyword": "ne znati gde udara"
+    },
+    {
+      "headword_latin": "Ne znati šta ga je snašlo",
+      "type": "frazeologizam",
+      "definition_ru": "не понимать, что происходит; опешить; не успеть понять, что на тебя обрушилось",
+      "synonyms_sr": [
+        "biti zatečen",
+        "biti potpuno zbunjen",
+        "ne snaći se",
+        "ostati zatečen"
+      ],
+      "literal_ru": "не знать, что его постигло",
+      "register": "разг., экспр.; местоимение меняется: ne znam šta me je snašlo, nije znao šta ga je snašlo",
+      "examples": [
+        {
+          "serbian_latin": "Nesrećni golfer nije znao šta ga je snašlo.",
+          "russian": "Несчастный гольфист даже не понял, что на него обрушилось.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Kalina u početku nije znao šta ga je snašlo, pogotovo ta brza tranzicija.",
+          "russian": "Калина поначалу вообще не понимал, что происходит, особенно из-за этой быстрой смены фаз игры.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Глагол snaći здесь не тот же самый смысл, что в знакомом русскому snaći se — «сориентироваться, справиться». В безличной конструкции šta ga je snašlo он означает «что его постигло, что с ним случилось». Выражение особенно типично для внезапной неприятности, шока или стремительного развития событий.",
+      "keyword": "šta ga je snašlo"
     },
     {
       "headword_latin": "Neće ti faliti ni dlaka s glave",
@@ -9116,6 +9302,33 @@
       "keyword": "kamen sa srca"
     },
     {
+      "headword_latin": "Pasti nekome mrak na oči",
+      "type": "frazeologizam",
+      "definition_ru": "у кого-то потемнело в глазах от ярости; сорваться; прийти в бешенство",
+      "synonyms_sr": [
+        "pobesneti",
+        "izgubiti kontrolu",
+        "planuti",
+        "pasti u vatru"
+      ],
+      "literal_ru": "кому-то упала тьма на глаза",
+      "register": "разг., экспр.; обычно pao mi / mu / joj je mrak na oči; чаще о внезапном неконтролируемом гневе",
+      "examples": [
+        {
+          "serbian_latin": "Pao mu je mrak na oči, ali to nije opravdanje.",
+          "russian": "У него от ярости потемнело в глазах, но это не оправдание.",
+          "source": "BBC na srpskom / Danas, 2023"
+        },
+        {
+          "serbian_latin": "Pao mi je mrak na oči i lupila sam je!",
+          "russian": "У меня от ярости потемнело в глазах, и я её ударила!",
+          "source": "Blic, 2020"
+        }
+      ],
+      "note": "Русское «в глазах потемнело» может описывать и физическое состояние — слабость, обморок, боль. Сербское pasti nekome mrak na oči в переносном употреблении гораздо чаще означает внезапную ярость и потерю самоконтроля. Поэтому буквальный перевод без контекста может быть двусмысленным.",
+      "keyword": "mrak na oči"
+    },
+    {
       "headword_latin": "Pasti s konja na magarca",
       "type": "frazeologizam",
       "definition_ru": "резко понизиться в положении; сменить лучшее на худшее; пойти на понижение",
@@ -9684,6 +9897,33 @@
       ],
       "note": "Образ основан на поведении кукушки, подкладывающей яйца в чужие гнёзда. В переносном смысле подчёркивается скрытая подмена или перекладывание собственных проблем на другого.",
       "keyword": "kukavica; jaje"
+    },
+    {
+      "headword_latin": "Podviti rep",
+      "type": "frazeologizam",
+      "definition_ru": "поджать хвост; струсить; отступить, присмирев",
+      "synonyms_sr": [
+        "povući se",
+        "ustuknuti",
+        "pokunjiti se",
+        "odustati iz straha"
+      ],
+      "literal_ru": "поджать хвост",
+      "register": "разг., экспр., неодобр.; обычно о трусливом или унизительном отступлении",
+      "examples": [
+        {
+          "serbian_latin": "Mogao sam da biram – ići među borce na front ili „podviti rep“ i sakriti se dok opasnost ne prođe.",
+          "russian": "Я мог выбирать: идти на фронт вместе с бойцами или поджать хвост и спрятаться, пока опасность не минует.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "I u mračnim vremenima ima hrabrih ljudi koji neće podviti rep.",
+          "russian": "Даже в мрачные времена есть смелые люди, которые не подожмут хвост.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Образ полностью понятен русскому: испуганное животное поджимает хвост. Но podviti rep может обозначать не только страх, но и вынужденное унизительное отступление: сначала человек был дерзок или самоуверен, а затем вынужден был отойти назад.",
+      "keyword": "podviti rep"
     },
     {
       "headword_latin": "podvući crtu",
@@ -15014,6 +15254,33 @@
       ],
       "note": "Это не объяснение причины, а демонстративный отказ объяснять. Особенно типично как ответ ребёнку, младшему брату или человеку, который в сотый раз спрашивает zašto?; Vukajlija определяет формулу как ответ на бессмысленный вопрос или вопрос с очевидным ответом. Форму zbog jotovanja как устойчивый сербский эквивалент мне надёжно подтвердить не удалось: в доступных источниках она появляется только как собственно лингвистический термин jotovanje, но не как общеупотребительная отговорка. Поэтому в словарь как равноправный вариант я бы её пока не включал.",
       "keyword": "zbog sira i vojne muzike"
+    },
+    {
+      "headword_latin": "Živeti kao bubreg u loju",
+      "type": "frazeologizam",
+      "definition_ru": "жить припеваючи; жить как сыр в масле; прекрасно устроиться",
+      "synonyms_sr": [
+        "živeti lagodno",
+        "živeti bez briga",
+        "dobro živeti",
+        "uživati"
+      ],
+      "literal_ru": "жить как почка в жиру",
+      "register": "разг., экспр., часто ирон.; обычно о материально обеспеченной и комфортной жизни",
+      "examples": [
+        {
+          "serbian_latin": "Zaklinjemo se Bogu i Vučiću... da ćemo i dalje živeti ko bubreg u loju.",
+          "russian": "Клянёмся Богу и Вучичу... что и дальше будем жить как сыр в масле.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "Građani ni 2016. godine neće živeti kao bubreg u loju, ali će živeti bolje.",
+          "russian": "В 2016 году граждане ещё не будут жить припеваючи, но жить станут лучше.",
+          "source": "Politika, 2014"
+        }
+      ],
+      "note": "Образ связан с тем, что почка окружена жировой тканью, которая служит ей защитой и опорой; отсюда представление о максимально «удобном» положении. В речи выражение нередко ироническое: человек живёт очень комфортно, особенно по сравнению с окружающими.",
+      "keyword": "bubreg u loju"
     },
     {
       "headword_latin": "Žuditi za nečim",
