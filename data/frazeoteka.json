@@ -3725,6 +3725,35 @@
       "keyword": "površina"
     },
     {
+      "headword_latin": "Ispravljati krivu Drinu",
+      "type": "frazeologizam",
+      "definition_ru": "пытаться исправить неисправимое; тратить силы на бесплодное исправление укоренившегося порядка",
+      "synonyms_sr": [
+        "uzalud nešto ispravljati",
+        "pokušavati nemoguće",
+        "boriti se sa nečim nepopravljivim",
+        "uzalud isterivati pravdu"
+      ],
+      "literal_ru": "выпрямлять кривую Дрину",
+      "register": "разг.-публицист., образное; часто с оттенком тщетности, упрямой борьбы с системой или давней несправедливостью",
+      "examples": [
+        {
+          "serbian_latin": "Nije ih napisao da bi se hvalisao i ispravljao krivu Drinu, već da bi potomcima ispričao ko je bio i čime se bavio.",
+          "russian": "Он написал их не для того, чтобы хвастаться или пытаться задним числом исправить неисправимое, а чтобы рассказать потомкам, кем он был и чем занимался.",
+          "source": "Politika, 2021",
+          "url": "https://www.politika.rs/sr/clanak/490700/vojnik-koji-je-odbio-odlicje"
+        },
+        {
+          "serbian_latin": "Od momenta kada sam došla na red otpočelo je moje ispravljanje „krive Drine“.",
+          "russian": "Когда подошла моя очередь, началась моя бесконечная борьба с этой системой.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/telekom-racun-za-mobilni/"
+        }
+      ],
+      "note": "Drina — реальная извилистая река, поэтому образ предельно нагляден: попытка «выпрямить» её течение требует огромных усилий и всё равно обречена. Фразеологизм особенно часто употребляется о бюрократии, исторических спорах и попытках восстановить абсолютную справедливость. Не всегда означает, что цель плоха: акцент именно на тщетности усилий.",
+      "keyword": "Drina"
+    },
+    {
       "headword_latin": "Isto sranje",
       "type": "frazeologizam",
       "definition_ru": "Та же х*рня; одно и то же д*рьмо; никакой существенной разницы.",
@@ -4966,6 +4995,34 @@
       "keyword": "mani se ćorava posla"
     },
     {
+      "headword_latin": "Medveđa usluga",
+      "type": "frazeologizam",
+      "definition_ru": "медвежья услуга; помощь, которая приносит вред",
+      "synonyms_sr": [
+        "nespretna pomoć",
+        "usluga koja nanese štetu",
+        "dobronamerna šteta"
+      ],
+      "literal_ru": "",
+      "register": "общеупотр., неодобр.; часто učiniti / napraviti nekome medveđu uslugu",
+      "examples": [
+        {
+          "serbian_latin": "Takvo olakšavanje je medveđa usluga detetu.",
+          "russian": "Такая «помощь» оказывает ребёнку медвежью услугу.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/1774398/djaci-u-srbiji-ne-umeju-da-uce.html"
+        },
+        {
+          "serbian_latin": "Nismo prvi favoriti, to je medveđa usluga koju drugi plasiraju.",
+          "russian": "Мы не главные фавориты; когда другие представляют нас таковыми, они оказывают нам медвежью услугу.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/sport/kosarka/reprezentacija/5759547/oko-srbija-pred-evrobasket---spartanac-jokic-vodja-zazidanog-kampa.html"
+        }
+      ],
+      "note": "Сербское и русское выражения практически совпадают и по значению, и по оценке: намерение может быть хорошим, но результат вреден. Популярное объяснение связывает оборот с басней Ивана Крылова «Пустынник и медведь»; сербские источники также приводят эту связь, хотя сам сюжет о неуклюжей помощи медведя, по-видимому, старше Крылова.",
+      "keyword": "medved; usluga"
+    },
+    {
       "headword_latin": "Mi o vuku, a vuk na vrata",
       "type": "izreka",
       "definition_ru": "лёгок на помине; вспомнишь о чёрте — а он тут как тут",
@@ -5142,6 +5199,35 @@
       ],
       "note": "Выражение описывает именно равноправное положение сторон, а не просто одинаковый уровень мастерства. Поэтому особенно естественно говорить о переговорах, отношениях, правах и общении. Русское «на равной ноге» структурно близко, хотя современное «на равных» обычно звучит естественнее.",
       "keyword": "na ravnoj nozi"
+    },
+    {
+      "headword_latin": "Naći se u nebranom grožđu",
+      "type": "frazeologizam",
+      "definition_ru": "попасть в затруднительное положение; оказаться в неловкой ситуации; быть застигнутым врасплох",
+      "synonyms_sr": [
+        "naći se u neprilici",
+        "biti u škripcu",
+        "naći se u nezgodnoj situaciji",
+        "ne znati kako se izvući"
+      ],
+      "literal_ru": "оказаться в несобранном винограде",
+      "register": "разг., экспр.; встречается также neobranom grožđu, но форма nebranom хорошо закреплена в современной сербской речи",
+      "examples": [
+        {
+          "serbian_latin": "Kontroverzni filharmoničar našao se u nebranom grožđu, pa je nekako nevešto ponavljao „sve što je bilo u mojoj moći“.",
+          "russian": "Скандально известный руководитель филармонии оказался в неловком положении и довольно неуклюже повторял: «Всё, что было в моих силах».",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/kolumna/natasa-b-odalovic/tanjug-unesko/"
+        },
+        {
+          "serbian_latin": "Prevario sam se i našao se u nebranom grožđu.",
+          "russian": "Я ошибся в расчётах и оказался в затруднительном положении.",
+          "source": "Sport Klub, 2019",
+          "url": "https://sportklub.n1info.rs/skener/sasa-ozmo/a291364-Medicinski-nemoguca-ponuda-za-Novaka-DJokovica/"
+        }
+      ],
+      "note": "Это не просто «у человека проблемы», а ситуация, в которой его обстоятельства застали неподготовленным и он не сразу понимает, как действовать. Выражение давно входит в сербский фразеологический фонд; современная пресса свободно употребляет форму nebranom. Буквальный образ для русского без культурного комментария практически непрозрачен.",
+      "keyword": "nebrano grožđe"
     },
     {
       "headword_latin": "naći zajednički jezik",
@@ -5785,6 +5871,35 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "Ni po babu ni po stričevima",
+      "type": "frazeologizam",
+      "definition_ru": "беспристрастно; невзирая на родство и связи; по справедливости",
+      "synonyms_sr": [
+        "nepristrasno",
+        "po pravdi",
+        "bez protekcije",
+        "bez gledanja ko je čiji"
+      ],
+      "literal_ru": "ни по отцу, ни по дядьям",
+      "register": "устойчивое выражение с архаическим оттенком; часто в политической, судебной и административной речи",
+      "examples": [
+        {
+          "serbian_latin": "Princip je bio – ni po babu ni po stričevima.",
+          "russian": "Принцип был такой: никаких родственников и протекции, решение принимается беспристрастно.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/1988307/posao-za-niske-lekare-ni-po-babu-ni-po-stricevima.html"
+        },
+        {
+          "serbian_latin": "Stara izreka iz narodne pesme ponovo je aktuelna ovih dana. Najpre je Aleksandar Vučić pohvaljen da je postupio ni po babu ni po stričevima.",
+          "russian": "Старинное выражение из народной песни снова стало актуальным: Александра Вучича похвалили за то, что он поступил беспристрастно, не считаясь с личными связями.",
+          "source": "Politika, 2012",
+          "url": "https://www.politika.rs/sr/clanak/228217/ni-po-babu-ni-po-stricevima"
+        }
+      ],
+      "note": "Формула происходит из сербской эпической песни о царе Уроше и Мрнявчевичах, где Марко должен судить не в пользу отца или дядей, а по справедливости. Babo здесь старое «отец», а не современное обращение к дедушке. Выражение давно живёт самостоятельно и употребляется прежде всего о беспристрастном решении без кумовства и протекции.",
+      "keyword": "babo; stričevi"
+    },
+    {
       "headword_latin": "Nije ni ona cvećka",
       "type": "izraz",
       "definition_ru": "она тоже не ангел; она тоже хороша; и за ней водятся грешки",
@@ -6117,6 +6232,35 @@
       ],
       "note": "Обычно подразумевается сознательный отказ от прежних привычек, образа жизни или отношений. Несовершенный вид okretati novi list описывает процесс или неоднократные попытки перемен.",
       "keyword": "list"
+    },
+    {
+      "headword_latin": "Okrenuti ploču",
+      "type": "frazeologizam",
+      "definition_ru": "резко изменить позицию; заговорить по-другому; сменить пластинку",
+      "synonyms_sr": [
+        "promeniti priču",
+        "promeniti stav",
+        "promeniti ton",
+        "promeniti kurs"
+      ],
+      "literal_ru": "перевернуть пластинку",
+      "register": "разг., часто неодобр. или ирон.; обычно о внезапной перемене публичной позиции или версии событий",
+      "examples": [
+        {
+          "serbian_latin": "Prvo je tvrdio da ga je našao u Sibiru, ali onda je „okrenuo ploču“ i „priznao“ da ga je ubio u šumama Minesote.",
+          "russian": "Сначала он утверждал, что нашёл его в Сибири, а потом резко сменил версию и «признался», что убил его в лесах Миннесоты.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/magazin/zanimljivosti/1351360/da-li-je-ovo-bigfut.html"
+        },
+        {
+          "serbian_latin": "Tinejdžer isprozivao Novaka Đokovića pa „okrenuo ploču“: „Šalio sam se“.",
+          "russian": "Подросток раскритиковал Новака Джоковича, а затем пошёл на попятную: «Я пошутил».",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/sport/zoao-fonseka-novak-djokovic/"
+        }
+      ],
+      "note": "Сербское okrenuti ploču связано со старой грампластинкой, которую переворачивали на другую сторону. По смыслу оно ближе к «резко запеть по-другому», чем к русскому раздражённому «сменить пластинку!», которое часто означает «перестань повторять одно и то же».",
+      "keyword": "ploča"
     },
     {
       "headword_latin": "Omaklo mi se",
@@ -6690,6 +6834,35 @@
       ],
       "note": "Лицо, испытавшее облегчение, ставится в дательном падеже: pao mi je, pao mu je, pao joj je, ljudima je pao kamen sa srca. В русском идиоматическом переводе обычно говорится о камне с души.",
       "keyword": "kamen; srce"
+    },
+    {
+      "headword_latin": "Pasti s konja na magarca",
+      "type": "frazeologizam",
+      "definition_ru": "резко понизиться в положении; сменить лучшее на худшее; пойти на понижение",
+      "synonyms_sr": [
+        "nazadovati",
+        "spasti na gore",
+        "preći na lošije",
+        "izgubiti raniji položaj"
+      ],
+      "literal_ru": "пересесть с коня на осла",
+      "register": "разг., экспр.; о должности, статусе, заработке, качестве жизни, условиях",
+      "examples": [
+        {
+          "serbian_latin": "Kako to da ste pristali na prelazak iz Bundeslige u Cvajtu, što bi mnogi doživeli kao pad „s konja na magarca“?",
+          "russian": "Как получилось, что вы согласились перейти из Бундеслиги во вторую лигу — многие восприняли бы это как резкое понижение?",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/drustvo/klop-me-sklonio-bez-objasnjenja/"
+        },
+        {
+          "serbian_latin": "„Pao sa konja na magarca“, te da će se vratiti na Filozofski fakultet, gde je inače profesor.",
+          "russian": "Он «пересел с коня на осла», то есть оказался на существенно менее выгодной должности, и заявил, что вернётся на философский факультет, где работает профессором.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/1814378/primopredaja-duznosti-u-sluzbenom-glasniku-.html"
+        }
+      ],
+      "note": "В живой речи очень часты прошедшие формы pao / spao s konja na magarca. Конь в традиционной системе ценностей выше и престижнее осла, поэтому направление метафоры однозначно — сверху вниз. Русское «из князей в грязи» обычно сильнее и драматичнее.",
+      "keyword": "konj; magarac"
     },
     {
       "headword_latin": "Pasti s kruške",
@@ -7415,6 +7588,35 @@
       "keyword": "komarac; magarac"
     },
     {
+      "headword_latin": "Praviti se lud",
+      "type": "frazeologizam",
+      "definition_ru": "прикидываться дурачком; делать вид, что ничего не понимаешь или не знаешь; уходить от ответственности",
+      "synonyms_sr": [
+        "praviti se nevešt",
+        "glumiti neznanje",
+        "praviti se da ne znaš",
+        "izvlačiti se (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; часто praviti se lud da + prezent или praviti se lud kao da…",
+      "examples": [
+        {
+          "serbian_latin": "Praviti se lud – to je uvek najlakše rešenje.",
+          "russian": "Прикинуться, будто ничего не понимаешь, — всегда самое лёгкое решение.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/politika/3524451/.html?print=true"
+        },
+        {
+          "serbian_latin": "U ovom i ovakvom društvu ne treba sedeti kod kuće, ćutati i praviti se lud.",
+          "russian": "В таком обществе нельзя сидеть дома, молчать и делать вид, будто ничего не происходит.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/kultura/branislav-trifunovic-glumci-nece-otici-kuci/"
+        }
+      ],
+      "note": "Lud здесь не означает настоящую психическую болезнь: речь о сознательной стратегии «я ничего не знаю, ничего не понимаю». Поэтому русский перевод «прикидываться дурачком» обычно точнее буквального «прикидываться сумасшедшим». Частый оттенок — человек всё прекрасно понимает, но изображает неведение, потому что ему так выгоднее.",
+      "keyword": "praviti se lud"
+    },
+    {
       "headword_latin": "Pre roka",
       "type": "kolokacija",
       "definition_ru": "досрочно; раньше срока; до установленного срока",
@@ -7882,6 +8084,35 @@
       "keyword": "tikva"
     },
     {
+      "headword_latin": "Punom parom",
+      "type": "frazeologizam",
+      "definition_ru": "полным ходом; на всех парах; в полную силу",
+      "synonyms_sr": [
+        "punim intenzitetom",
+        "punom snagom",
+        "punim kapacitetom",
+        "bez zastoja"
+      ],
+      "literal_ru": "на полном пару",
+      "register": "нейтр.-экспр., часто публицист.; типично raditi, proizvoditi, pripremati se, odvijati se punom parom",
+      "examples": [
+        {
+          "serbian_latin": "Teklas radi punom parom, proizvodnja raste uprkos epidemiji.",
+          "russian": "«Теклас» работает на полную мощность, производство растёт несмотря на эпидемию.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/4411248/teklas-vranje.html"
+        },
+        {
+          "serbian_latin": "U situaciji kada istorija radi punom parom gde je Srbija?",
+          "russian": "Где находится Сербия в ситуации, когда история идёт полным ходом?",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/tv/rts1/5904027/gost-predsednik-srbije-aleksandar-vucic.html"
+        }
+      ],
+      "note": "Первоначальный технический образ связан с паровыми машинами: достаточное давление пара позволяло машине работать на полной мощности. Сегодня выражение совершенно обычно и вне технического контекста. Русское «на всех парах» очень близко, но сербское punom parom особенно часто означает именно интенсивную работу, а не только быстрое движение.",
+      "keyword": "para"
+    },
+    {
       "headword_latin": "pustiti nekoga niz vodu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Бросить кого-либо на произвол судьбы; прекратить поддержку; предать или пожертвовать кем-либо ради собственных интересов.",
@@ -8143,6 +8374,35 @@
       ],
       "note": "В подтверждённых сербских примерах употребляется форма sa zlatnom kašikom. Сербское слово — kašika; хорватское žlica в заголовок не включается.",
       "keyword": "zlatna kašika"
+    },
+    {
+      "headword_latin": "S koca i konopca",
+      "type": "frazeologizam",
+      "definition_ru": "сброд; разношёрстная компания; собранные неизвестно откуда люди",
+      "synonyms_sr": [
+        "svakojako društvo",
+        "zbrda-zdola skupljeni",
+        "šareno društvo",
+        "ko zna odakle skupljeni"
+      ],
+      "literal_ru": "с кола и с верёвки",
+      "register": "разг., неодобр., иногда резко презр.; главным образом о группе людей сомнительного или крайне разнородного состава",
+      "examples": [
+        {
+          "serbian_latin": "Novi ministarski kabinet na čelu sa starom premijerkom skupljen je „s koca i konopca“.",
+          "russian": "Новый кабинет министров во главе с прежним премьером собран с бору по сосенке.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/minestrone-vlada/"
+        },
+        {
+          "serbian_latin": "Umesto toga, odabrani su osuđivani kriminalac, vođa navijačko-kriminalnih bandi, učesnik poznate afere podmićivanja i slični kompromitovani likovi „s koca i konopca“.",
+          "russian": "Вместо этого выбрали осуждённого преступника, лидера криминализированных фанатских группировок, участника известного коррупционного скандала и других подобных персонажей, собранных неизвестно откуда.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/palikuca-na-univerzitetu-autorski-tekst-zorana-radovanovica/"
+        }
+      ],
+      "note": "Исторический образ намного мрачнее современного значения: kolac — кол, konopac — верёвка для повешения. В сербской традиции выражение связывают с людьми, избежавшими казни на колу или через повешение; такое объяснение приводит и исследование истории смертной казни в Сербии. Сегодня буквальная связь почти не ощущается, но отрицательная оценка группы сохраняется.",
+      "keyword": "kolac; konopac"
     },
     {
       "headword_latin": "s neba pa u rebra",
@@ -9545,6 +9805,35 @@
       ],
       "note": "Значение — нечто совершенно неизвестное или непонятное, а не просто «сложное». Выражение пришло через немецкую фразеологию; Милан Шипка связывает сербское španska sela с немецким spanische Dörfer и обсуждает его вместе с Иваном Клайном и немецко-сербохорватской фразеографией. Популярные газетные версии происхождения заметно расходятся в деталях, поэтому конкретную красивую историю о том, кто именно «изобрёл» выражение, лучше не считать доказанным фактом. Русское «китайская грамота» — отличный функциональный эквивалент: оба языка выбирают далёкую культуру как образ непонятного.",
       "keyword": "špansko selo"
+    },
+    {
+      "headword_latin": "Tražiti dlaku u jajetu",
+      "type": "frazeologizam",
+      "definition_ru": "придираться к мелочам; выискивать недостатки; искать, к чему бы придраться",
+      "synonyms_sr": [
+        "cepidlačiti",
+        "sitničariti",
+        "tražiti mane",
+        "zakerati (razg.)"
+      ],
+      "literal_ru": "искать волос в яйце",
+      "register": "разг., неодобр.; обычно о чрезмерно придирчивом поиске недостатков там, где в целом всё хорошо",
+      "examples": [
+        {
+          "serbian_latin": "Ako tražim dlaku u jajetu, dešavaju se te neke minimalne greške i probaćemo to da ispravimo.",
+          "russian": "Если уж совсем придираться, случаются кое-какие мелкие ошибки, и мы постараемся их исправить.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/sport/sasa-ilic-tobol-ugresic/"
+        },
+        {
+          "serbian_latin": "Priznajem da sam kao dugogodišnji pretplatnik digitalnih replika dva ugledna strana dnevna lista pokušao da pronađem „dlaku u jajetu“ i uputim neku zamerku.",
+          "russian": "Признаюсь, как давний подписчик цифровых версий двух известных зарубежных газет, я попытался найти, к чему придраться, и высказать какое-нибудь замечание.",
+          "source": "Danas, 2012",
+          "url": "https://www.danas.rs/kolumna/vladimir-matkovic/danas-uskoro-i-na-tabletima/"
+        }
+      ],
+      "note": "Образ сильнее нейтрального tražiti greške: недостаток настолько ничтожен, что его приходится буквально «искать в яйце». Часто употребляется условно: ako baš tražimo dlaku u jajetu — «если уж совсем придираться». Русскому близки «искать соринку», «придираться к каждой мелочи».",
+      "keyword": "dlaka; jaje"
     },
     {
       "headword_latin": "Tresla se gora, rodio se miš",
