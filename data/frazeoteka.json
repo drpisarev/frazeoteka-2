@@ -954,6 +954,34 @@
       "keyword": "nebo"
     },
     {
+      "headword_latin": "Biti nekome na vrh jezika",
+      "type": "frazeologizam",
+      "definition_ru": "вертеться на языке; быть на кончике языка; быть вот-вот вспомненным или сказанным",
+      "synonyms_sr": [
+        "zamalo se setiti",
+        "biti pred izgovaranjem",
+        "samo što se nije izgovorilo"
+      ],
+      "literal_ru": "быть на самом кончике языка",
+      "register": "разг.-нейтр.; модель na vrh jezika mi je / bilo mi je",
+      "examples": [
+        {
+          "serbian_latin": "Ko će se pre setiti onoga što nam je svima „na vrh jezika“?",
+          "russian": "Кто быстрее вспомнит то, что у всех нас вертится на языке?",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/tv/rts1/3260713/potera.html"
+        },
+        {
+          "serbian_latin": "Na vrh jezika mi bilo da se opredelim „za“ ili „protiv“ NATO, pa nisam.",
+          "russian": "Уже вертелось на языке высказаться «за» или «против» НАТО, но я не стал.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/kolumna/dejan-a-milic/kabare/"
+        }
+      ],
+      "note": "Сербское na vrh jezika соответствует русскому «на кончике языка». Оно может относиться и к слову, которое никак не удаётся вспомнить, и к реплике, которую человек почти произнёс, но удержался. Для русского полезна конструкция с дательным местоимением: na vrh jezika mi je.",
+      "keyword": "na vrh jezika"
+    },
+    {
       "headword_latin": "Biti pravi Pera Ždera",
       "type": "izraz",
       "definition_ru": "быть настоящим обжорой; быть Робином-Бобином Барабеком; уплетать всё подряд",
@@ -1559,6 +1587,34 @@
       ],
       "note": "В сербском действительно широко живёт формула Čovek planira, a Bog se smeje, иногда čovek kuje planove, a Bog se smeje. Это не столько религиозное утверждение, сколько бытовое напоминание: обстоятельства легко перечёркивают идеально составленные планы. Русское «человек предполагает, а Бог располагает» более книжное; разговорный русский аналог — «хочешь рассмешить Бога — расскажи ему о своих планах».",
       "keyword": "čovek planira a Bog se smeje"
+    },
+    {
+      "headword_latin": "Čuvati / paziti nekoga / nešto kao oči u glavi",
+      "type": "frazeologizam",
+      "definition_ru": "беречь как зеницу ока; беречь пуще всего",
+      "synonyms_sr": [
+        "brižljivo čuvati",
+        "čuvati kao najveću dragocenost",
+        "dobro paziti"
+      ],
+      "literal_ru": "беречь как глаза в голове",
+      "register": "разг.-нейтр., экспр.; употребляется и с людьми, и с предметами, документами, ценностями",
+      "examples": [
+        {
+          "serbian_latin": "Pričali su kako račun čuvaju „kao oči u glavi“ i nazivali su ga alibijem.",
+          "russian": "Они рассказывали, что берегут чек как зеницу ока и называют его своим алиби.",
+          "source": "Politika, 2023",
+          "url": "https://www.politika.rs/sr/articles/amp/541166"
+        },
+        {
+          "serbian_latin": "Uglavnom su to skuplji uređaji za koje su skupljali pare ili ih još otplaćuju pa ih paze „kao oči u glavi“.",
+          "russian": "Обычно это дорогие устройства, на которые долго копили или которые ещё выплачивают, поэтому их берегут как зеницу ока.",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/zivot/tehnologije/sitnice-za-bezbrizniji-zivot/"
+        }
+      ],
+      "note": "Русский и сербский образы очень близки, но сербский обычно употребляет множественное oči: čuvati ga kao oči u glavi. Варианты с čuvati и paziti оба живые; čuvati несколько сильнее подчёркивает сохранность и защиту.",
+      "keyword": "kao oči u glavi"
     },
     {
       "headword_latin": "Ćeraćemo se još",
@@ -3313,6 +3369,64 @@
       ],
       "note": "Оборот означает именно необдуманное движение вперёд — когда человек сначала действует, а потом думает. Популярное объяснение образа связывает его с тем, что в заросли клубники бросаются, не видя скрытых препятствий, однако точное происхождение выражения надёжно не установлено. Название культового югославского сериала Grlom u jagode сделало фразу особенно узнаваемой, но сам фразеологизм существовал независимо от сериала.",
       "keyword": "grlom u jagode"
+    },
+    {
+      "headword_latin": "Ići kao po loju",
+      "type": "frazeologizam",
+      "definition_ru": "идти как по маслу; проходить гладко; идти без сучка без задоринки",
+      "synonyms_sr": [
+        "ići glatko",
+        "teći bez problema",
+        "ići bez zastoja",
+        "ići po planu"
+      ],
+      "literal_ru": "идти словно по салу",
+      "register": "разг.-нейтр., экспр.; о работе, переговорах, процедуре, подготовке и других процессах",
+      "examples": [
+        {
+          "serbian_latin": "Rad na predstavi teče „kao po loju“.",
+          "russian": "Работа над спектаклем идёт как по маслу.",
+          "source": "Politika, 2017",
+          "url": "https://www.politika.rs/sr/clanak/379293/nema-mesta-za-slabe-zar-ne"
+        },
+        {
+          "serbian_latin": "Tako da se glasanje u ponedeljak petog novembra odvijalo „kao po loju“.",
+          "russian": "Поэтому голосование в понедельник, пятого ноября, прошло как по маслу.",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/vesti/drustvo/namerno-pricam-nesto-bez-veze/"
+        }
+      ],
+      "note": "Loj — животный жир, сало; сербский образ поэтому буквально отличается от русского «как по маслу», хотя значение практически идентично. Очень естественны конструкции sve ide kao po loju и posao je išao kao po loju.",
+      "keyword": "kao po loju"
+    },
+    {
+      "headword_latin": "Ići nekome niz dlaku",
+      "type": "frazeologizam",
+      "definition_ru": "гладить по шерсти; поддакивать; угождать; говорить человеку то, что ему приятно слышать",
+      "synonyms_sr": [
+        "povlađivati",
+        "udovoljavati",
+        "dodvoravati se",
+        "ulizivati se"
+      ],
+      "literal_ru": "идти кому-то по направлению шерсти",
+      "register": "разг., экспр., обычно неодобр.; лицо в дательном: ići mu / joj niz dlaku",
+      "examples": [
+        {
+          "serbian_latin": "Narod u Srbiji je raspoložen da „ide niz dlaku“ i da prećutkuje.",
+          "russian": "Люди в Сербии склонны поддакивать и молчать о неудобном.",
+          "source": "N1, 2016",
+          "url": "https://n1info.rs/video/info/a137181-Nenad-Zivkovic-gost-Novog-dana/"
+        },
+        {
+          "serbian_latin": "Kome Vuletić ide „niz dlaku“ kad kaže...?",
+          "russian": "Кому Вулетич подыгрывает, когда говорит...?",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/marginalne-marginalije-vladimira-vuletica-licni-stav-ceda-nedeljkovica/"
+        }
+      ],
+      "note": "Образ прозрачен: если гладить шерсть по направлению роста, животному это приятно. Поэтому ići nekome niz dlaku — приспосабливаться к чужим желаниям, вкусам или предубеждениям, избегая неприятной правды. Русское «гладить по шерсти» существует, но сербский оборот заметно продуктивнее в обычной публицистике и разговорной речи.",
+      "keyword": "ići niz dlaku"
     },
     {
       "headword_latin": "igrati otvorenih karata",
@@ -5737,6 +5851,35 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "Ne dati ni pet para za nekoga / nešto",
+      "type": "frazeologizam",
+      "definition_ru": "ни во что не ставить; совершенно не интересоваться; плевать на кого-то / что-то",
+      "synonyms_sr": [
+        "ne mariti",
+        "ne hajati",
+        "ne ceniti",
+        "ne pridavati značaj"
+      ],
+      "literal_ru": "не дать и пяти пара",
+      "register": "разг., экспр., часто неодобр.; конструкция ne dati ni pet para za + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Reklo bi se da oni ni pet para ne daju ni za vesti iz Brisela koje se odnose na Srbiju.",
+          "russian": "Похоже, им совершенно наплевать даже на новости из Брюсселя, касающиеся Сербии.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/kolumna/milos-mitrovic/nama-je-dobro/"
+        },
+        {
+          "serbian_latin": "Kao da ljudi koji su zaduženi da brinu o našem ugledu u svetu ni pet para ne daju za to.",
+          "russian": "Как будто людям, обязанным заботиться о нашей репутации в мире, на это совершенно наплевать.",
+          "source": "Politika, 2008",
+          "url": "https://www.politika.rs/sr/clanak/54643/sport/srpski-sindrom"
+        }
+      ],
+      "note": "Para исторически была мелкой денежной единицей, но современный оборот давно не воспринимается как реальная денежная оценка. В зависимости от контекста он означает либо «нисколько не ценить», либо «совершенно не заботиться / не интересоваться». Очень близки ne dati ni pišljiva boba и ne dati ni žute banke.",
+      "keyword": "ni pet para"
+    },
+    {
       "headword_latin": "Ne mogu sebi da priuštim",
       "type": "izraz",
       "definition_ru": "я не могу себе позволить; мне это не по карману; я не могу себе этого допустить",
@@ -6193,6 +6336,34 @@
         }
       ],
       "note": "Обычно выражение не означает клиническое психическое расстройство, а разговорно характеризует человека как чудаковатого, не вполне адекватного, совершающего нелепые поступки. Грамматически важно дательное местоимение: nisu mu sve koze na broju, буквально «у него не все козы посчитаны».",
+      "keyword": "nisu sve koze na broju"
+    },
+    {
+      "headword_latin": "Nisu sve koze na broju nekome",
+      "type": "frazeologizam",
+      "definition_ru": "у кого-то не все дома; с головой не всё в порядке; кто-то не в своём уме",
+      "synonyms_sr": [
+        "nije sav svoj",
+        "fali mu daska u glavi",
+        "nije mu sve na mestu"
+      ],
+      "literal_ru": "у кого-то не все козы на месте",
+      "register": "разг., экспр., насмешл. или неодобр.; модель с дательным падежом: nisu mu / joj sve koze na broju",
+      "examples": [
+        {
+          "serbian_latin": "Kroz njihov razgovor postaje jasno da Kesidiju „nisu sve koze na broju“.",
+          "russian": "Из их разговора становится понятно, что у Кэссиди не все дома.",
+          "source": "RTS, 2009",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/164291/obavestajci-sa-super-mocima.html"
+        },
+        {
+          "serbian_latin": "To omogućava i onima kojima nisu sve koze na broju da kupe pušku ili revolver.",
+          "russian": "Это позволяет купить ружьё или револьвер даже тем, у кого не все дома.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/dijalog/pisma-citalaca/na-divljem-zapadu-nista-novo/"
+        }
+      ],
+      "note": "Это бытовая, не медицинская характеристика странного или неадекватного поведения; в лицо может звучать довольно обидно. Для русского важно управление: буквально «у него не все козы на месте» — nisu mu sve koze na broju. Близкое fali mu daska u glavi обычно ещё более насмешливо.",
       "keyword": "nisu sve koze na broju"
     },
     {
@@ -7039,30 +7210,31 @@
     },
     {
       "headword_latin": "Pasti nekome kamen sa srca",
-      "type": "rečenični frazem",
-      "definition_ru": "У кого-либо отлегло от сердца; кто-либо испытал большое облегчение.",
+      "type": "frazeologizam",
+      "definition_ru": "камень с души свалился; почувствовать огромное облегчение; отлегло от сердца",
       "synonyms_sr": [
         "laknuti nekome",
         "odahnuti",
-        "osloboditi se brige",
         "osetiti veliko olakšanje"
       ],
-      "literal_ru": "Камень упал у кого-либо с сердца.",
-      "register": "razgovorno; ekspresivno",
+      "literal_ru": "камень упал с сердца",
+      "register": "разг.-нейтр., экспр.; типичная модель pao mi je kamen sa srca",
       "examples": [
         {
-          "serbian_latin": "Moj prvi utisak je da je ljudima pao kamen sa srca, da im je laknulo, da su prodisali.",
-          "russian": "Моё первое впечатление: у людей отлегло от сердца, им стало легче, они словно снова вздохнули свободно.",
-          "source": "Euronews Srbija, 2025"
+          "serbian_latin": "Veoma sam srećan, pao mi je kamen sa srca.",
+          "russian": "Я очень счастлив, у меня камень с души свалился.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/sport/tenis/5878114/djokovic-eksperti-su-hteli-da-me-penzionisu.html"
         },
         {
-          "serbian_latin": "Pao je kamen sa srca!",
-          "russian": "Наконец камень с души свалился!",
-          "source": "Večernje novosti, 2024"
+          "serbian_latin": "Moram da vam priznam iskreno da mi je pao jedan veliki kamen sa srca.",
+          "russian": "Должен честно признаться: у меня огромный камень с души свалился.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/advokatica-studenata-uhapsenih-posle-vidovdana-bili-su-pokretni-prisluskivaci-prvooptuzeni-kaze-pao-mi-je-kamen-sa-srca/"
         }
       ],
-      "note": "Лицо, испытавшее облегчение, ставится в дательном падеже: pao mi je, pao mu je, pao joj je, ljudima je pao kamen sa srca. В русском идиоматическом переводе обычно говорится о камне с души.",
-      "keyword": "kamen; srce"
+      "note": "Сербский образ использует srce, тогда как русский устойчивый эквивалент обычно говорит о «душе»: «камень с души свалился». Возможен усилитель veliki kamen. Выражение обозначает именно исчезновение тяжёлого беспокойства или напряжения.",
+      "keyword": "kamen sa srca"
     },
     {
       "headword_latin": "Pasti s konja na magarca",
@@ -7124,6 +7296,35 @@
       ],
       "note": "Утвердительная и отрицательная формы заметно расходятся прагматически: kao da je pao s kruške — «растерянный, смушённый, как с луны свалился», а nisam pao s kruške — «я не дурак, не наивный». Rečnik SANU фиксирует это значение. Связь с народными представлениями о груше как «нехорошем» дереве подробно обсуждал Veselin Čajkanović, но конкретный путь превращения поверья во фразеологизм остаётся реконструкцией.",
       "keyword": "pasti s kruške"
+    },
+    {
+      "headword_latin": "Pasti s Marsa",
+      "type": "frazeologizam",
+      "definition_ru": "как с Луны свалиться; быть совершенно не в курсе; выглядеть потерянным и не понимать происходящего",
+      "synonyms_sr": [
+        "biti neobavešten",
+        "biti zbunjen",
+        "ne znati šta se dešava",
+        "biti izgubljen"
+      ],
+      "literal_ru": "упасть с Марса",
+      "register": "разг., экспр.; особенно часто kao da je pao / pala s Marsa или jesi li pao s Marsa?",
+      "examples": [
+        {
+          "serbian_latin": "Ovaj radoznali duh u pretežno klaustrofobičnoj i provincijskoj kulturi deluje kao da je pao s Marsa.",
+          "russian": "Этот любознательный человек в преимущественно замкнутой провинциальной культуре выглядит словно свалившимся с Луны.",
+          "source": "Blic, 2007",
+          "url": "https://www.blic.rs/kultura/vesti/recnik-olujnih-vremena/h5gk255"
+        },
+        {
+          "serbian_latin": "„Kao da je pao s Marsa“ — rekla je Luna komentarišući očevu reakciju.",
+          "russian": "«Как будто с Луны свалился», — сказала Луна, комментируя реакцию отца.",
+          "source": "Blic, 2022",
+          "url": "https://www.blic.rs/zabava/luni-djogani-propao-plan-da-iznenadi-tatu-gagija-za-rodjendan/btmc1e9"
+        }
+      ],
+      "note": "В русском устойчивый образ — «с Луны свалиться», а в сербском — именно s Marsa. Фраза может характеризовать как полную неосведомлённость, так и растерянность человека, который ведёт себя так, будто впервые видит совершенно обычную ситуацию.",
+      "keyword": "pasti s Marsa"
     },
     {
       "headword_latin": "pasti u vodu",
@@ -9558,6 +9759,35 @@
       "keyword": "srce; pete"
     },
     {
+      "headword_latin": "Srce se stegne nekome",
+      "type": "frazeologizam",
+      "definition_ru": "сердце сжимается; сердце щемит; становится тяжело на душе",
+      "synonyms_sr": [
+        "zaboli srce",
+        "stegne u grudima",
+        "teško padne",
+        "obuzme tuga"
+      ],
+      "literal_ru": "",
+      "register": "экспр.; обычно при сильной печали, тревоге, сострадании или тяжёлом воспоминании; srce mi se stegne",
+      "examples": [
+        {
+          "serbian_latin": "I koliko god vam se srce tada stegne, nekad je teško objasniti.",
+          "russian": "И как бы ни сжималось тогда сердце, иногда это трудно объяснить.",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/marinika-tepic-predsednik-bi-najradije-izveo-tenkove-na-studente-a-zna-da-ne-sme/"
+        },
+        {
+          "serbian_latin": "Kada odu najveći, svet zastane. Zvezde se uskomešaju, disanje se zaustavi, srce se stegne...",
+          "russian": "Когда уходят великие, мир замирает. Звёзды приходят в движение, дыхание останавливается, сердце сжимается...",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/kultura/komemoracija-zarku-lausevicu-jdp/"
+        }
+      ],
+      "note": "Сербский оборот почти совпадает с русским «сердце сжалось», но особенно естественна личная конструкция srce mi se steglo / stegne. Это не обязательно страх: сердце может «сжаться» от горя, сочувствия, тревоги или сильного эмоционального воспоминания.",
+      "keyword": "srce se stegne"
+    },
+    {
       "headword_latin": "Sreća je okrenula leđa nekome",
       "type": "frazeologizam",
       "definition_ru": "удача отвернулась от кого-то; перестало везти; счастье изменило кому-то",
@@ -11035,28 +11265,30 @@
     {
       "headword_latin": "Upasti nekome sekira u med",
       "type": "frazeologizam",
-      "definition_ru": "несказанно повезти; сорвать джекпот; неожиданно получить большую выгоду",
+      "definition_ru": "невероятно повезти; сорвать куш; неожиданно оказаться в очень выгодном положении",
       "synonyms_sr": [
-        "imati veliku sreću",
         "posrećiti se",
+        "imati veliku sreću",
         "dobro proći",
-        "dobiti premiju (preneseno)"
+        "ubosti premiju"
       ],
-      "literal_ru": "топор упал кому-то в мёд",
-      "register": "frazeologizam; najčešće Upala mu je sekira u med",
+      "literal_ru": "у кого-то топор попал в мёд",
+      "register": "разг., экспр.; особенно типична форма upala mu je sekira u med",
       "examples": [
         {
-          "serbian_latin": "Dobio je taj posao bez ikakvih veza — baš mu je upala sekira u med.",
-          "russian": "Ему досталась эта работа без всяких связей — вот уж действительно крупно повезло.",
-          "source": ""
+          "serbian_latin": "Ukućani su rekli da mu je sekira upala u med, a on to odmah shvatio kao ideju za novi proizvod.",
+          "russian": "Домашние сказали, что ему невероятно повезло, а он сразу превратил это в идею для нового продукта.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5039896/tri-generacije-pcelara-u-jednom-domacinstvu.html"
         },
         {
-          "serbian_latin": "Nasledio je stan u centru. Upala mu je sekira u med.",
-          "russian": "Он унаследовал квартиру в центре. Вот это ему повезло.",
-          "source": ""
+          "serbian_latin": "Političari imaju lepljive prste. Upala im sekira u med.",
+          "russian": "У политиков липкие руки. Вот им и привалило счастье.",
+          "source": "Politika, 2017",
+          "url": "https://www.politika.rs/sr/clanak/374546/bratislav-kostadinov-dobitnik-vibove-nagrade"
         }
       ],
-      "note": "Значение — неожиданно оказаться в очень выгодном положении, часто без особых собственных усилий. Именно так современное употребление описывает Blic. Популярное объяснение связывает образ с человеком, который рубил дерево и неожиданно попал топором в дупло с мёдом диких пчёл; однако надёжно доказать конкретный исторический эпизод невозможно, поэтому это лучше считать традиционным объяснением образа, а не установленной этимологией.",
+      "note": "Значение включает элемент неожиданной и часто непропорционально большой удачи: получить много при небольшом усилии или случайно оказаться в выигрышной ситуации. Популярное объяснение связывает образ с дровосеком, случайно обнаружившим мёд диких пчёл в дупле, однако надёжно установленной этимологии этой истории нет.",
       "keyword": "sekira u med"
     },
     {
