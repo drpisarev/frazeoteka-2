@@ -2064,6 +2064,33 @@
       "keyword": "vetar u leđa"
     },
     {
+      "headword_latin": "Dati petama vetra",
+      "type": "frazeologizam",
+      "definition_ru": "дать дёру; унести ноги; быстро сбежать",
+      "synonyms_sr": [
+        "pobeći",
+        "zbrisati",
+        "dati se u beg",
+        "uteći"
+      ],
+      "literal_ru": "дать пяткам ветра",
+      "register": "разг., экспр., часто шутл.; обычно о внезапном быстром бегстве",
+      "examples": [
+        {
+          "serbian_latin": "Pobegao je iz autobusa, sa seta, dao petama vetra i tako stigao do Pančeva.",
+          "russian": "Он выскочил из автобуса, убежал со съёмочной площадки и дал дёру аж до Панчева.",
+          "source": "Telegraf, 2015"
+        },
+        {
+          "serbian_latin": "Kada je shvatio svu težinu situacije, dao je petama vetra i preskočio ogradu.",
+          "russian": "Когда он понял, во что влип, то дал дёру и перемахнул через забор.",
+          "source": "Srbija Danas, 2014"
+        }
+      ],
+      "note": "Очень образный разговорный эквивалент русского «дать дёру». Обычно подразумевается внезапное и быстрое бегство, нередко из-за страха или опасности. Встречается и порядок petama dati vetra, но обычнее dati petama vetra.",
+      "keyword": "dati petama vetra"
+    },
+    {
       "headword_latin": "Dati sve od sebe",
       "type": "frazeologizam",
       "definition_ru": "выложиться полностью; сделать всё возможное; приложить максимум усилий",
@@ -2477,6 +2504,33 @@
       "keyword": "doći će cica na kolica"
     },
     {
+      "headword_latin": "Doći đavo po svoje",
+      "type": "izreka",
+      "definition_ru": "пришла расплата; последствия настигли; за всё приходится платить",
+      "synonyms_sr": [
+        "stići posledice",
+        "doći na naplatu",
+        "platiti cenu",
+        "stići kazna"
+      ],
+      "literal_ru": "чёрт пришёл за своим",
+      "register": "разг., экспр.; о неизбежных неприятных последствиях прежних действий",
+      "examples": [
+        {
+          "serbian_latin": "Ako to ne uradiš, onaj đavo dođe po svoje.",
+          "russian": "Если вовремя не остановишься, рано или поздно придёт расплата.",
+          "source": "Politika, 2025"
+        },
+        {
+          "serbian_latin": "Sad je došao đavo po svoje.",
+          "russian": "Вот теперь и пришла расплата.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Сербское выражение обычно не имеет религиозного смысла: đavo здесь образ неизбежной расплаты. Особенно естественно после периода, когда кто-то игнорировал проблему или пользовался рискованной ситуацией: в конце концов последствия «пришли за своим».",
+      "keyword": "doći đavo po svoje"
+    },
+    {
       "headword_latin": "Doći kao kec na desetku",
       "type": "glagolski frazem",
       "definition_ru": "Прийтись как нельзя кстати; появиться именно тогда, когда это особенно нужно; удачно разрешить ситуацию.",
@@ -2531,6 +2585,33 @@
       ],
       "note": "U srpskim izvorima potvrđeni su oblici kao kec na desetku i kao kec na deset. Oba označavaju nešto što se pojavilo u naročito pogodnom trenutku.",
       "keyword": "kec; desetka"
+    },
+    {
+      "headword_latin": "Doći na svoje",
+      "type": "frazeologizam",
+      "definition_ru": "прийти в норму; встать на свои места; раскрыться, проявить себя",
+      "synonyms_sr": [
+        "srediti se",
+        "vratiti se u normalu",
+        "pokazati pun potencijal",
+        "doći na pravo mesto"
+      ],
+      "literal_ru": "",
+      "register": "разг.-нейтр.; значение зависит от субъекта",
+      "examples": [
+        {
+          "serbian_latin": "Onog momenta kad shvate da je to sve nebitno... stvari će doći na svoje.",
+          "russian": "Как только они поймут, что всё это несущественно, всё встанет на свои места.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Josipović je rekao da će „i to doći na svoje“.",
+          "russian": "Йосипович сказал, что и это со временем встанет на свои места.",
+          "source": "RTS, 2010"
+        }
+      ],
+      "note": "С неодушевлённым субъектом выражение обычно значит «наладиться, встать на свои места»: sve će doći na svoje. О человеке, особенно спортсмене или артисте, doći na svoje может означать «наконец оказаться в подходящих условиях и полностью проявить себя». Русскому поэтому нельзя автоматически переводить одним вариантом.",
+      "keyword": "doći na svoje"
     },
     {
       "headword_latin": "Doći nekome glave",
@@ -3088,6 +3169,33 @@
       ],
       "note": "Обычные формы — držim ti palčeve, držimo vam palčeve и držite mi palčeve. Дословное действие не обязательно: выражение прежде всего сообщает о поддержке.",
       "keyword": "palac"
+    },
+    {
+      "headword_latin": "Držati se kao pijan plota",
+      "type": "frazeologizam",
+      "definition_ru": "держаться мёртвой хваткой; упорно цепляться; упрямо держаться за что-то",
+      "synonyms_sr": [
+        "tvrdoglavo se držati",
+        "grčevito se držati",
+        "ne popuštati",
+        "slepo se držati"
+      ],
+      "literal_ru": "держаться как пьяный за плетень",
+      "register": "разг., экспр., неодобр.; обычно držati se nečega kao pijan plota",
+      "examples": [
+        {
+          "serbian_latin": "Bend se uglavnom „kao pijan plota“ držao formule koja je prodala prethodne albume.",
+          "russian": "Группа мёртвой хваткой держалась за формулу, которая обеспечила продажи предыдущих альбомов.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "...da se oni koji nemaju legitimitet naroda drže za fotelju „kao pijan plota“.",
+          "russian": "...чтобы те, у кого нет народной поддержки, цеплялись за кресло мёртвой хваткой.",
+          "source": "Politika, 2023"
+        }
+      ],
+      "note": "Plot — традиционный плетень или изгородь. Образ понятен: пьяный цепляется за ограду, чтобы не упасть, и потому держится особенно крепко. В переносном употреблении обычно присутствует неодобрение: человек чрезмерно упрямо держится правила, должности, убеждения или привычной схемы.",
+      "keyword": "kao pijan plota"
     },
     {
       "headword_latin": "držati se nečega / nekoga kao pijan plota",
@@ -4006,6 +4114,33 @@
       ],
       "note": "Типичный субъект здесь — не человек, а обстоятельство: vreme nam ide na ruku, rezultat mu ide na ruku. Поэтому конструкция ближе русскому «это ему на руку», чем «идти кому-то навстречу». Последнее по-сербски обычно передаётся через izaći nekome u susret.",
       "keyword": "ići na ruku"
+    },
+    {
+      "headword_latin": "Ići nekome na živce",
+      "type": "frazeologizam",
+      "definition_ru": "действовать кому-то на нервы; раздражать; бесить",
+      "synonyms_sr": [
+        "nervirati",
+        "iritirati",
+        "smetati",
+        "ići na nerve"
+      ],
+      "literal_ru": "идти на нервы",
+      "register": "разг.; раздражённый человек стоит в дательном: ide mi / ti / mu / joj na živce",
+      "examples": [
+        {
+          "serbian_latin": "Stalno „pljuvanje po Evropi“ ide na živce.",
+          "russian": "Постоянные нападки на Европу действуют на нервы.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Ana Bekuta mi je toliko išla na živce kada je došla i rekla: „E, ovo je prava pesma!“",
+          "russian": "Ана Бекута тогда настолько действовала мне на нервы, когда пришла и сказала: «Вот это настоящая песня!»",
+          "source": "Blic, 2023"
+        }
+      ],
+      "note": "Конструкция очень частотная и грамматически удобная: раздражитель — подлежащее, человек — дательный объект: On mi ide na živce. Возможны единственное na živac и множественное na živce, но именно na živce — обычная нейтрально-разговорная модель.",
+      "keyword": "ići na živce"
     },
     {
       "headword_latin": "Ići nekome niz dlaku",
@@ -6863,6 +6998,33 @@
       "keyword": "priuštiti sebi"
     },
     {
+      "headword_latin": "Ne znati gde udara",
+      "type": "frazeologizam",
+      "definition_ru": "не понимать, что делать; метаться; действовать совершенно хаотично",
+      "synonyms_sr": [
+        "biti potpuno zbunjen",
+        "izgubiti kompas",
+        "paničiti",
+        "postupati nasumično"
+      ],
+      "literal_ru": "не знать, куда бьёшь",
+      "register": "разг., экспр., неодобр.; о потере ориентации в действиях",
+      "examples": [
+        {
+          "serbian_latin": "Narodski rečeno – ne zna gde udara.",
+          "russian": "Грубо говоря, он уже сам не понимает, что делает.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "...na čijem licu je vidljivo da ne zna gde udara...",
+          "russian": "...по лицу которого видно, что он совершенно растерян и не знает, что делать...",
+          "source": "Politika, 2020"
+        }
+      ],
+      "note": "Это не просто «не знать, куда идти». Образ описывает потерю ориентации именно в действиях: человек хватается то за одно, то за другое, совершает противоречивые поступки. В отношении человека выражение довольно резкое.",
+      "keyword": "ne znati gde udara"
+    },
+    {
       "headword_latin": "Neće ti faliti ni dlaka s glave",
       "type": "frazeologizam",
       "definition_ru": "с тебя волос не упадёт; тебя никто не тронет; с тобой ничего не случится",
@@ -7494,6 +7656,32 @@
       ],
       "note": "Оборот особенно характерен для рынков, магазинов, объявлений и перечней услуг. Русское «от булавки до самолёта» или «чего только нет» функционально ближе, хотя буквальное «от иголки до локомотива» тоже понятно и передаёт юмористическую гиперболу.",
       "keyword": "od igle do lokomotive"
+    },
+    {
+      "headword_latin": "Od Kulina bana",
+      "type": "frazeologizam",
+      "definition_ru": "с самого начала; начиная от царя Гороха; излагать всю предысторию от сотворения мира",
+      "synonyms_sr": [
+        "od samog početka",
+        "naširoko i nadugačko",
+        "od početka priče"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспр., часто иронич.; прежде всего pričati / krenuti / početi od Kulina bana",
+      "examples": [
+        {
+          "serbian_latin": "Razlog što idem ovako od Kulina Bana je taj što...",
+          "russian": "Причина, по которой я начинаю издалека, прямо от царя Гороха, состоит в том, что...",
+          "source": "City Magazine / Danas, 2025"
+        },
+        {
+          "serbian_latin": "Prvo od Kulina-bana. Tamo sedamdesetih, pokrenuli smo ovde jedan letnji festival...",
+          "russian": "Но сначала начну с самого начала. В семидесятые мы организовали здесь летний фестиваль...",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Кулин — средневековый бан Боснии, правивший на рубеже XII–XIII веков; имя исторического правителя закрепилось в устойчивом выражении о рассказе «с самых давних времён». Русскому по ситуации подойдут «от царя Гороха», «от сотворения мира», «начать издалека».",
+      "keyword": "od Kulina bana"
     },
     {
       "headword_latin": "Odgovarati nekome",
@@ -10367,6 +10555,33 @@
       "keyword": "saviti glavu"
     },
     {
+      "headword_latin": "Seći granu na kojoj sediš",
+      "type": "frazeologizam",
+      "definition_ru": "рубить сук, на котором сидишь; вредить самому себе; подрывать собственную опору",
+      "synonyms_sr": [
+        "raditi protiv sebe",
+        "sam sebi nanositi štetu",
+        "pucati sebi u nogu",
+        "sam sebi odmagati"
+      ],
+      "literal_ru": "пилить ветку, на которой сидишь",
+      "register": "разг.-публицист., неодобр.; о действии, разрушающем собственную опору",
+      "examples": [
+        {
+          "serbian_latin": "Naivno je verovati da će Vučić seći granu na kojoj sedi, a to je baš korupcija.",
+          "russian": "Наивно полагать, что Вучич станет рубить сук, на котором сидит, а этим суком как раз является коррупция.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Ova vlast neće seći granu na kojoj sedi, a ta grana je striktna kontrola medija.",
+          "russian": "Эта власть не станет рубить сук, на котором сидит, а этот сук — жёсткий контроль над СМИ.",
+          "source": "N1, 2020"
+        }
+      ],
+      "note": "Сербский и русский фразеологизмы полностью совпадают по образу и основному значению. Часто дополнительно называют саму «ветку»: ta grana je novac / podrška / kontrola medija. Близкое pucati sebi u nogu подчёркивает скорее конкретное саморазрушительное действие, а этот оборот — уничтожение собственной опоры.",
+      "keyword": "seći granu na kojoj sediš"
+    },
+    {
       "headword_latin": "sedeti na dve stolice",
       "type": "глагольный фразеологизм",
       "definition_ru": "Пытаться одновременно придерживаться двух несовместимых позиций; лавировать между двумя сторонами ради собственной выгоды.",
@@ -11729,6 +11944,33 @@
       "keyword": "ruku u vatru"
     },
     {
+      "headword_latin": "Staviti sve na kocku",
+      "type": "frazeologizam",
+      "definition_ru": "поставить всё на карту; поставить всё на кон; рискнуть всем",
+      "synonyms_sr": [
+        "rizikovati sve",
+        "staviti sve na jednu kartu",
+        "uložiti sve",
+        "preuzeti najveći rizik"
+      ],
+      "literal_ru": "",
+      "register": "разг.-нейтр., экспр.; kocka здесь связана с азартной игрой и риском",
+      "examples": [
+        {
+          "serbian_latin": "Staviće sve na kocku da osvoji jedan od ova dva turnira.",
+          "russian": "Он поставит всё на карту, чтобы выиграть один из этих двух турниров.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Stavili smo sve na kocku.",
+          "russian": "Мы поставили на кон всё.",
+          "source": "Sport Klub, 2018"
+        }
+      ],
+      "note": "Для русского важен ложный друг kocka: кроме «кубика», слово означает азартную игру и связано с риском. Поэтому staviti nešto na kocku — «поставить что-то на карту»: репутацию, карьеру, деньги, жизнь. С sve риск представлен как максимальный.",
+      "keyword": "staviti sve na kocku"
+    },
+    {
       "headword_latin": "staviti tačku na nešto",
       "type": "глагольный фразеологизм",
       "definition_ru": "Поставить точку в каком-либо деле; окончательно прекратить спор, процесс или отношения.",
@@ -11990,6 +12232,33 @@
       ],
       "note": "Центральная идея — воздаяние, почти бытовая формула кармы: поступок рано или поздно возвращается к человеку. Поэтому русский аналог «не рой другому яму» уже по смыслу: он предупреждает только о зле, сделанном другому, тогда как сербское выражение значительно шире. Дополнительную культурную узнаваемость формуле придала знаменитая песня Tereze Kesovije Sve se vraća, sve se plaća, победившая на Zagrebfestu 1977 года; сама формула, однако, не сводится к названию песни.",
       "keyword": "sve se vraća sve se plaća"
+    },
+    {
+      "headword_latin": "Sve u šesnaest",
+      "type": "izraz",
+      "definition_ru": "вовсю; на полную катушку; изо всех сил",
+      "synonyms_sr": [
+        "punom parom",
+        "svom snagom",
+        "iz sve snage",
+        "punim intenzitetom"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспр.; усиливает действие: raditi, igrati, spavati, hrkati, grejati sve u šesnaest",
+      "examples": [
+        {
+          "serbian_latin": "U to vreme smo sve u šesnaest igrali igricu „Fudbal Menadžer“.",
+          "russian": "В то время мы вовсю играли в «Football Manager».",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Čak mi je jedan kolega, koji odjednom radi seriju za serijom „sve u šesnaest“, rekao...",
+          "russian": "Один коллега, который теперь одну за другой вовсю снимает сериалы, сказал мне...",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Это универсальный разговорный усилитель интенсивности: можно raditi, spavati, igrati, hrkati sve u šesnaest. Точное происхождение выражения не установлено; существуют версии о футболе, музыке и символике числа 16, но надёжного единственного объяснения нет.",
+      "keyword": "sve u šesnaest"
     },
     {
       "headword_latin": "Svirati kurcu",
