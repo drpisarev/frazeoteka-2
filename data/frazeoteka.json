@@ -2911,6 +2911,35 @@
       "keyword": "došla maca na vratanca"
     },
     {
+      "headword_latin": "Držati / ne držati vodu",
+      "type": "frazeologizam",
+      "definition_ru": "выдерживать / не выдерживать критики; быть / не быть убедительным; сходиться логически",
+      "synonyms_sr": [
+        "biti održiv",
+        "imati smisla",
+        "biti ubedljiv",
+        "ne biti uverljiv"
+      ],
+      "literal_ru": "держать / не держать воду",
+      "register": "разг.-публицист.; о доводе, объяснении, расчёте, теории, версии или плане",
+      "examples": [
+        {
+          "serbian_latin": "Predstavnici MMF-a izračunaće da li račun „drži vodu“.",
+          "russian": "Представители МВФ проверят, сходится ли расчёт и выдерживает ли он проверку.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/ekonomija/u-potrazi-za-najmanje-losim-resenjima/"
+        },
+        {
+          "serbian_latin": "Takva ekonomska filozofija ne može da „drži vodu“ sa stanovišta ekonomije obima.",
+          "russian": "Такая экономическая логика не выдерживает критики с точки зрения эффекта масштаба.",
+          "source": "Politika, 2007",
+          "url": "https://www.politika.rs/sr/clanak/6952/cim-napusti-srbiju-mleko-jeftinije"
+        }
+      ],
+      "note": "Это очень продуктивная метафора: хорошее объяснение словно сосуд, который не протекает. Argument drži vodu — «аргумент убедителен», ta priča ne drži vodu — «эта версия не выдерживает критики». Не путать с отдельным фразеологизмом drži vodu dok majstori odu — «кое-как держится, лишь бы временно сработало».",
+      "keyword": "držati vodu"
+    },
+    {
       "headword_latin": "Držati fige",
       "type": "frazeologizam",
       "definition_ru": "держать кулачки; желать удачи; надеяться на благополучный исход",
@@ -4837,6 +4866,35 @@
       "keyword": "sranje"
     },
     {
+      "headword_latin": "Iz prve ruke",
+      "type": "izraz",
+      "definition_ru": "из первых рук; непосредственно от источника; из личного опыта",
+      "synonyms_sr": [
+        "neposredno",
+        "iz neposrednog izvora",
+        "lično",
+        "bez posrednika"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; о сведениях, впечатлениях или опыте, полученных непосредственно от участника события или пережитых лично",
+      "examples": [
+        {
+          "serbian_latin": "„Iz prve ruke“ saznamo šta ih raduje, ko ih ljuti, šta ih muči.",
+          "russian": "Мы из первых рук узнаём, что их радует, кто сердит и что их беспокоит.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/tv/rts-sat/5529663/vazne-stvari.html"
+        },
+        {
+          "serbian_latin": "Moje saznanje o svakodnevnom životu u SSSR-u bilo je, što bi se reklo, „iz prve ruke“.",
+          "russian": "Мои сведения о повседневной жизни в СССР были, что называется, из первых рук.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/sssr-iz-prve-ruke/"
+        }
+      ],
+      "note": "Русский и сербский обороты совпадают почти полностью. Противопоставление — iz druge ruke: информация получена через посредника, пересказ. Типичные сочетания: čuti, saznati, videti, iskusiti iz prve ruke.",
+      "keyword": "iz prve ruke"
+    },
+    {
       "headword_latin": "izaći na videlo",
       "type": "глагольный фразеологизм",
       "definition_ru": "Выйти наружу; обнаружиться; раскрыться; стать известным.",
@@ -4978,6 +5036,35 @@
       ],
       "note": "Выражение относится как к человеку, так и к организации, компании или политическому движению.",
       "keyword": "kompas"
+    },
+    {
+      "headword_latin": "Izgubiti tlo pod nogama",
+      "type": "frazeologizam",
+      "definition_ru": "потерять почву под ногами; потерять опору; утратить устойчивость и уверенность",
+      "synonyms_sr": [
+        "izgubiti oslonac",
+        "izgubiti sigurnost",
+        "biti dezorijentisan",
+        "početi da se raspada"
+      ],
+      "literal_ru": "потерять землю под ногами",
+      "register": "разг.-публицист., экспр.; о человеке, организации, системе или идее, утративших устойчивость и контроль над ситуацией",
+      "examples": [
+        {
+          "serbian_latin": "To su priče o običnim ljudima... koji se slome, izgube tlo pod nogama i učine nešto nezamislivo.",
+          "russian": "Это истории обычных людей, которые ломаются, теряют почву под ногами и совершают нечто немыслимое.",
+          "source": "RTS, 2024",
+          "url": "https://rts.rs/lat/tv/rts-sat/5636206/branilac.html"
+        },
+        {
+          "serbian_latin": "Demokratska stranka gubi tlo pod nogama.",
+          "russian": "Демократическая партия теряет почву под ногами.",
+          "source": "Danas, 2012",
+          "url": "https://www.danas.rs/vesti/drustvo/umesto-parlamenta-i-stranaka-vlast-kritikuju-mediji-i-nevladin-sektor/"
+        }
+      ],
+      "note": "Значение почти совпадает с русским, но сербский оборот очень легко переносится с человека на партию, власть, систему или целую модель поведения. Это не обязательно мгновенная паника: gubiti tlo pod nogama может описывать постепенную потерю позиций и устойчивости.",
+      "keyword": "izgubiti tlo pod nogama"
     },
     {
       "headword_latin": "Izigravati žrtvu",
@@ -6397,6 +6484,35 @@
       "keyword": "glava"
     },
     {
+      "headword_latin": "Na jedvite jade",
+      "type": "frazeologizam",
+      "definition_ru": "еле-еле; с огромным трудом; через силу",
+      "synonyms_sr": [
+        "jedva",
+        "s velikom mukom",
+        "s krajnjim naporom",
+        "teško"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспр.; подчёркивает, что результат достигнут лишь после больших усилий или затруднений",
+      "examples": [
+        {
+          "serbian_latin": "Ulogu Kalabića je prihvatio „na jedvite jade“.",
+          "russian": "Роль Калабича он согласился принять еле-еле, с большим трудом.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3766986/preminuo-glumac-zoran-rankic.html"
+        },
+        {
+          "serbian_latin": "Na jedvite jade – Vojvodina je stigla u polufinale Kupa Srbije.",
+          "russian": "С огромным трудом «Войводина» пробилась в полуфинал Кубка Сербии.",
+          "source": "Sport Klub, 2026",
+          "url": "https://sportklub.rs/vaterpolo/evropsko-prvenstvo-u-vaterpolu-srbija-holandija-beograd-2026-uzivo-livestream-direktan-prenos-beogradska-arena/"
+        }
+      ],
+      "note": "Это значительно экспрессивнее простого jedva. Выражение подходит и к физическому усилию (na jedvite jade se popeo), и к достижению результата (pobedio na jedvite jade), и к неохотному согласию. Русские «еле-еле», «с грехом пополам», «с огромным трудом» выбираются по ситуации.",
+      "keyword": "na jedvite jade"
+    },
+    {
       "headword_latin": "Na kraju krajeva",
       "type": "izraz",
       "definition_ru": "в конце концов; в конечном счёте; в конце-то концов",
@@ -6424,6 +6540,35 @@
       ],
       "note": "Несмотря на буквальный образ «конца концов», это прежде всего дискурсивная формула: говорящий подводит итог или приводит последний, решающий довод. По функции очень близко русскому «в конце концов», но в некоторых контекстах естественнее переводить «в конечном счёте» или «в конце-то концов».",
       "keyword": "na kraju krajeva"
+    },
+    {
+      "headword_latin": "Na mala vrata",
+      "type": "frazeologizam",
+      "definition_ru": "исподволь; незаметно; обходным путём; без открытого объявления",
+      "synonyms_sr": [
+        "zaobilaznim putem",
+        "neprimetno",
+        "prikriveno",
+        "bez velike pompe"
+      ],
+      "literal_ru": "через маленькую дверь",
+      "register": "разг.-публицист., экспр.; обычно ući / vratiti / uvesti nešto na mala vrata",
+      "examples": [
+        {
+          "serbian_latin": "Da li bi Dritan mogao „na mala vrata“ da vrati DPS na vlast?",
+          "russian": "Может ли Дритан исподволь вернуть ДПС к власти?",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/tv/rts1/4679489/crna-gora---cudo-nevidjeno-2-deo.html"
+        },
+        {
+          "serbian_latin": "Za njega bi se sa sigurnošću moglo reći da je ušao na mala vrata, a izlazi kroz – slavoluk.",
+          "russian": "О нём можно уверенно сказать: вошёл неприметно, через боковую дверь, а выходит через триумфальную арку.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/vesti/drustvo/zlatko-dalic-na-mala-vrata-u-legendu/"
+        }
+      ],
+      "note": "У выражения два близких оттенка. Человек может ući na mala vrata — прийти незаметно, без громкого имени или большого признания; решение или политическая сила могут быть uvedeni na mala vrata — проведены обходным, не вполне открытым способом. Русское «через чёрный ход» иногда подходит, но часто звучит более резко.",
+      "keyword": "na mala vrata"
     },
     {
       "headword_latin": "Na prvu loptu",
@@ -7299,6 +7444,35 @@
       "keyword": "luk"
     },
     {
+      "headword_latin": "Ni makac",
+      "type": "izraz",
+      "definition_ru": "ни с места; ни шагу; дальше никак",
+      "synonyms_sr": [
+        "ni koraka",
+        "nema mrdanja",
+        "dalje ne može",
+        "ne pomerati se"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспр.; может обозначать как физическую невозможность сдвинуться, так и полный застой дела",
+      "examples": [
+        {
+          "serbian_latin": "Dalje ni makac.",
+          "russian": "Дальше — ни шагу.",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/dalje-ni-makac/"
+        },
+        {
+          "serbian_latin": "Dalje, ni makac.",
+          "russian": "Дальше — ни с места.",
+          "source": "Politika, 2013",
+          "url": "https://www.politika.rs/sr/clanak/273779/Zoran-Perovic-i-njegove-grede"
+        }
+      ],
+      "note": "Makac сегодня прежде всего живёт именно в этой устойчивой конструкции. Выражение может описывать неподвижный автомобиль, механизм или человека, но столь же естественно — переговоры, реформу или карьеру, которые «не двигаются». Частая модель: od tada — ni makac.",
+      "keyword": "ni makac"
+    },
+    {
       "headword_latin": "ni mrava ne bi zgazio",
       "type": "фразеологическое сравнение",
       "definition_ru": "Он и мухи не обидит; совершенно безобидный, добрый и мягкий человек.",
@@ -7413,6 +7587,34 @@
       ],
       "note": "Формула происходит из сербской эпической песни о царе Уроше и Мрнявчевичах, где Марко должен судить не в пользу отца или дядей, а по справедливости. Babo здесь старое «отец», а не современное обращение к дедушке. Выражение давно живёт самостоятельно и употребляется прежде всего о беспристрастном решении без кумовства и протекции.",
       "keyword": "babo; stričevi"
+    },
+    {
+      "headword_latin": "Ni za lek",
+      "type": "frazeologizam",
+      "definition_ru": "совсем нет; не сыскать; хоть бы капельку / хоть бы одного",
+      "synonyms_sr": [
+        "nema uopšte",
+        "nema ni traga",
+        "ne može se naći"
+      ],
+      "literal_ru": "нет даже на лекарство",
+      "register": "разг., экспр.; обычно в конструкции nema nečega ni za lek — чего-то практически невозможно найти",
+      "examples": [
+        {
+          "serbian_latin": "Nemamo roda i nemamo sveže šljive, što kaže naš narod, ni za lek.",
+          "russian": "Урожая нет, свежей сливы, как говорят в народе, вообще не найти.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/2850069/u-blacu-sljive-ni-za-lek.html"
+        },
+        {
+          "serbian_latin": "Gljiva ni za lek, a svi imaju naknadnu pamet.",
+          "russian": "Грибов теперь вообще не сыскать, зато все задним числом стали умными.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/drustvo/reporterka-danasa-na-sabackoj-pijaci-posle-trovanja-gradjana-pecurkama-gljiva-ni-za-lek-a-svi-imaju-naknadnu-pamet/"
+        }
+      ],
+      "note": "Ni za lek обозначает полное или почти полное отсутствие чего-либо. Слово lek здесь не означает, что речь обязательно идёт о лекарствах: можно сказать nema šljive ni za lek, majstora ni za lek, mesta ni za lek. Для русского естественнее переводить по контексту: «не сыскать», «совсем нет», «хоть бы один».",
+      "keyword": "ni za lek"
     },
     {
       "headword_latin": "Ni za živu glavu",
@@ -7684,6 +7886,35 @@
       "keyword": "od Kulina bana"
     },
     {
+      "headword_latin": "Od nemila do nedraga",
+      "type": "frazeologizam",
+      "definition_ru": "скитаться по свету; мыкаться; переходить с места на место без пристанища",
+      "synonyms_sr": [
+        "lutati",
+        "potucati se",
+        "vucarati se",
+        "ići od jednog do drugog"
+      ],
+      "literal_ru": "",
+      "register": "разг.-литер., экспр.; обычно о вынужденных, долгих и неприятных скитаниях",
+      "examples": [
+        {
+          "serbian_latin": "Guzeljao je Danojlić, išao od nemila do nedraga, bog sami zna gde nije stizao.",
+          "russian": "Данойлич скитался с места на место, бог знает где только не побывал.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/danojlic-poeta-serbski/"
+        },
+        {
+          "serbian_latin": "Ona je pobegla od kuće, vucarala se od nemila do nedraga, naivna i čedna.",
+          "russian": "Она сбежала из дома и скиталась где придётся, наивная и чистая.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/nina-savcic/felisijin-izbor/"
+        }
+      ],
+      "note": "Выражение не означает просто туристическое «ездить с места на место»: обычно в нём есть оттенок бесприютности, вынужденности, поиска помощи или своего места. Часто сочетается с lutati, ići, vucarati se. По-русски особенно хорошо подходят «мыкаться» и «скитаться по свету».",
+      "keyword": "od nemila do nedraga"
+    },
+    {
       "headword_latin": "Odgovarati nekome",
       "type": "glagol",
       "definition_ru": "подходить кому-то; устраивать; быть удобным",
@@ -7772,6 +8003,35 @@
       ],
       "note": "Выражение часто подразумевает внезапную и не вполне искреннюю смену позиции под влиянием обстоятельств.",
       "keyword": "ploča"
+    },
+    {
+      "headword_latin": "Okrenuti leđa nekome / nečemu",
+      "type": "frazeologizam",
+      "definition_ru": "отвернуться от кого-то; бросить; перестать поддерживать; порвать с чем-то",
+      "synonyms_sr": [
+        "napustiti",
+        "odreći se",
+        "prestati podržavati",
+        "udaljiti se od"
+      ],
+      "literal_ru": "повернуться спиной",
+      "register": "разг.-нейтр., экспр.; адресат обычно в дательном падеже: okrenuti nekome leđa",
+      "examples": [
+        {
+          "serbian_latin": "Džefri Hinton... okrenuo je leđa kompaniji Gugl.",
+          "russian": "Джеффри Хинтон отвернулся от компании Google и ушёл из неё.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/magazin/tehnologija/5191474/vestacka-inteligencija-cetbotovi-poslovi-zamena-roboti-dzefri-hinton.html"
+        },
+        {
+          "serbian_latin": "Ambiciozan i bezobziran, okrenuo je leđa populistima.",
+          "russian": "Амбициозный и безжалостный, он отвернулся от популяров.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/2382584/vremeplov-12-jul-2016.html"
+        }
+      ],
+      "note": "В переносном смысле это не просто физически отвернуться, а прекратить поддержку, отказаться от прежних союзников, убеждений или отношений. Для русского важно управление: okrenuo mi je leđa — «он от меня отвернулся / бросил меня», буквально без предлога перед местоимением.",
+      "keyword": "okrenuti leđa"
     },
     {
       "headword_latin": "okrenuti nekome leđa",
@@ -12855,6 +13115,34 @@
       ],
       "note": "Для русского «в лучших годах / в расцвете сил» обычно u naponu snage, u naponu života, u najboljim godinama. Сочетание u zaletu svog života для этого значения не является обычной устойчивой формой. Zalet — разбег, разгон, набранный импульс: uzeti zalet, biti u zaletu, prekinuti nekoga u zaletu. Поэтому u zaletu života возможно как авторская метафора, но для словаря лучше u naponu snage / u najboljim godinama.",
       "keyword": "u naponu snage"
+    },
+    {
+      "headword_latin": "U po bela dana",
+      "type": "izraz",
+      "definition_ru": "среди бела дня; прямо посреди дня; у всех на виду",
+      "synonyms_sr": [
+        "usred bela dana",
+        "usred dana",
+        "naočigled svih"
+      ],
+      "literal_ru": "среди белого дня",
+      "register": "разг.-нейтр., экспр.; особенно часто подчёркивает дерзость или неожиданность события, совершившегося открыто, днём",
+      "examples": [
+        {
+          "serbian_latin": "To je trebalo da uradi u po bela dana.",
+          "russian": "Это следовало сделать среди бела дня.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/vesti/politika/2312189/vucic-nepotrebno-je-bespravne-objekte-rusiti-nocu.html"
+        },
+        {
+          "serbian_latin": "Krajem maja, u po bela dana, u dečijem parkiću, dva maloletnika su batinanjem usmrtila čoveka.",
+          "russian": "В конце мая среди бела дня в детском парке двое несовершеннолетних забили человека насмерть.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/od-razbijanja-prozora-do-razbijanja-glava/"
+        }
+      ],
+      "note": "Для русского соответствие — точное «среди бела дня». Сербская форма u po bela dana застывшая: её лучше запоминать целиком, а не пытаться строить по обычной современной грамматической модели. Очень часто оборот усиливает возмущение: преступление или безобразие произошло не тайком, а открыто.",
+      "keyword": "u po bela dana"
     },
     {
       "headword_latin": "U poslednji čas",
