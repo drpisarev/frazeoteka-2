@@ -1863,6 +1863,35 @@
       "keyword": "karton"
     },
     {
+      "headword_latin": "Dati nekome do znanja",
+      "type": "izraz",
+      "definition_ru": "дать понять; дать ясно понять; недвусмысленно показать",
+      "synonyms_sr": [
+        "jasno pokazati",
+        "staviti do znanja",
+        "poručiti",
+        "nagovestiti"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., очень употребительно; типичная модель dati nekome do znanja da + prezent",
+      "examples": [
+        {
+          "serbian_latin": "Flik je od prvog dana dao do znanja koliko računa na njih.",
+          "russian": "Флик с первого дня дал понять, насколько он на них рассчитывает.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/sport/fudbal/5712634/barselona-hansi-flik.html"
+        },
+        {
+          "serbian_latin": "Morali smo da zaštitimo našu zemlju, jer bismo u suprotnom dali do znanja da država Srbija ne postoji.",
+          "russian": "Мы должны были защитить нашу страну, потому что в противном случае дали бы понять, что государства Сербия не существует.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/vesti/politika/2049336/.html?print=true"
+        }
+      ],
+      "note": "Это одна из самых полезных конструкций для русскоязычного: русскому «дать понять» соответствует не dati razumeti, а прежде всего dati do znanja. Адресат обычно стоит в дательном: dao mi je do znanja da... — «он дал мне понять, что…». Близкое staviti nekome do znanja звучит несколько более категорично.",
+      "keyword": "dati do znanja"
+    },
+    {
       "headword_latin": "Dati nekome odrešene ruke",
       "type": "glagolski frazem",
       "definition_ru": "Развязать кому-либо руки; предоставить полную свободу действий и не ограничивать принимаемые решения.",
@@ -2972,6 +3001,35 @@
       "keyword": "voda; majstor"
     },
     {
+      "headword_latin": "Duša mi je u nosu",
+      "type": "frazeologizam",
+      "definition_ru": "я еле жив; я совершенно вымотан; сил больше нет",
+      "synonyms_sr": [
+        "biti na izmaku snaga",
+        "jedva disati",
+        "biti iscrpljen",
+        "biti premoren"
+      ],
+      "literal_ru": "душа у меня в носу",
+      "register": "разг., экспр.; модель меняется по лицу: duša mi / ti / mu je u nosu",
+      "examples": [
+        {
+          "serbian_latin": "Polako, Olivera, tek sam došla sa odmora. Duša mi je u nosu.",
+          "russian": "Полегче, Оливера, я только что вернулась с отдыха. Я совершенно вымотана.",
+          "source": "Blic, 2016",
+          "url": "https://www.blic.rs/zabava/iskreno-i-otvoreno-za-blic-jelena-jankovic-otkriva-zasto-joj-muskarci-ne-prilaze/21kmmcb"
+        },
+        {
+          "serbian_latin": "Kreće kontra, a meni duša u nosu. Kažem sebi: „Ajde, još samo ovaj sprint.“",
+          "russian": "Начинается контратака, а я уже еле жив. Говорю себе: «Давай, ещё один рывок».",
+          "source": "Večernje novosti, 2021",
+          "url": "https://www.novosti.rs/sport/fudbal/978522/italije-katara-mundijal-kao-sudbina-dragan-stojkovic-piksi-pasi-poljane-zvezdine-zvezde-sve-japanskog-cara-video"
+        }
+      ],
+      "note": "Сегодня выражение прежде всего описывает крайнюю физическую или эмоциональную изнурённость. В традиционных представлениях у тяжелобольного или умирающего душа могла мыслиться как уже находящаяся «у выхода», в том числе u nosu. Для русского буквальный перевод совершенно неочевиден.",
+      "keyword": "duša u nosu"
+    },
+    {
       "headword_latin": "duša od čoveka",
       "type": "imenski frazem",
       "definition_ru": "человек золотой души; исключительно добрый и сердечный человек",
@@ -3251,6 +3309,35 @@
       ],
       "note": "Встречаются конструкции gledati nekome kroz prste, gledati kroz prste na nešto и существительное gledanje kroz prste. Обычно подразумевается неоправданная снисходительность.",
       "keyword": "prst"
+    },
+    {
+      "headword_latin": "Gledati kroz ružičaste naočare",
+      "type": "frazeologizam",
+      "definition_ru": "смотреть сквозь розовые очки; идеализировать; видеть всё в слишком хорошем свете",
+      "synonyms_sr": [
+        "idealizovati",
+        "gledati previše optimistično",
+        "ulepšavati stvarnost",
+        "ne videti mane"
+      ],
+      "literal_ru": "смотреть через розовые очки",
+      "register": "разг.-нейтр., экспр.; обычно с оттенком нереалистичного оптимизма",
+      "examples": [
+        {
+          "serbian_latin": "Zaljubljenost je emocionalno stanje u kojem gledamo kroz „ružičaste naočare“ i vidimo najčešće samo ono što želimo.",
+          "russian": "Влюблённость — эмоциональное состояние, при котором мы смотрим сквозь розовые очки и чаще всего видим только то, что хотим видеть.",
+          "source": "Danas, 2012",
+          "url": "https://www.danas.rs/zivot/bliskost-u-braku/"
+        },
+        {
+          "serbian_latin": "U ekskluzivnom intervjuu otkriva... i gleda li na život kroz ružičaste naočare.",
+          "russian": "В эксклюзивном интервью она рассказывает в том числе о том, смотрит ли на жизнь сквозь розовые очки.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/1560612/.html?print=true"
+        }
+      ],
+      "note": "Русский и сербский образы совпадают. Сербский легко допускает также staviti ružičaste naočare — сознательно посмотреть на вещи оптимистичнее; это уже не всегда имеет отрицательный оттенок.",
+      "keyword": "ružičaste naočare"
     },
     {
       "headword_latin": "gledati nekome kroz prste",
@@ -4034,6 +4121,34 @@
       ],
       "note": "Образ очень близок русскому «работы выше головы». Это именно количество дел, а не обязательно физическая усталость. Поэтому imam posla preko glave может сочетаться с совершенно спокойным состоянием: просто задач слишком много. Сравните raspadam se od posla — там акцент уже на изнеможении.",
       "keyword": "posla preko glave"
+    },
+    {
+      "headword_latin": "Imati poslednju reč",
+      "type": "frazeologizam",
+      "definition_ru": "иметь последнее слово; принимать окончательное решение; быть тем, за кем решающее слово",
+      "synonyms_sr": [
+        "konačno odlučivati",
+        "imati odlučujuću reč",
+        "odlučivati na kraju"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публицист.; типично neko ima poslednju reč u vezi s nečim",
+      "examples": [
+        {
+          "serbian_latin": "Glišić: Jasno je da Vučić ima poslednju reč.",
+          "russian": "Глишич: ясно, что последнее слово остаётся за Вучичем.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/vesti/drustvo/glisic-jasno-je-da-vucic-ima-poslednju-rec/"
+        },
+        {
+          "serbian_latin": "Roditelji moraju da imaju poslednju reč kada je u pitanju bezbednost, zdravlje, školski uspeh i pripreme za period punoletstva.",
+          "russian": "В вопросах безопасности, здоровья, успеваемости и подготовки к взрослой жизни последнее слово должно оставаться за родителями.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/magazin/Zdravlje/4264251/ravnopravnost-roditelja-i-dece-ne-postoji-roditelji-moraju-biti-sefovi.html"
+        }
+      ],
+      "note": "Выражение практически совпадает с русским. Отдельная, но близкая конструкция nije rekao poslednju reč означает «он ещё себя покажет; дело ещё не закончено», а не обязательно право принимать решение.",
+      "keyword": "poslednja reč"
     },
     {
       "headword_latin": "imati pune ruke posla",
@@ -5275,6 +5390,34 @@
       "keyword": "zmija; noge"
     },
     {
+      "headword_latin": "Krv nije voda",
+      "type": "izreka",
+      "definition_ru": "кровь не водица; родство берёт своё; гены дают о себе знать",
+      "synonyms_sr": [
+        "porodica je porodica",
+        "krvno srodstvo se ne može poreći",
+        "iver ne pada daleko od klade"
+      ],
+      "literal_ru": "кровь — не вода",
+      "register": "разг.-нейтр., экспр.; о сходстве родственников, семейных связях или семейной солидарности",
+      "examples": [
+        {
+          "serbian_latin": "Bobi Kristina je ubrzo po emitovanju epizode dokazala da krv nije voda.",
+          "russian": "Вскоре после выхода серии Бобби Кристина доказала, что гены дают о себе знать.",
+          "source": "RTS, 2012",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/1143540/bobi-kristina-nastavlja-majcinim-stopama.html"
+        },
+        {
+          "serbian_latin": "Među narodnim poslanicima i državnim funkcionerima ima onih za koje važi ona stara „krv nije voda“.",
+          "russian": "Среди депутатов и государственных чиновников есть и такие, к кому подходит старое выражение «кровь не водица».",
+          "source": "Politika, 2019",
+          "url": "https://www.politika.rs/sr/clanak/433702/geni-za-vladanje"
+        }
+      ],
+      "note": "Выражение подчёркивает силу родственных связей или сходство между родственниками — внешнее, характерологическое, профессиональное. По-русски буквальное «кровь не вода» понятно, но менее естественно, чем «кровь не водица» или контекстное «гены берут своё». Может употребляться и иронически.",
+      "keyword": "krv nije voda"
+    },
+    {
       "headword_latin": "kupiti / kupovati mačku u džaku",
       "type": "фразеологизм",
       "definition_ru": "Купить кота в мешке; приобрести или принять что-либо без предварительной проверки; рисковать, не зная, что получишь.",
@@ -5859,6 +6002,35 @@
       ],
       "note": "Выражение описывает именно равноправное положение сторон, а не просто одинаковый уровень мастерства. Поэтому особенно естественно говорить о переговорах, отношениях, правах и общении. Русское «на равной ноге» структурно близко, хотя современное «на равных» обычно звучит естественнее.",
       "keyword": "na ravnoj nozi"
+    },
+    {
+      "headword_latin": "Na svoju ruku",
+      "type": "izraz",
+      "definition_ru": "самовольно; по собственной инициативе; на свой страх и риск",
+      "synonyms_sr": [
+        "samoinicijativno",
+        "bez konsultacije",
+        "samovoljno",
+        "bez odobrenja"
+      ],
+      "literal_ru": "на свою руку",
+      "register": "разг.-нейтр.; обычно подразумевается действие без согласования с тем, с кем следовало посоветоваться",
+      "examples": [
+        {
+          "serbian_latin": "Koliko puta ste čuli da ne treba da uzimate lekove „na svoju ruku“.",
+          "russian": "Сколько раз вы слышали, что лекарства не следует принимать самостоятельно, без назначения.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/magazin/Zdravlje/3885185/jednu-za-pritisak-jednu-za-glavu-malo-vitamina-i-jedna-sumeca-ne-preterujte-sa-lekovima-na-svoju-ruku.html"
+        },
+        {
+          "serbian_latin": "Ne možete na svoju ruku menjati terapiju.",
+          "russian": "Нельзя самостоятельно менять лечение.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4781396/doktorka-iz-hitne-savetuje.html"
+        }
+      ],
+      "note": "Частый русский перевод «самостоятельно» иногда слишком нейтрален: na svoju ruku нередко содержит оттенок «без разрешения, не посоветовавшись, вопреки установленному порядку». Особенно характерны uzimati lekove na svoju ruku, menjati nešto na svoju ruku, odlučiti na svoju ruku.",
+      "keyword": "na svoju ruku"
     },
     {
       "headword_latin": "Naći se u nebranom grožđu",
@@ -6502,6 +6674,35 @@
       "keyword": "dobar dan"
     },
     {
+      "headword_latin": "Ni kriv ni dužan",
+      "type": "frazeologizam",
+      "definition_ru": "ни сном ни духом; без вины виноватый; совершенно ни при чём",
+      "synonyms_sr": [
+        "ni za šta kriv",
+        "nedužan",
+        "bez ikakve krivice",
+        "ni luk jeo ni luk mirisao"
+      ],
+      "literal_ru": "ни виноват, ни должен",
+      "register": "разг.-нейтр., экспр.; изменяется по роду и числу: ni kriva ni dužna, ni krivi ni dužni",
+      "examples": [
+        {
+          "serbian_latin": "Uskoro, junak filma je ni kriv ni dužan uhvaćen u vrtlog intriga, romanse i opasnosti.",
+          "russian": "Вскоре герой фильма, совершенно ни в чём не виноватый, оказывается втянут в водоворот интриг, романтики и опасностей.",
+          "source": "RTS, 2010",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/816384/turista-u-vrtlogu-intriga-i-romanse.html"
+        },
+        {
+          "serbian_latin": "Ko je u opasnosti da zbog tuđih dugova ni kriv ni dužan izgubi krov nad glavom?",
+          "russian": "Кто рискует совершенно без своей вины лишиться жилья из-за чужих долгов?",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5936243/ko-je-u-opasnosti-da-zbog-tudjih-dugova-ni-kriv-ni-duzan-izgubi-krov-nad-glavom.html"
+        }
+      ],
+      "note": "Dužan здесь не означает буквально «задолжавший деньги»: вся пара значит, что человек совершенно не виноват и оказался вовлечён в неприятность случайно. Очень естественны конструкции stradao je ni kriv ni dužan, našao se tu ni kriv ni dužan.",
+      "keyword": "ni kriv ni dužan"
+    },
+    {
       "headword_latin": "ni luk jeo ni luk mirisao",
       "type": "фразеологическое предложение",
       "definition_ru": "Делать вид, будто совершенно ни при чём; изображать невиновность и непричастность.",
@@ -6830,6 +7031,35 @@
       ],
       "note": "Выражение почти всегда критическое: обещания представляются преувеличенными, нереалистичными или заведомо пустыми.",
       "keyword": "kule; gradovi"
+    },
+    {
+      "headword_latin": "Od igle do lokomotive",
+      "type": "frazeologizam",
+      "definition_ru": "всё что угодно; от булавки до паровоза; чего только нет",
+      "synonyms_sr": [
+        "svega i svačega",
+        "sve što poželiš",
+        "najrazličitije stvari",
+        "svega ima"
+      ],
+      "literal_ru": "от иголки до локомотива",
+      "register": "разг., экспр., часто шутл.; о чрезвычайно широком ассортименте или диапазоне вещей",
+      "examples": [
+        {
+          "serbian_latin": "Na ovom mestu možete da nađete sve od igle do delova lokomotive iz 19. veka.",
+          "russian": "Здесь можно найти всё — от иголки до деталей локомотива XIX века.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5025007/od-igle-do-lokomotive-na-novosadskoj-najlon-pijaci.html"
+        },
+        {
+          "serbian_latin": "Pijac veliki, a na njemu svega, od „igle do lokomotive“.",
+          "russian": "Рынок большой, а на нём чего только нет — буквально от иголки до паровоза.",
+          "source": "Politika, 2009",
+          "url": "https://www.politika.rs/sr/clanak/105850/u-pancevu-svega-ima"
+        }
+      ],
+      "note": "Оборот особенно характерен для рынков, магазинов, объявлений и перечней услуг. Русское «от булавки до самолёта» или «чего только нет» функционально ближе, хотя буквальное «от иголки до локомотива» тоже понятно и передаёт юмористическую гиперболу.",
+      "keyword": "od igle do lokomotive"
     },
     {
       "headword_latin": "Odgovarati nekome",
@@ -10422,6 +10652,35 @@
       "keyword": "star kao Biblija"
     },
     {
+      "headword_latin": "Stati na kraj nečemu",
+      "type": "frazeologizam",
+      "definition_ru": "положить чему-то конец; покончить с чем-то; пресечь",
+      "synonyms_sr": [
+        "okončati",
+        "zaustaviti",
+        "suzbiti",
+        "prekinuti"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публицист.; управление: stati na kraj + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Predsednik Aleksandar Vučić obećava da će im država stati na kraj i osigurati bezbednost građanima.",
+          "russian": "Президент Александр Вучич обещает, что государство с ними покончит и обеспечит безопасность граждан.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4150542/obracuni-kriminalaca-u-beogradu-sve-cesci--kako-da-se-drzava-izbori-sa-mafijom.html"
+        },
+        {
+          "serbian_latin": "Vladimir Banić istražuje kako stati na kraj predatorima, koji targetiraju decu.",
+          "russian": "Владимир Банич исследует, как положить конец деятельности хищников, выбирающих своими жертвами детей.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/tv/rts-zivot/5713124/fantasticna-planeta-2---planeta-zlodela-11-emisija.html"
+        }
+      ],
+      "note": "Для русскоязычного главное — падеж: по-сербски stati na kraj nasilju, то есть существительное стоит в дательном, а не конструкция с sa. Выражение предполагает не просто остановить отдельный эпизод, а окончательно пресечь явление или чью-либо деятельность.",
+      "keyword": "stati na kraj"
+    },
+    {
       "headword_latin": "stati na ludi kamen",
       "type": "глагольный фразеологизм",
       "definition_ru": "Жениться или выйти замуж; вступить в брак.",
@@ -11574,6 +11833,34 @@
       ],
       "note": "Образ связывают с волом, забравшимся в капусту и уничтожающим посадки. В источниках встречаются глаголы tući, prebiti и ubiti, а также сокращённое k’o vola u kupusu.",
       "keyword": "vo; kupus"
+    },
+    {
+      "headword_latin": "U četiri oka",
+      "type": "frazeologizam",
+      "definition_ru": "с глазу на глаз; один на один; без посторонних",
+      "synonyms_sr": [
+        "nasamo",
+        "bez prisustva drugih",
+        "jedan na jedan"
+      ],
+      "literal_ru": "в четыре глаза",
+      "register": "разг.-нейтр.; обычно с глаголами razgovarati, sastati se, reći, pitati",
+      "examples": [
+        {
+          "serbian_latin": "Najavio je da će sutra razgovarati sa ukrajinskim predsednikom Volodimirom Zelenskim „u četiri oka“.",
+          "russian": "Он сообщил, что завтра поговорит с президентом Украины Владимиром Зеленским с глазу на глаз.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/politika/5258790/vucic-sa-zelenskim-u-cetiri-oka-u-atini-verujem-da-cemo-imati-dobar-razgovor.html"
+        },
+        {
+          "serbian_latin": "Prof. Mićunović izjavio je da je spreman da lično isleđuje, u četiri oka, one koji nameravaju da se vrate.",
+          "russian": "Профессор Мичунович заявил, что готов лично беседовать с глазу на глаз с теми, кто намеревается вернуться.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/kolumna/nikola-samardzic/u-cetiri-oka/"
+        }
+      ],
+      "note": "Буквальная структура отличается от русского: по-сербски два собеседника образуют «четыре глаза». Это совершенно обычное выражение и в личной, и в дипломатической речи. Не обязательно означает тайный разговор — только отсутствие третьих лиц.",
+      "keyword": "u četiri oka"
     },
     {
       "headword_latin": "U naponu snage",
