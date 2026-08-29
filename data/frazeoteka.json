@@ -1765,6 +1765,33 @@
       "keyword": "tele u šarena vrata"
     },
     {
+      "headword_latin": "Bog i batina",
+      "type": "frazeologizam",
+      "definition_ru": "царь и бог; полновластный хозяин; тот, кто всем распоряжается",
+      "synonyms_sr": [
+        "apsolutni autoritet",
+        "glavni i odgovorni",
+        "gazda (razg.)",
+        "onaj koji vedri i oblači"
+      ],
+      "literal_ru": "бог и дубинка",
+      "register": "razg., ekspresivno; od poštovanja ili ironije do izrazitog neodobravanja",
+      "examples": [
+        {
+          "serbian_latin": "Za Rađu je popularni Kari tada bio „bog i batina, autoritet u svakom pogledu“.",
+          "russian": "Для Раджи Кари тогда был царём и богом, непререкаемым авторитетом во всём.",
+          "source": "BBC na srpskom / Danas, 2022"
+        },
+        {
+          "serbian_latin": "Hesus Hil, „bog i batina“ Atletika.",
+          "russian": "Хесус Хиль — царь и бог мадридского «Атлетико».",
+          "source": "Sport Klub, 2020"
+        }
+      ],
+      "note": "Выражение может обозначать как непререкаемый авторитет, которого все слушаются, так и авторитарного хозяина, единолично принимающего решения. Русское «царь и бог» обычно передаёт его лучше всего; при отрицательной оценке возможны «сам себе царь и бог», «полновластный хозяин». Компонент batina добавляет образ силы и принуждения, но реальное насилие вовсе не обязательно.",
+      "keyword": "bog i batina"
+    },
+    {
       "headword_latin": "Bogu iza nogu",
       "type": "frazeologizam",
       "definition_ru": "у чёрта на куличках; в глуши; бог знает где",
@@ -7008,6 +7035,32 @@
       "keyword": "kola; nizbrdo"
     },
     {
+      "headword_latin": "Kom opanci, kom obojci",
+      "type": "izreka",
+      "definition_ru": "а там посмотрим, кто кого; кто выиграет, кто проиграет; кому как повезёт",
+      "synonyms_sr": [
+        "pa kako ko prođe",
+        "pa ko šta izvuče",
+        "pa šta bude"
+      ],
+      "literal_ru": "кому опанки, кому обойцы",
+      "register": "narodno, razg., ekspresivno; često posle pa; takođe kom obojci, kom opanci",
+      "examples": [
+        {
+          "serbian_latin": "Ja bih sve koalicije zabranio, pa da onda vidimo kom opanci, a kom obojci.",
+          "russian": "Я бы запретил все коалиции, а там посмотрим, кто кого.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Pobeda, nema druge! Pa posle, kom opanci, kom obojci.",
+          "russian": "Победа — другого варианта нет! А потом посмотрим, кто как выйдет из этой схватки.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Obojci — куски ткани, которыми обматывали стопы вместо носков и поверх которых надевали opanci. В словарной традиции выражение означает «кто что получит, кому как придётся в столкновении; там видно будет». Точное происхождение не установлено: Вук Караджич приводит версию о драке из-за обуви, существуют и более поздние объяснения через военную добычу.",
+      "keyword": "kom opanci kom obojci"
+    },
+    {
       "headword_latin": "koštati kao Svetog Petra kajgana",
       "type": "глагольный фразеологизм",
       "definition_ru": "Стоить баснословно дорого; обойтись в целое состояние.",
@@ -7475,30 +7528,28 @@
     {
       "headword_latin": "Medveđa usluga",
       "type": "frazeologizam",
-      "definition_ru": "медвежья услуга; помощь, которая приносит вред",
+      "definition_ru": "медвежья услуга; помощь во вред",
       "synonyms_sr": [
-        "nespretna pomoć",
-        "usluga koja nanese štetu",
-        "dobronamerna šteta"
+        "odmoći umesto pomoći",
+        "učiniti više štete nego koristi",
+        "nespretno pomoći"
       ],
-      "literal_ru": "",
-      "register": "общеупотр., неодобр.; часто učiniti / napraviti nekome medveđu uslugu",
+      "literal_ru": "медвежья услуга",
+      "register": "neutralno do publicistički; učiniti / napraviti nekome medveđu uslugu; takođe napraviti sebi medveđu uslugu",
       "examples": [
         {
-          "serbian_latin": "Takvo olakšavanje je medveđa usluga detetu.",
-          "russian": "Такая «помощь» оказывает ребёнку медвежью услугу.",
-          "source": "RTS, 2014",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/1774398/djaci-u-srbiji-ne-umeju-da-uce.html"
+          "serbian_latin": "Videće se da li je neki od funkcionera sebi napravio medveđu uslugu.",
+          "russian": "Выяснится, не оказал ли кто-то из чиновников сам себе медвежью услугу.",
+          "source": "Danas, 2010"
         },
         {
-          "serbian_latin": "Nismo prvi favoriti, to je medveđa usluga koju drugi plasiraju.",
-          "russian": "Мы не главные фавориты; когда другие представляют нас таковыми, они оказывают нам медвежью услугу.",
-          "source": "RTS, 2025",
-          "url": "https://www.rts.rs/lat/sport/kosarka/reprezentacija/5759547/oko-srbija-pred-evrobasket---spartanac-jokic-vodja-zazidanog-kampa.html"
+          "serbian_latin": "Znao sam da imam kome da se obratim, mada je to možda medveđa usluga.",
+          "russian": "Я знал, что мне есть к кому обратиться, хотя, возможно, такая помощь только вредила мне.",
+          "source": "BBC na srpskom / Danas, 2019"
         }
       ],
-      "note": "Сербское и русское выражения практически совпадают и по значению, и по оценке: намерение может быть хорошим, но результат вреден. Популярное объяснение связывает оборот с басней Ивана Крылова «Пустынник и медведь»; сербские источники также приводят эту связь, хотя сам сюжет о неуклюжей помощи медведя, по-видимому, старше Крылова.",
-      "keyword": "medved; usluga"
+      "note": "Русское «медвежья услуга» практически полностью совпадает по значению. Важно, что намерение обычно доброе, а результат оказывается вредным; сербский допускает и napraviti sebi medveđu uslugu. Шипка связывает закрепление выражения с басней Ивана Крылова Pustinjak i medved, где медведь, пытаясь помочь человеку, убивает его.",
+      "keyword": "medveđa usluga"
     },
     {
       "headword_latin": "Mešati babe i žabe",
@@ -7560,30 +7611,28 @@
     {
       "headword_latin": "Mlatiti praznu slamu",
       "type": "frazeologizam",
-      "definition_ru": "переливать из пустого в порожнее; заниматься пустой болтовнёй; делать бессмысленную работу",
+      "definition_ru": "толочь воду в ступе; переливать из пустого в порожнее; заниматься пустой болтовнёй",
       "synonyms_sr": [
-        "presipati iz šupljeg u prazno",
+        "pričati u prazno",
         "prazno pričati",
-        "uzalud pričati",
-        "vrteti se u krug"
+        "gubiti vreme",
+        "baviti se beskorisnim poslom"
       ],
       "literal_ru": "молотить пустую солому",
-      "register": "razg., ekspresivno, neodobr.; o praznim razgovorima ili beskorisnoj delatnosti",
+      "register": "razg., neodobr.; o praznom govoru ili beskorisnom poslu",
       "examples": [
         {
-          "serbian_latin": "Dežurni mudraci, cinici i komentarijat po Tviteru će mlatiti praznu slamu, te mutiti vodu…",
-          "russian": "Штатные мудрецы, циники и комментаторы в Твиттере будут переливать из пустого в порожнее и мутить воду…",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/pad-autokrate/"
+          "serbian_latin": "Dežurni mudraci, cinici i komentarijat po Tviteru će mlatiti praznu slamu, te mutiti vodu.",
+          "russian": "Штатные мудрецы, циники и комментаторы в Твиттере будут переливать из пустого в порожнее и мутить воду.",
+          "source": "Danas, 2026"
         },
         {
           "serbian_latin": "A taj mlati praznu slamu ko zna gde.",
-          "russian": "А тот неизвестно где занимается бессмысленной болтовнёй и пустой вознёй.",
-          "source": "Danas, 2013",
-          "url": "https://www.danas.rs/vesti/drustvo/nerad-i-nedisciplina-pod-zastitom/"
+          "russian": "А тот неизвестно где занимается какой-то бессмысленной ерундой.",
+          "source": "Danas, 2013"
         }
       ],
-      "note": "Образ связан со старым способом обмолота: молотить снопы имело смысл, пока из колосьев извлекалось зерно; продолжать молотить уже пустую солому — бесполезный труд. Отсюда развились оба современных значения: «заниматься бесполезным делом» и «говорить впустую». Такое объяснение приводит, в частности, Milan Šipka.",
+      "note": "Это не только «болтать попусту»: выражение может обозначать вообще бессмысленное, безрезультатное занятие. Образ связан с молотьбой: после отделения зерна бить уже пустую солому — труд без результата. Для русского подходят «толочь воду в ступе», «переливать из пустого в порожнее», а в контексте речи — «пустословить».",
       "keyword": "mlatiti praznu slamu"
     },
     {
@@ -7965,30 +8014,27 @@
     {
       "headword_latin": "Naći se u nebranom grožđu",
       "type": "frazeologizam",
-      "definition_ru": "попасть в затруднительное положение; оказаться в неловкой ситуации; быть застигнутым врасплох",
+      "definition_ru": "попасть впросак; оказаться в затруднительном положении; попасть в неприятную ситуацию",
       "synonyms_sr": [
         "naći se u neprilici",
-        "biti u škripcu",
-        "naći se u nezgodnoj situaciji",
-        "ne znati kako se izvući"
+        "upasti u nezgodnu situaciju",
+        "naći se u škripcu"
       ],
       "literal_ru": "оказаться в несобранном винограде",
-      "register": "разг., экспр.; встречается также neobranom grožđu, но форма nebranom хорошо закреплена в современной сербской речи",
+      "register": "razg., ekspresivno; o neočekivano nastaloj neugodnoj ili teškoj situaciji",
       "examples": [
         {
-          "serbian_latin": "Kontroverzni filharmoničar našao se u nebranom grožđu, pa je nekako nevešto ponavljao „sve što je bilo u mojoj moći“.",
-          "russian": "Скандально известный руководитель филармонии оказался в неловком положении и довольно неуклюже повторял: «Всё, что было в моих силах».",
-          "source": "Danas, 2015",
-          "url": "https://www.danas.rs/kolumna/natasa-b-odalovic/tanjug-unesko/"
+          "serbian_latin": "Spoljni saradnici za koje je bio zaslužan prethodni urednik našli su se u nebranom grožđu.",
+          "russian": "Внештатные сотрудники, которых привлёк предыдущий редактор, оказались в затруднительном положении.",
+          "source": "Danas, 2024"
         },
         {
-          "serbian_latin": "Prevario sam se i našao se u nebranom grožđu.",
-          "russian": "Я ошибся в расчётах и оказался в затруднительном положении.",
-          "source": "Sport Klub, 2019",
-          "url": "https://sportklub.n1info.rs/skener/sasa-ozmo/a291364-Medicinski-nemoguca-ponuda-za-Novaka-DJokovica/"
+          "serbian_latin": "Bitlsi su se našli u nebranom grožđu kada ih je 9000 obožavatelja sačekalo u San Francisku.",
+          "russian": "«Битлз» попали в непростую ситуацию, когда в Сан-Франциско их встретили девять тысяч поклонников.",
+          "source": "RTS, 2026"
         }
       ],
-      "note": "Это не просто «у человека проблемы», а ситуация, в которой его обстоятельства застали неподготовленным и он не сразу понимает, как действовать. Выражение давно входит в сербский фразеологический фонд; современная пресса свободно употребляет форму nebranom. Буквальный образ для русского без культурного комментария практически непрозрачен.",
+      "note": "Nebrano grožđe — виноград, который ещё не собрали; это не «незрелый виноград». У Милана Шипки выражение связывается с ворами, застигнутыми pudari — сторожами виноградников; отсюда переносное «оказаться в неприятном положении». Русские «попасть впросак» и «оказаться в щекотливом положении» обычно естественнее буквального перевода.",
       "keyword": "nebrano grožđe"
     },
     {
@@ -9468,6 +9514,33 @@
       ],
       "note": "Это яркий сербский вариант международной модели «ни то ни другое». Образ прозрачно напоминает sirena — существо, которое одновременно девушка и рыба, но историческое происхождение именно из образа русалки надёжно не установлено. В современной сербской публицистике выражение вполне живое и применяется к государственному устройству, политике, книгам, спектаклям, деловым форматам и всему гибридному или неопределённому. Русское «ни рыба ни мясо» — практически идеальный функциональный эквивалент.",
       "keyword": "nit riba nit devojka"
+    },
+    {
+      "headword_latin": "Novinarska patka",
+      "type": "izraz",
+      "definition_ru": "газетная утка; ложная или непроверенная сенсация",
+      "synonyms_sr": [
+        "lažna vest",
+        "neproverena informacija",
+        "izmišljotina",
+        "dezinformacija"
+      ],
+      "literal_ru": "журналистская утка",
+      "register": "novinarski žarg., publicistički, neodobr.; o neproverenoj ili izmišljenoj senzacionalnoj informaciji",
+      "examples": [
+        {
+          "serbian_latin": "Upozorila je da su medijske spekulacije o tome „novinarska patka“.",
+          "russian": "Она предупредила, что спекуляции СМИ на эту тему — газетная утка.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Novinarska patka – videlo se iz aviona.",
+          "russian": "Газетная утка — это было видно за версту.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "В сербском лексиконе медиаграмотности novinarska patka определяется как непроверенная, чаще всего неверная информация, запускаемая ради сенсации. Популярное объяснение происхождения через сокращение n. t. и немецкое Ente «утка» в исследовании Университета Нови-Сада прямо названо городской легендой, поэтому выдавать эту этимологию за установленный факт нельзя.",
+      "keyword": "novinarska patka"
     },
     {
       "headword_latin": "obećavati kule i gradove",
@@ -11973,6 +12046,33 @@
       "keyword": "praviti se lud"
     },
     {
+      "headword_latin": "Praviti se Toša",
+      "type": "frazeologizam",
+      "definition_ru": "прикидываться дурачком; делать вид, что ничего не знаешь; изображать непонимание",
+      "synonyms_sr": [
+        "praviti se lud",
+        "praviti se nevešt",
+        "izigravati naivca",
+        "praviti se da ne zna"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj. ili neodobr.; često u replici Ne pravi se Toša",
+      "examples": [
+        {
+          "serbian_latin": "Najgore bi bilo „praviti se Toša“, kao da se ništa nije desilo, a svi videli.",
+          "russian": "Хуже всего было бы сделать вид, будто ничего не произошло, когда все всё видели.",
+          "source": "Blic, 2025"
+        },
+        {
+          "serbian_latin": "U tome nije uspeo, pa se sad „pravi Toša“.",
+          "russian": "У него ничего не получилось, и теперь он делает вид, будто вообще ни при чём.",
+          "source": "Telegraf, 2013"
+        }
+      ],
+      "note": "Это именно притворное незнание или непонимание: человек в действительности знает, что происходит, но изображает непричастность или наивность. В издании Матицы сербской praviti se Toša фиксируется в значении «прикидываться несведущим, изображать непонимание». Toša — уменьшительная форма имени Todor и пишется с прописной буквы; почему именно это имя вошло в оборот, надёжно не установлено.",
+      "keyword": "praviti se Toša"
+    },
+    {
       "headword_latin": "Pre roka",
       "type": "kolokacija",
       "definition_ru": "досрочно; раньше срока; до установленного срока",
@@ -12671,31 +12771,29 @@
     {
       "headword_latin": "Punom parom",
       "type": "frazeologizam",
-      "definition_ru": "полным ходом; на всех парах; в полную силу",
+      "definition_ru": "полным ходом; вовсю; на полную мощность",
       "synonyms_sr": [
-        "punim intenzitetom",
         "punom snagom",
-        "punim kapacitetom",
-        "bez zastoja"
+        "svom snagom",
+        "u punom zamahu",
+        "vrlo intenzivno"
       ],
       "literal_ru": "на полном пару",
-      "register": "нейтр.-экспр., часто публицист.; типично raditi, proizvoditi, pripremati se, odvijati se punom parom",
+      "register": "neutralno do publicistički; najčešće raditi / teći / ići punom parom",
       "examples": [
         {
-          "serbian_latin": "Teklas radi punom parom, proizvodnja raste uprkos epidemiji.",
-          "russian": "«Теклас» работает на полную мощность, производство растёт несмотря на эпидемию.",
-          "source": "RTS, 2021",
-          "url": "https://www.rts.rs/lat/vesti/ekonomija/4411248/teklas-vranje.html"
+          "serbian_latin": "Studenti iza zatvorenih vrata rade „punom parom“.",
+          "russian": "За закрытыми дверями студенты работают вовсю.",
+          "source": "N1 Srbija, 2026"
         },
         {
-          "serbian_latin": "U situaciji kada istorija radi punom parom gde je Srbija?",
+          "serbian_latin": "U situaciji kada istorija radi punom parom, gde je Srbija?",
           "russian": "Где находится Сербия в ситуации, когда история идёт полным ходом?",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/tv/rts1/5904027/gost-predsednik-srbije-aleksandar-vucic.html"
+          "source": "RTS, 2026"
         }
       ],
-      "note": "Первоначальный технический образ связан с паровыми машинами: достаточное давление пара позволяло машине работать на полной мощности. Сегодня выражение совершенно обычно и вне технического контекста. Русское «на всех парах» очень близко, но сербское punom parom особенно часто означает именно интенсивную работу, а не только быстрое движение.",
-      "keyword": "para"
+      "note": "Образ пришёл из эпохи парового транспорта: при подаче полной мощности пара поезд или пароход двигался с максимальной скоростью. Затем развилось переносное значение «со всей силой, очень интенсивно». Русское «полным ходом» почти всегда подходит лучше буквального «полным паром».",
+      "keyword": "punom parom"
     },
     {
       "headword_latin": "Pustiti korenje",
@@ -13077,31 +13175,28 @@
     {
       "headword_latin": "S koca i konopca",
       "type": "frazeologizam",
-      "definition_ru": "сброд; разношёрстная компания; собранные неизвестно откуда люди",
+      "definition_ru": "сброд; разношёрстная сомнительная компания; собранные чёрт знает откуда люди",
       "synonyms_sr": [
-        "svakojako društvo",
-        "zbrda-zdola skupljeni",
-        "šareno društvo",
-        "ko zna odakle skupljeni"
+        "svakojaki ljudi",
+        "sumnjivo društvo",
+        "raznorazni sumnjivi tipovi"
       ],
-      "literal_ru": "с кола и с верёвки",
-      "register": "разг., неодобр., иногда резко презр.; главным образом о группе людей сомнительного или крайне разнородного состава",
+      "literal_ru": "с кола и верёвки",
+      "register": "razg., ekspresivno, neodobr.; najčešće o grupi ljudi skupljenoj bez izbora i kriterijuma",
       "examples": [
         {
-          "serbian_latin": "Novi ministarski kabinet na čelu sa starom premijerkom skupljen je „s koca i konopca“.",
-          "russian": "Новый кабинет министров во главе с прежним премьером собран с бору по сосенке.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/minestrone-vlada/"
+          "serbian_latin": "Ljudi s koca i konopca dolaze na prag Holivudlenda kasnih tridesetih godina.",
+          "russian": "В конце тридцатых к порогу Голливуда стекаются люди самого сомнительного сорта.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Umesto toga, odabrani su osuđivani kriminalac, vođa navijačko-kriminalnih bandi, učesnik poznate afere podmićivanja i slični kompromitovani likovi „s koca i konopca“.",
-          "russian": "Вместо этого выбрали осуждённого преступника, лидера криминализированных фанатских группировок, участника известного коррупционного скандала и других подобных персонажей, собранных неизвестно откуда.",
-          "source": "Danas, 2023",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/palikuca-na-univerzitetu-autorski-tekst-zorana-radovanovica/"
+          "serbian_latin": "Što bi se reklo, došle su s koca i konopca.",
+          "russian": "Как говорится, набрали их неизвестно откуда и без всякого разбора.",
+          "source": "N1 Srbija, 2024"
         }
       ],
-      "note": "Исторический образ намного мрачнее современного значения: kolac — кол, konopac — верёвка для повешения. В сербской традиции выражение связывают с людьми, избежавшими казни на колу или через повешение; такое объяснение приводит и исследование истории смертной казни в Сербии. Сегодня буквальная связь почти не ощущается, но отрицательная оценка группы сохраняется.",
-      "keyword": "kolac; konopac"
+      "note": "Rečnik SANU через Шипку толкует выражение как группу, собранную со всех сторон, без выбора и критериев, из людей «всякого, худшего сорта». Исторический образ связывают с осуждёнными, избежавшими казни на колу или через повешение. В современном употреблении значение может ослабляться до «разношёрстная и сомнительная компания».",
+      "keyword": "s koca i konopca"
     },
     {
       "headword_latin": "s neba pa u rebra",
@@ -14787,31 +14882,29 @@
     {
       "headword_latin": "Staviti ruku u vatru za nekoga / nešto",
       "type": "frazeologizam",
-      "definition_ru": "ручаться за кого-то; быть совершенно уверенным; поручиться головой",
+      "definition_ru": "ручаться за кого-то; быть готовым поручиться; голову дать на отсечение",
       "synonyms_sr": [
         "garantovati za nekoga",
-        "čvrsto verovati u nekoga",
-        "biti potpuno siguran",
-        "verovati bez rezerve"
+        "jamčiti za nekoga",
+        "stati iza nekoga",
+        "čvrsto verovati nekome"
       ],
       "literal_ru": "положить руку в огонь за кого-то",
-      "register": "razg. do neutralno, ekspresivno; za + akuzativ",
+      "register": "razg. do publicistički; staviti ruku u vatru za nekoga / nešto; vrlo jaka tvrdnja ili garancija",
       "examples": [
         {
-          "serbian_latin": "Stoga mogu da stavim ruku u vatru za prevode koje objavljuje moj izdavač.",
-          "russian": "Поэтому я могу ручаться за переводы, которые выпускает мой издатель.",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/kultura/goran-skrobonja-intervju/"
+          "serbian_latin": "Pravi prijatelj će, kažu, „staviti ruku u vatru” za prijatelja.",
+          "russian": "Говорят, настоящий друг готов поручиться за друга головой.",
+          "source": "Politika, 2011"
         },
         {
-          "serbian_latin": "Ančeloti: Stavio bih ruku u vatru za Kontea.",
-          "russian": "Анчелотти: я бы поручился за Конте.",
-          "source": "Sport Klub, 2016",
-          "url": "https://sportklub.n1info.rs/video/fudbal-video/a103636-anceloti-stavio-bih-ruku-u-vatru-za-kontea/"
+          "serbian_latin": "A promena, za kojom mnogi u Srbiji žude, očigledno zahteva da se za nju „stavi ruka u vatru“.",
+          "russian": "А перемены, которых многие в Сербии жаждут, очевидно, требуют готовности за них поручиться всем.",
+          "source": "N1 Srbija, 2024"
         }
       ],
-      "note": "Речь не просто о доверии, а о готовности очень уверенно гарантировать чью-либо честность, качество или достоверность чего-либо. Часто употребляется условная форма ne bih stavio ruku u vatru za njega — «я бы за него не поручился». Для русского важно управление: именно za nekoga / nešto.",
-      "keyword": "ruku u vatru"
+      "note": "Выражение сильнее простого verovati nekome: говорящий фактически ручается за человека или утверждение. Очень частотна отрицательная модель ne bih stavio ruku u vatru za njega — «я бы за него не поручился». Шипка связывает образ со средневековым «божьим судом» — испытанием раскалённым железом; N1 приводит также свидетельства Dušanovog zakonika и Vukovog Srpskog rječnika.",
+      "keyword": "staviti ruku u vatru"
     },
     {
       "headword_latin": "Staviti sve na kocku",
