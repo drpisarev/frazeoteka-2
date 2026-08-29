@@ -599,6 +599,36 @@
       "keyword": "vatra"
     },
     {
+      "headword_latin": "biti kamen spoticanja",
+      "type": "именной фразеологизм",
+      "definition_ru": "Быть серьёзным препятствием; становиться причиной разногласий, конфликтов или задержек.",
+      "synonyms_sr": [
+        "biti prepreka",
+        "biti sporno pitanje",
+        "izazivati neslaganje",
+        "kočiti dogovor",
+        "predstavljati problem"
+      ],
+      "literal_ru": "Быть камнем, о который спотыкаются.",
+      "register": "Нейтральное, образное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Srbija nije, niti će biti, kamen spoticanja u transakciji.",
+          "russian": "Сербия не является и не станет препятствием для сделки.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/djedovic-handanovic-razgovori-o-prodaji-nis-a-dobro-napreduju-srbija-nije-niti-ce-biti-kamen-spoticanja/"
+        },
+        {
+          "serbian_latin": "Jedan nacrt je bio kamen spoticanja.",
+          "russian": "Один проект документа стал камнем преткновения.",
+          "source": "24sedam, 2021",
+          "url": "https://24sedam.rs/drustvo/vesti/41447/o-cemu-se-raspravljalo-na-saboru-spc-u-fokusu-bile-dve-teme-jedan-nacrt-je-bio-kamen-spoticanja/vest"
+        }
+      ],
+      "note": "Выражение обычно обозначает вопрос, условие или обстоятельство, которое мешает соглашению или вызывает устойчивые разногласия.",
+      "keyword": "kamen; spoticanje"
+    },
+    {
       "headword_latin": "Biti kao so na ranu",
       "type": "poređenje",
       "definition_ru": "Быть как соль на рану; дополнительно усиливать уже существующую боль, обиду или тяжёлое положение.",
@@ -3350,6 +3380,35 @@
       "keyword": "imati trip da"
     },
     {
+      "headword_latin": "imati vezane ruke",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Быть связанным ограничениями; не иметь возможности действовать по собственному усмотрению.",
+      "synonyms_sr": [
+        "biti nemoćan da se deluje",
+        "nemati slobodu delovanja",
+        "biti ograničen",
+        "ne moći ništa preduzeti"
+      ],
+      "literal_ru": "Иметь связанные руки.",
+      "register": "Нейтральное, образное.",
+      "examples": [
+        {
+          "serbian_latin": "Bile su nam vezane ruke.",
+          "russian": "У нас были связаны руки.",
+          "source": "Pančevo.city, 2021",
+          "url": "https://www.pancevo.city/na-78-obrtaja/vezane-ruke-pre-i-posle-2000-godine/"
+        },
+        {
+          "serbian_latin": "Vezane ruke.",
+          "russian": "Связанные руки; невозможность свободно действовать.",
+          "source": "Vreme, 2007",
+          "url": "https://vreme.com/vreme/vezane-ruke/"
+        }
+      ],
+      "note": "Ограничение может быть юридическим, политическим, финансовым или административным. Встречается также переходная конструкция vezati nekome ruke — связать кому-либо руки.",
+      "keyword": "ruka"
+    },
+    {
       "headword_latin": "Ispeci, pa reci",
       "type": "izreka",
       "definition_ru": "сначала подумай, потом говори; семь раз отмерь слово; не руби с плеча",
@@ -3486,6 +3545,35 @@
       ],
       "note": "Poređenje opisuje veoma krupnu, široku ili punu osobu, odnosno preširoku i bezobličnu odeću. U srpskom su češći kraći izrazi biti kao ormar i biti građen kao ormar. Može zvučati uvredljivo.",
       "keyword": "ormar"
+    },
+    {
+      "headword_latin": "izgubiti / gubiti tlo pod nogama",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Потерять почву под ногами; утратить уверенность, поддержку или контроль над положением.",
+      "synonyms_sr": [
+        "gubiti oslonac",
+        "gubiti sigurnost",
+        "gubiti kontrolu",
+        "biti ozbiljno uzdrman"
+      ],
+      "literal_ru": "Потерять землю под ногами.",
+      "register": "Нейтральное, образное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Režim je, potpuno izolovan, gubio tlo pod nogama.",
+          "russian": "Режим, оказавшись в полной изоляции, терял почву под ногами.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/video/novi-dan/press-sve-podseca-na-poslednji-period-vladavine-milosevica-kada-je-rezim-potpuno-izolovan-gubio-tlo-pod-nogama/"
+        },
+        {
+          "serbian_latin": "Vučić gubi tlo pod nogama, a ne studenti.",
+          "russian": "Почву под ногами теряет Вучич, а не студенты.",
+          "source": "Direktno, 2025",
+          "url": "https://direktno.rs/vesti/drustvo-i-ekonomija/577155/aleksandar-vucic-studenti-protest-lopandic-djukic-andjelkovic.html"
+        }
+      ],
+      "note": "Форма gubiti описывает продолжающийся процесс, а izgubiti — уже наступивший результат. Выражение может относиться к человеку, власти, организации или общественному движению.",
+      "keyword": "tlo; noga"
     },
     {
       "headword_latin": "izgubiti kompas",
@@ -6051,6 +6139,36 @@
       "keyword": "pasja vrućina"
     },
     {
+      "headword_latin": "pasti na niske grane",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Низко пасть; утратить прежнее положение, достоинство или профессиональный уровень.",
+      "synonyms_sr": [
+        "nisko pasti",
+        "propasti",
+        "srozati se",
+        "izgubiti ugled",
+        "doći u veoma loš položaj"
+      ],
+      "literal_ru": "Упасть на низкие ветви.",
+      "register": "Разговорное, неодобрительное, иногда насмешливое.",
+      "examples": [
+        {
+          "serbian_latin": "Nekadašnji ministar zdravlja prof. dr Tomica Milosavljević pao je na niske grane!",
+          "russian": "Бывший министр здравоохранения профессор Томица Милосавлевич низко пал!",
+          "source": "Republika, 2018",
+          "url": "https://www.republika.rs/vesti/srbija/70818/milosavljevic-se-bacio-na-reklame-ministar-pao-na-niske-grane"
+        },
+        {
+          "serbian_latin": "Pao na niske grane: niko neće Dele Alija!",
+          "russian": "Низко пал: Деле Алли никому не нужен!",
+          "source": "Svetionik, 2023",
+          "url": "https://svetionik.com/5581806"
+        }
+      ],
+      "note": "Выражение может обозначать социальный, нравственный, финансовый или профессиональный упадок. Обычно содержит отрицательную оценку говорящего.",
+      "keyword": "grana"
+    },
+    {
       "headword_latin": "Pasti nekome kamen sa srca",
       "type": "rečenični frazem",
       "definition_ru": "У кого-либо отлегло от сердца; кто-либо испытал большое облегчение.",
@@ -6108,6 +6226,35 @@
       ],
       "note": "Утвердительная и отрицательная формы заметно расходятся прагматически: kao da je pao s kruške — «растерянный, смушённый, как с луны свалился», а nisam pao s kruške — «я не дурак, не наивный». Rečnik SANU фиксирует это значение. Связь с народными представлениями о груше как «нехорошем» дереве подробно обсуждал Veselin Čajkanović, но конкретный путь превращения поверья во фразеологизм остаётся реконструкцией.",
       "keyword": "pasti s kruške"
+    },
+    {
+      "headword_latin": "pasti u vodu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Провалиться; сорваться; не осуществиться; оказаться напрасным.",
+      "synonyms_sr": [
+        "propasti",
+        "ne ostvariti se",
+        "izjaloviti se",
+        "ostati bez rezultata"
+      ],
+      "literal_ru": "Упасть в воду.",
+      "register": "Разговорное, часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Američki plan pao u vodu.",
+          "russian": "Американский план провалился.",
+          "source": "Alo, 2026",
+          "url": "https://www.alo.rs/vesti/svet/16849756/bruka-u-teksasu-americki-plan-pao-u-vodu.html"
+        },
+        {
+          "serbian_latin": "Razotkrivena je strategija dečaku ubicinih roditelja, pa je sada, očigledno, njihov plan pao u vodu.",
+          "russian": "Стратегия родителей мальчика-убийцы была раскрыта, поэтому теперь их план, очевидно, провалился.",
+          "source": "Republika, 2023",
+          "url": "https://www.republika.rs/hronika/hronika/460929/decak-ubica-roditelji-plan-masakr-u-ribnikaru"
+        }
+      ],
+      "note": "Обычно говорится о планах, надеждах, договорённостях, проектах или попытках, которые не удалось реализовать.",
+      "keyword": "voda"
     },
     {
       "headword_latin": "Peri-deri",
@@ -6566,6 +6713,35 @@
       ],
       "note": "Pomeriti не означает, что встречу обязательно отложили: её можно перенести как на более позднее, так и на другое время вообще. Odložiti обычно подчёркивает именно отсрочку. Конструкция pomeriti za četvrtak / za pola sata / na drugi termin очень обычна.",
       "keyword": "pomeriti sastanak"
+    },
+    {
+      "headword_latin": "pomrsiti nekome račune",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Спутать кому-либо карты; нарушить чьи-либо планы; помешать осуществлению задуманного.",
+      "synonyms_sr": [
+        "pokvariti nekome planove",
+        "poremetiti planove",
+        "osujetiti nekoga",
+        "napraviti nekome problem"
+      ],
+      "literal_ru": "Спутать кому-либо расчёты.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Zelenski u Beogradu pomrsio račune opoziciji.",
+          "russian": "Зеленский в Белграде спутал оппозиции карты.",
+          "source": "Kurir TV, 2026",
+          "url": "https://www.kurir.rs/tv/video/100095/ZELENSKI-U-BEOGRADU-POMRSIO-RACUNE-OPOZICIJI-Lakic-i-Miskeljin-otkrili-sta-poseta-Volodimira-Zelenskog-Beogradu-znaci-za-Srbiju"
+        },
+        {
+          "serbian_latin": "Ali joj je gornji deo pomrsio račune.",
+          "russian": "Но верхняя часть наряда нарушила её планы.",
+          "source": "Srbija Danas, 2019",
+          "url": "https://www.sd.rs/zena/vesti/obukla-je-predivnu-belu-haljinu-ali-joj-je-gornji-deo-pomrsio-racune-nesto-ovako-minijaturno-tesko-2019-06-02"
+        }
+      ],
+      "note": "Выражение предполагает неожиданное вмешательство, из-за которого первоначальный замысел становится трудно или невозможно осуществить.",
+      "keyword": "račun"
     },
     {
       "headword_latin": "Poslednji Mohikanac",
@@ -7091,6 +7267,36 @@
       ],
       "note": "Обычно говорится об испортившихся отношениях между людьми, организациями или политическими союзниками. Частая модель: između njih je pukla tikva.",
       "keyword": "tikva"
+    },
+    {
+      "headword_latin": "pustiti nekoga niz vodu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Бросить кого-либо на произвол судьбы; прекратить поддержку; предать или пожертвовать кем-либо ради собственных интересов.",
+      "synonyms_sr": [
+        "ostaviti nekoga na cedilu",
+        "odreći se nekoga",
+        "napustiti nekoga",
+        "žrtvovati nekoga",
+        "uskratiti podršku"
+      ],
+      "literal_ru": "Пустить кого-либо вниз по воде.",
+      "register": "Разговорное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Zašto je Grad „pustio niz vodu“ Apoteku Beograd?",
+          "russian": "Почему город бросил «Аптеку Белград» на произвол судьбы?",
+          "source": "Biznis.rs, 2025",
+          "url": "https://biznis.rs/vesti/srbija/zasto-je-grad-pustio-niz-vodu-apoteku-beograd-u-igri-mozda-i-vise-koncesionara/"
+        },
+        {
+          "serbian_latin": "Nakon KiM Vučić pustio niz vodu i Republiku Srpsku.",
+          "russian": "После Косова и Метохии Вучич отказался поддерживать и Республику Сербскую.",
+          "source": "POKS, 2024",
+          "url": "https://poks.rs/2024/02/08/nakon-kim-vucic-pustio-niz-vodu-i-republiku-srpsku/"
+        }
+      ],
+      "note": "Объектом может быть человек, организация, предприятие, проект или политический союзник. Выражение подчёркивает, что поддержка была прекращена в критический момент.",
+      "keyword": "voda"
     },
     {
       "headword_latin": "Radio Mileva",
@@ -7982,6 +8188,36 @@
       "keyword": "glava; torba"
     },
     {
+      "headword_latin": "staviti nekoga / nešto pod lupu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Подвергнуть кого-либо или что-либо тщательной проверке; внимательно изучить.",
+      "synonyms_sr": [
+        "pažljivo ispitati",
+        "detaljno proveriti",
+        "analizirati",
+        "staviti pod nadzor",
+        "pomno razmotriti"
+      ],
+      "literal_ru": "Поместить кого-либо или что-либо под лупу.",
+      "register": "Нейтральное, образное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Savet Evrope stavio pod lupu slučaj „Telekom–Telenor“.",
+          "russian": "Совет Европы подверг тщательному изучению дело «Телеком — Теленор».",
+          "source": "NUNS, 2021",
+          "url": "https://nuns.rs/savet-evrope-stavio-pod-lupu-slucaj-telekom-telenor/"
+        },
+        {
+          "serbian_latin": "Menadžment RTB Bor svaki trošak stavio pod lupu.",
+          "russian": "Руководство RTB Bor подвергло тщательной проверке каждую статью расходов.",
+          "source": "Telegraf, 2015",
+          "url": "https://www.telegraf.rs/vesti/1905672-zbog-pada-cene-bakra-menadzment-rtb-bor-svaki-trosak-stavio-pod-lupu-foto"
+        }
+      ],
+      "note": "Конструкция употребляется как с одушевлённым, так и с неодушевлённым объектом: staviti političara, ugovor, troškove, slučaj pod lupu.",
+      "keyword": "lupa"
+    },
+    {
       "headword_latin": "staviti nekoga pred svršen čin",
       "type": "глагольный фразеологизм",
       "definition_ru": "Поставить человека перед уже принятым решением или совершившимся фактом, не оставив ему возможности повлиять на ситуацию.",
@@ -8011,31 +8247,61 @@
       "keyword": "čin"
     },
     {
-      "headword_latin": "Staviti tačku na nešto",
-      "type": "glagolski frazem",
-      "definition_ru": "Поставить точку; окончательно завершить или прояснить дело.",
+      "headword_latin": "staviti prst na čelo",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Серьёзно задуматься; остановиться и трезво оценить положение; пересмотреть своё поведение.",
+      "synonyms_sr": [
+        "dobro razmisliti",
+        "zamisliti se",
+        "preispitati se",
+        "razmisliti o posledicama"
+      ],
+      "literal_ru": "Приложить палец ко лбу.",
+      "register": "Разговорное, образное.",
+      "examples": [
+        {
+          "serbian_latin": "Stavio prst na čelo i shvatio…",
+          "russian": "Он задумался и понял…",
+          "source": "Podrinske, 2019",
+          "url": "https://podrinske.com/stavio-prst-na-celo-i-shvatio/"
+        },
+        {
+          "serbian_latin": "Stavio prst na čelo!",
+          "russian": "Он наконец серьёзно задумался!",
+          "source": "Puls Online, 2021",
+          "url": "https://www.pulsonline.rs/aktuelno/stavio-prst-na-celo-zbog-poruke-milana-kalinica-na-njegov-49-rodjendan-mnogi-se/eksyrh3"
+        }
+      ],
+      "note": "Часто употребляется как призыв: Stavi prst na čelo! — Задумайся!; Поразмысли над тем, что делаешь!",
+      "keyword": "prst; čelo"
+    },
+    {
+      "headword_latin": "staviti tačku na nešto",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Поставить точку в каком-либо деле; окончательно прекратить спор, процесс или отношения.",
       "synonyms_sr": [
         "završiti nešto",
         "okončati nešto",
-        "privesti kraju",
-        "razrešiti pitanje",
+        "prekinuti raspravu",
         "zaključiti priču"
       ],
       "literal_ru": "Поставить точку на чём-либо.",
-      "register": "neutralno; često publicistički",
+      "register": "Нейтральное, образное; часто публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Predsednik je stavio tačku, iako su studenti nezadovoljni.",
-          "russian": "Президент поставил точку, хотя студенты остались недовольны.",
-          "source": "N1, 2025"
+          "serbian_latin": "Ministar prosvete stavio tačku na dramu.",
+          "russian": "Министр просвещения поставил точку в этой истории.",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/vesti/srbija/4368644-ministar-prosvete-stavio-tacku-na-dramu-oko-osnivanja-fakulteta-srpskih-studija-u-nisu-ovo-je-konacna-odluka"
         },
         {
-          "serbian_latin": "Idem u tužilaštvo da stavim tačku na farsu o meni na železničkoj stanici.",
-          "russian": "Я иду в прокуратуру, чтобы положить конец фарсу вокруг меня и железнодорожного вокзала.",
-          "source": "Danas, 2025"
+          "serbian_latin": "Vučić stavio tačku na laži blokadera i Šolakovih medija.",
+          "russian": "Вучич положил конец лжи участников блокад и СМИ Шолака.",
+          "source": "Alo, 2025",
+          "url": "https://www.alo.rs/vesti/politika/476174/generalstab-se-ne-prodaje-vucic-stavio-tacku-na-lazi-blokadera-i-solakovih-medija.html"
         }
       ],
-      "note": "Дополнение обычно вводится предлогом na: staviti tačku na raspravu, slučaj, priču или spekulacije. Если предмет разговора понятен из контекста, дополнение может опускаться.",
+      "note": "Управление — staviti tačku na с винительным падежом: na raspravu, na pregovore, na nagađanja. Вариант staviti tačku может употребляться без дополнения, если контекст понятен.",
       "keyword": "tačka"
     },
     {
