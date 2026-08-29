@@ -538,6 +538,33 @@
       "keyword": "bez glave i repa"
     },
     {
+      "headword_latin": "Bez po muke",
+      "type": "frazeologizam",
+      "definition_ru": "без малейшего труда; играючи; запросто",
+      "synonyms_sr": [
+        "lako",
+        "bez ikakvog napora",
+        "bez problema",
+        "glatko"
+      ],
+      "literal_ru": "без половины мучения",
+      "register": "разг., экспр.; обозначает лёгкость действия, отсутствие заметного усилия или сопротивления",
+      "examples": [
+        {
+          "serbian_latin": "Bez po muke, Crvena zvezda je razbila poslednjeplasiranu ekipu Mozzart Bet Superlige.",
+          "russian": "«Црвена звезда» без малейшего труда разгромила последнюю команду Суперлиги.",
+          "source": "Euronews Srbija, 2026"
+        },
+        {
+          "serbian_latin": "I promptno podržao, bez po muke, do juče tobožnjeg ljutog neprijatelja Tadića za premijera.",
+          "russian": "И тут же, без всяких затруднений, поддержал на пост премьера Тадича, ещё вчера якобы заклятого врага.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Выражение живое, хотя внутренняя форма современному говорящему уже не особенно прозрачна. По функции близко bez problema, но значительно образнее: результат достигается легко, почти играючи. Не путать с пословицей bez muke nema nauke — «без труда не вытащишь и рыбку из пруда».",
+      "keyword": "bez po muke"
+    },
+    {
       "headword_latin": "Bez zamerke",
       "type": "izraz",
       "definition_ru": "без нареканий; безупречно; не к чему придраться",
@@ -5686,6 +5713,33 @@
       "keyword": "grom"
     },
     {
+      "headword_latin": "Kao iz topa",
+      "type": "frazeologizam",
+      "definition_ru": "как из пушки; не задумываясь; моментально выпалить ответ",
+      "synonyms_sr": [
+        "odmah odgovoriti",
+        "bez razmišljanja",
+        "smesta",
+        "iz prve"
+      ],
+      "literal_ru": "как из пушки",
+      "register": "разг., экспр.; прежде всего с глаголами речи: odgovoriti, reći kao iz topa",
+      "examples": [
+        {
+          "serbian_latin": "„Čoveče, daj mi taj ritern“, kao iz topa je odgovorio Sampras.",
+          "russian": "«Чувак, дай мне этот приём», — без раздумий выпалил Сампрас.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "„Ništa!“, kao iz topa odgovori Ranko.",
+          "russian": "«Ничего!» — моментально выпалил Ранко.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Выражение описывает скорость и решительность ответа: человек отвечает мгновенно, практически не размышляя. Русское «как из пушки» существует, но используется реже; естественнее часто «выпалил», «ответил не задумываясь».",
+      "keyword": "kao iz topa"
+    },
+    {
       "headword_latin": "Kao kec na deset",
       "type": "frazeologizam",
       "definition_ru": "как нельзя кстати; в самый подходящий момент; то, что нужно",
@@ -7936,6 +7990,33 @@
       "keyword": "ni makac"
     },
     {
+      "headword_latin": "Ni manje ni više",
+      "type": "izraz",
+      "definition_ru": "ни много ни мало; ни больше ни меньше; ни кто иной / ни что иное как",
+      "synonyms_sr": [
+        "upravo",
+        "čak",
+        "baš",
+        "tačno toliko"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг., экспр.; выделяет неожиданность, значительность или необычность названного факта",
+      "examples": [
+        {
+          "serbian_latin": "Na institutima za sudsku medicinu kosa se smatra, ni manje ni više, za vrstu skladišta.",
+          "russian": "В институтах судебной медицины волосы считаются ни много ни мало своего рода хранилищем.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Taj film je ni manje ni više nego otišao na Venecijanski festival.",
+          "russian": "Этот фильм ни много ни мало попал на Венецианский фестиваль.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Оборот не всегда буквально сопоставляет количества. Чаще он подчёркивает удивительный факт: došao je, ni manje ni više, predsednik — «пришёл ни кто иной, как президент». Очень типична конструкция ni manje ni više nego....",
+      "keyword": "ni manje ni više"
+    },
+    {
       "headword_latin": "ni mrava ne bi zgazio",
       "type": "фразеологическое сравнение",
       "definition_ru": "Он и мухи не обидит; совершенно безобидный, добрый и мягкий человек.",
@@ -8050,6 +8131,60 @@
       ],
       "note": "Формула происходит из сербской эпической песни о царе Уроше и Мрнявчевичах, где Марко должен судить не в пользу отца или дядей, а по справедливости. Babo здесь старое «отец», а не современное обращение к дедушке. Выражение давно живёт самостоятельно и употребляется прежде всего о беспристрастном решении без кумовства и протекции.",
       "keyword": "babo; stričevi"
+    },
+    {
+      "headword_latin": "Ni po koju cenu",
+      "type": "izraz",
+      "definition_ru": "ни за что; ни при каких обстоятельствах; любой ценой не допустить",
+      "synonyms_sr": [
+        "nipošto",
+        "ni u kom slučaju",
+        "ni pod kojim uslovima",
+        "ni za živu glavu"
+      ],
+      "literal_ru": "ни по какой цене",
+      "register": "нейтр.-разг., усил.; категорический отказ: neću ni po koju cenu",
+      "examples": [
+        {
+          "serbian_latin": "Ljubo ne želi da mu proda kuću ni po koju cenu.",
+          "russian": "Любо ни за что не хочет продавать ему дом.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Ja svoje izvore nikome, ni po koju cenu odati neću.",
+          "russian": "Я ни при каких обстоятельствах никому не выдам свои источники.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Русскому легко калькировать как «ни по какой цене», но в обычной речи это прежде всего «ни за что, ни при каких обстоятельствах». Близкое ni za živu glavu более разговорное и экспрессивное; ni po koju cenu вполне нормально и в публичной речи.",
+      "keyword": "ni po koju cenu"
+    },
+    {
+      "headword_latin": "Ni traga ni glasa",
+      "type": "frazeologizam",
+      "definition_ru": "ни слуху ни духу; никаких следов; словно сквозь землю провалился",
+      "synonyms_sr": [
+        "nema nikakvog traga",
+        "ništa se ne zna",
+        "kao da je u zemlju propao",
+        "nestati bez traga"
+      ],
+      "literal_ru": "",
+      "register": "разг.-нейтр., экспр.; обычно od nekoga / nečega nema ni traga ni glasa",
+      "examples": [
+        {
+          "serbian_latin": "Ni traga ni glasa od zatvorenika koji su pre mesec dana pobegli iz zatvora u Prokuplju.",
+          "russian": "Ни слуху ни духу о заключённых, которые месяц назад сбежали из тюрьмы в Прокупле.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Njihovi prijatelji pomažu im da je pronađu, ali od Vide nema ni traga ni glasa.",
+          "russian": "Друзья помогают им её искать, но от Виды ни слуху ни духу.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Двойная формула trag + glas буквально означает отсутствие и следа, и каких-либо вестей. Очень типична конструкция od njega nema ni traga ni glasa. Русское «ни слуху ни духу» передаёт её почти идеально.",
+      "keyword": "ni traga ni glasa"
     },
     {
       "headword_latin": "Ni za lek",
@@ -8292,6 +8427,33 @@
       ],
       "note": "Выражение почти всегда критическое: обещания представляются преувеличенными, нереалистичными или заведомо пустыми.",
       "keyword": "kule; gradovi"
+    },
+    {
+      "headword_latin": "Od glave do pete",
+      "type": "frazeologizam",
+      "definition_ru": "с головы до пят; целиком; насквозь, во всех отношениях",
+      "synonyms_sr": [
+        "potpuno",
+        "sasvim",
+        "od vrha do dna",
+        "u celosti"
+      ],
+      "literal_ru": "от головы до пятки",
+      "register": "разг.-нейтр.; может быть буквальным — об одежде или внешности — и переносным",
+      "examples": [
+        {
+          "serbian_latin": "Legendarnim terenima „Ol Ingland klaba“ rastrčaće se, od glave do pete obučeni u belo, najbolji teniseri i teniserke današnjice.",
+          "russian": "По легендарным кортам «Ол Ингланд клаба» выйдут лучшие теннисисты мира, с головы до пят одетые в белое.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Profesionalac sam od glave do pete.",
+          "russian": "Я профессионал до мозга костей.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "В буквальном значении сербское и русское выражения совпадают: obučen od glave do pete u crno. Но переносное употребление в сербском весьма продуктивно: Srbin od glave do pete, profesionalac od glave do pete — «серб до мозга костей», «профессионал во всём».",
+      "keyword": "od glave do pete"
     },
     {
       "headword_latin": "Od igle do lokomotive",
@@ -10486,6 +10648,32 @@
       "keyword": "Rubikon"
     },
     {
+      "headword_latin": "Preko noći",
+      "type": "izraz",
+      "definition_ru": "в одночасье; за одну ночь; внезапно и очень быстро",
+      "synonyms_sr": [
+        "odjednom",
+        "veoma brzo",
+        "za veoma kratko vreme"
+      ],
+      "literal_ru": "за ночь",
+      "register": "нейтр.-разг.; может быть буквальным, но очень часто означает резкую перемену за чрезвычайно короткое время",
+      "examples": [
+        {
+          "serbian_latin": "Vlasnik je gotovo preko noći sve radnje zatvorio, a radnici su ostavljeni bez plata.",
+          "russian": "Владелец практически в одночасье закрыл все магазины, а сотрудники остались без зарплаты.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Međutim, promena energenta znači i prekid u isporuci toplotne energije, jer se sa gasa na mazut ne može preći „preko noći“.",
+          "russian": "Однако смена топлива означает и перерыв в теплоснабжении, потому что перейти с газа на мазут в одночасье невозможно.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "В переносном употреблении настоящая ночь не обязательна: uspeh ne dolazi preko noći — «успех не приходит мгновенно». Поэтому русскому не следует всегда переводить буквально «за ночь»; часто нужны «в одночасье», «мгновенно», «за очень короткое время».",
+      "keyword": "preko noći"
+    },
+    {
       "headword_latin": "Prenositi se od usta do usta",
       "type": "glagolski frazem",
       "definition_ru": "передаваться из уст в уста; распространяться посредством личных пересказов",
@@ -11240,6 +11428,33 @@
       ],
       "note": "Выражение строится на рифме и означает честную, недвусмысленную оценку людей или событий.",
       "keyword": "pop; bob"
+    },
+    {
+      "headword_latin": "Reda radi",
+      "type": "izraz",
+      "definition_ru": "для галочки; для вида; чисто формально",
+      "synonyms_sr": [
+        "tek formalno",
+        "pro forme",
+        "samo da se ispoštuje forma",
+        "tek toliko"
+      ],
+      "literal_ru": "",
+      "register": "разг.-нейтр., часто неодобр.; о действии без настоящей заинтересованности, сделанном лишь потому, что так положено",
+      "examples": [
+        {
+          "serbian_latin": "„Slike“ praznika su nam umorne žene koje po autobusima nose poneki ofucani cvet koji su dobile od kolega „reda radi“.",
+          "russian": "Обычная картинка праздника — уставшие женщины в автобусах с потрёпанным цветком, который коллеги подарили им для галочки.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Ekspert za energetiku smatra da se radi o sankcijama koje su uvedene „reda radi“.",
+          "russian": "Эксперт по энергетике считает, что санкции ввели чисто формально, для вида.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Выражение не всегда означает плохо выполненную работу. Главное — отсутствие внутренней необходимости или искреннего намерения: что-то сделали только для соблюдения формы. Поэтому русское «для галочки» обычно точнее, чем буквальное «ради порядка».",
+      "keyword": "reda radi"
     },
     {
       "headword_latin": "Rođen / rođena sa zlatnom kašikom",
@@ -13831,6 +14046,33 @@
       "keyword": "u poslednji čas"
     },
     {
+      "headword_latin": "U tren oka",
+      "type": "frazeologizam",
+      "definition_ru": "в мгновение ока; в один миг; молниеносно",
+      "synonyms_sr": [
+        "za tren",
+        "začas",
+        "munjevito",
+        "veoma brzo"
+      ],
+      "literal_ru": "в миг глаза",
+      "register": "нейтр.-экспр.; наречный оборот о чрезвычайно быстром действии или изменении",
+      "examples": [
+        {
+          "serbian_latin": "Oklahoma je u drugom poluvremenu uhvatila zalet i u tren oka pregazila rivala.",
+          "russian": "Во втором тайме «Оклахома» набрала ход и в мгновение ока смяла соперника.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Upravo to omogućava slepom mišu da u tren oka promeni oblik krila.",
+          "russian": "Именно это позволяет летучей мыши в мгновение ока изменить форму крыла.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "Русский и сербский обороты почти совпадают, но в сербском употребительно именно u tren oka. Близкое разговорное začas обычно менее образно.",
+      "keyword": "u tren oka"
+    },
+    {
       "headword_latin": "ubiti dve muve jednim udarcem",
       "type": "глагольный фразеологизм",
       "definition_ru": "Убить двух зайцев одним выстрелом; одним действием достичь двух целей.",
@@ -14741,6 +14983,33 @@
       ],
       "note": "Русское «сколько волка ни корми, он всё в лес смотрит» говорит прежде всего о том, что человека тянет к своей среде, привычному образу жизни или истинным привязанностям. Сербская пословица — о неизменности характера: можно сменить одежду, политическую позицию или внешние манеры, но ćud остаётся прежней. Она зафиксирована среди старых сербских пословиц и широко употребляется в современной публицистике. В интернете её постоянно пародируют и переставляют компоненты, что также говорит о высокой узнаваемости.",
       "keyword": "vuk dlaku menja ali ćud nikada"
+    },
+    {
+      "headword_latin": "Za dlaku",
+      "type": "frazeologizam",
+      "definition_ru": "на волосок; едва-едва; совсем чуть-чуть",
+      "synonyms_sr": [
+        "zamalo",
+        "jedva",
+        "za malo",
+        "vrlo tesno"
+      ],
+      "literal_ru": "на волос",
+      "register": "разг.-нейтр., экспр.; о минимальном расстоянии от успеха, поражения или опасности",
+      "examples": [
+        {
+          "serbian_latin": "Srpskom reprezentativcu Milutinu Stefanoviću „za dlaku“ je izmakla medalja.",
+          "russian": "Сербскому стрелку Милутину Стефановичу медаль ускользнула буквально на волосок.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Žena je „za dlaku“ izbegla Soko voz na Tošinom bunaru.",
+          "russian": "Женщина чудом, буквально в последний момент, избежала столкновения с поездом «Соко» на Тошином бунаре.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Особенно часты модели izbeći za dlaku — «избежать на волосок» и izmaklo mu je za dlaku — «ему чуть-чуть не хватило». В зависимости от ситуации za dlaku может обозначать и почти случившуюся катастрофу, и минимальный разрыв в соревновании.",
+      "keyword": "za dlaku"
     },
     {
       "headword_latin": "Za džabe",
