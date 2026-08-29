@@ -1218,6 +1218,35 @@
       "keyword": "trn"
     },
     {
+      "headword_latin": "Biti tvrd orah",
+      "type": "frazeologizam",
+      "definition_ru": "быть крепким орешком; оказаться трудным соперником; быть непростой задачей",
+      "synonyms_sr": [
+        "biti težak protivnik",
+        "biti teško savladiv",
+        "biti zahtevan zalogaj",
+        "pružati jak otpor"
+      ],
+      "literal_ru": "быть твёрдым орехом",
+      "register": "разг.-нейтр., экспр.; о человеке, команде, организации или проблеме, которые трудно одолеть",
+      "examples": [
+        {
+          "serbian_latin": "Vu se pokazao kao tvrd orah, ali Đoković ga je slomio.",
+          "russian": "Ву оказался крепким орешком, но Джокович его расколол.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/sport/tenis/5983556/novak-djokovic-jibing-vu-vimbldon-prvo-kolo-2026-mec.html"
+        },
+        {
+          "serbian_latin": "Ne znam ga, ali je sigurno tvrd orah.",
+          "russian": "Я его не знаю, но он определённо крепкий орешек.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/page/stories/sr/story/10/svet/2670611/tramp-putin-je-tvrd-orah.html"
+        }
+      ],
+      "note": "Русский и сербский фразеологизмы практически совпадают. Особенно часто оборот употребляется в спортивной речи о сопернике, который сильнее или упорнее, чем ожидалось. Возможна и конструкция pokazati se kao tvrd orah — «оказаться крепким орешком».",
+      "keyword": "tvrd orah"
+    },
+    {
       "headword_latin": "Biti u bedaku",
       "type": "sleng",
       "definition_ru": "быть в подавленном настроении; хандрить; быть расстроенным; быть не в духе",
@@ -2800,6 +2829,35 @@
       "keyword": "držati fige"
     },
     {
+      "headword_latin": "Držati glavu iznad vode",
+      "type": "frazeologizam",
+      "definition_ru": "держаться на плаву; кое-как выживать; не давать себе окончательно утонуть в проблемах",
+      "synonyms_sr": [
+        "održavati se",
+        "jedva opstajati",
+        "nekako izdržavati",
+        "boriti se za opstanak"
+      ],
+      "literal_ru": "держать голову над водой",
+      "register": "разг.-публицист., экспр.; особенно часто о финансовом, профессиональном или организационном выживании",
+      "examples": [
+        {
+          "serbian_latin": "I danas drži glavu iznad vode, drži i dalje onu jasnu i prepoznatljivu danasovsku liniju.",
+          "russian": "И сегодня газета держится на плаву и сохраняет свою ясную, узнаваемую линию.",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/vesti/drustvo/danas-bi-svako-da-uredjuje-danas/"
+        },
+        {
+          "serbian_latin": "Ako vaše novinarstvo nije dovoljno specifično... ne znam kako uspevate da zadržite glavu iznad vode.",
+          "russian": "Если ваша журналистика недостаточно самобытна... не знаю, как вам удаётся держаться на плаву.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/merila-vremena/3704130/novinari-nece-preziveti-digitalizaciju-ako-ne-poslusaju-ovaj-savet.html"
+        }
+      ],
+      "note": "Русскому лучше переводить переносное значение как «держаться на плаву», а не буквально «держать голову над водой». Чаще всего речь идёт о минимально достаточном выживании: денег, клиентов, сил или ресурсов хватает лишь на то, чтобы не «утонуть».",
+      "keyword": "glavu iznad vode"
+    },
+    {
       "headword_latin": "držati jezik za zubima",
       "type": "глагольный фразеологизм",
       "definition_ru": "Держать язык за зубами; молчать; не выдавать тайну; воздерживаться от неуместных слов.",
@@ -3832,6 +3890,35 @@
       ],
       "note": "Loj — животный жир, сало; сербский образ поэтому буквально отличается от русского «как по маслу», хотя значение практически идентично. Очень естественны конструкции sve ide kao po loju и posao je išao kao po loju.",
       "keyword": "kao po loju"
+    },
+    {
+      "headword_latin": "Ići linijom manjeg otpora",
+      "type": "frazeologizam",
+      "definition_ru": "идти по пути наименьшего сопротивления; выбирать самый лёгкий путь; избегать трудностей",
+      "synonyms_sr": [
+        "birati lakši put",
+        "izbegavati teža rešenja",
+        "ne talasati",
+        "povlađivati okolnostima"
+      ],
+      "literal_ru": "идти по линии меньшего сопротивления",
+      "register": "нейтр.-публицист., обычно неодобр.; о выборе удобного, но не обязательно правильного решения",
+      "examples": [
+        {
+          "serbian_latin": "Svi to znaju, ali je lakše ići linijom manjeg otpora i reći: „Reforme ne moraju da idu preko mojih leđa.“",
+          "russian": "Все это знают, но проще пойти по пути наименьшего сопротивления и сказать: «Реформы не должны проводиться за мой счёт».",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/vesti/politika/1754833/intervju-aleksandar-vucic.html"
+        },
+        {
+          "serbian_latin": "Verovatno će većina građana ići linijom manjeg otpora pa će koristiti električnu energiju.",
+          "russian": "Вероятно, большинство граждан пойдёт по пути наименьшего сопротивления и станет пользоваться электричеством.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4859079/.html?print=true"
+        }
+      ],
+      "note": "Значение практически совпадает с русским. Обычно подразумевается не просто рациональный выбор более простого способа, а стремление избежать усилий, конфликта, ответственности или непопулярного решения.",
+      "keyword": "linijom manjeg otpora"
     },
     {
       "headword_latin": "Ići nekome niz dlaku",
@@ -6474,6 +6561,35 @@
       "keyword": "natovariti na vrat"
     },
     {
+      "headword_latin": "Navoditi / terati vodu na svoju vodenicu",
+      "type": "frazeologizam",
+      "definition_ru": "тянуть одеяло на себя; поворачивать всё в свою пользу; извлекать выгоду для себя",
+      "synonyms_sr": [
+        "gledati svoju korist",
+        "okretati stvari u svoju korist",
+        "vući na svoju stranu",
+        "koristiti situaciju za sebe"
+      ],
+      "literal_ru": "направлять воду на свою мельницу",
+      "register": "разг.-публицист., обычно неодобр.; встречаются варианты navoditi, navratiti и terati vodu na svoju vodenicu",
+      "examples": [
+        {
+          "serbian_latin": "Svako tera vodu na svoju vodenicu, pomislih, a za Boga ne pita.",
+          "russian": "Каждый тянет одеяло на себя, подумал я, а о Боге никто и не спрашивает.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/magazin/putujemo/3943579/bermude-nisu-za-grenland.html"
+        },
+        {
+          "serbian_latin": "Ko tera vodu na svoju vodenicu, melje gluposti.",
+          "russian": "Кто всё поворачивает в свою пользу, тот мелет чепуху.",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/izborna-tisina-da-grobna-ne"
+        }
+      ],
+      "note": "Образ восходит к реальным водяным мельницам: владелец был заинтересован направить поток именно к своей мельнице. Сербские лингвисты прямо отмечают этот бытовой источник фразеологизма. По-русски буквальный образ понятен, но в живой речи чаще подходят «тянуть одеяло на себя», «поворачивать всё в свою пользу».",
+      "keyword": "vodu na svoju vodenicu"
+    },
+    {
       "headword_latin": "Navrat-nanos",
       "type": "prilog",
       "definition_ru": "наспех; второпях; в спешке; сломя голову",
@@ -6598,6 +6714,35 @@
       ],
       "note": "Para исторически была мелкой денежной единицей, но современный оборот давно не воспринимается как реальная денежная оценка. В зависимости от контекста он означает либо «нисколько не ценить», либо «совершенно не заботиться / не интересоваться». Очень близки ne dati ni pišljiva boba и ne dati ni žute banke.",
       "keyword": "ni pet para"
+    },
+    {
+      "headword_latin": "Ne lezi vraže",
+      "type": "izreka",
+      "definition_ru": "но не тут-то было; ан нет; как назло",
+      "synonyms_sr": [
+        "ali avaj",
+        "kad ono",
+        "međutim",
+        "baš tada se zakomplikuje"
+      ],
+      "literal_ru": "не ложись, чёрт",
+      "register": "разг., экспр.; устойчивая реплика, вводящая неожиданное осложнение после того, как казалось, что всё идёт хорошо",
+      "examples": [
+        {
+          "serbian_latin": "Ali, ne lezi vraže. Mašine su uskoro otišle na neko drugo gradilište.",
+          "russian": "Но не тут-то было. Вскоре техника ушла на другую стройку.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/1367592/ukleti-put-kod-kikinde.html"
+        },
+        {
+          "serbian_latin": "Ali, ne lezi vraže! Vučić se nakon hapšenja izvesnog Luke Bojovića... setio s kim se taj iz Vlade sastajao.",
+          "russian": "Но не тут-то было! После ареста некоего Луки Бойовича Вучич вдруг вспомнил, с кем встречался тот человек из правительства.",
+          "source": "Danas, 2012",
+          "url": "https://www.danas.rs/kolumna/natasa-b-odalovic/puska-iz-prvog-cina/"
+        }
+      ],
+      "note": "Выражение обычно появляется в рассказе именно в точке неожиданного поворота: всё вроде бы наладилось — ali, ne lezi vraže... Русскому ближе всего «но не тут-то было». Форма lezi здесь входит в застывшее выражение и не воспринимается как обычное современное повеление.",
+      "keyword": "ne lezi vraže"
     },
     {
       "headword_latin": "Ne mogu sebi da priuštim",
@@ -7529,6 +7674,35 @@
       ],
       "note": "Форма ostati na cedilu описывает положение пострадавшего, а ostaviti nekoga na cedilu — действие того, кто бросил или подвёл другого.",
       "keyword": "cedilo"
+    },
+    {
+      "headword_latin": "Ostati kratkih rukava",
+      "type": "frazeologizam",
+      "definition_ru": "остаться ни с чем; остаться в проигрыше; недополучить то, на что рассчитывал",
+      "synonyms_sr": [
+        "ostati bez ičega",
+        "biti uskraćen",
+        "izvući deblji kraj",
+        "loše proći"
+      ],
+      "literal_ru": "остаться с короткими рукавами",
+      "register": "разг., экспр.; о человеке или группе, которые ожидали выгоду, деньги, должность или долю, но не получили их",
+      "examples": [
+        {
+          "serbian_latin": "To znači da će neki ostati kratkih rukava u podeli karata i u podeli nafte koja postoji na svetskom tržištu.",
+          "russian": "Это значит, что при разделе карт и нефти на мировом рынке кто-то останется ни с чем.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5929657/.html?print=true"
+        },
+        {
+          "serbian_latin": "Nisu nezavisne institucije jedine koje će dogodine ostati kratkih rukava.",
+          "russian": "Независимые институты — не единственные, кто в следующем году останется ни с чем.",
+          "source": "Politika, 2017",
+          "url": "https://www.politika.rs/sr/clanak/392598/nema-povecanja-plata-za-nezavisne-institucije"
+        }
+      ],
+      "note": "Выражение не связано с одеждой в современном восприятии. Оно означает, что человек оказался обделённым, проиграл распределение или не получил обещанного. Русское «остаться с носом» иногда подходит, но чаще естественнее «остаться ни с чем».",
+      "keyword": "ostati kratkih rukava"
     },
     {
       "headword_latin": "ostaviti nekoga bez daha",
@@ -8966,6 +9140,35 @@
       ],
       "note": "Помимо буквального автомобильного значения, povući ručnu очень продуктивно переносится на поведение, карьеру, расходы, отношения и политику: «сбавить темп, вовремя остановиться». Русское «дёрнуть ручник» обычно остаётся буквальным, поэтому переводить его буквально не стоит.",
       "keyword": "povući ručnu"
+    },
+    {
+      "headword_latin": "Prati / oprati ruke od nečega",
+      "type": "frazeologizam",
+      "definition_ru": "умывать руки; снимать с себя ответственность; устраняться от дела",
+      "synonyms_sr": [
+        "ograditi se",
+        "skinuti odgovornost sa sebe",
+        "odreći se odgovornosti",
+        "distancirati se"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публицист., экспр.; управление od + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Otac dodaje da je i očekivao da će svi prati ruke od odgovornosti.",
+          "russian": "Отец добавляет, что и ожидал: все будут умывать руки и снимать с себя ответственность.",
+          "source": "N1, 2018",
+          "url": "https://n1info.rs/vesti/a356212-Otac-tvrdi-da-su-mu-u-domu-tukli-slepog-sina/"
+        },
+        {
+          "serbian_latin": "Ova će vlast naravno „prati ruke“ od ove vesti.",
+          "russian": "Эта власть, конечно, будет умывать руки и открещиваться от этой новости.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/bez-odliva-mozgova-iz-sanatorijuma-srbija/"
+        }
+      ],
+      "note": "Это библейский фразеологизм, связанный с евангельским рассказом о Понтии Пилате, который символически омыл руки, снимая с себя ответственность за решение о судьбе Христа. Такое происхождение прямо отмечается в сербской лингвистической публицистике. Для русского соответствие «умыть руки» почти полное.",
+      "keyword": "prati ruke"
     },
     {
       "headword_latin": "praviti od komarca magarca",
@@ -10622,6 +10825,35 @@
       "keyword": "sprati ljagu"
     },
     {
+      "headword_latin": "Spustiti gard",
+      "type": "frazeologizam",
+      "definition_ru": "ослабить защиту; перестать быть настороже; раскрыться; расслабиться",
+      "synonyms_sr": [
+        "opustiti se",
+        "prestati da se brani",
+        "otvoriti se",
+        "smanjiti oprez"
+      ],
+      "literal_ru": "опустить защитную стойку",
+      "register": "разг.-нейтр., экспр.; перенос из бокса и других единоборств",
+      "examples": [
+        {
+          "serbian_latin": "Mislim da svi mi jesmo zauvek deca, samo je potrebno spustiti gard.",
+          "russian": "Думаю, все мы навсегда остаёмся детьми, нужно лишь перестать защищаться и раскрыться.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kultura/intervju-kika/"
+        },
+        {
+          "serbian_latin": "Maksimalno ozbiljno smo odigrali, sa velikim zajedništvom, nije bilo govora da ćemo „spustiti gard“.",
+          "russian": "Мы сыграли предельно серьёзно и сплочённо, ни о каком ослаблении концентрации не могло быть и речи.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/sport/kosarka/2381204/cilj-ispunjen-malo-uzivanja-pa-pripreme.html"
+        }
+      ],
+      "note": "В спорте это буквально «опустить защиту», но вне спорта выражение очень продуктивно: перестать ждать нападения, снизить осторожность, допустить эмоциональную близость. Поэтому перевод зависит от ситуации: «расслабиться», «раскрыться», «потерять бдительность».",
+      "keyword": "spustiti gard"
+    },
+    {
       "headword_latin": "spustiti loptu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Сбавить тон; успокоить ситуацию; перестать раздувать конфликт или эйфорию; перейти к более сдержанному поведению.",
@@ -12273,6 +12505,35 @@
       "keyword": "ući u štos"
     },
     {
+      "headword_latin": "Udariti / lupiti šakom o sto",
+      "type": "frazeologizam",
+      "definition_ru": "стукнуть кулаком по столу; проявить твёрдость; властно сказать «хватит»",
+      "synonyms_sr": [
+        "preseći",
+        "odlučno reagovati",
+        "pokazati autoritet",
+        "reći dosta"
+      ],
+      "literal_ru": "ударить кулаком по столу",
+      "register": "разг., экспр.; может описывать реальный жест, но часто означает жёсткое и окончательное решение",
+      "examples": [
+        {
+          "serbian_latin": "Kada treba da udari šakom o sto i bude stroga za dobrobit ovog humanog poziva, naša sagovornica kaže da to i te kako čini.",
+          "russian": "Когда нужно проявить твёрдость и быть строгой ради дела, наша собеседница говорит, что без колебаний это делает.",
+          "source": "Politika, 2013",
+          "url": "https://www.politika.rs/sr/clanak/257248/milena-ratkovic-najbolja-sestra-vma"
+        },
+        {
+          "serbian_latin": "Nama je potreban neko... taj mora da kaže „upamet se, Srbi“ i možda da udari šakom o sto.",
+          "russian": "Нам нужен кто-то, кто скажет: «Образумьтесь, сербы» — и, возможно, наконец проявит жёсткость.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/politika/bajic-ako-javni-funkcioneri-nastave-ovako-da-vode-igru-odvesce-nas-u-predvorje-gradjanskog-rata/"
+        }
+      ],
+      "note": "Реальный удар по столу и переносное «проявить власть, прекратить спор и принять решение» легко переходят друг в друга. В политической речи образ часто связан с ожиданием «сильной руки». В русском аналогичная метафора есть, но по-сербски она особенно регулярно используется как символ решительности.",
+      "keyword": "šakom o sto"
+    },
+    {
       "headword_latin": "Udariti u zid",
       "type": "glagolski frazem",
       "definition_ru": "Зайти в тупик; натолкнуться на непреодолимое препятствие; достичь точки, после которой невозможно двигаться дальше.",
@@ -13288,6 +13549,35 @@
       ],
       "note": "Особенно часто употребляется как газетное клише в криминальной хронике.",
       "keyword": "rešetke"
+    },
+    {
+      "headword_latin": "Zavući ruku u džep",
+      "type": "frazeologizam",
+      "definition_ru": "раскошелиться; залезть в карман; заставить кого-то платить",
+      "synonyms_sr": [
+        "platiti",
+        "izdvojiti novac",
+        "posegnuti za novcem",
+        "uzeti nekome novac"
+      ],
+      "literal_ru": "запустить руку в карман",
+      "register": "разг., экспр.; duboko zavući ruku u džep — много заплатить; zavući nekome ruku u džep — забрать у кого-то деньги или обременить расходами",
+      "examples": [
+        {
+          "serbian_latin": "Elektronski predatori, međutim, stalno iznalaze nove načine da nam zavuku ruku u džep.",
+          "russian": "Электронные мошенники постоянно находят новые способы залезть к нам в карман.",
+          "source": "Politika, 2023",
+          "url": "https://www.politika.rs/sr/articles/amp/572222"
+        },
+        {
+          "serbian_latin": "Poskupljenje struje... će još dodatno zavući ruku u džep običnog čoveka.",
+          "russian": "Подорожание электричества ещё сильнее ударит по кошельку обычного человека.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/ekonomija/cudesne-vuciceve-mere-i-druge-bajke/"
+        }
+      ],
+      "note": "Нужно различать две близкие конструкции. Morati duboko zavući ruku u džep означает «прилично раскошелиться», тогда как neko ti zavlači ruku u džep — «кто-то залезает тебе в карман», то есть отнимает деньги посредством цен, налогов, комиссий или обмана. Для русского эта разница определяется прежде всего субъектом действия.",
+      "keyword": "zavući ruku u džep"
     },
     {
       "headword_latin": "Zbog sira i vojne muzike",
