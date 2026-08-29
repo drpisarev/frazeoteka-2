@@ -686,6 +686,35 @@
       "keyword": "čekić; nakovanj"
     },
     {
+      "headword_latin": "Biti / odrastati pod staklenim zvonom",
+      "type": "frazeologizam",
+      "definition_ru": "жить под стеклянным колпаком; быть чрезмерно опекаемым; расти в тепличных условиях",
+      "synonyms_sr": [
+        "biti prezaštićen",
+        "živeti zaštićeno",
+        "biti pošteđen problema",
+        "odrastati bez dodira sa stvarnošću"
+      ],
+      "literal_ru": "быть под стеклянным колпаком",
+      "register": "разг.-публицист.; чаще о ребёнке или молодом человеке, которого чрезмерно защищают от трудностей и реальной жизни",
+      "examples": [
+        {
+          "serbian_latin": "Sve to govori o jednoj generaciji koja je odrastala „pod staklenim zvonom“ i čiji su roditelji pokušavali da sačuvaju decu od surove realnosti.",
+          "russian": "Всё это рассказывает о поколении, выросшем под стеклянным колпаком: родители старались уберечь детей от суровой реальности.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/3970422/.html?print=true"
+        },
+        {
+          "serbian_latin": "Milica od početka serije sazreva, pošto je čitav život provela pod staklenim zvonom.",
+          "russian": "Милица с начала сериала взрослеет, поскольку всю жизнь провела под стеклянным колпаком.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/5405518/u-klincu-treca-sezona-voyage-nucci.html"
+        }
+      ],
+      "note": "Stakleno zvono — буквально стеклянный колпак, которым накрывают и защищают предмет. В переносном значении защита становится чрезмерной: человеку не дают столкнуться с трудностями и приобрести самостоятельность. Русское «под стеклянным колпаком» понятно, но «в тепличных условиях» часто звучит естественнее.",
+      "keyword": "pod staklenim zvonom"
+    },
+    {
       "headword_latin": "Biti / sedeti kao na iglama",
       "type": "frazeologizam",
       "definition_ru": "быть как на иголках; нервничать в ожидании; не находить себе места",
@@ -5282,6 +5311,35 @@
       "keyword": "sranje"
     },
     {
+      "headword_latin": "Iz čista mira",
+      "type": "izraz",
+      "definition_ru": "ни с того ни с сего; без всякой причины; совершенно неожиданно",
+      "synonyms_sr": [
+        "bez razloga",
+        "ničim izazvano",
+        "odjednom",
+        "bez ikakvog povoda"
+      ],
+      "literal_ru": "из чистого мира",
+      "register": "разг.-нейтр., экспр.; о событии или поступке без видимой причины или повода",
+      "examples": [
+        {
+          "serbian_latin": "Napadnuti su iz čista mira.",
+          "russian": "На них напали ни с того ни с сего.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5685261/.html?print=true"
+        },
+        {
+          "serbian_latin": "Radimo uobičajene stvari i iz čista mira se setimo neke neprijatne situacije iz srednje škole.",
+          "russian": "Мы занимаемся обычными делами и вдруг ни с того ни с сего вспоминаем какую-нибудь неприятную ситуацию из школы.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/magazin/zivot/5019572/zasto-se-i-posle-vise-godina-stidimo-kada-se-setimo-nekih-neprijatnih-situacija.html"
+        }
+      ],
+      "note": "Буквальная форма русскому ничего не объясняет. Iz čista mira может относиться как к неожиданному событию, так и к действию без причины: napao me je iz čista mira, počeo je da viče iz čista mira. Близкое odjednom передаёт внезапность, но не обязательно отсутствие причины.",
+      "keyword": "iz čista mira"
+    },
+    {
       "headword_latin": "Iz prve ruke",
       "type": "izraz",
       "definition_ru": "из первых рук; непосредственно от источника; из личного опыта",
@@ -7124,6 +7182,35 @@
       "keyword": "na mala vrata"
     },
     {
+      "headword_latin": "Na mišiće",
+      "type": "izraz",
+      "definition_ru": "с огромным трудом; на пределе сил; буквально «вытащить на характере»",
+      "synonyms_sr": [
+        "jedva",
+        "uz veliki napor",
+        "na snagu",
+        "krajnjim naporom"
+      ],
+      "literal_ru": "на мышцах",
+      "register": "разг., экспр.; особенно частотно в спорте, но употребляется и о работе, учреждениях, финансах и выживании",
+      "examples": [
+        {
+          "serbian_latin": "Mi opstajemo, uspevamo da objavljujemo naučne rezultate koji su zapaženi u svetu, ali to je, kako bih rekao, na mišiće.",
+          "russian": "Мы держимся, публикуем заметные в мире научные результаты, но всё это даётся буквально на пределе сил.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3019005/.html?print=true"
+        },
+        {
+          "serbian_latin": "Vojvodina „na mišiće“ sa Metalcem.",
+          "russian": "«Войводина» вырвала победу у «Металаца» с огромным трудом.",
+          "source": "RTS, 2010",
+          "url": "https://www.rts.rs/lat/sport/kosarka/439681/vojvodina-na-misice-sa-metalcem.html"
+        }
+      ],
+      "note": "В спортивном контексте pobeda na mišiće — победа, добытая силой, упорством и волей, а не лёгкой или красивой игрой. В более широком употреблении opstajati na mišiće означает «держаться из последних сил, вопреки нехватке ресурсов».",
+      "keyword": "na mišiće"
+    },
+    {
       "headword_latin": "Na pretek",
       "type": "izraz",
       "definition_ru": "в избытке; хоть отбавляй; навалом",
@@ -7990,6 +8077,35 @@
       "keyword": "nema svrhe"
     },
     {
+      "headword_latin": "Nema zime",
+      "type": "izraz",
+      "definition_ru": "всё будет хорошо; беспокоиться не о чем; не пропадём",
+      "synonyms_sr": [
+        "nema brige",
+        "biće sve u redu",
+        "nema razloga za strah",
+        "sigurno je"
+      ],
+      "literal_ru": "зимы не будет",
+      "register": "разг., экспр., часто шутл.; обычно конструкция za nekoga / nešto nema zime",
+      "examples": [
+        {
+          "serbian_latin": "Za IT sektor nema zime, visoke zarade i dalje su mamac za nove kandidate.",
+          "russian": "За IT-сектор можно не переживать: высокие зарплаты по-прежнему привлекают новых специалистов.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4915916/za-it-sektor-nema-zime-visoke-zarade-i-dalje-su-mamac-za-nove-kandidate.html"
+        },
+        {
+          "serbian_latin": "Za srpske bogataše nema zime.",
+          "russian": "Сербским богачам переживать не о чем.",
+          "source": "RTS, 2011",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/991418/za-srpske-bogatase-nema-zime.html"
+        }
+      ],
+      "note": "Выражение часто вообще не связано с погодой. Оно означает, что положение достаточно надёжно и человек или отрасль «не пропадёт». Формула Za njega nema zime по-русски естественно переводится «за него можно не беспокоиться», «он не пропадёт».",
+      "keyword": "nema zime"
+    },
+    {
       "headword_latin": "Nemati ni kučeta ni mačeta",
       "type": "frazeologizam",
       "definition_ru": "быть совершенно одному; не иметь ни семьи, ни близких; не иметь никого своего",
@@ -8387,6 +8503,35 @@
       ],
       "note": "Двойная формула trag + glas буквально означает отсутствие и следа, и каких-либо вестей. Очень типична конструкция od njega nema ni traga ni glasa. Русское «ни слуху ни духу» передаёт её почти идеально.",
       "keyword": "ni traga ni glasa"
+    },
+    {
+      "headword_latin": "Ni u ludilu",
+      "type": "izraz",
+      "definition_ru": "ни за что на свете; ни в коем случае; даже представить себе не мог",
+      "synonyms_sr": [
+        "nipošto",
+        "ni pod razno",
+        "ni u kom slučaju",
+        "nema šanse (razg.)"
+      ],
+      "literal_ru": "даже в безумии",
+      "register": "разг., усил., экспр.; употребляется при категорическом отказе и с глаголами misliti, očekivati, verovati",
+      "examples": [
+        {
+          "serbian_latin": "Ni u ludilu nisam očekivao da je to u rangu ultra retke bolesti.",
+          "russian": "Я даже представить себе не мог, что речь идёт об ультраредком заболевании.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4799460/mala-lenka-se-bori-sa-tri-dijagnoze--za-lecenje-u-inostranstvu-potrebna-je-pomoc-svih-nas.html"
+        },
+        {
+          "serbian_latin": "Za dva sam rekla, jer doktor mi je rekao, a za tri i za četiri ni u ludilu.",
+          "russian": "Двоих я ещё ожидала, потому что врач предупредил, но троих или четверых — ни за что бы не подумала.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5798522/krava-beba-otelila-sanelu-kasandru-bokija-i-dekija-.html"
+        }
+      ],
+      "note": "Значение шире простого «ни в коем случае». Ne bih to uradio ni u ludilu — «я бы этого ни за что не сделал», но nisam ni u ludilu očekivao — «даже представить себе не мог». Это очень живой разговорный усилитель.",
+      "keyword": "ni u ludilu"
     },
     {
       "headword_latin": "Ni za lek",
@@ -10111,6 +10256,35 @@
       "keyword": "piti kao smuk"
     },
     {
+      "headword_latin": "Platiti ceh",
+      "type": "frazeologizam",
+      "definition_ru": "расплачиваться; поплатиться; расхлёбывать последствия",
+      "synonyms_sr": [
+        "platiti cenu",
+        "snositi posledice",
+        "ispaštati",
+        "podneti teret"
+      ],
+      "literal_ru": "оплатить счёт",
+      "register": "разг.-публицист., экспр.; обычно платит тот, кто несёт последствия чужой или собственной ошибки",
+      "examples": [
+        {
+          "serbian_latin": "Poreske platiše će na kraju platiti ceh loših plasmana.",
+          "russian": "В конечном счёте за неудачные вложения расплатятся налогоплательщики.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/1278758/kako-resiti-problem-spornih-kredita.html"
+        },
+        {
+          "serbian_latin": "Meso sve skuplje, svinje sve jeftinije – ceh plaćaju farmeri i potrošači.",
+          "russian": "Мясо дорожает, свиньи дешевеют — расплачиваться приходится фермерам и потребителям.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5884641/.html?print=true"
+        }
+      ],
+      "note": "Ceh буквально означает ресторанный или трактирный счёт, но в выражении platiti ceh речь почти всегда о неприятных последствиях. Очень типично: ошибки совершает один, а ceh plaća кто-то другой. Русскому хорошо подходят «расплачиваться», «платить за чужие ошибки», «расхлёбывать последствия».",
+      "keyword": "platiti ceh"
+    },
+    {
       "headword_latin": "Plivati protiv struje",
       "type": "glagolski frazem",
       "definition_ru": "идти против течения; противостоять большинству, господствующим взглядам или общепринятым тенденциям",
@@ -10873,6 +11047,35 @@
       "keyword": "prati ruke"
     },
     {
+      "headword_latin": "Praviti budalu od sebe / nekoga",
+      "type": "frazeologizam",
+      "definition_ru": "выставлять себя / кого-то дураком; делать из кого-то идиота; позориться",
+      "synonyms_sr": [
+        "praviti se smešan",
+        "ponižavati nekoga",
+        "ismevati nekoga",
+        "blamirati se (razg.)"
+      ],
+      "literal_ru": "делать дурака из себя / кого-то",
+      "register": "разг., неодобр.; praviti budalu od sebe — выставлять себя дураком; praviti budalu od nekoga — обращаться с кем-то так, словно он глуп",
+      "examples": [
+        {
+          "serbian_latin": "Nebojša Ilić za lik koji tumači kaže da prolazi kroz krizu srednjih godina i da zbog toga pravi budalu od sebe.",
+          "russian": "Небойша Илич говорит, что его герой переживает кризис среднего возраста и поэтому выставляет себя дураком.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/2646381/pocinje-treca-sezona-rts-ove-serije-komsije.html"
+        },
+        {
+          "serbian_latin": "Prevaren sam, napravili su budalu od mene.",
+          "russian": "Меня обманули, из меня сделали дурака.",
+          "source": "Radio Beograd 3 / RTS, 2015",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-3/1929905/gaetano-doniceti-don-paskvale-1-i-2-cin.html"
+        }
+      ],
+      "note": "Русскому особенно полезно различать объект. Praviš budalu od sebe — «ты выставляешь себя идиотом», тогда как Nemoj da praviš budalu od mene — «не делай из меня дурака / не держи меня за идиота». Вторая реплика часто выражает возмущение обманом или очевидно неправдоподобным объяснением.",
+      "keyword": "praviti budalu"
+    },
+    {
       "headword_latin": "praviti od komarca magarca",
       "type": "фразеологизм",
       "definition_ru": "Делать из мухи слона; чрезмерно преувеличивать незначительную проблему.",
@@ -11047,6 +11250,35 @@
       ],
       "note": "В переносном употреблении настоящая ночь не обязательна: uspeh ne dolazi preko noći — «успех не приходит мгновенно». Поэтому русскому не следует всегда переводить буквально «за ночь»; часто нужны «в одночасье», «мгновенно», «за очень короткое время».",
       "keyword": "preko noći"
+    },
+    {
+      "headword_latin": "Preko veze",
+      "type": "izraz",
+      "definition_ru": "по блату; через знакомых; благодаря нужным связям",
+      "synonyms_sr": [
+        "preko poznanstva",
+        "uz nečiju intervenciju",
+        "preko poznanika",
+        "protekcijom"
+      ],
+      "literal_ru": "",
+      "register": "разг., часто неодобр.; о получении работы, услуги, места, документа и т. п. благодаря личным связям",
+      "examples": [
+        {
+          "serbian_latin": "U Srbiji se preporučena osoba najčešće zapošljava „preko veze“.",
+          "russian": "В Сербии человека нередко устраивают на работу по блату, через знакомых.",
+          "source": "Politika, 2010",
+          "url": "https://www.politika.rs/sr/clanak/123111/specijalni-dodaci/veza-jaca-od-preporuke"
+        },
+        {
+          "serbian_latin": "Kod Milutina sam najmanje dve stvari završio, što se kaže, „preko veze“.",
+          "russian": "Благодаря Милутину я как минимум два дела решил, что называется, по блату.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/najveci-gospodin-medju-drugovima/"
+        }
+      ],
+      "note": "Veza сама по себе — «связь», но preko veze почти всегда означает использование личного знакомства или протекции вместо обычной процедуры. Русское «по блату» очень близко по смыслу и оттенку. Возможны zaposliti se preko veze, završiti nešto preko veze, dobiti pregled preko veze.",
+      "keyword": "preko veze"
     },
     {
       "headword_latin": "Prenositi se od usta do usta",
@@ -13653,6 +13885,35 @@
       "keyword": "novac sa strane"
     },
     {
+      "headword_latin": "Stezati / stegnuti kaiš",
+      "type": "frazeologizam",
+      "definition_ru": "затягивать пояс; экономить; урезать расходы",
+      "synonyms_sr": [
+        "štedeti",
+        "smanjivati troškove",
+        "odricati se",
+        "kresati rashode"
+      ],
+      "literal_ru": "затягивать ремень",
+      "register": "разг.-публицист.; особенно частотно в экономической речи о личной, государственной или корпоративной экономии",
+      "examples": [
+        {
+          "serbian_latin": "Posle praznika često smo u situaciji da moramo da „stežemo kaiš“.",
+          "russian": "После праздников нам часто приходится затягивать пояс.",
+          "source": "Radio Beograd 1 / RTS, 2022",
+          "url": "https://rts.rs/lat/radio/radio-beograd-1/4797718/da-li-je-bas-svako-od-nas-u-mogucnosti-da-stedi-.html"
+        },
+        {
+          "serbian_latin": "U malim preduzećima kažu da je za njih trenutno na snazi mera – „stezanje kaiša“.",
+          "russian": "В малых предприятиях говорят, что сейчас для них действует одна мера — затягивание поясов.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/1453509/stezanje-kaisa.html"
+        }
+      ],
+      "note": "Образ совпадает с русским. Несовершенное stezati kaiš описывает период экономии, совершенное stegnuti kaiš — решение начать жить экономнее. В публицистике также очень частотно отглагольное stezanje kaiša — «политика жёсткой экономии».",
+      "keyword": "stezati kaiš"
+    },
+    {
       "headword_latin": "Stisnuti zube",
       "type": "frazeologizam",
       "definition_ru": "сцепить зубы; стиснуть зубы и терпеть; собраться и выдержать",
@@ -15678,6 +15939,35 @@
       ],
       "note": "Фразеологизм основан на распространённом представлении, будто страус при опасности прячет голову в песок. В действительности это миф, но образ закрепился в языке. В сербском оборот особенно часто употребляется о политике и управлении: проблема существует, но человек ведёт себя так, словно её нет.",
       "keyword": "zabiti glavu u pesak"
+    },
+    {
+      "headword_latin": "Zabiti nekome nož u leđa",
+      "type": "frazeologizam",
+      "definition_ru": "ударить в спину; предать; подло подставить",
+      "synonyms_sr": [
+        "izdati",
+        "izneveriti",
+        "podmetnuti nekome",
+        "okrenuti se protiv nekoga"
+      ],
+      "literal_ru": "вонзить кому-то нож в спину",
+      "register": "разг.-публицист., резко неодобр.; объект часто в дательном: zabiti mu nož u leđa",
+      "examples": [
+        {
+          "serbian_latin": "Zapadni mediji pišu da je Makron zabio nož u leđa nemačkom kancelaru Olafu Šolcu.",
+          "russian": "Западные СМИ пишут, что Макрон нанёс удар в спину канцлеру Германии Олафу Шольцу.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/vesti/svet/5465451/politicki-potop-ili-planirana-kohabitacija--neobicna-racunica-emanuela-makrona.html"
+        },
+        {
+          "serbian_latin": "Nismo im, kada je za Rusiju bilo teško, zabijali nož u leđa.",
+          "russian": "Когда России было тяжело, мы не наносили ей удара в спину.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/vesti/Politika/2127852/Srbija%2Bi%2BRusija%2Bostaju%2Bsaveznici.html"
+        }
+      ],
+      "note": "Это метафора именно предательства со стороны того, от кого нападения не ожидали. Поэтому она сильнее нейтрального izdati. В русском «ударить ножом в спину» возможно, но устойчивее обычно «нанести удар в спину», «предать».",
+      "keyword": "nož u leđa"
     },
     {
       "headword_latin": "Zaglaviti u saobraćaju",
