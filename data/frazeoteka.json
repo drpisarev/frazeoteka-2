@@ -2341,28 +2341,26 @@
       "type": "poslovica",
       "definition_ru": "дружба дружбой, а денежки врозь; ясные расчёты сохраняют хорошие отношения",
       "synonyms_sr": [
-        "sve treba jasno dogovoriti",
-        "pošten dogovor čuva odnose",
-        "zna se ko kome šta duguje"
+        "jasni računi čuvaju odnose",
+        "sve treba unapred dogovoriti",
+        "raščistiti račune"
       ],
-      "literal_ru": "чистый счёт — долгая любовь",
-      "register": "пословица; о необходимости заранее и честно урегулировать деньги, долги, имущество и взаимные обязательства",
+      "literal_ru": "чистый расчёт — долгая любовь",
+      "register": "poslovica; o novcu, dugovima, imovini, obavezama i jasnim dogovorima",
       "examples": [
         {
           "serbian_latin": "Kako god da odlučite, imajte na umu narodnu mudrost – čist račun, duga ljubav.",
-          "russian": "Как бы вы ни решили, помните народную мудрость: дружба дружбой, а расчёты должны быть ясными.",
-          "source": "RTS, 2012",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/1115576/cist-racun-duga-ljubav.html"
+          "russian": "Как бы вы ни решили, помните народную мудрость: чёткие расчёты сохраняют хорошие отношения.",
+          "source": "RTS, 2012"
         },
         {
-          "serbian_latin": "Prodavci rade po principu: čist račun – duga ljubav.",
-          "russian": "Продавцы придерживаются принципа: хороший расчёт — залог хороших отношений.",
-          "source": "RTS, 2023",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/5110940/kovani-novac.html"
+          "serbian_latin": "Čist račun, duga ljubav!",
+          "russian": "Дружба дружбой, а расчёт должен быть ясным.",
+          "source": "Danas, 2020"
         }
       ],
-      "note": "Ljubav здесь гораздо шире романтической любви: речь может идти о дружбе, родстве, браке, деловых отношениях. Пословица особенно часто всплывает при долгах, разделе имущества и совместных расходах. Русский функциональный аналог — «дружба дружбой, а денежки врозь».",
-      "keyword": "čist račun duga ljubav"
+      "note": "Ljubav здесь значительно шире романтической любви: это и дружба, и хорошие деловые или соседские отношения. Смысл в том, что заранее оговорённые деньги, долги и обязательства предотвращают будущие ссоры. RTS называет формулу народной мудростью.",
+      "keyword": "čist račun"
     },
     {
       "headword_latin": "Čitati između redova",
@@ -5166,6 +5164,32 @@
       "keyword": "i posle Tita Tito"
     },
     {
+      "headword_latin": "I vuk sit i ovce na broju",
+      "type": "izreka",
+      "definition_ru": "и волки сыты, и овцы целы; все стороны удовлетворены; найден компромисс без явных проигравших",
+      "synonyms_sr": [
+        "svi zadovoljni",
+        "naći kompromis",
+        "zadovoljiti obe strane"
+      ],
+      "literal_ru": "",
+      "register": "poslovično, razg.-publicistički; često o kompromisnom rešenju",
+      "examples": [
+        {
+          "serbian_latin": "Znači i vukovi su siti i ovce su na broju.",
+          "russian": "Получается, и волки сыты, и овцы целы.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "I vuk sit i ovce na broju.",
+          "russian": "И волк сыт, и овцы целы.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Важно отличать от уже имеющегося imati i ovce i novce. Там обычно высмеивается желание одного человека получить две несовместимые выгоды; здесь результат оценивается как удачный компромисс, при котором удовлетворены разные стороны.",
+      "keyword": "vuk; ovce"
+    },
+    {
       "headword_latin": "ići / prodavati se kao alva",
       "type": "poređenje",
       "definition_ru": "расходиться как горячие пирожки; продаваться очень быстро; пользоваться огромным спросом",
@@ -7366,6 +7390,32 @@
       "keyword": "knedla u grlu"
     },
     {
+      "headword_latin": "Ko čeka, taj dočeka",
+      "type": "poslovica",
+      "definition_ru": "кто ждёт, тот дождётся; терпение вознаграждается",
+      "synonyms_sr": [
+        "strpljenje se isplati",
+        "treba biti strpljiv",
+        "sve dođe u svoje vreme"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; može biti iskreno, šaljivo ili ironično",
+      "examples": [
+        {
+          "serbian_latin": "Ali ko čeka, taj dočeka.",
+          "russian": "Но кто ждёт, тот дождётся.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ko čeka taj i dočeka.",
+          "russian": "Кто ждёт, тот в конце концов получает своё.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Сербская формула гораздо устойчивее русского буквального «кто ждёт, тот дождётся». Она выражает оптимистическую идею о вознаграждённом терпении, но может использоваться и иронически — например, когда ожидание было чрезмерно долгим. Вариант ko čeka taj i dočeka лишь усиливает результат.",
+      "keyword": "ko čeka"
+    },
+    {
       "headword_latin": "Ko drugome jamu kopa, sam u nju upada",
       "type": "poslovica",
       "definition_ru": "не рой другому яму — сам в неё попадёшь",
@@ -7450,6 +7500,31 @@
       ],
       "note": "Rani здесь связано с rano «рано» и означает «рано встаёт / рано начинает», а не с raniti nekoga «ранить кого-то». Русская пословица с Богом функционально почти полностью совпадает. Формула остаётся настолько узнаваемой, что СМИ свободно пародируют её, например противопоставляя «две удачи» сонливости после слишком раннего подъёма.",
       "keyword": "ko rano rani dve sreće grabi"
+    },
+    {
+      "headword_latin": "Ko visoko leti, nisko pada",
+      "type": "poslovica",
+      "definition_ru": "высоко взлетишь — больнее падать; чем выше забрался, тем тяжелее падение",
+      "synonyms_sr": [
+        "veliki uspon nosi rizik velikog pada",
+        "ne treba se previše uznositi"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; često upozorenje protiv prevelike samouverenosti, ambicije ili oholosti",
+      "examples": [
+        {
+          "serbian_latin": "Ko visoko leti, nisko pada.",
+          "russian": "Кто высоко летает, тот низко падает.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Završilo se po onoj narodnoj „ko visoko leti, nisko pada“.",
+          "russian": "Закончилось всё по старой поговорке: чем выше взлетаешь, тем больнее падать.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Значение шире буквального падения после успеха. Пословицей могут предупреждать человека, который слишком заносится, ставит чрезмерно высокие цели или считает успех гарантированным. Русское «высоко взлетел — больно падать» передаёт и смысл, и оценку.",
+      "keyword": "visoko leti; nisko pada"
     },
     {
       "headword_latin": "kola su krenula nizbrdo",
@@ -9223,6 +9298,32 @@
       "keyword": "ne videti dalje od nosa"
     },
     {
+      "headword_latin": "Ne vredeti ni pišljiva boba",
+      "type": "frazeologizam",
+      "definition_ru": "гроша ломаного не стоить; ничего не стоить; быть совершенно бесполезным",
+      "synonyms_sr": [
+        "ne vredeti ništa",
+        "biti bezvredno",
+        "ne vredeti ni pet para"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, prezr.; takođe ne dati ni pišljiva boba za nešto",
+      "examples": [
+        {
+          "serbian_latin": "Ništa mu više ne vrede ni pišljiva boba.",
+          "russian": "Всё это больше не стоит для него и ломаного гроша.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Ne vrede ni pišljiva boba sve dok su društvena kretanja determinisana mrtvim kolektivističkim matricama.",
+          "russian": "Всё это гроша ломаного не стоит, пока общественные процессы определяются мёртвыми коллективистскими схемами.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Boba — зерно, боб; компонент pišljiva сегодня внутри выражения воспринимается как усилитель крайней ничтожности ценности. Особенно жив вариант ne dati ni pišljiva boba za nekoga/nešto — «ни во что не ставить». Русское «гроша ломаного не стоит» очень близко по экспрессии.",
+      "keyword": "pišljiva boba"
+    },
+    {
       "headword_latin": "Ne zna se ko pije, ko plaća",
       "type": "izreka",
       "definition_ru": "чёрт ногу сломит; полный бардак; непонятно, кто за что отвечает",
@@ -10773,6 +10874,33 @@
       ],
       "note": "Obraz в традиционной сербской фразеологии тесно связан с честью и общественной репутацией: отсюда čist obraz, izgubiti obraz, ukaljati obraz. Поэтому буквальное русское «умыть лицо» здесь совершенно не работает. Oprati obraz — исправить прежний позор поступком, который возвращает честь; близкое sprati ljagu больше акцентирует снятие пятна или обвинения.",
       "keyword": "oprati obraz"
+    },
+    {
+      "headword_latin": "Oprati ruke od nekoga / nečega",
+      "type": "frazeologizam",
+      "definition_ru": "умыть руки; снять с себя ответственность; отмежеваться от кого-либо или чего-либо",
+      "synonyms_sr": [
+        "ograditi se",
+        "skinuti odgovornost sa sebe",
+        "odreći se odgovornosti",
+        "distancirati se"
+      ],
+      "literal_ru": "вымыть руки от кого-то / чего-то",
+      "register": "razg.-publicistički; obično neodobr., kada neko pokušava da se prikaže kao nepričastan",
+      "examples": [
+        {
+          "serbian_latin": "Najlakše je [...] „oprati ruke“ od odgovornosti za kretanje otpada.",
+          "russian": "Проще всего снять с себя ответственность за дальнейшую судьбу отходов.",
+          "source": "Politika, 2019"
+        },
+        {
+          "serbian_latin": "Pere ruke od trenutka kada je zaspao kao radikal, a probudio se kao naprednjak.",
+          "russian": "Он отмежёвывается от своего прошлого с того момента, как сменил политическую сторону.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Культурный фон тот же, что во многих европейских языках: евангельский Понтий Пилат символически умывает руки, заявляя о своей непричастности. В современном сербском выражение особенно часто относится к ответственности: oprati ruke od odgovornosti, problema, prošlosti. Не путать с буквально гигиеническим oprati ruke.",
+      "keyword": "oprati ruke"
     },
     {
       "headword_latin": "osećati se kao riba na suvom",
@@ -16462,6 +16590,32 @@
       "keyword": "što na um to na drum"
     },
     {
+      "headword_latin": "Što se mora, nije teško",
+      "type": "poslovica",
+      "definition_ru": "раз надо, значит надо; необходимость облегчает дело; что должно быть сделано, то делается",
+      "synonyms_sr": [
+        "mora se",
+        "nema druge",
+        "kad se mora, mora se"
+      ],
+      "literal_ru": "то, что необходимо, не трудно",
+      "register": "poslovica / ustaljena replika; često polušaljivo pred neprijatnom, ali neizbežnom obavezom",
+      "examples": [
+        {
+          "serbian_latin": "Vežbao sam, što se mora nije teško.",
+          "russian": "Я тренировался — раз надо, значит надо.",
+          "source": "N1 Srbija, 2025"
+        },
+        {
+          "serbian_latin": "Kritikovana poslovica „što se mora nije teško“ ipak važi u ovom slučaju.",
+          "russian": "Критикуемая поговорка «что необходимо, то не трудно» в данном случае всё-таки работает.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Буквально фраза звучит парадоксально: обязательное дело вполне может быть трудным. Смысл прагматический — если выбора всё равно нет, нет смысла тратить силы на сопротивление самой необходимости. Поэтому естественный русский перевод часто не пословичный: «раз надо — значит надо», «ничего не поделаешь, надо делать».",
+      "keyword": "što se mora"
+    },
+    {
       "headword_latin": "tačan kao švajcarski sat",
       "type": "фразеологическое сравнение",
       "definition_ru": "Предельно точный, пунктуальный и надёжный; работающий без опозданий и сбоев.",
@@ -16671,31 +16825,29 @@
     {
       "headword_latin": "Tražiti dlaku u jajetu",
       "type": "frazeologizam",
-      "definition_ru": "придираться к мелочам; выискивать недостатки; искать, к чему бы придраться",
+      "definition_ru": "придираться к мелочам; искать недостатки там, где их почти нет; цепляться к каждой мелочи",
       "synonyms_sr": [
         "cepidlačiti",
-        "sitničariti",
+        "zakerati",
         "tražiti mane",
-        "zakerati (razg.)"
+        "sitničariti"
       ],
       "literal_ru": "искать волос в яйце",
-      "register": "разг., неодобр.; обычно о чрезмерно придирчивом поиске недостатков там, где в целом всё хорошо",
+      "register": "razg., neodobr.; o preterano sitničavoj kritici",
       "examples": [
         {
-          "serbian_latin": "Ako tražim dlaku u jajetu, dešavaju se te neke minimalne greške i probaćemo to da ispravimo.",
-          "russian": "Если уж совсем придираться, случаются кое-какие мелкие ошибки, и мы постараемся их исправить.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/sport/sasa-ilic-tobol-ugresic/"
+          "serbian_latin": "Ne traže drugome „dlaku u jajetu“.",
+          "russian": "Они не выискивают друг у друга недостатки на пустом месте.",
+          "source": "RTS, 2022"
         },
         {
-          "serbian_latin": "Priznajem da sam kao dugogodišnji pretplatnik digitalnih replika dva ugledna strana dnevna lista pokušao da pronađem „dlaku u jajetu“ i uputim neku zamerku.",
-          "russian": "Признаюсь, как давний подписчик цифровых версий двух известных зарубежных газет, я попытался найти, к чему придраться, и высказать какое-нибудь замечание.",
-          "source": "Danas, 2012",
-          "url": "https://www.danas.rs/kolumna/vladimir-matkovic/danas-uskoro-i-na-tabletima/"
+          "serbian_latin": "Znam da tražim dlaku u jajetu, ali možda je suštinsko pitanje bilo šta je sigurnost.",
+          "russian": "Я понимаю, что придираюсь к мелочам, но, возможно, главный вопрос — что вообще такое безопасность.",
+          "source": "Danas, 2025"
         }
       ],
-      "note": "Образ сильнее нейтрального tražiti greške: недостаток настолько ничтожен, что его приходится буквально «искать в яйце». Часто употребляется условно: ako baš tražimo dlaku u jajetu — «если уж совсем придираться». Русскому близки «искать соринку», «придираться к каждой мелочи».",
-      "keyword": "dlaka; jaje"
+      "note": "Русского устойчивого образа с яйцом нет. Tražiti dlaku u jajetu обычно предполагает, что объект в целом хорош, но человек всё равно настойчиво ищет микроскопический изъян. Близкое русское «искать соринку» не столь устойчиво; чаще естественно «придираться», «цепляться к мелочам».",
+      "keyword": "dlaka u jajetu"
     },
     {
       "headword_latin": "Tražiti hleba preko pogače",
@@ -17579,6 +17731,33 @@
       "keyword": "uljudne fraze"
     },
     {
+      "headword_latin": "Umešati prste u nešto",
+      "type": "frazeologizam",
+      "definition_ru": "приложить руку; вмешаться; быть причастным к чему-либо",
+      "synonyms_sr": [
+        "umešati se",
+        "imati udela",
+        "biti umešan",
+        "uticati na nešto"
+      ],
+      "literal_ru": "вмешать пальцы во что-то",
+      "register": "razg.-neutralno; često podrazumeva skriveno ili neželjeno mešanje, ali može biti i neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Svakako da je makar jedna domaća služba umešala prste u trenutna dešavanja.",
+          "russian": "По всей видимости, как минимум одна местная служба приложила руку к происходящему.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Sudbina je umešala prste.",
+          "russian": "Вмешалась судьба.",
+          "source": "RTS, 2016"
+        }
+      ],
+      "note": "Наиболее типично neko je umešao prste u nešto — «кто-то к этому причастен / приложил руку». Оценка часто подозрительная: речь о закулисном влиянии. Но сочетание sudbina je umešala prste совершенно нейтрально и означает неожиданный поворот обстоятельств.",
+      "keyword": "umešati prste"
+    },
+    {
       "headword_latin": "Upasti nekome sekira u med",
       "type": "frazeologizam",
       "definition_ru": "сказочно повезти; сорвать куш; неожиданно оказаться в чрезвычайно выгодной ситуации",
@@ -18280,6 +18459,33 @@
       ],
       "note": "Sića означает мелочь или незначительную сумму. Выражение может характеризовать и выгодную покупку, и невыгодную продажу.",
       "keyword": "sića"
+    },
+    {
+      "headword_latin": "Zabiti / gurati glavu u pesak",
+      "type": "frazeologizam",
+      "definition_ru": "прятать голову в песок; закрывать глаза на проблему; уклоняться от неприятной реальности",
+      "synonyms_sr": [
+        "bežati od problema",
+        "zatvarati oči pred problemom",
+        "ignorisati stvarnost",
+        "izbegavati suočavanje"
+      ],
+      "literal_ru": "засунуть / засовывать голову в песок",
+      "register": "razg.-publicistički, neodobr.; glagoli zabiti i gurati oba su u upotrebi",
+      "examples": [
+        {
+          "serbian_latin": "Vlade pojedinih država ne bi trebalo da „guraju glavu u pesak“.",
+          "russian": "Властям некоторых государств не следует прятать голову в песок.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "REM [...] odlučio je da gurne glavu u pesak.",
+          "russian": "REM решил просто спрятать голову в песок.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Образ совпадает с русским и основан на распространённом мифе о страусе, который якобы прячет голову в песок при опасности. Само представление о поведении страусов неверно; RTS прямо называет его мифом. Во фразеологизме это, разумеется, никак не мешает образу жить.",
+      "keyword": "glava u pesak"
     },
     {
       "headword_latin": "Zabiti glavu u pesak",
