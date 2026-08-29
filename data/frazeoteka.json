@@ -4434,6 +4434,33 @@
       "keyword": "kec; rukav"
     },
     {
+      "headword_latin": "Imati kratak fitilj",
+      "type": "frazeologizam",
+      "definition_ru": "быть вспыльчивым; быстро заводиться; иметь взрывной характер",
+      "synonyms_sr": [
+        "lako planuti",
+        "biti nagao",
+        "biti prgav",
+        "brzo se iznervirati"
+      ],
+      "literal_ru": "иметь короткий фитиль",
+      "register": "разг., экспр.; о человеке, который быстро теряет терпение и резко реагирует",
+      "examples": [
+        {
+          "serbian_latin": "Renato se osvrnuo na svoje detinjstvo, priznao da ponekad ima „kratak fitilj“.",
+          "russian": "Ренато рассказал о своём детстве и признался, что иногда бывает вспыльчивым.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Druga, daleko problematičnija navika mu je „kratak fitilj“. „On nije kratak, ja nemam fitilj.“",
+          "russian": "Другая, куда более проблемная его черта — вспыльчивость. «Он у меня не короткий — у меня вообще фитиля нет».",
+          "source": "BBC na srpskom / Danas, 2019"
+        }
+      ],
+      "note": "Метафора взрывчатки прозрачна: чем короче фитиль, тем быстрее происходит «взрыв». Очень естественны обе модели: imati kratak fitilj и biti kratkog fitilja. Русское «короткий фитиль» понятно, но устойчивее сказать «вспыльчивый», «быстро заводится».",
+      "keyword": "kratak fitilj"
+    },
+    {
       "headword_latin": "Imati nešto u malom prstu",
       "type": "frazeologizam",
       "definition_ru": "Знать что-либо как свои пять пальцев; владеть чем-либо в совершенстве; досконально разбираться в чём-либо.",
@@ -5385,6 +5412,33 @@
       "keyword": "kad na vrbi rodi grožđe"
     },
     {
+      "headword_latin": "Kamen oko vrata",
+      "type": "frazeologizam",
+      "definition_ru": "обуза; тяжёлый груз; то, что тянет вниз и мешает двигаться дальше",
+      "synonyms_sr": [
+        "teret",
+        "opterećenje",
+        "kočnica",
+        "breme"
+      ],
+      "literal_ru": "камень на шее",
+      "register": "разг.-публицист., экспр.; nešto je nekome kamen oko vrata",
+      "examples": [
+        {
+          "serbian_latin": "Nostalgija je štetna stvar, kao nekakav kamen oko vrata.",
+          "russian": "Ностальгия — вредная вещь, своего рода камень на шее, который тянет вниз.",
+          "source": "RTS, 2010"
+        },
+        {
+          "serbian_latin": "To jeste bio jedan kamen oko vrata, ali jeste bio i velika motivacija da uložimo najveći napor.",
+          "russian": "Это действительно было тяжёлым грузом, но одновременно и огромной мотивацией приложить максимум усилий.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Русское «камень на шее» понятно, но как устойчивый переносный эквивалент часто естественнее «обуза», «тяжёлый груз». Оборот особенно подходит к обязательству, прошлой неудаче, долгу, человеку или проблеме, которые постоянно мешают и психологически давят.",
+      "keyword": "kamen oko vrata"
+    },
+    {
       "headword_latin": "kao grom iz vedra neba",
       "type": "poređenje",
       "definition_ru": "Как гром среди ясного неба; совершенно неожиданно.",
@@ -6308,6 +6362,33 @@
       "keyword": "medved; usluga"
     },
     {
+      "headword_latin": "Mešati babe i žabe",
+      "type": "frazeologizam",
+      "definition_ru": "смешивать несопоставимые вещи; валить всё в одну кучу; смешивать божий дар с яичницей",
+      "synonyms_sr": [
+        "mešati neuporedive stvari",
+        "brkati pojmove",
+        "porediti neuporedivo",
+        "trpati sve u isti koš"
+      ],
+      "literal_ru": "смешивать бабушек и лягушек",
+      "register": "разг., экспр., неодобр.; часто в отрицательном совете: ne treba mešati babe i žabe",
+      "examples": [
+        {
+          "serbian_latin": "Iako cenim tuđa mišljenja i verujem u slobodu izražavanja, valja ipak ne mešati babe i žabe.",
+          "russian": "Хотя я уважаю чужие мнения и верю в свободу выражения, всё же не стоит смешивать совершенно несопоставимые вещи.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Držaću se onoga što me je učiteljica naučila još u prvom razredu da ne treba mešati babe i žabe.",
+          "russian": "Буду придерживаться того, чему меня ещё в первом классе научила учительница: не надо смешивать божий дар с яичницей.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Это один из особенно колоритных сербских фразеологизмов: рифма babe — žabe важнее буквальной логики образа. Русские эквиваленты — «смешивать тёплое с мягким», «смешивать божий дар с яичницей». Дословный перевод на иностранный язык легко производит комический эффект. RTS прямо приводит выражение как типичный пример сербской фразеологии.",
+      "keyword": "mešati babe i žabe"
+    },
+    {
       "headword_latin": "Mi o vuku, a vuk na vrata",
       "type": "izreka",
       "definition_ru": "лёгок на помине; вспомнишь о чёрте — а он тут как тут",
@@ -6540,6 +6621,33 @@
       ],
       "note": "Несмотря на буквальный образ «конца концов», это прежде всего дискурсивная формула: говорящий подводит итог или приводит последний, решающий довод. По функции очень близко русскому «в конце концов», но в некоторых контекстах естественнее переводить «в конечном счёте» или «в конце-то концов».",
       "keyword": "na kraju krajeva"
+    },
+    {
+      "headword_latin": "Na krv i nož",
+      "type": "frazeologizam",
+      "definition_ru": "не на жизнь, а на смерть; на ножах; непримиримо, с крайней враждебностью",
+      "synonyms_sr": [
+        "žestoko",
+        "neprijateljski",
+        "do kraja zavađeno",
+        "bez kompromisa"
+      ],
+      "literal_ru": "на кровь и нож",
+      "register": "разг.-публицист., экспр.; часто biti / zavaditi se / posvađati se / sukobiti se na krv i nož",
+      "examples": [
+        {
+          "serbian_latin": "Ja se na krv i nož posvađao sa Vučićem.",
+          "russian": "Я тогда разругался с Вучичем буквально в пух и прах, до крайней вражды.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Pripreme za predstojeće izbore ovog puta nisu, kao prethodnih godina, „na krv i nož“, biti ili ne biti.",
+          "russian": "Подготовка к предстоящим выборам на этот раз не проходит, как в прежние годы, в режиме «не на жизнь, а на смерть».",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Выражение обозначает предельно острое противостояние и далеко не обязательно буквальное насилие. Можно быть na krv i nož с политическим противником, конкурентом, родственником или спортивным соперником. По-русски в зависимости от конструкции подходят «быть на ножах», «сцепиться не на жизнь, а на смерть», «непримиримо враждовать».",
+      "keyword": "na krv i nož"
     },
     {
       "headword_latin": "Na mala vrata",
@@ -7054,6 +7162,33 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "Ne cvetaju ruže nekome",
+      "type": "frazeologizam",
+      "definition_ru": "дела идут неважно; не всё гладко; кому-то сейчас несладко",
+      "synonyms_sr": [
+        "ne ide dobro",
+        "imati problema",
+        "biti u lošoj situaciji",
+        "ne ići po planu"
+      ],
+      "literal_ru": "у кого-то не цветут розы",
+      "register": "разг.-публицист., часто ирон.; типичная модель: njemu / klubu / firmi ne cvetaju ruže",
+      "examples": [
+        {
+          "serbian_latin": "Ne cvetaju ruže ni komšijama sa druge strane brda.",
+          "russian": "И у соседей с другой стороны холма дела идут неважно.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Zemlje regiona imaju veoma jake napore na putu ka EU, iako ni njoj „ne cvetaju ruže“.",
+          "russian": "Страны региона прилагают большие усилия на пути в ЕС, хотя и у самого Евросоюза дела идут далеко не идеально.",
+          "source": "RTS, 2016"
+        }
+      ],
+      "note": "Выражение обозначает неблагополучную ситуацию вообще, а не обязательно полный провал: проблемы есть, дела идут хуже желаемого. Часто употребляется с лёгкой иронией. Русскому буквальные «розы не цветут» ничего не подсказывают; лучше «не всё гладко», «дела неважны».",
+      "keyword": "ne cvetaju ruže"
+    },
+    {
       "headword_latin": "Ne dati ni pet para za nekoga / nešto",
       "type": "frazeologizam",
       "definition_ru": "ни во что не ставить; совершенно не интересоваться; плевать на кого-то / что-то",
@@ -7325,6 +7460,33 @@
       ],
       "note": "Svrha — «цель, смысл, назначение». Поэтому nema svrhe чуть буквально ближе к «это не служит никакой цели», а nema smisla — к «это бессмысленно»; в обычной речи они часто взаимозаменяемы. С человеком: pričati s njim / razgovarati s njim. Для русского важно, что сербский совершенно нормально использует как инфинитив Nema svrhe pričati, так и da + prezent: Nema svrhe da pričamo.",
       "keyword": "nema svrhe"
+    },
+    {
+      "headword_latin": "Nemati ni kučeta ni mačeta",
+      "type": "frazeologizam",
+      "definition_ru": "быть совершенно одному; не иметь ни семьи, ни близких; не иметь никого своего",
+      "synonyms_sr": [
+        "biti sam",
+        "nemati nikoga svog",
+        "nemati porodicu",
+        "živeti sam"
+      ],
+      "literal_ru": "не иметь ни щенка, ни котёнка",
+      "register": "разг., экспр.; обычно о человеке без супруга, детей и близкой семьи",
+      "examples": [
+        {
+          "serbian_latin": "Ja niti imam familiju, mimo dela primarne, što narod veli ni kučeta, ni mačeta.",
+          "russian": "У меня нет семьи, кроме части родительской, — как говорят в народе, ни жены, ни детей, никого своего.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Lako je tebi da isključiš telefon, kada nemaš ni kučeta ni mačeta da te pozove.",
+          "russian": "Тебе легко выключить телефон: у тебя ни семьи, ни близких, некому тебе звонить.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Здесь речь прежде всего об отсутствии собственной семьи и близких, а не буквально домашних животных. В зависимости от контекста выражение может передавать одиночество, отсутствие обязательств или ироническое «тебя никто не ждёт». Русское «ни кола ни двора» не всегда подходит, потому что оно сильнее связано с имуществом.",
+      "keyword": "ni kučeta ni mačeta"
     },
     {
       "headword_latin": "Neprskano",
@@ -9528,6 +9690,33 @@
       ],
       "note": "Фразеологизм означает не просто «стыдиться», а притихнуть после собственного промаха, глупости, провала или неподобающего поведения и признать, что сейчас лучше не выступать и не поучать других. Именно поэтому типичное продолжение — i ćuti. Фразеографически значение описывается как «покуниться и признать ошибку»; академические работы также отмечают значения стыда, смирения и самокритичности, особенно в императиве как строгий упрёк. Для русского буквальный образ с ушами непрозрачен: в зависимости от ситуации естественны «постыдись и помалкивай», «подожми хвост», «тебе бы после такого молчать». Иван Клайн приводил pokrij se ušima как естественный сербский эквивалент итальянского выражения со смыслом «покуниться, поджать хвост».",
       "keyword": "pokrij se ušima"
+    },
+    {
+      "headword_latin": "Pokriti se ušima",
+      "type": "frazeologizam",
+      "definition_ru": "помалкивать; сидеть и не высовываться; стыдливо замолчать",
+      "synonyms_sr": [
+        "ćutati",
+        "povući se",
+        "ne javljati se",
+        "pokunjiti se"
+      ],
+      "literal_ru": "накрыться ушами",
+      "register": "разг., экспр., неодобр.; обычно говорится о человеке, которому из-за собственных ошибок лучше не критиковать других",
+      "examples": [
+        {
+          "serbian_latin": "Saša Janković je dosadan... trebalo bi da se pokrije ušima.",
+          "russian": "Саша Янкович, мол, надоел... лучше бы ему помалкивать и не высовываться.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Opozicija bi trebalo „da se pokrije ušima“, jer brojne afere koje spominju su pokrenute upravo dok su oni bili na vlasti.",
+          "russian": "Оппозиции следовало бы помалкивать, потому что многие из упоминаемых ею скандалов начались именно тогда, когда она сама была у власти.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Это не буквальное «закрыть уши». Реплика означает примерно: «после того, что ты сам натворил, тебе лучше молчать». Поэтому русский перевод «помалкивать» или «сидеть и не высовываться» обычно точнее. Выражение нередко содержит оттенок стыда и моральной дисквалификации собеседника.",
+      "keyword": "pokriti se ušima"
     },
     {
       "headword_latin": "Pokupiti svoje krpice",
@@ -12914,6 +13103,33 @@
       "keyword": "dlaka; jaje"
     },
     {
+      "headword_latin": "Tražiti hleba preko pogače",
+      "type": "frazeologizam",
+      "definition_ru": "от добра добра искать; хотеть ещё большего, хотя и так всё хорошо; требовать лишнего",
+      "synonyms_sr": [
+        "tražiti previše",
+        "biti nezadovoljan dobrim",
+        "zahtevati više nego što je razumno",
+        "ne zadovoljiti se dobrim"
+      ],
+      "literal_ru": "искать хлеб поверх лепёшки",
+      "register": "разг., экспр., неодобр.; о неоправданном стремлении получить больше или лучше, уже имея вполне хорошее",
+      "examples": [
+        {
+          "serbian_latin": "Ukoliko bi se na kraju ove godine isto to desilo, mi bismo bili zadovoljni, ne bismo tražili hleba preko pogače.",
+          "russian": "Если и этот год закончится с таким же результатом, мы будем довольны и не станем от добра добра искать.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Mladi planiraju odlazak ne iz bahatosti što traže „hleba preko pogače“, već zato što žele da žive u pouzdanom sistemu.",
+          "russian": "Молодые планируют уехать не потому, что с жиру бесятся и хотят слишком многого, а потому что хотят жить в надёжной системе.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Pogača — традиционный круглый хлеб, поэтому буквально выражение выглядит парадоксально: имея хороший хлеб, человек ищет ещё какой-то хлеб «поверх» него. Наиболее точный русский аналог — «от добра добра не ищут», хотя в конкретной фразе часто лучше «хотеть слишком многого».",
+      "keyword": "hleba preko pogače"
+    },
+    {
       "headword_latin": "Tražiti iglu u plastu sena",
       "type": "frazeologizam",
       "definition_ru": "искать иголку в стоге сена; пытаться найти почти ненахodимое",
@@ -13490,6 +13706,33 @@
       ],
       "note": "Значение включает элемент неожиданной и часто непропорционально большой удачи: получить много при небольшом усилии или случайно оказаться в выигрышной ситуации. Популярное объяснение связывает образ с дровосеком, случайно обнаружившим мёд диких пчёл в дупле, однако надёжно установленной этимологии этой истории нет.",
       "keyword": "sekira u med"
+    },
+    {
+      "headword_latin": "Upinjati se iz petnih žila",
+      "type": "frazeologizam",
+      "definition_ru": "стараться изо всех сил; лезть из кожи вон; прилагать все усилия",
+      "synonyms_sr": [
+        "truditi se svim silama",
+        "dati sve od sebe",
+        "svojski se truditi",
+        "naprezati se"
+      ],
+      "literal_ru": "напрягаться из пятных жил",
+      "register": "разг., экспр.; встречается и без upinjati se: truditi se iz petnih žila",
+      "examples": [
+        {
+          "serbian_latin": "Vučić se, ističe, upirao iz petnih žila, borio da lične karte naše države važe na KiM.",
+          "russian": "Вучич, подчёркивает он, изо всех сил добивался того, чтобы документы нашего государства действовали на Косове.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Irački Kurdi se, iz petnih žila, trude da izbegnu Trampov ultimatum.",
+          "russian": "Иракские курды изо всех сил стараются избежать ультиматума Трампа.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Главная часть выражения — iz petnih žila; с ней употребляются upinjati se, truditi se, igrati se и другие глаголы интенсивного действия. Русскому естественно переводить «изо всех сил», а при особенно сильной экспрессии — «лезть из кожи вон».",
+      "keyword": "iz petnih žila"
     },
     {
       "headword_latin": "upisati / biti upisan zlatnim slovima",
@@ -14248,6 +14491,33 @@
       ],
       "note": "Если русский смысл именно «мне надоели политики», часто естественнее Dosadili su mi političari. Zamorili su me političari подчёркивает накопившуюся умственную или эмоциональную усталость. Ещё одна модель — Umorio sam se od političara: буквально «я устал от политиков».",
       "keyword": "zamoriti"
+    },
+    {
+      "headword_latin": "Zapasti za oko",
+      "type": "frazeologizam",
+      "definition_ru": "броситься в глаза; привлечь внимание; приглянуться",
+      "synonyms_sr": [
+        "privući pažnju",
+        "biti primećen",
+        "istaći se",
+        "dopasti se"
+      ],
+      "literal_ru": "",
+      "register": "разг.-нейтр.; лицо, предмет или деталь — подлежащее, наблюдатель обычно в дательном: zapao mi je za oko, zapala mu je za oko",
+      "examples": [
+        {
+          "serbian_latin": "Na žurci će se pojaviti i Vlado Georgiev kome će posebno zapasti za oko jedna od kadetkinja.",
+          "russian": "На вечеринке появится и Владо Георгиев, которому особенно приглянется одна из курсанток.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Dok se vozite po Moskvi ove nedelje dve stvari će vam zapasti za oko.",
+          "russian": "Если на этой неделе вы проедетесь по Москве, вам бросятся в глаза две вещи.",
+          "source": "BBC na srpskom / Danas, 2026"
+        }
+      ],
+      "note": "В зависимости от контекста это может быть и нейтральное «броситься в глаза», и более личное «приглянуться». Для русского важно управление: ona mi je zapala za oko — буквально «она мне попала за глаз», естественно «она мне приглянулась». Не путать с upasti u oči, которое чаще подчёркивает заметность.",
+      "keyword": "zapasti za oko"
     },
     {
       "headword_latin": "zasukati / zavrnuti rukave",
