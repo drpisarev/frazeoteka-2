@@ -973,6 +973,33 @@
       "keyword": "kamen; spoticanje"
     },
     {
+      "headword_latin": "Biti kao na iglama",
+      "type": "frazeologizam",
+      "definition_ru": "сидеть как на иголках; быть как на иголках; мучительно ждать",
+      "synonyms_sr": [
+        "biti nervozan",
+        "biti nestrpljiv",
+        "strepiti",
+        "biti napet"
+      ],
+      "literal_ru": "быть словно на иголках",
+      "register": "razg., ekspresivno; o napetom i zabrinutom iščekivanju",
+      "examples": [
+        {
+          "serbian_latin": "Srpska ekonomija je kao na iglama dok iščekuje kolike će biti američke carine na uvoz robe.",
+          "russian": "Сербская экономика словно сидит на иголках, ожидая решения о размере американских пошлин.",
+          "source": "BBC na srpskom / Danas, 2025"
+        },
+        {
+          "serbian_latin": "A bila sam kao na iglama.",
+          "russian": "А я всё это время сидела как на иголках.",
+          "source": "Politika, 2023"
+        }
+      ],
+      "note": "Значение почти полностью совпадает с русским «как на иголках». Обычно важен не просто страх, а мучительное ожидание исхода: результатов анализа, решения, матча, известия. Возможны sedeti kao na iglama и просто biti kao na iglama.",
+      "keyword": "kao na iglama"
+    },
+    {
       "headword_latin": "Biti kao so na ranu",
       "type": "poređenje",
       "definition_ru": "Быть как соль на рану; дополнительно усиливать уже существующую боль, обиду или тяжёлое положение.",
@@ -1090,31 +1117,29 @@
     {
       "headword_latin": "Biti na istoj talasnoj dužini",
       "type": "frazeologizam",
-      "definition_ru": "быть на одной волне; прекрасно понимать друг друга; иметь сходные взгляды",
+      "definition_ru": "быть на одной волне; прекрасно понимать друг друга; одинаково мыслить",
       "synonyms_sr": [
         "dobro se razumeti",
         "slično razmišljati",
-        "slagati se",
-        "imati sličan senzibilitet"
+        "biti istomišljenici",
+        "slagati se"
       ],
       "literal_ru": "быть на одной длине волны",
-      "register": "разг.-нейтр.; обычно biti / naći se sa nekim na istoj talasnoj dužini",
+      "register": "neutralno-razg.; o ljudima, stavovima, ukusima i načinu razmišljanja",
       "examples": [
         {
-          "serbian_latin": "Milun i ja smo se našli na istoj talasnoj dužini: rokenrol, duga kosa, književnost, pozorište, film...",
-          "russian": "Мы с Милуном оказались на одной волне: рок-н-ролл, длинные волосы, литература, театр, кино...",
-          "source": "Politika, 2023",
-          "url": "https://www.politika.rs/sr/clanak/573544/pogledi/mek-i-to-je-kosarka"
+          "serbian_latin": "Milun i ja smo se našli na istoj talasnoj dužini: rokenrol, duga kosa, književnost, pozorište, film, preferans...",
+          "russian": "Мы с Милуном оказались на одной волне: рок-н-ролл, длинные волосы, литература, театр, кино, преферанс…",
+          "source": "Politika, 2023"
         },
         {
-          "serbian_latin": "To lepo... jedino i može da bude kada se i umetnik i posmatrač nađu „na istoj talasnoj dužini“.",
-          "russian": "Такое восприятие возможно, когда художник и зритель оказываются на одной волне.",
-          "source": "RTS, 2014",
-          "url": "https://www.rts.rs/lat/tv/rts-digital/1742252/citanje-slika.html"
+          "serbian_latin": "To lepo, to saznanje je duboko i realno, onakvo kakvo jedino i može da bude kada se i umetnik i posmatrač nađu na istoj talasnoj dužini.",
+          "russian": "Такое понимание возможно, когда художник и зритель оказываются на одной волне.",
+          "source": "RTS, 2019"
         }
       ],
-      "note": "Значение почти совпадает с современным русским «быть на одной волне». Сербская форма обычно длиннее: na istoj talasnoj dužini. Употребляется о взглядах, темпераменте, художественном вкусе и взаимопонимании.",
-      "keyword": "ista talasna dužina"
+      "note": "Здесь русское «быть на одной волне» — практически идеальный эквивалент. Часто употребляется конструкция naći se na istoj talasnoj dužini — «оказаться на одной волне». Не обязательно означает полное согласие во всём: достаточно взаимопонимания или сходства вкусов.",
+      "keyword": "talasna dužina"
     },
     {
       "headword_latin": "Biti na ivici nerava",
@@ -5550,30 +5575,28 @@
     {
       "headword_latin": "Imati obraz kao đon",
       "type": "frazeologizam",
-      "definition_ru": "быть бесстыжим; иметь совершенно непробиваемую совесть; ни стыда ни совести",
+      "definition_ru": "быть бесстыжим; иметь толстую кожу; ни стыда ни совести",
       "synonyms_sr": [
         "biti bezobrazan",
-        "biti bestidan",
         "nemati stida",
-        "biti beskrupulozan"
+        "biti bestidan",
+        "imati debeo obraz"
       ],
-      "literal_ru": "иметь лицо / честь как подошва",
-      "register": "разг., грубовато, резко неодобр.; о человеке, которому совершенно не стыдно за собственные поступки",
+      "literal_ru": "иметь лицо / честь как подошву",
+      "register": "razg., izrazito neodobr.; o čoveku koga je nemoguće postideti",
       "examples": [
         {
-          "serbian_latin": "Neki ljudi imaju obraz kao đon.",
-          "russian": "У некоторых людей, что называется, ни стыда ни совести.",
-          "source": "RTS, 2016",
-          "url": "https://www.rts.rs/lat/vesti/politika/2164253/vucic-stranke-vladajuce-koalicije-samostalno-na-pokrajinskim-izborima.html"
+          "serbian_latin": "Ali, šta ćete, neki ljudi imaju obraz kao đon.",
+          "russian": "Но что поделаешь, у некоторых людей ни стыда ни совести.",
+          "source": "RTS, 2015"
         },
         {
-          "serbian_latin": "Nije se potresao što su mu radikali govorili da ima obraz kao đon.",
-          "russian": "Его не особенно задевало, что радикалы называли его совершенно бесстыжим.",
-          "source": "Danas, 2014",
-          "url": "https://www.danas.rs/vesti/drustvo/kocoperni-patriota/"
+          "serbian_latin": "Za nekoga ko vas gleda u oči i, ne trepnuvši, laže, narod kaže da ima obraz kao đon.",
+          "russian": "О человеке, который смотрит вам в глаза и невозмутимо врёт, в народе говорят: у него ни стыда ни совести.",
+          "source": "Danas, 2021"
         }
       ],
-      "note": "Для понимания образа важно сербское переносное obraz — «честь, чувство стыда». Если «образ как подошва», он настолько «толстый», что человека уже ничто не пробирает. Выражение намного резче нейтрального bezobrazan.",
+      "note": "Obraz в сербской традиционной семантике — не только «лицо», но и честь, стыд, моральная репутация. У đon подошва толстая и нечувствительная: отсюда образ человека, которого ничем не проймёшь. Русскому буквальный перевод «лицо как подошва» ничего не скажет.",
       "keyword": "obraz kao đon"
     },
     {
@@ -8015,31 +8038,29 @@
     {
       "headword_latin": "Na jedvite jade",
       "type": "frazeologizam",
-      "definition_ru": "еле-еле; с огромным трудом; через силу",
+      "definition_ru": "с огромным трудом; еле-еле; через силу",
       "synonyms_sr": [
         "jedva",
-        "s velikom mukom",
-        "s krajnjim naporom",
-        "teško"
+        "uz veliku muku",
+        "s mukom",
+        "uz krajnji napor"
       ],
       "literal_ru": "",
-      "register": "разг., экспр.; подчёркивает, что результат достигнут лишь после больших усилий или затруднений",
+      "register": "razg.-neutralno, ekspresivno; rezultat je postignut jedva i uz veliki napor",
       "examples": [
         {
           "serbian_latin": "Ulogu Kalabića je prihvatio „na jedvite jade“.",
-          "russian": "Роль Калабича он согласился принять еле-еле, с большим трудом.",
-          "source": "RTS, 2019",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/3766986/preminuo-glumac-zoran-rankic.html"
+          "russian": "Роль Калабича он согласился принять с огромным трудом, после долгих уговоров.",
+          "source": "RTS, 2019"
         },
         {
-          "serbian_latin": "Na jedvite jade – Vojvodina je stigla u polufinale Kupa Srbije.",
-          "russian": "С огромным трудом «Войводина» пробилась в полуфинал Кубка Сербии.",
-          "source": "Sport Klub, 2026",
-          "url": "https://sportklub.rs/vaterpolo/evropsko-prvenstvo-u-vaterpolu-srbija-holandija-beograd-2026-uzivo-livestream-direktan-prenos-beogradska-arena/"
+          "serbian_latin": "Kako sam na jedvite jade završio gimnaziju, postavilo se pitanje šta ću da studiram.",
+          "russian": "Поскольку гимназию я окончил еле-еле, встал вопрос, куда идти учиться дальше.",
+          "source": "Danas, 2019"
         }
       ],
-      "note": "Это значительно экспрессивнее простого jedva. Выражение подходит и к физическому усилию (na jedvite jade se popeo), и к достижению результата (pobedio na jedvite jade), и к неохотному согласию. Русские «еле-еле», «с грехом пополам», «с огромным трудом» выбираются по ситуации.",
-      "keyword": "na jedvite jade"
+      "note": "По смыслу сильнее простого jedva: обычно подразумевается значительное усилие, сопротивление обстоятельств и результат буквально «на грани». Устойчиво именно множественное jade; разбирать выражение как современное свободное сочетание не следует.",
+      "keyword": "jedvite jade"
     },
     {
       "headword_latin": "Na kraju krajeva",
@@ -8154,6 +8175,33 @@
       ],
       "note": "В спортивном контексте pobeda na mišiće — победа, добытая силой, упорством и волей, а не лёгкой или красивой игрой. В более широком употреблении opstajati na mišiće означает «держаться из последних сил, вопреки нехватке ресурсов».",
       "keyword": "na mišiće"
+    },
+    {
+      "headword_latin": "Na mrtvo ime",
+      "type": "frazeologizam",
+      "definition_ru": "до полусмерти; жестоко, до крайности; очень сильно",
+      "synonyms_sr": [
+        "do besvesti",
+        "brutalno",
+        "do krajnjih granica",
+        "krvnički"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; naročito prebiti / pretući nekoga na mrtvo ime",
+      "examples": [
+        {
+          "serbian_latin": "Prebićemo Iran na mrtvo ime.",
+          "russian": "Мы разнесём Иран / побьём его до полусмерти.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Omiljen i pretučen na mrtvo ime.",
+          "russian": "Всеобщий любимец, жестоко избитый до полусмерти.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Сейчас выражение прежде всего сочетается с глаголами физического избиения и обозначает крайнюю степень: prebiti ga na mrtvo ime. Слово ime здесь семантически непрозрачно для современного говорящего; выражение следует запоминать целиком. Перевод «на мёртвое имя» невозможен.",
+      "keyword": "na mrtvo ime"
     },
     {
       "headword_latin": "Na pretek",
@@ -8866,29 +8914,29 @@
     {
       "headword_latin": "Ne znati gde udara",
       "type": "frazeologizam",
-      "definition_ru": "не понимать, что делать; метаться; действовать совершенно хаотично",
+      "definition_ru": "не соображать, что делаешь; метаться; действовать в растерянности и панике",
       "synonyms_sr": [
-        "biti potpuno zbunjen",
+        "biti pogubljen",
         "izgubiti kompas",
-        "paničiti",
-        "postupati nasumično"
+        "delovati stihijski",
+        "biti potpuno zbunjen"
       ],
       "literal_ru": "не знать, куда бьёшь",
-      "register": "разг., экспр., неодобр.; о потере ориентации в действиях",
+      "register": "razg., ekspresivno, neodobr.; često ne zna gde udara",
       "examples": [
         {
-          "serbian_latin": "Narodski rečeno – ne zna gde udara.",
-          "russian": "Грубо говоря, он уже сам не понимает, что делает.",
-          "source": "Danas, 2025"
+          "serbian_latin": "Vučić ne zna gde udara.",
+          "russian": "Вучич уже сам не понимает, что делает.",
+          "source": "N1 Srbija, 2020"
         },
         {
-          "serbian_latin": "...na čijem licu je vidljivo da ne zna gde udara...",
-          "russian": "...по лицу которого видно, что он совершенно растерян и не знает, что делать...",
-          "source": "Politika, 2020"
+          "serbian_latin": "Režim se klima i više ne zna gde udara.",
+          "russian": "Режим шатается и уже действует совершенно хаотично.",
+          "source": "Danas, 2025"
         }
       ],
-      "note": "Это не просто «не знать, куда идти». Образ описывает потерю ориентации именно в действиях: человек хватается то за одно, то за другое, совершает противоречивые поступки. В отношении человека выражение довольно резкое.",
-      "keyword": "ne znati gde udara"
+      "note": "Это не просто «не знать, куда ударить». В переносном значении человек потерял ориентацию, действует нервно, бессистемно и часто противоречит сам себе. Русские «метаться», «не понимать, что творишь», «потерять голову» выбираются по контексту.",
+      "keyword": "ne zna gde udara"
     },
     {
       "headword_latin": "Ne znati šta ga je snašlo",
@@ -9388,30 +9436,28 @@
     {
       "headword_latin": "Ni pet ni šest",
       "type": "frazeologizam",
-      "definition_ru": "ни долго думая; вот так сразу; без колебаний",
+      "definition_ru": "не долго думая; ни с того ни с сего; взял да и…",
       "synonyms_sr": [
         "bez razmišljanja",
-        "bez oklevanja",
         "odmah",
-        "tek tako"
+        "iznenada",
+        "bez oklevanja"
       ],
-      "literal_ru": "ни пять ни шесть",
-      "register": "разг., экспр.; часто в конструкции ni pet ni šest, nego...",
+      "literal_ru": "",
+      "register": "razg., ekspresivno; obično uvodi iznenadan ili impulsivan postupak",
       "examples": [
         {
-          "serbian_latin": "Kad će on meni, ni pet ni šest: ili prodaješ ili se razvodimo.",
-          "russian": "А он мне, ни долго думая: либо продаёшь, либо разводимся.",
-          "source": "Danas, 2017",
-          "url": "https://www.danas.rs/vesti/ekonomija/neshvaceni-i-neplaceni-rad-zena-na-selu/"
+          "serbian_latin": "Slavoljub – ni pet ni šest – pravac u poštu.",
+          "russian": "Славолюб, не долго думая, прямиком отправился на почту.",
+          "source": "Danas, 2011"
         },
         {
-          "serbian_latin": "Dr Kon – ni pet ni šest – reče da je to bio dan u kome je sedam ljudi umrlo.",
-          "russian": "А доктор Кон ни долго думая заявил, что это был день, когда умерли семь человек.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/kolumna/svetislav-basara/krizni-stap/"
+          "serbian_latin": "Bane on, eto, tako iznenada, posve nepozvan u tvoju vlastitu kuću, i ni pet, ni šest, kaže ti da mu se u tvojoj kući ništa ne dopada.",
+          "russian": "Он вдруг без приглашения заявляется к тебе домой и, ни с того ни с сего, объявляет, что ему там ничего не нравится.",
+          "source": "Politika, 2024"
         }
       ],
-      "note": "Буквальный образ русскому ничего не подсказывает. Выражение вводит действие, совершённое сразу, без долгих размышлений, нередко неожиданное для рассказчика: on ni pet ni šest, nego... По функции близко русским «ни долго думая», «взял да и…», иногда «ни с того ни с сего», но последнее подходит только при оттенке неожиданности.",
+      "note": "Фраза ничего не сообщает о числах пять и шесть: это устойчивый рассказовый оборот, подчёркивающий отсутствие раздумий или неожиданность поступка. По-русски особенно хорошо передают ni pet ni šest конструкции «не долго думая», «взял да и…», «ни с того ни с сего». В текстах встречается как без запятых, так и с интонационным оформлением ni pet, ni šest.",
       "keyword": "ni pet ni šest"
     },
     {
@@ -9496,6 +9542,33 @@
       ],
       "note": "Это очень живой разговорный усилитель категорического отрицания. Русскому не стоит пытаться буквально интерпретировать pod razno: выражение запоминается целиком. Особенно естественно как короткий ответ: Da li bi pristao? — Ni pod razno.",
       "keyword": "ni pod razno"
+    },
+    {
+      "headword_latin": "Ni tamo ni ovamo",
+      "type": "frazeologizam",
+      "definition_ru": "ни туда ни сюда; ни то ни сё; зависнуть между двумя состояниями",
+      "synonyms_sr": [
+        "između dve strane",
+        "ni na jednoj strani",
+        "u međupoložaju",
+        "neodređeno"
+      ],
+      "literal_ru": "",
+      "register": "razg.-neutralno; o položaju, čoveku, politici, mestu ili stanju bez jasne pripadnosti i pravca",
+      "examples": [
+        {
+          "serbian_latin": "Odnos Srbije prema Ukrajini kao na klackalici: „Ni tamo, ni ovamo“.",
+          "russian": "Отношение Сербии к Украине словно на качелях: ни туда ни сюда.",
+          "source": "N1 Srbija, 2023"
+        },
+        {
+          "serbian_latin": "Jedna vrlo lepa topla priča, istinita o ljudima koji nisu ni tamo ni ovamo, koji se nalaze na jednoj životnoj prekretnici.",
+          "russian": "Это история о людях, которые оказались ни там ни здесь, на жизненном перепутье.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Сербское выражение часто описывает именно промежуточность: человек или ситуация не принадлежат полностью ни одной из двух сторон. Поэтому русский перевод может быть «ни туда ни сюда», «ни рыба ни мясо», «зависнуть между двумя мирами» — в зависимости от контекста.",
+      "keyword": "ni tamo ni ovamo"
     },
     {
       "headword_latin": "Ni traga ni glasa",
@@ -16413,6 +16486,32 @@
       "keyword": "vo; kupus"
     },
     {
+      "headword_latin": "Tvrd orah",
+      "type": "frazeologizam",
+      "definition_ru": "крепкий орешек; трудный противник; человек, которого нелегко сломить или переубедить",
+      "synonyms_sr": [
+        "težak protivnik",
+        "tvrdoglav čovek",
+        "neko koga je teško savladati"
+      ],
+      "literal_ru": "твёрдый орех",
+      "register": "razg.-neutralno, ekspresivno; o čoveku, protivniku, organizaciji ili teškom problemu",
+      "examples": [
+        {
+          "serbian_latin": "Vu se pokazao kao tvrd orah, ali Đoković ga je slomio.",
+          "russian": "Ву оказался крепким орешком, но Джокович всё-таки его расколол.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Merkelova i dalje „tvrd orah“.",
+          "russian": "Меркель по-прежнему крепкий орешек.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Русское «крепкий орешек» совпадает почти полностью. Сербское tvrd orah особенно часто характеризует человека или соперника, которого трудно победить, заставить уступить или склонить к своей позиции. Возможна также характеристика сложной проблемы.",
+      "keyword": "tvrd orah"
+    },
+    {
       "headword_latin": "U bescenje",
       "type": "izraz",
       "definition_ru": "за бесценок; за гроши; по смехотворно низкой цене",
@@ -16500,31 +16599,30 @@
     },
     {
       "headword_latin": "U po bela dana",
-      "type": "izraz",
-      "definition_ru": "среди бела дня; прямо посреди дня; у всех на виду",
+      "type": "frazeologizam",
+      "definition_ru": "среди бела дня; прямо днём; у всех на глазах",
       "synonyms_sr": [
         "usred bela dana",
         "usred dana",
+        "javno",
         "naočigled svih"
       ],
       "literal_ru": "среди белого дня",
-      "register": "разг.-нейтр., экспр.; особенно часто подчёркивает дерзость или неожиданность события, совершившегося открыто, днём",
+      "register": "ekspresivno; naročito o drskom, neočekivanom ili kriminalnom postupku učinjenom otvoreno",
       "examples": [
         {
           "serbian_latin": "To je trebalo da uradi u po bela dana.",
-          "russian": "Это следовало сделать среди бела дня.",
-          "source": "RTS, 2016",
-          "url": "https://www.rts.rs/lat/vesti/politika/2312189/vucic-nepotrebno-je-bespravne-objekte-rusiti-nocu.html"
+          "russian": "Это надо было сделать среди бела дня.",
+          "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Krajem maja, u po bela dana, u dečijem parkiću, dva maloletnika su batinanjem usmrtila čoveka.",
-          "russian": "В конце мая среди бела дня в детском парке двое несовершеннолетних забили человека насмерть.",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/od-razbijanja-prozora-do-razbijanja-glava/"
+          "serbian_latin": "Naše siledžije nikada ne spadaju tako nisko da siluju obeznanjene žene, nego napastvuju dame pri čistoj svesti, takoreći javno, u po bela dana.",
+          "russian": "Наши насильники, мол, делают это чуть ли не открыто, среди бела дня.",
+          "source": "Danas, 2012"
         }
       ],
-      "note": "Для русского соответствие — точное «среди бела дня». Сербская форма u po bela dana застывшая: её лучше запоминать целиком, а не пытаться строить по обычной современной грамматической модели. Очень часто оборот усиливает возмущение: преступление или безобразие произошло не тайком, а открыто.",
-      "keyword": "u po bela dana"
+      "note": "Русское «среди бела дня» совпадает почти идеально. Сербская форма u po bela dana фиксированная и не должна перестраиваться по обычной современной модели склонения. Также очень употребительно usred bela dana.",
+      "keyword": "po bela dana"
     },
     {
       "headword_latin": "U poslednji čas",
