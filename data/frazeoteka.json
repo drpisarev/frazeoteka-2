@@ -2761,26 +2761,26 @@
       "definition_ru": "дать дёру; унести ноги; быстро сбежать",
       "synonyms_sr": [
         "pobeći",
-        "zbrisati",
-        "dati se u beg",
-        "uteći"
+        "zbrisati (razg.)",
+        "uteći",
+        "dati se u beg"
       ],
       "literal_ru": "дать пяткам ветра",
-      "register": "разг., экспр., часто шутл.; обычно о внезапном быстром бегстве",
+      "register": "razg., ekspresivno; obično dati petama vetra",
       "examples": [
         {
-          "serbian_latin": "Pobegao je iz autobusa, sa seta, dao petama vetra i tako stigao do Pančeva.",
-          "russian": "Он выскочил из автобуса, убежал со съёмочной площадки и дал дёру аж до Панчева.",
-          "source": "Telegraf, 2015"
+          "serbian_latin": "Pobednik je, kao svaki dobar prikan, dao petama vetra.",
+          "russian": "Победитель, как настоящий дружок, тут же дал дёру.",
+          "source": "Danas, 2017"
         },
         {
-          "serbian_latin": "Kada je shvatio svu težinu situacije, dao je petama vetra i preskočio ogradu.",
-          "russian": "Когда он понял, во что влип, то дал дёру и перемахнул через забор.",
+          "serbian_latin": "Dao je petama vetra i preskočio ogradu kao Sergej Bupka 1997. u Atini.",
+          "russian": "Он дал дёру и перемахнул через ограду, словно Сергей Бубка в Афинах в 1997 году.",
           "source": "Srbija Danas, 2014"
         }
       ],
-      "note": "Очень образный разговорный эквивалент русского «дать дёру». Обычно подразумевается внезапное и быстрое бегство, нередко из-за страха или опасности. Встречается и порядок petama dati vetra, но обычнее dati petama vetra.",
-      "keyword": "dati petama vetra"
+      "note": "Образ прозрачен: бегущий настолько быстро перебирает ногами, будто его пяткам помогает ветер. Сербское выражение живое и разговорное; русские «дать дёру», «дать стрекача», «унести ноги» передают его лучше буквального перевода. Возможен другой порядок слов, но словарная форма dati petama vetra наиболее удобна.",
+      "keyword": "petama vetra"
     },
     {
       "headword_latin": "Dati sve od sebe",
@@ -4285,6 +4285,33 @@
       ],
       "note": "Основная экавская сербская форма — čoveka. Иекавская форма čovjeka не нужна в качестве основного заголовка.",
       "keyword": "duša"
+    },
+    {
+      "headword_latin": "Dušu dalo za nešto",
+      "type": "frazeologizam",
+      "definition_ru": "идеально подходит; самое то; как будто специально создано для чего-то",
+      "synonyms_sr": [
+        "idealno za",
+        "kao stvoreno za",
+        "baš pogodno za",
+        "taman za"
+      ],
+      "literal_ru": "душу отдало для чего-то",
+      "register": "razg., ekspresivno; nepromenljiva konstrukcija dušu dalo za + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Volim dijalog, radnju, humor, a to je dušu dalo za pozorište.",
+          "russian": "Я люблю диалог, действие, юмор, а для театра это просто идеально.",
+          "source": "Politika, 2024"
+        },
+        {
+          "serbian_latin": "Bilo bi komično, dušu dalo za neki uvrnuti film.",
+          "russian": "Это было бы комично — самое то для какого-нибудь безумного фильма.",
+          "source": "N1 Srbija, 2025"
+        }
+      ],
+      "note": "Для русского это особенно обманчивое выражение: речь вовсе не о жертве и не о том, чтобы «отдать душу». Конструкция безличная и сохраняет форму dalo: ovo je dušu dalo za odmor, mesto je dušu dalo za decu. После za требуется винительный падеж.",
+      "keyword": "dušu dalo"
     },
     {
       "headword_latin": "Đavo je odneo šalu",
@@ -6204,6 +6231,33 @@
       "keyword": "iz prve ruke"
     },
     {
+      "headword_latin": "Izaći / doći na zelenu granu",
+      "type": "frazeologizam",
+      "definition_ru": "выбраться из трудностей; наладить дела; выйти в плюс",
+      "synonyms_sr": [
+        "izvući se iz problema",
+        "oporaviti se",
+        "stati na noge",
+        "dovesti se u red"
+      ],
+      "literal_ru": "выйти на зелёную ветку",
+      "register": "razg.-publicistički; takođe izvesti / dovesti nekoga ili nešto na zelenu granu",
+      "examples": [
+        {
+          "serbian_latin": "Nikako da izađemo na zelenu granu.",
+          "russian": "Никак не можем выбраться из трудностей и наладить дела.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Sa zavođenjem ste, dakle, kako bi se to u Srbiji reklo, ipak izašli na zelenu granu.",
+          "russian": "Значит, с ухаживаниями вы всё-таки, как говорят в Сербии, вышли на более благополучный уровень.",
+          "source": "Blic, 2010"
+        }
+      ],
+      "note": "Речь обычно не просто об успехе, а о выходе из затяжной неблагоприятной ситуации: финансовой, профессиональной, семейной. Очень характерно nikako da izađemo na zelenu granu. Русскому чаще всего подходят «встать на ноги», «выкарабкаться», «наладить дела». Точное происхождение образа надёжно не установлено.",
+      "keyword": "zelena grana"
+    },
+    {
       "headword_latin": "izaći na videlo",
       "type": "глагольный фразеологизм",
       "definition_ru": "Выйти наружу; обнаружиться; раскрыться; стать известным.",
@@ -7460,29 +7514,27 @@
     {
       "headword_latin": "Krv nije voda",
       "type": "izreka",
-      "definition_ru": "кровь не водица; родство берёт своё; гены дают о себе знать",
+      "definition_ru": "кровь не водица; родство даёт о себе знать; яблоко от яблони недалеко пада",
       "synonyms_sr": [
-        "porodica je porodica",
-        "krvno srodstvo se ne može poreći",
-        "iver ne pada daleko od klade"
+        "iver ne pada daleko od klade",
+        "geni čine svoje",
+        "porodična crta se vidi"
       ],
       "literal_ru": "кровь — не вода",
-      "register": "разг.-нейтр., экспр.; о сходстве родственников, семейных связях или семейной солидарности",
+      "register": "razg.-neutralno; o porodičnoj sličnosti, naslednim osobinama ili snazi rodbinskih veza",
       "examples": [
         {
-          "serbian_latin": "Bobi Kristina je ubrzo po emitovanju epizode dokazala da krv nije voda.",
-          "russian": "Вскоре после выхода серии Бобби Кристина доказала, что гены дают о себе знать.",
-          "source": "RTS, 2012",
-          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/1143540/bobi-kristina-nastavlja-majcinim-stopama.html"
+          "serbian_latin": "Među narodnim poslanicima i državnim funkcionerima ima onih za koje važi ona stara „krv nije voda“.",
+          "russian": "Среди депутатов и государственных чиновников есть те, к кому вполне применимо старое «кровь не водица».",
+          "source": "Politika, 2019"
         },
         {
-          "serbian_latin": "Među narodnim poslanicima i državnim funkcionerima ima onih za koje važi ona stara „krv nije voda“.",
-          "russian": "Среди депутатов и государственных чиновников есть и такие, к кому подходит старое выражение «кровь не водица».",
-          "source": "Politika, 2019",
-          "url": "https://www.politika.rs/sr/clanak/433702/geni-za-vladanje"
+          "serbian_latin": "Četiri priče koje donosimo dokaz su stare izreke da krv nije voda.",
+          "russian": "Эти четыре истории подтверждают старую поговорку: кровь не водица.",
+          "source": "Blic, 2017"
         }
       ],
-      "note": "Выражение подчёркивает силу родственных связей или сходство между родственниками — внешнее, характерологическое, профессиональное. По-русски буквальное «кровь не вода» понятно, но менее естественно, чем «кровь не водица» или контекстное «гены берут своё». Может употребляться и иронически.",
+      "note": "В сербском выражение живее и шире, чем русское «кровь не водица». Оно может подчёркивать как наследование характера, таланта или профессии, так и особую прочность семейной связи. Когда речь именно о сходстве детей с родителями, близок сербский фразеологизм iver ne pada daleko od klade — функционально русское «яблоко от яблони недалеко пада».",
       "keyword": "krv nije voda"
     },
     {
@@ -7567,6 +7619,33 @@
       ],
       "note": "Сербский и русский фразеологизмы практически совпадают. Оборот особенно част в разговорах о недвижимости, подержанных автомобилях и интернет-покупках. Возможна и именная конструкция to je mačka u džaku — «это кот в мешке».",
       "keyword": "mačka u džaku"
+    },
+    {
+      "headword_latin": "Leći na rudu",
+      "type": "frazeologizam",
+      "definition_ru": "смириться; подчиниться; уступить давлению",
+      "synonyms_sr": [
+        "pokoriti se",
+        "popustiti",
+        "prihvatiti tuđu volju",
+        "prestati da pruža otpor"
+      ],
+      "literal_ru": "лечь на дышло упряжки",
+      "register": "razg., ekspresivno, često neodobr.; o nekome ko je prestao da pruža otpor",
+      "examples": [
+        {
+          "serbian_latin": "Izgleda da su čak i tabloidi konačno „legli na rudu“.",
+          "russian": "Похоже, даже таблоиды наконец подчинились.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Optužuju ih da su legli na rudu.",
+          "russian": "Их обвиняют в том, что они прогнулись и подчинились.",
+          "source": "Politika, 2026"
+        }
+      ],
+      "note": "Здесь ruda — не «руда» в русском смысле, а деревянное дышло повозки, элемент упряжи. Это важный ложный друг. Образ связан с молодым упряжным животным, которое сначала сопротивляется, а затем занимает положенное место и начинает тянуть. Danas прямо объясняет выражение через эту ситуацию.",
+      "keyword": "leći na rudu"
     },
     {
       "headword_latin": "lepiti se kao muve na govno",
@@ -7739,6 +7818,33 @@
       ],
       "note": "Обычно обращено к человеку, который намеренно молчит, неожиданно замолчал или не может ответить на аргумент.",
       "keyword": "maca; jezik"
+    },
+    {
+      "headword_latin": "Mačji kašalj",
+      "type": "frazeologizam",
+      "definition_ru": "пустяк; раз плюнуть; сущая ерунда",
+      "synonyms_sr": [
+        "sitnica",
+        "laka stvar",
+        "ništa naročito",
+        "dečja igra"
+      ],
+      "literal_ru": "кошачий кашель",
+      "register": "razg., ekspresivno, često iron.; o nečemu lakom ili beznačajnom u poređenju sa ozbiljnijim",
+      "examples": [
+        {
+          "serbian_latin": "Nekada bi to za naše klubove bio mačji kašalj, ali odavno se svuda igra fudbal.",
+          "russian": "Когда-то для наших клубов это было бы раз плюнуть, но теперь футбол умеют играть повсюду.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Prethodna erupcija je za ono što je usledilo bila „mačji kašalj“.",
+          "russian": "Предыдущее извержение по сравнению с тем, что последовало потом, было сущим пустяком.",
+          "source": "RTS, 2015"
+        }
+      ],
+      "note": "Выражение употребляется в двух тесно связанных ситуациях: «это очень легко» и «это мелочь по сравнению с чем-то гораздо серьёзнее». Популярное объяснение связывает образ с тем, как кошки легко откашливают комки шерсти, однако надёжно установленной этимологией считать это не стоит. Русское «кошачий кашель» такого значения не имеет.",
+      "keyword": "mačji kašalj"
     },
     {
       "headword_latin": "Malo sutra",
@@ -10854,6 +10960,32 @@
       ],
       "note": "Выражение употребляется как об эмиграции, так и о переезде из небольшого города в Белград или другой экономический центр.",
       "keyword": "trbuh; kruh"
+    },
+    {
+      "headword_latin": "Otkriti toplu vodu",
+      "type": "frazeologizam",
+      "definition_ru": "открыть Америку; изобрести велосипед; выдать очевидное за открытие",
+      "synonyms_sr": [
+        "reći nešto očigledno",
+        "izmišljati već izmišljeno",
+        "otkrivati rupu na saksiji (razg.)"
+      ],
+      "literal_ru": "открыть горячую воду",
+      "register": "razg., iron., neodobr.; naročito nisam otkrio toplu vodu, ne treba otkrivati toplu vodu",
+      "examples": [
+        {
+          "serbian_latin": "On je otkrio toplu vodu, svakako mora da se seli iz te kancelarije za nekoliko meseci.",
+          "russian": "Тоже мне открытие: ему в любом случае через несколько месяцев придётся съехать из этого кабинета.",
+          "source": "N1 Srbija, 2026"
+        },
+        {
+          "serbian_latin": "Nisam, naravno, otkrio „toplu vodu“, ali to je tako.",
+          "russian": "Я, конечно, Америку не открыл, но дела обстоят именно так.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Сербский образ отличается от русского, но прагматика та же: говорящий иронизирует над «открытием» давно известной истины. Ещё более разговорный сербский вариант — otkrivati rupu na saksiji. Особенно полезна готовая формула nisam otkrio toplu vodu — «я Америку не открыл».",
+      "keyword": "topla voda"
     },
     {
       "headword_latin": "otvoriti dušu",
@@ -15937,29 +16069,29 @@
     },
     {
       "headword_latin": "Sve u šesnaest",
-      "type": "izraz",
-      "definition_ru": "вовсю; на полную катушку; изо всех сил",
+      "type": "frazeologizam",
+      "definition_ru": "вовсю; изо всех сил; на полную катушку",
       "synonyms_sr": [
-        "punom parom",
-        "svom snagom",
+        "punom snagom",
         "iz sve snage",
-        "punim intenzitetom"
+        "svojski",
+        "punom parom"
       ],
       "literal_ru": "",
-      "register": "разг., экспр.; усиливает действие: raditi, igrati, spavati, hrkati, grejati sve u šesnaest",
+      "register": "razg., ekspresivno; uz različite radnje: raditi, lagati, spavati, pričati sve u šesnaest",
       "examples": [
         {
-          "serbian_latin": "U to vreme smo sve u šesnaest igrali igricu „Fudbal Menadžer“.",
-          "russian": "В то время мы вовсю играли в «Football Manager».",
-          "source": "Danas, 2021"
+          "serbian_latin": "Tramp laže sve u šesnaest uz pljesak svoje tviter baze.",
+          "russian": "Трамп врёт вовсю под аплодисменты своей аудитории в «Твиттере».",
+          "source": "RTS, 2020"
         },
         {
           "serbian_latin": "Čak mi je jedan kolega, koji odjednom radi seriju za serijom „sve u šesnaest“, rekao...",
-          "russian": "Один коллега, который теперь одну за другой вовсю снимает сериалы, сказал мне...",
+          "russian": "Один коллега, который теперь штампует сериалы один за другим на полную катушку, даже сказал мне…",
           "source": "Danas, 2026"
         }
       ],
-      "note": "Это универсальный разговорный усилитель интенсивности: можно raditi, spavati, igrati, hrkati sve u šesnaest. Точное происхождение выражения не установлено; существуют версии о футболе, музыке и символике числа 16, но надёжного единственного объяснения нет.",
+      "note": "Число šesnaest здесь не имеет прозрачного современного значения: выражение надо запоминать целиком как усилитель интенсивности. Надёжно установленного происхождения нет. Существуют версии о футбольном šesnaesterac, музыкальных шестнадцатых и символике числа 16, но подтверждения ни одна из них не получила.",
       "keyword": "sve u šesnaest"
     },
     {
@@ -16496,6 +16628,33 @@
       ],
       "note": "Сербское выражение практически идеально совпадает с русским «гора родила мышь», но в сербской публицистике употребляется чрезвычайно свободно и часто как готовый итоговый комментарий: Tresla se gora, rodio se miš. Это не обязательно означает полный провал: результат может просто оказаться несоразмерно мал по сравнению с шумом, ожиданиями и обещаниями. Выражение обычно называют narodna umotvorina или narodna poslovica; частые политические переделки показывают его высокую узнаваемость.",
       "keyword": "tresla se gora rodio se miš"
+    },
+    {
+      "headword_latin": "Trla baba lan",
+      "type": "izreka",
+      "definition_ru": "толочь воду в ступе; вести пустую говорильню; заниматься бессмысленным делом",
+      "synonyms_sr": [
+        "mlatiti praznu slamu",
+        "prazna priča",
+        "trućati (razg.)",
+        "pričati bez rezultata"
+      ],
+      "literal_ru": "баба трепала лён",
+      "register": "razg., iron., prezr.; puna forma Trla baba lan, da joj prođe dan",
+      "examples": [
+        {
+          "serbian_latin": "Ne zna se ko je, neko je rekao... Trla baba lan... I sve je to iz „pouzdanih izvora“.",
+          "russian": "Кто именно — неизвестно, кто-то что-то сказал… Пустая болтовня, и всё якобы из «надёжных источников».",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "I, umesto odgovora, dobio: trla baba lan.",
+          "russian": "И вместо ответа получил пустую говорильню.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Полная рифмованная формула Trla baba lan, da joj prođe dan подчёркивает деятельность исключительно ради того, чтобы занять время. Trti lan связано с обработкой льна, но в современном выражении бытовой процесс уже не важен: главное — бессодержательность и отсутствие результата. По смыслу близко к mlatiti praznu slamu, но звучит более пословично и фольклорно.",
+      "keyword": "trla baba lan"
     },
     {
       "headword_latin": "trn u oku",
@@ -17661,30 +17820,27 @@
     {
       "headword_latin": "Vratiti milo za drago",
       "type": "frazeologizam",
-      "definition_ru": "отплатить той же монетой; взять реванш; отплатить за сделанное",
+      "definition_ru": "отплатить той же монетой; ответить тем же; взять реванш",
       "synonyms_sr": [
         "uzvratiti istom merom",
-        "revanširati se",
-        "uzvratiti",
-        "osvetiti se"
+        "vratiti istom merom",
+        "revanširati se"
       ],
-      "literal_ru": "вернуть милое за дорогое",
-      "register": "разг.-нейтр., экспр.; часто об ответном поражении соперника, мести или симметричном ответе",
+      "literal_ru": "",
+      "register": "razg.-publicistički; često o uzvraćanju neprijatnosti, u sportu i o revanšu",
       "examples": [
         {
-          "serbian_latin": "Zverev vratio milo za drago protivniku za njegov pokušaj podvale iz servisa.",
-          "russian": "Зверев отплатил сопернику той же монетой за попытку хитрости на подаче.",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/sport/sampanjac-pomirenja-i-osvete-zverev-vratio-milo-za-drago-protivniku-za-njegov-pokusaj-podvale-iz-servisa-video/"
+          "serbian_latin": "Partizan se dobro namučio sa Cedevita Olimpijom, ali joj je vratio milo za drago.",
+          "russian": "«Партизан» изрядно намучился с «Цедевита Олимпией», но в итоге отплатил ей той же монетой.",
+          "source": "Danas, 2023"
         },
         {
-          "serbian_latin": "Partizan se dobro namučio sa Cedevita Olimpijom, ali joj je vratio milo za drago.",
-          "russian": "«Партизан» изрядно намучился с «Цедевитой Олимпией», но всё-таки взял реванш.",
-          "source": "Danas, 2023",
-          "url": "https://www.danas.rs/sport/partizan-se-dobro-namucio-sa-cedevita-olimpijom-ali-joj-je-vratio-milo-za-drago/"
+          "serbian_latin": "Da li Srbija zbog deportovanih ljudi vraća „milo za drago“?",
+          "russian": "Не платит ли Сербия той же монетой из-за депортированных людей?",
+          "source": "N1 Srbija, 2026"
         }
       ],
-      "note": "Несмотря на слова milo и drago, выражение обычно не связано с чем-то приятным: оно означает ответить человеку тем же, особенно за причинённый вред или прежнее поражение. В спортивной журналистике часто переводится просто как «взять реванш».",
+      "note": "Несмотря на положительно звучащие отдельные слова milo и drago, выражение чаще обозначает ответ за причинённую неприятность: «как вы со мной, так и я с вами». В спортивной речи оценка нейтральнее — «взять реванш». Современное значение хорошо передаётся формулой vratiti istom merom.",
       "keyword": "milo za drago"
     },
     {
