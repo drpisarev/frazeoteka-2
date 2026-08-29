@@ -317,6 +317,35 @@
       "keyword": "baciti ljagu"
     },
     {
+      "headword_latin": "baciti rukavicu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Бросить вызов; открыто предложить соперничество или противостояние.",
+      "synonyms_sr": [
+        "izazvati nekoga",
+        "uputiti izazov",
+        "pozvati na megdan",
+        "otvoreno se suprotstaviti"
+      ],
+      "literal_ru": "Бросить перчатку.",
+      "register": "Нейтральное, публицистическое; часто спортивное или политическое.",
+      "examples": [
+        {
+          "serbian_latin": "Akt TOK-a je bačena rukavica predsedniku Republike.",
+          "russian": "Акт TOK — это вызов, брошенный президенту Республики.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/milos-jankovic-akt-tok-a-je-bacena-rukavica-predsedniku-republike/"
+        },
+        {
+          "serbian_latin": "Čeferin bacio rukavicu Infantinu.",
+          "russian": "Чеферин бросил вызов Инфантино.",
+          "source": "Sportski žurnal, 2026",
+          "url": "https://zurnal.politika.rs/sr/clanak/254513/fudbal/sirom-planete/ceferin-bacio-rukavicu-infantinu"
+        }
+      ],
+      "note": "Лицо, которому бросают вызов, стоит в дательном падеже: baciti rukavicu protivniku, vlasti, predsedniku. Часто употребляется пассивная конструкция rukavica je bačena.",
+      "keyword": "rukavica"
+    },
+    {
       "headword_latin": "baciti rukavicu u lice",
       "type": "глагольный фразеологизм",
       "definition_ru": "Открыто бросить вызов; резко выступить против кого-либо и предложить вступить в борьбу или соперничество.",
@@ -656,6 +685,35 @@
       "keyword": "so; rana"
     },
     {
+      "headword_latin": "biti mač sa dve oštrice",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Одновременно заключать в себе преимущества и опасности; иметь возможные положительные и отрицательные последствия.",
+      "synonyms_sr": [
+        "imati i prednosti i mane",
+        "imati dobre i loše strane",
+        "nositi dvostruki rizik",
+        "biti dvosmisleno rešenje"
+      ],
+      "literal_ru": "Быть мечом с двумя лезвиями.",
+      "register": "Нейтральное, публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Da li je upotreba veštačke inteligencije „mač sa dve oštrice“?",
+          "russian": "Является ли использование искусственного интеллекта палкой о двух концах?",
+          "source": "Euronews Serbia, 2026",
+          "url": "https://www.euronews.rs/srbija/drustvo/225938/vestacka-inteligencija-izazovi-i-bezbednost/vest"
+        },
+        {
+          "serbian_latin": "Odlaganje odluke o izborima — mač sa dve oštrice za vlast.",
+          "russian": "Откладывание решения о выборах — палка о двух концах для власти.",
+          "source": "NIN, 2025",
+          "url": "https://www.nin.rs/politika/vesti/98433/srbija-ulazi-u-izbornu-godinu-odlaganje-odluke-o-izborima-mac-sa-dve-ostrice-za-vlast"
+        }
+      ],
+      "note": "Естественный русский эквивалент — «палка о двух концах». Сербское выражение строится с существительным mač.",
+      "keyword": "mač"
+    },
+    {
       "headword_latin": "Biti mirođija u svakoj čorbi",
       "type": "frazeologizam",
       "definition_ru": "быть в каждой бочке затычкой; быть везде и во всём; всюду успевать отметиться",
@@ -960,31 +1018,33 @@
       "keyword": "svakom loncu poklopac"
     },
     {
-      "headword_latin": "Biti trn u oku",
-      "type": "glagolsko-imenski frazem",
-      "definition_ru": "Быть бельмом на глазу; вызывать сильное раздражение, неприязнь или враждебность.",
+      "headword_latin": "biti trn u oku",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Сильно раздражать кого-либо; быть нежелательным человеком или серьёзной помехой.",
       "synonyms_sr": [
         "smetati nekome",
-        "biti stalna smetnja",
-        "biti predmet netrpeljivosti",
-        "ići nekome na živce"
+        "ići nekome na živce",
+        "biti nekome smetnja",
+        "biti nepoželjan"
       ],
-      "literal_ru": "Быть шипом в глазу.",
-      "register": "razgovorno; publicistički; ekspresivno",
+      "literal_ru": "Быть занозой в глазу.",
+      "register": "Разговорное, экспрессивное; часто публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Trn u oku bi mogao da bude svaki investitor čiji biznis plan nije po volji vlasti.",
-          "russian": "Бельмом на глазу может стать любой инвестор, чей бизнес-план не устраивает власть.",
-          "source": "N1, 2023"
+          "serbian_latin": "Trn u oku im bio škaljarac hapšen u Durmitoru.",
+          "russian": "Задержанный в «Дурмиторе» член шкалярского клана был для них словно бельмо на глазу.",
+          "source": "Nova.rs, 2024",
+          "url": "https://nova.rs/vesti/hronika/trn-u-oku-im-bio-skaljarac-hapsen-u-durmitoru-hteli-da-ga-ubiju-u-poznatom-kaficu-na-vracaru-a-evo-sta-je-on-pricao-u-tuzilastvu/"
         },
         {
-          "serbian_latin": "Zastave Hamasa praznik za oči, srpske zastave — trn u oku.",
-          "russian": "Флаги ХАМАС — услада для глаз, а сербские флаги — бельмо на глазу.",
-          "source": "Politika, 2025"
+          "serbian_latin": "Vučić im je trn u oku.",
+          "russian": "Вучич для них как бельмо на глазу.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/vesti/politika/9949403/ilija-kajtez-nacin-na-koji-se-srbija-razvija-njima-je-neprihvatljiv-vucic-im-je-trn-u-oku-dok-srb"
         }
       ],
-      "note": "Тот, кому что-либо мешает, может обозначаться дательным падежом — biti nekome trn u oku — или определением при слове oko: trn u oku vlastima, režimu, konkurenciji.",
-      "keyword": "trn; oko"
+      "note": "Лицо, которому кто-либо мешает, выражается дательным падежом: biti meni, njima, vlastima trn u oku.",
+      "keyword": "trn"
     },
     {
       "headword_latin": "Biti u bedaku",
@@ -1602,60 +1662,62 @@
       "keyword": "ruke"
     },
     {
-      "headword_latin": "Dati vetar u leđa",
-      "type": "glagolski frazem",
-      "definition_ru": "Поддержать; придать сил, уверенности или дополнительный импульс; помочь кому-либо двигаться вперёд.",
+      "headword_latin": "dati vetar u leđa",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Поддержать; ободрить; придать дополнительные силы или ускорение.",
       "synonyms_sr": [
         "pružiti podršku",
-        "dati podsticaj",
         "ohrabriti",
-        "dati krila",
-        "pomoći nekome da napreduje"
+        "podstaći",
+        "dati dodatni zamah"
       ],
       "literal_ru": "Дать ветер в спину.",
-      "register": "neutralno, slikovito; često publicistički",
+      "register": "Разговорное, одобрительное; часто публицистическое.",
       "examples": [
         {
-          "serbian_latin": "„Nova“ piše: Kako je režim dao novi vetar u leđa protestima.",
-          "russian": "«Nova» пишет о том, как режим придал протестам новый импульс.",
-          "source": "Nova, 2025"
+          "serbian_latin": "Dobili smo vetar u leđa da nastavimo ovo što radimo.",
+          "russian": "Мы получили поддержку и дополнительный стимул продолжать то, что делаем.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/student-pravnog-za-n1-bile-su-pomesane-emocije-ali-dobili-smo-vetar-u-ledja-da-nastavimo-ovo-sto-radimo/"
         },
         {
-          "serbian_latin": "Nova humanitarna akcija srpskog šampiona i Fondacije Mozzart dala je krila malom Dušanu, ali i jak vetar u leđa Fondaciji „Jedro“.",
-          "russian": "Новая благотворительная акция сербского чемпиона и фонда Mozzart окрылила маленького Душана, а фонду «Jedro» придала мощный импульс.",
-          "source": "N1, 2025"
+          "serbian_latin": "Novi vetar u leđa Srbiji?",
+          "russian": "Новый попутный ветер для Сербии?",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/politika/srbija-dobija-vetar-u-ledja-na-eu-putu-varsava-pokrece-inicijativu-sledeca-stanica/kbgmvrq"
         }
       ],
-      "note": "Получатель поддержки обычно выражается дательным падежом: dati nekome vetar u leđa. Встречаются также конструкции pružiti vetar u leđa и самостоятельно употребляемое vetar u leđa.",
-      "keyword": "vetar; leđa"
+      "note": "Возможны обе конструкции: dati nekome vetar u leđa и dobiti vetar u leđa. Поддержка может быть моральной, политической, финансовой или организационной.",
+      "keyword": "vetar"
     },
     {
-      "headword_latin": "Dati zeleno svetlo",
-      "type": "glagolski frazem",
-      "definition_ru": "Дать разрешение или официальное одобрение; позволить начать или продолжить действие.",
+      "headword_latin": "dati zeleno svetlo",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Одобрить; разрешить; позволить начать осуществление чего-либо.",
       "synonyms_sr": [
-        "dati odobrenje",
         "odobriti",
-        "dozvoliti",
+        "dati dozvolu",
         "dati saglasnost",
-        "otvoriti put"
+        "dopustiti početak"
       ],
       "literal_ru": "Дать зелёный свет.",
-      "register": "neutralno; često poslovno i publicistički",
+      "register": "Нейтральное, разговорное и публицистическое.",
       "examples": [
         {
-          "serbian_latin": "MMF dao „zeleno svetlo“ Srbiji: Uspešno završena druga revizija ekonomskog programa.",
-          "russian": "МВФ дал Сербии зелёный свет: вторая проверка экономической программы успешно завершена.",
-          "source": "UNA, 2025"
+          "serbian_latin": "Verujemo u vas, imate zeleno svetlo.",
+          "russian": "Мы вам доверяем, у вас есть зелёный свет.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5783503/oko-magazin-politika-na-otvorenom--ulica-ima-dva-kraja.html"
         },
         {
-          "serbian_latin": "Da li Srbija dobija zeleno svetlo za otvaranje klastera 3 u pregovorima sa Evropskom unijom, znaćemo ove nedelje.",
-          "russian": "Получит ли Сербия зелёный свет на открытие кластера 3 в переговорах с Европейским союзом, станет известно на этой неделе.",
-          "source": "Danas, 2025"
+          "serbian_latin": "NIS čeka „zeleno svetlo“ iz Vašingtona.",
+          "russian": "NIS ждёт зелёного света из Вашингтона.",
+          "source": "RTV, 2025",
+          "url": "https://rtv.rs/sr_lat/politika/nis-ceka-zeleno-svetlo-iz-vasingtona-madjarska-povecava-isporuke-derivata-srbiji_1674298.html"
         }
       ],
-      "note": "Разрешённое действие обычно вводится предлогом za: dati zeleno svetlo za projekat, pregovore, izgradnju. Получатель разрешения может стоять в дательном падеже.",
-      "keyword": "zeleno svetlo"
+      "note": "Распространены сочетания dati, dobiti, imati и čekati zeleno svetlo. Выражение обычно обозначает официальное или неофициальное разрешение.",
+      "keyword": "svetlo"
     },
     {
       "headword_latin": "Debeo kao svinja",
@@ -2252,32 +2314,32 @@
     },
     {
       "headword_latin": "držati konce u rukama",
-      "type": "glagolski frazem",
-      "definition_ru": "держать всё в своих руках; контролировать происходящее; руководить ситуацией",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Держать всё под контролем; руководить происходящим; принимать ключевые решения.",
       "synonyms_sr": [
         "imati kontrolu",
         "upravljati situacijom",
         "voditi glavnu reč",
-        "pitati se za sve"
+        "vući konce"
       ],
-      "literal_ru": "держать нити в руках",
-      "register": "neutralno ili publicistički",
+      "literal_ru": "Держать нити в руках.",
+      "register": "Разговорное, публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Rusija drži konce u svojim rukama.",
-          "russian": "Россия держит все нити в своих руках.",
-          "source": "Jezikofil, 2023",
-          "url": "https://jezikofil.rs/ko-drzi-karte-a-ko-konce-u-svojim-rukama-i-sta-nam-to-znaci/"
+          "serbian_latin": "Iako vlast pokušava da predstavi da sve konce drži u svojim rukama, izvesno je da će mnoštvo problema preneti u Novu godinu.",
+          "russian": "Хотя власть пытается показать, что держит все нити в своих руках, очевидно, что множество проблем перейдёт и в новый год.",
+          "source": "Nova.rs, 2026",
+          "url": "https://nova.rs/vesti/politika/godina-najvece-krize-sankcija-i-sunovrata-vuciceve-politike-svi-problemi-koje-vlast-prenosi-u-2026-godinu/"
         },
         {
           "serbian_latin": "Putin već drži konce u svojim rukama.",
-          "russian": "Путин уже держит всё в своих руках.",
-          "source": "Objektivno, 2026",
+          "russian": "Путин уже держит все нити в своих руках.",
+          "source": "Objektivno.net, 2026",
           "url": "https://objektivno.net/spektar/putin-vec-drzi-konce-u-svojim-rukama/"
         }
       ],
-      "note": "Вариант preuzeti konce u svoje ruke означает взять управление или контроль на себя.",
-      "keyword": "konci"
+      "note": "Часто употребляется расширенная форма držati sve konce u svojim rukama. Выражение может обозначать как открытое руководство, так и скрытое управление происходящим.",
+      "keyword": "konac"
     },
     {
       "headword_latin": "držati konce u svojim rukama",
@@ -5832,6 +5894,35 @@
       "keyword": "cedilo"
     },
     {
+      "headword_latin": "ostaviti nekoga na cedilu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Бросить кого-либо в трудной ситуации; подвести, не оказав обещанной или необходимой помощи.",
+      "synonyms_sr": [
+        "napustiti nekoga",
+        "izneveriti nekoga",
+        "uskratiti pomoć",
+        "prepustiti nekoga samom sebi"
+      ],
+      "literal_ru": "Оставить кого-либо на цедиле, то есть на приспособлении для процеживания.",
+      "register": "Разговорное, неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Kako žive porodice koje su svi ostavili na cedilu?",
+          "russian": "Как живут семьи, которых все бросили на произвол судьбы?",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/zbog-pozara-bez-krova-nad-glavom-usred-zime-kako-zive-porodice-koje-su-svi-ostavili-na-cedilu/"
+        },
+        {
+          "serbian_latin": "Lalovića država ostavila na cedilu.",
+          "russian": "Государство бросило Лаловича в беде.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/vesti/drustvo/lalovica-drzava-ostavila-na-cedilu/"
+        }
+      ],
+      "note": "Прямое дополнение обозначает оставленного без помощи человека: ostaviti prijatelja, porodicu, građane na cedilu.",
+      "keyword": "cedilo"
+    },
+    {
       "headword_latin": "Osveta",
       "type": "imenica",
       "definition_ru": "месть; возмездие",
@@ -6683,32 +6774,61 @@
       "keyword": "crta"
     },
     {
+      "headword_latin": "pogledati istini u oči",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Признать неприятную правду; перестать избегать действительности; трезво оценить положение.",
+      "synonyms_sr": [
+        "suočiti se sa istinom",
+        "prihvatiti činjenice",
+        "priznati stvarnost",
+        "ne bežati od istine"
+      ],
+      "literal_ru": "Посмотреть правде в глаза.",
+      "register": "Нейтральное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Pogledajmo istini u oči, Srbija je priznala Kosovo.",
+          "russian": "Посмотрим правде в глаза: Сербия признала Косово.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/politika/slobodan-georgiev-kosovo/"
+        },
+        {
+          "serbian_latin": "Tanja Savić pogledala istini u oči: „Ovo je najveće postignuće.“",
+          "russian": "Таня Савич посмотрела правде в глаза: «Это самое большое достижение».",
+          "source": "Grand Online, 2023",
+          "url": "https://grand.nova.rs/showbiz/tanja-savic-pogledala-istini-u-oci-ovo-je-najvece-postignuce/"
+        }
+      ],
+      "note": "Употребляются формы разных видов и времён: gledati istini u oči, pogledati istini u oči, morati pogledati istini u oči.",
+      "keyword": "istina"
+    },
+    {
       "headword_latin": "pokazati zube",
       "type": "глагольный фразеологизм",
-      "definition_ru": "Показать зубы; проявить силу, решительность или способность сопротивляться.",
+      "definition_ru": "Оказать сопротивление; продемонстрировать силу и готовность защищать свои интересы.",
       "synonyms_sr": [
-        "pokazati snagu",
         "pružiti otpor",
-        "zauzeti čvrst stav",
+        "suprotstaviti se",
+        "pokazati snagu",
         "ne dati na sebe"
       ],
       "literal_ru": "Показать зубы.",
-      "register": "Разговорное, экспрессивное; часто спортивное и публицистическое.",
+      "register": "Разговорное, экспрессивное; часто спортивное.",
       "examples": [
         {
-          "serbian_latin": "Čukarički pokazao zube protiv OFK Beograda.",
-          "russian": "«Чукарички» показал характер в матче против ОФК «Белград».",
-          "source": "Telegraf, 2026",
-          "url": "https://www.telegraf.rs/sport/fudbal/4379046-superliga-srbije-ima-novog-lidera-cukaricki-pokazao-zube-protiv-ofk-beograda-u-gradskom-derbiju"
+          "serbian_latin": "Pokazali smo zube, ali ih nismo ujeli.",
+          "russian": "Мы показали зубы, но так и не укусили.",
+          "source": "Sportal, 2025",
+          "url": "https://sportal.blic.rs/prica/veljko-paunovic-posle-poraza-od-engleske-pokazali-smo-zube-ali-ih-nismo-ujeli-2025111321184978444"
         },
         {
-          "serbian_latin": "Pokazao zube!",
-          "russian": "Он показал зубы!",
-          "source": "Pink, 2026",
-          "url": "https://pink.rs/zadruga/796838/pokazao-zube-aneli-zavrsila-u-suzama-jer-joj-ne-veruju-u-pricu-iz-steka-dukic-odbrusio-staniji-o-sto-si-ti-isla-sa-kristijanom-tamo-gde-nema-kamera"
+          "serbian_latin": "Voša opet slavila! Zukić ponovo strelac, Radnik pokazao zube.",
+          "russian": "«Войводина» снова победила! Зукич опять забил, а «Радник» оказал серьёзное сопротивление.",
+          "source": "Sportissimo, 2026",
+          "url": "https://sportissimo.republika.rs/fudbal/superliga/102535/vojvodina-radnik-superliga-srbije"
         }
       ],
-      "note": "Выражение может обозначать как успешное сопротивление сильному противнику, так и неожиданно жёсткую реакцию человека, которого считали уступчивым.",
+      "note": "Выражение не обязательно означает победу. Оно может обозначать лишь сильное сопротивление или предупреждение противнику.",
       "keyword": "zub"
     },
     {
@@ -9617,30 +9737,30 @@
     {
       "headword_latin": "zakopati ratne sekire",
       "type": "глагольный фразеологизм",
-      "definition_ru": "Зарыть топор войны; прекратить вражду и восстановить отношения.",
+      "definition_ru": "Прекратить вражду; примириться; оставить прежний конфликт в прошлом.",
       "synonyms_sr": [
         "pomiriti se",
-        "okončati sukob",
-        "izgladiti nesuglasice",
-        "pružiti ruku pomirenja"
+        "izgladiti sukob",
+        "okončati svađu",
+        "ostaviti sukob iza sebe"
       ],
       "literal_ru": "Закопать боевые топоры.",
-      "register": "Нейтральное или публицистическое; образное.",
+      "register": "Разговорное, публицистическое.",
       "examples": [
         {
-          "serbian_latin": "Tanja Savić i Jovana Jeremić zakopale ratne sekire.",
-          "russian": "Таня Савич и Йована Еремич зарыли топор войны.",
-          "source": "Telegraf, 2024",
-          "url": "https://www.telegraf.rs/jetset/vesti-jetset/3998486-tanja-savic-i-jovana-jeremic-zakopale-ratne-sekire-u-uzivo-programu-doci-cu-na-koncert-sa-draganom"
+          "serbian_latin": "Mogu li Moskva i Kijev da zakopaju ratne sekire?",
+          "russian": "Смогут ли Москва и Киев зарыть топор войны?",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/planeta/10072231/analiza-moguci-scenariji-za-kraj-rata-u-ukrajini-do-2026-godine"
         },
         {
-          "serbian_latin": "Tramp i Mask zakopali ratne sekire?",
-          "russian": "Трамп и Маск зарыли топор войны?",
-          "source": "Srbija Danas, 2025",
-          "url": "https://www.sd.rs/vesti/svet/zakopali-ratne-sekire-tramp-i-mask-zajedno-na-komemoraciji-carlija-kirka-2025-09-21"
+          "serbian_latin": "Čabarkapa i Karađorđe zakopali ratne sekire.",
+          "russian": "Чабаркапа и Караджордже прекратили вражду.",
+          "source": "Telegraf, 2019",
+          "url": "https://www.telegraf.rs/jetset/zadruga/3102195-palo-pomirenje-cabarkapa-i-karadjordje-zakopali-ratne-sekire-zajedno-se-svete-ljubi-foto"
         }
       ],
-      "note": "Означает завершение открытого конфликта и восстановление отношений. Вопросительная форма в заголовках часто выражает сомнение в том, что примирение окончательное.",
+      "note": "Выражение может относиться как к личной ссоре, так и к политическому, деловому или международному конфликту.",
       "keyword": "sekira"
     },
     {
