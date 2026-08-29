@@ -2399,6 +2399,32 @@
       "keyword": "kao oči u glavi"
     },
     {
+      "headword_latin": "Čuvati kao oči u glavi",
+      "type": "frazeologizam",
+      "definition_ru": "беречь как зеницу ока; чрезвычайно бережно хранить",
+      "synonyms_sr": [
+        "brižljivo čuvati",
+        "paziti kao najveću dragocenost",
+        "čuvati kao oko u glavi"
+      ],
+      "literal_ru": "беречь как глаза в голове",
+      "register": "ekspresivno; čuvati nekoga / nešto kao oči u glavi",
+      "examples": [
+        {
+          "serbian_latin": "Mislim da koaliciju treba čuvati kao oči u glavi.",
+          "russian": "Я считаю, что коалицию нужно беречь как зеницу ока.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Imamo naslednike koji izražavaju spremnost da ove slike čuvaju kao oči u glavi.",
+          "russian": "У нас есть наследники, готовые беречь эти картины как зеницу ока.",
+          "source": "Politika, 2006"
+        }
+      ],
+      "note": "Русский эквивалент «беречь как зеницу ока» стилистически несколько возвышеннее, тогда как сербское kao oči u glavi вполне естественно и в обычной речи. Встречается и вариант единственного числа kao oko u glavi; оба хорошо понятны и употребительны.",
+      "keyword": "oči u glavi"
+    },
+    {
       "headword_latin": "Čuvati nekome leđa",
       "type": "frazeologizam",
       "definition_ru": "прикрывать кого-то; быть надёжной опорой; поддерживать и защищать",
@@ -6038,6 +6064,32 @@
       "keyword": "ispod žita"
     },
     {
+      "headword_latin": "Ispravljati krive Drine",
+      "type": "frazeologizam",
+      "definition_ru": "заниматься почти неисправимым; пытаться выправить укоренившийся беспорядок; исправлять мир",
+      "synonyms_sr": [
+        "popravljati nepopravljivo",
+        "uzaludno popravljati",
+        "boriti se s ukorenjenim problemima"
+      ],
+      "literal_ru": "выпрямлять кривые Дрины",
+      "register": "razg.-publicistički, često iron.; može označavati uzaludnost ili principijelnu upornost",
+      "examples": [
+        {
+          "serbian_latin": "Insistiranje na pravim izvorima bilo bi kao ispravljanje krive Drine.",
+          "russian": "Настаивать на правильных источниках было бы всё равно что пытаться выпрямить Дрину.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Treba ispravljati „krive Drine“, koje će se ovim povodom dodatno iskriviti.",
+          "russian": "Придётся исправлять «кривые Дрины», которые из-за этого станут ещё кривее.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Образ основан на извилистой Дрине: буквально выпрямить реку невозможно или бессмысленно. Поэтому выражение часто означает попытки исправить то, что глубоко укоренилось и сопротивляется исправлению. Известная формула Иво Андрича о том, что все Дрины кривы и их всё же надо исправлять, дополнительно закрепила этот образ, но само выражение живёт как народно-публицистическое.",
+      "keyword": "krive Drine"
+    },
+    {
       "headword_latin": "Ispravljati krivu Drinu",
       "type": "frazeologizam",
       "definition_ru": "пытаться исправить неисправимое; тратить силы на бесплодное исправление укоренившегося порядка",
@@ -6697,6 +6749,32 @@
       ],
       "note": "Это не обещание далёкого будущего, а выразительное «никогда»: ива не плодоносит виноградом. В живой речи встречается шуточная рифмованная переделка kad na vrbi zasvrbi, особенно в интернете. Надёжно установленной конкретной истории происхождения выражения нет; рассказы о человеке, будто бы пытавшемся вырастить виноград на иве, следует воспринимать как поздний фольклор, а не доказанную этимологию.",
       "keyword": "kad na vrbi rodi grožđe"
+    },
+    {
+      "headword_latin": "Kadija te tuži, kadija ti sudi",
+      "type": "izreka",
+      "definition_ru": "обвинитель сам и судья; искать справедливости не у кого; всё решает одна и та же сторона",
+      "synonyms_sr": [
+        "isti tuži i presuđuje",
+        "nema nepristrasnog arbitra",
+        "sve je u istim rukama"
+      ],
+      "literal_ru": "кадий тебя обвиняет, кадий тебя и судит",
+      "register": "izreka, neodobr.; o sukobu interesa i odsustvu nezavisne kontrole",
+      "examples": [
+        {
+          "serbian_latin": "Pa da vidimo sad šta se dešava, a ne da bude kadija te tuži kadija ti sudi.",
+          "russian": "Давайте разберёмся, что происходит, а не так, чтобы обвинитель сам себе был судьёй.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "„Kadija te tuži, kadija ti sudi.“",
+          "russian": "«Сам обвиняет — сам и судит».",
+          "source": "N1 Srbija, 2026"
+        }
+      ],
+      "note": "Kadija — судья в Османской империи; слово историческое, но сама поговорка совершенно живая. Она описывает систему, где орган или человек одновременно заинтересован в исходе дела и принимает окончательное решение. По-русски функционально близки «сам себе судья» и «куда жаловаться, если судья и есть обвинитель», но точного устойчивого эквивалента нет.",
+      "keyword": "kadija"
     },
     {
       "headword_latin": "Kamen oko vrata",
@@ -9629,29 +9707,28 @@
     {
       "headword_latin": "Ni za lek",
       "type": "frazeologizam",
-      "definition_ru": "совсем нет; не сыскать; хоть бы капельку / хоть бы одного",
+      "definition_ru": "совсем нет; хоть шаром покати; не достать ни капли / ни штуки",
       "synonyms_sr": [
-        "nema uopšte",
+        "nema ni malo",
+        "nema nigde",
         "nema ni traga",
-        "ne može se naći"
+        "potpuna nestašica"
       ],
-      "literal_ru": "нет даже на лекарство",
-      "register": "разг., экспр.; обычно в конструкции nema nečega ni za lek — чего-то практически невозможно найти",
+      "literal_ru": "даже на лекарство нет",
+      "register": "razg., ekspresivno; najčešće nema nečega ni za lek",
       "examples": [
         {
-          "serbian_latin": "Nemamo roda i nemamo sveže šljive, što kaže naš narod, ni za lek.",
-          "russian": "Урожая нет, свежей сливы, как говорят в народе, вообще не найти.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/vesti/ekonomija/2850069/u-blacu-sljive-ni-za-lek.html"
+          "serbian_latin": "Praktično nemamo roda i nemamo sveže šljive, što kaže naš narod, ni za lek.",
+          "russian": "Урожая практически нет, свежей сливы — хоть шаром покати.",
+          "source": "RTS, 2017"
         },
         {
-          "serbian_latin": "Gljiva ni za lek, a svi imaju naknadnu pamet.",
-          "russian": "Грибов теперь вообще не сыскать, зато все задним числом стали умными.",
-          "source": "Danas, 2022",
-          "url": "https://www.danas.rs/vesti/drustvo/reporterka-danasa-na-sabackoj-pijaci-posle-trovanja-gradjana-pecurkama-gljiva-ni-za-lek-a-svi-imaju-naknadnu-pamet/"
+          "serbian_latin": "U Srbiji nema dovoljno doktora, pa ni lekara opšte prakse – „ni za lek“.",
+          "russian": "В Сербии не хватает врачей, а врачей общей практики вообще днём с огнём не сыщешь.",
+          "source": "BBC na srpskom / Danas, 2024"
         }
       ],
-      "note": "Ni za lek обозначает полное или почти полное отсутствие чего-либо. Слово lek здесь не означает, что речь обязательно идёт о лекарствах: можно сказать nema šljive ni za lek, majstora ni za lek, mesta ni za lek. Для русского естественнее переводить по контексту: «не сыскать», «совсем нет», «хоть бы один».",
+      "note": "Изначальный образ прозрачен: чего-то настолько мало, что не хватит даже на крошечное количество для лекарства. Сегодня оборот употребляется практически с любым дефицитным предметом или человеком: šljive ni za lek, zavarivača ni za lek, lekara ni za lek. Особенно типична конструкция с родительным: nema X ni za lek.",
       "keyword": "ni za lek"
     },
     {
@@ -10061,30 +10138,28 @@
     {
       "headword_latin": "Od nemila do nedraga",
       "type": "frazeologizam",
-      "definition_ru": "скитаться по свету; мыкаться; переходить с места на место без пристанища",
+      "definition_ru": "мыкаться по свету; скитаться с места на место; ходить по мытарствам",
       "synonyms_sr": [
         "lutati",
+        "tumarati",
         "potucati se",
-        "vucarati se",
-        "ići od jednog do drugog"
+        "ići od jednog do drugog bez uspeha"
       ],
       "literal_ru": "",
-      "register": "разг.-литер., экспр.; обычно о вынужденных, долгих и неприятных скитаниях",
+      "register": "ekspresivno, tradicionalno; često ići / lutati / vući se od nemila do nedraga",
       "examples": [
         {
           "serbian_latin": "Guzeljao je Danojlić, išao od nemila do nedraga, bog sami zna gde nije stizao.",
-          "russian": "Данойлич скитался с места на место, бог знает где только не побывал.",
-          "source": "Danas, 2010",
-          "url": "https://www.danas.rs/kolumna/svetislav-basara/danojlic-poeta-serbski/"
+          "russian": "Данойлич мыкался с места на место, одному Богу известно, где только не побывал.",
+          "source": "Danas, 2010"
         },
         {
-          "serbian_latin": "Ona je pobegla od kuće, vucarala se od nemila do nedraga, naivna i čedna.",
-          "russian": "Она сбежала из дома и скиталась где придётся, наивная и чистая.",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/kolumna/nina-savcic/felisijin-izbor/"
+          "serbian_latin": "Smucanje od nemila do nedraga u nameri da nađeš gazdu [...] neće ti izdobriti.",
+          "russian": "Метания от одного к другому в поисках хозяина тебе не помогут.",
+          "source": "N1 Srbija, 2026"
         }
       ],
-      "note": "Выражение не означает просто туристическое «ездить с места на место»: обычно в нём есть оттенок бесприютности, вынужденности, поиска помощи или своего места. Часто сочетается с lutati, ići, vucarati se. По-русски особенно хорошо подходят «мыкаться» и «скитаться по свету».",
+      "note": "Слова nemio «немилый» и nedrag «недорогой, нелюбимый» отдельно понятны, но сочетание давно воспринимается как целая формула. Обычно речь о вынужденных скитаниях, поисках помощи, жилья, работы или решения проблемы. Русскому чаще нужны «мыкаться», «ходить по мытарствам», «скитаться от одного к другому».",
       "keyword": "od nemila do nedraga"
     },
     {
@@ -10209,31 +10284,29 @@
     {
       "headword_latin": "Okrenuti ćurak naopako",
       "type": "frazeologizam",
-      "definition_ru": "переобуться на ходу; резко сменить позицию; переметнуться на другую сторону",
+      "definition_ru": "резко переметнуться; поменять убеждения; переобуться",
       "synonyms_sr": [
         "promeniti stranu",
         "promeniti stav",
-        "preokrenuti priču",
-        "prikloniti se drugoj strani"
+        "okrenuti ploču",
+        "preleteti (razg.)"
       ],
       "literal_ru": "вывернуть тулуп наизнанку",
-      "register": "разг., экспр., неодобр.; особенно о политической или принципиальной позиции, изменённой из выгоды или конъюнктуры",
+      "register": "razg., neodobr.; najčešće o političkoj ili principijelnoj promeni stava",
       "examples": [
         {
-          "serbian_latin": "Skandalozno je reći pre izbora da ste protiv sankcija, a posle izbora okrenuti ćurak naopako.",
-          "russian": "Скандально перед выборами выступать против санкций, а после выборов резко переобуться.",
-          "source": "Danas, 2022",
-          "url": "https://www.danas.rs/vesti/politika/jeremic-rezolucija-o-sankcijama-rusiji-je-vucicevo-kukavicje-jaje-za-opoziciju/"
+          "serbian_latin": "Urednik će ubrzo okrenuti ćurak naopako.",
+          "russian": "Редактор вскоре резко поменяет свои взгляды.",
+          "source": "Danas, 2010"
         },
         {
-          "serbian_latin": "Nipošto nije izvesno hoće li opet... okrenuti ćurak naopako i jurnuti u zagrljaj majčice Rosije.",
-          "russian": "Совсем не ясно, не переменит ли она снова позицию и не бросится ли в объятия матушки России.",
-          "source": "Danas, 2010",
-          "url": "https://www.danas.rs/kolumna/svetislav-basara/predvodnici/"
+          "serbian_latin": "Nipošto nije izvesno hoće li opet [...] okrenuti ćurak naopako.",
+          "russian": "Совсем не очевидно, не переобуется ли она снова.",
+          "source": "Danas, 2010"
         }
       ],
-      "note": "Главное значение — не просто «передумать», а демонстративно поменять сторону или прежнюю позицию, часто из расчёта. Поэтому выражение почти всегда неодобрительное. В современной речи ćurak вне этого фразеологизма встречается значительно реже.",
-      "keyword": "okrenuti ćurak naopako"
+      "note": "Ćurak — старинная меховая верхняя одежда; сербские лексикографические материалы прямо фиксируют okrenuti ćurak naopako в значении «изменить взгляды, позицию, поведение». Русское разговорное «переобуться» сегодня очень близко по оценке, хотя сербский образ старше и связан с одеждой буквально.",
+      "keyword": "ćurak naopako"
     },
     {
       "headword_latin": "Okrenuti leđa nekome / nečemu",
@@ -10555,31 +10628,29 @@
     {
       "headword_latin": "Ostati kratkih rukava",
       "type": "frazeologizam",
-      "definition_ru": "остаться ни с чем; остаться в проигрыше; недополучить то, на что рассчитывал",
+      "definition_ru": "остаться ни с чем; ничего не получить; оказаться обойдённым",
       "synonyms_sr": [
         "ostati bez ičega",
-        "biti uskraćen",
-        "izvući deblji kraj",
-        "loše proći"
+        "ne dobiti ništa",
+        "izvisiti (razg.)",
+        "ostati praznih šaka"
       ],
       "literal_ru": "остаться с короткими рукавами",
-      "register": "разг., экспр.; о человеке или группе, которые ожидали выгоду, деньги, должность или долю, но не получили их",
+      "register": "razg.-neutralno; često o novcu, nagradi, funkciji, pobedi ili očekivanoj koristi",
       "examples": [
         {
-          "serbian_latin": "To znači da će neki ostati kratkih rukava u podeli karata i u podeli nafte koja postoji na svetskom tržištu.",
-          "russian": "Это значит, что при разделе карт и нефти на мировом рынке кто-то останется ни с чем.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/vesti/ekonomija/5929657/.html?print=true"
+          "serbian_latin": "Crvena zvezda će možda završiti prvenstvo bez poraza i – ostati „kratkih rukava“, odnosno bez titule prvaka Srbije.",
+          "russian": "«Црвена звезда» может закончить чемпионат без поражений и всё равно остаться ни с чем — без титула.",
+          "source": "Danas, 2008"
         },
         {
-          "serbian_latin": "Nisu nezavisne institucije jedine koje će dogodine ostati kratkih rukava.",
-          "russian": "Независимые институты — не единственные, кто в следующем году останется ни с чем.",
-          "source": "Politika, 2017",
-          "url": "https://www.politika.rs/sr/clanak/392598/nema-povecanja-plata-za-nezavisne-institucije"
+          "serbian_latin": "Oni [...] koji će ostati kratkih rukava i čiji život će se iz korena promeniti.",
+          "russian": "Те, кто останется ни с чем и чья жизнь радикально изменится.",
+          "source": "RTS, 2026"
         }
       ],
-      "note": "Выражение не связано с одеждой в современном восприятии. Оно означает, что человек оказался обделённым, проиграл распределение или не получил обещанного. Русское «остаться с носом» иногда подходит, но чаще естественнее «остаться ни с чем».",
-      "keyword": "ostati kratkih rukava"
+      "note": "Значение целиком переносное: длина рукавов здесь не описывается. Обычно кто-то рассчитывал получить долю, выгоду, победу или должность, но в итоге ничего не получил. Русские «остаться с носом», «остаться у разбитого корыта» возможны, но часто эмоционально сильнее сербского выражения.",
+      "keyword": "kratkih rukava"
     },
     {
       "headword_latin": "ostaviti nekoga bez daha",
@@ -12383,6 +12454,32 @@
       ],
       "note": "Это библейский фразеологизм, связанный с евангельским рассказом о Понтии Пилате, который символически омыл руки, снимая с себя ответственность за решение о судьбе Христа. Такое происхождение прямо отмечается в сербской лингвистической публицистике. Для русского соответствие «умыть руки» почти полное.",
       "keyword": "prati ruke"
+    },
+    {
+      "headword_latin": "Praviti / napraviti račun bez krčmara",
+      "type": "frazeologizam",
+      "definition_ru": "делить шкуру неубитого медведя; строить планы без того, от кого всё зависит; преждевременно всё решить",
+      "synonyms_sr": [
+        "računati bez ključnog učesnika",
+        "unapred odlučivati",
+        "praviti plan bez saglasnosti onoga koga se tiče"
+      ],
+      "literal_ru": "составлять счёт без трактирщика",
+      "register": "razg.-publicistički, neodobr.; često praviti račun bez krčmara",
+      "examples": [
+        {
+          "serbian_latin": "Bojim se da se pravi račun bez krčmara.",
+          "russian": "Боюсь, что тут всё решили без того, от кого на самом деле зависит решение.",
+          "source": "N1 Srbija, 2025"
+        },
+        {
+          "serbian_latin": "Međutim, i tu je napravio račun bez krčmara.",
+          "russian": "Но и здесь он заранее всё рассчитал, не учтя решающую сторону.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Образ немного отличается от русского «делить шкуру неубитого медведя». В сербском особенно важно, что krčmar — хозяин заведения, который в итоге предъявляет настоящий счёт: нельзя окончательно распорядиться тем, что зависит от отсутствующего решающего участника. Поэтому выражение очень удобно для политики и переговоров.",
+      "keyword": "račun bez krčmara"
     },
     {
       "headword_latin": "Praviti budalu od sebe / nekoga",
@@ -16544,26 +16641,25 @@
       "definition_ru": "с глазу на глаз; один на один; без посторонних",
       "synonyms_sr": [
         "nasamo",
+        "jedan na jedan",
         "bez prisustva drugih",
-        "jedan na jedan"
+        "tet-a-tet"
       ],
       "literal_ru": "в четыре глаза",
-      "register": "разг.-нейтр.; обычно с глаголами razgovarati, sastati se, reći, pitati",
+      "register": "neutralno-razg.; tipično razgovarati / sastati se s nekim u četiri oka",
       "examples": [
         {
-          "serbian_latin": "Najavio je da će sutra razgovarati sa ukrajinskim predsednikom Volodimirom Zelenskim „u četiri oka“.",
-          "russian": "Он сообщил, что завтра поговорит с президентом Украины Владимиром Зеленским с глазу на глаз.",
-          "source": "RTS, 2023",
-          "url": "https://www.rts.rs/lat/vesti/politika/5258790/vucic-sa-zelenskim-u-cetiri-oka-u-atini-verujem-da-cemo-imati-dobar-razgovor.html"
+          "serbian_latin": "Sutra ću [...] imati bilateralni sastanak sa njim, tako da ću sesti i razgovarati sa Zelenskim u četiri oka.",
+          "russian": "Завтра у меня будет двусторонняя встреча с ним, и мы поговорим с Зеленским с глазу на глаз.",
+          "source": "RTS, 2023"
         },
         {
-          "serbian_latin": "Prof. Mićunović izjavio je da je spreman da lično isleđuje, u četiri oka, one koji nameravaju da se vrate.",
-          "russian": "Профессор Мичунович заявил, что готов лично беседовать с глазу на глаз с теми, кто намеревается вернуться.",
-          "source": "Danas, 2018",
-          "url": "https://www.danas.rs/kolumna/nikola-samardzic/u-cetiri-oka/"
+          "serbian_latin": "Vučić i Košta će u 9 sati imati razgovor „u četiri oka“.",
+          "russian": "В девять часов Вучич и Кошта проведут разговор с глазу на глаз.",
+          "source": "Danas, 2026"
         }
       ],
-      "note": "Буквальная структура отличается от русского: по-сербски два собеседника образуют «четыре глаза». Это совершенно обычное выражение и в личной, и в дипломатической речи. Не обязательно означает тайный разговор — только отсутствие третьих лиц.",
+      "note": "Русское «с глазу на глаз» полностью передаёт значение, тогда как буквальное «в четыре глаза» по-русски не употребляется. Сербское выражение особенно часто встречается в дипломатической и политической журналистике: сначала razgovor u četiri oka, затем встреча делегаций в расширенном составе.",
       "keyword": "u četiri oka"
     },
     {
@@ -18361,28 +18457,28 @@
     {
       "headword_latin": "Živeti kao bubreg u loju",
       "type": "frazeologizam",
-      "definition_ru": "жить припеваючи; жить как сыр в масле; прекрасно устроиться",
+      "definition_ru": "жить как сыр в масле; жить припеваючи; ни в чём себе не отказывать",
       "synonyms_sr": [
         "živeti lagodno",
         "živeti bez briga",
-        "dobro živeti",
+        "živeti gospodski",
         "uživati"
       ],
       "literal_ru": "жить как почка в жиру",
-      "register": "разг., экспр., часто ирон.; обычно о материально обеспеченной и комфортной жизни",
+      "register": "razg., ekspresivno, neretko iron.",
       "examples": [
         {
-          "serbian_latin": "Zaklinjemo se Bogu i Vučiću... da ćemo i dalje živeti ko bubreg u loju.",
-          "russian": "Клянёмся Богу и Вучичу... что и дальше будем жить как сыр в масле.",
-          "source": "N1, 2025"
+          "serbian_latin": "Građani ni 2016. godine neće živeti kao bubreg u loju, ali će živeti bolje.",
+          "russian": "В 2016 году граждане ещё не будут жить как сыр в масле, но жить станут лучше.",
+          "source": "RTS, 2014"
         },
         {
-          "serbian_latin": "Građani ni 2016. godine neće živeti kao bubreg u loju, ali će živeti bolje.",
-          "russian": "В 2016 году граждане ещё не будут жить припеваючи, но жить станут лучше.",
-          "source": "Politika, 2014"
+          "serbian_latin": "Daj da izjavimo [...] da živimo svi ko bubreg u loju.",
+          "russian": "Давайте заявим, что все мы тут живём как сыр в масле.",
+          "source": "Danas, 2007"
         }
       ],
-      "note": "Образ связан с тем, что почка окружена жировой тканью, которая служит ей защитой и опорой; отсюда представление о максимально «удобном» положении. В речи выражение нередко ироническое: человек живёт очень комфортно, особенно по сравнению с окружающими.",
+      "note": "Для русского буквальный образ странен, но физиологически вполне мотивирован: почка окружена жировой капсулой, которая её защищает; это объяснение фигурирует и в сербском тесте общей осведомлённости. Русский функциональный эквивалент — «как сыр в масле». Форма ko bubreg u loju — обычное разговорное сокращение от kao.",
       "keyword": "bubreg u loju"
     },
     {
