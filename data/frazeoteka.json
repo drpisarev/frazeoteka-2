@@ -1544,6 +1544,35 @@
       "keyword": "ćorav posao"
     },
     {
+      "headword_latin": "ćutati kao zaliven",
+      "type": "сравнительный фразеологизм",
+      "definition_ru": "Молчать как воды в рот набрав; не произносить ни слова.",
+      "synonyms_sr": [
+        "ne progovarati",
+        "ni reč ne reći",
+        "držati jezik za zubima",
+        "potpuno zaćutati"
+      ],
+      "literal_ru": "Молчать как залитый, запечатанный.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Ćutaće kao zaliveni.",
+          "russian": "Они будут молчать как воды в рот набрав.",
+          "source": "Novosti, 2026",
+          "url": "https://www.novosti.rs/vesti/politika/1631622/cutace-kao-zaliveni-vucic-blokaderima-ako-pobedite-cestitacemo-vam-hocete-pruziti-ruku-ako-vas-pobedimo"
+        },
+        {
+          "serbian_latin": "Zašto se kaže da neko „ćuti kao zaliven“?",
+          "russian": "Почему о человеке говорят, что он молчит как воды в рот набрав?",
+          "source": "Telegraf, 2014",
+          "url": "https://www.telegraf.rs/vesti/1155707-zasto-se-kaze-da-je-neko-pijan-kao-majka-ili-da-cuti-kao-zaliven"
+        }
+      ],
+      "note": "Одно из объяснений связывает оборот с полной формой ćutati kao olovom zaliven — словно рот залит свинцом.",
+      "keyword": "zaliven"
+    },
+    {
       "headword_latin": "Daleko mu lepa kuća",
       "type": "frazeologizam",
       "definition_ru": "скатертью дорога; пусть держится от меня подальше; чем дальше от меня, тем лучше",
@@ -4561,6 +4590,35 @@
       "keyword": "govno"
     },
     {
+      "headword_latin": "ličiti kao jaje jajetu",
+      "type": "сравнительный фразеологизм",
+      "definition_ru": "Быть похожими как две капли воды; практически ничем не отличаться.",
+      "synonyms_sr": [
+        "biti isti",
+        "ličiti kao blizanci",
+        "biti pljunuta slika",
+        "ne moći ih razlikovati"
+      ],
+      "literal_ru": "Быть похожими, как одно яйцо на другое.",
+      "register": "Разговорное, образное.",
+      "examples": [
+        {
+          "serbian_latin": "Kao jaje jajetu! Indira kao Šakira, Bjelac isti Al Paćino.",
+          "russian": "Похожи как две капли воды: Индира — на Шакиру, а Беляц — на Аль Пачино.",
+          "source": "Telegraf, 2022",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/3564335-kao-jaje-jajetu-indira-kao-sakira-bjelac-isti-al-pacino-poznate-licnosti-koje-imaju-blizance-u-holivudu"
+        },
+        {
+          "serbian_latin": "Kao jaje jajetu! Ove poznate ličnosti neverovatno liče.",
+          "russian": "Как две капли воды: эти знаменитости невероятно похожи.",
+          "source": "Informer, 2026",
+          "url": "https://informer.rs/dzet-set/estrada/1139340/poznate-licnosti-dvojnici-pevaci-glumci"
+        }
+      ],
+      "note": "Оборот часто употребляется самостоятельно — kao jaje jajetu — без глагола ličiti.",
+      "keyword": "jaje"
+    },
+    {
       "headword_latin": "Liti krokodilske suze",
       "type": "frazeologizam",
       "definition_ru": "лить крокодиловы слёзы; изображать неискреннее сочувствие; лицемерно сокрушаться",
@@ -5688,6 +5746,35 @@
       "keyword": "odgovarati"
     },
     {
+      "headword_latin": "odrešiti kesu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Раскошелиться; щедро потратиться; выделить крупную сумму.",
+      "synonyms_sr": [
+        "dati mnogo novca",
+        "ne štedeti",
+        "izdvojiti velika sredstva",
+        "duboko zavući ruku u džep"
+      ],
+      "literal_ru": "Развязать кошель, мешок с деньгами.",
+      "register": "Разговорное, экспрессивное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Država odrešila kesu! U agrar stiže 4,5 milijardi dinara, evo kome stiže još više novca.",
+          "russian": "Государство раскошелилось: аграрному сектору выделят 4,5 миллиарда динаров.",
+          "source": "Telegraf Biznis, 2026",
+          "url": "https://biznis.telegraf.rs/info-biz/4359820-drzava-odresila-kesu-u-agrar-stize-45-milijardi-dinara-evo-kome-stize-jos-vise-novca"
+        },
+        {
+          "serbian_latin": "Mančester odrešio kesu, dao 85 miliona za tinejdžera.",
+          "russian": "«Манчестер» раскошелился и заплатил за подростка 85 миллионов.",
+          "source": "Sportski žurnal, 2026",
+          "url": "https://zurnal.politika.rs/sr/clanak/254722/fudbal/velika-petorka/mancester-odresio-kesu-dao-85-miliona-za-tinejdzera"
+        }
+      ],
+      "note": "Обычно подразумевает значительный расход после периода сдержанности или нежелания платить.",
+      "keyword": "kesa"
+    },
+    {
       "headword_latin": "okrenuti / promeniti ploču",
       "type": "фразеологизм",
       "definition_ru": "Резко изменить мнение, позицию, тон или отношение.",
@@ -6407,6 +6494,35 @@
       ],
       "note": "Обычно говорится о планах, надеждах, договорённостях, проектах или попытках, которые не удалось реализовать.",
       "keyword": "voda"
+    },
+    {
+      "headword_latin": "pasti u zaborav",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Быть забытым; кануть в забвение; исчезнуть из общественной памяти.",
+      "synonyms_sr": [
+        "biti zaboravljen",
+        "otići u zaborav",
+        "iščeznuti iz sećanja",
+        "više se ne pominjati"
+      ],
+      "literal_ru": "Упасть в забвение.",
+      "register": "Нейтральное, часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Povratak raseljenih pao u zaborav.",
+          "russian": "Возвращение перемещённых лиц оказалось забыто.",
+          "source": "Politika, 2024",
+          "url": "https://www.politika.rs/sr/clanak/609512/Povratak-raseljenih-pao-u-zaborav"
+        },
+        {
+          "serbian_latin": "Neće pasti u zaborav: Novopazarska policija vodi istrage svih nerešenih ubistava, neka stara i 20 godina.",
+          "russian": "Они не будут преданы забвению: полиция Нови-Пазара расследует все нераскрытые убийства, некоторым делам уже двадцать лет.",
+          "source": "Objektiv, 2023",
+          "url": "https://objektiv.rs/vest/1439218/nece-pasti-u-zaborav-novopazarska-policija-vodi-istrage-svih-neresenih-ubistava-neka-stara-i-20-godina/"
+        }
+      ],
+      "note": "Употребляется о людях, событиях, проблемах, традициях и произведениях, которые перестали помнить или обсуждать.",
+      "keyword": "zaborav"
     },
     {
       "headword_latin": "Peri-deri",
@@ -7451,6 +7567,35 @@
       "keyword": "kočijaš"
     },
     {
+      "headword_latin": "pući film nekome",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Потерять терпение; выйти из себя; сорваться.",
+      "synonyms_sr": [
+        "izgubiti živce",
+        "prekipeti nekome",
+        "izgubiti strpljenje",
+        "pasti mrak na oči"
+      ],
+      "literal_ru": "У кого-либо порвалась киноплёнка.",
+      "register": "Разговорное, экспрессивное.",
+      "examples": [
+        {
+          "serbian_latin": "Pukao mu film: Posle haosa Luke i Dače, Virijevićev otac se obratio Vujoviću — sledi pakao.",
+          "russian": "У него лопнуло терпение: после скандала между Лукой и Дачей отец Вириевича обратился к Вуйовичу.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/vip/zadruga/pukao-mu-film-posle-haosa-luke-i-dace-virijevicev-otac-se-obratio-vujovicu-sledi-pakao-2026-01-15"
+        },
+        {
+          "serbian_latin": "Pukao mu film: Viktor iz petnih žila zarežao na Minu, više ne želi očima da je vidi!",
+          "russian": "У Виктора лопнуло терпение: он накричал на Мину и больше не желает её видеть.",
+          "source": "Pink, 2026",
+          "url": "https://pink.rs/zadruga/784234/pukao-mu-film-viktor-iz-petnih-zila-zarezao-na-minu-vise-ne-zeli-ocima-da-je-vidi-video"
+        }
+      ],
+      "note": "Лицо, потерявшее терпение, обозначается дательным местоимением: pukao mi je film, pukao mu je film. В разговорной речи вспомогательный глагол часто опускается.",
+      "keyword": "film"
+    },
+    {
       "headword_latin": "pući tikva / pukla je tikva",
       "type": "фразеологизм",
       "definition_ru": "Поссориться; разорвать отношения; дойти до открытого конфликта или раскола.",
@@ -7685,6 +7830,35 @@
       ],
       "note": "Употребляется о поверхности, животе или фигуре. Применительно к женской груди сравнение обычно имеет насмешливый или самокритичный оттенок.",
       "keyword": "daska"
+    },
+    {
+      "headword_latin": "reći popu pop, a bobu bob",
+      "type": "пословичный фразеологизм",
+      "definition_ru": "Назвать вещи своими именами; сказать каждому правду; высказаться прямо и без пристрастия.",
+      "synonyms_sr": [
+        "nazvati stvari pravim imenom",
+        "reći istinu u lice",
+        "govoriti bez uvijanja",
+        "biti otvoren"
+      ],
+      "literal_ru": "Назвать попа попом, а боб — бобом.",
+      "register": "Пословичное, разговорное.",
+      "examples": [
+        {
+          "serbian_latin": "Tadić: Sutra ću reći „popu pop, a bobu bob“.",
+          "russian": "Тадич: завтра я назову вещи своими именами.",
+          "source": "Mondo, 2012",
+          "url": "https://mondo.rs/Info/Srbija/a259653/Tadic-Sutra-cu-reci-popu-pop-a-bobu-bob.html"
+        },
+        {
+          "serbian_latin": "Treba reći popu pop, a bobu bob.",
+          "russian": "Нужно говорить прямо и называть вещи своими именами.",
+          "source": "Vukajlija, 2013",
+          "url": "https://vukajlija.com/treba-reci-popu-pop-a-bobu-bob/671740"
+        }
+      ],
+      "note": "Выражение строится на рифме и означает честную, недвусмысленную оценку людей или событий.",
+      "keyword": "pop; bob"
     },
     {
       "headword_latin": "Rođen / rođena sa zlatnom kašikom",
@@ -8099,6 +8273,35 @@
       "keyword": "solomonsko rešenje"
     },
     {
+      "headword_latin": "spaliti mostove",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Сжечь мосты; окончательно разорвать связи; сделать возвращение невозможным.",
+      "synonyms_sr": [
+        "prekinuti sve veze",
+        "zatvoriti vrata za sobom",
+        "onemogućiti povratak",
+        "raskinuti zauvek"
+      ],
+      "literal_ru": "Сжечь мосты.",
+      "register": "Нейтральное, образное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Kurti spalio sve mostove saradnje sa Vašingtonom.",
+          "russian": "Курти сжёг все мосты сотрудничества с Вашингтоном.",
+          "source": "Kosovo Online, 2025",
+          "url": "https://www.kosovo-online.com/multimedija/video/video-citaku-kurti-spalio-sve-mostove-saradnje-sa-vasingtonom-14-6-2025"
+        },
+        {
+          "serbian_latin": "Bio je Hitlerov omiljeni pisac, a onda je u jednoj rečenici spalio sve mostove, naljutio naciste i zadivio svet.",
+          "russian": "Он был любимым писателем Гитлера, но одной фразой сжёг все мосты, разгневал нацистов и восхитил мир.",
+          "source": "Blic, 2020",
+          "url": "https://www.blic.rs/slobodno-vreme/bio-je-hitlerov-omiljeni-pisac-a-onda-je-u-jednoj-recenici-spalio-sve-mostove/gxc8g3c"
+        }
+      ],
+      "note": "Выражение подчёркивает необратимость решения. Возможен усиленный вариант spaliti sve mostove.",
+      "keyword": "most"
+    },
+    {
       "headword_latin": "Spavati kao klada",
       "type": "frazeologizam",
       "definition_ru": "спать как убитый; спать как сурок; спать мёртвым сном",
@@ -8428,6 +8631,35 @@
       "keyword": "glava; torba"
     },
     {
+      "headword_latin": "staviti karte na sto",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Раскрыть карты; открыто изложить намерения, требования или имеющиеся факты.",
+      "synonyms_sr": [
+        "otvoreno izneti stvari",
+        "igrati otvorenih karata",
+        "reći sve bez uvijanja",
+        "pokazati svoje namere"
+      ],
+      "literal_ru": "Положить карты на стол.",
+      "register": "Нейтральное или разговорное; часто публицистическое.",
+      "examples": [
+        {
+          "serbian_latin": "Đinđić: Vreme je da se stave karte na sto.",
+          "russian": "Джинджич: пора раскрыть карты.",
+          "source": "B92, 2003",
+          "url": "https://www.b92.net/tema/81262/"
+        },
+        {
+          "serbian_latin": "Stavio sve karte na sto: Filipov otac progovorio o njegovom druženju sa Aneli.",
+          "russian": "Он раскрыл все карты: отец Филипа рассказал о его отношениях с Анели.",
+          "source": "Pink, 2026",
+          "url": "https://pink.rs/zadruga/801539/stavio-sve-karte-na-sto-filipov-otac-progovorio-o-njegovom-druzenju-sa-aneli-evo-da-li-je-smatra-potencijalnom-snajkom-video"
+        }
+      ],
+      "note": "Вариант staviti sve karte na sto усиливает значение полной откровенности.",
+      "keyword": "karta"
+    },
+    {
       "headword_latin": "staviti nekoga / nešto pod lupu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Подвергнуть кого-либо или что-либо тщательной проверке; внимательно изучить.",
@@ -8600,6 +8832,35 @@
       ],
       "note": "Poput требует родительного падежа: poput toga, poput njega, poput ove knjige. По смыслу это «подобно, вроде». В живой разговорной речи вместо stvari poput toga часто проще сказать takve stvari — «такие вещи».",
       "keyword": "stvari poput toga"
+    },
+    {
+      "headword_latin": "svađati se / slagati se kao pas i mačka",
+      "type": "сравнительный фразеологизм",
+      "definition_ru": "Постоянно ссориться; жить как кошка с собакой; совершенно не ладить.",
+      "synonyms_sr": [
+        "stalno se svađati",
+        "ne podnositi se",
+        "biti u stalnom sukobu",
+        "ne moći zajedno"
+      ],
+      "literal_ru": "Ссориться или ладить как собака и кошка.",
+      "register": "Разговорное, образное; вариант со slagati se употребляется иронически.",
+      "examples": [
+        {
+          "serbian_latin": "Kada za nekoga kažemo da se „svađaju kao pas i mačka“, mislimo na ljude koji su u stalnom sukobu.",
+          "russian": "Когда говорят, что люди ссорятся как кошка с собакой, имеют в виду постоянный конфликт.",
+          "source": "Magazin Novosti, 2026",
+          "url": "https://www.magazin.novosti.rs/sr/zivot-plus/ljubimci/vest/zasto-se-kaze-kao-pas-i-macka-srpski-jezik-je-pun-izraza-koji-su-nastali-iz-narodnog-iskustva/1565734"
+        },
+        {
+          "serbian_latin": "Izreka da se neko „slaže kao pas i mačka“ odavno se koristi za ljude koji ne mogu da pronađu zajednički jezik.",
+          "russian": "Выражение «ладить как кошка с собакой» давно употребляется о людях, которые не могут найти общий язык.",
+          "source": "Pink, 2026",
+          "url": "https://pink.rs/lifestyle/793651/zaboravite-izreku-slazu-se-kao-pas-i-macka-ove-zivotinje-mogu-postati-nerazdvojni-prijatelji"
+        }
+      ],
+      "note": "Конструкция slagati se kao pas i mačka формально содержит глагол «ладить», но понимается иронически: речь идёт именно о постоянных ссорах.",
+      "keyword": "pas; mačka"
     },
     {
       "headword_latin": "Sve je nekome ravno (do Kosova)",
@@ -9145,6 +9406,34 @@
       ],
       "note": "Для русского «в лучших годах / в расцвете сил» обычно u naponu snage, u naponu života, u najboljim godinama. Сочетание u zaletu svog života для этого значения не является обычной устойчивой формой. Zalet — разбег, разгон, набранный импульс: uzeti zalet, biti u zaletu, prekinuti nekoga u zaletu. Поэтому u zaletu života возможно как авторская метафора, но для словаря лучше u naponu snage / u najboljim godinama.",
       "keyword": "u naponu snage"
+    },
+    {
+      "headword_latin": "ubiti dve muve jednim udarcem",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Убить двух зайцев одним выстрелом; одним действием достичь двух целей.",
+      "synonyms_sr": [
+        "postići dva cilja odjednom",
+        "jednim potezom rešiti dve stvari",
+        "spojiti korisno s korisnim"
+      ],
+      "literal_ru": "Убить двух мух одним ударом.",
+      "register": "Разговорное, общеупотребительное.",
+      "examples": [
+        {
+          "serbian_latin": "Makron je ubio dve muve jednim udarcem.",
+          "russian": "Макрон убил двух зайцев одним выстрелом.",
+          "source": "UNA, 2023",
+          "url": "https://www.una.rs/vesti/svet/makron-zabranom-abaje-u-skolama-ubio-dve-muve-jednim-udarcem"
+        },
+        {
+          "serbian_latin": "Novak ubio dve muve jednim udarcem! Treće kolo Vimbldona i novi rekord!",
+          "russian": "Новак убил двух зайцев одним выстрелом: вышел в третий круг Уимблдона и установил новый рекорд.",
+          "source": "Informer, 2023",
+          "url": "https://informer.rs/sport/novak-dokovic/808983/novak-ubio-dve-muve-jednim-udarcem-trece-kolo-vimbldona-i-novi-rekord-samo-australijanac-bio-tvrd-orah"
+        }
+      ],
+      "note": "Сербский образ отличается от русского: в нём фигурируют две мухи и один удар, а не два зайца и один выстрел.",
+      "keyword": "muva; udarac"
     },
     {
       "headword_latin": "ući / ulaziti u krv",
