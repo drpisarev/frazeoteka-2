@@ -832,6 +832,35 @@
       "keyword": "mirođija u svakoj čorbi"
     },
     {
+      "headword_latin": "Biti na ivici nerava",
+      "type": "frazeologizam",
+      "definition_ru": "быть на пределе нервов; быть на грани срыва; быть крайне напряжённым",
+      "synonyms_sr": [
+        "biti krajnje napet",
+        "pucati od nervoze",
+        "biti pred nervnim slomom",
+        "biti iznerviran"
+      ],
+      "literal_ru": "быть на краю нервов",
+      "register": "разг., экспр.; обычно о длительном сильном напряжении, страхе или раздражении",
+      "examples": [
+        {
+          "serbian_latin": "Članovi svih šest porodica iz Medoševca „na ivici nerava“.",
+          "russian": "Члены всех шести семей из Медошевца находятся на пределе нервов.",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/vesti/drustvo/policija-sprecila-demonstranta-da-se-spali/"
+        },
+        {
+          "serbian_latin": "Jedan čovek, na ivici nerava, na bini pravi skandal.",
+          "russian": "Один человек, находясь на пределе нервов, устраивает скандал на сцене.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kolumna/nemanja-rujevic/oni-sa-jeftinijim-ulaznicama/"
+        }
+      ],
+      "note": "Русское «на грани нервного срыва» часто звучит сильнее и почти медицински, тогда как сербское na ivici nerava может просто описывать крайнюю напряжённость: все раздражены, напуганы или больше не выдерживают ожидания.",
+      "keyword": "na ivici nerava"
+    },
+    {
       "headword_latin": "biti na izmaku",
       "type": "glagolski frazem",
       "definition_ru": "Быть на исходе; заканчиваться; подходить к концу.",
@@ -3514,6 +3543,35 @@
       "keyword": "prst"
     },
     {
+      "headword_latin": "Gledati svoja posla",
+      "type": "izraz",
+      "definition_ru": "заниматься своими делами; не лезть в чужие дела; не совать нос куда не надо",
+      "synonyms_sr": [
+        "ne mešati se",
+        "baviti se sobom",
+        "držati se svog posla",
+        "ne zabadati nos"
+      ],
+      "literal_ru": "",
+      "register": "разг.; в повелительной форме Gledaj svoja posla! может звучать резко",
+      "examples": [
+        {
+          "serbian_latin": "Kao recept za dugovečnost preporučila je da svako treba da „gleda svoja posla“.",
+          "russian": "В качестве рецепта долголетия она посоветовала каждому заниматься своими делами.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/kolumna/safeta-bisevac/gledati-svoja-posla/"
+        },
+        {
+          "serbian_latin": "Nije dovoljno „gledati svoja posla“ i nadati se magičnoj promeni.",
+          "russian": "Недостаточно заниматься только своими делами и надеяться на чудесные перемены.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/treci-maj-me-je-totalno-promenio/"
+        }
+      ],
+      "note": "Нейтральное gledati svoja posla может означать просто «заниматься своим делом и не вмешиваться». Но реплика Gledaj svoja posla! по тону часто соответствует русскому «не твоё дело!» или «не лезь!». Поэтому буквальное «смотри свои дела» для русского опасная калька.",
+      "keyword": "gledati svoja posla"
+    },
+    {
       "headword_latin": "gluv kao top",
       "type": "фразеологическое сравнение",
       "definition_ru": "Совершенно глухой или очень плохо слышащий; не реагирующий на обращённые к нему слова.",
@@ -3919,6 +3977,35 @@
       ],
       "note": "Значение практически совпадает с русским. Обычно подразумевается не просто рациональный выбор более простого способа, а стремление избежать усилий, конфликта, ответственности или непопулярного решения.",
       "keyword": "linijom manjeg otpora"
+    },
+    {
+      "headword_latin": "Ići na ruku nekome",
+      "type": "frazeologizam",
+      "definition_ru": "быть кому-то на руку; играть кому-то на руку; благоприятствовать",
+      "synonyms_sr": [
+        "pogodovati",
+        "ići u prilog",
+        "odgovarati",
+        "koristiti"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; лицо ставится в дательном падеже: to mi / mu / im ide na ruku",
+      "examples": [
+        {
+          "serbian_latin": "Veće cene nafte idu na ruku neprijatelju.",
+          "russian": "Более высокие цены на нефть играют на руку противнику.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/svet/tramp-cene-nafte/"
+        },
+        {
+          "serbian_latin": "Razočaranje u tradicionalne partije im ide na ruku.",
+          "russian": "Разочарование в традиционных партиях играет им на руку.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/svet/3690389/.html?print=true"
+        }
+      ],
+      "note": "Типичный субъект здесь — не человек, а обстоятельство: vreme nam ide na ruku, rezultat mu ide na ruku. Поэтому конструкция ближе русскому «это ему на руку», чем «идти кому-то навстречу». Последнее по-сербски обычно передаётся через izaći nekome u susret.",
+      "keyword": "ići na ruku"
     },
     {
       "headword_latin": "Ići nekome niz dlaku",
@@ -7079,6 +7166,35 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "Ni okom ne trepnuti",
+      "type": "frazeologizam",
+      "definition_ru": "и глазом не моргнуть; не показать никакой реакции; сделать что-то без колебаний",
+      "synonyms_sr": [
+        "ostati hladan",
+        "ne pokazati reakciju",
+        "ne uznemiriti se",
+        "postupiti bez oklevanja"
+      ],
+      "literal_ru": "и глазом не моргнуть",
+      "register": "разг., экспр.; о внешнем спокойствии или отсутствии сомнений, стыда и эмоциональной реакции",
+      "examples": [
+        {
+          "serbian_latin": "...ko će više da slaže i da smaže, a da ni okom ne trepne.",
+          "russian": "...кто больше наврёт и всё это сделает, даже глазом не моргнув.",
+          "source": "Danas, 2014",
+          "url": "https://www.danas.rs/vesti/drustvo/puj-pike-obecanja/"
+        },
+        {
+          "serbian_latin": "Svi će oni uzeti novac od diktatora, okom neće trepnuti.",
+          "russian": "Они все возьмут деньги у диктатора и глазом не моргнут.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/telekomovi-advokati-neizostavni-deo-svakog-poteza-nove-uprave-united-grupe-vucic-ne-staje-u-nameri-da-ugasi-um-medije/"
+        }
+      ],
+      "note": "Значение зависит от контекста. Иногда человек просто сохраняет самообладание, но очень часто оборот подчёркивает отсутствие стыда, раскаяния или сомнений: сделал что-то сомнительное — и «глазом не моргнул». Возможен вариант без ni: okom neće trepnuti.",
+      "keyword": "ni okom ne trepnuti"
+    },
+    {
       "headword_latin": "Ni pet ni šest",
       "type": "frazeologizam",
       "definition_ru": "ни долго думая; вот так сразу; без колебаний",
@@ -8334,6 +8450,34 @@
       ],
       "note": "В русском устойчивый образ — «с Луны свалиться», а в сербском — именно s Marsa. Фраза может характеризовать как полную неосведомлённость, так и растерянность человека, который ведёт себя так, будто впервые видит совершенно обычную ситуацию.",
       "keyword": "pasti s Marsa"
+    },
+    {
+      "headword_latin": "Pasti s neba",
+      "type": "frazeologizam",
+      "definition_ru": "свалиться с неба; достаться без труда; появиться само собой",
+      "synonyms_sr": [
+        "doći samo od sebe",
+        "dobiti bez truda",
+        "biti poklonjeno"
+      ],
+      "literal_ru": "упасть с неба",
+      "register": "разг.-нейтр.; особенно часто в отрицании: ništa neće pasti s neba",
+      "examples": [
+        {
+          "serbian_latin": "Svi mislimo da će rešenje pasti s neba.",
+          "russian": "Все мы думаем, что решение само свалится с неба.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/2657104/vucic-srbija-napreduje-za-10-15-mesta-na-duing-biznis-listi.html"
+        },
+        {
+          "serbian_latin": "Ništa nam neće pasti s neba i niko nam ništa neće pokloniti.",
+          "russian": "Ничего нам с неба не свалится и никто нам ничего не подарит.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/magazin/muzika/4108875/djordje-sibinovic-album-ustanak-pgp-rts.html"
+        }
+      ],
+      "note": "В сербской фразеологии выражение связывают с библейским образом манны, которая была дарована с неба израильтянам в пустыне. Поэтому переносное значение особенно часто связано с чем-то полученным без собственного труда.",
+      "keyword": "pasti s neba"
     },
     {
       "headword_latin": "Pasti u vatru",
@@ -10194,6 +10338,35 @@
       "keyword": "zid"
     },
     {
+      "headword_latin": "Saviti glavu",
+      "type": "frazeologizam",
+      "definition_ru": "склонить голову; покориться; смириться и уступить",
+      "synonyms_sr": [
+        "pokoriti se",
+        "povinovati se",
+        "popustiti",
+        "ustuknuti"
+      ],
+      "literal_ru": "согнуть голову",
+      "register": "разг.-публицист., экспр.; может быть буквальным, но часто обозначает подчинение или отказ от сопротивления",
+      "examples": [
+        {
+          "serbian_latin": "Neću saviti glavu i reći, ok, pljačkajte me.",
+          "russian": "Я не склоню голову и не скажу: ладно, грабьте меня.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/dijalog/pisma-citalaca/zasto-je-problem-frilensera-problem-svih-nas/"
+        },
+        {
+          "serbian_latin": "Pitanje je da li će on „saviti glavu i biti žrtva torture“.",
+          "russian": "Вопрос в том, склонит ли он голову и согласится ли стать жертвой давления.",
+          "source": "Blic, 2006",
+          "url": "https://www.blic.rs/vesti/tema-dana/i-bogoljub-pobegao/y1dbfsl"
+        }
+      ],
+      "note": "Близкое pognuti glavu чаще непосредственно обозначает «опустить голову» и тоже может переносно означать смирение. В saviti glavu особенно легко появляется оттенок подчинения чужой силе или давлению: neću saviti glavu — «не покорюсь».",
+      "keyword": "saviti glavu"
+    },
+    {
       "headword_latin": "sedeti na dve stolice",
       "type": "глагольный фразеологизм",
       "definition_ru": "Пытаться одновременно придерживаться двух несовместимых позиций; лавировать между двумя сторонами ради собственной выгоды.",
@@ -10882,6 +11055,35 @@
       ],
       "note": "Выражение пришло из спортивной лексики, но теперь широко употребляется при описании конфликтов, переговоров и чрезмерной эйфории. Может означать как примирительный тон, так и более реалистичную оценку успеха.",
       "keyword": "lopta"
+    },
+    {
+      "headword_latin": "Spustiti nekoga na zemlju",
+      "type": "frazeologizam",
+      "definition_ru": "вернуть кого-то с небес на землю; отрезвить; поставить на место",
+      "synonyms_sr": [
+        "otrezniti",
+        "vratiti u realnost",
+        "prizemljiti",
+        "staviti na mesto"
+      ],
+      "literal_ru": "опустить кого-то на землю",
+      "register": "разг.-публицист., экспр.; переносно — заставить реалистичнее оценивать себя или ситуацию",
+      "examples": [
+        {
+          "serbian_latin": "Srbiju... trebalo je, veoma brzo, spustiti na zemlju.",
+          "russian": "Сербию нужно было очень быстро вернуть с небес на землю.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/vesti/politika/taci-nije-azdaja/"
+        },
+        {
+          "serbian_latin": "Pokazivanje sposobnosti ruskih oružanih snaga bilo kog „agresora spustiti na zemlju“.",
+          "russian": "Демонстрация возможностей российских вооружённых сил способна поставить любого «агрессора» на место.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/vesti/svet/3055820/putin-rusija-razvija-novu-interkontinentalnu-balisticku-raketu.html"
+        }
+      ],
+      "note": "С человеком оборот может означать как мягкое «вернуть к реальности», так и более жёсткое «поставить на место». Возвратная модель spustiti se na zemlju означает «перестать витать в облаках, трезво оценить ситуацию».",
+      "keyword": "spustiti na zemlju"
     },
     {
       "headword_latin": "srce je nekome sišlo u pete",
@@ -11581,6 +11783,35 @@
       ],
       "note": "На пьедестал можно «ставить» не только человека, но и ценность, идею или принцип. В отношении человека выражение часто подразумевает чрезмерное восхищение и идеализацию; с абстрактным существительным значение может быть нейтральнее: «считать высшим приоритетом».",
       "keyword": "staviti na pijedestal"
+    },
+    {
+      "headword_latin": "Stavljati / staviti novac sa strane",
+      "type": "kolokacija",
+      "definition_ru": "откладывать деньги; откладывать на будущее; делать сбережения",
+      "synonyms_sr": [
+        "štedeti",
+        "odvajati novac",
+        "praviti ušteđevinu",
+        "čuvati novac"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; типично staviti nešto novca sa strane, svakog meseca stavljati novac sa strane",
+      "examples": [
+        {
+          "serbian_latin": "Igrao sam dobro u poslednjih nekoliko godina i uspeo sam da stavim neki novac sa strane.",
+          "russian": "Последние несколько лет я хорошо играл и смог отложить немного денег.",
+          "source": "Sport Klub, 2020",
+          "url": "https://sportklub.n1info.rs/tenis/atp/a330326-andquotveoma-je-vazno-sto-je-inicijativa-potekla-od-djokovicaandquot/"
+        },
+        {
+          "serbian_latin": "Kada se desi da dobijem neki novac, ja to ne diram, stavljam sa strane.",
+          "russian": "Когда я получаю какие-то деньги, я их не трогаю, а откладываю.",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/zabava/ljuba-stankovic-otvorio-vrata-svog-doma-i-otkrio-cime-se-sad-bavi/xnh2z2q"
+        }
+      ],
+      "note": "Для русского важно различать staviti novac sa strane — «отложить деньги» и zarađivati novac sa strane — «подрабатывать, иметь дополнительный заработок». Одинаковое sa strane в этих конструкциях означает разные вещи.",
+      "keyword": "novac sa strane"
     },
     {
       "headword_latin": "Stisnuti zube",
@@ -13042,6 +13273,35 @@
       "keyword": "vrag je odneo šalu"
     },
     {
+      "headword_latin": "Vratiti milo za drago",
+      "type": "frazeologizam",
+      "definition_ru": "отплатить той же монетой; взять реванш; отплатить за сделанное",
+      "synonyms_sr": [
+        "uzvratiti istom merom",
+        "revanširati se",
+        "uzvratiti",
+        "osvetiti se"
+      ],
+      "literal_ru": "вернуть милое за дорогое",
+      "register": "разг.-нейтр., экспр.; часто об ответном поражении соперника, мести или симметричном ответе",
+      "examples": [
+        {
+          "serbian_latin": "Zverev vratio milo za drago protivniku za njegov pokušaj podvale iz servisa.",
+          "russian": "Зверев отплатил сопернику той же монетой за попытку хитрости на подаче.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/sport/sampanjac-pomirenja-i-osvete-zverev-vratio-milo-za-drago-protivniku-za-njegov-pokusaj-podvale-iz-servisa-video/"
+        },
+        {
+          "serbian_latin": "Partizan se dobro namučio sa Cedevita Olimpijom, ali joj je vratio milo za drago.",
+          "russian": "«Партизан» изрядно намучился с «Цедевитой Олимпией», но всё-таки взял реванш.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/sport/partizan-se-dobro-namucio-sa-cedevita-olimpijom-ali-joj-je-vratio-milo-za-drago/"
+        }
+      ],
+      "note": "Несмотря на слова milo и drago, выражение обычно не связано с чем-то приятным: оно означает ответить человеку тем же, особенно за причинённый вред или прежнее поражение. В спортивной журналистике часто переводится просто как «взять реванш».",
+      "keyword": "milo za drago"
+    },
+    {
       "headword_latin": "Vrteti nekoga oko malog prsta",
       "type": "frazeologizam",
       "definition_ru": "вертеть кем-то как хочется; полностью подчинить своему влиянию; манипулировать",
@@ -13214,6 +13474,35 @@
       ],
       "note": "Sića означает мелочь или незначительную сумму. Выражение может характеризовать и выгодную покупку, и невыгодную продажу.",
       "keyword": "sića"
+    },
+    {
+      "headword_latin": "Zabiti glavu u pesak",
+      "type": "frazeologizam",
+      "definition_ru": "прятать голову в песок; закрывать глаза на проблему; уходить от реальности",
+      "synonyms_sr": [
+        "ignorisati problem",
+        "bežati od stvarnosti",
+        "zatvarati oči pred problemom",
+        "praviti se da problem ne postoji"
+      ],
+      "literal_ru": "зарыть голову в песок",
+      "register": "разг.-публицист., неодобр.; о сознательном нежелании признать неприятную реальность",
+      "examples": [
+        {
+          "serbian_latin": "Najgluplje bi bilo da čovek zabije glavu u pesak i ne suoči se sa evidentnom krizom koja postoji.",
+          "russian": "Глупее всего было бы спрятать голову в песок и не признать очевидный кризис.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/sport/rasim-ljajic-intervju-partizan-izbori/"
+        },
+        {
+          "serbian_latin": "Ne može „kao noj da zabije glavu u pesak“, govoreći da je sve u redu.",
+          "russian": "Нельзя, как страус, прятать голову в песок и говорить, что всё в порядке.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/vesti/politika/2534394/.html?print=true"
+        }
+      ],
+      "note": "Фразеологизм основан на распространённом представлении, будто страус при опасности прячет голову в песок. В действительности это миф, но образ закрепился в языке. В сербском оборот особенно часто употребляется о политике и управлении: проблема существует, но человек ведёт себя так, словно её нет.",
+      "keyword": "zabiti glavu u pesak"
     },
     {
       "headword_latin": "Zaglaviti u saobraćaju",
