@@ -1671,6 +1671,33 @@
       "keyword": "biti u bedaku"
     },
     {
+      "headword_latin": "Biti u istom sosu",
+      "type": "frazeologizam",
+      "definition_ru": "быть в одной лодке; оказаться в одинаковом положении; иметь общую беду",
+      "synonyms_sr": [
+        "biti u istoj situaciji",
+        "deliti istu muku",
+        "imati isti problem",
+        "biti u istom položaju"
+      ],
+      "literal_ru": "быть в одном и том же соусе",
+      "register": "razg.; najčešće o zajedničkoj neprijatnoj ili teškoj situaciji",
+      "examples": [
+        {
+          "serbian_latin": "A svi smo u istom sosu.",
+          "russian": "А мы все в одной лодке.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Svi roditelji su u istom sosu.",
+          "russian": "Все родители находятся примерно в одинаковом положении.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Русское «быть в одной лодке» — наиболее естественный эквивалент. Isti sos обычно означает не просто сходство обстоятельств, а общую проблему, ограничения или неприятности, которые одинаково касаются всех участников. Возможна и конструкция naći se u istom sosu.",
+      "keyword": "isti sos"
+    },
+    {
       "headword_latin": "Biti u svom elementu",
       "type": "frazeologizam",
       "definition_ru": "быть в своей стихии; чувствовать себя как рыба в воде; заниматься тем, что хорошо умеешь и любишь",
@@ -5202,31 +5229,29 @@
     {
       "headword_latin": "Ići nekome niz dlaku",
       "type": "frazeologizam",
-      "definition_ru": "гладить по шерсти; поддакивать; угождать; говорить человеку то, что ему приятно слышать",
+      "definition_ru": "потакать; гладить по шерсти; подстраиваться и говорить то, что человеку приятно",
       "synonyms_sr": [
         "povlađivati",
-        "udovoljavati",
-        "dodvoravati se",
-        "ulizivati se"
+        "ugađati",
+        "podilaziti",
+        "dodvoravati se"
       ],
-      "literal_ru": "идти кому-то по направлению шерсти",
-      "register": "разг., экспр., обычно неодобр.; лицо в дательном: ići mu / joj niz dlaku",
+      "literal_ru": "идти кому-то по шерсти",
+      "register": "razg., obično neodobr.; suprotno ići uz dlaku",
       "examples": [
         {
-          "serbian_latin": "Narod u Srbiji je raspoložen da „ide niz dlaku“ i da prećutkuje.",
-          "russian": "Люди в Сербии склонны поддакивать и молчать о неудобном.",
-          "source": "N1, 2016",
-          "url": "https://n1info.rs/video/info/a137181-Nenad-Zivkovic-gost-Novog-dana/"
+          "serbian_latin": "Narod u Srbiji [...] raspoložen je da „ide niz dlaku“ i da prećutkuje.",
+          "russian": "Люди в Сербии склонны подстраиваться, не перечить и молчать.",
+          "source": "N1 Srbija, 2016"
         },
         {
-          "serbian_latin": "Kome Vuletić ide „niz dlaku“ kad kaže...?",
-          "russian": "Кому Вулетич подыгрывает, когда говорит...?",
-          "source": "Danas, 2023",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/marginalne-marginalije-vladimira-vuletica-licni-stav-ceda-nedeljkovica/"
+          "serbian_latin": "Knjaz [...] uopšte nije išao narodu niz dlaku.",
+          "russian": "Князь вовсе не старался потакать народу и говорить ему то, что тот хотел слышать.",
+          "source": "Danas, 2013"
         }
       ],
-      "note": "Образ прозрачен: если гладить шерсть по направлению роста, животному это приятно. Поэтому ići nekome niz dlaku — приспосабливаться к чужим желаниям, вкусам или предубеждениям, избегая неприятной правды. Русское «гладить по шерсти» существует, но сербский оборот заметно продуктивнее в обычной публицистике и разговорной речи.",
-      "keyword": "ići niz dlaku"
+      "note": "Образ совпадает с движением рукой по шерсти животного: niz dlaku приятно и не вызывает сопротивления, uz dlaku — наоборот. Поэтому речь обычно не просто о согласии, а о сознательном потакании чужим вкусам, желаниям или самолюбию. Русское «гладить по шерсти» близко, но менее частотно.",
+      "keyword": "niz dlaku"
     },
     {
       "headword_latin": "igrati otvorenih karata",
@@ -5406,6 +5431,33 @@
       ],
       "note": "В сербской фразеологии фиксируются обе рифмованные модели i ovce i novce и i jare i pare. Научные исследования приводят hteti / želeti i ovce i novce именно как сербский фразеологизм. Смысл не в простой жадности, а в желании одновременно сохранить ресурс и получить за него выгоду, то есть избежать выбора между несовместимыми преимуществами.",
       "keyword": "ovce i novce"
+    },
+    {
+      "headword_latin": "Imati dve leve ruke",
+      "type": "frazeologizam",
+      "definition_ru": "быть совершенно неумелым; быть неуклюжим; руки не из того места растут",
+      "synonyms_sr": [
+        "biti nespretan",
+        "biti nevešt",
+        "biti trapav",
+        "ne umeti rukama"
+      ],
+      "literal_ru": "иметь две левые руки",
+      "register": "razg., šalj. ili neodobr.; pre svega o praktičnoj i ručnoj veštini",
+      "examples": [
+        {
+          "serbian_latin": "Iako sam, što bi se reklo, imao dve leve ruke i bio skroz nevešt za jednog Indijanca...",
+          "russian": "Хотя у меня, что называется, руки росли не из того места и для индейца я был совершенно неумелым…",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Vi možete imati dve leve ruke.",
+          "russian": "Вы можете быть совершенно неспособны что-либо делать руками.",
+          "source": "N1 Srbija, 2021"
+        }
+      ],
+      "note": "Выражение никак не характеризует настоящих левшей. Imati dve leve ruke — быть неумелым, особенно в ремонте, ремесле и любых действиях руками. Русский буквальный оборот встречается, но намного естественнее «руки не из того места», «руки-крюки», «совсем не умеет работать руками».",
+      "keyword": "dve leve ruke"
     },
     {
       "headword_latin": "Imati i ovce i novce",
@@ -8174,6 +8226,32 @@
       "keyword": "na mrtvo ime"
     },
     {
+      "headword_latin": "Na pravdi boga",
+      "type": "frazeologizam",
+      "definition_ru": "ни за что; без всякой вины; совершенно невиновного",
+      "synonyms_sr": [
+        "bez krivice",
+        "nedužno",
+        "ni kriv ni dužan"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; obično uhapsiti, prebiti, stradati na pravdi boga",
+      "examples": [
+        {
+          "serbian_latin": "Specijalci su ga pretukli „na pravdi Boga“.",
+          "russian": "Спецназовцы избили его совершенно ни за что.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Uhapšen je na pravdi boga, a sada je i ubijen.",
+          "russian": "Его без всякой вины арестовали, а теперь ещё и убили.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "Для русского выражение обманчиво: оно не означает «по Божьей справедливости», а, наоборот, подчёркивает несправедливость — человек пострадал, ничего не сделав. В устойчивом выражении нормативно пишется bog со строчной: na pravdi boga. Это отдельно отмечают и сербские языковые справочники.",
+      "keyword": "na pravdi boga"
+    },
+    {
       "headword_latin": "Na pretek",
       "type": "izraz",
       "definition_ru": "в избытке; хоть отбавляй; навалом",
@@ -9373,6 +9451,33 @@
       ],
       "note": "Особенно часто встречается в рассказах родственников и соседей о характере человека. Иронически может употребляться о том, чья безобидность вызывает сомнения.",
       "keyword": "mrav"
+    },
+    {
+      "headword_latin": "Ni na nebu ni na zemlji",
+      "type": "frazeologizam",
+      "definition_ru": "ни там ни сям; между небом и землёй; в подвешенном, неопределённом состоянии",
+      "synonyms_sr": [
+        "ni tamo ni ovamo",
+        "u vakuumu",
+        "bez jasnog statusa",
+        "između dve strane"
+      ],
+      "literal_ru": "ни на небе, ни на земле",
+      "register": "razg.-publicistički, ekspresivno; o čoveku, položaju, zakonu, projektu ili državi bez jasnog statusa",
+      "examples": [
+        {
+          "serbian_latin": "Eksproprijacija – ni na nebu ni na zemlji.",
+          "russian": "Экспроприация зависла в совершенно неопределённом положении.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Čitav parlament sve više liči na čardak ni na nebu ni na zemlji.",
+          "russian": "Весь парламент всё больше напоминает нечто зависшее между небом и землёй.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Выражение связано и с хорошо известным названием сербской народной сказки Čardak ni na nebu ni na zemlji. В современной речи čardak уже необязателен: сама формула ni na nebu ni na zemlji обозначает отсутствие устойчивого положения или ясной принадлежности. По смыслу близко к уже разобранному ni tamo ni ovamo, но образ значительно ярче.",
+      "keyword": "ni na nebu ni na zemlji"
     },
     {
       "headword_latin": "Ni okom ne trepnuti",
@@ -16765,6 +16870,33 @@
       "keyword": "na jedno uho uđe na drugo izađe"
     },
     {
+      "headword_latin": "Ući nekome pod kožu",
+      "type": "frazeologizam",
+      "definition_ru": "запасть в душу; стать близким; глубоко эмоционально зацепить",
+      "synonyms_sr": [
+        "prirasti srcu",
+        "osvojiti nekoga",
+        "ostaviti dubok utisak",
+        "postati blizak"
+      ],
+      "literal_ru": "войти кому-то под кожу",
+      "register": "razg.-neutralno; tipično neko/nešto mi je ušlo pod kožu",
+      "examples": [
+        {
+          "serbian_latin": "Mislim da vam ovaj region ili uđe pod kožu ili ne. Nama je ušao pod kožu.",
+          "russian": "Этот регион либо западает тебе в душу, либо нет. Нам он запал.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Pod kožu je navijačima ušao čim je prvi put kročio na „Bernabeu“.",
+          "russian": "Он покорил сердца болельщиков, едва впервые ступил на «Бернабеу».",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Для русского здесь важен сдвиг значения. Русское «залезть под кожу» скорее ассоциируется с раздражением, тогда как сербское ući pod kožu очень часто положительно: человек, город, музыка или место становятся эмоционально близкими. Поэтому естественный перевод — «запасть в душу», «покорить», «стать родным».",
+      "keyword": "pod kožu"
+    },
+    {
       "headword_latin": "Ući u ritam",
       "type": "kolokacija",
       "definition_ru": "войти в ритм; набрать темп; втянуться",
@@ -16944,31 +17076,29 @@
     {
       "headword_latin": "Uhvatiti Boga za bradu",
       "type": "frazeologizam",
-      "definition_ru": "поймать удачу за хвост; добиться невероятного; решить, что теперь тебе всё нипочём",
+      "definition_ru": "почувствовать себя всесильным; решить, что поймал удачу за хвост; возомнить, что теперь всё можно",
       "synonyms_sr": [
-        "postići veliki uspeh",
-        "dobro proći",
-        "imati veliku sreću",
-        "misliti da ti niko ništa ne može"
+        "osećati se svemoćno",
+        "misliti da ti niko ništa ne može",
+        "umisliti se",
+        "misliti da si postigao sve"
       ],
       "literal_ru": "схватить Бога за бороду",
-      "register": "разг., экспр.; очень часто иронически: misliti da si uhvatio Boga za bradu",
+      "register": "razg., ekspresivno, vrlo često iron. ili neodobr.; tipično misliti da je uhvatio Boga za bradu",
       "examples": [
         {
-          "serbian_latin": "Oni misle da je Vučić zauvek uhvatio Boga za bradu, pa ne pušta.",
-          "russian": "Они считают, что Вучич навсегда поймал удачу за хвост и теперь её не отпустит.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/dijalog/reakcije/izbor-tekstova-dragoljuba-zarkovica/"
+          "serbian_latin": "Teško je sada utvrditi ko je [...] pomislio da je uhvatio Boga za bradu.",
+          "russian": "Теперь трудно установить, кто решил, что поймал удачу за хвост и теперь ему всё позволено.",
+          "source": "Politika, 2008"
         },
         {
-          "serbian_latin": "Verovatno su pomislili da su uhvatili Boga za bradu.",
-          "russian": "Наверное, они решили, что теперь им всё нипочём.",
-          "source": "Sportal, 2026",
-          "url": "https://sportal.blic.rs/prica/tjeri-anri-o-lionelu-mesiju-na-mundijalu-2026070809420524396"
+          "serbian_latin": "Mnogi treneri misle da su uhvatili „Boga za bradu“ i da za njih ne postoje tajne u fudbalu.",
+          "russian": "Многие тренеры считают себя чуть ли не всезнающими и думают, что в футболе для них уже нет никаких секретов.",
+          "source": "Sport Klub Srbija, 2025"
         }
       ],
-      "note": "Это сильнее простого «повезло»: подразумевается выдающийся успех, исключительно выгодное положение или ощущение собственной неуязвимости. Очень характерна именно ироническая модель misli da je uhvatio Boga za bradu — человек слишком рано решил, что добился всего.",
-      "keyword": "uhvatiti Boga za bradu"
+      "note": "Сербский оборот чаще иронический: человек не просто удачлив, а уже решил, что достиг вершины, непогрешим или может делать что угодно. Поэтому русские «поймать удачу за хвост» и «схватить Бога за бороду» не всегда достаточны; в контексте высокомерия лучше «возомнить себя всесильным».",
+      "keyword": "Boga za bradu"
     },
     {
       "headword_latin": "uhvatiti maglu",
@@ -17190,6 +17320,33 @@
       ],
       "note": "Сербский и русский фразеологизмы практически идентичны. Образ связан с традиционным противопоставлением правой стороны как благоприятной и левой как неблагоприятной; в исследовании сербских афоризмов ustati na levu nogu прямо поясняется как быть «нерасположенным и неприятным без особой причины».",
       "keyword": "ustati na levu nogu"
+    },
+    {
+      "headword_latin": "Uterati strah u kosti",
+      "type": "frazeologizam",
+      "definition_ru": "нагнать жути; вселить сильный страх; напугать до дрожи",
+      "synonyms_sr": [
+        "prestraviti",
+        "zastrašiti",
+        "uliti strah",
+        "uterati jezu"
+      ],
+      "literal_ru": "загнать страх в кости",
+      "register": "razg.-publicistički, jako ekspresivno; uterati nekome strah u kosti",
+      "examples": [
+        {
+          "serbian_latin": "Hanibal ante portas bila je rečenica koja je svakom Rimljaninu uterivala strah u kosti.",
+          "russian": "«Ганнибал у ворот» — эти слова нагоняли ужас на каждого римлянина.",
+          "source": "BBC na srpskom / Danas, 2026"
+        },
+        {
+          "serbian_latin": "Pandemija kovida 19 uterala je strah u kosti stanovnicima čitave planete.",
+          "russian": "Пандемия ковида-19 нагнала страху на жителей всей планеты.",
+          "source": "Politika, 2020"
+        }
+      ],
+      "note": "Выражение сильнее нейтрального uplašiti. Типичная модель важна для управления: uterati nekome strah u kosti — лицо стоит в дательном падеже. По-русски степень экспрессии хорошо передают «нагнать жути», «вселить ужас», «напугать до дрожи».",
+      "keyword": "strah u kosti"
     },
     {
       "headword_latin": "Uvući se pod kožu nekome",
@@ -17445,6 +17602,33 @@
       ],
       "note": "У оборота два тесно связанных употребления. Uzeti tvrdnju zdravo za gotovo — принять утверждение без проверки или сомнений; uzimati partnera / prijatelja zdravo za gotovo — воспринимать человека как гарантированно присутствующего и перестать его ценить. Поэтому русского единственного эквивалента нет: нужны «принимать как должное», «считать само собой разумеющимся» или «принимать за чистую монету» в зависимости от контекста. Не путать с противоположным по прагматике uzeti nešto s rezervom — «отнестись с осторожностью», уже имеющимся в базе.",
       "keyword": "zdravo za gotovo"
+    },
+    {
+      "headword_latin": "Vaditi kestenje iz vatre",
+      "type": "frazeologizam",
+      "definition_ru": "спасать положение; вытаскивать дело из беды; брать на себя самый трудный участок",
+      "synonyms_sr": [
+        "spašavati stvar",
+        "izvlačiti iz neprilike",
+        "popravljati tuđe greške",
+        "preuzimati težak posao"
+      ],
+      "literal_ru": "вытаскивать каштаны из огня",
+      "register": "razg.-publicistički; naročito često u sportu i politici",
+      "examples": [
+        {
+          "serbian_latin": "Novak je po ko zna koji put „izvlačio kestenje iz vatre“.",
+          "russian": "Новак в который раз спасал положение.",
+          "source": "RTS, 2010"
+        },
+        {
+          "serbian_latin": "„Orlovi“ su u nastavku došli u situaciju da „vade kestenje iz vatre“.",
+          "russian": "Во втором тайме «орлам» пришлось срочно спасать положение.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "В русском образ «таскать каштаны из огня» известен, но заметно менее разговорный и часто подразумевает выполнение опасной работы в чужих интересах. В современном сербском выражение шире и очень живо: игрок или тренер может vaditi kestenje iz vatre, просто спасая команду из тяжёлой ситуации.",
+      "keyword": "kestenje iz vatre"
     },
     {
       "headword_latin": "Visiti o koncu",
@@ -17704,28 +17888,28 @@
     {
       "headword_latin": "Za dlaku",
       "type": "frazeologizam",
-      "definition_ru": "на волосок; едва-едва; совсем чуть-чуть",
+      "definition_ru": "на волосок; едва; чуть-чуть не; чудом",
       "synonyms_sr": [
-        "zamalo",
+        "umalo",
         "jedva",
         "za malo",
-        "vrlo tesno"
+        "tesno"
       ],
       "literal_ru": "на волос",
-      "register": "разг.-нейтр., экспр.; о минимальном расстоянии от успеха, поражения или опасности",
+      "register": "razg.-neutralno; naročito za dlaku izbeći, promašiti, izgubiti, izmaći",
       "examples": [
         {
-          "serbian_latin": "Srpskom reprezentativcu Milutinu Stefanoviću „za dlaku“ je izmakla medalja.",
-          "russian": "Сербскому стрелку Милутину Стефановичу медаль ускользнула буквально на волосок.",
-          "source": "Danas, 2017"
+          "serbian_latin": "Zlato je izmaklo „za dlaku“.",
+          "russian": "Золото ускользнуло буквально на волосок.",
+          "source": "RTS, 2019"
         },
         {
-          "serbian_latin": "Žena je „za dlaku“ izbegla Soko voz na Tošinom bunaru.",
-          "russian": "Женщина чудом, буквально в последний момент, избежала столкновения с поездом «Соко» на Тошином бунаре.",
-          "source": "Danas, 2022"
+          "serbian_latin": "Austrija je za dlaku, tačnije 0,6 odsto, izbegla sudbinu da postane prva zemlja EU koja je za predsednika izabrala ekstremnog desničara.",
+          "russian": "Австрия буквально на волосок — точнее, на 0,6 процента — избежала такого исхода.",
+          "source": "Danas, 2016"
         }
       ],
-      "note": "Особенно часты модели izbeći za dlaku — «избежать на волосок» и izmaklo mu je za dlaku — «ему чуть-чуть не хватило». В зависимости от ситуации za dlaku может обозначать и почти случившуюся катастрофу, и минимальный разрыв в соревновании.",
+      "note": "Za dlaku обозначает минимальную дистанцию между случившимся и неслучившимся. Поэтому в русском в зависимости от глагола нужны «на волосок», «чуть не», «едва», «чудом». Конструкция чрезвычайно частотна и не имеет книжного оттенка.",
       "keyword": "za dlaku"
     },
     {
