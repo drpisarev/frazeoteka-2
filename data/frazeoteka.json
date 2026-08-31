@@ -622,6 +622,33 @@
       "keyword": "bez po muke"
     },
     {
+      "headword_latin": "Bez prebijene pare",
+      "type": "frazeologizam",
+      "definition_ru": "без гроша; без копейки; ни гроша за душой",
+      "synonyms_sr": [
+        "bez dinara",
+        "bez novca",
+        "švorc (sleng)",
+        "praznog džepa"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; često bez prebijene pare u džepu",
+      "examples": [
+        {
+          "serbian_latin": "Pol Smit je odlučio da bez „prebijene pare“ u džepu obiđe svet.",
+          "russian": "Пол Смит решил объехать мир без гроша в кармане.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Dečak s Balkana, bez prebijene pare u džepu, izborio se za svoj put u Sjedinjene Države.",
+          "russian": "Парень с Балкан без гроша в кармане сам пробил себе дорогу в Соединённых Штатах.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Выражение обозначает полное отсутствие денег, а не просто бедность. Особенно устойчиво сочетание bez prebijene pare u džepu. Компонент prebijene вне этой формулы русскому легко истолковать неправильно; практически выражение лучше запоминать целиком как усиленное «без единого динара».",
+      "keyword": "prebijena para"
+    },
+    {
       "headword_latin": "Bez zamerke",
       "type": "izraz",
       "definition_ru": "без нареканий; безупречно; не к чему придраться",
@@ -3513,6 +3540,33 @@
       "keyword": "dok jednom ne smrkne drugom ne svane"
     },
     {
+      "headword_latin": "Dok si rekao keks",
+      "type": "frazeologizam",
+      "definition_ru": "не успеешь глазом моргнуть; в два счёта; моментально",
+      "synonyms_sr": [
+        "začas",
+        "za tren",
+        "veoma brzo",
+        "dok trepneš"
+      ],
+      "literal_ru": "пока ты сказал «кекс»",
+      "register": "razg., šalj., ekspresivno; o nečemu što se događa veoma brzo",
+      "examples": [
+        {
+          "serbian_latin": "Dok si rekao keks, u društvu bez sluha eto ti 35 godina.",
+          "russian": "Не успеешь глазом моргнуть — и в таком обществе уже прошло 35 лет.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Par kome sam kumovala razveo se dok si rekao keks.",
+          "russian": "Пара, у которой я была кумой, развелась в два счёта.",
+          "source": "Nova.rs, 2020"
+        }
+      ],
+      "note": "Keks здесь не несёт самостоятельного значения: короткое слово служит мерой мгновения. По функции выражение похоже на русские «не успеешь глазом моргнуть», «раз-два и готово». Происхождение именно выбора слова keks надёжно не установлено, поэтому связывать его с конкретной историей не стоит.",
+      "keyword": "dok si rekao keks"
+    },
+    {
       "headword_latin": "Dokle pogled seže",
       "type": "frazeologizam",
       "definition_ru": "насколько хватает глаз; куда ни кинешь взгляд",
@@ -6203,6 +6257,33 @@
       "keyword": "videlo"
     },
     {
+      "headword_latin": "Izaći nekome na crtu",
+      "type": "frazeologizam",
+      "definition_ru": "принять вызов; выйти против кого-то; решиться на открытое противостояние",
+      "synonyms_sr": [
+        "suprotstaviti se",
+        "prihvatiti izazov",
+        "odmeriti snage",
+        "stati naspram nekoga"
+      ],
+      "literal_ru": "выйти кому-то на черту",
+      "register": "razg.-publicistički, ekspresivno; izaći nekome na crtu — lice je obično u dativu",
+      "examples": [
+        {
+          "serbian_latin": "Delovalo je da će Mit Romni „izaći na crtu“ Baraku Obami na predsedničkim izborima.",
+          "russian": "Казалось, что Митт Ромни выйдет против Барака Обамы на президентских выборах.",
+          "source": "RTS, 2012"
+        },
+        {
+          "serbian_latin": "Partizan će ponovo izaći na crtu timu koji mu je poslednjih sezona ostao najveći dužnik.",
+          "russian": "«Партизан» снова выйдет против команды, которой давно хочет вернуть должок.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Это активная позиция: не просто «встретиться», а согласиться помериться силами, бросить или принять вызов. Очень характерно для спорта и политики. Русскому важно управление: izaći nekome na crtu — буквально «выйти кому-то навстречу на противостояние».",
+      "keyword": "izaći na crtu"
+    },
+    {
       "headword_latin": "Izgledati kao avion",
       "type": "frazeologizam",
       "definition_ru": "Выглядеть сногсшибательно; выглядеть на все сто; быть просто отпад.",
@@ -6802,6 +6883,33 @@
       ],
       "note": "Javljaju se puna forma kao grom iz vedra neba i skraćena naslovna forma grom iz vedra neba.",
       "keyword": "grom"
+    },
+    {
+      "headword_latin": "Kao guska u magli",
+      "type": "frazeologizam",
+      "definition_ru": "как слепой котёнок; совершенно растерянный; ничего не понимать в происходящем",
+      "synonyms_sr": [
+        "potpuno zbunjen",
+        "izgubljen",
+        "dezorijentisan",
+        "ne znati kuda se ide"
+      ],
+      "literal_ru": "как гусыня в тумане",
+      "register": "razg., ekspresivno; biti / osećati se / ići kao guska u magli",
+      "examples": [
+        {
+          "serbian_latin": "I dalje sam kao guska u magli, bez obzira na bezbroj teorija.",
+          "russian": "Я по-прежнему совершенно теряюсь и ничего толком не понимаю, несмотря на множество версий.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Osećam se kao guska u magli.",
+          "russian": "Я чувствую себя совершенно потерянной.",
+          "source": "BBC na srpskom / Danas, 2022"
+        }
+      ],
+      "note": "Современное значение — дезориентация, непонимание ситуации или движение без ясного представления, куда и зачем. RTS прямо приводит народную формулу izgubio se kao guska u magli, а исследование сербской фразеологии фиксирует также значение действия без достаточного обдумывания. Русский буквальный образ неустойчив; обычно нужны «как слепой котёнок», «как в тумане», «совершенно потеряться».",
+      "keyword": "guska u magli"
     },
     {
       "headword_latin": "Kao iz topa",
@@ -10657,6 +10765,33 @@
       "keyword": "ostati kratkih rukava"
     },
     {
+      "headword_latin": "Ostati praznih šaka",
+      "type": "frazeologizam",
+      "definition_ru": "остаться с пустыми руками; остаться ни с чем; ничего не получить",
+      "synonyms_sr": [
+        "ostati bez ičega",
+        "ne dobiti ništa",
+        "izvisiti (razg.)",
+        "ostati kratkih rukava"
+      ],
+      "literal_ru": "остаться с пустыми ладонями",
+      "register": "razg.-neutralno; naročito o izostaloj koristi, nagradi, kupovini ili pobedi",
+      "examples": [
+        {
+          "serbian_latin": "Beograđani su i u drugom meču protiv Panatinaikosa ostali „praznih šaka“.",
+          "russian": "Белградцы и во втором матче с «Панатинаикосом» остались ни с чем.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Mnogi Beograđani ostali su sinoć „praznih šaka“, misleći da će moći u zadnji čas da kupe ulaznicu.",
+          "russian": "Многие белградцы остались с пустыми руками, рассчитывая купить билет в последний момент.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Фраза особенно естественна, когда человек рассчитывал получить что-то конкретное, но не получил ничего. Русское «остаться с пустыми руками» совпадает буквально и стилистически. Близкое ostati kratkih rukava сильнее подчёркивает, что человека обошли при разделе ожидаемой выгоды.",
+      "keyword": "praznih šaka"
+    },
+    {
       "headword_latin": "ostaviti nekoga bez daha",
       "type": "глагольный фразеологизм",
       "definition_ru": "Поразить, восхитить или потрясти кого-либо; заставить затаить дыхание.",
@@ -12174,28 +12309,28 @@
     {
       "headword_latin": "Pokriti se ušima",
       "type": "frazeologizam",
-      "definition_ru": "помалкивать; сидеть и не высовываться; стыдливо замолчать",
+      "definition_ru": "пристыдиться и помалкивать; не высовываться; лучше бы молчал",
       "synonyms_sr": [
         "ćutati",
         "povući se",
-        "ne javljati se",
-        "pokunjiti se"
+        "postideti se",
+        "ne javljati se"
       ],
       "literal_ru": "накрыться ушами",
-      "register": "разг., экспр., неодобр.; обычно говорится о человеке, которому из-за собственных ошибок лучше не критиковать других",
+      "register": "razg., ekspresivno, neodobr.; naročito neka se pokrije ušima",
       "examples": [
         {
-          "serbian_latin": "Saša Janković je dosadan... trebalo bi da se pokrije ušima.",
-          "russian": "Саша Янкович, мол, надоел... лучше бы ему помалкивать и не высовываться.",
-          "source": "Danas, 2010"
+          "serbian_latin": "Srbija bi trebalo da se pokrije ušima i shvati koliko je srećna sa ovim jednim.",
+          "russian": "Сербии следовало бы помалкивать и понять, насколько ей «повезло» с этим одним.",
+          "source": "Danas, 2017"
         },
         {
-          "serbian_latin": "Opozicija bi trebalo „da se pokrije ušima“, jer brojne afere koje spominju su pokrenute upravo dok su oni bili na vlasti.",
-          "russian": "Оппозиции следовало бы помалкивать, потому что многие из упоминаемых ею скандалов начались именно тогда, когда она сама была у власти.",
-          "source": "Danas, 2011"
+          "serbian_latin": "Bolje da se pokriju ušima!",
+          "russian": "Им лучше бы помалкивать и не позориться.",
+          "source": "Blic, 2007"
         }
       ],
-      "note": "Это не буквальное «закрыть уши». Реплика означает примерно: «после того, что ты сам натворил, тебе лучше молчать». Поэтому русский перевод «помалкивать» или «сидеть и не высовываться» обычно точнее. Выражение нередко содержит оттенок стыда и моральной дисквалификации собеседника.",
+      "note": "Реплика означает, что человек после своего поведения, ошибки или провала не имеет морального права выступать с критикой или хвастаться. Русское «сидел бы и не высовывался» часто передаёт прагматику лучше всего. Буквальный жест «накрыть уши» современному говорящему уже ничего отдельно объяснять не обязан.",
       "keyword": "pokriti se ušima"
     },
     {
@@ -12315,6 +12450,33 @@
       ],
       "note": "Выражение предполагает неожиданное вмешательство, из-за которого первоначальный замысел становится трудно или невозможно осуществить.",
       "keyword": "račun"
+    },
+    {
+      "headword_latin": "Poslednja rupa na svirali",
+      "type": "frazeologizam",
+      "definition_ru": "человек последней важности; тот, с кем не считаются; быть на последнем месте",
+      "synonyms_sr": [
+        "biti nevažan",
+        "biti na poslednjem mestu",
+        "biti zapostavljen",
+        "niko i ništa (razg.)"
+      ],
+      "literal_ru": "последнее отверстие на свирели",
+      "register": "razg., ekspresivno, neodobr.; biti poslednja rupa na svirali",
+      "examples": [
+        {
+          "serbian_latin": "Biciklisti u Srbiji su poslednja rupa na svirali.",
+          "russian": "Велосипедисты в Сербии — на последнем месте, о них практически никто не думает.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Scenarista je često poslednja rupa na svirali u autorskom timu.",
+          "russian": "Сценарист в авторской команде часто оказывается человеком, с которым меньше всего считаются.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Выражение подчёркивает не просто низкую должность, а пренебрежительно низкий статус: человека или группу считают наименее важными и вспоминают о них в последнюю очередь. Русское «последняя спица в колеснице» близко по образности, но сейчас значительно менее разговорно. Происхождение конкретного образа со svirala надёжно не установлено.",
+      "keyword": "rupa na svirali"
     },
     {
       "headword_latin": "Poslednji Mohikanac",
@@ -14186,6 +14348,33 @@
       ],
       "note": "Здесь речь не о физическом размере, а о месте в иерархии: sitna riba обладает малым влиянием и обычно не принимает ключевых решений. Естественная противоположность — krupna riba «крупная рыба, большая шишка». Особенно частотно выражение в криминальной и политической журналистике.",
       "keyword": "sitna riba"
+    },
+    {
+      "headword_latin": "Sjaši Kurta da uzjaše Murta",
+      "type": "izreka",
+      "definition_ru": "одни ушли, пришли такие же; шило на мыло; лица меняются, а по сути ничего",
+      "synonyms_sr": [
+        "sve ostaje isto",
+        "promena samo na papiru",
+        "isti ljudi, druga imena",
+        "jedno te isto"
+      ],
+      "literal_ru": "слезай, Курта, чтобы сел верхом Мурта",
+      "register": "narodno, iron., neodobr.; naročito o smeni vlasti ili rukovodilaca bez stvarnih promena",
+      "examples": [
+        {
+          "serbian_latin": "Moja baba je imala običaj da kaže: „Sjaši Kurta da uzjaše Murta“.",
+          "russian": "Моя бабушка обычно говорила: «Одни ушли — пришли такие же».",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Sjaši Kurta da uzjaše Murta: NPS o kadrovskoj vrtešci SNS-a u Kragujevcu.",
+          "russian": "«Одни ушли — пришли такие же»: NPS о кадровой чехарде в Крагуеваце.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Формула описывает не обычную смену людей, а отсутствие содержательной перемены после такой смены. Kurta и Murta функционируют как рифмованная пара типовых имён; популярные попытки представить их конкретными историческими лицами надёжно не подтверждены. N1 также объясняет современный смысл именно как смену персонажей при сохранении прежнего положения вещей.",
+      "keyword": "Kurta; Murta"
     },
     {
       "headword_latin": "Sjaši Kurta da uzjaši Murta",
@@ -16476,6 +16665,33 @@
       "keyword": "tresla se gora rodio se miš"
     },
     {
+      "headword_latin": "Trinaesto prase",
+      "type": "frazeologizam",
+      "definition_ru": "лишний; обделённый; тот, кому ничего не досталось и до кого никому нет дела",
+      "synonyms_sr": [
+        "zapostavljen",
+        "suvišan",
+        "odbačen",
+        "poslednji na redu"
+      ],
+      "literal_ru": "тринадцатый поросёнок",
+      "register": "razg., ekspresivno; o čoveku, grupi, oblasti ili problemu kojim se stalno zanemaruje",
+      "examples": [
+        {
+          "serbian_latin": "Oblast životne sredine je kao „trinaesto prase“, uvek pod nekim drugim ministarstvom.",
+          "russian": "С экологией обращаются как с лишним поросёнком: её постоянно пристраивают к какому-нибудь другому министерству.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Jug je svakoj vlasti bio „trinaesto prase“.",
+          "russian": "Юг страны для любой власти всегда был последним, о ком вспоминали.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "В основе образ поросёнка, которому в многочисленном помёте не достаётся места у матери и который оказывается обделённым; RTS использует этот образ и буквально в сюжетах о животных. В переносном употреблении это «лишний», «забытый», «последний в очереди на внимание и ресурсы». Для русского выражение без объяснения непрозрачно.",
+      "keyword": "trinaesto prase"
+    },
+    {
       "headword_latin": "trn u oku",
       "type": "фразеологизм",
       "definition_ru": "Постоянный раздражитель; ненавистный человек или предмет; помеха, которую хотели бы устранить.",
@@ -16726,6 +16942,33 @@
       ],
       "note": "Для русского здесь полезен ложный буквальный ориентир: сербское čas действительно может означать «час», но в этом выражении речь именно о последнем возможном моменте. Очень близкий вариант — u poslednjem trenutku.",
       "keyword": "u poslednji čas"
+    },
+    {
+      "headword_latin": "U sitne sate",
+      "type": "frazeologizam",
+      "definition_ru": "глубокой ночью; далеко за полночь; под утро",
+      "synonyms_sr": [
+        "kasno noću",
+        "duboko u noć",
+        "posle ponoći",
+        "pred zoru"
+      ],
+      "literal_ru": "в мелкие часы",
+      "register": "ustaljeni izraz; neutralno-razg. i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Život iznad Vračarskog tunela: Kad u sitne sate tutnji.",
+          "russian": "Жизнь над Врачарским туннелем: когда глубокой ночью всё грохочет.",
+          "source": "Vreme, 2025"
+        },
+        {
+          "serbian_latin": "Građani su u sitne sate hodali ka zgradi svog javnog servisa.",
+          "russian": "Глубокой ночью граждане шли к зданию общественного телевидения.",
+          "source": "Nova.rs, 2025"
+        }
+      ],
+      "note": "Sitni sati — не «маленькие часы» и не короткие промежутки времени, а поздние часы после полуночи, когда большинство уже спит. В зависимости от ситуации по-русски естественны «глубокой ночью», «далеко за полночь», «под утро». Выражение нормально употребляется и в нейтральной журналистике.",
+      "keyword": "sitni sati"
     },
     {
       "headword_latin": "U tren oka",
