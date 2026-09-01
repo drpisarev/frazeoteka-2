@@ -3850,6 +3850,33 @@
       "keyword": "držati fige"
     },
     {
+      "headword_latin": "Držati figu u džepu",
+      "type": "frazeologizam",
+      "definition_ru": "держать фигу в кармане; внешне соглашаться, а про себя быть против; вести двойную игру",
+      "synonyms_sr": [
+        "biti neiskren",
+        "prikrivati prave namere",
+        "pretvarati se da se slažeš",
+        "jedno govoriti, drugo misliti"
+      ],
+      "literal_ru": "держать кукиш в кармане",
+      "register": "razg., neodobr.; takođe imati figu u džepu",
+      "examples": [
+        {
+          "serbian_latin": "Ima li Srbija „figu u džepu“ kada se srpski zvaničnici obraćaju Hrvatskoj?",
+          "russian": "Не держит ли Сербия фигу в кармане, когда её представители обращаются к Хорватии?",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Svako drži figu u džepu i misli da ipak država pripada samo dominantnoj naciji.",
+          "russian": "Каждый вроде бы соглашается, но про себя держит фигу в кармане.",
+          "source": "Radio Slobodna Evropa, 2011"
+        }
+      ],
+      "note": "Здесь важна скрытость жеста: внешне человек демонстрирует согласие или лояльность, но на самом деле сохраняет противоположное намерение. Поэтому выражение сильнее простого «не соглашаться»: в нём есть оттенок неискренности и двойной игры. Встречается и вариант držati šipak u džepu.",
+      "keyword": "figa u džepu"
+    },
+    {
       "headword_latin": "Držati glavu iznad vode",
       "type": "frazeologizam",
       "definition_ru": "держаться на плаву; кое-как выживать; не давать себе окончательно утонуть в проблемах",
@@ -5218,30 +5245,28 @@
     {
       "headword_latin": "Ići grlom u jagode",
       "type": "frazeologizam",
-      "definition_ru": "действовать очертя голову; лезть напролом; необдуманно ввязываться во что-то",
+      "definition_ru": "лезть напролом; бросаться очертя голову; действовать безрассудно",
       "synonyms_sr": [
         "srljati",
-        "ići bezglavo",
         "postupati nepromišljeno",
-        "uletati bez razmišljanja"
+        "zaletati se",
+        "ići bez plana"
       ],
-      "literal_ru": "идти горлом в клубнику",
-      "register": "razg., ekspresivno; obično neodobravajuće o brzopletom i rizičnom postupanju",
+      "literal_ru": "идти горлом в землянику",
+      "register": "razg., ekspresivno, neodobr.; o brzopletom postupku bez procene rizika",
       "examples": [
         {
-          "serbian_latin": "Pa je „grlom u jagode“ krenula u Ameriku.",
-          "russian": "И она очертя голову отправилась в Америку.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/rts/dijaspora/vesti/2855520/grlom-u-kalifornijske-jagode.html"
+          "serbian_latin": "Ne možete ići u nešto grlom u jagode pa da poginete ko guska.",
+          "russian": "Нельзя бросаться во что-то очертя голову и в итоге погореть.",
+          "source": "Danas, 2017"
         },
         {
-          "serbian_latin": "Mladi ljudi vrlo često prave greške, idu „grlom u jagode“.",
-          "russian": "Молодые люди очень часто ошибаются, действуют очертя голову.",
-          "source": "Danas, 2016",
-          "url": "https://www.danas.rs/kultura/jubilej-40-godina-serije-grlom-u-jagode"
+          "serbian_latin": "Nećemo ići „grlom u jagode“.",
+          "russian": "Мы не будем действовать безрассудно, сгоряча.",
+          "source": "RTS, 2018"
         }
       ],
-      "note": "Оборот означает именно необдуманное движение вперёд — когда человек сначала действует, а потом думает. Популярное объяснение образа связывает его с тем, что в заросли клубники бросаются, не видя скрытых препятствий, однако точное происхождение выражения надёжно не установлено. Название культового югославского сериала Grlom u jagode сделало фразу особенно узнаваемой, но сам фразеологизм существовал независимо от сериала.",
+      "note": "Главное значение — ринуться к цели без подготовки и размышлений о последствиях. Русскому буквальное grlom ничего не объясняет; естественны «очертя голову», «лезть напролом», «соваться не подумав». Популярное объяснение связывает образ с неосторожным броском в заросли за земляникой, но надёжно установленной этимологией считать эту версию не стоит.",
       "keyword": "grlom u jagode"
     },
     {
@@ -6906,28 +6931,28 @@
     {
       "headword_latin": "Kamen oko vrata",
       "type": "frazeologizam",
-      "definition_ru": "обуза; тяжёлый груз; то, что тянет вниз и мешает двигаться дальше",
+      "definition_ru": "тяжёлое бремя; обуза; то, что постоянно мешает двигаться вперёд",
       "synonyms_sr": [
         "teret",
-        "opterećenje",
-        "kočnica",
-        "breme"
+        "breme",
+        "velika smetnja",
+        "opterećenje"
       ],
       "literal_ru": "камень на шее",
-      "register": "разг.-публицист., экспр.; nešto je nekome kamen oko vrata",
+      "register": "razg.-publicistički, neodobr.; biti / postati nekome kamen oko vrata",
       "examples": [
         {
           "serbian_latin": "Nostalgija je štetna stvar, kao nekakav kamen oko vrata.",
-          "russian": "Ностальгия — вредная вещь, своего рода камень на шее, который тянет вниз.",
+          "russian": "Ностальгия — вредная вещь, словно камень на шее.",
           "source": "RTS, 2010"
         },
         {
-          "serbian_latin": "To jeste bio jedan kamen oko vrata, ali jeste bio i velika motivacija da uložimo najveći napor.",
-          "russian": "Это действительно было тяжёлым грузом, но одновременно и огромной мотивацией приложить максимум усилий.",
-          "source": "RTS, 2024"
+          "serbian_latin": "Ovakvo upravljanje predstavlja kamen oko vrata ne samo za Beograđane, već i za Srbiju.",
+          "russian": "Такое управление становится тяжёлой обузой не только для белградцев, но и для всей Сербии.",
+          "source": "Danas, 2026"
         }
       ],
-      "note": "Русское «камень на шее» понятно, но как устойчивый переносный эквивалент часто естественнее «обуза», «тяжёлый груз». Оборот особенно подходит к обязательству, прошлой неудаче, долгу, человеку или проблеме, которые постоянно мешают и психологически давят.",
+      "note": "В отличие от natovariti nešto sebi na vrat, где внимание на самом действии «взвалить на себя проблему», kamen oko vrata обозначает уже существующее тяжёлое бремя, которое мешает и тянет вниз. Выражение свободно относится к долгам, отношениям, организациям, привычкам и политическим проблемам.",
       "keyword": "kamen oko vrata"
     },
     {
@@ -7572,6 +7597,33 @@
       ],
       "note": "Obojci — куски ткани, которыми обматывали стопы вместо носков и поверх которых надевали opanci. В словарной традиции выражение означает «кто что получит, кому как придётся в столкновении; там видно будет». Точное происхождение не установлено: Вук Караджич приводит версию о драке из-за обуви, существуют и более поздние объяснения через военную добычу.",
       "keyword": "kom opanci kom obojci"
+    },
+    {
+      "headword_latin": "Kost u grlu",
+      "type": "frazeologizam",
+      "definition_ru": "кость в горле; постоянная помеха; человек или проблема, которые сильно мешают и раздражают",
+      "synonyms_sr": [
+        "velika smetnja",
+        "trn u oku",
+        "nerešen problem",
+        "prepreka"
+      ],
+      "literal_ru": "кость в горле",
+      "register": "razg.-publicistički, neodobr.; tipično biti nekome kost u grlu",
+      "examples": [
+        {
+          "serbian_latin": "Danas i Peščanik počeli su da doživljavaju kao kost u grlu.",
+          "russian": "«Danas» и «Peščanik» стали для них постоянной и очень неудобной помехой.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Vujošević je bio ikona KK Partizana i kost u grlu vlasti.",
+          "russian": "Вуйошевич был легендой «Партизана» и постоянной занозой для власти.",
+          "source": "N1 Srbija, 2026"
+        }
+      ],
+      "note": "Не путать с knedla u grlu: там речь об эмоции, из-за которой трудно говорить или глотать. Kost u grlu — внешний раздражитель или нерешённая проблема, от которой трудно избавиться. С trn u oku значение пересекается, но kost u grlu сильнее подчёркивает постоянную помеху и невозможность её «проглотить».",
+      "keyword": "kost u grlu"
     },
     {
       "headword_latin": "koštati kao Svetog Petra kajgana",
@@ -9294,6 +9346,33 @@
       ],
       "note": "Оборот характеризует не зрение, а интеллектуальную и стратегическую недальновидность. Возможны варианты ne videti dalje od nosa и ne videti dalje od svog nosa. Русское выражение почти полностью совпадает, поэтому главное — заметить, насколько часто оно употребляется в сербской публицистике для критики краткосрочного мышления.",
       "keyword": "ne videti dalje od nosa"
+    },
+    {
+      "headword_latin": "Ne zna se ko pije, a ko plaća",
+      "type": "izreka",
+      "definition_ru": "чёрт ногу сломит; полный бардак; непонятно, кто за что отвечает",
+      "synonyms_sr": [
+        "vlada potpuni haos",
+        "ne zna se ko je odgovoran",
+        "nema reda",
+        "sve je zbrkano"
+      ],
+      "literal_ru": "неизвестно, кто пьёт, а кто платит",
+      "register": "razg., ekspresivno; o zbrci u upravljanju, odgovornosti ili organizaciji",
+      "examples": [
+        {
+          "serbian_latin": "Ne zna se ko pije, a ko plaća, ko upravlja Evropskom unijom.",
+          "russian": "Совершенно непонятно, кто там за что отвечает и кто вообще всем управляет.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Kako bi se narodski reklo: „Ne zna se ko pije, a ko plaća“.",
+          "russian": "Как говорят в народе: полный бардак, непонятно, кто за что отвечает.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Выпивка и счёт здесь давно лишь образ. Выражение характеризует систему, где роли, полномочия и ответственность настолько перепутаны, что невозможно понять, кто принимает решения и кто несёт последствия. Часто употребляется о политике, учреждениях и плохо организованной работе.",
+      "keyword": "ko pije ko plaća"
     },
     {
       "headword_latin": "Ne zna se ko pije, ko plaća",
@@ -13359,30 +13438,28 @@
     {
       "headword_latin": "Prevrnuti nebo i zemlju",
       "type": "frazeologizam",
-      "definition_ru": "перевернуть небо и землю; всё перерыть; сделать всё возможное, чтобы найти или добиться чего-то",
+      "definition_ru": "перевернуть небо и землю; сделать всё возможное; обыскать всё, не пожалеть никаких усилий",
       "synonyms_sr": [
         "učiniti sve",
         "tražiti svuda",
-        "uložiti sve napore",
-        "ne štedeti truda"
+        "uložiti krajnji napor",
+        "ne birati sredstva"
       ],
       "literal_ru": "перевернуть небо и землю",
-      "register": "разг.-публицист., экспр.; особенно часто prevrnuti nebo i zemlju da bi se neko / nešto pronašlo",
+      "register": "razg.-publicistički, ekspresivno; naročito o potrazi za čovekom, krivcem ili rešenjem",
       "examples": [
         {
-          "serbian_latin": "Tadašnji ministar policije Dušan Mihajlović rekao je da će policija „prevrnuti i nebo i zemlju dok ne pronađe ubicu“.",
-          "russian": "Тогдашний министр полиции Душан Михайлович заявил, что полиция перевернёт небо и землю, пока не найдёт убийцу.",
-          "source": "Danas, 2022",
-          "url": "https://www.danas.rs/vesti/drustvo/kako-je-pre-20-godina-ubijen-general-major-bosko-buha/"
+          "serbian_latin": "Policija će „prevrnuti i nebo i zemlju dok ne pronađe ubicu“.",
+          "russian": "Полиция перевернёт небо и землю, пока не найдёт убийцу.",
+          "source": "Danas, 2022"
         },
         {
-          "serbian_latin": "U privremenoj sirijskoj vladi obećavaju da će „prevrnuti i nebo i zemlju“ kako bi rasvetlili ovaj zločin.",
-          "russian": "Во временном сирийском правительстве обещают перевернуть небо и землю, чтобы раскрыть это преступление.",
-          "source": "Politika, 2025",
-          "url": "https://www.politika.rs/sr/clanak/683965/teska-sudbina-hriscana-na-bliskom-istoku"
+          "serbian_latin": "Obećavaju da će „prevrnuti i nebo i zemlju“ kako bi rasvetlili ovaj zločin.",
+          "russian": "Они обещают сделать всё возможное, чтобы раскрыть это преступление.",
+          "source": "Politika, 2025"
         }
       ],
-      "note": "Встречаются варианты с союзом i — prevrnuti i nebo i zemlju — и без него. Выражение означает максимальную интенсивность поиска или усилий, а не просто «много работать». По-русски образ существует, но несколько менее разговорный; часто естественнее «всё перерыть», «сделать всё возможное».",
+      "note": "Выражение обозначает предельную интенсивность усилий, чаще всего поиска или расследования. Русское «перевернуть небо и землю» понятно, но значительно естественнее «перевернуть всё вверх дном», «сделать всё возможное». В сербском устойчив именно глагол prevrnuti, хотя возможны авторские расширения.",
       "keyword": "prevrnuti nebo i zemlju"
     },
     {
@@ -13495,6 +13572,33 @@
       ],
       "note": "Речь идёт не о настоящем кладбище, а о демонстративном отсутствии внимания или приветствия. В нейтральной речи лучше использовать proći bez pozdrava или ignorisati nekoga.",
       "keyword": "groblje"
+    },
+    {
+      "headword_latin": "Proći sito i rešeto",
+      "type": "frazeologizam",
+      "definition_ru": "пройти огонь, воду и медные трубы; многое пережить; пройти суровую проверку",
+      "synonyms_sr": [
+        "svašta proći",
+        "biti prekaljen",
+        "proći mnoga iskušenja",
+        "proći temeljnu proveru"
+      ],
+      "literal_ru": "пройти сито и решето",
+      "register": "razg.-neutralno, ekspresivno; o bogatom teškom iskustvu ili veoma strogoj proveri",
+      "examples": [
+        {
+          "serbian_latin": "Novinar veteran koji je prošao „sito i rešeto“ novinarstva takozvane druge Jugoslavije.",
+          "russian": "Журналист-ветеран, прошедший огонь, воду и медные трубы югославской журналистики.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Prošao sito i rešeto, trgove, šatore, sve ono što je obeležilo nesretne devedesete.",
+          "russian": "Он многое пережил: площади, палаточные лагеря и всё, чем запомнились девяностые.",
+          "source": "N1 Srbija, 2023"
+        }
+      ],
+      "note": "Sito и rešeto — два приспособления для просеивания, поэтому исходный образ предполагает многократное «просеивание». Отсюда два значения: человек многое перенёс и закалился либо объект прошёл строгий отбор и проверку.",
+      "keyword": "sito i rešeto"
     },
     {
       "headword_latin": "prodavati maglu",
@@ -14843,6 +14947,32 @@
       ],
       "note": "Русское «сидеть на голове» обычно подчёркивает отсутствие дисциплины или чрезмерную дозволенность, тогда как сербское skakati nekome po glavi шире: надоедать, донимать, давить, не давать спокойно жить или работать. Конструкция skaču mi po glavi очень разговорная и естественная.",
       "keyword": "skakati po glavi"
+    },
+    {
+      "headword_latin": "Skakati sebi u usta",
+      "type": "frazeologizam",
+      "definition_ru": "противоречить самому себе; опровергать собственные слова; говорить одно, а делать другое",
+      "synonyms_sr": [
+        "protivrečiti sebi",
+        "pobijati samog sebe",
+        "govoriti jedno pa drugo"
+      ],
+      "literal_ru": "прыгать самому себе в рот",
+      "register": "razg., neodobr.; zamenice se slažu sa subjektom: sam sebi / sama sebi",
+      "examples": [
+        {
+          "serbian_latin": "Evropska komisija skače samoj sebi u usta.",
+          "russian": "Европейская комиссия сама себе противоречит.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Zapravo sam skače sam sebi u usta.",
+          "russian": "По сути, он сам себе противоречит.",
+          "source": "N1 Srbija, 2026"
+        }
+      ],
+      "note": "Русский не использует образ «прыгать себе в рот», поэтому переводить нужно через «сам себе противоречить». Обычно речь не о простой смене мнения, а о том, что новое утверждение логически разрушает предыдущее. Важно согласование: on skače sam sebi, ona skače sama sebi.",
+      "keyword": "skakati sebi u usta"
     },
     {
       "headword_latin": "Skinuti ljagu sa nekoga / nečega",
@@ -16366,30 +16496,28 @@
     {
       "headword_latin": "Stisnuti zube",
       "type": "frazeologizam",
-      "definition_ru": "сцепить зубы; стиснуть зубы и терпеть; собраться и выдержать",
+      "definition_ru": "стиснуть зубы; терпеть через силу; собраться и выдержать",
       "synonyms_sr": [
         "izdržati",
-        "istrpeti",
+        "pretrpeti",
         "skupiti snagu",
         "ne odustati"
       ],
-      "literal_ru": "стиснуть зубы",
-      "register": "разг.-нейтр., экспр.; о преодолении боли, трудностей, усталости или неприятной ситуации",
+      "literal_ru": "",
+      "register": "razg.-neutralno, ekspresivno; može biti doslovno i preneseno",
       "examples": [
         {
-          "serbian_latin": "Stisnuo sam zube i morao sam da dam sve od sebe kada sam video igrače kako se bore.",
-          "russian": "Я сцепил зубы и должен был выложиться полностью, когда увидел, как борются остальные игроки.",
-          "source": "RTS, 2025",
-          "url": "https://www.rts.rs/lat/sport/fudbal/liga_sampiona/5836372/crvena-zvezda-fcsb-liga-evrope-2025.html"
+          "serbian_latin": "Novak stisnuo zube i pobedio Munara i bolove.",
+          "russian": "Новак стиснул зубы и, несмотря на боль, победил Мунара.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Treba dići glavu, stisnuti zube i praviti novine. Borbene.",
-          "russian": "Нужно поднять голову, стиснуть зубы и делать газету. Боевую.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/vesti/drustvo/zbogom-legendo/"
+          "serbian_latin": "Treba dići glavu, stisnuti zube i praviti novine.",
+          "russian": "Нужно поднять голову, стиснуть зубы и продолжать делать газету.",
+          "source": "Danas, 2020"
         }
       ],
-      "note": "Совпадение с русским почти полное. В сербском оборот особенно часто означает «терпеть боль или тяжёлые обстоятельства и продолжать действовать». При этом stisnuti zube может быть и буквальным — например, при боли или бруксизме.",
+      "note": "В переносном значении это не подавление злости, а готовность выдержать боль, трудности или неприятную обязанность и продолжить действовать. Русское «стиснуть зубы» почти полностью совпадает. При этом сербское сочетание легко употребляется и буквально — например, при ночном бруксизме.",
       "keyword": "stisnuti zube"
     },
     {
@@ -16922,6 +17050,32 @@
       ],
       "note": "Несовершенный вид terati mak na konac чаще подчёркивает придирчивость и чрезмерную настойчивость. Совершенный isterati mak na konac может означать, что человек всё-таки добился своего или окончательно прояснил дело.",
       "keyword": "mak; konac"
+    },
+    {
+      "headword_latin": "Terati / navoditi vodu na svoju vodenicu",
+      "type": "frazeologizam",
+      "definition_ru": "тянуть одеяло на себя; поворачивать всё в свою пользу; использовать ситуацию в собственных интересах",
+      "synonyms_sr": [
+        "gledati svoju korist",
+        "okretati stvar u svoju korist",
+        "koristiti situaciju za sebe"
+      ],
+      "literal_ru": "направлять воду на свою мельницу",
+      "register": "razg.-publicistički, često neodobr.; varijante terati, navoditi, vući",
+      "examples": [
+        {
+          "serbian_latin": "Svako tera vodu na svoju vodenicu, pomislih, a za Boga ne pita.",
+          "russian": "Каждый тянет одеяло на себя и заботится прежде всего о собственной выгоде.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Ko tera vodu na svoju vodenicu, melje gluposti.",
+          "russian": "Кто всё обращает в свою пользу, тот в данном случае занимается ерундой.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Образ связан с водяными мельницами: поток воды был ценным ресурсом, и каждому владельцу было выгодно направить его к своему колесу. Сербский лингвистический комментарий прямо связывает фразеологизм с этой старой хозяйственной реальностью. Русское «лить воду на свою мельницу» существует, но в живой речи часто естественнее «тянуть одеяло на себя».",
+      "keyword": "voda na svoju vodenicu"
     },
     {
       "headword_latin": "Tiha voda breg roni",
