@@ -2384,6 +2384,33 @@
       "keyword": "čiča miča gotova priča"
     },
     {
+      "headword_latin": "Čist kao suza",
+      "type": "frazeologizam",
+      "definition_ru": "чист как слеза; совершенно безупречный; абсолютно ясный и бесспорный",
+      "synonyms_sr": [
+        "potpuno čist",
+        "besprekoran",
+        "nesporan",
+        "potpuno jasan"
+      ],
+      "literal_ru": "чистый как слеза",
+      "register": "razg.-publicistički, ekspresivno; o rezultatu, pobedi, odluci, poslu, vodi i slično",
+      "examples": [
+        {
+          "serbian_latin": "Odluka je čista kao suza.",
+          "russian": "Решение совершенно чистое и бесспорное.",
+          "source": "Politika, 2007"
+        },
+        {
+          "serbian_latin": "Premijer Srbije odgovara da je „sve čisto kao suza“.",
+          "russian": "Премьер Сербии отвечает, что всё абсолютно чисто и прозрачно.",
+          "source": "N1 Srbija, 2016"
+        }
+      ],
+      "note": "Значение зависит от существительного: победа может быть «честной и несомненной», решение — «безупречным», вода — буквально прозрачной. В политическом и журналистском контексте выражение легко приобретает иронию: заявление о том, что всё čisto kao suza, может соседствовать именно с сомнениями в чистоте процедуры.",
+      "keyword": "čist kao suza"
+    },
+    {
       "headword_latin": "Čist račun, duga ljubav",
       "type": "poslovica",
       "definition_ru": "дружба дружбой, а денежки врозь; ясные расчёты сохраняют хорошие отношения",
@@ -2624,6 +2651,32 @@
       ],
       "note": "Одно из объяснений связывает оборот с полной формой ćutati kao olovom zaliven — словно рот залит свинцом.",
       "keyword": "zaliven"
+    },
+    {
+      "headword_latin": "Da se Vlasi ne dosete",
+      "type": "izraz",
+      "definition_ru": "чтобы никто не догадался; для отвода глаз; замаскировать истинный смысл или намерение",
+      "synonyms_sr": [
+        "prikriti pravu nameru",
+        "zametnuti trag",
+        "prikriti šta se stvarno radi"
+      ],
+      "literal_ru": "",
+      "register": "razg.-publicistički, iron.; obično kao umetnuta formula uz opis prikrivanja ili varke",
+      "examples": [
+        {
+          "serbian_latin": "Sve sa ciljem, „da se Vlasi ne dosete“.",
+          "russian": "Всё с одной целью — чтобы никто не раскусил, что происходит на самом деле.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Da se Vlasi ne dosete, autor pri tome koristi termin Lebenszeit.",
+          "russian": "Чтобы замаскировать истинный смысл, автор при этом использует термин Lebenszeit.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Сегодня выражение означает попытку сделать что-либо так, чтобы окружающие не заметили настоящей цели. Vlasi — исторический этноним, который в разные эпохи и регионы имел разные референции; популярные рассказы о конкретном историческом эпизоде происхождения выражения надёжно не доказаны. Для современного употребления этнический смысл обычно стёрт, но русскому полезно знать, что внутри формулы сохраняется название народа.",
+      "keyword": "Vlasi se ne dosete"
     },
     {
       "headword_latin": "Daleko mu lepa kuća",
@@ -5034,6 +5087,33 @@
       ],
       "note": "Употребляется о личных конфликтах, общественных проблемах и действиях учреждений, которые скрывают проблему, не устраняя её причины.",
       "keyword": "tepih"
+    },
+    {
+      "headword_latin": "Hladan kao špricer",
+      "type": "frazeologizam",
+      "definition_ru": "невозмутимый; хладнокровный; спокойный как удав",
+      "synonyms_sr": [
+        "hladnokrvan",
+        "pribran",
+        "potpuno miran",
+        "bez nervoze"
+      ],
+      "literal_ru": "холодный как шприцер",
+      "register": "razg., ekspresivno, često odobr. ili šalj.; naročito o čoveku pod pritiskom",
+      "examples": [
+        {
+          "serbian_latin": "U Vuksiju sam bio „hladan kao špricer“.",
+          "russian": "В Уси я оставался совершенно невозмутимым.",
+          "source": "RTS, 2009"
+        },
+        {
+          "serbian_latin": "Miran, staložen, mnogi bi rekli „hladan kao špricer“, Andrija Zlatić...",
+          "russian": "Спокойный, собранный — что называется, невозмутимый как удав, — Андрия Златич…",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Špricer — смесь белого вина с содовой или газированной водой, которую пьют охлаждённой. Поэтому образ обозначает человека, который даже в напряжённый момент остаётся «холодным». Русское «холодный как лёд» может звучать эмоционально отрицательно, тогда как hladan kao špricer нередко хвалит самообладание.",
+      "keyword": "hladan kao špricer"
     },
     {
       "headword_latin": "hodati / biti na tankom ledu",
@@ -10082,6 +10162,32 @@
       "keyword": "babu; stričevima"
     },
     {
+      "headword_latin": "Ni po jada",
+      "type": "izraz",
+      "definition_ru": "это ещё полбеды; это ещё ничего; ладно бы только это",
+      "synonyms_sr": [
+        "to još nije najgore",
+        "to bi još bilo podnošljivo",
+        "nije to glavni problem"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; naročito ni po jada da..., posle čega sledi ozbiljniji problem",
+      "examples": [
+        {
+          "serbian_latin": "Ama, pusti krave, lako ćemo za krave, da su samo krave, ni po jada.",
+          "russian": "Да ладно коровы; если бы проблема была только в них, это ещё полбеды.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "To što je bio gost u DLZ, ni po jada, već je „stativa“ bila to što smo ga posle snimanja [...] odveli na zatvoreni bazen.",
+          "russian": "То, что он был гостем передачи, ещё полбеды; настоящая ошибка была в другом.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Это не просто «не страшно». Говорящий обычно сначала называет проблему A и тут же сообщает, что A — ещё полбеды по сравнению с гораздо худшей проблемой B. Поэтому конструкцию удобно запоминать по модели: To, ni po jada, nego... или Ni po jada da je samo to....",
+      "keyword": "ni po jada"
+    },
+    {
       "headword_latin": "Ni po koju cenu",
       "type": "izraz",
       "definition_ru": "ни за что; ни при каких обстоятельствах; любой ценой не допустить",
@@ -10387,6 +10493,33 @@
       ],
       "note": "Vinkla — строительный угольник и, шире, правильный угол; поэтому буквально что-то nije u vinklu, если стоит криво. Перенос на человека даёт «что-то с ним не так, не совсем нормальный». Politika фиксирует выражение рядом с nakrivo nasađen и fali mu daska u glavi. Для русского важно не переводить буквально «не под углом».",
       "keyword": "nije u vinklu"
+    },
+    {
+      "headword_latin": "Nisu čista posla",
+      "type": "frazeologizam",
+      "definition_ru": "дело нечисто; здесь что-то не так; попахивает чем-то подозрительным",
+      "synonyms_sr": [
+        "nešto je sumnjivo",
+        "nešto nije u redu",
+        "mutna posla",
+        "ima tu nečega"
+      ],
+      "literal_ru": "дела нечистые",
+      "register": "razg., ekspresivno; ustaljeno u množini nisu čista posla",
+      "examples": [
+        {
+          "serbian_latin": "Dugo zatim, japanske kolege verovale su da tu „nisu čista posla“.",
+          "russian": "Ещё долго японские коллеги подозревали, что здесь дело нечисто.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Mnogi sumnjaju da tu nisu čista posla.",
+          "russian": "Многие подозревают, что здесь что-то нечисто.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Posla здесь входит в устойчивую конструкцию, которую лучше запоминать целиком. Обычно говорящий ещё не утверждает, что обман доказан: он замечает признаки чего-то подозрительного. Русское «дело нечисто» почти идеально совпадает.",
+      "keyword": "čista posla"
     },
     {
       "headword_latin": "Nisu mu sve koze na broju",
@@ -10794,6 +10927,33 @@
       ],
       "note": "Обычно подразумевает значительный расход после периода сдержанности или нежелания платить.",
       "keyword": "kesa"
+    },
+    {
+      "headword_latin": "Okačiti mačku o rep",
+      "type": "frazeologizam",
+      "definition_ru": "забыть об этом; выбросить из головы; считать бесполезным или ничего не стоящим",
+      "synonyms_sr": [
+        "zaboraviti",
+        "odbaciti",
+        "ne računati na nešto",
+        "bataliti (razg.)"
+      ],
+      "literal_ru": "повесить кошке на хвост",
+      "register": "razg., prezr.; obično to / obećanje / zakon okačiti mačku o rep",
+      "examples": [
+        {
+          "serbian_latin": "To što misliš da nemaš na čemu da se zahvaljuješ [...] možeš da okačiš mačku o rep.",
+          "russian": "Свои рассуждения о том, что благодарить не за что, можешь просто выбросить из головы.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Onu bajatu priču o ljubavi prema sportu valja odmah okačiti mačku o rep.",
+          "russian": "Эту избитую сказку о любви к спорту можно сразу выбросить на помойку.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Чаще всего речь о словах, обещаниях, теориях, правилах или надеждах, которым больше не стоит придавать значение. Русское «коту под хвост» очень близко по образу, но чаще относится к напрасно потраченным усилиям; сербское okačiti mačku o rep шире — «можешь об этом забыть / это ничего не стоит».",
+      "keyword": "mačku o rep"
     },
     {
       "headword_latin": "okrenuti / promeniti ploču",
@@ -13108,30 +13268,28 @@
     {
       "headword_latin": "Povući ručnu",
       "type": "frazeologizam",
-      "definition_ru": "притормозить; сбавить обороты; остановиться и не спешить",
+      "definition_ru": "притормозить; сбавить обороты; остановиться и не идти дальше",
       "synonyms_sr": [
         "usporiti",
         "zakočiti",
-        "stati",
-        "smiriti se"
+        "zaustaviti se",
+        "odustati od daljeg forsiranja"
       ],
       "literal_ru": "потянуть ручник",
-      "register": "разг., экспр.; переносное от ručna kočnica",
+      "register": "razg.-publicistički; preneseno iz automobilskog izraza za ručnu kočnicu",
       "examples": [
         {
-          "serbian_latin": "Ali ajde, rekoh sebi: „Povuci ručnu“, pusti da prođe vreme pre nego što bilo šta zaključiš.",
-          "russian": "Но я сказал себе: «Притормози», дай времени пройти, прежде чем делать выводы.",
-          "source": "Danas, 2015",
-          "url": "https://www.danas.rs/zivot/grad-utisaka/"
+          "serbian_latin": "Određeni investitori „povukli su ručnu“, jer nisu sigurni da će [...] moći da prodaju kvadrat po odgovarajućoj ceni.",
+          "russian": "Некоторые застройщики притормозили, потому что не уверены, что смогут продать жильё по нужной цене.",
+          "source": "BBC na srpskom / Danas, 2023"
         },
         {
-          "serbian_latin": "Zaustavi se, silni čoveče, u svom katastrofalnom pohodu. Povuci ručnu!",
-          "russian": "Остановись в своём разрушительном походе. Притормози!",
-          "source": "Danas, 2017",
-          "url": "https://www.danas.rs/dijalog/pisma-citalaca/premijeru-ima-ko-da-pise/"
+          "serbian_latin": "„Miškoviću, povuci ručnu“.",
+          "russian": "«Мишкович, притормози».",
+          "source": "Danas, 2015"
         }
       ],
-      "note": "Помимо буквального автомобильного значения, povući ručnu очень продуктивно переносится на поведение, карьеру, расходы, отношения и политику: «сбавить темп, вовремя остановиться». Русское «дёрнуть ручник» обычно остаётся буквальным, поэтому переводить его буквально не стоит.",
+      "note": "В переносном употреблении человек или организация слишком разогнались — в действиях, расходах, экспансии, конфликте — и им предлагают остановиться или снизить темп. Возможен и совершенный вид povući ručnu, и конструкции вроде investitori su povukli ručnu. Русское «дёрнуть ручник» существует, но «притормозить» обычно естественнее.",
       "keyword": "povući ručnu"
     },
     {
@@ -13535,6 +13693,33 @@
         }
       ],
       "note": "Образ особенно выразителен: человека будто провели через воду, но он всё равно остался жаждущим — его ловко оставили ни с чем. Для русскоязычного неожиданна грамматика: žednog относится к объекту и стоит вместе с ним в винительном падеже — prevesti njega žednog; с женским лицом возможно je žednu.",
+      "keyword": "žednog preko vode"
+    },
+    {
+      "headword_latin": "Prevesti žednog preko vode",
+      "type": "frazeologizam",
+      "definition_ru": "ловко обмануть; провести вокруг пальца; оставить человека ни с чем, заставив поверить обещаниям",
+      "synonyms_sr": [
+        "prevariti",
+        "nasamariti (razg.)",
+        "obmanuti",
+        "napraviti budalom"
+      ],
+      "literal_ru": "перевести жаждущего через воду, не дав ему напиться",
+      "register": "razg., neodobr.; prevesti nekoga žednog preko vode",
+      "examples": [
+        {
+          "serbian_latin": "Vučić je preveo Srbe sa Kosova žedne preko vode.",
+          "russian": "Вучич обвёл косовских сербов вокруг пальца.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Beograd je glavni grad Srbije. Nećete ga prevesti žednog preko vode.",
+          "russian": "Белград — столица Сербии. Вам не удастся обвести его жителей вокруг пальца.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Образ особенно выразителен: обманутого словно провели мимо того, что ему жизненно нужно, но не дали воспользоваться этим. Русские «обвести вокруг пальца», «оставить с носом», «провести» выбираются по контексту. Управление прямое: prevesti nekoga žednog preko vode.",
       "keyword": "žednog preko vode"
     },
     {
@@ -16125,6 +16310,33 @@
       "keyword": "stati na pola puta"
     },
     {
+      "headword_latin": "Stati na svoje noge",
+      "type": "frazeologizam",
+      "definition_ru": "встать на ноги; окрепнуть; стать самостоятельным и жизнеспособным",
+      "synonyms_sr": [
+        "osamostaliti se",
+        "oporaviti se",
+        "postati stabilan",
+        "ojačati"
+      ],
+      "literal_ru": "встать на собственные ноги",
+      "register": "razg.-neutralno; može biti doslovno o fizičkom oporavku i preneseno o čoveku, firmi ili organizaciji",
+      "examples": [
+        {
+          "serbian_latin": "Očekuju da će „Termoelektro“ do kraja ove ili početkom iduće godine stati na svoje noge.",
+          "russian": "Ожидается, что к концу года или началу следующего «Termoelektro» наконец встанет на ноги.",
+          "source": "Politika, 2008"
+        },
+        {
+          "serbian_latin": "Fabrika će stati na svoje noge.",
+          "russian": "Завод встанет на ноги и снова станет жизнеспособным.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Переносное значение практически совпадает с русским: восстановиться после кризиса и стать способным самостоятельно функционировать. Но сербское svoje регулярно сохраняется: firma treba da stane na svoje noge. Не смешивать с просто stati na noge, которое может обозначать и буквальное вставание.",
+      "keyword": "stati na svoje noge"
+    },
+    {
       "headword_latin": "Stati nekome na crtu",
       "type": "frazeologizam",
       "definition_ru": "бросить кому-то вызов; выйти против кого-то; помериться силами",
@@ -17117,6 +17329,33 @@
       ],
       "note": "Может характеризовать человека, расписание, механизм, расчёт или точное спортивное действие.",
       "keyword": "sat"
+    },
+    {
+      "headword_latin": "Taj film nećeš gledati",
+      "type": "replika",
+      "definition_ru": "этого не будет; не дождёшься; такой сценарий не пройдёт",
+      "synonyms_sr": [
+        "od toga nema ništa",
+        "to se neće dogoditi",
+        "neće ti proći",
+        "malo sutra (razg.)"
+      ],
+      "literal_ru": "этот фильм ты не будешь смотреть",
+      "register": "razg., ekspresivna replika; takođe taj film nećete gledati",
+      "examples": [
+        {
+          "serbian_latin": "Taj film u Nišu nećete gledati.",
+          "russian": "Такого сценария в Нише вы не дождётесь.",
+          "source": "N1 Srbija, 2024"
+        },
+        {
+          "serbian_latin": "Ugasiti N1, Novu S, „Danas“, „Radar“… Taj film nećete gledati.",
+          "russian": "Закрыть N1, Nova S, «Danas», «Radar»… Нет, такого вы не дождётесь.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Film здесь метафорически означает предполагаемый сценарий развития событий. Реплика категорически отвергает чужой план или ожидание и часто звучит вызывающе: «не надейтесь». В современном политическом языке Сербии формула особенно заметна, но употребление не ограничено политикой.",
+      "keyword": "taj film nećeš gledati"
     },
     {
       "headword_latin": "Tamni vilajet",
