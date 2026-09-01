@@ -3512,28 +3512,28 @@
     {
       "headword_latin": "Doći na svoje",
       "type": "frazeologizam",
-      "definition_ru": "прийти в норму; встать на свои места; раскрыться, проявить себя",
+      "definition_ru": "прийти в норму; всё встанет на свои места; раскрыться и показать себя",
       "synonyms_sr": [
         "srediti se",
-        "vratiti se u normalu",
-        "pokazati pun potencijal",
-        "doći na pravo mesto"
+        "doći u pravi položaj",
+        "pokazati svoje kvalitete",
+        "vratiti se u normalu"
       ],
       "literal_ru": "",
-      "register": "разг.-нейтр.; значение зависит от субъекта",
+      "register": "razg.-neutralno; situacija se normalizuje ili neko dolazi u uslove u kojima može da pokaže svoje kvalitete",
       "examples": [
         {
-          "serbian_latin": "Onog momenta kad shvate da je to sve nebitno... stvari će doći na svoje.",
-          "russian": "Как только они поймут, что всё это несущественно, всё встанет на свои места.",
+          "serbian_latin": "Onog momenta kad shvate [...] stvari će doći na svoje.",
+          "russian": "Как только они это поймут, всё встанет на свои места.",
           "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Josipović je rekao da će „i to doći na svoje“.",
-          "russian": "Йосипович сказал, что и это со временем встанет на свои места.",
-          "source": "RTS, 2010"
+          "serbian_latin": "Kapiten Stanković je došao „na svoje“ na poziciji zadnjeg veznog.",
+          "russian": "Капитан Станкович наконец оказался на своей позиции, где смог проявить себя.",
+          "source": "Danas, 2008"
         }
       ],
-      "note": "С неодушевлённым субъектом выражение обычно значит «наладиться, встать на свои места»: sve će doći na svoje. О человеке, особенно спортсмене или артисте, doći na svoje может означать «наконец оказаться в подходящих условиях и полностью проявить себя». Русскому поэтому нельзя автоматически переводить одним вариантом.",
+      "note": "Русскому важно различать два перевода. Sve će doći na svoje — «всё образуется / встанет на свои места»; igrač je došao na svoje — «оказался в своей стихии, получил возможность проявиться». Буквальное «прийти на своё» по-русски не работает.",
       "keyword": "doći na svoje"
     },
     {
@@ -6532,6 +6532,33 @@
       "keyword": "izaći na crtu"
     },
     {
+      "headword_latin": "Izaći nekome na nos",
+      "type": "frazeologizam",
+      "definition_ru": "дорого обойтись; выйти боком; заставить пожалеть",
+      "synonyms_sr": [
+        "presesti",
+        "obiti se o glavu",
+        "skupo koštati",
+        "gorko se pokajati"
+      ],
+      "literal_ru": "выйти кому-то через нос",
+      "register": "razg., ekspresivno; obično nešto će nekome izaći na nos",
+      "examples": [
+        {
+          "serbian_latin": "Stevandić je naveo da će radovanje [...] sada „izaći na nos“.",
+          "russian": "Стевандич заявил, что эта радость им ещё дорого обойдётся.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Sada im to izlazi na nos – narod u Crnoj Gori je surovo realan i isto tako surovo kažnjava petljavine.",
+          "russian": "Теперь всё это выходит им боком: избиратели в Черногории сурово наказывают такие махинации.",
+          "source": "BBC na srpskom / Danas, 2023"
+        }
+      ],
+      "note": "Выражение означает, что прежнее решение, удовольствие, самоуверенность или поступок впоследствии оборачиваются неприятными последствиями. Русское «выйти боком» наиболее универсально; «поперёк горла встать» ближе к телесному образу, но не всегда передаёт идею расплаты. Управление: to će mu izaći na nos.",
+      "keyword": "izaći na nos"
+    },
+    {
       "headword_latin": "Izgledati kao avion",
       "type": "frazeologizam",
       "definition_ru": "Выглядеть сногсшибательно; выглядеть на все сто; быть просто отпад.",
@@ -7363,6 +7390,33 @@
       ],
       "note": "Значение зависит от глагола. Osećati se kao riba na suvom — чувствовать себя не в своей тарелке; snalaziti se kao riba na suvom — совершенно не справляться; živeti kao riba na suvom — находиться в тяжёлых или неподходящих условиях. Антонимичный образ — osećati se kao riba u vodi, то есть чувствовать себя свободно и естественно. Нормативная сербская форма — na suvom.",
       "keyword": "riba na suvom"
+    },
+    {
+      "headword_latin": "Kao Švaba tralala",
+      "type": "frazeologizam",
+      "definition_ru": "талдычить одно и то же; повторять без конца; тянуть одну и ту же песню",
+      "synonyms_sr": [
+        "ponavljati jedno te isto",
+        "vrteti istu priču",
+        "otegnuti priču",
+        "pričati bez kraja"
+      ],
+      "literal_ru": "",
+      "register": "razg., podrug.; obično uz ponavljati, pričati, otegnuti ili sve isto kao Švaba tralala",
+      "examples": [
+        {
+          "serbian_latin": "Da li stvarno skačemo u budućnost ili mlatimo praznu slamu kao Švaba tralala?",
+          "russian": "Мы действительно движемся в будущее или снова бесконечно переливаем из пустого в порожнее и повторяем одно и то же?",
+          "source": "N1 Srbija, 2024"
+        },
+        {
+          "serbian_latin": "Deo opozicije kao „Švaba tralala“ baš nju traži.",
+          "russian": "Часть оппозиции снова и снова твердит об одном и том же требовании.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "N1 со ссылкой на Милана Шипку отмечает, что выражение записал ещё Вук Караджич в Srpske narodne poslovice 1849 года. Švaba — старое, нередко пренебрежительное название немца или австрийца. Известна народная история о немце, дьяволе и бесконечном tralala, однако сам Шипка допускает, что эта история могла появиться уже как объяснение существовавшего выражения, поэтому считать её доказанной этимологией нельзя.",
+      "keyword": "Švaba tralala"
     },
     {
       "headword_latin": "kao zapeta puška",
@@ -9756,6 +9810,33 @@
       ],
       "note": "Это один из наиболее узнаваемых лозунгов ранней социалистической Югославии. После Второй мировой войны Nema odmora dok traje obnova! стало одной из главных мобилизационных формул восстановления страны, особенно связанных с omladinske radne akcije — молодёжными трудовыми акциями, на которых строили железные дороги, шоссе, Новый Белград, промышленные и энергетические объекты. В предисловии к собранию произведений Тито эта формула прямо названа glavna akciona parola toga vremena; RTS позднее называет её parola Titovih omladinaca. При этом надёжных оснований считать, что сам Тито придумал эту фразу, нет: правильнее говорить о послевоенном югославском лозунге, тесно связанном с титовской эпохой. Сегодня выражение давно вышло за рамки исторического контекста и употребляется шутливо о ремонте, перестройке команды, напряжённой работе или любом деле, которое нельзя бросить на полпути. Порядок частей свободно обыгрывается: Nema odmora dok traje obnova — наиболее узнаваемая форма, но Dok traje obnova, nema odmora также хорошо засвидетельствовано.",
       "keyword": "nema odmora dok traje obnova"
+    },
+    {
+      "headword_latin": "Nema pas za šta da ga ujede",
+      "type": "frazeologizam",
+      "definition_ru": "гол как сокол; ни гроша за душой; взять с него нечего",
+      "synonyms_sr": [
+        "nema ništa",
+        "bez prebijene pare",
+        "švorc (sleng)",
+        "go kao pištolj (razg.)"
+      ],
+      "literal_ru": "собаке даже не за что его укусить",
+      "register": "razg., ekspresivno, često grublje-šalj.; zamenica se menja: nema pas za šta da me/nas/ga ujede",
+      "examples": [
+        {
+          "serbian_latin": "Dete, nek mi uzmu podatke, nema pas za šta da me ujede.",
+          "russian": "Пусть забирают мои данные: я гол как сокол, взять с меня нечего.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Ponašamo se kao pijani milioneri i razbacujemo lovu na sve strane, a nema pas za šta da nas ujede.",
+          "russian": "Мы ведём себя как пьяные миллионеры и сорим деньгами, хотя сами практически нищие.",
+          "source": "N1 Srbija, 2021"
+        }
+      ],
+      "note": "Образ гиперболический: у человека настолько ничего нет, что даже собаке якобы не за что его ухватить. Фраза говорит прежде всего об отсутствии денег и имущества. В отличие от нейтрального siromašan, это яркая разговорная оценка, часто с самоиронией.",
+      "keyword": "nema pas za šta da ga ujede"
     },
     {
       "headword_latin": "Nema svrhe da...",
@@ -13479,6 +13560,33 @@
       "keyword": "račun bez krčmara"
     },
     {
+      "headword_latin": "Praviti se Englez",
+      "type": "frazeologizam",
+      "definition_ru": "делать вид, что не понимаешь; прикидываться неосведомлённым; включать дурачка",
+      "synonyms_sr": [
+        "praviti se lud",
+        "praviti se nevešt",
+        "glumiti da ne razumeš",
+        "praviti se neobavešten"
+      ],
+      "literal_ru": "изображать из себя англичанина",
+      "register": "razg., iron., neodobr.; o svesnom ignorisanju očiglednog",
+      "examples": [
+        {
+          "serbian_latin": "Gradonačelnik tvrdi da takav dopis nije primio i pravi se Englez usred zemlje Srbije.",
+          "russian": "Мэр утверждает, что такого письма не получал, и делает вид, будто ничего не знает.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Sudija to nije video, ali jeste nemački golman Nojer. Međutim, on uhvati loptu i „pravi se Englez“.",
+          "russian": "Судья этого не увидел, а немецкий вратарь Нойер увидел — но сделал вид, что ничего не произошло.",
+          "source": "Politika, 2014"
+        }
+      ],
+      "note": "Главное — не настоящая национальность, а демонстративное непонимание или неведение: человек всё прекрасно видит и понимает, но ведёт себя так, словно это его не касается. Происхождение выражения точно не установлено; народные объяснения лучше не принимать за доказанную этимологию.",
+      "keyword": "praviti se Englez"
+    },
+    {
       "headword_latin": "Praviti se lud",
       "type": "frazeologizam",
       "definition_ru": "прикидываться дурачком; делать вид, что ничего не понимаешь или не знаешь; уходить от ответственности",
@@ -14337,30 +14445,28 @@
     {
       "headword_latin": "Pustiti korenje",
       "type": "frazeologizam",
-      "definition_ru": "пустить корни; прочно обосноваться; укорениться",
+      "definition_ru": "пустить корни; осесть; прочно обосноваться где-либо",
       "synonyms_sr": [
-        "ukoreniti se",
-        "učvrstiti se",
+        "skrasiti se",
         "trajno se nastaniti",
-        "postati čvrsto prisutan"
+        "vezati se za neko mesto",
+        "ostati da živi"
       ],
       "literal_ru": "пустить корни",
-      "register": "нейтр.-публицист., экспр.; переносно о человеке, организации, идее или явлении, которые прочно закрепились в новой среде",
+      "register": "razg.-neutralno; o čoveku ili porodici koji trajno vezuju život za određeno mesto",
       "examples": [
         {
-          "serbian_latin": "Vrlo brzo je među Srbima pustila korenje.",
-          "russian": "Она очень быстро пустила корни среди сербов.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/magazin/kultura/kultura/5887792/.html?print=true"
+          "serbian_latin": "Hoćete li negde preko „pustiti korenje“ ili se vratiti tamo odakle potičete?",
+          "russian": "Собираетесь ли вы пустить корни за границей или вернётесь туда, откуда родом?",
+          "source": "Danas, 2021"
         },
         {
-          "serbian_latin": "Katarina Nikolić je ovom knjigom pesama pustila korenje u pesničkim vodama Srbije.",
-          "russian": "Этой книгой стихов Катарина Николич прочно закрепилась в поэтической среде Сербии.",
-          "source": "Politika, 2025",
-          "url": "https://www.politika.rs/sr/clanak/674078/kad-dramaturskinja-pise-pesme-uz-sopena"
+          "serbian_latin": "U tom su trenutku odlučili da će ovde pustiti korenje.",
+          "russian": "В тот момент они решили пустить здесь корни.",
+          "source": "N1 Srbija, 2024"
         }
       ],
-      "note": "Как и по-русски, выражение легко переносится с растения на человека, институт, идею или традицию. Но значение не обязательно связано с местом жительства: ideja je pustila korenje — идея укоренилась, а autor je pustio korenje u nekoj sredini — автор прочно в ней утвердился.",
+      "note": "Сербское и русское выражения практически совпадают. Однако pustiti korenje обычно предполагает не просто прожить где-то несколько лет, а превратить место в свой постоянный дом, создать связи и перестать воспринимать пребывание как временное. Буквальное употребление о растениях, конечно, также обычно.",
       "keyword": "pustiti korenje"
     },
     {
@@ -15884,6 +15990,32 @@
       ],
       "note": "Top здесь действительно означает «пушка», однако из современного значения выражения нельзя надёжно выводить конкретную историю его происхождения. Оборот подчёркивает именно глубину сна: человека трудно разбудить. Близкие spavati kao klada и spavati kao zaklan ещё более разговорны и образны.",
       "keyword": "spavati kao top"
+    },
+    {
+      "headword_latin": "Spavati kao zaklan",
+      "type": "frazeologizam",
+      "definition_ru": "спать как убитый; спать мёртвым сном; очень крепко спать",
+      "synonyms_sr": [
+        "spavati kao klada",
+        "spavati kao top",
+        "tvrdo spavati"
+      ],
+      "literal_ru": "спать как зарезанный",
+      "register": "razg., ekspresivno; uprkos morbidnoj slici obično nema agresivnu ocenu",
+      "examples": [
+        {
+          "serbian_latin": "Unuk joj je spavao kao zaklan.",
+          "russian": "Её внук спал как убитый.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Napravio čovek legalo od šaše i slame [...] i spavao kao zaklan.",
+          "russian": "Человек устроился на соломе и спал мёртвым сном.",
+          "source": "Politika, 2025"
+        }
+      ],
+      "note": "Для русского буквальный образ тоже звучит жёстко, но функциональный эквивалент «спать как убитый» совершенно обычен. Сербские авторы неоднократно обращают внимание на контраст между страшной буквальной картиной и нейтральным бытовым значением «очень крепко спать».",
+      "keyword": "spavati kao zaklan"
     },
     {
       "headword_latin": "Spavati snom pravednika",
@@ -18868,30 +19000,28 @@
     {
       "headword_latin": "Uzeti maha",
       "type": "frazeologizam",
-      "definition_ru": "набрать силу; разрастись; принять широкий размах",
+      "definition_ru": "набрать силу; развернуться; получить широкое распространение",
       "synonyms_sr": [
-        "raširiti se",
-        "razbuktati se",
-        "postati sve intenzivniji",
-        "razmahati se"
+        "širiti se",
+        "jačati",
+        "zahuktati se",
+        "postajati sve izraženije"
       ],
-      "literal_ru": "набрать размах",
-      "register": "нейтрально-экспрессивное, особенно часто публицистическое; о процессе или явлении, которое становится всё масштабнее или интенсивнее",
+      "literal_ru": "",
+      "register": "neutralno-publicistički; o tendenciji, procesu, epidemiji, kriminalu, pokretu, modi i slično",
       "examples": [
         {
-          "serbian_latin": "Državni terorizam uzima maha.",
-          "russian": "Государственный террор набирает силу.",
-          "source": "N1, 2025",
-          "url": "https://n1info.rs/vesti/masa-o-slucaju-studentkinje-poljoprivrednog-drzavni-terorizam-uzima-maha/"
+          "serbian_latin": "Spremnost policije da se bori protiv kriminala [...] zavisiće od toga koliko će on uzeti maha.",
+          "russian": "Готовность полиции бороться с преступностью будет зависеть от того, насколько сильно она разрастётся.",
+          "source": "Danas, 2009"
         },
         {
-          "serbian_latin": "Afrička kuga svinja iz dana u dan sve više uzima maha.",
-          "russian": "Африканская чума свиней с каждым днём распространяется всё шире.",
-          "source": "N1, 2023",
-          "url": "https://n1info.rs/vesti/kuga-doprinela-masakru-svinja-u-srbiji-strah-od-zaraze-na-velikim-farmama/"
+          "serbian_latin": "Verovatno nisu mogli ni da zamisle koliko će te ikonice uzeti maha.",
+          "russian": "Вероятно, они и представить не могли, насколько широкое распространение получат эти значки.",
+          "source": "N1 Srbija, 2022"
         }
       ],
-      "note": "В современной прессе особенно часто говорится о кризисе, эпидемии, насилии, протестах, тенденции или другом процессе, который усиливается и распространяется. Однако отрицательное значение не заложено в самом обороте: его задаёт контекст. Mah здесь связан с идеей размаха, набранной силы движения.",
+      "note": "Mah связан с размахом, импульсом движения: процесс словно разгоняется и становится всё сильнее или шире. Поэтому перевод зависит от субъекта: болезнь širi se, протест jača, мода uzima maha. Русское «набрать обороты» часто очень близко.",
       "keyword": "uzeti maha"
     },
     {
@@ -19907,30 +20037,28 @@
     {
       "headword_latin": "Zavući se u mišju rupu",
       "type": "frazeologizam",
-      "definition_ru": "забиться в мышиную нору; спрятаться; залечь на дно и не высовываться",
+      "definition_ru": "забиться в мышиную нору; спрятаться и не высовываться; исчезнуть от страха или стыда",
       "synonyms_sr": [
         "sakriti se",
         "povući se",
-        "ne izlaziti u javnost",
-        "pritajiti se"
+        "ne izlaziti na oči",
+        "pobeći od odgovornosti"
       ],
       "literal_ru": "забраться в мышиную нору",
-      "register": "разг., экспр., неодобр.; обычно о человеке, который из-за страха, поражения или неловкой ситуации исчезает из публичного пространства",
+      "register": "razg., ekspresivno, neodobr.; takođe sakriti se u mišju rupu",
       "examples": [
         {
           "serbian_latin": "Gde si, dakle, predsedniče Nikoliću, što si se zavukao u mišju rupu?",
-          "russian": "Где же вы, президент Николич, чего это вы забились в мышиную нору?",
-          "source": "Danas, 2016",
-          "url": "https://www.danas.rs/vesti/politika/predsednik/"
+          "russian": "Где же вы, президент Николич, чего вы спрятались в мышиную нору?",
+          "source": "Danas, 2016"
         },
         {
-          "serbian_latin": "On... se zavukao u mišju rupu na Tehnološkom fakultetu.",
-          "russian": "Он забился в мышиную нору на Технологическом факультете.",
-          "source": "Danas, 2021",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/njima-treba-jos-mrtvih/"
+          "serbian_latin": "Neka pobednik [...] plovi po tim vodama, a gubitnik nek' se zavuče u mišju rupu i prizna poraz.",
+          "russian": "Пусть победитель плавает по этим водам, а проигравший забьётся в мышиную нору и признает поражение.",
+          "source": "RTS, 2009"
         }
       ],
-      "note": "Mišja rupa — именно «мышиная нора». Обычно подразумевается не просто уединение, а трусливое или постыдное исчезновение: раньше человек был заметен и громок, а после неприятностей предпочёл спрятаться. Возможна также модель sakriti se u mišju rupu.",
+      "note": "В отличие от нейтрального povući se, здесь человеку приписывается страх, стыд или желание избежать ответственности и чужих глаз. Русское «забиться в мышиную нору» совпадает и по образу, и по оценке. Частая модель после поражения или скандала: neka se zavuče u mišju rupu i ćuti.",
       "keyword": "mišja rupa"
     },
     {
@@ -19990,6 +20118,33 @@
       ],
       "note": "Dren — кизил (Cornus mas), традиционно воспринимаемый как выносливое и полезное растение; RTS прямо связывает с этим устойчивое сравнение zdrav kao dren. Для русского «здоров как кизил» бессмысленно, поэтому естественны «здоров как бык», «крепкий как дуб». Это одно из культурно характерных сербских сравнений.",
       "keyword": "zdrav kao dren"
+    },
+    {
+      "headword_latin": "Zlo i naopako",
+      "type": "izraz",
+      "definition_ru": "ужас; беда; всё из рук вон плохо; не дай бог",
+      "synonyms_sr": [
+        "užas",
+        "propast",
+        "sve je krenulo naopako",
+        "ne daj bože"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; kao opis lošeg stanja ili samostalna uzvična replika",
+      "examples": [
+        {
+          "serbian_latin": "Po jeziku sudeći, kod nas je zlo i naopako i biće sve gore.",
+          "russian": "Судя по языку, у нас всё из рук вон плохо и дальше будет только хуже.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Šta ako je uzmu svi? Zlo i naopako.",
+          "russian": "А что, если её возьмут все? Вот тогда беда.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Формула гибкая: kod nas je zlo i naopako описывает катастрофическое положение, а отдельное Zlo i naopako! выражает испуг перед возможными последствиями. Буквальный перевод «зло и наоборот» бессмысленен: naopako здесь связано с неправильным, перевёрнутым, дурным ходом вещей.",
+      "keyword": "zlo i naopako"
     },
     {
       "headword_latin": "Živeti kao bubreg u loju",
