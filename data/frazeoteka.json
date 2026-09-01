@@ -1,6 +1,32 @@
 {
   "entries": [
     {
+      "headword_latin": "Ahilova peta",
+      "type": "frazeologizam",
+      "definition_ru": "ахиллесова пята; слабое место; уязвимая точка",
+      "synonyms_sr": [
+        "slaba tačka",
+        "ranjivo mesto",
+        "najveća slabost"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; međunarodni frazeologizam antičkog porekla",
+      "examples": [
+        {
+          "serbian_latin": "Ahilova peta označava nečiju slabost ili ranjivo mesto koje može biti uzrok poraza ili neuspeha.",
+          "russian": "Ахиллесова пята — это слабое или уязвимое место, способное привести к поражению или неудаче.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Balkan će ostati ahilova peta našeg kontinenta.",
+          "russian": "Балканы останутся ахиллесовой пятой нашего континента.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Согласно известной античной традиции, Ахилл был неуязвим за исключением пятки, за которую мать держала его при погружении в Стикс; поэтому выражение обозначает единственную или особенно опасную слабость сильного объекта. N1 отмечает именно значение «slaba tačka». По-русски эквивалент полный.",
+      "keyword": "Ahilova peta"
+    },
+    {
       "headword_latin": "Bacati / baciti bisere pred svinje",
       "type": "frazeologizam",
       "definition_ru": "метать бисер перед свиньями; предлагать что-то ценное тому, кто не способен это понять или оценить",
@@ -2629,6 +2655,32 @@
       ],
       "note": "Формула внешне доброжелательна — человеку как будто желают «красивого дома», — но прагматический смысл обратный: желаю ему всего хорошего, только подальше от меня. Выражение зафиксировано и в материалах о говорах Воеводины. Поэтому русский «скатертью дорога» подходит лучше буквального перевода.",
       "keyword": "daleko mu lepa kuća"
+    },
+    {
+      "headword_latin": "Damoklov mač",
+      "type": "frazeologizam",
+      "definition_ru": "дамоклов меч; постоянная угроза; опасность, нависшая над человеком",
+      "synonyms_sr": [
+        "stalna pretnja",
+        "neposredna opasnost",
+        "opasnost koja visi nad glavom"
+      ],
+      "literal_ru": "",
+      "register": "knjiž.-publicistički, ali široko prepoznatljivo",
+      "examples": [
+        {
+          "serbian_latin": "Taj uslov uvek visi nad našim glavama kao Damoklov mač.",
+          "russian": "Это условие постоянно висит над нами дамокловым мечом.",
+          "source": "Politika, 2007"
+        },
+        {
+          "serbian_latin": "Predsedniku visi iznad glave Damoklov mač.",
+          "russian": "Над президентом висит дамоклов меч.",
+          "source": "N1 Srbija, 2024"
+        }
+      ],
+      "note": "Образ восходит к рассказу о Дамокле, которому позволили испытать роскошную жизнь правителя, но над его головой подвесили меч на тонком волосе. Поэтому выражение подчёркивает не просто опасность, а угрозу, постоянно присутствующую даже в период благополучия или власти. Русское употребление практически совпадает.",
+      "keyword": "Damoklov mač"
     },
     {
       "headword_latin": "Dan D",
@@ -5275,27 +5327,24 @@
       "definition_ru": "идти как по маслу; проходить гладко; идти без сучка без задоринки",
       "synonyms_sr": [
         "ići glatko",
-        "teći bez problema",
-        "ići bez zastoja",
-        "ići po planu"
+        "odvijati se bez problema",
+        "teći bez zastoja"
       ],
-      "literal_ru": "идти словно по салу",
-      "register": "разг.-нейтр., экспр.; о работе, переговорах, процедуре, подготовке и других процессах",
+      "literal_ru": "идти словно по салу / животному жиру",
+      "register": "razg.; o poslu, planu, procesu, pregovorima i slično",
       "examples": [
         {
-          "serbian_latin": "Rad na predstavi teče „kao po loju“.",
-          "russian": "Работа над спектаклем идёт как по маслу.",
-          "source": "Politika, 2017",
-          "url": "https://www.politika.rs/sr/clanak/379293/nema-mesta-za-slabe-zar-ne"
+          "serbian_latin": "Sve je bilo lepo upakovano [...] trebalo je sve da ide kao po loju.",
+          "russian": "Всё было хорошо подготовлено, всё должно было пойти как по маслу.",
+          "source": "Danas, 2011"
         },
         {
-          "serbian_latin": "Tako da se glasanje u ponedeljak petog novembra odvijalo „kao po loju“.",
-          "russian": "Поэтому голосование в понедельник, пятого ноября, прошло как по маслу.",
-          "source": "Danas, 2007",
-          "url": "https://www.danas.rs/vesti/drustvo/namerno-pricam-nesto-bez-veze/"
+          "serbian_latin": "Po svim dosadašnjim vestima rebrendiranoj Er Srbiji od tada ide kao po loju.",
+          "russian": "Судя по сообщениям, у обновлённой Air Serbia с тех пор всё идёт как по маслу.",
+          "source": "Danas, 2014"
         }
       ],
-      "note": "Loj — животный жир, сало; сербский образ поэтому буквально отличается от русского «как по маслу», хотя значение практически идентично. Очень естественны конструкции sve ide kao po loju и posao je išao kao po loju.",
+      "note": "Функционально почти полностью совпадает с русским «как по маслу». Но loj — именно животный жир, сало, а не растительное ulje. Часто употребляется и с отрицанием: ne ide baš sve kao po loju — «не всё идёт гладко».",
       "keyword": "kao po loju"
     },
     {
@@ -10313,6 +10362,33 @@
       "keyword": "šija; vrat"
     },
     {
+      "headword_latin": "Nije u vinklu",
+      "type": "frazeologizam",
+      "definition_ru": "не в себе; с головой не всё в порядке; слегка чокнутый",
+      "synonyms_sr": [
+        "nije sav svoj",
+        "nije normalan (razg.)",
+        "fali mu daska u glavi",
+        "nije pod libelom (razg.)"
+      ],
+      "literal_ru": "не под прямым углом / не по угольнику",
+      "register": "razg., šalj. ili neodobr.; o čoveku čije ponašanje deluje čudno ili neadekvatno",
+      "examples": [
+        {
+          "serbian_latin": "Pričajući o iskazu svedoka [...] rekao je da on „nije u vinklu“.",
+          "russian": "Говоря о показаниях свидетеля, он заявил, что тот «не совсем в себе».",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Po načinu govora i grimasama [...] što bi naš narod rekao, „nije baš u vinklu“.",
+          "russian": "По манере речи и поведению он, как говорится, «не совсем в себе».",
+          "source": "Večernje novosti, 2024"
+        }
+      ],
+      "note": "Vinkla — строительный угольник и, шире, правильный угол; поэтому буквально что-то nije u vinklu, если стоит криво. Перенос на человека даёт «что-то с ним не так, не совсем нормальный». Politika фиксирует выражение рядом с nakrivo nasađen и fali mu daska u glavi. Для русского важно не переводить буквально «не под углом».",
+      "keyword": "nije u vinklu"
+    },
+    {
       "headword_latin": "Nisu mu sve koze na broju",
       "type": "frazeologizam",
       "definition_ru": "у него не все дома; он не совсем в своём уме; с ним что-то не так",
@@ -11540,6 +11616,32 @@
       ],
       "note": "Употребляется с дательным падежом: pala mu je, upala joj je, pala nam je sekira u med. Варианты pala и upala равноправны.",
       "keyword": "sekira"
+    },
+    {
+      "headword_latin": "Pandorina kutija",
+      "type": "frazeologizam",
+      "definition_ru": "ящик Пандоры; источник цепочки бед и непредвиденных последствий",
+      "synonyms_sr": [
+        "izvor novih problema",
+        "lavina problema",
+        "nekontrolisane posledice"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; naročito otvoriti Pandorinu kutiju",
+      "examples": [
+        {
+          "serbian_latin": "Otvorila se Pandorina kutija: masovno se propričalo o iskustvima iz porodilišta.",
+          "russian": "Открылся ящик Пандоры: люди массово заговорили о своём опыте в роддомах.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Priznanjem Kosova otvorena je Pandorina kutija iz koje se ne zna šta će izaći.",
+          "russian": "Признанием Косова был открыт ящик Пандоры, и неизвестно, какие последствия из него выйдут.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "В современном употреблении otvoriti Pandorinu kutiju — запустить процесс, последствия которого затем трудно остановить или контролировать. Любопытная деталь: в греческом мифе у Пандоры первоначально был pithos — большой сосуд, а привычная «коробка» закрепилась вследствие более поздней переводческой традиции. Русский эквивалент полностью совпадает.",
+      "keyword": "Pandorina kutija"
     },
     {
       "headword_latin": "Para vrti gde burgija neće",
@@ -14008,6 +14110,33 @@
       "keyword": "pustiti korenje"
     },
     {
+      "headword_latin": "Pustiti mozak na pašu",
+      "type": "frazeologizam",
+      "definition_ru": "отключиться; дать мозгу отдохнуть; перестать обо всём думать",
+      "synonyms_sr": [
+        "isključiti se",
+        "odmoriti glavu",
+        "opustiti se",
+        "ne razmišljati ni o čemu"
+      ],
+      "literal_ru": "выпустить мозг пастись",
+      "register": "razg., šalj.; obično o svesnom mentalnom odmoru",
+      "examples": [
+        {
+          "serbian_latin": "Zarad mentalnog zdravlja, ponekad je neophodno pustiti mozak na pašu.",
+          "russian": "Ради душевного здоровья иногда необходимо просто отключиться и дать мозгу отдохнуть.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Mozak na pašu. Bez telefona, interneta i društvenih mreža.",
+          "russian": "Полностью отключиться: без телефона, интернета и социальных сетей.",
+          "source": "Nova.rs, 2022"
+        }
+      ],
+      "note": "Выражение не означает «отупеть»: человек сознательно перестаёт напрягаться, анализировать и решать проблемы. Особенно естественно о выходных, отпуске и отдыхе после экзаменов или напряжённой работы. Русские «отключить мозг», «дать голове отдохнуть» передают смысл лучше буквального образа пастбища.",
+      "keyword": "mozak na pašu"
+    },
+    {
       "headword_latin": "pustiti nekoga niz vodu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Бросить кого-либо на произвол судьбы; прекратить поддержку; предать или пожертвовать кем-либо ради собственных интересов.",
@@ -14973,6 +15102,32 @@
       ],
       "note": "Русский не использует образ «прыгать себе в рот», поэтому переводить нужно через «сам себе противоречить». Обычно речь не о простой смене мнения, а о том, что новое утверждение логически разрушает предыдущее. Важно согласование: on skače sam sebi, ona skače sama sebi.",
       "keyword": "skakati sebi u usta"
+    },
+    {
+      "headword_latin": "Skinuti kapu nekome",
+      "type": "frazeologizam",
+      "definition_ru": "снять шляпу перед кем-либо; отдать должное; выразить уважение",
+      "synonyms_sr": [
+        "odati priznanje",
+        "iskazati poštovanje",
+        "čestitati nekome na uspehu"
+      ],
+      "literal_ru": "снять перед кем-то шапку",
+      "register": "razg.-neutralno, odobr.; skinuti kapu nekome — lice je u dativu",
+      "examples": [
+        {
+          "serbian_latin": "Kada bilo ko od vas bude uspeo da brani nacionalne interese [...] prva ću mu skinuti kapu.",
+          "russian": "Когда кому-нибудь из вас удастся так защищать национальные интересы, я первой сниму перед ним шляпу.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Njima zaista treba „skinuti kapu“.",
+          "russian": "Перед ними действительно стоит снять шляпу.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Выражение означает признание чужого мастерства, смелости, труда или достижения, даже если говорящий с человеком не во всём согласен. Русское «снимаю шляпу» почти идеальный эквивалент. Важно управление: skinuti kapu nekome.",
+      "keyword": "skinuti kapu"
     },
     {
       "headword_latin": "Skinuti ljagu sa nekoga / nečega",
@@ -16787,6 +16942,33 @@
       "keyword": "šaka"
     },
     {
+      "headword_latin": "Šarena laža",
+      "type": "frazeologizam",
+      "definition_ru": "красивая сказка; заманчивый обман; пустое привлекательное обещание",
+      "synonyms_sr": [
+        "obmana",
+        "prazno obećanje",
+        "iluzija",
+        "lepo upakovana laž"
+      ],
+      "literal_ru": "пёстрая / разноцветная ложь",
+      "register": "razg.-publicistički, neodobr.; o privlačnoj predstavi iza koje nema obećanog sadržaja",
+      "examples": [
+        {
+          "serbian_latin": "Posle poplave ispostavilo se da je to bila šarena laža.",
+          "russian": "После наводнения оказалось, что всё это было красивой пустышкой.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Sve ostalo je šarena laža, osim povezanosti sa ljudima koje volimo i povezanosti sa svojim radom.",
+          "russian": "Всё остальное — красивая иллюзия, кроме связи с любимыми людьми и любимым делом.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "В современном языке это не обычная ложь, а именно привлекательная, красиво упакованная иллюзия или обещание, которым заманивают человека. В сербской культурной памяти встречается и образ обещанной детям šarena laža; Danas обыгрывает его как недостижимый красочный подарок. Точное происхождение выражения надёжно не установлено.",
+      "keyword": "šarena laža"
+    },
+    {
       "headword_latin": "Šta fali?",
       "type": "replika",
       "definition_ru": "а что не так?; а что плохого?; чего не хватает?",
@@ -17878,6 +18060,33 @@
       "keyword": "šakom o sto"
     },
     {
+      "headword_latin": "Udariti nekoga po džepu",
+      "type": "frazeologizam",
+      "definition_ru": "ударить по кошельку; финансово наказать; заставить существенно потратиться",
+      "synonyms_sr": [
+        "novčano kazniti",
+        "napraviti veliki trošak",
+        "finansijski pogoditi",
+        "skupo koštati"
+      ],
+      "literal_ru": "ударить кого-то по карману",
+      "register": "razg.-publicistički; udariti nekoga po džepu ili to će udariti po džepu građane",
+      "examples": [
+        {
+          "serbian_latin": "Javnost u Velikoj Britaniji veoma je zabrinuta [...] koliko će to „udariti po džepu“ ljude koji plaćaju porez.",
+          "russian": "Британцы обеспокоены тем, насколько это ударит по кошельку налогоплательщиков.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "One koji poštuju propise najlakše je dodatno „udariti po džepu“.",
+          "russian": "Тех, кто соблюдает правила, проще всего дополнительно наказать рублём.",
+          "source": "N1 Srbija, 2023"
+        }
+      ],
+      "note": "Это не обязательно официальный штраф: подорожание, налог, комиссия или любые крупные расходы тоже могут udariti po džepu. Русское «ударить по карману / кошельку» совпадает почти полностью. В сербском оборот очень частотен в экономической журналистике.",
+      "keyword": "udariti po džepu"
+    },
+    {
       "headword_latin": "Udariti po džepu",
       "type": "frazeologizam",
       "definition_ru": "ударить по карману; дорого обойтись; наказать рублём",
@@ -18663,31 +18872,28 @@
     {
       "headword_latin": "Vrteti nekoga oko malog prsta",
       "type": "frazeologizam",
-      "definition_ru": "вертеть кем-то как хочется; полностью подчинить своему влиянию; манипулировать",
+      "definition_ru": "вертеть кем-либо как хочешь; обвести вокруг пальца; полностью подчинить своему влиянию",
       "synonyms_sr": [
         "manipulisati nekim",
-        "upravljati nekim",
-        "raditi s nekim šta hoćeš",
+        "lako upravljati nekim",
         "imati nekoga pod kontrolom"
       ],
       "literal_ru": "вертеть кого-то вокруг мизинца",
-      "register": "разг., экспр.; объект в винительном падеже",
+      "register": "razg.; često neodobr., ali u porodičnom ili ljubavnom kontekstu može biti šaljivo",
       "examples": [
         {
-          "serbian_latin": "Sultanija Hurem vrtela ga je oko malog prsta i bila uticajnija od samih vezira.",
+          "serbian_latin": "Sultanija Hurem [...] vrtela ga je oko malog prsta i bila uticajnija od samih vezira.",
           "russian": "Султанша Хюррем вертела им как хотела и была влиятельнее самих визирей.",
-          "source": "Danas, 2011",
-          "url": "https://www.danas.rs/kultura/drugacije-vidjenje-otomanskog-carstva/"
+          "source": "Danas, 2011"
         },
         {
-          "serbian_latin": "Ne možete ni da zamislite kako me je vrtela oko malog prsta.",
-          "russian": "Вы не представляете, как она мной вертела.",
-          "source": "Blic, 2019",
-          "url": "https://www.blic.rs/zabava/alen-islamovic-zena-alen-islamovic-deca/9s9dyve"
+          "serbian_latin": "Zbijala bi šale na nemačkom i vrtela ih oko malog prsta.",
+          "russian": "Она шутила с ними по-немецки и легко ими манипулировала.",
+          "source": "BBC na srpskom / Danas, 2024"
         }
       ],
-      "note": "В отличие от русского «обвести вокруг пальца», которое прежде всего значит «обмануть», сербское vrteti oko malog prsta чаще говорит о постоянном влиянии и способности управлять человеком. Однократного обмана здесь может вообще не быть. Русскому поэтому лучше ориентироваться на «вертеть кем-то как хочется».",
-      "keyword": "vrteti oko malog prsta"
+      "note": "Русское «обвести вокруг пальца» чаще означает именно обмануть, тогда как сербское выражение шире: человек настолько хорошо понимает другого, что может легко им управлять. Поэтому в любовном контексте это может быть почти ласковое «вертит им как хочет», а в политическом — явная манипуляция.",
+      "keyword": "oko malog prsta"
     },
     {
       "headword_latin": "vruć krompir",
