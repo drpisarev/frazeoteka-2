@@ -6170,6 +6170,32 @@
       "keyword": "sranje"
     },
     {
+      "headword_latin": "Iver ne pada daleko od klade",
+      "type": "poslovica",
+      "definition_ru": "яблоко от яблони недалеко пада; весь в отца / мать",
+      "synonyms_sr": [
+        "kakav otac, takav sin",
+        "geni čine svoje",
+        "liči na svoje"
+      ],
+      "literal_ru": "щепка недалеко падает от полена",
+      "register": "poslovica; o sličnosti dece s roditeljima, dobroj ili lošoj",
+      "examples": [
+        {
+          "serbian_latin": "Ne kažu za džabe da iver ne pada daleko od klade, a to bi Luku Pavlovića opisalo na najbolji mogući način.",
+          "russian": "Не зря говорят, что яблоко от яблони недалеко пада: Лука Павлович — прекрасный тому пример.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Narod bi rekao da „iver ne pada daleko od klade“.",
+          "russian": "В народе сказали бы: яблоко от яблони недалеко пада.",
+          "source": "Politika, 2007"
+        }
+      ],
+      "note": "Сербское iver — щепка, отколовшийся кусочек дерева; klada — бревно, полено. Поговорка может быть и похвалой, и осуждением: оценку полностью задаёт контекст. Она ближе к русскому «яблоко от яблони…», чем к более нейтральному «весь в отца».",
+      "keyword": "iver; klada"
+    },
+    {
       "headword_latin": "Iz čista mira",
       "type": "izraz",
       "definition_ru": "ни с того ни с сего; без всякой причины; совершенно неожиданно",
@@ -7346,6 +7372,32 @@
       "keyword": "ko rano rani dve sreće grabi"
     },
     {
+      "headword_latin": "Ko s đavolom tikve sadi, o glavu mu se lupaju",
+      "type": "poslovica",
+      "definition_ru": "свяжешься с чёртом — сам поплатишься; опасные союзы оборачиваются против тебя",
+      "synonyms_sr": [
+        "loše društvo skupo košta",
+        "zlo se vraća",
+        "pogrešan savez se obije o glavu"
+      ],
+      "literal_ru": "кто с дьяволом тыквы сажает, тому они об голову и бьются",
+      "register": "poslovica, neodobr.; o saradnji s opasnim, nepoštenim ili moralno sumnjivim partnerom",
+      "examples": [
+        {
+          "serbian_latin": "Ko s đavolom tikve sadi, o glavu mu se lupaju.",
+          "russian": "Кто связывается с чёртом, тот сам за это расплачивается.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Ne znam da li je dobro ili loše što sam je video posle razgovora sa ministrom, jer bih ga inače upitao šta misli o srpskoj narodnoj izreci: „Ko s đavolom tikve sadi, o glavu mu se lupaju“.",
+          "russian": "Я бы иначе спросил министра, что он думает о сербской поговорке: кто с чёртом связывается, сам потом расплачивается.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Варианты глагола во второй части колеблются: lupaju, obijaju, olupaju, но смысл остаётся тем же. Здесь важно не «плохое влияние компании» само по себе, а последствие сознательного союза с кем-то опасным: человек рассчитывал использовать зло в своих интересах, а оно ударило по нему самому.",
+      "keyword": "đavo; tikve"
+    },
+    {
       "headword_latin": "kola su krenula nizbrdo",
       "type": "rečenični frazem",
       "definition_ru": "Дела пошли под откос; положение начало стремительно ухудшаться.",
@@ -7619,6 +7671,32 @@
       ],
       "note": "Сербский и русский фразеологизмы практически совпадают. Оборот особенно част в разговорах о недвижимости, подержанных автомобилях и интернет-покупках. Возможна и именная конструкция to je mačka u džaku — «это кот в мешке».",
       "keyword": "mačka u džaku"
+    },
+    {
+      "headword_latin": "Lepa reč i gvozdena vrata otvara",
+      "type": "poslovica",
+      "definition_ru": "добрым словом многого добьёшься; лаской и железную дверь откроешь",
+      "synonyms_sr": [
+        "lepim se više postiže",
+        "ljubaznost otvara vrata",
+        "dobra reč mnogo vredi"
+      ],
+      "literal_ru": "доброе слово и железные ворота открывает",
+      "register": "poslovica; o snazi ljubaznosti, dobre volje i ubeđivanja umesto pritiska",
+      "examples": [
+        {
+          "serbian_latin": "Lepa reč i gvozdena vrata otvara... onda kada je se setimo.",
+          "russian": "Доброе слово и железные двери открывает — если мы о нём вспоминаем.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Narodna izreka kaže – lepa reč i gvozdena vrata otvara.",
+          "russian": "Народная мудрость гласит: добрым словом можно открыть даже железную дверь.",
+          "source": "BBC na srpskom / Danas, 2021"
+        }
+      ],
+      "note": "Lepa reč здесь означает не «красивое слово», а доброе, вежливое, располагающее обращение. Для русского естественнее «доброе слово», «лаской больше добьёшься». Пословица очень узнаваема и используется даже как публичный девиз.",
+      "keyword": "lepa reč; gvozdena vrata"
     },
     {
       "headword_latin": "lepiti se kao muve na govno",
@@ -8950,6 +9028,32 @@
       "keyword": "ne lezi vraže"
     },
     {
+      "headword_latin": "Ne lipši, magarče, do zelene trave",
+      "type": "izreka",
+      "definition_ru": "жди до морковкина заговенья; обещанного не дождёшься; когда рак на горе свистнет",
+      "synonyms_sr": [
+        "nećeš dočekati",
+        "prazno obećanje",
+        "čekaj pa se nadaj"
+      ],
+      "literal_ru": "не подыхай, осёл, до зелёной травы",
+      "register": "narodno, iron., neodobr.; o obećanju čije se ostvarenje beskrajno odlaže ili je malo verovatno",
+      "examples": [
+        {
+          "serbian_latin": "Ovako, ne lipši magarče do zelene trave.",
+          "russian": "А так — жди до морковкина заговенья.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Ne lipši magarče do zelene trave.",
+          "russian": "Не надейся, что обещанное скоро исполнится.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Lipši — императив от lipsati, грубовато-разговорного «подыхать» о животных; для русского это важный стилистический оттенок. Politika фиксирует варианты Ne lipši, magarče, dok trava raste и do zelene trave. Смысл — надежда настолько далёкая, что до её осуществления можно и не дожить.",
+      "keyword": "magarče; zelena trava"
+    },
+    {
       "headword_latin": "Ne mogu sebi da priuštim",
       "type": "izraz",
       "definition_ru": "я не могу себе позволить; мне это не по карману; я не могу себе этого допустить",
@@ -9008,6 +9112,32 @@
       ],
       "note": "Без контекста ostati dužan может означать настоящий денежный долг. Но конструкция nije mu ostao dužan чрезвычайно часто относится к словесной перепалке: один напал или пошутил, другой тут же ответил. Русское «не остаться в долгу» совпадает и по образу, и по функции.",
       "keyword": "ne ostati dužan"
+    },
+    {
+      "headword_latin": "Ne pada sneg da pokrije breg, nego da svaka zverka pokaže svoj trag",
+      "type": "poslovica",
+      "definition_ru": "обстоятельства показывают, кто есть кто; беда выводит всех на чистую воду",
+      "synonyms_sr": [
+        "tada se vidi ko je kakav",
+        "svako pokaže pravo lice",
+        "istina izađe na videlo"
+      ],
+      "literal_ru": "снег падает не для того, чтобы укрыть холм, а чтобы каждый зверёк оставил свой след",
+      "register": "poslovica; o događaju ili krizi koji otkrivaju pravo ponašanje ljudi",
+      "examples": [
+        {
+          "serbian_latin": "Ne kaže narod slučajno: „Ne pada sneg da pokrije breg nego da svaka zverka pokaže svoj trag“.",
+          "russian": "Недаром говорят: обстоятельства нужны ещё и для того, чтобы стало видно, кто есть кто.",
+          "source": "Politika, 2021"
+        },
+        {
+          "serbian_latin": "Ne kaže se uzalud da „ne pada sneg da pokrije breg već da svaka zverka pokaže svoj trag“.",
+          "russian": "Не зря говорят, что трудные обстоятельства показывают истинное лицо каждого.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Буквальный образ совершенно прозрачен в охотничьей культуре: на снегу становятся видны следы животных. Politika объясняет именно эту реальную основу поговорки. Переносный смысл — кризис или конфликт обнаруживает скрытые намерения, союзников и противников. Русского столь же образного устойчивого эквивалента нет.",
+      "keyword": "sneg; breg; zverka; trag"
     },
     {
       "headword_latin": "Ne videti dalje od svog nosa",
@@ -12270,6 +12400,32 @@
       "keyword": "pokaži mi jednu osobu"
     },
     {
+      "headword_latin": "Poklonu se u zube ne gleda",
+      "type": "poslovica",
+      "definition_ru": "дарёному коню в зубы не смотрят; подарок не критикуют",
+      "synonyms_sr": [
+        "na poklonu se ne zamera",
+        "treba biti zahvalan na poklonu",
+        "dar se prima bez zameranja"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; takođe poklonjenom konju se u zube ne gleda",
+      "examples": [
+        {
+          "serbian_latin": "Jeste da se poklonu „u zube ne gleda“, ali koliko ste samo puta u životu dobili nešto što ničemu ne služi.",
+          "russian": "Дарёному коню в зубы не смотрят, но сколько раз вам дарили совершенно бесполезную вещь?",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "„Poklonu se u zube ne gleda“, kaže narodna poslovica.",
+          "russian": "«Дарёному коню в зубы не смотрят», — говорит народная пословица.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Здесь происхождение прозрачно и хорошо документировано: возраст и состояние коня традиционно определяли в том числе по зубам, но подарок таким образом оценивать невежливо. Danas подробно описывает этот культурный фон. Русская пословица практически полностью совпадает, только обычно явно называет коня.",
+      "keyword": "poklon; zubi"
+    },
+    {
       "headword_latin": "Pokrij se ušima",
       "type": "frazeologizam",
       "definition_ru": "постыдись; сиди тихо после такого; подожми хвост и помалкивай",
@@ -14552,6 +14708,32 @@
       "keyword": "skočiti sebi u usta"
     },
     {
+      "headword_latin": "Skuplja dara nego mera",
+      "type": "izreka",
+      "definition_ru": "овчинка выделки не стоит; расходы больше выгоды; слишком дорогая цена за результат",
+      "synonyms_sr": [
+        "ne isplati se",
+        "trošak je veći od koristi",
+        "više košta nego što vredi"
+      ],
+      "literal_ru": "",
+      "register": "poslovično, razg.-publicistički; kada prateći troškovi ili šteta premašuju očekivanu korist",
+      "examples": [
+        {
+          "serbian_latin": "SANU o niklu: Skuplja dara nego mera.",
+          "russian": "САНУ о никеле: овчинка выделки не стоит.",
+          "source": "RTS, 2012"
+        },
+        {
+          "serbian_latin": "Skuplja dara nego mera.",
+          "russian": "Расходы в итоге оказываются больше самой выгоды.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Выражение особенно естественно, когда ради экономии, прибыли или небольшой пользы приходится понести несоразмерные затраты. Русские «овчинка выделки не стоит» и «себе дороже» хорошо передают прагматику. Компонент dara современному говорящему вне этой формулы непрозрачен, поэтому выражение лучше запоминать целиком.",
+      "keyword": "dara; mera"
+    },
+    {
       "headword_latin": "Skupljati / pokupiti mrvice",
       "type": "frazeologizam",
       "definition_ru": "собирать крохи; довольствоваться тем, что осталось после других; подбирать остатки возможностей или выгод",
@@ -16251,6 +16433,33 @@
       "keyword": "šta fali"
     },
     {
+      "headword_latin": "Što je babi milo, to joj se i snilo",
+      "type": "poslovica",
+      "definition_ru": "принимать желаемое за действительное; что хочется, то и мерещится",
+      "synonyms_sr": [
+        "videti ono što želiš da vidiš",
+        "pusta želja",
+        "samozavaravanje",
+        "željeno predstaviti kao stvarno"
+      ],
+      "literal_ru": "что бабе мило, то ей и приснилось",
+      "register": "poslovica, iron.; o prognozama, tumačenjima i nadama zasnovanim prvenstveno na sopstvenim željama",
+      "examples": [
+        {
+          "serbian_latin": "Iz tabora naprednjaka je stigla poruka: „Što je babi milo, to joj se i snilo“.",
+          "russian": "В ответ прозвучало: вы просто выдаёте желаемое за действительное.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Tekst platforme nastao je iz poetike „što je babi milo, to joj se i snilo“.",
+          "russian": "Текст платформы построен по принципу принятия желаемого за действительное.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Baba здесь не обязательно конкретная старая женщина: это фольклорный персонаж рифмованной формулы. В современной политической речи выражение очень удобно для критики wishful thinking. Русскому лучше не сохранять «бабу», а переводить «принимать желаемое за действительное».",
+      "keyword": "babi milo; snilo"
+    },
+    {
       "headword_latin": "Što je brzo, to je kuso",
       "type": "poslovica",
       "definition_ru": "поспешишь — людей насмешишь; сделанное наспех выходит плохо; хорошо быстро не бывает",
@@ -16856,6 +17065,32 @@
       ],
       "note": "Буквальная структура отличается от русского: по-сербски два собеседника образуют «четыре глаза». Это совершенно обычное выражение и в личной, и в дипломатической речи. Не обязательно означает тайный разговор — только отсутствие третьих лиц.",
       "keyword": "u četiri oka"
+    },
+    {
+      "headword_latin": "U laži su kratke noge",
+      "type": "poslovica",
+      "definition_ru": "у лжи короткие ноги; ложь далеко не уйдёт; правда всё равно обнаружится",
+      "synonyms_sr": [
+        "laž se brzo otkrije",
+        "istina izađe na videlo",
+        "ne može se dugo lagati"
+      ],
+      "literal_ru": "у лжи короткие ноги",
+      "register": "poslovica; često kao upozorenje da će obmana pre ili kasnije biti otkrivena",
+      "examples": [
+        {
+          "serbian_latin": "Najavljujući posetu toj fabrici, rekao je da će povesti novinare da vide da su „u laži kratke noge“.",
+          "russian": "Он сказал, что журналисты смогут сами убедиться: у лжи короткие ноги.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Lažu svakog dana. Ne vredi. U laži su kratke noge.",
+          "russian": "Они лгут каждый день. Бесполезно: ложь далеко не уйдёт.",
+          "source": "Politika, 2025"
+        }
+      ],
+      "note": "Danas называет её одной из наиболее употребительных сербских пословиц и объясняет образ просто: на коротких ногах далеко не убежишь, так и ложь вскоре настигает правда. Русский практически дословный эквивалент существует, хотя в повседневной речи чаще говорят «всё тайное становится явным».",
+      "keyword": "laž; kratke noge"
     },
     {
       "headword_latin": "U naponu snage",
@@ -17958,6 +18193,32 @@
       ],
       "note": "Vrag в этом выражении — совершенно нормальная сербская форма, её не нужно заменять на đavo. Оборот часто ставится отдельным предложением как резкий переход от прежней терпимости к серьёзному разговору: Vrag je odneo šalu. Русское «чёрт шутку унёс» существует, но гораздо менее обычно, поэтому естественный перевод — «шутки кончились».",
       "keyword": "vrag je odneo šalu"
+    },
+    {
+      "headword_latin": "Vrana vrani oči ne vadi",
+      "type": "poslovica",
+      "definition_ru": "ворон ворону глаз не выклюет; свои своих не сдают; рука руку моет",
+      "synonyms_sr": [
+        "svoj svoga štiti",
+        "moćnici se međusobno čuvaju",
+        "ruka ruku mije"
+      ],
+      "literal_ru": "ворона вороне глаза не выклёвывает",
+      "register": "poslovica, neodobr.; o korporativnoj solidarnosti ljudi koji međusobno prikrivaju jedni druge",
+      "examples": [
+        {
+          "serbian_latin": "Ima ona maksima da vrana vrani oči ne vadi.",
+          "russian": "Есть такая поговорка: ворон ворону глаз не выклюет.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Forma je zadovoljena, ali svi znaju da je po sredi prevara. Zašto? Zato što vrana vrani oči ne vadi.",
+          "russian": "Формальность соблюдена, но все понимают, что это обман. Почему? Потому что ворон ворону глаз не выклюет.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Русский эквивалент совпадает почти буквально. Обычно речь не о простой дружбе, а о взаимном прикрытии представителей одной профессии, власти, организации или круга интересов. Поэтому поговорка почти всегда несёт критическую оценку.",
+      "keyword": "vrana; oči"
     },
     {
       "headword_latin": "Vratiti milo za drago",
