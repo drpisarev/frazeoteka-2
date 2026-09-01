@@ -735,31 +735,28 @@
     {
       "headword_latin": "Bežati kao đavo od krsta",
       "type": "frazeologizam",
-      "definition_ru": "шарахаться как чёрт от ладана; избегать как огня; бежать со всех ног от чего-то",
+      "definition_ru": "бежать как чёрт от ладана; шарахаться; всеми силами избегать",
       "synonyms_sr": [
-        "zazirati",
-        "kloniti se",
         "izbegavati po svaku cenu",
-        "bežati glavom bez obzira"
+        "bežati glavom bez obzira",
+        "zazirati od nečega"
       ],
-      "literal_ru": "бежать как чёрт от креста",
-      "register": "разг., экспр.; обычно о сильном, демонстративном нежелании иметь дело с человеком, темой, обязанностью или явлением",
+      "literal_ru": "бежать как дьявол от креста",
+      "register": "razg., ekspresivno; bežati od nekoga / nečega kao đavo od krsta",
       "examples": [
         {
           "serbian_latin": "Iz vaše stranke bežali su ljudi „kao đavo od krsta“.",
-          "russian": "Из вашей партии люди разбегались как чёрт от ладана.",
-          "source": "RTS, 2012",
-          "url": "https://www.rts.rs/lat/vesti/izbori-2012/1103752/debata-predsednickih-kandidata.html?print=true"
+          "russian": "Из вашей партии люди бежали как чёрт от ладана.",
+          "source": "RTS, 2012"
         },
         {
-          "serbian_latin": "Od onoga čemu tupsoni teže, valja bežati kao đavo od krsta.",
-          "russian": "От того, к чему стремятся болваны, следует шарахаться как чёрт от ладана.",
-          "source": "Danas, 2015",
-          "url": "https://www.danas.rs/kolumna/svetislav-basara/implozija-evrope/"
+          "serbian_latin": "Od takvih medija predstavnici vlasti beže „ko đavo od krsta“.",
+          "russian": "Таких СМИ представители власти избегают как огня.",
+          "source": "Danas, 2021"
         }
       ],
-      "note": "Сербский образ содержит именно krst «крест», тогда как ближайший русский фразеологизм — «как чёрт от ладана». Оборот может описывать и реальное бегство, и особенно активное избегание чего-либо: beži od odgovornosti kao đavo od krsta.",
-      "keyword": "bežati kao đavo od krsta"
+      "note": "Русскому ближе всего «как чёрт от ладана», хотя сербский образ содержит именно krst «крест». Обычно это не физическое бегство, а демонстративное нежелание иметь дело с человеком, темой, обязанностью или местом. Разговорное ko вместо kao очень часто, но словарная форма — kao đavo od krsta.",
+      "keyword": "đavo od krsta"
     },
     {
       "headword_latin": "Biraj, ago, što je tebi drago",
@@ -824,31 +821,29 @@
     {
       "headword_latin": "Biti / naći se na vetrometini",
       "type": "frazeologizam",
-      "definition_ru": "оказаться под ударами со всех сторон; быть под сильным давлением; находиться в уязвимом положении",
+      "definition_ru": "оказаться под перекрёстным давлением; быть без защиты; находиться на линии столкновения разных сил",
       "synonyms_sr": [
-        "biti na udaru",
-        "biti izložen pritiscima",
+        "biti izložen",
         "biti nezaštićen",
-        "biti u nezavidnom položaju"
+        "biti pod pritiscima sa više strana",
+        "biti na udaru"
       ],
-      "literal_ru": "быть на месте, продуваемом всеми ветрами",
-      "register": "разг.-публицист., экспр.; особенно о человеке, организации или стране, подвергающихся давлению с разных сторон",
+      "literal_ru": "находиться на продуваемом всеми ветрами месте",
+      "register": "razg.-publicistički, ekspresivno; o čoveku, državi, organizaciji ili oblasti izloženoj mnogim spoljnim uticajima",
       "examples": [
         {
-          "serbian_latin": "Danasovci, znam da ste na vetrometini i da trpite veliki medijski pritisak.",
-          "russian": "Коллеги из Danas, я знаю, что вы под ударами со всех сторон и испытываете сильнейшее давление СМИ.",
-          "source": "Danas, 2018",
-          "url": "https://www.danas.rs/dijalog/pisma-citalaca/danasovci-izdrzite/"
+          "serbian_latin": "Srbija se danas nalazi na vetrometini procesa koji nisu samo geopolitički, već civilizacijski.",
+          "russian": "Сегодня Сербия оказалась на перекрёстке и под давлением процессов не только геополитического, но и цивилизационного масштаба.",
+          "source": "Euronews Srbija, 2026"
         },
         {
-          "serbian_latin": "Sada će prvi put biti na nekoj maloj vetrometini i videćemo kako se ponaša u takvoj situaciji.",
-          "russian": "Теперь он впервые окажется под некоторым перекрёстным давлением, и мы увидим, как он себя поведёт.",
-          "source": "Danas, 2022",
-          "url": "https://www.danas.rs/vesti/politika/spasojevic-vucic-ce-na-kraju-prici-zapadu-albahari-ocekuje-se-pridruzivanje-restriktivnim-mera-protiv-rusije/"
+          "serbian_latin": "Kad ode, na vetrometini života ostaješ sam da se boriš kako znaš i umeš.",
+          "russian": "Когда отец уходит, ты остаёшься один на жизненном ветру и должен бороться как умеешь.",
+          "source": "Politika, 2026"
         }
       ],
-      "note": "Vetrometina буквально — открытое место, куда со всех сторон бьют ветры. В переносном употреблении это положение без защиты, где человек или организация подвергаются политическим, общественным, экономическим или иным ударам. Русскому обычно лучше не переводить буквально «на ветру», а сказать «под перекрёстным давлением», «под ударами со всех сторон».",
-      "keyword": "na vetrometini"
+      "note": "Vetrometina буквально — открытое место, продуваемое ветрами со всех сторон. Переносно человек или страна лишены укрытия и подвергаются разнонаправленным давлениям, угрозам или интересам. Русское «на семи ветрах» сохраняет физический образ, но в политическом контексте чаще нужны «под перекрёстным давлением», «на линии столкновения интересов».",
+      "keyword": "vetrometina"
     },
     {
       "headword_latin": "Biti / odrastati pod staklenim zvonom",
@@ -2441,30 +2436,27 @@
     {
       "headword_latin": "Čitati između redova",
       "type": "frazeologizam",
-      "definition_ru": "читать между строк; видеть скрытый смысл; понимать недосказанное",
+      "definition_ru": "читать между строк; улавливать скрытый смысл; понимать невысказанное",
       "synonyms_sr": [
         "naslutiti skriveno značenje",
-        "razumeti ono što nije izrečeno",
-        "tumačiti implicitno",
-        "prepoznati skrivenu poruku"
+        "razumeti neizrečeno",
+        "prepoznati poruku iza reči"
       ],
-      "literal_ru": "читать между строк",
-      "register": "нейтр.-публицист.; о понимании смысла, который не выражен прямо",
+      "literal_ru": "",
+      "register": "razg.-neutralno, publicistički",
       "examples": [
         {
-          "serbian_latin": "Sovjetsku štampu treba čitati između redova. Tu se krije suština.",
-          "russian": "Советскую прессу нужно читать между строк. Именно там скрывается суть.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/vesti/drustvo/kako-citati-ono-sto-nije-napisano/"
+          "serbian_latin": "A čovek opasnih namera, možemo čitati između redova, je Aljbin Kurti.",
+          "russian": "А человек с опасными намерениями — если читать между строк — это Альбин Курти.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Ne samo da mora da se čita između redova, već čovek mora da konsultuje više nezavisnih izvora.",
-          "russian": "Нужно не только читать между строк, но и обращаться к нескольким независимым источникам.",
-          "source": "N1, 2024",
-          "url": "https://n1info.rs/vesti/skrozza-upliv-biznisa-i-politike-u-medije-je-jak-mora-da-se-cita-izmedju-redova/"
+          "serbian_latin": "Više ne važi sugestija da treba „čitati između redova“.",
+          "russian": "Совет «читать между строк» уже не работает.",
+          "source": "Danas, 2019"
         }
       ],
-      "note": "Сербский и русский обороты полностью совпадают по образу и практически по употреблению. Особенно часты контексты политики, дипломатии и СМИ, где истинный смысл приходится выводить из намёков, умолчаний и формулировок.",
+      "note": "Значение практически совпадает с русским «читать между строк». Речь не обязательно о намеренной тайной шифровке: говорящий может просто выводить скрытый смысл из тона, контекста и недосказанности. Очень частотно в политической и медийной речи.",
       "keyword": "čitati između redova"
     },
     {
@@ -7981,6 +7973,33 @@
       "keyword": "mačka u džaku"
     },
     {
+      "headword_latin": "Kupiti vreme",
+      "type": "frazeologizam",
+      "definition_ru": "выиграть время; потянуть время; отсрочить решение",
+      "synonyms_sr": [
+        "dobiti na vremenu",
+        "odložiti rasplet",
+        "odugovlačiti",
+        "odložiti odluku"
+      ],
+      "literal_ru": "купить время",
+      "register": "neutralno-publicistički; ocena zavisi od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Ministarstvo finansija ističe da je mera privremena i da nam kupuje vreme da sistemski rešimo neke stvari.",
+          "russian": "Министерство финансов подчёркивает, что мера временная и позволяет выиграть время для системного решения проблем.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Mislim da se kupuje vreme, kako bi se pripremila privatizacija tog važnog podsistema.",
+          "russian": "Думаю, что здесь просто тянут время, чтобы подготовить приватизацию этого важного подсектора.",
+          "source": "N1 Srbija, 2026"
+        }
+      ],
+      "note": "Русское «выиграть время» обычно нейтральнее, тогда как kupovati vreme часто намекает на сознательное затягивание неизбежного решения. Поэтому одно и то же выражение переводится «выиграть время» при полезной отсрочке и «тянуть время» при манипулятивной.",
+      "keyword": "kupiti vreme"
+    },
+    {
       "headword_latin": "Lepa reč i gvozdena vrata otvara",
       "type": "poslovica",
       "definition_ru": "добрым словом многого добьёшься; лаской и железную дверь откроешь",
@@ -11333,30 +11352,28 @@
     {
       "headword_latin": "Ostati bez teksta",
       "type": "frazeologizam",
-      "definition_ru": "потерять дар речи; остаться без слов; онеметь от удивления",
+      "definition_ru": "потерять дар речи; онеметь; не найти слов",
       "synonyms_sr": [
-        "ostati bez reči",
         "zanemeti",
-        "zaprepastiti se",
-        "ne znati šta reći"
+        "ne znati šta reći",
+        "ostati zatečen",
+        "biti zaprepašćen"
       ],
       "literal_ru": "остаться без текста",
-      "register": "разг., экспр.; обычно из-за удивления, потрясения, неожиданности или сильного впечатления",
+      "register": "razg., ekspresivno; zbog iznenađenja, oduševljenja, užasa ili negodovanja",
       "examples": [
         {
-          "serbian_latin": "Ostao sam bez teksta, pa sam joj rukom pokazao da uđe i sedne.",
-          "russian": "Я потерял дар речи и только рукой показал ей, чтобы она вошла и села.",
-          "source": "Danas, 2018",
-          "url": "https://www.danas.rs/kolumna/slobodan-simic/zanemarivanje/"
+          "serbian_latin": "Ja jesam velika pričalica, ali sam stvarno ostao bez teksta gledajući ovu utakmicu.",
+          "russian": "Я вообще-то большой любитель поговорить, но, глядя этот матч, действительно потерял дар речи.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Ostao sam bez teksta… I onda sam morao da počnem da se snalazim.",
-          "russian": "Я остался без слов… А потом пришлось как-то выкручиваться.",
-          "source": "Politika, 2026",
-          "url": "https://www.politika.rs/sr/clanak/748766/treba-biti-dostojanstven-i-u-pobedi-i-u-porazu-i-u-sportu-i-u-zivotu"
+          "serbian_latin": "Svi su ostali bez teksta, ističe naša sagovornica.",
+          "russian": "Все буквально потеряли дар речи, подчёркивает наша собеседница.",
+          "source": "RTS, 2023"
         }
       ],
-      "note": "Русского может сбить слово tekst: речь не о забытом сценарии или написанном тексте. Ostati bez teksta — обычное разговорное «не найти слов, онеметь». Причина может быть как приятной, так и неприятной: восхищение, шок, наглость собеседника.",
+      "note": "Для русского буквальное «остаться без текста» звучит неидиоматично. Сербский оборот универсален: ostati bez teksta можно и от восторга, и от шока, и от абсурда. Смысл определяет контекст, а не само выражение.",
       "keyword": "ostati bez teksta"
     },
     {
@@ -12630,6 +12647,32 @@
       ],
       "note": "Лавровый венок традиционно символизирует победу, поэтому «лежать на лаврах» значит довольствоваться прежними достижениями. Сербский допускает и počivati, и более разговорно-прозрачное spavati na lovorikama. Русский устойчивый эквивалент практически точный.",
       "keyword": "na lovorikama"
+    },
+    {
+      "headword_latin": "Počivati na lovorikama",
+      "type": "frazeologizam",
+      "definition_ru": "почивать на лаврах; жить прежними успехами; перестать развиваться после победы",
+      "synonyms_sr": [
+        "živeti od stare slave",
+        "uljuljkati se u uspeh",
+        "prestati da napreduje"
+      ],
+      "literal_ru": "покоиться на лаврах",
+      "register": "knjiž.-publicistički, ali opšteupotrebljivo; uglavnom negativno o pasivnosti posle uspeha",
+      "examples": [
+        {
+          "serbian_latin": "Bundesliga dakle nikako ne može da počiva na lovorikama.",
+          "russian": "Бундеслиге никак нельзя почивать на лаврах.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Ne smemo počivati na lovorikama; mnogo toga je urađeno, ali moramo nastaviti.",
+          "russian": "Нельзя почивать на лаврах: сделано многое, но нужно продолжать.",
+          "source": "Večernje novosti, 2025"
+        }
+      ],
+      "note": "Образ восходит к лавровому венку победителя, поэтому смысл — удовлетвориться уже достигнутой славой и прекратить усилия. Русское «почивать на лаврах» полностью совпадает, включая книжноватый оттенок. Употребительно и spavati na lovorikama, но počivati na lovorikama устойчивее в публицистике.",
+      "keyword": "lovorike"
     },
     {
       "headword_latin": "podići prašinu",
@@ -14038,6 +14081,32 @@
       ],
       "note": "Выражение означает не просто «поздно по времени», а конкретная возможность уже была и исчезла. Фразеологические исследования описывают его именно как образ пропущенного шанса; формула широко представлена и в региональных вариантах. Красочная история о конкретной старушке, торговавшей пирожными, встречается в популярной литературе, но её происхождение надёжно не подтверждено, поэтому принимать её как этимологический факт не следует.",
       "keyword": "prošla baba s kolačima"
+    },
+    {
+      "headword_latin": "Prstom ne mrdnuti",
+      "type": "frazeologizam",
+      "definition_ru": "пальцем не пошевелить; ничего не сделать; не предпринять ни малейшего усилия",
+      "synonyms_sr": [
+        "ne učiniti ništa",
+        "ne potruditi se",
+        "ostati potpuno pasivan"
+      ],
+      "literal_ru": "не шевельнуть пальцем",
+      "register": "razg., neodobr.; takođe ne mrdnuti prstom",
+      "examples": [
+        {
+          "serbian_latin": "Priština ni ovog puta prstom neće mrdnuti kako bi formirala Zajednicu srpskih opština.",
+          "russian": "Приштина и на этот раз пальцем не пошевелит, чтобы сформировать Сообщество сербских муниципалитетов.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "I niko prstom da mrdne.",
+          "russian": "И никто пальцем не пошевелит.",
+          "source": "N1 Srbija, 2023"
+        }
+      ],
+      "note": "Русский эквивалент полный. В сербском возможны оба порядка: prstom ne mrdnuti и ne mrdnuti prstom. Часто подразумевается не физическая неподвижность, а морально осуждаемое бездействие при наличии возможности помочь или решить проблему.",
+      "keyword": "prstom ne mrdnuti"
     },
     {
       "headword_latin": "Psovati kao kočijaš",
@@ -16720,6 +16789,32 @@
       "keyword": "staviti ruku u vatru"
     },
     {
+      "headword_latin": "Staviti sve na jednu kartu",
+      "type": "frazeologizam",
+      "definition_ru": "поставить всё на одну карту; рискнуть всем ради одного варианта",
+      "synonyms_sr": [
+        "rizikovati sve",
+        "osloniti se na samo jednu mogućnost",
+        "igrati na sve ili ništa"
+      ],
+      "literal_ru": "поставить всё на одну карту",
+      "register": "razg.-publicistički; takođe staviti / baciti sve na jednu kartu",
+      "examples": [
+        {
+          "serbian_latin": "Postoji izreka da ne treba staviti sve na jednu kartu.",
+          "russian": "Есть поговорка: не стоит ставить всё на одну карту.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "To je nezdravo – stavljati sve na jednu kartu.",
+          "russian": "Нездорово ставить всё на одну карту.",
+          "source": "N1 Srbija, 2017"
+        }
+      ],
+      "note": "Русский эквивалент совпадает полностью. Образ происходит из азартной карточной игры и подразумевает опасную концентрацию всех ресурсов или надежд на одном исходе. В сербском возможны staviti, stavljati, а экспрессивно и baciti sve na jednu kartu.",
+      "keyword": "sve na jednu kartu"
+    },
+    {
       "headword_latin": "Staviti sve na kocku",
       "type": "frazeologizam",
       "definition_ru": "поставить всё на карту; поставить всё на кон; рискнуть всем",
@@ -18970,30 +19065,28 @@
     {
       "headword_latin": "Visiti o koncu",
       "type": "frazeologizam",
-      "definition_ru": "висеть на волоске; быть под угрозой; находиться в крайне неопределённом положении",
+      "definition_ru": "висеть на волоске; быть на грани; находиться в крайне опасном и неопределённом положении",
       "synonyms_sr": [
-        "biti ozbiljno ugrožen",
+        "biti na ivici",
+        "biti krajnje ugrožen",
         "biti neizvestan",
-        "biti na ivici propasti",
-        "biti u kritičnom položaju"
+        "jedva se održavati"
       ],
       "literal_ru": "висеть на нитке",
-      "register": "разг.-публицист., экспр.; типично život, sudbina, budućnost, opstanak visi o koncu",
+      "register": "razg.-publicistički; naročito život / sudbina / opstanak visi o koncu",
       "examples": [
         {
-          "serbian_latin": "Četrnaestogodišnjem dečaku život je visio o koncu.",
-          "russian": "Жизнь четырнадцатилетнего мальчика висела на волоске.",
-          "source": "RTS, 2021",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4331404/decak-dijabeticar-se-srusio-ispred-prodavnice-zivot-mu-visio-o-koncu.html"
+          "serbian_latin": "Život mu je visio o koncu.",
+          "russian": "Его жизнь висела на волоске.",
+          "source": "RTS, 2021"
         },
         {
-          "serbian_latin": "Sticao se utisak da Vučićeva vlada visi o koncu.",
-          "russian": "Создавалось впечатление, что правительство Вучича висит на волоске.",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/vesti/politika/bivsa-ministarka-knajsl-vucic-protesti/"
+          "serbian_latin": "Puno puta mu je život visio o koncu.",
+          "russian": "Много раз его жизнь висела на волоске.",
+          "source": "Danas, 2008"
         }
       ],
-      "note": "Русский обычно заменяет сербский konac «нитка» на «волосок»: život mu visi o koncu — «его жизнь висит на волоске». Выражение применимо не только к жизни: так же говорят о правительстве, карьере, проекте, соглашении или будущем.",
+      "note": "Русское «висеть на волоске» — естественный эквивалент, хотя сербское konac буквально означает нитку. Помимо жизни человека, так говорят о карьере, сделке, правительстве, проекте или существовании организации, если исход зависит от очень хрупкого обстоятельства.",
       "keyword": "visiti o koncu"
     },
     {
@@ -19871,6 +19964,32 @@
       ],
       "note": "Это не объяснение причины, а демонстративный отказ объяснять. Особенно типично как ответ ребёнку, младшему брату или человеку, который в сотый раз спрашивает zašto?; Vukajlija определяет формулу как ответ на бессмысленный вопрос или вопрос с очевидным ответом. Форму zbog jotovanja как устойчивый сербский эквивалент мне надёжно подтвердить не удалось: в доступных источниках она появляется только как собственно лингвистический термин jotovanje, но не как общеупотребительная отговорка. Поэтому в словарь как равноправный вариант я бы её пока не включал.",
       "keyword": "zbog sira i vojne muzike"
+    },
+    {
+      "headword_latin": "Zdrav kao dren",
+      "type": "frazeologizam",
+      "definition_ru": "здоров как бык; крепкий как дуб; абсолютно здоров",
+      "synonyms_sr": [
+        "potpuno zdrav",
+        "zdrav i snažan",
+        "odličnog zdravlja"
+      ],
+      "literal_ru": "здоровый как кизил",
+      "register": "razg.-neutralno, odobr.; ustaljeno poređenje",
+      "examples": [
+        {
+          "serbian_latin": "Mijailović je zdrav kao dren, laž je da ne igra jer ga bole leđa.",
+          "russian": "Мияилович здоров как бык; неправда, что он не играет из-за боли в спине.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Dobija odgovor da je zdrav kao dren.",
+          "russian": "В ответ он слышит, что совершенно здоров.",
+          "source": "Politika, 2024"
+        }
+      ],
+      "note": "Dren — кизил (Cornus mas), традиционно воспринимаемый как выносливое и полезное растение; RTS прямо связывает с этим устойчивое сравнение zdrav kao dren. Для русского «здоров как кизил» бессмысленно, поэтому естественны «здоров как бык», «крепкий как дуб». Это одно из культурно характерных сербских сравнений.",
+      "keyword": "zdrav kao dren"
     },
     {
       "headword_latin": "Živeti kao bubreg u loju",
