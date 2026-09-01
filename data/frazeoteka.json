@@ -566,6 +566,32 @@
       "keyword": "bez glave i repa"
     },
     {
+      "headword_latin": "Bez muke nema nauke",
+      "type": "poslovica",
+      "definition_ru": "без труда знаний не добудешь; учёба без труда не даётся",
+      "synonyms_sr": [
+        "bez truda nema znanja",
+        "znanje traži trud",
+        "bez rada nema rezultata"
+      ],
+      "literal_ru": "без мучения нет науки",
+      "register": "poslovica; naročito o učenju, obrazovanju i savladavanju veštine",
+      "examples": [
+        {
+          "serbian_latin": "Bez muke nema nauke. I učim srpski jezik svaki dan.",
+          "russian": "Без труда знаний не добудешь. Я учу сербский каждый день.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Bez muke nema nauke, ali bez nauke nema prosperiteta društva.",
+          "russian": "Без труда нет знаний, но без науки нет и процветания общества.",
+          "source": "RTS, 2017"
+        }
+      ],
+      "note": "Muka здесь — трудность, усилие, мучение, а nauka в пословице шире современной «науки» как академической деятельности: это также учение, знание, выучка. Поэтому буквальное «без мучений нет науки» по-русски сужает и искажает смысл. Рифма muke — nauke делает формулу особенно запоминающейся.",
+      "keyword": "bez muke nema nauke"
+    },
+    {
       "headword_latin": "Bez pardona",
       "type": "izraz",
       "definition_ru": "без церемоний; без обиняков; без всякой пощады",
@@ -2274,6 +2300,31 @@
       ],
       "note": "Это языковая игра на основе обычного čašica pića / rakije: содержимым «рюмочки» становится сам разговор. Поэтому выражение может употребляться даже тогда, когда собеседники вообще ничего не пьют — современный пример Sport Kluba это хорошо показывает. Фраза имеет немного ретро-журналистский оттенок: раньше Čašica razgovora встречалось и как название газетной рубрики.",
       "keyword": "čašica razgovora"
+    },
+    {
+      "headword_latin": "Čega se pametan stidi, time se budala ponosi",
+      "type": "poslovica",
+      "definition_ru": "чем умный стыдится, тем дурак гордится; выставлять собственный позор как достоинство",
+      "synonyms_sr": [
+        "nemati stida",
+        "ponositi se sramotom"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, izrazito neodobr.; o ponosu ponašanjem koje bi razuman čovek smatrao sramotnim",
+      "examples": [
+        {
+          "serbian_latin": "Čega se pametan stidi, time se budala ponosi.",
+          "russian": "Чем умный стыдится, тем дурак гордится.",
+          "source": "021.rs, 2017"
+        },
+        {
+          "serbian_latin": "Čega se pametan stidi, time se budala ponosi.",
+          "russian": "То, чего разумный человек постыдился бы, глупец выставляет предметом гордости.",
+          "source": "Večernje novosti, 2025"
+        }
+      ],
+      "note": "Русский перевод может быть почти дословным, и смысл при этом не теряется. Pametan здесь — не просто «интеллектуально умный», а разумный, понимающий нормы приличия человек. Пословица особенно часто применяется к хвастовству поступками, которые говорящий считает морально или социально постыдными.",
+      "keyword": "pametan; budala; stid"
     },
     {
       "headword_latin": "Čiča miča i gotova priča",
@@ -4500,6 +4551,31 @@
       ],
       "note": "Выражение характеризует беспринципного человека, готового вредить другим ради карьеры, денег или власти.",
       "keyword": "leš"
+    },
+    {
+      "headword_latin": "Gde je tanko, tu se kida",
+      "type": "poslovica",
+      "definition_ru": "где тонко, там и рвётся; первым страдает самое слабое место",
+      "synonyms_sr": [
+        "najslabije mesto prvo popušta",
+        "nesreća najpre pogađa najslabije"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; o najslabijoj tački sistema ili o ljudima koji su najranjiviji",
+      "examples": [
+        {
+          "serbian_latin": "Gde je tanko, tu se kida!",
+          "russian": "Где тонко, там и рвётся.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Najmanja promena [...] ugrožava ih, po pravilu – „gde je tanko, tu se kida“.",
+          "russian": "Малейшее изменение бьёт по ним первым: где тонко, там и рвётся.",
+          "source": "Vreme, 2003"
+        }
+      ],
+      "note": "Здесь совпадают и сербский, и русский образ. Применение шире физического «разрыва»: слабое предприятие, бедная семья, уязвимая социальная группа или ненадёжная часть системы первой испытывает последствия кризиса. Часто употребляется именно при обсуждении неравномерно распределённого ущерба.",
+      "keyword": "gde je tanko"
     },
     {
       "headword_latin": "ginuti kao muve",
@@ -7281,6 +7357,31 @@
       "keyword": "bes"
     },
     {
+      "headword_latin": "Klin se klinom izbija",
+      "type": "poslovica",
+      "definition_ru": "клин клином вышибают; лечить подобное подобным; бороться с чем-то тем же средством",
+      "synonyms_sr": [
+        "slično se sličnim leči",
+        "istim sredstvom protiv istog problema"
+      ],
+      "literal_ru": "",
+      "register": "poslovično; može se upotrebiti ozbiljno ili ironično",
+      "examples": [
+        {
+          "serbian_latin": "Primenom pseudonaučnog metoda „klin se klinom izbija“ [...] ispitivao je sadejstvo promaje i stresa.",
+          "russian": "Применив псевдонаучный принцип «клин клином вышибают», он исследовал взаимодействие сквозняка и стресса.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Postupanje po principu „klin se klinom izbija“ [...] ne može takvo ponašanje da učini etički ispravnim.",
+          "russian": "Действие по принципу «клин клином вышибают» не делает такое поведение этически правильным.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Русский эквивалент практически полный. Однако смысл шире «ответить тем же»: тем же или сходным воздействием пытаются устранить первоначальную проблему — например, похмелье алкоголем. Сербская формула совершенно обычна и вне буквального образа клина.",
+      "keyword": "klin se klinom izbija"
+    },
+    {
       "headword_latin": "Knedla mi stoji u grlu",
       "type": "frazeologizam",
       "definition_ru": "у меня ком в горле; ком стоит в горле",
@@ -7340,6 +7441,32 @@
       ],
       "note": "Это почти идеальный сербский эквивалент русской пословицы. Но важно не расширять смысл до общего «глупый человек вынужден много работать». В традиционном пояснении речь прежде всего о забывчивости: Zaboravi radi čega je otišao pa mora još jedanput ići — человек забыл, зачем ходил, и должен идти снова. Пословица настолько узнаваема, что породила интернет-переделки вроде Ko nema u vuglu, ima u Guglu.",
       "keyword": "ko nema u glavi ima u nogama"
+    },
+    {
+      "headword_latin": "Ko prizna, pola mu se prašta",
+      "type": "poslovica",
+      "definition_ru": "повинную голову меч не сечёт; признание смягчает вину; сознавшемуся простят половину",
+      "synonyms_sr": [
+        "priznanje ublažava krivicu",
+        "iskrenost se ceni",
+        "lakše je kad se prizna"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, često polušalj.; može se primeniti i doslovno na priznanje prestupa",
+      "examples": [
+        {
+          "serbian_latin": "Narod je davno rekao – „ko prizna pola mu se prašta“.",
+          "russian": "Народ давно говорит: повинную голову меч не сечёт.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "To ne znači da „ko prizna – pola mu se prašta“.",
+          "russian": "Но это ещё не означает, что признание автоматически снимает половину вины.",
+          "source": "N1 Srbija, 2023"
+        }
+      ],
+      "note": "Сербская формула намного живее буквального русского «кто признается, тому половину прощают». Она часто звучит шутливо после небольшого проступка, но возможна и в серьёзной дискуссии об ответственности. Русское «повинную голову меч не сечёт» функционально близко, хотя образ другой.",
+      "keyword": "ko prizna"
     },
     {
       "headword_latin": "Ko rano rani, dve sreće grabi",
@@ -9747,6 +9874,32 @@
       "keyword": "ni okom ne trepnuti"
     },
     {
+      "headword_latin": "Ni pas s maslom ne bi pojeo",
+      "type": "frazeologizam",
+      "definition_ru": "ни в какие ворота не лезет; такое невозможно проглотить; хуже некуда",
+      "synonyms_sr": [
+        "ne valja ni za šta",
+        "nepodnošljivo je",
+        "ne može da se proguta"
+      ],
+      "literal_ru": "даже собака с маслом не съела бы",
+      "register": "razg., izrazito neodobr.; o veoma lošem, neprihvatljivom, odvratnom ili besmislenom postupku, tekstu ili tvrdnji",
+      "examples": [
+        {
+          "serbian_latin": "Ne kaže se bez razloga da tako nešto „ne bi ni pas s maslom pojeo“.",
+          "russian": "Не зря говорят: такое ни в какие ворота не лезет.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "To ni pas s maslom ne bi pojeo, ali ovde, eto, ide ko alva.",
+          "russian": "Такое невозможно проглотить, а здесь, глядишь, идёт на ура.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Несмотря на глагол pojesti, речь чаще вообще не о еде. Формула характеризует что-либо настолько плохое, нелепое или отвратительное, что это невозможно «переварить». Русское «такое даже собаке не скормишь» передаёт образ, но как устойчивый эквивалент естественнее «ни в какие ворота не лезет».",
+      "keyword": "pas s maslom"
+    },
+    {
       "headword_latin": "Ni pet ni šest",
       "type": "frazeologizam",
       "definition_ru": "не долго думая; ни с того ни с сего; взял да и…",
@@ -10399,6 +10552,32 @@
       ],
       "note": "Выражение не означает просто туристическое «ездить с места на место»: обычно в нём есть оттенок бесприютности, вынужденности, поиска помощи или своего места. Часто сочетается с lutati, ići, vucarati se. По-русски особенно хорошо подходят «мыкаться» и «скитаться по свету».",
       "keyword": "od nemila do nedraga"
+    },
+    {
+      "headword_latin": "Od viška glava ne boli",
+      "type": "poslovica",
+      "definition_ru": "запас карман не тянет; лишнее не помешает; лучше больше, чем меньше",
+      "synonyms_sr": [
+        "više ne škodi",
+        "bolje više nego manje",
+        "neka se nađe"
+      ],
+      "literal_ru": "от избытка голова не болит",
+      "register": "poslovično, razg.; neretko i ironično, naročito kada višak ipak može da škodi",
+      "examples": [
+        {
+          "serbian_latin": "Da li uvek važi izreka „od viška glava ne boli“?",
+          "russian": "Всегда ли верно, что запас карман не тянет?",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Ima jedna izreka „Od viška glava ne boli“.",
+          "russian": "Есть поговорка: запас карман не тянет.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Это не утверждение о буквальном отсутствии вреда от избытка, а бытовая идея «лишний запас пригодится». Поэтому выражение легко переворачивают иронически: RTS, например, обыгрывает его именно в контексте веществ, избыток которых способен навредить. Русское «запас карман не тянет» обычно звучит естественнее кальки.",
+      "keyword": "od viška"
     },
     {
       "headword_latin": "Odgovarati nekome",
@@ -11282,6 +11461,32 @@
       ],
       "note": "Употребляется с дательным падежом: pala mu je, upala joj je, pala nam je sekira u med. Варианты pala и upala равноправны.",
       "keyword": "sekira"
+    },
+    {
+      "headword_latin": "Para vrti gde burgija neće",
+      "type": "poslovica",
+      "definition_ru": "деньги всё решают; деньги открывают любые двери; за деньги и невозможное становится возможным",
+      "synonyms_sr": [
+        "novac otvara sva vrata",
+        "sve se može novcem",
+        "novac je moć"
+      ],
+      "literal_ru": "деньги крутят там, где и сверло не берёт",
+      "register": "poslovica, razg., obično iron. ili neodobr.; često s aluzijom na uticaj novca, veze ili korupciju",
+      "examples": [
+        {
+          "serbian_latin": "Para vrti gde burgija neće.",
+          "russian": "Деньги открывают даже те двери, которые иначе не открыть.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Setila se da „para vrti gde burgija neće“ pa je postala „pisac“.",
+          "russian": "Она вспомнила, что деньги всё решают, и стала «писателем».",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Para здесь употребляется как собирательное «деньги», а не как конкретная мелкая монета. Образ подчёркивает «пробивную силу» денег: они добиваются результата там, где обычные средства бессильны. В современной речи пословица нередко имеет циничный оттенок: деньги позволяют обойти препятствия или правила.",
+      "keyword": "para; burgija"
     },
     {
       "headword_latin": "Parati uši",
@@ -14047,6 +14252,33 @@
       "keyword": "ruku na srce"
     },
     {
+      "headword_latin": "S brda s dola",
+      "type": "frazeologizam",
+      "definition_ru": "как попало; бессвязно; без системы, кусками",
+      "synonyms_sr": [
+        "zbrda-zdola",
+        "bez reda",
+        "nepovezano",
+        "nabacano"
+      ],
+      "literal_ru": "с холма и из долины",
+      "register": "razg., neodobr.; o govoru, tekstu, planu ili poslu sastavljenom bez reda i unutrašnje veze",
+      "examples": [
+        {
+          "serbian_latin": "Ekspoze mandatara liči na „kontradiktornu bajku“ napisanu „s brda, s dola“.",
+          "russian": "Программа кандидата в премьеры похожа на противоречивую сказку, написанную бессвязно и кое-как.",
+          "source": "RTS, 2012"
+        },
+        {
+          "serbian_latin": "Grupa koja se na ovaj korak odlučila [...] grubo rečeno sklepana je s brda s dola.",
+          "russian": "Группа, решившаяся на этот шаг, была, грубо говоря, собрана с бору по сосенке.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Выражение описывает отсутствие порядка и внутренней связи: факты, мысли или части чего-либо набраны отовсюду и плохо состыкованы. Для русского в зависимости от контекста естественны «с бору по сосенке», «как попало», «бессвязно». Встречается и слитный вариант zbrda-zdola.",
+      "keyword": "s brda s dola"
+    },
+    {
       "headword_latin": "S koca i konopca",
       "type": "frazeologizam",
       "definition_ru": "сброд; разношёрстная сомнительная компания; собранные чёрт знает откуда люди",
@@ -14475,6 +14707,31 @@
       ],
       "note": "Здесь русский и сербский фразеологизмы совпадают почти буквально. Выражение интернационально и существует во многих европейских языках. Популярное народное объяснение очень простое: u crkvi miševi nemaju šta da jedu — в церкви мыши не находят запасов еды, как в амбаре или доме. Однако точное историческое происхождение надёжно не установлено: фразеологические исследования связывают образ как с представлением о материальной скромности церкви, так и с более широким европейским фольклором.",
       "keyword": "siromašan kao crkveni miš"
+    },
+    {
+      "headword_latin": "Sit gladnom ne veruje",
+      "type": "poslovica",
+      "definition_ru": "сытый голодного не разумеет; благополучный не понимает чужой нужды",
+      "synonyms_sr": [
+        "sit ne razume gladnog",
+        "onaj kome je dobro teško razume tuđu muku"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, obično neodobr.; o životnoj i socijalnoj distanci između onoga kome ništa ne nedostaje i onoga ko oskudeva",
+      "examples": [
+        {
+          "serbian_latin": "„Sit gladnom ne veruje“, kaže poslovica.",
+          "russian": "«Сытый голодного не разумеет», — говорит пословица.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Sit gladnom ne veruje.",
+          "russian": "Сытый голодного не разумеет.",
+          "source": "RTS, 2013"
+        }
+      ],
+      "note": "Ne veruje буквально означает «не верит», но пословица подразумевает также «не способен по-настоящему понять». Поэтому русский «сытый голодного не разумеет» точнее кальки «не верит». Употребление давно вышло за рамки буквального голода: речь может быть о деньгах, жилье, воде, работе и любой нужде.",
+      "keyword": "sit gladnom"
     },
     {
       "headword_latin": "Sitna riba",
