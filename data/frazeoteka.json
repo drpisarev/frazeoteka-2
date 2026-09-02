@@ -7643,6 +7643,57 @@
       "keyword": "ko nema u glavi ima u nogama"
     },
     {
+      "headword_latin": "Ko o čemu, baba o uštipcima",
+      "type": "izreka",
+      "definition_ru": "кто о чём, а он всё о своём; опять за старое; сводить любой разговор к любимой теме",
+      "synonyms_sr": [
+        "vrteti istu priču",
+        "stalno se vraćati na istu temu",
+        "terati po svom"
+      ],
+      "literal_ru": "кто о чём, а баба — о пончиках",
+      "register": "narodno, razg., iron.; o osobi koja svaku temu vraća na ono što nju zaokuplja",
+      "examples": [
+        {
+          "serbian_latin": "Ko o čemu baba o uštipcima, kako kaže često upotrebljavana izreka.",
+          "russian": "Кто о чём, а я опять за своё, как говорится.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "O čemu pišeš, pita me supruga? O detinjstvu. Ko o čemu, baba o uštipcima.",
+          "russian": "«О чём пишешь?» — спрашивает жена. «О детстве». Ну да, опять всё о своём.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Uštipci — традиционные жареные кусочки мягкого теста, что-то между пончиками и пышками. Главное во фразе не еда, а комический образ человека, который любую беседу упорно возвращает к своей любимой теме. Русское «кто о чём, а вшивый о бане» близко по функции, но грубее и уничижительнее.",
+      "keyword": "baba o uštipcima"
+    },
+    {
+      "headword_latin": "Ko peva, zlo ne misli",
+      "type": "poslovica",
+      "definition_ru": "кто поёт, тот зла не замышляет; песня и дурные мысли несовместимы",
+      "synonyms_sr": [
+        "pesma rasteruje loše misli",
+        "ko se veseli ne misli zlo"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; često dobronamerno ili šaljivo o pevanju kao znaku dobrog raspoloženja",
+      "examples": [
+        {
+          "serbian_latin": "Poznata je izreka „Ko peva zlo ne misli“.",
+          "russian": "Известно выражение: кто поёт, тот зла не замышляет.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "„Ko peva zlo ne misli“, kaže stara poslovica.",
+          "russian": "«Кто поёт, тот зла не замышляет», — гласит старая пословица.",
+          "source": "N1 Srbija, 2024"
+        }
+      ],
+      "note": "Misliti zlo означает не просто «думать о плохом», а «замышлять дурное, желать зла». Поэтому буквальное русское «зла не думает» звучит неестественно; лучше «зла не замышляет». Пословицу нередко иронически переделывают, например: Ko peva, zlo ne misli. A ko misli, nije mu do pesme.",
+      "keyword": "ko peva zlo ne misli"
+    },
+    {
       "headword_latin": "Ko prizna, pola mu se prašta",
       "type": "poslovica",
       "definition_ru": "повинную голову меч не сечёт; признание смягчает вину; сознавшемуся простят половину",
@@ -7723,6 +7774,58 @@
       ],
       "note": "Варианты глагола во второй части колеблются: lupaju, obijaju, olupaju, но смысл остаётся тем же. Здесь важно не «плохое влияние компании» само по себе, а последствие сознательного союза с кем-то опасным: человек рассчитывал использовать зло в своих интересах, а оно ударило по нему самому.",
       "keyword": "đavo; tikve"
+    },
+    {
+      "headword_latin": "Ko se čuva, i Bog ga čuva",
+      "type": "poslovica",
+      "definition_ru": "бережёного Бог бережёт; осторожность лишней не бывает",
+      "synonyms_sr": [
+        "oprez nije naodmet",
+        "bolje sprečiti nego lečiti",
+        "treba biti oprezan"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; o razumnoj opreznosti i ličnoj odgovornosti za sopstvenu bezbednost",
+      "examples": [
+        {
+          "serbian_latin": "Trebalo bi da imamo na umu onu narodnu: „Ko se čuva i Bog ga čuva“.",
+          "russian": "Стоит помнить народную мудрость: бережёного Бог бережёт.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Narod lepo kaže: „Ko se čuva i Bog ga čuva.“",
+          "russian": "Народ верно говорит: бережёного Бог бережёт.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Русский эквивалент практически полный. Смысл не в пассивной надежде на Божью защиту, а наоборот: сначала человек сам соблюдает осторожность — и лишь затем рассчитывает на благополучный исход. Поэтому пословица очень естественна в разговорах о здоровье, дороге, путешествиях и риске.",
+      "keyword": "ko se čuva"
+    },
+    {
+      "headword_latin": "Ko se zadnji smeje, najslađe se smeje",
+      "type": "poslovica",
+      "definition_ru": "хорошо смеётся тот, кто смеётся последним; окончательный победитель определяется в конце",
+      "synonyms_sr": [
+        "kraj odlučuje",
+        "poslednja reč još nije rečena",
+        "na kraju se vidi pobednik"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; često kao upozorenje onome ko prerano slavi pobedu ili se podsmeva protivniku",
+      "examples": [
+        {
+          "serbian_latin": "Nedimović je Poledici uputio staru izreku: „Ko se zadnji smeje, najslađe se smeje“.",
+          "russian": "Недимович ответил Поледице старой поговоркой: хорошо смеётся тот, кто смеётся последним.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Belivuk je tužiocu rekao: „Ko se zadnji smeje, najslađe se smeje“.",
+          "russian": "Беливук сказал прокурору: хорошо смеётся тот, кто смеётся последним.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Значение практически полностью совпадает с русской пословицей. Речь не обязательно о буквальном смехе: формула предупреждает, что промежуточное преимущество ещё не означает окончательной победы. Поэтому она особенно частотна в спорте, политическом соперничестве и конфликтных репликах.",
+      "keyword": "ko se zadnji smeje"
     },
     {
       "headword_latin": "kola su krenula nizbrdo",
@@ -9466,6 +9569,32 @@
       "keyword": "priuštiti sebi"
     },
     {
+      "headword_latin": "Ne može šut s rogatim",
+      "type": "poslovica",
+      "definition_ru": "плетью обуха не перешибёшь; слабому не тягаться с сильным; силы слишком неравны",
+      "synonyms_sr": [
+        "slabiji ne može protiv jačeg",
+        "sila Boga ne moli",
+        "ne može nemoćan protiv moćnog"
+      ],
+      "literal_ru": "безрогий не может против рогатого",
+      "register": "narodno, razg.; o izrazito neravnopravnom sukobu sa mnogo jačim protivnikom",
+      "examples": [
+        {
+          "serbian_latin": "„Ne može šut s rogatim“, kaže naš narod s valjanim razlogom.",
+          "russian": "Не зря говорят: слабому с сильным не тягаться.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Šut s rogatim ipak ne može.",
+          "russian": "Против значительно более сильного соперника не попрёшь.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Это особенно важная ловушка для русского: šut здесь не связан с «пинком». В сербском šut может означать животное без рогов; именно поэтому оно бессильно против rogatog — рогатого. N1 также связывает с этим значением слова выражение šut s rogatim ne može. Русское «плетью обуха не перешибёшь» хорошо передаёт неравенство сил.",
+      "keyword": "šut s rogatim"
+    },
+    {
       "headword_latin": "Ne ostati dužan",
       "type": "frazeologizam",
       "definition_ru": "не остаться в долгу; ответить тем же; не оставить выпад без ответа",
@@ -10595,6 +10724,32 @@
       "keyword": "nije u vinklu"
     },
     {
+      "headword_latin": "Nije zlato sve što sija",
+      "type": "poslovica",
+      "definition_ru": "не всё то золото, что блестит; привлекательная внешность может быть обманчива",
+      "synonyms_sr": [
+        "izgled vara",
+        "nije sve onako kako izgleda",
+        "spoljašnjost može da prevari"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; upozorenje da se o vrednosti ne sudi samo po lepom izgledu ili prvom utisku",
+      "examples": [
+        {
+          "serbian_latin": "Oni koji su razumeli mrak potvrdili su činjenicu da nije zlato sve što sija.",
+          "russian": "Те, кто понял эту ситуацию, убедились: не всё то золото, что блестит.",
+          "source": "N1 Srbija, 2026"
+        },
+        {
+          "serbian_latin": "Otvorili su mi oči po principu „nije zlato sve što sija“.",
+          "russian": "Они открыли мне глаза: не всё то золото, что блестит.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Сербская и русская пословицы совпадают почти дословно. Sijati здесь — «блестеть, сиять», а не только «светить». Выражение применимо не только к вещам, но и к людям, эпохам, политическим обещаниям, работе и вообще всему, что производит слишком привлекательное первое впечатление.",
+      "keyword": "nije zlato sve što sija"
+    },
+    {
       "headword_latin": "Nisu čista posla",
       "type": "frazeologizam",
       "definition_ru": "дело нечисто; здесь что-то не так; попахивает чем-то подозрительным",
@@ -10831,31 +10986,29 @@
     {
       "headword_latin": "Od gotovog praviti veresiju",
       "type": "frazeologizam",
-      "definition_ru": "упустить почти гарантированный успех; всё испортить в последний момент; из готового сделать проблему",
+      "definition_ru": "упустить почти верное дело; из практически достигнутого результата снова сделать неопределённость",
       "synonyms_sr": [
         "prokockati prednost",
-        "upropastiti gotovu stvar",
-        "zakomplikovati gotovo rešen posao",
-        "ispustiti pobedu"
+        "zakomplikovati gotovu stvar",
+        "ispustiti dobijeno",
+        "upropastiti skoro završen posao"
       ],
-      "literal_ru": "из готового делать покупку в долг",
-      "register": "разг., экспр., неодобр.; особенно частотно в спортивной речи о почти выигранном матче",
+      "literal_ru": "из готового делать продажу в долг",
+      "register": "razg.-publicistički, neodobr.; naročito često u sportu kada se gubi gotovo sigurna pobeda",
       "examples": [
         {
-          "serbian_latin": "Navijači pojedinih klubova... gubili su dobijene utakmice, ili, kako se kaže, „od gotovog pravili veresiju“.",
-          "russian": "Болельщики некоторых клубов видели, как их команды умудрялись проигрывать практически выигранные матчи — как говорится, из готового делать проблему.",
-          "source": "RTS, 2011",
-          "url": "https://www.rts.rs/lat/sport/fudbal/908526/najveci-fudbalski-preokreti.html"
+          "serbian_latin": "Navijači se često sete klubova koji su gubili dobijene utakmice, ili kako se kaže, „od gotovog pravili veresiju“.",
+          "russian": "Болельщики вспоминают команды, которые умудрялись упустить практически выигранные матчи.",
+          "source": "RTS, 2011"
         },
         {
-          "serbian_latin": "Napravili smo od gotovog veresiju i to pred našim navijačima.",
-          "russian": "Мы сами упустили практически готовую победу, да ещё и перед своими болельщиками.",
-          "source": "Danas, 2010",
-          "url": "https://www.danas.rs/vesti/drustvo/poslednji-voz-za-cetvrtfinale/"
+          "serbian_latin": "Srpski fudbaleri [...] ne umeju ni sami da objasne kako su od gotovog napravili veresiju.",
+          "russian": "Сербские футболисты и сами не могут объяснить, как упустили почти готовую победу.",
+          "source": "BBC na srpskom / Danas, 2022"
         }
       ],
-      "note": "Veresija — турцизм со значением «покупка в долг, кредит у продавца»; это значение до сих пор живо. Во фразеологизме контрастируется уже «готовое, надёжное» с чем-то снова неопределённым и сомнительным. Поэтому оборот особенно удобен, когда человек собственными ошибками портит почти решённое дело.",
-      "keyword": "od gotovog veresiju"
+      "note": "Veresija — покупка или продажа в долг, без немедленной оплаты. Образ поэтому очень точный: нечто уже практически «готовое» снова превращают в сомнительный будущий результат. По-русски компактного образного эквивалента нет; в спорте лучше «упустить почти выигранный матч», в делах — «самому всё снова поставить под вопрос».",
+      "keyword": "od gotovog praviti veresiju"
     },
     {
       "headword_latin": "Od igle do lokomotive",
@@ -17201,6 +17354,58 @@
       "keyword": "pas; mačka"
     },
     {
+      "headword_latin": "Svaka ptica svome jatu leti",
+      "type": "poslovica",
+      "definition_ru": "свой к своему тянется; рыбак рыбака видит издалека; люди ищут общество себе подобных",
+      "synonyms_sr": [
+        "sličan sličnom teži",
+        "svoj svoga traži",
+        "ljudi se okupljaju sa sebi sličnima"
+      ],
+      "literal_ru": "каждая птица летит к своей стае",
+      "register": "poslovica; može biti neutralno, dobronamerno ili neodobravajuće, zavisno od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Ovde bi pre moglo da se kaže da svaka ptica svome jatu leti.",
+          "russian": "Здесь скорее подходит поговорка: свой к своему тянется.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Svaka ptica svome jatu leti. Srpski, ili ruski Komonvelt?",
+          "russian": "Свой к своему тянется. Сербское или российское содружество?",
+          "source": "Politika, 2011"
+        }
+      ],
+      "note": "Jato — стая птиц или косяк рыб; русский учащийся иногда автоматически связывает его с jagoda или другими похожими словами, но семантически это именно группа животных. Пословица может описывать как естественное сближение людей со сходными интересами, так и сомнительное объединение «своих».",
+      "keyword": "ptica; jato"
+    },
+    {
+      "headword_latin": "Svaka škola se plaća",
+      "type": "izreka",
+      "definition_ru": "за каждый урок приходится платить; опыт приобретается ценой ошибок",
+      "synonyms_sr": [
+        "iskustvo se plaća",
+        "na greškama se uči",
+        "svaka greška ima cenu"
+      ],
+      "literal_ru": "за каждую школу платят",
+      "register": "poslovično; škola znači životnu lekciju stečenu greškom ili neprijatnim iskustvom",
+      "examples": [
+        {
+          "serbian_latin": "Svaka škola se plaća, a on je svoju „edukaciju“ preplatio gutanjem enormnih količina suzavca.",
+          "russian": "За любой опыт приходится платить, а за свой первый урок он заплатил изрядно.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Nije trebalo da idemo po svaku cenu u taj napad. Ali, svaka škola se plaća.",
+          "russian": "Не следовало любой ценой идти вперёд. Но за каждый урок приходится платить.",
+          "source": "Politika, 2026"
+        }
+      ],
+      "note": "Русскому легко понять слова, но не переносное škola: это «урок жизни», часто неприятный. Фраза обычно следует после ошибки и означает «теперь мы за неё заплатили и должны сделать выводы». Поэтому близко русское «на ошибках учатся», но сербская пословица сильнее подчёркивает цену приобретённого опыта.",
+      "keyword": "svaka škola se plaća"
+    },
+    {
       "headword_latin": "Sve je nekome ravno (do Kosova)",
       "type": "frazeologizam",
       "definition_ru": "кому-то всё равно; всё безразлично; совершенно наплевать",
@@ -18263,6 +18468,32 @@
       ],
       "note": "Sitni sati — не «маленькие часы» и не короткие промежутки времени, а поздние часы после полуночи, когда большинство уже спит. В зависимости от ситуации по-русски естественны «глубокой ночью», «далеко за полночь», «под утро». Выражение нормально употребляется и в нейтральной журналистике.",
       "keyword": "sitni sati"
+    },
+    {
+      "headword_latin": "U svakom žitu ima kukolja",
+      "type": "poslovica",
+      "definition_ru": "везде есть паршивая овца; в любой группе найдутся плохие люди; хороших без исключения не бывает",
+      "synonyms_sr": [
+        "svuda ima svakakvih",
+        "nisu svi isti",
+        "svuda ima i dobrih i loših"
+      ],
+      "literal_ru": "в каждом хлебном поле есть сорняк",
+      "register": "poslovica; često se koristi da se krivica pojedinca ne proširi na čitavu grupu ili profesiju",
+      "examples": [
+        {
+          "serbian_latin": "Đilas dodaje da „u svakom žitu ima kukolja“ i da među 200.000 članova DS verovatno ima ljudi koji nisu pošteni.",
+          "russian": "Джилас добавляет, что в любой большой группе найдутся и непорядочные люди.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "U svakom žitu ima kukolja, ali mi to moramo da iskorenimo.",
+          "russian": "Везде найдутся плохие люди, но с этим нужно бороться.",
+          "source": "Politika, 2008"
+        }
+      ],
+      "note": "Kukolj — сорное растение, традиционно считавшееся нежелательной примесью среди зерновых. Пословица обычно служит именно оговоркой против обобщения: один плохой врач, болельщик или чиновник ещё не характеризует всех остальных. Русское «в семье не без урода» иногда подходит, но оно резче; нейтральнее «везде встречаются разные люди».",
+      "keyword": "žito; kukolj"
     },
     {
       "headword_latin": "U tren oka",
