@@ -1071,6 +1071,33 @@
       "keyword": "so; rana"
     },
     {
+      "headword_latin": "Biti kost i koža",
+      "type": "frazeologizam",
+      "definition_ru": "быть кожа да кости; исхудать до предела; быть чрезвычайно худым",
+      "synonyms_sr": [
+        "biti veoma mršav",
+        "biti ispijen",
+        "biti iznuren",
+        "biti kao kostur"
+      ],
+      "literal_ru": "быть костью и кожей",
+      "register": "razg., ekspresivno; obično o nezdravoj ili krajnjoj mršavosti",
+      "examples": [
+        {
+          "serbian_latin": "Iako je „kost i koža“, sebe smatra debelom.",
+          "russian": "Хотя от неё остались кожа да кости, она считает себя толстой.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Imao je tuberkulozu i bio je „kost i koža“.",
+          "russian": "У него был туберкулёз, и он был буквально кожа да кости.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Русское «кожа да кости» практически полностью совпадает. Сербский обычно использует порядок kost i koža, а не русский «кожа да кости». Выражение сильнее обычного mršav: оно подразумевает крайнюю худобу, при которой визуально почти нет подкожной ткани.",
+      "keyword": "kost i koža"
+    },
+    {
       "headword_latin": "biti mač sa dve oštrice",
       "type": "глагольный фразеологизм",
       "definition_ru": "Одновременно заключать в себе преимущества и опасности; иметь возможные положительные и отрицательные последствия.",
@@ -1565,6 +1592,32 @@
       ],
       "note": "Для сербского словаря основными формами являются biti sateran uza zid и biti pritisnut uza zid. Образ почти совпадает с русским «прижать к стенке / загнать в угол»: человек лишён пространства для манёвра и вынужден действовать в крайне неблагоприятных условиях. Sateran uza zid обычно сильнее подчёркивает безвыходность, pritisnut uza zid — давление обстоятельств или другой стороны. В современной сербской прессе особенно частотно sateran uza zid.",
       "keyword": "sateran uza zid"
+    },
+    {
+      "headword_latin": "Biti slep kod očiju",
+      "type": "frazeologizam",
+      "definition_ru": "не видеть очевидного; быть слепым при зрячих глазах; упорно не замечать того, что перед носом",
+      "synonyms_sr": [
+        "ne videti očigledno",
+        "zatvarati oči pred činjenicama",
+        "ne primećivati ono što je jasno"
+      ],
+      "literal_ru": "быть слепым при глазах",
+      "register": "razg.-publicistički, neodobr.; o nesposobnosti ili nespremnosti da se vide očigledne činjenice",
+      "examples": [
+        {
+          "serbian_latin": "Narod na brdovitom Balkanu to lepo i jasno naziva – biti slep kod očiju.",
+          "russian": "В народе это метко называют: не видеть очевидного, имея глаза.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Ako Vučić ovaj trenutak nije u stanju da prepozna [...] onda je slep kod očiju.",
+          "russian": "Если Вучич не способен распознать этот момент, значит, он просто не видит очевидного.",
+          "source": "BBC na srpskom / Danas, 2022"
+        }
+      ],
+      "note": "Это не буквальная слепота, а неспособность или демонстративное нежелание увидеть то, что говорящему кажется совершенно очевидным. Русское «слепой при зрячих глазах» существует, но в живом переводе чаще нужны «не видеть очевидного», «как можно этого не видеть?». Не полностью совпадает с zatvarati oči pred nečim: там сильнее идея сознательного игнорирования.",
+      "keyword": "slep kod očiju"
     },
     {
       "headword_latin": "Biti svakoj vreći zakrpa",
@@ -4759,27 +4812,27 @@
     {
       "headword_latin": "Gladan kao vuk",
       "type": "frazeologizam",
-      "definition_ru": "голодный как волк; зверски голодный; жаждущий успеха",
+      "definition_ru": "голодный как волк; зверски голодный; очень хотеть есть",
       "synonyms_sr": [
         "veoma gladan",
-        "umirati od gladi",
-        "imati vučju glad"
+        "mrtav gladan (razg.)",
+        "umirati od gladi (hiperb.)"
       ],
       "literal_ru": "голодный как волк",
-      "register": "разг., экспр.; может описывать настоящий голод, а в спорте и работе — сильную жажду победы или успеха",
+      "register": "razg., ekspresivno ustaljeno poređenje",
       "examples": [
         {
-          "serbian_latin": "Onaj iz 2008. bi bio gladan kao vuk, to je sigurno.",
-          "russian": "Тот Новак образца 2008 года был бы голоден как волк — это точно.",
-          "source": "Sport Klub, 2024"
+          "serbian_latin": "Bio sam gladan kao vuk, jedva čekao da sednem za sto i nešto pojedem.",
+          "russian": "Я был голодный как волк и едва дождался возможности сесть и поесть.",
+          "source": "Sport Klub Srbija, 2021"
         },
         {
-          "serbian_latin": "Ljudi često kada ujutru ustanu kažu: „Gladan sam kao vuk.“",
-          "russian": "Люди часто, встав утром, говорят: «Я голодный как волк».",
-          "source": "Blic, 2020"
+          "serbian_latin": "Kad ste poslednji put rekli: gladan sam kao vuk?",
+          "russian": "Когда вы в последний раз говорили: «Я голодный как волк»?",
+          "source": "Politika, 2022"
         }
       ],
-      "note": "Помимо буквального сильного голода, современная спортивная речь активно использует переносное gladan pobeda, gladan uspeha, gladan kao vuk — человек всё ещё чрезвычайно мотивирован и хочет новых побед. Русское выражение совпадает почти полностью.",
+      "note": "Здесь русский и сербский образы полностью совпадают. Сравнение подчёркивает сильный физический голод, хотя в спортивной публицистике gladan kao vuk иногда метафорически описывает и ненасытное стремление к новым победам.",
       "keyword": "gladan kao vuk"
     },
     {
@@ -6392,6 +6445,33 @@
       "keyword": "Drina"
     },
     {
+      "headword_latin": "Isterati nekoga / nešto na čistac",
+      "type": "frazeologizam",
+      "definition_ru": "вывести на чистую воду; заставить определиться; окончательно прояснить ситуацию",
+      "synonyms_sr": [
+        "razjasniti stvar",
+        "naterati nekoga da se izjasni",
+        "raščistiti situaciju",
+        "otkriti pravo stanje"
+      ],
+      "literal_ru": "выгнать на открытое, расчищенное место",
+      "register": "razg.-publicistički; isterati nekoga na čistac — naterati ga da jasno pokaže stav; isterati nešto na čistac — razjasniti pitanje",
+      "examples": [
+        {
+          "serbian_latin": "Nestorović mora da bude „isteran na čistac na koju će stranu“.",
+          "russian": "Несторовича нужно заставить наконец ясно сказать, на чьей он стороне.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Moramo to isterati na čistac.",
+          "russian": "Нужно наконец с этим разобраться и всё прояснить.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Сербское выражение шире русского «вывести на чистую воду»: оно не обязательно предполагает разоблачение виновного. Часто нужно просто добиться ясного ответа, определить позиции сторон или устранить двусмысленность. Поэтому перевод «вывести на чистую воду» подходит только при оттенке разоблачения.",
+      "keyword": "isterati na čistac"
+    },
+    {
       "headword_latin": "Isto sranje",
       "type": "frazeologizam",
       "definition_ru": "Та же х*рня; одно и то же д*рьмо; никакой существенной разницы.",
@@ -6611,6 +6691,33 @@
       ],
       "note": "Выражение означает, что прежнее решение, удовольствие, самоуверенность или поступок впоследствии оборачиваются неприятными последствиями. Русское «выйти боком» наиболее универсально; «поперёк горла встать» ближе к телесному образу, но не всегда передаёт идею расплаты. Управление: to će mu izaći na nos.",
       "keyword": "izaći na nos"
+    },
+    {
+      "headword_latin": "Izbaciti nekoga iz takta",
+      "type": "frazeologizam",
+      "definition_ru": "вывести из равновесия; выбить из колеи; разозлить или заставить нервничать",
+      "synonyms_sr": [
+        "iznervirati",
+        "poremetiti",
+        "uznemiriti",
+        "izbaciti iz ravnoteže"
+      ],
+      "literal_ru": "выбить кого-то из такта",
+      "register": "razg.-neutralno; nešto / neko izbaci nekoga iz takta",
+      "examples": [
+        {
+          "serbian_latin": "Ovog vikenda, više me ništa neće izbaciti iz takta!",
+          "russian": "В эти выходные меня уже ничто не выведет из равновесия!",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Bruks je pokušao da [...] Batlera izbaci iz takta.",
+          "russian": "Брукс попытался вывести Батлера из равновесия.",
+          "source": "Sport Klub Srbija, 2025"
+        }
+      ],
+      "note": "Takt — музыкальный такт, поэтому исходный образ — нарушить чей-то ритм. В современном употреблении это эмоциональное или психологическое равновесие. Выражение необязательно означает сильную злость: человека можно izbaciti iz takta неожиданным вопросом, опозданием или психологической провокацией.",
+      "keyword": "izbaciti iz takta"
     },
     {
       "headword_latin": "Izgledati kao avion",
@@ -7389,6 +7496,32 @@
       "keyword": "kao na dlanu"
     },
     {
+      "headword_latin": "Kao od majke rođen",
+      "type": "frazeologizam",
+      "definition_ru": "в чём мать родила; совершенно голый; нагишом",
+      "synonyms_sr": [
+        "potpuno go",
+        "go golcat (razg.)",
+        "nag"
+      ],
+      "literal_ru": "словно только что рождённый матерью",
+      "register": "razg., ekspresivno poređenje; obično go kao od majke rođen",
+      "examples": [
+        {
+          "serbian_latin": "Jedan igrač je [...] pred nemačku kancelarku izašao „kao od majke rođen“.",
+          "russian": "Один из игроков вышел к немецкому канцлеру в чём мать родила.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Car je go kao od majke rođen.",
+          "russian": "Король голый — буквально в чём мать родила.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Русский эквивалент «в чём мать родила» практически полный, хотя порядок компонентов другой. Сербская базовая модель — go kao od majke rođen. Возможно и самостоятельное kao od majke rođen, если из контекста уже ясно, что речь о наготе.",
+      "keyword": "kao od majke rođen"
+    },
+    {
       "headword_latin": "kao posrani golub",
       "type": "poređenje",
       "definition_ru": "понурый, жалкий и подавленный; как побитая собака",
@@ -7444,6 +7577,33 @@
       ],
       "note": "Значение зависит от глагола. Osećati se kao riba na suvom — чувствовать себя не в своей тарелке; snalaziti se kao riba na suvom — совершенно не справляться; živeti kao riba na suvom — находиться в тяжёлых или неподходящих условиях. Антонимичный образ — osećati se kao riba u vodi, то есть чувствовать себя свободно и естественно. Нормативная сербская форма — na suvom.",
       "keyword": "riba na suvom"
+    },
+    {
+      "headword_latin": "Kao rogovi u vreći",
+      "type": "frazeologizam",
+      "definition_ru": "как кошка с собакой; постоянно грызться; совершенно не уживаться друг с другом",
+      "synonyms_sr": [
+        "stalno se svađati",
+        "nikako se ne slagati",
+        "biti u stalnom sukobu",
+        "ne moći zajedno"
+      ],
+      "literal_ru": "как рога в мешке",
+      "register": "razg., ekspresivno; o ljudima ili grupama koji su zajedno, ali stalno dolaze u sukob",
+      "examples": [
+        {
+          "serbian_latin": "Viktorija i Magdalena su kao rogovi u vreći.",
+          "russian": "Виктория и Магдалена живут как кошка с собакой.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Opozicioni lideri među sobom se slažu „kao rogovi u vreći“.",
+          "russian": "Лидеры оппозиции ладят между собой как кошка с собакой.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Образ понятен буквально: если сложить несколько рогатых животных или рогов в тесное пространство, они постоянно цепляются друг за друга. Выражение описывает не разовую ссору, а хроническую несовместимость. Русские «как кошка с собакой» и «как пауки в банке» выбираются по степени враждебности.",
+      "keyword": "rogovi u vreći"
     },
     {
       "headword_latin": "Kao Švaba tralala",
@@ -10635,31 +10795,56 @@
     {
       "headword_latin": "Ni u ludilu",
       "type": "izraz",
-      "definition_ru": "ни за что на свете; ни в коем случае; даже представить себе не мог",
+      "definition_ru": "ни за что на свете; ни в коем случае; даже мысли такой нет",
       "synonyms_sr": [
         "nipošto",
+        "nikako",
         "ni pod razno",
-        "ni u kom slučaju",
-        "nema šanse (razg.)"
+        "ni za živu glavu"
       ],
       "literal_ru": "даже в безумии",
-      "register": "разг., усил., экспр.; употребляется при категорическом отказе и с глаголами misliti, očekivati, verovati",
+      "register": "razg., veoma ekspresivna negacija; ne bih ni u ludilu... ili samostalno Ni u ludilu!",
       "examples": [
         {
           "serbian_latin": "Ni u ludilu nisam očekivao da je to u rangu ultra retke bolesti.",
-          "russian": "Я даже представить себе не мог, что речь идёт об ультраредком заболевании.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4799460/mala-lenka-se-bori-sa-tri-dijagnoze--za-lecenje-u-inostranstvu-potrebna-je-pomoc-svih-nas.html"
+          "russian": "Я и представить себе не мог, что речь идёт об ультраредком заболевании.",
+          "source": "RTS, 2022"
         },
         {
-          "serbian_latin": "Za dva sam rekla, jer doktor mi je rekao, a za tri i za četiri ni u ludilu.",
-          "russian": "Двоих я ещё ожидала, потому что врач предупредил, но троих или четверых — ни за что бы не подумала.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5798522/krava-beba-otelila-sanelu-kasandru-bokija-i-dekija-.html"
+          "serbian_latin": "Ti znaš da ja to ni u ludilu ne bih popio!",
+          "russian": "Ты же знаешь, я бы это ни за что в жизни не выпил!",
+          "source": "Danas, 2013"
         }
       ],
-      "note": "Значение шире простого «ни в коем случае». Ne bih to uradio ni u ludilu — «я бы этого ни за что не сделал», но nisam ni u ludilu očekivao — «даже представить себе не мог». Это очень живой разговорный усилитель.",
+      "note": "У выражения два близких употребления: категорическое «ни за что не сделаю» и усиленное «даже представить себе не мог». Поэтому перевод зависит от глагола: ne bih pristao ni u ludilu — «ни за что не согласился бы», а nisam ni u ludilu očekivao — «даже представить не мог». По силе отрицания близко к ni pod razno, но более эмоционально.",
       "keyword": "ni u ludilu"
+    },
+    {
+      "headword_latin": "Ni u snu",
+      "type": "izraz",
+      "definition_ru": "даже во сне не представить; и подумать не мог; ни за что",
+      "synonyms_sr": [
+        "ni pomisliti",
+        "ni zamišljati",
+        "ni očekivati",
+        "nikako"
+      ],
+      "literal_ru": "даже во сне",
+      "register": "razg.-neutralno, ekspresivno; naročito nisam ni u snu mogao da zamislim / pomislim / očekujem",
+      "examples": [
+        {
+          "serbian_latin": "Ne bih mu „ni u snu poverovao“.",
+          "russian": "Я бы ему ни за что не поверил; даже представить такое не мог.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Ovo je Amazonija kakvu ni u snu niste zamišljali.",
+          "russian": "Это Амазония, которую вы и представить себе не могли.",
+          "source": "N1 Srbija, 2026"
+        }
+      ],
+      "note": "Сербское ni u snu очень продуктивно с глаголами ожидания и воображения: nisam ni u snu očekivao, pomislio, zamišljao. По-русски буквальное «даже во сне» возможно, но гораздо чаще естественно «даже представить не мог». В контексте отказа выражение может приближаться к «ни за что», но слабее и менее категорично, чем ni u ludilu.",
+      "keyword": "ni u snu"
     },
     {
       "headword_latin": "Ni za lek",
@@ -14379,6 +14564,32 @@
       ],
       "note": "Адресат ставится в дательном падеже: progledati učeniku, vozaču, klubu kroz prste. Несовершенный вариант gledati kroz prste обозначает регулярную снисходительность.",
       "keyword": "prsti"
+    },
+    {
+      "headword_latin": "Prost kao pasulj",
+      "type": "frazeologizam",
+      "definition_ru": "проще простого; элементарно; проще некуда",
+      "synonyms_sr": [
+        "veoma jednostavan",
+        "sasvim jednostavan",
+        "nema tu filozofije (razg.)"
+      ],
+      "literal_ru": "простой как фасоль",
+      "register": "razg., ekspresivno; o zadatku, objašnjenju, rešenju, receptu i slično",
+      "examples": [
+        {
+          "serbian_latin": "Prosto kao pasulj!",
+          "russian": "Проще простого!",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Humus [...] za pripremu je „prost kao pasulj“.",
+          "russian": "Хумус готовится проще простого.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Для русского особенно важен ложный друг prost: здесь это «простой, несложный», а не «невоспитанный» или «вульгарный». RTS отдельно отмечает устойчивость выражения и его связь с привычным сербским блюдом. Если говорят о человеке prost, значение уже может быть совсем другим.",
+      "keyword": "prost kao pasulj"
     },
     {
       "headword_latin": "Prosto ko pasulj",
