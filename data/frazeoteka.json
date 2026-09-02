@@ -522,6 +522,32 @@
       "keyword": "baciti se oko vrata"
     },
     {
+      "headword_latin": "Bez alata nema zanata",
+      "type": "poslovica",
+      "definition_ru": "без инструмента и мастеру не обойтись; для хорошей работы нужны средства",
+      "synonyms_sr": [
+        "bez sredstava nema dobrog rada",
+        "dobar majstor treba dobar alat",
+        "bez uslova nema rezultata"
+      ],
+      "literal_ru": "без инструмента нет ремесла",
+      "register": "poslovica; doslovno o zanatu i preneseno o potrebnim resursima, opremi i uslovima za rad",
+      "examples": [
+        {
+          "serbian_latin": "Kao da se krug zatvorio i završio na onoj staroj: „Bez alata nema zanata“.",
+          "russian": "Всё словно вернулось к старой истине: без хорошего инструмента нет и хорошего ремесла.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Prostore treba opremiti adekvatnim sredstvima za rad, jer bez alata nema ni zanata.",
+          "russian": "Помещения нужно обеспечить всем необходимым для работы: без инструмента и хорошей работы не будет.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Zanat — ремесло, профессиональное мастерство, особенно практическое. В переносном употреблении alat может быть вовсе не молотком или отвёрткой: для музыканта это инструмент, для специалиста — оборудование или программное обеспечение. Встречается и расширенная форма bez alata nema ni zanata.",
+      "keyword": "bez alata nema zanata"
+    },
+    {
       "headword_latin": "Bez dlake na jeziku",
       "type": "frazeologizam",
       "definition_ru": "прямо, без обиняков; не стесняясь в выражениях; говорить всё как есть",
@@ -2021,6 +2047,32 @@
       ],
       "note": "Сербское ikad буквально означает «когда-либо, когда-нибудь», поэтому буквальная конструкция — «лучше хоть когда-нибудь, чем никогда». По функции это точный эквивалент русского «лучше поздно, чем никогда», хотя слово kasno «поздно» в самой сербской пословице отсутствует. Формула широко употребляется от бытовой речи до политических комментариев и газетных заголовков.",
       "keyword": "bolje ikad nego nikad"
+    },
+    {
+      "headword_latin": "Bolje sprečiti nego lečiti",
+      "type": "poslovica",
+      "definition_ru": "лучше предупредить, чем лечить; профилактика лучше лечения",
+      "synonyms_sr": [
+        "bolje sprečiti problem nego rešavati posledice",
+        "prevencija je bolja od lečenja",
+        "delovati na vreme"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; prvobitno i naročito često o zdravlju, ali lako se prenosi na druge probleme",
+      "examples": [
+        {
+          "serbian_latin": "Mi generalno lekari najviše volimo ono „bolje sprečiti nego lečiti“.",
+          "russian": "Мы, врачи, особенно любим принцип: лучше предупредить болезнь, чем потом её лечить.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Pristalica sam izreke „bolje sprečiti nego lečiti“.",
+          "russian": "Я придерживаюсь принципа: лучше предупредить проблему, чем потом бороться с последствиями.",
+          "source": "N1 Srbija, 2024"
+        }
+      ],
+      "note": "Помимо буквальной медицинской профилактики, выражение применяют к безопасности, политике, технике и любому риску, который лучше предотвратить заранее. Sprečiti — «предотвратить, не дать произойти», поэтому русский перевод «предупредить» здесь означает именно профилактику, а не сообщение кому-либо заранее.",
+      "keyword": "bolje sprečiti nego lečiti"
     },
     {
       "headword_latin": "Bolje vrabac u ruci nego golub na grani",
@@ -6527,30 +6579,28 @@
     {
       "headword_latin": "Iz čista mira",
       "type": "izraz",
-      "definition_ru": "ни с того ни с сего; без всякой причины; совершенно неожиданно",
+      "definition_ru": "ни с того ни с сего; без всякой причины; ни с чего вдруг",
       "synonyms_sr": [
         "bez razloga",
+        "bez povoda",
         "ničim izazvano",
-        "odjednom",
-        "bez ikakvog povoda"
+        "odjednom bez objašnjenja"
       ],
-      "literal_ru": "из чистого мира",
-      "register": "разг.-нейтр., экспр.; о событии или поступке без видимой причины или повода",
+      "literal_ru": "из полного покоя",
+      "register": "ustaljeni priloški izraz; o neočekivanom postupku ili događaju bez vidljivog povoda",
       "examples": [
         {
-          "serbian_latin": "Napadnuti su iz čista mira.",
-          "russian": "На них напали ни с того ни с сего.",
-          "source": "RTS, 2025",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/5685261/.html?print=true"
+          "serbian_latin": "Sigurno nije razlog da iz čista mira ispriča tako nešto.",
+          "russian": "Вряд ли она стала бы рассказывать такое ни с того ни с сего.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Radimo uobičajene stvari i iz čista mira se setimo neke neprijatne situacije iz srednje škole.",
-          "russian": "Мы занимаемся обычными делами и вдруг ни с того ни с сего вспоминаем какую-нибудь неприятную ситуацию из школы.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/magazin/zivot/5019572/zasto-se-i-posle-vise-godina-stidimo-kada-se-setimo-nekih-neprijatnih-situacija.html"
+          "serbian_latin": "Kovačević je mene iz čista mira prozvao Tomicom.",
+          "russian": "Ковачевич ни с того ни с сего назвал меня Томицей.",
+          "source": "Politika, 2022"
         }
       ],
-      "note": "Буквальная форма русскому ничего не объясняет. Iz čista mira может относиться как к неожиданному событию, так и к действию без причины: napao me je iz čista mira, počeo je da viče iz čista mira. Близкое odjednom передаёт внезапность, но не обязательно отсутствие причины.",
+      "note": "Iz čista mira — застывшая фразеологическая форма; сочетание čista mira не нужно перестраивать по обычной современной модели при употреблении этого выражения. Значение — отсутствие видимой причины или повода, а не просто «внезапно»: внезапное событие может иметь совершенно понятную причину.",
       "keyword": "iz čista mira"
     },
     {
@@ -7155,6 +7205,32 @@
       ],
       "note": "Jedi govna! — прежде всего не буквальное пожелание, а очень грубый способ отослать собеседника, выразить презрение или оборвать спор; по функции часто соответствует русскому «иди н***й», хотя в конкретной ситуации может быть ближе к «отвали» или «пошёл ты». В словарной традиции выражение также толкуется как «исчезни, проваливай, ты меня раздражаешь». Важно отличать императив jedi govna! от фразеологического jesti govna: Rečnik Matice srpske фиксирует у последнего значения «говорить гадости или глупости, лгать»; поэтому ne jedi govna часто значит «не неси х*рню», «не ври», а в некоторых ситуациях — «хватит в***бываться / выпендриваться». Между близкими друзьями jedi govna иногда может прозвучать шутливо и почти ритуально, но без такого контекста это сильное оскорбление. Сербское odjebi обычно ещё прямее соответствует русскому «отъ***сь / иди н***й», тогда как marš, nosi se, teraj se заметно мягче.",
       "keyword": "jedi govna"
+    },
+    {
+      "headword_latin": "Jedna lasta ne čini proleće",
+      "type": "poslovica",
+      "definition_ru": "одна ласточка весны не делает; один удачный случай ещё ничего не доказывает",
+      "synonyms_sr": [
+        "jedan primer ništa ne dokazuje",
+        "ne treba zaključivati na osnovu jednog slučaja",
+        "jedan uspeh nije dovoljan"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; o nedovoljnosti jednog znaka, uspeha ili primera za opšti zaključak",
+      "examples": [
+        {
+          "serbian_latin": "Kako jedna lasta ne čini proleće, tako ni ja ne mogu biti jedini „kriv“ za stabilizaciju Partizanove odbrane.",
+          "russian": "Как одна ласточка весны не делает, так и один игрок не может быть единственной причиной улучшения защиты.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "Česi misle da jedna lasta ne čini proleće.",
+          "russian": "Чехи считают, что один отдельный успех ещё ничего не решает.",
+          "source": "Politika, 2013"
+        }
+      ],
+      "note": "Сербская и русская пословицы практически полностью совпадают. Образ основан на том, что появление одной перелётной птицы ещё не гарантирует наступления весны. В переносном употреблении особенно часто предостерегает от обобщения по одному удачному результату.",
+      "keyword": "jedna lasta"
     },
     {
       "headword_latin": "Jedva gledati od umora",
@@ -7961,6 +8037,32 @@
       "keyword": "ko prizna"
     },
     {
+      "headword_latin": "Ko radi, ne boji se gladi",
+      "type": "poslovica",
+      "definition_ru": "кто работает, тот без хлеба не останется; трудящийся себя прокормит",
+      "synonyms_sr": [
+        "rad se isplati",
+        "ko radi može da zaradi",
+        "vredan čovek neće gladovati"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; tradicionalno odobravajuća formula o radu i sposobnosti da se čovek sam izdržava",
+      "examples": [
+        {
+          "serbian_latin": "„Ko radi ne boji se gladi“, to je deviza Vasilija Jelića.",
+          "russian": "«Кто работает, тот голода не боится» — таков девиз Василия Елича.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Ko radi ne boji se gladi.",
+          "russian": "Кто трудится, тот без хлеба не останется.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Gladi — родительный падеж от glad после bojati se: это полезная модель управления для русского учащегося. Пословица старая: Danas приводит её уже в сатирически переделанном варианте из сербского журнала 1894 года. В современной речи её нередко употребляют и иронически.",
+      "keyword": "ko radi ne boji se gladi"
+    },
+    {
       "headword_latin": "Ko rano rani, dve sreće grabi",
       "type": "poslovica",
       "definition_ru": "кто рано встаёт, тому Бог подаёт; кто раньше начинает, тот больше успевает",
@@ -8090,6 +8192,32 @@
       ],
       "note": "Rečnički oblik priloga je nizbrdo. U navedenom izvoru sačuvano je pisanje niz brdo. Izraz označava početak dužeg perioda propadanja ili pogoršavanja.",
       "keyword": "kola; nizbrdo"
+    },
+    {
+      "headword_latin": "Koliko para, toliko muzike",
+      "type": "poslovica",
+      "definition_ru": "что заплатил, то и получил; по деньгам и качество; за хорошее нужно платить",
+      "synonyms_sr": [
+        "koliko uložiš, toliko dobiješ",
+        "kvalitet košta",
+        "za male pare malo se dobija"
+      ],
+      "literal_ru": "сколько денег, столько и музыки",
+      "register": "poslovično, razg.-publicistički; često o kvalitetu usluge, robe, projekta ili odmora",
+      "examples": [
+        {
+          "serbian_latin": "I u turizmu važi pravilo: „Koliko para, toliko muzike“.",
+          "russian": "В туризме тоже действует правило: сколько заплатишь, такое качество и получишь.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "I na političkoj sceni važi pravilo „koliko para, toliko muzike“.",
+          "russian": "И в политике действует принцип: результат во многом зависит от вложенных денег.",
+          "source": "Politika, 2018"
+        }
+      ],
+      "note": "Выражение не обязательно означает буквальную покупку музыки: речь о прямой связи между вложенными ресурсами и полученным качеством. В русском нет настолько же устойчивой формулы; чаще подходят «что заплатил, то и получил», «дёшево хорошо не бывает». Возможно и ироническое употребление, когда низкое качество объясняют недостатком денег.",
+      "keyword": "koliko para toliko muzike"
     },
     {
       "headword_latin": "Kom opanci, kom obojci",
@@ -9214,6 +9342,32 @@
       ],
       "note": "Сейчас выражение прежде всего сочетается с глаголами физического избиения и обозначает крайнюю степень: prebiti ga na mrtvo ime. Слово ime здесь семантически непрозрачно для современного говорящего; выражение следует запоминать целиком. Перевод «на мёртвое имя» невозможен.",
       "keyword": "na mrtvo ime"
+    },
+    {
+      "headword_latin": "Na muci se poznaju junaci",
+      "type": "izreka",
+      "definition_ru": "в беде видно, кто чего стоит; настоящий характер проявляется в испытаниях",
+      "synonyms_sr": [
+        "u nevolji se vidi ko je kakav",
+        "teškoće pokažu čoveka",
+        "u krizi se pokazuje karakter"
+      ],
+      "literal_ru": "",
+      "register": "izreka, poslovično; o čoveku ili grupi čije se osobine pokazuju upravo u teškoj situaciji",
+      "examples": [
+        {
+          "serbian_latin": "Na muci se poznaju junaci. Nadam se da ćemo večeras biti junaci.",
+          "russian": "В испытаниях видно, кто чего стоит. Надеюсь, сегодня мы это докажем.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Kako mi to volimo da kažemo, na muci se poznaju junaci, a u nevolji se poznaju i pravi prijatelji.",
+          "russian": "Как мы любим говорить, в беде видно героев, а в несчастье — настоящих друзей.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Выражение часто функционирует как самостоятельная народная формула, хотя широко известна и более длинная строка U dobru je lako dobar biti, na muci se poznaju junaci, которую сербские источники связывают с Петром II Петровичем Негошем. Русскому лучше переводить смыслом: «в беде видно, кто чего стоит», поскольку буквальные «герои на муке» звучат неестественно.",
+      "keyword": "na muci se poznaju junaci"
     },
     {
       "headword_latin": "Na pravdi boga",
@@ -10628,6 +10782,33 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "Ni na kraj pameti",
+      "type": "izraz",
+      "definition_ru": "и в голову не приходило; даже мысли такой не было; и представить не мог",
+      "synonyms_sr": [
+        "ni pomisliti",
+        "ni zamišljati",
+        "uopšte ne očekivati",
+        "ne pasti na pamet"
+      ],
+      "literal_ru": "даже на краю разума / мысли нет",
+      "register": "razg., ekspresivno; tipično nije mi ni na kraj pameti da... / nije mi ni na kraj pameti bilo da...",
+      "examples": [
+        {
+          "serbian_latin": "Ni na kraj pameti mi nije bilo da ću ovako brzo zaigrati za prvi tim Zvezde.",
+          "russian": "Мне и в голову не приходило, что я так быстро сыграю за основную команду «Звезды».",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Nije mi ni na kraj pameti bilo da će išta da se rimuje, a kamoli sve.",
+          "russian": "Мне и в голову не приходило, что хоть что-то будет рифмоваться, не говоря уже обо всём тексте.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Не переводить буквально через «край памяти»: сербское pamet здесь — ум, мысль, сознание. Особенно полезна модель с дательным местоимением: nije mi/ti/mu ni na kraj pameti. В отличие от ni u ludilu, это чаще отсутствие мысли или ожидания, а не категорический отказ.",
+      "keyword": "ni na kraj pameti"
+    },
+    {
       "headword_latin": "Ni na nebu ni na zemlji",
       "type": "frazeologizam",
       "definition_ru": "ни там ни сям; между небом и землёй; в подвешенном, неопределённом состоянии",
@@ -10875,28 +11056,27 @@
     {
       "headword_latin": "Ni traga ni glasa",
       "type": "frazeologizam",
-      "definition_ru": "ни слуху ни духу; никаких следов; словно сквозь землю провалился",
+      "definition_ru": "ни слуху ни духу; никаких следов и никаких известий",
       "synonyms_sr": [
         "nema nikakvog traga",
-        "ništa se ne zna",
-        "kao da je u zemlju propao",
-        "nestati bez traga"
+        "nema nikakvih vesti",
+        "kao da je u zemlju propao"
       ],
-      "literal_ru": "",
-      "register": "разг.-нейтр., экспр.; обычно od nekoga / nečega nema ni traga ni glasa",
+      "literal_ru": "ни следа, ни голоса",
+      "register": "razg.-neutralno, ekspresivno; od nekoga / nečega nema ni traga ni glasa",
       "examples": [
         {
-          "serbian_latin": "Ni traga ni glasa od zatvorenika koji su pre mesec dana pobegli iz zatvora u Prokuplju.",
-          "russian": "Ни слуху ни духу о заключённых, которые месяц назад сбежали из тюрьмы в Прокупле.",
+          "serbian_latin": "Ni traga ni glasa od zatvorenika koji su pre mesec dana pobegli iz zatvora.",
+          "russian": "От заключённых, сбежавших месяц назад, ни слуху ни духу.",
           "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Njihovi prijatelji pomažu im da je pronađu, ali od Vide nema ni traga ni glasa.",
-          "russian": "Друзья помогают им её искать, но от Виды ни слуху ни духу.",
-          "source": "RTS, 2025"
+          "serbian_latin": "Nigde ni traga ni glasa od te dvojice odbeglih. Kao da su u zemlju propali.",
+          "russian": "От этих двоих беглецов нигде ни слуху ни духу. Словно сквозь землю провалились.",
+          "source": "Danas, 2009"
         }
       ],
-      "note": "Двойная формула trag + glas буквально означает отсутствие и следа, и каких-либо вестей. Очень типична конструкция od njega nema ni traga ni glasa. Русское «ни слуху ни духу» передаёт её почти идеально.",
+      "note": "Формула сообщает одновременно об отсутствии физических следов и любых сведений. Поэтому русский «ни слуху ни духу» почти идеален. Управление важно: od njega nema ni traga ni glasa — буквально «от него нет ни следа, ни голоса».",
       "keyword": "ni traga ni glasa"
     },
     {
@@ -13240,6 +13420,32 @@
       ],
       "note": "Выражение характеризует человека, который не приспосабливается к мнению большинства, сопротивляется общественному давлению и отстаивает собственные убеждения. Противоположная конструкция — plivati niz struju: следовать за большинством, подчиняться господствующей моде или идеологии.",
       "keyword": "struja"
+    },
+    {
+      "headword_latin": "Po jutru se dan poznaje",
+      "type": "poslovica",
+      "definition_ru": "по началу видно, как пойдёт дело; хорошее начало многое показывает; утро задаёт тон всему дню",
+      "synonyms_sr": [
+        "početak mnogo govori",
+        "po početku se vidi kako će dalje ići",
+        "prvi znaci mnogo otkrivaju"
+      ],
+      "literal_ru": "день узнаётся по утру",
+      "register": "poslovica; doslovno o početku dana i preneseno o prvim znacima daljeg razvoja događaja",
+      "examples": [
+        {
+          "serbian_latin": "U Italiji se kaže – po jutru se dan poznaje, a ovaj dan je, sudeći po jutru, dobro počeo.",
+          "russian": "В Италии говорят: по утру узнают день; судя по началу, этот день начался хорошо.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Polazeći od narodne izreke „po jutru se dan poznaje“, mogu se prepoznati kandidati za budući univerzitetski poziv.",
+          "russian": "Если судить по первым результатам, уже можно заметить будущих университетских преподавателей.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Выражение шире буквального «как начнёшь утро, так пройдёт день». Оно говорит, что первые признаки позволяют предположить дальнейший ход событий. Русское «лиха беда начало» сюда не подходит: там акцент на трудности первого шага, а здесь — на показательности начала.",
+      "keyword": "po jutru se dan poznaje"
     },
     {
       "headword_latin": "Po svoj prilici",
