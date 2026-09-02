@@ -5558,28 +5558,28 @@
     {
       "headword_latin": "Ići nekome na živce",
       "type": "frazeologizam",
-      "definition_ru": "действовать кому-то на нервы; раздражать; бесить",
+      "definition_ru": "действовать на нервы; раздражать; бесить",
       "synonyms_sr": [
         "nervirati",
         "iritirati",
         "smetati",
-        "ići na nerve"
+        "izluđivati (razg.)"
       ],
-      "literal_ru": "идти на нервы",
-      "register": "разг.; раздражённый человек стоит в дательном: ide mi / ti / mu / joj na živce",
+      "literal_ru": "",
+      "register": "razg.; nešto / neko ide nekome na živce; lice je u dativu: ide mi, ti, mu, joj na živce",
       "examples": [
         {
-          "serbian_latin": "Stalno „pljuvanje po Evropi“ ide na živce.",
-          "russian": "Постоянные нападки на Европу действуют на нервы.",
+          "serbian_latin": "VAR mi nedosledno ide na živce.",
+          "russian": "VAR своей непоследовательностью действует мне на нервы.",
           "source": "Danas, 2026"
         },
         {
-          "serbian_latin": "Ana Bekuta mi je toliko išla na živce kada je došla i rekla: „E, ovo je prava pesma!“",
-          "russian": "Ана Бекута тогда настолько действовала мне на нервы, когда пришла и сказала: «Вот это настоящая песня!»",
-          "source": "Blic, 2023"
+          "serbian_latin": "Ide mi na živce upornost u negovanju odvratne komunističke glorifikacije nemaštine.",
+          "russian": "Меня раздражает упорство, с которым продолжают прославлять нищету.",
+          "source": "Danas, 2010"
         }
       ],
-      "note": "Конструкция очень частотная и грамматически удобная: раздражитель — подлежащее, человек — дательный объект: On mi ide na živce. Возможны единственное na živac и множественное na živce, но именно na živce — обычная нейтрально-разговорная модель.",
+      "note": "Для русского управление почти такое же по смыслу, но форму полезно автоматизировать: To mi ide na živce — «Это действует мне на нервы / меня бесит». Степень раздражения может быть от лёгкой досады до сильного неприятия; сам фразеологизм не обязательно грубый.",
       "keyword": "ići na živce"
     },
     {
@@ -7552,6 +7552,33 @@
       "keyword": "golub"
     },
     {
+      "headword_latin": "Kao prst i nokat",
+      "type": "frazeologizam",
+      "definition_ru": "не разлей вода; очень близкие; неразлучные",
+      "synonyms_sr": [
+        "nerazdvojni",
+        "veoma bliski",
+        "slagati se odlično",
+        "biti kao jedno"
+      ],
+      "literal_ru": "как палец и ноготь",
+      "register": "razg., slikovito poređenje; biti / slagati se kao prst i nokat",
+      "examples": [
+        {
+          "serbian_latin": "Desničari svuda isti, to vam je kao prst i nokat.",
+          "russian": "Правые везде друг с другом неразлучны — как палец и ноготь.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Ona i ja smo kao prst i nokat, to je prevazišlo i sestrinske odnose.",
+          "russian": "Мы с ней не разлей вода, это уже даже больше, чем сестринские отношения.",
+          "source": "Kurir, 2022"
+        }
+      ],
+      "note": "Образ строится на естественной нераздельности пальца и ногтя. Danas прямо фиксирует сербскую формулу slagati se kao prst i nokat. Обычно речь не просто о хорошем отношении, а об очень тесной связи и постоянном единстве действий.",
+      "keyword": "prst i nokat"
+    },
+    {
       "headword_latin": "Kao riba na suvom",
       "type": "frazeologizam",
       "definition_ru": "как рыба, выброшенная на берег; не в своей тарелке; совершенно беспомощно",
@@ -8565,6 +8592,33 @@
       "keyword": "koplje"
     },
     {
+      "headword_latin": "Lud kao struja",
+      "type": "frazeologizam",
+      "definition_ru": "безбашенный; сумасшедший; совершенно непредсказуемый",
+      "synonyms_sr": [
+        "potpuno lud",
+        "otkačen (razg.)",
+        "nepredvidiv",
+        "šašav (razg.)"
+      ],
+      "literal_ru": "сумасшедший как электрический ток",
+      "register": "razg., veoma ekspresivno; ocena može biti negativna ili dobronamerno-pozitivna",
+      "examples": [
+        {
+          "serbian_latin": "Naivan, pošten, radan, ali lud kao struja, sklon kapljici i kafanskoj tuči.",
+          "russian": "Наивный, честный, работящий, но совершенно безбашенный, любитель выпить и подраться в кабаке.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Lud je kao struja! Ali, pozitivno. Jedan mnogo dobar momak, koji voli da se šali.",
+          "russian": "Он совершенно безбашенный — но в хорошем смысле. Очень хороший парень, любит пошутить.",
+          "source": "Sportal, 2022"
+        }
+      ],
+      "note": "В отличие от нейтрального lud, сравнение kao struja часто подчёркивает бурную энергию, темперамент и непредсказуемость. Поэтому оно может быть даже почти комплиментом: «оторва», «с ним не соскучишься». Для психического заболевания такое выражение, разумеется, не является термином.",
+      "keyword": "lud kao struja"
+    },
+    {
       "headword_latin": "maca ti je pojela jezik",
       "type": "фразеологизм",
       "definition_ru": "Почему ты замолчал? Почему не отвечаешь?",
@@ -9302,6 +9356,33 @@
       "keyword": "na svoju ruku"
     },
     {
+      "headword_latin": "Na udaru",
+      "type": "kolokacija",
+      "definition_ru": "под ударом; под давлением; стать объектом атаки, критики или воздействия",
+      "synonyms_sr": [
+        "biti meta",
+        "biti izložen napadu",
+        "biti pod pritiskom",
+        "biti pogođen"
+      ],
+      "literal_ru": "",
+      "register": "ustaljena publicistička kolokacija; biti / naći se na udaru nekoga / nečega",
+      "examples": [
+        {
+          "serbian_latin": "Ovaj put na udaru se našla institucija Poverenika za informacije i zaštitu podataka o ličnosti.",
+          "russian": "На этот раз под ударом оказался институт Уполномоченного по информации и защите персональных данных.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Na udaru policijske kontrole [...] trebalo bi da se nađe i nekoliko beogradskih privatnih preduzeća.",
+          "russian": "Под полицейскую проверку должны попасть и несколько частных белградских предприятий.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Na udaru не обязательно предполагает физическое нападение. Под «ударом» могут оказаться люди из-за критики, предприятия из-за проверок, население из-за роста цен или территория из-за непогоды. Поэтому перевод варьируется: «под ударом», «под давлением», «стать мишенью», «попасть под воздействие».",
+      "keyword": "na udaru"
+    },
+    {
       "headword_latin": "Naći se u nebranom grožđu",
       "type": "frazeologizam",
       "definition_ru": "попасть впросак; оказаться в затруднительном положении; попасть в неприятную ситуацию",
@@ -9355,6 +9436,32 @@
       ],
       "note": "Может обозначать как достижение конкретного соглашения, так и более широкое взаимопонимание между людьми, организациями или политическими сторонами.",
       "keyword": "jezik"
+    },
+    {
+      "headword_latin": "Nadohvat ruke",
+      "type": "izraz",
+      "definition_ru": "рукой подать; совсем близко; в пределах досягаемости",
+      "synonyms_sr": [
+        "vrlo blizu",
+        "na dohvatu ruke",
+        "lako dostupno"
+      ],
+      "literal_ru": "на расстоянии вытянутой руки",
+      "register": "ustaljeni izraz; o fizičkoj blizini i preneseno o cilju, uspehu ili mogućnosti",
+      "examples": [
+        {
+          "serbian_latin": "Tek što smo poverovali da nam je blagostanje i spokojstvo nadohvat ruke, kad se odjednom sve okreće protiv nas.",
+          "russian": "Едва мы поверили, что благополучие и спокойствие уже совсем близко, как всё внезапно обернулось против нас.",
+          "source": "Politika, 2018"
+        },
+        {
+          "serbian_latin": "Danas je sve na dohvatu ruke.",
+          "russian": "Сегодня всё буквально под рукой.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Орфографическая ловушка: нормативно nadohvat ruke — слитно; возможна также конструкция na dohvatu ruke, но не na dohvat ruke. Danas специально отмечает это различие. Русскому удобно запомнить две модели: nadohvat ruke и na dohvatu ruke.",
+      "keyword": "nadohvat ruke"
     },
     {
       "headword_latin": "Nagon",
@@ -11248,6 +11355,33 @@
       "keyword": "kule; gradovi"
     },
     {
+      "headword_latin": "Obrati zelen bostan",
+      "type": "frazeologizam",
+      "definition_ru": "плохо кончить; крупно влипнуть; потерпеть полный крах",
+      "synonyms_sr": [
+        "loše proći",
+        "propasti",
+        "nadrljati (razg.)",
+        "obiti se o glavu"
+      ],
+      "literal_ru": "собрать незрелые арбузы и дыни",
+      "register": "narodno, razg., ekspresivno; vrlo često skraćeno obrati bostan",
+      "examples": [
+        {
+          "serbian_latin": "Samo kada za to sazna tvoja žena, obrao si bostan.",
+          "russian": "Вот узнает об этом твоя жена — тогда ты крупно влип.",
+          "source": "Politika, 2007"
+        },
+        {
+          "serbian_latin": "Išli smo grlom u jagode pa smo završili u banana republici. Zbog toga smo kao građani obrali bostan.",
+          "russian": "Мы полезли напролом и в итоге как граждане остались у разбитого корыта.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Полная старая форма — obrati zelen bostan. Politika приводит зафиксированную у Вука формулу Kako radi, obraće zelen bostan: если собрать арбузы и дыни незрелыми, урожай уже не принесёт пользы — отсюда «плохо кончить, разориться, попасть в беду». Bostan — турцизм; самостоятельно слово для молодых носителей менее обычно, но внутри фразеологизма прекрасно сохраняется.",
+      "keyword": "zelen bostan"
+    },
+    {
       "headword_latin": "Od glave do pete",
       "type": "frazeologizam",
       "definition_ru": "с головы до пят; целиком; насквозь, во всех отношениях",
@@ -12488,6 +12622,33 @@
       ],
       "note": "Здесь русский и сербский фразеологические образы практически полностью совпадают. Pokošen буквально значит «скошенный» — как трава, которая мгновенно ложится после взмаха косы. Оборот обычно описывает резкое падение после удара, выстрела, потери сознания; переносно возможна и сильная эмоциональная реакция.",
       "keyword": "pasti kao pokošen"
+    },
+    {
+      "headword_latin": "Pasti mrak na oči",
+      "type": "frazeologizam",
+      "definition_ru": "помутиться от ярости или потрясения; перестать себя контролировать; в глазах потемнело",
+      "synonyms_sr": [
+        "izgubiti kontrolu",
+        "pomračiti se",
+        "pobesneti",
+        "potpuno se izbezumiti"
+      ],
+      "literal_ru": "тьма упала на глаза",
+      "register": "razg., ekspresivno; padne / pao mi je mrak na oči; od jakog besa, panike ili potresa",
+      "examples": [
+        {
+          "serbian_latin": "Pao mi je mrak na oči… nisam mogla da udahnem.",
+          "russian": "У меня в глазах потемнело — я даже не могла вдохнуть.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Samo negde neki okidač padne i malo mi padne mrak na oči.",
+          "russian": "Иногда срабатывает какой-то триггер — и я просто перестаю себя контролировать.",
+          "source": "Sport Klub Srbija, 2026"
+        }
+      ],
+      "note": "Выражение охватывает два близких состояния: сильнейшее потрясение, когда человек словно перестаёт нормально воспринимать происходящее, и внезапную ярость с потерей самоконтроля. Поэтому русский перевод зависит от контекста: «в глазах потемнело», «меня переклинило», «я обезумел от злости».",
+      "keyword": "mrak na oči"
     },
     {
       "headword_latin": "pasti na niske grane",
@@ -14884,32 +15045,57 @@
     },
     {
       "headword_latin": "Pun pogodak",
-      "type": "izraz",
-      "definition_ru": "стопроцентное попадание; отличный выбор; то, что надо",
+      "type": "frazeologizam",
+      "definition_ru": "точное попадание; отличный выбор; стопроцентное попадание в цель",
       "synonyms_sr": [
         "odličan izbor",
-        "pravi izbor",
-        "pun uspeh",
-        "pogoditi u centar"
+        "pravi potez",
+        "veliki uspeh",
+        "pogoditi pravo u metu"
       ],
       "literal_ru": "полное попадание",
-      "register": "разг.-нейтр., экспр.; может быть буквальным в спорте или стрельбе и переносным — об идее, решении, песне, рекламе, подарке и т. п.",
+      "register": "razg.-publicistički, odobr.; o odluci, izboru, projektu, događaju ili čoveku",
       "examples": [
         {
-          "serbian_latin": "Jednostavno. Jasno. Efektno. U dve reči: pun pogodak!",
-          "russian": "Просто. Ясно. Эффектно. Одним словом — то, что надо!",
-          "source": "Danas, 2012",
-          "url": "https://www.danas.rs/kultura/efgektno-i-pitko/"
+          "serbian_latin": "Činjenica da su upregnuti baš svi [...] potvrđuje da je akcija ProGlasa u dijaspori pun pogodak.",
+          "russian": "Уже сама реакция показывает, что акция ProGlasa в диаспоре оказалась точным попаданием.",
+          "source": "Politika, 2026"
         },
         {
-          "serbian_latin": "Cecina reakcija dokaz da je napravio pun pogodak.",
-          "russian": "Реакция Цецы — доказательство того, что он попал точно в цель.",
-          "source": "Grand / Nova, 2026",
-          "url": "https://grand.nova.rs/zvezde-granda/keba-objasnio-poentu-cecina-reakcija-dokaz-za-pun-pogodak/"
+          "serbian_latin": "Izbor Novog Pazara bio je pun pogodak.",
+          "russian": "Выбор Нови-Пазара оказался абсолютно удачным.",
+          "source": "Danas, 2012"
         }
       ],
-      "note": "В переносном значении выражение очень продуктивно: film je pun pogodak, izbor je bio pun pogodak, poklon je pun pogodak. Русские «точное попадание» и «то, что надо» хорошо передают оценочный смысл.",
+      "note": "Выражение переносит образ точного попадания в мишень на удачное решение. Оно сильнее нейтрального dobar izbor: говорящий считает, что выбор оказался именно таким, каким нужно. Русские «попасть в десятку» и «точное попадание» очень близки.",
       "keyword": "pun pogodak"
+    },
+    {
+      "headword_latin": "Puna kapa",
+      "type": "frazeologizam",
+      "definition_ru": "более чем достаточно; и на том спасибо; уже отличный результат",
+      "synonyms_sr": [
+        "sasvim dovoljno",
+        "više nego dovoljno",
+        "odličan rezultat",
+        "dosta i preko toga"
+      ],
+      "literal_ru": "полная шапка",
+      "register": "razg., ekspresivno; često o umerenom rezultatu koji potpuno zadovoljava očekivanja",
+      "examples": [
+        {
+          "serbian_latin": "Neka bude kao prošla i puna kapa.",
+          "russian": "Пусть будет хотя бы как в прошлом году — и этого уже более чем достаточно.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Nerešen rezultat je pak, za Bolivijce „puna kapa“.",
+          "russian": "Для боливийцев ничья — уже прекрасный результат.",
+          "source": "RTS, 2011"
+        }
+      ],
+      "note": "Puna kapa обычно означает, что результат полностью удовлетворяет ожиданиям и требовать большего уже было бы чрезмерно. По-русски в зависимости от ситуации: «и этого за глаза», «уже отлично», «и на том спасибо». Это не то же самое, что просто dovoljno: выражение эмоционально подчёркивает удовлетворённость достигнутым.",
+      "keyword": "puna kapa"
     },
     {
       "headword_latin": "Punom parom",
@@ -17837,6 +18023,33 @@
       ],
       "note": "Число šesnaest здесь не имеет прозрачного современного значения: выражение надо запоминать целиком как усилитель интенсивности. Надёжно установленного происхождения нет. Существуют версии о футбольном šesnaesterac, музыкальных шестнадцатых и символике числа 16, но подтверждения ни одна из них не получила.",
       "keyword": "sve u šesnaest"
+    },
+    {
+      "headword_latin": "Svetla tačka",
+      "type": "frazeologizam",
+      "definition_ru": "светлое пятно; приятное исключение; единственное хорошее на плохом фоне",
+      "synonyms_sr": [
+        "pozitivan primer",
+        "nešto dobro",
+        "razlog za optimizam",
+        "izuzetak u lošoj situaciji"
+      ],
+      "literal_ru": "светлая точка",
+      "register": "publicistički-neutralno, odobr.; pozitivan element na pretežno lošoj pozadini",
+      "examples": [
+        {
+          "serbian_latin": "Namenska industrija svetla tačka privrede.",
+          "russian": "Оборонная промышленность — светлое пятно экономики.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Jedina svetla tačka bio je Miloš Mijalković.",
+          "russian": "Единственным светлым пятном оказался Милош Миялкович.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Ключевой компонент смысла — контраст: вокруг дела идут плохо, но один человек, результат или показатель выделяется в лучшую сторону. Поэтому не всякий «положительный пример» автоматически svetla tačka. Русское «светлое пятно» совпадает очень хорошо.",
+      "keyword": "svetla tačka"
     },
     {
       "headword_latin": "Svirati kurcu",
