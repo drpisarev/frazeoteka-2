@@ -281,6 +281,32 @@
       "keyword": "bacati mrvice"
     },
     {
+      "headword_latin": "Baciti kašiku",
+      "type": "sleng",
+      "definition_ru": "сыграть в ящик; дать дуба; умереть",
+      "synonyms_sr": [
+        "umreti",
+        "riknuti (grub.)",
+        "otegnuti papke (grub.)"
+      ],
+      "literal_ru": "бросить ложку",
+      "register": "razg., sleng, crni humor; grublje o smrti",
+      "examples": [
+        {
+          "serbian_latin": "Toma umalo nije bacio kašiku.",
+          "russian": "Тома чуть не сыграл в ящик.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Bacio je kašiku juče.",
+          "russian": "Вчера он сыграл в ящик.",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Это именно сниженное, часто чёрно-юмористическое обозначение смерти. В соболезнованиях, некрологе или уважительном разговоре об умершем оно обычно неуместно; там нужны umreti, preminuti. Русские «сыграть в ящик», «дать дуба» хорошо передают стилистический уровень.",
+      "keyword": "baciti kašiku"
+    },
+    {
       "headword_latin": "Baciti ljagu na nekoga / nešto",
       "type": "frazeologizam",
       "definition_ru": "опорочить; запятнать репутацию; бросить тень на кого-то / что-то",
@@ -7303,6 +7329,32 @@
       "keyword": "zlatne ruke"
     },
     {
+      "headword_latin": "Imati zmiju u džepu",
+      "type": "frazeologizam",
+      "definition_ru": "быть скупым; трястись над каждой копейкой; жадничать",
+      "synonyms_sr": [
+        "biti škrt",
+        "biti stipsa (razg.)",
+        "biti cicija (razg.)"
+      ],
+      "literal_ru": "иметь змею в кармане",
+      "register": "razg., šalj. do neodobr.; naročito o škrtosti pri plaćanju, bakšišu i čašćavanju",
+      "examples": [
+        {
+          "serbian_latin": "Mnogi pevači imaju zmiju u džepu.",
+          "russian": "Многие певцы — настоящие скупердяи.",
+          "source": "Blic, 2021"
+        },
+        {
+          "serbian_latin": "Nemam zmiju u džepu.",
+          "russian": "Я не из тех, кто трясётся над каждой копейкой.",
+          "source": "Politika, 2019"
+        }
+      ],
+      "note": "Очень полезна и отрицательная модель nemati zmiju u džepu: она означает «не быть жадным, не скупиться». Поэтому фразу не стоит понимать как общее «быть прижимистым» во всех сферах: особенно естественна она там, где человек должен достать деньги из кармана, но явно не хочет этого делать.",
+      "keyword": "zmija; džep"
+    },
+    {
       "headword_latin": "Ispeci, pa reci",
       "type": "izreka",
       "definition_ru": "сначала подумай, потом говори; семь раз отмерь слово; не руби с плеча",
@@ -10405,6 +10457,32 @@
       "keyword": "lud kao struja"
     },
     {
+      "headword_latin": "Lupati kao Maksim po diviziji",
+      "type": "frazeologizam",
+      "definition_ru": "нести чепуху; молоть ерунду; рассуждать о том, в чём не разбираешься",
+      "synonyms_sr": [
+        "lupetati",
+        "pričati gluposti",
+        "govoriti napamet"
+      ],
+      "literal_ru": "грохотать / палить как «Максим» по дивизии",
+      "register": "razg., šalj.-neodobr.; razgovorno često ko Maksim, neutralna rečnička forma kao Maksim",
+      "examples": [
+        {
+          "serbian_latin": "On ima pravo da lupeta kao Maksim po diviziji.",
+          "russian": "Он имеет право нести чепуху сколько угодно.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "„Lupaju kao Maksim po diviziji“ o svemu i svačemu.",
+          "russian": "Они несут всякую чепуху обо всём на свете.",
+          "source": "Vreme, 2001"
+        }
+      ],
+      "note": "Компонент Maksim традиционно связывают с пулемётом системы Maxim: его скорострельность и характерный грохот стали основой сравнения с бессвязной словесной «стрельбой». В современном употреблении речь почти всегда о человеке, который говорит много, без толку или без знания предмета. Саму подробную историю возникновения формулы источники пересказывают по-разному, поэтому дальше этой связи этимологию лучше не конкретизировать.",
+      "keyword": "Maksim; divizija"
+    },
+    {
       "headword_latin": "Lupati se po glavi",
       "type": "frazeologizam",
       "definition_ru": "кусать локти; корить себя; сильно сожалеть о своей ошибке",
@@ -10832,6 +10910,32 @@
       "keyword": "dirnuta pažnjom"
     },
     {
+      "headword_latin": "Mrka kapa",
+      "type": "izraz",
+      "definition_ru": "дело плохо; ничего хорошего не светит; шансов почти нет",
+      "synonyms_sr": [
+        "loše se piše",
+        "slaba vajda",
+        "nema mnogo nade"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, pesimistično; često kao samostalna replika",
+      "examples": [
+        {
+          "serbian_latin": "Znači da je „mrka kapa“.",
+          "russian": "Значит, дело плохо.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Dakle, mrka kapa s nama.",
+          "russian": "Значит, с нами дело совсем плохо.",
+          "source": "Politika, 2014"
+        }
+      ],
+      "note": "Хотя mrk значит «мрачный, тёмный», современная формула воспринимается целиком как отрицательный прогноз: «ничего не выйдет», «дело дрянь». Она особенно удобна именно как короткий ответ или итог оценки ситуации. Mrka kapa s nama / s tim poslom — «плохи наши дела / с этим делом ничего не выйдет».",
+      "keyword": "mrka kapa"
+    },
+    {
       "headword_latin": "Mrtav hladan",
       "type": "frazeologizam",
       "definition_ru": "как ни в чём не бывало; совершенно невозмутимо; с каменным спокойствием",
@@ -11049,6 +11153,32 @@
       ],
       "note": "Выражение обозначает предельно острое противостояние и далеко не обязательно буквальное насилие. Можно быть na krv i nož с политическим противником, конкурентом, родственником или спортивным соперником. По-русски в зависимости от конструкции подходят «быть на ножах», «сцепиться не на жизнь, а на смерть», «непримиримо враждовать».",
       "keyword": "na krv i nož"
+    },
+    {
+      "headword_latin": "Na kukovo leto",
+      "type": "izraz",
+      "definition_ru": "когда рак на горе свистнет; после дождичка в четверг; никогда или бог знает когда",
+      "synonyms_sr": [
+        "nikad",
+        "ko zna kad",
+        "kad na vrbi rodi grožđe"
+      ],
+      "literal_ru": "",
+      "register": "razg., iron.; o događaju koji se neće desiti ili se odlaže na neodređeno daleku budućnost",
+      "examples": [
+        {
+          "serbian_latin": "Vanredni parlamentarni izbori na kukovo leto.",
+          "russian": "Досрочные парламентские выборы — когда рак на горе свистнет.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "…da će privremena uprava u Zemunu biti uvedena „na kukovo leto“.",
+          "russian": "…что временное управление в Земуне введут бог знает когда.",
+          "source": "Blic, 2009"
+        }
+      ],
+      "note": "Для русского буквальный образ ничего не подсказывает: «куково лето» русским фразеологизмом не является. Значение колеблется от категорического «никогда» до иронического «неизвестно когда, в очень далёком будущем». Danas прямо сопоставляет выражение с латинским ad calendas Graecas — «до греческих календ», то есть никогда.",
+      "keyword": "kukovo leto"
     },
     {
       "headword_latin": "Na ljutu ranu, ljutu travu",
@@ -12269,6 +12399,33 @@
       ],
       "note": "Выражение означает гарантию безопасности вообще: опасность может исходить от третьих лиц, а говорящий лишь обещает, что ничего плохого не случится. Лингвистические исследования прямо приводят Neće ti faliti ni dlaka s glave как сербский эквивалент английского not harm a hair of somebody’s head. В живой речи встречаются варианты neće ti faliti dlaka s glave, neće ti ni dlaka s glave pasti.",
       "keyword": "neće ti faliti ni dlaka s glave"
+    },
+    {
+      "headword_latin": "Nekome gori pod nogama",
+      "type": "frazeologizam",
+      "definition_ru": "кому-то припекло; кого-то прижало; положение стало срочным или критическим",
+      "synonyms_sr": [
+        "biti u stisci",
+        "biti pod velikim pritiskom",
+        "biti u frci (razg.)",
+        "nemati vremena"
+      ],
+      "literal_ru": "у кого-то горит под ногами",
+      "register": "razg.-publicistički, ekspresivno; gori mi / ti / mu / joj / nam pod nogama",
+      "examples": [
+        {
+          "serbian_latin": "Žuri im se, jer im gori pod nogama.",
+          "russian": "Они торопятся, потому что их уже сильно припекло.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Srbija ne zove iz ljubavi, već kad joj gori pod nogama.",
+          "russian": "Сербия зовёт не из любви, а когда её уже прижало.",
+          "source": "Politika, 2025"
+        }
+      ],
+      "note": "Для русского особенно важно управление: по-сербски не нужно существительное типа «земля» — говорят просто gori mi pod nogama. Дательный обозначает того, кому стало жарко в переносном смысле. Причиной может быть не только опасность, но и дедлайн, политическое давление, нехватка времени или необходимость срочно действовать.",
+      "keyword": "gori pod nogama"
     },
     {
       "headword_latin": "Nema cile-mile",
@@ -13638,6 +13795,33 @@
       ],
       "note": "Выражение почти всегда критическое: обещания представляются преувеличенными, нереалистичными или заведомо пустыми.",
       "keyword": "kule; gradovi"
+    },
+    {
+      "headword_latin": "Obilaziti / kružiti kao kiša oko Kragujevca",
+      "type": "frazeologizam",
+      "definition_ru": "ходить вокруг да около; обходить стороной; уклоняться от сути или дела",
+      "synonyms_sr": [
+        "okolišati",
+        "zaobilaziti",
+        "izbegavati suštinu",
+        "ne ići pravo na stvar"
+      ],
+      "literal_ru": "обходить / кружить, как дождь вокруг Крагуеваца",
+      "register": "razg., ekspresivno; kulturno specifičan srpski izraz",
+      "examples": [
+        {
+          "serbian_latin": "Vrtiš ga „kao kiša oko Kragujevca“.",
+          "russian": "Ты всё ходишь вокруг да около.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Tramvaji trenutno kruže kao „kiša oko Kragujevca“.",
+          "russian": "Трамваи сейчас буквально делают большой круг, словно «дождь вокруг Крагуеваца».",
+          "source": "Politika, 2020"
+        }
+      ],
+      "note": "Выражение употребляется не только о речи: можно обходить человека, обязанность, проблему или даже физически двигаться окольным маршрутом, как во втором примере. Точное происхождение надёжно не установлено; Милан Шипка относил эту формулу к выражениям, происхождение которых нельзя уверенно объяснить. Истории о дожде, якобы постоянно обходящем Крагуевац, следует воспринимать как народные объяснения, а не доказанную этимологию.",
+      "keyword": "kiša; Kragujevac"
     },
     {
       "headword_latin": "Obrati zelen bostan",
@@ -16561,6 +16745,32 @@
       "keyword": "račun"
     },
     {
+      "headword_latin": "Popiti svu pamet sveta",
+      "type": "frazeologizam",
+      "definition_ru": "возомнить, что знаешь всё; считать себя умнее всех; воображать себя всезнайкой",
+      "synonyms_sr": [
+        "misliti da sve znaš",
+        "praviti se najpametniji",
+        "biti pametnjaković (razg.)"
+      ],
+      "literal_ru": "выпить весь ум мира",
+      "register": "razg., iron., neodobr.; često misliti da je neko popio svu pamet sveta",
+      "examples": [
+        {
+          "serbian_latin": "…da si popio svu pamet sveta…",
+          "russian": "…будто ты всё на свете знаешь и самый умный…",
+          "source": "Blic, 2018"
+        },
+        {
+          "serbian_latin": "Mislila sam da sam popila svu pamet ovog sveta.",
+          "russian": "Я думала, что знаю всё на свете и умнее всех.",
+          "source": "Telegraf, 2021"
+        }
+      ],
+      "note": "Выражение описывает не интеллект, а самоуверенное ощущение собственного всезнания. Особенно типична конструкция misliti da si popio / popila svu pamet sveta; причастие согласуется с полом говорящего. Нормален и вариант svu pamet ovog sveta. По-русски буквальный образ не употребляется, поэтому нужны «возомнить себя самым умным», «думать, что всё знаешь».",
+      "keyword": "svu pamet sveta"
+    },
+    {
       "headword_latin": "Posle bitke svi su generali",
       "type": "izreka",
       "definition_ru": "задним умом все крепки; после события все знают, как надо было поступить",
@@ -16804,6 +17014,32 @@
       ],
       "note": "Veresija — покупка или продажа в долг, в кредит; это живой турцизм. В образе уже «готовое», почти обеспеченное превращается в неопределённый долг — то есть человек сам усложняет дело, которое практически уже было решено. Поэтому русское «упустить победу из рук» подходит только в спортивном контексте; значение шире.",
       "keyword": "od gotovog veresiju"
+    },
+    {
+      "headword_latin": "Praviti / spremati ražanj dok je zec u šumi",
+      "type": "izreka",
+      "definition_ru": "делить шкуру неубитого медведя; заранее рассчитывать на ещё не полученную выгоду",
+      "synonyms_sr": [
+        "praviti račun bez krčmara",
+        "prerano se radovati",
+        "računati na nesiguran dobitak"
+      ],
+      "literal_ru": "готовить вертел, пока заяц ещё в лесу",
+      "register": "razg., poslovično, iron.; javljaju se i glagoli seći i oštriti",
+      "examples": [
+        {
+          "serbian_latin": "Gubiti vreme […] je kao praviti ražanj dok je zec u šumi.",
+          "russian": "Это всё равно что делить шкуру неубитого медведя.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Opozicija sprema ražanj dok je zec u šumi.",
+          "russian": "Оппозиция уже делит шкуру неубитого медведя.",
+          "source": "Blic, 2023"
+        }
+      ],
+      "note": "Устойчивое ядро образа — ražanj dok je zec u šumi, а глагол варьируется: praviti, spremati, seći, oštriti. Русский использует совсем другой образ — неубитого медведя. Смысл не просто в преждевременной радости, а в планировании распоряжения результатом, которого ещё нет.",
+      "keyword": "ražanj; zec"
     },
     {
       "headword_latin": "Praviti budalu od sebe / nekoga",
@@ -25015,6 +25251,32 @@
       ],
       "note": "Образ связан с тем, что почка окружена жировой тканью, которая служит ей защитой и опорой; отсюда представление о максимально «удобном» положении. В речи выражение нередко ироническое: человек живёт очень комфортно, особенно по сравнению с окружающими.",
       "keyword": "bubreg u loju"
+    },
+    {
+      "headword_latin": "Živeti na visokoj nozi",
+      "type": "frazeologizam",
+      "definition_ru": "жить на широкую ногу; жить с размахом; вести роскошную жизнь",
+      "synonyms_sr": [
+        "živeti luksuzno",
+        "živeti raskošno",
+        "živeti u izobilju"
+      ],
+      "literal_ru": "жить «на высокой ноге»",
+      "register": "razg.-publicistički; o skupom, obezbeđenom, često upadljivo luksuznom načinu života",
+      "examples": [
+        {
+          "serbian_latin": "Ko misli da glumci žive na visokoj nozi […] – greši.",
+          "russian": "Кто думает, что актёры живут на широкую ногу, ошибается.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Zaradio milione, živeo na visokoj nozi, a onda je sve potrošio.",
+          "russian": "Он заработал миллионы, жил на широкую ногу, а потом всё растратил.",
+          "source": "Nova.rs, 2026"
+        }
+      ],
+      "note": "Главная ловушка для русского — несовпадение образа: по-сербски na visokoj nozi, по-русски «на широкую ногу». Калька «на высокой ноге» по-русски не работает. Выражение обычно говорит не просто о достатке, а о заметно дорогом стиле жизни.",
+      "keyword": "visoka noga"
     },
     {
       "headword_latin": "Živi bili pa videli",
