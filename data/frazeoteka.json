@@ -2703,6 +2703,33 @@
       "keyword": "čovek planira a Bog se smeje"
     },
     {
+      "headword_latin": "Čovek se drži za reč, a vo za rogove",
+      "type": "poslovica",
+      "definition_ru": "человека держит слово, а быка — рога; настоящий человек держит своё слово",
+      "synonyms_sr": [
+        "držati reč",
+        "ispuniti obećanje",
+        "biti čovek od reči",
+        "ne pogaziti reč"
+      ],
+      "literal_ru": "человек держится за слово, а бык — за рога",
+      "register": "poslovica; naglašava obaveznost datog obećanja i ličnu čast",
+      "examples": [
+        {
+          "serbian_latin": "Čovek se drži za reč, a vo za rogove. Imamo dva konkretna zahteva.",
+          "russian": "Человек должен держать слово: у нас есть два конкретных требования.",
+          "source": "N1 Srbija, 2022"
+        },
+        {
+          "serbian_latin": "Čovek se drži za reč, a vo za rogove!",
+          "russian": "Человека держит его слово, а быка — рога!",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Пословица гораздо образнее обычного držati reč. Ею напоминают собеседнику, что обещание связывает порядочного человека так же надёжно, как рога служат характерным «захватом» для вола. Возможен вариант без первого se: čovek se drži za reč, vo za rogove.",
+      "keyword": "čovek se drži za reč vo za rogove"
+    },
+    {
       "headword_latin": "Čovek se uči dok je živ",
       "type": "poslovica",
       "definition_ru": "век живи — век учись; человек учится всю жизнь",
@@ -2727,6 +2754,32 @@
       ],
       "note": "Русское «век живи — век учись» — функционально точный эквивалент. Сербская формула буквально привязывает обучение ко всей продолжительности жизни. Благодаря узнаваемости её часто иронически продолжают или переделывают.",
       "keyword": "čovek se uči dok je živ"
+    },
+    {
+      "headword_latin": "Čovek snuje, Bog određuje",
+      "type": "izreka",
+      "definition_ru": "человек предполагает, а Бог располагает; мы строим планы, а жизнь решает по-своему",
+      "synonyms_sr": [
+        "jedno planiramo, drugo se dogodi",
+        "sudbina odlučuje",
+        "ne ide sve po planu"
+      ],
+      "literal_ru": "человек замышляет, Бог определяет",
+      "register": "tradicionalna, religijski obojena izreka; upotrebljava se i sasvim svetovno",
+      "examples": [
+        {
+          "serbian_latin": "Nameravali smo da ostanemo nekoliko godina. Ali, čovek snuje, a Bog određuje...",
+          "russian": "Мы собирались остаться на несколько лет. Но человек предполагает, а Бог располагает...",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Ivana je na svojoj koži osetila staru izreku „čovek snuje, a Bog određuje“.",
+          "russian": "Ивана на собственном опыте убедилась: человек предполагает, а Бог располагает.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Русское «человек предполагает, а Бог располагает» — практически идеальный эквивалент. Snovati здесь означает «строить планы, замышлять», а не только «грезить». Формула особенно уместна, когда жизнь неожиданно полностью меняет первоначальный план.",
+      "keyword": "čovek snuje Bog određuje"
     },
     {
       "headword_latin": "Čupati kosu",
@@ -9062,6 +9115,32 @@
       "keyword": "ko visoko leti nisko pada"
     },
     {
+      "headword_latin": "Ko zna zašto je to dobro",
+      "type": "replika",
+      "definition_ru": "кто знает, может, оно и к лучшему; нет худа без добра",
+      "synonyms_sr": [
+        "možda je tako bolje",
+        "možda iz toga izađe nešto dobro",
+        "svako zlo za neko dobro"
+      ],
+      "literal_ru": "",
+      "register": "ustaljena utešna replika, razg.; obično posle neprijatnog ili neočekivanog događaja",
+      "examples": [
+        {
+          "serbian_latin": "Ovaj događaj je školski primer za onu izreku „ko zna zašto je to dobro“.",
+          "russian": "Этот случай — прекрасный пример выражения «кто знает, может, оно и к лучшему».",
+          "source": "Radio Beograd 1 / RTS, 2026"
+        },
+        {
+          "serbian_latin": "Postoji jedna izreka [...] koja glasi „ko zna zašto je to dobro“.",
+          "russian": "Есть такая поговорка: «кто знает, может, всё это и к лучшему».",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Это очень характерная готовая реакция на неприятность, смысл которой пока невозможно увидеть: возможно, позднее она приведёт к хорошему результату. По-русски естественнее не вопросительное «кто знает, почему это хорошо», а «может, оно и к лучшему». Формула хорошо известна и по культовому сериалу Grlom u jagode, где она неоднократно вспоминается героем.",
+      "keyword": "ko zna zašto je to dobro"
+    },
+    {
       "headword_latin": "Koga zmija ujede, i guštera se plaši",
       "type": "poslovica",
       "definition_ru": "обжёгшись на молоке, дуют на воду; после плохого опыта боишься даже безобидного",
@@ -14218,6 +14297,33 @@
       "keyword": "pas koji laje ne ujeda"
     },
     {
+      "headword_latin": "Pas laje, vetar nosi",
+      "type": "poslovica",
+      "definition_ru": "собака лает — ветер уносит; поговорят и забудут; слова останутся без последствий",
+      "synonyms_sr": [
+        "priča se, a ništa se ne menja",
+        "sve će se zaboraviti",
+        "prazne reči",
+        "nikom ništa"
+      ],
+      "literal_ru": "собака лает, ветер уносит",
+      "register": "iron.-neodobr.; o kritikama, protestima ili pričama koje adresat jednostavno ignoriše",
+      "examples": [
+        {
+          "serbian_latin": "Zaludno je ovo moje pero. I zaludno i uzaludno. Pas laje, vetar nosi.",
+          "russian": "Напрасны мои писания. Собака лает — ветер уносит: говори не говори, ничего не меняется.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "„Pas laje, vetar nosi“ – a karavan prolazi.",
+          "russian": "Собака лает, ветер уносит, а караван идёт дальше.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "В сербском существует и расширенная игра с другим известным образом — psi laju, karavani prolaze. В pas laje, vetar nosi главное, что шум и возмущение исчезают без результата. Поэтому русское «собака лает — караван идёт» близко, но не всегда полностью передаёт оттенок бесплодности слов.",
+      "keyword": "pas laje vetar nosi"
+    },
+    {
       "headword_latin": "Pasja vrućina",
       "type": "frazeologizam",
       "definition_ru": "собачья жара; невыносимая жара; пекло",
@@ -15742,6 +15848,32 @@
       "keyword": "račun"
     },
     {
+      "headword_latin": "Posle bitke svi su generali",
+      "type": "izreka",
+      "definition_ru": "задним умом все крепки; после события все знают, как надо было поступить",
+      "synonyms_sr": [
+        "lako je biti pametan posle",
+        "naknadna pamet",
+        "posle je svima sve jasno"
+      ],
+      "literal_ru": "после битвы все генералы",
+      "register": "poslovično, ironično; česta varijanta posle bitke svi su generali pametni",
+      "examples": [
+        {
+          "serbian_latin": "Kada prođe utakmica, posle bitke su svi generali.",
+          "russian": "После матча все задним числом знают, как надо было играть.",
+          "source": "Sport Klub, 2026"
+        },
+        {
+          "serbian_latin": "Posle bitke svi su generali, ali za Valerija Zalužnog može da se kaže da je bio „oduvek general“.",
+          "russian": "После битвы все генералы, но про Валерия Залужного можно сказать, что он генералом был всегда.",
+          "source": "Politika, 2024"
+        }
+      ],
+      "note": "Выражение высмеивает советы, которые легко давать уже после того, как известен результат. Русское «после драки кулаками не машут» несколько иное: оно призывает не продолжать спор, тогда как сербское прежде всего о «мудрости задним числом». Точнее русское «задним умом все крепки».",
+      "keyword": "posle bitke svi su generali"
+    },
+    {
       "headword_latin": "Poslednja rupa na svirali",
       "type": "frazeologizam",
       "definition_ru": "человек последней важности; тот, с кем не считаются; быть на последнем месте",
@@ -16861,6 +16993,33 @@
       ],
       "note": "Русский эквивалент полный. В сербском возможны оба порядка: prstom ne mrdnuti и ne mrdnuti prstom. Часто подразумевается не физическая неподвижность, а морально осуждаемое бездействие при наличии возможности помочь или решить проблему.",
       "keyword": "prstom ne mrdnuti"
+    },
+    {
+      "headword_latin": "Prvo skoči, pa reci hop",
+      "type": "poslovica",
+      "definition_ru": "не говори гоп, пока не перепрыгнешь; сначала добейся результата, потом радуйся",
+      "synonyms_sr": [
+        "ne raduj se prerano",
+        "ne računaj unapred",
+        "sačekaj rezultat",
+        "ne trči pred rudu"
+      ],
+      "literal_ru": "сначала прыгни, потом скажи «гоп»",
+      "register": "poslovica, upozoravajuće; protiv prerane sigurnosti i slavljenja još neostvarenog rezultata",
+      "examples": [
+        {
+          "serbian_latin": "U Srbiji se kaže – prvo skoči pa reci hop, a ne obrnuto.",
+          "russian": "В Сербии говорят: не говори гоп, пока не перепрыгнешь, а не наоборот.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "„Prave ražanj, a zec u šumi“ [...] Mogla bi i ona: „Ne trči pred rudu“ ili „Prvo skoči, pa reci hop“.",
+          "russian": "«Делят шкуру неубитого медведя»; сюда же подходят «не забегай вперёд» и «не говори гоп, пока не перепрыгнешь».",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Русский эквивалент совпадает почти буквально. В сербском рядом часто появляются ne trči pred rudu и образ «готовить вертел, пока заяц ещё в лесу»: все они предостерегают от объявления успеха до того, как он действительно достигнут.",
+      "keyword": "prvo skoči pa reci hop"
     },
     {
       "headword_latin": "Psovati kao kočijaš",
@@ -19133,6 +19292,32 @@
       "keyword": "sreća je okrenula leđa"
     },
     {
+      "headword_latin": "Sreća prati hrabre",
+      "type": "izreka",
+      "definition_ru": "смелым везёт; смелым судьба помогает; удача любит смелых",
+      "synonyms_sr": [
+        "hrabrost se isplati",
+        "treba se usuditi",
+        "fortuna pomaže hrabrima"
+      ],
+      "literal_ru": "удача следует за смелыми",
+      "register": "odobravajuće; naročito često u sportu i situacijama koje zahtevaju rizik ili odlučnost",
+      "examples": [
+        {
+          "serbian_latin": "Sreća prati hrabre, a hrabri takmičarski tim Potere ovoga puta čine...",
+          "russian": "Смелым везёт, а в этот раз смелую команду «Потеры» составляют...",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Dobro poznata i u našem narodu često korišćena izreka „da sreća prati hrabre“ [...] nije važila za košarkaše Partizana.",
+          "russian": "Хорошо известная поговорка «смелым везёт» на этот раз для баскетболистов «Партизана» не сработала.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Это не просто пожелание удачи: выражение предполагает, что активность и готовность рискнуть увеличивают шанс на успех. Поэтому особенно естественно после смелого решения или атакующей игры. Русское «смелым судьба помогает» близко по функции.",
+      "keyword": "sreća prati hrabre"
+    },
+    {
       "headword_latin": "stajati kao ukopan",
       "type": "устойчивое сравнение",
       "definition_ru": "Стоять как вкопанный; внезапно застыть от удивления, потрясения или испуга.",
@@ -20291,6 +20476,58 @@
       "keyword": "sve se vraća sve se plaća"
     },
     {
+      "headword_latin": "Sve što je lepo kratko traje",
+      "type": "izreka",
+      "definition_ru": "всё хорошее быстро кончается; всё прекрасное недолговечно",
+      "synonyms_sr": [
+        "lepo brzo prođe",
+        "ništa lepo ne traje večno",
+        "lepim stvarima brzo dođe kraj"
+      ],
+      "literal_ru": "всё, что хорошо, длится недолго",
+      "register": "razg., često šalj.-melanholično; o prijatnom periodu, odmoru, uspehu, prazniku ili vezi",
+      "examples": [
+        {
+          "serbian_latin": "Sve što je lepo kratko traje, jer je pred nama još jedna utakmica.",
+          "russian": "Всё хорошее быстро заканчивается: впереди уже следующий матч.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Sve što je lepo kratko traje, pa se tako i moj odmor završio.",
+          "russian": "Всё хорошее быстро кончается — вот и мой отпуск закончился.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Lepo здесь не только «красивое», а вообще всё приятное и хорошее. Формула часто произносится с самоиронией после отпуска, праздника или полосы успехов. Русское «всё хорошее когда-нибудь кончается» нейтральнее; сербское подчёркивает, что приятное словно проходит особенно быстро.",
+      "keyword": "sve što je lepo kratko traje"
+    },
+    {
+      "headword_latin": "Sve u svoje vreme",
+      "type": "izreka",
+      "definition_ru": "всему своё время; всему свой черёд; не надо торопить события",
+      "synonyms_sr": [
+        "sve kad mu dođe vreme",
+        "ne treba žuriti",
+        "treba sačekati pravi trenutak"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razgovorno; često kao umirujuća replika",
+      "examples": [
+        {
+          "serbian_latin": "Savremeno društvo insistira na tome da bi izreka „Sve u svoje vreme“ trebalo da glasi „Sve u moje vreme“.",
+          "russian": "Современное общество словно требует, чтобы вместо «всему своё время» говорили «всё должно случиться тогда, когда хочу я».",
+          "source": "Radio Beograd 1 / RTS, 2021"
+        },
+        {
+          "serbian_latin": "Pojam „odložiti“ zamenite sa „sve u svoje vreme“.",
+          "russian": "Вместо «откладывать» попробуйте говорить себе: «всему своё время».",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Выражение может означать и «не торопись», и «для каждого события существует подходящий момент». Русское «всему своё время» практически полностью совпадает. Не обязательно подразумевается пассивное ожидание: акцент именно на своевременности.",
+      "keyword": "sve u svoje vreme"
+    },
+    {
       "headword_latin": "Sve u šesnaest",
       "type": "frazeologizam",
       "definition_ru": "вовсю; изо всех сил; на полную катушку",
@@ -20404,6 +20641,32 @@
       ],
       "note": "Это традиционное выражение, однако в современной Сербии оно стало также названием государственной программы регистрации недвижимости.",
       "keyword": "svoj"
+    },
+    {
+      "headword_latin": "Svuda pođi, kući dođi",
+      "type": "izreka",
+      "definition_ru": "везде побывай, а домой возвращайся; в гостях хорошо, а дома лучше",
+      "synonyms_sr": [
+        "najlepše je kod kuće",
+        "vratiti se svojim korenima",
+        "kuća je kuća"
+      ],
+      "literal_ru": "всюду отправляйся, домой возвращайся",
+      "register": "toplo, često šaljivo; naročito pri povratku kući, u rodni grad ili raniji klub",
+      "examples": [
+        {
+          "serbian_latin": "„Svuda pođi, kući dođi“. Putovanja [...] zaista volim, ali držim se izreke s početka.",
+          "russian": "«Везде побывай, а домой возвращайся». Я действительно люблю путешествия, но этой поговорки придерживаюсь.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Đoković se i sam dočeku raduje, što je potvrdio uz reči „svuda pođi kući dođi“.",
+          "russian": "Джокович и сам рад возвращению, что подтвердил словами: «везде побывай, а домой возвращайся».",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "В спортивной журналистике выражение особенно любят применять к возвращению игрока в родной или прежний клуб. Pođi — императив от poći. Русское «в гостях хорошо, а дома лучше» обычно передаёт смысл естественнее буквального перевода.",
+      "keyword": "svuda pođi kući dođi"
     },
     {
       "headword_latin": "šaka jada",
