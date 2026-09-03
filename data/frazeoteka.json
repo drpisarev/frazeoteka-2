@@ -727,6 +727,32 @@
       "keyword": "prebijena para"
     },
     {
+      "headword_latin": "Bez starca nema udarca",
+      "type": "izreka",
+      "definition_ru": "старый конь борозды не портит; опытный ветеран ещё даст фору молодым",
+      "synonyms_sr": [
+        "stari majstor još ume",
+        "iskustvo vredi",
+        "godine nisu prepreka"
+      ],
+      "literal_ru": "без старика нет удара",
+      "register": "razg., šalj., neretko dvosmisleno; o umeću i sposobnosti starijeg muškarca",
+      "examples": [
+        {
+          "serbian_latin": "„Bez starca nema udarca“, napisao je Đoković.",
+          "russian": "«Старый конь борозды не портит», — написал Джокович, пошутив о возрасте теннисистов.",
+          "source": "Mondo, 2026"
+        },
+        {
+          "serbian_latin": "Ukratko: „bez starca nema udarca“.",
+          "russian": "Короче говоря: старый конь борозды не портит.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Сейчас выражение очень удобно для шуток о возрастных спортсменах, музыкантах, тренерах и политиках. Одновременно у него давно существует сексуальная двусмысленность; сербские источники отмечают и более грубый оттенок. Поэтому нейтрально хвалить пожилого человека этой формулой стоит только в подходящей шутливой компании.",
+      "keyword": "bez starca nema udarca"
+    },
+    {
       "headword_latin": "Bez zamerke",
       "type": "izraz",
       "definition_ru": "без нареканий; безупречно; не к чему придраться",
@@ -2644,6 +2670,32 @@
       ],
       "note": "Значение практически совпадает с русским «читать между строк». Речь не обязательно о намеренной тайной шифровке: говорящий может просто выводить скрытый смысл из тона, контекста и недосказанности. Очень частотно в политической и медийной речи.",
       "keyword": "čitati između redova"
+    },
+    {
+      "headword_latin": "Čovek je čoveku vuk",
+      "type": "izreka",
+      "definition_ru": "человек человеку волк; люди способны быть беспощадны друг к другу",
+      "synonyms_sr": [
+        "ljudi su jedni drugima neprijatelji",
+        "čovek čoveku može biti najveća pretnja",
+        "vlada zakon jačeg"
+      ],
+      "literal_ru": "человек человеку волк",
+      "register": "knjiž.-publicistički; naročito o surovoj konkurenciji i društvu bez solidarnosti",
+      "examples": [
+        {
+          "serbian_latin": "U sportu sad vladaju principi na kojima je zasnovan kapitalizam: „Čovek je čoveku vuk“.",
+          "russian": "В спорте теперь действуют принципы жёсткой конкуренции: человек человеку волк.",
+          "source": "Politika, 2010"
+        },
+        {
+          "serbian_latin": "To bi vodilo situaciji koju je opisao Tomas Hobs: „Čovek je čoveku vuk“.",
+          "russian": "Это привело бы к ситуации, описанной Томасом Гоббсом: человек человеку волк.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Это международная латинская формула homo homini lupus. Её особенно часто связывают с философией Томаса Гоббса, хотя сам оборот значительно старше и восходит к Плавту. Грамматически сербское и русское выражения устроены одинаково: второе čoveku стоит в дательном падеже.",
+      "keyword": "čovek je čoveku vuk"
     },
     {
       "headword_latin": "Čovek planira, a Bog se smeje",
@@ -4906,6 +4958,32 @@
       ],
       "note": "Для русского это особенно обманчивое выражение: речь вовсе не о жертве и не о том, чтобы «отдать душу». Конструкция безличная и сохраняет форму dalo: ovo je dušu dalo za odmor, mesto je dušu dalo za decu. После za требуется винительный падеж.",
       "keyword": "dušu dalo"
+    },
+    {
+      "headword_latin": "Dva loša ubiše Miloša",
+      "type": "poslovica",
+      "definition_ru": "двое слабых одолеют одного сильного; количеством можно задавить качество",
+      "synonyms_sr": [
+        "broj nadjača kvalitet",
+        "udruženi slabiji mogu savladati jačeg",
+        "dvojica protiv jednoga"
+      ],
+      "literal_ru": "два плохих убили Милоша",
+      "register": "poslovica, iron.-neodobr.; često o većini koja nadvlada sposobnijeg ili jačeg pojedinca",
+      "examples": [
+        {
+          "serbian_latin": "Ne plašite se one narodne „dva loša ubiše Miloša“.",
+          "russian": "Не бойтесь этой народной мудрости: двое слабых ещё не обязательно одолеют одного сильного.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Jedan je „dva loša ubiše Miloša“, a drugi „da komšiji crkne krava“.",
+          "russian": "Один принцип — «двое слабых одолеют одного сильного», другой — «пусть у соседа корова сдохнет».",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Loš здесь не обязательно означает морально «плохой»: речь может идти о двух более слабых, менее качественных против одного лучшего. Пословица особенно удобна для критики механического превосходства числом — в политике, спорте, голосовании. Русского точного устойчивого эквивалента нет.",
+      "keyword": "dva loša ubiše Miloša"
     },
     {
       "headword_latin": "Đavo je odneo šalu",
@@ -8077,6 +8155,58 @@
       "keyword": "kad na vrbi rodi grožđe"
     },
     {
+      "headword_latin": "Kad neće breg Muhamedu, onda će Muhamed bregu",
+      "type": "poslovica",
+      "definition_ru": "если гора не идёт к Магомету, Магомет идёт к горе; если обстоятельства не меняются, действуй сам",
+      "synonyms_sr": [
+        "preuzeti inicijativu",
+        "prilagoditi se situaciji",
+        "sam otići tamo gde treba"
+      ],
+      "literal_ru": "если холм не идёт к Мухаммеду, Мухаммед пойдёт к холму",
+      "register": "poslovica; varijante ako neće breg Muhamedu, mora Muhamed bregu",
+      "examples": [
+        {
+          "serbian_latin": "Kad neće breg Muhamedu, mora Muhamed bregu.",
+          "russian": "Если гора не идёт к Магомету, Магомет идёт к горе.",
+          "source": "N1 Srbija, 2024"
+        },
+        {
+          "serbian_latin": "Ako neće breg Muhamedu, onda će Muhamed bregu.",
+          "russian": "Если гора не идёт к Магомету, Магомет идёт к горе.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Для русского особенно опасен ложный друг breg: это не «берег», а «холм, возвышенность»; здесь он соответствует русской «горе». Пословица описывает не капитуляцию, а смену тактики: если ожидаемое не приходит к тебе, нужно самому сделать шаг.",
+      "keyword": "breg Muhamedu"
+    },
+    {
+      "headword_latin": "Kad neće milom, hoće silom",
+      "type": "izreka",
+      "definition_ru": "не по-хорошему, так силой; если добровольно не получается, добиваются принуждением",
+      "synonyms_sr": [
+        "ako ne ide lepo, ide silom",
+        "primeniti prinudu",
+        "naterati nekoga"
+      ],
+      "literal_ru": "если не хочет по-хорошему, захочет силой",
+      "register": "izreka, grubo ili neodobr.; takođe ako neće milom, hoće silom",
+      "examples": [
+        {
+          "serbian_latin": "Pa, kad neće milom, hoće silom. Provaljena su vrata doma znanja.",
+          "russian": "Раз по-хорошему не получилось, пошли силой: двери учебного заведения взломали.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Ako neće milom, hoće silom.",
+          "russian": "Не по-хорошему — значит, силой.",
+          "source": "Blic, 2012"
+        }
+      ],
+      "note": "Milom и silom — застывшие наречные инструментальные формы: milom здесь значит «добровольно, по-хорошему», silom — «силой, принуждением». Русское «не мытьём, так катаньем» иногда близко по функции, но сербская формула значительно прямее и прямо противопоставляет добровольность принуждению.",
+      "keyword": "kad neće milom hoće silom"
+    },
+    {
       "headword_latin": "Kamen oko vrata",
       "type": "frazeologizam",
       "definition_ru": "тяжёлое бремя; обуза; то, что постоянно мешает двигаться вперёд",
@@ -8984,6 +9114,32 @@
       ],
       "note": "Русский эквивалент практически полный. Смысл не в пассивной надежде на Божью защиту, а наоборот: сначала человек сам соблюдает осторожность — и лишь затем рассчитывает на благополучный исход. Поэтому пословица очень естественна в разговорах о здоровье, дороге, путешествиях и риске.",
       "keyword": "ko se čuva"
+    },
+    {
+      "headword_latin": "Ko se jednom opeče, i na hladno duva",
+      "type": "poslovica",
+      "definition_ru": "обжёгшись на молоке, дуют на воду; после плохого опыта человек становится чрезмерно осторожным",
+      "synonyms_sr": [
+        "biti oprezan posle lošeg iskustva",
+        "jednom se prevariti pa se čuvati",
+        "plašiti se ponavljanja greške"
+      ],
+      "literal_ru": "кто однажды обжёгся, тот дует даже на холодное",
+      "register": "poslovica; varijante i u hladno duva, ko se opeče na toplo, taj u hladno duva",
+      "examples": [
+        {
+          "serbian_latin": "Kako kaže narodna izreka: Ko se jednom opeče i na hladno duva.",
+          "russian": "Как говорится: обжёгшись на молоке, дуют на воду.",
+          "source": "Blic, 2019"
+        },
+        {
+          "serbian_latin": "Ko se jednom opeče na toplo, taj u hladno duva. Tri puta merim i dva puta sečem, oprezna sam.",
+          "russian": "Обжёгшись однажды, начинаешь дуть и на холодное. Теперь я всё перепроверяю и осторожничаю.",
+          "source": "Nova.rs, 2022"
+        }
+      ],
+      "note": "Русский и сербский образы устроены одинаково, но сербская пословица не требует компонентов «молоко» и «вода». Opeći se — «обжечься», а duvati — «дуть». Предлоги варьируют: реально встречаются и na hladno, и u hladno.",
+      "keyword": "ko se jednom opeče na hladno duva"
     },
     {
       "headword_latin": "Ko se mača lati, od mača i gine / strada",
@@ -15960,6 +16116,32 @@
       "keyword": "prati ruke"
     },
     {
+      "headword_latin": "Praviti / napraviti od gotovog veresiju",
+      "type": "frazeologizam",
+      "definition_ru": "испортить почти выигранное дело; превратить верный результат в сомнительный; едва не упустить готовое",
+      "synonyms_sr": [
+        "prokockati prednost",
+        "zakomplikovati gotovu stvar",
+        "uprskati gotovo siguran posao (razg.)"
+      ],
+      "literal_ru": "из готового сделать покупку в долг",
+      "register": "razg.-publicistički, neodobr.; naročito često u sportu i politici",
+      "examples": [
+        {
+          "serbian_latin": "Ceca umalo napravila od gotovog veresiju.",
+          "russian": "Цеца едва не упустила уже практически выигранное дело.",
+          "source": "N1 / Sport Klub, 2017"
+        },
+        {
+          "serbian_latin": "Kako je Everton „od gotovog napravio veresiju“.",
+          "russian": "Как «Эвертон» умудрился превратить почти гарантированный успех в проблему.",
+          "source": "Sport Klub, 2022"
+        }
+      ],
+      "note": "Veresija — покупка или продажа в долг, в кредит; это живой турцизм. В образе уже «готовое», почти обеспеченное превращается в неопределённый долг — то есть человек сам усложняет дело, которое практически уже было решено. Поэтому русское «упустить победу из рук» подходит только в спортивном контексте; значение шире.",
+      "keyword": "od gotovog veresiju"
+    },
+    {
       "headword_latin": "Praviti budalu od sebe / nekoga",
       "type": "frazeologizam",
       "definition_ru": "выставлять себя / кого-то дураком; делать из кого-то идиота; позориться",
@@ -16911,6 +17093,32 @@
       ],
       "note": "Русский эквивалент полный. В сербском возможны оба порядка: prstom ne mrdnuti и ne mrdnuti prstom. Часто подразумевается не физическая неподвижность, а морально осуждаемое бездействие при наличии возможности помочь или решить проблему.",
       "keyword": "prstom ne mrdnuti"
+    },
+    {
+      "headword_latin": "Prvo pa muško",
+      "type": "izreka",
+      "definition_ru": "с первого раза — удача; сразу попасть в десятку; первый заход — и сразу успех",
+      "synonyms_sr": [
+        "pogodak iz prve",
+        "odličan početak",
+        "odmah veliki uspeh"
+      ],
+      "literal_ru": "первым — и сразу мальчик",
+      "register": "razg., šalj.; prvobitno o rođenju sina kao prvog deteta, danas često preneseno o prvom velikom uspehu",
+      "examples": [
+        {
+          "serbian_latin": "Jeste, prvo pa muško.",
+          "russian": "Да, первая же роль — и сразу большой успех.",
+          "source": "Politika, 2019"
+        },
+        {
+          "serbian_latin": "Ovo je moja prva filmska nagrada i, kao što kažu – prvo, pa muško.",
+          "russian": "Это моя первая кинопремия — и, как говорится, сразу в яблочко.",
+          "source": "RTS, 2011"
+        }
+      ],
+      "note": "Исходный образ отражает традиционное предпочтение сына как первого ребёнка; в современной речи это легко воспринимается как патриархальное и политически некорректное. При этом переносное prvo pa muško очень живо и часто просто означает «первая попытка — и сразу серьёзный результат».",
+      "keyword": "prvo pa muško"
     },
     {
       "headword_latin": "Prvo skoči, pa reci hop",
@@ -18547,6 +18755,32 @@
       ],
       "note": "Русский и сербский образы полностью совпадают. Прилагательное меняется по роду: slobodan kao ptica, slobodna kao ptica. Оборот особенно естественен, когда подчёркивается освобождение от прежних ограничений, обязательств или контроля.",
       "keyword": "slobodan kao ptica"
+    },
+    {
+      "headword_latin": "Sloga kuću gradi",
+      "type": "poslovica",
+      "definition_ru": "где лад, там и клад; согласием дом строится; совместными силами можно многого добиться",
+      "synonyms_sr": [
+        "u slozi je snaga",
+        "zajedništvo donosi uspeh",
+        "složni mogu mnogo"
+      ],
+      "literal_ru": "согласие строит дом",
+      "register": "poslovica, odobr.; o porodici, kolektivu, susedima i zajednici",
+      "examples": [
+        {
+          "serbian_latin": "Ona narodna „sloga kuću gradi“ i doslovce može pokazati na delu.",
+          "russian": "Народную мудрость «согласием дом строится» здесь можно увидеть буквально.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Sloga kuću gradi. Uvek bilo.",
+          "russian": "Согласие дом строит. Так всегда было.",
+          "source": "RTS, 2019"
+        }
+      ],
+      "note": "Sloga — не просто «согласие» во мнениях, а лад, сплочённость, способность действовать сообща. Поэтому пословица естественно применяется не только к семье и дому, но и к селу, команде, организации. Русское «где лад, там и клад» хорошо передаёт прагматический смысл, хотя образ иной.",
+      "keyword": "sloga kuću gradi"
     },
     {
       "headword_latin": "smejati se kao lud na brašno",
@@ -20870,6 +21104,32 @@
       ],
       "note": "Drum — дорога, большой путь; образно мысль из головы сразу «выходит наружу», в публичное пространство. Поэтому смысл шире буквального «что на уме, то на языке»: человек не фильтрует сказанное и быстро выносит внутреннюю мысль наружу. Академическое исследование рекламного языка показывает, насколько формула узнаваема: её пародируют как Što na umu, to u somunu!",
       "keyword": "što na um to na drum"
+    },
+    {
+      "headword_latin": "Što se mora nije teško",
+      "type": "poslovica",
+      "definition_ru": "раз надо — значит надо; неизбежное легче принять; что необходимо, то и делай",
+      "synonyms_sr": [
+        "kad se mora, mora se",
+        "prihvatiti obavezu",
+        "nema druge"
+      ],
+      "literal_ru": "то, что необходимо, не трудно",
+      "register": "poslovica, često samoohrabrujuće ili ironično; o prihvatanju neizbežne obaveze",
+      "examples": [
+        {
+          "serbian_latin": "Kritikovana poslovica „što se mora nije teško“ ipak važi u ovom slučaju.",
+          "russian": "Критикуемая поговорка «раз надо — значит надо» в этом случае всё-таки работает.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Pesma predstavlja naš osvrt na onu staru izreku „što se mora, nije teško“.",
+          "russian": "Песня — наш взгляд на старую поговорку «раз надо — значит надо».",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Выражение не утверждает буквально, что обязательная работа объективно проста. Смысл психологический: если выбора всё равно нет, легче перестать сопротивляться и сделать необходимое. Сербское безличное mora se — чрезвычайно частая модель: Mora se raditi; šta se mora, mora se.",
+      "keyword": "što se mora nije teško"
     },
     {
       "headword_latin": "tačan kao švajcarski sat",
