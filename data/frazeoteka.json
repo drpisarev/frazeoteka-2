@@ -5342,6 +5342,32 @@
       "keyword": "tepih"
     },
     {
+      "headword_latin": "Gvožđe se kuje dok je vruće",
+      "type": "poslovica",
+      "definition_ru": "куй железо, пока горячо; действуй, пока момент подходящий",
+      "synonyms_sr": [
+        "iskoristiti pravi trenutak",
+        "delovati na vreme",
+        "ne propustiti priliku"
+      ],
+      "literal_ru": "железо куют, пока оно горячее",
+      "register": "poslovica; o potrebi da se odmah iskoristi povoljna prilika",
+      "examples": [
+        {
+          "serbian_latin": "Ako nema spremnu pesmu, da je pod hitno snima i izbacuje, jer gvožđe se kuje dok je vruće.",
+          "russian": "Если песня ещё не готова, нужно срочно её записывать и выпускать: куй железо, пока горячо.",
+          "source": "Prva, 2026"
+        },
+        {
+          "serbian_latin": "Posle ću proći, kad se vratim, gvožđe se kuje dok je vruće.",
+          "russian": "Я потом заеду, когда вернусь: куй железо, пока горячо.",
+          "source": "Telegraf, 2025"
+        }
+      ],
+      "note": "Сербский и русский фразеологические образы совпадают практически полностью. В сербском пословица активно употребляется и в совершенно бытовых ситуациях: отношения, карьера, музыка, бизнес. Речь именно о коротком благоприятном моменте, который нельзя упустить.",
+      "keyword": "gvožđe se kuje dok je vruće"
+    },
+    {
       "headword_latin": "Hladan kao špricer",
       "type": "frazeologizam",
       "definition_ru": "невозмутимый; хладнокровный; спокойный как удав",
@@ -7545,6 +7571,32 @@
       "keyword": "jesti"
     },
     {
+      "headword_latin": "Kad mačke nema, miševi kolo vode",
+      "type": "poslovica",
+      "definition_ru": "кот из дома — мыши в пляс; без начальства все распоясались",
+      "synonyms_sr": [
+        "kad nema gazde, svi se opuste",
+        "bez nadzora svako radi šta hoće",
+        "miševi se vesele"
+      ],
+      "literal_ru": "когда кошки нет, мыши водят коло",
+      "register": "poslovica, često šalj.; o slobodi podređenih ili dece kada nema onoga ko ih kontroliše",
+      "examples": [
+        {
+          "serbian_latin": "Kad mačke nema, miševi kolo vode.",
+          "russian": "Кот из дома — мыши в пляс.",
+          "source": "Prva, 2020"
+        },
+        {
+          "serbian_latin": "Narodski rečeno, kad mačke nema, miševi kolo vode.",
+          "russian": "Как говорится в народе: кот из дома — мыши в пляс.",
+          "source": "Alo, 2022"
+        }
+      ],
+      "note": "Сербский образ культурно окрашен компонентом kolo: мыши не просто веселятся, а буквально «водят коло». Возможны варианты kad mačke nema, miševi se vesele и kad mačka ode, miševi kolo vode, но форма с kolo vode особенно узнаваема. Русский функциональный эквивалент практически полный.",
+      "keyword": "kad mačke nema miševi kolo vode"
+    },
+    {
       "headword_latin": "Kad na vrbi rodi grožđe",
       "type": "frazeologizam",
       "definition_ru": "когда рак на горе свистнет; после дождичка в четверг; никогда",
@@ -8945,6 +8997,33 @@
       ],
       "note": "Izraz grubo opisuje ljude koji se u velikom broju i nametljivo okupljaju oko privlačne, bogate ili poznate osobe. Može vređati i te ljude i predmet njihovog interesovanja. Drugi primer predstavlja srodnu ustaljenu varijantu hoće muva na govno. Srpski oblici su lepiti i muva, a hrvatski lijepiti i muha.",
       "keyword": "govno"
+    },
+    {
+      "headword_latin": "Leva ruka ne zna šta radi desna",
+      "type": "frazeologizam",
+      "definition_ru": "одна рука не знает, что делает другая; полный разнобой; действия не согласованы",
+      "synonyms_sr": [
+        "nema koordinacije",
+        "svako radi na svoju ruku",
+        "nema dogovora",
+        "vlada zbrka"
+      ],
+      "literal_ru": "левая рука не знает, что делает правая",
+      "register": "razg.-publicistički, neodobr.; obično o neusaglašenim postupcima unutar organizacije, vlasti ili tima",
+      "examples": [
+        {
+          "serbian_latin": "To znači da leva ruka ne zna šta radi desna, nema planiranja, to se događa impulsivno.",
+          "russian": "Это значит, что одна рука не знает, что делает другая: никакого планирования, всё происходит импульсивно.",
+          "source": "N1, 2024"
+        },
+        {
+          "serbian_latin": "Leva ruka ne zna šta radi desna, i obrnuto.",
+          "russian": "Одна рука не знает, что делает другая, и наоборот.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Выражение связано с евангельской формулой о тайной милостыне — da ne zna leva šta radi desna, где исходный смысл положительный: делать добро без демонстрации. В современной светской речи гораздо чаще обыгрывается противоположная идея — подразделения одной системы действуют несогласованно. Русское «левая рука не знает, что делает правая» употребляется так же.",
+      "keyword": "leva ruka ne zna šta radi desna"
     },
     {
       "headword_latin": "ličiti kao jaje jajetu",
@@ -10797,6 +10876,32 @@
       "keyword": "ni od korova"
     },
     {
+      "headword_latin": "Nema hleba bez motike",
+      "type": "poslovica",
+      "definition_ru": "без труда ничего не добьёшься; без труда не вытащишь и рыбку из пруда",
+      "synonyms_sr": [
+        "bez rada nema rezultata",
+        "bez truda nema uspeha",
+        "mora da se radi"
+      ],
+      "literal_ru": "без мотыги нет хлеба",
+      "register": "poslovica; razgovorni oblik često nema 'leba bez motike",
+      "examples": [
+        {
+          "serbian_latin": "Još je aktuelna ona narodna da „nema hleba bez motike“.",
+          "russian": "По-прежнему верна народная мудрость: без труда ничего не добьёшься.",
+          "source": "Blic, 2003"
+        },
+        {
+          "serbian_latin": "Nema hleba bez motike, nije normalno da se herbicidima tretira nešto što je živo.",
+          "russian": "Без труда урожая не будет: нельзя всё живое просто заливать гербицидами.",
+          "source": "Telegraf, 2019"
+        }
+      ],
+      "note": "Пословица родилась из земледельческого опыта: хлеб требует физического труда с motika «мотыгой». Сегодня применяется к любой работе и означает, что успех без усилий невозможен. В разговорной сербской речи очень часто выпадает начальное h: nema 'leba bez motike, но для словарного заголовка предпочтительна стандартная форма hleba.",
+      "keyword": "nema hleba bez motike"
+    },
+    {
       "headword_latin": "Nema mu ravna",
       "type": "frazeologizam",
       "definition_ru": "ему нет равных; ему нет равного; он вне конкуренции",
@@ -10943,6 +11048,33 @@
       ],
       "note": "Trte-mrte само по себе не следует пытаться буквально переводить: это рифмованная разговорная формула, обозначающая увиливание, пустые отговорки и неопределённость. Поэтому nema trte-mrte означает, что правила ясны и возможности выкручиваться больше нет.",
       "keyword": "trte-mrte"
+    },
+    {
+      "headword_latin": "Nema vajde",
+      "type": "izraz",
+      "definition_ru": "толку нет; бесполезно; ничего не выйдет",
+      "synonyms_sr": [
+        "nema koristi",
+        "nema svrhe",
+        "ne vredi",
+        "uzalud je"
+      ],
+      "literal_ru": "",
+      "register": "razg.; naročito nema vajde od + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Nema vajde od skrštenih ruku i pasivnog iščekivanja neminovnog.",
+          "russian": "От сидения сложа руки и пассивного ожидания толку нет.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Od kukanja nema vajde.",
+          "russian": "От жалоб толку нет.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Vajda — живой сербский турцизм со значением «польза, толк, выгода»; особенно устойчив именно отрицательный оборот nema vajde. Для русскоязычного важна конструкция od + genitiv: nema vajde od toga, od čekanja, od priče. По смыслу она часто совпадает с уже знакомым nema svrhe, но звучит разговорнее и характернее.",
+      "keyword": "nema vajde"
     },
     {
       "headword_latin": "Nema zime",
@@ -13243,6 +13375,32 @@
       "keyword": "parati uši"
     },
     {
+      "headword_latin": "Pas koji laje ne ujeda",
+      "type": "poslovica",
+      "definition_ru": "собака, которая лает, не кусает; кто много грозит, обычно не действует",
+      "synonyms_sr": [
+        "mnogo preti, malo čini",
+        "samo galami",
+        "jak je samo na rečima"
+      ],
+      "literal_ru": "лающая собака не кусает",
+      "register": "poslovica; preneseno o bučnoj ili pretećoj osobi koja retko prelazi na dela",
+      "examples": [
+        {
+          "serbian_latin": "Kažu da pas koji laje ne ujeda.",
+          "russian": "Говорят, что собака, которая лает, не кусает.",
+          "source": "Prva, 2024"
+        },
+        {
+          "serbian_latin": "Stara uzrečica „pas koji laje ne ujeda“ zasnovana je na istini.",
+          "russian": "Старая поговорка «лающая собака не кусает» основана на житейском наблюдении.",
+          "source": "Krstarica, 2020"
+        }
+      ],
+      "note": "В отношении людей пословица противопоставляет громкие угрозы реальной опасности: тот, кто много шумит, может оказаться менее решительным. Не следует воспринимать её как практическое правило поведения с настоящими собаками. Возможен также переставленный вариант ne ujeda pas koji laje.",
+      "keyword": "pas koji laje ne ujeda"
+    },
+    {
       "headword_latin": "Pasja vrućina",
       "type": "frazeologizam",
       "definition_ru": "собачья жара; невыносимая жара; пекло",
@@ -15359,6 +15517,32 @@
       "keyword": "prevrnuti nebo i zemlju"
     },
     {
+      "headword_latin": "Prilika čini lopova",
+      "type": "poslovica",
+      "definition_ru": "возможность рождает вора; удобный случай толкает на проступок",
+      "synonyms_sr": [
+        "iskušenje navodi na prestup",
+        "prilika podstiče na krađu",
+        "lako je podleći iskušenju"
+      ],
+      "literal_ru": "случай делает вора",
+      "register": "poslovica; prilika ovde znači pogodan slučaj, mogućnost",
+      "examples": [
+        {
+          "serbian_latin": "Postoji ona stara mudrost da „prilika čini lopova“.",
+          "russian": "Есть старая мудрость: возможность рождает вора.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Snimljen trenutak kad su dve žene našle novčanik na ulici: „Prilika čini lopova“.",
+          "russian": "На видео попал момент, когда две женщины нашли кошелёк на улице: «Возможность рождает вора».",
+          "source": "Telegraf, 2026"
+        }
+      ],
+      "note": "Пословица говорит не столько о врождённой нечестности, сколько об искушении, создаваемом удобной ситуацией. Prilika — многозначное слово, но здесь это именно «случай, возможность», а не «внешность» и не «персона». Русское дословное «случай делает вора» понятно, но не столь устойчиво.",
+      "keyword": "prilika čini lopova"
+    },
+    {
       "headword_latin": "Prljav posao",
       "type": "kolokacija",
       "definition_ru": "грязная работа; грязное дело; неприятная или морально сомнительная работа",
@@ -16323,6 +16507,32 @@
       ],
       "note": "Выражение не всегда означает плохо выполненную работу. Главное — отсутствие внутренней необходимости или искреннего намерения: что-то сделали только для соблюдения формы. Поэтому русское «для галочки» обычно точнее, чем буквальное «ради порядка».",
       "keyword": "reda radi"
+    },
+    {
+      "headword_latin": "Riba od glave smrdi / Riba smrdi od glave",
+      "type": "poslovica",
+      "definition_ru": "рыба гниёт с головы; проблемы начинаются с руководства",
+      "synonyms_sr": [
+        "problem počinje od vrha",
+        "odgovornost je na rukovodstvu",
+        "loš primer dolazi odozgo"
+      ],
+      "literal_ru": "рыба воняет с головы",
+      "register": "poslovica, neodobr.; naročito o politici, ustanovama i organizacijama",
+      "examples": [
+        {
+          "serbian_latin": "No, riba od glave smrdi, kaže naš narod.",
+          "russian": "Но, как говорит народ, рыба гниёт с головы.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Postoji narodna poslovica da riba uvek smrdi od glave.",
+          "russian": "Есть народная пословица: рыба всегда гниёт с головы.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Смысл почти полностью совпадает с русским «рыба гниёт с головы»: неблагополучие организации связывают прежде всего с её руководством. Отличается глагольный образ: сербское smrdi — буквально «воняет», тогда как русский устойчиво говорит «гниёт». Оба порядка слов — riba od glave smrdi и riba smrdi od glave — реально употребительны.",
+      "keyword": "riba od glave smrdi"
     },
     {
       "headword_latin": "Rođen / rođena sa zlatnom kašikom",
@@ -18834,6 +19044,32 @@
       ],
       "note": "Jato — стая птиц или косяк рыб; русский учащийся иногда автоматически связывает его с jagoda или другими похожими словами, но семантически это именно группа животных. Пословица может описывать как естественное сближение людей со сходными интересами, так и сомнительное объединение «своих».",
       "keyword": "ptica; jato"
+    },
+    {
+      "headword_latin": "Svaka roba ima svog kupca",
+      "type": "poslovica",
+      "definition_ru": "на всякий товар найдётся покупатель; всему найдётся свой ценитель",
+      "synonyms_sr": [
+        "za sve postoji kupac",
+        "svako nešto voli",
+        "svakome se nešto dopada"
+      ],
+      "literal_ru": "у каждого товара есть свой покупатель",
+      "register": "poslovica; doslovno o trgovini i preneseno o ukusima, umetnosti, medijima, ljudima i idejama",
+      "examples": [
+        {
+          "serbian_latin": "Mada, verovatno ima razloga za izreku da svaka roba ima svog kupca.",
+          "russian": "Наверное, не зря говорят, что на всякий товар найдётся покупатель.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Ako svaka roba ima svog kupca, na internetu ih ima i više.",
+          "russian": "Если на всякий товар находится покупатель, то в интернете их найдётся ещё больше.",
+          "source": "RTS, 2015"
+        }
+      ],
+      "note": "Roba здесь легко расширяется от настоящего товара до фильма, телепередачи, произведения искусства или любой вещи сомнительного для говорящего качества: кому-нибудь всё равно понравится. Русское «на всякий товар есть свой купец» близко почти дословно.",
+      "keyword": "svaka roba ima svog kupca"
     },
     {
       "headword_latin": "Svaka škola se plaća",
@@ -21987,6 +22223,33 @@
       ],
       "note": "Формула гибкая: kod nas je zlo i naopako описывает катастрофическое положение, а отдельное Zlo i naopako! выражает испуг перед возможными последствиями. Буквальный перевод «зло и наоборот» бессмысленен: naopako здесь связано с неправильным, перевёрнутым, дурным ходом вещей.",
       "keyword": "zlo i naopako"
+    },
+    {
+      "headword_latin": "Zub vremena",
+      "type": "frazeologizam",
+      "definition_ru": "зуб времени; разрушительное действие времени; следы старения",
+      "synonyms_sr": [
+        "propadanje tokom vremena",
+        "trošenje",
+        "starenje",
+        "dotrajalost"
+      ],
+      "literal_ru": "зуб времени",
+      "register": "neutralno-knjiški, publicistički; često nagriza / načeo je zub vremena, ostaviti zubu vremena",
+      "examples": [
+        {
+          "serbian_latin": "Dva „burana“ polako „nagriza“ zub vremena.",
+          "russian": "Два «Бурана» постепенно разрушает время.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Vatikanskim muzejima ne preti zub vremena već kisele kiše.",
+          "russian": "Ватиканским музеям угрожает не зуб времени, а кислотные дожди.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Оборот персонифицирует время как нечто, что постепенно «грызёт» здания, вещи и памятники. Особенно характерны глаголы nagrizati и načeti. Русский «зуб времени» существует, но звучит несколько книжнее; часто естественнее перевести «разрушительное действие времени», «следы времени».",
+      "keyword": "zub vremena"
     },
     {
       "headword_latin": "Živeti kao bubreg u loju",
