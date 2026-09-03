@@ -522,6 +522,33 @@
       "keyword": "baciti se oko vrata"
     },
     {
+      "headword_latin": "Besposlen pop i jariće krsti",
+      "type": "poslovica",
+      "definition_ru": "от нечего делать заниматься ерундой; у бездельника и бессмысленная работа найдётся",
+      "synonyms_sr": [
+        "izmišljati posao",
+        "raditi gluposti iz dosade",
+        "baviti se besmislicama",
+        "dangubiti (delimično)"
+      ],
+      "literal_ru": "бездельничающий поп и козлят крестит",
+      "register": "poslovica, iron.-neodobr.; o nepotrebnoj aktivnosti radi samog zanimanja",
+      "examples": [
+        {
+          "serbian_latin": "Nije dobro imati višak slobodnog vremena jer, znate kako kažu, besposlen pop i jariće krsti.",
+          "russian": "Избыток свободного времени тоже не всегда хорош: от нечего делать начинаешь заниматься ерундой.",
+          "source": "Blic, 2019"
+        },
+        {
+          "serbian_latin": "Stara narodna poslovica „Besposlen pop i jariće krsti“ govori o tome kako će onaj ko nema šta da radi raditi i najbesmisleniju stvar.",
+          "russian": "Старая поговорка говорит о том, что без дела человек принимается даже за совершенно бессмысленные занятия.",
+          "source": "Blic, 2017"
+        }
+      ],
+      "note": "Jarić — козлёнок. Комизм строится на заведомо нелепой работе священника: настоящих дел нет, поэтому он будто бы начинает крестить козлят. Это не просто lenčariti: человек как раз что-то делает, но занятие ненужное и бессмысленное.",
+      "keyword": "besposlen pop i jariće krsti"
+    },
+    {
       "headword_latin": "Bez alata nema zanata",
       "type": "poslovica",
       "definition_ru": "без инструмента и мастеру не обойтись; для хорошей работы нужны средства",
@@ -2072,6 +2099,33 @@
       "keyword": "bog i batina"
     },
     {
+      "headword_latin": "Bog visoko, Rusija daleko",
+      "type": "izreka",
+      "definition_ru": "Бог высоко, Россия далеко; помощи ждать неоткуда; рассчитывать надо прежде всего на себя",
+      "synonyms_sr": [
+        "uzdanja u druge nema",
+        "pomoć je daleko",
+        "osloniti se na sebe",
+        "nema ko da pomogne"
+      ],
+      "literal_ru": "Бог высоко, Россия далеко",
+      "register": "narodno, istorijsko-politički obojeno; o nedostupnosti spoljne pomoći",
+      "examples": [
+        {
+          "serbian_latin": "Oprosti, brate, Bog je visoko, Rusija daleko, a na zemlji je tvrdo.",
+          "russian": "Прости, брат, Бог высоко, Россия далеко, а здесь, на земле, приходится рассчитывать на реальность.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Narod kaže „Bog visoko, Rusija daleko“, odnosno uzdanja u druge nema.",
+          "russian": "Народ говорит: «Бог высоко, Россия далеко», то есть на других рассчитывать не приходится.",
+          "source": "Večernje novosti, 2021"
+        }
+      ],
+      "note": "Для русского эта формула особенно интересна культурно. Упоминание России не означает здесь просто симпатию к ней: главный смысл — потенциальный защитник или помощник находится далеко и практически недоступен, поэтому приходится действовать самому. Выражение давно используется в сербской политической публицистике; точное время и обстоятельства его возникновения надёжно не установлены.",
+      "keyword": "Bog visoko Rusija daleko"
+    },
+    {
       "headword_latin": "Bogu iza nogu",
       "type": "frazeologizam",
       "definition_ru": "у чёрта на куличках; на краю света; в глухомани",
@@ -2807,6 +2861,33 @@
       ],
       "note": "В переносном употреблении это гипербола сильного отчаяния, раздражения или бессилия: человек не обязательно действительно трогает волосы. Поэтому русский «рвать на себе волосы» — практически точный эквивалент. В конкретном контексте čupati kosu может быть и буквальным действием, так что фразеологическое значение определяется ситуацией.",
       "keyword": "čupati kosu"
+    },
+    {
+      "headword_latin": "Čuvaj bele pare za crne dane",
+      "type": "poslovica",
+      "definition_ru": "откладывай деньги на чёрный день; береги запас на трудные времена",
+      "synonyms_sr": [
+        "štedeti za crne dane",
+        "ostaviti novac sa strane",
+        "čuvati rezervu",
+        "štedeti za nevolju"
+      ],
+      "literal_ru": "береги белые деньги на чёрные дни",
+      "register": "poslovica / savet; o finansijskoj rezervi za buduće teškoće",
+      "examples": [
+        {
+          "serbian_latin": "Ljudi često zapamte ono na šta su im roditelji i okolina skretali pažnju, a to je „Čuvaj bele pare za crne dane“.",
+          "russian": "Люди часто запоминают родительский совет: откладывай деньги на чёрный день.",
+          "source": "Politika, 2020"
+        },
+        {
+          "serbian_latin": "Bolje da se pripremimo na vreme i čuvamo „bele pare za crne dane“.",
+          "russian": "Лучше заранее подготовиться и сохранить деньги на чёрный день.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Русскому особенно легко запомнить вторую половину — crni dani полностью соответствует «чёрным дням». Контраст bele pare — crni dani является частью устойчивого образа; переводить bele pare буквально как особый вид «белых денег» здесь не нужно.",
+      "keyword": "bele pare za crne dane"
     },
     {
       "headword_latin": "Čuvati / paziti nekoga / nešto kao oči u glavi",
@@ -8098,6 +8179,32 @@
       "keyword": "kad čeljad nisu besna ni kuća nije tesna"
     },
     {
+      "headword_latin": "Kad je bal, nek je maskenbal",
+      "type": "izreka",
+      "definition_ru": "гулять так гулять; раз уж делать — то по полной; раз пошла такая пьянка",
+      "synonyms_sr": [
+        "ići do kraja",
+        "ne raditi polovično",
+        "kad se već radi, neka bude kako treba"
+      ],
+      "literal_ru": "раз уж бал, пусть будет маскарад",
+      "register": "razg., šalj.-ekspresivno; o svesnom povećanju obima, troška ili rizika",
+      "examples": [
+        {
+          "serbian_latin": "Kad je bal nek je maskenbal. Da je veća suma bila jedan dinar viša ja bih je izabrao.",
+          "russian": "Гулять так гулять: будь сумма хоть на динар больше, я выбрал бы её.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ljudi se očito vode onom izrekom „kad je bal, nek’ je maskenbal“.",
+          "russian": "Люди, похоже, руководствуются принципом «гулять так гулять».",
+          "source": "Sport Klub, 2019"
+        }
+      ],
+      "note": "Говорящий уже согласился на нечто затратное, рискованное или необычное и решает не мелочиться. Поэтому это не просто «сделать хорошо», а часто именно «раз уж ввязались — пойдём до конца». Очень естественная разговорная реплика.",
+      "keyword": "kad je bal nek je maskenbal"
+    },
+    {
       "headword_latin": "Kad mačke nema, miševi kolo vode",
       "type": "poslovica",
       "definition_ru": "кот из дома — мыши в пляс; без начальства все распоясались",
@@ -8683,6 +8790,33 @@
       "keyword": "kap koja je prelila čašu"
     },
     {
+      "headword_latin": "Kasno Marko na Kosovo stiže",
+      "type": "izreka",
+      "definition_ru": "поздно спохватились; поезд ушёл; хороша ложка к обеду",
+      "synonyms_sr": [
+        "zakasniti",
+        "setiti se prekasno",
+        "reagovati kad je već gotovo",
+        "kasno je"
+      ],
+      "literal_ru": "поздно Марко прибывает на Косово",
+      "register": "poslovično, iron.; o zakasneloj reakciji, pomoći ili odluci",
+      "examples": [
+        {
+          "serbian_latin": "„Kasno Marko na Kosovo stiže“, kaže Slađana Prica.",
+          "russian": "«Поздно спохватились», — говорит Сладжана Прица.",
+          "source": "N1 Srbija, 2024"
+        },
+        {
+          "serbian_latin": "On će sada, možda, i stići, ali po običaju kasno, kada je šteta već učinjena.",
+          "russian": "Ответ, возможно, теперь и последует — но, как обычно, слишком поздно, когда ущерб уже нанесён.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Формула вводит эпический образ Marka Kraljevića и Косова, но в современной речи историческая сторона почти не важна: смысл просто «отреагировали тогда, когда уже поздно». Не следует из этой пословицы делать вывод о реальном участии исторического Марко в Косовской битве; выражение живёт в фольклорно-эпическом пространстве.",
+      "keyword": "kasno Marko na Kosovo stiže"
+    },
+    {
       "headword_latin": "Kaži dragička",
       "type": "replika",
       "definition_ru": "а знаешь, что я тебе скажу?; хочешь хорошую новость?; угадай, что случилось",
@@ -9116,6 +9250,32 @@
       "keyword": "ko se čuva"
     },
     {
+      "headword_latin": "Ko se hvali, sam se kvari",
+      "type": "poslovica",
+      "definition_ru": "сам себя не хвали; хвастовство человека не красит; кто хвалится, тот себя роняет",
+      "synonyms_sr": [
+        "ne hvaliti sam sebe",
+        "samohvala ne valja",
+        "biti skroman"
+      ],
+      "literal_ru": "кто себя хвалит, тот сам себя портит",
+      "register": "poslovica, neodobr.; o samohvalisanju",
+      "examples": [
+        {
+          "serbian_latin": "A i za takav slučaj narod mi je doskočio poslovicom: „Ko se hvali, sam se kvari!“",
+          "russian": "И для такого случая народ придумал поговорку: кто сам себя хвалит, тот себя и портит.",
+          "source": "Blic, 2012"
+        },
+        {
+          "serbian_latin": "Znam za onu „ko se hvali sam se kvari“, ali se odlučih za drugu.",
+          "russian": "Я знаю поговорку «кто сам себя хвалит, тот себя портит», но выбрал другую.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Речь именно о hvaliti se «хвалиться», а не о том, что человека нельзя хвалить вообще. Пословица отражает традиционно отрицательное отношение к открытой саморекламе. В русском точной общеупотребительной рифмованной формулы нет.",
+      "keyword": "ko se hvali sam se kvari"
+    },
+    {
       "headword_latin": "Ko se jednom opeče, i na hladno duva",
       "type": "poslovica",
       "definition_ru": "обжёгшись на молоке, дуют на воду; после плохого опыта человек становится чрезмерно осторожным",
@@ -9191,6 +9351,33 @@
       ],
       "note": "Сербская и русская формулы почти полностью совпадают. В реальной речи это нередко не общая мораль о терпении, а реплика в конфликте: не спеши злорадствовать, окончательный результат ещё неизвестен.",
       "keyword": "ko se zadnji smeje najslađe se smeje"
+    },
+    {
+      "headword_latin": "Ko tebe kamenom, ti njega hlebom",
+      "type": "poslovica",
+      "definition_ru": "на зло отвечай добром; тебя камнем — ты в ответ хлебом",
+      "synonyms_sr": [
+        "na zlo uzvratiti dobrim",
+        "ne vraćati zlo za zlo",
+        "oprostiti",
+        "biti plemenit"
+      ],
+      "literal_ru": "кто в тебя камнем, ты в него хлебом",
+      "register": "poslovica, poučno, odobr.; o nevraćanju zla zlom",
+      "examples": [
+        {
+          "serbian_latin": "Ko tebe kamenom, ti njega hlebom. To nam je stalno ponavljao.",
+          "russian": "Тебя камнем — ты в ответ хлебом. Он постоянно нам это повторял.",
+          "source": "RTS, 2010"
+        },
+        {
+          "serbian_latin": "Hleb je i simbol praštanja jer „ko tebe kamenom, ti njega hlebom“.",
+          "russian": "Хлеб служит и символом прощения: на зло отвечай добром.",
+          "source": "BBC na srpskom / Danas, 2020"
+        }
+      ],
+      "note": "Здесь hleb противопоставлен kamenu как добро и жизненно необходимая пища — агрессии и причинению вреда. Выражение соответствует христианской этике прощения, но саму сербскую формулу лучше описывать как народную пословицу, а не как дословную библейскую цитату.",
+      "keyword": "ko tebe kamenom ti njega hlebom"
     },
     {
       "headword_latin": "Ko zna zašto je to dobro",
@@ -12032,6 +12219,32 @@
       ],
       "note": "В сербской бытовой речи neprskano — очень частое слово на рынках и при разговорах о «домашних» продуктах. Оно буквально означает, что растение или плод nisu prskani, то есть их не обрабатывали распыляемыми средствами. Но это не официальный синоним organskog proizvoda: «неопрыскиванное», «органическое», «домашнее» и «безопасное» — разные понятия. RTS специально показывает, насколько ненадёжным может быть рыночное заявление neprskano: продавцы используют его свободно, тогда как реальное применение пестицидов и соблюдение karence — срока между последней обработкой и сбором урожая — требуют отдельного контроля. В живой речи можно услышать и субстантивированное Kupujem samo neprskano — «покупаю только то, что не опрыскивали». Для русского важно также не переводить автоматически как «экологически чистое»: сербское слово этого не гарантирует.",
       "keyword": "neprskano"
+    },
+    {
+      "headword_latin": "Nesreća nikad ne dolazi sama",
+      "type": "poslovica",
+      "definition_ru": "беда не приходит одна; беда беду тянет",
+      "synonyms_sr": [
+        "nevolja ide za nevoljom",
+        "jedna nesreća vuče drugu",
+        "zlo ne dolazi samo"
+      ],
+      "literal_ru": "несчастье никогда не приходит одно",
+      "register": "poslovica; o nekoliko neprijatnosti koje se dogode jedna za drugom",
+      "examples": [
+        {
+          "serbian_latin": "Ovih dana se potvrđuje ono gorko pravilo koje kaže da nesreća nikad ne dolazi sama.",
+          "russian": "В эти дни снова подтверждается горькое правило: беда не приходит одна.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Nesreća nikad ne dolazi sama. U toku oporavka razveo sam se od Irene.",
+          "russian": "Беда не приходит одна: пока я восстанавливался, мы с Иреной развелись.",
+          "source": "Politika, 2007"
+        }
+      ],
+      "note": "Практически точный эквивалент русского «беда не приходит одна». Обычно выражение появляется именно при второй или очередной неприятности: первая беда словно «притягивает» следующую. Nesreća здесь может означать не только несчастный случай, но и несчастье вообще.",
+      "keyword": "nesreća nikad ne dolazi sama"
     },
     {
       "headword_latin": "nešto je nekome kao dobar dan",
@@ -20959,6 +21172,33 @@
       "keyword": "šarena laža"
     },
     {
+      "headword_latin": "Šio mi ga Đura",
+      "type": "replika",
+      "definition_ru": "ага, конечно; как бы не так; рассказывай; да мне всё равно",
+      "synonyms_sr": [
+        "kako da ne (iron.)",
+        "malo sutra",
+        "nije nego",
+        "baš me briga (u jednom značenju)"
+      ],
+      "literal_ru": "мне это шил Джура",
+      "register": "razg., iron.; izražava nevericu, podrugljivo poricanje ili ponekad ravnodušnost",
+      "examples": [
+        {
+          "serbian_latin": "Izraz „Šio mi ga Đura“ danas koristimo kao reakciju na neko neubedljivo objašnjenje ili pokušaj prevare.",
+          "russian": "Выражением Šio mi ga Đura сегодня реагируют на неубедительное объяснение или попытку обмана.",
+          "source": "N1 Srbija, 2024"
+        },
+        {
+          "serbian_latin": "Izraz „šio mi ga Đura“ koristi se u srpskom jeziku kako bi se izrazila ravnodušnost, sarkazam ili pomirljivost.",
+          "russian": "В сербском эта фраза выражает безразличие, сарказм или скептическое принятие ситуации.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Значение сильно зависит от интонации: от русского «ага, конечно!» до «ну и х*р с ним». Популярная версия связывает выражение с белградским портным Đura Janošević и его мастерской конца XIX века; её повторяют современные сербские СМИ, но они опираются на популярные, а не академические этимологические источники, поэтому считать эту историю окончательно доказанной нельзя.",
+      "keyword": "šio mi ga Đura"
+    },
+    {
       "headword_latin": "Šta fali?",
       "type": "replika",
       "definition_ru": "а что не так?; а что плохого?; чего не хватает?",
@@ -22949,6 +23189,32 @@
       ],
       "note": "Первоначально vatreno krštenje — первый опыт реального боя под огнём. Сейчас выражение намного шире: первое серьёзное испытание спортсмена, тренера, актёра, политика, новой техники и т. п. Русское «боевое крещение» функционально почти полностью совпадает, хотя сербский сохраняет прилагательное vatreno «огненное».",
       "keyword": "vatreno krštenje"
+    },
+    {
+      "headword_latin": "Videla žaba da se konji kuju, pa i ona digla nogu",
+      "type": "poslovica",
+      "definition_ru": "куда конь с копытом, туда и рак с клешнёй; бездумно полезть вслед за большими; неуместно подражать другим",
+      "synonyms_sr": [
+        "slepo oponašati",
+        "raditi nešto samo zato što rade drugi",
+        "preceniti svoje mogućnosti"
+      ],
+      "literal_ru": "увидела лягушка, что коней подковывают, и тоже подняла ногу",
+      "register": "poslovica, iron.-podsmešljivo; varijante sa konj potkiva i konji kuju",
+      "examples": [
+        {
+          "serbian_latin": "Videla žaba da se konj potkiva, pa i ona digla nogu.",
+          "russian": "Куда конь с копытом, туда и рак с клешнёй.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Po principu „videla žaba da se konji kuju“ pravi jednu portabl gondolu od nekoliko metara.",
+          "russian": "По принципу «куда конь с копытом...» решили сделать свою мини-гондолу длиной в несколько метров.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Лягушка поднимает ногу, увидев, как подковывают лошадь, хотя ей подкова совершенно не нужна. Пословица критикует не простое подражание, а подражание без учёта собственных возможностей, масштаба или смысла действия. Полная и сокращённая формы одинаково узнаваемы.",
+      "keyword": "videla žaba da se konji kuju"
     },
     {
       "headword_latin": "Visiti o koncu",
