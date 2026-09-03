@@ -2623,6 +2623,33 @@
       "keyword": "čovek planira a Bog se smeje"
     },
     {
+      "headword_latin": "Čupati kosu",
+      "type": "frazeologizam",
+      "definition_ru": "рвать на себе волосы; хвататься за голову; приходить в отчаяние",
+      "synonyms_sr": [
+        "očajavati",
+        "hvatati se za glavu",
+        "kidati se",
+        "izjedati se"
+      ],
+      "literal_ru": "вырывать волосы",
+      "register": "razg.-neutralno, ekspresivno; takođe čupati kosu s glave; moguće je i doslovno značenje",
+      "examples": [
+        {
+          "serbian_latin": "Vučić čupa kosu s glave zbog Nebojše Stefanovića.",
+          "russian": "Вучич рвёт на себе волосы из-за Небойши Стефановича.",
+          "source": "Nova.rs, 2021"
+        },
+        {
+          "serbian_latin": "Mama je počela da vrišti i čupa kosu.",
+          "russian": "Мама начала кричать и рвать на себе волосы.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "В переносном употреблении это гипербола сильного отчаяния, раздражения или бессилия: человек не обязательно действительно трогает волосы. Поэтому русский «рвать на себе волосы» — практически точный эквивалент. В конкретном контексте čupati kosu может быть и буквальным действием, так что фразеологическое значение определяется ситуацией.",
+      "keyword": "čupati kosu"
+    },
+    {
       "headword_latin": "Čuvati / paziti nekoga / nešto kao oči u glavi",
       "type": "frazeologizam",
       "definition_ru": "беречь как зеницу ока; беречь пуще всего",
@@ -4859,6 +4886,32 @@
       "keyword": "leš"
     },
     {
+      "headword_latin": "Gde ima dima, ima i vatre",
+      "type": "poslovica",
+      "definition_ru": "нет дыма без огня; слухи обычно возникают не на пустом месте",
+      "synonyms_sr": [
+        "nema dima bez vatre",
+        "nije bez razloga",
+        "ima tu nečega"
+      ],
+      "literal_ru": "где есть дым, там есть и огонь",
+      "register": "poslovica; o glasinama, sumnjama i posrednim znacima",
+      "examples": [
+        {
+          "serbian_latin": "Gde ima dima, ima i vatre.",
+          "russian": "Нет дыма без огня.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Đukanović je poručio: gde ima dima, ima i vatre.",
+          "russian": "Джуканович заявил: нет дыма без огня.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Логика у русского и сербского выражений одинаковая, но грамматическая форма противоположна: русский говорит отрицательно «нет дыма без огня», сербский — утвердительно gde ima dima, ima i vatre. Формулу нередко используют как псевдодоказательство слухов, поэтому в полемике она может звучать иронически или скептически.",
+      "keyword": "gde ima dima ima i vatre"
+    },
+    {
       "headword_latin": "Gde je tanko, tu se kida",
       "type": "poslovica",
       "definition_ru": "где тонко, там и рвётся; первым страдает самое слабое место",
@@ -4936,6 +4989,32 @@
       ],
       "note": "Здесь русский и сербский образы полностью совпадают. Сравнение подчёркивает сильный физический голод, хотя в спортивной публицистике gladan kao vuk иногда метафорически описывает и ненасытное стремление к новым победам.",
       "keyword": "gladan kao vuk"
+    },
+    {
+      "headword_latin": "Glavom i bradom",
+      "type": "izraz",
+      "definition_ru": "собственной персоной; собственной особой; лично",
+      "synonyms_sr": [
+        "lično",
+        "on sam / ona sama",
+        "u sopstvenoj osobi"
+      ],
+      "literal_ru": "головой и бородой",
+      "register": "razg., ekspresivno, često šaljivo ili ironično; oblik se ne menja prema polu",
+      "examples": [
+        {
+          "serbian_latin": "Prvi put u Poljskoj će „glavom i bradom“ nastupiti „Bajaga i instruktori“.",
+          "russian": "Впервые в Польше лично, собственной персоной, выступит группа «Bajaga i instruktori».",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Ja sam, Bogu hvala, ja glavom i bradom.",
+          "russian": "Это я, слава Богу, собственной персоной.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Оборот подчёркивает, что перед нами именно тот самый человек, а не представитель, слух или изображение: примерно русское «сам собственной персоной». Несмотря на bradom «бородой», выражение совершенно свободно употребляется и о женщинах. Часто сопровождает неожиданное появление известного человека.",
+      "keyword": "glavom i bradom"
     },
     {
       "headword_latin": "Gledati belo",
@@ -5520,6 +5599,33 @@
       "keyword": "i posle Tita Tito"
     },
     {
+      "headword_latin": "I vuk sit i ovce na broju",
+      "type": "poslovica",
+      "definition_ru": "и волки сыты, и овцы целы; все остались довольны",
+      "synonyms_sr": [
+        "svi zadovoljni",
+        "naći kompromis",
+        "svako dobije svoje",
+        "rešenje bez gubitnika"
+      ],
+      "literal_ru": "и волк сыт, и овцы все на месте",
+      "register": "poslovica, često iron.; javlja se i prilagođeno vukovi siti, ovce na broju",
+      "examples": [
+        {
+          "serbian_latin": "I vukovi su siti i ovce su na broju.",
+          "russian": "И волки сыты, и овцы целы.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Na kraju su bili i vuk sit i ovce na broju.",
+          "russian": "В итоге и волки оказались сыты, и овцы целы.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Русский эквивалент почти идеален, но сербское na broju буквально означает «все налицо, никто не потерялся». Пословица описывает компромисс, при котором противоположные интересы удаётся формально удовлетворить одновременно. Нередко звучит иронически, особенно если такое «идеальное» решение кажется искусственным.",
+      "keyword": "vuk sit ovce na broju"
+    },
+    {
       "headword_latin": "Ići / doći mečki na rupu",
       "type": "frazeologizam",
       "definition_ru": "лезть прямо в логово зверя; идти навстречу опасности; явиться туда, где тебя ждут неприятности",
@@ -5653,6 +5759,33 @@
       ],
       "note": "Функционально почти полностью совпадает с русским «как по маслу». Но loj — именно животный жир, сало, а не растительное ulje. Часто употребляется и с отрицанием: ne ide baš sve kao po loju — «не всё идёт гладко».",
       "keyword": "kao po loju"
+    },
+    {
+      "headword_latin": "Ići kao podmazano",
+      "type": "frazeologizam",
+      "definition_ru": "идти как по маслу; идти гладко; работать без сучка без задоринки",
+      "synonyms_sr": [
+        "ići glatko",
+        "teći bez problema",
+        "funkcionisati bez zastoja",
+        "ići kako treba"
+      ],
+      "literal_ru": "идти словно смазанное",
+      "register": "razg.-neutralno, ekspresivno; naročito sve ide / išlo je kao podmazano",
+      "examples": [
+        {
+          "serbian_latin": "Kada se vinu u visine, tada sve ide kao podmazano.",
+          "russian": "Когда они поднимаются в воздух, всё идёт как по маслу.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Sve je išlo kao podmazano.",
+          "russian": "Всё шло как по маслу.",
+          "source": "Sport Klub, 2015"
+        }
+      ],
+      "note": "Русское «как по маслу» практически полностью совпадает по образу и употреблению. В сербском особенно частотна безлично-обобщённая конструкция sve ide kao podmazano: о работе, переговорах, отношениях, подготовке, технике. Podmazano буквально отсылает к механизму, который хорошо работает после смазки.",
+      "keyword": "ići kao podmazano"
     },
     {
       "headword_latin": "Ići linijom manjeg otpora",
@@ -8480,6 +8613,33 @@
       ],
       "note": "Выражение обозначает не просто высокую, а чрезмерную, вызывающую удивление цену. Возможна форма без глагола: skupo kao Svetog Petra kajgana.",
       "keyword": "kajgana"
+    },
+    {
+      "headword_latin": "Krasti Bogu dane",
+      "type": "frazeologizam",
+      "definition_ru": "бить баклуши; попусту тратить время; прожигать дни",
+      "synonyms_sr": [
+        "dangubiti",
+        "lenčariti",
+        "besposličiti",
+        "gubiti vreme"
+      ],
+      "literal_ru": "красть у Бога дни",
+      "register": "razg., neodobr.; obično o dugotrajnom besposličenju i besciljnom trošenju vremena",
+      "examples": [
+        {
+          "serbian_latin": "Više ne možemo krasti Bogu dane.",
+          "russian": "Мы больше не можем сидеть сложа руки и попусту тратить время.",
+          "source": "Danas, 2007"
+        },
+        {
+          "serbian_latin": "Taj nesrećni i depresivni čovek kao da „krade Bogu dane“.",
+          "russian": "Этот несчастный, подавленный человек словно просто прожигает дни.",
+          "source": "Tanjug, 2024"
+        }
+      ],
+      "note": "Выражение не просто означает «ничего не делать»: в нём обычно слышится моральная оценка — человеку даны дни жизни, а он их расходует впустую. Иногда оборот употребляется о человеке, который просто бесцельно «доживает» день за днём. Для нейтрального «отдыхать» оно не подходит.",
+      "keyword": "krasti Bogu dane"
     },
     {
       "headword_latin": "krenuti nečijim stopama",
@@ -11610,6 +11770,32 @@
       "keyword": "nije zlato sve što sija"
     },
     {
+      "headword_latin": "Nisam sisao vesla",
+      "type": "replika",
+      "definition_ru": "я не вчера родился; меня не проведёшь; я не дурак",
+      "synonyms_sr": [
+        "nisam od juče",
+        "nisam naivan",
+        "ne možeš me prevariti"
+      ],
+      "literal_ru": "я не сосал вёсла",
+      "register": "razg., šaljivo-grublje; ustaljenija je odrična forma Nisam ja sisao vesla",
+      "examples": [
+        {
+          "serbian_latin": "Misle li oni stvarno da smo mi sisali vesla?",
+          "russian": "Они действительно думают, что мы вчера родились?",
+          "source": "Subotičke novine, 2018"
+        },
+        {
+          "serbian_latin": "Nećeš ti mene prevariti. Nisam ja sisao vesla.",
+          "russian": "Меня ты не проведёшь. Я не вчера родился.",
+          "source": "Vukajlija, 2009"
+        }
+      ],
+      "note": "Для активной речи полезнее запоминать именно отрицательную формулу: nisam sisao vesla = «я не настолько наивен, чтобы на это купиться». Сербские лингвистические источники также фиксируют sisati vesla в значении «быть наивным, глупым». Буквальный образ современному говорящему непрозрачен, поэтому пытаться логически выводить значение из veslo «весло» не стоит.",
+      "keyword": "nisam sisao vesla"
+    },
+    {
       "headword_latin": "Nisu čista posla",
       "type": "frazeologizam",
       "definition_ru": "дело нечисто; здесь что-то не так; попахивает чем-то подозрительным",
@@ -13725,6 +13911,33 @@
       ],
       "note": "Выражение характеризует человека, который не приспосабливается к мнению большинства, сопротивляется общественному давлению и отстаивает собственные убеждения. Противоположная конструкция — plivati niz struju: следовать за большинством, подчиняться господствующей моде или идеологии.",
       "keyword": "struja"
+    },
+    {
+      "headword_latin": "Pljunuti pa polizati",
+      "type": "frazeologizam",
+      "definition_ru": "взять свои слова обратно; переобуться; отказаться от того, что сам говорил",
+      "synonyms_sr": [
+        "povući reč",
+        "poreći svoje reči",
+        "promeniti priču",
+        "odreći se onoga što je rekao"
+      ],
+      "literal_ru": "плюнуть, а потом слизать",
+      "register": "razg., grublje, izrazito neodobr.; obično o javnoj i ponižavajućoj promeni stava",
+      "examples": [
+        {
+          "serbian_latin": "Pljunuo, pa polizao: Brajan Hojt Ji povukao izjavu.",
+          "russian": "Плюнул, а потом слизал: Брайан Хойт Йи взял своё заявление обратно.",
+          "source": "Srbija Danas, 2017"
+        },
+        {
+          "serbian_latin": "Pljunuo, pa polizao!",
+          "russian": "Сначала сказал одно, а потом пошёл на попятную!",
+          "source": "Alo, 2026"
+        }
+      ],
+      "note": "Это гораздо сильнее нейтрального povući izjavu. Говорящий обвиняет человека в непоследовательности и подчёркивает унизительность отступления: сначала демонстративно «плюнул», а затем вынужден «слизать». Очень характерно для политической полемики и таблоидных заголовков.",
+      "keyword": "pljunuti pa polizati"
     },
     {
       "headword_latin": "Po jutru se dan poznaje",
@@ -17520,6 +17733,33 @@
       "keyword": "spustiti na zemlju"
     },
     {
+      "headword_latin": "Srati kvake",
+      "type": "sleng",
+      "definition_ru": "нести чушь; молоть ерунду; нести х*рню",
+      "synonyms_sr": [
+        "lupati",
+        "trabunjati",
+        "pričati gluposti",
+        "kenjati bez veze (vulg.)"
+      ],
+      "literal_ru": "ср*ть дверными ручками",
+      "register": "sleng, vulgarno, grubo; naročito često kao replika Ne seri kvake!",
+      "examples": [
+        {
+          "serbian_latin": "Bakina sestra sere kvake.",
+          "russian": "Бабушкина сестра несёт какую-то х*рню.",
+          "source": "Reddit/AskSerbia, 2025"
+        },
+        {
+          "serbian_latin": "Ma ne seri kvake!",
+          "russian": "Да не неси х*рню!",
+          "source": "Vukajlija, 2011"
+        }
+      ],
+      "note": "Выражение значительно грубее нейтральных pričati gluposti и lupati. Оно может характеризовать постоянную бессмысленную болтовню или служить самостоятельным раздражённым возражением: Ne seri kvake! Происхождение точно не установлено; в интернете встречаются красочные народные объяснения, но надёжного подтверждения у них нет.",
+      "keyword": "srati kvake"
+    },
+    {
       "headword_latin": "srce je nekome sišlo u pete",
       "type": "фразеологизм",
       "definition_ru": "Кто-либо сильно испугался; у кого-либо душа ушла в пятки.",
@@ -20742,6 +20982,33 @@
       ],
       "note": "В русском образ «таскать каштаны из огня» известен, но заметно менее разговорный и часто подразумевает выполнение опасной работы в чужих интересах. В современном сербском выражение шире и очень живо: игрок или тренер может vaditi kestenje iz vatre, просто спасая команду из тяжёлой ситуации.",
       "keyword": "kestenje iz vatre"
+    },
+    {
+      "headword_latin": "Vatreno krštenje",
+      "type": "frazeologizam",
+      "definition_ru": "боевое крещение; первое серьёзное испытание",
+      "synonyms_sr": [
+        "prvo veliko iskušenje",
+        "prvi ozbiljan test",
+        "težak debi",
+        "prvo pravo iskustvo"
+      ],
+      "literal_ru": "огненное крещение",
+      "register": "neutralno-publicistički, ekspresivno; prvobitno vojno, danas široko preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Ovo će biti vatreno krštenje za obojicu.",
+          "russian": "Для обоих это станет настоящим боевым крещением.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Vatreno krštenje imali su krajem januara.",
+          "russian": "Боевое крещение они получили в конце января.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Первоначально vatreno krštenje — первый опыт реального боя под огнём. Сейчас выражение намного шире: первое серьёзное испытание спортсмена, тренера, актёра, политика, новой техники и т. п. Русское «боевое крещение» функционально почти полностью совпадает, хотя сербский сохраняет прилагательное vatreno «огненное».",
+      "keyword": "vatreno krštenje"
     },
     {
       "headword_latin": "Visiti o koncu",
