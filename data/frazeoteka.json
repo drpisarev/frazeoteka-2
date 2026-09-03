@@ -27,32 +27,6 @@
       "keyword": "Ahilova peta"
     },
     {
-      "headword_latin": "Ako laže koza, ne laže rog",
-      "type": "poslovica",
-      "definition_ru": "факты не врут; вот доказательство; против очевидного не поспоришь",
-      "synonyms_sr": [
-        "činjenice ne lažu",
-        "dokaz govori za sebe",
-        "vidi se crno na belo"
-      ],
-      "literal_ru": "если коза врёт, рог не врёт",
-      "register": "poslovica, razg.; takođe ako koza laže, rog ne laže",
-      "examples": [
-        {
-          "serbian_latin": "Ako koza laže, rog ne laže – tu je račun.",
-          "russian": "Если словам не верите, вот чек: факты не врут.",
-          "source": "BBC na srpskom / Danas, 2021"
-        },
-        {
-          "serbian_latin": "Pa ako laže koza, ne laže rog.",
-          "russian": "Ну а если словам не верите — доказательство налицо.",
-          "source": "Danas, 2025"
-        }
-      ],
-      "note": "Выражение употребляют, когда спор можно прекратить предъявлением материального доказательства: документа, фотографии, счёта, цифр, видимого следа. Rog здесь — то, что осталось как объективный «вещественный свидетель». Русскому обычно естественнее «факты — упрямая вещь» или «вот доказательство».",
-      "keyword": "ako laže koza ne laže rog"
-    },
-    {
       "headword_latin": "Bacati / baciti bisere pred svinje",
       "type": "frazeologizam",
       "definition_ru": "метать бисер перед свиньями; предлагать что-то ценное тому, кто не способен это понять или оценить",
@@ -2730,32 +2704,6 @@
       "keyword": "čovek se drži za reč vo za rogove"
     },
     {
-      "headword_latin": "Čovek se uči dok je živ",
-      "type": "poslovica",
-      "definition_ru": "век живи — век учись; человек учится всю жизнь",
-      "synonyms_sr": [
-        "uvek ima nešto novo da se nauči",
-        "učenje traje celog života",
-        "nikad nije kasno za učenje"
-      ],
-      "literal_ru": "человек учится, пока жив",
-      "register": "poslovica, neutralno; često se ironično proširuje i preinačava",
-      "examples": [
-        {
-          "serbian_latin": "Čovek se uči dok je živ. Tek sam na početku nove karijere i ima dosta stvari koje treba da naučim.",
-          "russian": "Век живи — век учись. Я только в начале новой карьеры, и мне ещё многому предстоит научиться.",
-          "source": "Politika, 2015"
-        },
-        {
-          "serbian_latin": "Čovek se uči dok je živ. A neki i duže od toga.",
-          "russian": "Век живи — век учись. А некоторые, похоже, и дольше.",
-          "source": "Danas, 2008"
-        }
-      ],
-      "note": "Русское «век живи — век учись» — функционально точный эквивалент. Сербская формула буквально привязывает обучение ко всей продолжительности жизни. Благодаря узнаваемости её часто иронически продолжают или переделывают.",
-      "keyword": "čovek se uči dok je živ"
-    },
-    {
       "headword_latin": "Čovek snuje, Bog određuje",
       "type": "izreka",
       "definition_ru": "человек предполагает, а Бог располагает; мы строим планы, а жизнь решает по-своему",
@@ -2932,32 +2880,6 @@
       ],
       "note": "Фразеографически ćorav posao определяется как uzaludno, beskorisno upuštanje u što — бесполезное занятие или предприятие. Русское «гиблое дело» хорошо передаёт разговорную оценку, но иногда слишком драматично: сербское выражение может означать просто «бесперспективная возня, пустая трата сил».",
       "keyword": "ćorav posao"
-    },
-    {
-      "headword_latin": "Ćutanje je zlato",
-      "type": "poslovica",
-      "definition_ru": "молчание — золото; иногда лучше промолчать",
-      "synonyms_sr": [
-        "bolje je ćutati",
-        "ne treba sve reći",
-        "mudro je prećutati"
-      ],
-      "literal_ru": "молчание — золото",
-      "register": "poslovica; često se upotrebljava i ozbiljno i ironično",
-      "examples": [
-        {
-          "serbian_latin": "Narod kaže: ćutanje je zlato, a šta vi kažete?",
-          "russian": "Народ говорит: молчание — золото. А что скажете вы?",
-          "source": "Radio Beograd 2 / RTS, 2023"
-        },
-        {
-          "serbian_latin": "Ćutanje je zlato.",
-          "russian": "Молчание — золото.",
-          "source": "Danas, 2012"
-        }
-      ],
-      "note": "В современной речи поговорку очень часто ставят под сомнение: ćutanje nije uvek zlato. Расширенная международная формула известна как противопоставление речи и молчания, но сербское самостоятельное ćutanje je zlato совершенно достаточно и гораздо чаще выступает как готовая реплика.",
-      "keyword": "ćutanje je zlato"
     },
     {
       "headword_latin": "ćutati kao zaliven",
@@ -3681,32 +3603,6 @@
       ],
       "note": "Оборот не обязательно связан с настоящей болью: он просто усиливает признак. Особенно характерны сочетания glup do bola, iskren do bola, dosadan do bola, jednostavan do bola. В качестве основной сербской формы выбираем do bola; вариант do boli также встречается, но более характерен для хорватского употребления.",
       "keyword": "do bola"
-    },
-    {
-      "headword_latin": "Dobar glas daleko se čuje",
-      "type": "poslovica",
-      "definition_ru": "добрая слава далеко идёт; хорошая репутация быстро распространяется",
-      "synonyms_sr": [
-        "dobar ugled se širi",
-        "dobro ime se daleko čuje",
-        "ljudi prenose dobru preporuku"
-      ],
-      "literal_ru": "хороший голос далеко слышен",
-      "register": "poslovica; glas ovde može značiti glas, ali i molvu, reputaciju",
-      "examples": [
-        {
-          "serbian_latin": "Dobar glas daleko se čuje, a Miroslav Ilić ima glas za koji se čulo mnogo dalje od granica naše države.",
-          "russian": "Добрая слава далеко идёт, а голос Мирослава Илича слышен далеко за пределами нашей страны.",
-          "source": "Danas, 2008"
-        },
-        {
-          "serbian_latin": "Dobar glas daleko se čuje!",
-          "russian": "Добрая слава далеко идёт!",
-          "source": "RTS, 2026"
-        }
-      ],
-      "note": "Для русского главная ловушка — glas: здесь это не обязательно физический «голос», а также молва и репутация. Первый пример особенно наглядно обыгрывает сразу оба значения. Русское «добрая слава далеко идёт» близко по смыслу, хотя сегодня звучит несколько пословичнее, чем сербская формула.",
-      "keyword": "dobar glas daleko se čuje"
     },
     {
       "headword_latin": "Dobijati / dobiti mrvice",
@@ -4628,33 +4524,6 @@
       ],
       "note": "Сербский и русский образы почти совпадают, только по-русски естественнее «короткий поводок», а не «короткая цепь». Оборот предполагает постоянный строгий контроль и ограниченную самостоятельность, а не разовое давление.",
       "keyword": "na kratkom lancu"
-    },
-    {
-      "headword_latin": "Držati nekoga na kratkom povocu",
-      "type": "frazeologizam",
-      "definition_ru": "держать на коротком поводке; жёстко контролировать; не давать свободы действий",
-      "synonyms_sr": [
-        "strogo kontrolisati",
-        "držati pod kontrolom",
-        "ograničavati slobodu",
-        "držati nekoga u zavisnosti"
-      ],
-      "literal_ru": "держать кого-то на коротком поводке",
-      "register": "razg.-publicistički, neodobr.; o čoveku, zaposlenom, političaru, organizaciji, medijima i sl.",
-      "examples": [
-        {
-          "serbian_latin": "Direktori na kratkom povocu biće „efikasniji“, ali u čemu?",
-          "russian": "Директора на коротком поводке будут «эффективнее», но в чём именно?",
-          "source": "Danas, 2021"
-        },
-        {
-          "serbian_latin": "Vođi su najlojalniji grešnici koje drži na kratkom povocu.",
-          "russian": "Вождю наиболее преданы те провинившиеся, которых он держит на коротком поводке.",
-          "source": "Danas, 2026"
-        }
-      ],
-      "note": "Русский эквивалент практически полный. Kratak povodac предполагает не просто контроль, а зависимость: контролируемому оставляют очень мало пространства для самостоятельного решения. Возможна и именная конструкция biti na kratkom povocu.",
-      "keyword": "na kratkom povocu"
     },
     {
       "headword_latin": "Držati nekoga u šaci",
@@ -5901,32 +5770,6 @@
       ],
       "note": "Zjale связано со zjalo — «разинутый рот, пасть», а также с представлением о пустоте; отсюда zjakati «глазеть, бездельничать». В современном сербском hvatati zjale прежде всего означает бесцельно проводить время. Не путать с prodavati zjale: формы пересекаются в значении безделья, но последняя исторически допускает также образ «продавать пустоту».",
       "keyword": "zjale"
-    },
-    {
-      "headword_latin": "I ćorava koka zrno ubode",
-      "type": "poslovica",
-      "definition_ru": "и палка раз в год стреляет; даже неудачнику иногда случайно везёт",
-      "synonyms_sr": [
-        "i početniku se nekad posreći",
-        "slučajno pogoditi",
-        "imati sreće jednom"
-      ],
-      "literal_ru": "и слепая курица иногда клюнет зерно",
-      "register": "poslovica, razg., iron.-neodobr.; varijanta i ćorava koka ubode neko zrno",
-      "examples": [
-        {
-          "serbian_latin": "No, „i ćorava koka ubode neko zrno“.",
-          "russian": "Но и палка раз в год стреляет.",
-          "source": "Danas, 2014"
-        },
-        {
-          "serbian_latin": "Sećam se da se pričalo: „I ćorava koka zrno ubode.“",
-          "russian": "Помню, говорили: даже слепой курице иногда зерно попадается.",
-          "source": "Nova.rs, 2025"
-        }
-      ],
-      "note": "Пословица обесценивает чужой успех, представляя его случайностью: человек обычно ничего особенного не умеет, но на этот раз ему повезло. Поэтому она легко звучит обидно. Ćorav в самой устойчивой формуле нормально, но при прямом обозначении незрячего человека сегодня может восприниматься грубо.",
-      "keyword": "ćorava koka zrno ubode"
     },
     {
       "headword_latin": "I mirna Bosna",
@@ -8025,58 +7868,6 @@
       "keyword": "kad na vrbi rodi grožđe"
     },
     {
-      "headword_latin": "Kadija te tuži, kadija ti sudi",
-      "type": "poslovica",
-      "definition_ru": "и обвинитель, и судья — одно лицо; жаловаться некому; суд заведомо пристрастен",
-      "synonyms_sr": [
-        "isti te optužuje i presuđuje",
-        "nema nepristrasnog sudije",
-        "nema kome da se žališ"
-      ],
-      "literal_ru": "кадий тебя обвиняет, кадий тебя и судит",
-      "register": "poslovica, neodobr.; o sukobu interesa i situaciji u kojoj ista strana optužuje i odlučuje",
-      "examples": [
-        {
-          "serbian_latin": "Kadija te tuži, kadija ti sudi.",
-          "russian": "И обвинитель, и судья — один и тот же человек.",
-          "source": "Danas, 2017"
-        },
-        {
-          "serbian_latin": "„Kadija te tuži, kadija ti sudi.“ Ova stara srpska izreka na najbolji način može da opiše ponašanje sudije.",
-          "russian": "«Кадий тебя обвиняет, кадий тебя и судит». Эта старая сербская поговорка как нельзя лучше описывает поведение судьи.",
-          "source": "Blic, 2007"
-        }
-      ],
-      "note": "Kadija — историческое название мусульманского судьи в Османской империи. Сегодня религиозного значения в пословице практически нет: это готовая формула для ситуации, когда орган или человек сам обвиняет, сам рассматривает дело и сам принимает решение.",
-      "keyword": "kadija te tuži kadija ti sudi"
-    },
-    {
-      "headword_latin": "Kako seješ, tako žanješ",
-      "type": "poslovica",
-      "definition_ru": "что посеешь, то и пожнёшь; как аукнется, так и откликнется",
-      "synonyms_sr": [
-        "kako radiš, tako ti se vraća",
-        "dobiješ ono što zaslužiš",
-        "dela imaju posledice"
-      ],
-      "literal_ru": "как сеешь, так и жнёшь",
-      "register": "poslovica; o zakonitim posledicama sopstvenih postupaka",
-      "examples": [
-        {
-          "serbian_latin": "Uostalom, „kako seješ, tako žanješ“, kažu i Bošnjaci i Srbi.",
-          "russian": "В конце концов, что посеешь, то и пожнёшь, говорят и бошняки, и сербы.",
-          "source": "Danas, 2013"
-        },
-        {
-          "serbian_latin": "U životu, kako seješ tako žanješ.",
-          "russian": "В жизни что посеешь, то и пожнёшь.",
-          "source": "Sport Klub / N1, 2021"
-        }
-      ],
-      "note": "Русский и сербский образы практически идентичны. Встречается также близкий вариант kako seješ, tako kusaš, где kusati означает «есть ложкой, хлебать»: результатом приходится самому «есть» то, что создал своими действиями.",
-      "keyword": "kako seješ tako žanješ"
-    },
-    {
       "headword_latin": "Kamen oko vrata",
       "type": "frazeologizam",
       "definition_ru": "тяжёлое бремя; обуза; то, что постоянно мешает двигаться вперёд",
@@ -8333,32 +8124,6 @@
       ],
       "note": "Значение и образ практически полностью совпадают с русским. Самая типичная модель — grad je kao na dlanu или sve se vidi kao na dlanu. В переносном употреблении так можно сказать и о ситуации, фактах или чьих-либо намерениях, если они совершенно очевидны.",
       "keyword": "kao na dlanu"
-    },
-    {
-      "headword_latin": "Kao od brega odvaljen",
-      "type": "frazeologizam",
-      "definition_ru": "здоровенный; могучего сложения; косая сажень в плечах",
-      "synonyms_sr": [
-        "krupan i snažan",
-        "grdosija od čoveka",
-        "jak i razvijen"
-      ],
-      "literal_ru": "будто отломлен от горы",
-      "register": "razg., ekspresivno; pretežno o krupnom, visokom i fizički snažnom muškarcu",
-      "examples": [
-        {
-          "serbian_latin": "Herakle je superheroj. Kao od brega odvaljen, gvozdene mišice, priglupi duh.",
-          "russian": "Геракл — супергерой: здоровенный, словно из скалы высеченный, с железными мышцами.",
-          "source": "Danas, 2019"
-        },
-        {
-          "serbian_latin": "Visok i krupan, delovao je kao od brega odvaljen.",
-          "russian": "Высокий и крупный, он выглядел настоящим богатырём.",
-          "source": "Blic, 2025"
-        }
-      ],
-      "note": "Breg — холм, возвышенность, но образ выражения предполагает огромную массивную глыбу: человек словно «отломлен от горы». Это прежде всего характеристика телосложения, а не просто силы. Русские «здоровенный как шкаф» или «косая сажень в плечах» передают функцию лучше буквального перевода.",
-      "keyword": "kao od brega odvaljen"
     },
     {
       "headword_latin": "Kao od majke rođen",
@@ -8745,58 +8510,6 @@
       "keyword": "ko čeka taj dočeka"
     },
     {
-      "headword_latin": "Ko drugome jamu kopa, sam u nju upada",
-      "type": "poslovica",
-      "definition_ru": "не рой другому яму — сам в неё попадёшь; зло возвращается к тому, кто его задумал",
-      "synonyms_sr": [
-        "ko čini zlo, zlo mu se vraća",
-        "zlo se vraća zlom",
-        "sam sebi spremiti zamku"
-      ],
-      "literal_ru": "кто другому яму роет, сам в неё падает",
-      "register": "poslovica, opšteupotrebljivo; takođe ko drugome jamu kopa, sam će u nju pasti",
-      "examples": [
-        {
-          "serbian_latin": "Putin Zapadu: „Ko drugome jamu kopa, sam u nju upada.“",
-          "russian": "Путин Западу: «Не рой другому яму — сам в неё попадёшь».",
-          "source": "RTS, 2025"
-        },
-        {
-          "serbian_latin": "Izreka „Ko drugome jamu kopa sam u nju upada“ često može da se primeni baš u šahu.",
-          "russian": "Поговорка «не рой другому яму — сам в неё попадёшь» часто применима именно к шахматам.",
-          "source": "Danas, 2007"
-        }
-      ],
-      "note": "Сербская и русская пословицы практически полностью совпадают. Образ употребляется не только о сознательной мести: человек может сам пострадать от интриги, ловушки или хитрости, которую готовил для другого.",
-      "keyword": "ko drugome jamu kopa"
-    },
-    {
-      "headword_latin": "Ko ne plati na mostu, platiće na ćupriji",
-      "type": "poslovica",
-      "definition_ru": "не заплатишь сейчас — заплатишь потом; от расплаты не уйти",
-      "synonyms_sr": [
-        "sve dođe na naplatu",
-        "račun se kad-tad plati",
-        "od posledica se ne može pobeći"
-      ],
-      "literal_ru": "кто не заплатит на мосту, заплатит на ћуприи",
-      "register": "poslovica; takođe ko ne plati na mostu, plati na ćupriji",
-      "examples": [
-        {
-          "serbian_latin": "Ko ne plati na mostu, platiće na ćupriji.",
-          "russian": "Не заплатишь сейчас — всё равно придётся заплатить позже.",
-          "source": "RTS, 2025"
-        },
-        {
-          "serbian_latin": "Ko ne plati na mostu, platiće na ćupriji.",
-          "russian": "От расплаты всё равно не уйти.",
-          "source": "Danas, 2007"
-        }
-      ],
-      "note": "Most и турцизм ćuprija обозначают мост, поэтому комизм строится на двух названиях практически одного объекта. Смысл не в дорожной пошлине как таковой: если избежать цены, обязательства или последствий в одном месте, они настигнут в другом. Особенно часто выражение употребляют об отложенных проблемах и экономии, которая позже обходится дороже.",
-      "keyword": "ko ne plati na mostu platiće na ćupriji"
-    },
-    {
       "headword_latin": "Ko nema u glavi, ima u nogama",
       "type": "poslovica",
       "definition_ru": "дурная голова ногам покоя не даёт; забыл подумать — придётся побегать",
@@ -9087,32 +8800,6 @@
       ],
       "note": "Значение практически полностью совпадает с русской пословицей. Речь не обязательно о буквальном смехе: формула предупреждает, что промежуточное преимущество ещё не означает окончательной победы. Поэтому она особенно частотна в спорте, политическом соперничестве и конфликтных репликах.",
       "keyword": "ko se zadnji smeje"
-    },
-    {
-      "headword_latin": "Ko visoko leti, nisko pada",
-      "type": "poslovica",
-      "definition_ru": "высоко взлетишь — больно падать; кто слишком заносится, тот может низко пасть",
-      "synonyms_sr": [
-        "ne uznositi se",
-        "oholost se obija o glavu",
-        "veliki uspon može završiti velikim padom"
-      ],
-      "literal_ru": "кто высоко летает, низко падает",
-      "register": "poslovica, upozoravajuće; o preteranoj samouverenosti, ambiciji ili oholosti",
-      "examples": [
-        {
-          "serbian_latin": "Ko visoko leti, nisko pada – Kamerun za tri minuta „orlove“ spustio na zemlju.",
-          "russian": "Кто высоко взлетает, тот низко падает: Камерун за три минуты спустил «орлов» с небес на землю.",
-          "source": "RTS, 2022"
-        },
-        {
-          "serbian_latin": "Izreka kaže: ko visoko leti, nisko pada.",
-          "russian": "Как говорится: кто слишком высоко взлетает, тот низко падает.",
-          "source": "Radio Beograd 1 / RTS, 2016"
-        }
-      ],
-      "note": "Пословица обычно не о буквальном «высоком полёте», а о человеке, который слишком возомнил о себе или рассчитывает на чрезмерно большой успех. Русского полного устойчивого аналога нет; в зависимости от контекста подходят «высоко взлетел — больно падать», «не задирай нос».",
-      "keyword": "ko visoko leti nisko pada"
     },
     {
       "headword_latin": "Ko zna zašto je to dobro",
@@ -10389,33 +10076,6 @@
       "keyword": "na krv i nož"
     },
     {
-      "headword_latin": "Na kukovo leto",
-      "type": "frazeologizam",
-      "definition_ru": "когда рак на горе свистнет; неизвестно когда; никогда",
-      "synonyms_sr": [
-        "nikad",
-        "ko zna kada",
-        "jednog lepog dana (iron.)",
-        "kad na vrbi rodi grožđe"
-      ],
-      "literal_ru": "",
-      "register": "razg., iron.; o događaju koji se stalno odlaže ili se verovatno nikada neće dogoditi",
-      "examples": [
-        {
-          "serbian_latin": "Vanredni parlamentarni izbori na kukovo leto.",
-          "russian": "Досрочные парламентские выборы — когда рак на горе свистнет.",
-          "source": "Danas, 2026"
-        },
-        {
-          "serbian_latin": "Je l’ to na kukovo leto?",
-          "russian": "Это что, когда рак на горе свистнет?",
-          "source": "Danas, 2007"
-        }
-      ],
-      "note": "Выражение означает неопределённо далёкое время с сильным намёком на «никогда». Оно близко kad na vrbi rodi grožđe, но na kukovo leto удобно употребляется как обычное обстоятельство времени: biće to na kukovo leto. Происхождение образа точно не установлено.",
-      "keyword": "na kukovo leto"
-    },
-    {
       "headword_latin": "Na mala vrata",
       "type": "frazeologizam",
       "definition_ru": "исподволь; незаметно; обходным путём; без открытого объявления",
@@ -10985,32 +10645,6 @@
       "keyword": "natovariti na vrat"
     },
     {
-      "headword_latin": "Navika je druga priroda",
-      "type": "izreka",
-      "definition_ru": "привычка — вторая натура; сила привычки",
-      "synonyms_sr": [
-        "čovek se navikne",
-        "navike oblikuju čoveka",
-        "teško je menjati navike"
-      ],
-      "literal_ru": "привычка — вторая природа",
-      "register": "izreka / poslovica; neutralno; o duboko ukorenjenom uobičajenom ponašanju",
-      "examples": [
-        {
-          "serbian_latin": "Nema plača, nema mrzovolje — „navika je druga priroda“, kaže stara ljudska mudrost.",
-          "russian": "Ни плача, ни капризов: привычка — вторая натура, как говорит старая мудрость.",
-          "source": "RTS, 2018"
-        },
-        {
-          "serbian_latin": "Ponekad nešto zaboravim, ali telo me opomene. Navika je druga priroda.",
-          "russian": "Иногда я что-нибудь забываю, но организм сам мне напоминает: привычка — вторая натура.",
-          "source": "Politika, 2012"
-        }
-      ],
-      "note": "Это международная формула, известная ещё из античной традиции. Priroda здесь означает не окружающую природу, а «натуру, естество человека». Русский эквивалент практически полный.",
-      "keyword": "navika je druga priroda"
-    },
-    {
       "headword_latin": "Navoditi / terati vodu na svoju vodenicu",
       "type": "frazeologizam",
       "definition_ru": "тянуть одеяло на себя; поворачивать всё в свою пользу; извлекать выгоду для себя",
@@ -11303,32 +10937,6 @@
       ],
       "note": "Как и русское «позволить себе», priuštiti sebi давно вышло за пределы денег: Ne mogu sebi da priuštim da zakasnim / da pogrešim / taj luksuz. Возможен и порядок ne mogu da priuštim sebi, но ne mogu sebi da priuštim очень естественно.",
       "keyword": "priuštiti sebi"
-    },
-    {
-      "headword_latin": "Ne može i jare i pare",
-      "type": "poslovica",
-      "definition_ru": "нельзя получить и то и другое; нельзя и товар оставить, и деньги получить; за выбор приходится платить",
-      "synonyms_sr": [
-        "ne može sve",
-        "moraš nešto da izabereš",
-        "nešto moraš da žrtvuješ"
-      ],
-      "literal_ru": "нельзя и козлёнка, и деньги",
-      "register": "poslovica, razg., često šalj.; o nespojivim koristima ili zahtevima",
-      "examples": [
-        {
-          "serbian_latin": "Ili, kako bi to rekli u Srbiji: „Ne može: i jare i pare!“",
-          "russian": "Или, как сказали бы в Сербии: нельзя получить всё сразу.",
-          "source": "Radio Beograd 1 / RTS, 2025"
-        },
-        {
-          "serbian_latin": "Međutim, ne može i jare i pare.",
-          "russian": "Но нельзя получить и то и другое.",
-          "source": "Sport Klub, 2013"
-        }
-      ],
-      "note": "Образ торговый: продавец не может одновременно сохранить jare «козлёнка» и получить за него pare «деньги». По функции выражение близко английскому have your cake and eat it too; по-русски чаще приходится переводить «нельзя усидеть на двух стульях», «нельзя получить всё сразу» — в зависимости от ситуации.",
-      "keyword": "jare i pare"
     },
     {
       "headword_latin": "Ne može šut s rogatim",
@@ -12552,59 +12160,6 @@
       ],
       "note": "Русский оборот формально совпадает, но сербское выражение особенно естественно для описания человека, которого горе, страх или шок словно лишили нормальной жизни. Возможен и иной контекст — о пропавшем без вести, когда буквально неизвестно, жив человек или мёртв; значение тогда уже не чисто фразеологическое.",
       "keyword": "ni živ ni mrtav"
-    },
-    {
-      "headword_latin": "Ničija nije do zore gorela",
-      "type": "poslovica",
-      "definition_ru": "ничья власть не вечна; всему приходит конец; сколько верёвочке ни виться...",
-      "synonyms_sr": [
-        "ničija moć ne traje večno",
-        "svakome dođe kraj",
-        "ničije nije doveka"
-      ],
-      "literal_ru": "ничья не горела до рассвета",
-      "register": "poslovica, upozoravajuće ili zlurado-utešno; naročito o vlasti, moći, nadmoći i nekažnjivosti",
-      "examples": [
-        {
-          "serbian_latin": "„Ničija nije gorela do zore“, poručio je Lazović.",
-          "russian": "«Ничья власть не вечна», — заявил Лазович.",
-          "source": "N1, 2021"
-        },
-        {
-          "serbian_latin": "Ali moć bude i prođe, ničija do zore nije gorela.",
-          "russian": "Но власть приходит и уходит: ничто не длится вечно.",
-          "source": "Politika, 2022"
-        }
-      ],
-      "note": "Сегодня выражение прежде всего напоминает, что власть, удача или превосходство не могут длиться бесконечно. Форма варьирует: ničija nije do zore gorela и ničija do zore nije gorela. Для русского буквальный перевод малоестественен; чаще нужны «ничья власть не вечна», «всему приходит конец».",
-      "keyword": "ničija nije do zore gorela"
-    },
-    {
-      "headword_latin": "Nije beg cicija",
-      "type": "izreka",
-      "definition_ru": "гулять так гулять; не будем мелочиться; не жадничай",
-      "synonyms_sr": [
-        "ne škrtariti",
-        "ne žaliti pare",
-        "biti široke ruke",
-        "častiti"
-      ],
-      "literal_ru": "бей — не скряга",
-      "register": "razg., šalj.-iron.; obično pri demonstrativnoj darežljivosti ili odluci da se potroši više",
-      "examples": [
-        {
-          "serbian_latin": "Pa nek platimo. Nije beg cicija.",
-          "russian": "Ну и заплатим. Гулять так гулять.",
-          "source": "Blic, 2005"
-        },
-        {
-          "serbian_latin": "Nije beg cicija i izvesno bi vlasnik PAO odvojio novac za najboljeg igrača na svetu.",
-          "russian": "Хозяин не станет мелочиться и наверняка выложит деньги за лучшего игрока мира.",
-          "source": "Sport Klub, 2026"
-        }
-      ],
-      "note": "Beg — османский титул, cicija — «скряга, жмот». Современная фраза чаще звучит шуточно: говорящий оправдывает щедрый жест, лишний расход или добавление «ещё чего-нибудь». Русские «гулять так гулять» и «не будем мелочиться» передают её лучше буквального перевода.",
-      "keyword": "nije beg cicija"
     },
     {
       "headword_latin": "Nije kome je rečeno, nego kome je suđeno",
@@ -13942,33 +13497,6 @@
       ],
       "note": "Выражение употребляется как об эмиграции, так и о переезде из небольшого города в Белград или другой экономический центр.",
       "keyword": "trbuh; kruh"
-    },
-    {
-      "headword_latin": "Otići u nepovrat",
-      "type": "frazeologizam",
-      "definition_ru": "уйти безвозвратно; кануть в прошлое; быть навсегда утраченным",
-      "synonyms_sr": [
-        "zauvek nestati",
-        "nepovratno se izgubiti",
-        "propasti",
-        "više se ne vratiti"
-      ],
-      "literal_ru": "уйти в невозврат",
-      "register": "neutralno-knjiški do publicistički; o novcu, vremenu, tradiciji, prilikama, prošlosti i sl.",
-      "examples": [
-        {
-          "serbian_latin": "Postojao je nacrt ugovora sa jednim kupcem u SAD vredan 50 miliona dolara i sve je to otišlo u nepovrat.",
-          "russian": "Был проект контракта с американским покупателем на 50 миллионов долларов, но всё это безвозвратно пропало.",
-          "source": "RTS, 2016"
-        },
-        {
-          "serbian_latin": "Sve je otišlo u nepovrat u Novom Sadu 5. septembra.",
-          "russian": "Пятого сентября в Нови-Саде всё окончательно и безвозвратно изменилось.",
-          "source": "Danas, 2025"
-        }
-      ],
-      "note": "Nepovrat сегодня почти не нужен как самостоятельное бытовое существительное, зато устойчивое otići u nepovrat очень живо. Объект не обязательно физически исчезает: в неповрат могут уйти деньги, шанс, молодость, прежний порядок или доверие. Поэтому русский перевод часто требует «безвозвратно потерять», «кануть в прошлое».",
-      "keyword": "otići u nepovrat"
     },
     {
       "headword_latin": "Otkriti toplu vodu",
@@ -15474,33 +15002,6 @@
       ],
       "note": "Употребляются формы разных видов и времён: gledati istini u oči, pogledati istini u oči, morati pogledati istini u oči.",
       "keyword": "istina"
-    },
-    {
-      "headword_latin": "Pojeo vuk magarca",
-      "type": "frazeologizam",
-      "definition_ru": "дело замяли; и концы в воду; всё сошло с рук",
-      "synonyms_sr": [
-        "stvar je zataškana",
-        "nikom ništa",
-        "sve je palo u zaborav",
-        "niko nije odgovarao"
-      ],
-      "literal_ru": "волк съел осла",
-      "register": "razg., iron.-neodobr.; naročito o skandalu, prekršaju ili zločinu koji je ostao bez posledica",
-      "examples": [
-        {
-          "serbian_latin": "Otišao Saša – pojeo vuk magarca.",
-          "russian": "Саша ушёл — и всё, дело замяли.",
-          "source": "Sport Klub, 2026"
-        },
-        {
-          "serbian_latin": "Pošto vrana vrani oči ne vadi, vuk je pojeo magarca.",
-          "russian": "Поскольку ворон ворону глаз не выклюет, всё снова спустили на тормозах.",
-          "source": "Danas, 2008"
-        }
-      ],
-      "note": "Это очень характерная сербская формула о ситуации, где произошло что-то серьёзное, но виновных в итоге не нашли или не наказали и общество постепенно забыло дело. Поэтому буквальный образ русскому ничего не объясняет; функционально ближе «и концы в воду», «дело замяли», «и всё шито-крыто».",
-      "keyword": "pojeo vuk magarca"
     },
     {
       "headword_latin": "Pokazati pravo lice",
@@ -17354,31 +16855,34 @@
       "keyword": "mozak na pašu"
     },
     {
-      "headword_latin": "Pustiti nekoga niz vodu",
-      "type": "frazeologizam",
-      "definition_ru": "бросить; сдать; пожертвовать кем-то; оставить на произвол судьбы",
+      "headword_latin": "pustiti nekoga niz vodu",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Бросить кого-либо на произвол судьбы; прекратить поддержку; предать или пожертвовать кем-либо ради собственных интересов.",
       "synonyms_sr": [
+        "ostaviti nekoga na cedilu",
         "odreći se nekoga",
+        "napustiti nekoga",
         "žrtvovati nekoga",
-        "ostaviti na cedilu",
-        "napustiti nekoga"
+        "uskratiti podršku"
       ],
-      "literal_ru": "пустить кого-то вниз по течению",
-      "register": "razg.-publicistički, neodobr.; obično o osobi ili organizaciji koju prestanu da podržavaju kada postane neugodna ili nekorisna",
+      "literal_ru": "Пустить кого-либо вниз по воде.",
+      "register": "Разговорное, неодобрительное.",
       "examples": [
         {
-          "serbian_latin": "A ona će ga, po svoj prilici, „pustiti niz vodu“.",
-          "russian": "А она, скорее всего, просто его сдаст.",
-          "source": "Danas, 2010"
+          "serbian_latin": "Zašto je Grad „pustio niz vodu“ Apoteku Beograd?",
+          "russian": "Почему город бросил «Аптеку Белград» на произвол судьбы?",
+          "source": "Biznis.rs, 2025",
+          "url": "https://biznis.rs/vesti/srbija/zasto-je-grad-pustio-niz-vodu-apoteku-beograd-u-igri-mozda-i-vise-koncesionara/"
         },
         {
-          "serbian_latin": "Ili će te pustiti niz vodu.",
-          "russian": "Или тебя просто бросят на произвол судьбы.",
-          "source": "Politika, 2007"
+          "serbian_latin": "Nakon KiM Vučić pustio niz vodu i Republiku Srpsku.",
+          "russian": "После Косова и Метохии Вучич отказался поддерживать и Республику Сербскую.",
+          "source": "POKS, 2024",
+          "url": "https://poks.rs/2024/02/08/nakon-kim-vucic-pustio-niz-vodu-i-republiku-srpsku/"
         }
       ],
-      "note": "Это сильнее нейтрального napustiti: часто подразумевается, что раньше человека поддерживали, а затем сознательно пожертвовали им ради собственных интересов. Русские «сдать кого-то», «бросить», «слить» выбираются по регистру. Не путать с буквальным pustiti nešto niz vodu — «пустить что-то по течению».",
-      "keyword": "pustiti niz vodu"
+      "note": "Объектом может быть человек, организация, предприятие, проект или политический союзник. Выражение подчёркивает, что поддержка была прекращена в критический момент.",
+      "keyword": "voda"
     },
     {
       "headword_latin": "Radio Mileva",
@@ -17750,32 +17254,6 @@
       ],
       "note": "Выражение описывает отсутствие порядка и внутренней связи: факты, мысли или части чего-либо набраны отовсюду и плохо состыкованы. Для русского в зависимости от контекста естественны «с бору по сосенке», «как попало», «бессвязно». Встречается и слитный вариант zbrda-zdola.",
       "keyword": "s brda s dola"
-    },
-    {
-      "headword_latin": "S kim si, takav si",
-      "type": "poslovica",
-      "definition_ru": "с кем поведёшься, от того и наберёшься; человека видно по его окружению",
-      "synonyms_sr": [
-        "društvo utiče na čoveka",
-        "po društvu se čovek poznaje",
-        "sličan se sličnom raduje"
-      ],
-      "literal_ru": "с кем ты, такой и ты",
-      "register": "poslovica, često neodobr.; o uticaju okruženja i zaključivanju o čoveku na osnovu njegovog društva",
-      "examples": [
-        {
-          "serbian_latin": "Kažu stari: „S kim si, takav si“.",
-          "russian": "Как говорят старики: с кем поведёшься, от того и наберёшься.",
-          "source": "Politika, 2026"
-        },
-        {
-          "serbian_latin": "Naše izreke „S kim si, takav si“ i „Sličan se sličnom raduje“ sugerišu da ljudi postaju slični onima s kojima provode mnogo vremena.",
-          "russian": "Наши поговорки «с кем поведёшься, от того и наберёшься» и «подобное тянется к подобному» предполагают, что люди становятся похожими на тех, с кем проводят много времени.",
-          "source": "Danas, 2025"
-        }
-      ],
-      "note": "Пословица может говорить и о реальном влиянии компании на человека, и служить способом судить о нём по его друзьям или союзникам. Поэтому в политической речи она нередко приобретает обвинительный оттенок. Русское «с кем поведёшься, от того и наберёшься» сильнее подчёркивает именно изменение под влиянием окружения.",
-      "keyword": "s kim si takav si"
     },
     {
       "headword_latin": "S koca i konopca",
@@ -18626,32 +18104,6 @@
       ],
       "note": "Это не обязательно настоящие трудности. Часто речь идёт о ситуации, когда выбрать сложно именно потому, что хороших вариантов слишком много. Поэтому в спортивной речи trener ima slatke muke почти стандартно говорится о сильном составе и конкуренции за место в команде; в быту оборот шире и может означать любые приятные заботы.",
       "keyword": "slatke muke"
-    },
-    {
-      "headword_latin": "Sličan se sličnom raduje",
-      "type": "poslovica",
-      "definition_ru": "подобное тянется к подобному; свой свояка видит издалека",
-      "synonyms_sr": [
-        "isti se pronalaze",
-        "svaka krpa nađe zakrpu",
-        "slični ljudi se privlače"
-      ],
-      "literal_ru": "подобный подобному радуется",
-      "register": "poslovica; od neutralnog do ironičnog i neodobravajućeg",
-      "examples": [
-        {
-          "serbian_latin": "Naše izreke „S kim si, takav si“ i „Sličan se sličnom raduje“ sugerišu da ljudi postaju slični onima s kojima provode mnogo vremena.",
-          "russian": "Наши поговорки «с кем поведёшься, от того и наберёшься» и «подобное тянется к подобному» говорят о сходстве людей из одного окружения.",
-          "source": "Danas, 2025"
-        },
-        {
-          "serbian_latin": "Ako je to ta koalicija, mogu samo da kažem: sličan se sličnom raduje.",
-          "russian": "Если это и есть та коалиция, могу сказать лишь одно: свой свояка видит издалека.",
-          "source": "N1 / Sport Klub, 2016"
-        }
-      ],
-      "note": "Пословица не обязательно отрицательна: сходные люди действительно могут хорошо понимать друг друга. Но в политической и бытовой полемике её часто произносят с иронией: «неудивительно, что именно эти двое сошлись». Не совпадает полностью со s kim si, takav si: там главное — влияние окружения, здесь — взаимное притяжение похожих людей.",
-      "keyword": "sličan se sličnom raduje"
     },
     {
       "headword_latin": "Slobodan kao ptica",
@@ -20336,31 +19788,6 @@
       "keyword": "svaka škola se plaća"
     },
     {
-      "headword_latin": "Svaki početak je težak",
-      "type": "poslovica",
-      "definition_ru": "всякое начало трудно; начинать всегда тяжело",
-      "synonyms_sr": [
-        "početak nije lak",
-        "treba vremena da se čovek uhoda"
-      ],
-      "literal_ru": "",
-      "register": "poslovica; neutralno, opšteupotrebljivo; o novom poslu, učenju, projektu ili životnoj etapi",
-      "examples": [
-        {
-          "serbian_latin": "Svaki početak je težak. Ali oni koji odluče da posao pokrenu u uslovima koje niko ne može da predvidi imaju daleko veći izazov.",
-          "russian": "Всякое начало трудно. Но тем, кто начинает дело в совершенно непредсказуемых условиях, ещё сложнее.",
-          "source": "RTS, 2021"
-        },
-        {
-          "serbian_latin": "Svaki početak je težak, a našim odbojkašicama [...] nije mogao da bude teži.",
-          "russian": "Всякое начало трудно, но для наших волейболисток оно едва ли могло оказаться ещё труднее.",
-          "source": "Politika, 2008"
-        }
-      ],
-      "note": "Формула очень живая и не обязательно звучит как торжественная «народная мудрость»: её свободно употребляют о первом рабочем дне, новом бизнесе, команде или учёбе. Русское «лиха беда начало» близко, но оптимистичнее; нейтральнее переводить «всякое начало трудно».",
-      "keyword": "svaki početak je težak"
-    },
-    {
       "headword_latin": "Svako čudo za tri dana",
       "type": "poslovica",
       "definition_ru": "любая сенсация живёт три дня; пошумят и забудут; всё быстро забудется",
@@ -22033,33 +21460,6 @@
       "keyword": "Boga za bradu"
     },
     {
-      "headword_latin": "Uhvatiti krivinu",
-      "type": "sleng",
-      "definition_ru": "смыться; увильнуть; улизнуть; уклониться от дела",
-      "synonyms_sr": [
-        "zbrisati (razg.)",
-        "pobeći",
-        "izvući se",
-        "eskivirati (sleng)"
-      ],
-      "literal_ru": "поймать поворот",
-      "register": "razg., sleng; često o neprimetnom odlasku, bekstvu ili izbegavanju obaveze",
-      "examples": [
-        {
-          "serbian_latin": "„Gde vam je treći amigo?“, pitam, uveren da je uhvatio krivinu.",
-          "russian": "«А где ваш третий амиго?» — спрашиваю я, уверенный, что тот просто смылся.",
-          "source": "Danas, 2024"
-        },
-        {
-          "serbian_latin": "Prevarant je shvatio da je otkriven, pa je uhvatio krivinu i dao se u beg.",
-          "russian": "Мошенник понял, что его раскрыли, и тут же дал дёру.",
-          "source": "Blic, 2012"
-        }
-      ],
-      "note": "Особенно характерно значение «вовремя исчезнуть, чтобы не работать, не отвечать или не попасться». При этом сочетание может быть и буквальным — о дороге или искривлении предмета, поэтому фразеологичность определяется контекстом. Разговорное hvatati krivinu может обозначать привычку постоянно увиливать.",
-      "keyword": "uhvatiti krivinu"
-    },
-    {
       "headword_latin": "uhvatiti maglu",
       "type": "фразеологизм",
       "definition_ru": "Быстро уйти или убежать; скрыться.",
@@ -22171,32 +21571,6 @@
       ],
       "note": "Правильно uljudne fraze, поскольку fraza — существительное женского рода. В конкретном контексте русский перевод может быть «вежливые фразы», «формулы вежливости» или просто «любезности». Uljudan — «вежливый, учтивый». Если речь именно об устойчивых формулах вроде Izvolite, Hvala lepo, Drago mi je, удобно также izrazi učtivosti / fraze uljudnosti.",
       "keyword": "uljudne fraze"
-    },
-    {
-      "headword_latin": "Um caruje, snaga klade valja",
-      "type": "poslovica",
-      "definition_ru": "ум правит, сила брёвна ворочает; ум важнее грубой силы",
-      "synonyms_sr": [
-        "pamet je važnija od snage",
-        "razum pobeđuje silu",
-        "glavom, a ne snagom"
-      ],
-      "literal_ru": "ум царствует, сила брёвна ворочает",
-      "register": "poslovica; često se citira i ironično preinačava",
-      "examples": [
-        {
-          "serbian_latin": "Poslovica „Um caruje, snaga klade valja“ zasniva se upravo na komplementarnosti inteligencije i snage.",
-          "russian": "Пословица «ум правит, сила брёвна ворочает» строится на соотношении ума и силы.",
-          "source": "Danas, 2025"
-        },
-        {
-          "serbian_latin": "Um caruje, snaga klade valja.",
-          "russian": "Ум правит, сила брёвна ворочает.",
-          "source": "Danas, 2012"
-        }
-      ],
-      "note": "Klada — тяжёлое бревно, чурбан; valjati klade — ворочать брёвна. Пословица противопоставляет разум простой физической силе, хотя в современном употреблении её иногда трактуют и как идеальное сочетание обоих качеств. Для русского дословный образ понятен, но готовой столь же распространённой пословицы нет.",
-      "keyword": "um caruje snaga klade valja"
     },
     {
       "headword_latin": "Upasti nekome sekira u med",
@@ -22775,58 +22149,6 @@
       ],
       "note": "Хотя слова milo и drago сами по себе положительные, современный оборот чаще означает ответить тем же, особенно на обиду, поражение или неприятный поступок. В спортивной речи оценка мягче: vratiti milo za drago часто просто «взять реванш». Русское «отплатить той же монетой» наиболее универсально.",
       "keyword": "milo za drago"
-    },
-    {
-      "headword_latin": "Vreme je novac",
-      "type": "izreka",
-      "definition_ru": "время — деньги; время имеет цену",
-      "synonyms_sr": [
-        "vreme je dragoceno",
-        "ne treba gubiti vreme",
-        "svaki minut košta"
-      ],
-      "literal_ru": "время — деньги",
-      "register": "izreka, neutralno; međunarodna krilata formula, naročito o poslu, biznisu i efikasnosti",
-      "examples": [
-        {
-          "serbian_latin": "„Vreme je novac“, čuvene su reči Bendžamina Frenklina.",
-          "russian": "«Время — деньги» — знаменитые слова Бенджамина Франклина.",
-          "source": "RTS, 2024"
-        },
-        {
-          "serbian_latin": "Vreme je novac i čekanje košta.",
-          "russian": "Время — деньги, и ожидание тоже имеет свою цену.",
-          "source": "Danas, 2007"
-        }
-      ],
-      "note": "Выражение международное и традиционно связывается с Бенджамином Франклином. В сербском оно совершенно обычное и может употребляться без какой-либо цитатной окраски: чтобы подчеркнуть цену задержки, потерянного рабочего времени или неэффективности.",
-      "keyword": "vreme je novac"
-    },
-    {
-      "headword_latin": "Vreme leči sve rane",
-      "type": "izreka",
-      "definition_ru": "время лечит все раны; со временем боль проходит",
-      "synonyms_sr": [
-        "vreme ublažava bol",
-        "s vremenom bude lakše",
-        "vreme čini svoje"
-      ],
-      "literal_ru": "время лечит все раны",
-      "register": "poslovica / izreka; obično o emocionalnom bolu, gubitku ili raskidu",
-      "examples": [
-        {
-          "serbian_latin": "Kažu da vreme leči sve rane, uključujući i one nastale nakon raskida ljubavne veze.",
-          "russian": "Говорят, что время лечит все раны, в том числе и после разрыва отношений.",
-          "source": "RTS, 2019"
-        },
-        {
-          "serbian_latin": "Stara poslovica glasi da vreme leči sve rane – a to nažalost nije tačno.",
-          "russian": "Старая пословица гласит, что время лечит все раны, хотя, к сожалению, это не всегда так.",
-          "source": "Danas, 2008"
-        }
-      ],
-      "note": "Сербский и русский обороты совпадают почти полностью. В современной речи пословицу нередко употребляют с оговоркой или даже оспаривают: kažu da vreme leči sve rane, ali... Поэтому она может быть как утешением, так и отправной точкой для полемики.",
-      "keyword": "vreme leči sve rane"
     },
     {
       "headword_latin": "Vrteti nekoga oko malog prsta",
@@ -23698,59 +23020,6 @@
       "keyword": "zlo i naopako"
     },
     {
-      "headword_latin": "Zlu ne trebalo",
-      "type": "izraz",
-      "definition_ru": "на всякий случай; на всякий пожарный; не дай бог пригодится",
-      "synonyms_sr": [
-        "za svaki slučaj",
-        "ako zatreba",
-        "ne daj Bože da zatreba"
-      ],
-      "literal_ru": "чтобы для беды не понадобилось",
-      "register": "razg.; ustaljena formula uz stvar ili meru predostrožnosti",
-      "examples": [
-        {
-          "serbian_latin": "Poneli smo svu opremu, sav alat – zlu ne trebalo.",
-          "russian": "Мы взяли всё оборудование и инструменты — на всякий пожарный.",
-          "source": "RTS, 2017"
-        },
-        {
-          "serbian_latin": "Valjda da ga nauči da brzo trči. Zlu ne trebalo.",
-          "russian": "Видимо, чтобы научил его быстро бегать. Мало ли что.",
-          "source": "Nova.rs, 2025"
-        }
-      ],
-      "note": "Это очень сербская бытовая формула для вещи или умения, которое, вероятно, не понадобится, но лучше иметь про запас. По-русски особенно естественно разговорное «на всякий пожарный». Не путать с буквальным пожеланием зла: смысл ровно противоположный — лучше приготовиться к возможной неприятности.",
-      "keyword": "zlu ne trebalo"
-    },
-    {
-      "headword_latin": "Zrno po zrno pogača, kamen po kamen palača",
-      "type": "poslovica",
-      "definition_ru": "по зёрнышку — каравай, по камешку — дворец; мало-помалу можно добиться большого",
-      "synonyms_sr": [
-        "malo-pomalo",
-        "korak po korak",
-        "sitnim koracima do cilja",
-        "sve se gradi postepeno"
-      ],
-      "literal_ru": "зерно за зерном — лепёшка, камень за камнем — дворец",
-      "register": "poslovica; o gomilanju malih napora, iznosa, znanja ili rezultata",
-      "examples": [
-        {
-          "serbian_latin": "Kao što se kod vas kaže, zrno po zrno pogača, kamen po kamen palača.",
-          "russian": "Как у вас говорят: по зёрнышку — каравай, по камешку — дворец.",
-          "source": "RTS, 2026"
-        },
-        {
-          "serbian_latin": "Svaka fabrika je kao zrno po zrno pogača i kamen po kamen palača.",
-          "russian": "Каждая новая фабрика — ещё один небольшой шаг к большому результату.",
-          "source": "Politika, 2022"
-        }
-      ],
-      "note": "Пословица подчёркивает накопительный эффект небольших действий: каждое отдельное zrno или kamen мало, но вместе они создают нечто значительное. В русском нет столь же употребительной формулы с тем же образом; по ситуации подходят «курочка по зёрнышку клюёт», «капля камень точит», «мало-помалу».",
-      "keyword": "zrno po zrno pogača kamen po kamen palača"
-    },
-    {
       "headword_latin": "Zub vremena",
       "type": "frazeologizam",
       "definition_ru": "зуб времени; разрушительное действие времени; следы старения",
@@ -23803,33 +23072,6 @@
       ],
       "note": "Образ связан с тем, что почка окружена жировой тканью, которая служит ей защитой и опорой; отсюда представление о максимально «удобном» положении. В речи выражение нередко ироническое: человек живёт очень комфортно, особенно по сравнению с окружающими.",
       "keyword": "bubreg u loju"
-    },
-    {
-      "headword_latin": "Živeti na visokoj nozi",
-      "type": "frazeologizam",
-      "definition_ru": "жить на широкую ногу; жить роскошно; сорить деньгами",
-      "synonyms_sr": [
-        "živeti luksuzno",
-        "živeti raskošno",
-        "mnogo trošiti",
-        "živeti u izobilju"
-      ],
-      "literal_ru": "жить на высокой ноге",
-      "register": "razg.-publicistički; obično podrazumeva skup način života i velike troškove",
-      "examples": [
-        {
-          "serbian_latin": "Stiv se brzo navikne na luksuz i život „na visokoj nozi“: letovanja, skupu odeću, troškarenje, ekskluzivne restorane.",
-          "russian": "Стив быстро привыкает к роскоши и жизни на широкую ногу: поездкам, дорогой одежде и эксклюзивным ресторанам.",
-          "source": "RTS, 2009"
-        },
-        {
-          "serbian_latin": "I, mada je tamo živeo „na visokoj nozi“, vratio se u Lasu.",
-          "russian": "И хотя там он жил на широкую ногу, всё-таки вернулся в Лхасу.",
-          "source": "Danas, 2015"
-        }
-      ],
-      "note": "Русскому легко сделать кальку «на высокой ноге», но современный русский устойчивый эквивалент — «на широкую ногу». Сербское выражение часто имеет оттенок расточительности: человек не просто обеспечен, а демонстративно много тратит на комфорт и престиж.",
-      "keyword": "na visokoj nozi"
     },
     {
       "headword_latin": "Živi bili pa videli",
