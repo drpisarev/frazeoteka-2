@@ -2995,6 +2995,32 @@
       "keyword": "daleko mu lepa kuća"
     },
     {
+      "headword_latin": "Daleko od očiju, daleko od srca",
+      "type": "izreka",
+      "definition_ru": "с глаз долой — из сердца вон; вдали быстро забывают",
+      "synonyms_sr": [
+        "ono što ne viđamo zaboravljamo",
+        "udaljenost hladi osećanja",
+        "zaboraviti nekoga ko je daleko"
+      ],
+      "literal_ru": "далеко от глаз — далеко от сердца",
+      "register": "poslovica / izreka; o ljudima, problemima i događajima koji manje zaokupljaju kada ih ne vidimo",
+      "examples": [
+        {
+          "serbian_latin": "Daleko od očiju, daleko od srca. Po tom principu funkcionišu i društvene mreže.",
+          "russian": "С глаз долой — из сердца вон. По такому принципу работают и социальные сети.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Ponašali su se po onoj narodnoj: „Daleko od očiju, daleko od srca.“",
+          "russian": "Они действовали по принципу «с глаз долой — из сердца вон».",
+          "source": "RTS, 2012"
+        }
+      ],
+      "note": "Русский эквивалент почти идеален. Сербское выражение может касаться не только отношений: например, власти забывают об удалённых сёлах или общество — о проблемах, которые не видит непосредственно. Часто встречается намеренное отрицание: daleko od očiju nije daleko od srca.",
+      "keyword": "daleko od očiju daleko od srca"
+    },
+    {
       "headword_latin": "Damoklov mač",
       "type": "frazeologizam",
       "definition_ru": "дамоклов меч; постоянная угроза; опасность, нависшая над человеком",
@@ -5865,6 +5891,32 @@
       "keyword": "vuk sit ovce na broju"
     },
     {
+      "headword_latin": "I zidovi imaju uši",
+      "type": "izreka",
+      "definition_ru": "и у стен есть уши; нас могут подслушать; здесь нельзя говорить откровенно",
+      "synonyms_sr": [
+        "neko može da prisluškuje",
+        "nije bezbedno govoriti",
+        "sve se može čuti"
+      ],
+      "literal_ru": "и у стен есть уши",
+      "register": "razg.-ekspresivno; upozorenje na moguće prisluškivanje ili curenje onoga što je rečeno",
+      "examples": [
+        {
+          "serbian_latin": "Istinu već znam, ali je on ne može reći jer i zidovi imaju uši.",
+          "russian": "Правду я уже знаю, но он не может её сказать: у стен есть уши.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Imao sam utisak da zidovi imaju uši i da me uvek neke oči nadgledaju.",
+          "russian": "У меня было ощущение, что у стен есть уши и за мной постоянно наблюдают.",
+          "source": "Politika, 2010"
+        }
+      ],
+      "note": "Русский и сербский образы полностью совпадают. В сербском часто добавляется усилительное i: i zidovi imaju uši — «даже у стен есть уши». Выражение особенно характерно для рассказов о слежке, авторитарной атмосфере, офисных интригах и секретах.",
+      "keyword": "zidovi imaju uši"
+    },
+    {
       "headword_latin": "Ići / doći mečki na rupu",
       "type": "frazeologizam",
       "definition_ru": "лезть прямо в логово зверя; идти навстречу опасности; явиться туда, где тебя ждут неприятности",
@@ -7809,6 +7861,32 @@
       ],
       "note": "Oblik se prilagođava rodu i broju: jede kao lud, jede kao luda, jedu kao ludi.",
       "keyword": "jesti"
+    },
+    {
+      "headword_latin": "Kad čeljad nisu besna, ni kuća nije tesna",
+      "type": "poslovica",
+      "definition_ru": "в тесноте, да не в обиде; если люди ладят, места хватит всем",
+      "synonyms_sr": [
+        "gde ima sloge, ima mesta za sve",
+        "u slozi se lakše živi",
+        "nije tesno kad se ljudi slažu"
+      ],
+      "literal_ru": "когда домочадцы не сердиты, и дом не тесен",
+      "register": "poslovica, narodno; varijanta gde čeljad nisu besna, ni kuća nije tesna",
+      "examples": [
+        {
+          "serbian_latin": "Kad čeljad nisu besna, ni kuća nije tesna.",
+          "russian": "В тесноте, да не в обиде.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Kad čeljad nisu besna, ni kuća, koja je sagrađena 1954. godine, nije tesna.",
+          "russian": "Когда в семье лад, даже небольшой старый дом не тесен.",
+          "source": "RTS, 2015"
+        }
+      ],
+      "note": "Čeljad — собирательное существительное «домочадцы, люди в доме», грамматически множественное по согласованию: čeljad nisu besna. Besna здесь не обязательно «в ярости»: важнее отсутствие раздоров и взаимного недовольства. Русское «в тесноте, да не в обиде» передаёт культурный смысл почти идеально.",
+      "keyword": "kad čeljad nisu besna ni kuća nije tesna"
     },
     {
       "headword_latin": "Kad mačke nema, miševi kolo vode",
@@ -13736,6 +13814,32 @@
       "keyword": "Pandorina kutija"
     },
     {
+      "headword_latin": "Papir trpi sve",
+      "type": "izreka",
+      "definition_ru": "бумага всё стерпит; написать можно что угодно; написанное ещё не означает правду",
+      "synonyms_sr": [
+        "napisati se može svašta",
+        "jedno piše, drugo je stvarnost",
+        "papir nije dokaz istine"
+      ],
+      "literal_ru": "бумага всё терпит",
+      "register": "iron.-skeptično; o planovima, obećanjima, izveštajima, zakonima i brojkama koji mogu odstupati od stvarnosti",
+      "examples": [
+        {
+          "serbian_latin": "Papir trpi sve, ali praksa opominje.",
+          "russian": "Бумага всё стерпит, но практика быстро показывает реальное положение дел.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "A tek papir trpi sve, pa i više od toga.",
+          "russian": "А бумага и вовсе всё стерпит — и даже больше.",
+          "source": "Radio Beograd 2 / RTS, 2025"
+        }
+      ],
+      "note": "Русское «бумага всё стерпит» — полный функциональный эквивалент. Выражение не означает, что бумага физически прочна: говорящий скептически противопоставляет легко написанное реальным фактам и исполнению. Особенно типично о государственных планах, нормативных документах и обещаниях.",
+      "keyword": "papir trpi sve"
+    },
+    {
       "headword_latin": "Para vrti gde burgija neće",
       "type": "poslovica",
       "definition_ru": "деньги всё решают; деньги открывают любые двери; за деньги и невозможное становится возможным",
@@ -16045,6 +16149,31 @@
       ],
       "note": "Выражение обозначает предельную интенсивность усилий, чаще всего поиска или расследования. Русское «перевернуть небо и землю» понятно, но значительно естественнее «перевернуть всё вверх дном», «сделать всё возможное». В сербском устойчив именно глагол prevrnuti, хотя возможны авторские расширения.",
       "keyword": "prevrnuti nebo i zemlju"
+    },
+    {
+      "headword_latin": "Prijatelj se u nevolji poznaje",
+      "type": "poslovica",
+      "definition_ru": "друзья познаются в беде; настоящий друг проявляется в трудную минуту",
+      "synonyms_sr": [
+        "pravi prijatelj pomaže u nevolji",
+        "prijateljstvo se dokazuje kad je teško"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; takođe prijatelj se u nevolji poznaje, kao zlato u vatri",
+      "examples": [
+        {
+          "serbian_latin": "Prijatelj se u nevolji poznaje, kao zlato u vatri.",
+          "russian": "Друг познаётся в беде, как золото — в огне.",
+          "source": "Beograd 202 / RTS, 2017"
+        },
+        {
+          "serbian_latin": "Prijatelj se u nevolji poznaje.",
+          "russian": "Друзья познаются в беде.",
+          "source": "Blic, 2019"
+        }
+      ],
+      "note": "Это практически полный эквивалент русского «друзья познаются в беде». В сербской традиции встречается красивое продолжение kao zlato u vatri: подлинность дружбы проверяется трудностью так же, как качество золота — огнём.",
+      "keyword": "prijatelj se u nevolji poznaje"
     },
     {
       "headword_latin": "Prilika čini lopova",
@@ -18855,6 +18984,32 @@
       "keyword": "star kao Biblija"
     },
     {
+      "headword_latin": "Stara ljubav zaborava nema",
+      "type": "izreka",
+      "definition_ru": "старая любовь не ржавеет; старую любовь не забывают",
+      "synonyms_sr": [
+        "stara ljubav se ne zaboravlja",
+        "osećanja ostaju",
+        "ljubav se ponovo probudi"
+      ],
+      "literal_ru": "у старой любви нет забвения",
+      "register": "razg., često šalj. ili iron.; upotrebljava se i van ljubavnih odnosa",
+      "examples": [
+        {
+          "serbian_latin": "Stara ljubav zaborava nema.",
+          "russian": "Старая любовь не ржавеет.",
+          "source": "Politika, 2008"
+        },
+        {
+          "serbian_latin": "Stara ljubav zaborava nema i kada je muzika u pitanju.",
+          "russian": "Старая любовь не ржавеет — в том числе и когда речь идёт о музыке.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Выражение легко переносится с прежнего возлюбленного на старый клуб, профессию, музыку, политическую партию или хобби. Поэтому русский «старая любовь не ржавеет» особенно удачен: он обладает той же переносимостью и тем же часто ироническим оттенком.",
+      "keyword": "stara ljubav zaborava nema"
+    },
+    {
       "headword_latin": "Stati na kraj nečemu",
       "type": "frazeologizam",
       "definition_ru": "положить чему-то конец; покончить с чем-то; пресечь",
@@ -19655,6 +19810,32 @@
       "keyword": "sto ljudi sto ćudi"
     },
     {
+      "headword_latin": "Strpljen – spasen",
+      "type": "izreka",
+      "definition_ru": "терпение спасает; терпеливый дождётся; терпение и труд всё перетрут",
+      "synonyms_sr": [
+        "budi strpljiv",
+        "strpljenje se isplati",
+        "treba sačekati"
+      ],
+      "literal_ru": "терпеливый — спасён",
+      "register": "izreka, narodno; ustaljena rimovana formula",
+      "examples": [
+        {
+          "serbian_latin": "Ima i izreku: „Strpljen – spasen.“",
+          "russian": "Есть и поговорка: «Терпеливый — спасён».",
+          "source": "Politika Magazin, 2026"
+        },
+        {
+          "serbian_latin": "Marko je dobio novo srce – strpljen, spasen.",
+          "russian": "Марко получил новое сердце: терпение было вознаграждено.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "Strpljen в этой формуле — традиционная застывшая форма; в обычной современной речи о человеке говорят strpljiv. Поэтому не следует создавать по образцу пословицы конструкции вроде on je strpljen. Рифма strpljen – spasen делает выражение особенно удобной готовой репликой при долгом ожидании.",
+      "keyword": "strpljen spasen"
+    },
+    {
       "headword_latin": "Stvari poput toga",
       "type": "izraz",
       "definition_ru": "вещи вроде этого; что-то в этом роде; подобные вещи",
@@ -19870,6 +20051,32 @@
       ],
       "note": "Основное sve mi je ravno уже означает «мне всё равно», а do Kosova усиливает значение и делает фразу более образной и разговорной. Это устойчивая модель, а не случайное упоминание Косова; топоним в обычном употреблении не означает, что речь идёт о политике или территории. Для русскоязычного естественные аналоги — «мне совершенно всё равно», «мне до лампочки», в более грубом контексте — «мне пофиг».",
       "keyword": "sve ravno do Kosova"
+    },
+    {
+      "headword_latin": "Sve se može kad se hoće",
+      "type": "izreka",
+      "definition_ru": "было бы желание — всё получится; всё возможно, если по-настоящему захотеть",
+      "synonyms_sr": [
+        "gde ima volje, ima i načina",
+        "volja čini čuda",
+        "upornošću se može mnogo"
+      ],
+      "literal_ru": "всё можно, когда хочется",
+      "register": "odobr.-motivišuće; ponekad i ironično",
+      "examples": [
+        {
+          "serbian_latin": "Sve se može kad se hoće. Bitna je upornost i čelična volja.",
+          "russian": "Было бы желание — всё возможно. Главное — упорство и железная воля.",
+          "source": "Blic, 2025"
+        },
+        {
+          "serbian_latin": "Može, sve se može kad se hoće.",
+          "russian": "Можно — всё возможно, если захотеть.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Сербское moći здесь означает реальную возможность добиться результата при наличии воли, а не просто разрешение. По-русски дословное «всё можно, если захотеть» иногда двусмысленно, поэтому естественнее «было бы желание» или «если захотеть, всего можно добиться». Формула легко используется и с иронией, когда цель достигается сомнительным способом.",
+      "keyword": "sve se može kad se hoće"
     },
     {
       "headword_latin": "Sve se vraća, sve se plaća",
@@ -20239,6 +20446,32 @@
       ],
       "note": "Kus значит «куцый, укороченный, неполный»; поэтому образ пословицы — результат, которому из-за спешки чего-то недостаёт. Сербские носители сами нередко поясняют её через navrat-nanos, «на скорую руку». Русский эквивалент «поспешишь — людей насмешишь» передаёт функцию лучше буквального перевода.",
       "keyword": "što je brzo to je kuso"
+    },
+    {
+      "headword_latin": "Što možeš danas, ne ostavljaj za sutra",
+      "type": "poslovica",
+      "definition_ru": "не откладывай на завтра то, что можно сделать сегодня",
+      "synonyms_sr": [
+        "ne odlaži",
+        "uradi odmah",
+        "završi na vreme"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, opšteupotrebljivo; varijante ono / sve što možeš danas, ne ostavljaj za sutra",
+      "examples": [
+        {
+          "serbian_latin": "Narodna poslovica kaže – ono što možeš danas ne ostavljaj za sutra.",
+          "russian": "Народная пословица гласит: не откладывай на завтра то, что можно сделать сегодня.",
+          "source": "Beograd 202 / RTS, 2021"
+        },
+        {
+          "serbian_latin": "Sve što možeš danas, ne ostavljaj za sutra.",
+          "russian": "Всё, что можешь сделать сегодня, не откладывай на завтра.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Сербская и русская формулы почти дословно совпадают. Важно, что сербский обычно использует совершенный результативный смысл через ostavljati za sutra — буквально «оставлять на завтра», а не специальный глагол со значением «прокрастинировать».",
+      "keyword": "što možeš danas ne ostavljaj za sutra"
     },
     {
       "headword_latin": "Što na um, to na drum",
@@ -21733,6 +21966,32 @@
       ],
       "note": "В сербском оборот очень естественен и в положительном смысле: человек, город, песня или атмосфера постепенно становятся особенно близкими. Но возможен и отрицательный контекст — например, когда strah se uvuče pod kožu. Поэтому перевод зависит от объекта: «запасть в душу», «засесть внутри», «пробрать».",
       "keyword": "uvući se pod kožu"
+    },
+    {
+      "headword_latin": "Uzdaj se u se i u svoje kljuse",
+      "type": "poslovica",
+      "definition_ru": "надейся прежде всего на себя; рассчитывай на собственные силы",
+      "synonyms_sr": [
+        "osloniti se na sebe",
+        "računati na sopstvene snage",
+        "sam sebi pomoći"
+      ],
+      "literal_ru": "надейся на себя и на свою клячу",
+      "register": "poslovica, razg.-narodno; često skraćeno u se i u svoje kljuse",
+      "examples": [
+        {
+          "serbian_latin": "Mi nemamo moćne sponzore, uzdamo se u se i u svoje kljuse.",
+          "russian": "У нас нет могущественных покровителей, поэтому рассчитываем прежде всего на собственные силы.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Najbolje je uzdati se u se i u svoje kljuse.",
+          "russian": "Надёжнее всего рассчитывать на себя и на то, чем располагаешь сам.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "Kljuse — разговорно-пренебрежительное «кляча, старая или плохая лошадь». Смысл пословицы: даже скромные собственные средства надёжнее чужой помощи, на которую нельзя полностью рассчитывать. Застывшее u se в обычной современной речи вне этого выражения не воспроизводится; пословицу лучше запоминать целиком.",
+      "keyword": "u se i u svoje kljuse"
     },
     {
       "headword_latin": "Uzdrmati temelje",
