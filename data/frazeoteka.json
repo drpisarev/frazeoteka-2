@@ -2829,6 +2829,32 @@
       "keyword": "ćorav posao"
     },
     {
+      "headword_latin": "Ćutanje je zlato",
+      "type": "poslovica",
+      "definition_ru": "молчание — золото; иногда лучше промолчать",
+      "synonyms_sr": [
+        "bolje je ćutati",
+        "ne treba sve reći",
+        "mudro je prećutati"
+      ],
+      "literal_ru": "молчание — золото",
+      "register": "poslovica; često se upotrebljava i ozbiljno i ironično",
+      "examples": [
+        {
+          "serbian_latin": "Narod kaže: ćutanje je zlato, a šta vi kažete?",
+          "russian": "Народ говорит: молчание — золото. А что скажете вы?",
+          "source": "Radio Beograd 2 / RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ćutanje je zlato.",
+          "russian": "Молчание — золото.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "В современной речи поговорку очень часто ставят под сомнение: ćutanje nije uvek zlato. Расширенная международная формула известна как противопоставление речи и молчания, но сербское самостоятельное ćutanje je zlato совершенно достаточно и гораздо чаще выступает как готовая реплика.",
+      "keyword": "ćutanje je zlato"
+    },
+    {
       "headword_latin": "ćutati kao zaliven",
       "type": "сравнительный фразеологизм",
       "definition_ru": "Молчать как воды в рот набрав; не произносить ни слова.",
@@ -3550,6 +3576,32 @@
       ],
       "note": "Оборот не обязательно связан с настоящей болью: он просто усиливает признак. Особенно характерны сочетания glup do bola, iskren do bola, dosadan do bola, jednostavan do bola. В качестве основной сербской формы выбираем do bola; вариант do boli также встречается, но более характерен для хорватского употребления.",
       "keyword": "do bola"
+    },
+    {
+      "headword_latin": "Dobar glas daleko se čuje",
+      "type": "poslovica",
+      "definition_ru": "добрая слава далеко идёт; хорошая репутация быстро распространяется",
+      "synonyms_sr": [
+        "dobar ugled se širi",
+        "dobro ime se daleko čuje",
+        "ljudi prenose dobru preporuku"
+      ],
+      "literal_ru": "хороший голос далеко слышен",
+      "register": "poslovica; glas ovde može značiti glas, ali i molvu, reputaciju",
+      "examples": [
+        {
+          "serbian_latin": "Dobar glas daleko se čuje, a Miroslav Ilić ima glas za koji se čulo mnogo dalje od granica naše države.",
+          "russian": "Добрая слава далеко идёт, а голос Мирослава Илича слышен далеко за пределами нашей страны.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Dobar glas daleko se čuje!",
+          "russian": "Добрая слава далеко идёт!",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Для русского главная ловушка — glas: здесь это не обязательно физический «голос», а также молва и репутация. Первый пример особенно наглядно обыгрывает сразу оба значения. Русское «добрая слава далеко идёт» близко по смыслу, хотя сегодня звучит несколько пословичнее, чем сербская формула.",
+      "keyword": "dobar glas daleko se čuje"
     },
     {
       "headword_latin": "Dobijati / dobiti mrvice",
@@ -8073,6 +8125,32 @@
       "keyword": "kao na dlanu"
     },
     {
+      "headword_latin": "Kao od brega odvaljen",
+      "type": "frazeologizam",
+      "definition_ru": "здоровенный; могучего сложения; косая сажень в плечах",
+      "synonyms_sr": [
+        "krupan i snažan",
+        "grdosija od čoveka",
+        "jak i razvijen"
+      ],
+      "literal_ru": "будто отломлен от горы",
+      "register": "razg., ekspresivno; pretežno o krupnom, visokom i fizički snažnom muškarcu",
+      "examples": [
+        {
+          "serbian_latin": "Herakle je superheroj. Kao od brega odvaljen, gvozdene mišice, priglupi duh.",
+          "russian": "Геракл — супергерой: здоровенный, словно из скалы высеченный, с железными мышцами.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Visok i krupan, delovao je kao od brega odvaljen.",
+          "russian": "Высокий и крупный, он выглядел настоящим богатырём.",
+          "source": "Blic, 2025"
+        }
+      ],
+      "note": "Breg — холм, возвышенность, но образ выражения предполагает огромную массивную глыбу: человек словно «отломлен от горы». Это прежде всего характеристика телосложения, а не просто силы. Русские «здоровенный как шкаф» или «косая сажень в плечах» передают функцию лучше буквального перевода.",
+      "keyword": "kao od brega odvaljen"
+    },
+    {
       "headword_latin": "Kao od majke rođen",
       "type": "frazeologizam",
       "definition_ru": "в чём мать родила; совершенно голый; нагишом",
@@ -10564,6 +10642,32 @@
       ],
       "note": "Natovariti na vrat подчёркивает прежде всего обременение: человеку достаётся проблема, обязанность, забота, ответственность. Можно нагрузить и самого себя: natovariti sebi obaveze na vrat, и другого: natovariti nekome probleme na vrat. Русскому близки «взвалить на шею», «повесить на кого-то», «взвалить на себя». Не обязательно, что неприятность возникла как наказание за собственные действия: главное здесь именно груз.",
       "keyword": "natovariti na vrat"
+    },
+    {
+      "headword_latin": "Navika je druga priroda",
+      "type": "izreka",
+      "definition_ru": "привычка — вторая натура; сила привычки",
+      "synonyms_sr": [
+        "čovek se navikne",
+        "navike oblikuju čoveka",
+        "teško je menjati navike"
+      ],
+      "literal_ru": "привычка — вторая природа",
+      "register": "izreka / poslovica; neutralno; o duboko ukorenjenom uobičajenom ponašanju",
+      "examples": [
+        {
+          "serbian_latin": "Nema plača, nema mrzovolje — „navika je druga priroda“, kaže stara ljudska mudrost.",
+          "russian": "Ни плача, ни капризов: привычка — вторая натура, как говорит старая мудрость.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Ponekad nešto zaboravim, ali telo me opomene. Navika je druga priroda.",
+          "russian": "Иногда я что-нибудь забываю, но организм сам мне напоминает: привычка — вторая натура.",
+          "source": "Politika, 2012"
+        }
+      ],
+      "note": "Это международная формула, известная ещё из античной традиции. Priroda здесь означает не окружающую природу, а «натуру, естество человека». Русский эквивалент практически полный.",
+      "keyword": "navika je druga priroda"
     },
     {
       "headword_latin": "Navoditi / terati vodu na svoju vodenicu",
@@ -13418,6 +13522,33 @@
       ],
       "note": "Выражение употребляется как об эмиграции, так и о переезде из небольшого города в Белград или другой экономический центр.",
       "keyword": "trbuh; kruh"
+    },
+    {
+      "headword_latin": "Otići u nepovrat",
+      "type": "frazeologizam",
+      "definition_ru": "уйти безвозвратно; кануть в прошлое; быть навсегда утраченным",
+      "synonyms_sr": [
+        "zauvek nestati",
+        "nepovratno se izgubiti",
+        "propasti",
+        "više se ne vratiti"
+      ],
+      "literal_ru": "уйти в невозврат",
+      "register": "neutralno-knjiški do publicistički; o novcu, vremenu, tradiciji, prilikama, prošlosti i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Postojao je nacrt ugovora sa jednim kupcem u SAD vredan 50 miliona dolara i sve je to otišlo u nepovrat.",
+          "russian": "Был проект контракта с американским покупателем на 50 миллионов долларов, но всё это безвозвратно пропало.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Sve je otišlo u nepovrat u Novom Sadu 5. septembra.",
+          "russian": "Пятого сентября в Нови-Саде всё окончательно и безвозвратно изменилось.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Nepovrat сегодня почти не нужен как самостоятельное бытовое существительное, зато устойчивое otići u nepovrat очень живо. Объект не обязательно физически исчезает: в неповрат могут уйти деньги, шанс, молодость, прежний порядок или доверие. Поэтому русский перевод часто требует «безвозвратно потерять», «кануть в прошлое».",
+      "keyword": "otići u nepovrat"
     },
     {
       "headword_latin": "Otkriti toplu vodu",
@@ -17097,6 +17228,32 @@
       "keyword": "s brda s dola"
     },
     {
+      "headword_latin": "S kim si, takav si",
+      "type": "poslovica",
+      "definition_ru": "с кем поведёшься, от того и наберёшься; человека видно по его окружению",
+      "synonyms_sr": [
+        "društvo utiče na čoveka",
+        "po društvu se čovek poznaje",
+        "sličan se sličnom raduje"
+      ],
+      "literal_ru": "с кем ты, такой и ты",
+      "register": "poslovica, često neodobr.; o uticaju okruženja i zaključivanju o čoveku na osnovu njegovog društva",
+      "examples": [
+        {
+          "serbian_latin": "Kažu stari: „S kim si, takav si“.",
+          "russian": "Как говорят старики: с кем поведёшься, от того и наберёшься.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Naše izreke „S kim si, takav si“ i „Sličan se sličnom raduje“ sugerišu da ljudi postaju slični onima s kojima provode mnogo vremena.",
+          "russian": "Наши поговорки «с кем поведёшься, от того и наберёшься» и «подобное тянется к подобному» предполагают, что люди становятся похожими на тех, с кем проводят много времени.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Пословица может говорить и о реальном влиянии компании на человека, и служить способом судить о нём по его друзьям или союзникам. Поэтому в политической речи она нередко приобретает обвинительный оттенок. Русское «с кем поведёшься, от того и наберёшься» сильнее подчёркивает именно изменение под влиянием окружения.",
+      "keyword": "s kim si takav si"
+    },
+    {
       "headword_latin": "S koca i konopca",
       "type": "frazeologizam",
       "definition_ru": "сброд; разношёрстная сомнительная компания; собранные чёрт знает откуда люди",
@@ -19603,6 +19760,31 @@
       "keyword": "svaka škola se plaća"
     },
     {
+      "headword_latin": "Svaki početak je težak",
+      "type": "poslovica",
+      "definition_ru": "всякое начало трудно; начинать всегда тяжело",
+      "synonyms_sr": [
+        "početak nije lak",
+        "treba vremena da se čovek uhoda"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; neutralno, opšteupotrebljivo; o novom poslu, učenju, projektu ili životnoj etapi",
+      "examples": [
+        {
+          "serbian_latin": "Svaki početak je težak. Ali oni koji odluče da posao pokrenu u uslovima koje niko ne može da predvidi imaju daleko veći izazov.",
+          "russian": "Всякое начало трудно. Но тем, кто начинает дело в совершенно непредсказуемых условиях, ещё сложнее.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Svaki početak je težak, a našim odbojkašicama [...] nije mogao da bude teži.",
+          "russian": "Всякое начало трудно, но для наших волейболисток оно едва ли могло оказаться ещё труднее.",
+          "source": "Politika, 2008"
+        }
+      ],
+      "note": "Формула очень живая и не обязательно звучит как торжественная «народная мудрость»: её свободно употребляют о первом рабочем дне, новом бизнесе, команде или учёбе. Русское «лиха беда начало» близко, но оптимистичнее; нейтральнее переводить «всякое начало трудно».",
+      "keyword": "svaki početak je težak"
+    },
+    {
       "headword_latin": "Svako čudo za tri dana",
       "type": "poslovica",
       "definition_ru": "любая сенсация живёт три дня; пошумят и забудут; всё быстро забудется",
@@ -21197,6 +21379,33 @@
       "keyword": "Boga za bradu"
     },
     {
+      "headword_latin": "Uhvatiti krivinu",
+      "type": "sleng",
+      "definition_ru": "смыться; увильнуть; улизнуть; уклониться от дела",
+      "synonyms_sr": [
+        "zbrisati (razg.)",
+        "pobeći",
+        "izvući se",
+        "eskivirati (sleng)"
+      ],
+      "literal_ru": "поймать поворот",
+      "register": "razg., sleng; često o neprimetnom odlasku, bekstvu ili izbegavanju obaveze",
+      "examples": [
+        {
+          "serbian_latin": "„Gde vam je treći amigo?“, pitam, uveren da je uhvatio krivinu.",
+          "russian": "«А где ваш третий амиго?» — спрашиваю я, уверенный, что тот просто смылся.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Prevarant je shvatio da je otkriven, pa je uhvatio krivinu i dao se u beg.",
+          "russian": "Мошенник понял, что его раскрыли, и тут же дал дёру.",
+          "source": "Blic, 2012"
+        }
+      ],
+      "note": "Особенно характерно значение «вовремя исчезнуть, чтобы не работать, не отвечать или не попасться». При этом сочетание может быть и буквальным — о дороге или искривлении предмета, поэтому фразеологичность определяется контекстом. Разговорное hvatati krivinu может обозначать привычку постоянно увиливать.",
+      "keyword": "uhvatiti krivinu"
+    },
+    {
       "headword_latin": "uhvatiti maglu",
       "type": "фразеологизм",
       "definition_ru": "Быстро уйти или убежать; скрыться.",
@@ -21886,6 +22095,32 @@
       ],
       "note": "Хотя слова milo и drago сами по себе положительные, современный оборот чаще означает ответить тем же, особенно на обиду, поражение или неприятный поступок. В спортивной речи оценка мягче: vratiti milo za drago часто просто «взять реванш». Русское «отплатить той же монетой» наиболее универсально.",
       "keyword": "milo za drago"
+    },
+    {
+      "headword_latin": "Vreme leči sve rane",
+      "type": "izreka",
+      "definition_ru": "время лечит все раны; со временем боль проходит",
+      "synonyms_sr": [
+        "vreme ublažava bol",
+        "s vremenom bude lakše",
+        "vreme čini svoje"
+      ],
+      "literal_ru": "время лечит все раны",
+      "register": "poslovica / izreka; obično o emocionalnom bolu, gubitku ili raskidu",
+      "examples": [
+        {
+          "serbian_latin": "Kažu da vreme leči sve rane, uključujući i one nastale nakon raskida ljubavne veze.",
+          "russian": "Говорят, что время лечит все раны, в том числе и после разрыва отношений.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Stara poslovica glasi da vreme leči sve rane – a to nažalost nije tačno.",
+          "russian": "Старая пословица гласит, что время лечит все раны, хотя, к сожалению, это не всегда так.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Сербский и русский обороты совпадают почти полностью. В современной речи пословицу нередко употребляют с оговоркой или даже оспаривают: kažu da vreme leči sve rane, ali... Поэтому она может быть как утешением, так и отправной точкой для полемики.",
+      "keyword": "vreme leči sve rane"
     },
     {
       "headword_latin": "Vrteti nekoga oko malog prsta",
@@ -22809,6 +23044,33 @@
       ],
       "note": "Образ связан с тем, что почка окружена жировой тканью, которая служит ей защитой и опорой; отсюда представление о максимально «удобном» положении. В речи выражение нередко ироническое: человек живёт очень комфортно, особенно по сравнению с окружающими.",
       "keyword": "bubreg u loju"
+    },
+    {
+      "headword_latin": "Živeti na visokoj nozi",
+      "type": "frazeologizam",
+      "definition_ru": "жить на широкую ногу; жить роскошно; сорить деньгами",
+      "synonyms_sr": [
+        "živeti luksuzno",
+        "živeti raskošno",
+        "mnogo trošiti",
+        "živeti u izobilju"
+      ],
+      "literal_ru": "жить на высокой ноге",
+      "register": "razg.-publicistički; obično podrazumeva skup način života i velike troškove",
+      "examples": [
+        {
+          "serbian_latin": "Stiv se brzo navikne na luksuz i život „na visokoj nozi“: letovanja, skupu odeću, troškarenje, ekskluzivne restorane.",
+          "russian": "Стив быстро привыкает к роскоши и жизни на широкую ногу: поездкам, дорогой одежде и эксклюзивным ресторанам.",
+          "source": "RTS, 2009"
+        },
+        {
+          "serbian_latin": "I, mada je tamo živeo „na visokoj nozi“, vratio se u Lasu.",
+          "russian": "И хотя там он жил на широкую ногу, всё-таки вернулся в Лхасу.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Русскому легко сделать кальку «на высокой ноге», но современный русский устойчивый эквивалент — «на широкую ногу». Сербское выражение часто имеет оттенок расточительности: человек не просто обеспечен, а демонстративно много тратит на комфорт и престиж.",
+      "keyword": "na visokoj nozi"
     },
     {
       "headword_latin": "Živi bili pa videli",
