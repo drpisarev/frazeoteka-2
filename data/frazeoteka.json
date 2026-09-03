@@ -1524,6 +1524,33 @@
       "keyword": "pomol"
     },
     {
+      "headword_latin": "Biti na ratnoj nozi",
+      "type": "frazeologizam",
+      "definition_ru": "быть на ножах; находиться в состоянии конфликта; враждовать",
+      "synonyms_sr": [
+        "biti u sukobu",
+        "biti u svađi",
+        "biti u lošim odnosima",
+        "sukobljavati se"
+      ],
+      "literal_ru": "быть на военной ноге",
+      "register": "razg.-publicistički, ekspresivno; obično biti s nekim na ratnoj nozi",
+      "examples": [
+        {
+          "serbian_latin": "Sukob sa Banđurom, koji je „na ratnoj nozi“ sa njom, odjeknuo je u javnosti.",
+          "russian": "Конфликт с Банджуром, который с ней на ножах, получил широкую огласку.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Postoje javne ličnosti koje novinare otvoreno preziru pa su s njima permanentno na ratnoj nozi.",
+          "russian": "Есть публичные лица, которые открыто презирают журналистов и постоянно с ними на ножах.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Для русского калька «быть на военной ноге» неестественна; обычный эквивалент — «быть на ножах». Сербская конструкция требует s + instrumental: na ratnoj nozi s kolegom, s vlastima. Это может быть как открытая ссора, так и длительные напряжённые отношения без прямого столкновения.",
+      "keyword": "ratna noga"
+    },
+    {
       "headword_latin": "biti na sedmom nebu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Быть на седьмом небе; испытывать огромное счастье или восторг.",
@@ -6340,6 +6367,33 @@
       "keyword": "alva"
     },
     {
+      "headword_latin": "Ići / teći kao podmazano",
+      "type": "frazeologizam",
+      "definition_ru": "идти как по маслу; проходить гладко; идти без сучка без задоринки",
+      "synonyms_sr": [
+        "ići kao po loju",
+        "ići glatko",
+        "teći bez problema",
+        "odvijati se bez problema"
+      ],
+      "literal_ru": "идти / течь словно смазанное",
+      "register": "razg.-neutralno; naročito često sve ide kao podmazano",
+      "examples": [
+        {
+          "serbian_latin": "Od 1966. pa do njegove smrti 1987. za Ante Topića sve ide kao podmazano.",
+          "russian": "С 1966 года и до его смерти в 1987-м у Анте Топича всё идёт как по маслу.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Ima, doduše retkih, situacija kada se poklope kockice, pa sve ide kao podmazano.",
+          "russian": "Бывают, пусть и редко, ситуации, когда всё складывается удачно и идёт как по маслу.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Русский эквивалент меняет образ: естественно «как по маслу», а не буквальное «как смазанное». Сербское kao podmazano особенно часто относится не к отдельному действию, а ко всему ходу процесса: sve ide kao podmazano. Близкое ići kao po loju уже образует отдельную устойчивую модель.",
+      "keyword": "podmazano"
+    },
+    {
       "headword_latin": "Ići glavom kroz zid",
       "type": "frazeologizam",
       "definition_ru": "переть напролом; лезть напролом; пытаться добиться своего вопреки очевидным препятствиям",
@@ -6392,6 +6446,33 @@
       ],
       "note": "Главное значение — ринуться к цели без подготовки и размышлений о последствиях. Русскому буквальное grlom ничего не объясняет; естественны «очертя голову», «лезть напролом», «соваться не подумав». Популярное объяснение связывает образ с неосторожным броском в заросли за земляникой, но надёжно установленной этимологией считать эту версию не стоит.",
       "keyword": "grlom u jagode"
+    },
+    {
+      "headword_latin": "Ići kao metak",
+      "type": "frazeologizam",
+      "definition_ru": "лететь пулей; мчаться как пуля; идти очень быстро",
+      "synonyms_sr": [
+        "juriti",
+        "leteti",
+        "ići munjevito",
+        "biti brz kao metak"
+      ],
+      "literal_ru": "идти как пуля",
+      "register": "razg., ekspresivno; naročito o vozilu, vozu, sportisti ili drugom brzom kretanju",
+      "examples": [
+        {
+          "serbian_latin": "Metro ide kao metak, brže ćete s njim stići nego sa taksijem bilo gde.",
+          "russian": "Метро летит как пуля: на нём куда угодно доберёшься быстрее, чем на такси.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Stari automobil je išao kao metak, nije trošio kap ulja.",
+          "russian": "Старая машина летала как пуля и не расходовала ни капли масла.",
+          "source": "Sportal / Blic, 2026"
+        }
+      ],
+      "note": "В автомобильной речи ide kao metak часто означает не только высокую скорость, но вообще отличную тягу и динамику машины. Русское «летит как пуля» близко, хотя сербский спокойно употребляет глагол ići. Сравнение brz kao metak обозначает уже качество — «быстрый как пуля».",
+      "keyword": "metak"
     },
     {
       "headword_latin": "Ići kao po loju",
@@ -7353,6 +7434,33 @@
       ],
       "note": "Очень полезна и отрицательная модель nemati zmiju u džepu: она означает «не быть жадным, не скупиться». Поэтому фразу не стоит понимать как общее «быть прижимистым» во всех сферах: особенно естественна она там, где человек должен достать деньги из кармана, но явно не хочет этого делать.",
       "keyword": "zmija; džep"
+    },
+    {
+      "headword_latin": "Iskočiti iz kože",
+      "type": "frazeologizam",
+      "definition_ru": "выйти из себя; не выдержать; лезть на стену от злости или нервов",
+      "synonyms_sr": [
+        "izaći iz takta",
+        "poludeti od nervoze",
+        "pobesneti",
+        "pući (razg.)"
+      ],
+      "literal_ru": "выпрыгнуть из собственной кожи",
+      "register": "razg., ekspresivno; o krajnjem besu, nervozi, uznemirenosti ili nepodnošljivom stanju",
+      "examples": [
+        {
+          "serbian_latin": "Krivo mi je što je moj život krenuo u tom smeru, najradije bih iskočila iz kože.",
+          "russian": "Мне тяжело оттого, что моя жизнь пошла по этому пути; я готова просто из себя выпрыгнуть.",
+          "source": "BBC na srpskom / Danas, 2021"
+        },
+        {
+          "serbian_latin": "Da čovek iskoči iz kože.",
+          "russian": "Тут можно из себя выйти / с ума сойти.",
+          "source": "Radio Beograd 1 / RTS, 2024"
+        }
+      ],
+      "note": "Для русского это важный ложный друг. Русское «из кожи вон лезть» означает прежде всего «очень стараться», а сербское iskočiti iz kože описывает сильнейшее раздражение, нервозность или состояние, которое невозможно терпеть. Сербское фразеологическое исследование прямо относит iskočiti iz kože к выражениям эмоционального гнева.",
+      "keyword": "iskočiti iz kože"
     },
     {
       "headword_latin": "Ispeci, pa reci",
@@ -11901,6 +12009,33 @@
       "keyword": "navući na vrat"
     },
     {
+      "headword_latin": "Nazvati stvari pravim imenom",
+      "type": "frazeologizam",
+      "definition_ru": "называть вещи своими именами; сказать прямо, что есть что; не приукрашивать действительность",
+      "synonyms_sr": [
+        "reći otvoreno",
+        "govoriti bez uvijanja",
+        "jasno reći šta je nešto",
+        "ne ulepšavati stvarnost"
+      ],
+      "literal_ru": "назвать вещи правильным / настоящим именем",
+      "register": "neutralno-publicistički; česta podsticajna formula Nazovimo stvari pravim imenom",
+      "examples": [
+        {
+          "serbian_latin": "Nazovimo stvari pravim imenom. Alkohol ne opušta, niti obrazuje, samo izaziva agresiju.",
+          "russian": "Давайте называть вещи своими именами: алкоголь не расслабляет и не воспитывает, а лишь вызывает агрессию.",
+          "source": "Politika, 2011"
+        },
+        {
+          "serbian_latin": "Nazovimo stvari pravim imenom: posmatramo jedno poreklo genetskog koda, ali dva porekla života.",
+          "russian": "Назовём вещи своими именами: мы наблюдаем единое происхождение генетического кода, но два происхождения жизни.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Очень полезное несовпадение: по-русски говорят «своими именами», а по-сербски — pravim imenom, буквально «правильным / настоящим именем». Калька svojim imenima здесь не нужна. Формула часто вводит прямую, намеренно недипломатичную оценку ситуации.",
+      "keyword": "pravim imenom"
+    },
+    {
       "headword_latin": "Ne bi ni mrava zgazio",
       "type": "frazeologizam",
       "definition_ru": "и мухи не обидит; добрейшей души человек; никому не причинит зла",
@@ -12232,6 +12367,33 @@
       ],
       "note": "Оборот характеризует не зрение, а интеллектуальную и стратегическую недальновидность. Возможны варианты ne videti dalje od nosa и ne videti dalje od svog nosa. Русское выражение почти полностью совпадает, поэтому главное — заметить, насколько часто оно употребляется в сербской публицистике для критики краткосрочного мышления.",
       "keyword": "ne videti dalje od nosa"
+    },
+    {
+      "headword_latin": "Ne vredeti ni pišljiva boba",
+      "type": "frazeologizam",
+      "definition_ru": "гроша ломаного не стоить; не стоить ни гроша; ничего не стоить",
+      "synonyms_sr": [
+        "ne vredeti ništa",
+        "biti bezvredan",
+        "ne vredeti pet para",
+        "ne vredeti ni prebijene pare"
+      ],
+      "literal_ru": "не стоить даже червивого / никчёмного боба",
+      "register": "razg., ekspresivno, prezrivo; o stvari, mišljenju, obećanju, čoveku, životu i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Naše „bogatstvo“ ne vredi ni pišljiva boba.",
+          "russian": "Наше «богатство» гроша ломаного не стоит.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Ono što je danas „dobro“, preksutra ne vredi ni pišljiva boba.",
+          "russian": "То, что сегодня считается «хорошим», послезавтра может не стоить и ломаного гроша.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Pišljiv может означать «червивый, никчёмный, ничего не стоящий», но современному учащемуся выражение лучше запоминать целиком. Русский естественный образ — «гроша ломаного не стоит», а не буквальный боб. В исследовании сербской фразеологии ne vredi ni pišljiva boba прямо приводится среди сербских единиц со значением полной безвредности.",
+      "keyword": "pišljiva boba"
     },
     {
       "headword_latin": "Ne zna se ko pije, a ko plaća",
@@ -14126,6 +14288,32 @@
       ],
       "note": "Обычно подразумевает значительный расход после периода сдержанности или нежелания платить.",
       "keyword": "kesa"
+    },
+    {
+      "headword_latin": "Odvojiti / razdvojiti žito od kukolja",
+      "type": "frazeologizam",
+      "definition_ru": "отделить зёрна от плевел; отделить хорошее от плохого; отсеять негодное",
+      "synonyms_sr": [
+        "razlučiti dobro od lošeg",
+        "odvojiti kvalitetno od nekvalitetnog",
+        "napraviti selekciju"
+      ],
+      "literal_ru": "отделить зерно от сорняка",
+      "register": "neutralno-publicistički, preneseno; o ljudima, idejama, informacijama, kvalitetu i izboru",
+      "examples": [
+        {
+          "serbian_latin": "Treba razdvojiti žito od kukolja, šta je od tih taksa i naknada legitimno, a šta treba reformisati.",
+          "russian": "Нужно отделить зёрна от плевел: понять, какие сборы оправданны, а какие нужно реформировать.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Teško je danas odvojiti žito od kukolja.",
+          "russian": "Сегодня трудно отделить зёрна от плевел.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Сербский и русский используют один библейский образ, но компоненты не совпадают буквально: сербское kukolj — сорное растение, тогда как русский устойчивый вариант говорит о «плевелах». Глаголы odvojiti и razdvojiti употребляются параллельно. В современном языке выражение очень часто означает «отфильтровать ценное от некачественного или ложного».",
+      "keyword": "žito; kukolj"
     },
     {
       "headword_latin": "Okačiti mačku o rep",
@@ -16908,6 +17096,32 @@
       "keyword": "poštapalica"
     },
     {
+      "headword_latin": "Povući / vući đavola za rep",
+      "type": "frazeologizam",
+      "definition_ru": "играть с огнём; накликать беду; дразнить судьбу",
+      "synonyms_sr": [
+        "igrati se vatrom",
+        "izazivati nevolju",
+        "čačkati mečku (razg.)"
+      ],
+      "literal_ru": "потянуть / тянуть чёрта за хвост",
+      "register": "razg., ekspresivno; povući označava pojedinačan rizičan postupak, vući trajno ili ponovljeno izazivanje nevolje",
+      "examples": [
+        {
+          "serbian_latin": "Đavola za rep povukla je Hrvatska, i kad je tužba već jednom dospela na sud, država više nije mogla upravljati njome.",
+          "russian": "Хорватия сама сыграла с огнём: когда иск уже оказался в суде, государство больше не могло им распоряжаться.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Iz Beograda kao da pomalo vuku đavola za rep.",
+          "russian": "В Белграде словно понемногу играют с огнём.",
+          "source": "Vreme, 2010"
+        }
+      ],
+      "note": "Выражение предполагает, что человек сам задевает опасную силу и тем самым навлекает неприятности. Русскому естественнее «играть с огнём» или «не будить лихо». В сербской публицистике живы оба вида: povući đavola za rep и vući đavola za rep.",
+      "keyword": "đavo; rep"
+    },
+    {
       "headword_latin": "Povući nekoga za jezik",
       "type": "frazeologizam",
       "definition_ru": "вытянуть из кого-либо слова; спровоцировать на откровенность; заставить заговорить",
@@ -17791,6 +18005,32 @@
       ],
       "note": "Адресат ставится в дательном падеже: progledati učeniku, vozaču, klubu kroz prste. Несовершенный вариант gledati kroz prste обозначает регулярную снисходительность.",
       "keyword": "prsti"
+    },
+    {
+      "headword_latin": "Progutati gorku pilulu",
+      "type": "frazeologizam",
+      "definition_ru": "проглотить горькую пилюлю; смириться с неприятной правдой; принять неприятное решение",
+      "synonyms_sr": [
+        "prihvatiti neprijatnu istinu",
+        "pomiriti se sa nečim",
+        "prihvatiti težak ishod"
+      ],
+      "literal_ru": "проглотить горькую пилюлю",
+      "register": "neutralno-publicistički, ekspresivno; o prinudnom prihvatanju neprijatne činjenice, odluke ili ishoda",
+      "examples": [
+        {
+          "serbian_latin": "Nekada moramo da progutamo gorku pilulu i da kažemo da je tačna.",
+          "russian": "Иногда приходится проглотить горькую пилюлю и признать, что это правда.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Bila je to gorka pilula koju je trebalo progutati u svakom smislu.",
+          "russian": "Это была горькая пилюля, которую пришлось проглотить во всех смыслах.",
+          "source": "BBC na srpskom / Danas, 2020"
+        }
+      ],
+      "note": "Значение шире простого «услышать плохую новость»: человек вынужден принять реальность, которая ему неприятна и которую он предпочёл бы отвергнуть. Русское «проглотить горькую пилюлю» совпадает почти полностью, хотя несколько книжнее. Часты конструкции morati progutati gorku pilulu и gorka pilula koju treba progutati.",
+      "keyword": "gorka pilula"
     },
     {
       "headword_latin": "Progutati knedlu",
@@ -19922,6 +20162,33 @@
       ],
       "note": "Выражение подчёркивает необратимость решения. Возможен усиленный вариант spaliti sve mostove.",
       "keyword": "most"
+    },
+    {
+      "headword_latin": "Spasti na prosjački štap",
+      "type": "frazeologizam",
+      "definition_ru": "пойти по миру; обнищать; оказаться в полной нищете",
+      "synonyms_sr": [
+        "osiromašiti",
+        "ostati bez ičega",
+        "potpuno propasti",
+        "pasti u bedu"
+      ],
+      "literal_ru": "опуститься до нищенского посоха",
+      "register": "razg.-publicistički, ekspresivno; takođe dovesti nekoga na prosjački štap",
+      "examples": [
+        {
+          "serbian_latin": "Oni su bukvalno spali na prosjački štap.",
+          "russian": "Они буквально оказались в полной нищете.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Nekadašnji ekonomski lider spao je na prosjački štap.",
+          "russian": "Некогда экономический лидер дошёл до полного разорения.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Выражение сильнее простого osiromašiti: подразумевается почти полная потеря средств и резкое падение прежнего материального положения. Полезна пара: spasti na prosjački štap — «самому дойти до нищеты», dovesti nekoga na prosjački štap — «разорить, довести до нищеты». Прошедшее время: spao, spala, spali.",
+      "keyword": "prosjački štap"
     },
     {
       "headword_latin": "Spavati kao beba",
