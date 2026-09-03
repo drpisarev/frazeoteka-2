@@ -5700,6 +5700,33 @@
       "keyword": "gledati svoja posla"
     },
     {
+      "headword_latin": "Gledati u pasulj",
+      "type": "frazeologizam",
+      "definition_ru": "гадать; строить догадки; пытаться угадать без достаточных данных",
+      "synonyms_sr": [
+        "nagađati",
+        "gatati",
+        "predviđati napamet",
+        "pogađati bez podataka"
+      ],
+      "literal_ru": "гадать по фасоли",
+      "register": "razg., iron.; često ne treba gledati u pasulj, morati gledati u pasulj",
+      "examples": [
+        {
+          "serbian_latin": "Ne treba gledati u pasulj, pa vračati da ga je pozvao Emir Kusturica.",
+          "russian": "Не надо гадать на кофейной гуще, чтобы предположить, что его пригласил Эмир Кустурица.",
+          "source": "Politika, 2022"
+        },
+        {
+          "serbian_latin": "Popularni Duda, kada je Bjelica u pitanju, ne mora da „gleda u pasulj“.",
+          "russian": "Когда речь идёт о Бьелице, Дуде не приходится гадать и строить предположения.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "За выражением стоит реальная балканская практика гадания по раскладываемым зёрнам фасоли. В переносном употреблении никакой мистики обычно нет: gledati u pasulj означает пытаться узнать то, для чего нет нормальной информации. Русское «гадать на кофейной гуще» функционально наиболее естественно.",
+      "keyword": "gledati u pasulj"
+    },
+    {
       "headword_latin": "gluv kao top",
       "type": "фразеологическое сравнение",
       "definition_ru": "Совершенно глухой или очень плохо слышащий; не реагирующий на обращённые к нему слова.",
@@ -7550,6 +7577,33 @@
       ],
       "note": "Iz čista mira — застывшая фразеологическая форма; сочетание čista mira не нужно перестраивать по обычной современной модели при употреблении этого выражения. Значение — отсутствие видимой причины или повода, а не просто «внезапно»: внезапное событие может иметь совершенно понятную причину.",
       "keyword": "iz čista mira"
+    },
+    {
+      "headword_latin": "Iz ove kože se ne može",
+      "type": "izraz",
+      "definition_ru": "из своей шкуры не выпрыгнешь; от себя не убежишь; ничего не поделаешь",
+      "synonyms_sr": [
+        "nema kud",
+        "tako je kako je",
+        "ne može se pobeći od sebe",
+        "mora se živeti s tim"
+      ],
+      "literal_ru": "из этой кожи не выйти",
+      "register": "ustaljena razg. formula, često sa nijansom pomirenja sa nepromenljivim okolnostima",
+      "examples": [
+        {
+          "serbian_latin": "Šta bude, biće. Iz ove kože se ne može.",
+          "russian": "Что будет, то будет. Из своей шкуры не выпрыгнешь.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Šta drugo da radimo? Iz ove kože se ne može.",
+          "russian": "А что ещё делать? От своей жизни никуда не денешься.",
+          "source": "BBC na srpskom / Danas, 2025"
+        }
+      ],
+      "note": "Koža может метафорически обозначать и собственную природу, и данную человеку жизненную ситуацию. Поэтому перевод колеблется от «из своей шкуры не выпрыгнешь» до «ничего не поделаешь». Часто фраза выражает не отчаяние, а трезвое принятие реальности.",
+      "keyword": "iz ove kože se ne može"
     },
     {
       "headword_latin": "Iz prve ruke",
@@ -10434,6 +10488,33 @@
       "keyword": "mačji kašalj"
     },
     {
+      "headword_latin": "Mahati nekome nečim pred nosom",
+      "type": "frazeologizam",
+      "definition_ru": "тыкать чем-то в лицо; демонстративно совать под нос; постоянно чем-то козырять",
+      "synonyms_sr": [
+        "isticati nešto pred nekim",
+        "nabijati nešto na nos",
+        "razmetati se nečim",
+        "demonstrativno pokazivati"
+      ],
+      "literal_ru": "размахивать чем-то перед чьим-то носом",
+      "register": "razg., neodobr.; mahati + instrumental, primalac je obično u dativu",
+      "examples": [
+        {
+          "serbian_latin": "Vlada nam je svakodnevno mahala pred nosom podatkom o „najmanjem padu BDP-a u regionu“.",
+          "russian": "Правительство каждый день тыкало нам в лицо данными о «самом небольшом падении ВВП в регионе».",
+          "source": "Blic, 2011"
+        },
+        {
+          "serbian_latin": "Sami nam svako malo pred nosom mašu svojom odgovornošću.",
+          "russian": "Нам постоянно демонстративно тычут в лицо своей якобы ответственностью.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "В буквальном контексте можно действительно чем-то размахивать перед лицом, но фразеологическое употребление подразумевает навязчивую демонстрацию аргумента, документа, денег, достижения или преимущества. Для русского особенно важен творительный: mahati dokazom, novcem, papirom.",
+      "keyword": "mahati pred nosom"
+    },
+    {
       "headword_latin": "Malo sutra",
       "type": "replika",
       "definition_ru": "ага, сейчас!; как бы не так!; никогда; щас, разбежался!",
@@ -10607,6 +10688,33 @@
       ],
       "note": "Для русского лучший естественный эквивалент — «лёгок на помине», а не обязательно более экспрессивное «помяни чёрта». Сербское выражение настолько узнаваемо, что легко переделывается: RTS играет с именем Vuk и множественным vukovi, а в интернете встречается Mi o vuku, Drašković na vrata. Формула сопоставима с латинским lupus in fabula «волк в рассказе», но утверждать прямое происхождение сербского выражения именно от латинского без специального исторического исследования не стоит.",
       "keyword": "mi o vuku a vuk na vrata"
+    },
+    {
+      "headword_latin": "Mic po mic",
+      "type": "izraz",
+      "definition_ru": "понемногу; мало-помалу; шаг за шагом",
+      "synonyms_sr": [
+        "malo-pomalo",
+        "postepeno",
+        "korak po korak",
+        "pomalo"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; reduplikativni priloški izraz",
+      "examples": [
+        {
+          "serbian_latin": "Ide na bolje, ali mic po mic.",
+          "russian": "Становится лучше, но понемногу.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Ideja „mic po mic“ rasla.",
+          "russian": "Идея мало-помалу развивалась.",
+          "source": "Politika, 2026"
+        }
+      ],
+      "note": "Mic вне этой и родственных разговорных конструкций почти не функционирует как обычное самостоятельное слово. Формула подчёркивает очень медленное, постепенное продвижение и может звучать как нейтрально, так и слегка нетерпеливо: napredujemo, ali mic po mic.",
+      "keyword": "mic po mic"
     },
     {
       "headword_latin": "Miran kao bubica",
@@ -15738,6 +15846,33 @@
       ],
       "note": "Выражение обозначает поспешное, иногда паническое бегство. Оно может описывать как непосредственное спасение от опасности, так и резкий отъезд или выход из неприятной ситуации.",
       "keyword": "glava"
+    },
+    {
+      "headword_latin": "Pobrkati lončiće",
+      "type": "frazeologizam",
+      "definition_ru": "всё перепутать; смешать понятия; неправильно понять, что к чему",
+      "synonyms_sr": [
+        "pomešati stvari",
+        "pobrkati pojmove",
+        "pomešati uloge",
+        "pogrešno shvatiti"
+      ],
+      "literal_ru": "перепутать горшочки",
+      "register": "razg., iron.-neodobr.; obično o mešanju pojmova, uloga, nadležnosti ili uzročno-posledičnih veza",
+      "examples": [
+        {
+          "serbian_latin": "Pobrkali smo lončiće.",
+          "russian": "Мы всё перепутали и поставили с ног на голову.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Pobrkali smo lončiće, pa udovoljavamo onima koji bi da ponište tvoj trag u nama.",
+          "russian": "Мы перепутали всё местами и теперь идём навстречу тем, кто хотел бы стереть твой след в нас.",
+          "source": "Politika, 2006"
+        }
+      ],
+      "note": "Это не просто pogrešiti «ошибиться»: обычно человек смешивает разные категории, роли или полномочия и вследствие этого делает неправильный вывод. Очень типично в полемике: Ti si malo pobrkao lončiće — «Ты что-то всё перепутал».",
+      "keyword": "pobrkati lončiće"
     },
     {
       "headword_latin": "Pocrveneti do ušiju",
@@ -23773,6 +23908,32 @@
       "keyword": "milo za drago"
     },
     {
+      "headword_latin": "Vratiti se / vraćati se kao bumerang",
+      "type": "frazeologizam",
+      "definition_ru": "вернуться бумерангом; обернуться против самого инициатора; аукнуться",
+      "synonyms_sr": [
+        "obiti se o glavu",
+        "vratiti se onome ko je nešto pokrenuo",
+        "imati suprotan efekat"
+      ],
+      "literal_ru": "вернуться как бумеранг",
+      "register": "publicističko-razgovorno; obično o postupku, odluci, laži, agresiji ili grešci čije se posledice vraćaju izvoru",
+      "examples": [
+        {
+          "serbian_latin": "Za sad im ništa ne radi i vraća se kao bumerang.",
+          "russian": "Пока ни один их ход не срабатывает и всё оборачивается против них самих.",
+          "source": "N1 Srbija, 2025"
+        },
+        {
+          "serbian_latin": "Sve to što rade vratiće nam se kao bumerang.",
+          "russian": "Всё, что они делают, потом аукнется нам самим.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "Очень типична возвратная конструкция nešto se nekome vratilo kao bumerang: Odluka mu se vratila kao bumerang. Дательный обозначает того, кому последствия «вернулись». Русское «обернулось бумерангом» практически совпадает.",
+      "keyword": "vratiti se kao bumerang"
+    },
+    {
       "headword_latin": "Vrteti nekoga oko malog prsta",
       "type": "frazeologizam",
       "definition_ru": "вертеть кем-либо как хочешь; обвести вокруг пальца; полностью подчинить своему влиянию",
@@ -24352,6 +24513,33 @@
       "keyword": "zamoriti"
     },
     {
+      "headword_latin": "Zaobilaziti nekoga / nešto u širokom luku",
+      "type": "frazeologizam",
+      "definition_ru": "обходить за версту; держаться подальше; всячески избегать",
+      "synonyms_sr": [
+        "izbegavati",
+        "kloniti se",
+        "držati se podalje",
+        "ne prilaziti"
+      ],
+      "literal_ru": "обходить по широкой дуге",
+      "register": "razg.-neutralno; zaobilaziti + akuzativ: zaobilaziti njega, tu temu, to mesto",
+      "examples": [
+        {
+          "serbian_latin": "Ona zahvaćena vatrenom stihijom u širokom luku zaobilazi.",
+          "russian": "Места, охваченные пожарами, он обходит стороной.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Neki gradovi i mesta su toliko opasni da turisti treba da ih zaobilaze u širokom luku.",
+          "russian": "Некоторые города настолько опасны, что туристам лучше обходить их за версту.",
+          "source": "RTS, 2014"
+        }
+      ],
+      "note": "Объект ставится в винительном падеже: zaobilaziti nekoga / nešto. Выражение может обозначать как физическое избегание места или человека, так и переносное — например, упорно не затрагивать неприятную тему.",
+      "keyword": "zaobilaziti u širokom luku"
+    },
+    {
       "headword_latin": "Zapasti za oko",
       "type": "frazeologizam",
       "definition_ru": "броситься в глаза; привлечь внимание; приглянуться",
@@ -24667,6 +24855,33 @@
       "keyword": "zdrav kao dren"
     },
     {
+      "headword_latin": "Zlatna koka",
+      "type": "frazeologizam",
+      "definition_ru": "золотая жила; дойная корова; источник большой и стабильной прибыли",
+      "synonyms_sr": [
+        "izvor velike zarade",
+        "unosan posao",
+        "izvor profita",
+        "koka koja nosi zlatna jaja"
+      ],
+      "literal_ru": "золотая курица",
+      "register": "razg.-publicistički; o firmi, imovini, grani ili delatnosti koja donosi velike prihode",
+      "examples": [
+        {
+          "serbian_latin": "Svi smatraju da je „Telekom“ „zlatna koka“.",
+          "russian": "Все считают «Телеком» золотой жилой.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Ada Huja mogla bi da bude „zlatna koka“ Palilule i prestonice.",
+          "russian": "Ада-Хуя могла бы стать настоящей золотой жилой для Палилулы и Белграда.",
+          "source": "Politika, 2006"
+        }
+      ],
+      "note": "Близкое полное выражение — koka koja nosi zlatna jaja, «курица, несущая золотые яйца». Короткое zlatna koka в сербской публицистике совершенно самостоятельно и особенно часто обозначает прибыльное предприятие или ресурс. Русская «дойная корова» может дополнительно намекать на постоянное извлечение денег, тогда как zlatna koka прежде всего подчёркивает доходность.",
+      "keyword": "zlatna koka"
+    },
+    {
       "headword_latin": "Zlo i naopako",
       "type": "izraz",
       "definition_ru": "ужас; беда; всё из рук вон плохо; не дай бог",
@@ -24692,6 +24907,60 @@
       ],
       "note": "Формула гибкая: kod nas je zlo i naopako описывает катастрофическое положение, а отдельное Zlo i naopako! выражает испуг перед возможными последствиями. Буквальный перевод «зло и наоборот» бессмысленен: naopako здесь связано с неправильным, перевёрнутым, дурным ходом вещей.",
       "keyword": "zlo i naopako"
+    },
+    {
+      "headword_latin": "Zna se ko kosi, a ko vodu nosi",
+      "type": "izreka",
+      "definition_ru": "ясно, кто здесь главный; известно, кто командует, а кто исполняет",
+      "synonyms_sr": [
+        "zna se ko je glavni",
+        "zna se hijerarhija",
+        "zna se ko odlučuje",
+        "zna se čija je poslednja"
+      ],
+      "literal_ru": "известно, кто косит, а кто носит воду",
+      "register": "razg.-narodno; o jasnoj i obično neravnopravnoj hijerarhiji",
+      "examples": [
+        {
+          "serbian_latin": "Crno-beli su superligaškom debitantu pokazali „ko kosi, a ko vodu nosi“.",
+          "russian": "«Чёрно-белые» показали дебютанту лиги, кто здесь хозяин положения.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "U ruralnim sredinama zna se ko kosi a ko vodu nosi.",
+          "russian": "В сельской среде роли по-прежнему чётко распределены: известно, кто главный, а кто подчиняется.",
+          "source": "RTS, 2019"
+        }
+      ],
+      "note": "Буквальный сельскохозяйственный образ противопоставляет основную работу и вспомогательную. В современной речи выражение обычно говорит не о разделении труда как таковом, а о власти и иерархии: кто принимает решения и кому приходится выполнять.",
+      "keyword": "ko kosi a ko vodu nosi"
+    },
+    {
+      "headword_latin": "Znati koliko je sati",
+      "type": "frazeologizam",
+      "definition_ru": "понимать, что происходит; знать расклад; хорошо понимать реальное положение вещей",
+      "synonyms_sr": [
+        "znati o čemu se radi",
+        "razumeti situaciju",
+        "biti svestan šta se dešava",
+        "znati na čemu si"
+      ],
+      "literal_ru": "знать, который час",
+      "register": "razg.; doslovno i preneseno značenje razlikuju se po kontekstu",
+      "examples": [
+        {
+          "serbian_latin": "Valjda zna koliko je sati.",
+          "russian": "Наверное, он прекрасно понимает, что к чему.",
+          "source": "Politika, 2008"
+        },
+        {
+          "serbian_latin": "Prosečni naprednjaci nemaju računa da se podmeću i štite gradonačelnika, znaju oni koliko je sati.",
+          "russian": "Рядовые сторонники прекрасно понимают реальное положение дел.",
+          "source": "Vreme, 2025"
+        }
+      ],
+      "note": "В переносном значении часы вообще не имеют отношения к смыслу: человек zna koliko je sati, если он не наивен и понимает настоящий расклад, скрытые риски или близкий исход ситуации. Особенно характерно короткое Zna on koliko je sati — «Он прекрасно понимает, что происходит».",
+      "keyword": "znati koliko je sati"
     },
     {
       "headword_latin": "Zub vremena",
