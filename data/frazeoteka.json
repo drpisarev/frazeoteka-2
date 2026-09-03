@@ -1933,6 +1933,33 @@
       "keyword": "biti van sebe"
     },
     {
+      "headword_latin": "Biti za koplje ispred / iznad",
+      "type": "frazeologizam",
+      "definition_ru": "быть на голову выше; заметно превосходить; далеко опережать",
+      "synonyms_sr": [
+        "biti znatno bolji",
+        "odskakati",
+        "nadmašivati",
+        "biti daleko ispred"
+      ],
+      "literal_ru": "быть на копьё впереди / выше",
+      "register": "razg. do publicistički; biti za koplje ispred nekoga, biti za koplje iznad ostalih",
+      "examples": [
+        {
+          "serbian_latin": "Španija je za koplje ispred svih ostalih selekcija kada je kvalitet u pitanju.",
+          "russian": "По уровню Испания на голову выше всех остальных сборных.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Za koplje je ispred Šerifa Endiajea, skupo plaćenog napadača.",
+          "russian": "Он на голову выше дорого купленного нападающего Шерифа Эндиайе.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Koplje здесь уже не воспринимается как реальная единица расстояния: оборот просто выражает заметное превосходство. Образ продуктивен — встречаются dva koplja ispred, tri koplja iznad, nekoliko kopalja ispred. Русское «на голову выше» почти всегда естественнее буквального «на копьё выше».",
+      "keyword": "za koplje ispred"
+    },
+    {
       "headword_latin": "Blenuti kao tele u šarena vrata",
       "type": "frazeologizam",
       "definition_ru": "смотреть как баран на новые ворота; тупо таращиться; смотреть в полном недоумении",
@@ -14526,6 +14553,33 @@
       "keyword": "poslednji Mohikanac"
     },
     {
+      "headword_latin": "Postaviti letvicu visoko / podići letvicu",
+      "type": "frazeologizam",
+      "definition_ru": "высоко поставить планку; поднять планку; задать высокий стандарт",
+      "synonyms_sr": [
+        "postaviti visoke kriterijume",
+        "podići standard",
+        "povećati očekivanja",
+        "zadati visok nivo"
+      ],
+      "literal_ru": "высоко поставить / поднять планку",
+      "register": "neutralno, često publicistički; o standardima, kvalitetu, zahtevima i očekivanjima",
+      "examples": [
+        {
+          "serbian_latin": "Postavili su letvicu toliko visoko da je teško zamisliti ko bi mogao da ih nadmaši.",
+          "russian": "Они поставили планку настолько высоко, что трудно представить, кто сможет их превзойти.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Naš narod je dosta maštovit i ove godine je opet podigao letvicu.",
+          "russian": "Наш народ весьма изобретателен и в этом году снова поднял планку.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Postaviti letvicu visoko обычно означает изначально задать очень высокий уровень требований или качества. Podići letvicu — повысить уже существующий стандарт. Образ происходит из спорта с планкой для прыжков, но в современной речи полностью освоен как метафора; с русским «поднять планку» совпадает почти полностью.",
+      "keyword": "podići letvicu"
+    },
+    {
       "headword_latin": "Poštapalica",
       "type": "imenica",
       "definition_ru": "слово-паразит; речевая присказка; постоянно повторяемое слово или выражение",
@@ -15285,6 +15339,33 @@
       ],
       "note": "Адресат ставится в дательном падеже: progledati učeniku, vozaču, klubu kroz prste. Несовершенный вариант gledati kroz prste обозначает регулярную снисходительность.",
       "keyword": "prsti"
+    },
+    {
+      "headword_latin": "Promoliti nos",
+      "type": "frazeologizam",
+      "definition_ru": "высунуть нос; показаться; выйти наружу",
+      "synonyms_sr": [
+        "proviriti",
+        "pojaviti se",
+        "izaći",
+        "pomoliti se"
+      ],
+      "literal_ru": "высунуть нос",
+      "register": "razg., slikovito; naročito ne smeti ni nos da promoli, promoliti nos iz kuće",
+      "examples": [
+        {
+          "serbian_latin": "Kuga je za vrlo kratko vreme odnela svakog ko je „promolio nos“ iz kuće.",
+          "russian": "За очень короткое время чума унесла каждого, кто осмелился высунуть нос из дома.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Niko živ ne sme nos da promoli, gađaju sve što se kreće.",
+          "russian": "Никто не смеет носа высунуть: стреляют по всему, что движется.",
+          "source": "B92, 2001"
+        }
+      ],
+      "note": "Очень близко русскому «высунуть нос / носа не высовывать». Выражение может означать буквально выйти или выглянуть из помещения, но часто подчёркивает, что человек боится или не имеет возможности появиться наружу. Встречается также pomoliti nos, однако promoliti nos хорошо закреплено в сербском употреблении.",
+      "keyword": "promoliti nos"
     },
     {
       "headword_latin": "Prost kao pasulj",
@@ -17497,59 +17578,56 @@
     {
       "headword_latin": "Srce se stegne nekome",
       "type": "frazeologizam",
-      "definition_ru": "сердце сжимается; сердце щемит; становится тяжело на душе",
+      "definition_ru": "сердце сжимается; сердце защемило; становится тяжело на душе",
       "synonyms_sr": [
-        "zaboli srce",
-        "stegne u grudima",
-        "teško padne",
-        "obuzme tuga"
+        "stegnuti se oko srca",
+        "obuzeti tuga",
+        "osetiti zebnju",
+        "potresti se"
       ],
-      "literal_ru": "",
-      "register": "экспр.; обычно при сильной печали, тревоге, сострадании или тяжёлом воспоминании; srce mi se stegne",
+      "literal_ru": "у кого-то сжимается сердце",
+      "register": "neutralno do ekspresivno; tipično srce mi / ti / mu / joj se steglo; nesvršeno srce mi se steže",
       "examples": [
         {
-          "serbian_latin": "I koliko god vam se srce tada stegne, nekad je teško objasniti.",
-          "russian": "И как бы ни сжималось тогда сердце, иногда это трудно объяснить.",
-          "source": "N1, 2024",
-          "url": "https://n1info.rs/vesti/marinika-tepic-predsednik-bi-najradije-izveo-tenkove-na-studente-a-zna-da-ne-sme/"
+          "serbian_latin": "Kada sam čuo koliko nezaposlenih ima u Kosovskoj Kamenici, srce mi se steglo.",
+          "russian": "Когда я услышал, сколько безработных в Косовской-Каменице, у меня сердце сжалось.",
+          "source": "RTS, 2015"
         },
         {
-          "serbian_latin": "Kada odu najveći, svet zastane. Zvezde se uskomešaju, disanje se zaustavi, srce se stegne...",
-          "russian": "Когда уходят великие, мир замирает. Звёзды приходят в движение, дыхание останавливается, сердце сжимается...",
-          "source": "Danas, 2023",
-          "url": "https://www.danas.rs/kultura/komemoracija-zarku-lausevicu-jdp/"
+          "serbian_latin": "Srce mi se steglo kada sam izašao na parket.",
+          "russian": "Когда я вышел на площадку, у меня сжалось сердце.",
+          "source": "Danas, 2010"
         }
       ],
-      "note": "Сербский оборот почти совпадает с русским «сердце сжалось», но особенно естественна личная конструкция srce mi se steglo / stegne. Это не обязательно страх: сердце может «сжаться» от горя, сочувствия, тревоги или сильного эмоционального воспоминания.",
+      "note": "Это не только страх. Srce se stegne может передавать печаль, тревогу, сильное волнение, жалость или болезненное воспоминание. Поэтому оно шире, чем srce je nekome sišlo u pete, которое прежде всего связано с испугом. Для русскоязычного полезна сербская модель с дательным местоимением: srce mi se steglo, а не обязательное притяжательное moje srce.",
       "keyword": "srce se stegne"
     },
     {
       "headword_latin": "Sreća je okrenula leđa nekome",
       "type": "frazeologizam",
-      "definition_ru": "удача отвернулась от кого-то; перестало везти; счастье изменило кому-то",
+      "definition_ru": "удача отвернулась; перестало везти; фортуна отвернулась",
       "synonyms_sr": [
-        "prestati imati sreće",
-        "pratiti nekoga maler",
-        "krenuti nekome po zlu"
+        "nemati sreće",
+        "sreća je napustila nekoga",
+        "ne ići nekome",
+        "biti bez sreće"
       ],
       "literal_ru": "удача повернулась к кому-то спиной",
-      "register": "экспрессивное; лицо ставится в дательном падеже: sreća mi / ti / mu / joj / nam / im je okrenula leđa",
+      "register": "neutralno, ekspresivno; sreća mi / ti / mu / joj / im je okrenula leđa",
       "examples": [
         {
-          "serbian_latin": "Ali ratna sreća mu je okrenula leđa.",
-          "russian": "Но военная удача от него отвернулась.",
-          "source": "Politika, 2022",
-          "url": "https://www.politika.rs/sr/clanak/522891/dimitrije-tucivuc-veliki-rat"
+          "serbian_latin": "Imao je Čukarički šansu i za totalni preokret, ali im je sreća okrenula leđa.",
+          "russian": "У «Чукаричек» был шанс полностью переломить игру, но удача от них отвернулась.",
+          "source": "RTS, 2017"
         },
         {
-          "serbian_latin": "Sreća mu je, međutim, okrenula leđa na 28. rođendan, pošto je promašio zicer za pobedu nad Francuskom.",
-          "russian": "Однако в день его 28-летия удача от него отвернулась: он не реализовал верный момент, который мог принести победу над Францией.",
-          "source": "Sport Klub, 2011",
-          "url": "https://sportklub.n1info.rs/kosarka/euroleague/a10779-savanovicu-glavu-gore/"
+          "serbian_latin": "Definitivno danas nije naš dan. Sreća nam je okrenula leđa.",
+          "russian": "Сегодня определённо не наш день. Удача от нас отвернулась.",
+          "source": "Danas, 2007"
         }
       ],
-      "note": "Конструкция строится так же, как okrenuti leđa nekome — «повернуться к кому-то спиной, отвернуться от кого-то», но субъектом выступает sreća. Поэтому естественна короткая модель sreća mu je okrenula leđa. Русское «удача отвернулась» почти полностью совпадает и по образу, и по употреблению.",
-      "keyword": "sreća okrenula leđa"
+      "note": "Русский эквивалент практически полный. В сербском человек выражается дательным падежом: sreća mi je okrenula leđa, буквально «удача повернулась ко мне спиной». Оборот может описывать как единичную полосу неудач в матче или конкретном деле, так и более продолжительное невезение.",
+      "keyword": "sreća je okrenula leđa"
     },
     {
       "headword_latin": "stajati kao ukopan",
@@ -17585,28 +17663,26 @@
       "type": "frazeologizam",
       "definition_ru": "стоять на пути; мешать; препятствовать",
       "synonyms_sr": [
+        "smetati",
         "ometati",
         "sprečavati",
-        "biti prepreka",
-        "onemogućavati"
+        "biti prepreka"
       ],
-      "literal_ru": "стоять на чьём-либо / чём-либо пути",
-      "register": "нейтральное; управление — дательный падеж: stajati nekome / nečemu na putu",
+      "literal_ru": "стоять кому-то / чему-то на пути",
+      "register": "neutralno, slikovito; stajati + dativ + na putu",
       "examples": [
         {
-          "serbian_latin": "Uvek ćemo stajati na putu ovakvih ideja i tendencija.",
-          "russian": "Мы всегда будем препятствовать подобным идеям и тенденциям.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/vesti/drustvo/necemo-dozvoliti-fasizaciju-drustva-radomir-lazovic-sa-ulice-na-kojoj-se-dva-kordona-policije-isprecilo-izmedju-antifasista-i-neonacista/"
+          "serbian_latin": "Nikozija neće „stajati na putu“ odnosima evropskog bloka sa Ankarom.",
+          "russian": "Никосия не будет препятствовать отношениям европейского блока с Анкарой.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Nikozija neće „stajati na putu“ odnosima evropskog bloka sa Ankarom.",
-          "russian": "Никосия не станет препятствовать отношениям европейского блока с Анкарой.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/vesti/svet/5859617/kipar-obecava-novi-pristup-tokom-predsedavanja-evropskom-unijom.html"
+          "serbian_latin": "Samovolji više ništa neće stajati na putu.",
+          "russian": "Произволу больше ничто не будет мешать.",
+          "source": "Danas, 2007"
         }
       ],
-      "note": "Для русского особенно важно управление: по-сербски stajati na putu nekome / nečemu, то есть с дательным падежом. Следует различать stajati na putu — «мешать, являться препятствием» и совершенное stati na put nekome / nečemu — «преградить путь, воспрепятствовать, остановить».",
+      "note": "Несовершенное stajati na putu описывает существующее или длительное препятствие. Совершенное stati nekome / nečemu na put обычно означает уже активное действие — «пресечь, остановить, помешать осуществиться». Для русского образ прозрачен, но важно сербское управление с дательным: stajati napretku na putu, stajati nekome na putu.",
       "keyword": "stajati na putu"
     },
     {
@@ -17699,44 +17775,42 @@
     {
       "headword_latin": "Stati na noge",
       "type": "frazeologizam",
-      "definition_ru": "встать на ноги; оправиться; стать самостоятельным или устойчивым",
+      "definition_ru": "встать на ноги; оправиться; стать самостоятельным",
       "synonyms_sr": [
         "oporaviti se",
         "osamostaliti se",
         "stabilizovati se",
-        "konsolidovati se"
+        "povratiti snagu"
       ],
       "literal_ru": "встать на ноги",
-      "register": "общеупотребительное; о человеке, семье, фирме, учреждении, бизнесе; как о восстановлении после кризиса, так и о достижении самостоятельности",
+      "register": "neutralno do razgovorno; o čoveku, porodici, preduzeću, organizaciji ili projektu",
       "examples": [
         {
-          "serbian_latin": "Nakon nekoliko nedelja ili meseci će biznis stati na noge i počeće dobro da zarađuje ako je ideja dobra.",
-          "russian": "Через несколько недель или месяцев бизнес встанет на ноги и начнёт хорошо зарабатывать, если идея удачная.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/zivot/kako-da-ljudi-prepoznaju-vas-biznis-ili-uslugu"
+          "serbian_latin": "Bio prognan, vratio se kući i stao na noge.",
+          "russian": "Он был изгнан, вернулся домой и снова встал на ноги.",
+          "source": "RTS, 2024"
         },
         {
-          "serbian_latin": "Počinjemo da verujemo da firma više nikada neće stati na noge.",
-          "russian": "Мы начинаем думать, что предприятие уже никогда не встанет на ноги.",
-          "source": "RTS, 2011",
-          "url": "https://www.rts.rs/lat/vesti/srbija-danas/862954/neizvesnost-u-umi-peku-.html"
+          "serbian_latin": "Često to čujemo, ali mislim da će Veštac sam stati na noge.",
+          "russian": "Мы часто это слышим, но, думаю, «Ведьмак» сам встанет на ноги.",
+          "source": "Danas / BBC na srpskom, 2019"
         }
       ],
-      "note": "Сербское и русское выражения очень близки, включая перенос на предприятия и экономику. Помимо «оправиться после кризиса», stati na noge может означать «обрести самостоятельность, начать самому себя обеспечивать». Не путать с biti na nogama, у которого есть другие значения: «быть на ногах», «быть поднятым по тревоге», «бурно реагировать».",
+      "note": "Оборот может быть буквальным — снова начать стоять или ходить после болезни, — и переносным: восстановиться финансово, профессионально или организационно. Расширенная форма stati na svoje noge сильнее подчёркивает самостоятельность: «начать обходиться своими силами». Русское «встать на ноги» совпадает с сербским очень близко.",
       "keyword": "stati na noge"
     },
     {
       "headword_latin": "Stati na pola puta",
       "type": "frazeologizam",
-      "definition_ru": "остановиться на полпути; бросить начатое; не довести до конца",
+      "definition_ru": "остановиться на полпути; не довести дело до конца; бросить начатое",
       "synonyms_sr": [
-        "odustati na pola",
+        "odustati pre kraja",
         "ne dovršiti",
         "prekinuti započeto",
-        "odustati pre kraja"
+        "odustati"
       ],
-      "literal_ru": "остановиться на полпути",
-      "register": "нейтр.-разг.; часто в отрицательной конструкции ne stati na pola puta",
+      "literal_ru": "остановиться на половине пути",
+      "register": "neutralno, često publicistički; o procesu, reformi, istrazi, poslu, odluci i sl.",
       "examples": [
         {
           "serbian_latin": "Hoće li procesuirati one koji stoje iza napada, ili će opet stati na pola puta?",
@@ -17744,12 +17818,12 @@
           "source": "N1, 2026"
         },
         {
-          "serbian_latin": "Drago mi je da je Miler konačno nešto učinio i nadam se da neće stati na pola puta.",
-          "russian": "Я рад, что Мюллер наконец что-то сделал, и надеюсь, что он не остановится на полпути.",
-          "source": "N1, 2018"
+          "serbian_latin": "Istakla je da se ne sme stati na pola puta.",
+          "russian": "Она подчеркнула, что нельзя останавливаться на полпути.",
+          "source": "Danas, 2015"
         }
       ],
-      "note": "Выражение может быть буквальным, но очень часто обозначает отказ завершить начатое дело, реформу, расследование, проект и т. п. Для русского соответствие почти полное. Особенно типична оценочная формула ne sme se stati na pola puta — «нельзя останавливаться на полпути».",
+      "note": "В переносном употреблении речь идёт не просто о паузе, а о прекращении дела до достижения результата. Ostati na pola puta чаще подчёркивает конечный результат — дело так и осталось незавершённым, тогда как zastati na pola puta может обозначать и временную остановку. Русское «остановиться на полпути» практически полностью совпадает.",
       "keyword": "stati na pola puta"
     },
     {
@@ -17933,29 +18007,28 @@
     {
       "headword_latin": "Staviti / stavljati pod istu kapu",
       "type": "frazeologizam",
-      "definition_ru": "стричь под одну гребёнку; сваливать в одну кучу; приравнивать разное друг к другу",
+      "definition_ru": "объединить под одной крышей; свалить в одну кучу; стричь под одну гребёнку",
       "synonyms_sr": [
-        "izjednačiti",
         "svrstati u isti koš",
-        "tretirati kao isto"
+        "izjednačiti",
+        "tretirati isto",
+        "objediniti"
       ],
       "literal_ru": "поместить под одну шапку",
-      "register": "разговорное и публицистическое, часто неодобрительное; о людях, учреждениях или явлениях, между которыми игнорируют существенные различия",
+      "register": "neutralno do publicistički, često neodobr.; staviti nekoga / nešto pod istu kapu",
       "examples": [
         {
-          "serbian_latin": "Sva državna preduzeća u kojima država ima 50 odsto i više vlasništva stavimo pod isti krov i pod istu kapu.",
-          "russian": "Все государственные предприятия, в которых государству принадлежит 50 процентов и более, объединим в единую систему.",
-          "source": "RTS, 2021",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4211196/lakse-zaposljavanje-u-javnom-sektoru-koja-drzavna-preduzeca-idu-pod-istu-kapu.html"
+          "serbian_latin": "Država „pod istu kapu“ stavlja zaposlene u prosveti, zdravstvu sa zaposlenima u administraciji.",
+          "russian": "Государство ставит под одну гребёнку работников образования и здравоохранения с административными служащими.",
+          "source": "N1, 2015"
         },
         {
-          "serbian_latin": "Država „pod istu kapu“ stavlja zaposlene u prosveti, zdravstvu sa zaposlenima u administraciji i onima koji rade u propalim državnim preduzećima.",
-          "russian": "Государство стрижёт под одну гребёнку работников образования и здравоохранения, чиновников и сотрудников разорившихся государственных предприятий.",
-          "source": "N1, 2015",
-          "url": "https://n1info.rs/vesti/a36716-Srbijanka-Turajlic-i-Srdjan-Verbic-u-Pressingu-na-N1/"
+          "serbian_latin": "Da sva državna preduzeća stavimo pod isti krov i pod istu kapu.",
+          "russian": "Чтобы объединить все государственные предприятия под одной крышей.",
+          "source": "RTS, 2021"
         }
       ],
-      "note": "Выражение нередко содержит именно критику необоснованного уравнивания: разные категории рассматривают так, словно между ними нет важных различий. В административном контексте возможен и более нейтральный смысл «объединить в общую систему». Близкое svrstati u isti koš обычно ещё яснее передаёт русское «свалить всех в одну кучу».",
+      "note": "У выражения два близких применения. В организационном контексте оно нейтрально означает объединить разные структуры под единым управлением; при сравнении людей или явлений часто появляется критический оттенок — считать одинаковыми то, что на самом деле различается. Поэтому русское «стричь под одну гребёнку» хорошо только для второго случая, а для первого естественнее «объединить под одной крышей».",
       "keyword": "pod istu kapu"
     },
     {
@@ -18301,28 +18374,28 @@
     {
       "headword_latin": "Stavljati / staviti nekoga / nešto na pijedestal",
       "type": "frazeologizam",
-      "definition_ru": "возводить на пьедестал; превозносить; идеализировать",
+      "definition_ru": "возводить на пьедестал; идеализировать; превозносить",
       "synonyms_sr": [
+        "idealizovati",
         "uzdizati",
         "veličati",
-        "idealizovati",
-        "uznositi"
+        "dizati u nebesa"
       ],
       "literal_ru": "ставить кого-то / что-то на пьедестал",
-      "register": "нейтр.-публицист., экспр.; объект в винительном падеже",
+      "register": "neutralno, slikovito; često sa značenjem preterane idealizacije; staviti + akuzativ + na pijedestal",
       "examples": [
         {
-          "serbian_latin": "I da svi zajedno, kao društvo i kao sistem, očuvanje zdravlja stavimo na pijedestal.",
-          "russian": "И чтобы мы все вместе, как общество и как система, поставили сохранение здоровья во главу угла.",
-          "source": "RTS, 2026"
+          "serbian_latin": "Stavljamo ih na pijedestal, ali kad ih pogledate malo bolje, videćete da imaju mobilne telefone.",
+          "russian": "Мы возводим их на пьедестал, но если присмотреться, окажется, что они такие же современные люди.",
+          "source": "Danas / BBC na srpskom, 2025"
         },
         {
-          "serbian_latin": "Stavljamo ih na pijedestal, ali kad ih pogledate malo bolje...",
-          "russian": "Мы возводим их на пьедестал, но если присмотреться к ним внимательнее...",
-          "source": "BBC na srpskom / Danas, 2025"
+          "serbian_latin": "Postavivši je na pijedestal, spevao joj je najlepše stihove.",
+          "russian": "Возведя её на пьедестал, он посвятил ей свои самые прекрасные стихи.",
+          "source": "RTS, 2018"
         }
       ],
-      "note": "На пьедестал можно «ставить» не только человека, но и ценность, идею или принцип. В отношении человека выражение часто подразумевает чрезмерное восхищение и идеализацию; с абстрактным существительным значение может быть нейтральнее: «считать высшим приоритетом».",
+      "note": "Сербское выражение, как и русское, может обозначать искреннее возвеличивание, но нередко подразумевает чрезмерную идеализацию человека, которому приписывают почти безупречные качества. Противоположная модель — skinuti nekoga sa pijedestala: перестать идеализировать, развенчать. Не путать с буквальным помещением памятника на постамент.",
       "keyword": "staviti na pijedestal"
     },
     {
