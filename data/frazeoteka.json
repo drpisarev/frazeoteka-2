@@ -1212,6 +1212,33 @@
       "keyword": "mirođija u svakoj čorbi"
     },
     {
+      "headword_latin": "Biti na ceni",
+      "type": "frazeologizam",
+      "definition_ru": "цениться; быть востребованным; быть в цене",
+      "synonyms_sr": [
+        "biti cenjen",
+        "biti tražen",
+        "imati vrednost",
+        "biti poželjan"
+      ],
+      "literal_ru": "быть на цене",
+      "register": "neutralno-razgovorno, publicistički; o ljudima, profesijama, robi, veštinama, dokumentima i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Na ceni 60 preduzeća, 99 neće niko.",
+          "russian": "Шестьдесят предприятий пользуются спросом, а девяносто девять никому не нужны.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Srpski pasoš opet „na ceni“.",
+          "russian": "Сербский паспорт снова в цене.",
+          "source": "Politika, 2011"
+        }
+      ],
+      "note": "Русское «быть в цене» — почти точный эквивалент. Na ceni не обязательно связано с буквальной денежной стоимостью: специалист может быть na ceni потому, что его высоко ценят и охотно нанимают.",
+      "keyword": "na ceni"
+    },
+    {
       "headword_latin": "Biti na istoj talasnoj dužini",
       "type": "frazeologizam",
       "definition_ru": "быть на одной волне; прекрасно понимать друг друга; одинаково мыслить",
@@ -2308,6 +2335,33 @@
       ],
       "note": "Это прозрачное устойчивое сравнение, и русский эквивалент практически полный. Сербские исследования цветообозначений подтверждают noć как один из типичных эталонов максимальной черноты наряду с ugljem, mrakom, katranom. Выражение обычно описывает реальный цвет, поэтому не всякое употребление следует считать полноценной идиомой.",
       "keyword": "crn kao noć"
+    },
+    {
+      "headword_latin": "Crno na belo",
+      "type": "frazeologizam",
+      "definition_ru": "чёрным по белому; документально; с неопровержимым подтверждением",
+      "synonyms_sr": [
+        "napismeno",
+        "dokumentovano",
+        "jasno dokazano",
+        "imati dokaz"
+      ],
+      "literal_ru": "чёрное на белом",
+      "register": "razg.-neutralno; naročito imati crno na belo — imati pisani ili dokumentovani dokaz",
+      "examples": [
+        {
+          "serbian_latin": "Ja imam crno na belo da je moja hrana ispravna.",
+          "russian": "У меня чёрным по белому написано, что мой корм соответствует нормам.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Dao sam sebi zadatak da ga pronađem, da imam „crno na belo“.",
+          "russian": "Я поставил себе задачу найти это, чтобы иметь документальное подтверждение.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Очень характерна конструкция imati nešto crno na belo: речь обычно идёт о документе, цифрах, переписке или другом проверяемом доказательстве. Русское «чёрным по белому» совпадает почти полностью, но сербское особенно легко используется как существительное обстоятельственного типа: imam crno na belo.",
+      "keyword": "crno na belo"
     },
     {
       "headword_latin": "Crven kao rak",
@@ -5448,6 +5502,32 @@
       "keyword": "hladan kao špricer"
     },
     {
+      "headword_latin": "Hladan tuš",
+      "type": "frazeologizam",
+      "definition_ru": "холодный душ; неприятное отрезвление; неожиданное разочарование",
+      "synonyms_sr": [
+        "neprijatno iznenađenje",
+        "razočaranje",
+        "otrežnjenje"
+      ],
+      "literal_ru": "",
+      "register": "razg.-publicistički, ekspresivno; obično o neočekivanoj lošoj vesti posle optimističkih očekivanja",
+      "examples": [
+        {
+          "serbian_latin": "Vetar u leđa ubrzo se pretvorio u hladan tuš.",
+          "russian": "Поддержка вскоре обернулась холодным душем.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Iznajmljivanje stana „hladan tuš“ za studente.",
+          "russian": "Аренда квартиры стала для студентов настоящим холодным душем.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Русское «холодный душ» почти полностью совпадает. Сербское выражение особенно часто описывает новость, решение или результат, резко разрушающие прежние надежды: dobiti hladan tuš, doživeti hladan tuš. Это не просто любая неприятность, а именно контраст между ожиданием и реальностью.",
+      "keyword": "hladan tuš"
+    },
+    {
       "headword_latin": "hodati / biti na tankom ledu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Находиться в опасном и неустойчивом положении; сильно рисковать, когда любая ошибка может иметь серьёзные последствия.",
@@ -5504,6 +5584,33 @@
       ],
       "note": "Сербский образ отличается от обычного русского: буквально человек старается не раздавить яйца. По смыслу в русском чаще «ходить по минному полю», «как по тонкому льду», «бояться лишнее слово сказать».",
       "keyword": "kao po jajima"
+    },
+    {
+      "headword_latin": "Hvaliti nekoga / nešto na sva usta",
+      "type": "frazeologizam",
+      "definition_ru": "расхваливать на все лады; превозносить; без конца хвалить",
+      "synonyms_sr": [
+        "mnogo hvaliti",
+        "dizati u nebesa",
+        "veličati",
+        "obasipati pohvalama"
+      ],
+      "literal_ru": "хвалить всеми устами",
+      "register": "razg., ekspresivno; ponekad ironično ako je pohvala preterana",
+      "examples": [
+        {
+          "serbian_latin": "Žene u Srbiji znaju da sjajnih lekara ima, u ispovestima na društvenim mrežama pominju se i imena onih koje hvale na sva usta.",
+          "russian": "Женщины в Сербии знают, что прекрасные врачи есть: в рассказах в соцсетях называют и тех, кого хвалят на все лады.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Pravo je čudo da i ovim tekućim rekordima [...] nije počela da se hvali na sva usta.",
+          "russian": "Удивительно, что этими нынешними «достижениями» она ещё не начала хвастаться направо и налево.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Возможны как hvaliti nekoga na sva usta — «вовсю расхваливать кого-то», так и возвратное hvaliti se na sva usta — «вовсю хвастаться». Русскоязычному важно не смешивать эти две конструкции.",
+      "keyword": "na sva usta"
     },
     {
       "headword_latin": "hvaliti nekoga / nešto na sva zvona",
@@ -6916,6 +7023,33 @@
       ],
       "note": "Сербское iver — щепка, отколовшийся кусочек дерева; klada — бревно, полено. Поговорка может быть и похвалой, и осуждением: оценку полностью задаёт контекст. Она ближе к русскому «яблоко от яблони…», чем к более нейтральному «весь в отца».",
       "keyword": "iver; klada"
+    },
+    {
+      "headword_latin": "Iz aviona se vidi",
+      "type": "frazeologizam",
+      "definition_ru": "видно за версту; совершенно очевидно; видно невооружённым глазом",
+      "synonyms_sr": [
+        "očigledno je",
+        "jasno se vidi",
+        "vidi se na prvi pogled",
+        "nema sumnje"
+      ],
+      "literal_ru": "видно из самолёта",
+      "register": "razg., hiperbolično; često iz aviona se vidi da...",
+      "examples": [
+        {
+          "serbian_latin": "Iz aviona se videlo da iza ubistva Ćuruvije stoji DB.",
+          "russian": "Было совершенно очевидно, что за убийством Чурувии стоит госбезопасность.",
+          "source": "Politika, 2016"
+        },
+        {
+          "serbian_latin": "Iz aviona se vidi da li je neko glumac ili ne.",
+          "russian": "Сразу видно, есть в человеке актёр или нет.",
+          "source": "Politika, 2023"
+        }
+      ],
+      "note": "Очень живая сербская разговорная гипербола. Самолёт здесь символ огромного расстояния: вещь настолько очевидна, что её якобы видно даже с высоты. Русские «видно за версту», «и так всё ясно» обычно естественнее буквального перевода.",
+      "keyword": "iz aviona se vidi"
     },
     {
       "headword_latin": "Iz čista mira",
@@ -12347,6 +12481,32 @@
       "keyword": "zelen bostan"
     },
     {
+      "headword_latin": "Oči veće od stomaka",
+      "type": "frazeologizam",
+      "definition_ru": "глаза больше живота; набрать еды больше, чем можешь съесть; глаза завидущие",
+      "synonyms_sr": [
+        "gladne oči",
+        "uzeti više nego što možeš pojesti",
+        "preceniti apetit"
+      ],
+      "literal_ru": "глаза больше желудка",
+      "register": "razg., šalj.; pre svega o hrani, ponekad šire o željama većim od realnih mogućnosti",
+      "examples": [
+        {
+          "serbian_latin": "Oni vrlo dobro znaju da su „oči veće od stomaka“.",
+          "russian": "Они прекрасно знают, что глаза часто хотят больше, чем способен вместить желудок.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Šta je bilo? Oči veće od stomaka, a?",
+          "russian": "Что случилось? Глаза оказались больше живота?",
+          "source": "Vukajlija, 2009"
+        }
+      ],
+      "note": "Типичная ситуация — человек набрал огромную порцию, потому что всё выглядело аппетитно, но съесть её не смог. Близкое gladne oči может употребляться шире и подчёркивать ненасытное желание. Русское «глаза завидущие, руки загребущие» сходно лишь частично: сербская формула прежде всего о переоценённом аппетите.",
+      "keyword": "oči veće od stomaka"
+    },
+    {
       "headword_latin": "Od glave do pete",
       "type": "frazeologizam",
       "definition_ru": "с головы до пят; целиком; насквозь, во всех отношениях",
@@ -15561,6 +15721,32 @@
       "keyword": "preko noći"
     },
     {
+      "headword_latin": "Preko trnja do zvezda",
+      "type": "izreka",
+      "definition_ru": "через тернии к звёздам; через трудности к успеху",
+      "synonyms_sr": [
+        "mukom do uspeha",
+        "kroz teškoće do cilja",
+        "istrajno do uspeha"
+      ],
+      "literal_ru": "через колючки к звёздам",
+      "register": "knjiž.-publicistički; odgovara latinskom per aspera ad astra",
+      "examples": [
+        {
+          "serbian_latin": "Put je bio trnovit, ali i poslovica kaže: „Preko trnja do zvezda!“",
+          "russian": "Путь был тернистым, но ведь говорят: через тернии к звёздам!",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Lik Džejmija Vardija stajaće u enciklopedijama kao ilustracija latinske izreke „Preko trnja do zvezda“.",
+          "russian": "История Джейми Варди могла бы служить иллюстрацией к латинскому выражению «через тернии к звёздам».",
+          "source": "N1, 2015"
+        }
+      ],
+      "note": "Trnje — собирательное «колючки, терновник». Сербская формула является буквальным переводом латинского per aspera ad astra и употребляется не только торжественно: её охотно используют в спорте, биографиях и рассказах о карьерном успехе.",
+      "keyword": "preko trnja do zvezda"
+    },
+    {
       "headword_latin": "Preko veze",
       "type": "izraz",
       "definition_ru": "по блату; через знакомых; благодаря нужным связям",
@@ -16125,6 +16311,33 @@
       "keyword": "prošla baba s kolačima"
     },
     {
+      "headword_latin": "Prst u oko",
+      "type": "frazeologizam",
+      "definition_ru": "вызывающая провокация; демонстративное оскорбление; плевок в лицо",
+      "synonyms_sr": [
+        "provokacija",
+        "izazov",
+        "uvreda",
+        "namerno iritiranje"
+      ],
+      "literal_ru": "палец в глаз",
+      "register": "razg.-publicistički, ekspresivno; biti prst u oko nekome, gurnuti / staviti nekome prst u oko",
+      "examples": [
+        {
+          "serbian_latin": "Oni moraju da naprave nešto što je prst u oko da bi bili primećeni.",
+          "russian": "Им нужно сделать что-то нарочито вызывающее, чтобы их заметили.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Odlukom da ih potpiše, predsednik Srbije gurnuo je prst u oko Evropskoj uniji.",
+          "russian": "Решением подписать их президент Сербии демонстративно бросил вызов Европейскому союзу.",
+          "source": "N1, 2026"
+        }
+      ],
+      "note": "Выражение сильнее обычного provokacija: действие воспринимается как нарочито вызывающее и сделанное почти «назло» адресату. Лицо, против которого направлена провокация, часто стоит в дательном: prst u oko Briselu, narodu, vlastima.",
+      "keyword": "prst u oko"
+    },
+    {
       "headword_latin": "Prstom ne mrdnuti",
       "type": "frazeologizam",
       "definition_ru": "пальцем не пошевелить; ничего не сделать; не предпринять ни малейшего усилия",
@@ -16176,6 +16389,33 @@
       ],
       "note": "Сравнение связано со старым представлением о кучерах как о мастерах громкой и изобретательной брани. В русском функциональном переводе естественнее «ругаться как сапожник».",
       "keyword": "kočijaš"
+    },
+    {
+      "headword_latin": "Puca mi prsluk",
+      "type": "sleng",
+      "definition_ru": "мне всё равно; мне по барабану; меня это совершенно не волнует",
+      "synonyms_sr": [
+        "baš me briga",
+        "boli me uvo (razg.)",
+        "svejedno mi je",
+        "zabole me (grub.)"
+      ],
+      "literal_ru": "у меня жилет лопается",
+      "register": "razg., sleng, šalj.; danas može zvučati namerno staromodno ili komično",
+      "examples": [
+        {
+          "serbian_latin": "Puca mi prsluk i za profesionalne patriote [...] i za njihove optužbe.",
+          "russian": "Мне совершенно плевать и на профессиональных патриотов, и на их обвинения.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "Prave dame su u trenucima rezigniranosti sasvim slatko izgovarale: „Puca mi prsluk.“",
+          "russian": "Настоящие дамы в минуты раздражения мило говорили: «Мне всё равно».",
+          "source": "Krstarica, 2012"
+        }
+      ],
+      "note": "Выражение действительно существует в сербской речи, но сегодня часто воспринимается как комическая, смягчённая или слегка ретро-замена более грубых формул безразличия. Поэтому для нейтральной речи лучше svejedno mi je, для живой разговорной — baš me briga.",
+      "keyword": "puca mi prsluk"
     },
     {
       "headword_latin": "Pucati po šavovima",
@@ -16960,6 +17200,32 @@
       ],
       "note": "Это важная культурная особенность слова obraz: в устойчивых сочетаниях оно часто означает честь и моральную репутацию. Поэтому sačuvati obraz не всегда следует механически переводить русским «сохранить лицо»: нередко точнее «сохранить честь», «не поступиться достоинством».",
       "keyword": "sačuvati obraz"
+    },
+    {
+      "headword_latin": "Sam svoj gazda",
+      "type": "izraz",
+      "definition_ru": "сам себе хозяин; работать на себя; ни от кого не зависеть",
+      "synonyms_sr": [
+        "raditi za sebe",
+        "biti samostalan",
+        "ne zavisiti od šefa"
+      ],
+      "literal_ru": "сам свой хозяин",
+      "register": "razg.-neutralno; naročito o preduzetništvu i samostalnom radu",
+      "examples": [
+        {
+          "serbian_latin": "Odlučio je da postane sam svoj gazda i ujedno majstor za neobične lampe.",
+          "russian": "Он решил стать сам себе хозяином и заняться изготовлением необычных ламп.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Jako volim što sam sam svoj gazda, nemam radno vreme od 8 do 16 i ne trpim autoritet.",
+          "russian": "Мне очень нравится быть самой себе хозяйкой: у меня нет рабочего дня с восьми до четырёх и начальства над головой.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Gazda — хозяин, владелец, начальник; слово очень живое в сербской разговорной речи. Biti sam svoj gazda обычно подчёркивает именно самостоятельность в работе и принятии решений, а не богатство или высокий социальный статус.",
+      "keyword": "sam svoj gazda"
     },
     {
       "headword_latin": "Sastavljati kraj s krajem",
