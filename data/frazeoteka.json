@@ -3764,6 +3764,33 @@
       "keyword": "do bola"
     },
     {
+      "headword_latin": "Do daske",
+      "type": "frazeologizam",
+      "definition_ru": "на полную; до упора; на всю катушку; по полной программе",
+      "synonyms_sr": [
+        "do kraja",
+        "punom snagom",
+        "maksimalno",
+        "skroz (razg.)"
+      ],
+      "literal_ru": "до доски",
+      "register": "razg., ekspresivno; tipično gas do daske, pojačati do daske, muzika do daske, ali i šire",
+      "examples": [
+        {
+          "serbian_latin": "Držali smo gas do daske i napadali smo.",
+          "russian": "Мы держали газ в пол и продолжали атаковать.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Obesni gosti splavova ne umeju da se zabavljaju bez muzike „do daske“.",
+          "russian": "Посетители сплавов не умеют развлекаться без музыки, включённой на полную громкость.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "В сочетании gas do daske русский эквивалент — «газ в пол». Но do daske давно работает шире как усилитель максимальной степени: pojačati do daske, živeti do daske. Поэтому одного русского перевода нет: «до упора», «на полную», «на всю катушку». Точное происхождение расширенного употребления лучше не выводить только из современного автомобильного образа.",
+      "keyword": "do daske"
+    },
+    {
       "headword_latin": "Dobijati / dobiti mrvice",
       "type": "frazeologizam",
       "definition_ru": "получать крохи; довольствоваться малой долей; получать лишь остатки от того, что досталось другим",
@@ -8153,6 +8180,32 @@
       "keyword": "jezik kosti nema ali kosti lomi"
     },
     {
+      "headword_latin": "Jutro je pametnije od večeri",
+      "type": "poslovica",
+      "definition_ru": "утро вечера мудренее; лучше переночевать с решением",
+      "synonyms_sr": [
+        "prespavati odluku",
+        "sačekati do sutra",
+        "odlučiti hladne glave"
+      ],
+      "literal_ru": "утро умнее вечера",
+      "register": "poslovica; savet da se važna odluka ne donosi umoran, uznemiren ili pod jakim emocijama",
+      "examples": [
+        {
+          "serbian_latin": "Jutro je pametnije od večeri, donećemo mudru odluku.",
+          "russian": "Утро вечера мудренее — примем взвешенное решение.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Oni odlažu svoju odluku po principu: Jutro je pametnije od večeri.",
+          "russian": "Они откладывают решение по принципу «утро вечера мудренее».",
+          "source": "Politika, 2019"
+        }
+      ],
+      "note": "Русский эквивалент практически полный. Сербская формула часто означает вполне конкретный совет: не решать вопрос сейчас, а выспаться и вернуться к нему утром с более ясной головой. Поэтому естественная бытовая реакция — Prespavaj, jutro je pametnije od večeri.",
+      "keyword": "jutro je pametnije od večeri"
+    },
+    {
       "headword_latin": "Kad čeljad nisu besna, ni kuća nije tesna",
       "type": "poslovica",
       "definition_ru": "в тесноте, да не в обиде; если люди ладят, места хватит всем",
@@ -8596,6 +8649,33 @@
       ],
       "note": "Русский эквивалент «в чём мать родила» практически полный, хотя порядок компонентов другой. Сербская базовая модель — go kao od majke rođen. Возможно и самостоятельное kao od majke rođen, если из контекста уже ясно, что речь о наготе.",
       "keyword": "kao od majke rođen"
+    },
+    {
+      "headword_latin": "Kao pokisla kokoš",
+      "type": "frazeologizam",
+      "definition_ru": "как мокрая курица; понурый; жалкий и растерянный",
+      "synonyms_sr": [
+        "pokunjen",
+        "utučen",
+        "snužden",
+        "neraspoložen"
+      ],
+      "literal_ru": "как промокшая курица",
+      "register": "razg., iron.-ekspresivno; o osobi koja izgleda potišteno, postiđeno, bespomoćno ili poraženo",
+      "examples": [
+        {
+          "serbian_latin": "Ministri iz Demokratske stranke kao pokisle kokoši slušaju kako im Koštunica nadmeno poručuje...",
+          "russian": "Министры Демократической партии сидят понурые, словно мокрые курицы, слушая наставления Коштуницы.",
+          "source": "Blic, 2008"
+        },
+        {
+          "serbian_latin": "Vratili smo se sa tog sastanka ko pokisle kokoši.",
+          "russian": "С той встречи мы вернулись совершенно понурые и пристыженные.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Русское «как мокрая курица» очень близко и по образу, и по оценке. Однако сербское выражение особенно часто описывает внешнее состояние после поражения, выговора или неприятного разговора: человек выглядит сникшим и беспомощным. Разговорное ko pokisla kokoš встречается очень часто, но словарная форма — kao pokisla kokoš.",
+      "keyword": "kao pokisla kokoš"
     },
     {
       "headword_latin": "kao posrani golub",
@@ -9588,31 +9668,31 @@
       "keyword": "kajgana"
     },
     {
-      "headword_latin": "Krasti Bogu dane",
+      "headword_latin": "Krasti bogu dane",
       "type": "frazeologizam",
-      "definition_ru": "бить баклуши; попусту тратить время; прожигать дни",
+      "definition_ru": "бездельничать; зря прожигать время; болтаться без дела",
       "synonyms_sr": [
         "dangubiti",
-        "lenčariti",
         "besposličiti",
-        "gubiti vreme"
+        "lenčariti",
+        "traćiti vreme"
       ],
       "literal_ru": "красть у Бога дни",
-      "register": "razg., neodobr.; obično o dugotrajnom besposličenju i besciljnom trošenju vremena",
+      "register": "razg., neodobr.; leksikalizovan izraz sa izbledelim doslovnim religijskim značenjem",
       "examples": [
         {
-          "serbian_latin": "Više ne možemo krasti Bogu dane.",
-          "russian": "Мы больше не можем сидеть сложа руки и попусту тратить время.",
-          "source": "Danas, 2007"
+          "serbian_latin": "Tu par dana već leškari i krade bogu dane.",
+          "russian": "Он уже несколько дней там валяется и попусту тратит время.",
+          "source": "Danas, 2025"
         },
         {
-          "serbian_latin": "Taj nesrećni i depresivni čovek kao da „krade Bogu dane“.",
-          "russian": "Этот несчастный, подавленный человек словно просто прожигает дни.",
-          "source": "Tanjug, 2024"
+          "serbian_latin": "Imam utisak da ništa ne radim. Da kradem bogu dane.",
+          "russian": "У меня такое ощущение, что я ничего не делаю, а просто прожигаю дни.",
+          "source": "Radar, 2024"
         }
       ],
-      "note": "Выражение не просто означает «ничего не делать»: в нём обычно слышится моральная оценка — человеку даны дни жизни, а он их расходует впустую. Иногда оборот употребляется о человеке, который просто бесцельно «доживает» день за днём. Для нейтрального «отдыхать» оно не подходит.",
-      "keyword": "krasti Bogu dane"
+      "note": "Это не просто «отдыхать»: обычно говорящий или наблюдатель оценивает время как потраченное впустую, без полезного занятия и результата. Интересна орфография: в лексикализованном выражении сербские лингвистические источники приводят bogu со строчной буквы, поскольку прямое обращение к Богу здесь уже не ощущается.",
+      "keyword": "krasti bogu dane"
     },
     {
       "headword_latin": "krenuti nečijim stopama",
@@ -9862,6 +9942,33 @@
       ],
       "note": "Русское «выиграть время» обычно нейтральнее, тогда как kupovati vreme часто намекает на сознательное затягивание неизбежного решения. Поэтому одно и то же выражение переводится «выиграть время» при полезной отсрочке и «тянуть время» при манипулятивной.",
       "keyword": "kupiti vreme"
+    },
+    {
+      "headword_latin": "Laže čim zine",
+      "type": "frazeologizam",
+      "definition_ru": "врёт, как только рот откроет; постоянно врёт; врёт на каждом слове",
+      "synonyms_sr": [
+        "stalno laže",
+        "laže bez prestanka",
+        "patološki laže",
+        "ne može mu se verovati"
+      ],
+      "literal_ru": "врёт, едва откроет рот",
+      "register": "razg., jako neodobr.; zinuti — širom otvoriti usta",
+      "examples": [
+        {
+          "serbian_latin": "On laže čim zine i seje zlo da ne trepne.",
+          "russian": "Он врёт, стоит ему открыть рот, и без зазрения совести сеет зло.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Patološki lažov [...] laže čim zine i zine čim laže.",
+          "russian": "Патологический лжец врёт каждый раз, когда открывает рот.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Это гораздо сильнее простого često laže: выражение гиперболически утверждает, что человек практически не способен сказать правду. Глагол zinuti русскому полезно запомнить отдельно: zini — «открой рот», например у врача; в данной формуле он создаёт образ «ещё рот не успел открыть — уже врёт».",
+      "keyword": "laže čim zine"
     },
     {
       "headword_latin": "Leći na rudu",
@@ -10139,6 +10246,33 @@
       ],
       "note": "В отличие от нейтрального lud, сравнение kao struja часто подчёркивает бурную энергию, темперамент и непредсказуемость. Поэтому оно может быть даже почти комплиментом: «оторва», «с ним не соскучишься». Для психического заболевания такое выражение, разумеется, не является термином.",
       "keyword": "lud kao struja"
+    },
+    {
+      "headword_latin": "Lupati se po glavi",
+      "type": "frazeologizam",
+      "definition_ru": "кусать локти; корить себя; сильно сожалеть о своей ошибке",
+      "synonyms_sr": [
+        "kajati se",
+        "prebacivati sebi",
+        "žaliti zbog svoje odluke",
+        "gristi se"
+      ],
+      "literal_ru": "бить себя по голове",
+      "register": "razg., ekspresivno; često lupati se po glavi što...",
+      "examples": [
+        {
+          "serbian_latin": "U Benfiki se sigurno odavno lupaju po glavi što nisu imali strpljenja i sluha za Luku Jovića.",
+          "russian": "В «Бенфике» наверняка давно кусают локти из-за того, что не проявили терпения с Лукой Йовичем.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Sad bih uzeo motku i lupao bih se po glavi, što nisam štrajkovao glađu.",
+          "russian": "Теперь я готов бить себя по голове за то, что тогда не объявил голодовку.",
+          "source": "N1 Srbija, 2016"
+        }
+      ],
+      "note": "Как и русское «кусать локти», выражение обозначает позднее сожаление о собственной ошибке или упущенной возможности. Возможен буквальный жест, поэтому граница между фразеологизмом и образной гиперболой бывает размыта. Очень типична модель lupati se po glavi što nisam / nismo....",
+      "keyword": "lupati se po glavi"
     },
     {
       "headword_latin": "maca ti je pojela jezik",
@@ -10539,6 +10673,32 @@
       ],
       "note": "Mrtav здесь не имеет отношения к смерти и просто резко усиливает признак. Сочетание настолько устойчиво, что словарно сопоставляется с английским dead tired. Для русского естественнее «смертельно устал», «устал как собака», а не буквальное «мёртвый уставший».",
       "keyword": "mrtav umoran"
+    },
+    {
+      "headword_latin": "Mrtvom vuku rep se meri",
+      "type": "poslovica",
+      "definition_ru": "окончательно судят после конца; легко оценивать того, кто уже не опасен; время расставляет всё по местам",
+      "synonyms_sr": [
+        "lako je suditi posle",
+        "konačan sud dolazi kasnije",
+        "vreme pokaže pravu vrednost"
+      ],
+      "literal_ru": "мёртвому волку измеряют хвост",
+      "register": "poslovica; često i mrtvom se vuku meri rep",
+      "examples": [
+        {
+          "serbian_latin": "Dobro znam da ona često citirana narodna mudrost [...] važi: mrtvom se vuku meri rep.",
+          "russian": "Я хорошо знаю эту народную мудрость: окончательная оценка приходит потом.",
+          "source": "Politika, 2009"
+        },
+        {
+          "serbian_latin": "I Andrić je isticao onu staru poslovicu koja kaže da se mrtvom vuku meri rep.",
+          "russian": "И Андрич вспоминал старую поговорку о том, что волка меряют, когда он уже мёртв.",
+          "source": "Blic, 2010"
+        }
+      ],
+      "note": "Образ допускает два близких оттенка. О произведении или человеке: настоящую величину можно оценить лишь после завершения пути и с временной дистанции. В политическом контексте возможен более язвительный смысл: легко критиковать и «мерить» того, кто уже утратил силу и не может ответить. Сербские источники употребляют оба направления смысла.",
+      "keyword": "mrtvom vuku rep se meri"
     },
     {
       "headword_latin": "Mrzeti iz dna duše",
@@ -11898,6 +12058,33 @@
       ],
       "note": "Выражение означает гарантию безопасности вообще: опасность может исходить от третьих лиц, а говорящий лишь обещает, что ничего плохого не случится. Лингвистические исследования прямо приводят Neće ti faliti ni dlaka s glave как сербский эквивалент английского not harm a hair of somebody’s head. В живой речи встречаются варианты neće ti faliti dlaka s glave, neće ti ni dlaka s glave pasti.",
       "keyword": "neće ti faliti ni dlaka s glave"
+    },
+    {
+      "headword_latin": "Nema cile-mile",
+      "type": "izraz",
+      "definition_ru": "никаких церемоний; без поблажек; никаких «туда-сюда»; всё строго",
+      "synonyms_sr": [
+        "nema popuštanja",
+        "nema milosti",
+        "nema okolišanja",
+        "zna se red"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; obično kod mene / tamo nema cile-mile",
+      "examples": [
+        {
+          "serbian_latin": "Kod mene nema cile-mile, ja njima odrežem: toliko i toliko, tako i tako.",
+          "russian": "У меня никаких церемоний: я сразу говорю, сколько, как и что.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Na Evroviziji nema „cile-mile“, ne smeju da im se potkradaju falševi.",
+          "russian": "На «Евровидении» никаких поблажек: фальшивить нельзя.",
+          "source": "Nova.rs, 2020"
+        }
+      ],
+      "note": "Cile-mile лучше запоминать как цельную рифмованную разговорную формулу: отдельные компоненты современному говорящему практически ничего не объясняют. Значение меняется по контексту от «никакого сюсюканья и поблажек» до «никаких колебаний и лишних церемоний». Часто выражение характеризует строгого человека: Kod njega nema cile-mile.",
+      "keyword": "nema cile-mile"
     },
     {
       "headword_latin": "Nema ga ni od korova",
@@ -14417,6 +14604,32 @@
       ],
       "note": "Употребляется с дательным падежом: pala mu je, upala joj je, pala nam je sekira u med. Варианты pala и upala равноправны.",
       "keyword": "sekira"
+    },
+    {
+      "headword_latin": "Pala knjiga na dva slova",
+      "type": "frazeologizam",
+      "definition_ru": "осталось только два варианта; выбор сузился до двух; осталось двое",
+      "synonyms_sr": [
+        "ostala su dva izbora",
+        "izbor se sveo na dvoje / dve mogućnosti",
+        "ostala su samo dva kandidata"
+      ],
+      "literal_ru": "книга свелась к двум буквам",
+      "register": "razg.-publicistički, ekspresivno; o situaciji kada od više mogućnosti, kandidata ili učesnika ostanu samo dva",
+      "examples": [
+        {
+          "serbian_latin": "Pala knjiga na dva slova.",
+          "russian": "В итоге нас осталось только двое.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Pala knjiga na dva slova, o nacionalnom koeficijentu Srbije ove sezone brinuće još samo Crvena zvezda i Partizan.",
+          "russian": "Осталось только два клуба: за коэффициент Сербии теперь будут бороться лишь «Црвена звезда» и «Партизан».",
+          "source": "Sport Klub, 2025"
+        }
+      ],
+      "note": "Выражение особенно удобно в спорте, политике, конкурсах и любом отборе, когда «поле» сокращается до двух вариантов. Knjiga и slova здесь уже не воспринимаются буквально. Происхождение формулы точно не установлено; для активной речи достаточно запомнить её значение «осталось только два».",
+      "keyword": "pala knjiga na dva slova"
     },
     {
       "headword_latin": "Pametniji popušta",
@@ -17756,31 +17969,30 @@
     },
     {
       "headword_latin": "Raditi nekome o glavi",
-      "type": "glagolski frazem",
-      "definition_ru": "Замышлять против кого-либо серьёзное зло; строить козни с целью погубить, устранить или уничтожить человека либо группу людей.",
+      "type": "frazeologizam",
+      "definition_ru": "строить козни против кого-то; пытаться погубить; желать чьего-то устранения",
       "synonyms_sr": [
         "kovati zaveru protiv nekoga",
         "spremati nekome propast",
         "ugrožavati nekoga",
-        "spremati napad",
-        "želeti nekoga da ukloni"
+        "raditi protiv nekoga"
       ],
-      "literal_ru": "Работать кому-либо о голову.",
-      "register": "razgovorno, ekspresivno; često publicistički i preteće",
+      "literal_ru": "работать кому-то на голову",
+      "register": "razg.-publicistički, jako, neodobr.; nekome je u dativu: radi mi / ti / mu / joj o glavi",
       "examples": [
         {
-          "serbian_latin": "Da on ima dokaze da mu je neko iz policije radio o glavi, teško da bi bio kažnjen penzionisanjem.",
-          "russian": "Если бы у него были доказательства, что кто-то из полиции замышлял его погубить, едва ли виновного наказали бы всего лишь отправкой на пенсию.",
-          "source": "N1, 2026"
+          "serbian_latin": "Vučiću o glavi rade neki od njegovih najbližih stranačkih kolega.",
+          "russian": "Против Вучича строят козни некоторые из его ближайших однопартийцев.",
+          "source": "N1 Srbija, 2015"
         },
         {
-          "serbian_latin": "Evropska unija nam radi o glavi, upozorava predsednik SRS prof. dr Vojislav Šešelj.",
-          "russian": "Европейский союз замышляет нас погубить, предупреждает председатель СРС профессор Воислав Шешель.",
-          "source": "Večernje novosti, 2026"
+          "serbian_latin": "Neko mi radi o glavi, ali ne znam zašto.",
+          "russian": "Кто-то пытается меня погубить, но я не знаю зачем.",
+          "source": "Blic, 2024"
         }
       ],
-      "note": "Лицо, против которого направлены действия, выражается дательным местоимением или существительным: radi mi, ti, mu, joj, nam, vam, im o glavi. Выражение значительно сильнее, чем raditi nekome iza leđa: обычно подразумевается угроза безопасности, положению или самому существованию.",
-      "keyword": "glava"
+      "note": "Выражение сильнее обычного raditi protiv nekoga. В серьёзном контексте оно может подразумевать угрозу жизни, но очень часто речь переносно идёт о карьере, власти, репутации, браке или положении человека. Русскому важно управление: именно raditi nekome o glavi, а не калька с винительным падежом.",
+      "keyword": "raditi o glavi"
     },
     {
       "headword_latin": "Raspremiti",
