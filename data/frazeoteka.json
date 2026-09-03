@@ -4003,6 +4003,32 @@
       "keyword": "doći sebi"
     },
     {
+      "headword_latin": "Dok je veka, ima i leka",
+      "type": "poslovica",
+      "definition_ru": "пока жив — надежда есть; пока жизнь продолжается, найдётся и выход",
+      "synonyms_sr": [
+        "dok ima života, ima nade",
+        "ne treba se predavati",
+        "uvek postoji neko rešenje"
+      ],
+      "literal_ru": "пока есть век / жизнь, есть и лекарство",
+      "register": "poslovica, ohrabrujuće; javlja se i ko ima veka, ima i leka",
+      "examples": [
+        {
+          "serbian_latin": "Greh je prema Bogu predati se. Dok je veka ima i leka.",
+          "russian": "Грешно сдаваться: пока человек жив, надежда остаётся.",
+          "source": "Politika, 2006"
+        },
+        {
+          "serbian_latin": "Svaka bolest kako dođe tako i prođe, svako ko ima veka ima i leka.",
+          "russian": "Любая болезнь приходит и проходит: пока человек жив, средство найдётся.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Vek здесь не «сто лет», а старое значение «жизнь, жизненный срок». Именно поэтому буквальная калька для русского вводит в заблуждение. Пословица выражает упорный оптимизм: пока человек жив, не следует считать ситуацию окончательно безнадёжной.",
+      "keyword": "dok je veka ima i leka"
+    },
+    {
       "headword_latin": "Dok jednom ne smrkne, drugom ne svane",
       "type": "poslovica",
       "definition_ru": "одному беда — другому удача; одному убыток — другому прибыль; несчастье одного может стать выгодой другого",
@@ -6244,6 +6270,33 @@
       ],
       "note": "Выражение подчёркивает, что человек понимает опасность или должен её понимать, но всё равно продолжает рискованные действия. Встречается также существительное igra s vatrom.",
       "keyword": "vatra"
+    },
+    {
+      "headword_latin": "Ima dana za megdana",
+      "type": "izreka",
+      "definition_ru": "ещё будет время помериться силами; ещё сочтёмся; всему свой черёд",
+      "synonyms_sr": [
+        "biće još prilike",
+        "ima vremena",
+        "još ćemo se sresti",
+        "nije gotovo"
+      ],
+      "literal_ru": "будут ещё дни для поединков",
+      "register": "narodno-razgovorno; može biti mirno, šaljivo ili blago preteće",
+      "examples": [
+        {
+          "serbian_latin": "Dobro, biće i za to vremena, „ima dana za megdana“.",
+          "russian": "Ладно, для этого ещё будет время — ещё успеем помериться силами.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Neka, ima dana za megdana, još će se mržnje širiti po Skupštini Srbije.",
+          "russian": "Ничего, ещё будет случай помериться силами.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Megdan — поединок, бой, состязание; сегодня слово само по себе имеет историко-эпическую окраску, но выражение остаётся понятным. Оно не обязательно означает угрозу: часто это просто «не сейчас — ещё будет возможность». Русские «ещё не вечер» и «ещё сочтёмся» передают разные оттенки.",
+      "keyword": "ima dana za megdana"
     },
     {
       "headword_latin": "Ima jedna caka",
@@ -8721,6 +8774,32 @@
       "keyword": "ko prizna"
     },
     {
+      "headword_latin": "Ko prvi devojci, njegova devojka",
+      "type": "izreka",
+      "definition_ru": "кто первый, того и тапки; кто раньше успел, тому и досталось",
+      "synonyms_sr": [
+        "ko prvi, njegovo",
+        "ko prvi stigne, ima prednost",
+        "prvi uzima priliku"
+      ],
+      "literal_ru": "кто первым пришёл к девушке, того и девушка",
+      "register": "šalj., poslovično; danas pretežno preneseno o principu prvenstva",
+      "examples": [
+        {
+          "serbian_latin": "Treba im reći za naše pravilo da ko prvi dođe devojci, devojka je njegova.",
+          "russian": "Нужно напомнить им наше правило: кто первым успел, тому и досталось.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Nepisano pravilo „ko prvi devojci, njegova devojka“ u ovom slučaju bilo bi zamenjeno drugim.",
+          "russian": "Неписаное правило «кто первый, того и тапки» здесь пришлось бы заменить другим.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Несмотря на буквальный старомодный образ, в современной публицистике выражение легко переносится на трансферы, инвестиции, сделки и распределение возможностей. В русском буквальный перевод звучит странно, поэтому лучше «кто первый, того и тапки», «кто успел, тот и получил».",
+      "keyword": "ko prvi devojci njegova devojka"
+    },
+    {
       "headword_latin": "Ko radi, ne boji se gladi",
       "type": "poslovica",
       "definition_ru": "кто работает, тот без хлеба не останется; трудящийся себя прокормит",
@@ -8856,28 +8935,28 @@
     {
       "headword_latin": "Ko se zadnji smeje, najslađe se smeje",
       "type": "poslovica",
-      "definition_ru": "хорошо смеётся тот, кто смеётся последним; окончательный победитель определяется в конце",
+      "definition_ru": "хорошо смеётся тот, кто смеётся последним; окончательный победитель торжествует сильнее всего",
       "synonyms_sr": [
         "kraj odlučuje",
-        "poslednja reč još nije rečena",
-        "na kraju se vidi pobednik"
+        "ne raduj se prerano",
+        "pobednik se vidi na kraju"
       ],
-      "literal_ru": "",
-      "register": "poslovica; često kao upozorenje onome ko prerano slavi pobedu ili se podsmeva protivniku",
+      "literal_ru": "кто смеётся последним, тот смеётся слаще всех",
+      "register": "poslovica; često upozorenje onome ko prerano slavi pobedu",
       "examples": [
         {
-          "serbian_latin": "Nedimović je Poledici uputio staru izreku: „Ko se zadnji smeje, najslađe se smeje“.",
-          "russian": "Недимович ответил Поледице старой поговоркой: хорошо смеётся тот, кто смеётся последним.",
-          "source": "Danas, 2023"
+          "serbian_latin": "„Ko se zadnji smeje, najslađe se smeje“ je poznata narodna izreka.",
+          "russian": "«Хорошо смеётся тот, кто смеётся последним» — известная народная поговорка.",
+          "source": "Danas, 2025"
         },
         {
-          "serbian_latin": "Belivuk je tužiocu rekao: „Ko se zadnji smeje, najslađe se smeje“.",
-          "russian": "Беливук сказал прокурору: хорошо смеётся тот, кто смеётся последним.",
-          "source": "Danas, 2022"
+          "serbian_latin": "Ko se zadnji smeje, najslađe se smeje.",
+          "russian": "Хорошо смеётся тот, кто смеётся последним.",
+          "source": "Srbija Danas, 2015"
         }
       ],
-      "note": "Значение практически полностью совпадает с русской пословицей. Речь не обязательно о буквальном смехе: формула предупреждает, что промежуточное преимущество ещё не означает окончательной победы. Поэтому она особенно частотна в спорте, политическом соперничестве и конфликтных репликах.",
-      "keyword": "ko se zadnji smeje"
+      "note": "Сербская и русская формулы почти полностью совпадают. В реальной речи это нередко не общая мораль о терпении, а реплика в конфликте: не спеши злорадствовать, окончательный результат ещё неизвестен.",
+      "keyword": "ko se zadnji smeje najslađe se smeje"
     },
     {
       "headword_latin": "Ko zna zašto je to dobro",
@@ -10154,6 +10233,32 @@
       "keyword": "na krv i nož"
     },
     {
+      "headword_latin": "Na ljutu ranu, ljutu travu",
+      "type": "poslovica",
+      "definition_ru": "против серьёзной беды нужно сильное средство; радикальную проблему решают радикально",
+      "synonyms_sr": [
+        "na težak problem jako rešenje",
+        "radikalna mera za težak problem",
+        "jak lek za tešku boljku"
+      ],
+      "literal_ru": "на болезненную рану — горькую / жгучую траву",
+      "register": "poslovica, ekspresivno; često opravdava oštro ili radikalno rešenje",
+      "examples": [
+        {
+          "serbian_latin": "„Na ljutu ranu, ljutu travu“, odvajkada je poznata izreka u narodu.",
+          "russian": "Против тяжёлой раны нужно сильное средство — так издавна говорит народ.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "U teškim životnim, pa i političkim situacijama, ljudi posežu za radikalnim rešenjima, po principu „na ljutu ranu ljutu travu“.",
+          "russian": "В тяжёлых жизненных и политических ситуациях люди прибегают к радикальным решениям: против серьёзной беды — сильное средство.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Ljut здесь не надо механически переводить как «злой»: у слова есть старые и контекстные значения «жгучий, острый, сильный, мучительный». Русское «клин клином вышибают» иногда подходит, но сербская пословица шире: речь не обязательно о лечении подобного подобным, а о силе средства, соответствующей тяжести проблемы.",
+      "keyword": "na ljutu ranu ljutu travu"
+    },
+    {
       "headword_latin": "Na mala vrata",
       "type": "frazeologizam",
       "definition_ru": "исподволь; незаметно; обходным путём; без открытого объявления",
@@ -10210,6 +10315,32 @@
       ],
       "note": "В спортивном контексте pobeda na mišiće — победа, добытая силой, упорством и волей, а не лёгкой или красивой игрой. В более широком употреблении opstajati na mišiće означает «держаться из последних сил, вопреки нехватке ресурсов».",
       "keyword": "na mišiće"
+    },
+    {
+      "headword_latin": "Na mladima svet ostaje",
+      "type": "izreka",
+      "definition_ru": "будущее за молодыми; молодым строить завтрашний мир",
+      "synonyms_sr": [
+        "budućnost pripada mladima",
+        "mladi su budućnost",
+        "budućnost je u rukama mladih"
+      ],
+      "literal_ru": "мир остаётся молодым",
+      "register": "poslovica / izreka, opšteupotrebljivo; često se kreativno preinačava",
+      "examples": [
+        {
+          "serbian_latin": "Na mladima svet ostaje i kada je streljaštvo u pitanju.",
+          "russian": "И в стрелковом спорте будущее за молодыми.",
+          "source": "Radio Beograd 1 / RTS, 2018"
+        },
+        {
+          "serbian_latin": "Na mladima svet ostaje – ali kakav smo im ostavili?",
+          "russian": "Будущее за молодыми — но какой мир мы им оставили?",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Русское «молодым везде у нас дорога» лишь частично близко: сербская формула говорит прежде всего о передаче будущего следующему поколению. Она настолько узнаваема, что её постоянно переиначивают: na mladima ostaje... что-либо конкретное.",
+      "keyword": "na mladima svet ostaje"
     },
     {
       "headword_latin": "Na mrtvo ime",
@@ -10962,28 +11093,29 @@
     {
       "headword_latin": "Ne lipši, magarče, do zelene trave",
       "type": "izreka",
-      "definition_ru": "жди до морковкина заговенья; обещанного не дождёшься; когда рак на горе свистнет",
+      "definition_ru": "жди у моря погоды; обещанного можно и не дождаться; пока дождёшься — ноги протянешь",
       "synonyms_sr": [
-        "nećeš dočekati",
-        "prazno obećanje",
-        "čekaj pa se nadaj"
+        "čekati unedogled",
+        "uzalud čekati",
+        "ko zna kad će",
+        "nikako da dođe"
       ],
-      "literal_ru": "не подыхай, осёл, до зелёной травы",
-      "register": "narodno, iron., neodobr.; o obećanju čije se ostvarenje beskrajno odlaže ili je malo verovatno",
+      "literal_ru": "не подыхай, осёл, пока не вырастет зелёная трава",
+      "register": "narodno, iron.-gorko; o pomoći ili poboljšanju obećanom u neodređenoj budućnosti",
       "examples": [
         {
           "serbian_latin": "Ovako, ne lipši magarče do zelene trave.",
-          "russian": "А так — жди до морковкина заговенья.",
+          "russian": "А пока — жди у моря погоды.",
           "source": "Danas, 2015"
         },
         {
           "serbian_latin": "Ne lipši magarče do zelene trave.",
-          "russian": "Не надейся, что обещанное скоро исполнится.",
-          "source": "Danas, 2018"
+          "russian": "Пока дождёшься обещанного, можно ноги протянуть.",
+          "source": "Danas, 2010"
         }
       ],
-      "note": "Lipši — императив от lipsati, грубовато-разговорного «подыхать» о животных; для русского это важный стилистический оттенок. Politika фиксирует варианты Ne lipši, magarče, dok trava raste и do zelene trave. Смысл — надежда настолько далёкая, что до её осуществления можно и не дожить.",
-      "keyword": "magarče; zelena trava"
+      "note": "Образ нарочито жестокий: голодному ослу обещают будущую зелёную траву, но до неё ещё надо дожить. Поэтому выражение гораздо мрачнее нейтрального «надо подождать» и почти всегда содержит насмешку над пустыми обещаниями. Встречается также вариант dok trava raste.",
+      "keyword": "ne lipši magarče do zelene trave"
     },
     {
       "headword_latin": "Ne mogu sebi da priuštim",
@@ -19995,6 +20127,58 @@
       "keyword": "svako čudo za tri dana"
     },
     {
+      "headword_latin": "Svako zašto ima svoje zato",
+      "type": "izreka",
+      "definition_ru": "у каждого «почему» есть своё «потому»; всему есть причина; всему есть объяснение",
+      "synonyms_sr": [
+        "sve ima svoj razlog",
+        "za sve postoji objašnjenje",
+        "ništa nije bez razloga"
+      ],
+      "literal_ru": "у каждого «почему» есть своё «потому»",
+      "register": "neutralno, često šalj.; zašto i zato upotrebljeni su kao imenice",
+      "examples": [
+        {
+          "serbian_latin": "Svako zašto ima svoje zato, pod tom su firmom snimane obrazovne emisije i pisane knjige.",
+          "russian": "У каждого «почему» есть своё «потому»: под этим названием снимали образовательные передачи и выпускали книги.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Svako zašto ima svoje zato, da je više lepote u igri i golova, siguran sam da bi tribine bile punije.",
+          "russian": "У всего есть причина: будь в игре больше красоты и голов, трибуны наверняка были бы полнее.",
+          "source": "Sportski žurnal / Politika, 2026"
+        }
+      ],
+      "note": "Формула особенно запоминается благодаря паре zašto — zato. В ней эти обычно служебные слова субстантивируются: jedno zašto, svoje zato. Для русского функционально естественнее «на каждое почему есть своё потому» или просто «всему есть причина».",
+      "keyword": "svako zašto ima svoje zato"
+    },
+    {
+      "headword_latin": "Svakog gosta tri dana dosta",
+      "type": "poslovica",
+      "definition_ru": "гость хорош недолго; засидевшийся гость становится в тягость",
+      "synonyms_sr": [
+        "gost ne treba da se zadržava predugo",
+        "svakom gostovanju dođe kraj",
+        "gostoprimstvo ima granice"
+      ],
+      "literal_ru": "любого гостя на три дня достаточно",
+      "register": "poslovica, često šalj.; tri dana nisu doslovno pravilo već tradicionalni obraz",
+      "examples": [
+        {
+          "serbian_latin": "„Svakog gosta tri dana dosta“, „Gostima se dva puta veselimo; kad dolaze i kad odlaze“.",
+          "russian": "«Гостя хорошо принимать, но не слишком долго»; гостям радуются дважды — когда они приезжают и когда уезжают.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Svakog gosta tri dana dosta: Zašto kralj Esvatinija boravi četiri dana u zvaničnoj poseti Srbiji?",
+          "russian": "«Три дня для любого гостя достаточно»: почему король Эсватини находится в Сербии четыре дня?",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Это одна из узнаваемых сербских формул о гостеприимстве: гостя следует хорошо принять, но и самому гостю важно знать меру. Число tri здесь традиционно и не устанавливает реального трёхдневного этикета. Русские «гость хорош, пока не засиделся» и шутливое «гости, как рыба, на третий день...» функционально близки, но последнее не является точной сербской формулой.",
+      "keyword": "svakog gosta tri dana dosta"
+    },
+    {
       "headword_latin": "Sve će to narod pozlatiti",
       "type": "krilatica",
       "definition_ru": "«народ всё вознаградит»; общество отблагодарит — часто горько иронически о пустой благодарности вместо реальной помощи",
@@ -22572,6 +22756,32 @@
       ],
       "note": "Za dlaku обозначает минимальную дистанцию между случившимся и неслучившимся. Поэтому в русском в зависимости от глагола нужны «на волосок», «чуть не», «едва», «чудом». Конструкция чрезвычайно частотна и не имеет книжного оттенка.",
       "keyword": "za dlaku"
+    },
+    {
+      "headword_latin": "Za dobrim konjem se prašina diže / vije",
+      "type": "poslovica",
+      "definition_ru": "успешного человека всегда обсуждают; за заметным человеком тянется шум; сильных много критикуют",
+      "synonyms_sr": [
+        "uspešan privlači pažnju",
+        "o dobrom se mnogo priča",
+        "uspeh izaziva reakcije"
+      ],
+      "literal_ru": "за хорошим конём поднимается / клубится пыль",
+      "register": "poslovica; često kao utešna reakcija na kritiku",
+      "examples": [
+        {
+          "serbian_latin": "Za dobrim konjem prašina se vije.",
+          "russian": "За хорошим конём пыль столбом: заметного человека всегда обсуждают.",
+          "source": "Politika, 2011"
+        },
+        {
+          "serbian_latin": "Kažu da se za dobrim konjem diže prašina.",
+          "russian": "Как говорится, за хорошим конём всегда поднимается пыль.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Пословицу особенно часто говорят человеку, которого много критикуют: сам факт шума вокруг него трактуется как признак значимости или успеха. Формы prašina se diže и prašina se vije обе хорошо засвидетельствованы. Для русского буквальный образ понятен, но готового общеупотребительного эквивалента нет.",
+      "keyword": "za dobrim konjem prašina"
     },
     {
       "headword_latin": "Za džabe",
