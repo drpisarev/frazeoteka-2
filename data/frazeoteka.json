@@ -27,6 +27,32 @@
       "keyword": "Ahilova peta"
     },
     {
+      "headword_latin": "Ako laže koza, ne laže rog",
+      "type": "poslovica",
+      "definition_ru": "факты не врут; вот доказательство; против очевидного не поспоришь",
+      "synonyms_sr": [
+        "činjenice ne lažu",
+        "dokaz govori za sebe",
+        "vidi se crno na belo"
+      ],
+      "literal_ru": "если коза врёт, рог не врёт",
+      "register": "poslovica, razg.; takođe ako koza laže, rog ne laže",
+      "examples": [
+        {
+          "serbian_latin": "Ako koza laže, rog ne laže – tu je račun.",
+          "russian": "Если словам не верите, вот чек: факты не врут.",
+          "source": "BBC na srpskom / Danas, 2021"
+        },
+        {
+          "serbian_latin": "Pa ako laže koza, ne laže rog.",
+          "russian": "Ну а если словам не верите — доказательство налицо.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Выражение употребляют, когда спор можно прекратить предъявлением материального доказательства: документа, фотографии, счёта, цифр, видимого следа. Rog здесь — то, что осталось как объективный «вещественный свидетель». Русскому обычно естественнее «факты — упрямая вещь» или «вот доказательство».",
+      "keyword": "ako laže koza ne laže rog"
+    },
+    {
       "headword_latin": "Bacati / baciti bisere pred svinje",
       "type": "frazeologizam",
       "definition_ru": "метать бисер перед свиньями; предлагать что-то ценное тому, кто не способен это понять или оценить",
@@ -4551,6 +4577,33 @@
       "keyword": "na kratkom lancu"
     },
     {
+      "headword_latin": "Držati nekoga na kratkom povocu",
+      "type": "frazeologizam",
+      "definition_ru": "держать на коротком поводке; жёстко контролировать; не давать свободы действий",
+      "synonyms_sr": [
+        "strogo kontrolisati",
+        "držati pod kontrolom",
+        "ograničavati slobodu",
+        "držati nekoga u zavisnosti"
+      ],
+      "literal_ru": "держать кого-то на коротком поводке",
+      "register": "razg.-publicistički, neodobr.; o čoveku, zaposlenom, političaru, organizaciji, medijima i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Direktori na kratkom povocu biće „efikasniji“, ali u čemu?",
+          "russian": "Директора на коротком поводке будут «эффективнее», но в чём именно?",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Vođi su najlojalniji grešnici koje drži na kratkom povocu.",
+          "russian": "Вождю наиболее преданы те провинившиеся, которых он держит на коротком поводке.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Русский эквивалент практически полный. Kratak povodac предполагает не просто контроль, а зависимость: контролируемому оставляют очень мало пространства для самостоятельного решения. Возможна и именная конструкция biti na kratkom povocu.",
+      "keyword": "na kratkom povocu"
+    },
+    {
       "headword_latin": "Držati nekoga u šaci",
       "type": "frazeologizam",
       "definition_ru": "держать кого-либо в своих руках; полностью контролировать; иметь рычаг давления",
@@ -5795,6 +5848,32 @@
       ],
       "note": "Zjale связано со zjalo — «разинутый рот, пасть», а также с представлением о пустоте; отсюда zjakati «глазеть, бездельничать». В современном сербском hvatati zjale прежде всего означает бесцельно проводить время. Не путать с prodavati zjale: формы пересекаются в значении безделья, но последняя исторически допускает также образ «продавать пустоту».",
       "keyword": "zjale"
+    },
+    {
+      "headword_latin": "I ćorava koka zrno ubode",
+      "type": "poslovica",
+      "definition_ru": "и палка раз в год стреляет; даже неудачнику иногда случайно везёт",
+      "synonyms_sr": [
+        "i početniku se nekad posreći",
+        "slučajno pogoditi",
+        "imati sreće jednom"
+      ],
+      "literal_ru": "и слепая курица иногда клюнет зерно",
+      "register": "poslovica, razg., iron.-neodobr.; varijanta i ćorava koka ubode neko zrno",
+      "examples": [
+        {
+          "serbian_latin": "No, „i ćorava koka ubode neko zrno“.",
+          "russian": "Но и палка раз в год стреляет.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Sećam se da se pričalo: „I ćorava koka zrno ubode.“",
+          "russian": "Помню, говорили: даже слепой курице иногда зерно попадается.",
+          "source": "Nova.rs, 2025"
+        }
+      ],
+      "note": "Пословица обесценивает чужой успех, представляя его случайностью: человек обычно ничего особенного не умеет, но на этот раз ему повезло. Поэтому она легко звучит обидно. Ćorav в самой устойчивой формуле нормально, но при прямом обозначении незрячего человека сегодня может восприниматься грубо.",
+      "keyword": "ćorava koka zrno ubode"
     },
     {
       "headword_latin": "I mirna Bosna",
@@ -8639,6 +8718,32 @@
       "keyword": "ko drugome jamu kopa"
     },
     {
+      "headword_latin": "Ko ne plati na mostu, platiće na ćupriji",
+      "type": "poslovica",
+      "definition_ru": "не заплатишь сейчас — заплатишь потом; от расплаты не уйти",
+      "synonyms_sr": [
+        "sve dođe na naplatu",
+        "račun se kad-tad plati",
+        "od posledica se ne može pobeći"
+      ],
+      "literal_ru": "кто не заплатит на мосту, заплатит на ћуприи",
+      "register": "poslovica; takođe ko ne plati na mostu, plati na ćupriji",
+      "examples": [
+        {
+          "serbian_latin": "Ko ne plati na mostu, platiće na ćupriji.",
+          "russian": "Не заплатишь сейчас — всё равно придётся заплатить позже.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Ko ne plati na mostu, platiće na ćupriji.",
+          "russian": "От расплаты всё равно не уйти.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Most и турцизм ćuprija обозначают мост, поэтому комизм строится на двух названиях практически одного объекта. Смысл не в дорожной пошлине как таковой: если избежать цены, обязательства или последствий в одном месте, они настигнут в другом. Особенно часто выражение употребляют об отложенных проблемах и экономии, которая позже обходится дороже.",
+      "keyword": "ko ne plati na mostu platiće na ćupriji"
+    },
+    {
       "headword_latin": "Ko nema u glavi, ima u nogama",
       "type": "poslovica",
       "definition_ru": "дурная голова ногам покоя не даёт; забыл подумать — придётся побегать",
@@ -11121,6 +11226,32 @@
       "keyword": "priuštiti sebi"
     },
     {
+      "headword_latin": "Ne može i jare i pare",
+      "type": "poslovica",
+      "definition_ru": "нельзя получить и то и другое; нельзя и товар оставить, и деньги получить; за выбор приходится платить",
+      "synonyms_sr": [
+        "ne može sve",
+        "moraš nešto da izabereš",
+        "nešto moraš da žrtvuješ"
+      ],
+      "literal_ru": "нельзя и козлёнка, и деньги",
+      "register": "poslovica, razg., često šalj.; o nespojivim koristima ili zahtevima",
+      "examples": [
+        {
+          "serbian_latin": "Ili, kako bi to rekli u Srbiji: „Ne može: i jare i pare!“",
+          "russian": "Или, как сказали бы в Сербии: нельзя получить всё сразу.",
+          "source": "Radio Beograd 1 / RTS, 2025"
+        },
+        {
+          "serbian_latin": "Međutim, ne može i jare i pare.",
+          "russian": "Но нельзя получить и то и другое.",
+          "source": "Sport Klub, 2013"
+        }
+      ],
+      "note": "Образ торговый: продавец не может одновременно сохранить jare «козлёнка» и получить за него pare «деньги». По функции выражение близко английскому have your cake and eat it too; по-русски чаще приходится переводить «нельзя усидеть на двух стульях», «нельзя получить всё сразу» — в зависимости от ситуации.",
+      "keyword": "jare i pare"
+    },
+    {
       "headword_latin": "Ne može šut s rogatim",
       "type": "poslovica",
       "definition_ru": "плетью обуха не перешибёшь; слабому не тягаться с сильным; силы слишком неравны",
@@ -12368,6 +12499,33 @@
       ],
       "note": "Сегодня выражение прежде всего напоминает, что власть, удача или превосходство не могут длиться бесконечно. Форма варьирует: ničija nije do zore gorela и ničija do zore nije gorela. Для русского буквальный перевод малоестественен; чаще нужны «ничья власть не вечна», «всему приходит конец».",
       "keyword": "ničija nije do zore gorela"
+    },
+    {
+      "headword_latin": "Nije beg cicija",
+      "type": "izreka",
+      "definition_ru": "гулять так гулять; не будем мелочиться; не жадничай",
+      "synonyms_sr": [
+        "ne škrtariti",
+        "ne žaliti pare",
+        "biti široke ruke",
+        "častiti"
+      ],
+      "literal_ru": "бей — не скряга",
+      "register": "razg., šalj.-iron.; obično pri demonstrativnoj darežljivosti ili odluci da se potroši više",
+      "examples": [
+        {
+          "serbian_latin": "Pa nek platimo. Nije beg cicija.",
+          "russian": "Ну и заплатим. Гулять так гулять.",
+          "source": "Blic, 2005"
+        },
+        {
+          "serbian_latin": "Nije beg cicija i izvesno bi vlasnik PAO odvojio novac za najboljeg igrača na svetu.",
+          "russian": "Хозяин не станет мелочиться и наверняка выложит деньги за лучшего игрока мира.",
+          "source": "Sport Klub, 2026"
+        }
+      ],
+      "note": "Beg — османский титул, cicija — «скряга, жмот». Современная фраза чаще звучит шуточно: говорящий оправдывает щедрый жест, лишний расход или добавление «ещё чего-нибудь». Русские «гулять так гулять» и «не будем мелочиться» передают её лучше буквального перевода.",
+      "keyword": "nije beg cicija"
     },
     {
       "headword_latin": "Nije kome je rečeno, nego kome je suđeno",
@@ -15212,6 +15370,33 @@
       "keyword": "istina"
     },
     {
+      "headword_latin": "Pojeo vuk magarca",
+      "type": "frazeologizam",
+      "definition_ru": "дело замяли; и концы в воду; всё сошло с рук",
+      "synonyms_sr": [
+        "stvar je zataškana",
+        "nikom ništa",
+        "sve je palo u zaborav",
+        "niko nije odgovarao"
+      ],
+      "literal_ru": "волк съел осла",
+      "register": "razg., iron.-neodobr.; naročito o skandalu, prekršaju ili zločinu koji je ostao bez posledica",
+      "examples": [
+        {
+          "serbian_latin": "Otišao Saša – pojeo vuk magarca.",
+          "russian": "Саша ушёл — и всё, дело замяли.",
+          "source": "Sport Klub, 2026"
+        },
+        {
+          "serbian_latin": "Pošto vrana vrani oči ne vadi, vuk je pojeo magarca.",
+          "russian": "Поскольку ворон ворону глаз не выклюет, всё снова спустили на тормозах.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Это очень характерная сербская формула о ситуации, где произошло что-то серьёзное, но виновных в итоге не нашли или не наказали и общество постепенно забыло дело. Поэтому буквальный образ русскому ничего не объясняет; функционально ближе «и концы в воду», «дело замяли», «и всё шито-крыто».",
+      "keyword": "pojeo vuk magarca"
+    },
+    {
       "headword_latin": "Pokazati pravo lice",
       "type": "frazeologizam",
       "definition_ru": "показать истинное лицо; раскрыть свою настоящую сущность; показать, кто ты на самом деле",
@@ -17010,34 +17195,31 @@
       "keyword": "mozak na pašu"
     },
     {
-      "headword_latin": "pustiti nekoga niz vodu",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Бросить кого-либо на произвол судьбы; прекратить поддержку; предать или пожертвовать кем-либо ради собственных интересов.",
+      "headword_latin": "Pustiti nekoga niz vodu",
+      "type": "frazeologizam",
+      "definition_ru": "бросить; сдать; пожертвовать кем-то; оставить на произвол судьбы",
       "synonyms_sr": [
-        "ostaviti nekoga na cedilu",
         "odreći se nekoga",
-        "napustiti nekoga",
         "žrtvovati nekoga",
-        "uskratiti podršku"
+        "ostaviti na cedilu",
+        "napustiti nekoga"
       ],
-      "literal_ru": "Пустить кого-либо вниз по воде.",
-      "register": "Разговорное, неодобрительное.",
+      "literal_ru": "пустить кого-то вниз по течению",
+      "register": "razg.-publicistički, neodobr.; obično o osobi ili organizaciji koju prestanu da podržavaju kada postane neugodna ili nekorisna",
       "examples": [
         {
-          "serbian_latin": "Zašto je Grad „pustio niz vodu“ Apoteku Beograd?",
-          "russian": "Почему город бросил «Аптеку Белград» на произвол судьбы?",
-          "source": "Biznis.rs, 2025",
-          "url": "https://biznis.rs/vesti/srbija/zasto-je-grad-pustio-niz-vodu-apoteku-beograd-u-igri-mozda-i-vise-koncesionara/"
+          "serbian_latin": "A ona će ga, po svoj prilici, „pustiti niz vodu“.",
+          "russian": "А она, скорее всего, просто его сдаст.",
+          "source": "Danas, 2010"
         },
         {
-          "serbian_latin": "Nakon KiM Vučić pustio niz vodu i Republiku Srpsku.",
-          "russian": "После Косова и Метохии Вучич отказался поддерживать и Республику Сербскую.",
-          "source": "POKS, 2024",
-          "url": "https://poks.rs/2024/02/08/nakon-kim-vucic-pustio-niz-vodu-i-republiku-srpsku/"
+          "serbian_latin": "Ili će te pustiti niz vodu.",
+          "russian": "Или тебя просто бросят на произвол судьбы.",
+          "source": "Politika, 2007"
         }
       ],
-      "note": "Объектом может быть человек, организация, предприятие, проект или политический союзник. Выражение подчёркивает, что поддержка была прекращена в критический момент.",
-      "keyword": "voda"
+      "note": "Это сильнее нейтрального napustiti: часто подразумевается, что раньше человека поддерживали, а затем сознательно пожертвовали им ради собственных интересов. Русские «сдать кого-то», «бросить», «слить» выбираются по регистру. Не путать с буквальным pustiti nešto niz vodu — «пустить что-то по течению».",
+      "keyword": "pustiti niz vodu"
     },
     {
       "headword_latin": "Radio Mileva",
@@ -22332,6 +22514,32 @@
       "keyword": "milo za drago"
     },
     {
+      "headword_latin": "Vreme je novac",
+      "type": "izreka",
+      "definition_ru": "время — деньги; время имеет цену",
+      "synonyms_sr": [
+        "vreme je dragoceno",
+        "ne treba gubiti vreme",
+        "svaki minut košta"
+      ],
+      "literal_ru": "время — деньги",
+      "register": "izreka, neutralno; međunarodna krilata formula, naročito o poslu, biznisu i efikasnosti",
+      "examples": [
+        {
+          "serbian_latin": "„Vreme je novac“, čuvene su reči Bendžamina Frenklina.",
+          "russian": "«Время — деньги» — знаменитые слова Бенджамина Франклина.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Vreme je novac i čekanje košta.",
+          "russian": "Время — деньги, и ожидание тоже имеет свою цену.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Выражение международное и традиционно связывается с Бенджамином Франклином. В сербском оно совершенно обычное и может употребляться без какой-либо цитатной окраски: чтобы подчеркнуть цену задержки, потерянного рабочего времени или неэффективности.",
+      "keyword": "vreme je novac"
+    },
+    {
       "headword_latin": "Vreme leči sve rane",
       "type": "izreka",
       "definition_ru": "время лечит все раны; со временем боль проходит",
@@ -23251,6 +23459,33 @@
       ],
       "note": "Это очень сербская бытовая формула для вещи или умения, которое, вероятно, не понадобится, но лучше иметь про запас. По-русски особенно естественно разговорное «на всякий пожарный». Не путать с буквальным пожеланием зла: смысл ровно противоположный — лучше приготовиться к возможной неприятности.",
       "keyword": "zlu ne trebalo"
+    },
+    {
+      "headword_latin": "Zrno po zrno pogača, kamen po kamen palača",
+      "type": "poslovica",
+      "definition_ru": "по зёрнышку — каравай, по камешку — дворец; мало-помалу можно добиться большого",
+      "synonyms_sr": [
+        "malo-pomalo",
+        "korak po korak",
+        "sitnim koracima do cilja",
+        "sve se gradi postepeno"
+      ],
+      "literal_ru": "зерно за зерном — лепёшка, камень за камнем — дворец",
+      "register": "poslovica; o gomilanju malih napora, iznosa, znanja ili rezultata",
+      "examples": [
+        {
+          "serbian_latin": "Kao što se kod vas kaže, zrno po zrno pogača, kamen po kamen palača.",
+          "russian": "Как у вас говорят: по зёрнышку — каравай, по камешку — дворец.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Svaka fabrika je kao zrno po zrno pogača i kamen po kamen palača.",
+          "russian": "Каждая новая фабрика — ещё один небольшой шаг к большому результату.",
+          "source": "Politika, 2022"
+        }
+      ],
+      "note": "Пословица подчёркивает накопительный эффект небольших действий: каждое отдельное zrno или kamen мало, но вместе они создают нечто значительное. В русском нет столь же употребительной формулы с тем же образом; по ситуации подходят «курочка по зёрнышку клюёт», «капля камень точит», «мало-помалу».",
+      "keyword": "zrno po zrno pogača kamen po kamen palača"
     },
     {
       "headword_latin": "Zub vremena",
