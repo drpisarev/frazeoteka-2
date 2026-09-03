@@ -5345,6 +5345,33 @@
       "keyword": "zvono"
     },
     {
+      "headword_latin": "Hvatati krivine",
+      "type": "frazeologizam",
+      "definition_ru": "отлынивать; сачковать; увиливать от работы",
+      "synonyms_sr": [
+        "zabušavati (razg.)",
+        "izvlačiti se",
+        "izbegavati obaveze",
+        "eskivirati (razg.)"
+      ],
+      "literal_ru": "ловить повороты",
+      "register": "razg., neodobr.; naročito o poslu, obavezama i treninzima",
+      "examples": [
+        {
+          "serbian_latin": "Zaposleni kažu da se ne mogu „hvatati krivine“ na poslu.",
+          "russian": "Работники говорят, что на работе теперь не получится сачковать.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Dakle, ili ih treneri nisu za to adekvatno spremili, ili su oni „hvatali krivine“.",
+          "russian": "Значит, либо тренеры их плохо подготовили, либо сами игроки отлынивали.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Выражение обычно характеризует не разовое бездействие, а привычку облегчать себе жизнь, уклоняясь от положенной работы или выбирая обходные пути. Русские «сачковать» и «отлынивать» передают современное разговорное употребление лучше буквального образа.",
+      "keyword": "hvatati krivine"
+    },
+    {
       "headword_latin": "Hvatati se za slamku (spasa)",
       "type": "frazeologizam",
       "definition_ru": "хвататься за соломинку; цепляться за последнюю надежду",
@@ -5465,6 +5492,32 @@
       ],
       "note": "Формула I posle Tita – Tito была запущена после смерти Josipa Broza Tita 4 мая 1980 года и выражала официальную идею продолжения его политического курса, сохранения его символического присутствия и верности „Titovom putu“. RTV прямо отмечает, что лозунг был запущен в 1980 году, а научное исследование культа Тито описывает его как средство поиска легитимности власти в наследии умершего лидера в условиях нарастающего кризиса СФРЮ. С формулой тесно связана Štafeta mladosti: после смерти Тито традицию продолжили, и RTS указывает, что она шла под названием I posle Tita – Tito вплоть до 1987 года. Для русскоязычного важно, что фраза построена на намеренной эллиптической парадоксальности: никакого глагола нет, а смысл примерно «Тито физически нет, но Тито как политический принцип остаётся». Сегодня исходная формула часто употребляется исторически или иронически, а конструкция стала продуктивным шаблоном I posle X – X: так можно подчеркнуть, что человек, система или явление формально ушли, но их влияние фактически продолжается; пример I posle Miloševića – Milošević показывает, что современный сербский читатель узнаёт модель без дополнительных объяснений.",
       "keyword": "i posle Tita Tito"
+    },
+    {
+      "headword_latin": "Ići / doći mečki na rupu",
+      "type": "frazeologizam",
+      "definition_ru": "лезть прямо в логово зверя; идти навстречу опасности; явиться туда, где тебя ждут неприятности",
+      "synonyms_sr": [
+        "ići pravo u opasnost",
+        "svesno rizikovati",
+        "otići pravo neprijatelju"
+      ],
+      "literal_ru": "идти / прийти к медведю в берлогу",
+      "register": "razg., ekspresivno; mečki je dativ od mečka",
+      "examples": [
+        {
+          "serbian_latin": "Nikome nije jasno koji je vrag naterao Dinkića da dođe mečki na rupu.",
+          "russian": "Никому не понятно, зачем Динкич сам полез прямо в логово к противнику.",
+          "source": "RTS / Radio Beograd 1, 2015"
+        },
+        {
+          "serbian_latin": "Ali šta je ministar očekivao dolazeći „mečki na rupu“?",
+          "russian": "А чего министр ожидал, добровольно явившись туда, где его заведомо ждали неприятности?",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "RTS прямо объясняет выражение как поход в veoma opasno mesto. В отличие от общего igrati se vatrom, здесь опасность локализована: человек сам приходит туда, где находится сильный противник или где конфликт почти неизбежен. Русское «лезть в логово» хорошо сохраняет образ.",
+      "keyword": "mečki na rupu"
     },
     {
       "headword_latin": "ići / prodavati se kao alva",
@@ -8061,6 +8114,32 @@
       "keyword": "ko peva zlo ne misli"
     },
     {
+      "headword_latin": "Ko pita ne skita",
+      "type": "poslovica",
+      "definition_ru": "спросишь — не заблудишься; не знаешь — спроси",
+      "synonyms_sr": [
+        "treba pitati kad ne znaš",
+        "pitanjem se dolazi do odgovora",
+        "ne treba se stideti pitanja"
+      ],
+      "literal_ru": "кто спрашивает, тот не блуждает",
+      "register": "poslovica, dobronamerno; savet da se ne stidimo da tražimo objašnjenje ili pomoć",
+      "examples": [
+        {
+          "serbian_latin": "Za sada se oslanjaju na ono malo starih oznaka i na metodu „ko pita ne skita“.",
+          "russian": "Пока приходится пользоваться немногочисленными старыми указателями и принципом «спросишь — не заблудишься».",
+          "source": "Politika, 2007"
+        },
+        {
+          "serbian_latin": "„Ko pita – ne skita!“ To je opšte poznata stvar.",
+          "russian": "«Кто спрашивает, тот не заблудится!» — общеизвестный принцип.",
+          "source": "Blic, 2024"
+        }
+      ],
+      "note": "Рифма pita — skita делает пословицу особенно запоминающейся. Skitati значит «бродить, скитаться без определённого пути». Употребление давно шире поиска дороги: так советуют задавать вопросы врачу, банку, продавцу или специалисту, если что-то непонятно.",
+      "keyword": "ko pita ne skita"
+    },
+    {
       "headword_latin": "Ko prizna, pola mu se prašta",
       "type": "poslovica",
       "definition_ru": "повинную голову меч не сечёт; признание смягчает вину; сознавшемуся простят половину",
@@ -8219,6 +8298,31 @@
       ],
       "note": "Значение практически полностью совпадает с русской пословицей. Речь не обязательно о буквальном смехе: формула предупреждает, что промежуточное преимущество ещё не означает окончательной победы. Поэтому она особенно частотна в спорте, политическом соперничестве и конфликтных репликах.",
       "keyword": "ko se zadnji smeje"
+    },
+    {
+      "headword_latin": "Koga zmija ujede, i guštera se plaši",
+      "type": "poslovica",
+      "definition_ru": "обжёгшись на молоке, дуют на воду; после плохого опыта боишься даже безобидного",
+      "synonyms_sr": [
+        "ko se jednom opeče, postaje oprezan",
+        "strah ostaje posle lošeg iskustva"
+      ],
+      "literal_ru": "кого укусила змея, тот и ящерицы боится",
+      "register": "poslovica; varijante guštera se plaši / guštera se boji",
+      "examples": [
+        {
+          "serbian_latin": "Koga zmija ujede, i guštera se boji.",
+          "russian": "Обжёгшись однажды, потом опасаешься даже того, что не представляет настоящей угрозы.",
+          "source": "RTS, 2012"
+        },
+        {
+          "serbian_latin": "Nemam nameru da opet postavljam satove, pošto koga zmija ujede, taj se i guštera boji.",
+          "russian": "Я не собираюсь снова назначать сроки: обжёгшись однажды, становишься осторожнее.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Сербский образ отличается от русского «молока и воды», но логика та же: тяжёлый опыт порождает чрезмерную осторожность даже перед внешне похожей, но безобидной опасностью. Полезно управление: plašiti se / bojati se nekoga, nečega — родительный падеж; отсюда guštera.",
+      "keyword": "zmija; gušter"
     },
     {
       "headword_latin": "kola su krenula nizbrdo",
@@ -10603,6 +10707,33 @@
       "keyword": "nema svrhe"
     },
     {
+      "headword_latin": "Nema trte-mrte",
+      "type": "izraz",
+      "definition_ru": "никаких выкрутасов; без разговоров; никаких «туда-сюда»",
+      "synonyms_sr": [
+        "nema vrdanja",
+        "nema izmotavanja",
+        "nema okolišanja",
+        "zna se red"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj.-kategorično; takođe nema tu trte-mrte / nema kod mene trte-mrte",
+      "examples": [
+        {
+          "serbian_latin": "Nema trte-mrte, nego ako hoćeš da predsednikuješ, onda nema ništa od ministrovanja.",
+          "russian": "Никаких выкрутасов: хочешь быть председателем — значит, никакого министерского поста.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Nema tu onda trte-mrte. Onaj ko je na vlasti mora da ispunjava plan.",
+          "russian": "Тут уже никаких отговорок: тот, кто у власти, обязан выполнять план.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Trte-mrte само по себе не следует пытаться буквально переводить: это рифмованная разговорная формула, обозначающая увиливание, пустые отговорки и неопределённость. Поэтому nema trte-mrte означает, что правила ясны и возможности выкручиваться больше нет.",
+      "keyword": "trte-mrte"
+    },
+    {
       "headword_latin": "Nema zime",
       "type": "izraz",
       "definition_ru": "бояться нечего; всё будет хорошо; этому ничего не грозит",
@@ -11288,6 +11419,32 @@
       ],
       "note": "Русский оборот формально совпадает, но сербское выражение особенно естественно для описания человека, которого горе, страх или шок словно лишили нормальной жизни. Возможен и иной контекст — о пропавшем без вести, когда буквально неизвестно, жив человек или мёртв; значение тогда уже не чисто фразеологическое.",
       "keyword": "ni živ ni mrtav"
+    },
+    {
+      "headword_latin": "Nije kome je rečeno, nego kome je suđeno",
+      "type": "izreka",
+      "definition_ru": "не тому достанется, кому обещано, а тому, кому суждено; человек предполагает, судьба располагает",
+      "synonyms_sr": [
+        "sudbina odlučuje",
+        "nije sve po planu",
+        "život drugačije namesti stvari"
+      ],
+      "literal_ru": "",
+      "register": "izreka, fatalistički; o ljubavi, poslu, uspehu, sportskom rezultatu ili drugoj prilici koja pripadne neočekivanom čoveku",
+      "examples": [
+        {
+          "serbian_latin": "Iznenadilo me je jer se uvek pozovu neki favoriti, ali nije kome je rečeno nego kome je suđeno.",
+          "russian": "Меня удивило, ведь всегда есть фавориты, но достаётся не тому, кому заранее прочили, а тому, кому суждено.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ivan Ivanov bi mogao da prođe kao u onoj narodnoj mudrosti „nije kome je rečeno nego kome je suđeno“.",
+          "russian": "С Иваном Ивановым может получиться по поговорке: не тому достанется, кому обещали, а тому, кому суждено.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Формула выражает довольно характерный фатализм: договорённость, обещание или очевидный прогноз ещё не гарантируют исход — окончательно всё решит судьба. В последние годы выражение получило дополнительную популярность через эстраду и футбол, но оно существовало задолго до современных песен; Danas фиксировал его как narodna mudrost уже в 2013 году.",
+      "keyword": "nije kome je rečeno nego kome je suđeno"
     },
     {
       "headword_latin": "Nije ni ona cvećka",
@@ -12734,6 +12891,32 @@
       "keyword": "sekira"
     },
     {
+      "headword_latin": "Pametniji popušta",
+      "type": "poslovica",
+      "definition_ru": "умный уступит; мудрый не станет продолжать бессмысленный спор",
+      "synonyms_sr": [
+        "mudriji se povlači",
+        "ne treba ulaziti u besmislen sukob",
+        "izbeći nepotrebnu svađu"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; tradicionalni savet da se prekine sukob, ali danas često citirana kritički ili parodijski",
+      "examples": [
+        {
+          "serbian_latin": "Udarila me. Nisam joj vratila. Da jesam, onda bi ona mene, pa ja nju… Pametniji popušta.",
+          "russian": "Она меня ударила. Я не ответила: иначе это продолжалось бы по кругу. Умный уступит.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "„Ćutanje je zlato“, „pametniji popušta“.",
+          "russian": "«Молчание — золото», «умный уступит».",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "В традиционном смысле это призыв не раздувать бессмысленный конфликт. Однако современная сербская публицистика очень часто спорит с этой установкой: уступчивость может трактоваться как пассивность, позволяющая более агрессивной стороне победить. Отсюда современные переделки вроде pametniji ne popušta, pametniji se organizuje.",
+      "keyword": "pametniji popušta"
+    },
+    {
       "headword_latin": "Pandorina kutija",
       "type": "frazeologizam",
       "definition_ru": "ящик Пандоры; источник цепочки бед и непредвиденных последствий",
@@ -14096,6 +14279,32 @@
       ],
       "note": "Реплика означает, что человек после своего поведения, ошибки или провала не имеет морального права выступать с критикой или хвастаться. Русское «сидел бы и не высовывался» часто передаёт прагматику лучше всего. Буквальный жест «накрыть уши» современному говорящему уже ничего отдельно объяснять не обязан.",
       "keyword": "pokriti se ušima"
+    },
+    {
+      "headword_latin": "Pokupiti kajmak",
+      "type": "frazeologizam",
+      "definition_ru": "снять сливки; забрать себе самое выгодное; получить основную прибыль или награду",
+      "synonyms_sr": [
+        "uzeti najbolji deo",
+        "izvući najveću korist",
+        "prisvojiti najveću dobit"
+      ],
+      "literal_ru": "собрать каймак",
+      "register": "razg.-publicistički, često neodobr.; o profitu, koristi ili naročito vrednom rezultatu",
+      "examples": [
+        {
+          "serbian_latin": "Vlasnici su oni koji odlučuju šta će se praviti i oni koji će pokupiti skoro sav kajmak.",
+          "russian": "Владельцы решают, что производить, и именно они снимут почти все сливки.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Pobednik će osvojiti regionalnu titulu i „pokupiti kajmak“ u vidu sigurnog učešća u Evroligi.",
+          "russian": "Победитель возьмёт титул и снимет сливки в виде гарантированного участия в Евролиге.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Kajmak — важная балканская молочная реалия: жирный верхний слой молочного продукта считается особенно ценным. Поэтому метафора практически идеально соответствует русскому «снять сливки». Часто подразумевается, что основную выгоду получает не тот, кто выполнил основную работу.",
+      "keyword": "pokupiti kajmak"
     },
     {
       "headword_latin": "Pokupiti svoje krpice",
@@ -18292,6 +18501,58 @@
       ],
       "note": "Русскому легко понять слова, но не переносное škola: это «урок жизни», часто неприятный. Фраза обычно следует после ошибки и означает «теперь мы за неё заплатили и должны сделать выводы». Поэтому близко русское «на ошибках учатся», но сербская пословица сильнее подчёркивает цену приобретённого опыта.",
       "keyword": "svaka škola se plaća"
+    },
+    {
+      "headword_latin": "Svako čudo za tri dana",
+      "type": "poslovica",
+      "definition_ru": "любая сенсация живёт три дня; пошумят и забудут; всё быстро забудется",
+      "synonyms_sr": [
+        "brzo će se zaboraviti",
+        "proći će buka",
+        "kratko traje pažnja javnosti"
+      ],
+      "literal_ru": "каждое чудо — на три дня",
+      "register": "poslovica, često iron.; naročito o skandalima, senzacijama i događajima koji brzo prestanu da zanimaju javnost",
+      "examples": [
+        {
+          "serbian_latin": "Naša narodna mudrost je dodala tumačenje: „Svako čudo za tri dana!“",
+          "russian": "Народная мудрость добавляет: любая сенсация живёт всего три дня.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Svako čudo za tri dana. Tako i Kopaonik biznis forum.",
+          "russian": "Любая сенсация — на три дня. Так и с Копаоникским бизнес-форумом.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Čudo здесь не обязательно «чудо» в положительном смысле: это любое необычное событие, вызывающее всеобщее внимание. Формула часто звучит довольно цинично применительно к общественным скандалам: сегодня все возмущены, через несколько дней тема исчезает.",
+      "keyword": "svako čudo za tri dana"
+    },
+    {
+      "headword_latin": "Sve će to narod pozlatiti",
+      "type": "krilatica",
+      "definition_ru": "«народ всё вознаградит»; общество отблагодарит — часто горько иронически о пустой благодарности вместо реальной помощи",
+      "synonyms_sr": [
+        "narod će se odužiti",
+        "društvo će nagraditi žrtvu",
+        "prazna zahvalnost (iron.)"
+      ],
+      "literal_ru": "народ всё это позолотит",
+      "register": "krilatica; vezana za istoimenu pripovetku Laze Lazarevića; savremena upotreba često ironična",
+      "examples": [
+        {
+          "serbian_latin": "Kako kažu u narodu – „sve će to narod pozlatiti“.",
+          "russian": "Как говорится, «народ за всё отблагодарит» — здесь с явной иронией.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Nema veze, sve će to narod platiti (ili „pozlatiti“ kako to reče čuveni lekar i pripovedač Laza K. Lazarević).",
+          "russian": "Ничего, за всё заплатит народ — или «позолотит», как сказал Лаза Лазаревич.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Это прежде всего литературная крылатая фраза из рассказа Лазы К. Лазаревича Sve će to narod pozlatiti. Рассказ посвящён судьбе военных инвалидов после сербско-турецких войн и общественной неблагодарности к людям, принесшим жертву ради страны. Поэтому современная формула часто горько иронична: героя торжественно похвалят, но реальной заботы может не последовать.",
+      "keyword": "sve će to narod pozlatiti"
     },
     {
       "headword_latin": "Sve je nekome ravno (do Kosova)",
