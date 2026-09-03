@@ -3003,6 +3003,33 @@
       "keyword": "karton"
     },
     {
+      "headword_latin": "Dati / dobiti korpu",
+      "type": "frazeologizam",
+      "definition_ru": "дать от ворот поворот / получить отказ; отвергнуть / быть отвергнутым",
+      "synonyms_sr": [
+        "odbiti nekoga",
+        "biti odbijen",
+        "dati odbijenicu",
+        "izvisiti (sleng, delimično)"
+      ],
+      "literal_ru": "дать / получить корзину",
+      "register": "razg.; dati nekome korpu / dobiti korpu; naročito često o odbijanju u ljubavi, ali i šire",
+      "examples": [
+        {
+          "serbian_latin": "Svi su se našalili kako je Jeleni „dao korpu“ već drugi put.",
+          "russian": "Все пошутили, что он уже второй раз дал Елене от ворот поворот.",
+          "source": "Grand / Nova.rs, 2019"
+        },
+        {
+          "serbian_latin": "Sara šutnula Ivana Marinkovića, pa dobila korpu od Anđela Rankovića.",
+          "russian": "Сара бросила Ивана Маринковича, а затем сама получила от ворот поворот от Анджело Ранковича.",
+          "source": "Blic, 2025"
+        }
+      ],
+      "note": "Полезно сразу запомнить пару: dati nekome korpu — «отказать кому-то», dobiti korpu — «получить отказ». Хотя особенно часто речь идёт о романтическом отказе, выражение употребляется и шире — например, когда кого-то не выбирают или не принимают. С настоящей корзиной значение обычно легко различается по контексту.",
+      "keyword": "dati dobiti korpu"
+    },
+    {
       "headword_latin": "Dati nekome do znanja",
       "type": "izraz",
       "definition_ru": "дать понять; дать ясно понять; недвусмысленно показать",
@@ -4721,6 +4748,32 @@
       ],
       "note": "Обычно выражение маркирует переход: сначала происходящее казалось несерьёзным, но появился риск, конфликт или реальные последствия. Русское «шутки кончились» почти полностью совпадает. Типичная конструкция — kad je đavo odneo šalu «когда стало уже не до шуток».",
       "keyword": "đavo; šala"
+    },
+    {
+      "headword_latin": "Đavo ne spava",
+      "type": "izreka",
+      "definition_ru": "чёрт не дремлет; беда не дремлет; всякое может случиться",
+      "synonyms_sr": [
+        "nevolja vreba",
+        "treba biti na oprezu",
+        "zlo može da se dogodi"
+      ],
+      "literal_ru": "дьявол не спит",
+      "register": "izreka, razg., upozoravajuće; takođe đavo nikada ne spava",
+      "examples": [
+        {
+          "serbian_latin": "Đavo ne spava nigde, pa ni u islamskim i drugim verskim zajednicama.",
+          "russian": "Чёрт нигде не дремлет, в том числе и в исламских и других религиозных общинах.",
+          "source": "Nova.rs, 2023"
+        },
+        {
+          "serbian_latin": "Budući da đavo nikada ne spava, istog dana je na plažu Rača navratio i mog druga Ljubišu Divljaka.",
+          "russian": "А поскольку чёрт никогда не дремлет, в тот же день на пляж Рача заглянул и мой приятель Любиша Дивляк.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Формула давно не требует религиозного контекста: ею предупреждают, что неприятность, искушение или неожиданная проблема могут возникнуть в любой момент. Русское «чёрт не дремлет» совпадает и по образу, и по функции. Усиленный вариант đavo nikada ne spava также очень естественен.",
+      "keyword": "đavo ne spava"
     },
     {
       "headword_latin": "Fali mu daska u glavi",
@@ -8244,6 +8297,32 @@
       "keyword": "knedla u grlu"
     },
     {
+      "headword_latin": "Ko čeka, taj dočeka",
+      "type": "poslovica",
+      "definition_ru": "кто ждёт, тот дождётся; терпение вознаграждается",
+      "synonyms_sr": [
+        "strpljen – spasen",
+        "biti strpljiv",
+        "sačekati svoj trenutak"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; neutralno-razgovorno, često sa optimističkim ili blago ironičnim tonom; i ko čeka, taj i dočeka",
+      "examples": [
+        {
+          "serbian_latin": "Ja nosim najveću krivicu za to i nikad neću zaboraviti, ali ko čeka, taj dočeka.",
+          "russian": "Я больше всех виноват в случившемся и никогда этого не забуду, но кто ждёт, тот дождётся.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ko čeka taj i dočeka, pa je tako i Partizanov štoper Marko Jovanović stigao do mesta u startnih 11.",
+          "russian": "Кто ждёт, тот дождётся: так защитник «Партизана» Марко Йованович наконец получил место в стартовом составе.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Dočekati здесь значит не просто «встретить», а «дождаться желаемого результата». Пословица предполагает терпение и настойчивость, а не пассивное ожидание. Русское «кто ждёт, тот дождётся» почти полностью совпадает.",
+      "keyword": "ko čeka taj dočeka"
+    },
+    {
       "headword_latin": "Ko nema u glavi, ima u nogama",
       "type": "poslovica",
       "definition_ru": "дурная голова ногам покоя не даёт; забыл подумать — придётся побегать",
@@ -8483,6 +8562,31 @@
       ],
       "note": "Русский эквивалент практически полный. Смысл не в пассивной надежде на Божью защиту, а наоборот: сначала человек сам соблюдает осторожность — и лишь затем рассчитывает на благополучный исход. Поэтому пословица очень естественна в разговорах о здоровье, дороге, путешествиях и риске.",
       "keyword": "ko se čuva"
+    },
+    {
+      "headword_latin": "Ko se mača lati, od mača i gine / strada",
+      "type": "izreka",
+      "definition_ru": "кто берётся за меч, от меча и погибает; насилие возвращается к тому, кто его применяет",
+      "synonyms_sr": [
+        "nasilje rađa nasilje",
+        "ko čini zlo, zlo mu se vraća"
+      ],
+      "literal_ru": "кто берётся за меч, от меча и гибнет",
+      "register": "izreka biblijskog porekla; knjiž.-publicistički, ali dobro prepoznatljivo; latiti se + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Ko se mača lati, taj od mača i strada.",
+          "russian": "Кто берётся за меч, тот от меча и погибает.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ko se mača lati, od mača će poginuti.",
+          "russian": "Кто берётся за меч, от меча и погибнет.",
+          "source": "N1, 2025"
+        }
+      ],
+      "note": "Современная сербская формула восходит к евангельскому эпизоду в Гефсиманском саду; N1 прямо отмечает её библейское происхождение. Варианты od mača će poginuti, od mača i gine, od mača i strada передают одну мысль: применённое насилие оборачивается против самого применяющего его. Latiti se сегодня вне подобных книжных сочетаний встречается реже и означает «взяться за что-либо».",
+      "keyword": "ko se mača lati"
     },
     {
       "headword_latin": "Ko se zadnji smeje, najslađe se smeje",
@@ -8806,6 +8910,33 @@
       "keyword": "krv nije voda"
     },
     {
+      "headword_latin": "Kucati / zakucati na sva vrata",
+      "type": "frazeologizam",
+      "definition_ru": "обивать все пороги; обращаться повсюду; стучаться во все двери",
+      "synonyms_sr": [
+        "obraćati se svima",
+        "tražiti pomoć na sve strane",
+        "obilaziti institucije",
+        "pokušavati svuda"
+      ],
+      "literal_ru": "стучать во все двери",
+      "register": "razg.-publicistički; obično o upornom traženju pomoći, podrške, informacije ili rešenja",
+      "examples": [
+        {
+          "serbian_latin": "Kucala je na sva vrata ali su ona ostala zatvorena.",
+          "russian": "Она обивала все пороги, но все двери оставались закрытыми.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Veterani će zakucati na sva vrata u državi – od predsednika Borisa Tadića do gradonačelnika Beograda Dragana Đilasa.",
+          "russian": "Ветераны намерены обойти все возможные инстанции — от президента Бориса Тадича до мэра Белграда Драгана Джиласа.",
+          "source": "RTS, 2009"
+        }
+      ],
+      "note": "Kucati na sva vrata подчёркивает длительные и многочисленные попытки найти того, кто поможет; zakucati представляет такое обращение как более конкретный или решительный шаг. Для русского очень естественно «обивать пороги». Запоминается именно конструкция na sva vrata.",
+      "keyword": "kucati na sva vrata"
+    },
+    {
       "headword_latin": "Kum nije dugme",
       "type": "izreka",
       "definition_ru": "кум — человек не последний; кумовство — дело серьёзное; кумом не разбрасываются",
@@ -9024,6 +9155,33 @@
       ],
       "note": "Выражение связано с евангельской формулой о тайной милостыне — da ne zna leva šta radi desna, где исходный смысл положительный: делать добро без демонстрации. В современной светской речи гораздо чаще обыгрывается противоположная идея — подразделения одной системы действуют несогласованно. Русское «левая рука не знает, что делает правая» употребляется так же.",
       "keyword": "leva ruka ne zna šta radi desna"
+    },
+    {
+      "headword_latin": "Licem u lice",
+      "type": "izraz",
+      "definition_ru": "лицом к лицу; непосредственно; при личной встрече",
+      "synonyms_sr": [
+        "neposredno",
+        "oči u oči",
+        "lično",
+        "direktno"
+      ],
+      "literal_ru": "лицом в лицо",
+      "register": "neutralno; o neposrednom razgovoru, susretu ili suočenju; ne mora biti nasamo",
+      "examples": [
+        {
+          "serbian_latin": "Lakše mi je bilo da sve to uradim onako kako sam navikao – licem u lice s čovekom.",
+          "russian": "Мне было проще сделать всё привычным способом — лично, лицом к лицу с человеком.",
+          "source": "Radio Beograd 1 / RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ispred skupštine Srbije u Beogradu licem u lice našle su se pristalice i protivnici vlasti.",
+          "russian": "Перед зданием Скупщины Сербии в Белграде сторонники и противники власти оказались лицом к лицу.",
+          "source": "BBC na srpskom / Danas, 2025"
+        }
+      ],
+      "note": "Не путать с u četiri oka. Licem u lice означает непосредственный контакт или противостояние и вполне может происходить при множестве свидетелей; u četiri oka — разговор двух людей без третьих лиц. Поэтому русский «с глазу на глаз» подходит не всегда.",
+      "keyword": "licem u lice"
     },
     {
       "headword_latin": "ličiti kao jaje jajetu",
@@ -9510,6 +9668,33 @@
       ],
       "note": "Ваша фраза грамматически правильна. Для русского важно управление: dirnut pažnjom, gestom, rečima, podrškom — творительный падеж без предлога. Ganut близко по значению, но обычно звучит чуть более возвышенно и эмоционально.",
       "keyword": "dirnuta pažnjom"
+    },
+    {
+      "headword_latin": "Mrtav hladan",
+      "type": "frazeologizam",
+      "definition_ru": "как ни в чём не бывало; совершенно невозмутимо; с каменным спокойствием",
+      "synonyms_sr": [
+        "hladnokrvno",
+        "potpuno mirno",
+        "bez trunke uzbuđenja",
+        "kao da se ništa nije desilo"
+      ],
+      "literal_ru": "мёртвый холодный",
+      "register": "razg., ekspresivno, često iron. ili neodobr.; pridevski izraz koji često opisuje način postupanja",
+      "examples": [
+        {
+          "serbian_latin": "Ako neko izvrši najteže krivično delo i mrtav hladan sedne i popije piće...",
+          "russian": "Если кто-то совершает тяжелейшее преступление, а потом как ни в чём не бывало садится выпить...",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Lauda je mrtav hladan odbrusio da to nije tačno.",
+          "russian": "Лауда совершенно невозмутимо отрезал, что это неправда.",
+          "source": "RTS, 2019"
+        }
+      ],
+      "note": "Это не буквальное «холодный»: выражение подчёркивает отсутствие именно той эмоциональной реакции, которую в данной ситуации ожидали бы окружающие. Очень характерна модель mrtav hladan uradi / kaže / sedne.... В женском роде возможно mrtva hladna.",
+      "keyword": "mrtav hladan"
     },
     {
       "headword_latin": "Mrtav umoran",
@@ -13428,6 +13613,33 @@
       "keyword": "pasja vrućina"
     },
     {
+      "headword_latin": "Pasti / padati na foru",
+      "type": "frazeologizam",
+      "definition_ru": "купиться на уловку; повестись; попасться на трюк",
+      "synonyms_sr": [
+        "nasesti",
+        "upecati se",
+        "poverovati u trik",
+        "dati se prevariti"
+      ],
+      "literal_ru": "попасться на фишку / трюк",
+      "register": "razg.; pasti na nečiju / tu foru; svršeni pasti, nesvršeni padati",
+      "examples": [
+        {
+          "serbian_latin": "Marko Dmitrović je „pao na foru“.",
+          "russian": "Марко Дмитрович купился на уловку.",
+          "source": "Telegraf, 2025"
+        },
+        {
+          "serbian_latin": "I „Jutarnji“ je pao na foru.",
+          "russian": "И «Jutarnji» тоже повёлся на розыгрыш.",
+          "source": "RTS, 2010"
+        }
+      ],
+      "note": "Fora здесь не «шутка» в узком смысле, а приём, уловка, трюк, на который человек «ведётся». Поэтому pao sam na tu foru — «я на это купился». Слово fora вообще очень многозначно в разговорном сербском, и значение всегда нужно определять по конструкции.",
+      "keyword": "pasti na foru"
+    },
+    {
       "headword_latin": "Pasti kao pokošen",
       "type": "frazeologizam",
       "definition_ru": "рухнуть как подкошенный; свалиться как подкошенный",
@@ -15736,6 +15948,33 @@
       ],
       "note": "Адресат ставится в дательном падеже: progledati učeniku, vozaču, klubu kroz prste. Несовершенный вариант gledati kroz prste обозначает регулярную снисходительность.",
       "keyword": "prsti"
+    },
+    {
+      "headword_latin": "Progutati knedlu",
+      "type": "frazeologizam",
+      "definition_ru": "сглотнуть комок; подавить эмоции; пересилить себя и принять неприятное",
+      "synonyms_sr": [
+        "suzdržati emocije",
+        "pomiriti se",
+        "preći preko nečega",
+        "progutati ponos"
+      ],
+      "literal_ru": "проглотить клёцку",
+      "register": "razg.-neutralno, ekspresivno; o potisnutoj emociji ili prinudnom prihvatanju nečeg neprijatnog",
+      "examples": [
+        {
+          "serbian_latin": "„Progutati knedlu i priznati izbore“, poručio je Svilanović.",
+          "russian": "«Стиснуть зубы и признать выборы», — заявил Свиланович.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Kao iskusni diplomata, spoljni Dačić je ćutke progutao knedlu.",
+          "russian": "Как опытный дипломат, Дачич молча подавил неприятные эмоции.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Образ связан с ощущением knedla u grlu — «комок в горле». В одном контексте человек сдерживает слёзы, страх или волнение, в другом — «проглатывает» гордость и вынужденно принимает неприятное решение. Поэтому перевод зависит от ситуации: «сглотнуть комок», «стерпеть», «пересилить себя», «стиснуть зубы».",
+      "keyword": "progutati knedlu"
     },
     {
       "headword_latin": "Promoliti nos",
@@ -21849,6 +22088,33 @@
       ],
       "note": "Выражение может относиться как к личной ссоре, так и к политическому, деловому или международному конфликту.",
       "keyword": "sekira"
+    },
+    {
+      "headword_latin": "Zalupiti / zatvoriti nekome vrata pred nosom",
+      "type": "frazeologizam",
+      "definition_ru": "захлопнуть дверь перед носом; дать от ворот поворот; отказать в доступе или поддержке",
+      "synonyms_sr": [
+        "odbiti nekoga",
+        "oterati sa vrata",
+        "uskratiti pristup",
+        "prekinuti podršku"
+      ],
+      "literal_ru": "захлопнуть кому-то дверь перед носом",
+      "register": "razg.-publicistički; nekome je dativ; upotrebljava se doslovno i preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Igrači nisu poštovani, zalupili su im vrata pred nosom.",
+          "russian": "К игрокам не проявили уважения — перед ними просто захлопнули дверь.",
+          "source": "N1 / Sport Klub, 2020"
+        },
+        {
+          "serbian_latin": "Mnogo puta su mi zatvorili vrata pred nosom, mnogo puta su mi rekli „ne“.",
+          "russian": "Много раз передо мной захлопывали дверь, много раз мне говорили «нет».",
+          "source": "Lepa i srećna / Mondo, 2025"
+        }
+      ],
+      "note": "Буквальное значение полностью прозрачно, но переносное шире: отказать в возможности, сотрудничестве, доступе или поддержке. Для русского особенно полезно управление: zalupiti nekome vrata pred nosom. В переносном значении русское «захлопнуть дверь перед кем-то» часто звучит естественнее дословного варианта с «носом».",
+      "keyword": "vrata pred nosom"
     },
     {
       "headword_latin": "Zamoriti nekoga",
