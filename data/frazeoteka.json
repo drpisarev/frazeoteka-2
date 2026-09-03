@@ -4261,6 +4261,32 @@
       "keyword": "dozvati se pameti"
     },
     {
+      "headword_latin": "Drvo se na drvo naslanja, a čovek na čoveka",
+      "type": "poslovica",
+      "definition_ru": "человеку нужен человек; люди держатся друг за друга; один в поле не воин",
+      "synonyms_sr": [
+        "čovek treba čoveka",
+        "ljudi se međusobno oslanjaju",
+        "niko ne može sam"
+      ],
+      "literal_ru": "дерево опирается на дерево, а человек — на человека",
+      "register": "poslovica, odobr., tradicionalno; takođe drvo se naslanja na drvo, a čovek na čoveka",
+      "examples": [
+        {
+          "serbian_latin": "Naš narod ima izreku: „Drvo se na drvo naslanja, a čovek na čoveka.“",
+          "russian": "У нашего народа есть поговорка: дерево опирается на дерево, а человек — на человека.",
+          "source": "Politika Magazin, 2024"
+        },
+        {
+          "serbian_latin": "Važi li još uvek ona narodna poslovica: „Drvo se naslanja na drvo, a čovek na čoveka!“",
+          "russian": "Действует ли ещё народная мудрость о том, что человеку необходима опора другого человека?",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Пословица выражает традиционную идею взаимной человеческой поддержки и зависимости от сообщества. Здесь naslanjati se na + akuzativ буквально «опираться на что-либо / кого-либо». Русское «один в поле не воин» передаёт лишь часть смысла: сербский образ не столько о совместной борьбе, сколько о фундаментальной потребности человека в другом человеке.",
+      "keyword": "drvo se na drvo naslanja čovek na čoveka"
+    },
+    {
       "headword_latin": "Držati / ne držati vodu",
       "type": "frazeologizam",
       "definition_ru": "выдерживать / не выдерживать критики; быть / не быть убедительным; сходиться логически",
@@ -5122,6 +5148,32 @@
       ],
       "note": "Логика у русского и сербского выражений одинаковая, но грамматическая форма противоположна: русский говорит отрицательно «нет дыма без огня», сербский — утвердительно gde ima dima, ima i vatre. Формулу нередко используют как псевдодоказательство слухов, поэтому в полемике она может звучать иронически или скептически.",
       "keyword": "gde ima dima ima i vatre"
+    },
+    {
+      "headword_latin": "Gde ima volje, ima i načina",
+      "type": "izreka",
+      "definition_ru": "было бы желание — способ найдётся; где есть воля, там есть и путь",
+      "synonyms_sr": [
+        "sve se može kad se hoće",
+        "uz volju se nađe rešenje",
+        "upornost nalazi put"
+      ],
+      "literal_ru": "где есть воля, есть и способ",
+      "register": "motivišuće; o mogućnosti da se nađe rešenje uz dovoljno odlučnosti",
+      "examples": [
+        {
+          "serbian_latin": "Gde ima volje, ima i načina.",
+          "russian": "Было бы желание — способ найдётся.",
+          "source": "Večernje novosti, 2019"
+        },
+        {
+          "serbian_latin": "Ipak ima načina da se bale pokupe pre kiše, jer gde ima volje ima i načina.",
+          "russian": "И всё-таки способ убрать тюки до дождя нашёлся: было бы желание.",
+          "source": "Blic, 2021"
+        }
+      ],
+      "note": "Выражение очень близко английскому where there’s a will, there’s a way и является международной формулой. Сербское volja здесь — не просто «желание», а также воля, решимость действовать. По функции оно близко уже обработанному sve se može kad se hoće, но здесь сильнее акцент на том, что решение обязательно найдётся.",
+      "keyword": "gde ima volje ima i načina"
     },
     {
       "headword_latin": "Gde je tanko, tu se kida",
@@ -7916,6 +7968,32 @@
       "keyword": "jesti"
     },
     {
+      "headword_latin": "Jezik kosti nema, ali kosti lomi",
+      "type": "poslovica",
+      "definition_ru": "язык без костей, а кости ломает; словом можно сильно ранить",
+      "synonyms_sr": [
+        "reči mogu da povrede",
+        "teška reč boli",
+        "reč može imati teške posledice"
+      ],
+      "literal_ru": "у языка нет костей, но он ломает кости",
+      "register": "poslovica, upozoravajuće; o štetnim posledicama uvreda, klevete i teških reči",
+      "examples": [
+        {
+          "serbian_latin": "Davno je rečeno da „jezik kosti nema, ali kosti lomi“.",
+          "russian": "Давно сказано: у языка костей нет, но он способен ломать кости.",
+          "source": "Politika, 2019"
+        },
+        {
+          "serbian_latin": "Poznata je izreka da „jezik kosti nema, ali kosti lomi“.",
+          "russian": "Известная поговорка напоминает: слово может причинить тяжёлый вред.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Для русского образ понятен, но именно такая формула не столь привычна. Сербская пословица особенно часто всплывает при разговоре о клевете, публичных оскорблениях и ответственности за сказанное. Контраст nema kosti – kosti lomi делает её легко узнаваемой и подчёркивает реальность последствий нематериальных слов.",
+      "keyword": "jezik kosti nema ali kosti lomi"
+    },
+    {
       "headword_latin": "Kad čeljad nisu besna, ni kuća nije tesna",
       "type": "poslovica",
       "definition_ru": "в тесноте, да не в обиде; если люди ладят, места хватит всем",
@@ -8983,6 +9061,32 @@
       ],
       "note": "Это очень характерная готовая реакция на неприятность, смысл которой пока невозможно увидеть: возможно, позднее она приведёт к хорошему результату. По-русски естественнее не вопросительное «кто знает, почему это хорошо», а «может, оно и к лучшему». Формула хорошо известна и по культовому сериалу Grlom u jagode, где она неоднократно вспоминается героем.",
       "keyword": "ko zna zašto je to dobro"
+    },
+    {
+      "headword_latin": "Koga nema, bez njega se može",
+      "type": "izreka",
+      "definition_ru": "незаменимых нет; кого нет, без того обойдёмся",
+      "synonyms_sr": [
+        "niko nije nezamenljiv",
+        "može se i bez njega",
+        "život ide dalje"
+      ],
+      "literal_ru": "",
+      "register": "poslovično, pragmatično, ponekad hladno ili potcenjivački; varijante koga nema, bez njega se mora / može i mora",
+      "examples": [
+        {
+          "serbian_latin": "Prema tome, koga nema – bez njega se može.",
+          "russian": "Значит, кого нет — без того обойдёмся.",
+          "source": "N1 Srbija, 2016"
+        },
+        {
+          "serbian_latin": "Koga nema bez njega se može i mora.",
+          "russian": "Кого нет, без того и можно, и придётся обойтись.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Формула подчёркивает заменимость отсутствующего человека и необходимость продолжать дело без него. Поэтому в зависимости от ситуации она может звучать как здоровый прагматизм или довольно жёсткое «никто незаменим». Для русского полезна конструкция bez + genitiv: bez njega, bez nje, bez njih.",
+      "keyword": "koga nema bez njega se može"
     },
     {
       "headword_latin": "Koga zmija ujede, i guštera se plaši",
@@ -12714,6 +12818,32 @@
       "keyword": "novinarska patka"
     },
     {
+      "headword_latin": "Obećanje ludom radovanje",
+      "type": "poslovica",
+      "definition_ru": "обещанного можно не дождаться; пустым обещаниям верят только наивные",
+      "synonyms_sr": [
+        "prazna obećanja",
+        "puste priče",
+        "ne verovati obećanjima"
+      ],
+      "literal_ru": "обещание — дураку радость",
+      "register": "poslovica, iron.-skeptično; naročito o političkim, predizbornim i stalno neispunjenim obećanjima",
+      "examples": [
+        {
+          "serbian_latin": "Naš narod bi rekao: „Obećanje, ludom radovanje“.",
+          "russian": "Как говорит народ: обещанного можно ждать сколько угодно.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Obećanje, ludom radovanje.",
+          "russian": "Пустыми обещаниями только наивных кормят.",
+          "source": "RTS, 2019"
+        }
+      ],
+      "note": "Ludom — дательный падеж от lud, но пословица не характеризует адресата буквально как психически больного: речь о наивном человеке, который радуется одним обещаниям. Формула очень часто употребляется скептически в политическом контексте. Русские «обещанного три года ждут» и «кормить обещаниями» близки, но передают образ иначе.",
+      "keyword": "obećanje ludom radovanje"
+    },
+    {
       "headword_latin": "obećavati kule i gradove",
       "type": "глагольный фразеологизм",
       "definition_ru": "Обещать очень много, обычно без намерения или возможности выполнить обещанное; сулить золотые горы.",
@@ -12958,6 +13088,32 @@
       ],
       "note": "Это не утверждение о буквальном отсутствии вреда от избытка, а бытовая идея «лишний запас пригодится». Поэтому выражение легко переворачивают иронически: RTS, например, обыгрывает его именно в контексте веществ, избыток которых способен навредить. Русское «запас карман не тянет» обычно звучит естественнее кальки.",
       "keyword": "od viška"
+    },
+    {
+      "headword_latin": "Odelo ne čini čoveka",
+      "type": "poslovica",
+      "definition_ru": "не одежда красит человека; по одёжке нельзя судить о человеке",
+      "synonyms_sr": [
+        "ne sudi po izgledu",
+        "izgled vara",
+        "važan je čovek, a ne odeća"
+      ],
+      "literal_ru": "одежда не делает человека",
+      "register": "poslovica; o neskladu spoljnog utiska i unutrašnjih osobina",
+      "examples": [
+        {
+          "serbian_latin": "Odelo ne čini čoveka. Ipak, ni najduhovniji ljudi ne mogu izbeći stege „dres koda“.",
+          "russian": "Не одежда красит человека. И всё же даже самые духовные люди не могут полностью избежать требований дресс-кода.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Kaže stara izreka „odelo ne čini čoveka“, ali ipak znaš sa kime imaš posla.",
+          "russian": "Старая поговорка гласит: «Не одежда красит человека», но внешний вид всё-таки кое-что сообщает.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Odelo может означать и одежду вообще, и костюм, поэтому дословное русское «костюм не делает человека» слишком узко. Пословицу нередко намеренно оспаривают, обсуждая первое впечатление и социальные сигналы одежды. Ближайшее русское соответствие — «не одежда красит человека».",
+      "keyword": "odelo ne čini čoveka"
     },
     {
       "headword_latin": "Odgovarati nekome",
@@ -20205,6 +20361,32 @@
       "keyword": "sve će to narod pozlatiti"
     },
     {
+      "headword_latin": "Sve je dobro što se dobro svrši",
+      "type": "izreka",
+      "definition_ru": "всё хорошо, что хорошо кончается",
+      "synonyms_sr": [
+        "važno je da se dobro završilo",
+        "dobar kraj sve popravi",
+        "dobro se završilo"
+      ],
+      "literal_ru": "",
+      "register": "opšteupotrebljivo; o neprijatnoj ili neizvesnoj situaciji koja se završila povoljno",
+      "examples": [
+        {
+          "serbian_latin": "Ipak sve je dobro što se dobro svrši.",
+          "russian": "И всё же всё хорошо, что хорошо кончается.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Kao i moj životni princip: sve je dobro što se dobro svrši.",
+          "russian": "Как и мой жизненный принцип: всё хорошо, что хорошо кончается.",
+          "source": "Politika, 2008"
+        }
+      ],
+      "note": "Сербская и русская формулы совпадают практически полностью. Это также традиционный сербский перевод названия пьесы Шекспира All’s Well That Ends Well, однако в обычной речи выражение совершенно самостоятельно и не воспринимается обязательно как литературная цитата.",
+      "keyword": "sve je dobro što se dobro svrši"
+    },
+    {
       "headword_latin": "Sve je nekome ravno (do Kosova)",
       "type": "frazeologizam",
       "definition_ru": "кому-то всё равно; всё безразлично; совершенно наплевать",
@@ -21312,6 +21494,32 @@
       "keyword": "u četiri oka"
     },
     {
+      "headword_latin": "U dobru se ne ponesi, u zlu se ne ponizi",
+      "type": "poslovica",
+      "definition_ru": "в счастье не заносись, в беде не унижайся; сохраняй достоинство и в успехе, и в несчастье",
+      "synonyms_sr": [
+        "ostati skroman u uspehu",
+        "sačuvati dostojanstvo u nevolji",
+        "ne uznositi se niti klonuti"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, poučno; postoje varijante u zlu se ne daj / ne porazi / ne unizi",
+      "examples": [
+        {
+          "serbian_latin": "U dobru se ne ponesi, u zlu se ne ponizi.",
+          "russian": "В счастье не заносись, а в беде не теряй достоинства.",
+          "source": "Blic Žena, 2011"
+        },
+        {
+          "serbian_latin": "U dobru se ne ponesi, u zlu se ne ponizi.",
+          "russian": "Не возгордись, когда всё хорошо, и не унижайся, когда плохо.",
+          "source": "Tanjug, 2023"
+        }
+      ],
+      "note": "Главная трудность для русского — пара poneti se – poniziti se. Poneti se здесь не обычное «повести себя», а «возгордиться, слишком высоко о себе возомнить». Пословица требует внутреннего равновесия: успех не должен делать человека высокомерным, а беда — лишать достоинства.",
+      "keyword": "u dobru se ne ponesi u zlu se ne ponizi"
+    },
+    {
       "headword_latin": "U laži su kratke noge",
       "type": "poslovica",
       "definition_ru": "у лжи короткие ноги; ложь далеко не уйдёт; правда всё равно обнаружится",
@@ -21502,6 +21710,31 @@
       ],
       "note": "Русский и сербский обороты почти совпадают, но в сербском употребительно именно u tren oka. Близкое разговорное začas обычно менее образно.",
       "keyword": "u tren oka"
+    },
+    {
+      "headword_latin": "U zdravom telu zdrav duh",
+      "type": "izreka",
+      "definition_ru": "в здоровом теле — здоровый дух",
+      "synonyms_sr": [
+        "telo i duh treba da budu zdravi",
+        "fizičko zdravlje pomaže duševnom zdravlju"
+      ],
+      "literal_ru": "в здоровом теле здоровый дух",
+      "register": "izreka / krilata formula; od latinskog mens sana in corpore sano",
+      "examples": [
+        {
+          "serbian_latin": "U zdravom telu zdrav duh.",
+          "russian": "В здоровом теле — здоровый дух.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "„U zdravom telu, zdrav duh.“",
+          "russian": "«В здоровом теле — здоровый дух».",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Сербская формула полностью узнаваема русскому. При этом латинское mens sana in corpore sano буквально означает «здоровый дух в здоровом теле», а исходная строка Ювенала была частью пожелания-молитвы, а не строгим утверждением причинно-следственной связи. В бытовом сербском выражение давно функционирует самостоятельно.",
+      "keyword": "u zdravom telu zdrav duh"
     },
     {
       "headword_latin": "ubiti dve muve jednim udarcem",
@@ -23026,6 +23259,32 @@
       ],
       "note": "С человеком обычно zakazati termin kod frizera / kozmetičara / lekara; с услугой zakazati termin za masažu / tretman. Для урока чаще просто zakazati čas. Не стоит строить одинаково со всеми существительными. В разговоре очень распространено также просто Imam zakazano u pet — «я записан на пять».",
       "keyword": "zakazati termin"
+    },
+    {
+      "headword_latin": "Zaklela se zemlja raju da se sve tajne saznaju",
+      "type": "poslovica",
+      "definition_ru": "всё тайное становится явным; шила в мешке не утаишь",
+      "synonyms_sr": [
+        "sve se na kraju sazna",
+        "tajna kad-tad izađe na videlo",
+        "ništa se ne može večno sakriti"
+      ],
+      "literal_ru": "земля поклялась раю, что все тайны станут известны",
+      "register": "poslovica / izreka; varijante da se sve tajne doznaju, da se svake tajne znaju",
+      "examples": [
+        {
+          "serbian_latin": "To je ono: zaklela se zemlja raju da se sve tajne saznaju.",
+          "russian": "Как говорится, всё тайное рано или поздно становится явным.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Što narod kaže: „Zaklela se zemlja raju da se sve tajne doznaju“.",
+          "russian": "Как говорит народ: всё тайное становится явным.",
+          "source": "Politika, 2020"
+        }
+      ],
+      "note": "Формула связана с народным сюжетом о тайне царя Трояна с козьими ушами: скрытое всё равно в конце концов обнаруживается. Современное употребление свободно от сказочного контекста. Вторая половина заметно варьирует — saznaju, doznaju, znaju — поэтому важнее узнавать устойчивый образ zaklela se zemlja raju.",
+      "keyword": "zaklela se zemlja raju"
     },
     {
       "headword_latin": "Zaklopiti",
