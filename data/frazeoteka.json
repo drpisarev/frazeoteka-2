@@ -3791,6 +3791,32 @@
       "keyword": "do daske"
     },
     {
+      "headword_latin": "Dobar savet zlata vredi",
+      "type": "izreka",
+      "definition_ru": "хороший совет на вес золота; добрый совет дорогого стоит",
+      "synonyms_sr": [
+        "dobar savet mnogo vredi",
+        "koristan savet je dragocen",
+        "vredan savet"
+      ],
+      "literal_ru": "хороший совет стоит золота",
+      "register": "neutralno; o zaista korisnom savetu stručnjaka ili iskusnog čoveka",
+      "examples": [
+        {
+          "serbian_latin": "Pre kupovine: dobar savet zlata vredi.",
+          "russian": "Перед покупкой хороший совет на вес золота.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ne kaže se uzalud: Dobar savet – zlata vredi.",
+          "russian": "Не зря говорят: хороший совет на вес золота.",
+          "source": "Politika, 2014"
+        }
+      ],
+      "note": "Полезная грамматическая модель — vredeti + genitiv: vredi zlata «стоит золота, чрезвычайно ценен». В русском естественный эквивалент — «на вес золота», хотя буквального «веса» в сербском выражении нет. Формула часто употребляется в рекламе и профессиональном консультировании, но остаётся обычным общеязыковым выражением.",
+      "keyword": "dobar savet zlata vredi"
+    },
+    {
       "headword_latin": "Dobijati / dobiti mrvice",
       "type": "frazeologizam",
       "definition_ru": "получать крохи; довольствоваться малой долей; получать лишь остатки от того, что досталось другим",
@@ -4988,6 +5014,32 @@
       "keyword": "voda; majstor"
     },
     {
+      "headword_latin": "Dug je zao drug",
+      "type": "poslovica",
+      "definition_ru": "долг — плохой товарищ; долги до добра не доводят; долг опасен",
+      "synonyms_sr": [
+        "dug je teret",
+        "zaduživanje je opasno",
+        "dugovi skupo koštaju"
+      ],
+      "literal_ru": "долг — злой / плохой товарищ",
+      "register": "poslovica; o ličnim, poslovnim i državnim dugovima",
+      "examples": [
+        {
+          "serbian_latin": "Što kaže naš narod – Dug je zao drug.",
+          "russian": "Как говорит народ: долг — плохой товарищ.",
+          "source": "Radio Beograd 1 / RTS, 2022"
+        },
+        {
+          "serbian_latin": "Dug je zao drug, to se odnosi kako na pojedince i društvo, tako i na državu u celini.",
+          "russian": "Долг — плохой товарищ: это относится и к отдельным людям, и к обществу, и к государству.",
+          "source": "N1 Srbija, 2022"
+        }
+      ],
+      "note": "Рифма dug – drug делает формулу особенно запоминающейся. Drug здесь не обязательно близкий «друг», а скорее спутник, товарищ: задолженность становится неприятным постоянным спутником. Выражение очень естественно и при обсуждении кредитов, ипотеки и государственного долга.",
+      "keyword": "dug je zao drug"
+    },
+    {
       "headword_latin": "Duša mi je u nosu",
       "type": "frazeologizam",
       "definition_ru": "я еле жив; я совершенно вымотан; сил больше нет",
@@ -5314,25 +5366,25 @@
       "type": "poslovica",
       "definition_ru": "нет дыма без огня; слухи обычно возникают не на пустом месте",
       "synonyms_sr": [
-        "nema dima bez vatre",
         "nije bez razloga",
-        "ima tu nečega"
+        "ima nešto u tome",
+        "glasine imaju neku osnovu"
       ],
       "literal_ru": "где есть дым, там есть и огонь",
-      "register": "poslovica; o glasinama, sumnjama i posrednim znacima",
+      "register": "poslovica; o glasinama, sumnjama i posrednim znacima iza kojih se pretpostavlja stvaran razlog",
       "examples": [
+        {
+          "serbian_latin": "Da izreka „Gde ima dima ima i vatre“ u ovom slučaju može imati osnova potvrđuju kontakti Jeremića i Ponoša.",
+          "russian": "То, что в данном случае «нет дыма без огня», подтверждают контакты Еремича и Поноша.",
+          "source": "Danas, 2009"
+        },
         {
           "serbian_latin": "Gde ima dima, ima i vatre.",
           "russian": "Нет дыма без огня.",
-          "source": "RTS, 2026"
-        },
-        {
-          "serbian_latin": "Đukanović je poručio: gde ima dima, ima i vatre.",
-          "russian": "Джуканович заявил: нет дыма без огня.",
-          "source": "RTS, 2020"
+          "source": "City Magazine / Danas, 2023"
         }
       ],
-      "note": "Логика у русского и сербского выражений одинаковая, но грамматическая форма противоположна: русский говорит отрицательно «нет дыма без огня», сербский — утвердительно gde ima dima, ima i vatre. Формулу нередко используют как псевдодоказательство слухов, поэтому в полемике она может звучать иронически или скептически.",
+      "note": "Выражение утверждает не доказанность слуха, а предположение, что у него есть какая-то реальная основа. Поэтому оно может быть риторическим аргументом, но само по себе не служит доказательством. Русское «нет дыма без огня» практически полностью совпадает.",
       "keyword": "gde ima dima ima i vatre"
     },
     {
@@ -6130,28 +6182,27 @@
     {
       "headword_latin": "I vuk sit i ovce na broju",
       "type": "poslovica",
-      "definition_ru": "и волки сыты, и овцы целы; все остались довольны",
+      "definition_ru": "и волки сыты, и овцы целы; все довольны; компромисс без явного проигравшего",
       "synonyms_sr": [
         "svi zadovoljni",
         "naći kompromis",
-        "svako dobije svoje",
-        "rešenje bez gubitnika"
+        "niko nije na gubitku"
       ],
       "literal_ru": "и волк сыт, и овцы все на месте",
-      "register": "poslovica, često iron.; javlja se i prilagođeno vukovi siti, ovce na broju",
+      "register": "poslovica; često o kompromisu, dogovoru ili rešenju koje zadovoljava interese različitih strana",
       "examples": [
         {
-          "serbian_latin": "I vukovi su siti i ovce su na broju.",
-          "russian": "И волки сыты, и овцы целы.",
-          "source": "RTS, 2018"
+          "serbian_latin": "Ukratko, situacija [...] ja tebi – ti meni, i vuk sit i ovce na broju.",
+          "russian": "Короче говоря: ты мне — я тебе, и волки сыты, и овцы целы.",
+          "source": "RTS, 2019"
         },
         {
-          "serbian_latin": "Na kraju su bili i vuk sit i ovce na broju.",
-          "russian": "В итоге и волки оказались сыты, и овцы целы.",
-          "source": "Danas, 2026"
+          "serbian_latin": "I vuk sit i ovce na broju.",
+          "russian": "И волки сыты, и овцы целы.",
+          "source": "Danas, 2008"
         }
       ],
-      "note": "Русский эквивалент почти идеален, но сербское na broju буквально означает «все налицо, никто не потерялся». Пословица описывает компромисс, при котором противоположные интересы удаётся формально удовлетворить одновременно. Нередко звучит иронически, особенно если такое «идеальное» решение кажется искусственным.",
+      "note": "Русский эквивалент почти полный, но сербское ovce na broju буквально означает «все овцы на месте, ни одной не недостаёт». Встречается и множественный вариант vukovi su siti i ovce su na broju. Обычно формула подчёркивает решение, при котором удалось избежать явного ущерба для одной из сторон.",
       "keyword": "vuk sit ovce na broju"
     },
     {
@@ -7168,6 +7219,32 @@
       ],
       "note": "Ограничение может быть юридическим, политическим, финансовым или административным. Встречается также переходная конструкция vezati nekome ruke — связать кому-либо руки.",
       "keyword": "ruka"
+    },
+    {
+      "headword_latin": "Imati više sreće nego pameti",
+      "type": "frazeologizam",
+      "definition_ru": "повезло больше, чем хватило ума; выехать на одном везении",
+      "synonyms_sr": [
+        "imati mnogo sreće",
+        "izvući se zahvaljujući sreći",
+        "posrećiti se"
+      ],
+      "literal_ru": "иметь больше удачи, чем ума",
+      "register": "razg., iron.; može biti samoironično ili prilično zajedljivo kada se kaže drugome",
+      "examples": [
+        {
+          "serbian_latin": "Što bi naš narod rekao, imala sam više sreće nego pameti.",
+          "russian": "Как говорят в народе, мне повезло больше, чем хватило ума.",
+          "source": "Politika, 2021"
+        },
+        {
+          "serbian_latin": "Imaš više sreće nego pameti!",
+          "russian": "Тебе везёт больше, чем хватает ума!",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "О себе это обычно добродушная самоирония: успех объясняют удачным стечением обстоятельств. В адрес другого человека фраза может быть обидной, поскольку одновременно ставит под сомнение его ум или компетентность. После više существительные стоят в родительном: više sreće, više pameti.",
+      "keyword": "više sreće nego pameti"
     },
     {
       "headword_latin": "Imati zlatne ruke",
@@ -9246,6 +9323,32 @@
       ],
       "note": "Gladi — родительный падеж от glad после bojati se: это полезная модель управления для русского учащегося. Пословица старая: Danas приводит её уже в сатирически переделанном варианте из сербского журнала 1894 года. В современной речи её нередко употребляют и иронически.",
       "keyword": "ko radi ne boji se gladi"
+    },
+    {
+      "headword_latin": "Ko radi, taj i greši",
+      "type": "poslovica",
+      "definition_ru": "не ошибается тот, кто ничего не делает; кто работает, тот и ошибается",
+      "synonyms_sr": [
+        "greške su deo rada",
+        "svako ko radi može da pogreši",
+        "ljudski je grešiti"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; koristi se i kao razumno opravdanje slučajne greške i kao zgodan izgovor",
+      "examples": [
+        {
+          "serbian_latin": "Ko radi taj i greši, kaže i narodna poslovica.",
+          "russian": "Не ошибается тот, кто ничего не делает, как говорит народная пословица.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Ko radi taj i greši. Opšte poznata izreka koja je [...] odličan izgovor za nemar.",
+          "russian": "Кто работает, тот ошибается — известная поговорка, которая может стать и отличной отговоркой для небрежности.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Сербская формула по функции соответствует русскому «не ошибается тот, кто ничего не делает», хотя формально построена иначе. Контекст важен: ею можно призывать терпимее относиться к добросовестной ошибке, но ею же иронически оправдывают халатность.",
+      "keyword": "ko radi taj i greši"
     },
     {
       "headword_latin": "Ko rano rani, dve sreće grabi",
@@ -16763,6 +16866,32 @@
       "keyword": "praviti se Toša"
     },
     {
+      "headword_latin": "Prazna vreća ne stoji uspravno",
+      "type": "poslovica",
+      "definition_ru": "голодный не работник; без средств трудно держаться; на пустой желудок далеко не уедешь",
+      "synonyms_sr": [
+        "gladan čovek ne može da radi",
+        "bez osnovnih uslova nema normalnog života",
+        "prvo treba obezbediti egzistenciju"
+      ],
+      "literal_ru": "пустой мешок не стоит вертикально",
+      "register": "poslovica; doslovno o potrebi za hranom i snagom za rad, šire o materijalnim uslovima normalnog života",
+      "examples": [
+        {
+          "serbian_latin": "Jednostavna narodna poslovica kaže: „Prazna vreća ne stoji uspravno!“",
+          "russian": "Простая народная пословица гласит: пустой мешок прямо не стоит — без средств человеку трудно держаться.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Znate, prazna vreća ne stoji uspravno.",
+          "russian": "Знаете, пустой мешок прямо не стоит: без достатка человеку тяжело.",
+          "source": "NIN, 2000"
+        }
+      ],
+      "note": "Исходный образ прост: пустой мешок падает, а наполненный способен стоять; так и голодному человеку трудно работать и сохранять силы. В современном употреблении пословица легко расширяется от еды до зарплаты, уровня жизни и материальной независимости. Русского столь же устойчивого выражения с мешком нет, поэтому перевод зависит от контекста.",
+      "keyword": "prazna vreća ne stoji uspravno"
+    },
+    {
       "headword_latin": "Pre roka",
       "type": "kolokacija",
       "definition_ru": "досрочно; раньше срока; до установленного срока",
@@ -18670,6 +18799,32 @@
       ],
       "note": "Выражение означает дать кому-то возможность или решение практически в готовом виде. Особенно часто встречается в спортивной речи: партнёру создают настолько удобный момент, что остаётся только завершить атаку. Для сербского основная форма здесь tacna; хорватское pladanj для нашей фразеотеки не нужно.",
       "keyword": "servirati na tacni"
+    },
+    {
+      "headword_latin": "Sila Boga ne moli",
+      "type": "poslovica",
+      "definition_ru": "сила с правом не считается; грубая сила разрешения не спрашивает; перед силой доводы бессильны",
+      "synonyms_sr": [
+        "sila ne pita",
+        "jači nameće svoju volju",
+        "moć ne traži dozvolu"
+      ],
+      "literal_ru": "сила Бога не просит",
+      "register": "poslovica, knjiž.-narodno; obično kritički o sili koja ignoriše norme, pravo ili tuđu volju",
+      "examples": [
+        {
+          "serbian_latin": "Molitva [...] odstupa, povlači se [...] jer „Sila Boga ne moli“.",
+          "russian": "Молитве приходится отступить, потому что сила ни у кого разрешения не спрашивает.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Sila Boga ne moli, ali ni Bog silu ne voli.",
+          "russian": "Сила Бога не просит, но и Бог силы не любит.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Формулу нередко продолжают: ali ni Bog silu ne voli, тем самым осуждая насилие, а не прославляя его. Русское «сила есть — ума не надо» иногда подходит по ситуации, но оно насмешливее и смещает акцент на отсутствие ума. Сербская пословица прежде всего о том, что обладатель силы способен не считаться с правилами и возражениями.",
+      "keyword": "sila Boga ne moli"
     },
     {
       "headword_latin": "sipati / dodati so na ranu",
@@ -20916,6 +21071,32 @@
       "keyword": "svaka škola se plaća"
     },
     {
+      "headword_latin": "Svaki Ciga svoga konja hvali",
+      "type": "poslovica",
+      "definition_ru": "каждый кулик своё болото хвалит; всяк своё хвалит",
+      "synonyms_sr": [
+        "svako hvali svoje",
+        "svako vuče na svoju stranu",
+        "svako misli da je njegovo najbolje"
+      ],
+      "literal_ru": "каждый Цыган хвалит свою лошадь",
+      "register": "tradicionalna poslovica, iron.; Ciga danas može biti shvaćeno kao pejorativan naziv za Roma, pa izraz zahteva oprez u neutralnom javnom govoru",
+      "examples": [
+        {
+          "serbian_latin": "„Svaki ciga svoga konja hvali“. Upravo ova srpska poslovica može da se upotrebi za ono što poručuje Florentino Perez.",
+          "russian": "«Каждый кулик своё болото хвалит»: эта сербская пословица подходит к словам Флорентино Переса.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Naravno, svaki ciga svoga konja hvali.",
+          "russian": "Разумеется, каждый своё хвалит.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Пословица описывает естественную склонность хвалить собственный товар, команду, страну, кандидата или дело, поэтому часто звучит с добродушной иронией. Однако Ciga — традиционное разговорное обозначение, которое сегодня может восприниматься как этнически уничижительное; для собственной нейтральной речи безопаснее svako hvali svoje. В газетных текстах пословицу нередко пишут со строчным ciga, что отражает её фразеологизацию.",
+      "keyword": "svaki Ciga svoga konja hvali"
+    },
+    {
       "headword_latin": "Svako čudo za tri dana",
       "type": "poslovica",
       "definition_ru": "любая сенсация живёт три дня; пошумят и забудут; всё быстро забудется",
@@ -21498,6 +21679,33 @@
       ],
       "note": "Kus значит «куцый, укороченный, неполный»; поэтому образ пословицы — результат, которому из-за спешки чего-то недостаёт. Сербские носители сами нередко поясняют её через navrat-nanos, «на скорую руку». Русский эквивалент «поспешишь — людей насмешишь» передаёт функцию лучше буквального перевода.",
       "keyword": "što je brzo to je kuso"
+    },
+    {
+      "headword_latin": "Što je sigurno, sigurno je",
+      "type": "replika",
+      "definition_ru": "для верности; лучше перестраховаться; бережёного Бог бережёт",
+      "synonyms_sr": [
+        "za svaki slučaj",
+        "bolje biti oprezan",
+        "sigurnije je tako",
+        "ne rizikovati"
+      ],
+      "literal_ru": "что надёжно, то надёжно",
+      "register": "ustaljena razg. replika; opravdava dodatnu meru predostrožnosti, čak i kada je možda suvišna",
+      "examples": [
+        {
+          "serbian_latin": "Meštani razmišljaju da ipak sačuvaju fenjere. Što je sigurno, sigurno je.",
+          "russian": "Жители всё-таки думают сохранить фонари: мало ли что, бережёного Бог бережёт.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Ali, što je sigurno, sigurno je!",
+          "russian": "Но лучше перестраховаться!",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Sigurno здесь соединяет значения «надёжно, безопасно» и «наверняка». Реплика особенно естественна после описания дополнительной страховки: взял зонт, сделал копию документа, перепроверил дверь — što je sigurno, sigurno je. Русское «бережёного Бог бережёт» часто передаёт функцию лучше буквального перевода.",
+      "keyword": "što je sigurno sigurno je"
     },
     {
       "headword_latin": "Što možeš danas, ne ostavljaj za sutra",
