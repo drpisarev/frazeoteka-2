@@ -2750,6 +2750,33 @@
       "keyword": "zaliven"
     },
     {
+      "headword_latin": "Da komšiji crkne krava",
+      "type": "izreka",
+      "definition_ru": "лишь бы у соседа всё было плохо; злорадная зависть; пусть лучше у другого не будет, чем у него будет больше",
+      "synonyms_sr": [
+        "želeti drugome zlo",
+        "zavideti",
+        "radovati se tuđoj nesreći",
+        "zluradost"
+      ],
+      "literal_ru": "пусть у соседа сдохнет корова",
+      "register": "narodna ironična formula, izrazito neodobr.; simbol zavisti i zluradosti",
+      "examples": [
+        {
+          "serbian_latin": "Ne mora uvek da važi ona narodna izreka „da komšiji crkne krava“.",
+          "russian": "Необязательно жить по принципу «пусть лучше у соседа корова сдохнет».",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Tu leži smisao želje iz izreke „Da komšiji crkne krava“.",
+          "russian": "В этом и состоит смысл формулы «пусть у соседа сдохнет корова»: важно, чтобы другой лишился того, чему завидуют.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Выражение описывает специфический тип зависти: человеку недостаточно самому получить желаемое — ему хочется, чтобы другой лишился преимущества. В сербской публичной речи формулу часто используют как самоироническую критику общества; это культурный стереотип, а не доказательство какой-либо особой «национальной черты».",
+      "keyword": "komšiji crkne krava"
+    },
+    {
       "headword_latin": "Da se Vlasi ne dosete",
       "type": "izraz",
       "definition_ru": "чтобы никто не догадался; для отвода глаз; замаскировать истинный смысл или намерение",
@@ -4314,30 +4341,27 @@
     {
       "headword_latin": "Držati nekoga u šaci",
       "type": "frazeologizam",
-      "definition_ru": "держать кого-то в кулаке; иметь на крючке; полностью контролировать",
+      "definition_ru": "держать кого-либо в своих руках; полностью контролировать; иметь рычаг давления",
       "synonyms_sr": [
-        "imati pod kontrolom",
-        "kontrolisati",
-        "držati pod svojom vlašću",
-        "ucenjivati"
+        "imati nekoga pod kontrolom",
+        "imati nekoga u svojoj vlasti",
+        "moći da ucenjuje nekoga"
       ],
       "literal_ru": "держать кого-то в кулаке",
-      "register": "разг., экспр., обычно неодобр.; часто предполагается контроль через зависимость, компромат, страх или возможность причинить неприятности",
+      "register": "razg., neodobr.; često podrazumeva zavisnost, kompromitujuće podatke ili mogućnost ucene",
       "examples": [
-        {
-          "serbian_latin": "Lutovac: Kriminalci i vlast drže jedni druge u šaci.",
-          "russian": "Лутовац: преступники и власть держат друг друга на крючке.",
-          "source": "Danas, 2021",
-          "url": "https://www.danas.rs/vesti/politika/lutovac-kriminalci-i-vlast-drze-jedni-druge-u-saci/"
-        },
         {
           "serbian_latin": "Vesna nema izbora – Lukovac je drži u šaci.",
           "russian": "У Весны нет выбора: Луковац полностью держит её в своих руках.",
-          "source": "RTS, 2025",
-          "url": "https://www.rts.rs/lat/tv/rts-drama/5801860/sumnjiva-lica-2-23-i-24-epizoda.html"
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Vlast „drži u šaci“ dobar deo zaposlenih pomoću ugovora na određeno.",
+          "russian": "Власть держит значительную часть работников в зависимости с помощью срочных контрактов.",
+          "source": "Danas, 2021"
         }
       ],
-      "note": "Выражение сильнее нейтрального držati pod kontrolom: нередко подразумевается зависимость, благодаря которой человек не может свободно действовать. Русские «держать в кулаке» и «иметь на крючке» подходят в зависимости от того, подчёркивается власть вообще или конкретный рычаг давления.",
+      "note": "Это сильнее простого kontrolisati: обычно контролируемому человеку трудно сопротивляться, поскольку другая сторона располагает реальным средством давления. Русское «держать в кулаке» близко, но иногда звучит жёстче; «держать в своих руках» универсальнее.",
       "keyword": "držati u šaci"
     },
     {
@@ -6114,6 +6138,32 @@
       ],
       "note": "Обычное словарное значение petlja — «петля», но в этом разговорном обороте слово означает смелость, решимость. Очень полезная тройка: imati petlju — «иметь смелость», nemati petlju — «струсить / не решиться», skupiti petlju — «набраться смелости». Последнее тоже хорошо засвидетельствовано в современной сербской речи.",
       "keyword": "imati petlju"
+    },
+    {
+      "headword_latin": "Imati pik na nekoga",
+      "type": "frazeologizam",
+      "definition_ru": "иметь зуб на кого-либо; невзлюбить; целенаправленно цепляться к кому-либо",
+      "synonyms_sr": [
+        "uzeti nekoga na zub",
+        "biti posebno protiv nekoga",
+        "imati nešto protiv nekoga"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; imati pik na + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "On baš ima pik na mene.",
+          "russian": "Он на меня явно зуб имеет.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Zašto SNS, narodski rečeno, ima pik na SPS?",
+          "russian": "Почему SNS, говоря по-простому, так ополчилась именно на SPS?",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Обычно имеется в виду не просто антипатия, а избирательно отрицательное отношение: человек словно специально ищет повод придраться именно к этой цели. Поэтому русские «иметь зуб», «взъесться на кого-то» часто точнее нейтрального «не любить».",
+      "keyword": "imati pik"
     },
     {
       "headword_latin": "Imati posla preko glave",
@@ -10177,6 +10227,33 @@
       "keyword": "sneg; breg; zverka; trag"
     },
     {
+      "headword_latin": "Ne pije vodu",
+      "type": "frazeologizam",
+      "definition_ru": "не выдерживает критики; неубедительно; эта версия не проходит",
+      "synonyms_sr": [
+        "ne drži vodu",
+        "nije uverljivo",
+        "nema smisla",
+        "nije održivo"
+      ],
+      "literal_ru": "не пьёт воду",
+      "register": "razg., ekspresivno; naročito o argumentu, objašnjenju, verziji, opravdanju ili planu",
+      "examples": [
+        {
+          "serbian_latin": "Kesić kaže da to pojašnjenje „ne pije vodu“.",
+          "russian": "Кесич говорит, что это объяснение совершенно неубедительно.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "To ne pije vodu.",
+          "russian": "Этот аргумент не выдерживает критики.",
+          "source": "N1 Srbija, 2025"
+        }
+      ],
+      "note": "Для русского буквальная картинка непрозрачна. Это разговорный способ отвергнуть аргументацию: объяснение «не работает», внутренне несостоятельно или ему просто не верят. Употребительно и ne drži vodu.",
+      "keyword": "ne pije vodu"
+    },
+    {
       "headword_latin": "Ne videti dalje od svog nosa",
       "type": "frazeologizam",
       "definition_ru": "не видеть дальше собственного носа; быть недальновидным; мыслить узко и только о ближайшей выгоде",
@@ -10528,30 +10605,27 @@
     {
       "headword_latin": "Nema zime",
       "type": "izraz",
-      "definition_ru": "всё будет хорошо; беспокоиться не о чем; не пропадём",
+      "definition_ru": "бояться нечего; всё будет хорошо; этому ничего не грозит",
       "synonyms_sr": [
         "nema brige",
-        "biće sve u redu",
         "nema razloga za strah",
-        "sigurno je"
+        "sve će biti u redu"
       ],
-      "literal_ru": "зимы не будет",
-      "register": "разг., экспр., часто шутл.; обычно конструкция za nekoga / nešto nema zime",
+      "literal_ru": "",
+      "register": "razg., ekspresivno; često za nekoga / nešto nema zime",
       "examples": [
         {
-          "serbian_latin": "Za IT sektor nema zime, visoke zarade i dalje su mamac za nove kandidate.",
-          "russian": "За IT-сектор можно не переживать: высокие зарплаты по-прежнему привлекают новых специалистов.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4915916/za-it-sektor-nema-zime-visoke-zarade-i-dalje-su-mamac-za-nove-kandidate.html"
+          "serbian_latin": "Za srpske bogataše nema zime.",
+          "russian": "Сербским богачам никакой кризис не страшен.",
+          "source": "RTS, 2011"
         },
         {
-          "serbian_latin": "Za srpske bogataše nema zime.",
-          "russian": "Сербским богачам переживать не о чем.",
-          "source": "RTS, 2011",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/991418/za-srpske-bogatase-nema-zime.html"
+          "serbian_latin": "Za IT sektor nema zime, visoke zarade i dalje su mamac za nove kandidate.",
+          "russian": "IT-сектору беспокоиться не о чем: высокие зарплаты по-прежнему привлекают новых специалистов.",
+          "source": "RTS, 2022"
         }
       ],
-      "note": "Выражение часто вообще не связано с погодой. Оно означает, что положение достаточно надёжно и человек или отрасль «не пропадёт». Формула Za njega nema zime по-русски естественно переводится «за него можно не беспокоиться», «он не пропадёт».",
+      "note": "Несмотря на слово zima, речь обычно вовсе не о погоде. Формула означает, что человек или дело находятся в достаточно хорошем положении и опасаться за их будущее не приходится. Особенно характерна конструкция za njega / njih / tu branšu nema zime.",
       "keyword": "nema zime"
     },
     {
@@ -13709,6 +13783,33 @@
       "keyword": "kukavica; jaje"
     },
     {
+      "headword_latin": "Podmetnuti nekome nogu",
+      "type": "frazeologizam",
+      "definition_ru": "поставить подножку; помешать исподтишка; сорвать чужие планы",
+      "synonyms_sr": [
+        "sabotirati",
+        "osujetiti",
+        "saplesti nekoga (pren.)",
+        "namerno ometati"
+      ],
+      "literal_ru": "подставить кому-то ногу",
+      "register": "razg., neodobr.; podmetnuti nogu nekome — lice je u dativu",
+      "examples": [
+        {
+          "serbian_latin": "Pripremiće neko iznenađenje, podmetnuti im nogu i osujetiti ih u nameri da pobede.",
+          "russian": "Им наверняка попытаются поставить подножку и помешать победить.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Niko nikome ne garantuje da mu kroz koji mesec neće podmetnuti nogu.",
+          "russian": "Никто никому не гарантирует, что через несколько месяцев ему не поставят подножку.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Буквально podmetnuti nogu тоже возможно, но в политике, работе и отношениях почти всегда имеется в виду скрытая помеха или саботаж. Русское «поставить подножку» хорошо сохраняет и образ, и неодобрительную оценку.",
+      "keyword": "podmetnuti nogu"
+    },
+    {
       "headword_latin": "Podviti rep",
       "type": "frazeologizam",
       "definition_ru": "поджать хвост; струсить; отступить, присмирев",
@@ -14026,6 +14127,33 @@
       "keyword": "pokupiti krpice"
     },
     {
+      "headword_latin": "Polomiti zube",
+      "type": "frazeologizam",
+      "definition_ru": "обломать зубы; потерпеть поражение; наткнуться на слишком сильное сопротивление",
+      "synonyms_sr": [
+        "doživeti poraz",
+        "naići na jak otpor",
+        "loše proći",
+        "ne uspeti da savladaš protivnika"
+      ],
+      "literal_ru": "сломать зубы",
+      "register": "razg.-publicistički, ekspresivno; preneseno često polomiti zube na nekome / nečemu",
+      "examples": [
+        {
+          "serbian_latin": "Napoleon je krenuo u invaziju na Carsku Rusiju, gde je i „polomio zube“.",
+          "russian": "Наполеон вторгся в Российскую империю и там в итоге обломал зубы.",
+          "source": "Politika, 2023"
+        },
+        {
+          "serbian_latin": "Ako mislite da silom nešto pokazujete srpskom narodu, plašim se da ćete svoje zube polomiti.",
+          "russian": "Если вы рассчитываете добиться своего силой, боюсь, здесь вы обломаете зубы.",
+          "source": "RTS, 2016"
+        }
+      ],
+      "note": "Переносный образ предполагает попытку «раскусить» слишком твёрдого противника или препятствие и потерпеть неудачу. Русское «обломать зубы» близко, хотя часто ещё естественнее «сломать зубы о кого-то», «наткнуться на жёсткое сопротивление». Не путать с pokazati zube — там, наоборот, демонстрируют способность сопротивляться.",
+      "keyword": "polomiti zube"
+    },
+    {
       "headword_latin": "Pomeriti sastanak",
       "type": "kolokacija",
       "definition_ru": "перенести встречу; передвинуть встречу на другое время",
@@ -14201,29 +14329,27 @@
     {
       "headword_latin": "Povući nekoga za jezik",
       "type": "frazeologizam",
-      "definition_ru": "потянуть за язык; спровоцировать на откровенность; вынудить сказать больше, чем человек собирался",
+      "definition_ru": "вытянуть из кого-либо слова; спровоцировать на откровенность; заставить заговорить",
       "synonyms_sr": [
         "navesti nekoga da progovori",
-        "isprovocirati odgovor",
-        "podstaći nekoga da kaže više"
+        "izazvati nekoga da nešto kaže",
+        "isprovocirati odgovor"
       ],
       "literal_ru": "потянуть кого-то за язык",
-      "register": "разг., экспр.; особенно частая реплика: Nemoj da me vučeš za jezik",
+      "register": "razg.; povući nekoga za jezik; moguće i biti povučen za jezik",
       "examples": [
         {
-          "serbian_latin": "Rezolucija Evropskog parlamenta mogla bi da „povuče za jezik“ srpskog biznismena da javno otkrije...",
-          "russian": "Резолюция Европарламента может подтолкнуть сербского бизнесмена к тому, чтобы он публично рассказал...",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/kolumna/misa-brkic/rezolucija-i-korupcija/"
+          "serbian_latin": "Ko ga je prvi povukao za jezik, pitao se, uveren da je od toga sve počelo.",
+          "russian": "Он гадал, кто первым вытянул из него эти слова, будучи уверен, что с этого всё и началось.",
+          "source": "Danas, 2024"
         },
         {
-          "serbian_latin": "Ne bih ni sad rekao da me niste povukli za jezik... ali ste me vukli za jezik.",
-          "russian": "Я бы и сейчас этого не сказал, если бы вы меня не потянули за язык... но вы сами меня на это спровоцировали.",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/vesti/politika/vucic-nato-austrijski-novinar/"
+          "serbian_latin": "Kokeza je, izgleda, ipak bio povučen za jezik.",
+          "russian": "Похоже, Кокезу всё-таки спровоцировали высказаться.",
+          "source": "Danas, 2021"
         }
       ],
-      "note": "Сербский и русский образы близки. Однако Nemoj da me vučeš za jezik часто содержит предупреждение: «не заставляй меня рассказывать то, что тебе не понравится». Речь не обязательно о буквальном выпытывании — поводом может стать провокационная реплика или вопрос.",
+      "note": "С русским «тянуть за язык» есть важное частичное совпадение. Сербское выражение часто означает именно вызвать человека на высказывание вопросом, замечанием или провокацией. Русская реплика «кто тебя за язык тянул?» чаще осуждает человека уже после того, как он сказал лишнее.",
       "keyword": "povući za jezik"
     },
     {
@@ -17424,6 +17550,33 @@
       ],
       "note": "Переносное значение практически совпадает с русским: восстановиться после кризиса и стать способным самостоятельно функционировать. Но сербское svoje регулярно сохраняется: firma treba da stane na svoje noge. Не смешивать с просто stati na noge, которое может обозначать и буквальное вставание.",
       "keyword": "stati na svoje noge"
+    },
+    {
+      "headword_latin": "Stati nekome / nečemu na put",
+      "type": "frazeologizam",
+      "definition_ru": "положить конец; воспрепятствовать; не дать чему-либо продолжаться",
+      "synonyms_sr": [
+        "sprečiti",
+        "zaustaviti",
+        "osujetiti",
+        "onemogućiti"
+      ],
+      "literal_ru": "встать кому-то / чему-то на пути",
+      "register": "razg.-neutralno, publicistički; stati na put + dativ: nasilju, zloupotrebama, kriminalu; stati nekome na put",
+      "examples": [
+        {
+          "serbian_latin": "Smatraju da svemu tome treba napokon stati na put.",
+          "russian": "Они считают, что всему этому наконец нужно положить конец.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Jednostavno, moramo stati na put taksistima.",
+          "russian": "Нам просто необходимо пресечь действия этих таксистов.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Для русскоязычного особенно важно управление: сербский требует дательного без предлога — stati na put nasilju, prevarama, nekome. Русское «встать кому-то на пути» близко при конкретном противодействии человеку, но с абстрактными существительными обычно естественнее «положить конец», «пресечь».",
+      "keyword": "stati na put"
     },
     {
       "headword_latin": "Stati nekome na crtu",
@@ -20992,6 +21145,33 @@
       ],
       "note": "Особенно распространена пассивная конструкция biti zavijen u crno — «быть погружённым в траур». В спортивных заголовках выражение употребляется гиперболически: «нанести тяжёлое поражение, повергнуть в отчаяние».",
       "keyword": "crno"
+    },
+    {
+      "headword_latin": "Zavrnuti slavinu",
+      "type": "frazeologizam",
+      "definition_ru": "перекрыть финансовый кран; прекратить финансирование; лишить источника ресурсов",
+      "synonyms_sr": [
+        "obustaviti finansiranje",
+        "uskratiti sredstva",
+        "preseći dotok novca",
+        "prestati davati novac"
+      ],
+      "literal_ru": "закрутить кран",
+      "register": "razg.-publicistički; najčešće o novcu, subvencijama, kreditima i drugoj podršci",
+      "examples": [
+        {
+          "serbian_latin": "Država je zavrnula slavinu onima koji čiste prirodu.",
+          "russian": "Государство перекрыло финансовый кран тем, кто занимается переработкой отходов.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "U ovom trenutku najbolje je da EU „zavrne slavinu“.",
+          "russian": "Сейчас, по его мнению, лучше всего, чтобы ЕС перекрыл финансирование.",
+          "source": "N1 Srbija, 2023"
+        }
+      ],
+      "note": "В переносном употреблении из воображаемого крана течёт прежде всего денежный поток. Поэтому выражение особенно частотно при обсуждении фондов, бюджетных трансфертов и субсидий. Возможен и буквальный смысл — перекрыть воду или газ, поэтому значение всегда определяется контекстом.",
+      "keyword": "zavrnuti slavinu"
     },
     {
       "headword_latin": "završiti iza rešetaka",
