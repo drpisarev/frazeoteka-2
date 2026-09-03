@@ -3533,30 +3533,29 @@
     },
     {
       "headword_latin": "Doći đavo po svoje",
-      "type": "izreka",
-      "definition_ru": "пришла расплата; последствия настигли; за всё приходится платить",
+      "type": "frazeologizam",
+      "definition_ru": "пришла расплата; последствия настигли; всё аукнулось",
       "synonyms_sr": [
-        "stići posledice",
         "doći na naplatu",
-        "platiti cenu",
-        "stići kazna"
+        "stići nekoga posledice",
+        "platiti ceh"
       ],
-      "literal_ru": "чёрт пришёл за своим",
-      "register": "разг., экспр.; о неизбежных неприятных последствиях прежних действий",
+      "literal_ru": "дьявол пришёл за своим",
+      "register": "razg., ekspresivno; obično o neprijatnim posledicama ranijih postupaka, grešaka ili nagomilanih problema",
       "examples": [
         {
-          "serbian_latin": "Ako to ne uradiš, onaj đavo dođe po svoje.",
-          "russian": "Если вовремя не остановишься, рано или поздно придёт расплата.",
-          "source": "Politika, 2025"
+          "serbian_latin": "I šta sada, kad je đavo došao po svoje?",
+          "russian": "И что теперь, когда пришла расплата?",
+          "source": "Danas, 2013"
         },
         {
-          "serbian_latin": "Sad je došao đavo po svoje.",
-          "russian": "Вот теперь и пришла расплата.",
-          "source": "RTS, 2020"
+          "serbian_latin": "I dođe đavo po svoje.",
+          "russian": "И вот пришла расплата.",
+          "source": "Danas, 2020"
         }
       ],
-      "note": "Сербское выражение обычно не имеет религиозного смысла: đavo здесь образ неизбежной расплаты. Особенно естественно после периода, когда кто-то игнорировал проблему или пользовался рискованной ситуацией: в конце концов последствия «пришли за своим».",
-      "keyword": "doći đavo po svoje"
+      "note": "Выражение обычно появляется в момент, когда долго копившиеся проблемы наконец дают о себе знать: человек или организация вынуждены расплачиваться за прежние решения. Русское буквальное «дьявол пришёл за своим» не является обычным эквивалентом; естественнее «пришла расплата», «всё аукнулось», «доигрались». Употребляются также формы došao je đavo po svoje и doći će đavo po svoje.",
+      "keyword": "đavo po svoje"
     },
     {
       "headword_latin": "Doći glave nekome",
@@ -9693,27 +9692,27 @@
     {
       "headword_latin": "Naći se u nebranom grožđu",
       "type": "frazeologizam",
-      "definition_ru": "попасть впросак; оказаться в затруднительном положении; попасть в неприятную ситуацию",
+      "definition_ru": "оказаться в затруднительном положении; попасть в неловкую ситуацию; растеряться",
       "synonyms_sr": [
         "naći se u neprilici",
-        "upasti u nezgodnu situaciju",
-        "naći se u škripcu"
+        "biti zatečen",
+        "naći se u nezgodnoj situaciji"
       ],
       "literal_ru": "оказаться в несобранном винограде",
-      "register": "razg., ekspresivno; o neočekivano nastaloj neugodnoj ili teškoj situaciji",
+      "register": "razg., ekspresivno; naći se + u + lokativ",
       "examples": [
         {
-          "serbian_latin": "Spoljni saradnici za koje je bio zaslužan prethodni urednik našli su se u nebranom grožđu.",
-          "russian": "Внештатные сотрудники, которых привлёк предыдущий редактор, оказались в затруднительном положении.",
-          "source": "Danas, 2024"
+          "serbian_latin": "Zato su stend-ap komičari u nebranom grožđu - od njih se očekuje da nasmeju uvek i sve u publici.",
+          "russian": "Поэтому стендап-комики оказываются в непростой ситуации: от них ждут, что они всегда рассмешат всю публику.",
+          "source": "RTS, 2017"
         },
         {
-          "serbian_latin": "Bitlsi su se našli u nebranom grožđu kada ih je 9000 obožavatelja sačekalo u San Francisku.",
-          "russian": "«Битлз» попали в непростую ситуацию, когда в Сан-Франциско их встретили девять тысяч поклонников.",
-          "source": "RTS, 2026"
+          "serbian_latin": "Ali, našao sam se u nebranom grožđu.",
+          "russian": "Но тут я оказался в неловком положении.",
+          "source": "Danas, 2007"
         }
       ],
-      "note": "Nebrano grožđe — виноград, который ещё не собрали; это не «незрелый виноград». У Милана Шипки выражение связывается с ворами, застигнутыми pudari — сторожами виноградников; отсюда переносное «оказаться в неприятном положении». Русские «попасть впросак» и «оказаться в щекотливом положении» обычно естественнее буквального перевода.",
+      "note": "Это не обязательно безвыходная или опасная ситуация: чаще человек неожиданно оказывается там, где не знает, что сказать или как поступить. Поэтому русские «попасть впросак», «оказаться в неловком положении», «растеряться» часто точнее, чем сильное «попасть в беду». Выражение хорошо закреплено в сербской фразеологии и фиксируется среди традиционных народных оборотов.",
       "keyword": "nebrano grožđe"
     },
     {
@@ -10108,6 +10107,32 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "Ne cvetaju ruže",
+      "type": "frazeologizam",
+      "definition_ru": "дела идут неважно; не всё гладко; положение незавидное",
+      "synonyms_sr": [
+        "ne ide najbolje",
+        "stvari ne stoje dobro",
+        "biti u problemima"
+      ],
+      "literal_ru": "розы не цветут",
+      "register": "razg. i publicistički; često nekome ne cvetaju ruže, negde ne cvetaju ruže",
+      "examples": [
+        {
+          "serbian_latin": "Od cveća, kažu Kusićani, može da se živi, ali ni cvećarima ne cvetaju ruže.",
+          "russian": "На цветах, говорят жители Кусича, можно заработать, но даже у цветоводов дела идут неважно.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Međutim, pobeda od 2:1 protiv TSC-a, kome ne cvetaju ruže, sem tri boda nije donela nikakvo ohrabrenje.",
+          "russian": "Однако победа 2:1 над TSC, у которого сейчас дела идут не лучшим образом, кроме трёх очков особого повода для оптимизма не дала.",
+          "source": "Politika, 2026"
+        }
+      ],
+      "note": "Выражение обозначает не катастрофу, а неблагополучное течение дел: проблемы в работе, отношениях, финансах, спорте. Очень естественна конструкция nekome ne cvetaju ruže: Ni njemu na poslu ne cvetaju ruže. В русском образ иногда можно сохранить как «не всё розами устлано», но чаще естественнее «дела идут неважно».",
+      "keyword": "ne cvetaju ruže"
+    },
+    {
       "headword_latin": "Ne cvetaju ruže nekome",
       "type": "frazeologizam",
       "definition_ru": "дела идут неважно; не всё гладко; кому-то сейчас несладко",
@@ -10389,29 +10414,28 @@
     {
       "headword_latin": "Ne zna se ko pije, a ko plaća",
       "type": "izreka",
-      "definition_ru": "чёрт ногу сломит; полный бардак; непонятно, кто за что отвечает",
+      "definition_ru": "полный бардак; непонятно, кто за что отвечает; ничего не разберёшь",
       "synonyms_sr": [
-        "vlada potpuni haos",
-        "ne zna se ko je odgovoran",
+        "vlada haos",
         "nema reda",
-        "sve je zbrkano"
+        "ne zna se ko šta radi"
       ],
       "literal_ru": "неизвестно, кто пьёт, а кто платит",
-      "register": "razg., ekspresivno; o zbrci u upravljanju, odgovornosti ili organizaciji",
+      "register": "razg., ekspresivno, neodobr.; takođe ne zna se ko pije ko plaća",
       "examples": [
         {
-          "serbian_latin": "Ne zna se ko pije, a ko plaća, ko upravlja Evropskom unijom.",
-          "russian": "Совершенно непонятно, кто там за что отвечает и кто вообще всем управляет.",
+          "serbian_latin": "To što se ne zna ko pije, a ko plaća, ko upravlja Evropskom unijom.",
+          "russian": "Непонятно, кто за что отвечает и кто вообще управляет Европейским союзом.",
           "source": "RTS, 2026"
         },
         {
           "serbian_latin": "Kako bi se narodski reklo: „Ne zna se ko pije, a ko plaća“.",
-          "russian": "Как говорят в народе: полный бардак, непонятно, кто за что отвечает.",
+          "russian": "Как говорится в народе: полный бардак, ничего не разберёшь.",
           "source": "Danas, 2023"
         }
       ],
-      "note": "Выпивка и счёт здесь давно лишь образ. Выражение характеризует систему, где роли, полномочия и ответственность настолько перепутаны, что невозможно понять, кто принимает решения и кто несёт последствия. Часто употребляется о политике, учреждениях и плохо организованной работе.",
-      "keyword": "ko pije ko plaća"
+      "note": "Главное здесь не пьянство и не деньги, а отсутствие порядка и ясного распределения ролей: непонятно, кто принимает решения, кто отвечает и что вообще происходит. В зависимости от контекста по-русски это «чёрт ногу сломит», «полный бардак», «не поймёшь, кто за что отвечает». Выражение особенно часто встречается при описании плохо организованной системы или учреждения.",
+      "keyword": "ko pije a ko plaća"
     },
     {
       "headword_latin": "Ne zna se ko pije, ko plaća",
@@ -13204,31 +13228,28 @@
     {
       "headword_latin": "Pasti s konja na magarca",
       "type": "frazeologizam",
-      "definition_ru": "резко понизиться в положении; сменить лучшее на худшее; пойти на понижение",
+      "definition_ru": "скатиться; перейти с лучшего на худшее; оказаться в значительно худшем положении",
       "synonyms_sr": [
-        "nazadovati",
-        "spasti na gore",
-        "preći na lošije",
-        "izgubiti raniji položaj"
+        "srozati se",
+        "doći u gori položaj",
+        "nazadovati"
       ],
-      "literal_ru": "пересесть с коня на осла",
-      "register": "разг., экспр.; о должности, статусе, заработке, качестве жизни, условиях",
+      "literal_ru": "упасть с коня на осла",
+      "register": "razg., ekspresivno; o gubitku položaja, kvaliteta, nivoa ili prestiža",
       "examples": [
         {
-          "serbian_latin": "Kako to da ste pristali na prelazak iz Bundeslige u Cvajtu, što bi mnogi doživeli kao pad „s konja na magarca“?",
-          "russian": "Как получилось, что вы согласились перейти из Бундеслиги во вторую лигу — многие восприняли бы это как резкое понижение?",
-          "source": "Danas, 2009",
-          "url": "https://www.danas.rs/vesti/drustvo/klop-me-sklonio-bez-objasnjenja/"
+          "serbian_latin": "Ulazak u politiku značio bi za Zukorlića „pasti s konja na magarca“.",
+          "russian": "Вступление в политику означало бы для Зукорлича перейти с лучшего положения на гораздо худшее.",
+          "source": "Vreme, 2012"
         },
         {
-          "serbian_latin": "„Pao sa konja na magarca“, te da će se vratiti na Filozofski fakultet, gde je inače profesor.",
-          "russian": "Он «пересел с коня на осла», то есть оказался на существенно менее выгодной должности, и заявил, что вернётся на философский факультет, где работает профессором.",
-          "source": "RTS, 2015",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/1814378/primopredaja-duznosti-u-sluzbenom-glasniku-.html"
+          "serbian_latin": "Za mene povratak u domaći fudbal nije bio ono što su neki nazvali „s’ konja na magarca“.",
+          "russian": "Для меня возвращение в сербский футбол не было, как некоторые это называли, переходом с лучшего на худшее.",
+          "source": "Telegraf, 2018"
         }
       ],
-      "note": "В живой речи очень часты прошедшие формы pao / spao s konja na magarca. Конь в традиционной системе ценностей выше и престижнее осла, поэтому направление метафоры однозначно — сверху вниз. Русское «из князей в грязи» обычно сильнее и драматичнее.",
-      "keyword": "konj; magarac"
+      "note": "Образ основан на традиционной иерархии: конь и седло воспринимаются как более престижные, чем магарец и вьючное седло. Поэтому выражение применимо к должности, карьере, команде, материальному положению и вообще к заметному ухудшению уровня. Русского устойчивого оборота с тем же образом практически нет; обычно нужны «скатиться», «сильно потерять в статусе», «сменить лучшее на худшее».",
+      "keyword": "s konja na magarca"
     },
     {
       "headword_latin": "Pasti s kruške",
@@ -14706,29 +14727,27 @@
     {
       "headword_latin": "Praviti račun bez krčmara",
       "type": "frazeologizam",
-      "definition_ru": "делить шкуру неубитого медведя; строить расчёты без того, от кого всё зависит; рассчитывать на ещё не решённое",
+      "definition_ru": "строить расчёты без главного участника; заранее всё решить за того, от кого зависит дело; делить шкуру неубитого медведя",
       "synonyms_sr": [
         "računati unapred",
-        "preuranjeno računati",
-        "praviti plan bez saglasnosti druge strane"
+        "preuranjeno se dogovarati",
+        "planirati bez ključnog učesnika"
       ],
       "literal_ru": "составлять счёт без трактирщика",
-      "register": "разг.-публицист., неодобр.; часто о планах, переговорах и решениях без согласия ключевой стороны",
+      "register": "razg. i publicistički, neodobr.; takođe pravljenje računa bez krčmara",
       "examples": [
         {
-          "serbian_latin": "Vojska Srbije u ovom slučaju pravi račun bez krčmara.",
-          "russian": "Армия Сербии в данном случае строит расчёты без того, от кого зависит решение.",
-          "source": "Danas, 2011",
-          "url": "https://www.danas.rs/vesti/drustvo/vojska-pravi-racun-bez-krcmara/"
+          "serbian_latin": "Beograd upozorava da ne prave račun bez krčmara.",
+          "russian": "Белград предупреждает, что не стоит заранее всё решать без того, от кого это зависит.",
+          "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Beograd upozorava da ne prave račun bez krčmara.",
-          "russian": "Белград предупреждает, чтобы там не делили шкуру неубитого медведя.",
-          "source": "RTS, 2016",
-          "url": "https://www.rts.rs/lat/vesti/ekonomija/2338466/brezovica-na-ledu-cekajuci-odluku-o-privatizaciji.html"
+          "serbian_latin": "Srbi treba da budu jednako tretirani, naglasio je Vučić i istakao da bi sve drugo bilo pravljenje računa bez krčmara.",
+          "russian": "Сербы должны пользоваться равным отношением; всё остальное означало бы, что решения принимают без ключевой стороны.",
+          "source": "RTS, 2020"
         }
       ],
-      "note": "Русское «делить шкуру неубитого медведя» близко, но сербский оборот сильнее подчёркивает игнорирование того, чьё согласие или решение необходимо. Krčmar — хозяин трактира: невозможно окончательно распорядиться счётом, не считаясь с тем, кто его предъявляет. Встречается и без praviti: to je račun bez krčmara.",
+      "note": "Русское «делить шкуру неубитого медведя» подходит не всегда. Сербский оборот особенно подчёркивает, что люди уже договорились или сделали расчёты, забыв спросить человека или сторону, без которых решение невозможно. Krčmar — хозяин или содержатель krčma; именно он в итоге выставляет настоящий счёт.",
       "keyword": "račun bez krčmara"
     },
     {
@@ -17219,25 +17238,25 @@
       "type": "frazeologizam",
       "definition_ru": "спать как убитый; спать мёртвым сном; очень крепко спать",
       "synonyms_sr": [
-        "spavati kao klada",
         "spavati kao top",
+        "spavati kao klada",
         "tvrdo spavati"
       ],
       "literal_ru": "спать как зарезанный",
-      "register": "razg., ekspresivno; uprkos morbidnoj slici obično nema agresivnu ocenu",
+      "register": "razg., ekspresivno; slika je gruba i morbidna; u govoru takođe spavati ko zaklan",
       "examples": [
         {
-          "serbian_latin": "Unuk joj je spavao kao zaklan.",
-          "russian": "Её внук спал как убитый.",
-          "source": "Danas, 2009"
+          "serbian_latin": "Vidi ga, spava ko zaklan!",
+          "russian": "Посмотри на него, спит как убитый!",
+          "source": "Danas, 2010"
         },
         {
-          "serbian_latin": "Napravio čovek legalo od šaše i slame [...] i spavao kao zaklan.",
-          "russian": "Человек устроился на соломе и спал мёртвым сном.",
+          "serbian_latin": "Napravio čovek legalo od šaše i slame u vrzine pored puta i spavao kao zaklan.",
+          "russian": "Устроил себе лежанку из стеблей и соломы у дороги и спал как убитый.",
           "source": "Politika, 2025"
         }
       ],
-      "note": "Для русского буквальный образ тоже звучит жёстко, но функциональный эквивалент «спать как убитый» совершенно обычен. Сербские авторы неоднократно обращают внимание на контраст между страшной буквальной картиной и нейтральным бытовым значением «очень крепко спать».",
+      "note": "По функции почти идеально совпадает с русским «спать как убитый»: человек спит настолько крепко, что не реагирует на происходящее. Однако буквальный сербский образ ещё жёстче: zaklan — «зарезанный». Рядом существуют менее мрачные spavati kao top и spavati kao klada.",
       "keyword": "spavati kao zaklan"
     },
     {
@@ -18222,6 +18241,33 @@
       ],
       "note": "Для русского важен ложный друг kocka: кроме «кубика», слово означает азартную игру и связано с риском. Поэтому staviti nešto na kocku — «поставить что-то на карту»: репутацию, карьеру, деньги, жизнь. С sve риск представлен как максимальный.",
       "keyword": "staviti sve na kocku"
+    },
+    {
+      "headword_latin": "Staviti tačku na i",
+      "type": "frazeologizam",
+      "definition_ru": "поставить окончательную точку; завершить дело; внести последний решающий штрих",
+      "synonyms_sr": [
+        "staviti tačku",
+        "zapečatiti ishod",
+        "zaokružiti",
+        "završiti stvar"
+      ],
+      "literal_ru": "поставить точку на i",
+      "register": "neutralno do publicistički; naročito o završnom postupku koji konačno rešava ishod",
+      "examples": [
+        {
+          "serbian_latin": "„Tačku na i“ stavio je u 76. minutu Zufi golom sa oko 20 metara.",
+          "russian": "Окончательную точку поставил на 76-й минуте Зуффи, забив примерно с двадцати метров.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "A onda je u 82. minutu „tačku na i“ stavio Vukanović.",
+          "russian": "А на 82-й минуте Вуканович поставил окончательную точку.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Здесь есть важное расхождение с русским. Русское «расставить точки над i» прежде всего означает окончательно прояснить вопрос, тогда как сербское staviti tačku na i очень часто означает завершить дело последним решающим действием — например, забить последний гол или окончательно закрепить результат. Поэтому механически переводить его русским «расставить точки над i» нельзя.",
+      "keyword": "tačka na i"
     },
     {
       "headword_latin": "staviti tačku na nešto",
@@ -19228,29 +19274,27 @@
     {
       "headword_latin": "Tražiti iglu u plastu sena",
       "type": "frazeologizam",
-      "definition_ru": "искать иголку в стоге сена; пытаться найти почти ненахodимое",
+      "definition_ru": "искать иголку в стоге сена; пытаться найти почти неуловимое",
       "synonyms_sr": [
+        "uzalud tražiti",
         "tražiti gotovo nemoguće",
-        "teško pronaći",
-        "uzaludno tragati"
+        "tragati za nečim teško dostupnim"
       ],
       "literal_ru": "искать иголку в стоге сена",
-      "register": "разг.-нейтр., экспр.; о поиске человека, предмета, информации или решения среди огромного количества вариантов",
+      "register": "opšteupotrebno, slikovito; ustaljeno upravo plast sena",
       "examples": [
         {
           "serbian_latin": "Tražite iglu u plastu sena. Sa mašinskim učenjem, ubrzavamo proces i pametnije tražimo.",
-          "russian": "Вы ищете иголку в стоге сена. С помощью машинного обучения мы ускоряем процесс и ищем более разумно.",
-          "source": "RTS, 2023",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/5155485/.html?print=true"
+          "russian": "Вы ищете иголку в стоге сена. С помощью машинного обучения мы ускоряем и делаем поиск умнее.",
+          "source": "RTS, 2023"
         },
         {
-          "serbian_latin": "Spasioci ističu da je potraga za preživelima izgledala kao traganje za iglom u plastu sena.",
-          "russian": "Спасатели подчёркивают, что поиск выживших был похож на поиск иголки в стоге сена.",
-          "source": "RTS, 2023",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/5127211/.html?print=true"
+          "serbian_latin": "Tražim tračak istine u ovom mulju u kojem živimo, tražim iglu u plastu sena.",
+          "russian": "Я пытаюсь найти крупицу истины в этой мути, в которой мы живём, — ищу иголку в стоге сена.",
+          "source": "Danas, 2020"
         }
       ],
-      "note": "Здесь соответствие русскому полное, но полезно запомнить слово plast — «стог», а не русское «пласт». Употребляются обе модели: tražiti iglu u plastu sena и biti kao traženje igle u plastu sena.",
+      "note": "Значение практически полностью совпадает с русским. Для русскоязычного полезно запомнить именно сербскую форму plast sena: plast — сложенная куча, стог сена. Оборот обозначает не просто трудный поиск, а поиск объекта среди огромного количества материала, когда вероятность успеха крайне мала.",
       "keyword": "igla u plastu sena"
     },
     {
@@ -20739,27 +20783,27 @@
     {
       "headword_latin": "Vratiti milo za drago",
       "type": "frazeologizam",
-      "definition_ru": "отплатить той же монетой; ответить тем же; взять реванш",
+      "definition_ru": "отплатить той же монетой; поквитаться; взять реванш",
       "synonyms_sr": [
         "uzvratiti istom merom",
-        "vratiti istom merom",
-        "revanširati se"
+        "revanširati se",
+        "vratiti istom merom"
       ],
-      "literal_ru": "",
-      "register": "razg.-publicistički; često o uzvraćanju neprijatnosti, u sportu i o revanšu",
+      "literal_ru": "вернуть милое за дорогое",
+      "register": "razg. i publicistički, ekspresivno; najčešće o uzvratnom postupku ili revanšu",
       "examples": [
         {
-          "serbian_latin": "Partizan se dobro namučio sa Cedevita Olimpijom, ali joj je vratio milo za drago.",
-          "russian": "«Партизан» изрядно намучился с «Цедевита Олимпией», но в итоге отплатил ей той же монетой.",
-          "source": "Danas, 2023"
+          "serbian_latin": "Vratimo im milo za drago i proterajmo njihov Rio Tinto iz Srbije.",
+          "russian": "Отплатим им той же монетой и выгоним их Rio Tinto из Сербии.",
+          "source": "Danas, 2022"
         },
         {
-          "serbian_latin": "Da li Srbija zbog deportovanih ljudi vraća „milo za drago“?",
-          "russian": "Не платит ли Сербия той же монетой из-за депортированных людей?",
-          "source": "N1 Srbija, 2026"
+          "serbian_latin": "Crvena zvezda vratila Zadru milo za drago u ABA ligi.",
+          "russian": "«Црвена звезда» поквиталась с «Задаром» в ABA-лиге.",
+          "source": "Danas, 2023"
         }
       ],
-      "note": "Несмотря на положительно звучащие отдельные слова milo и drago, выражение чаще обозначает ответ за причинённую неприятность: «как вы со мной, так и я с вами». В спортивной речи оценка нейтральнее — «взять реванш». Современное значение хорошо передаётся формулой vratiti istom merom.",
+      "note": "Хотя слова milo и drago сами по себе положительные, современный оборот чаще означает ответить тем же, особенно на обиду, поражение или неприятный поступок. В спортивной речи оценка мягче: vratiti milo za drago часто просто «взять реванш». Русское «отплатить той же монетой» наиболее универсально.",
       "keyword": "milo za drago"
     },
     {
