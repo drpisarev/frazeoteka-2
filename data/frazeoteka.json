@@ -2471,29 +2471,29 @@
     },
     {
       "headword_latin": "Crno na belo",
-      "type": "frazeologizam",
-      "definition_ru": "чёрным по белому; документально; с неопровержимым подтверждением",
+      "type": "izraz",
+      "definition_ru": "чёрным по белому; ясно и недвусмысленно; с доказательствами на руках",
       "synonyms_sr": [
         "napismeno",
-        "dokumentovano",
-        "jasno dokazano",
-        "imati dokaz"
+        "jasno",
+        "nedvosmisleno",
+        "dokazano"
       ],
       "literal_ru": "чёрное на белом",
-      "register": "razg.-neutralno; naročito imati crno na belo — imati pisani ili dokumentovani dokaz",
+      "register": "neutralno-razgovorno i publicistički; tipično imati, videti, pokazati, dokazati crno na belo",
       "examples": [
         {
-          "serbian_latin": "Ja imam crno na belo da je moja hrana ispravna.",
-          "russian": "У меня чёрным по белому написано, что мой корм соответствует нормам.",
-          "source": "RTS, 2026"
+          "serbian_latin": "Građani sada crno na belo vide posledice blokada.",
+          "russian": "Теперь граждане чёрным по белому видят последствия блокад.",
+          "source": "Politika, 2026"
         },
         {
           "serbian_latin": "Dao sam sebi zadatak da ga pronađem, da imam „crno na belo“.",
-          "russian": "Я поставил себе задачу найти это, чтобы иметь документальное подтверждение.",
-          "source": "Danas, 2016"
+          "russian": "Я поставил себе задачу найти это, чтобы иметь на руках документальное доказательство.",
+          "source": "Danas, 2015"
         }
       ],
-      "note": "Очень характерна конструкция imati nešto crno na belo: речь обычно идёт о документе, цифрах, переписке или другом проверяемом доказательстве. Русское «чёрным по белому» совпадает почти полностью, но сербское особенно легко используется как существительное обстоятельственного типа: imam crno na belo.",
+      "note": "Русское «чёрным по белому» почти идеально совпадает, но сербский оборот очень свободно употребляется без глагола письма: imati crno na belo — «иметь доказательство», videti crno na belo — «увидеть совершенно ясно». Часто подразумевается именно письменное, документальное подтверждение.",
       "keyword": "crno na belo"
     },
     {
@@ -8354,6 +8354,33 @@
       "keyword": "izvoditi besne gliste"
     },
     {
+      "headword_latin": "Izvređati / izogovarati nekoga na pasja kola",
+      "type": "frazeologizam",
+      "definition_ru": "обругать последними словами; разнести в пух и прах; полить грязью",
+      "synonyms_sr": [
+        "izgrditi",
+        "napljuvati (razg.)",
+        "ocrniti",
+        "izvređati"
+      ],
+      "literal_ru": "",
+      "register": "razg., veoma ekspresivno, neodobr.; na pasja kola pojačava glagole izvređati, izogovarati, ispsovati, izgrditi",
+      "examples": [
+        {
+          "serbian_latin": "Ume da, ako mu se ne dopadne pitanje ili komentar novinara, na pasja kola izvređa pitača.",
+          "russian": "Если ему не нравится вопрос или комментарий журналиста, он может обругать собеседника последними словами.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "On je na pasja kola izogovarao sve svoje protivnike!",
+          "russian": "Он поливал грязью всех своих противников.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Na pasja kola само по себе не называет конкретного действия, а резко усиливает отрицательный глагол: кого-то можно izvređati, izogovarati, ispsovati na pasja kola. Поэтому русский перевод зависит от глагола: «обругать последними словами», «полить грязью», «разнести». Происхождение образа надёжно не установлено.",
+      "keyword": "na pasja kola"
+    },
+    {
       "headword_latin": "izvući deblji kraj",
       "type": "глагольный фразеологизм",
       "definition_ru": "Плохо кончить; пострадать; оказаться проигравшей стороной.",
@@ -12335,30 +12362,28 @@
     },
     {
       "headword_latin": "Ne lipši, magarče, do zelene trave",
-      "type": "izreka",
-      "definition_ru": "жди у моря погоды; обещанного можно и не дождаться; пока дождёшься — ноги протянешь",
+      "type": "poslovica",
+      "definition_ru": "жди у моря погоды; пока дождёшься — помрёшь; обещанного можно не дождаться",
       "synonyms_sr": [
-        "čekati unedogled",
-        "uzalud čekati",
-        "ko zna kad će",
-        "nikako da dođe"
+        "na kukovo leto",
+        "obećanje ludom radovanje"
       ],
-      "literal_ru": "не подыхай, осёл, пока не вырастет зелёная трава",
-      "register": "narodno, iron.-gorko; o pomoći ili poboljšanju obećanom u neodređenoj budućnosti",
+      "literal_ru": "не подохни, осёл, пока вырастет зелёная трава",
+      "register": "poslovica, razg., iron.; o dalekim, neodređenim ili praznim obećanjima",
       "examples": [
         {
           "serbian_latin": "Ovako, ne lipši magarče do zelene trave.",
-          "russian": "А пока — жди у моря погоды.",
+          "russian": "А так — жди у моря погоды.",
           "source": "Danas, 2015"
         },
         {
-          "serbian_latin": "Ne lipši magarče do zelene trave.",
-          "russian": "Пока дождёшься обещанного, можно ноги протянуть.",
-          "source": "Danas, 2010"
+          "serbian_latin": "Kad sve prođe, mi ćemo se „vratiti“. Ne lipši magarče do zelene trave.",
+          "russian": "«Когда всё закончится, мы вернёмся». Ну да, жди у моря погоды.",
+          "source": "Danas, 2018"
         }
       ],
-      "note": "Образ нарочито жестокий: голодному ослу обещают будущую зелёную траву, но до неё ещё надо дожить. Поэтому выражение гораздо мрачнее нейтрального «надо подождать» и почти всегда содержит насмешку над пустыми обещаниями. Встречается также вариант dok trava raste.",
-      "keyword": "ne lipši magarče do zelene trave"
+      "note": "Lipši — повелительная форма от lipsati «издохнуть, околеть», прежде всего о животных; поэтому внутренняя форма нарочито грубоватая и комическая. Пословица высмеивает обещание блага в столь неопределённом будущем, что получатель рискует его не дождаться. Danas прямо употребляет её как формулу о пустых обещаниях.",
+      "keyword": "ne lipši magarče"
     },
     {
       "headword_latin": "Ne mogu sebi da priuštim",
@@ -16231,6 +16256,65 @@
       "keyword": "piti kao smuk"
     },
     {
+      "headword_latin": "Piti nekome krv / piti krv na slamku",
+      "type": "frazeologizam",
+      "definition_ru": "пить кому-то кровь; изводить; не давать житья",
+      "synonyms_sr": [
+        "gnjaviti",
+        "kinjiti",
+        "zagorčavati život",
+        "vaditi dušu (razg.)"
+      ],
+      "literal_ru": "пить кому-то кровь / пить кровь через соломинку",
+      "register": "razg., ekspresivno; adresat u dativu: pije mi / ti / mu / joj krv; varijanta na slamku još je jača",
+      "examples": [
+        {
+          "serbian_latin": "Poslednjih godina „istočno-evropska mafija“ na Pesmi Evrovizije nam pije krv.",
+          "russian": "В последние годы «восточноевропейская мафия» на «Евровидении» пьёт нам кровь.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Dugačka je lista njegovih zlodela, kao i ostalih iz njegove kriminalne hobotnice koja već 12 godina pije krv našoj zemlji.",
+          "russian": "Длинен список его злодеяний, как и остальных из его криминальной сети, которая уже двенадцать лет изводит нашу страну.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "A sad me čeka Radulović da mi pije krv na slamku.",
+          "russian": "А теперь меня ждёт Радулович, который будет медленно и методично пить мне кровь.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Основное piti nekome krv почти полностью совпадает с русским «пить кровь». Сербский вариант piti krv na slamku образно усиливает длительность и мучительность: словно человека изводят медленно, «через соломинку». Для русского важно управление: pije mi krv, буквально «пьёт мне кровь».",
+      "keyword": "piti krv"
+    },
+    {
+      "headword_latin": "Plakati kao kišna godina",
+      "type": "frazeologizam",
+      "definition_ru": "реветь ручьём; рыдать навзрыд; сильно плакать",
+      "synonyms_sr": [
+        "ridati",
+        "gorko plakati",
+        "liti suze",
+        "mnogo plakati"
+      ],
+      "literal_ru": "плакать как дождливый год",
+      "register": "razg., ekspresivno; takođe isplakati se kao kišna godina",
+      "examples": [
+        {
+          "serbian_latin": "Isplakao sam se kao kišna godina, jer je to bio jedan od najlepših momenata u mom životu.",
+          "russian": "Я наревелся от души, потому что это был один из самых прекрасных моментов моей жизни.",
+          "source": "Telegraf, 2026"
+        },
+        {
+          "serbian_latin": "Neki dečak je, očigledno sluteći „robiju“, plakao kao kišna godina.",
+          "russian": "Какой-то мальчик, явно предчувствуя «каторгу», ревел навзрыд.",
+          "source": "Nova.rs, 2024"
+        }
+      ],
+      "note": "Сравнение обозначает именно интенсивность плача, а причина может быть как печальной, так и радостной — это хорошо видно по первому примеру. Русскому буквальный образ «как дождливый год» ничего не говорит; естественные соответствия — «реветь ручьём», «рыдать навзрыд».",
+      "keyword": "kišna godina"
+    },
+    {
       "headword_latin": "Platiti ceh",
       "type": "frazeologizam",
       "definition_ru": "расплачиваться; поплатиться; расхлёбывать последствия",
@@ -16544,6 +16628,33 @@
       "keyword": "lovorike"
     },
     {
+      "headword_latin": "Poći / polaziti za rukom",
+      "type": "frazeologizam",
+      "definition_ru": "удаваться / удаться; получаться; успешно сделать что-то",
+      "synonyms_sr": [
+        "uspeti",
+        "uspevati",
+        "ići od ruke",
+        "uspešno obaviti"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, veoma često; model nešto je nekome pošlo za rukom; lice je u dativu",
+      "examples": [
+        {
+          "serbian_latin": "Srbiji je pošlo za rukom praktično nemoguće – da paralelno udovolji očekivanjima Moskve, Vašingtona i Brisela.",
+          "russian": "Сербии удалось практически невозможное — одновременно удовлетворить ожидания Москвы, Вашингтона и Брюсселя.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "On je prvi i za sada jedini iz Srbije kome je to pošlo za rukom.",
+          "russian": "Он первый и пока единственный человек из Сербии, которому это удалось.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Для русского особенно важна конструкция с дательным: meni je pošlo za rukom — «мне удалось», nije mu pošlo za rukom — «ему не удалось». Очень частотна модель nije mi pošlo za rukom da + prezent. Близкое ići od ruke чаще описывает то, что человеку вообще хорошо даётся.",
+      "keyword": "poći za rukom"
+    },
+    {
       "headword_latin": "podići prašinu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Наделать шума; вызвать бурную реакцию, споры, возмущение или большой общественный интерес.",
@@ -16799,6 +16910,60 @@
       ],
       "note": "Употребляются формы разных видов и времён: gledati istini u oči, pogledati istini u oči, morati pogledati istini u oči.",
       "keyword": "istina"
+    },
+    {
+      "headword_latin": "Pogoditi u živac",
+      "type": "frazeologizam",
+      "definition_ru": "задеть за живое; попасть в больное место; вызвать сильную реакцию",
+      "synonyms_sr": [
+        "pogoditi bolnu tačku",
+        "dirnuti u osetljivo mesto",
+        "isprovocirati",
+        "uznemiriti"
+      ],
+      "literal_ru": "попасть в нерв",
+      "register": "razg.-publicistički, ekspresivno; često pogoditi tačno / direktno u živac; javlja se i pogoditi živac",
+      "examples": [
+        {
+          "serbian_latin": "Njegova ocena je „pogodila u živac“.",
+          "russian": "Его оценка задела за живое.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "A izgleda da sam pogodila živac.",
+          "russian": "Похоже, я задела за живое.",
+          "source": "Tanjug, 2025"
+        }
+      ],
+      "note": "Не путать с ići nekome na živce — «действовать кому-то на нервы». Pogoditi u živac означает попасть именно в чувствительную точку — затронуть тему или сказать нечто, вызвавшее особенно сильную реакцию. В русском чаще всего естественно «задеть за живое».",
+      "keyword": "živac"
+    },
+    {
+      "headword_latin": "Pohvatati konce",
+      "type": "frazeologizam",
+      "definition_ru": "разобраться; понять, что к чему; уловить все связи",
+      "synonyms_sr": [
+        "snaći se",
+        "povezati stvari",
+        "razumeti šta se dešava",
+        "steći pregled"
+      ],
+      "literal_ru": "собрать / поймать все нити",
+      "register": "razg.-neutralno; naročito često teško je pohvatati konce — teško se snaći u zamršenoj situaciji",
+      "examples": [
+        {
+          "serbian_latin": "Mislim da je Saša Jovanović, teško je pohvatati konce.",
+          "russian": "Думаю, это Саша Йованович, но тут уже трудно разобраться, кто есть кто.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Isprva je prilično teško [...] pohvatati sve narativne konce.",
+          "russian": "Поначалу довольно трудно разобраться во всех сюжетных линиях.",
+          "source": "City Magazine / Danas, 2022"
+        }
+      ],
+      "note": "Pohvatati konce означает восстановить общую картину, понять связи и логику запутанного дела. Не путать с držati konce u rukama: последнее значит «контролировать ситуацию», тогда как pohvatati konce — «разобраться в ней». Особенно естественно о сложном сюжете, новой работе, политической ситуации или большом количестве событий.",
+      "keyword": "pohvatati konce"
     },
     {
       "headword_latin": "Pokazati pravo lice",
@@ -17144,6 +17309,33 @@
       ],
       "note": "Выражение предполагает неожиданное вмешательство, из-за которого первоначальный замысел становится трудно или невозможно осуществить.",
       "keyword": "račun"
+    },
+    {
+      "headword_latin": "Popeti se nekome na vrh glave",
+      "type": "frazeologizam",
+      "definition_ru": "осточертеть; надоесть до смерти; довести до ручки",
+      "synonyms_sr": [
+        "dosaditi",
+        "dojaditi",
+        "ići nekome na živce",
+        "doći nekome preko glave"
+      ],
+      "literal_ru": "забраться кому-то на макушку",
+      "register": "razg., ekspresivno; model nešto / neko mi se popeo na vrh glave",
+      "examples": [
+        {
+          "serbian_latin": "Korona se svima popela na vrh glave, pa smo odustali od toga.",
+          "russian": "Коронавирус всем уже осточертел, поэтому мы отказались от этой идеи.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Ne postoji video [...] koji ne prati ova pesma, koja vam se verovatno popela na vrh glave.",
+          "russian": "Почти нет видео без этой песни, так что она вам, вероятно, уже до смерти надоела.",
+          "source": "N1, 2023"
+        }
+      ],
+      "note": "Выражение значительно сильнее обычного dosaditi: раздражитель повторяется настолько долго или часто, что человек больше не может его терпеть. Дательный обязателен: popela mi se na vrh glave, popeo mu se na vrh glave. Буквально переводить русским «залезть на голову» обычно не стоит.",
+      "keyword": "vrh glave"
     },
     {
       "headword_latin": "Popiti svu pamet sveta",
@@ -17782,27 +17974,27 @@
     {
       "headword_latin": "Preko trnja do zvezda",
       "type": "izreka",
-      "definition_ru": "через тернии к звёздам; через трудности к успеху",
+      "definition_ru": "через тернии к звёздам; к успеху через трудности",
       "synonyms_sr": [
-        "mukom do uspeha",
-        "kroz teškoće do cilja",
-        "istrajno do uspeha"
+        "do uspeha kroz teškoće",
+        "izboriti se za uspeh",
+        "savladati prepreke"
       ],
       "literal_ru": "через колючки к звёздам",
-      "register": "knjiž.-publicistički; odgovara latinskom per aspera ad astra",
+      "register": "knjiž.-publicistički, aforistično; odgovara latinskoj formuli per aspera ad astra",
       "examples": [
         {
-          "serbian_latin": "Put je bio trnovit, ali i poslovica kaže: „Preko trnja do zvezda!“",
-          "russian": "Путь был тернистым, но ведь говорят: через тернии к звёздам!",
-          "source": "Danas, 2015"
+          "serbian_latin": "Pravi put vodi preko trnja do zvezda.",
+          "russian": "Настоящий путь ведёт через тернии к звёздам.",
+          "source": "Politika, 2026"
         },
         {
-          "serbian_latin": "Lik Džejmija Vardija stajaće u enciklopedijama kao ilustracija latinske izreke „Preko trnja do zvezda“.",
-          "russian": "История Джейми Варди могла бы служить иллюстрацией к латинскому выражению «через тернии к звёздам».",
-          "source": "N1, 2015"
+          "serbian_latin": "Preko trnja smo došli do zvezda i ne smemo dozvoliti da brend zbog neodgovornosti ispašta.",
+          "russian": "Мы прошли через тернии к звёздам и не можем позволить, чтобы бренд страдал из-за безответственности.",
+          "source": "Telegraf, 2020"
         }
       ],
-      "note": "Trnje — собирательное «колючки, терновник». Сербская формула является буквальным переводом латинского per aspera ad astra и употребляется не только торжественно: её охотно используют в спорте, биографиях и рассказах о карьерном успехе.",
+      "note": "Русский эквивалент практически полный. Сербское trnje буквально означает колючий кустарник, шипы, терновник. Формула употребляется и как афоризм, и свободно внутри предложения: preko trnja smo došli do zvezda — «мы тяжёлым путём добились успеха».",
       "keyword": "preko trnja do zvezda"
     },
     {
