@@ -5761,6 +5761,32 @@
       "keyword": "gde ima dima ima i vatre"
     },
     {
+      "headword_latin": "Gde ima dima, tu ima vatre",
+      "type": "poslovica",
+      "definition_ru": "нет дыма без огня; слухи обычно имеют под собой основание",
+      "synonyms_sr": [
+        "nije bez razloga",
+        "nešto ipak postoji",
+        "glasine imaju osnovu"
+      ],
+      "literal_ru": "где есть дым, там есть и огонь",
+      "register": "poslovica; javlja se i varijanta gde ima dima, ima i vatre",
+      "examples": [
+        {
+          "serbian_latin": "Gde ima dima, tu ima vatre.",
+          "russian": "Нет дыма без огня.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Gde ima dima, ima i vatre, ali svakako da će zvanična vest o ovome stići tek za nekoliko meseci.",
+          "russian": "Нет дыма без огня, однако официальные новости об этом появятся лишь через несколько месяцев.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Почти полный эквивалент русского «нет дыма без огня». Выражение предполагает, что слухи, подозрения или косвенные признаки, вероятно, возникли не на пустом месте. Это не утверждение доказанного факта, а вывод по косвенным признакам.",
+      "keyword": "dim; vatra"
+    },
+    {
       "headword_latin": "Gde ima volje, ima i načina",
       "type": "izreka",
       "definition_ru": "было бы желание — способ найдётся; где есть воля, там есть и путь",
@@ -9835,6 +9861,32 @@
       "keyword": "ko čeka taj dočeka"
     },
     {
+      "headword_latin": "Ko ne plati na mostu, platiće na ćupriji",
+      "type": "poslovica",
+      "definition_ru": "если не заплатишь сейчас, потом заплатишь дороже; от расплаты не уйдёшь",
+      "synonyms_sr": [
+        "račun na kraju stiže",
+        "od posledica se ne može pobeći",
+        "odlaganje problema košta"
+      ],
+      "literal_ru": "кто не заплатит на мосту, заплатит на ћуpriji",
+      "register": "poslovica, upozoravajuće; javlja se i ko ne plati na mostu, plati na ćupriji",
+      "examples": [
+        {
+          "serbian_latin": "To je kratkoročna mera – ko ne plati na mostu, platiće na ćupriji.",
+          "russian": "Это краткосрочная мера: если не заплатишь сейчас, позднее расплата всё равно придёт.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "U našem narodu je poznata izreka „Ko ne plati na mostu, platiće na ćupriji!“ I to, po pravilu, skuplje i mnogo neprijatnije.",
+          "russian": "У нас хорошо известно: кто не заплатит на мосту, заплатит потом на ћуpriji — обычно дороже и неприятнее.",
+          "source": "Blic, 2025"
+        }
+      ],
+      "note": "Most и ćuprija означают «мост», но ćuprija — турцизм, часто вызывающий ассоциацию со старым каменным мостом. Смысл не в двух разных местах оплаты, а в неизбежности последствий: попытка сэкономить или отложить решение проблемы позднее обходится дороже. Русский естественный перевод почти всегда должен раскрывать смысл, а не сохранять мосты.",
+      "keyword": "most; ćuprija"
+    },
+    {
       "headword_latin": "Ko nema u glavi, ima u nogama",
       "type": "poslovica",
       "definition_ru": "дурная голова ногам покоя не даёт; забыл подумать — придётся побегать",
@@ -10180,6 +10232,31 @@
       "keyword": "ko se jednom opeče na hladno duva"
     },
     {
+      "headword_latin": "Ko se mača lati, od mača će poginuti",
+      "type": "izreka",
+      "definition_ru": "кто с мечом придёт, от меча и погибнет; насилие возвращается к тому, кто его применяет",
+      "synonyms_sr": [
+        "nasilje rađa nasilje",
+        "ko čini nasilje, od nasilja strada"
+      ],
+      "literal_ru": "кто берётся за меч, от меча и погибнет",
+      "register": "biblijska izreka; varijante od mača i strada, od mača će stradati",
+      "examples": [
+        {
+          "serbian_latin": "„Ko se mača lati, od mača će poginuti“, izreka [...] ima biblijsko poreklo.",
+          "russian": "«Кто берётся за меч, от меча и погибнет» — изречение библейского происхождения.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "„Ko se mača lati, od mača i strada“ izreka je koja neodoljivo podseća na ono što se dogodilo.",
+          "russian": "Выражение «кто берётся за меч, от меча и страдает» как нельзя лучше напоминает о произошедшем.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Выражение восходит к евангельскому эпизоду в Мф. 26:52 и в современном сербском употребляется как предупреждение: насилие или агрессивный метод может обратиться против самого инициатора. Русская формула «кто с мечом к нам придёт…» узнаваема, но имеет другую культурную ассоциацию; для точного перевода здесь лучше сохранять общую библейскую мысль.",
+      "keyword": "mač"
+    },
+    {
       "headword_latin": "Ko se mača lati, od mača i gine / strada",
       "type": "izreka",
       "definition_ru": "кто берётся за меч, от меча и погибает; насилие возвращается к тому, кто его применяет",
@@ -10256,6 +10333,32 @@
       ],
       "note": "Здесь hleb противопоставлен kamenu как добро и жизненно необходимая пища — агрессии и причинению вреда. Выражение соответствует христианской этике прощения, но саму сербскую формулу лучше описывать как народную пословицу, а не как дословную библейскую цитату.",
       "keyword": "ko tebe kamenom ti njega hlebom"
+    },
+    {
+      "headword_latin": "Ko visoko leti, nisko pada",
+      "type": "poslovica",
+      "definition_ru": "высоко взлетишь — больно падать; кто слишком заносится, тот рискует низко пасть",
+      "synonyms_sr": [
+        "ne treba se uznositi",
+        "prevelika očekivanja vode razočaranju",
+        "oholost se obija o glavu"
+      ],
+      "literal_ru": "кто высоко летает, низко падает",
+      "register": "poslovica, upozoravajuće, ponekad iron.; o prevelikim ambicijama, samouverenosti ili očekivanjima",
+      "examples": [
+        {
+          "serbian_latin": "Očekivanja su bila previsoka [...] a završilo se po onoj narodnoj „ko visoko leti, nisko pada“.",
+          "russian": "Ожидания были слишком высокими, а закончилось всё по принципу «высоко взлетишь — больно падать».",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Ko visoko leti, nisko pada.",
+          "russian": "Кто высоко взлетает, тот низко падает.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Пословица может осуждать заносчивость, но нередко применяется и шире — к чрезмерным ожиданиям или слишком резкому карьерному взлёту. Русское «больно падать» часто естественнее буквального «низко падает».",
+      "keyword": "visoko leti"
     },
     {
       "headword_latin": "Ko zna zašto je to dobro",
@@ -12871,6 +12974,32 @@
       "keyword": "priuštiti sebi"
     },
     {
+      "headword_latin": "Ne može i jare i pare",
+      "type": "izreka",
+      "definition_ru": "нельзя и рыбку съесть, и в воду не лезть; нельзя получить всё сразу; приходится выбирать",
+      "synonyms_sr": [
+        "ne može sve",
+        "mora se birati",
+        "ne mogu obe koristi istovremeno"
+      ],
+      "literal_ru": "нельзя одновременно получить и козлёнка, и деньги",
+      "register": "poslovični izraz, razg., često iron.; o međusobno isključivim koristima",
+      "examples": [
+        {
+          "serbian_latin": "Ili, kako bi to rekli u Srbiji: „Ne može: i jare i pare!“",
+          "russian": "Или, как сказали бы в Сербии: нельзя получить всё сразу.",
+          "source": "Radio Beograd 1 / RTS, 2025"
+        },
+        {
+          "serbian_latin": "Vlast se ne meri samo ovlašćenjima, već i odgovornošću. [...] Ne može i jare i pare.",
+          "russian": "Власть — это не только полномочия, но и ответственность. Нельзя иметь все преимущества сразу.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Образ прозрачен: если козлёнка продали, нельзя одновременно сохранить и его, и полученные за него деньги. Выражение употребляется, когда человек хочет сохранить две несовместимые выгоды. Русское «и рыбку съесть, и…» функционально очень близко.",
+      "keyword": "jare i pare"
+    },
+    {
       "headword_latin": "Ne može šut s rogatim",
       "type": "poslovica",
       "definition_ru": "плетью обуха не перешибёшь; слабому не тягаться с сильным; силы слишком неравны",
@@ -13289,28 +13418,28 @@
     {
       "headword_latin": "Nema hleba bez motike",
       "type": "poslovica",
-      "definition_ru": "без труда ничего не добьёшься; без труда не вытащишь и рыбку из пруда",
+      "definition_ru": "без труда не вытащишь и рыбку из пруда; без труда ничего не получишь",
       "synonyms_sr": [
-        "bez rada nema rezultata",
-        "bez truda nema uspeha",
-        "mora da se radi"
+        "bez rada nema uspeha",
+        "mora da se radi",
+        "ništa ne dolazi samo"
       ],
-      "literal_ru": "без мотыги нет хлеба",
-      "register": "poslovica; razgovorni oblik često nema 'leba bez motike",
+      "literal_ru": "хлеба без мотыги не бывает",
+      "register": "poslovica; naglašava neophodnost rada za zaradu ili rezultat",
       "examples": [
         {
-          "serbian_latin": "Još je aktuelna ona narodna da „nema hleba bez motike“.",
-          "russian": "По-прежнему верна народная мудрость: без труда ничего не добьёшься.",
-          "source": "Blic, 2003"
+          "serbian_latin": "Ni u Sijetlu ni u Čačku – nema hleba bez motike.",
+          "russian": "И в Сиэтле, и в Чачке без труда ничего не даётся.",
+          "source": "RTS, 2020"
         },
         {
-          "serbian_latin": "Nema hleba bez motike, nije normalno da se herbicidima tretira nešto što je živo.",
-          "russian": "Без труда урожая не будет: нельзя всё живое просто заливать гербицидами.",
-          "source": "Telegraf, 2019"
+          "serbian_latin": "Vlahović kaže da ga je ekonomska kriza naučila da „nema hleba bez motike“.",
+          "russian": "Влахович говорит, что экономический кризис научил его: без труда ничего не получишь.",
+          "source": "Danas, 2011"
         }
       ],
-      "note": "Пословица родилась из земледельческого опыта: хлеб требует физического труда с motika «мотыгой». Сегодня применяется к любой работе и означает, что успех без усилий невозможен. В разговорной сербской речи очень часто выпадает начальное h: nema 'leba bez motike, но для словарного заголовка предпочтительна стандартная форма hleba.",
-      "keyword": "nema hleba bez motike"
+      "note": "Motika — мотыга, традиционное сельскохозяйственное орудие. Образ буквально связывает хлеб с тяжёлой обработкой земли, но сегодня пословица относится к любой работе. Русский эквивалент с рыбкой совпадает по функции, но использует совершенно другой образ.",
+      "keyword": "hleb; motika"
     },
     {
       "headword_latin": "Nema mu ravna",
@@ -17899,29 +18028,29 @@
     },
     {
       "headword_latin": "Posle bitke svi su generali",
-      "type": "izreka",
-      "definition_ru": "задним умом все крепки; после события все знают, как надо было поступить",
+      "type": "poslovica",
+      "definition_ru": "задним числом все умные; после драки кулаками не машут; легко рассуждать после события",
       "synonyms_sr": [
         "lako je biti pametan posle",
         "naknadna pamet",
-        "posle je svima sve jasno"
+        "lako je suditi kad se sve završi"
       ],
       "literal_ru": "после битвы все генералы",
-      "register": "poslovično, ironično; česta varijanta posle bitke svi su generali pametni",
+      "register": "poslovica, iron.; varijanta posle bitke svi su generali pametni",
       "examples": [
         {
           "serbian_latin": "Kada prođe utakmica, posle bitke su svi generali.",
-          "russian": "После матча все задним числом знают, как надо было играть.",
-          "source": "Sport Klub, 2026"
+          "russian": "Когда матч уже закончился, задним числом все становятся стратегами.",
+          "source": "Sport Klub / N1, 2026"
         },
         {
           "serbian_latin": "Posle bitke svi su generali, ali za Valerija Zalužnog može da se kaže da je bio „oduvek general“.",
-          "russian": "После битвы все генералы, но про Валерия Залужного можно сказать, что он генералом был всегда.",
+          "russian": "После битвы все генералы, но о Валерии Залужном можно сказать, что он всегда им был.",
           "source": "Politika, 2024"
         }
       ],
-      "note": "Выражение высмеивает советы, которые легко давать уже после того, как известен результат. Русское «после драки кулаками не машут» несколько иное: оно призывает не продолжать спор, тогда как сербское прежде всего о «мудрости задним числом». Точнее русское «задним умом все крепки».",
-      "keyword": "posle bitke svi su generali"
+      "note": "Речь о «мудрости задним числом»: когда исход уже известен, легко объяснять, что надо было сделать иначе. Русское «после драки кулаками не машут» близко, но сербская формула сильнее высмеивает именно поздних советчиков и аналитиков.",
+      "keyword": "posle bitke"
     },
     {
       "headword_latin": "Poslednja rupa na svirali",
@@ -19282,29 +19411,28 @@
     {
       "headword_latin": "Prvo skoči, pa reci hop",
       "type": "poslovica",
-      "definition_ru": "не говори гоп, пока не перепрыгнешь; сначала добейся результата, потом радуйся",
+      "definition_ru": "не говори «гоп», пока не перепрыгнешь; не празднуй победу заранее",
       "synonyms_sr": [
         "ne raduj se prerano",
-        "ne računaj unapred",
         "sačekaj rezultat",
-        "ne trči pred rudu"
+        "ne računaj unapred"
       ],
       "literal_ru": "сначала прыгни, потом скажи «гоп»",
-      "register": "poslovica, upozoravajuće; protiv prerane sigurnosti i slavljenja još neostvarenog rezultata",
+      "register": "poslovica; o preuranjenim izjavama, planovima i sigurnosti u rezultat",
       "examples": [
         {
           "serbian_latin": "U Srbiji se kaže – prvo skoči pa reci hop, a ne obrnuto.",
-          "russian": "В Сербии говорят: не говори гоп, пока не перепрыгнешь, а не наоборот.",
+          "russian": "В Сербии говорят: не говори «гоп», пока не перепрыгнешь.",
           "source": "RTS, 2019"
         },
         {
           "serbian_latin": "„Prave ražanj, a zec u šumi“ [...] Mogla bi i ona: „Ne trči pred rudu“ ili „Prvo skoči, pa reci hop“.",
-          "russian": "«Делят шкуру неубитого медведя»; сюда же подходят «не забегай вперёд» и «не говори гоп, пока не перепрыгнешь».",
+          "russian": "«Делят шкуру неубитого медведя»; сюда же подходят «не забегай вперёд» и «не говори “гоп”, пока не перепрыгнешь».",
           "source": "Danas, 2025"
         }
       ],
-      "note": "Русский эквивалент совпадает почти буквально. В сербском рядом часто появляются ne trči pred rudu и образ «готовить вертел, пока заяц ещё в лесу»: все они предостерегают от объявления успеха до того, как он действительно достигнут.",
-      "keyword": "prvo skoči pa reci hop"
+      "note": "Здесь сербский и русский почти полностью совпадают. Сербское hop — междометие, сопровождающее прыжок. Пословицу используют, когда человек объявляет результат до того, как преодолено главное препятствие.",
+      "keyword": "reci hop"
     },
     {
       "headword_latin": "Psovati kao kočijaš",
@@ -24289,6 +24417,31 @@
       "keyword": "sitni sati"
     },
     {
+      "headword_latin": "U strahu su velike oči",
+      "type": "poslovica",
+      "definition_ru": "у страха глаза велики",
+      "synonyms_sr": [
+        "strah preuveličava opasnost",
+        "strah čini stvari strašnijim nego što jesu"
+      ],
+      "literal_ru": "в страхе глаза большие",
+      "register": "poslovica; varijanta reda reči u strahu su oči velike",
+      "examples": [
+        {
+          "serbian_latin": "„U strahu su velike oči.“ Logično je da vi tražite nešto kako biste osigurali bezbednost.",
+          "russian": "У страха глаза велики. Логично, что в такой ситуации человек ищет способ обезопасить себя.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Postoje brojna sujeverja, a u strahu su velike oči.",
+          "russian": "Существует множество суеверий, а у страха глаза велики.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Полное совпадение с русским по образу и значению: страх заставляет воспринимать опасность как более серьёзную, чем она есть. Для русскоязычного важен только сербский порядок слов; оба варианта — u strahu su velike oči и u strahu su oči velike — встречаются.",
+      "keyword": "strah; oči"
+    },
+    {
       "headword_latin": "U svakom žitu ima kukolja",
       "type": "poslovica",
       "definition_ru": "везде есть паршивая овца; в любой группе найдутся плохие люди; хороших без исключения не бывает",
@@ -26642,6 +26795,32 @@
       ],
       "note": "В переносном значении часы вообще не имеют отношения к смыслу: человек zna koliko je sati, если он не наивен и понимает настоящий расклад, скрытые риски или близкий исход ситуации. Особенно характерно короткое Zna on koliko je sati — «Он прекрасно понимает, что происходит».",
       "keyword": "znati koliko je sati"
+    },
+    {
+      "headword_latin": "Zrno po zrno pogača, kamen po kamen palača",
+      "type": "poslovica",
+      "definition_ru": "копейка рубль бережёт; по крупице складывается большое; капля за каплей — и море",
+      "synonyms_sr": [
+        "malo-pomalo",
+        "korak po korak",
+        "sve se gradi postepeno"
+      ],
+      "literal_ru": "зерно к зерну — лепёшка, камень к камню — дворец",
+      "register": "poslovica; o postepenom skupljanju novca, znanja, rada ili rezultata",
+      "examples": [
+        {
+          "serbian_latin": "Svaka fabrika je kao zrno po zrno pogača i kamen po kamen palača.",
+          "russian": "Каждая фабрика — это ещё один маленький шаг: по крупице и складывается большое.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Zrno po zrno – pogača, kamen po kamen – palača.",
+          "russian": "Зёрнышко к зёрнышку — лепёшка, камень к камню — дворец.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Главная идея — большой результат складывается из множества небольших вкладов. В живой речи нередко употребляется только первая половина zrno po zrno pogača. Русский прямой эквивалент зависит от контекста: о деньгах хорошо подходит «копейка рубль бережёт», о работе — «шаг за шагом».",
+      "keyword": "zrno po zrno"
     },
     {
       "headword_latin": "Zub vremena",
