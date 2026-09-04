@@ -79,6 +79,58 @@
       "keyword": "koza; rog"
     },
     {
+      "headword_latin": "Ako prođe, prođe",
+      "type": "izraz",
+      "definition_ru": "авось прокатит; вдруг пройдёт; попытаться на авось",
+      "synonyms_sr": [
+        "probati na sreću",
+        "pa šta bude",
+        "pokušati pa videti"
+      ],
+      "literal_ru": "",
+      "register": "razg., iron.-neodobr.; često skraćeno APP; naročito o pokušaju da se provuče nešto sumnjivo uz nadu da niko neće reagovati",
+      "examples": [
+        {
+          "serbian_latin": "„APP“ – „ako prođe – prođe“, što je u Srbiji veoma aktuelno.",
+          "russian": "«APP» — «авось прокатит», что в Сербии весьма актуально.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Posredi je pokušaj prevare tipa „ako prođe, prođe“.",
+          "russian": "Речь идёт о попытке обмана в стиле «авось прокатит».",
+          "source": "Politika, 2009"
+        }
+      ],
+      "note": "Это не просто нейтральное «попробуем — посмотрим». Обычно подразумевается расчёт на слабый контроль: сделать что-то сомнительное, некачественное или формально спорное и надеяться, что «прокатит». Сокращение APP настолько узнаваемо, что RTS приводит его как характерную разговорную аббревиатуру.",
+      "keyword": "ako prođe prođe"
+    },
+    {
+      "headword_latin": "Alal vera",
+      "type": "uzvik",
+      "definition_ru": "молодец!; браво!; честь и хвала",
+      "synonyms_sr": [
+        "svaka čast",
+        "bravo",
+        "aferim (star.)"
+      ],
+      "literal_ru": "",
+      "register": "razg., odobr.; neretko iron.",
+      "examples": [
+        {
+          "serbian_latin": "Alal vera onima čiji su Fejsbuk nalozi sa pravim imenom i prezimenom.",
+          "russian": "Честь и хвала тем, у кого аккаунты в Facebook заведены под настоящим именем и фамилией.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Niko ne kaže: „Alal vera, Vučiću, za najjeftiniji hleb.“",
+          "russian": "Никто не говорит: «Браво, Вучич, за самый дешёвый хлеб».",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Компонент alal связан с араб. halal «дозволенный» и пришёл через турецкий. Популярные сербские источники по-разному объясняют историческое разложение всей формулы, поэтому происхождение второго компонента лучше не подавать как бесспорно установленное. В современном сербском alal vera полностью освоено как тёплая похвала, но интонация легко превращает её в саркастическое «ну молодец!».",
+      "keyword": "alal vera"
+    },
+    {
       "headword_latin": "Bacati / baciti bisere pred svinje",
       "type": "frazeologizam",
       "definition_ru": "метать бисер перед свиньями; предлагать что-то ценное тому, кто не способен это понять или оценить",
@@ -333,6 +385,31 @@
       "keyword": "bacati mrvice"
     },
     {
+      "headword_latin": "Baci pet",
+      "type": "replika",
+      "definition_ru": "дай пять!",
+      "synonyms_sr": [
+        "daj pet",
+        "lupiti pet"
+      ],
+      "literal_ru": "",
+      "register": "razg., prijateljski; poziv da se udari otvorenim dlanovima",
+      "examples": [
+        {
+          "serbian_latin": "„Baci pet“ (ispružen dlan), zagrljaj, đuskanje, mahanje, rukovanje, osmeh…",
+          "russian": "«Дай пять» (вытянутая ладонь), объятие, танец, махание рукой, рукопожатие, улыбка…",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Neki koriste ovaj emodži kao gest „baci kosku“ ili „baci pet“.",
+          "russian": "Некоторые используют этот эмодзи как жест «кулачок» или «дай пять».",
+          "source": "City Magazine / Danas, 2022"
+        }
+      ],
+      "note": "Русскому хочется калькировать dati pet, и такой вариант встречается, но очень естественная сербская реплика именно baci pet. Глагол baciti здесь не переводится буквально как «бросить». Близкое baci kosku обозначает родственный дружеский жест, обычно удар кулаками, поэтому это не полные синонимы.",
+      "keyword": "baci pet"
+    },
+    {
       "headword_latin": "Baciti / bacati senku na nešto",
       "type": "frazeologizam",
       "definition_ru": "бросить тень на что-то; омрачить; поставить под сомнение хорошее впечатление",
@@ -473,32 +550,36 @@
       "keyword": "novo svetlo"
     },
     {
-      "headword_latin": "baciti oko na nekoga / nešto",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Положить глаз на кого-либо или что-либо; заинтересоваться; присмотреть кого-либо или что-либо для себя.",
+      "headword_latin": "Baciti oko na nekoga / nešto",
+      "type": "frazeologizam",
+      "definition_ru": "1. глянуть; взглянуть; посмотреть, проверить; 2. положить глаз; заинтересоваться кем-то / чем-то",
       "synonyms_sr": [
-        "zainteresovati se za nekoga / nešto",
-        "zagledati nekoga",
-        "nameriti se na nešto"
+        "pogledati",
+        "baciti pogled",
+        "zainteresovati se",
+        "zagledati"
       ],
-      "literal_ru": "Бросить глаз на кого-либо или что-либо.",
-      "register": "разговорное; часто публицистическое",
+      "literal_ru": "бросить глаз на кого-то / что-то",
+      "register": "razg.; baciti oko na + akuzativ; konkretno značenje zavisi od objekta i konteksta",
       "examples": [
+        {
+          "serbian_latin": "Pre nego što bi napustio prestonicu, turista bi valjalo da baci oko na makar još jedno zdanje.",
+          "russian": "Перед отъездом из столицы туристу стоило бы взглянуть ещё хотя бы на одно здание.",
+          "source": "Politika, 2018"
+        },
+        {
+          "serbian_latin": "Ispade da jeste i kad se uz to baci oko na kojekakve papire.",
+          "russian": "Выходит, что да, особенно если ещё взглянуть на соответствующие бумаги.",
+          "source": "Danas, 2010"
+        },
         {
           "serbian_latin": "Gigant bacio oko na Srbiju: U planu velike investicije.",
           "russian": "Гигант положил глаз на Сербию: планируются крупные инвестиции.",
-          "source": "B92, 2024",
-          "url": "https://www.b92.net/biz/srbija/vesti/40075/gigant-bacio-oko-na-srbiju-u-planu-velike-investicije/vest"
-        },
-        {
-          "serbian_latin": "Pevač bacio oko na Anđelu Đuričić.",
-          "russian": "Певец положил глаз на Анджелу Джуричич.",
-          "source": "Blic, 2026",
-          "url": "https://www.blic.rs/zabava/pevac-bacio-oko-na-andjelu-djuricic-sada-uslikan-u-herceg-novom/bx1ee6r"
+          "source": "B92, 2024"
         }
       ],
-      "note": "Выражение может обозначать как романтический интерес, так и желание приобрести объект, вложить в него деньги или установить над ним контроль. Употребляется конструкция baciti oko na с винительным падежом.",
-      "keyword": "oko"
+      "note": "Это важное обновление существующей статьи: сейчас в ней описано только «положить глаз». В бытовой речи особенно частотно повелительное baci oko na ovo — «глянь это / посмотри, пожалуйста», совершенно без значения желания присвоить или романтического интереса. Русскому поэтому нельзя автоматически переводить всякое baciti oko na как «положить глаз».",
+      "keyword": "baciti oko"
     },
     {
       "headword_latin": "Baciti peglu",
@@ -2116,6 +2197,37 @@
       "keyword": "biti u bedaku"
     },
     {
+      "headword_latin": "Biti u elementu / biti u svom elementu",
+      "type": "frazeologizam",
+      "definition_ru": "быть в своей стихии; быть в ударе; чувствовать себя совершенно естественно и уверенно",
+      "synonyms_sr": [
+        "osećati se kao kod kuće",
+        "biti svoj na svome",
+        "osećati se potpuno prirodno"
+      ],
+      "literal_ru": "быть в своей стихии",
+      "register": "neutralno-razg.; upotrebljavaju se i u elementu i u svom elementu",
+      "examples": [
+        {
+          "serbian_latin": "Ona je u elementu. Zaboravila je da sam ovde.",
+          "russian": "Она в своей стихии. Совсем забыла, что я здесь.",
+          "source": "BBC na srpskom / Danas, 2023"
+        },
+        {
+          "serbian_latin": "Robert je u svom elementu, a ubrzo je i mini-selebriti sa svojim jutjub kanalom.",
+          "russian": "Роберт чувствует себя как рыба в воде и вскоре становится местной мини-знаменитостью со своим YouTube-каналом.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "U crtežu sam u svom elementu, sa slikama je povuci-potegni.",
+          "russian": "В рисунке я в своей стихии, а с живописью всё идёт через силу.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Это тоже лучше оформить как обновление, а не заводить отдельную карточку Biti u elementu. Вариант без svom нормален и не является усечённой ошибкой. Русское «в своей стихии» подходит, когда речь о подходящей среде или занятии; «в ударе» — когда контекст подчёркивает текущее вдохновение, энергию и успешное действие.",
+      "keyword": "u elementu"
+    },
+    {
       "headword_latin": "Biti u istom sosu",
       "type": "frazeologizam",
       "definition_ru": "быть в одной лодке; оказаться в одинаковом положении; иметь общую беду",
@@ -2311,6 +2423,32 @@
       "keyword": "bog i batina"
     },
     {
+      "headword_latin": "Bog te mazo",
+      "type": "uzvik",
+      "definition_ru": "ёлки-палки!; вот это да!; чёрт возьми!",
+      "synonyms_sr": [
+        "au",
+        "bog te video",
+        "majko mila"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; čuđenje, divljenje, dosada ili negodovanje zavisno od intonacije",
+      "examples": [
+        {
+          "serbian_latin": "Auuu, bog te mazo, sve izgore.",
+          "russian": "Ух, ёлки-палки, всё выгорело.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Beograd na vodi. Bog te mazo, koliko je odvratan.",
+          "russian": "«Белград на воде». Чёрт возьми, до чего же он отвратительный.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Несмотря на компонент Bog, в живой речи это прежде всего эмоциональное междометие, а не буквальное религиозное высказывание или серьёзное проклятие. Может выражать и положительное изумление: всё решает продолжение и интонация. Точное происхождение необычной формы mazo без надёжного лексикографического подтверждения лучше не реконструировать.",
+      "keyword": "bog te mazo"
+    },
+    {
       "headword_latin": "Bog visoko, Rusija daleko",
       "type": "izreka",
       "definition_ru": "Бог высоко, Россия далеко; помощи ждать неоткуда; рассчитывать надо прежде всего на себя",
@@ -2338,6 +2476,33 @@
       "keyword": "Bog visoko Rusija daleko"
     },
     {
+      "headword_latin": "Bogami",
+      "type": "izraz",
+      "definition_ru": "ей-богу; действительно; да уж; ещё как",
+      "synonyms_sr": [
+        "zaista",
+        "stvarno",
+        "vala (razg.)",
+        "baš"
+      ],
+      "literal_ru": "",
+      "register": "razg.; pojačajna rečca; leksikalizovano bogami piše se sastavljeno",
+      "examples": [
+        {
+          "serbian_latin": "Oni su obradovali celu Srbiju sinoć, a bogami i sve Srbe u Evropi i u čitavom svetu.",
+          "russian": "Вчера они порадовали всю Сербию, да ещё как — и сербов по всей Европе и миру.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Verujem da će serija biti jako popularna, jer ona je i za tinejdžere, a bogami je i za roditelje.",
+          "russian": "Думаю, сериал станет очень популярным: он и для подростков, да и для родителей тоже.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Для русского важно различать bogami и буквальную клятвенную конструкцию Boga mi. Лексикализованная частица пишется слитно и часто лишь усиливает сказанное: «действительно», «ещё как», «да уж». При настоящем обращении к Богу нормативно пишут раздельно: Boga mi (moga).",
+      "keyword": "bogami"
+    },
+    {
       "headword_latin": "Bogu iza nogu",
       "type": "frazeologizam",
       "definition_ru": "у чёрта на куличках; на краю света; в глухомани",
@@ -2363,6 +2528,32 @@
       ],
       "note": "Сербский образ гораздо выразительнее нейтрального daleko. RTS приводит Bogu iza nogu как характерный сербский идиом со значением очень далёкого места. Русскому естественны «у чёрта на куличках», «в глуши», «на краю света». Сербское грубое vukojebina близко по смыслу, но заметно сильнее стилистически.",
       "keyword": "Bogu iza nogu"
+    },
+    {
+      "headword_latin": "Boli me uvo",
+      "type": "izraz",
+      "definition_ru": "мне до лампочки; мне плевать; мне всё равно",
+      "synonyms_sr": [
+        "baš me briga",
+        "nije me briga",
+        "svejedno mi je"
+      ],
+      "literal_ru": "у меня болит ухо",
+      "register": "razg., grublje; boli me uvo za nekoga / nešto; takođe samostalna replika",
+      "examples": [
+        {
+          "serbian_latin": "Mada, boli me uvo.",
+          "russian": "Хотя мне, в общем-то, плевать.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Sa pedeset te baš briga jer znaš da niko o tebi ne misli i boli te uvo.",
+          "russian": "В пятьдесят тебе уже всё равно: понимаешь, что никто о тебе особо не думает, и перестаёшь переживать.",
+          "source": "Srbija Danas, 2025"
+        }
+      ],
+      "note": "Выражение заметно резче нейтрального svejedno mi je и обычно передаёт демонстративное безразличие. В разговорном ряду оно служит более приличной заменой вульгарного boli me kurac, хотя само тоже фамильярно. С формой второго лица boli te uvo иногда появляется дополнительный оттенок «тебе-то хорошо, тебе забот нет».",
+      "keyword": "boli me uvo"
     },
     {
       "headword_latin": "Bolje da propadne selo nego običaj",
@@ -2826,6 +3017,33 @@
       "keyword": "cure sline"
     },
     {
+      "headword_latin": "Cvetaju / ne cvetaju nekome ruže",
+      "type": "frazeologizam",
+      "definition_ru": "у кого-то всё прекрасно / дела не ладятся; кому-то везёт / приходится несладко",
+      "synonyms_sr": [
+        "ići odlično",
+        "sve ići od ruke",
+        "ne ići najbolje",
+        "imati problema"
+      ],
+      "literal_ru": "у кого-то цветут / не цветут розы",
+      "register": "razg.-publicistički, često iron.; naročito često nekome ne cvetaju ruže",
+      "examples": [
+        {
+          "serbian_latin": "Mi koji smo podržali drugog predsedničkog kandidata svi imamo probleme, ovima drugima cvetaju ruže.",
+          "russian": "У нас, поддержавших другого кандидата, одни проблемы, а у остальных всё прекрасно.",
+          "source": "NIN, 2023"
+        },
+        {
+          "serbian_latin": "Lazareviću ni u Srbiji ne cvetaju ruže.",
+          "russian": "И в Сербии дела у Лазаревича идут неважно.",
+          "source": "Politika, 2016"
+        }
+      ],
+      "note": "Это обновление и объединение двух существующих карточек Ne cvetaju ruže / Ne cvetaju ruže nekome: их следует слить в одну статью и добавить положительную форму. Отрицательный вариант значительно привычнее, но положительное nekome cvetaju ruže тоже живо и означает благополучие, успех, привилегированное положение. Русский буквальный образ возможен лишь стилистически; обычно естественнее «всё идёт прекрасно / дела не ладятся».",
+      "keyword": "cvetaju ruže"
+    },
+    {
       "headword_latin": "Čašica razgovora",
       "type": "frazeologizam",
       "definition_ru": "беседа по душам; разговор за рюмкой или чашкой; приятная неформальная беседа",
@@ -3177,6 +3395,32 @@
       ],
       "note": "Русскому особенно легко запомнить вторую половину — crni dani полностью соответствует «чёрным дням». Контраст bele pare — crni dani является частью устойчивого образа; переводить bele pare буквально как особый вид «белых денег» здесь не нужно.",
       "keyword": "bele pare za crne dane"
+    },
+    {
+      "headword_latin": "Čuvati / držati nekoga / nešto kao malo vode na dlanu",
+      "type": "frazeologizam",
+      "definition_ru": "беречь как зеницу ока; холить и лелеять; сдувать пылинки",
+      "synonyms_sr": [
+        "brižljivo čuvati",
+        "pažljivo paziti",
+        "čuvati kao oči u glavi"
+      ],
+      "literal_ru": "беречь как немного воды на ладони",
+      "register": "razg., ekspresivno, obično odobr.; čuvati / držati koga, šta kao malo vode na dlanu",
+      "examples": [
+        {
+          "serbian_latin": "Orlovi krstaši – impozantne ptice koje moramo čuvati kao „malo vode na dlanu“.",
+          "russian": "Орлы-могильники — величественные птицы, которых нужно беречь как зеницу ока.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Republiku Srpsku treba čuvati „kao malo vode na dlanu i uvek joj pomagati“.",
+          "russian": "Республику Сербскую нужно беречь как зеницу ока и всегда ей помогать.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Сербский образ подчёркивает именно хрупкость объекта: небольшое количество воды на раскрытой ладони можно расплескать малейшим неосторожным движением. Поэтому применительно к человеку русское «сдувать пылинки» иногда передаёт эмоциональный оттенок лучше книжного «беречь как зеницу ока». Не смешивать с kao na dlanu — «как на ладони, совершенно ясно / открыто».",
+      "keyword": "malo vode na dlanu"
     },
     {
       "headword_latin": "Čuvati / paziti nekoga / nešto kao oči u glavi",
