@@ -3434,6 +3434,33 @@
       "keyword": "vetar u leđa"
     },
     {
+      "headword_latin": "Dati nekome žuti karton",
+      "type": "frazeologizam",
+      "definition_ru": "вынести предупреждение; предупредить; показать, что терпение на исходе",
+      "synonyms_sr": [
+        "upozoriti",
+        "opomenuti",
+        "dati opomenu",
+        "pokazati nezadovoljstvo"
+      ],
+      "literal_ru": "дать кому-то жёлтую карточку",
+      "register": "sportska metafora, široko publicistički; adresat u dativu: dati vlasti, ministru, nekome žuti karton",
+      "examples": [
+        {
+          "serbian_latin": "Referendum je odlična prilika da se vlastima da neka vrsta žutog kartona.",
+          "russian": "Референдум — отличная возможность вынести власти своего рода предупреждение.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Đukanović je dao sebi žuti karton.",
+          "russian": "Джуканович сам заработал себе серьёзное предупреждение.",
+          "source": "Politika, 2021"
+        }
+      ],
+      "note": "Перенос идёт напрямую из футбола: жёлтая карточка — предупреждение, после которого дальнейшее нарушение может привести к более серьёзным последствиям. Поэтому dati nekome žuti karton сильнее нейтрального upozoriti: подразумевается, что следующей мерой может стать «красная карточка».",
+      "keyword": "žuti karton"
+    },
+    {
       "headword_latin": "Dati petama vetra",
       "type": "frazeologizam",
       "definition_ru": "дать дёру; унести ноги; быстро сбежать",
@@ -5067,6 +5094,32 @@
       "keyword": "voda; majstor"
     },
     {
+      "headword_latin": "Dubiti na glavi",
+      "type": "frazeologizam",
+      "definition_ru": "хоть на голове стой; делать всё возможное; из кожи вон лезть",
+      "synonyms_sr": [
+        "činiti sve što možeš",
+        "truditi se svim silama",
+        "pokušavati nemoguće"
+      ],
+      "literal_ru": "стоять на голове",
+      "register": "razg., ekspresivno; naročito u konstrukcijama možemo dubiti na glavi i pa na glavi da dubi",
+      "examples": [
+        {
+          "serbian_latin": "Možemo dubiti na glavi, ali deca neće biti zainteresovana.",
+          "russian": "Можем хоть на голове стоять, но детям всё равно будет неинтересно.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Ne može ni Vučić pa na glavi da dubi.",
+          "russian": "Вучич ничего не сможет сделать, хоть на голове стой.",
+          "source": "RTS, 2017"
+        }
+      ],
+      "note": "Dubiti na glavi может употребляться буквально — стоять на голове, — но в условной или гиперболической конструкции означает «что ни делай, хоть невозможное совершай». Особенно характерно pa na glavi da dubi — «хоть на голове пусть стоит». В отличие от русского «из кожи вон лезть», сербский образ часто подчёркивает именно бесполезность усилий.",
+      "keyword": "dubiti na glavi"
+    },
+    {
       "headword_latin": "Dug je zao drug",
       "type": "poslovica",
       "definition_ru": "долг — плохой товарищ; долги до добра не доводят; долг опасен",
@@ -5171,6 +5224,32 @@
       ],
       "note": "Для русского это особенно обманчивое выражение: речь вовсе не о жертве и не о том, чтобы «отдать душу». Конструкция безличная и сохраняет форму dalo: ovo je dušu dalo za odmor, mesto je dušu dalo za decu. После za требуется винительный падеж.",
       "keyword": "dušu dalo"
+    },
+    {
+      "headword_latin": "Dužan kao Grčka",
+      "type": "frazeologizam",
+      "definition_ru": "по уши в долгах; должен как в шелках; весь в долгах",
+      "synonyms_sr": [
+        "prezadužen",
+        "do guše u dugovima",
+        "zadužen preko mere"
+      ],
+      "literal_ru": "должный как Греция",
+      "register": "razg., ekspresivno, šalj.; o čoveku, firmi, klubu ili državi sa veoma velikim dugovima",
+      "examples": [
+        {
+          "serbian_latin": "Šampion Evrope i sveta iz 1991. bio je „dužan kao Grčka“.",
+          "russian": "Чемпион Европы и мира 1991 года был по уши в долгах.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "„Dužan kao Grčka“ više ne važi?",
+          "russian": "«Должен как Греция» уже больше не актуально?",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Выражение давно существует в сербском разговорном языке и воспринимается как готовая формула крайней задолженности; RTS прямо называет его устоявшейся gnoma. Его не следует понимать как актуальное экономическое утверждение о сегодняшней Греции: это языковой стереотип, который продолжает жить независимо от изменения статистики. Точное время возникновения формулы надёжно не установлено.",
+      "keyword": "dužan kao Grčka"
     },
     {
       "headword_latin": "Dva loša ubiše Miloša",
@@ -5809,6 +5888,33 @@
       "keyword": "top"
     },
     {
+      "headword_latin": "Graditi mostove",
+      "type": "frazeologizam",
+      "definition_ru": "наводить мосты; сближать; налаживать связи",
+      "synonyms_sr": [
+        "povezivati ljude",
+        "zbližavati",
+        "uspostavljati saradnju",
+        "graditi poverenje"
+      ],
+      "literal_ru": "строить мосты",
+      "register": "neutralno-publicistički; preneseno o zbližavanju ljudi, naroda, kultura, organizacija i suprotstavljenih strana",
+      "examples": [
+        {
+          "serbian_latin": "Da gradimo mostove ljubavi ne samo unutar svog naroda, već i prema drugim narodima.",
+          "russian": "Строить мосты любви не только внутри своего народа, но и по отношению к другим народам.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Umesto zidova treba graditi mostove.",
+          "russian": "Вместо стен нужно строить мосты.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Очень продуктивная метафора: graditi mostove među ljudima, među narodima, između kultura. Часто противопоставляется podizati / graditi zidove. Русское «наводить мосты» близко, но в сербском глагол именно graditi — «строить».",
+      "keyword": "graditi mostove"
+    },
+    {
       "headword_latin": "gubiti se / izgubiti se svaki trag nekome",
       "type": "glagolski frazem",
       "definition_ru": "от кого-либо пропадают все следы; кто-либо бесследно исчезает",
@@ -5836,6 +5942,33 @@
       ],
       "note": "Лицо обозначается дательным падежом: gubi mu se trag, gubi joj se trag, gubi im se trag.",
       "keyword": "trag"
+    },
+    {
+      "headword_latin": "Gurati / gurnuti nekome nešto pod nos",
+      "type": "frazeologizam",
+      "definition_ru": "тыкать чем-то в нос; навязчиво предъявлять; демонстративно выставлять перед кем-то",
+      "synonyms_sr": [
+        "nametati",
+        "predočavati",
+        "isticati pred nekim",
+        "nabijati na nos (razg.)"
+      ],
+      "literal_ru": "толкать / сунуть кому-то что-то под нос",
+      "register": "razg., ekspresivno; upravljanje: gurnuti nekome nešto pod nos — lice u dativu, predmet u akuzativu",
+      "examples": [
+        {
+          "serbian_latin": "Roman nam gura pod nos večito preispitivanje.",
+          "russian": "Роман настойчиво подсовывает нам вечный повод для самоанализа.",
+          "source": "RTS / Naslovi.net, 2023"
+        },
+        {
+          "serbian_latin": "Potrebno je to gledalištu i muškarcima gurnuti pod nos.",
+          "russian": "Нужно буквально сунуть это зрителям и мужчинам под нос.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Сербское выражение шире русского «ткнуть носом»: предмет можно назойливо показывать, подчёркивать, навязывать вниманию, а не обязательно попрекать человека его ошибкой. Для значения «постоянно попрекать» особенно близко nabijati nekome nešto na nos.",
+      "keyword": "gurati pod nos"
     },
     {
       "headword_latin": "gurati / gurnuti nešto pod tepih",
@@ -11180,6 +11313,33 @@
       "keyword": "glava"
     },
     {
+      "headword_latin": "Mutiti vodu",
+      "type": "frazeologizam",
+      "definition_ru": "мутить воду; вносить смуту; запутывать дело",
+      "synonyms_sr": [
+        "unositi zabunu",
+        "zamagljivati stvari",
+        "praviti pometnju",
+        "zavaravati"
+      ],
+      "literal_ru": "мутить воду",
+      "register": "razg.-publicistički, neodobr.; o namernom stvaranju zabune, skretanju sa suštine ili zamagljivanju situacije",
+      "examples": [
+        {
+          "serbian_latin": "Dežurni mudraci, cinici i komentarijat po Tviteru će mlatiti praznu slamu, te mutiti vodu.",
+          "russian": "Штатные мудрецы, циники и комментаторы в Твиттере будут переливать из пустого в порожнее и мутить воду.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Lako je mutiti vodu i narod u zabludu dovoditi.",
+          "russian": "Несложно мутить воду и вводить людей в заблуждение.",
+          "source": "Politika, 2026"
+        }
+      ],
+      "note": "Русское «мутить воду» почти полностью совпадает по образу, но сербское выражение особенно часто подразумевает сознательное создание путаницы: затемнить суть вопроса, посеять сомнения, увести обсуждение в сторону. Не обязательно означает прямую ложь.",
+      "keyword": "mutiti vodu"
+    },
+    {
       "headword_latin": "Na jedvite jade",
       "type": "frazeologizam",
       "definition_ru": "с огромным трудом; еле-еле; через силу",
@@ -14975,6 +15135,33 @@
       "keyword": "oteto prokleto"
     },
     {
+      "headword_latin": "Otići Bogu na istinu",
+      "type": "frazeologizam",
+      "definition_ru": "умереть; отправиться на тот свет; преставиться",
+      "synonyms_sr": [
+        "umreti",
+        "preminuti",
+        "otići na onaj svet",
+        "preseliti se u večnost (euf.)"
+      ],
+      "literal_ru": "отправиться к Богу за истиной",
+      "register": "eufemistički, pomalo arhaizujuće; od religiozno-svečanog do ironičnog, zavisno od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Počeo sam da razmišljam šta mogu da ostavim potomcima kada krenem Bogu na istinu.",
+          "russian": "Я стал задумываться, что могу оставить потомкам, когда отправлюсь на тот свет.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Đinđić je otišao nesrećno, Bogu na istinu.",
+          "russian": "Джинджич трагически ушёл из жизни, отправился к Богу.",
+          "source": "RTS, 2021"
+        }
+      ],
+      "note": "Образ связан с христианским представлением о человеке, который после смерти предстаёт перед Богом, однако современное употребление не обязательно свидетельствует о религиозности говорящего. Формула может звучать старомодно, торжественно, мягко-эвфемистически или иронически. По-русски буквальная калька неустойчива; обычно нужны «отправиться на тот свет», «преставиться», «уйти из жизни».",
+      "keyword": "Bogu na istinu"
+    },
+    {
       "headword_latin": "otići trbuhom za kruhom",
       "type": "глагольный фразеологизм",
       "definition_ru": "Уехать на заработки; покинуть родные места в поисках работы и лучшей жизни.",
@@ -15028,6 +15215,32 @@
       ],
       "note": "Сербский образ отличается от русского, но прагматика та же: говорящий иронизирует над «открытием» давно известной истины. Ещё более разговорный сербский вариант — otkrivati rupu na saksiji. Особенно полезна готовая формула nisam otkrio toplu vodu — «я Америку не открыл».",
       "keyword": "topla voda"
+    },
+    {
+      "headword_latin": "Otvarati / otvoriti stare rane",
+      "type": "frazeologizam",
+      "definition_ru": "бередить старые раны; ворошить болезненное прошлое; снова причинять старую боль",
+      "synonyms_sr": [
+        "oživljavati bolna sećanja",
+        "vraćati se na bolnu prošlost",
+        "dirati u bolna sećanja"
+      ],
+      "literal_ru": "открывать старые раны",
+      "register": "ekspresivno; o ličnim gubicima, porodičnim traumama, ratovima, istorijskim sukobima i drugim bolnim sećanjima",
+      "examples": [
+        {
+          "serbian_latin": "Teško je otvarati stare rane, postoje ožiljci koji nikada ne zarastaju.",
+          "russian": "Тяжело бередить старые раны: есть шрамы, которые никогда не заживают.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Smatra da ne bi trebalo otvarati stare rane.",
+          "russian": "Она считает, что не стоит бередить старые раны.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Буквальное русское «открывать старые раны» понятно, но устойчивее звучит «бередить старые раны». В сербском выражение очень естественно и для коллективной исторической памяти, особенно когда обсуждение прошлого рискует вновь вызвать сильные эмоции или конфликт. Otvarati обозначает повторяющееся действие, otvoriti — конкретный случай.",
+      "keyword": "stare rane"
     },
     {
       "headword_latin": "otvoriti dušu",
@@ -19922,6 +20135,32 @@
       "keyword": "slatke muke"
     },
     {
+      "headword_latin": "Sličan kao jaje jajetu",
+      "type": "frazeologizam",
+      "definition_ru": "похож как две капли воды; точь-в-точь; практически неотличимый",
+      "synonyms_sr": [
+        "veoma sličan",
+        "gotovo isti",
+        "kao preslikan"
+      ],
+      "literal_ru": "похож как яйцо на яйцо",
+      "register": "razg.-neutralno, ekspresivno; oblik se menja po rodu i broju: sličan, slična, slični, slične kao jaje jajetu",
+      "examples": [
+        {
+          "serbian_latin": "Slični kao jaje jajetu: fudbaleri i njihovi slavni dvojnici.",
+          "russian": "Похожи как две капли воды: футболисты и их знаменитые двойники.",
+          "source": "N1 / Sport Klub, 2015"
+        },
+        {
+          "serbian_latin": "Sandra Di i Keri Maligan slične su kao jaje jajetu.",
+          "russian": "Сандра Ди и Кэри Маллиган похожи как две капли воды.",
+          "source": "City Magazine / Danas, 2020"
+        }
+      ],
+      "note": "Русский использует другой устойчивый образ — «как две капли воды». Сербская конструкция грамматически интересна формой jajetu: второе jaje стоит в дательном падеже — буквально «одно яйцо подобно другому яйцу». Особенно часто речь идёт о внешнем сходстве людей.",
+      "keyword": "jaje jajetu"
+    },
+    {
       "headword_latin": "Slobodan kao ptica",
       "type": "frazeologizam",
       "definition_ru": "свободный как птица; совершенно свободный; ничем не связанный",
@@ -24166,6 +24405,33 @@
       ],
       "note": "Uzde — «поводья, вожжи», поэтому исходный образ — человек сам начинает управлять лошадью. Выражение употребляется о жизни, работе, политике, организации и любой ситуации, где кто-то возвращает себе контроль. Близкое uzeti stvar u svoje ruke менее образно.",
       "keyword": "uzeti uzde u svoje ruke"
+    },
+    {
+      "headword_latin": "Uzimati / otimati nekome hleb iz usta",
+      "type": "frazeologizam",
+      "definition_ru": "отнимать кусок хлеба; лишать заработка; лишать средств к существованию",
+      "synonyms_sr": [
+        "ugrožavati nečiju egzistenciju",
+        "oduzimati posao",
+        "oduzimati zaradu",
+        "lišavati nekoga prihoda"
+      ],
+      "literal_ru": "отнимать у кого-то хлеб изо рта",
+      "register": "ekspresivno; lice u dativu: uzimati mi / ti / mu / im hleb iz usta; otimati je jače od uzimati",
+      "examples": [
+        {
+          "serbian_latin": "Unesko, misli on, radi protiv njihovih interesa, uzima im hleb iz usta.",
+          "russian": "ЮНЕСКО, по его мнению, действует против их интересов и лишает их заработка.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Nisu štedeli ni najugroženije i otimali im hleb iz usta.",
+          "russian": "Они не щадили даже самых уязвимых, отнимая у них последний кусок хлеба.",
+          "source": "RTS, 2013"
+        }
+      ],
+      "note": "Речь обычно не о буквальном отбирании еды, а об угрозе работе, доходу и самому существованию человека или семьи. Uzimati hleb iz usta может быть сравнительно нейтральной метафорой конкуренции за заработок, тогда как otimati добавляет ощущение несправедливости и насильственного лишения. Русское «отнимать кусок хлеба» очень близко.",
+      "keyword": "hleb iz usta"
     },
     {
       "headword_latin": "Uzimati / uzeti zdravo za gotovo",
