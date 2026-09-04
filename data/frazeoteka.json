@@ -281,6 +281,33 @@
       "keyword": "bacati mrvice"
     },
     {
+      "headword_latin": "Baciti / bacati senku na nešto",
+      "type": "frazeologizam",
+      "definition_ru": "бросить тень на что-то; омрачить; поставить под сомнение хорошее впечатление",
+      "synonyms_sr": [
+        "pomračiti",
+        "narušiti utisak",
+        "zaseniti",
+        "dovesti u pitanje"
+      ],
+      "literal_ru": "бросить тень на что-то",
+      "register": "neutralno-publicistički; često o uspehu, odnosima, reputaciji ili događaju",
+      "examples": [
+        {
+          "serbian_latin": "Ovakav potez [...] mogao bi baciti senku na prijateljske odnose između Rumunije i Republike Srbije.",
+          "russian": "Такой поступок мог бы бросить тень на дружественные отношения между Румынией и Сербией.",
+          "source": "N1, 2021"
+        },
+        {
+          "serbian_latin": "Nijedan sud neće baciti senku na borbu OVK.",
+          "russian": "Никакой суд не бросит тень на борьбу ОАК.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "По образу почти полностью соответствует русскому «бросить тень». В сербском особенно частотна конструкция с абстрактными существительными: baciti senku na uspeh, odnose, reputaciju, proslavu. Не путать с baciti ljagu, которое значительно сильнее и означает именно опорочить, запятнать.",
+      "keyword": "baciti senku"
+    },
+    {
       "headword_latin": "Baciti kašiku",
       "type": "sleng",
       "definition_ru": "сыграть в ящик; дать дуба; умереть",
@@ -366,6 +393,32 @@
       ],
       "note": "Оборот обозначает не просто поражение, а лишение способности сопротивляться или нормально функционировать. Поэтому естественны baciti ekonomiju, sistem, protivnika, državu na kolena. В спорте может означать разгром соперника.",
       "keyword": "baciti na kolena"
+    },
+    {
+      "headword_latin": "Baciti novo svetlo na nešto",
+      "type": "frazeologizam",
+      "definition_ru": "пролить новый свет на что-то; показать с новой стороны; дать новое объяснение",
+      "synonyms_sr": [
+        "dodatno razjasniti",
+        "osvetliti iz novog ugla",
+        "ponuditi novo tumačenje"
+      ],
+      "literal_ru": "бросить новый свет на что-то",
+      "register": "neutralno-knjiški, publicistički i naučni; naročito o novim podacima, dokumentima i istraživanjima",
+      "examples": [
+        {
+          "serbian_latin": "Arhive će verovatno „baciti novo svetlo“ na hapšenje Žana Mulena.",
+          "russian": "Архивы, вероятно, прольют новый свет на арест Жана Мулена.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Mislite li da će vaša serija baciti novo svetlo na ličnost i delo Dobrice Ćosića?",
+          "russian": "Как вы думаете, прольёт ли ваш сериал новый свет на личность и творчество Добрицы Чосича?",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Русский эквивалент практически полный. Очень характерны сочетания dokazi, dokumenti, istraživanja, knjiga mogu baciti novo svetlo na... Встречается также baciti dodatno / sasvim novo svetlo. Здесь svetlo означает новое понимание, а не просто привлечение внимания.",
+      "keyword": "novo svetlo"
     },
     {
       "headword_latin": "baciti oko na nekoga / nešto",
@@ -1634,6 +1687,33 @@
       ],
       "note": "Сербское na vrh jezika соответствует русскому «на кончике языка». Оно может относиться и к слову, которое никак не удаётся вспомнить, и к реплике, которую человек почти произнёс, но удержался. Для русского полезна конструкция с дательным местоимением: na vrh jezika mi je.",
       "keyword": "na vrh jezika"
+    },
+    {
+      "headword_latin": "Biti pod lupom",
+      "type": "frazeologizam",
+      "definition_ru": "быть под пристальным наблюдением; подвергаться тщательной проверке; быть под микроскопом",
+      "synonyms_sr": [
+        "biti pod nadzorom",
+        "biti predmet provere",
+        "biti predmet detaljne analize",
+        "pažljivo se pratiti"
+      ],
+      "literal_ru": "быть под лупой",
+      "register": "neutralno-publicistički; o čoveku, ustanovi, delatnosti, proizvodu ili pojavi",
+      "examples": [
+        {
+          "serbian_latin": "Svi su u Vladi pod lupom.",
+          "russian": "Все в правительстве находятся под пристальным наблюдением.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Srbija pod lupom zbog nestalih beba.",
+          "russian": "Сербия под пристальным вниманием из-за дела о пропавших младенцах.",
+          "source": "RTS, 2014"
+        }
+      ],
+      "note": "Pod lupom подразумевает не просто внимание, а внимательное рассмотрение деталей — контроль, расследование, проверку или анализ. В русском «под лупой» понятно, но чаще естественны «под пристальным вниманием», «под микроскопом».",
+      "keyword": "pod lupom"
     },
     {
       "headword_latin": "Biti pravi Pera Ždera",
@@ -11090,6 +11170,33 @@
       "keyword": "bubica"
     },
     {
+      "headword_latin": "Mirne duše",
+      "type": "izraz",
+      "definition_ru": "со спокойной совестью; смело; без колебаний; с полной уверенностью",
+      "synonyms_sr": [
+        "slobodno",
+        "bez griže savesti",
+        "bez oklevanja",
+        "s punim uverenjem"
+      ],
+      "literal_ru": "спокойной душой",
+      "register": "priloški izraz; naročito često mogu mirne duše da kažem / tvrdim",
+      "examples": [
+        {
+          "serbian_latin": "Mogu mirne duše da kažem da su Srbi na KiM okupljeni i složni.",
+          "russian": "Я могу с полной уверенностью сказать, что сербы в Косове и Метохии сплочены и едины.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Danas bi se mirne duše [...] ista rečenica mogla u lice tresnuti onima koji su uzurpirali ime Evropljanin.",
+          "russian": "Сегодня эту же фразу можно было бы без колебаний бросить в лицо тем, кто присвоил себе имя европейца.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Выражение не обязательно связано с моральной «чистой совестью». Очень часто mirne duše просто усиливает уверенность говорящего: «можно совершенно спокойно утверждать». Поэтому русский перевод зависит от контекста: «со спокойной совестью», «смело», «с полной уверенностью».",
+      "keyword": "mirne duše"
+    },
+    {
       "headword_latin": "Mlatiti praznu slamu",
       "type": "frazeologizam",
       "definition_ru": "толочь воду в ступе; переливать из пустого в порожнее; заниматься пустой болтовнёй",
@@ -11176,6 +11283,32 @@
       ],
       "note": "Ваша фраза грамматически правильна. Для русского важно управление: dirnut pažnjom, gestom, rečima, podrškom — творительный падеж без предлога. Ganut близко по значению, но обычно звучит чуть более возвышенно и эмоционально.",
       "keyword": "dirnuta pažnjom"
+    },
+    {
+      "headword_latin": "Moći na prste jedne ruke nabrojati / izbrojati",
+      "type": "frazeologizam",
+      "definition_ru": "можно пересчитать по пальцам одной руки; крайне мало",
+      "synonyms_sr": [
+        "biti veoma malo",
+        "biti malobrojan",
+        "jedva nekoliko"
+      ],
+      "literal_ru": "можно пересчитать на пальцах одной руки",
+      "register": "razg.-neutralno; takođe na prste jedne ruke mogu se nabrojati / izbrojati",
+      "examples": [
+        {
+          "serbian_latin": "Na prste jedne ruke broje se njegove posete tom gradu.",
+          "russian": "Его поездки в этот город можно пересчитать по пальцам одной руки.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Takve ljude možemo da izbrojimo na prste jedne ruke.",
+          "russian": "Таких людей можно пересчитать по пальцам одной руки.",
+          "source": "RTS, 2016"
+        }
+      ],
+      "note": "Сербская и русская конструкции почти совпадают. Употребляются nabrojati, izbrojati, реже просто brojati se na prste jedne ruke. Фраза означает не математически «не больше пяти» во всех случаях, а просто подчёркивает чрезвычайно малое количество.",
+      "keyword": "na prste jedne ruke"
     },
     {
       "headword_latin": "Mrka kapa",
@@ -11365,6 +11498,32 @@
       ],
       "note": "Русское «мутить воду» почти полностью совпадает по образу, но сербское выражение особенно часто подразумевает сознательное создание путаницы: затемнить суть вопроса, посеять сомнения, увести обсуждение в сторону. Не обязательно означает прямую ложь.",
       "keyword": "mutiti vodu"
+    },
+    {
+      "headword_latin": "Na duge staze",
+      "type": "izraz",
+      "definition_ru": "в долгосрочной перспективе; в конечном счёте; на длинной дистанции",
+      "synonyms_sr": [
+        "dugoročno",
+        "na duži rok",
+        "gledano dugoročno"
+      ],
+      "literal_ru": "на длинные дистанции",
+      "register": "neutralno-razgovorno i publicistički; pri proceni dugoročnih posledica",
+      "examples": [
+        {
+          "serbian_latin": "Mislim da će na duge staze trpeti iskreno poverenje i ljubav koju mnogi Srbi gaje prema Rusiji.",
+          "russian": "Думаю, в долгосрочной перспективе пострадают искреннее доверие и симпатия, которые многие сербы испытывают к России.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Niko ne može na duge staze toliko da izdrži.",
+          "russian": "Никто не способен выдерживать такое в течение долгого времени.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Образ пришёл из дистанции или забега: важен результат не сейчас, а после длительного периода. Русская калька «на долгие дистанции» возможна только буквально; в переносном смысле естественнее «в долгосрочной перспективе», «на длинной дистанции», «долго».",
+      "keyword": "na duge staze"
     },
     {
       "headword_latin": "Na jedvite jade",
@@ -18027,6 +18186,33 @@
       "keyword": "preko veze"
     },
     {
+      "headword_latin": "Preko volje",
+      "type": "izraz",
+      "definition_ru": "нехотя; через силу; против желания",
+      "synonyms_sr": [
+        "nevoljno",
+        "nerado",
+        "bez želje",
+        "protiv svoje volje"
+      ],
+      "literal_ru": "через волю",
+      "register": "priloški izraz; raditi nešto preko volje, ići negde preko volje",
+      "examples": [
+        {
+          "serbian_latin": "Preko volje [...] Mujo se obrija, lepo se obuče.",
+          "russian": "Муйо нехотя побрился и прилично оделся.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Uključujući i one učenike koji su u nju ranije odlazili „preko volje“.",
+          "russian": "Включая тех учеников, которые раньше ходили в школу без всякого желания.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "По смыслу близко nerado, но preko volje ярче подчёркивает внутреннее сопротивление: человек всё-таки делает то, чего делать не хочет. Не путать с svojom voljom — «по собственной воле» и protiv svoje volje — «против своей воли», которое обычно сильнее и может подразумевать принуждение.",
+      "keyword": "preko volje"
+    },
+    {
       "headword_latin": "Prenositi se od usta do usta",
       "type": "glagolski frazem",
       "definition_ru": "передаваться из уст в уста; распространяться посредством личных пересказов",
@@ -18279,6 +18465,33 @@
       ],
       "note": "Это не просто prljav posao «грязная работа». Единственное число может быть буквальным: prljav posao — работа, после которой пачкаешься, либо морально неприятная работа. Устойчивое prljava posla чаще означает сомнительные, нечестные, криминальные или закулисные дела. Форма posla — особая, стилистически закрепившаяся множественная форма, которая живёт именно в сочетаниях вроде nisu čista posla, vražja posla, ženska posla, prljava posla; обычное нейтральное множественное число — poslovi.",
       "keyword": "prljava posla"
+    },
+    {
+      "headword_latin": "Probiti led",
+      "type": "frazeologizam",
+      "definition_ru": "сломать лёд; сделать первый шаг; положить начало; быть первым",
+      "synonyms_sr": [
+        "napraviti prvi korak",
+        "prvi započeti",
+        "otvoriti put",
+        "pokrenuti stvar"
+      ],
+      "literal_ru": "пробить лёд",
+      "register": "razg.-publicistički; o prvom čoveku ili postupku posle kojeg drugima postaje lakše da nastave",
+      "examples": [
+        {
+          "serbian_latin": "Ukoliko ovaj sastanak bude održan u Srbiji, Makron će praktično „probiti led“.",
+          "russian": "Если эта встреча состоится в Сербии, Макрон фактически сделает первый шаг и сломает лёд.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "Nakon sedam uzastopnih šuteva bez pogodaka „led je probio“ Badio.",
+          "russian": "После семи промахов подряд Бадио наконец открыл счёт.",
+          "source": "Euronews Srbija, 2026"
+        }
+      ],
+      "note": "Сербское probiti led шире русского «сломать лёд» в общении. Оно очень часто значит «стать первым, начать то, чего до этого никто не сделал»: первым выступить, забить, приехать, решиться. Поэтому в спортивном контексте перевод может быть просто «открыть счёт», «забить первым».",
+      "keyword": "probiti led"
     },
     {
       "headword_latin": "proći kao bos po trnju",
@@ -24626,6 +24839,33 @@
       "keyword": "hleb iz usta"
     },
     {
+      "headword_latin": "Uzimati / uzeti danak",
+      "type": "frazeologizam",
+      "definition_ru": "брать свою дань; давать тяжёлые последствия; наносить ущерб",
+      "synonyms_sr": [
+        "ostavljati posledice",
+        "nanositi štetu",
+        "odnositi žrtve",
+        "skupo koštati"
+      ],
+      "literal_ru": "брать дань",
+      "register": "neutralno-publicistički, ekspresivno; subjekt su često bolest, suša, vrućina, starost, stres ili težak rad",
+      "examples": [
+        {
+          "serbian_latin": "Suša uzima danak.",
+          "russian": "Засуха берёт своё / наносит всё более серьёзный ущерб.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Brzina života i tu je uzela svoj danak.",
+          "russian": "Быстрый темп жизни и здесь взял своё.",
+          "source": "Radio Beograd 1 / RTS, 2025"
+        }
+      ],
+      "note": "Danak буквально исторически означает дань, налог, обязательный платёж. Во фразеологизме uzeti danak это уже образ неизбежной цены: нечто постепенно приводит к потерям, вреду, болезням или жертвам. Русское «взять своё» часто естественнее буквального «взять дань».",
+      "keyword": "uzeti danak"
+    },
+    {
       "headword_latin": "Uzimati / uzeti zdravo za gotovo",
       "type": "frazeologizam",
       "definition_ru": "принимать как само собой разумеющееся; принимать без проверки; считать гарантированным",
@@ -24999,6 +25239,33 @@
       ],
       "note": "Обычная форма — vući nekoga za nos. В зависимости от контекста выражение может означать прямой обман или длительное уклонение от обещанного решения.",
       "keyword": "nos"
+    },
+    {
+      "headword_latin": "Vući nekoga za rukav",
+      "type": "frazeologizam",
+      "definition_ru": "дёргать кого-то за рукав; настойчиво просить; приставать с просьбами",
+      "synonyms_sr": [
+        "moljakati",
+        "navaljivati",
+        "saletati nekoga",
+        "tražiti uslugu"
+      ],
+      "literal_ru": "тянуть кого-то за рукав",
+      "register": "razg.; često o upornom traženju novca, pomoći, usluge ili pažnje",
+      "examples": [
+        {
+          "serbian_latin": "Svi će te vući za rukav, za pare.",
+          "russian": "Все будут дёргать тебя за рукав и просить денег.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Do ovih informacija se [...] stiže mahom tako što se menadžment mora vući za rukav.",
+          "russian": "Эти сведения в основном приходится буквально вытягивать из руководства настойчивыми просьбами.",
+          "source": "Politika, 2008"
+        }
+      ],
+      "note": "Буквальное действие возможно, но переносно vući nekoga za rukav означает постоянно обращаться к человеку, напоминать, просить, добиваться от него чего-либо. Особенно типичны деньги, спонсорство, услуги и решение бюрократических вопросов. Русское «дёргать кого-то» хорошо передаёт и образ, и лёгкое раздражение.",
+      "keyword": "vući za rukav"
     },
     {
       "headword_latin": "Vuk dlaku menja, ali ćud nikada",
