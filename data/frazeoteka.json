@@ -1081,6 +1081,33 @@
       "keyword": "biraj ago što je tebi drago"
     },
     {
+      "headword_latin": "Biti / izgubiti se kao magarac u magli",
+      "type": "frazeologizam",
+      "definition_ru": "растеряться; совершенно не ориентироваться; потеряться как в тумане; исчезнуть без следа",
+      "synonyms_sr": [
+        "biti izgubljen",
+        "ne znati gde udaraš",
+        "pogubiti se",
+        "nestati bez traga"
+      ],
+      "literal_ru": "быть / потеряться как осёл в тумане",
+      "register": "razg., podsmešljivo; biti kao magarac u magli češće o dezorijentisanosti, izgubiti se kao magarac u magli i o nestanku",
+      "examples": [
+        {
+          "serbian_latin": "Ne znaš nikad na čemu si. Uvek si, da izvinete, kao magarac u magli.",
+          "russian": "Никогда не знаешь, на чём стоишь. Всё время как в тумане.",
+          "source": "N1, 2024"
+        },
+        {
+          "serbian_latin": "Bez njega sam magarac u magli što se tiče muzike.",
+          "russian": "Без него я в музыке совершенно теряюсь.",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Новый источник слишком узко сводит оборот к «заблудиться / пропасть»: живое употребление показывает важное значение быть совершенно дезориентированным, не понимать, что делать. В сербской фразеологической литературе фиксируется и модель izgubiti se kao magarac u magli со значением исчезновения без следа. Объяснение через «серого осла, незаметного в сером тумане» встречается как народная версия, но надёжно подтверждённой этимологией её считать не стоит.",
+      "keyword": "magarac u magli"
+    },
+    {
       "headword_latin": "biti / naći se između čekića i nakovnja",
       "type": "фразеологизм",
       "definition_ru": "Оказаться между молотом и наковальней; попасть под давление с двух сторон; оказаться в положении без хорошего выхода.",
@@ -9004,6 +9031,31 @@
       "keyword": "površina"
     },
     {
+      "headword_latin": "Ispod mire sto đavola vire",
+      "type": "poslovica",
+      "definition_ru": "в тихом омуте черти водятся; тихоня с сюрпризом",
+      "synonyms_sr": [
+        "tiha voda breg roni",
+        "ne suditi po spoljašnjosti"
+      ],
+      "literal_ru": "из-под тихони сто чертей выглядывает",
+      "register": "poslov., razg.-nar., iron.-neodobr.; tradicionalno naročito o spolja tihom i skromnom čoveku",
+      "examples": [
+        {
+          "serbian_latin": "Ispod mire sto đavola vire, kaže narod.",
+          "russian": "В тихом омуте черти водятся, говорит народ.",
+          "source": "Politika, 2010"
+        },
+        {
+          "serbian_latin": "Za sve njih moglo bi se reći „ispod mire sto đavola vire“.",
+          "russian": "Про всех них можно было бы сказать: в тихом омуте черти водятся.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Mira здесь не обязательно женское имя, хотя современная игра с именем Mira очень распространена. Формула держится на рифме mire — vire и обозначает несоответствие между спокойной внешностью и скрытым темпераментом, намерениями или поступками. Исторически пословицу особенно часто применяли к женщинам, поэтому в адрес незнакомой женщины она сегодня может прозвучать покровительственно или сексистски; современное употребление значительно шире. Академические работы также фиксируют эту пословицу в сербском корпусе.",
+      "keyword": "ispod mire"
+    },
+    {
       "headword_latin": "Ispod svake kritike",
       "type": "frazeologizam",
       "definition_ru": "ниже всякой критики; никуда не годится; совершенно неприемлемо",
@@ -9089,6 +9141,32 @@
       ],
       "note": "Drina — реальная извилистая река, поэтому образ предельно нагляден: попытка «выпрямить» её течение требует огромных усилий и всё равно обречена. Фразеологизм особенно часто употребляется о бюрократии, исторических спорах и попытках восстановить абсолютную справедливость. Не всегда означает, что цель плоха: акцент именно на тщетности усилий.",
       "keyword": "Drina"
+    },
+    {
+      "headword_latin": "Ista meta, isto odstojanje",
+      "type": "izraz",
+      "definition_ru": "всё по-прежнему; ничего не изменилось; всё те же на манеже",
+      "synonyms_sr": [
+        "sve po starom",
+        "ništa se nije promenilo",
+        "status quo"
+      ],
+      "literal_ru": "та же мишень, та же дистанция",
+      "register": "razg.-publicist., iron.; naročito o situaciji u kojoj se posle novog događaja ili promene ljudi suštinski ništa nije promenilo",
+      "examples": [
+        {
+          "serbian_latin": "Evo nas i dalje na istom mestu. Ista meta, isto odstojanje.",
+          "russian": "Вот мы и остались там же. Всё по-прежнему.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "Ista meta, isto odstojanje: Srbija zadržala mesto na rang-listi FIFA.",
+          "russian": "Всё без изменений: Сербия сохранила место в рейтинге ФИФА.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Образ пришёл из стрельбы: мишень и расстояние до неё остаются прежними. Поэтому выражение означает не столько «цель осталась той же», сколько именно положение дел не изменилось. Особенно часто его используют журналисты в спорте и политике; в 2026 году N1, например, вынес формулу в заголовок материала о затянувшемся противостоянии фермеров и властей.",
+      "keyword": "ista meta"
     },
     {
       "headword_latin": "Isterati nekoga / nešto na čistac",
@@ -9985,6 +10063,33 @@
       "keyword": "jesti"
     },
     {
+      "headword_latin": "Jesti nekome džigericu",
+      "type": "frazeologizam",
+      "definition_ru": "изводить кого-либо; мотать нервы; достать; сидеть в печёнках",
+      "synonyms_sr": [
+        "ići nekome na živce",
+        "ići nekome na jetru",
+        "izluđivati nekoga",
+        "nervirati nekoga"
+      ],
+      "literal_ru": "есть кому-либо печень",
+      "register": "razg., grublje-ekspresivno; jesti kome džigericu + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Majo, jedeš mi džigericu.",
+          "russian": "Майя, ты меня уже извела.",
+          "source": "Blic, 2006"
+        },
+        {
+          "serbian_latin": "Jedeš mi džigericu ovde.",
+          "russian": "Ты мне здесь все нервы вымотала.",
+          "source": "Kurir, 2020"
+        }
+      ],
+      "note": "Поправка к заголовку нового источника: для словаря лучше инфинитив jesti nekome džigericu, а jedeš mi džigericu — типичная конкретная реплика. Džigerica — разговорное слово для печени, также обычное название печени как продукта; анатомически нейтральное слово — jetra. Русское «сидеть в печёнках» использует тот же орган, но конструкция другая. Выражение настолько узнаваемо, что в 2024 году Danas использовал вопрос Šta ti jede džigericu? как языковую игру в медицинской кампании о болезнях печени.",
+      "keyword": "džigerica"
+    },
+    {
       "headword_latin": "Jezik kosti nema, ali kosti lomi",
       "type": "poslovica",
       "definition_ru": "язык без костей, а кости ломает; словом можно сильно ранить",
@@ -10249,6 +10354,33 @@
       "keyword": "kad neće milom hoće silom"
     },
     {
+      "headword_latin": "Kad zagusti",
+      "type": "izraz",
+      "definition_ru": "когда припечёт; когда прижмёт; в трудную минуту; когда дело принимает серьёзный оборот",
+      "synonyms_sr": [
+        "kad postane teško",
+        "kad prigusti",
+        "kad nastane problem",
+        "kad dođe do gustog"
+      ],
+      "literal_ru": "когда загустеет",
+      "register": "razg., ekspresivno; bezlična konstrukcija; često tek kad zagusti, kad stvarno zagusti",
+      "examples": [
+        {
+          "serbian_latin": "Kad zagusti, svi žele da ih spasava sposoban i obučen vojnik.",
+          "russian": "Когда припечёт, все хотят, чтобы их спасал способный и подготовленный солдат.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Sklanjali su se kad se „zagusti“, povlačili u bezbednost svojih baza.",
+          "russian": "Когда становилось жарко, они отходили в безопасные базы.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Русского может сбить буквальное zagustiti «загустеть»: в этом обороте речь просто о ситуации, которая стала критической, опасной или трудноразрешимой. Часто фраза проверяет людей на надёжность: ko ostaje uz tebe kad zagusti? — «кто останется с тобой, когда станет тяжело?». Расширенный вариант kad dođe do gustog имеет практически то же значение.",
+      "keyword": "zagustiti"
+    },
+    {
       "headword_latin": "Kadija te tuži, kadija ti sudi",
       "type": "poslovica",
       "definition_ru": "сам обвиняет, сам и судит; о беспристрастном суде речи нет",
@@ -10326,6 +10458,33 @@
       ],
       "note": "В отличие от natovariti nešto sebi na vrat, где внимание на самом действии «взвалить на себя проблему», kamen oko vrata обозначает уже существующее тяжёлое бремя, которое мешает и тянет вниз. Выражение свободно относится к долгам, отношениям, организациям, привычкам и политическим проблемам.",
       "keyword": "kamen oko vrata"
+    },
+    {
+      "headword_latin": "Kao bez duše",
+      "type": "izraz",
+      "definition_ru": "сломя голову; как угорелый; что есть духу; не помня себя",
+      "synonyms_sr": [
+        "kao lud",
+        "iz sve snage",
+        "bez daha",
+        "glavom bez obzira"
+      ],
+      "literal_ru": "словно без души",
+      "register": "razg., ekspresivno; pre svega uz glagole brzog kretanja: trčati, juriti, utrčati, izjuriti",
+      "examples": [
+        {
+          "serbian_latin": "Kao bez duše sam utrčala u crkvu.",
+          "russian": "Я сломя голову вбежала в церковь.",
+          "source": "Vreme, 2013"
+        },
+        {
+          "serbian_latin": "Poštar je iznenada ustao i otrčao kao bez duše.",
+          "russian": "Почтальон вдруг вскочил и умчался как угорелый.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Особенно полезная ловушка для русского: kao bez duše при глаголе движения не означает «бездушно». Это характеристика интенсивности действия — человек мчится, кричит или действует так, будто перестал себя контролировать. В отличие от kao da ga vile gone, здесь не обязательно подразумевается страх или преследование.",
+      "keyword": "bez duše"
     },
     {
       "headword_latin": "Kao da je pao s Marsa",
@@ -11831,32 +11990,30 @@
       "keyword": "kost u grlu"
     },
     {
-      "headword_latin": "koštati kao Svetog Petra kajgana",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Стоить баснословно дорого; обойтись в целое состояние.",
+      "headword_latin": "Koštati kao Svetog Petra kajgana",
+      "type": "frazeologizam",
+      "definition_ru": "стоить баснословно дорого; обойтись в целое состояние; влететь в копеечку",
       "synonyms_sr": [
         "koštati papreno",
         "biti preskupo",
         "koštati čitavo bogatstvo",
         "imati astronomsku cenu"
       ],
-      "literal_ru": "Стоить как яичница святого Петра.",
-      "register": "Разговорное, экспрессивное, шутливое.",
+      "literal_ru": "стоить как яичница святого Петра",
+      "register": "razg., ekspresivno, šalj.; takođe skupo kao Svetog Petra kajgana",
       "examples": [
         {
-          "serbian_latin": "Kilometar košta kao Svetog Petra kajgana.",
-          "russian": "Один километр обходится баснословно дорого.",
-          "source": "Srbija Danas, 2026",
-          "url": "https://www.sd.rs/auto/vesti/najskuplji-auto-put-ikada-kilometar-kosta-kao-svetog-petra-kajgana-2026-05-18"
+          "serbian_latin": "Transfer Dilana Osetkovskog koštao je Partizan kao Svetog Petra kajgana.",
+          "russian": "Трансфер Дилана Осетковского обошёлся «Партизану» в целое состояние.",
+          "source": "Danas, 2026"
         },
         {
-          "serbian_latin": "Kada nešto platimo više nego inače ili je skupo, često kažemo da nas je to koštalo „kao Svetog Petra kajgana“.",
-          "russian": "Когда мы платим за что-либо больше обычного, часто говорим, что это обошлось нам как яичница святого Петра.",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/zivot/zasto-se-kaze-da-nesto-kosta-kao-svetog-petra-kajgana/"
+          "serbian_latin": "Kada nešto platimo više nego inače, često kažemo da nas je to koštalo „kao Svetog Petra kajgana“.",
+          "russian": "Когда мы платим необычно дорого, часто говорим, что это обошлось в целое состояние.",
+          "source": "Danas, 2024"
         }
       ],
-      "note": "Выражение обозначает не просто высокую, а чрезмерную, вызывающую удивление цену. Возможна форма без глагола: skupo kao Svetog Petra kajgana.",
+      "note": "Обновление существующей статьи. Главное дополнение — происхождение нельзя подавать как установленное. Danas приводит несколько легендарных объяснений и указывает на греческую параллель со Sveti Đorđe, поэтому история о Петре, Христе, бедной вдове и окаменевшей яичнице — именно народная легенда, а не доказанная этимология. Для русскоязычного важно и управление: обычно nešto me je koštalo kao Svetog Petra kajgana — буквально «что-то мне стоило…».",
       "keyword": "kajgana"
     },
     {
@@ -12216,6 +12373,33 @@
       "keyword": "laže čim zine"
     },
     {
+      "headword_latin": "Leći kao budali šamar",
+      "type": "frazeologizam",
+      "definition_ru": "прийтись как нельзя лучше; зайти на ура; оказаться именно тем, что нужно",
+      "synonyms_sr": [
+        "leći kao kec na deset",
+        "baš odgovarati",
+        "doći kao poručeno",
+        "savršeno leći"
+      ],
+      "literal_ru": "прийтись как дураку пощёчина",
+      "register": "razg., grublje-šalj.; leglo mi / ti / mu je kao budali šamar; o hrani, piću, muzici, odmoru, rešenju, događaju i dr.",
+      "examples": [
+        {
+          "serbian_latin": "Nova muzička rešenja su nam legla kao budali šamar.",
+          "russian": "Новые музыкальные решения пришлись нам как нельзя лучше.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "„Bife Oblomov“ vojvođanskoj prestonici „legao“ je „kao budali šamar“.",
+          "russian": "«Бифе Обломов» пришёлся Нови-Саду как нельзя кстати.",
+          "source": "Dnevnik, 2022"
+        }
+      ],
+      "note": "Новый источник справедливо выделяет еду и питьё, но реальное употребление гораздо шире: так может «лечь» музыка, идея, место, событие или обстоятельство. Смысл всегда положительный — что-то идеально совпало с потребностью, вкусом или моментом. Происхождение комического сравнения надёжно не установлено, поэтому объяснять его буквально через то, что «дураку пощёчина положена», лучше не как этимологический факт.",
+      "keyword": "budali šamar"
+    },
+    {
       "headword_latin": "Leći na rudu",
       "type": "frazeologizam",
       "definition_ru": "смириться; подчиниться; уступить давлению",
@@ -12499,24 +12683,25 @@
       "synonyms_sr": [
         "lupetati",
         "pričati gluposti",
-        "govoriti napamet"
+        "govoriti napamet",
+        "trabunjati"
       ],
       "literal_ru": "грохотать / палить как «Максим» по дивизии",
-      "register": "razg., šalj.-neodobr.; razgovorno često ko Maksim, neutralna rečnička forma kao Maksim",
+      "register": "razg., šalj.-neodobr.; razgovorno često lupati k’o Maksim po diviziji",
       "examples": [
         {
-          "serbian_latin": "On ima pravo da lupeta kao Maksim po diviziji.",
-          "russian": "Он имеет право нести чепуху сколько угодно.",
+          "serbian_latin": "On ima pravo na predrasude i na to da lupeta kao Maksim po diviziji.",
+          "russian": "Он имеет право на предрассудки и на то, чтобы нести всякую чепуху.",
           "source": "Danas, 2024"
         },
         {
-          "serbian_latin": "„Lupaju kao Maksim po diviziji“ o svemu i svačemu.",
-          "russian": "Они несут всякую чепуху обо всём на свете.",
+          "serbian_latin": "Ovdašnji političari „lupaju kao Maksim po diviziji“ o svemu i svačemu.",
+          "russian": "Местные политики несут чепуху обо всём на свете.",
           "source": "Vreme, 2001"
         }
       ],
-      "note": "Компонент Maksim традиционно связывают с пулемётом системы Maxim: его скорострельность и характерный грохот стали основой сравнения с бессвязной словесной «стрельбой». В современном употреблении речь почти всегда о человеке, который говорит много, без толку или без знания предмета. Саму подробную историю возникновения формулы источники пересказывают по-разному, поэтому дальше этой связи этимологию лучше не конкретизировать.",
-      "keyword": "Maksim; divizija"
+      "note": "Обновление существующей статьи. Здесь Maksim — не некий болтливый Максим, а пулемёт системы Maxim, созданный Хайремом Максимом; N1 в 2026 году отдельно разбирал эту распространённую ошибку. Метафора переносит непрерывную пулемётную очередь на поток бессмысленной речи. При этом детальные популярные рассказы о том, как именно пулемёт якобы «стрелял по целой дивизии», лучше не принимать за доказанную историю возникновения фразеологизма.",
+      "keyword": "Maksim"
     },
     {
       "headword_latin": "Lupati se po glavi",
@@ -28191,6 +28376,33 @@
       ],
       "note": "В зависимости от контекста это может быть и нейтральное «броситься в глаза», и более личное «приглянуться». Для русского важно управление: ona mi je zapala za oko — буквально «она мне попала за глаз», естественно «она мне приглянулась». Не путать с upasti u oči, которое чаще подчёркивает заметность.",
       "keyword": "zapasti za oko"
+    },
+    {
+      "headword_latin": "Zapetljati se kao pile u kučine",
+      "type": "frazeologizam",
+      "definition_ru": "запутаться окончательно; увязнуть; попасть в полный переплёт",
+      "synonyms_sr": [
+        "potpuno se zapetljati",
+        "uplesti se",
+        "ne znati kako se izvući",
+        "pogubiti se"
+      ],
+      "literal_ru": "запутаться как цыплёнок в очёсах льна или конопли",
+      "register": "razg., ekspresivno; varijante zapetljati se, uplesti se, zaplesti se kao pile u kučine",
+      "examples": [
+        {
+          "serbian_latin": "Vulin se zapetljao kao pile u kučine.",
+          "russian": "Вулин окончательно запутался.",
+          "source": "N1, 2017"
+        },
+        {
+          "serbian_latin": "Često smo zapetljani kao pile u kučine u svoj svet i svakodnevicu.",
+          "russian": "Мы часто безнадёжно запутаны в собственном мире и повседневности.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Kučine — спутанные очёсы льна или конопли; слово сегодня мало знакомо городскому носителю вне подобных оборотов. В Rečniku srpskih govora Vojvodine фиксируются несколько вариантов: saplesti se, upetljati se, zaplesti se kao pile u kučine. Образ понятен: чем сильнее цыплёнок барахтается в волокнах, тем сильнее запутывается. Русскому естественнее «запутаться как муха в паутине», но сербский оборот значительно колоритнее.",
+      "keyword": "pile u kučine"
     },
     {
       "headword_latin": "zasukati / zavrnuti rukave",
