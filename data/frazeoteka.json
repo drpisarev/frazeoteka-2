@@ -13827,6 +13827,31 @@
       "keyword": "na mladima svet ostaje"
     },
     {
+      "headword_latin": "Na mlađima svet ostaje",
+      "type": "izreka",
+      "definition_ru": "будущее за молодыми; молодым продолжать начатое",
+      "synonyms_sr": [
+        "budućnost pripada mladima",
+        "mladi su budućnost"
+      ],
+      "literal_ru": "",
+      "register": "poslov.-afor., opšteupotr.; obično odobr., ponekad iron.",
+      "examples": [
+        {
+          "serbian_latin": "To je budućnost, na mlađima svet ostaje. I sve drugo.",
+          "russian": "За ними будущее: мир остаётся молодым.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Mene su učili da na mlađima svet ostaje.",
+          "russian": "Меня учили, что будущее за молодыми.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Формула означает не просто «молодые переживут старших», а передачу дела, ответственности и будущего следующему поколению. Часто употребляется при смене поколений в профессии, спорте, культуре. Возможна и ирония: Радио Београд обыгрывало её после новости о ребёнке, разбившем музейную амфору — ako je suditi po onoj staroj dobroj da „na mlađima svet ostaje“ – pukli smo.",
+      "keyword": "mlađima"
+    },
+    {
       "headword_latin": "Na mostu dobiti, na ćupriji izgubiti",
       "type": "poslovica",
       "definition_ru": "в одном выиграть, в другом проиграть; выигрыш съелся потерей; в итоге ничего не выгадать",
@@ -14046,6 +14071,32 @@
       "keyword": "na svoju ruku"
     },
     {
+      "headword_latin": "Na tapetu / biti na tapetu",
+      "type": "frazeologizam",
+      "definition_ru": "на рассмотрении; на повестке; стать предметом разбора; попасть под огонь критики",
+      "synonyms_sr": [
+        "biti tema",
+        "biti predmet rasprave",
+        "biti na meti"
+      ],
+      "literal_ru": "",
+      "register": "razg.-publicist.; od neutralnog „biti predmet razgovora“ do „biti predmet kritike, provere ili postupka“",
+      "examples": [
+        {
+          "serbian_latin": "I mnogo toga još biće „na tapetu“ u emisiji namenjenoj svim generacijama.",
+          "russian": "И ещё многое будет обсуждаться в передаче для всех поколений.",
+          "source": "Radio Beograd 1 / RTS, 2020"
+        },
+        {
+          "serbian_latin": "Na tapetu ljudska prava, Linglong i Rio Tinto.",
+          "russian": "На повестке — права человека, Linglong и Rio Tinto.",
+          "source": "N1, 2021"
+        }
+      ],
+      "note": "Это обновление существующей статьи Biti na tapetu: прежнее определение было слишком негативным. Оборот может обозначать просто тему обсуждения, без нападок; негативный оттенок появляется в контексте расследования, критики или дисциплинарного разбирательства: novinari su na tapetu, na tapetu disciplinske komisije.",
+      "keyword": "tapet"
+    },
+    {
       "headword_latin": "Na udaru",
       "type": "kolokacija",
       "definition_ru": "под ударом; под давлением; стать объектом атаки, критики или воздействия",
@@ -14071,6 +14122,32 @@
       ],
       "note": "Na udaru не обязательно предполагает физическое нападение. Под «ударом» могут оказаться люди из-за критики, предприятия из-за проверок, население из-за роста цен или территория из-за непогоды. Поэтому перевод варьируется: «под ударом», «под давлением», «стать мишенью», «попасть под воздействие».",
       "keyword": "na udaru"
+    },
+    {
+      "headword_latin": "Na vrh mi je jezika",
+      "type": "izraz",
+      "definition_ru": "вертится на языке; вот-вот вспомню",
+      "synonyms_sr": [
+        "skoro da sam se setio",
+        "nikako da se setim",
+        "na vrhu mi je jezika"
+      ],
+      "literal_ru": "у меня на кончике языка",
+      "register": "razg.; o reči, imenu ili podatku kojeg čovek trenutno ne može da se seti",
+      "examples": [
+        {
+          "serbian_latin": "Na vrh mi je jezika, ne mogu da se setim, kako nisam zapamtio?",
+          "russian": "Вертится на языке, никак не могу вспомнить — как же я не запомнил?",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ne mogu da kažem to još, na vrh mi je jezika.",
+          "russian": "Пока не могу этого сказать — прямо вертится на языке.",
+          "source": "Sport Klub / N1, 2017"
+        }
+      ],
+      "note": "В речи устойчиво na vrh mi je jezika, а при научном или описательном обозначении феномена встречается fenomen „na vrhu jezika“. RTS употребляет обе формы. Русское «на кончике языка» очень близко буквально, но естественная русская реплика чаще «вертится на языке».",
+      "keyword": "vrh jezika"
     },
     {
       "headword_latin": "Naći se u nebranom grožđu",
@@ -14271,6 +14348,59 @@
       ],
       "note": "Выражение нередко подразумевает не подлинную наивность, а притворство: человек всё понимает, но изображает удивление или неосведомлённость.",
       "keyword": "sobarica"
+    },
+    {
+      "headword_latin": "Naklon do poda",
+      "type": "izraz",
+      "definition_ru": "низкий поклон; снимаю шляпу; глубочайшее уважение",
+      "synonyms_sr": [
+        "kapa dole",
+        "svaka čast",
+        "duboko poštovanje"
+      ],
+      "literal_ru": "поклон до пола",
+      "register": "razg.-publicist., ekspresivno, odobr.; i doslovni gest i formula divljenja",
+      "examples": [
+        {
+          "serbian_latin": "A svima vama, medaljašima, naklon do poda.",
+          "russian": "А всем вам, медалистам, — низкий поклон.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Njemu kapa dole, naklon do poda.",
+          "russian": "Перед ним снимаю шляпу, низкий поклон.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Очень естественно сочетается с kapa dole: две формулы усиливают друг друга. В отличие от русского несколько торжественного «низкий поклон», сербское naklon do poda свободно употребляется в спорте, журналистике и повседневной похвале.",
+      "keyword": "naklon"
+    },
+    {
+      "headword_latin": "Namazan svim bojama",
+      "type": "frazeologizam",
+      "definition_ru": "тёртый калач; ушлый; прожжённый; опытный и хитрый",
+      "synonyms_sr": [
+        "prepreden",
+        "iskusan",
+        "lukav",
+        "prevejan"
+      ],
+      "literal_ru": "намазанный всеми красками",
+      "register": "razg., ekspresivno; može biti i pohvalno i sumnjičavo, zavisno od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Bio je namazan svim bojama koje su u nekim prošlim vremenima krasile mangupe s osećajem za viteštvo.",
+          "russian": "Он был тёртым калачом — из тех старых ловкачей, в которых ещё было что-то рыцарское.",
+          "source": "Politika, 2020"
+        },
+        {
+          "serbian_latin": "Serhio Ramos… namazan je svim bojama.",
+          "russian": "Серхио Рамос — тёртый калач, его так просто не перехитришь.",
+          "source": "Sport Klub / N1, 2017"
+        }
+      ],
+      "note": "Главное здесь не просто «хитрый», а видавший виды, знающий все приёмы и уловки. Поэтому в положительном контексте подходит «тёртый калач», в явно отрицательном — «прожжённый, продувной». Вариант svim bojama namazan тоже естественен.",
+      "keyword": "svim bojama"
     },
     {
       "headword_latin": "Napaćena duša",
@@ -14623,6 +14753,32 @@
       "keyword": "ne cvetaju ruže"
     },
     {
+      "headword_latin": "Ne dam na sebe",
+      "type": "izraz",
+      "definition_ru": "в обиду себя не дам; умею постоять за себя; не позволю собой помыкать",
+      "synonyms_sr": [
+        "umeti se izboriti za sebe",
+        "braniti sebe",
+        "ne dozvoliti da te gaze"
+      ],
+      "literal_ru": "",
+      "register": "razg., odlučno-odobr.; takođe ne dam na svoje, ne dam na svoj tim",
+      "examples": [
+        {
+          "serbian_latin": "Ne dam na sebe, na stav, mišljenje.",
+          "russian": "Себя и свои убеждения в обиду не дам.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Nisam dao na sebe, struku, trud i rad.",
+          "russian": "Я не позволил обесценивать ни себя, ни свою профессию, ни свой труд.",
+          "source": "Sport Klub / N1, 2025"
+        }
+      ],
+      "note": "Русскому конструкция с na непрозрачна: это не буквальное «не дам на себя», а готовность защищать достоинство, права, мнение или близких. В психологическом контексте ne dam na sebe прямо связывают с умением устанавливать личные границы.",
+      "keyword": "ne dam na sebe"
+    },
+    {
       "headword_latin": "Ne dao Bog",
       "type": "izraz",
       "definition_ru": "не дай бог; упаси бог; только бы этого не случилось",
@@ -14676,6 +14832,33 @@
       ],
       "note": "Para исторически была мелкой денежной единицей, но современный оборот давно не воспринимается как реальная денежная оценка. В зависимости от контекста он означает либо «нисколько не ценить», либо «совершенно не заботиться / не интересоваться». Очень близки ne dati ni pišljiva boba и ne dati ni žute banke.",
       "keyword": "ni pet para"
+    },
+    {
+      "headword_latin": "Ne držati vodu",
+      "type": "frazeologizam",
+      "definition_ru": "не выдерживать критики; не сходиться; быть неубедительным",
+      "synonyms_sr": [
+        "ne biti ubedljivo",
+        "nemati smisla",
+        "biti neodrživo",
+        "ne piti vodu (razg.)"
+      ],
+      "literal_ru": "не держать воду",
+      "register": "razg.-publicist.; najčešće o tezi, objašnjenju, argumentu, verziji ili logici",
+      "examples": [
+        {
+          "serbian_latin": "Ne drži vodu ni teza da je Srbija kapija za ulazak Kine u Evropu.",
+          "russian": "Не выдерживает критики и тезис о том, что Сербия является воротами Китая в Европу.",
+          "source": "N1, 2024"
+        },
+        {
+          "serbian_latin": "Principijelnost koju demokrate navode kao jedini argument… ne drži vodu.",
+          "russian": "Принципиальность, которую демократы приводят как единственный аргумент, критики не выдерживает.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Очень близкое современное ne pije vodu означает то же самое. Danas даже обыгрывает противопоставление старого ne drži vodu и более нового разговорного ne pije vodu. Антонимическое drži vodu = «логично, убедительно, выдерживает проверку».",
+      "keyword": "držati vodu"
     },
     {
       "headword_latin": "Ne lezi vraže",
@@ -14923,6 +15106,33 @@
       "keyword": "ne pije vodu"
     },
     {
+      "headword_latin": "Ne trči pred rudu",
+      "type": "izreka",
+      "definition_ru": "не забегай вперёд; не спеши с выводами; не лезь раньше времени",
+      "synonyms_sr": [
+        "ne žuri",
+        "ne istrčavaj",
+        "sačekaj",
+        "ne brzaj"
+      ],
+      "literal_ru": "не беги впереди дышла",
+      "register": "razg.-poslov., upozoravajuće; o preuranjenom postupku, izjavi, mešanju ili zaključku",
+      "examples": [
+        {
+          "serbian_latin": "Lepo kaže naš narod – ne trči pred rudu!",
+          "russian": "Как правильно говорят: не забегай вперёд!",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Mogla bi i ona: „Ne trči pred rudu“.",
+          "russian": "Тут подошло бы и: «не забегай вперёд».",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Главная ловушка — ruda здесь не «руда, полезное ископаемое», а длинная жердь/дышло у запряжённой повозки. Образ — неопытное молодое животное, которое выбегает вперёд упряжки и мешает движению или рискует попасть под неё. Rečnik Matice srpske именно в этом значении определяет ruda как продольную часть повозки, к которой запрягают животных.",
+      "keyword": "ruda"
+    },
+    {
       "headword_latin": "Ne videti dalje od svog nosa",
       "type": "frazeologizam",
       "definition_ru": "не видеть дальше собственного носа; быть недальновидным; мыслить узко и только о ближайшей выгоде",
@@ -14954,28 +15164,27 @@
     {
       "headword_latin": "Ne vredeti ni pišljiva boba",
       "type": "frazeologizam",
-      "definition_ru": "гроша ломаного не стоить; не стоить ни гроша; ничего не стоить",
+      "definition_ru": "гроша ломаного не стоить; ничего не стоить; быть совершенно бесполезным",
       "synonyms_sr": [
         "ne vredeti ništa",
-        "biti bezvredan",
-        "ne vredeti pet para",
-        "ne vredeti ni prebijene pare"
+        "ne vredeti ni pet para",
+        "biti bezvredno"
       ],
-      "literal_ru": "не стоить даже червивого / никчёмного боба",
-      "register": "razg., ekspresivno, prezrivo; o stvari, mišljenju, obećanju, čoveku, životu i sl.",
+      "literal_ru": "",
+      "register": "razg., ekspresivno-prezr.; ne vredi / ne vrede / nisu vredeli ni pišljiva boba",
       "examples": [
         {
-          "serbian_latin": "Naše „bogatstvo“ ne vredi ni pišljiva boba.",
-          "russian": "Наше «богатство» гроша ломаного не стоит.",
-          "source": "Danas, 2014"
+          "serbian_latin": "Ništa mu više ne vrede ni pišljiva boba.",
+          "russian": "Всё это больше гроша ломаного не стоит.",
+          "source": "Danas, 2024"
         },
         {
-          "serbian_latin": "Ono što je danas „dobro“, preksutra ne vredi ni pišljiva boba.",
-          "russian": "То, что сегодня считается «хорошим», послезавтра может не стоить и ломаного гроша.",
-          "source": "Danas, 2010"
+          "serbian_latin": "Zakoni, uredbe, ustavi, ombudsmani, ne vrede ni pišljiva boba…",
+          "russian": "Законы, постановления, конституции и омбудсмены не стоят ни гроша…",
+          "source": "Danas, 2016"
         }
       ],
-      "note": "Pišljiv может означать «червивый, никчёмный, ничего не стоящий», но современному учащемуся выражение лучше запоминать целиком. Русский естественный образ — «гроша ломаного не стоит», а не буквальный боб. В исследовании сербской фразеологии ne vredi ni pišljiva boba прямо приводится среди сербских единиц со значением полной безвредности.",
+      "note": "Это обновление уже имеющейся статьи: новый источник даёт личную форму ne vredi ni pišljiva boba, но словарным заголовком лучше оставить инфинитив ne vredeti ni pišljiva boba. Оборот заметно экспрессивнее простого ne vredi ništa и обычно выражает презрение к ценности, силе или полезности чего-либо.",
       "keyword": "pišljiva boba"
     },
     {
@@ -15380,28 +15589,28 @@
     {
       "headword_latin": "Nema trte-mrte",
       "type": "izraz",
-      "definition_ru": "никаких выкрутасов; без разговоров; никаких «туда-сюда»",
+      "definition_ru": "никаких выкрутасов; без разговоров; никаких «то да сё»; решено и точка",
       "synonyms_sr": [
-        "nema vrdanja",
-        "nema izmotavanja",
+        "nema izvlačenja",
         "nema okolišanja",
-        "zna se red"
+        "nema hoću-neću",
+        "nema zezanja"
       ],
       "literal_ru": "",
-      "register": "razg., šalj.-kategorično; takođe nema tu trte-mrte / nema kod mene trte-mrte",
+      "register": "razg., familijarno-ekspresivno; takođe nema tu trte-mrte, nema kod mene trte-mrte",
       "examples": [
         {
-          "serbian_latin": "Nema trte-mrte, nego ako hoćeš da predsednikuješ, onda nema ništa od ministrovanja.",
-          "russian": "Никаких выкрутасов: хочешь быть председателем — значит, никакого министерского поста.",
+          "serbian_latin": "Nema trte-mrte, nego ako hoćeš da predsednikuješ, onda nema ništa od ministrovanja…",
+          "russian": "Никаких выкрутасов: хочешь быть председателем — тогда никакого министерского кресла.",
           "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Nema tu onda trte-mrte. Onaj ko je na vlasti mora da ispunjava plan.",
-          "russian": "Тут уже никаких отговорок: тот, кто у власти, обязан выполнять план.",
+          "serbian_latin": "To i to nije dobro i tačka. Nema tu trte-mrte.",
+          "russian": "Это плохо — и точка. Без всяких разговоров.",
           "source": "Danas, 2015"
         }
       ],
-      "note": "Trte-mrte само по себе не следует пытаться буквально переводить: это рифмованная разговорная формула, обозначающая увиливание, пустые отговорки и неопределённость. Поэтому nema trte-mrte означает, что правила ясны и возможности выкручиваться больше нет.",
+      "note": "Это обновление существующей статьи Nema trte-mrte. Само trte-mrte может обозначать неясные разговоры, колебания и метания «то так, то эдак», но отрицательная формула nema trte-mrte превратилась в самостоятельное «никаких отговорок / выкрутасов, всё однозначно». N1 приводит старое trt-mrt у Вука и у Лазы Костича; популярное объяснение через trtositi «тараторить, нести бессмыслицу» правдоподобно, но источник этого объяснения не академический, поэтому как доказанную этимологию его лучше не подавать.",
       "keyword": "trte-mrte"
     },
     {
