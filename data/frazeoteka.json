@@ -4456,6 +4456,33 @@
       "keyword": "dobar glas"
     },
     {
+      "headword_latin": "Dobar i lud su braća",
+      "type": "poslovica",
+      "definition_ru": "доброго за дурака держат; на добром ездят; добротой пользуются",
+      "synonyms_sr": [
+        "dobar do naivnosti",
+        "naivan",
+        "lakoveran",
+        "previše popustljiv"
+      ],
+      "literal_ru": "добрый и дурак — братья",
+      "register": "poslovica, razg., saosećajno-upozoravajuće; o previše dobrom i popustljivom čoveku čiju dobrotu drugi iskorišćavaju",
+      "examples": [
+        {
+          "serbian_latin": "I zato se u našem narodu kaže: dobar i lud su braća.",
+          "russian": "Поэтому у нас и говорят: доброго нередко принимают за дурака.",
+          "source": "Politika, 2023"
+        },
+        {
+          "serbian_latin": "Dobar i lud su braća. Navikli se da budeš dobar i lud i uzeli sve zdravo za gotovo.",
+          "russian": "Добрый да безотказный — вот тобой и пользуются: привыкли к твоей доброте и принимают её как должное.",
+          "source": "Žena / Blic, 2022"
+        }
+      ],
+      "note": "Значение несколько точнее, чем предложенное в источнике «доброта без ума пуста»: фраза прежде всего предупреждает, что чрезмерную доброту и неспособность отказать окружающие легко принимают за слабость и используют. Брана Црнчевич обыгрывал уже существующую пословицу в афоризме Dobar i lud su braća. Pametan nikome nije potreban, но сама пословица не является его авторством.",
+      "keyword": "dobar i lud"
+    },
+    {
       "headword_latin": "Dobar savet zlata vredi",
       "type": "izreka",
       "definition_ru": "хороший совет на вес золота; добрый совет дорогого стоит",
@@ -4541,6 +4568,32 @@
       ],
       "note": "В переносном употреблении физический удар не предполагается: человек сталкивается с наказанием, отпором или унизительной неудачей. Хорошая пара для запоминания — dići glavu — dobiti po nosu: «поднять голову — получить за это».",
       "keyword": "dobiti po nosu"
+    },
+    {
+      "headword_latin": "Dobro jutro, Kolumbo",
+      "type": "replika",
+      "definition_ru": "ну наконец-то дошло!; доброе утро!; Америку открыл!",
+      "synonyms_sr": [
+        "otkrio si Ameriku",
+        "dobro jutro! (iron.)",
+        "konačno ti je sinulo"
+      ],
+      "literal_ru": "",
+      "register": "razg., podsmešljivo; reakcija na zakašnjelo shvatanje nečega očiglednog ili odavno poznatog",
+      "examples": [
+        {
+          "serbian_latin": "„Shvatila sam da svi delimo ista ljudska osećanja.“ Dobro jutro, Kolumbo!",
+          "russian": "«Я поняла, что всем нам свойственны одинаковые человеческие чувства». Ну надо же, Америку открыла!",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Dobro jutro, Kolumbo, što bi rekli naši klinci.",
+          "russian": "Доброе утро, Колумб, как сказала бы наша молодёжь.",
+          "source": "RTS, 2019"
+        }
+      ],
+      "note": "Речь именно о Христофоре Колумбе, а не о детективе Коломбо. Комизм строится на метафоре «открытия Америки»: человек торжественно обнаружил то, что всем давно известно. Очень близкая реплика — просто ироническое Dobro jutro!: «ну наконец-то проснулся / сообразил».",
+      "keyword": "Kolumbo"
     },
     {
       "headword_latin": "dočekati raširenih ruku",
@@ -4825,6 +4878,33 @@
       "keyword": "iz guzice u glavu"
     },
     {
+      "headword_latin": "Doći nekome žuta minuta",
+      "type": "frazeologizam",
+      "definition_ru": "на кого-то нашло; сорваться; потерять контроль над собой; переклинило",
+      "synonyms_sr": [
+        "pukao mu je film",
+        "prekipelo mu je",
+        "izgubio je živce",
+        "nešto mu je kvrcnulo"
+      ],
+      "literal_ru": "кому-то пришла жёлтая минута",
+      "register": "razg.; došla mu / joj žuta minuta; prvenstveno o nagloj i kratkoj promeni raspoloženja, besu ili neobičnom ponašanju",
+      "examples": [
+        {
+          "serbian_latin": "Došla mu (joj) žuta minuta kažemo kada neko naglo promeni raspoloženje na lošije i počne suludo da se ponaša.",
+          "russian": "Говорят «на него/неё нашла жёлтая минута», когда человек внезапно меняется в худшую сторону и начинает вести себя безрассудно.",
+          "source": "N1, 2024"
+        },
+        {
+          "serbian_latin": "Jednostavno došla joj žuta minuta i odlučila da to slika.",
+          "russian": "Просто на неё что-то нашло, и она решила это фотографировать.",
+          "source": "Benchmark forum, 2010"
+        }
+      ],
+      "note": "Второй пример показывает более широкое разговорное значение: не обязательно ярость — иногда просто внезапный странный порыв, «взбрело в голову». Популярные статьи объясняют žuta символикой жёлтого цвета, однако надёжно установленной этимологии у оборота нет; такие объяснения лучше считать гипотезами, а не фактом.",
+      "keyword": "žuta minuta"
+    },
+    {
       "headword_latin": "Doći sebi",
       "type": "frazeologizam",
       "definition_ru": "прийти в себя; оправиться; прийти в чувство",
@@ -4878,6 +4958,33 @@
       ],
       "note": "Формула восходит к знаменитому латинскому изречению Цезаря и в современной сербской речи обычно означает быстрый, эффектный триумф. Очень часто используется в заголовках о спорте, выборах, конкурсах и дебюте на новом месте.",
       "keyword": "dođoh videh pobedih"
+    },
+    {
+      "headword_latin": "Dok dlanom o dlan",
+      "type": "izraz",
+      "definition_ru": "в мгновение ока; не успеешь оглянуться; очень быстро",
+      "synonyms_sr": [
+        "začas",
+        "za tren",
+        "u trenu",
+        "dok trepneš"
+      ],
+      "literal_ru": "пока хлопнешь ладонью о ладонь",
+      "register": "razg., ekspresivno; naročito često dok si dlanom o dlan",
+      "examples": [
+        {
+          "serbian_latin": "Dok si dlanom o dlan, prođe dvadeset godina od rušenja Berlinskog zida.",
+          "russian": "Не успеешь оглянуться — и вот уже двадцать лет прошло со времени падения Берлинской стены.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Prođe moj zimski raspust. I to dok si dlanom o dlan.",
+          "russian": "Вот и закончились мои зимние каникулы — в мгновение ока.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Поправка к новому источнику: там dlanom o dlan разобрано как «запросто, без труда» и, с отрицанием, «палец о палец не ударить». Живое сербское употребление уверенно подтверждает прежде всего временное dok (si) dlanom o dlan — «очень быстро». Для русского «палец о палец не ударить» нормальный сербский эквивалент — ne mrdnuti ni prstom.",
+      "keyword": "dlanom o dlan"
     },
     {
       "headword_latin": "Dok je veka, ima i leka",
@@ -5863,6 +5970,32 @@
       "keyword": "dug je zao drug"
     },
     {
+      "headword_latin": "Dupke pun",
+      "type": "kolokacija",
+      "definition_ru": "битком набит; переполнен; полон до отказа",
+      "synonyms_sr": [
+        "krcat",
+        "prepun",
+        "pun do poslednjeg mesta"
+      ],
+      "literal_ru": "",
+      "register": "razg.-neutralno; dupke je nepromenljivo, a pun se slaže: dupke pun, puna, puno, puni",
+      "examples": [
+        {
+          "serbian_latin": "Dupke pun „Sent Džejms park“, sav u crno-belom, dočekao je fudbalere Barselone.",
+          "russian": "Битком набитый «Сент-Джеймс Парк», весь в чёрно-белом, встретил футболистов «Барселоны».",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Oktobar, gde se održava razgovor, dupke je pun.",
+          "russian": "«Октобар», где проходит встреча, забит до отказа.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Dupke — усилительное наречие со значением полной заполненности пространства. Особенно естественно с sala, stadion, autobus, avion, kafić. Русское «битком» почти идеально совпадает и по значению, и по стилю.",
+      "keyword": "dupke pun"
+    },
+    {
       "headword_latin": "Duša mi je u nosu",
       "type": "frazeologizam",
       "definition_ru": "я еле жив; я совершенно вымотан; сил больше нет",
@@ -5993,6 +6126,139 @@
       ],
       "note": "Выражение обычно подчёркивает преимущество количества над качеством: даже способного или сильного человека могут одолеть двое более слабых. Имя Miloš обеспечивает рифму и культурную узнаваемость, но точное историческое происхождение формулы надёжно не установлено.",
       "keyword": "dva loša; Miloš"
+    },
+    {
+      "headword_latin": "Dvostruki aršin",
+      "type": "frazeologizam",
+      "definition_ru": "двойные стандарты; двойная мерка",
+      "synonyms_sr": [
+        "dvostruki standardi",
+        "različita merila",
+        "meriti različitim merilima"
+      ],
+      "literal_ru": "двойной аршин",
+      "register": "neutralno-publicistički, neodobr.; jednina dvostruki aršin, veoma često množina dvostruki aršini",
+      "examples": [
+        {
+          "serbian_latin": "Nisam želela da prihvatim taj dvostruki aršin.",
+          "russian": "Я не хотела мириться с такими двойными стандартами.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Dvostruki aršini ili ne, Museti je izborio drugo grend slem polufinale u karijeri.",
+          "russian": "Двойные стандарты или нет, Музетти вышел во второй в карьере полуфинал турнира Большого шлема.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Aršin — старая мера длины; отсюда образ разных мерок, применяемых к разным людям. Русскому здесь особенно легко ошибиться: русское «мерить на свой аршин» означает оценивать всех по собственным меркам, тогда как сербское dvostruki aršin — именно «двойные стандарты». Очень употребительно и глагольное primenjivati dvostruke aršine.",
+      "keyword": "dvostruki aršin"
+    },
+    {
+      "headword_latin": "Dža ili bu",
+      "type": "izraz",
+      "definition_ru": "либо да, либо нет; пан или пропал; решайся — одно из двух",
+      "synonyms_sr": [
+        "ili-ili",
+        "da ili ne",
+        "sve ili ništa",
+        "pa šta bude"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; o potrebi da se donese odluka ili učini presudan korak bez garancije uspeha",
+      "examples": [
+        {
+          "serbian_latin": "Sad idemo do kraja. Vreme je za dža ili bu.",
+          "russian": "Теперь идём до конца. Пора решать: пан или пропал.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Vreme je da se podvuče crta i odlučimo: dža ili bu?",
+          "russian": "Пора подвести черту и решить: либо да, либо нет?",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "У оборота два тесно связанных оттенка: «выбери одно из двух» и «делаем решающий шаг — либо получится, либо провалимся». RTS и Danas называют его старой сербской изрекой; от неё получил название белградский рок-бенд Dža ili Bu. Точное происхождение компонентов dža и bu надёжно не установлено, поэтому объяснять их как самостоятельные слова не стоит.",
+      "keyword": "dža ili bu"
+    },
+    {
+      "headword_latin": "Džabalebaroš",
+      "type": "imenica",
+      "definition_ru": "дармоед; бездельник; нахлебник",
+      "synonyms_sr": [
+        "lenština",
+        "zgubidan",
+        "gotovan",
+        "besposličar"
+      ],
+      "literal_ru": "",
+      "register": "razg., familijarno, neodobr.; o čoveku koji izbegava rad i rado živi ili stiče korist na tuđ račun",
+      "examples": [
+        {
+          "serbian_latin": "U Srbiji postoji takva percepcija da je poslanik džabalebaroš, da ti ljudi ne rade ništa i primaju platu.",
+          "russian": "В Сербии существует представление, будто депутат — дармоед: ничего не делает и только получает зарплату.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Ako nekom kažete da ste umetnik, to u njegovom društvenouslovljenom rečniku nosi značenje „džabalebaroš“.",
+          "russian": "Стоит сказать кому-нибудь, что вы художник, — и в его социально обусловленном словаре это означает «дармоед».",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Слово сильнее нейтрального nezaposlen: оно обвиняет человека именно в нежелании работать и/или жизни за чужой счёт. В Rečniku sinonima П. Чосича džabalebaroš относится к фамильярному ряду рядом с lenština, zgubidan, besposličar. Женская форма džabalebarošica реально употребляется: arogantna džabalebarošica.",
+      "keyword": "džabalebaroš"
+    },
+    {
+      "headword_latin": "Džangrizalo",
+      "type": "imenica",
+      "definition_ru": "брюзга; ворчун; вечный недовольный",
+      "synonyms_sr": [
+        "gunđalo",
+        "zanovetalo",
+        "zakeralo"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; o osobi koja stalno gunđa, prigovara i svime je nezadovoljna",
+      "examples": [
+        {
+          "serbian_latin": "No, možda sam ja zajedljivo džangrizalo koje ne razume ni kulturnu misiju TV serijala ni psihologiju gledališta.",
+          "russian": "А может, я просто язвительный брюзга, который не понимает ни культурной миссии сериалов, ни психологии зрителей.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Uve je džangrizalo – jedan od onih koji upiru prstom u ljude koji mu se ne dopadaju.",
+          "russian": "Уве — брюзга, из тех, кто постоянно указывает пальцем на людей, которые ему не нравятся.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Родственные формы: džangrizati «брюзжать, ворчать», džangrizav «брюзгливый, сварливый». Слово может обозначать и мужчину, и женщину: on je džangrizalo; ona je džangrizalo. От русского «зануда» отличается тем, что на первом плане именно постоянное недовольство и ворчание.",
+      "keyword": "džangrizalo"
+    },
+    {
+      "headword_latin": "Džidža-bidže",
+      "type": "imenica",
+      "definition_ru": "финтифлюшки; безделушки; побрякушки; всякая мелочёвка",
+      "synonyms_sr": [
+        "džidže",
+        "drangulije",
+        "sitnarije",
+        "tričarije"
+      ],
+      "literal_ru": "",
+      "register": "razg., šaljivo-podrugljivo; o sitnim ukrasima, suvenirima, dekorativnim ili tehničkim stvarčicama",
+      "examples": [
+        {
+          "serbian_latin": "Džidža-bidže ne mogu da se izbegnu ni u jednom šopingu.",
+          "russian": "Без всяких безделушек не обходится ни один поход по магазинам.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Džidža bidže, nakit, bižuterija, suveniri…",
+          "russian": "Финтифлюшки, украшения, бижутерия, сувениры…",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Словарную форму удобно писать через дефис — džidža-bidže, хотя в прессе встречается и раздельное написание. Это собирательное обозначение разной мелкой всячины; отдельное džidža тоже живо: neka džidža. Оттенок зависит от ситуации — от ласково-шутливого «штучки» до пренебрежительного «всякое барахло».",
+      "keyword": "džidža-bidže"
     },
     {
       "headword_latin": "Đavo je odneo šalu",
