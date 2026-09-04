@@ -18944,28 +18944,28 @@
     {
       "headword_latin": "Povući ručnu",
       "type": "frazeologizam",
-      "definition_ru": "притормозить; сбавить обороты; остановиться и не идти дальше",
+      "definition_ru": "притормозить; сбавить обороты; умерить пыл",
       "synonyms_sr": [
+        "prikočiti",
         "usporiti",
-        "zakočiti",
-        "zaustaviti se",
-        "odustati od daljeg forsiranja"
+        "smiriti se",
+        "povući se malo"
       ],
-      "literal_ru": "потянуть ручник",
-      "register": "razg.-publicistički; preneseno iz automobilskog izraza za ručnu kočnicu",
+      "literal_ru": "затянуть ручной тормоз",
+      "register": "razg., ekspresivno; često kao savet ili upozorenje: povuci ručnu, malo povuci ručnu",
       "examples": [
         {
-          "serbian_latin": "Određeni investitori „povukli su ručnu“, jer nisu sigurni da će [...] moći da prodaju kvadrat po odgovarajućoj ceni.",
-          "russian": "Некоторые застройщики притормозили, потому что не уверены, что смогут продать жильё по нужной цене.",
-          "source": "BBC na srpskom / Danas, 2023"
+          "serbian_latin": "Povuci ručnu, ne možeš stalno da budeš samo ti u pravu.",
+          "russian": "Притормози, не можешь же ты всегда быть единственным правым.",
+          "source": "RTS, 2023"
         },
         {
-          "serbian_latin": "„Miškoviću, povuci ručnu“.",
-          "russian": "«Мишкович, притормози».",
-          "source": "Danas, 2015"
+          "serbian_latin": "Zaustavi se, silni čoveče, u svom katastrofalnom pohodu. Povuci ručnu!",
+          "russian": "Остановись уже в своём разрушительном напоре. Сбавь обороты!",
+          "source": "Danas, 2017"
         }
       ],
-      "note": "В переносном употреблении человек или организация слишком разогнались — в действиях, расходах, экспансии, конфликте — и им предлагают остановиться или снизить темп. Возможен и совершенный вид povući ručnu, и конструкции вроде investitori su povukli ručnu. Русское «дёрнуть ручник» существует, но «притормозить» обычно естественнее.",
+      "note": "Переносное значение непосредственно основано на ručna kočnica — ручном тормозе автомобиля: говорящего призывают остановиться, замедлиться, умерить напор или не идти дальше в выбранном направлении. В сербской разговорной и публицистической речи выражение хорошо закрепилось; встречается и короткая реплика Ručna! со значением «стоп, притормози». Не следует переводить буквально как «потянуть ручник», если речь не об автомобиле.",
       "keyword": "povući ručnu"
     },
     {
