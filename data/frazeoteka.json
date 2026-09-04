@@ -2996,6 +2996,31 @@
       "keyword": "čovek se drži za reč vo za rogove"
     },
     {
+      "headword_latin": "Čovek se uči dok je živ",
+      "type": "izreka",
+      "definition_ru": "век живи — век учись; человек учится всю жизнь",
+      "synonyms_sr": [
+        "učenje traje celog života",
+        "uvek ima nešto novo da se nauči"
+      ],
+      "literal_ru": "человек учится, пока жив",
+      "register": "neutralno; ozbiljno ili šaljivo posle novog saznanja ili sopstvene greške",
+      "examples": [
+        {
+          "serbian_latin": "„Čovek se uči dok je živ“ serijal Obrazovno-naučnog programa.",
+          "russian": "«Человек учится, пока жив» — цикл образовательно-научной программы.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Čovek se uči dok je živ. Tek sam na početku nove karijere i ima dosta stvari koje treba da naučim.",
+          "russian": "Век живи — век учись. Я только в начале новой карьеры, и мне ещё многому предстоит научиться.",
+          "source": "Politika, 2015"
+        }
+      ],
+      "note": "Русский «век живи — век учись» функционально почти совпадает, но сербская форма менее афористически рифмованная и легко включается в обычное предложение. Часто служит шутливым комментарием после того, как взрослый опытный человек узнал что-то совершенно новое.",
+      "keyword": "učiti dok je živ"
+    },
+    {
       "headword_latin": "Čovek snuje, Bog određuje",
       "type": "izreka",
       "definition_ru": "человек предполагает, а Бог располагает; мы строим планы, а жизнь решает по-своему",
@@ -9861,6 +9886,32 @@
       "keyword": "ko čeka taj dočeka"
     },
     {
+      "headword_latin": "Ko drugome jamu kopa, sam u nju upada",
+      "type": "poslovica",
+      "definition_ru": "не рой другому яму — сам в неё попадёшь; зло обращается против того, кто его замышляет",
+      "synonyms_sr": [
+        "zlo se vraća",
+        "ko drugome želi zlo, sam strada",
+        "zlo se obije o glavu"
+      ],
+      "literal_ru": "кто другому яму роет, сам в неё падает",
+      "register": "poslovica, upozoravajuće; varijante drugom / drugome i pada / upada",
+      "examples": [
+        {
+          "serbian_latin": "Ko drugome jamu kopa, sam u nju upada.",
+          "russian": "Не рой другому яму — сам в неё попадёшь.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Izreka „Ko drugome jamu kopa sam u nju upada“ često može da se primeni baš u šahu.",
+          "russian": "Пословица «не рой другому яму — сам в неё попадёшь» часто вполне применима и в шахматах.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Сербская и русская пословицы почти полностью совпадают. Варианты колеблются между drugom / drugome и pada / upada. Значение шире буквальной мести: собственная интрига, ловушка или злой умысел неожиданно вредят самому инициатору.",
+      "keyword": "jama"
+    },
+    {
       "headword_latin": "Ko ne plati na mostu, platiće na ćupriji",
       "type": "poslovica",
       "definition_ru": "если не заплатишь сейчас, потом заплатишь дороже; от расплаты не уйдёшь",
@@ -10022,28 +10073,28 @@
     {
       "headword_latin": "Ko prvi devojci, njegova devojka",
       "type": "izreka",
-      "definition_ru": "кто первый, того и тапки; кто раньше успел, тому и досталось",
+      "definition_ru": "кто первый успел, тому и досталось; кто первый, того и преимущество",
       "synonyms_sr": [
-        "ko prvi, njegovo",
-        "ko prvi stigne, ima prednost",
-        "prvi uzima priliku"
+        "ko prvi dođe, prvi dobija",
+        "ko prvi stigne, njegova je prilika",
+        "prvi ima prednost"
       ],
-      "literal_ru": "кто первым пришёл к девушке, того и девушка",
-      "register": "šalj., poslovično; danas pretežno preneseno o principu prvenstva",
+      "literal_ru": "кто первым пришёл к девушке, тому девушка и достаётся",
+      "register": "poslovični izraz, razg., često šalj.; danas često o principu ko prvi — njegova prednost",
       "examples": [
         {
-          "serbian_latin": "Treba im reći za naše pravilo da ko prvi dođe devojci, devojka je njegova.",
-          "russian": "Нужно напомнить им наше правило: кто первым успел, тому и досталось.",
-          "source": "Danas, 2012"
+          "serbian_latin": "Nepisano pravilo „ko prvi devojci, njegova devojka“ u ovom slučaju bilo bi zamenjeno drugim.",
+          "russian": "Неписаное правило «кто первый успел, тому и досталось» в данном случае сменилось бы другим.",
+          "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Nepisano pravilo „ko prvi devojci, njegova devojka“ u ovom slučaju bilo bi zamenjeno drugim.",
-          "russian": "Неписаное правило «кто первый, того и тапки» здесь пришлось бы заменить другим.",
-          "source": "Danas, 2014"
+          "serbian_latin": "Predsednik reče: „Ko prvi devojci njegova devojka“.",
+          "russian": "Президент сказал: «Кто первый успел — тому и досталось».",
+          "source": "Blic, 2011"
         }
       ],
-      "note": "Несмотря на буквальный старомодный образ, в современной публицистике выражение легко переносится на трансферы, инвестиции, сделки и распределение возможностей. В русском буквальный перевод звучит странно, поэтому лучше «кто первый, того и тапки», «кто успел, тот и получил».",
-      "keyword": "ko prvi devojci njegova devojka"
+      "note": "В современной речи выражение часто означает просто first come, first served: первым подал заявку, первым договорился, первым занял место. Буквальный образ с «девушкой как призом» сегодня может звучать старомодно и шутливо, поэтому его особенно охотно переносят на совсем другие ситуации. Русское «кто первый встал, того и тапки» близко по разговорной функции.",
+      "keyword": "ko prvi devojci"
     },
     {
       "headword_latin": "Ko radi, ne boji se gladi",
@@ -10282,6 +10333,32 @@
       "keyword": "ko se mača lati"
     },
     {
+      "headword_latin": "Ko se na mleko opeče, i u jogurt duva",
+      "type": "poslovica",
+      "definition_ru": "обжёгшись на молоке, дуют и на воду; после плохого опыта становятся чрезмерно осторожными",
+      "synonyms_sr": [
+        "biti oprezan posle lošeg iskustva",
+        "jednom opečen, drugi put oprezan",
+        "plašiti se ponavljanja greške"
+      ],
+      "literal_ru": "кто обжёгся на молоке, дует даже на йогурт",
+      "register": "poslovica; varijanta ko se na mleko opeče, taj i jogurt duva",
+      "examples": [
+        {
+          "serbian_latin": "Što naš narod kaže: „Ko se na mleko opeče i u jogurt duva“.",
+          "russian": "Как говорит народ: обжёгшись на молоке, дуют и на воду.",
+          "source": "Politika, 2006"
+        },
+        {
+          "serbian_latin": "Kako naš narod kaže: „Ko se na mleko opeče, taj i jogurt duva“.",
+          "russian": "Как говорится, однажды обжёгшись, потом перестраховываешься даже там, где опасности нет.",
+          "source": "Sport Klub / N1, 2024"
+        }
+      ],
+      "note": "Для русского особенно интересно несовпадение второго образа: в русской пословице после молока дуют на воду, а в сербской — на jogurt. Смысл одинаков: прежний неприятный опыт вызывает чрезмерную осторожность даже в безопасной похожей ситуации.",
+      "keyword": "mleko; jogurt"
+    },
+    {
       "headword_latin": "Ko se zadnji smeje, najslađe se smeje",
       "type": "poslovica",
       "definition_ru": "хорошо смеётся тот, кто смеётся последним; окончательный победитель торжествует сильнее всего",
@@ -10309,30 +10386,29 @@
     },
     {
       "headword_latin": "Ko tebe kamenom, ti njega hlebom",
-      "type": "poslovica",
-      "definition_ru": "на зло отвечай добром; тебя камнем — ты в ответ хлебом",
+      "type": "izreka",
+      "definition_ru": "отвечать добром на зло; на зло отвечай добром",
       "synonyms_sr": [
-        "na zlo uzvratiti dobrim",
-        "ne vraćati zlo za zlo",
+        "uzvratiti dobrim na zlo",
         "oprostiti",
-        "biti plemenit"
+        "ne vraćati zlo za zlo"
       ],
-      "literal_ru": "кто в тебя камнем, ты в него хлебом",
-      "register": "poslovica, poučno, odobr.; o nevraćanju zla zlom",
+      "literal_ru": "кто в тебя камнем — ты в него хлебом",
+      "register": "izreka, moralno-poučno; često kao formula principa da se na zlo ne uzvraća zlom",
       "examples": [
         {
           "serbian_latin": "Ko tebe kamenom, ti njega hlebom. To nam je stalno ponavljao.",
-          "russian": "Тебя камнем — ты в ответ хлебом. Он постоянно нам это повторял.",
+          "russian": "Кто в тебя камнем — ты ему хлебом. Он постоянно повторял нам это.",
           "source": "RTS, 2010"
         },
         {
-          "serbian_latin": "Hleb je i simbol praštanja jer „ko tebe kamenom, ti njega hlebom“.",
-          "russian": "Хлеб служит и символом прощения: на зло отвечай добром.",
-          "source": "BBC na srpskom / Danas, 2020"
+          "serbian_latin": "Slika Boga razvija se od početnog principa „oko za oko“ do „ko tebe kamenom ti njega hlebom“.",
+          "russian": "Представление о Боге развивается от принципа «око за око» к принципу «на зло отвечай добром».",
+          "source": "Danas, 2016"
         }
       ],
-      "note": "Здесь hleb противопоставлен kamenu как добро и жизненно необходимая пища — агрессии и причинению вреда. Выражение соответствует христианской этике прощения, но саму сербскую формулу лучше описывать как народную пословицу, а не как дословную библейскую цитату.",
-      "keyword": "ko tebe kamenom ti njega hlebom"
+      "note": "Для русского буквальная формула понятна, но не настолько общеупотребительна, как в сербском. По смыслу это «не отвечать злом на зло», а не просто проявлять щедрость. Выражение часто воспринимается как религиозно-нравственное, хотя употребляется и совершенно светски.",
+      "keyword": "kamen; hleb"
     },
     {
       "headword_latin": "Ko visoko leti, nisko pada",
@@ -13079,6 +13155,32 @@
       ],
       "note": "Буквальный образ совершенно прозрачен в охотничьей культуре: на снегу становятся видны следы животных. Politika объясняет именно эту реальную основу поговорки. Переносный смысл — кризис или конфликт обнаруживает скрытые намерения, союзников и противников. Русского столь же образного устойчивого эквивалента нет.",
       "keyword": "sneg; breg; zverka; trag"
+    },
+    {
+      "headword_latin": "Ne pada sneg da pokrije breg, već da svaka zverka pokaže svoj trag",
+      "type": "poslovica",
+      "definition_ru": "трудности показывают, кто есть кто; всё тайное проявляется; испытание раскрывает людей",
+      "synonyms_sr": [
+        "na muci se ljudi poznaju",
+        "istina izađe na videlo",
+        "svako pokaže pravo lice"
+      ],
+      "literal_ru": "снег падает не для того, чтобы покрыть холм, а чтобы каждый зверёк оставил свой след",
+      "register": "poslovica; česte varijante nego / već, zver / zverka, pokaže / ostavi svoj trag",
+      "examples": [
+        {
+          "serbian_latin": "Kako naš narod kaže, ne pada sneg da pokrije breg, već da svaka zver pokaže trag.",
+          "russian": "Как говорит народ: снег падает не для того, чтобы скрыть холм, а чтобы каждый показал свой след.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ne pada sneg da pokrije breg, nego da svaka zverka svoj trag pokaže, kaže ona narodna.",
+          "russian": "Как говорится, снег выпадает не затем, чтобы укрыть холм, а чтобы каждый зверёк показал свой след.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Снег здесь не скрывает, а, наоборот, обнаруживает следы. Поэтому пословица означает, что кризис, конфликт или испытание проявляют скрытые намерения и настоящий характер участников. Устойчивого русского аналога с тем же образом нет; по ситуации подходят «тут-то и видно, кто есть кто», «друзья познаются в беде», «всё тайное становится явным».",
+      "keyword": "sneg; breg; trag"
     },
     {
       "headword_latin": "Ne pije vodu",
@@ -16167,6 +16269,32 @@
       "keyword": "papir trpi sve"
     },
     {
+      "headword_latin": "Para na paru ide",
+      "type": "izreka",
+      "definition_ru": "деньги к деньгам; богатому ещё прибавляется; деньги липнут к деньгам",
+      "synonyms_sr": [
+        "bogatstvo privlači bogatstvo",
+        "bogati postaju još bogatiji",
+        "novac donosi novac"
+      ],
+      "literal_ru": "денежка идёт к денежке",
+      "register": "poslovični izraz, razg., često iron.; para u zbirnom značenju novac",
+      "examples": [
+        {
+          "serbian_latin": "Verovanje da para na paru ide, demantujemo sledećom pričom.",
+          "russian": "Следующая история опровергает поговорку о том, что деньги идут к деньгам.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Para na paru ide...",
+          "russian": "Деньги к деньгам...",
+          "source": "Sport Klub / N1, 2016"
+        }
+      ],
+      "note": "Формула выражает наблюдение, что человеку, у которого уже есть деньги, легче получить ещё больше — благодаря капиталу, связям или просто удаче. Может звучать завистливо, иронически или совершенно нейтрально. Русские «деньги к деньгам» и «деньги липнут к деньгам» передают её естественно.",
+      "keyword": "para na paru"
+    },
+    {
       "headword_latin": "Para vrti gde burgija neće",
       "type": "poslovica",
       "definition_ru": "деньги всё решают; деньги открывают любые двери; за деньги и невозможное становится возможным",
@@ -16232,28 +16360,28 @@
     {
       "headword_latin": "Pas koji laje ne ujeda",
       "type": "poslovica",
-      "definition_ru": "собака, которая лает, не кусает; кто много грозит, обычно не действует",
+      "definition_ru": "кто много угрожает, обычно не опасен; лающая собака не кусает",
       "synonyms_sr": [
-        "mnogo preti, malo čini",
-        "samo galami",
-        "jak je samo na rečima"
+        "ko mnogo preti, obično malo čini",
+        "prazne pretnje",
+        "mnogo buke, malo dela"
       ],
-      "literal_ru": "лающая собака не кусает",
-      "register": "poslovica; preneseno o bučnoj ili pretećoj osobi koja retko prelazi na dela",
+      "literal_ru": "собака, которая лает, не кусает",
+      "register": "poslovica; o čoveku koji mnogo preti ili pokazuje agresiju, ali retko prelazi na dela",
       "examples": [
         {
-          "serbian_latin": "Kažu da pas koji laje ne ujeda.",
-          "russian": "Говорят, что собака, которая лает, не кусает.",
-          "source": "Prva, 2024"
+          "serbian_latin": "Računa na još jednu narodnu umotvorinu što obezvređuje nećutanje: pas koji laje ne ujeda.",
+          "russian": "Он рассчитывает ещё на одну народную мудрость: мол, кто много лает, тот не кусает.",
+          "source": "Danas, 2023"
         },
         {
-          "serbian_latin": "Stara uzrečica „pas koji laje ne ujeda“ zasnovana je na istini.",
-          "russian": "Старая поговорка «лающая собака не кусает» основана на житейском наблюдении.",
-          "source": "Krstarica, 2020"
+          "serbian_latin": "Poznato je da „pas koji laje ne ujeda“.",
+          "russian": "Как известно, лающая собака не кусает.",
+          "source": "Danas, 2023"
         }
       ],
-      "note": "В отношении людей пословица противопоставляет громкие угрозы реальной опасности: тот, кто много шумит, может оказаться менее решительным. Не следует воспринимать её как практическое правило поведения с настоящими собаками. Возможен также переставленный вариант ne ujeda pas koji laje.",
-      "keyword": "pas koji laje ne ujeda"
+      "note": "Пословица не утверждает буквально, что громкий человек безопасен: это житейское обобщение о пустых угрозах. Русская калька понятна, но гораздо естественнее по контексту сказать «кто много грозит, тот обычно ничего не делает» или «грозная только на словах».",
+      "keyword": "pas koji laje"
     },
     {
       "headword_latin": "Pas laje, vetar nosi",
@@ -20111,6 +20239,32 @@
       "keyword": "zlatna kašika"
     },
     {
+      "headword_latin": "Ruka ruku mije",
+      "type": "izreka",
+      "definition_ru": "рука руку моет; услуга за услугу; взаимно помогать друг другу",
+      "synonyms_sr": [
+        "uzajamno se pomagati",
+        "činiti uslugu za uslugu",
+        "vraćati uslugu"
+      ],
+      "literal_ru": "рука руку моет",
+      "register": "poslovični izraz; može biti neutralno, ali u politici i poslu često ima negativan prizvuk uzajamne koristi",
+      "examples": [
+        {
+          "serbian_latin": "Ruka ruku mije. Možda vaš nesavesni kolega čini neke usluge poslodavcu za koje vi i ne znate.",
+          "russian": "Рука руку моет: возможно, ваш недобросовестный коллега оказывает начальству какие-то услуги, о которых вы не знаете.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ruka ruku mije (a za obraz niko ne mari). Veći deo estrade pomogne vlasti, a onda režim uzvrati uslugu.",
+          "russian": "Рука руку моет: большая часть эстрады помогает власти, а затем власть отвечает услугой за услугу.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Выражение может обозначать нормальную взаимопомощь, но современный контекст нередко делает его ироническим: «ты мне — я тебе», особенно о связях, протекции и взаимных услугах. Известна расширенная пословичная форма Ruka ruku mije, obraz obadvije. Для русского «рука руку моет» совпадает практически полностью.",
+      "keyword": "ruka ruku mije"
+    },
+    {
       "headword_latin": "Ruku na srce",
       "type": "izraz",
       "definition_ru": "по правде говоря; надо признать; положа руку на сердце",
@@ -20165,6 +20319,32 @@
       ],
       "note": "Выражение описывает отсутствие порядка и внутренней связи: факты, мысли или части чего-либо набраны отовсюду и плохо состыкованы. Для русского в зависимости от контекста естественны «с бору по сосенке», «как попало», «бессвязно». Встречается и слитный вариант zbrda-zdola.",
       "keyword": "s brda s dola"
+    },
+    {
+      "headword_latin": "S kim si, takav si",
+      "type": "izreka",
+      "definition_ru": "с кем поведёшься, от того и наберёшься; человека определяет его окружение",
+      "synonyms_sr": [
+        "društvo utiče na čoveka",
+        "čovek liči na svoje društvo",
+        "po društvu se čovek poznaje"
+      ],
+      "literal_ru": "с кем ты — такой ты и есть",
+      "register": "izreka, često evaluativno; o uticaju okruženja ili proceni čoveka prema njegovom društvu",
+      "examples": [
+        {
+          "serbian_latin": "Naše izreke „S kim si, takav si“ i „Sličan se sličnom raduje“ sugerišu da ljudi postaju slični onima s kojima provode mnogo vremena.",
+          "russian": "Наши выражения «с кем поведёшься, от того и наберёшься» и «подобное тянется к подобному» предполагают, что люди становятся похожи на тех, с кем проводят много времени.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Oni koji veruju u izreku „S kim si, takav si“ i cilj im je da postanu milijarderi mogu da se upute i u Njujork...",
+          "russian": "Те, кто верит в принцип «с кем поведёшься, от того и наберёшься» и мечтает стать миллиардером, могут отправиться в Нью-Йорк...",
+          "source": "RTS, 2011"
+        }
+      ],
+      "note": "Русское «с кем поведёшься, от того и наберёшься» почти идеально соответствует значению. Но сербская формула короче и поэтому легко используется как прямой упрёк: если ты находишься среди определённых людей, окружающие могут судить о тебе по ним.",
+      "keyword": "s kim si takav si"
     },
     {
       "headword_latin": "S koca i konopca",
