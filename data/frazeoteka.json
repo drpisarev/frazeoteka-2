@@ -27,6 +27,32 @@
       "keyword": "Ahilova peta"
     },
     {
+      "headword_latin": "Ako laže koza, ne laže rog",
+      "type": "poslovica",
+      "definition_ru": "факты не врут; доказательство налицо; против фактов не попрёшь",
+      "synonyms_sr": [
+        "činjenice govore same za sebe",
+        "dokaz je tu",
+        "činjenice ne lažu"
+      ],
+      "literal_ru": "если коза лжёт, рог не лжёт",
+      "register": "poslovica; varijanta: Ako koza laže, rog ne laže",
+      "examples": [
+        {
+          "serbian_latin": "„Ako koza laže, rog ne laže – tu je račun“, rekla je Tabaković.",
+          "russian": "«Факты не врут — вот чек», — сказала Табакович.",
+          "source": "BBC na srpskom / Danas, 2021"
+        },
+        {
+          "serbian_latin": "Dakle, ako laže koza, ne laže rog.",
+          "russian": "Итак, факты говорят сами за себя.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Пословицу особенно естественно употреблять, когда есть материальное подтверждение слов: чек, фотография, документ, статистика. То есть человек может говорить что угодно, но видимый «рог» выдаёт правду. В русском буквальный образ неустойчив, поэтому обычно нужны «факты не врут», «вот доказательство».",
+      "keyword": "koza; rog"
+    },
+    {
       "headword_latin": "Bacati / baciti bisere pred svinje",
       "type": "frazeologizam",
       "definition_ru": "метать бисер перед свиньями; предлагать что-то ценное тому, кто не способен это понять или оценить",
@@ -4661,6 +4687,33 @@
       "keyword": "dozvati se pameti"
     },
     {
+      "headword_latin": "Druga strana medalje",
+      "type": "frazeologizam",
+      "definition_ru": "обратная сторона медали; другая, часто менее приятная сторона вопроса",
+      "synonyms_sr": [
+        "druga strana priče",
+        "drugačiji ugao",
+        "druga perspektiva",
+        "naličje stvari"
+      ],
+      "literal_ru": "другая сторона медали",
+      "register": "neutralno-publicistički; uvodi aspekt koji nije bio vidljiv pri prvobitnoj proceni",
+      "examples": [
+        {
+          "serbian_latin": "Iako mogućnost ovakvog plaćanja deluje idealno, postoji i druga strana medalje.",
+          "russian": "Хотя такой способ оплаты кажется идеальным, у него есть и обратная сторона.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Uvek postoji i druga strana medalje, makar ona bila i zlatna.",
+          "russian": "У медали всегда есть обратная сторона, даже если сама медаль золотая.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Выражение не обязательно обозначает что-то плохое: это может быть просто другой аспект вопроса. Однако очень часто сначала называется преимущество, а затем druga strana medalje вводит цену успеха, недостаток или скрытую проблему. Русское «обратная сторона медали» почти полностью совпадает.",
+      "keyword": "druga strana medalje"
+    },
+    {
       "headword_latin": "Drvo se na drvo naslanja, a čovek na čoveka",
       "type": "poslovica",
       "definition_ru": "человеку нужен человек; люди держатся друг за друга; один в поле не воин",
@@ -8655,6 +8708,33 @@
       "keyword": "glava"
     },
     {
+      "headword_latin": "Ja tebi vojvodo, ti meni serdare",
+      "type": "izreka",
+      "definition_ru": "взаимно нахваливать друг друга; кукушка хвалит петуха; обмениваться лестью",
+      "synonyms_sr": [
+        "uzajamno se hvaliti",
+        "laskati jedan drugom",
+        "dodvoravati se",
+        "razmenjivati komplimente iz interesa"
+      ],
+      "literal_ru": "я тебе — «воевода», ты мне — «сердар»",
+      "register": "iron.-neodobr.; redosled komponenti ponekad se menja",
+      "examples": [
+        {
+          "serbian_latin": "„Ja tebi vojvodo, ti meni serdare“ – to je princip po kom se danas dele titule počasnog građanina.",
+          "russian": "«Ты меня похвали, я тебя похвалю» — по такому принципу сегодня раздают звания почётных граждан.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Prevazišao je onu narodnu „ja tebi serdare, ti meni vojvodo“.",
+          "russian": "Это превзошло даже народное «ты меня похвали, а я тебя».",
+          "source": "N1, 2026"
+        }
+      ],
+      "note": "Vojvoda и serdar — исторические военные титулы, поэтому каждый как бы присваивает другому почётное звание в обмен на такое же. В современном употреблении выражение почти всегда ироническое: взаимные похвалы считаются неискренними и выгодными обеим сторонам. Русская «кукушка хвалит петуха…» очень близка по функции.",
+      "keyword": "vojvodo serdare"
+    },
+    {
       "headword_latin": "jak kao bik",
       "type": "poređenje",
       "definition_ru": "Сильный как бык; чрезвычайно крепкий и физически сильный.",
@@ -10552,6 +10632,33 @@
       "keyword": "kucati na sva vrata"
     },
     {
+      "headword_latin": "Kud svi Turci, tu i mali Mujo",
+      "type": "izreka",
+      "definition_ru": "куда все, туда и я; следовать за толпой; делать как все",
+      "synonyms_sr": [
+        "ići za većinom",
+        "povoditi se za drugima",
+        "slediti masu",
+        "raditi kao svi"
+      ],
+      "literal_ru": "куда все турки, туда и маленький Муйо",
+      "register": "razg., iron.; o konformizmu i sleđenju većine bez sopstvene odluke",
+      "examples": [
+        {
+          "serbian_latin": "On sve više teži serijalima i masovnim štancovima ponašanja – kud svi Turci, tu i mali Mujo!",
+          "russian": "Он всё больше стремится к массовым шаблонам поведения: куда все, туда и он.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Ja stvarno ne funkcionišem po sistemu „Kud svi Turci, tu i mali Mujo“.",
+          "russian": "Я действительно не живу по принципу «куда все, туда и я».",
+          "source": "Politika, 2024"
+        }
+      ],
+      "note": "Mujo здесь не конкретный человек, а традиционное фольклорно-разговорное имя внутри устойчивой формулы. В современной сербской речи этнический сюжет выражения обычно стёрт: главное значение — идти вслед за большинством только потому, что «все так делают». Часто употребляется именно для критики стадного поведения.",
+      "keyword": "kud svi Turci"
+    },
+    {
       "headword_latin": "Kum nije dugme",
       "type": "izreka",
       "definition_ru": "кум — человек не последний; кумовство — дело серьёзное; кумом не разбрасываются",
@@ -11550,6 +11657,33 @@
       ],
       "note": "Mrtav здесь не имеет отношения к смерти и просто резко усиливает признак. Сочетание настолько устойчиво, что словарно сопоставляется с английским dead tired. Для русского естественнее «смертельно устал», «устал как собака», а не буквальное «мёртвый уставший».",
       "keyword": "mrtav umoran"
+    },
+    {
+      "headword_latin": "Mrtvo slovo na papiru",
+      "type": "frazeologizam",
+      "definition_ru": "мёртвая буква; пустая декларация; написано, но не выполняется",
+      "synonyms_sr": [
+        "neprimenjen propis",
+        "neostvareno obećanje",
+        "formalnost bez dejstva",
+        "nešto što se ne sprovodi"
+      ],
+      "literal_ru": "мёртвая буква на бумаге",
+      "register": "neutralno-publicistički; naročito o zakonima, sporazumima, pravima, odlukama i obećanjima",
+      "examples": [
+        {
+          "serbian_latin": "Svih šest tačaka ostale su mrtvo slovo na papiru.",
+          "russian": "Все шесть пунктов так и остались мёртвой буквой.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Da li je Zakon o poreklu imovine mrtvo slovo na papiru?",
+          "russian": "Не является ли закон о происхождении имущества лишь пустой декларацией?",
+          "source": "N1, 2026"
+        }
+      ],
+      "note": "Формально документ существует, но в реальной жизни он ничего не меняет. Особенно частая модель — ostati mrtvo slovo na papiru. Русское «остаться мёртвой буквой» близко, но сербская полная формула с na papiru употребляется очень часто.",
+      "keyword": "mrtvo slovo na papiru"
     },
     {
       "headword_latin": "Mrtvom vuku rep se meri",
@@ -14435,6 +14569,32 @@
       "keyword": "obećanje ludom radovanje"
     },
     {
+      "headword_latin": "Obećanje, ludom radovanje",
+      "type": "poslovica",
+      "definition_ru": "пустым обещаниям верит только наивный; обещаниями сыт не будешь",
+      "synonyms_sr": [
+        "prazna obećanja",
+        "ne verovati obećanjima",
+        "obećavati bez pokrića"
+      ],
+      "literal_ru": "обещание — дураку радость",
+      "register": "poslovica, iron.-neodobr.; o obećanjima kojima govornik ne veruje",
+      "examples": [
+        {
+          "serbian_latin": "Obećanje, ludom radovanje.",
+          "russian": "Обещаниями сыт не будешь.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Odgovor na ovo pitanje mogao bi da glasi: „Obećanje, ludom radovanje!“",
+          "russian": "Ответ мог бы быть таким: обещать можно что угодно, но верить этому наивно.",
+          "source": "Politika, 2025"
+        }
+      ],
+      "note": "Lud здесь употребляется в старом пословичном значении «глупый, наивный человек», а не как обозначение психического заболевания. Фраза выражает заранее скептическое отношение к обещанию: говорящий предполагает, что выполнять его никто не собирается. Особенно часта в политическом контексте.",
+      "keyword": "obećanje ludom radovanje"
+    },
+    {
       "headword_latin": "obećavati kule i gradove",
       "type": "глагольный фразеологизм",
       "definition_ru": "Обещать очень много, обычно без намерения или возможности выполнить обещанное; сулить золотые горы.",
@@ -14542,6 +14702,33 @@
       ],
       "note": "Типичная ситуация — человек набрал огромную порцию, потому что всё выглядело аппетитно, но съесть её не смог. Близкое gladne oči может употребляться шире и подчёркивать ненасытное желание. Русское «глаза завидущие, руки загребущие» сходно лишь частично: сербская формула прежде всего о переоценённом аппетите.",
       "keyword": "oči veće od stomaka"
+    },
+    {
+      "headword_latin": "Očitati nekome bukvicu",
+      "type": "frazeologizam",
+      "definition_ru": "отчитать; устроить выговор; задать головомойку",
+      "synonyms_sr": [
+        "izgrditi",
+        "prekoriti",
+        "naružiti",
+        "očitati lekciju"
+      ],
+      "literal_ru": "прочитать кому-то «буквицу», азбуку",
+      "register": "razg., ekspresivno; adresat u dativu: očitati mu / joj / detetu bukvicu",
+      "examples": [
+        {
+          "serbian_latin": "Ova neobična komšinica [...] već će im dobro očitati bukvicu i naučiti ih nečemu drugom.",
+          "russian": "Эта необычная соседка сразу хорошенько их отчихвостит и заодно кое-чему научит.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Piscima iz užeg izbora za narečenu nagradu treba očitati bukvicu.",
+          "russian": "Писателям, вошедшим в шорт-лист этой премии, следует устроить хорошую выволочку.",
+          "source": "Blic, 2011"
+        }
+      ],
+      "note": "Bukvica в старом значении связана с азбукой и буквами; Rečnik SANU фиксирует это значение, а Jezikofil считает объяснение через военную книжку менее убедительным и, вероятно, более поздним. Поэтому образ ближе к «прочитать кому-то наставление от аза до ижицы» — подробно отчитать за неправильное поведение.",
+      "keyword": "očitati bukvicu"
     },
     {
       "headword_latin": "Od glave do pete",
@@ -15827,27 +16014,27 @@
     {
       "headword_latin": "Papir trpi sve",
       "type": "izreka",
-      "definition_ru": "бумага всё стерпит; написать можно что угодно; написанное ещё не означает правду",
+      "definition_ru": "бумага всё стерпит; написать можно что угодно",
       "synonyms_sr": [
-        "napisati se može svašta",
-        "jedno piše, drugo je stvarnost",
-        "papir nije dokaz istine"
+        "lako je napisati",
+        "jedno je papir, drugo praksa",
+        "na papiru sve može"
       ],
-      "literal_ru": "бумага всё терпит",
-      "register": "iron.-skeptično; o planovima, obećanjima, izveštajima, zakonima i brojkama koji mogu odstupati od stvarnosti",
+      "literal_ru": "",
+      "register": "iron.; o planovima, obećanjima, dokumentima i prognozama koji mogu biti daleko od stvarnosti",
       "examples": [
         {
           "serbian_latin": "Papir trpi sve, ali praksa opominje.",
-          "russian": "Бумага всё стерпит, но практика быстро показывает реальное положение дел.",
+          "russian": "Бумага всё стерпит, но практика быстро напоминает о реальности.",
           "source": "Danas, 2023"
         },
         {
-          "serbian_latin": "A tek papir trpi sve, pa i više od toga.",
-          "russian": "А бумага и вовсе всё стерпит — и даже больше.",
-          "source": "Radio Beograd 2 / RTS, 2025"
+          "serbian_latin": "Možete da pišete i da pričate, papir trpi sve.",
+          "russian": "Можно писать и говорить что угодно — бумага всё стерпит.",
+          "source": "RTS, 2025"
         }
       ],
-      "note": "Русское «бумага всё стерпит» — полный функциональный эквивалент. Выражение не означает, что бумага физически прочна: говорящий скептически противопоставляет легко написанное реальным фактам и исполнению. Особенно типично о государственных планах, нормативных документах и обещаниях.",
+      "note": "Русский эквивалент практически полный. Фраза часто противопоставляет красивый документ или обещание реальному исполнению: записать цель, цифру или обязательство легко, доказать их жизнеспособность значительно труднее. Может употребляться и о журналистских или литературных преувеличениях.",
       "keyword": "papir trpi sve"
     },
     {
@@ -21748,6 +21935,33 @@
       "keyword": "stati na put"
     },
     {
+      "headword_latin": "Stati nekome / nečemu na rep",
+      "type": "frazeologizam",
+      "definition_ru": "положить конец; прижать; обуздать; пресечь",
+      "synonyms_sr": [
+        "obuzdati",
+        "zaustaviti",
+        "stati na put",
+        "suzbiti"
+      ],
+      "literal_ru": "наступить кому-то / чему-то на хвост",
+      "register": "razg., ekspresivno; često o štetnoj pojavi, zloupotrebama ili nečijoj aktivnosti",
+      "examples": [
+        {
+          "serbian_latin": "Pomahnitalim novindžijama bi se [...] lako moglo stati na rep.",
+          "russian": "Разошедшихся газетчиков можно было бы довольно легко приструнить.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Lektori bi toj pošasti lako mogli stati na rep samo kad bi hteli.",
+          "russian": "Редакторы могли бы легко положить конец этой напасти, если бы захотели.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Выражение означает именно ограничить, пресечь или взять под контроль то, что до сих пор свободно разрасталось. Не путать с stati nekome na žulj — «наступить кому-то на больную мозоль, задеть»: там человек вызывает раздражение, здесь — останавливает чужую деятельность.",
+      "keyword": "stati na rep"
+    },
+    {
       "headword_latin": "Stati nekome na crtu",
       "type": "frazeologizam",
       "definition_ru": "бросить кому-то вызов; выйти против кого-то; помериться силами",
@@ -24020,6 +24234,32 @@
       ],
       "note": "Для русского здесь полезен ложный буквальный ориентир: сербское čas действительно может означать «час», но в этом выражении речь именно о последнем возможном моменте. Очень близкий вариант — u poslednjem trenutku.",
       "keyword": "u poslednji čas"
+    },
+    {
+      "headword_latin": "U se i u svoje kljuse",
+      "type": "izreka",
+      "definition_ru": "надейся прежде всего на себя; рассчитывай на собственные силы",
+      "synonyms_sr": [
+        "osloniti se na sebe",
+        "uzdati se u sebe",
+        "računati na sopstvene snage"
+      ],
+      "literal_ru": "в себя и в свою клячу",
+      "register": "poslovična formula, razg.; javlja se i puna forma uzdaj se u se i u svoje kljuse",
+      "examples": [
+        {
+          "serbian_latin": "Trebalo bi da se vratimo onom starom „u se i u svoje kljuse“.",
+          "russian": "Нам следует вернуться к старому принципу: рассчитывать прежде всего на собственные силы.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Godoa možemo da čekamo i nadalje, ali [...] možemo i po srpski – „u se, i u svoje kljuse“.",
+          "russian": "Можно и дальше ждать Годо, а можно по-сербски положиться на себя и собственные силы.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Kljuse — пренебрежительное «кляча, плохая лошадь». U se — окаменевшая старая форма, соответствующая современному u sebe; вне этой пословицы так обычно не говорят. Формула подчёркивает самостоятельность: помощь извне может и не прийти, поэтому рассчитывай на то, что есть у тебя самого.",
+      "keyword": "u se i u svoje kljuse"
     },
     {
       "headword_latin": "U sitne sate",
