@@ -6261,6 +6261,33 @@
       "keyword": "džidža-bidže"
     },
     {
+      "headword_latin": "Đavo bi ga znao",
+      "type": "izraz",
+      "definition_ru": "чёрт его знает; кто его знает; поди разбери",
+      "synonyms_sr": [
+        "ko će ga znati",
+        "ko zna",
+        "bog zna",
+        "vrag bi ga znao"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; formula nesigurnosti ili nemogućnosti da se nešto utvrdi ili razume",
+      "examples": [
+        {
+          "serbian_latin": "Đavo bi ga znao da li je to bila 2001. ili 2002. kada je Peđa došao u B92.",
+          "russian": "Чёрт его знает, был это 2001-й или 2002-й, когда Педжа пришёл на B92.",
+          "source": "Vreme, 2023"
+        },
+        {
+          "serbian_latin": "Valjda je jedan povukao druge, đavo bi ga znao.",
+          "russian": "Наверное, один потянул за собой остальных — кто его знает.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "В отличие от буквального проклятия, đavo здесь практически утратил религиозную нагрузку: это обычное разговорное «чёрт его знает». Местоимение меняется: đavo bi ga / je / ih znao. Более нейтрально — ko zna, чуть мягче — bog zna.",
+      "keyword": "đavo bi ga znao"
+    },
+    {
       "headword_latin": "Đavo je odneo šalu",
       "type": "frazeologizam",
       "definition_ru": "шутки кончились; дело стало серьёзным; запахло жареным",
@@ -6339,6 +6366,33 @@
       ],
       "note": "Выражение не обязательно осуждающее. Оно может описывать и симпатичную деятельную неугомонность: человек не способен спокойно сидеть и снова берётся за проект. Русское «чёрт не даёт покоя» близко, но по контексту иногда естественнее просто «неймётся».",
       "keyword": "đavo ne da mira"
+    },
+    {
+      "headword_latin": "Đene-đene",
+      "type": "izraz",
+      "definition_ru": "так себе; более-менее; ещё куда ни шло",
+      "synonyms_sr": [
+        "tako-tako",
+        "koliko-toliko",
+        "još nekako",
+        "može da prođe"
+      ],
+      "literal_ru": "",
+      "register": "razg.; može biti samostalan odgovor ili značiti „to je još podnošljivo, ali...“",
+      "examples": [
+        {
+          "serbian_latin": "Sindikati đene-đene. Narod nije.",
+          "russian": "Профсоюзы — ещё куда ни шло. А народ — нет.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Što ova omladina postaje sve vidljivija, to đene-đene, što ih ljudi poštuju, ajde i to…",
+          "russian": "То, что эта молодёжь становится всё заметнее, ещё ладно; что её уважают — тоже допустим…",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "У выражения два близких употребления: ответ Kako je? — Đene-đene = «так себе, более-менее» и конструкция X još đene-đene, ali Y… = «X ещё куда ни шло, но Y…». Politika относит đene-đene к окаменевшим разговорным формулам, отдельные компоненты которых современному говорящему уже ничего не говорят. N1 связывает выражение с тур. gene/yine «снова, опять».",
+      "keyword": "đene-đene"
     },
     {
       "headword_latin": "Fali mu daska u glavi",
@@ -6580,6 +6634,32 @@
       ],
       "note": "Выражение очень близко английскому where there’s a will, there’s a way и является международной формулой. Сербское volja здесь — не просто «желание», а также воля, решимость действовать. По функции оно близко уже обработанному sve se može kad se hoće, но здесь сильнее акцент на том, что решение обязательно найдётся.",
       "keyword": "gde ima volje ima i načina"
+    },
+    {
+      "headword_latin": "Gde je Bog rekao laku noć",
+      "type": "frazeologizam",
+      "definition_ru": "у чёрта на куличках; в богом забытой глуши; на краю света",
+      "synonyms_sr": [
+        "Bogu iza nogu",
+        "bogu iza tregera (razg.)",
+        "u nedođiji"
+      ],
+      "literal_ru": "там, где Бог сказал «спокойной ночи»",
+      "register": "razg., iron.-neodobr.; o veoma udaljenom, zabačenom i zapuštenom mestu",
+      "examples": [
+        {
+          "serbian_latin": "Dođemo u neko selo gde je i Bog rekao laku noć.",
+          "russian": "Приезжаем в какую-то деревню у чёрта на куличках.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Kasaba je postala… mesto gde je „bog rekao laku noć“.",
+          "russian": "Касаба превратилась… в место, забытое богом.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Близко уже имеющемуся Bogu iza nogu, но оттенок немного иной: Bogu iza nogu прежде всего далеко, а gde je Bog rekao laku noć добавляет ощущение заброшенности и отсутствия цивилизации. В предложении обычно употребляется как определение места: selo gde je Bog rekao laku noć.",
+      "keyword": "Bog rekao laku noć"
     },
     {
       "headword_latin": "Gde je tanko, tu se kida",
@@ -6893,6 +6973,32 @@
       ],
       "note": "За выражением стоит реальная балканская практика гадания по раскладываемым зёрнам фасоли. В переносном употреблении никакой мистики обычно нет: gledati u pasulj означает пытаться узнать то, для чего нет нормальной информации. Русское «гадать на кофейной гуще» функционально наиболее естественно.",
       "keyword": "gledati u pasulj"
+    },
+    {
+      "headword_latin": "Glineni golub",
+      "type": "frazeologizam",
+      "definition_ru": "лёгкая мишень; беззащитная цель; тот, кого подставили под удар",
+      "synonyms_sr": [
+        "laka meta",
+        "nezaštićena meta",
+        "meta za odstrel"
+      ],
+      "literal_ru": "глиняный голубь — мишень для спортивной стрельбы",
+      "register": "publicistički, ekspresivno; o čoveku, organizaciji ili objektu koji je izložen napadu bez dovoljne zaštite",
+      "examples": [
+        {
+          "serbian_latin": "Nije dobro dobiti fenomenalan avion koji sutra može biti glineni golub.",
+          "russian": "Нет смысла получать превосходный самолёт, который завтра может превратиться в лёгкую мишень.",
+          "source": "N1, 2024"
+        },
+        {
+          "serbian_latin": "Ne bi imalo smisla da izađem u tu trku kao glineni golub.",
+          "russian": "Не имело бы смысла вступать в эту гонку в роли заведомо беззащитной мишени.",
+          "source": "N1, 2022"
+        }
+      ],
+      "note": "Прямое значение — тарелочная мишень, которую запускают в воздух при стендовой стрельбе. В переносном употреблении важна не просто «цель», а уязвимость: человека или объект выставили так, что по нему удобно ударить. Поэтому русское «козёл отпущения» подходит не всегда — там акцент на возложении вины, здесь на беззащитности перед атакой.",
+      "keyword": "glineni golub"
     },
     {
       "headword_latin": "gluv kao top",
@@ -7256,6 +7362,32 @@
       "keyword": "kao po jajima"
     },
     {
+      "headword_latin": "Hvalite me, usta moja",
+      "type": "izreka",
+      "definition_ru": "сам себя не похвалишь — никто не похвалит; самореклама; расхваливать самого себя",
+      "synonyms_sr": [
+        "samohvala",
+        "hvalisati se",
+        "sam sebe hvaliti"
+      ],
+      "literal_ru": "хвалите меня, уста мои",
+      "register": "razg.-publicistički, iron.-neodobr.; o neskromnom samohvalisanju",
+      "examples": [
+        {
+          "serbian_latin": "Banalnost je ugrađena u samu formu koja se bazira na „Hvalite me, usta moja“.",
+          "russian": "Банальность заложена в самой форме, построенной по принципу «сам себя не похвалишь…».",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Prija mi uloga, ali da ne bude „hvalite me, usta moja“.",
+          "russian": "Мне нравится эта роль, но не хотелось бы самому себя расхваливать.",
+          "source": "Sport Klub / N1, 2025"
+        }
+      ],
+      "note": "Это не призыв похвалить говорящего, а ироническая формула, которой комментируют собственную или чужую саморекламу. Очень типична вводная оговорка da ne bude „hvalite me, usta moja“, ali… перед положительным рассказом о себе.",
+      "keyword": "hvalite me usta moja"
+    },
+    {
       "headword_latin": "Hvaliti nekoga / nešto na sva usta",
       "type": "frazeologizam",
       "definition_ru": "расхваливать на все лады; превозносить; без конца хвалить",
@@ -7415,6 +7547,32 @@
       "keyword": "ćorava koka"
     },
     {
+      "headword_latin": "I kusur",
+      "type": "izraz",
+      "definition_ru": "с лишним; с хвостиком; с небольшим сверх указанного числа",
+      "synonyms_sr": [
+        "i nešto",
+        "nešto preko",
+        "malo više od"
+      ],
+      "literal_ru": "и сдача",
+      "register": "razg.; posle okruglog broja: dvadeset i kusur godina, sto i kusur ljudi",
+      "examples": [
+        {
+          "serbian_latin": "Prošlo je više od dve decenije… trideset i kusur godina kasnije.",
+          "russian": "Прошло больше двух десятилетий… тридцать с лишним лет спустя.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Tu imam sto i kusur svojih ovaca.",
+          "russian": "У меня там сто с лишним своих овец.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Kusur буквально означает «сдача, мелочь, остаток денег», но в конструкции с числом превращается в неопределённый небольшой довесок: 40 i kusur godina = «сорок с хвостиком». Не обязательно речь именно о единицах: говорящий намеренно не уточняет точное число. Для возраста, количества лет, людей, предметов это чрезвычайно живой оборот.",
+      "keyword": "i kusur"
+    },
+    {
       "headword_latin": "I mirna Bosna",
       "type": "izreka",
       "definition_ru": "и всё в порядке; и дело с концом; и никаких споров; и все довольны",
@@ -7445,6 +7603,33 @@
       ],
       "note": "Фразеологические словари толкуют i mirna Bosna как «всё в порядке, спор окончен, дело завершено». При этом исследование корпусов показывает интересную региональную деталь: в сербском материале несколько чаще зафиксировано mirna Bačka, тогда как mirna Bosna значительно характернее для хорватского корпуса, но и в сербском она тоже засвидетельствована. Поэтому для Frazeoteka полезно хранить обе формы: i/pa mirna Bosna и i/pa mirna Bačka, не объявляя первую «несербской».",
       "keyword": "mirna Bosna"
+    },
+    {
+      "headword_latin": "I nikom ništa",
+      "type": "izraz",
+      "definition_ru": "и хоть бы что; и никаких последствий; и всем всё равно",
+      "synonyms_sr": [
+        "ništa se nije desilo",
+        "bez posledica",
+        "niko nije reagovao",
+        "nikoga nije briga"
+      ],
+      "literal_ru": "",
+      "register": "razg.-publicistički, neodobr.; završna replika posle opisa prekršaja, skandala ili neobičnog događaja",
+      "examples": [
+        {
+          "serbian_latin": "Kafana… kao da je otplovila u zaborav. I nikom ništa!",
+          "russian": "Кафана словно канула в забвение. И всем хоть бы что!",
+          "source": "Politika, 2020"
+        },
+        {
+          "serbian_latin": "Bečić u hotel ušao kao srednjoškolac, izašao kao akademac – i nikom ništa.",
+          "russian": "Бечич вошёл в гостиницу со средним образованием, вышел с дипломом — и никаких последствий.",
+          "source": "N1, 2025"
+        }
+      ],
+      "note": "У оборота два тесно связанных оттенка. Первый: произошло нечто, от чего ожидались последствия, но ничего не случилось — «и хоть бы что». Второй: никто не отреагировал — «и всем всё равно». Поэтому перевод зависит от контекста. Часто это последняя короткая фраза абзаца, специально усиливающая возмущение.",
+      "keyword": "i nikom ništa"
     },
     {
       "headword_latin": "I posle Tita – Tito",
@@ -8060,6 +8245,33 @@
       "keyword": "ima nas raznih"
     },
     {
+      "headword_latin": "Ima se, može se",
+      "type": "izraz",
+      "definition_ru": "деньги есть — можно себе позволить; шикуем; живём на широкую ногу",
+      "synonyms_sr": [
+        "može nam se",
+        "imati para",
+        "živeti široko",
+        "razbacivati se"
+      ],
+      "literal_ru": "имеется — значит можно",
+      "register": "razg., često iron.; o pokaznim troškovima, luksuzu ili uživanjima koja novac omogućava",
+      "examples": [
+        {
+          "serbian_latin": "Kako su se ponašali Beograđani ovih dana? Poput gradskih vlasti – „Ima se, može se“.",
+          "russian": "Как вели себя белградцы в эти дни? Как городские власти: деньги есть — гуляем.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Babić je… procenio da svima oko sebe može da kaže „ima se, može se“.",
+          "russian": "Бабич решил, что уже может всем вокруг продемонстрировать: деньги есть — можем себе позволить.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Формула может быть добродушной — например, когда человек угощает друзей, — но в публицистике почти всегда иронична и намекает на показное богатство или неоправданные траты. Русское «можем себе позволить» нейтральнее; для иронического контекста лучше «шикуем», «живём широко», «деньги есть — гуляем».",
+      "keyword": "ima se može se"
+    },
+    {
       "headword_latin": "Imati / hteti i ovce i novce",
       "type": "frazeologizam",
       "definition_ru": "хотеть получить всё сразу; хотеть и выгоду сохранить, и ничем не пожертвовать; хотеть несовместимого",
@@ -8090,6 +8302,32 @@
       ],
       "note": "В сербской фразеологии фиксируются обе рифмованные модели i ovce i novce и i jare i pare. Научные исследования приводят hteti / želeti i ovce i novce именно как сербский фразеологизм. Смысл не в простой жадности, а в желании одновременно сохранить ресурс и получить за него выгоду, то есть избежать выбора между несовместимыми преимуществами.",
       "keyword": "ovce i novce"
+    },
+    {
+      "headword_latin": "Imati / nositi glavu u torbi",
+      "type": "frazeologizam",
+      "definition_ru": "рисковать жизнью; ходить под смертельной угрозой; рисковать головой",
+      "synonyms_sr": [
+        "rizikovati glavu",
+        "život mu visi o koncu",
+        "biti životno ugrožen"
+      ],
+      "literal_ru": "носить голову в сумке",
+      "register": "razg.-publicistički, ekspresivno; takođe glava mu je u torbi",
+      "examples": [
+        {
+          "serbian_latin": "Znao je da mu je glava u torbi, ali bio je hrabar.",
+          "russian": "Он знал, что рискует жизнью, но был смел.",
+          "source": "Vreme, 2021"
+        },
+        {
+          "serbian_latin": "Da li je legitimacija ratnog reportera, glava u torbi?",
+          "russian": "Неужели непременный атрибут военного корреспондента — постоянно рисковать головой?",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Старый образ связан с отсечённой головой: когда жизнь человека в опасности, она словно уже отделена от тела и лежит в торбе. В источниках фиксируются nositi glavu u torbi, metnuti glavu u torbu и glava mu je u torbi. Русское «держать голову в сумке» невозможно; переводить нужно «рисковать головой / жизнью».",
+      "keyword": "glava u torbi"
     },
     {
       "headword_latin": "Imati dve leve ruke",
@@ -9771,6 +10009,32 @@
       ],
       "note": "Для русского образ понятен, но именно такая формула не столь привычна. Сербская пословица особенно часто всплывает при разговоре о клевете, публичных оскорблениях и ответственности за сказанное. Контраст nema kosti – kosti lomi делает её легко узнаваемой и подчёркивает реальность последствий нематериальных слов.",
       "keyword": "jezik kosti nema ali kosti lomi"
+    },
+    {
+      "headword_latin": "Jovo nanovo",
+      "type": "izraz",
+      "definition_ru": "опять сначала; снова-здорово; опять двадцать пять",
+      "synonyms_sr": [
+        "opet ispočetka",
+        "sve iznova",
+        "ponovo ista priča"
+      ],
+      "literal_ru": "",
+      "register": "razg., iron.-neodobr.; česte forme Ajde, Jovo, nanovo; Opet Jovo nanovo; Jovo nanovo",
+      "examples": [
+        {
+          "serbian_latin": "Sledeće večeri – Jovo nanovo.",
+          "russian": "На следующий вечер — снова-здорово.",
+          "source": "Vreme, 2001"
+        },
+        {
+          "serbian_latin": "Opozicija i ajmo, Jovo, nanovo.",
+          "russian": "Оппозиция — и опять всё сначала.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "В новом JSON стоит Hajmo Jovo nanovo. Для словарного заголовка лучше выделить устойчивое ядро Jovo nanovo: в живой речи начало свободно варьирует — ajde, ajmo, opet. Радио Београд также использует форму Ajde, Jovo, nanovo. Имя Jovo здесь работает прежде всего как рифменная опора к nanovo; выражение обозначает раздражающее повторение уже пройденного.",
+      "keyword": "Jovo nanovo"
     },
     {
       "headword_latin": "Jutro je pametnije od večeri",
