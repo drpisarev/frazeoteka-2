@@ -3226,6 +3226,32 @@
       "keyword": "ćorav posao"
     },
     {
+      "headword_latin": "Ćutanje je zlato",
+      "type": "izreka",
+      "definition_ru": "молчание — золото; иногда лучше промолчать",
+      "synonyms_sr": [
+        "bolje je ćutati",
+        "prećutati je ponekad mudrije",
+        "ne govoriti suvišno"
+      ],
+      "literal_ru": "молчание — золото",
+      "register": "izreka; takođe puna forma Govor je srebro, ćutanje je zlato",
+      "examples": [
+        {
+          "serbian_latin": "Narod kaže ćutanje je zlato, a šta vi kažete?",
+          "russian": "Народ говорит, что молчание — золото, а что скажете вы?",
+          "source": "Radio Beograd 2 / RTS, 2023"
+        },
+        {
+          "serbian_latin": "„Ćutanje je zlato“ izreka je nepoznatog autora koja se vekovima primenjuje u praksi.",
+          "russian": "«Молчание — золото» — старое изречение, веками применяемое на практике.",
+          "source": "N1, 2024"
+        }
+      ],
+      "note": "Выражение может одобрять сдержанность, но сегодня очень часто употребляется и полемически: ćutanje nije uvek zlato — «молчание не всегда золото». Поэтому оно не означает безусловного требования молчать, а скорее идею, что в некоторых ситуациях не говорить лишнего мудрее.",
+      "keyword": "ćutanje je zlato"
+    },
+    {
       "headword_latin": "ćutati kao zaliven",
       "type": "сравнительный фразеологизм",
       "definition_ru": "Молчать как воды в рот набрав; не произносить ни слова.",
@@ -4054,6 +4080,32 @@
       ],
       "note": "В сочетании gas do daske русский эквивалент — «газ в пол». Но do daske давно работает шире как усилитель максимальной степени: pojačati do daske, živeti do daske. Поэтому одного русского перевода нет: «до упора», «на полную», «на всю катушку». Точное происхождение расширенного употребления лучше не выводить только из современного автомобильного образа.",
       "keyword": "do daske"
+    },
+    {
+      "headword_latin": "Dobar glas daleko se čuje",
+      "type": "izreka",
+      "definition_ru": "добрая слава далеко идёт; хорошая репутация быстро распространяется",
+      "synonyms_sr": [
+        "dobra reputacija se širi",
+        "dobar ugled daleko dopire",
+        "preporuka se brzo širi"
+      ],
+      "literal_ru": "хороший голос далеко слышен",
+      "register": "poslovični izraz; glas prvenstveno znači molvu ili reputaciju, uz čestu igru doslovnim značenjem glas",
+      "examples": [
+        {
+          "serbian_latin": "Kako nam kažu, dobar glas daleko se čuje.",
+          "russian": "Как они говорят, хорошая слава далеко идёт.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Znate kako se ono kaže: dobar glas daleko se čuje.",
+          "russian": "Знаете, как говорится: добрая слава далеко идёт.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Для русского важно, что glas здесь не обязательно физический голос: слово может означать молву, известность, репутацию. Поэтому естественный перевод — «добрая слава далеко идёт». Сербские СМИ любят каламбурно возвращать выражению буквальный смысл, когда речь идёт о певцах, голосе или голосовых связках.",
+      "keyword": "dobar glas"
     },
     {
       "headword_latin": "Dobar savet zlata vredi",
@@ -8979,28 +9031,28 @@
     {
       "headword_latin": "Jutro je pametnije od večeri",
       "type": "poslovica",
-      "definition_ru": "утро вечера мудренее; лучше переночевать с решением",
+      "definition_ru": "утро вечера мудренее; с решением лучше переспать",
       "synonyms_sr": [
         "prespavati odluku",
-        "sačekati do sutra",
-        "odlučiti hladne glave"
+        "odlučiti hladne glave",
+        "ne odlučivati na brzinu"
       ],
       "literal_ru": "утро умнее вечера",
-      "register": "poslovica; savet da se važna odluka ne donosi umoran, uznemiren ili pod jakim emocijama",
+      "register": "poslovica; o odluci koju je bolje odložiti do jutra kada se emocije smire",
       "examples": [
         {
           "serbian_latin": "Jutro je pametnije od večeri, donećemo mudru odluku.",
-          "russian": "Утро вечера мудренее — примем взвешенное решение.",
+          "russian": "Утро вечера мудренее, примем взвешенное решение.",
           "source": "RTS, 2018"
         },
         {
-          "serbian_latin": "Oni odlažu svoju odluku po principu: Jutro je pametnije od večeri.",
-          "russian": "Они откладывают решение по принципу «утро вечера мудренее».",
-          "source": "Politika, 2019"
+          "serbian_latin": "Po onoj narodnoj: Jutro je pametnije od večeri.",
+          "russian": "Как говорится, утро вечера мудренее.",
+          "source": "RTS, 2025"
         }
       ],
-      "note": "Русский эквивалент практически полный. Сербская формула часто означает вполне конкретный совет: не решать вопрос сейчас, а выспаться и вернуться к нему утром с более ясной головой. Поэтому естественная бытовая реакция — Prespavaj, jutro je pametnije od večeri.",
-      "keyword": "jutro je pametnije od večeri"
+      "note": "Здесь русский и сербский почти идеально совпадают. Полезна грамматика: od večeri — родительный после сравнительной конструкции с od. Пословица рекомендует не принимать важного решения в состоянии усталости, сильных эмоций или поздно вечером.",
+      "keyword": "jutro je pametnije"
     },
     {
       "headword_latin": "Kad čeljad nisu besna, ni kuća nije tesna",
@@ -9864,25 +9916,25 @@
       "type": "poslovica",
       "definition_ru": "кто ждёт, тот дождётся; терпение вознаграждается",
       "synonyms_sr": [
-        "strpljen – spasen",
-        "biti strpljiv",
-        "sačekati svoj trenutak"
+        "strpljenjem do cilja",
+        "vredi biti strpljiv",
+        "sve dođe u svoje vreme"
       ],
       "literal_ru": "",
-      "register": "poslovica; neutralno-razgovorno, često sa optimističkim ili blago ironičnim tonom; i ko čeka, taj i dočeka",
+      "register": "poslovica; obično odobravajuće ili šaljivo o rezultatu koji se dugo čekao",
       "examples": [
         {
-          "serbian_latin": "Ja nosim najveću krivicu za to i nikad neću zaboraviti, ali ko čeka, taj dočeka.",
-          "russian": "Я больше всех виноват в случившемся и никогда этого не забуду, но кто ждёт, тот дождётся.",
-          "source": "RTS, 2023"
+          "serbian_latin": "Ko čeka, taj dočeka.",
+          "russian": "Кто ждёт, тот дождётся.",
+          "source": "Danas, 2010"
         },
         {
-          "serbian_latin": "Ko čeka taj i dočeka, pa je tako i Partizanov štoper Marko Jovanović stigao do mesta u startnih 11.",
-          "russian": "Кто ждёт, тот дождётся: так защитник «Партизана» Марко Йованович наконец получил место в стартовом составе.",
-          "source": "Danas, 2010"
+          "serbian_latin": "Ali ko čeka, taj dočeka.",
+          "russian": "Но кто ждёт, тот дождётся.",
+          "source": "Danas, 2024"
         }
       ],
-      "note": "Dočekati здесь значит не просто «встретить», а «дождаться желаемого результата». Пословица предполагает терпение и настойчивость, а не пассивное ожидание. Русское «кто ждёт, тот дождётся» почти полностью совпадает.",
+      "note": "Русское «кто ждёт, тот дождётся» почти полностью совпадает. Сербская пословица обычно предполагает не пассивное ожидание вообще, а терпение до подходящего момента или давно ожидаемого результата. Может употребляться и иронически, если ожидание было чрезмерно долгим.",
       "keyword": "ko čeka taj dočeka"
     },
     {
@@ -10127,26 +10179,26 @@
       "type": "poslovica",
       "definition_ru": "не ошибается тот, кто ничего не делает; кто работает, тот и ошибается",
       "synonyms_sr": [
-        "greške su deo rada",
-        "svako ko radi može da pogreši",
-        "ljudski je grešiti"
+        "grešiti je ljudski",
+        "svako može da pogreši",
+        "greške su deo rada"
       ],
       "literal_ru": "",
-      "register": "poslovica; koristi se i kao razumno opravdanje slučajne greške i kao zgodan izgovor",
+      "register": "poslovica; često kao opravdanje obične, nenamerne greške",
       "examples": [
         {
           "serbian_latin": "Ko radi taj i greši, kaže i narodna poslovica.",
-          "russian": "Не ошибается тот, кто ничего не делает, как говорит народная пословица.",
+          "russian": "Как говорит народная пословица: кто работает, тот и ошибается.",
           "source": "RTS, 2022"
         },
         {
-          "serbian_latin": "Ko radi taj i greši. Opšte poznata izreka koja je [...] odličan izgovor za nemar.",
-          "russian": "Кто работает, тот ошибается — известная поговорка, которая может стать и отличной отговоркой для небрежности.",
+          "serbian_latin": "Ko radi taj i greši.",
+          "russian": "Не ошибается тот, кто ничего не делает.",
           "source": "Danas, 2023"
         }
       ],
-      "note": "Сербская формула по функции соответствует русскому «не ошибается тот, кто ничего не делает», хотя формально построена иначе. Контекст важен: ею можно призывать терпимее относиться к добросовестной ошибке, но ею же иронически оправдывают халатность.",
-      "keyword": "ko radi taj i greši"
+      "note": "В русском наиболее естественна расширенная формула «не ошибается тот, кто ничего не делает». Сербская пословица короче и может как снисходительно объяснять нормальную человеческую ошибку, так и иронически служить удобным оправданием небрежности. Именно такое двойственное употребление встречается в современной публицистике.",
+      "keyword": "ko radi taj greši"
     },
     {
       "headword_latin": "Ko rano rani, dve sreće grabi",
@@ -12195,14 +12247,14 @@
     {
       "headword_latin": "Na mladima svet ostaje",
       "type": "izreka",
-      "definition_ru": "будущее за молодыми; молодым строить завтрашний мир",
+      "definition_ru": "будущее за молодыми; молодым продолжать начатое; молодёжи принадлежит будущее",
       "synonyms_sr": [
         "budućnost pripada mladima",
         "mladi su budućnost",
         "budućnost je u rukama mladih"
       ],
-      "literal_ru": "мир остаётся молодым",
-      "register": "poslovica / izreka, opšteupotrebljivo; često se kreativno preinačava",
+      "literal_ru": "на молодых остаётся мир",
+      "register": "izreka, neutralno; može biti ozbiljno, optimistično ili ironično",
       "examples": [
         {
           "serbian_latin": "Na mladima svet ostaje i kada je streljaštvo u pitanju.",
@@ -12215,7 +12267,7 @@
           "source": "Danas, 2025"
         }
       ],
-      "note": "Русское «молодым везде у нас дорога» лишь частично близко: сербская формула говорит прежде всего о передаче будущего следующему поколению. Она настолько узнаваема, что её постоянно переиначивают: na mladima ostaje... что-либо конкретное.",
+      "note": "Для русского важно управление: na mladima — форма множественного числа после na, буквально «на молодых лежит / остаётся мир». В современном употреблении выражение нередко обыгрывают и переосмысливают: не только «молодёжь — наше будущее», но и «что именно старшие ей оставляют».",
       "keyword": "na mladima svet ostaje"
     },
     {
@@ -15128,27 +15180,27 @@
     {
       "headword_latin": "Odelo ne čini čoveka",
       "type": "poslovica",
-      "definition_ru": "не одежда красит человека; по одёжке нельзя судить о человеке",
+      "definition_ru": "не одежда красит человека; по одёжке встречают, но человека определяет не одежда",
       "synonyms_sr": [
+        "izgled nije najvažniji",
         "ne sudi po izgledu",
-        "izgled vara",
-        "važan je čovek, a ne odeća"
+        "spoljašnjost ne određuje čoveka"
       ],
       "literal_ru": "одежда не делает человека",
-      "register": "poslovica; o neskladu spoljnog utiska i unutrašnjih osobina",
+      "register": "poslovica; odelo je standardna srpska ekavska forma",
       "examples": [
         {
-          "serbian_latin": "Odelo ne čini čoveka. Ipak, ni najduhovniji ljudi ne mogu izbeći stege „dres koda“.",
-          "russian": "Не одежда красит человека. И всё же даже самые духовные люди не могут полностью избежать требований дресс-кода.",
-          "source": "RTS, 2021"
+          "serbian_latin": "Kaže stara izreka „odelo ne čini čoveka“, ali ipak znaš sa kime imaš posla.",
+          "russian": "Старая поговорка говорит, что не одежда красит человека, хотя внешний вид всё же кое-что сообщает.",
+          "source": "Danas, 2014"
         },
         {
-          "serbian_latin": "Kaže stara izreka „odelo ne čini čoveka“, ali ipak znaš sa kime imaš posla.",
-          "russian": "Старая поговорка гласит: «Не одежда красит человека», но внешний вид всё-таки кое-что сообщает.",
-          "source": "Danas, 2014"
+          "serbian_latin": "Stara poslovica da „odelo ne čini čoveka“ u poslovnom kontekstu možda nije primenljiva.",
+          "russian": "Старая пословица «не одежда красит человека» в деловой среде, возможно, работает не всегда.",
+          "source": "Forbes Srbija, 2024"
         }
       ],
-      "note": "Odelo может означать и одежду вообще, и костюм, поэтому дословное русское «костюм не делает человека» слишком узко. Пословицу нередко намеренно оспаривают, обсуждая первое впечатление и социальные сигналы одежды. Ближайшее русское соответствие — «не одежда красит человека».",
+      "note": "Русское «не одежда красит человека» близко, хотя сербская формула буквально говорит, что одежда «не делает» человека. Пословицу очень часто употребляют с оговоркой или намеренно оспаривают, когда хотят подчеркнуть, что внешний вид всё-таки влияет на первое впечатление.",
       "keyword": "odelo ne čini čoveka"
     },
     {
@@ -21249,6 +21301,32 @@
       "keyword": "jaje jajetu"
     },
     {
+      "headword_latin": "Sličan se sličnom raduje",
+      "type": "izreka",
+      "definition_ru": "подобное тянется к подобному; свой свояка видит издалека; похожие люди легко сходятся",
+      "synonyms_sr": [
+        "slični se privlače",
+        "svaka ptica svome jatu leti",
+        "naći sebi sličnog"
+      ],
+      "literal_ru": "подобный радуется подобному",
+      "register": "izreka; često ironično ili neodobravajuće, naročito o ljudima sa sličnim manama",
+      "examples": [
+        {
+          "serbian_latin": "„Sličan se sličnom raduje“: Sagovornici Danasa o odlasku Brnabić na inauguraciju venecuelanskog predsednika.",
+          "russian": "«Подобное тянется к подобному»: собеседники Danas об участии Брнабич в инаугурации президента Венесуэлы.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Ako je to ta koalicija, mogu samo da kažem: sličan se sličnom raduje.",
+          "russian": "Если это такая коалиция, могу сказать только одно: подобное тянется к подобному.",
+          "source": "Sport Klub / N1, 2016"
+        }
+      ],
+      "note": "Грамматически интересно второе sličnom: это дательный падеж, потому что radovati se требует датива — radovati se nekome / nečemu. Выражение может быть нейтральным о людях со сходными интересами, но в публицистике очень часто означает «нашли друг друга» с явной отрицательной оценкой.",
+      "keyword": "sličan se sličnom raduje"
+    },
+    {
       "headword_latin": "Slobodan kao ptica",
       "type": "frazeologizam",
       "definition_ru": "свободный как птица; совершенно свободный; ничем не связанный",
@@ -23113,6 +23191,32 @@
       ],
       "note": "Čudo здесь не обязательно «чудо» в положительном смысле: это любое необычное событие, вызывающее всеобщее внимание. Формула часто звучит довольно цинично применительно к общественным скандалам: сегодня все возмущены, через несколько дней тема исчезает.",
       "keyword": "svako čudo za tri dana"
+    },
+    {
+      "headword_latin": "Svako je kovač svoje sreće",
+      "type": "izreka",
+      "definition_ru": "каждый сам кузнец своего счастья; судьба во многом зависит от тебя самого",
+      "synonyms_sr": [
+        "sam krojiti svoju sudbinu",
+        "sam odlučivati o svom životu",
+        "preuzeti odgovornost za sebe"
+      ],
+      "literal_ru": "каждый — кузнец собственного счастья",
+      "register": "izreka, neutralno-poučno; naglašava ličnu odgovornost za sopstveni život i izbor",
+      "examples": [
+        {
+          "serbian_latin": "Svako je kovač svoje sreće, je l' tako?",
+          "russian": "Каждый сам кузнец своего счастья, ведь так?",
+          "source": "Nova.rs, 2020"
+        },
+        {
+          "serbian_latin": "Svako je kovač svoje sreće i svako je odgovoran za svoje postupke.",
+          "russian": "Каждый сам кузнец своего счастья и сам отвечает за свои поступки.",
+          "source": "Blic, 2010"
+        }
+      ],
+      "note": "Русская и сербская формулы совпадают почти буквально. Kovač — кузнец; образ предполагает, что человек сам «выковывает» свою судьбу. В зависимости от контекста выражение может звучать вдохновляюще, но также использоваться для подчёркивания личной ответственности за последствия выбора.",
+      "keyword": "kovač svoje sreće"
     },
     {
       "headword_latin": "Svako zašto ima svoje zato",
@@ -25919,6 +26023,32 @@
       ],
       "note": "Очень типична возвратная конструкция nešto se nekome vratilo kao bumerang: Odluka mu se vratila kao bumerang. Дательный обозначает того, кому последствия «вернулись». Русское «обернулось бумерангом» практически совпадает.",
       "keyword": "vratiti se kao bumerang"
+    },
+    {
+      "headword_latin": "Vreme leči sve rane",
+      "type": "izreka",
+      "definition_ru": "время лечит все раны; со временем боль проходит",
+      "synonyms_sr": [
+        "vreme ublažava bol",
+        "bol s vremenom prolazi",
+        "vreme donosi olakšanje"
+      ],
+      "literal_ru": "время лечит все раны",
+      "register": "izreka; obično utešna formula o duševnom bolu, gubitku ili raskidu",
+      "examples": [
+        {
+          "serbian_latin": "Kažu da vreme leči sve rane, uključujući i one nastale nakon raskida ljubavne veze.",
+          "russian": "Говорят, время лечит все раны, в том числе и после разрыва отношений.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Fraza „Vreme leči sve rane“ često se koristi kao uteha za one koji pate.",
+          "russian": "Фразу «время лечит все раны» часто используют, чтобы утешить страдающего человека.",
+          "source": "Zadovoljna / Nova.rs, 2025"
+        }
+      ],
+      "note": "Значение практически совпадает с русским. При этом выражение нередко намеренно оспаривают: vreme ne leči sve rane — время само по себе не устраняет тяжёлую душевную травму. Поэтому в живой речи это прежде всего традиционная формула утешения, а не буквальное психологическое утверждение.",
+      "keyword": "vreme leči sve rane"
     },
     {
       "headword_latin": "Vrteti nekoga oko malog prsta",
