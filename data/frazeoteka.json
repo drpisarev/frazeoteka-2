@@ -27,6 +27,32 @@
       "keyword": "Ahilova peta"
     },
     {
+      "headword_latin": "Ako Bog da",
+      "type": "izraz",
+      "definition_ru": "если Бог даст; даст Бог; если всё сложится благополучно",
+      "synonyms_sr": [
+        "ako bude sreće",
+        "nadam se",
+        "ako sve bude kako treba"
+      ],
+      "literal_ru": "если Бог даст",
+      "register": "tradicionalna formula; obično o budućem planu ili nadi; može biti iskreno religiozno ili sasvim konvencionalno",
+      "examples": [
+        {
+          "serbian_latin": "„Ako Bog da, kroz kratku budućnost doneti dosta slave...“",
+          "russian": "«Если Бог даст, в ближайшем будущем принести немало славы...»",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Sada, kada ima novi stan, „ako Bog da, nastaviće i dalje da proširuje svoju porodicu“.",
+          "russian": "Теперь, когда у него есть новая квартира, он, даст Бог, продолжит увеличивать семью.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Формула очень естественна в Сербии и не обязательно означает демонстративную религиозность: она может быть обычной оговоркой о будущем, которое не полностью зависит от говорящего. При обозначении Бога как божества нормативно Bog пишется с прописной буквы.",
+      "keyword": "Ako Bog da"
+    },
+    {
       "headword_latin": "Ako laže koza, ne laže rog",
       "type": "poslovica",
       "definition_ru": "факты не врут; доказательство налицо; против фактов не попрёшь",
@@ -2339,6 +2365,32 @@
       "keyword": "Bogu iza nogu"
     },
     {
+      "headword_latin": "Bolje da propadne selo nego običaj",
+      "type": "poslovica",
+      "definition_ru": "обычай превыше всего; пусть всё пропадёт, лишь бы традицию соблюсти",
+      "synonyms_sr": [
+        "običaj se mora poštovati",
+        "tradicija se čuva po svaku cenu",
+        "ne odricati se običaja"
+      ],
+      "literal_ru": "лучше пусть погибнет село, чем обычай",
+      "register": "poslovica; može biti odobravanje vernosti tradiciji, ali se veoma često koristi i ironično",
+      "examples": [
+        {
+          "serbian_latin": "Uloga običaja i njihovog međugeneracijskog prenošenja iskazana je i poslovicom „Bolje da propadne selo, nego običaj“.",
+          "russian": "Значение традиций и их передачи между поколениями выражено и пословицей «лучше пусть пропадёт село, чем обычай».",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Značaj čuvanja tradicije sažet je u narodnoj poslovici: „Bolje da propadne selo nego običaj“.",
+          "russian": "Значение сохранения традиции заключено в народной пословице: «лучше пусть пропадёт село, чем обычай».",
+          "source": "Politika, 2023"
+        }
+      ],
+      "note": "Буквальное содержание намеренно гиперболично. В традиционном контексте формула подчёркивает ценность преемственности, а в современной речи ею нередко высмеивают слепое следование привычке даже тогда, когда оно становится непрактичным.",
+      "keyword": "selo; običaj"
+    },
+    {
       "headword_latin": "Bolje ikad nego nikad",
       "type": "poslovica",
       "definition_ru": "лучше поздно, чем никогда; лучше сделать хоть когда-нибудь, чем не сделать вообще",
@@ -2512,6 +2564,32 @@
       ],
       "note": "Русское «зубами и когтями» близко, но сербский устойчиво использует nokti — «ногти». Выражение подчёркивает не просто большие усилия, а упорное сопротивление и нежелание уступать.",
       "keyword": "zubima i noktima"
+    },
+    {
+      "headword_latin": "Bože sačuvaj",
+      "type": "izraz",
+      "definition_ru": "не дай бог; упаси бог; ужас какой",
+      "synonyms_sr": [
+        "ne dao Bog",
+        "daleko bilo",
+        "nikako"
+      ],
+      "literal_ru": "Боже, сохрани",
+      "register": "ekspresivno; Bože je vokativ od Bog; može označavati strah od neželjenog događaja, snažno odbijanje ili pojačavati ocenu",
+      "examples": [
+        {
+          "serbian_latin": "Bože sačuvaj, srpski narod nije genocidan.",
+          "russian": "Боже упаси, сербский народ не является геноцидным.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Požar i nekako, a ovo je uništilo bože sačuvaj.",
+          "russian": "Пожар ещё куда ни шло, а это уничтожило всё — просто ужас.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Это не только буквальное обращение к Богу. В разговорном языке bože sačuvaj может быть готовой эмоциональной репликой «упаси бог!» или усилителем крайне плохой, а иногда просто чрезвычайной степени чего-либо. При буквальном религиозном употреблении Bog пишется с прописной буквы; в лексикализованном междометном употреблении в СМИ встречается и строчная.",
+      "keyword": "Bože sačuvaj"
     },
     {
       "headword_latin": "Brz kao vetar",
@@ -3332,6 +3410,32 @@
       ],
       "note": "Сегодня выражение означает попытку сделать что-либо так, чтобы окружающие не заметили настоящей цели. Vlasi — исторический этноним, который в разные эпохи и регионы имел разные референции; популярные рассказы о конкретном историческом эпизоде происхождения выражения надёжно не доказаны. Для современного употребления этнический смысл обычно стёрт, но русскому полезно знать, что внутри формулы сохраняется название народа.",
       "keyword": "Vlasi se ne dosete"
+    },
+    {
+      "headword_latin": "Daleko bilo",
+      "type": "izraz",
+      "definition_ru": "не дай бог; упаси бог; тьфу-тьфу, только не это",
+      "synonyms_sr": [
+        "Bože sačuvaj",
+        "ne dao Bog",
+        "pu-pu (razg.)"
+      ],
+      "literal_ru": "пусть это будет далеко",
+      "register": "razg., ekspresivno; apotropejska formula, često umetnuta između crta ili kao samostalna replika",
+      "examples": [
+        {
+          "serbian_latin": "„Još ću i da se išamaram“, dodao je, na šta je voditeljka rekla: „Daleko bilo“.",
+          "russian": "«Я ещё сам себя отлуплю», — сказал он, а ведущая ответила: «Не дай бог».",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Kad su u toj zemlji počele nestašice struje, moje kolege i ja rekli smo „daleko bilo“.",
+          "russian": "Когда там начались перебои с электричеством, мы сказали: «Тьфу-тьфу, только бы не у нас».",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Внутренняя логика выражения — отвести от себя нежелательное событие: «пусть это останется далеко». Поэтому оно особенно естественно после упоминания болезни, несчастья, кризиса или другого сценария, который говорящий боится «накликать».",
+      "keyword": "daleko bilo"
     },
     {
       "headword_latin": "Daleko mu lepa kuća",
@@ -4506,6 +4610,32 @@
       "keyword": "doći sebi"
     },
     {
+      "headword_latin": "Dođoh, videh, pobedih",
+      "type": "krilatica",
+      "definition_ru": "пришёл, увидел, победил; быстро и уверенно добиться успеха",
+      "synonyms_sr": [
+        "brzo pobediti",
+        "lako ostvariti uspeh",
+        "odmah trijumfovati"
+      ],
+      "literal_ru": "",
+      "register": "krilatica; srpska forma latinskog Veni, vidi, vici; često šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Dođoh, videh, pobedih.",
+          "russian": "Пришёл, увидел, победил.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Đoković: Dođoh, videh, pobedih.",
+          "russian": "Джокович: пришёл, увидел, победил.",
+          "source": "Politika, 2023"
+        }
+      ],
+      "note": "Формула восходит к знаменитому латинскому изречению Цезаря и в современной сербской речи обычно означает быстрый, эффектный триумф. Очень часто используется в заголовках о спорте, выборах, конкурсах и дебюте на новом месте.",
+      "keyword": "dođoh videh pobedih"
+    },
+    {
       "headword_latin": "Dok je veka, ima i leka",
       "type": "poslovica",
       "definition_ru": "пока жив — надежда есть; пока жизнь продолжается, найдётся и выход",
@@ -4560,6 +4690,58 @@
       ],
       "note": "Русское «что русскому хорошо, то немцу смерть» означает различие реакции людей на одно и то же, поэтому это не эквивалент. Сербская пословица говорит о другом: несчастье, потеря или исчезновение одного создаёт шанс другому. В определённых контекстах русское «кому война, а кому мать родна» может передавать эту мысль, но оно намного более жёсткое и обычно подразумевает наживу на чужой беде. Нейтральнее переводить «одному беда — другому удача».",
       "keyword": "dok jednom ne smrkne drugom ne svane"
+    },
+    {
+      "headword_latin": "Dok mačke nema, miševi kolo vode",
+      "type": "poslovica",
+      "definition_ru": "кот из дома — мыши в пляс; без начальства все распускаются",
+      "synonyms_sr": [
+        "raditi šta ko hoće",
+        "raspojasati se",
+        "iskoristiti odsustvo autoriteta"
+      ],
+      "literal_ru": "пока кошки нет, мыши водят хоровод",
+      "register": "poslovica, razg.; o situaciji kada u odsustvu rukovodioca ili autoriteta ostali počinju da se ponašaju slobodnije",
+      "examples": [
+        {
+          "serbian_latin": "U košarci sada se primenjuje poslovica „dok mačke nema, miševi kolo vode“.",
+          "russian": "В баскетболе сейчас действует принцип «кот из дома — мыши в пляс».",
+          "source": "N1, 2022"
+        },
+        {
+          "serbian_latin": "Baš to je možda idealna prilika da dok „mačke nema, miševi kolo vode“.",
+          "russian": "Возможно, отсутствие «кошки» как раз даёт «мышам» возможность разгуляться.",
+          "source": "Sport Klub, 2025"
+        }
+      ],
+      "note": "Русский эквивалент почти полный, но сербские мыши не просто «пляшут», а kolo vode — буквально водят традиционное балканское kolo. Выражение предполагает отсутствие того, кто обычно устанавливает правила или контролирует остальных.",
+      "keyword": "mačka; miševi"
+    },
+    {
+      "headword_latin": "Dok se dvojica svađaju, treći se koristi",
+      "type": "poslovica",
+      "definition_ru": "пока двое спорят, третий пользуется; третий выигрывает на чужом конфликте",
+      "synonyms_sr": [
+        "treći izvlači korist",
+        "treći profitira",
+        "iskoristiti tuđi sukob"
+      ],
+      "literal_ru": "пока двое ссорятся, третий пользуется",
+      "register": "poslovica; drugi deo je veoma varijabilan: treći se koristi, treći pobeđuje, treći profitira, treći koristi priliku",
+      "examples": [
+        {
+          "serbian_latin": "Prema onoj narodnoj „dok se dvojica svađaju, treći se koristi“, očigledno je da je pobednik neko treći.",
+          "russian": "По принципу «пока двое спорят, третий пользуется» победителем явно оказывается кто-то третий.",
+          "source": "Danas, 2007"
+        },
+        {
+          "serbian_latin": "Dok se dvojica svađaju, treći pobeđuje.",
+          "russian": "Пока двое выясняют отношения, выигрывает третий.",
+          "source": "Sport Klub, 2026"
+        }
+      ],
+      "note": "Здесь важна не конкретная формулировка второй половины, а устойчивая схема: конфликт двух сторон открывает возможность третьему получить выгоду. Поэтому вариантные глаголы не следует дробить на отдельные статьи.",
+      "keyword": "dvojica; treći"
     },
     {
       "headword_latin": "Dok si rekao keks",
@@ -5544,29 +5726,29 @@
     },
     {
       "headword_latin": "Dva loša ubiše Miloša",
-      "type": "poslovica",
-      "definition_ru": "двое слабых одолеют одного сильного; количеством можно задавить качество",
+      "type": "izreka",
+      "definition_ru": "двое слабых могут одолеть одного сильного; числом можно победить качество",
       "synonyms_sr": [
-        "broj nadjača kvalitet",
-        "udruženi slabiji mogu savladati jačeg",
-        "dvojica protiv jednoga"
+        "brojnost nadjača kvalitet",
+        "dvojica protiv jednog",
+        "udruženi slabiji mogu pobediti jačeg"
       ],
-      "literal_ru": "два плохих убили Милоша",
-      "register": "poslovica, iron.-neodobr.; često o većini koja nadvlada sposobnijeg ili jačeg pojedinca",
+      "literal_ru": "двое плохих убили Милоша",
+      "register": "poslovični izraz, često iron.; o koalicijama, glasanju, konkurenciji i udruživanju slabijih protiv jačeg",
       "examples": [
         {
           "serbian_latin": "Ne plašite se one narodne „dva loša ubiše Miloša“.",
-          "russian": "Не бойтесь этой народной мудрости: двое слабых ещё не обязательно одолеют одного сильного.",
+          "russian": "Не бойтесь этого народного «двое слабых одолели Милоша».",
           "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Jedan je „dva loša ubiše Miloša“, a drugi „da komšiji crkne krava“.",
-          "russian": "Один принцип — «двое слабых одолеют одного сильного», другой — «пусть у соседа корова сдохнет».",
+          "serbian_latin": "Srbija počiva na dva postulata. Jedan je „dva loša ubiše Miloša“.",
+          "russian": "Сербия держится на двух принципах. Один из них — «двое плохих одолели Милоша».",
           "source": "Danas, 2014"
         }
       ],
-      "note": "Loš здесь не обязательно означает морально «плохой»: речь может идти о двух более слабых, менее качественных против одного лучшего. Пословица особенно удобна для критики механического превосходства числом — в политике, спорте, голосовании. Русского точного устойчивого эквивалента нет.",
-      "keyword": "dva loša ubiše Miloša"
+      "note": "Выражение обычно подчёркивает преимущество количества над качеством: даже способного или сильного человека могут одолеть двое более слабых. Имя Miloš обеспечивает рифму и культурную узнаваемость, но точное историческое происхождение формулы надёжно не установлено.",
+      "keyword": "dva loša; Miloš"
     },
     {
       "headword_latin": "Đavo je odneo šalu",
@@ -6478,6 +6660,32 @@
       ],
       "note": "Русское «холодный душ» почти полностью совпадает. Сербское выражение особенно часто описывает новость, решение или результат, резко разрушающие прежние надежды: dobiti hladan tuš, doživeti hladan tuš. Это не просто любая неприятность, а именно контраст между ожиданием и реальностью.",
       "keyword": "hladan tuš"
+    },
+    {
+      "headword_latin": "Hleba i igara",
+      "type": "krilatica",
+      "definition_ru": "хлеба и зрелищ; отвлекать людей пропитанием и развлечениями",
+      "synonyms_sr": [
+        "zabavljati narod umesto rešavati probleme",
+        "kupovati mir zabavom",
+        "skretati pažnju spektaklom"
+      ],
+      "literal_ru": "хлеба и игр",
+      "register": "krilatica, knjiž.-publicistički, obično kritički",
+      "examples": [
+        {
+          "serbian_latin": "Jedan od osnovnih principa na kome je počivala vlast u Rimu sastojao se u onoj čuvenoj rečenici: Hleba i igara.",
+          "russian": "Один из принципов власти в Риме выражался знаменитым «хлеба и зрелищ».",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Stara izreka, još iz drevnog Rima kaže: „hleba i igara“.",
+          "russian": "Старинное выражение ещё из Древнего Рима гласит: «хлеба и зрелищ».",
+          "source": "Radio Beograd 1 / RTS, 2025"
+        }
+      ],
+      "note": "Это сербская версия латинского panem et circenses из сатиры Ювенала. Речь не просто о развлечении, а о критике власти, которая обеспечивает населению минимальные блага и зрелища вместо полноценного участия в общественной жизни. Русское «хлеба и зрелищ» совпадает по функции.",
+      "keyword": "hleba i igara"
     },
     {
       "headword_latin": "hodati / biti na tankom ledu",
@@ -10593,29 +10801,55 @@
     },
     {
       "headword_latin": "Ko zna zašto je to dobro",
-      "type": "replika",
-      "definition_ru": "кто знает, может, оно и к лучшему; нет худа без добра",
+      "type": "izreka",
+      "definition_ru": "кто знает, может, это и к лучшему; нет худа без добра",
       "synonyms_sr": [
         "možda je tako bolje",
         "možda iz toga izađe nešto dobro",
         "svako zlo za neko dobro"
       ],
-      "literal_ru": "",
-      "register": "ustaljena utešna replika, razg.; obično posle neprijatnog ili neočekivanog događaja",
+      "literal_ru": "кто знает, почему это хорошо",
+      "register": "izreka, razgovorno-filozofski; posle neprijatnog ili neočekivanog događaja kao pokušaj da se vidi mogući dobar ishod",
       "examples": [
         {
-          "serbian_latin": "Ovaj događaj je školski primer za onu izreku „ko zna zašto je to dobro“.",
-          "russian": "Этот случай — прекрасный пример выражения «кто знает, может, оно и к лучшему».",
-          "source": "Radio Beograd 1 / RTS, 2026"
+          "serbian_latin": "Nisu nas počastvovali time što su nam poslali Hila, ali kao što narod kaže – ko zna zašto je to dobro.",
+          "russian": "То, что нам прислали Хила, не подарок, но, как говорят, кто знает — может, это и к лучшему.",
+          "source": "RTS, 2021"
         },
         {
           "serbian_latin": "Postoji jedna izreka [...] koja glasi „ko zna zašto je to dobro“.",
-          "russian": "Есть такая поговорка: «кто знает, может, всё это и к лучшему».",
+          "russian": "Есть такое выражение: «кто знает, может, это и к лучшему».",
           "source": "Danas, 2024"
         }
       ],
-      "note": "Это очень характерная готовая реакция на неприятность, смысл которой пока невозможно увидеть: возможно, позднее она приведёт к хорошему результату. По-русски естественнее не вопросительное «кто знает, почему это хорошо», а «может, оно и к лучшему». Формула хорошо известна и по культовому сериалу Grlom u jagode, где она неоднократно вспоминается героем.",
+      "note": "Для сербской культурной памяти фраза особенно узнаваема благодаря сериалу Grlom u jagode: Bane Bumbar вспоминает её после неприятностей как любимую присказку старшей родственницы. Это не доказывает, что выражение возникло в сериале: оно живёт как самостоятельная разговорная формула оптимистического переосмысления неудачи.",
       "keyword": "ko zna zašto je to dobro"
+    },
+    {
+      "headword_latin": "Kocka je bačena",
+      "type": "krilatica",
+      "definition_ru": "жребий брошен; решение принято; пути назад нет",
+      "synonyms_sr": [
+        "odluka je pala",
+        "nema nazad",
+        "stvar je odlučena"
+      ],
+      "literal_ru": "игральная кость брошена",
+      "register": "krilatica, knjiž.-publicistički; o nepovratnoj odluci ili procesu koji je već pokrenut",
+      "examples": [
+        {
+          "serbian_latin": "Za prelazak Rubikona vezuje se znamenita njegova izjava: „Kocka je bačena“.",
+          "russian": "С переходом Рубикона связывают его знаменитое «жребий брошен».",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Kocka je bačena, kolo sreće se okreće, pa šta bude biće!",
+          "russian": "Жребий брошен, колесо судьбы крутится — будь что будет!",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Это сербское соответствие латинского alea iacta est, традиционно связанного с решением Юлия Цезаря перейти Рубикон. Русское «жребий брошен» является точным функциональным эквивалентом; переводить kocka как обычный «кубик» здесь не следует.",
+      "keyword": "kocka je bačena"
     },
     {
       "headword_latin": "Koga nema, bez njega se može",
@@ -10964,6 +11198,32 @@
       ],
       "note": "Kucati na sva vrata подчёркивает длительные и многочисленные попытки найти того, кто поможет; zakucati представляет такое обращение как более конкретный или решительный шаг. Для русского очень естественно «обивать пороги». Запоминается именно конструкция na sva vrata.",
       "keyword": "kucati na sva vrata"
+    },
+    {
+      "headword_latin": "Kucni u drvo",
+      "type": "replika",
+      "definition_ru": "постучи по дереву; тьфу-тьфу, чтобы не сглазить",
+      "synonyms_sr": [
+        "da se ne urekne",
+        "pu-pu (razg.)",
+        "da ne čuje zlo"
+      ],
+      "literal_ru": "стукни по дереву",
+      "register": "razg.; obično posle pominjanja nečega dobrog ili povoljnog kako se simbolično ne bi ureklo",
+      "examples": [
+        {
+          "serbian_latin": "Kucni u drvo da ne čuje zlo – skoro svakodnevno čujemo.",
+          "russian": "«Постучи по дереву, чтобы зло не услышало» — эту фразу слышишь почти ежедневно.",
+          "source": "Žena / Blic, 2016"
+        },
+        {
+          "serbian_latin": "Marija: Kucni u drvo.",
+          "russian": "Мария: Постучи по дереву, чтобы не сглазить.",
+          "source": "Blic, 2017"
+        }
+      ],
+      "note": "Kucni — повелительная форма от kucnuti, то есть «слегка стукни». В Сербии и других странах бывшей Югославии по дереву особенно часто стучат после положительного утверждения, чтобы оно не «пошло по злу». Происхождение обычая точно не установлено: существует несколько языческих и более поздних объяснений, поэтому ни одно из них не следует выдавать за доказанную этимологию.",
+      "keyword": "kucni u drvo"
     },
     {
       "headword_latin": "Kud svi Turci, tu i mali Mujo",
@@ -12649,6 +12909,32 @@
       "keyword": "jezik"
     },
     {
+      "headword_latin": "Nada poslednja umire",
+      "type": "izreka",
+      "definition_ru": "надежда умирает последней; пока есть надежда, не всё потеряно",
+      "synonyms_sr": [
+        "ne gubiti nadu",
+        "nadati se do kraja",
+        "dok ima nade, ima šanse"
+      ],
+      "literal_ru": "надежда умирает последней",
+      "register": "izreka; naročito često u sportu, teškim životnim situacijama i očekivanju malo verovatnog dobrog ishoda",
+      "examples": [
+        {
+          "serbian_latin": "Nada poslednja umire i dajemo sve od sebe do poslednjeg momenta.",
+          "russian": "Надежда умирает последней, и мы делаем всё возможное до самого конца.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Nada poslednja umire, ali večeras je i njoj istekao životni vek.",
+          "russian": "Надежда умирает последней, но сегодня и она окончательно умерла.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Сербская и русская формулы совпадают полностью. Очень характерна ироническая игра с буквальным «умиранием» надежды, когда последний математический или практический шанс окончательно исчезает.",
+      "keyword": "nada poslednja umire"
+    },
+    {
       "headword_latin": "Nadohvat ruke",
       "type": "izraz",
       "definition_ru": "рукой подать; совсем близко; в пределах досягаемости",
@@ -13089,6 +13375,32 @@
       ],
       "note": "Выражение обозначает неблагополучную ситуацию вообще, а не обязательно полный провал: проблемы есть, дела идут хуже желаемого. Часто употребляется с лёгкой иронией. Русскому буквальные «розы не цветут» ничего не подсказывают; лучше «не всё гладко», «дела неважны».",
       "keyword": "ne cvetaju ruže"
+    },
+    {
+      "headword_latin": "Ne dao Bog",
+      "type": "izraz",
+      "definition_ru": "не дай бог; упаси бог; только бы этого не случилось",
+      "synonyms_sr": [
+        "Bože sačuvaj",
+        "daleko bilo",
+        "nikako da se desi"
+      ],
+      "literal_ru": "не дал бы Бог",
+      "register": "ekspresivno; često Ne dao Bog da + prezent ili kao samostalna umetnuta replika",
+      "examples": [
+        {
+          "serbian_latin": "Ne dao Bog da uzvratimo zlom.",
+          "russian": "Не дай бог нам отвечать злом.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ne dao bog nikome da bude prioritetni pacijent.",
+          "russian": "Не дай бог никому оказаться пациентом, которого принимают в приоритетном порядке.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "В отличие от обращения Bože sačuvaj, здесь грамматически оформлено пожелание, чтобы событие не произошло: Ne dao Bog da... Русское «не дай бог» совпадает почти полностью. В СМИ встречается и строчное bog, особенно когда выражение воспринимается как лексикализованная разговорная формула.",
+      "keyword": "Ne dao Bog"
     },
     {
       "headword_latin": "Ne dati ni pet para za nekoga / nešto",
@@ -13900,6 +14212,32 @@
       "keyword": "nema zime"
     },
     {
+      "headword_latin": "Nemati blage veze",
+      "type": "frazeologizam",
+      "definition_ru": "понятия не иметь; не иметь ни малейшего представления; совершенно не знать",
+      "synonyms_sr": [
+        "nemati pojma",
+        "ne znati ništa o tome",
+        "biti potpuno neupućen"
+      ],
+      "literal_ru": "",
+      "register": "razg., veoma često; obično nemam / nemaš / nema blage veze + gde, kako, zašto, odakle",
+      "examples": [
+        {
+          "serbian_latin": "Nemam blage veze gde se nalazio zvučni top.",
+          "russian": "Понятия не имею, где находилась звуковая пушка.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Uopšte nije bio u bolnici i nemam blage veze odakle to medijima.",
+          "russian": "Он вообще не был в больнице, и я понятия не имею, откуда СМИ это взяли.",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Для русского это очень полезная разговорная формула: nemam blage veze по силе обычно соответствует «понятия не имею». Существительное veza не следует здесь понимать буквально как «связь»: сочетание запоминается целиком и почти всегда употребляется с отрицанием.",
+      "keyword": "blage veze"
+    },
+    {
       "headword_latin": "Nemati ni kučeta ni mačeta",
       "type": "frazeologizam",
       "definition_ru": "быть совершенно одному; не иметь ни семьи, ни близких; не иметь никого своего",
@@ -13925,6 +14263,33 @@
       ],
       "note": "Здесь речь прежде всего об отсутствии собственной семьи и близких, а не буквально домашних животных. В зависимости от контекста выражение может передавать одиночество, отсутствие обязательств или ироническое «тебя никто не ждёт». Русское «ни кола ни двора» не всегда подходит, потому что оно сильнее связано с имуществом.",
       "keyword": "ni kučeta ni mačeta"
+    },
+    {
+      "headword_latin": "Nemati tri čiste",
+      "type": "frazeologizam",
+      "definition_ru": "не хватать духу; не иметь смелости; не решаться",
+      "synonyms_sr": [
+        "nemati hrabrosti",
+        "ne smeti",
+        "ne usuditi se",
+        "biti plašljiv"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; tipično nemati tri čiste da + prezent",
+      "examples": [
+        {
+          "serbian_latin": "Mnogi nemaju tri čiste ni frizuru da promene, a kamoli žanr.",
+          "russian": "Многим духу не хватает даже причёску сменить, не то что музыкальный жанр.",
+          "source": "Blic, 2012"
+        },
+        {
+          "serbian_latin": "Prepustim se da neko drugi upravlja, što inače nemam tri čiste da radim.",
+          "russian": "Я позволяю кому-то другому управлять, хотя обычно мне на такое духу не хватает.",
+          "source": "Vreme, 2015"
+        }
+      ],
+      "note": "Для сербского традиционного употребления хорошо подтверждено значение «не иметь смелости, не решаться»: это фиксируется и в лингвистической литературе о сербской фразеологии. В современной речи встречается и вторичное значение «не соображать, не иметь понятия», особенно в конструкции nemati tri čiste u glavi, поэтому контекст важен. Не путать с nemati blage veze, где значение «понятия не иметь» является основным.",
+      "keyword": "tri čiste"
     },
     {
       "headword_latin": "Neprskano",
@@ -14723,6 +15088,32 @@
       ],
       "note": "Сербская и русская пословицы совпадают почти дословно. Sijati здесь — «блестеть, сиять», а не только «светить». Выражение применимо не только к вещам, но и к людям, эпохам, политическим обещаниям, работе и вообще всему, что производит слишком привлекательное первое впечатление.",
       "keyword": "nije zlato sve što sija"
+    },
+    {
+      "headword_latin": "Niko nije prorok u svom selu",
+      "type": "izreka",
+      "definition_ru": "нет пророка в своём отечестве; своих часто не ценят дома",
+      "synonyms_sr": [
+        "kod kuće te najmanje cene",
+        "domaći uspeh se teško priznaje",
+        "strani uspeh donosi domaće priznanje"
+      ],
+      "literal_ru": "никто не пророк в своей деревне",
+      "register": "izreka, knjiž.-razg.; o čoveku koji priznanje prvo dobije van sopstvene sredine",
+      "examples": [
+        {
+          "serbian_latin": "Odavno je rečeno da niko nije prorok u svom selu.",
+          "russian": "Давно сказано: нет пророка в своём отечестве.",
+          "source": "Politika, 2006"
+        },
+        {
+          "serbian_latin": "Zato se i kaže da „niko nije prorok u svom selu“.",
+          "russian": "Потому и говорят: «нет пророка в своём отечестве».",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "У выражения библейская основа, но сербская пословичная форма использует конкретный образ selo — «село, деревня». Русскому естественно переводить устойчивым «нет пророка в своём отечестве», а не сохранять деревню.",
+      "keyword": "prorok u svom selu"
     },
     {
       "headword_latin": "Nisam sisao vesla",
@@ -20896,27 +21287,27 @@
     {
       "headword_latin": "Sila Boga ne moli",
       "type": "poslovica",
-      "definition_ru": "сила с правом не считается; грубая сила разрешения не спрашивает; перед силой доводы бессильны",
+      "definition_ru": "грубая сила ни с чем не считается; сила действует без спроса",
       "synonyms_sr": [
         "sila ne pita",
         "jači nameće svoju volju",
-        "moć ne traži dozvolu"
+        "moć ne mari za pravila"
       ],
-      "literal_ru": "сила Бога не просит",
-      "register": "poslovica, knjiž.-narodno; obično kritički o sili koja ignoriše norme, pravo ili tuđu volju",
+      "literal_ru": "сила Бога не молит / не просит",
+      "register": "poslovica, upozoravajuće; često u punoj formi Sila Boga ne moli, ali ni Bog silu ne voli",
       "examples": [
         {
-          "serbian_latin": "Molitva [...] odstupa, povlači se [...] jer „Sila Boga ne moli“.",
-          "russian": "Молитве приходится отступить, потому что сила ни у кого разрешения не спрашивает.",
-          "source": "Danas, 2020"
+          "serbian_latin": "Sila Boga ne moli, ali ni Bog silu ne voli.",
+          "russian": "Сила ни с чем не считается, но и Богу насилие неугодно.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Sila Boga ne moli, ali ni Bog silu ne voli.",
-          "russian": "Сила Бога не просит, но и Бог силы не любит.",
-          "source": "RTS, 2025"
+          "serbian_latin": "Molitva nažalost odstupa [...] jer „Sila Boga ne moli“.",
+          "russian": "Молитва, увы, отступает, потому что сила ни с чем не считается.",
+          "source": "Danas, 2020"
         }
       ],
-      "note": "Формулу нередко продолжают: ali ni Bog silu ne voli, тем самым осуждая насилие, а не прославляя его. Русское «сила есть — ума не надо» иногда подходит по ситуации, но оно насмешливее и смещает акцент на отсутствие ума. Сербская пословица прежде всего о том, что обладатель силы способен не считаться с правилами и возражениями.",
+      "note": "Короткая половина описывает реальность грубой силы: тот, у кого власть или физическое превосходство, может не спрашивать разрешения. Полная форма добавляет моральный противовес — ali ni Bog silu ne voli, то есть насилие от этого не становится правым.",
       "keyword": "sila Boga ne moli"
     },
     {
@@ -21484,28 +21875,28 @@
     {
       "headword_latin": "Sloga kuću gradi",
       "type": "poslovica",
-      "definition_ru": "где лад, там и клад; согласием дом строится; совместными силами можно многого добиться",
+      "definition_ru": "согласие дом строит; вместе можно многого добиться; где согласие, там и лад",
       "synonyms_sr": [
-        "u slozi je snaga",
-        "zajedništvo donosi uspeh",
-        "složni mogu mnogo"
+        "zajedništvom do cilja",
+        "zajedno smo jači",
+        "gde ima sloge, ima napretka"
       ],
       "literal_ru": "согласие строит дом",
-      "register": "poslovica, odobr.; o porodici, kolektivu, susedima i zajednici",
+      "register": "poslovica, odobr.; često se proširuje drugim delom o razornoj snazi nesloge",
       "examples": [
         {
-          "serbian_latin": "Ona narodna „sloga kuću gradi“ i doslovce može pokazati na delu.",
-          "russian": "Народную мудрость «согласием дом строится» здесь можно увидеть буквально.",
-          "source": "Danas, 2016"
+          "serbian_latin": "Sloga kuću gradi. Uvek bilo.",
+          "russian": "Согласие дом строит. Так было всегда.",
+          "source": "RTS, 2021"
         },
         {
-          "serbian_latin": "Sloga kuću gradi. Uvek bilo.",
-          "russian": "Согласие дом строит. Так всегда было.",
-          "source": "RTS, 2019"
+          "serbian_latin": "Sloga kuću gradi, a nesloga ruši.",
+          "russian": "Согласие дом строит, а раздор разрушает.",
+          "source": "Blic, 2021"
         }
       ],
-      "note": "Sloga — не просто «согласие» во мнениях, а лад, сплочённость, способность действовать сообща. Поэтому пословица естественно применяется не только к семье и дому, но и к селу, команде, организации. Русское «где лад, там и клад» хорошо передаёт прагматический смысл, хотя образ иной.",
-      "keyword": "sloga kuću gradi"
+      "note": "Короткая форма Sloga kuću gradi совершенно самостоятельна. Вторая половина не закреплена в одном-единственном варианте: встречаются a nesloga ruši, razgrađuje, uništava. Поэтому в заголовке лучше сохранять устойчивую первую часть.",
+      "keyword": "sloga"
     },
     {
       "headword_latin": "smejati se kao lud na brašno",
@@ -22171,6 +22562,32 @@
       ],
       "note": "Формула близка латинскому fortuna audaces iuvat и широко употребляется как самостоятельное современное изречение. Русское «смелым сопутствует удача» звучит несколько книжно; в разговорной речи естественно и «удача любит смелых».",
       "keyword": "sreća prati hrabre"
+    },
+    {
+      "headword_latin": "Sreća u nesreći",
+      "type": "frazeologizam",
+      "definition_ru": "счастье в несчастье; удачное обстоятельство в плохой ситуации; нет худа без добра",
+      "synonyms_sr": [
+        "dobra strana loše situacije",
+        "povoljna okolnost u nevolji",
+        "ipak imati sreće"
+      ],
+      "literal_ru": "счастье в несчастье",
+      "register": "neutralno-razg.; naročito često sreća u nesreći je što...",
+      "examples": [
+        {
+          "serbian_latin": "Sreća u nesreći je što on ima po roditeljima poreklo iz Srbije.",
+          "russian": "Счастье в несчастье в том, что по родителям он имеет сербское происхождение.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "U ovoj pandemiji sreća u nesreći je to što svako ko se nakašljao dobio snimak pluća.",
+          "russian": "Счастье в несчастье этой пандемии в том, что кашлявшим стали делать снимки лёгких.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Русское «счастье в несчастье» совпадает буквально, а «нет худа без добра» часто звучит естественнее как свободный перевод. Выражение не превращает плохое событие в хорошее: оно выделяет одну благоприятную деталь внутри в целом неприятной ситуации.",
+      "keyword": "sreća u nesreći"
     },
     {
       "headword_latin": "stajati kao ukopan",
@@ -23938,25 +24355,25 @@
       "definition_ru": "не откладывай на завтра то, что можно сделать сегодня",
       "synonyms_sr": [
         "ne odlaži",
-        "uradi odmah",
-        "završi na vreme"
+        "uradi na vreme",
+        "ne ostavljaj obaveze za kasnije"
       ],
       "literal_ru": "",
-      "register": "poslovica, opšteupotrebljivo; varijante ono / sve što možeš danas, ne ostavljaj za sutra",
+      "register": "poslovica; rasprostranjena je i varijanta Sve što možeš danas, ne ostavljaj za sutra",
       "examples": [
         {
-          "serbian_latin": "Narodna poslovica kaže – ono što možeš danas ne ostavljaj za sutra.",
-          "russian": "Народная пословица гласит: не откладывай на завтра то, что можно сделать сегодня.",
-          "source": "Beograd 202 / RTS, 2021"
+          "serbian_latin": "Sve što možeš danas, ne ostavljaj za sutra.",
+          "russian": "Не откладывай на завтра то, что можно сделать сегодня.",
+          "source": "Danas, 2011"
         },
         {
           "serbian_latin": "Sve što možeš danas, ne ostavljaj za sutra.",
-          "russian": "Всё, что можешь сделать сегодня, не откладывай на завтра.",
-          "source": "Danas, 2011"
+          "russian": "Всё, что можешь сделать сегодня, не оставляй на завтра.",
+          "source": "Danas, 2019"
         }
       ],
-      "note": "Сербская и русская формулы почти дословно совпадают. Важно, что сербский обычно использует совершенный результативный смысл через ostavljati za sutra — буквально «оставлять на завтра», а не специальный глагол со значением «прокрастинировать».",
-      "keyword": "što možeš danas ne ostavljaj za sutra"
+      "note": "Варианты с što и sve što равноправно встречаются в современной речи. Русский эквивалент совпадает почти дословно. Фраза особенно естественна как совет против odlaganje obaveza — откладывания дел.",
+      "keyword": "danas; sutra"
     },
     {
       "headword_latin": "Što na um, to na drum",
@@ -25445,6 +25862,32 @@
       "keyword": "uljudne fraze"
     },
     {
+      "headword_latin": "Um caruje, snaga klade valja",
+      "type": "poslovica",
+      "definition_ru": "ум сильнее грубой силы; умом добиваются большего, чем силой",
+      "synonyms_sr": [
+        "pamet je jača od sile",
+        "mudrošću do cilja",
+        "pamet pobeđuje snagu"
+      ],
+      "literal_ru": "ум царствует, сила брёвна ворочает",
+      "register": "poslovica; javlja se i obrnut redosled delova: Snaga klade valja, a um caruje",
+      "examples": [
+        {
+          "serbian_latin": "Novak o MVP Jokiću: Um caruje, snaga klade valja!",
+          "russian": "Новак о Йокиче — MVP: «Ум правит, а сила брёвна ворочает!»",
+          "source": "Sport Klub, 2021"
+        },
+        {
+          "serbian_latin": "„Um caruje, snaga klade valja“, napisao je Siniša Mali.",
+          "russian": "«Ум царствует, сила брёвна ворочает», — написал Синиша Мали.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Klada — толстое бревно, колода. Пословица противопоставляет интеллектуальную власть грубой физической силе: сила способна двигать тяжести, но решение и руководство принадлежат уму. Для русского буквальный перевод понятен, но как пословица он не закреплён.",
+      "keyword": "um; snaga"
+    },
+    {
       "headword_latin": "Upasti nekome sekira u med",
       "type": "frazeologizam",
       "definition_ru": "сказочно повезти; сорвать куш; неожиданно оказаться в чрезвычайно выгодной ситуации",
@@ -26927,6 +27370,32 @@
       ],
       "note": "После pred употребляется творительный падеж: pred problemom, nasiljem, nepravdom, činjenicama. Выражение подразумевает, что человек знает о проблеме, но намеренно отказывается реагировать. Совершенный вид — zatvoriti oči pred nečim.",
       "keyword": "oči"
+    },
+    {
+      "headword_latin": "Zavadi pa vladaj",
+      "type": "krilatica",
+      "definition_ru": "разделяй и властвуй; поссорь людей и управляй ими",
+      "synonyms_sr": [
+        "podeli pa vladaj",
+        "izazivati podele radi vlasti",
+        "vladati preko sukoba"
+      ],
+      "literal_ru": "поссорь — и властвуй",
+      "register": "krilatica, neodobr.; odgovara latinskom divide et impera",
+      "examples": [
+        {
+          "serbian_latin": "Latinska izreka „Zavadi pa vladaj“...",
+          "russian": "Латинское изречение «разделяй и властвуй»...",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Na delu je [...] metod „Zavadi pa vladaj“.",
+          "russian": "В действии — метод «разделяй и властвуй».",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Формула соответствует латинскому divide et impera. Её часто приписывают Цезарю и другим историческим правителям, однако надёжно связывать происхождение с одним конкретным автором не стоит. В современном языке это прежде всего обозначение сознательного разжигания конфликтов ради сохранения контроля.",
+      "keyword": "zavadi pa vladaj"
     },
     {
       "headword_latin": "zaviti nekoga / nešto u crno",
