@@ -10249,6 +10249,32 @@
       "keyword": "jama"
     },
     {
+      "headword_latin": "Ko gubi, ima pravo da se ljuti",
+      "type": "izreka",
+      "definition_ru": "проигравший имеет право сердиться; проигрывать обидно; проиграл — можешь позлиться",
+      "synonyms_sr": [
+        "poraz teško pada",
+        "gubitnik može biti ljut",
+        "ljutiti se zbog poraza"
+      ],
+      "literal_ru": "кто проигрывает, имеет право сердиться",
+      "register": "izreka, razg., često iron. ili zadirkujuće; naročito posle izbora, utakmice, rasprave ili takmičenja",
+      "examples": [
+        {
+          "serbian_latin": "Ko gubi, ima pravo da se ljuti.",
+          "russian": "Проигравший имеет право сердиться.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Kao i na svakim izborima, ko gubi, ima pravo da se ljuti. I da izmišlja prevare, kao i sada.",
+          "russian": "Как и на любых выборах, проигравший имеет право позлиться. А заодно, как сейчас, начать рассказывать о махинациях.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Формула обычно произносится победителем или сторонним наблюдателем и потому легко приобретает снисходительный оттенок: «ну, проиграли — теперь сердитесь». Она не означает настоящего «права» на любое поведение после поражения. В русском точной столь же устойчивой пословицы нет.",
+      "keyword": "ko gubi"
+    },
+    {
       "headword_latin": "Ko ne plati na mostu, platiće na ćupriji",
       "type": "poslovica",
       "definition_ru": "если не заплатишь сейчас, потом заплатишь дороже; от расплаты не уйдёшь",
@@ -10798,6 +10824,32 @@
       ],
       "note": "Пословица может осуждать заносчивость, но нередко применяется и шире — к чрезмерным ожиданиям или слишком резкому карьерному взлёту. Русское «больно падать» часто естественнее буквального «низко падает».",
       "keyword": "visoko leti"
+    },
+    {
+      "headword_latin": "Ko voli, nek izvoli",
+      "type": "replika",
+      "definition_ru": "кому нравится — пожалуйста; кто хочет — пусть делает; на вкус и цвет",
+      "synonyms_sr": [
+        "ko želi, slobodno",
+        "kome se sviđa, neka izvoli",
+        "svako po svom ukusu"
+      ],
+      "literal_ru": "кто любит / кому нравится — пусть изволит",
+      "register": "razg.; može biti prijateljski dopuštajuće ili blago distancirano",
+      "examples": [
+        {
+          "serbian_latin": "Nisam nikada posećivala nudističku plažu, ali vodim se parolom ko voli nek izvoli.",
+          "russian": "Я никогда не ходила на нудистский пляж, но придерживаюсь принципа: кому нравится — пожалуйста.",
+          "source": "Blic, 2020"
+        },
+        {
+          "serbian_latin": "Pa ko ume, i ko voli, nek izvoli.",
+          "russian": "Ну а кто умеет и кому хочется — пожалуйста.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "Izvoli — повелительная форма от izvoleti, но в современном языке это прежде всего формула приглашения или разрешения: «пожалуйста, действуйте». Поэтому всё выражение не переводится буквально через «любить». Очень живой шаблон: ko voli nek izvoli, ko hoće nek izvoli.",
+      "keyword": "ko voli nek izvoli"
     },
     {
       "headword_latin": "Ko zna zašto je to dobro",
@@ -20083,6 +20135,32 @@
       "keyword": "prstom ne mrdnuti"
     },
     {
+      "headword_latin": "Prvi mačići se u vodu bacaju",
+      "type": "poslovica",
+      "definition_ru": "первый блин комом; первая попытка редко бывает идеальной; на первой пробе не судят",
+      "synonyms_sr": [
+        "prvi pokušaj ne mora uspeti",
+        "početničke greške su normalne",
+        "treba pokušati ponovo"
+      ],
+      "literal_ru": "первых котят бросают в воду",
+      "register": "poslovica, razg.; obično kao blag komentar na neuspešan prvi pokušaj, debi ili prvu verziju nečega",
+      "examples": [
+        {
+          "serbian_latin": "Prvi mačići se u vodu bacaju.",
+          "russian": "Первый блин комом.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "Naš narod ima dve dobre izreke, koje su suštinski suprotne: „Po jutru se dan poznaje“ i „Prvi mačići se u vodu bacaju“.",
+          "russian": "У нашего народа есть две хорошие, по сути противоположные поговорки: «день виден по утру» и «первый блин комом».",
+          "source": "Politika, 2022"
+        }
+      ],
+      "note": "Выражение советует не делать окончательных выводов по первому результату: дебют может быть несовершенным, а следующая попытка — значительно лучше. Русское «первый блин комом» функционально почти идеально. Буквальный образ довольно жёсткий; популярные рассказы о его происхождении существуют, но надёжную этимологию без специального источника утверждать не следует.",
+      "keyword": "prvi mačići"
+    },
+    {
       "headword_latin": "Prvo pa muško",
       "type": "izreka",
       "definition_ru": "с первого раза — удача; сразу попасть в десятку; первый заход — и сразу успех",
@@ -23793,28 +23871,28 @@
     {
       "headword_latin": "Svakog gosta tri dana dosta",
       "type": "poslovica",
-      "definition_ru": "гость хорош недолго; засидевшийся гость становится в тягость",
+      "definition_ru": "засидевшийся гость в тягость; гостю рады, пока он не загостился; хорошего понемножку",
       "synonyms_sr": [
-        "gost ne treba da se zadržava predugo",
-        "svakom gostovanju dođe kraj",
-        "gostoprimstvo ima granice"
+        "gost ne treba da se zadrži predugo",
+        "dug boravak gosta zamara domaćina",
+        "svega dosta u pravo vreme"
       ],
-      "literal_ru": "любого гостя на три дня достаточно",
-      "register": "poslovica, često šalj.; tri dana nisu doslovno pravilo već tradicionalni obraz",
+      "literal_ru": "всякого гостя достаточно на три дня",
+      "register": "poslovica, često šalj.; o gostima koji se zadržavaju predugo; preneseno o nečemu što je dobro samo u ograničenoj meri",
       "examples": [
         {
           "serbian_latin": "„Svakog gosta tri dana dosta“, „Gostima se dva puta veselimo; kad dolaze i kad odlaze“.",
-          "russian": "«Гостя хорошо принимать, но не слишком долго»; гостям радуются дважды — когда они приезжают и когда уезжают.",
+          "russian": "«Засидевшийся гость в тягость»; «гостям дважды радуются — когда они приходят и когда уходят».",
           "source": "Danas, 2019"
         },
         {
-          "serbian_latin": "Svakog gosta tri dana dosta: Zašto kralj Esvatinija boravi četiri dana u zvaničnoj poseti Srbiji?",
-          "russian": "«Три дня для любого гостя достаточно»: почему король Эсватини находится в Сербии четыре дня?",
-          "source": "Danas, 2024"
+          "serbian_latin": "Svakog gosta tri dana dosta, ali mi smo iskoristili gostoljubivost Arsenal festa i Kragujevca, i ostali i četvrti dan.",
+          "russian": "Гостю и трёх дней достаточно, но мы воспользовались гостеприимством Arsenal Festa и Крагуевца и остались ещё на четвёртый день.",
+          "source": "Danas, 2023"
         }
       ],
-      "note": "Это одна из узнаваемых сербских формул о гостеприимстве: гостя следует хорошо принять, но и самому гостю важно знать меру. Число tri здесь традиционно и не устанавливает реального трёхдневного этикета. Русские «гость хорош, пока не засиделся» и шутливое «гости, как рыба, на третий день...» функционально близки, но последнее не является точной сербской формулой.",
-      "keyword": "svakog gosta tri dana dosta"
+      "note": "Число «три» в современной речи не следует понимать как буквальное правило гостеприимства: смысл в том, что даже приятное присутствие может утомить, если слишком затянется. Danas называет эту формулу одной из наиболее известных местных поговорок о гостях. Русскому естественнее «засидевшийся гость в тягость», чем буквальный перевод.",
+      "keyword": "svakog gosta"
     },
     {
       "headword_latin": "Sve će to narod pozlatiti",
@@ -24321,6 +24399,32 @@
       ],
       "note": "Kus значит «куцый, укороченный, неполный»; поэтому образ пословицы — результат, которому из-за спешки чего-то недостаёт. Сербские носители сами нередко поясняют её через navrat-nanos, «на скорую руку». Русский эквивалент «поспешишь — людей насмешишь» передаёт функцию лучше буквального перевода.",
       "keyword": "što je brzo to je kuso"
+    },
+    {
+      "headword_latin": "Što je džabe i Bogu je drago",
+      "type": "izreka",
+      "definition_ru": "даром и уксус сладкий; бесплатное всем нравится; если бесплатно — почему бы не взять",
+      "synonyms_sr": [
+        "džabe je pa valja",
+        "besplatno svi vole",
+        "uzeti jer ništa ne košta"
+      ],
+      "literal_ru": "что бесплатно, то и Богу мило",
+      "register": "poslovični izraz, razg., šalj.-iron.; o privlačnosti besplatnih stvari, čak i kada nisu naročito potrebne ili vredne",
+      "examples": [
+        {
+          "serbian_latin": "Što je džabe i Bogu je drago. Besplatni daunloud pomaže da se predstaviš većem broju slušalaca.",
+          "russian": "Даром и уксус сладкий: бесплатное скачивание помогает представить себя большему числу слушателей.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Pod omiljenim im geslom „što je džabe i bogu je drago“, [...] uprava je skrojila jedan od najgorih prelaznih rokova.",
+          "russian": "Руководство, следуя любимому принципу «раз бесплатно — надо брать», провело один из худших трансферных периодов.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Džabe здесь значит именно «бесплатно», а не другое его частое значение «напрасно». Выражение часто иронизирует над желанием взять ненужную или посредственную вещь исключительно потому, что за неё не надо платить. В нормативном написании при обозначении Бога — Bogu с прописной буквы; в газетах встречается и строчная из-за лексикализации формулы.",
+      "keyword": "što je džabe"
     },
     {
       "headword_latin": "Što je sigurno, sigurno je",
