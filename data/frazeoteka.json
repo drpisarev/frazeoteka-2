@@ -3367,14 +3367,14 @@
     {
       "headword_latin": "Daleko od očiju, daleko od srca",
       "type": "izreka",
-      "definition_ru": "с глаз долой — из сердца вон; вдали быстро забывают",
+      "definition_ru": "с глаз долой — из сердца вон; разлука ослабляет привязанность",
       "synonyms_sr": [
-        "ono što ne viđamo zaboravljamo",
+        "zaboraviti nekoga kad nije prisutan",
         "udaljenost hladi osećanja",
-        "zaboraviti nekoga ko je daleko"
+        "odsustvo slabi bliskost"
       ],
       "literal_ru": "далеко от глаз — далеко от сердца",
-      "register": "poslovica / izreka; o ljudima, problemima i događajima koji manje zaokupljaju kada ih ne vidimo",
+      "register": "poslovični izraz; često se javlja i u izmenjenoj formi sa negacijom",
       "examples": [
         {
           "serbian_latin": "Daleko od očiju, daleko od srca. Po tom principu funkcionišu i društvene mreže.",
@@ -3382,13 +3382,13 @@
           "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Ponašali su se po onoj narodnoj: „Daleko od očiju, daleko od srca.“",
-          "russian": "Они действовали по принципу «с глаз долой — из сердца вон».",
-          "source": "RTS, 2012"
+          "serbian_latin": "Šta se događa sa ljudima [...] koji su „daleko od očiju, daleko od srca“, narodski rečeno?",
+          "russian": "Что происходит с людьми, которые, как говорится, «с глаз долой — из сердца вон»?",
+          "source": "N1, 2023"
         }
       ],
-      "note": "Русский эквивалент почти идеален. Сербское выражение может касаться не только отношений: например, власти забывают об удалённых сёлах или общество — о проблемах, которые не видит непосредственно. Часто встречается намеренное отрицание: daleko od očiju nije daleko od srca.",
-      "keyword": "daleko od očiju daleko od srca"
+      "note": "Образ совпадает с русским, но русская формула обычно категоричнее: «с глаз долой — из сердца вон». Сербское выражение часто применяют шире — не только к любви, но и к людям, территориям или проблемам, которым перестают уделять внимание, поскольку их не видно непосредственно.",
+      "keyword": "daleko od očiju"
     },
     {
       "headword_latin": "Damoklov mač",
@@ -6406,25 +6406,25 @@
       "definition_ru": "куй железо, пока горячо; действуй, пока момент подходящий",
       "synonyms_sr": [
         "iskoristiti pravi trenutak",
-        "delovati na vreme",
-        "ne propustiti priliku"
+        "ne propustiti priliku",
+        "delovati dok je vreme"
       ],
-      "literal_ru": "железо куют, пока оно горячее",
-      "register": "poslovica; o potrebi da se odmah iskoristi povoljna prilika",
+      "literal_ru": "железо куют, пока оно горячо",
+      "register": "poslovica; o potrebi da se deluje na vreme dok postoje povoljni uslovi",
       "examples": [
         {
-          "serbian_latin": "Ako nema spremnu pesmu, da je pod hitno snima i izbacuje, jer gvožđe se kuje dok je vruće.",
-          "russian": "Если песня ещё не готова, нужно срочно её записывать и выпускать: куй железо, пока горячо.",
-          "source": "Prva, 2026"
+          "serbian_latin": "Gvožđe se zaista kuje dok je vruće.",
+          "russian": "Железо действительно нужно ковать, пока горячо.",
+          "source": "RTS, 2018"
         },
         {
-          "serbian_latin": "Posle ću proći, kad se vratim, gvožđe se kuje dok je vruće.",
-          "russian": "Я потом заеду, когда вернусь: куй железо, пока горячо.",
-          "source": "Telegraf, 2025"
+          "serbian_latin": "Stara narodna izreka kaže: „Gvožđe se kuje dok je vruće“.",
+          "russian": "Старая народная поговорка гласит: «Куй железо, пока горячо».",
+          "source": "Danas, 2015"
         }
       ],
-      "note": "Сербский и русский фразеологические образы совпадают практически полностью. В сербском пословица активно употребляется и в совершенно бытовых ситуациях: отношения, карьера, музыка, бизнес. Речь именно о коротком благоприятном моменте, который нельзя упустить.",
-      "keyword": "gvožđe se kuje dok je vruće"
+      "note": "Русская и сербская пословицы практически идентичны. Помимо буквальной кузнечной ситуации, выражение означает: не откладывай действие, если обстоятельства сейчас благоприятны. Особенно естественно о переговорах, работе, политике и использовании неожиданно возникшей возможности.",
+      "keyword": "gvožđe"
     },
     {
       "headword_latin": "Hladan kao špricer",
@@ -6669,6 +6669,32 @@
       ],
       "note": "Zjale связано со zjalo — «разинутый рот, пасть», а также с представлением о пустоте; отсюда zjakati «глазеть, бездельничать». В современном сербском hvatati zjale прежде всего означает бесцельно проводить время. Не путать с prodavati zjale: формы пересекаются в значении безделья, но последняя исторически допускает также образ «продавать пустоту».",
       "keyword": "zjale"
+    },
+    {
+      "headword_latin": "I ćorava koka ubode neko zrno",
+      "type": "izreka",
+      "definition_ru": "и слепой курице иногда зерно попадается; даже неумехе иногда везёт",
+      "synonyms_sr": [
+        "i nesposobnom se nekad posreći",
+        "slučajno pogoditi",
+        "imati sreće bez umeća"
+      ],
+      "literal_ru": "и слепая курица иногда клюнет какое-нибудь зерно",
+      "register": "razg., iron., prezrivo; često skraćeno i ćorava koka ubode zrno",
+      "examples": [
+        {
+          "serbian_latin": "No, „i ćorava koka ubode neko zrno“, pa je [...] gradska vlast odlučila...",
+          "russian": "Но даже слепой курице иногда зерно попадается: городские власти всё-таки приняли удачное решение.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "No „i ćorava koka ubode zrno“, pa i Vučić ponekad bude duhovit.",
+          "russian": "Даже слепой курице иногда везёт — вот и Вучич порой бывает остроумен.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Ćorav — разговорное «слепой», «плохо видящий». Формула почти всегда принижает заслугу: хороший результат объясняется не способностями, а случайной удачей. Поэтому применять её непосредственно к человеку может быть обидно.",
+      "keyword": "ćorava koka"
     },
     {
       "headword_latin": "I mirna Bosna",
@@ -9055,6 +9081,31 @@
       "keyword": "jutro je pametnije"
     },
     {
+      "headword_latin": "Kad čeljad nisu besna, kuća nije tesna",
+      "type": "poslovica",
+      "definition_ru": "в тесноте, да не в обиде; если люди ладят, места всем хватит",
+      "synonyms_sr": [
+        "gde ima sloge, ima mesta za sve",
+        "sloga olakšava zajednički život"
+      ],
+      "literal_ru": "когда домочадцы не недовольны, дом не тесен",
+      "register": "poslovica; varijante kad / gde čeljad nisu besna i ni kuća nije tesna",
+      "examples": [
+        {
+          "serbian_latin": "Kad čeljad nisu besna, ni kuća nije tesna – dvanaestoro Čakarevića stasava pod istim krovom.",
+          "russian": "В тесноте, да не в обиде: двенадцать детей Чакаревичей растут под одной крышей.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Kad čeljad nisu besna, kuća nije tesna.",
+          "russian": "В тесноте, да не в обиде.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Čeljad — собирательное существительное «домочадцы, члены семьи», сегодня заметно окрашенное традиционным народным стилем. Besan здесь не следует понимать только как современное «разъярённый»: в пословице речь скорее о недовольстве, капризности и отсутствии согласия. Русское «в тесноте, да не в обиде» очень близко.",
+      "keyword": "čeljad; kuća"
+    },
+    {
       "headword_latin": "Kad čeljad nisu besna, ni kuća nije tesna",
       "type": "poslovica",
       "definition_ru": "в тесноте, да не в обиде; если люди ладят, места хватит всем",
@@ -9240,6 +9291,32 @@
       ],
       "note": "Kadija — историческое название судьи в Османской империи. В современной формуле исторический контекст вторичен: главное — отсутствие независимого арбитра и очевидный конфликт интересов. Пословица очень резкая и обычно выражает недоверие к процедуре, органу власти или расследованию.",
       "keyword": "kadija te tuži kadija ti sudi"
+    },
+    {
+      "headword_latin": "Kako seješ, tako žanješ",
+      "type": "poslovica",
+      "definition_ru": "что посеешь, то и пожнёшь; как аукнется, так и откликнется",
+      "synonyms_sr": [
+        "dobijaš ono što si zaslužio",
+        "dela imaju posledice",
+        "kako radiš, tako ti se vraća"
+      ],
+      "literal_ru": "как сеешь, так и жнёшь",
+      "register": "poslovica; varijante šta seješ, to žanješ i kako seješ, tako ćeš žnjeti",
+      "examples": [
+        {
+          "serbian_latin": "Uostalom, „kako seješ, tako žanješ“, kažu i Bošnjaci i Srbi.",
+          "russian": "В конце концов, что посеешь, то и пожнёшь.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "U Srbiji i susednoj nam Hrvatskoj sejala se mržnja jako dugo. [...] Kako seješ, tako žanješ.",
+          "russian": "В Сербии и соседней Хорватии долго сеяли ненависть. Что посеешь, то и пожнёшь.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Сербский и русский используют один и тот же земледельческий образ. В сербском особенно важно запомнить формы sejati — seješ и žnjeti — žanješ. Пословица выражает не просто наказание, а вообще закономерную связь между прежними поступками и нынешним результатом.",
+      "keyword": "sejati; žnjeti"
     },
     {
       "headword_latin": "Kamen oko vrata",
@@ -10461,6 +10538,32 @@
       ],
       "note": "Для русского буквальная формула понятна, но не настолько общеупотребительна, как в сербском. По смыслу это «не отвечать злом на зло», а не просто проявлять щедрость. Выражение часто воспринимается как религиозно-нравственное, хотя употребляется и совершенно светски.",
       "keyword": "kamen; hleb"
+    },
+    {
+      "headword_latin": "Ko ume, njemu dve",
+      "type": "izreka",
+      "definition_ru": "кто умеет устроиться, тому и больше достаётся; ловкому — двойная выгода",
+      "synonyms_sr": [
+        "snalažljiv bolje prolazi",
+        "ko zna kako, dobije više",
+        "vešt čovek izvlači veću korist"
+      ],
+      "literal_ru": "кто умеет — тому две",
+      "register": "razg., iron.; o snalažljivosti, a ponekad i o umeću da se dobije više od drugih",
+      "examples": [
+        {
+          "serbian_latin": "Što nas dovodi do jednog dobro smišljenog i večnog zapažanja: „Ko ume, njemu dve“.",
+          "russian": "Отсюда мы приходим к вечному наблюдению: кто умеет устроиться, тому достаётся вдвойне.",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Da narodna izreka „Ko ume njemu dve“ ima svoju potpunu primenu pokazao je klip...",
+          "russian": "Ролик прекрасно показал, как работает поговорка «кто умеет — тому две».",
+          "source": "Blic, 2019"
+        }
+      ],
+      "note": "Смысл не сводится к мастерству в буквальном смысле. Чаще подразумевается житейская сноровка: умелый или ловкий человек сумеет получить больше возможностей, выгод или благ. Фраза может звучать одобрительно о находчивости, но очень часто — иронически о человеке, которому удалось урвать больше остальных.",
+      "keyword": "ko ume njemu dve"
     },
     {
       "headword_latin": "Ko visoko leti, nisko pada",
@@ -18761,6 +18864,32 @@
       "keyword": "pre roka"
     },
     {
+      "headword_latin": "Pre zore ne može da svane",
+      "type": "poslovica",
+      "definition_ru": "всему своё время; раньше времени ничего не случится; надо подождать",
+      "synonyms_sr": [
+        "sve u svoje vreme",
+        "ne može se požuriti ono što mora da sazri",
+        "treba biti strpljiv"
+      ],
+      "literal_ru": "до рассвета не может рассвести",
+      "register": "poslovica, umirujuće-upozoravajuće; javlja se i ne može da svane pre zore",
+      "examples": [
+        {
+          "serbian_latin": "Zato naš narod izatka poslovicu: „Pre zore ne može da svane“.",
+          "russian": "Поэтому народ и сложил пословицу: всему своё время, до рассвета рассвести не может.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Ne može da svane pre zore, postoje neki uslovi da bi se to desilo.",
+          "russian": "Нельзя заставить рассвет наступить раньше времени: для этого должны созреть определённые условия.",
+          "source": "N1, 2016"
+        }
+      ],
+      "note": "Пословица не столько о надежде, сколько о невозможности перескочить естественную последовательность событий. Ею советуют не торопить результат, для которого ещё не сложились условия. Русскому по ситуации подходят «всему своё время», «раньше времени не получится», «утро всё равно раньше не наступит».",
+      "keyword": "pre zore"
+    },
+    {
       "headword_latin": "Preći Rubikon",
       "type": "glagolski frazem",
       "definition_ru": "Перейти Рубикон; принять необратимое решение или пересечь черту, после которой возврат к прежнему положению невозможен.",
@@ -19040,11 +19169,11 @@
       "type": "poslovica",
       "definition_ru": "друзья познаются в беде; настоящий друг проявляется в трудную минуту",
       "synonyms_sr": [
-        "pravi prijatelj pomaže u nevolji",
-        "prijateljstvo se dokazuje kad je teško"
+        "pravi prijatelj se vidi kad je teško",
+        "prijateljstvo se proverava u nevolji"
       ],
       "literal_ru": "",
-      "register": "poslovica; takođe prijatelj se u nevolji poznaje, kao zlato u vatri",
+      "register": "poslovica; javlja se i prijatelj se poznaje u nevolji",
       "examples": [
         {
           "serbian_latin": "Prijatelj se u nevolji poznaje, kao zlato u vatri.",
@@ -19052,13 +19181,13 @@
           "source": "Beograd 202 / RTS, 2017"
         },
         {
-          "serbian_latin": "Prijatelj se u nevolji poznaje.",
-          "russian": "Друзья познаются в беде.",
-          "source": "Blic, 2019"
+          "serbian_latin": "Kao što izreka kaže, „prijatelj se poznaje u nevolji“.",
+          "russian": "Как говорится, друзья познаются в беде.",
+          "source": "Politika, 2024"
         }
       ],
-      "note": "Это практически полный эквивалент русского «друзья познаются в беде». В сербской традиции встречается красивое продолжение kao zlato u vatri: подлинность дружбы проверяется трудностью так же, как качество золота — огнём.",
-      "keyword": "prijatelj se u nevolji poznaje"
+      "note": "Полное функциональное соответствие русскому «друзья познаются в беде». В сербском субъект обычно стоит в единственном числе — prijatelj, хотя смысл обобщённый. Варианты с u nevolji se poznaje prijatelj также возможны.",
+      "keyword": "prijatelj; nevolja"
     },
     {
       "headword_latin": "Prilika čini lopova",
@@ -22020,27 +22149,27 @@
     {
       "headword_latin": "Sreća prati hrabre",
       "type": "izreka",
-      "definition_ru": "смелым везёт; смелым судьба помогает; удача любит смелых",
+      "definition_ru": "смелым сопутствует удача; удача любит смелых",
       "synonyms_sr": [
         "hrabrost se isplati",
-        "treba se usuditi",
-        "fortuna pomaže hrabrima"
+        "odvažni imaju više šansi",
+        "treba imati hrabrosti"
       ],
-      "literal_ru": "удача следует за смелыми",
-      "register": "odobravajuće; naročito često u sportu i situacijama koje zahtevaju rizik ili odlučnost",
+      "literal_ru": "удача сопровождает смелых",
+      "register": "izreka, odobr.; naročito u sportu, takmičenju, poslu i rizičnim poduhvatima",
       "examples": [
         {
           "serbian_latin": "Sreća prati hrabre, a hrabri takmičarski tim Potere ovoga puta čine...",
-          "russian": "Смелым везёт, а в этот раз смелую команду «Потеры» составляют...",
+          "russian": "Удача любит смелых, а в этот раз смелую команду «Потеры» составляют...",
           "source": "RTS, 2023"
         },
         {
-          "serbian_latin": "Dobro poznata i u našem narodu često korišćena izreka „da sreća prati hrabre“ [...] nije važila za košarkaše Partizana.",
-          "russian": "Хорошо известная поговорка «смелым везёт» на этот раз для баскетболистов «Партизана» не сработала.",
-          "source": "Danas, 2008"
+          "serbian_latin": "Igrali smo hrabro, a kažu da sreća prati hrabre.",
+          "russian": "Мы играли смело, а говорят, что удача сопутствует смелым.",
+          "source": "Sport Klub / N1, 2016"
         }
       ],
-      "note": "Это не просто пожелание удачи: выражение предполагает, что активность и готовность рискнуть увеличивают шанс на успех. Поэтому особенно естественно после смелого решения или атакующей игры. Русское «смелым судьба помогает» близко по функции.",
+      "note": "Формула близка латинскому fortuna audaces iuvat и широко употребляется как самостоятельное современное изречение. Русское «смелым сопутствует удача» звучит несколько книжно; в разговорной речи естественно и «удача любит смелых».",
       "keyword": "sreća prati hrabre"
     },
     {
@@ -23414,14 +23543,14 @@
     {
       "headword_latin": "Sve što je lepo kratko traje",
       "type": "izreka",
-      "definition_ru": "всё хорошее быстро кончается; всё прекрасное недолговечно",
+      "definition_ru": "всё хорошее быстро заканчивается; хорошее долго не длится",
       "synonyms_sr": [
         "lepo brzo prođe",
-        "ništa lepo ne traje večno",
+        "ništa lepo ne traje zauvek",
         "lepim stvarima brzo dođe kraj"
       ],
-      "literal_ru": "всё, что хорошо, длится недолго",
-      "register": "razg., često šalj.-melanholično; o prijatnom periodu, odmoru, uspehu, prazniku ili vezi",
+      "literal_ru": "всё хорошее длится недолго",
+      "register": "izreka, često šaljivo ili melanholično; lepo obično znači prijatno ili dobro",
       "examples": [
         {
           "serbian_latin": "Sve što je lepo kratko traje, jer je pred nama još jedna utakmica.",
@@ -23430,12 +23559,12 @@
         },
         {
           "serbian_latin": "Sve što je lepo kratko traje, pa se tako i moj odmor završio.",
-          "russian": "Всё хорошее быстро кончается — вот и мой отпуск закончился.",
+          "russian": "Всё хорошее быстро заканчивается — вот и мой отпуск закончился.",
           "source": "Danas, 2014"
         }
       ],
-      "note": "Lepo здесь не только «красивое», а вообще всё приятное и хорошее. Формула часто произносится с самоиронией после отпуска, праздника или полосы успехов. Русское «всё хорошее когда-нибудь кончается» нейтральнее; сербское подчёркивает, что приятное словно проходит особенно быстро.",
-      "keyword": "sve što je lepo kratko traje"
+      "note": "Для русского важно не переводить lepo слишком буквально как «красивое»: чаще речь о приятном событии — отпуске, победе, празднике, отношениях. Выражение нередко произносят с самоиронией в момент возвращения к обычным обязанностям.",
+      "keyword": "sve što je lepo"
     },
     {
       "headword_latin": "Sve u svoje vreme",
