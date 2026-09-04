@@ -27333,6 +27333,38 @@
       "keyword": "zamoriti"
     },
     {
+      "headword_latin": "Zaobići / zaobilaziti nekoga / nešto u širokom luku",
+      "type": "frazeologizam",
+      "definition_ru": "обходить стороной; держаться подальше; всячески избегать",
+      "synonyms_sr": [
+        "izbegavati",
+        "kloniti se",
+        "držati se podalje od",
+        "sklanjati se od"
+      ],
+      "literal_ru": "обойти кого-то / что-то по широкой дуге",
+      "register": "razg.-publicistički, ekspresivno; zaobići nekoga / nešto + akuzativ; nesvrš. zaobilaziti",
+      "examples": [
+        {
+          "serbian_latin": "Kolege ih zaobilaze u širokom luku.",
+          "russian": "Коллеги обходят их стороной / стараются держаться от них подальше.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Pokazaće vam šta vas sve čeka i na koja mesta vredi svratiti, a šta zaobići u širokom luku.",
+          "russian": "Вам покажут, куда стоит заехать, а какие места лучше обходить стороной.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Zemlji [...] nije dobro mesto za ulaganje i nju treba zaobići u širokom luku.",
+          "russian": "Такая страна — не лучшее место для инвестиций, и её стоит обходить стороной.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "В переносном значении речь не просто о том, чтобы «не встретиться», а о сознательном и решительном избегании: человек считает кого-то или что-то неприятным, опасным, ненадёжным либо нежелательным и старается вообще не иметь с ним дела. Поэтому выражение сильнее нейтрального izbegavati. Конструкция preći na drugu stranu ulice kad vidiš nekoga описывает конкретный жест избегания, а zaobići nekoga u širokom luku — гораздо более универсальный устойчивый оборот.",
+      "keyword": "zaobići u širokom luku"
+    },
+    {
       "headword_latin": "Zaobilaziti nekoga / nešto u širokom luku",
       "type": "frazeologizam",
       "definition_ru": "обходить за версту; держаться подальше; всячески избегать",
