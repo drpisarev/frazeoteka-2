@@ -11130,6 +11130,32 @@
       "keyword": "knedla u grlu"
     },
     {
+      "headword_latin": "Knedla u grlu",
+      "type": "frazeologizam",
+      "definition_ru": "ком в горле; перехватило горло",
+      "synonyms_sr": [
+        "stegne me u grlu",
+        "zastane mi knedla",
+        "stegne mi se grlo"
+      ],
+      "literal_ru": "клёцка в горле",
+      "register": "razg.-neutralno; imati knedlu u grlu, stajati nekome knedla u grlu; prvenstveno o snažnom uzbuđenju, tuzi ili ganutosti",
+      "examples": [
+        {
+          "serbian_latin": "I posle četvrt veka ostaje knedla u grlu zbog sećanja na kolonu iz Oluje.",
+          "russian": "И спустя четверть века при воспоминании о колонне во время «Бури» ком подступает к горлу.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Sigurno je da će biti veoma emotivno i da će mnogima biti knedla u grlu.",
+          "russian": "Наверняка будет очень эмоционально, и у многих встанет ком в горле.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Это обновление существующей карточки Knedla mi stoji u grlu: лучше вынести устойчивое ядро knedla u grlu, поскольку глаголы варьируют. Knedla буквально означает клёцку; поэтому сербский образ для русского выглядит почти комически буквально, хотя сам оборот совершенно обычный и эмоционально нейтральный.",
+      "keyword": "knedla"
+    },
+    {
       "headword_latin": "Ko čeka, taj dočeka",
       "type": "poslovica",
       "definition_ru": "кто ждёт, тот дождётся; терпение вознаграждается",
@@ -12013,7 +12039,7 @@
           "source": "Danas, 2024"
         }
       ],
-      "note": "Обновление существующей статьи. Главное дополнение — происхождение нельзя подавать как установленное. Danas приводит несколько легендарных объяснений и указывает на греческую параллель со Sveti Đorđe, поэтому история о Петре, Христе, бедной вдове и окаменевшей яичнице — именно народная легенда, а не доказанная этимология. Для русскоязычного важно и управление: обычно nešto me je koštalo kao Svetog Petra kajgana — буквально «что-то мне стоило…».",
+      "note": "Danas приводит несколько легендарных объяснений и указывает на греческую параллель со Sveti Đorđe, поэтому история о Петре, Христе, бедной вдове и окаменевшей яичнице — именно народная легенда, а не доказанная этимология. Для русскоязычного важно и управление: обычно nešto me je koštalo kao Svetog Petra kajgana — буквально «что-то мне стоило…».",
       "keyword": "kajgana"
     },
     {
@@ -12128,6 +12154,32 @@
       ],
       "note": "Устойчивое сравнение основано на шуточном представлении о том, что змея прячет свои несуществующие ноги. Скрываемый объект употребляется в винительном падеже: kriti verenika, identitet, dokumenta kao zmija noge.",
       "keyword": "zmija; noge"
+    },
+    {
+      "headword_latin": "Kružiti / obilaziti kao kiša oko Kragujevca",
+      "type": "frazeologizam",
+      "definition_ru": "ходить вокруг да около; всячески обходить суть; избегать прямого подхода",
+      "synonyms_sr": [
+        "ići okolo-naokolo",
+        "zaobilaziti suštinu",
+        "okolišati"
+      ],
+      "literal_ru": "кружить как дождь вокруг Крагуевца",
+      "register": "razg., šalj.-iron.; i o govoru i o postupcima",
+      "examples": [
+        {
+          "serbian_latin": "Putin nije čovek koji voli okolo-naokolo priče, kao „kiša oko Kragujevca“.",
+          "russian": "Путин не любит разговоров вокруг да около.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Nemojmo kao kiša oko Kragujevca.",
+          "russian": "Не будем ходить вокруг да около.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Это обновление уже имеющейся статьи Obilaziti / kružiti kao kiša oko Kragujevca. Оборот настолько узнаваем, что RTS отдельно посвящал ему объяснение. Популярное объяснение связывает образ с дождевыми облаками, будто бы обходящими Крагуевац; точное историческое происхождение лучше не считать окончательно установленным. В современном языке главный смысл — не просто «кружить», а упорно не переходить к сути.",
+      "keyword": "kiša oko Kragujevca"
     },
     {
       "headword_latin": "Krv nije voda",
@@ -12677,6 +12729,33 @@
       "keyword": "lud kao struja"
     },
     {
+      "headword_latin": "Luk i voda",
+      "type": "frazeologizam",
+      "definition_ru": "ерунда; пшик; ничего особенного; пустышка",
+      "synonyms_sr": [
+        "ništa naročito",
+        "prazna priča",
+        "bez veze",
+        "tričarija"
+      ],
+      "literal_ru": "лук и вода",
+      "register": "razg., prezr.-neodobr.; obično sve je to luk i voda, to je luk i voda",
+      "examples": [
+        {
+          "serbian_latin": "Ovo sve je luk i voda.",
+          "russian": "Всё это ерунда, ничего серьёзного.",
+          "source": "Danas, 2007"
+        },
+        {
+          "serbian_latin": "Politička vlast bez kase je luk i voda.",
+          "russian": "Политическая власть без денег — пустышка.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Новый источник несколько сбивает примером про лёгкую контрольную: ядро выражения — не «легко», а несерьёзно, ничтожно, мало чего стоит. Поэтому kontrolni je bio luk i voda возможно, но скорее означает «контрольная оказалась пустяковой», а не просто «лёгкой». Не путать с prosto kao pasulj — там именно «очень просто».",
+      "keyword": "luk i voda"
+    },
+    {
       "headword_latin": "Lupati kao Maksim po diviziji",
       "type": "frazeologizam",
       "definition_ru": "нести чепуху; молоть ерунду; рассуждать о том, в чём не разбираешься",
@@ -12959,6 +13038,32 @@
       "keyword": "babe i žabe"
     },
     {
+      "headword_latin": "Metar i žilet",
+      "type": "izraz",
+      "definition_ru": "метр с кепкой; от горшка два вершка; очень низкого роста",
+      "synonyms_sr": [
+        "nizak",
+        "sitan rastom",
+        "metar i šumska jagoda (šalj.)"
+      ],
+      "literal_ru": "метр и лезвие бритвы",
+      "register": "razg., šalj.-podsmešljivo; o niskoj osobi, ponekad samoironično",
+      "examples": [
+        {
+          "serbian_latin": "Vašeg komšiju od dva metra tuče supruga od „metar i žilet“.",
+          "russian": "Вашего двухметрового соседа бьёт жена ростом метр с кепкой.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Ljudi su dolazili da vide kako izgleda kada ja sa „metar i žilet“ vičem na muškarce dvometraše.",
+          "russian": "Люди приходили посмотреть, как я, метр с кепкой, командую двухметровыми мужчинами.",
+          "source": "Sport Klub / N1, 2022"
+        }
+      ],
+      "note": "Шутка построена на смехотворной «прибавке» к одному метру: толщина лезвия практически ничего не добавляет. Русское «метр с кепкой» устроено точно так же, только дополнительной мерой служит кепка. В адрес взрослого человека выражение фамильярно и может быть обидным.",
+      "keyword": "metar i žilet"
+    },
+    {
       "headword_latin": "Mi o vuku, a vuk na vrata",
       "type": "izreka",
       "definition_ru": "лёгок на помине; вспомнишь о чёрте — а он тут как тут",
@@ -13184,6 +13289,58 @@
       "keyword": "na prste jedne ruke"
     },
     {
+      "headword_latin": "Mora samo da se umre",
+      "type": "replika",
+      "definition_ru": "обязательно только умереть; ничего ты не обязан; «должен» — только умереть",
+      "synonyms_sr": [
+        "ništa se ne mora",
+        "samo se umreti mora"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj.-filoz.; tipična replika na moram…",
+      "examples": [
+        {
+          "serbian_latin": "U životu mora samo da se umre.",
+          "russian": "В жизни обязательно только одно — умереть.",
+          "source": "Sport Klub / N1, 2012"
+        },
+        {
+          "serbian_latin": "A bojim se da bi i njima bilo isto tako strano ono naše: „Mora samo da se umre…“",
+          "russian": "Боюсь, что им была бы столь же чужда наша присказка: «обязательно только умереть».",
+          "source": "Politika, 2007"
+        }
+      ],
+      "note": "Ходовые варианты: ništa ne mora, samo se mora umreti и samo se umreti mora. Обычно это не мрачное рассуждение о смерти, а полушутливая поправка человеку, сказавшему moram: «не драматизируй, у тебя есть выбор». Поэтому дословный перевод без контекста может прозвучать по-русски тяжелее оригинала.",
+      "keyword": "mora samo da se umre"
+    },
+    {
+      "headword_latin": "Možeš na hleb da ga namažeš",
+      "type": "frazeologizam",
+      "definition_ru": "добрейшей души; хоть к ране прикладывай; мухи не обидит",
+      "synonyms_sr": [
+        "duša od čoveka",
+        "predobar",
+        "blag",
+        "dobar kao hleb"
+      ],
+      "literal_ru": "можешь намазать его на хлеб",
+      "register": "razg., šalj., češće odobr., ponekad snishodljivo; razgovorno često na ’leba",
+      "examples": [
+        {
+          "serbian_latin": "Jedna od izreka koju najčešće koristim i najčešće čujem je „Možeš na ’leba da ga namažeš“.",
+          "russian": "Одно из выражений, которое я чаще всего употребляю и слышу, — «хоть на хлеб намазывай», то есть о чрезвычайно добром человеке.",
+          "source": "Euronews Srbija, 2021"
+        },
+        {
+          "serbian_latin": "Fin, dobar, najbolji muž na svetu, na hleb da ga namažeš…",
+          "russian": "Такой славный, добрый, лучший муж на свете — хоть к ране прикладывай…",
+          "source": "Stetoskop.info, 2010"
+        }
+      ],
+      "note": "В словарном заголовке лучше нормативное hleb, хотя в самой устойчивой разговорной реплике очень естественно ’leba. В новом источнике к этой статье присоединено риторическое Šta će mi to, da ga na hleb namažem? «что мне с этого, на хлеб намазать?». Это лучше считать родственной продуктивной конструкцией, а не вторым значением того же фразеологизма: положительное možeš na hleb da ga namažeš характеризует доброго, мягкого человека.",
+      "keyword": "na hleb da ga namažeš"
+    },
+    {
       "headword_latin": "Mrka kapa",
       "type": "izraz",
       "definition_ru": "дело плохо; ничего хорошего не светит; шансов почти нет",
@@ -13371,6 +13528,31 @@
       ],
       "note": "Чаще встречается в повелительном наклонении: mućni glavom, mućnite glavom. Может звучать как дружеский совет или как упрёк в недальновидности.",
       "keyword": "glava"
+    },
+    {
+      "headword_latin": "Muštuluk",
+      "type": "imenica",
+      "definition_ru": "награда за добрую весть; «с тебя магарыч!»; добрая весть с ожиданием подарка",
+      "synonyms_sr": [
+        "nagrada za dobru vest",
+        "dar glasniku"
+      ],
+      "literal_ru": "",
+      "register": "razg., tradic.; turcizam; i uzvik Muštuluk! i naziv nagrade za dobru vest",
+      "examples": [
+        {
+          "serbian_latin": "Kada se venčaju u crkvi, zet javlja porodici da su se mladenci uzeli i prima muštuluk.",
+          "russian": "После венчания зять сообщает семье, что молодые поженились, и получает награду за добрую весть.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Ministar Šarčević premijerki je velikodušno prepustio da uzme „muštuluk“ za vest da će plate biti uvećane.",
+          "russian": "Министр Шарчевич великодушно предоставил премьеру первой сообщить хорошую новость о повышении зарплат и получить за неё «му́штулук».",
+          "source": "Politika, 2017"
+        }
+      ],
+      "note": "Это яркая балканско-османская культурная реалия: тому, кто первым приносил радостную новость — о рождении, свадьбе, возвращении, удаче, — полагался подарок. Русский «магарыч» лишь приблизителен: магарыч обычно связан со сделкой, покупкой или удачным завершением дела, а muštuluk — именно с вестником хорошей новости. В традиционной речи вестник мог сам начать с возгласа Muštuluk!.",
+      "keyword": "muštuluk"
     },
     {
       "headword_latin": "Mutiti vodu",
@@ -13643,6 +13825,32 @@
       ],
       "note": "Для русского важно управление: na mladima — форма множественного числа после na, буквально «на молодых лежит / остаётся мир». В современном употреблении выражение нередко обыгрывают и переосмысливают: не только «молодёжь — наше будущее», но и «что именно старшие ей оставляют».",
       "keyword": "na mladima svet ostaje"
+    },
+    {
+      "headword_latin": "Na mostu dobiti, na ćupriji izgubiti",
+      "type": "poslovica",
+      "definition_ru": "в одном выиграть, в другом проиграть; выигрыш съелся потерей; в итоге ничего не выгадать",
+      "synonyms_sr": [
+        "na jednom dobiti, na drugom izgubiti",
+        "ostati na istom",
+        "poništiti dobitak gubitkom"
+      ],
+      "literal_ru": "на мосту выиграть, на ћуприи проиграть",
+      "register": "poslov.-razg., iron.; redosled se menja: dobiti na ćupriji, izgubiti na mostu",
+      "examples": [
+        {
+          "serbian_latin": "Koštunica je dobio na ćupriji, a izgubio na mostu.",
+          "russian": "Коштуница в одном выиграл, а в другом проиграл.",
+          "source": "Vreme, 2002"
+        },
+        {
+          "serbian_latin": "Što bi se reklo, dobio na ćupriji, izgubio na mostu.",
+          "russian": "Как говорится, в одном выиграл — в другом потерял.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Самая красивая часть образа для русского скрыта в лексике: most и ćuprija обозначают один и тот же предмет — «мост», только ćuprija является турцизмом. Поэтому человек словно выиграл и проиграл «на одном и том же мосту»: реальной выгоды в итоге нет. Порядок двух слов не фиксирован, поэтому словарный заголовок лучше дать в инфинитивной модели, а не закреплять единственную пословичную форму.",
+      "keyword": "most ćuprija"
     },
     {
       "headword_latin": "Na mrtvo ime",
@@ -14333,6 +14541,33 @@
       ],
       "note": "Сербскому mrav в русском устойчивом соответствии обычно отвечает не «муравей», а «муха»: «мухи не обидит». Возможны оба порядка слов: ne bi ni mrava zgazio и ni mrava ne bi zgazio. Выражение может употребляться иронически о человеке, чья показная безобидность противоречит его поступкам.",
       "keyword": "mrav"
+    },
+    {
+      "headword_latin": "Ne bilo ti zapoveđeno",
+      "type": "replika",
+      "definition_ru": "если тебе не трудно; будь добр; не сочти за труд",
+      "synonyms_sr": [
+        "ako ti nije teško",
+        "budi dobar",
+        "molim te",
+        "učini mi"
+      ],
+      "literal_ru": "да не будет тебе приказано",
+      "register": "razg., tradic., šalj.-učtivo; prati molbu i formalno ublažava zapovest, često bez stvarnog očekivanja da će sagovornik odbiti",
+      "examples": [
+        {
+          "serbian_latin": "Vlada kaže: „Ne bilo ti zapoveđeno, idi vidi da li je Boža tu i zovni ga.“",
+          "russian": "Влада говорит: «Если тебе не трудно, сходи посмотри, там ли Божа, и позови его».",
+          "source": "BBC na srpskom / Danas, 2023"
+        },
+        {
+          "serbian_latin": "Deder, donesi mi ’ladno pivo iz frižidera, ne bilo ti zapoveđeno.",
+          "russian": "Ну-ка принеси мне холодного пива из холодильника, если тебе не трудно.",
+          "source": "Vukajlija, 2009"
+        }
+      ],
+      "note": "Для русского буквальный смысл совершенно непрозрачен. Формула делает приказ похожим на любезную просьбу, но именно поэтому часто звучит с добродушной иронией: старший просит младшего сделать то, от чего отказа практически не ждут. На Vukajlija её метко называют «трюком, превращающим приказ в просьбу»; это хорошо передаёт живую прагматику, хотя сам источник, конечно, не нормативный.",
+      "keyword": "ne bilo ti zapoveđeno"
     },
     {
       "headword_latin": "Ne cvetaju ruže",
@@ -27631,6 +27866,32 @@
         }
       ],
       "note": "Хотя слова milo и drago сами по себе положительные, современный оборот чаще означает ответить тем же, особенно на обиду, поражение или неприятный поступок. В спортивной речи оценка мягче: vratiti milo za drago часто просто «взять реванш». Русское «отплатить той же монетой» наиболее универсально.",
+      "keyword": "milo za drago"
+    },
+    {
+      "headword_latin": "Vratiti nekome milo za drago",
+      "type": "frazeologizam",
+      "definition_ru": "отплатить той же монетой; ответить тем же; взять реванш",
+      "synonyms_sr": [
+        "uzvratiti istom merom",
+        "revanširati se",
+        "vratiti istom merom"
+      ],
+      "literal_ru": "",
+      "register": "razg.-publicistički; vratiti kome milo za drago; češće o odmazdi ili revanšu",
+      "examples": [
+        {
+          "serbian_latin": "Partizan se dobro namučio sa Cedevita Olimpijom, ali joj je vratio milo za drago.",
+          "russian": "«Партизан» намучился с «Цедевитой Олимпией», но всё-таки взял реванш.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Čini se da Srbija uzvraća Crnoj Gori gotovo identičnom merom.",
+          "russian": "Похоже, Сербия отвечает Черногории практически той же мерой.",
+          "source": "N1, 2026"
+        }
+      ],
+      "note": "Это обновление статьи Vratiti milo za drago: полезно добавить управление kome и живое спортивное значение «взять реванш». Milo и drago по отдельности означают близкие понятия «милое, дорогое», но современный оборот лексикализован и буквально не разбирается. Русское «око за око» обычно звучит жёстче.",
       "keyword": "milo za drago"
     },
     {
