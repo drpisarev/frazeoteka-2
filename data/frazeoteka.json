@@ -977,6 +977,33 @@
       "keyword": "čekić; nakovanj"
     },
     {
+      "headword_latin": "Biti / naći se na tankom ledu",
+      "type": "frazeologizam",
+      "definition_ru": "быть на тонком льду; оказаться в шатком положении; рисковать",
+      "synonyms_sr": [
+        "biti u nesigurnom položaju",
+        "biti u opasnoj situaciji",
+        "biti u riziku",
+        "biti na klimavim nogama"
+      ],
+      "literal_ru": "быть на тонком льду",
+      "register": "razg.-publicistički, ekspresivno; o politici, odnosima, poslu, pregovorima i drugim rizičnim situacijama",
+      "examples": [
+        {
+          "serbian_latin": "Američko-iranski sporazum na tankom ledu.",
+          "russian": "Американо-иранское соглашение висит на волоске.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Osvrćem se, gledam gde su deca, vidim jasno – još smo na tankom ledu.",
+          "russian": "Оглядываюсь, смотрю, где дети, и ясно понимаю: мы всё ещё на тонком льду.",
+          "source": "Politika, 2009"
+        }
+      ],
+      "note": "Образ строится на очевидной опасности тонкого льда: поверхность пока держит, но ситуация может измениться от одного неверного шага. В русском «ходить по тонкому льду» особенно естественно о рискованном поведении; сербское biti na tankom ledu очень часто описывает уже существующее нестабильное положение.",
+      "keyword": "na tankom ledu"
+    },
+    {
       "headword_latin": "Biti / naći se na vetrometini",
       "type": "frazeologizam",
       "definition_ru": "оказаться под перекрёстным давлением; быть без защиты; находиться на линии столкновения разных сил",
@@ -3776,6 +3803,33 @@
       "keyword": "dići ruke od"
     },
     {
+      "headword_latin": "Dići / praviti frku",
+      "type": "sleng",
+      "definition_ru": "поднять шум; устроить скандал; поднять кипиш; развести панику",
+      "synonyms_sr": [
+        "praviti galamu",
+        "dizati paniku",
+        "praviti scenu",
+        "uzbunjivati"
+      ],
+      "literal_ru": "",
+      "register": "razg., sleng, ekspresivno; od glasnog protesta do nepotrebne panike, zavisno od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Selektor Srbije pravio frku: sudije ga isključile na Eurobasketu.",
+          "russian": "Тренер сборной Сербии устроил шум, и судьи удалили его на Евробаскете.",
+          "source": "Telegraf, 2026"
+        },
+        {
+          "serbian_latin": "Ja sam digao toliku frku sa Transferom i pisao na sve moguće adrese.",
+          "russian": "Я поднял такой шум из-за Transfera и писал куда только можно.",
+          "source": "Benchmark forum, 2026"
+        }
+      ],
+      "note": "Frka — очень живое разговорное слово с широким диапазоном: суматоха, паника, неприятности, напряжение. В сочетаниях dići / praviti frku речь именно о создании шума вокруг ситуации. Русский перевод меняется по контексту: «устроить шум», «поднять кипиш», «развести панику», «устроить сцену».",
+      "keyword": "frka"
+    },
+    {
       "headword_latin": "Dići nos",
       "type": "frazeologizam",
       "definition_ru": "задрать нос; зазнаться; возгордиться",
@@ -4950,6 +5004,33 @@
       "keyword": "na kratkom lancu"
     },
     {
+      "headword_latin": "Držati nekoga na kratkom povocu",
+      "type": "frazeologizam",
+      "definition_ru": "держать на коротком поводке; жёстко контролировать; не давать самостоятельности",
+      "synonyms_sr": [
+        "strogo kontrolisati",
+        "držati pod kontrolom",
+        "ograničavati slobodu",
+        "ne davati nekome da se osamostali"
+      ],
+      "literal_ru": "держать кого-то на коротком поводке",
+      "register": "razg.-publicistički, neodobr.; držati + akuzativ + na kratkom povocu",
+      "examples": [
+        {
+          "serbian_latin": "Postoje lični aranžmani koji omogućavaju Moskvi da ga drži na kratkom povocu.",
+          "russian": "Существуют личные договорённости, позволяющие Москве держать его на коротком поводке.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "Priča o zabrani zapošljavanja služi Vučiću da drži ljude na kratkom povocu.",
+          "russian": "История с запретом на трудоустройство служит Вучичу инструментом, чтобы держать людей на коротком поводке.",
+          "source": "N1, 2020"
+        }
+      ],
+      "note": "Сербский и русский образы практически совпадают. Povodac — обычный поводок для животного, поэтому метафора подчёркивает зависимость, ограничение свободы и возможность быстро «одёрнуть» человека. Контроль может быть политическим, финансовым, служебным или личным.",
+      "keyword": "kratak povodac"
+    },
+    {
       "headword_latin": "Držati nekoga u šaci",
       "type": "frazeologizam",
       "definition_ru": "держать кого-либо в своих руках; полностью контролировать; иметь рычаг давления",
@@ -5409,6 +5490,33 @@
       ],
       "note": "Формула давно не требует религиозного контекста: ею предупреждают, что неприятность, искушение или неожиданная проблема могут возникнуть в любой момент. Русское «чёрт не дремлет» совпадает и по образу, и по функции. Усиленный вариант đavo nikada ne spava также очень естественен.",
       "keyword": "đavo ne spava"
+    },
+    {
+      "headword_latin": "Đavo nekome ne da mira",
+      "type": "frazeologizam",
+      "definition_ru": "кому-то неймётся; чёрт не даёт покоя; всё тянет снова за что-то взяться",
+      "synonyms_sr": [
+        "ne mirovati",
+        "ne moći da sedi mirno",
+        "stalno nešto preduzimati",
+        "imati nemirnog duha"
+      ],
+      "literal_ru": "чёрт кому-то не даёт покоя",
+      "register": "razg., ekspresivno; tipično đavo mu / joj / ti ne da mira",
+      "examples": [
+        {
+          "serbian_latin": "Đavo mu ne da mira, kako kaže, da sedi džaba nego je počeo da radi na priči o Mileni Pavlović-Barili.",
+          "russian": "Чёрт ему не даёт покоя сидеть без дела, поэтому он начал работать над историей Милены Павлович-Барили.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Ali, đavo ne da mira.",
+          "russian": "Но неймётся.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Выражение не обязательно осуждающее. Оно может описывать и симпатичную деятельную неугомонность: человек не способен спокойно сидеть и снова берётся за проект. Русское «чёрт не даёт покоя» близко, но по контексту иногда естественнее просто «неймётся».",
+      "keyword": "đavo ne da mira"
     },
     {
       "headword_latin": "Fali mu daska u glavi",
@@ -6965,6 +7073,33 @@
       ],
       "note": "Русское «ловушка» подходит не всегда. Caka может означать хитрость, секрет, тонкость, скрытое условие или загвоздку: U čemu je caka? — «В чём фишка / подвох?». В корпусном употреблении встречается и ima par caka — «есть несколько тонкостей».",
       "keyword": "caka"
+    },
+    {
+      "headword_latin": "Ima kao blata",
+      "type": "frazeologizam",
+      "definition_ru": "хоть отбавляй; пруд пруди; навалом; как грязи",
+      "synonyms_sr": [
+        "ima na pretek",
+        "ima koliko hoćeš",
+        "ima na sve strane",
+        "ima mnogo"
+      ],
+      "literal_ru": "имеется как грязи",
+      "register": "razg., ekspresivno; o veoma velikom broju ljudi ili stvari; često ima ih kao blata",
+      "examples": [
+        {
+          "serbian_latin": "Nije još prevagnuo, ali raznih auto-kredita ima – kao blata.",
+          "russian": "Решение ещё не принято, но различных автокредитов — хоть отбавляй.",
+          "source": "Politika, 2016"
+        },
+        {
+          "serbian_latin": "Zato vas danas ima kao blata, haha.",
+          "russian": "Поэтому вас сегодня пруд пруди, ха-ха.",
+          "source": "Blic, 2023"
+        }
+      ],
+      "note": "Здесь русский даёт почти буквальный разговорный аналог «как грязи». Сербское выражение свободно относится и к людям, и к предметам: ima ih kao blata, para ima kao blata, kredita ima kao blata. Сравнение часто несёт лёгкий пренебрежительный оттенок: чего-то не просто много, а чрезмерно много и оно уже не воспринимается как редкость.",
+      "keyword": "kao blata"
     },
     {
       "headword_latin": "Ima na lopate",
@@ -8896,6 +9031,32 @@
       ],
       "note": "Milom и silom — застывшие наречные инструментальные формы: milom здесь значит «добровольно, по-хорошему», silom — «силой, принуждением». Русское «не мытьём, так катаньем» иногда близко по функции, но сербская формула значительно прямее и прямо противопоставляет добровольность принуждению.",
       "keyword": "kad neće milom hoće silom"
+    },
+    {
+      "headword_latin": "Kadija te tuži, kadija ti sudi",
+      "type": "poslovica",
+      "definition_ru": "сам обвиняет, сам и судит; о беспристрастном суде речи нет",
+      "synonyms_sr": [
+        "nema nepristrasnog suda",
+        "sam tuži, sam sudi",
+        "sukob interesa"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, iron.-neodobr.; o situaciji kada su tužilac, sudija i vlast praktično na istoj strani",
+      "examples": [
+        {
+          "serbian_latin": "Kadija te tuži, kadija ti sudi.",
+          "russian": "Сам тебя обвиняет, сам тебя и судит.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "On već godinama bitku bije sa ovdašnjim pravosuđem, po onoj narodnoj „kadija te tuži, kadija ti sudi“.",
+          "russian": "Он уже много лет борется с местной судебной системой — по принципу «сам обвиняет, сам и судит».",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Kadija — историческое название судьи в Османской империи. В современной формуле исторический контекст вторичен: главное — отсутствие независимого арбитра и очевидный конфликт интересов. Пословица очень резкая и обычно выражает недоверие к процедуре, органу власти или расследованию.",
+      "keyword": "kadija te tuži kadija ti sudi"
     },
     {
       "headword_latin": "Kamen oko vrata",
@@ -17125,6 +17286,33 @@
       "keyword": "pohvatati konce"
     },
     {
+      "headword_latin": "Pojeo vuk magarca",
+      "type": "izreka",
+      "definition_ru": "и концы в воду; дело замяли; всё спустили на тормозах",
+      "synonyms_sr": [
+        "zataškati stvar",
+        "proći bez posledica",
+        "nikom ništa (razg.)",
+        "stvar se zaboravila"
+      ],
+      "literal_ru": "волк съел осла",
+      "register": "razg., iron., neodobr.; o skandalu, obećanom raspletu ili problemu koji na kraju ostaje bez posledica",
+      "examples": [
+        {
+          "serbian_latin": "Što bi rekli – pojeo vuk magarca. Ali, neće biti.",
+          "russian": "Как говорится — и концы в воду. Но нет, так не будет.",
+          "source": "NIN, 2023"
+        },
+        {
+          "serbian_latin": "Na sva usta si govorio kako ćeš se obračunati sa tajkunima, ali od toga ne bi ništa. Pojeo vuk magarca!",
+          "russian": "Ты во весь голос обещал расправиться с тайкунами, а в итоге ничего не произошло. Всё спустили на тормозах!",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Формула обычно появляется после шума, обещаний или ожидания развязки: время прошло, виновных нет, вопрос забыт — pojeo vuk magarca. Это не просто «всё закончилось», а именно циничное «и никому ничего». Точное происхождение выражения надёжно не установлено.",
+      "keyword": "pojeo vuk magarca"
+    },
+    {
       "headword_latin": "Pokazati pravo lice",
       "type": "frazeologizam",
       "definition_ru": "показать истинное лицо; раскрыть свою настоящую сущность; показать, кто ты на самом деле",
@@ -24285,6 +24473,32 @@
       "keyword": "udri brigu na veselje"
     },
     {
+      "headword_latin": "Uhvatiti / hvatati poslednji voz",
+      "type": "frazeologizam",
+      "definition_ru": "воспользоваться последним шансом; успеть в последний вагон; не упустить последнюю возможность",
+      "synonyms_sr": [
+        "iskoristiti poslednju priliku",
+        "uhvatiti poslednju šansu",
+        "stići u poslednji čas"
+      ],
+      "literal_ru": "поймать последний поезд",
+      "register": "razg.-publicistički; veoma često u sportu, politici, poslu i situacijama sa istekom roka",
+      "examples": [
+        {
+          "serbian_latin": "Ovo je možda „poslednji voz koji hvatamo“ kako bi se nešto promenilo pred izbore.",
+          "russian": "Возможно, это наш последний шанс что-то изменить перед выборами.",
+          "source": "N1, 2021"
+        },
+        {
+          "serbian_latin": "Vojvodina će pokušati da uhvati „poslednji voz“ za Evropu.",
+          "russian": "«Войводина» попытается запрыгнуть в последний вагон в борьбе за еврокубки.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "По-сербски метафора строится на voz — «поезд», тогда как русский разговорный аналог часто использует «последний вагон». Речь обычно о последней реалистической возможности, а не обязательно о буквально единственном шансе в жизни. Несовершенный hvatati особенно частотен в спортивных заголовках.",
+      "keyword": "poslednji voz"
+    },
+    {
       "headword_latin": "Uhvatiti Boga za bradu",
       "type": "frazeologizam",
       "definition_ru": "почувствовать себя всесильным; решить, что поймал удачу за хвост; возомнить, что теперь всё можно",
@@ -24922,28 +25136,27 @@
     {
       "headword_latin": "Vatreno krštenje",
       "type": "frazeologizam",
-      "definition_ru": "боевое крещение; первое серьёзное испытание",
+      "definition_ru": "боевое крещение; первое серьёзное испытание; первый настоящий тест",
       "synonyms_sr": [
-        "prvo veliko iskušenje",
-        "prvi ozbiljan test",
-        "težak debi",
-        "prvo pravo iskustvo"
+        "prvo ozbiljno iskušenje",
+        "prvi pravi test",
+        "prvi težak ispit"
       ],
       "literal_ru": "огненное крещение",
-      "register": "neutralno-publicistički, ekspresivno; prvobitno vojno, danas široko preneseno",
+      "register": "neutralno-publicistički, ekspresivno; prvobitno vojni obraz, danas široko o sportu, poslu, politici i javnim nastupima",
       "examples": [
         {
-          "serbian_latin": "Ovo će biti vatreno krštenje za obojicu.",
-          "russian": "Для обоих это станет настоящим боевым крещением.",
-          "source": "RTS, 2026"
+          "serbian_latin": "Vatreno krštenje u Mongoliji – basketaši Srbije pobedom započeli odbranu titule prvaka sveta.",
+          "russian": "Боевое крещение в Монголии: сербские баскетболисты 3×3 начали защиту титула чемпионов мира с победы.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Vatreno krštenje imali su krajem januara.",
-          "russian": "Боевое крещение они получили в конце января.",
-          "source": "RTS, 2024"
+          "serbian_latin": "Za Nevena Cvetićanina, koji je sada prvi put seo u skupštinsku klupu, bilo je to vatreno krštenje kakvo se i moglo očekivati u srpskom parlamentu.",
+          "russian": "Для Невена Цветичанина, впервые занявшего депутатское место, это было именно такое боевое крещение, какого и следовало ожидать в сербском парламенте.",
+          "source": "Politika, 2012"
         }
       ],
-      "note": "Первоначально vatreno krštenje — первый опыт реального боя под огнём. Сейчас выражение намного шире: первое серьёзное испытание спортсмена, тренера, актёра, политика, новой техники и т. п. Русское «боевое крещение» функционально почти полностью совпадает, хотя сербский сохраняет прилагательное vatreno «огненное».",
+      "note": "Для русского естественный устойчивый эквивалент — «боевое крещение», а не буквальное «огненное крещение». В современном сербском реальная война не подразумевается: это первый серьёзный контакт с трудной практикой после подготовки или теории.",
       "keyword": "vatreno krštenje"
     },
     {
@@ -26085,28 +26298,28 @@
     {
       "headword_latin": "Zlatna koka",
       "type": "frazeologizam",
-      "definition_ru": "золотая жила; дойная корова; источник большой и стабильной прибыли",
+      "definition_ru": "курица, несущая золотые яйца; золотая жила; источник стабильной прибыли",
       "synonyms_sr": [
         "izvor velike zarade",
         "unosan posao",
-        "izvor profita",
-        "koka koja nosi zlatna jaja"
+        "rudnik zlata (pren.)",
+        "veoma profitabilan posao"
       ],
       "literal_ru": "золотая курица",
-      "register": "razg.-publicistički; o firmi, imovini, grani ili delatnosti koja donosi velike prihode",
+      "register": "razg.-publicistički; o kompaniji, delatnosti, osobi, proizvodu ili resursu koji donosi veliku zaradu",
       "examples": [
         {
           "serbian_latin": "Svi smatraju da je „Telekom“ „zlatna koka“.",
-          "russian": "Все считают «Телеком» золотой жилой.",
+          "russian": "Все считают Telekom курицей, несущей золотые яйца.",
           "source": "RTS, 2013"
         },
         {
-          "serbian_latin": "Ada Huja mogla bi da bude „zlatna koka“ Palilule i prestonice.",
-          "russian": "Ада-Хуя могла бы стать настоящей золотой жилой для Палилулы и Белграда.",
-          "source": "Politika, 2006"
+          "serbian_latin": "Homolje na raskrsnici: „Zlatna koka“ ili pretnja vodama, ljudima i prirodi?",
+          "russian": "Хомолье на распутье: золотая жила или угроза воде, людям и природе?",
+          "source": "N1, 2025"
         }
       ],
-      "note": "Близкое полное выражение — koka koja nosi zlatna jaja, «курица, несущая золотые яйца». Короткое zlatna koka в сербской публицистике совершенно самостоятельно и особенно часто обозначает прибыльное предприятие или ресурс. Русская «дойная корова» может дополнительно намекать на постоянное извлечение денег, тогда как zlatna koka прежде всего подчёркивает доходность.",
+      "note": "В русском обычно разворачивается полный образ «курица, несущая золотые яйца», тогда как сербскому достаточно короткого zlatna koka. Выражение подчёркивает не разовый доход, а способность регулярно приносить деньги или другую выгоду. Может употребляться и иронически.",
       "keyword": "zlatna koka"
     },
     {
