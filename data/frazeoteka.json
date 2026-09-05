@@ -2309,6 +2309,32 @@
       "keyword": "u svom elementu"
     },
     {
+      "headword_latin": "Biti u svom filmu",
+      "type": "frazeologizam",
+      "definition_ru": "быть в своём мире; жить в собственной реальности; быть погружённым в свои мысли",
+      "synonyms_sr": [
+        "biti u svom svetu",
+        "biti odsutan",
+        "živeti u svojoj priči"
+      ],
+      "literal_ru": "быть в собственном фильме",
+      "register": "razg.; obično o odvojenosti od onoga što se stvarno događa ili o sopstvenoj slici stvarnosti",
+      "examples": [
+        {
+          "serbian_latin": "Vučić je čovek nebitan, on je u nekom svom filmu.",
+          "russian": "Вучич тут вообще ни при чём, он живёт в какой-то своей реальности.",
+          "source": "N1, 2019"
+        },
+        {
+          "serbian_latin": "Svi živimo u svom filmu.",
+          "russian": "Каждый из нас живёт в своём собственном мире.",
+          "source": "Beograd 202 / RTS, 2018"
+        }
+      ],
+      "note": "Поправка к форме из нового источника: словарный заголовок лучше biti u svom filmu, а не конкретное on je u svom filmu. Значение шире русского «витает в облаках»: человек может вовсе не мечтать, а просто интерпретировать действительность исключительно через собственную картину мира. Не путать с biti u svom elementu — «быть в своей стихии».",
+      "keyword": "u svom filmu"
+    },
+    {
       "headword_latin": "biti u škripcu",
       "type": "glagolski frazem",
       "definition_ru": "Оказаться в затруднительном положении; быть зажатым обстоятельствами; испытывать нехватку чего-либо.",
@@ -7602,25 +7628,25 @@
     {
       "headword_latin": "I mirna Bosna",
       "type": "izreka",
-      "definition_ru": "и всё в порядке; и дело с концом; и никаких споров; и все довольны",
+      "definition_ru": "и дело с концом; и всё в порядке; и никаких вопросов; и точка",
       "synonyms_sr": [
         "i gotovo",
-        "i sve u redu",
         "stvar rešena",
+        "i tačka",
         "nema više rasprave"
       ],
       "literal_ru": "и Босния спокойна",
-      "register": "razg., često šalj.; varijante i mirna Bosna, pa mirna Bosna, kao i i/pa mirna Bačka",
+      "register": "razg., često šalj.; varijante i mirna Bosna, pa mirna Bosna; završna formula posle rešenja problema ili prekida rasprave",
       "examples": [
+        {
+          "serbian_latin": "Izlemam ga triput mesečno, kad god ga vidim, i mirna Bosna.",
+          "russian": "Отлуплю его три раза в месяц, как увижу, — и дело с концом.",
+          "source": "Danas, 2009"
+        },
         {
           "serbian_latin": "I mirna Bosna, mirna Bačka, miran episkop bački Irinej.",
           "russian": "И всё спокойно: и Босния, и Бачка, и бачский епископ Ириней.",
           "source": "Danas, 2025"
-        },
-        {
-          "serbian_latin": "Podelićemo pare jednako — i mirna Bosna.",
-          "russian": "Поделим деньги поровну — и всё в порядке.",
-          "source": ""
         },
         {
           "serbian_latin": "Ti uzmi jednu sobu, ja drugu, pa mirna Bosna.",
@@ -7628,7 +7654,7 @@
           "source": ""
         }
       ],
-      "note": "Фразеологические словари толкуют i mirna Bosna как «всё в порядке, спор окончен, дело завершено». При этом исследование корпусов показывает интересную региональную деталь: в сербском материале несколько чаще зафиксировано mirna Bačka, тогда как mirna Bosna значительно характернее для хорватского корпуса, но и в сербском она тоже засвидетельствована. Поэтому для Frazeoteka полезно хранить обе формы: i/pa mirna Bosna и i/pa mirna Bačka, не объявляя первую «несербской».",
+      "note": "Обновление существующей статьи. В основной тысяче уже есть I mirna Bosna, а новый источник отдельно предлагает вариант Pa mirna Bosna. Важнее другое: прежнюю заметку о том, будто в сербском материале mirna Bačka встречается чаще, нужно исправить. Исследование Божинки Петрониевич в журнале Srpski jezik (2025) прямо называет mirna Bosna наиболее частотным фразеологизмом, а mirna Bačka — регионально звучащим вариантом. Поэтому основной заголовок I mirna Bosna выбран верно; pa mirna Bosna следует хранить как обычный вариант.",
       "keyword": "mirna Bosna"
     },
     {
@@ -7769,6 +7795,32 @@
       ],
       "note": "RTS прямо объясняет выражение как поход в veoma opasno mesto. В отличие от общего igrati se vatrom, здесь опасность локализована: человек сам приходит туда, где находится сильный противник или где конфликт почти неизбежен. Русское «лезть в логово» хорошо сохраняет образ.",
       "keyword": "mečki na rupu"
+    },
+    {
+      "headword_latin": "Ići / otići na doboš",
+      "type": "frazeologizam",
+      "definition_ru": "пойти с молотка; быть распроданным за долги; попасть на принудительные торги",
+      "synonyms_sr": [
+        "otići na javnu prodaju",
+        "biti rasprodat",
+        "biti prodat na licitaciji"
+      ],
+      "literal_ru": "пойти на барабан",
+      "register": "razg.-publicistički, tradicionalno; prvenstveno o imovini, firmi ili nekretnini; takođe dati / prodati nešto na doboš",
+      "examples": [
+        {
+          "serbian_latin": "Imovina ide na doboš.",
+          "russian": "Имущество идёт с молотка.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Nepokretno kulturno dobro ide „na doboš“.",
+          "russian": "Объект культурного наследия выставляют на принудительные торги.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Doboš — небольшой барабан; слово связано с венг. dobos. Дополнительные словарные источники фиксируют и старое значение барабана, которым местный глашатай созывал людей. Отсюда понятна связь оборота с публичным объявлением продажи; современный сайт принудительных торгов даже называется Doboš. Русский образ устроен иначе: имущество «идёт с молотка» по удару аукциониста.",
+      "keyword": "doboš"
     },
     {
       "headword_latin": "ići / prodavati se kao alva",
@@ -16408,6 +16460,32 @@
       "keyword": "nije do mene"
     },
     {
+      "headword_latin": "Nije do tebe, do mene je",
+      "type": "replika",
+      "definition_ru": "дело не в тебе, дело во мне; это я виноват / проблема во мне",
+      "synonyms_sr": [
+        "problem je u meni",
+        "ja sam kriv",
+        "nije do tebe"
+      ],
+      "literal_ru": "",
+      "register": "razg.; kliširana formula, naročito pri raskidu veze",
+      "examples": [
+        {
+          "serbian_latin": "Kako ide ono sa tim prokletim raskidima – nije do tebe, do mene je?",
+          "russian": "Как там говорят при этих проклятых расставаниях: «дело не в тебе, дело во мне»?",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Fudbale, volim te. Nije do tebe, do mene je. Ja sam se promenila.",
+          "russian": "Футбол, я тебя люблю. Дело не в тебе, дело во мне. Я изменилась.",
+          "source": "Sport Klub / N1, 2023"
+        }
+      ],
+      "note": "В отличие от нейтрального nije do mene «это от меня не зависит / дело не во мне», целая формула nije do tebe, do mene je прочно ассоциируется с попыткой мягко прекратить отношения и поэтому легко приобретает комический оттенок. После do здесь генитив: do mene, do tebe, do njega.",
+      "keyword": "nije do tebe"
+    },
+    {
       "headword_latin": "Nije kome je rečeno, nego kome je suđeno",
       "type": "izreka",
       "definition_ru": "не тому достанется, кому обещано, а тому, кому суждено; человек предполагает, судьба располагает",
@@ -16598,6 +16676,58 @@
       "keyword": "nije zlato sve što sija"
     },
     {
+      "headword_latin": "Nikad ne reci nikad",
+      "type": "izreka",
+      "definition_ru": "никогда не говори «никогда»; зарекаться не стоит",
+      "synonyms_sr": [
+        "nikad se ne zna",
+        "ne treba se zaklinjati",
+        "sve je moguće"
+      ],
+      "literal_ru": "",
+      "register": "aforistički, razg.; opšteupotrebljiva međunarodna formula",
+      "examples": [
+        {
+          "serbian_latin": "Neprestano mislim na onu jezičku dosetku „nikad ne reci nikad“.",
+          "russian": "Я постоянно вспоминаю эту присказку: «никогда не говори никогда».",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Nikad ne reci nikad. U ovom trenutku prerano je razmišljati o takvim stvarima.",
+          "russian": "Никогда не говори «никогда». Сейчас ещё слишком рано думать о таких вещах.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Почти полностью совпадает с русским и по форме, и по употреблению. Обычно реплика означает: сегодняшнее категорическое «никогда» обстоятельства ещё могут заставить пересмотреть.",
+      "keyword": "nikad ne reci nikad"
+    },
+    {
+      "headword_latin": "Nikad se ne zna",
+      "type": "replika",
+      "definition_ru": "как знать; мало ли; всякое бывает; никогда не знаешь",
+      "synonyms_sr": [
+        "ko zna",
+        "sve je moguće",
+        "može svašta da se desi"
+      ],
+      "literal_ru": "",
+      "register": "razg.; izražava i opreznu nadu i upozorenje",
+      "examples": [
+        {
+          "serbian_latin": "Nadam se da će se turnir vratiti u Srbiju… možda čak i u nekoj višoj kategoriji, nikad se ne zna.",
+          "russian": "Надеюсь, турнир вернётся в Сербию, может быть даже в более высокой категории — как знать.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Nikad se ne zna. Kad presuda postane pravosnažna, raspisuje se poternica.",
+          "russian": "Никогда не знаешь. Когда приговор вступит в силу, объявят розыск.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Очень частая самостоятельная реплика. В положительном контексте это русское «а вдруг / как знать», в тревожном — «мало ли что может случиться». Безличное se zna буквально значит «известно», поэтому структура не требует субъекта.",
+      "keyword": "nikad se ne zna"
+    },
+    {
       "headword_latin": "Niko nije prorok u svom selu",
       "type": "izreka",
       "definition_ru": "нет пророка в своём отечестве; своих часто не ценят дома",
@@ -16769,6 +16899,33 @@
       "keyword": "nisu sve koze na broju"
     },
     {
+      "headword_latin": "Nit smrdi, nit miriše",
+      "type": "frazeologizam",
+      "definition_ru": "ни рыба ни мясо; ни то ни сё; никакой",
+      "synonyms_sr": [
+        "ni tamo ni ovamo",
+        "mlak",
+        "bezličan",
+        "neodređen"
+      ],
+      "literal_ru": "ни воняет, ни пахнет",
+      "register": "razg., neodobr.; o čoveku, stavu, delu ili rešenju bez jasnog karaktera, kvaliteta ili izražene pozicije",
+      "examples": [
+        {
+          "serbian_latin": "Uvek je bio malo onako – nit smrdi nit miriše.",
+          "russian": "Он всегда был такой — ни рыба ни мясо.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Dobiti jedan solidan projekat, a ne samo neku vrstu kompromisa koja nit smrdi, nit miriše.",
+          "russian": "Получить добротный проект, а не какой-то компромисс — ни то ни сё.",
+          "source": "N1, 2015"
+        }
+      ],
+      "note": "Выражение близко к уже имеющемуся nit’ riba, nit’ devojka, но не полностью совпадает: nit smrdi, nit miriše особенно хорошо характеризует что-то пресное, бесцветное, не вызывающее никакой определённой оценки. Может относиться и к человеку, который избегает чёткой позиции.",
+      "keyword": "nit smrdi nit miriše"
+    },
+    {
       "headword_latin": "Nit’ riba, nit’ devojka",
       "type": "frazeologizam",
       "definition_ru": "ни рыба ни мясо; ни то ни сё; непонятно что",
@@ -16799,6 +16956,33 @@
       ],
       "note": "Это яркий сербский вариант международной модели «ни то ни другое». Образ прозрачно напоминает sirena — существо, которое одновременно девушка и рыба, но историческое происхождение именно из образа русалки надёжно не установлено. В современной сербской публицистике выражение вполне живое и применяется к государственному устройству, политике, книгам, спектаклям, деловым форматам и всему гибридному или неопределённому. Русское «ни рыба ни мясо» — практически идеальный функциональный эквивалент.",
       "keyword": "nit riba nit devojka"
+    },
+    {
+      "headword_latin": "Nosi se",
+      "type": "replika",
+      "definition_ru": "проваливай; отвали; иди ты",
+      "synonyms_sr": [
+        "gubi se",
+        "marš",
+        "pali",
+        "skloni mi se s očiju"
+      ],
+      "literal_ru": "",
+      "register": "razg., grubo; pojačano nosi se odavde, nosi se dođavola, nosi se, bre",
+      "examples": [
+        {
+          "serbian_latin": "Nosi se, bre, lažovčino, na našu zadnju stranu.",
+          "russian": "Да проваливай ты, врун, на нашу последнюю полосу.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Nosi se dođavola.",
+          "russian": "Иди к чёрту.",
+          "source": "Danas / BBC na srpskom, 2026"
+        }
+      ],
+      "note": "Это не обычное возвратное значение nositi se «справляться; носить что-либо определённым образом», а самостоятельный грубый отсыл. По силе может быть от раздражённого «отстань» до функционального аналога русского «пошёл н***й», однако само сербское выражение не обсценное.",
+      "keyword": "nosi se"
     },
     {
       "headword_latin": "Novinarska patka",
@@ -16963,6 +17147,32 @@
       "keyword": "zelen bostan"
     },
     {
+      "headword_latin": "Obrni-okreni",
+      "type": "izraz",
+      "definition_ru": "как ни крути; так или иначе; куда ни кинь",
+      "synonyms_sr": [
+        "kako god okreneš",
+        "u svakom slučaju",
+        "bilo kako bilo"
+      ],
+      "literal_ru": "поверни — переверни",
+      "register": "razg., ekspresivno; uvodna formula pred zaključkom koji ostaje isti bez obzira na ugao gledanja",
+      "examples": [
+        {
+          "serbian_latin": "Obrni-okreni, srpski film verovatno neće dobiti Oskara.",
+          "russian": "Как ни крути, сербский фильм, скорее всего, «Оскар» не получит.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Obrni okreni, suštinski uvek ste to vi i vaš emotivni, psihološki aparat.",
+          "russian": "Как ни крути, в основе всё равно остаётесь вы и ваш эмоционально-психологический аппарат.",
+          "source": "Politika, 2022"
+        }
+      ],
+      "note": "Politika относит obrni-okreni к типичным застывшим разговорным формулам. В прессе встречается и написание без дефиса, но для словарного заголовка удобно obrni-okreni. Русское «так или иначе» нейтральнее; obrni-okreni обычно сохраняет образ «посмотри хоть с этой, хоть с той стороны».",
+      "keyword": "obrni-okreni"
+    },
+    {
       "headword_latin": "Oči veće od stomaka",
       "type": "frazeologizam",
       "definition_ru": "глаза больше живота; набрать еды больше, чем можешь съесть; глаза завидущие",
@@ -17097,6 +17307,32 @@
       ],
       "note": "Оборот особенно характерен для рынков, магазинов, объявлений и перечней услуг. Русское «от булавки до самолёта» или «чего только нет» функционально ближе, хотя буквальное «от иголки до локомотива» тоже понятно и передаёт юмористическую гиперболу.",
       "keyword": "od igle do lokomotive"
+    },
+    {
+      "headword_latin": "Od jutra do sutra",
+      "type": "izraz",
+      "definition_ru": "с утра до ночи; целыми днями; сутками напролёт",
+      "synonyms_sr": [
+        "po ceo dan",
+        "od zore do mraka",
+        "po vasceli dan"
+      ],
+      "literal_ru": "с утра до завтра",
+      "register": "razg., ekspresivno; najčešće o dugom, iscrpljujućem radu ili neprekidnoj aktivnosti",
+      "examples": [
+        {
+          "serbian_latin": "Radi „od jutra do sutra“.",
+          "russian": "Работает с утра до ночи.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "To je bio rad bez radnog vremena, od jutra do sutra, od zore do zvezde.",
+          "russian": "Это была работа без всякого рабочего графика — с утра до ночи, от рассвета до звёзд.",
+          "source": "Radio Beograd 1 / RTS, 2018"
+        }
+      ],
+      "note": "Новый источник точно улавливает игру jutra — sutra: человек работает буквально «от сегодняшнего утра до завтра». Поэтому выражение обычно сильнее нейтрального od jutra do večeri и часто подразумевает чрезмерную нагрузку. Politika и в 2026 году использует его в заголовке о заседании, продолжавшемся более двадцати часов.",
+      "keyword": "od jutra do sutra"
     },
     {
       "headword_latin": "Od Kulina bana",
@@ -17291,6 +17527,33 @@
       ],
       "note": "Сербский и русский используют один библейский образ, но компоненты не совпадают буквально: сербское kukolj — сорное растение, тогда как русский устойчивый вариант говорит о «плевелах». Глаголы odvojiti и razdvojiti употребляются параллельно. В современном языке выражение очень часто означает «отфильтровать ценное от некачественного или ложного».",
       "keyword": "žito; kukolj"
+    },
+    {
+      "headword_latin": "Ogrebati se",
+      "type": "glagol",
+      "definition_ru": "урвать; поживиться; получить что-то на халяву; примазаться к выгоде",
+      "synonyms_sr": [
+        "okoristiti se",
+        "ućariti",
+        "izvući nešto za sebe",
+        "dobiti nešto džabe"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr. ili šalj.; naročito ogrebati se za nešto",
+      "examples": [
+        {
+          "serbian_latin": "Važnije je sačuvati obraz nego se ogrebati za neki poslanički mandat.",
+          "russian": "Важнее сохранить лицо, чем урвать себе какой-нибудь депутатский мандат.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Nadajući se da će se i lično oko toga nešto ogrebati.",
+          "russian": "Надеясь, что и ему лично что-нибудь от этого перепадёт.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Не путать с буквальным ogrebati se «поцарапаться». В переносном значении человек получает небольшую выгоду благодаря чужим деньгам, успеху, должности или общей раздаче благ. Особенно полезна модель ogrebati se za + akuzativ: ogrebati se za kartu, ručak, mandat.",
+      "keyword": "ogrebati se"
     },
     {
       "headword_latin": "Okačiti mačku o rep",
@@ -17552,6 +17815,33 @@
       "keyword": "ploča"
     },
     {
+      "headword_latin": "Oladi",
+      "type": "sleng",
+      "definition_ru": "остынь; угомонись; хорош уже; отвянь",
+      "synonyms_sr": [
+        "smiri se",
+        "iskuliraj",
+        "spusti loptu",
+        "pusti me na miru"
+      ],
+      "literal_ru": "остынь",
+      "register": "razg.-sleng, oštro; oladi malo, ajde oladi, oladi od mene",
+      "examples": [
+        {
+          "serbian_latin": "Ajde, Siniša, oladi malo…",
+          "russian": "Синиша, да угомонись ты немного…",
+          "source": "Danas, komentar, 2026"
+        },
+        {
+          "serbian_latin": "Oladi od mene!",
+          "russian": "Отстань от меня!",
+          "source": "Puls / Kurir, 2012"
+        }
+      ],
+      "note": "Oladi — разговорная форма с выпадением h по отношению к нейтральному ohladi. Значение шире буквального «остынь»: это просьба сбавить агрессию, напор или назойливость. Формулу сильно популяризировала песня группы Poslednja igra leptira Dečko, ’ajde oladi, которую и сегодня регулярно вспоминают сербские СМИ.",
+      "keyword": "oladi"
+    },
+    {
       "headword_latin": "Omaklo mi se",
       "type": "replika",
       "definition_ru": "случайно вырвалось; нечаянно получилось; я случайно это сделал / сказал; сорвалось",
@@ -17582,6 +17872,33 @@
       ],
       "note": "Ваше «ушло из-под контроля» возможно только в отдельных ситуациях. Центральное значение — непреднамеренность: слово, ругательство, шутка, движение, ошибка «сорвались». «Меня прорвало» обычно сильнее: для внезапного эмоционального потока естественнее pukao sam, izletelo mi je sve, nisam mogao da se zaustavim. Omaklo mi se часто используется и как полушутливое оправдание: «ой, случайно получилось». Очень типично omakla mi se psovka / greška / reč.",
       "keyword": "omaklo mi se"
+    },
+    {
+      "headword_latin": "Opasuljiti se",
+      "type": "glagol",
+      "definition_ru": "образумиться; прийти в себя; очухаться; наконец сообразить",
+      "synonyms_sr": [
+        "urazumiti se",
+        "doći sebi",
+        "osvestiti se",
+        "sabrati se"
+      ],
+      "literal_ru": "условно «офасолиться», от pasulj",
+      "register": "razg., šalj.-ekspresivno; naročito često u imperativu opasulji se!",
+      "examples": [
+        {
+          "serbian_latin": "Opasulji se i pogledaj istini u oči.",
+          "russian": "Образумься и посмотри правде в глаза.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Opasulji se, MT:S, lepo ti kažem.",
+          "russian": "Опомнись, MT:S, я тебе по-хорошему говорю.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "RTS прямо толкует opasuljiti se как doći sebi, urazumiti se. В новом источнике приводится популярное объяснение, будто сытная фасоль «приводит человека в чувство»; надёжного подтверждения такой этимологии нет, поэтому лучше ограничиться очевидной словообразовательной связью с pasulj. Выражение вполне живо: в 2025 году оно было использовано даже как название протестной акции преподавателей в Нише.",
+      "keyword": "opasuljiti se"
     },
     {
       "headword_latin": "Oprati obraz",
@@ -17952,6 +18269,32 @@
       "keyword": "oteto prokleto"
     },
     {
+      "headword_latin": "Oteto — prokleto",
+      "type": "poslovica",
+      "definition_ru": "отнятое добра не принесёт; краденое впрок не идёт; неправедно нажитое проклято",
+      "synonyms_sr": [
+        "tuđe nije sreća",
+        "nepravedno stečeno ne donosi dobro",
+        "tuđe se ne otima"
+      ],
+      "literal_ru": "",
+      "register": "poslov., upozoravajuće; o onome što je prisvojeno silom, prevarom ili nepravdom",
+      "examples": [
+        {
+          "serbian_latin": "Rezolucija Evropskog parlamenta o izbornoj krađi u Srbiji, skraćena verzija: Oteto – prokleto.",
+          "russian": "Резолюция Европарламента о фальсификации выборов в Сербии, сокращённая версия: «неправедно нажитое добра не принесёт».",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Tako Prištini poručujem da ne otimaju ono što je tuđe. Oteto, prokleto.",
+          "russian": "Поэтому я говорю Приштине: не отнимайте чужое. Отнятое добра не принесёт.",
+          "source": "RTS, 2015"
+        }
+      ],
+      "note": "Oteto — не обязательно буквально «украденное»: речь о любом имуществе, власти или выгоде, полученных неправедным отъёмом. Поэтому русское «что с возу упало, то пропало» совершенно не подходит: сербская пословица, наоборот, утверждает, что присвоенное чужое принесёт беду.",
+      "keyword": "oteto prokleto"
+    },
+    {
       "headword_latin": "Otići Bogu na istinu",
       "type": "frazeologizam",
       "definition_ru": "умереть; отправиться на тот свет; преставиться",
@@ -18008,6 +18351,32 @@
       "keyword": "trbuh; kruh"
     },
     {
+      "headword_latin": "Otkad je sveta i veka",
+      "type": "izraz",
+      "definition_ru": "испокон веков; с незапамятных времён; сколько существует мир",
+      "synonyms_sr": [
+        "oduvek",
+        "od pamtiveka",
+        "od davnina"
+      ],
+      "literal_ru": "с тех пор, как существуют мир и век",
+      "register": "neutralno-ekspresivno; često u opštim tvrdnjama o ljudskoj prirodi ili veoma starom običaju",
+      "examples": [
+        {
+          "serbian_latin": "Otkad je sveta i veka ljudi su se ubijali, što zbog zemlje, što zbog bogatstva, što zbog Boga.",
+          "russian": "Испокон веков люди убивали друг друга — из-за земли, богатства или Бога.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Knjiga je otkad je sveta i veka čovekov najbolji drug.",
+          "russian": "Книга с незапамятных времён была лучшим другом человека.",
+          "source": "RTS, 2017"
+        }
+      ],
+      "note": "Vek здесь не конкретные сто лет, а старое более широкое «время, век, существование мира». Поэтому буквальное «с тех пор, как есть мир и столетие» неверно. По стилю выражение заметно образнее простого oduvek.",
+      "keyword": "sveta i veka"
+    },
+    {
       "headword_latin": "Otkriti toplu vodu",
       "type": "frazeologizam",
       "definition_ru": "открыть Америку; изобрести велосипед; выдать очевидное за открытие",
@@ -18034,6 +18403,32 @@
       "keyword": "topla voda"
     },
     {
+      "headword_latin": "Otrov se drži u malim bočicama",
+      "type": "izreka",
+      "definition_ru": "маленький, да удаленький; мал ростом, да с характером; от маленького многого можно ожидать",
+      "synonyms_sr": [
+        "mali, ali opasan",
+        "mala, ali jaka",
+        "ne potcenjuj malog"
+      ],
+      "literal_ru": "яд хранят в маленьких бутылочках",
+      "register": "razg.-poslov., šalj.; naročito o niskom čoveku, često samoironično ili kao kompliment sa upozorenjem",
+      "examples": [
+        {
+          "serbian_latin": "Otrov se drži u malim bočicama.",
+          "russian": "Маленькая, да удаленькая.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Otrov se drži u malim bočicama – zaključila je Vera.",
+          "russian": "Яд хранят в маленьких флаконах, — заключила Вера, говоря о своём небольшом росте.",
+          "source": "Espreso, 2024"
+        }
+      ],
+      "note": "Русское «мал золотник, да дорог» слишком положительно: сербская фраза подчёркивает не столько ценность, сколько силу, темперамент или потенциальную опасность несмотря на маленький размер. Поэтому о невысокой бойкой женщине естественнее «маленькая, да удаленькая». Может употребляться и буквально-шутливо о маленьком, но очень мощном или остром предмете.",
+      "keyword": "otrov u malim bočicama"
+    },
+    {
       "headword_latin": "Otvarati / otvoriti stare rane",
       "type": "frazeologizam",
       "definition_ru": "бередить старые раны; ворошить болезненное прошлое; снова причинять старую боль",
@@ -18058,6 +18453,32 @@
       ],
       "note": "Буквальное русское «открывать старые раны» понятно, но устойчивее звучит «бередить старые раны». В сербском выражение очень естественно и для коллективной исторической памяти, особенно когда обсуждение прошлого рискует вновь вызвать сильные эмоции или конфликт. Otvarati обозначает повторяющееся действие, otvoriti — конкретный случай.",
       "keyword": "stare rane"
+    },
+    {
+      "headword_latin": "Otvoriti četvore oči",
+      "type": "frazeologizam",
+      "definition_ru": "смотреть в оба; быть предельно внимательным; держать ухо востро",
+      "synonyms_sr": [
+        "dobro paziti",
+        "biti na oprezu",
+        "širom otvoriti oči"
+      ],
+      "literal_ru": "открыть четыре глаза",
+      "register": "razg., upozoravajuće; naročito često u imperativu otvori četvore oči",
+      "examples": [
+        {
+          "serbian_latin": "Otvori četvore oči kada ideš na glasanje.",
+          "russian": "Смотри в оба, когда идёшь голосовать.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Otvoriću četvore oči.",
+          "russian": "Буду смотреть в оба.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "RTS со ссылкой на Виолету Бабич и словари SANU и Matice srpske объясняет значение как «хорошо смотреть, быть внимательным» и отмечает также вариант četvere oči. Для нашей фразеотеки основной формой лучше оставить общеупотребительное в Сербии četvore oči. Не смешивать с u četiri oka — «с глазу на глаз».",
+      "keyword": "četvore oči"
     },
     {
       "headword_latin": "otvoriti dušu",
@@ -18190,6 +18611,32 @@
       "keyword": "kao muve"
     },
     {
+      "headword_latin": "Padati s nogu",
+      "type": "frazeologizam",
+      "definition_ru": "валиться с ног; выбиваться из сил; едва держаться на ногах",
+      "synonyms_sr": [
+        "biti iscrpljen",
+        "biti premoren",
+        "jedva stajati na nogama"
+      ],
+      "literal_ru": "",
+      "register": "razg.; naročito često padati s nogu od posla / umora",
+      "examples": [
+        {
+          "serbian_latin": "Moja mama farmaceut ovih dana pada s nogu od posla.",
+          "russian": "Моя мама-фармацевт в эти дни буквально валится с ног от работы.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Novinari koji prate Panića padaju s nogu od posla.",
+          "russian": "Журналисты, которые сопровождают Панича, валятся с ног от работы.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Практически полное совпадение с русским. Полезно управление причиной: padati s nogu od posla, od umora. Не обязательно человек буквально засыпает — речь о крайнем физическом или нервном истощении.",
+      "keyword": "padati s nogu"
+    },
+    {
       "headword_latin": "pala / upala je nekome sekira u med",
       "type": "фразеологизм",
       "definition_ru": "Кому-либо неожиданно повезло; кто-либо получил большую выгоду, удобное место или редкий шанс.",
@@ -18243,6 +18690,33 @@
       ],
       "note": "Выражение особенно удобно в спорте, политике, конкурсах и любом отборе, когда «поле» сокращается до двух вариантов. Knjiga и slova здесь уже не воспринимаются буквально. Происхождение формулы точно не установлено; для активной речи достаточно запомнить её значение «осталось только два».",
       "keyword": "pala knjiga na dva slova"
+    },
+    {
+      "headword_latin": "Palamuditi",
+      "type": "glagol",
+      "definition_ru": "пустословить; разводить философию; молоть языком; рассуждать ни о чём",
+      "synonyms_sr": [
+        "mlatiti praznu slamu",
+        "lupetati",
+        "trabunjati",
+        "filozofirati bez veze"
+      ],
+      "literal_ru": "",
+      "register": "razg.-žarg., grublje, neodobr.; nemoj da palamudiš; imenica palamuđenje",
+      "examples": [
+        {
+          "serbian_latin": "Došli smo do tačke gde ako pišeš, onda palamudiš.",
+          "russian": "Мы дошли до того, что если ты что-то пишешь, значит, «разводишь пустую философию».",
+          "source": "Beograd 202 / RTS, 2016"
+        },
+        {
+          "serbian_latin": "Lasno je palamuditi i „braniti“ bez kočnica…",
+          "russian": "Легко сидеть и пустословить, безудержно кого-нибудь «защищая»…",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "В отличие от нейтрального filozofirati, palamuditi почти всегда обесценивает чужую речь: человек много и умнообразно говорит, но ничего полезного не сообщает и не делает. Слово грубовато, однако вполне встречается и в прессе. Для популярной этимологии существуют разные версии; надёжно установленного происхождения, которое стоило бы включать в словарную статью, нет.",
+      "keyword": "palamuditi"
     },
     {
       "headword_latin": "Pametniji popušta",
@@ -18686,6 +19160,33 @@
       ],
       "note": "Русское «в глазах потемнело» может описывать и физическое состояние — слабость, обморок, боль. Сербское pasti nekome mrak na oči в переносном употреблении гораздо чаще означает внезапную ярость и потерю самоконтроля. Поэтому буквальный перевод без контекста может быть двусмысленным.",
       "keyword": "mrak na oči"
+    },
+    {
+      "headword_latin": "Pasti nekome roletna na oči",
+      "type": "frazeologizam",
+      "definition_ru": "сорваться; прийти в ярость; в глазах потемнело; перестать себя контролировать",
+      "synonyms_sr": [
+        "pasti nekome mrak na oči",
+        "pukne nekome film",
+        "izgubiti kontrolu",
+        "pobesneti"
+      ],
+      "literal_ru": "у кого-то опустилась ролета на глаза",
+      "register": "razg., ekspresivno; pala mi / mu / joj je roletna na oči",
+      "examples": [
+        {
+          "serbian_latin": "Da vam padne roletna na oči, kao kada na internetu pljuju vaše heroje.",
+          "russian": "Чтобы у вас от ярости потемнело в глазах, как когда в интернете ругают ваших героев.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Pala mi je roletna na oči, banula sam joj u kuću.",
+          "russian": "У меня от ярости в глазах потемнело, и я ворвалась к ней домой.",
+          "source": "Kurir, 2017"
+        }
+      ],
+      "note": "Это современная образная вариация более старого pasti nekome mrak na oči. Roletna словно резко перекрывает человеку обзор: он «ничего не видит» от гнева. Близко к pukao mi je film, но roletna особенно подчёркивает внезапную потерю самообладания.",
+      "keyword": "roletna na oči"
     },
     {
       "headword_latin": "Pasti s konja na magarca",
