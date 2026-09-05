@@ -26191,6 +26191,28 @@
       "keyword": "voda na svoju vodenicu"
     },
     {
+      "headword_latin": "Teško onom ko zlotvora nema",
+      "type": "poslovica",
+      "definition_ru": "плохо тому, у кого нет врагов; если у тебя нет недоброжелателей, значит, ты ничего не стоишь / ничем себя не проявил",
+      "synonyms_sr": [],
+      "literal_ru": "горе тому, у кого нет злодея / врага",
+      "register": "narodna poslovica, star., paradoksalno-aforistički; danas retka i uglavnom citatna",
+      "examples": [
+        {
+          "serbian_latin": "Neka crknu od muke zlotvori, mada jedna poslovica koju je Vuk zabeležio glasi: „Teško onom ko zlotvora nema“!",
+          "russian": "Пусть недоброжелатели лопнут от злости, хотя одна из записанных Вуком пословиц гласит: «Плохо тому, у кого нет врагов!»",
+          "source": "Pečat, 2013"
+        },
+        {
+          "serbian_latin": "Ako te svi tapšu po ramenu i nikome ne smetaš, seti se one stare: teško onom ko zlotvora nema.",
+          "russian": "Если все хлопают тебя по плечу и ты никому не мешаешь, вспомни старую поговорку: плохо тому, у кого нет врагов.",
+          "source": ""
+        }
+      ],
+      "note": "Смысл пословицы не в том, что враги сами по себе полезны или желательны. Это парадоксальная мысль: деятельный, заметный или успешный человек неизбежно кому-нибудь мешает, вызывает зависть или наживает противников; полное отсутствие недоброжелателей можно иронически истолковать как признак незаметности и бездеятельности. Пословицу связывают со сборником Вука Караджича; в исследовании сербских и английских пословиц ей сопоставляется латинское Miserrima est fortuna quae inimicis caret — примерно «жалка судьба, у которой нет врагов». Не смешивать с другой записанной Вуком пословицей Ako zlotvora nemaš, majka ti ga je rodila: у неё иной смысл — враг может оказаться даже среди самых близких.",
+      "keyword": "zlotvor"
+    },
+    {
       "headword_latin": "Tiha voda breg roni",
       "type": "poslovica",
       "definition_ru": "вода камень точит; терпение и настойчивость своё возьмут; тихая вода берега подмывает",
