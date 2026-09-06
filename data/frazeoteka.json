@@ -22936,6 +22936,32 @@
       "keyword": "ruku na srce"
     },
     {
+      "headword_latin": "Ružan kao lopov",
+      "type": "frazeologizam",
+      "definition_ru": "страшный как смертный грех; очень некрасивый; уродливый",
+      "synonyms_sr": [
+        "veoma ružan",
+        "nakazan",
+        "ružan kao đavo"
+      ],
+      "literal_ru": "некрасивый как вор",
+      "register": "razg., ekspresivno, podsmešljivo; prvenstveno o izgledu, ali i o predmetima, zgradama ili dizajnu",
+      "examples": [
+        {
+          "serbian_latin": "Ne kaže narod za džabe: „Ružan ko lopov“.",
+          "russian": "Не зря говорят: страшен как смертный грех.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Pre mnogo godina Ljubivoje Ršumović je pitao svoje male sagovornike zašto se kaže „ružan kao lopov“.",
+          "russian": "Много лет назад Любивое Ршумович спросил маленьких собеседников, почему говорят «некрасивый как вор».",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Никакого утверждения, будто преступники физически некрасивы, в современном обороте уже нет: это просто гиперболическое сравнение. Любивое Ршумович удачно обыгрывал буквальную нелогичность фразы: ребёнок объяснил её тем, что «некрасиво то, что воры делают». Русское «страшен как смертный грех» функционально ближе, чем буквальное «как вор».",
+      "keyword": "ružan kao lopov"
+    },
+    {
       "headword_latin": "S brda s dola",
       "type": "frazeologizam",
       "definition_ru": "как попало; бессвязно; без системы, кусками",
@@ -23065,6 +23091,32 @@
       "keyword": "rebro"
     },
     {
+      "headword_latin": "S oproštenjem",
+      "type": "izraz",
+      "definition_ru": "простите за выражение; извините; с позволения сказать",
+      "synonyms_sr": [
+        "da izvinete",
+        "izvinite na izrazu",
+        "da prostite"
+      ],
+      "literal_ru": "с прощением",
+      "register": "razg.-neutralno; formula ublažavanja pre ili posle grube, nepristojne, fiziološke ili neugodne reči; danas često i ironično",
+      "examples": [
+        {
+          "serbian_latin": "Ovde je kao neka, s oproštenjem, sprdnja.",
+          "russian": "Здесь, простите за выражение, какой-то балаган.",
+          "source": "N1, 2023"
+        },
+        {
+          "serbian_latin": "Olakšam se ja, s oproštenjem, biće lakše svima.",
+          "russian": "Я, извините, справлю нужду — всем станет легче.",
+          "source": "N1, 2022"
+        }
+      ],
+      "note": "В новом источнике формула описана как старомодно-учтивая, но современное употребление заметно шире: она вполне жива и часто создаёт комический контраст между подчеркнутой вежливостью и следующим за ней грубым словом. Близкое da izvinete ещё чаще встречается в спонтанной речи. Bez uvrede означает другое — «без обид» перед потенциально неприятной оценкой.",
+      "keyword": "s oproštenjem"
+    },
+    {
       "headword_latin": "Sačuvati obraz",
       "type": "frazeologizam",
       "definition_ru": "сохранить лицо; сохранить честь; не уронить достоинство",
@@ -23092,6 +23144,32 @@
       ],
       "note": "Это важная культурная особенность слова obraz: в устойчивых сочетаниях оно часто означает честь и моральную репутацию. Поэтому sačuvati obraz не всегда следует механически переводить русским «сохранить лицо»: нередко точнее «сохранить честь», «не поступиться достоинством».",
       "keyword": "sačuvati obraz"
+    },
+    {
+      "headword_latin": "Sam pao, sam se ubio",
+      "type": "izreka",
+      "definition_ru": "сам виноват; сам напросился; на себя пеняй",
+      "synonyms_sr": [
+        "sam si kriv",
+        "ko ti je kriv",
+        "sam si to sebi napravio"
+      ],
+      "literal_ru": "сам упал, сам убился",
+      "register": "poslov.-razg., iron.-neodobr.; o lošim posledicama koje je čovek izazvao sopstvenim postupkom",
+      "examples": [
+        {
+          "serbian_latin": "Proglasili su me za izdajnika. Sam pao, sam se ubio.",
+          "russian": "Объявили меня предателем. Сам виноват — на себя и пеняй.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Dobro, „neka toga sada tu“. Sam pao, sam se ubio.",
+          "russian": "Ну ладно, оставим это. Сам виноват.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Формула обычно снимает ответственность с окружающих: последствия рассматриваются как результат собственного выбора пострадавшего. Она может быть и самоиронической — «сам всё это затеял, теперь нечего жаловаться». Встречается вариант sam sam pao, sam se i ubio; фраза настолько узнаваема, что неоднократно использовалась как название песен и альбомов.",
+      "keyword": "sam pao sam se ubio"
     },
     {
       "headword_latin": "Sam svoj gazda",
@@ -23355,6 +23433,32 @@
       "keyword": "servirati na tacni"
     },
     {
+      "headword_latin": "Sevap",
+      "type": "imenica",
+      "definition_ru": "доброе дело; богоугодный поступок; добро, которое «зачтётся»",
+      "synonyms_sr": [
+        "dobro delo",
+        "dobročinstvo",
+        "plemenit postupak"
+      ],
+      "literal_ru": "",
+      "register": "tradic.-razg.; turcizam arapskog porekla; tipično učiniti sevap",
+      "examples": [
+        {
+          "serbian_latin": "U našem jeziku sevap pre svega znači učiniti dobro delo, pomoći nekome bez da očekujemo nešto zauzvrat.",
+          "russian": "В нашем языке sevap прежде всего означает сделать доброе дело, помочь кому-либо, ничего не ожидая взамен.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Učiniti sevap znači učiniti neko dobro delo.",
+          "russian": "Совершить sevap — значит сделать доброе дело.",
+          "source": "Otvoreni parlament, 2026"
+        }
+      ],
+      "note": "Исторически слово связано с исламским представлением о духовной награде за доброе дело: через турецкий оно восходит к арабскому. В сербской речи значение стало шире конфессионального и может употребляться совершенно обыденно: помочь нуждающемуся, отдать ненужную вещь, сделать что-либо полезное без выгоды для себя. RTS именно так объясняет слово в рассказе о белградской платформе для бесплатной передачи вещей. Русское «зачтётся» хорошо передаёт оставшийся оттенок нравственной заслуги.",
+      "keyword": "sevap"
+    },
+    {
       "headword_latin": "Sila Boga ne moli",
       "type": "poslovica",
       "definition_ru": "грубая сила ни с чем не считается; сила действует без спроса",
@@ -23471,6 +23575,31 @@
       "keyword": "siromašan kao crkveni miš"
     },
     {
+      "headword_latin": "Sirotinjo, i Bogu si teška",
+      "type": "poslovica",
+      "definition_ru": "бедному везде тяжело; бедняку никто не поможет; бедность и Богу в тягость",
+      "synonyms_sr": [
+        "nema pravde za sirotinju",
+        "sirotinja najgore prolazi"
+      ],
+      "literal_ru": "беднота, даже Богу ты тяжела",
+      "register": "poslov., gorko-ironično, ponekad cinično; obično kao komentar na socijalnu nepravdu i težak položaj siromašnih",
+      "examples": [
+        {
+          "serbian_latin": "Iz svega bi se mogli izvući brojni zaključci, a narod bi rekao: nema pravde za sirotinju, ili „sirotinjo i Bogu si teška“.",
+          "russian": "Из всего этого можно сделать множество выводов, а народ сказал бы: бедному нигде нет справедливости, даже Богу он в тягость.",
+          "source": "Politika, 2018"
+        },
+        {
+          "serbian_latin": "Siromašni najviše glasaju za Vučića jer on jedini ne kaže: „Sirotinjo i Bogu si teška“.",
+          "russian": "Бедные чаще всего голосуют за Вучича, потому что он единственный не говорит им: «беднота даже Богу в тягость».",
+          "source": "N1, 2022"
+        }
+      ],
+      "note": "Пословицу лучше понимать не буквально как богословское утверждение, а как горький социальный комментарий: бедного человека словно все считают обузой, и неприятности чаще всего достаются именно ему. Поэтому выражение может звучать сочувственно, но при обращении непосредственно к бедному человеку способно восприниматься унизительно. Особенно типично употребление после истории о несправедливых расходах, штрафах, ценах или отношении государства к малоимущим.",
+      "keyword": "sirotinjo"
+    },
+    {
       "headword_latin": "Sit gladnom ne veruje",
       "type": "poslovica",
       "definition_ru": "сытый голодного не разумеет; благополучный не понимает чужой нужды",
@@ -23523,6 +23652,32 @@
       ],
       "note": "Здесь речь не о физическом размере, а о месте в иерархии: sitna riba обладает малым влиянием и обычно не принимает ключевых решений. Естественная противоположность — krupna riba «крупная рыба, большая шишка». Особенно частотно выражение в криминальной и политической журналистике.",
       "keyword": "sitna riba"
+    },
+    {
+      "headword_latin": "Sitno se broji",
+      "type": "izraz",
+      "definition_ru": "осталось совсем немного; счёт пошёл на дни; обратный отсчёт уже идёт",
+      "synonyms_sr": [
+        "još malo",
+        "bliži se kraj",
+        "odbrojavaju se poslednji dani"
+      ],
+      "literal_ru": "считается уже по мелочи",
+      "register": "razg.-publicistički; naročito sitno se broji do + genitiv; moguće i godina broji sitno",
+      "examples": [
+        {
+          "serbian_latin": "Sitno se broji do nove konstitutivne sednice republičkog parlamenta.",
+          "russian": "До нового учредительного заседания парламента остались считаные дни.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Sitno se broji do početka Mundobasketa.",
+          "russian": "До начала чемпионата мира по баскетболу остаётся совсем немного.",
+          "source": "Sport Klub / N1, 2023"
+        }
+      ],
+      "note": "Sitno здесь означает, что крупные единицы времени уже закончились и счёт идёт на последние дни или часы. Выражение особенно любимо спортивными журналистами перед началом соревнования. Оно также прочно ассоциируется с армейским жаргоном: бывшие военнослужащие вспоминают, как старый солдат перед окончанием службы broji sitno. Это хорошо подтверждает культурный фон, но считать именно армию доказанным местом происхождения оборота нельзя.",
+      "keyword": "sitno se broji"
     },
     {
       "headword_latin": "Sjaši Kurta da uzjaše Murta",
@@ -23750,6 +23905,33 @@
       "keyword": "sklopiti kolica"
     },
     {
+      "headword_latin": "Skockati se",
+      "type": "glagol",
+      "definition_ru": "приодеться; нарядиться; привести себя в полный порядок",
+      "synonyms_sr": [
+        "srediti se",
+        "doterati se",
+        "nacifrati se",
+        "tip-top se srediti"
+      ],
+      "literal_ru": "",
+      "register": "razg., odobr. ili šalj.; naročito o pažljivo odabranoj odeći, frizuri i šminki",
+      "examples": [
+        {
+          "serbian_latin": "Skockala se u fulu i poručila: „Ispunila mi se želja“.",
+          "russian": "Она нарядилась по полной и сказала: «Моя мечта сбылась».",
+          "source": "Blic, 2026"
+        },
+        {
+          "serbian_latin": "Skockala se, osmeh ne skida sa lica – prava dama.",
+          "russian": "Нарядилась, улыбка не сходит с лица — настоящая дама.",
+          "source": "Blic, 2023"
+        }
+      ],
+      "note": "Значение несколько шире простого obući se: подразумевается, что человек тщательно собрал весь образ и выглядит особенно аккуратно или эффектно. Прилагательное skockan свободно употребляется и о вещах: skockan stan, skockan sajt, sve je lepo skockano — «всё отлично собрано / оформлено / подогнано». Danas, например, пишет tek skockan stan о полностью оформленной новой квартире.",
+      "keyword": "skockati se"
+    },
+    {
       "headword_latin": "Skočiti sebi u usta",
       "type": "frazeologizam",
       "definition_ru": "противоречить самому себе; самому себя опровергнуть; поступить вопреки собственным словам",
@@ -23803,6 +23985,32 @@
       ],
       "note": "Выражение особенно естественно, когда ради экономии, прибыли или небольшой пользы приходится понести несоразмерные затраты. Русские «овчинка выделки не стоит» и «себе дороже» хорошо передают прагматику. Компонент dara современному говорящему вне этой формулы непрозрачен, поэтому выражение лучше запоминать целиком.",
       "keyword": "dara; mera"
+    },
+    {
+      "headword_latin": "Skuplja pita nego tepsija",
+      "type": "poslovica",
+      "definition_ru": "овчинка выделки не стоит; себе дороже; расходы больше самой выгоды",
+      "synonyms_sr": [
+        "ne isplati se",
+        "skuplja dara nego mera",
+        "trošak je veći od koristi"
+      ],
+      "literal_ru": "пита дороже противня",
+      "register": "razg.-poslov., iron.; o situaciji kada sporedni troškovi premašuju vrednost samog rezultata",
+      "examples": [
+        {
+          "serbian_latin": "Novac bez koga sam ostao je manji trošak u odnosu na to koliko ću da platim izdavanje novih dokumenata i kartica. Skuplja pita nego tepsija.",
+          "russian": "Потерянные деньги — мелочь по сравнению с тем, сколько придётся заплатить за новые документы и карты. Овчинка выделки не стоит.",
+          "source": "Telegraf, 2022"
+        },
+        {
+          "serbian_latin": "Ako se ne pomogne mladim ljudima, ispadne da je posle skuplja pita nego tepsija.",
+          "russian": "Если вовремя не помочь молодым людям, потом устранение последствий обойдётся дороже самой проблемы.",
+          "source": "021.rs / BBC na srpskom, 2022"
+        }
+      ],
+      "note": "Tepsija — круглый металлический противень, характерный для балканской кухни; слово является турцизмом. Выражение широко понятно и реально употребляется в Сербии, хотя особенно прочно оно представлено и в боснийской разговорной традиции. В отличие от близкого skuplja dara nego mera, образ здесь совершенно бытовой: бессмысленно тратить на «упаковку» или побочные расходы больше, чем стоит сама вещь.",
+      "keyword": "pita tepsija"
     },
     {
       "headword_latin": "Skupljati / pokupiti mrvice",
@@ -23969,6 +24177,33 @@
       "keyword": "sloga"
     },
     {
+      "headword_latin": "Smandrljati",
+      "type": "glagol",
+      "definition_ru": "сварганить; состряпать кое-как; наспех слепить; тяп-ляп закончить",
+      "synonyms_sr": [
+        "zbrzati",
+        "sklepati",
+        "otaljati",
+        "odraditi preko reda"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; svršeni glagol; tipično smandrljati posao, projekat, tekst, zakon",
+      "examples": [
+        {
+          "serbian_latin": "Iako često pod pritiskom vremenskih rokova i nerealnih zahteva, on posao neće „smandrljati“.",
+          "russian": "Даже под давлением сроков и нереалистичных требований он не станет делать работу тяп-ляп.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Trebalo je navrat-nanos rešiti sve postojeće probleme, prekršiti svaki zakon, na silu smandrljati celu tu rabotu.",
+          "russian": "Нужно было второпях решить все проблемы, нарушить все законы и кое-как слепить всё это дело.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "В слове одновременно присутствуют два оттенка: сделать быстро и сделать небрежно, лишь бы закончить. Поэтому русское «сварганить» подходит лучше нейтрального «быстро сделать». Очень близки sklepati и otaljati, но smandrljati особенно хорошо описывает работу, которую намеренно протолкнули или закончили без должательной проработки.",
+      "keyword": "smandrljati"
+    },
+    {
       "headword_latin": "smejati se kao lud na brašno",
       "type": "устойчивое сравнение",
       "definition_ru": "Смеяться без видимой причины; глупо или неудержимо хохотать.",
@@ -23990,6 +24225,32 @@
       ],
       "note": "Так говорят о человеке, чей смех кажется окружающим беспричинным или неуместным. Происхождение выражения объясняют несколькими народными историями, но достоверная этимология не установлена.",
       "keyword": "brašno"
+    },
+    {
+      "headword_latin": "Smeši se nekome brk",
+      "type": "frazeologizam",
+      "definition_ru": "довольно усмехаться; быть явно довольным; предвкушать выгоду или успех",
+      "synonyms_sr": [
+        "zadovoljno se smeškati",
+        "biti zadovoljan",
+        "trljati ruke"
+      ],
+      "literal_ru": "у кого-то улыбается ус",
+      "register": "razg.-publicistički, iron.; obično smeši mu se brk; dativ označava osobu koja je zadovoljna",
+      "examples": [
+        {
+          "serbian_latin": "Smešio mu se brk zbog očekivanog uspeha i dobre igre.",
+          "russian": "Он довольно улыбался, предвкушая ожидаемый успех после хорошей игры.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Sanacija terena i mogućnost da se obezbede besplatni hektari samo su neke od mogućnosti na koje im se smeši brk.",
+          "russian": "Восстановление территории и возможность получить бесплатные гектары — лишь часть перспектив, от которых они уже довольно потирают руки.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Перевод нового источника «усмехаться в усы» слишком узок. Сербское выражение прежде всего показывает довольство, удовлетворение или приятное предвкушение, которое человек не вполне скрывает. В русском «усмехаться в усы» нередко означает просто скрытно посмеиваться; поэтому в конкретном контексте лучше «довольно улыбаться», «потирать руки». Не путать с smešiti se nekome в конструкции smeši mu se pobeda — «ему светит победа».",
+      "keyword": "smeši se brk"
     },
     {
       "headword_latin": "Soliti pamet",
