@@ -8465,6 +8465,37 @@
       "keyword": "kratak fitilj"
     },
     {
+      "headword_latin": "Imati nešto u džepu",
+      "type": "frazeologizam",
+      "definition_ru": "считать что-либо практически обеспеченным; иметь победу / результат почти в кармане; считать дело почти сделанным",
+      "synonyms_sr": [
+        "imati nešto gotovo",
+        "biti nadomak nečega",
+        "gotovo obezbediti nešto"
+      ],
+      "literal_ru": "иметь что-либо в кармане",
+      "register": "razg.-publicistički; naročito imati pobedu / utakmicu / titulu / bodove u džepu; rezultat izgleda gotovo obezbeđen iako još nije konačan",
+      "examples": [
+        {
+          "serbian_latin": "Delovalo je da je Majami imao utakmicu „u džepu“ kada je sedam minuta i 15 sekundi pre kraja vodio 88:73.",
+          "russian": "Казалось, что матч уже у «Майами» в кармане, когда за семь минут до конца команда вела 88:73.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Everton je na „Gudison parku“ imao pobedu u „džepu“, ali su gosti u samom finišu došli do izjednačenja.",
+          "russian": "У «Эвертона» победа уже была почти в кармане, но в самой концовке гости сравняли счёт.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Kobe je u gostima držao tri boda u džepu sve do 114. minuta.",
+          "russian": "«Кобе» практически держал три очка в кармане вплоть до 114-й минуты.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "Сербское imati nešto u džepu соответствует английскому have something in the bag именно в значении «считать результат практически обеспеченным». Особенно живо выражение в спортивной речи: pobeda, utakmica, titula, tri boda u džepu. Интересно, что оборот нередко появляется именно в рассказе о потерянной почти гарантированной победе. Не путать с imati keca u rukavu — там речь о скрытом козыре или запасном плане, а не об уже почти достигнутом результате. Форма imati nešto u torbi обычно понимается буквально — «иметь что-то в сумке» — и как устойчивый сербский эквивалент этого значения не подтверждается.",
+      "keyword": "u džepu"
+    },
+    {
       "headword_latin": "Imati nešto u malom prstu",
       "type": "frazeologizam",
       "definition_ru": "Знать что-либо как свои пять пальцев; владеть чем-либо в совершенстве; досконально разбираться в чём-либо.",
