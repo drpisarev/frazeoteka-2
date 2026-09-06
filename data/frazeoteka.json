@@ -18983,6 +18983,33 @@
       "keyword": "pasti na foru"
     },
     {
+      "headword_latin": "Pasti / upasti nekome sekira u med",
+      "type": "frazeologizam",
+      "definition_ru": "невероятно повезти; сорвать куш; попасть в исключительно выгодное положение",
+      "synonyms_sr": [
+        "posrećiti se",
+        "imati veliku sreću",
+        "dobro proći",
+        "ubosti premiju"
+      ],
+      "literal_ru": "топор попал кому-то в мёд",
+      "register": "razg.; obično pala mu je sekira u med / upala joj je sekira u med; dativ označava osobu kojoj se posrećilo",
+      "examples": [
+        {
+          "serbian_latin": "Ukućani su rekli da mu je sekira upala u med.",
+          "russian": "Домашние сказали, что ему невероятно повезло.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Političari imaju lepljive prste. Upala im sekira u med.",
+          "russian": "У политиков руки липкие: им просто сказочно повезло.",
+          "source": "Politika, 2017"
+        }
+      ],
+      "note": "Речь обычно не о небольшой удаче, а о неожиданно выгодном стечении обстоятельств: человек получает деньги, должность, имущество или возможность, на которую едва ли рассчитывал. Распространённое объяснение образа связывает его с лесорубом, чей топор случайно попадает в наполненное мёдом дупло; такую трактовку приводят и сербские фразеологические справочники, но превращать её в документированную историю возникновения выражения не стоит. Формы pasti и upasti обе употребительны.",
+      "keyword": "sekira u med"
+    },
+    {
       "headword_latin": "Pasti kao pokošen",
       "type": "frazeologizam",
       "definition_ru": "рухнуть как подкошенный; свалиться как подкошенный",
@@ -26287,6 +26314,38 @@
       "keyword": "stvari poput toga"
     },
     {
+      "headword_latin": "Suvo zlato",
+      "type": "izraz",
+      "definition_ru": "на вес золота; сущий клад; бесценная вещь или человек",
+      "synonyms_sr": [
+        "dragocenost",
+        "zlata vredan",
+        "neprocenjiv",
+        "veoma vredan"
+      ],
+      "literal_ru": "сухое золото",
+      "register": "razg.-publicistički, odobr.; tipično vredeti kao suvo zlato, biti suvo zlato, plaćati suvim zlatom",
+      "examples": [
+        {
+          "serbian_latin": "Dobri majstori vrede kao suvo zlato, a sve ih je manje.",
+          "russian": "Хорошие мастера сейчас на вес золота, а становится их всё меньше.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Dušan je suvo zlato.",
+          "russian": "Душан — настоящий клад.",
+          "source": "Politika, 2023"
+        },
+        {
+          "serbian_latin": "Imamo Tijanu Bošković, suvo zlato.",
+          "russian": "У нас есть Тияна Бошкович — просто бесценный игрок.",
+          "source": "RTS, 2019"
+        }
+      ],
+      "note": "Оборот употребляется в двух очень близких ситуациях: о редкой и чрезвычайно ценной вещи и о человеке, которого считают особенно ценным для команды, профессии или семьи. Поэтому majstori vrede kao suvo zlato лучше переводить «мастера на вес золота», а on je suvo zlato — «он настоящий клад». Русское буквальное «сухое золото» этого значения не имеет.",
+      "keyword": "suvo zlato"
+    },
+    {
       "headword_latin": "svađati se / slagati se kao pas i mačka",
       "type": "сравнительный фразеологизм",
       "definition_ru": "Постоянно ссориться; жить как кошка с собакой; совершенно не ладить.",
@@ -27995,6 +28054,32 @@
       "keyword": "tuđe je slađe"
     },
     {
+      "headword_latin": "Tušta i tma",
+      "type": "izraz",
+      "definition_ru": "тьма-тьмущая; несметное множество; уйма",
+      "synonyms_sr": [
+        "bezbroj",
+        "mnoštvo",
+        "more nečega"
+      ],
+      "literal_ru": "",
+      "register": "razg.-ekspresivno, s blagim arhaičnim prizvukom; označava veoma veliki, gotovo nebrojiv broj nečega",
+      "examples": [
+        {
+          "serbian_latin": "Spremili smo – tušta i tma priča i priloga.",
+          "russian": "Мы подготовили уйму историй и сюжетов.",
+          "source": "Radio Beograd 202 / RTS, 2018"
+        },
+        {
+          "serbian_latin": "Ima ih tušta i tma.",
+          "russian": "Их тьма-тьмущая.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Вне этого устойчивого сочетания tušta современному учащемуся практически не понадобится: слово сохраняется прежде всего внутри формулы tušta i tma. По смыслу это усиленное mnogo: не просто «много», а «несметное количество». Встречается и старый вариант tušta i tama, однако в современной сербской прессе хорошо представлена именно форма tušta i tma.",
+      "keyword": "tušta i tma"
+    },
+    {
       "headword_latin": "Tvrd orah",
       "type": "frazeologizam",
       "definition_ru": "крепкий орешек; трудный противник; человек, которого нелегко сломить или переубедить",
@@ -28102,6 +28187,37 @@
       "keyword": "u dobru se ne ponesi u zlu se ne ponizi"
     },
     {
+      "headword_latin": "U jednom dahu",
+      "type": "frazeologizam",
+      "definition_ru": "на одном дыхании; не отрываясь; за один присест",
+      "synonyms_sr": [
+        "bez prekida",
+        "odjednom",
+        "ne zastajući"
+      ],
+      "literal_ru": "на одном вдохе / дыхании",
+      "register": "neutralno-razg.; tipično pročitati, pogledati, napisati, ispričati, odgledati u jednom dahu",
+      "examples": [
+        {
+          "serbian_latin": "Ova knjiga se čita u jednom dahu.",
+          "russian": "Эта книга читается на одном дыхании.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Pesma je nastala u jednom dahu.",
+          "russian": "Песня была написана на одном дыхании.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Moći će da „u jednom dahu“ pogledaju svih 12 epizoda.",
+          "russian": "Они смогут посмотреть все двенадцать серий на одном дыхании.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Сербский и русский образы почти полностью совпадают. Речь необязательно идёт о буквальном отсутствии пауз: выражение подчёркивает цельность, лёгкость и увлечённость процессом. Особенно естественно о книге, фильме, сериале, рассказе или произведении, созданном быстро и на одном эмоциональном подъёме.",
+      "keyword": "u jednom dahu"
+    },
+    {
       "headword_latin": "U laži su kratke noge",
       "type": "poslovica",
       "definition_ru": "у лжи короткие ноги; ложь далеко не уйдёт; правда всё равно обнаружится",
@@ -28183,6 +28299,38 @@
       ],
       "note": "Для русского «в лучших годах / в расцвете сил» обычно u naponu snage, u naponu života, u najboljim godinama. Сочетание u zaletu svog života для этого значения не является обычной устойчивой формой. Zalet — разбег, разгон, набранный импульс: uzeti zalet, biti u zaletu, prekinuti nekoga u zaletu. Поэтому u zaletu života возможно как авторская метафора, но для словаря лучше u naponu snage / u najboljim godinama.",
       "keyword": "u naponu snage"
+    },
+    {
+      "headword_latin": "U paramparčad",
+      "type": "izraz",
+      "definition_ru": "вдребезги; на куски; в клочья",
+      "synonyms_sr": [
+        "u komade",
+        "potpuno razbijeno",
+        "sasvim razneto",
+        "potpuno se raspasti"
+      ],
+      "literal_ru": "",
+      "register": "razg.-ekspresivno; tipično razbiti, razneti, rasturiti, raspasti se u paramparčad; doslovno i preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Sve se raspalo u paramparčad, svako parče traži svoje celo.",
+          "russian": "Всё разлетелось на куски, и каждый осколок ищет своё целое.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Sat koji odbrojava vreme do uništenja Izraela raznet je u paramparčad.",
+          "russian": "Часы, отсчитывавшие время до уничтожения Израиля, разнесло вдребезги.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Politička stabilnost Iraka raspala se u paramparčad.",
+          "russian": "Политическая стабильность Ирака рассыпалась на куски.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Оборот легко переносится с материальных предметов на отношения, планы, психическое состояние или политическую систему: brak se raspao u paramparčad, plan se razbio u paramparčad. Слово paramparčad пришло через турецкое paramparça и содержит сам образ полного раздробления на мелкие части. Русское «вдребезги» поэтому часто оказывается самым естественным эквивалентом.",
+      "keyword": "u paramparčad"
     },
     {
       "headword_latin": "U po bela dana",
@@ -28369,6 +28517,38 @@
       ],
       "note": "Kukolj — сорное растение, традиционно считавшееся нежелательной примесью среди зерновых. Пословица обычно служит именно оговоркой против обобщения: один плохой врач, болельщик или чиновник ещё не характеризует всех остальных. Русское «в семье не без урода» иногда подходит, но оно резче; нейтральнее «везде встречаются разные люди».",
       "keyword": "žito; kukolj"
+    },
+    {
+      "headword_latin": "U tom grmu leži zec",
+      "type": "frazeologizam",
+      "definition_ru": "вот где собака зарыта; вот в чём дело; вот где суть",
+      "synonyms_sr": [
+        "tu je suština",
+        "u tome je stvar",
+        "tu je ključ",
+        "tu je pravi razlog"
+      ],
+      "literal_ru": "в этом кусте сидит заяц",
+      "register": "razg.-publicistički; ukazuje na skrivenu suštinu, pravi motiv ili ključ problema",
+      "examples": [
+        {
+          "serbian_latin": "Ali upravo u tom „grmu leži zec“.",
+          "russian": "Но вот именно здесь и зарыта собака.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ali u tom grmu leži zec.",
+          "russian": "Но вот в чём загвоздка.",
+          "source": "Politika, 2025"
+        },
+        {
+          "serbian_latin": "U tom grmu leži zec. U ovoj floskuli leži stvarni razlog...",
+          "russian": "Вот где собака зарыта: именно в этой фразе скрывается настоящая причина…",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Это хороший пример почти полного смыслового совпадения при совершенно разном животном образе: по-русски «собака зарыта», по-сербски заяц сидит в кусте. Выражение обычно вводит не просто проблему, а обнаруженный скрытый смысл или настоящую причину: сначала ситуация кажется неясной, затем говорящий указывает, где находится разгадка.",
+      "keyword": "u tom grmu leži zec"
     },
     {
       "headword_latin": "U tren oka",
@@ -29886,6 +30066,33 @@
       "keyword": "vuk dlaku menja ali ćud nikada"
     },
     {
+      "headword_latin": "Za čije babe zdravlje",
+      "type": "izraz",
+      "definition_ru": "зачем вообще?; ради чего?; кому это нужно?",
+      "synonyms_sr": [
+        "čemu",
+        "zašto uopšte",
+        "kome to treba",
+        "kakva je korist od toga"
+      ],
+      "literal_ru": "за здоровье чьей бабушки?",
+      "register": "razg., iron.-razdraženo; retoričko pitanje o besmislenoj, neopravdanoj ili nejasnoj radnji",
+      "examples": [
+        {
+          "serbian_latin": "Za čije babe zdravlje sam se školovao, kada ne mogu naći posao u struci?",
+          "russian": "И спрашивается, зачем я вообще учился, если не могу найти работу по специальности?",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Za čije babe zdravlje on uopšte putuje u Brisel?",
+          "russian": "Ради чего он вообще ездит в Брюссель?",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "С настоящей бабушкой или пожеланием здоровья выражение обычно никак не связано: это готовая ироническая формула «ради чего всё это?». Она сильнее нейтрального zašto? и предполагает, что говорящий сам не видит разумной цели. По-русски по тону подходят «и на кой чёрт?», «и спрашивается, зачем?», но первое грубее сербского оригинала. Происхождение формулы надёжно не установлено.",
+      "keyword": "za čije babe zdravlje"
+    },
+    {
       "headword_latin": "Za dlaku",
       "type": "frazeologizam",
       "definition_ru": "на волосок; едва; чуть-чуть не; чудом",
@@ -29911,6 +30118,37 @@
       ],
       "note": "Za dlaku обозначает минимальную дистанцию между случившимся и неслучившимся. Поэтому в русском в зависимости от глагола нужны «на волосок», «чуть не», «едва», «чудом». Конструкция чрезвычайно частотна и не имеет книжного оттенка.",
       "keyword": "za dlaku"
+    },
+    {
+      "headword_latin": "Za dobrim konjem prašina se diže",
+      "type": "poslovica",
+      "definition_ru": "успешного всегда обсуждают; вокруг заметного человека всегда много разговоров; успех привлекает внимание",
+      "synonyms_sr": [
+        "uspeh privlači pažnju",
+        "o dobrom se daleko čuje",
+        "za dobrim se govori"
+      ],
+      "literal_ru": "за хорошим конём поднимается пыль",
+      "register": "poslovica, obično odobr. ili samoopravdavajuće; varijanta za dobrim konjem prašina se vije",
+      "examples": [
+        {
+          "serbian_latin": "Nekako mi je uvek bila bliskija ona izreka: „Za dobrim konjem prašina se diže“.",
+          "russian": "Мне всегда была ближе поговорка: вокруг хорошего коня всегда пыль столбом — заметного человека всегда обсуждают.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Živi dokaz one narodne: za dobrim konjem prašina se diže!",
+          "russian": "Живое подтверждение поговорки: успешный человек всегда привлекает к себе внимание.",
+          "source": "N1, 2017"
+        },
+        {
+          "serbian_latin": "Za dobrim konjem prašina se vije.",
+          "russian": "За хорошим конём пыль столбом.",
+          "source": "Politika, 2011"
+        }
+      ],
+      "note": "Поговорку часто произносят в ответ на критику, сплетни или чрезмерное внимание: если о человеке много говорят, значит, он чего-то стоит и движется впереди остальных. Поэтому в ней может быть удобный самоутешительный подтекст: «раз меня обсуждают — значит, я заметен». Русское «собака лает — караван идёт» близко лишь ситуативно: там акцент на игнорировании критиков, здесь — на том, что достойный или успешный неизбежно оставляет заметный след.",
+      "keyword": "za dobrim konjem"
     },
     {
       "headword_latin": "Za dobrim konjem se prašina diže / vije",
@@ -30530,6 +30768,31 @@
       "keyword": "oči"
     },
     {
+      "headword_latin": "Zatvori vrata, nisi rođen u čamcu",
+      "type": "replika",
+      "definition_ru": "закрой дверь за собой!; ты что, в лодке родился?",
+      "synonyms_sr": [
+        "zatvori vrata za sobom",
+        "ne ostavljaj vrata otvorena"
+      ],
+      "literal_ru": "закрой дверь, ты не в лодке родился",
+      "register": "razg., šalj.-prekorna kućna replika; naročito tipična u govoru roditelja deci",
+      "examples": [
+        {
+          "serbian_latin": "Zatvori ta vrata, nisi rođen u čamcu!",
+          "russian": "Закрой дверь, ты что, в лодке родился?!",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "„Zatvori vrata, nisi rođen u čamcu“ jedna je od rečenica koje izgovaraju srpske majke.",
+          "russian": "«Закрой дверь, ты не в лодке родился» — одна из типичных реплик сербских мам.",
+          "source": "Prva, 2018"
+        }
+      ],
+      "note": "Это скорее устойчивая семейная реплика, чем классический фразеологизм. Её бросают тому, кто вошёл и оставил дверь открытой. Комизм строится на абсурдном объяснении: будто привычка не закрывать дверь естественна для того, кто вырос в лодке. Формула широко узнаваема на постъюгославском пространстве; точное происхождение надёжно не установлено. Особенно естественна форма Zatvori ta vrata..., где ta усиливает раздражённое указание на оставленную дверь.",
+      "keyword": "rođen u čamcu"
+    },
+    {
       "headword_latin": "Zavadi pa vladaj",
       "type": "krilatica",
       "definition_ru": "разделяй и властвуй; поссорь людей и управляй ими",
@@ -30727,6 +30990,33 @@
       ],
       "note": "Это не объяснение причины, а демонстративный отказ объяснять. Особенно типично как ответ ребёнку, младшему брату или человеку, который в сотый раз спрашивает zašto?; Vukajlija определяет формулу как ответ на бессмысленный вопрос или вопрос с очевидным ответом. Форму zbog jotovanja как устойчивый сербский эквивалент мне надёжно подтвердить не удалось: в доступных источниках она появляется только как собственно лингвистический термин jotovanje, но не как общеупотребительная отговорка. Поэтому в словарь как равноправный вариант я бы её пока не включал.",
       "keyword": "zbog sira i vojne muzike"
+    },
+    {
+      "headword_latin": "Zbrda-zdola",
+      "type": "prilog",
+      "definition_ru": "как попало; бессистемно; тяп-ляп; пятое через десятое",
+      "synonyms_sr": [
+        "bez reda",
+        "nesistematično",
+        "nasumično",
+        "na brzinu"
+      ],
+      "literal_ru": "с горы да из дола",
+      "register": "razg., neodobr.; prilog; normativno se piše sa crticom: zbrda-zdola",
+      "examples": [
+        {
+          "serbian_latin": "Koaliciju su odradili zbrda-zdola 2023. godine.",
+          "russian": "Коалицию они в 2023 году слепили кое-как, без системы.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Ovako smo naziv dobili zbrda-zdola.",
+          "russian": "Вот так название у нас получилось наскоро и довольно случайно.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Выражение объединяет два оттенка: без порядка и наспех, без должной подготовки. Поэтому zbrda-zdola napisan tekst — не просто быстро написанный текст, а плохо организованный, собранный из разрозненных кусков. Написание zbrda-zdola через дефис нормативно; в интернете часто встречается раздельное zbrda zdola, но для словаря его не следует брать как основную форму.",
+      "keyword": "zbrda-zdola"
     },
     {
       "headword_latin": "Zdrav kao dren",
