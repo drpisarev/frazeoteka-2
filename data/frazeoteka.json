@@ -14898,29 +14898,33 @@
     {
       "headword_latin": "Ne pije vodu",
       "type": "frazeologizam",
-      "definition_ru": "не выдерживает критики; неубедительно; эта версия не проходит",
+      "definition_ru": "не выдерживает критики; не катит; в утвердительной форме pije vodu — звучит убедительно, имеет смысл",
       "synonyms_sr": [
-        "ne drži vodu",
-        "nije uverljivo",
-        "nema smisla",
-        "nije održivo"
+        "ne drži vodu / drži vodu",
+        "nije uverljivo / jeste uverljivo",
+        "nema smisla / ima smisla"
       ],
-      "literal_ru": "не пьёт воду",
-      "register": "razg., ekspresivno; naročito o argumentu, objašnjenju, verziji, opravdanju ili planu",
+      "literal_ru": "не пьёт воду / пьёт воду",
+      "register": "razg., ekspresivno; o argumentu, objašnjenju, verziji, opravdanju ili ideji; negativna forma je znatno češća",
       "examples": [
         {
-          "serbian_latin": "Kesić kaže da to pojašnjenje „ne pije vodu“.",
-          "russian": "Кесич говорит, что это объяснение совершенно неубедительно.",
-          "source": "Danas, 2015"
+          "serbian_latin": "Obrazloženje za odstranjivanje iz reprezentacije ne pije vodu.",
+          "russian": "Объяснение отстранения от сборной совершенно неубедительно.",
+          "source": "N1, 2017"
         },
         {
-          "serbian_latin": "To ne pije vodu.",
-          "russian": "Этот аргумент не выдерживает критики.",
-          "source": "N1 Srbija, 2025"
+          "serbian_latin": "Gledajući na ishod ovogodišnjih nagrada, njegov argument „pije vodu“.",
+          "russian": "Если посмотреть на результаты нынешней премии, его аргумент вполне убедителен.",
+          "source": "N1, 2024"
+        },
+        {
+          "serbian_latin": "To je nešto što pije vodu, što može da se poveže.",
+          "russian": "Это уже звучит убедительно, здесь можно увидеть логическую связь.",
+          "source": "N1, 2022"
         }
       ],
-      "note": "Для русского буквальная картинка непрозрачна. Это разговорный способ отвергнуть аргументацию: объяснение «не работает», внутренне несостоятельно или ему просто не верят. Употребительно и ne drži vodu.",
-      "keyword": "ne pije vodu"
+      "note": "Обновление существующей статьи. В основной Frazeoteka уже есть Ne pije vodu, тогда как новый источник отдельно даёт положительное Pije vodu. Разделять их на две карточки не стоит: это одна продуктивная оппозиция. Русскому важно, что утвердительное pije vodu действительно употребляется и означает «аргумент работает, звучит убедительно», хотя отрицательное ne pije vodu гораздо привычнее. Происхождение образа точно не установлено; объяснение через «сосуд, который держит воду» скорее относится к соседнему držati vodu, поэтому смешивать эти два оборота этимологически не следует.",
+      "keyword": "pije vodu"
     },
     {
       "headword_latin": "Ne videti dalje od svog nosa",
@@ -18561,6 +18565,32 @@
       "keyword": "papir trpi sve"
     },
     {
+      "headword_latin": "Paprena cena",
+      "type": "kolokacija",
+      "definition_ru": "заоблачная цена; цена кусается; очень дорого",
+      "synonyms_sr": [
+        "astronomska cena",
+        "previsoka cena",
+        "bezobrazno skupo"
+      ],
+      "literal_ru": "перечная, жгучая цена",
+      "register": "razg.-publicistički; takođe paprene cene, paprena kazna, paprene kamate",
+      "examples": [
+        {
+          "serbian_latin": "Cene ogrevnog drveta i peleta su paprene.",
+          "russian": "Цены на дрова и пеллеты кусаются.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Postoji i druga strana priče: paprene cene karata koje su mnoge ostavile u šoku.",
+          "russian": "Есть и другая сторона истории: заоблачные цены на билеты, которые многих шокировали.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Papren буквально связано с жгучестью перца, а переносно означает «чрезмерно дорогой». Новый источник выделяет paprena cena, но модель продуктивнее: вполне обычны paprena kazna «драконовский штраф», paprene kamate «грабительские проценты». Русский прилагательный «перечный» в этом значении не работает.",
+      "keyword": "paprena cena"
+    },
+    {
       "headword_latin": "Para na paru ide",
       "type": "izreka",
       "definition_ru": "деньги к деньгам; богатому ещё прибавляется; деньги липнут к деньгам",
@@ -18613,6 +18643,31 @@
       "keyword": "para; burgija"
     },
     {
+      "headword_latin": "Paradajz turizam",
+      "type": "izraz",
+      "definition_ru": "бюджетный отдых со своей едой; «помидорный туризм»; отдых по принципу «всё везём с собой»",
+      "synonyms_sr": [
+        "niskobudžetni turizam",
+        "štedljivo letovanje"
+      ],
+      "literal_ru": "помидорный туризм",
+      "register": "razg., kulturno specifično, često podsmešljivo ili pejorativno; osoba je paradajz turista",
+      "examples": [
+        {
+          "serbian_latin": "To vreme je prošlo i više nema razloga za „paradajz turizam“.",
+          "russian": "Те времена прошли, и теперь уже нет причин ездить на отдых со всем запасом еды из дома.",
+          "source": "RTV, 2025"
+        },
+        {
+          "serbian_latin": "Ne može leto da prođe bez spominjanja paradajz turista i paradajz turizma. I to uglavnom u negativnom kontekstu.",
+          "russian": "Ни одно лето не обходится без разговоров о «помидорных туристах» и таком способе отдыха — обычно в негативном ключе.",
+          "source": "Blic, 2025"
+        }
+      ],
+      "note": "Так называют туристов, которые экономят на ресторанах и привозят продукты с собой или сами готовят в апартаментах; настоящий помидор вовсе не обязателен. В современном сербском интернете выражение часто несёт социально-снобистский оттенок: над такими отдыхающими смеются за «бедность» или экономность, но сами носители нередко иронически называют себя paradajz turistima. Это не исключительно сербское явление: выражение и стереотип живут шире на постъюгославском пространстве.",
+      "keyword": "paradajz turizam"
+    },
+    {
       "headword_latin": "Parati uši",
       "type": "frazeologizam",
       "definition_ru": "резать слух; резать уши; неприятно звучать",
@@ -18648,6 +18703,32 @@
       ],
       "note": "Очень полезна конструкция с дательным: mi / ti / mu / joj para uši. Подлежащим является неприятный звук: glas mi para uši, во множественном числе narodnjaci mi paraju uši. Фраза употребляется и шире — о слове, произношении или грамматической форме, которая звучит для говорящего неестественно: именно так выражение используется на языковом форуме.",
       "keyword": "parati uši"
+    },
+    {
+      "headword_latin": "Parola „snađi se“",
+      "type": "izraz",
+      "definition_ru": "крутись как умеешь; каждый выкручивается сам; спасайся своими силами",
+      "synonyms_sr": [
+        "snađi se kako znaš i umeš",
+        "svako za sebe",
+        "snalazi se sam"
+      ],
+      "literal_ru": "лозунг «выкручивайся сам»",
+      "register": "razg.-publicistički, obično iron.-kritički; često po sistemu „snađi se“",
+      "examples": [
+        {
+          "serbian_latin": "Dakle, morate da posedujete prilične akrobatske sposobnosti… parola snađi se.",
+          "russian": "Получается, приходится проявлять почти акробатические способности — в общем, выкручивайся как знаешь.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Sve po sistemu „snađi se“.",
+          "russian": "Всё по принципу «крутись как умеешь».",
+          "source": "Politika, 2011"
+        }
+      ],
+      "note": "Само snaći se может быть вполне положительным: «сориентироваться, найти выход, справиться». Но parola / sistem „snađi se“ часто описывает ситуацию, когда нормального механизма помощи или правил нет и человеку приходится самому искать обходной путь. Поэтому формула одновременно затрагивает важную сербскую культурную идею snalažljivost: она может означать и полезную находчивость, и привычку обходить правила. Danas прямо употребляет формулу о сфере, где отсутствуют системные решения и работающие институты.",
+      "keyword": "snađi se"
     },
     {
       "headword_latin": "Pas koji laje ne ujeda",
@@ -19486,6 +19567,33 @@
       "keyword": "struja"
     },
     {
+      "headword_latin": "Pljunuti otac / pljunuta majka",
+      "type": "frazeologizam",
+      "definition_ru": "вылитый отец / вылитая мать; точная копия отца / матери",
+      "synonyms_sr": [
+        "isti otac",
+        "ista majka",
+        "preslikan otac / preslikana majka",
+        "ličiti kao jaje jajetu"
+      ],
+      "literal_ru": "«выплюнутый» отец / «выплюнутая» мать",
+      "register": "razg., ekspresivno; pridev se slaže sa imenicom koja označava osobu na koju se liči: sin je pljunuta majka; ćerka je pljunuti otac",
+      "examples": [
+        {
+          "serbian_latin": "Sin je pljunuta majka, dok je ćera pljunuti otac.",
+          "russian": "Сын — вылитая мать, а дочь — вылитый отец.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Pa on je pljunuta majka!",
+          "russian": "Да он же вылитая мать!",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Самая полезная грамматическая деталь — согласование идёт не с реальным полом человека, а с существительным внутри сравнения: мужчина может быть pljunuta majka, женщина — pljunuti otac. Это легко удивляет русскоязычного. Существует несколько популярных объяснений происхождения образа, в том числе сопоставление с английским spitting image, но надёжно установленной единственной этимологии нет.",
+      "keyword": "pljunuti otac"
+    },
+    {
       "headword_latin": "Pljunuti pa polizati",
       "type": "frazeologizam",
       "definition_ru": "взять свои слова обратно; переобуться; отказаться от того, что сам говорил",
@@ -20186,6 +20294,33 @@
       "keyword": "poklon; zubi"
     },
     {
+      "headword_latin": "Pokondirena tikva",
+      "type": "frazeologizam",
+      "definition_ru": "выскочка; мещанин во дворянстве; сноб, стыдящийся своего происхождения",
+      "synonyms_sr": [
+        "skorojević",
+        "snob",
+        "pomodar",
+        "uobražena osoba"
+      ],
+      "literal_ru": "«покондирившаяся тыква» — простая тыква, возомнившая себя чем-то более благородным",
+      "register": "razg.-kulturno, podsmešljivo-neodobr.; o osobi koja demonstrativno usvaja manire višeg društvenog sloja",
+      "examples": [
+        {
+          "serbian_latin": "Svuda imamo te „pokondirene tikve“ koje hoće da budu „madame“ iako to nisu.",
+          "russian": "Повсюду есть такие «мещане во дворянстве», которые хотят изображать из себя madame, хотя ими не являются.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Svevremenska komedija kao i njena Fema, podsećaju na „pokondirene tikve“ kojih ima u svakom vremenu.",
+          "russian": "Вневременная комедия и её Фема напоминают о выскочках, которые существуют в любую эпоху.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Поправка к новому источнику: утверждать, что выражение придумал Йован Стерия Попович, нельзя. Его комедия Pokondirena tikva сделала образ общеизвестным и навсегда связала его с Фемой — вдовой ремесленника, которая подражает иностранным манерам ради более высокого статуса. Но в самой пьесе Митар говорит: proučiš onu poslovicu: „Nema ti gore nego kad se tikva pokondiri“ и затем прямо называет её srpsku poslovicu — следовательно, Стерия сам представляет оборот как уже существующую пословицу.",
+      "keyword": "pokondirena tikva"
+    },
+    {
       "headword_latin": "Pokrij se ušima",
       "type": "frazeologizam",
       "definition_ru": "постыдись; сиди тихо после такого; подожми хвост и помалкивай",
@@ -20609,6 +20744,32 @@
       ],
       "note": "Poštapalica — не «цитата» и не «крылатая фраза». Dr Marina Nikolić из Jezikofil определяет poštapalice как слова или фразы, которые стали ненужными для содержания и используются как заполнитель паузы в речи. Русское «крылатая фраза» — это скорее krilatica, «цитата» — citat. Poštapalica может иметь исходное значение, но при навязчивом повторении практически его теряет: znači... ovaj... brate...",
       "keyword": "poštapalica"
+    },
+    {
+      "headword_latin": "Pošto-poto",
+      "type": "prilog",
+      "definition_ru": "во что бы то ни стало; любой ценой; непременно",
+      "synonyms_sr": [
+        "po svaku cenu",
+        "na svaki način",
+        "svakako"
+      ],
+      "literal_ru": "",
+      "register": "razg.-ekspresivno; ustaljena priloška formula; piše se sa crticom",
+      "examples": [
+        {
+          "serbian_latin": "Nismo se vodili namerom da pošto-poto dosegnemo fizičku sličnost.",
+          "russian": "Мы не ставили себе целью во что бы то ни стало добиться внешнего сходства.",
+          "source": "Politika, 2025"
+        },
+        {
+          "serbian_latin": "Žestoka želja šabačkih naprednjaka da pošto-poto osvoje vlast.",
+          "russian": "Яростное стремление шабацких прогрессистов любой ценой получить власть.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Выражение обозначает сильную решимость достичь цели независимо от препятствий или цены вопроса. В отличие от нейтрального svakako «обязательно», pošto-poto часто несёт оттенок чрезмерного упорства: человек хочет добиться своего любой ценой. Не следует понимать современное pošto здесь как вопрос «сколько стоит?»: вся формула лексикализована.",
+      "keyword": "pošto-poto"
     },
     {
       "headword_latin": "Povući / vući đavola za rep",
@@ -21856,6 +22017,32 @@
       "keyword": "prstom ne mrdnuti"
     },
     {
+      "headword_latin": "Pruži se koliko ti je jorgan dug",
+      "type": "poslovica",
+      "definition_ru": "по одёжке протягивай ножки; живи по средствам; рассчитывай по возможностям",
+      "synonyms_sr": [
+        "živi u skladu sa mogućnostima",
+        "troši koliko imaš",
+        "ne zadužuj se preko mere"
+      ],
+      "literal_ru": "вытягивайся настолько, насколько длинно твоё одеяло",
+      "register": "poslovica; varijante širi se koliko ti je dug jorgan; pružiti se koliko je jorgan dug; posesivni dativ: ti, mu, nam",
+      "examples": [
+        {
+          "serbian_latin": "Pružili smo se koliko nam je jorgan dug.",
+          "russian": "Мы исходили из своих реальных возможностей.",
+          "source": "BBC na srpskom / Danas, 2026"
+        },
+        {
+          "serbian_latin": "Vode se za narodnom – širi se koliko ti je dug jorgan.",
+          "russian": "Они руководствуются народной мудростью: по одёжке протягивай ножки.",
+          "source": "RTS, 2011"
+        }
+      ],
+      "note": "Сербский образ почти идеально соответствует русскому, но вместо одежды используется jorgan — «стёганое одеяло, одеяло» (турцизм). Пословица особенно часто относится к деньгам: не планировать расходы, свадьбу, строительство или покупки шире своих возможностей. Для русского полезна конструкция koliko ti je jorgan dug: ti здесь дательный принадлежности — буквально «насколько тебе длинно одеяло».",
+      "keyword": "jorgan"
+    },
+    {
       "headword_latin": "Prvi mačići se u vodu bacaju",
       "type": "poslovica",
       "definition_ru": "первый блин комом; первая попытка редко бывает идеальной; на первой пробе не судят",
@@ -22501,6 +22688,32 @@
       "keyword": "razvezati jezik"
     },
     {
+      "headword_latin": "Reče i ostade živ",
+      "type": "izraz",
+      "definition_ru": "сказал — и хоть бы что; сказал и не поперхнулся; вот ведь сказал такое",
+      "synonyms_sr": [
+        "reče i ne trepnu",
+        "mrtav hladan reče",
+        "izvali pa ostade živ"
+      ],
+      "literal_ru": "сказал и остался жив",
+      "register": "razg.-publicistički, izrazito iron.; komentar posle drske, apsurdne, neverovatne ili licemerne izjave",
+      "examples": [
+        {
+          "serbian_latin": "„Ovom zemljom upravlja narod“, reče Vučić i ostade živ.",
+          "russian": "«Этой страной управляет народ», — сказал Вучич и даже не поперхнулся.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Što reče i ostade živ ministar Samardžić da su Amerikanci sami krivi što im je spaljena ambasada.",
+          "russian": "Как заявил министр Самарджич — и хоть бы что, — американцы сами виноваты, что их посольство сожгли.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Русскому особенно полезен оттенок: это не просто «сказал и остался жив», а саркастическое удивление тому, как человек вообще сумел произнести такое с серьёзным видом. Формы reče и ostade — аористы; их краткая, слегка эпическая интонация делает реплику ещё язвительнее. В русском хороши функциональные переводы «и не поперхнулся», «и глазом не моргнул».",
+      "keyword": "reče i ostade živ"
+    },
+    {
       "headword_latin": "reći popu pop, a bobu bob",
       "type": "пословичный фразеологизм",
       "definition_ru": "Назвать вещи своими именами; сказать каждому правду; высказаться прямо и без пристрастия.",
@@ -22634,6 +22847,33 @@
       ],
       "note": "Выражение может обозначать нормальную взаимопомощь, но современный контекст нередко делает его ироническим: «ты мне — я тебе», особенно о связях, протекции и взаимных услугах. Известна расширенная пословичная форма Ruka ruku mije, obraz obadvije. Для русского «рука руку моет» совпадает практически полностью.",
       "keyword": "ruka ruku mije"
+    },
+    {
+      "headword_latin": "Ruke ti se pozlatile",
+      "type": "izraz",
+      "definition_ru": "золотые у тебя руки!; дай бог здоровья твоим рукам; спасибо за такую работу",
+      "synonyms_sr": [
+        "alal vera",
+        "svaka ti čast",
+        "zlatne ti ruke",
+        "bravo majstore"
+      ],
+      "literal_ru": "пусть твои руки позолотятся",
+      "register": "razg., zahvalno-blagoslovno; naročito onome ko je nešto dobro skuvao, napravio, popravio, izgradio ili obnovio; ruke vam se pozlatile",
+      "examples": [
+        {
+          "serbian_latin": "Kad su na stolu te najbolje, domaćice obično dobijaju pohvale u smislu: „Alal vera, ruke ti se pozlatile“.",
+          "russian": "Когда на столе лучшие мантије, хозяйку обычно хвалят: «Браво, золотые у тебя руки!»",
+          "source": "Politika, 2017"
+        },
+        {
+          "serbian_latin": "Deco, ruke vam se pozlatile, najzad neko da dođe i da odslika ovu crkvu.",
+          "russian": "Ребята, дай бог здоровья вашим рукам, наконец-то кто-то пришёл и восстановил роспись этой церкви.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Новый источник правильно трактует формулу как благодарность и благословение за хорошо сделанное дело. Русское «золотые руки» прежде всего характеризует мастерство человека, тогда как сербское ruke ti se pozlatile — живая реплика после конкретного хорошего поступка или работы. Сравните отдельное reči ti se pozlatile — «дай бог, чтобы твои слова сбылись»: там «золотятся» уже не руки, а сказанное.",
+      "keyword": "ruke ti se pozlatile"
     },
     {
       "headword_latin": "Ruku na srce",
