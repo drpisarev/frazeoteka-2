@@ -17320,6 +17320,33 @@
       "keyword": "od nemila do nedraga"
     },
     {
+      "headword_latin": "Od Silvane do Nirvane",
+      "type": "izraz",
+      "definition_ru": "от одного музыкального полюса до другого; всё подряд; от народной музыки до рока",
+      "synonyms_sr": [
+        "od narodnjaka do roka",
+        "od svega pomalo",
+        "sve živo",
+        "širok raspon"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj.-iron.; pre svega o veoma širokom muzičkom ukusu ili repertoaru, šire o veoma heterogenom rasponu",
+      "examples": [
+        {
+          "serbian_latin": "Što se kaže, od Silvane do Nirvane.",
+          "russian": "Как говорится, от Сильваны до «Нирваны» — музыка на любой вкус.",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Od religije do politike, od umetnosti do sporta, od hrane do gladi… „od Silvane do Nirvane“.",
+          "russian": "От религии до политики, от искусства до спорта, от еды до голода — в общем, всё подряд.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Культурный эффект держится на двух максимально далёких музыкальных ассоциациях и на рифме: Silvana — Сильвана Арменулич, знаменитая югославская певица народной музыки, Nirvana — американская рок-группа. Первоначально выражение особенно естественно о музыкальном репертуаре, но современное употребление позволяет шутливо обозначать вообще диапазон «от одного полюса до другого».",
+      "keyword": "Silvana; Nirvana"
+    },
+    {
       "headword_latin": "Od viška glava ne boli",
       "type": "poslovica",
       "definition_ru": "запас карман не тянет; лишнее не помешает; лучше больше, чем меньше",
@@ -18656,27 +18683,28 @@
     {
       "headword_latin": "Paprena cena",
       "type": "kolokacija",
-      "definition_ru": "заоблачная цена; цена кусается; очень дорого",
+      "definition_ru": "кусачая цена; заоблачная цена; очень высокая цена",
       "synonyms_sr": [
+        "visoka cena",
+        "preskupa cena",
         "astronomska cena",
-        "previsoka cena",
-        "bezobrazno skupo"
+        "papreno skupo"
       ],
-      "literal_ru": "перечная, жгучая цена",
-      "register": "razg.-publicistički; takođe paprene cene, paprena kazna, paprene kamate",
+      "literal_ru": "жгучая, «перечная» цена",
+      "register": "razg.-publicistički; takođe paprene cene, paprena kazna, paprene kamate, papreno skupo",
       "examples": [
         {
-          "serbian_latin": "Cene ogrevnog drveta i peleta su paprene.",
-          "russian": "Цены на дрова и пеллеты кусаются.",
-          "source": "RTS, 2022"
+          "serbian_latin": "Španski mediji: Paprena cena A licenci u Evroligi.",
+          "russian": "Испанские СМИ: за лицензии A в Евролиге придётся заплатить заоблачную цену.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Postoji i druga strana priče: paprene cene karata koje su mnoge ostavile u šoku.",
-          "russian": "Есть и другая сторона истории: заоблачные цены на билеты, которые многих шокировали.",
-          "source": "RTS, 2026"
+          "serbian_latin": "Razlog je paprena cena i to ne samo u prestonici, već u svim delovima zemlje.",
+          "russian": "Причина — кусачая цена, причём не только в столице, но и по всей стране.",
+          "source": "RTS, 2023"
         }
       ],
-      "note": "Papren буквально связано с жгучестью перца, а переносно означает «чрезмерно дорогой». Новый источник выделяет paprena cena, но модель продуктивнее: вполне обычны paprena kazna «драконовский штраф», paprene kamate «грабительские проценты». Русский прилагательный «перечный» в этом значении не работает.",
+      "note": "Papren буквально связано с ощущением остроты, жгучести, а переносно означает «чрезмерно дорогой». По-русски образ другой: обычно говорят «цена кусается», а не «перечная цена». Прилагательное употребляется не только с cena: очень типичны paprena kazna «драконовский штраф» и paprene kamate «грабительские проценты».",
       "keyword": "paprena cena"
     },
     {
@@ -18734,26 +18762,27 @@
     {
       "headword_latin": "Paradajz turizam",
       "type": "izraz",
-      "definition_ru": "бюджетный отдых со своей едой; «помидорный туризм»; отдых по принципу «всё везём с собой»",
+      "definition_ru": "бюджетный отдых со своей едой; «отпуск с полным багажником еды»; помидорный туризм",
       "synonyms_sr": [
-        "niskobudžetni turizam",
-        "štedljivo letovanje"
+        "letovanje sa hranom od kuće",
+        "jeftino letovanje",
+        "samostalno spremanje hrane na odmoru"
       ],
       "literal_ru": "помидорный туризм",
-      "register": "razg., kulturno specifično, često podsmešljivo ili pejorativno; osoba je paradajz turista",
+      "register": "razg., šalj.-iron., neretko pogrdno i socijalno obojeno; naročito o odlasku na more sa zalihama hrane od kuće",
       "examples": [
         {
-          "serbian_latin": "To vreme je prošlo i više nema razloga za „paradajz turizam“.",
-          "russian": "Те времена прошли, и теперь уже нет причин ездить на отдых со всем запасом еды из дома.",
-          "source": "RTV, 2025"
+          "serbian_latin": "Vraća li kriza paradajz turizam?",
+          "russian": "Вернёт ли кризис «помидорный туризм»?",
+          "source": "Radio Beograd 2 / RTS, 2022"
         },
         {
-          "serbian_latin": "Ne može leto da prođe bez spominjanja paradajz turista i paradajz turizma. I to uglavnom u negativnom kontekstu.",
-          "russian": "Ни одно лето не обходится без разговоров о «помидорных туристах» и таком способе отдыха — обычно в негативном ключе.",
-          "source": "Blic, 2025"
+          "serbian_latin": "To vreme je prošlo i više nema razloga za „paradajz turizam“.",
+          "russian": "Те времена прошли, и теперь уже нет причин ехать на отдых со своим багажником еды.",
+          "source": "Danas, 2025"
         }
       ],
-      "note": "Так называют туристов, которые экономят на ресторанах и привозят продукты с собой или сами готовят в апартаментах; настоящий помидор вовсе не обязателен. В современном сербском интернете выражение часто несёт социально-снобистский оттенок: над такими отдыхающими смеются за «бедность» или экономность, но сами носители нередко иронически называют себя paradajz turistima. Это не исключительно сербское явление: выражение и стереотип живут шире на постъюгославском пространстве.",
+      "note": "Paradajz turista — не обязательно человек, который буквально везёт помидоры. Радио Београд описывает типичный образ гораздо шире: холодильные сумки с мясом, овощами, сармой, фруктами и другой домашней едой, чтобы не тратиться на рестораны. Термин часто используется насмешливо и может иметь оттенок снобизма по отношению к небогатым туристам, поэтому нейтральным названием такого способа отдыха он не является.",
       "keyword": "paradajz turizam"
     },
     {
@@ -18818,6 +18847,33 @@
       ],
       "note": "Само snaći se может быть вполне положительным: «сориентироваться, найти выход, справиться». Но parola / sistem „snađi se“ часто описывает ситуацию, когда нормального механизма помощи или правил нет и человеку приходится самому искать обходной путь. Поэтому формула одновременно затрагивает важную сербскую культурную идею snalažljivost: она может означать и полезную находчивость, и привычку обходить правила. Danas прямо употребляет формулу о сфере, где отсутствуют системные решения и работающие институты.",
       "keyword": "snađi se"
+    },
+    {
+      "headword_latin": "Parola snađi se",
+      "type": "izraz",
+      "definition_ru": "выкручивайся как знаешь; каждый сам за себя; спасайся своими силами",
+      "synonyms_sr": [
+        "sistem snađi se",
+        "snađi se kako znaš i umeš",
+        "snađi se, druže",
+        "snađi se, brale"
+      ],
+      "literal_ru": "лозунг «выкручивайся»",
+      "register": "razg., gorko-iron.; naročito o situaciji u kojoj nema sistemskog rešenja ili pomoći pa se svako snalazi sam",
+      "examples": [
+        {
+          "serbian_latin": "„Parola snađi se“ se primenjuje tamo gde nema sistemskih rešenja i institucija koje bi građane umirile.",
+          "russian": "Принцип «выкручивайся сам» действует там, где нет системных решений и работающих институтов.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Neverovatno je da je parola „snađi se, brale“ ... prisutna na srpskim putevima i prugama.",
+          "russian": "Невероятно, что принцип «выкручивайся, братец» по-прежнему действует на сербских дорогах и железных дорогах.",
+          "source": "RTS, 2021"
+        }
+      ],
+      "note": "Само snaći se нейтральнее и часто даже похвально: «сориентироваться, найти выход, суметь устроиться». Но parola / sistem snađi se приобретает общественный оттенок: нормального механизма нет, поэтому человек импровизирует, ищет связи, обходной путь или просто справляется как может. Danas фиксирует и развёрнутую форму snađi se kako znaš i umeš.",
+      "keyword": "parola snađi se"
     },
     {
       "headword_latin": "Pas koji laje ne ujeda",
@@ -19658,28 +19714,27 @@
     {
       "headword_latin": "Pljunuti otac / pljunuta majka",
       "type": "frazeologizam",
-      "definition_ru": "вылитый отец / вылитая мать; точная копия отца / матери",
+      "definition_ru": "вылитый отец / вылитая мать; точная копия родителя",
       "synonyms_sr": [
-        "isti otac",
-        "ista majka",
-        "preslikan otac / preslikana majka",
-        "ličiti kao jaje jajetu"
+        "isti otac / ista majka",
+        "isti kao otac / majka",
+        "preslikan otac / majka"
       ],
-      "literal_ru": "«выплюнутый» отец / «выплюнутая» мать",
-      "register": "razg., ekspresivno; pridev se slaže sa imenicom koja označava osobu na koju se liči: sin je pljunuta majka; ćerka je pljunuti otac",
+      "literal_ru": "",
+      "register": "razg., ekspresivno; o upadljivoj fizičkoj, ponekad i karakternoj sličnosti; pridev se slaže sa osobom na koju neko liči",
       "examples": [
-        {
-          "serbian_latin": "Sin je pljunuta majka, dok je ćera pljunuti otac.",
-          "russian": "Сын — вылитая мать, а дочь — вылитый отец.",
-          "source": "Danas, 2016"
-        },
         {
           "serbian_latin": "Pa on je pljunuta majka!",
           "russian": "Да он же вылитая мать!",
           "source": "Blic, 2026"
+        },
+        {
+          "serbian_latin": "Sin legendarnog Brazilca je „pljunuti“ otac!",
+          "russian": "Сын легендарного бразильца — вылитый отец!",
+          "source": "Telegraf, 2024"
         }
       ],
-      "note": "Самая полезная грамматическая деталь — согласование идёт не с реальным полом человека, а с существительным внутри сравнения: мужчина может быть pljunuta majka, женщина — pljunuti otac. Это легко удивляет русскоязычного. Существует несколько популярных объяснений происхождения образа, в том числе сопоставление с английским spitting image, но надёжно установленной единственной этимологии нет.",
+      "note": "Очень полезная грамматическая ловушка: пол человека, о котором говорят, не определяет форму прилагательного. О мужчине совершенно нормально сказать on je pljunuta majka, потому что pljunuta согласуется с majka. Происхождение оборота точно не установлено: существует несколько объяснений связи сходства с образом pljunuti, и современные источники также приводят несколько конкурирующих версий.",
       "keyword": "pljunuti otac"
     },
     {
@@ -20384,29 +20439,29 @@
     },
     {
       "headword_latin": "Pokondirena tikva",
-      "type": "frazeologizam",
-      "definition_ru": "выскочка; мещанин во дворянстве; сноб, стыдящийся своего происхождения",
+      "type": "izraz",
+      "definition_ru": "выскочка; мещанин во дворянстве; человек, корчащий из себя аристократа",
       "synonyms_sr": [
         "skorojević",
         "snob",
         "pomodar",
-        "uobražena osoba"
+        "uobraženi skorojević"
       ],
-      "literal_ru": "«покондирившаяся тыква» — простая тыква, возомнившая себя чем-то более благородным",
-      "register": "razg.-kulturno, podsmešljivo-neodobr.; o osobi koja demonstrativno usvaja manire višeg društvenog sloja",
+      "literal_ru": "",
+      "register": "razg.-kulturno, podrugljivo, neodobr.; o osobi koja želi da deluje otmenije, obrazovanije ili društveno više nego što jeste",
       "examples": [
         {
-          "serbian_latin": "Svuda imamo te „pokondirene tikve“ koje hoće da budu „madame“ iako to nisu.",
-          "russian": "Повсюду есть такие «мещане во дворянстве», которые хотят изображать из себя madame, хотя ими не являются.",
+          "serbian_latin": "Svako vreme ima svoju „pokondirenu tikvu“.",
+          "russian": "В каждом времени есть свои выскочки, воображающие себя знатью.",
           "source": "Danas, 2021"
         },
         {
-          "serbian_latin": "Svevremenska komedija kao i njena Fema, podsećaju na „pokondirene tikve“ kojih ima u svakom vremenu.",
-          "russian": "Вневременная комедия и её Фема напоминают о выскочках, которые существуют в любую эпоху.",
-          "source": "Danas, 2024"
+          "serbian_latin": "Bila je prava – pokondirena tikva.",
+          "russian": "Она была настоящей «мещанкой во дворянстве».",
+          "source": "BBC News na srpskom / Danas, 2022"
         }
       ],
-      "note": "Поправка к новому источнику: утверждать, что выражение придумал Йован Стерия Попович, нельзя. Его комедия Pokondirena tikva сделала образ общеизвестным и навсегда связала его с Фемой — вдовой ремесленника, которая подражает иностранным манерам ради более высокого статуса. Но в самой пьесе Митар говорит: proučiš onu poslovicu: „Nema ti gore nego kad se tikva pokondiri“ и затем прямо называет её srpsku poslovicu — следовательно, Стерия сам представляет оборот как уже существующую пословицу.",
+      "note": "Это название знаменитой комедии Йована Стерии Поповича Pokondirena tikva; произведение опубликовано в 1838 году. Фема, вдова ремесленника, одержима noblesom, подражает иностранным манерам и пытается вырваться в «высшие круги»; отсюда выражение стало самостоятельным обозначением претенциозного выскочки. RTS характеризует комедию как сатиру на pomodarstvo, показную учёность и преклонение перед ложными ценностями.",
       "keyword": "pokondirena tikva"
     },
     {
@@ -22080,6 +22135,32 @@
       "keyword": "prst u oko"
     },
     {
+      "headword_latin": "Prste da poližeš",
+      "type": "frazeologizam",
+      "definition_ru": "пальчики оближешь; объедение; просто восхитительно",
+      "synonyms_sr": [
+        "preukusno",
+        "izuzetno ukusno",
+        "milina"
+      ],
+      "literal_ru": "так вкусно, что пальцы оближешь",
+      "register": "razg., ekspresivno, odobr.; prvenstveno o hrani, ali moguće je i šaljivo preneseno značenje",
+      "examples": [
+        {
+          "serbian_latin": "Ukusni su, prste da poližeš!",
+          "russian": "Вкусно — пальчики оближешь!",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Prasence prste da poližeš rado se nađe na jelovniku mnogih žitelja Srbije.",
+          "russian": "Поросёнок — пальчики оближешь — охотно появляется на столе у многих жителей Сербии.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Здесь русский и сербский образы почти полностью совпадают. Очень характерна конструкция после названия блюда без отдельного сказуемого: pasulj, prste da poližeš — «фасоль — пальчики оближешь». Переносно выражение может хвалить и что-то привлекательное вообще, но в отношении человека такое употребление приобретает фамильярный, иногда сексуализированный оттенок.",
+      "keyword": "prste da poližeš"
+    },
+    {
       "headword_latin": "Prstom ne mrdnuti",
       "type": "frazeologizam",
       "definition_ru": "пальцем не пошевелить; ничего не сделать; не предпринять ни малейшего усилия",
@@ -22108,28 +22189,28 @@
     {
       "headword_latin": "Pruži se koliko ti je jorgan dug",
       "type": "poslovica",
-      "definition_ru": "по одёжке протягивай ножки; живи по средствам; рассчитывай по возможностям",
+      "definition_ru": "живи по средствам; по одёжке протягивай ножки; рассчитывай свои возможности",
       "synonyms_sr": [
-        "živi u skladu sa mogućnostima",
-        "troši koliko imaš",
-        "ne zadužuj se preko mere"
+        "živeti u skladu sa mogućnostima",
+        "trošiti koliko imaš",
+        "ne ići preko svojih mogućnosti"
       ],
-      "literal_ru": "вытягивайся настолько, насколько длинно твоё одеяло",
-      "register": "poslovica; varijante širi se koliko ti je dug jorgan; pružiti se koliko je jorgan dug; posesivni dativ: ti, mu, nam",
+      "literal_ru": "протягивайся настолько, насколько длинно твоё одеяло",
+      "register": "poslovica; naročito o novcu i trošenju, šire o usklađivanju želja sa raspoloživim mogućnostima",
       "examples": [
         {
           "serbian_latin": "Pružili smo se koliko nam je jorgan dug.",
-          "russian": "Мы исходили из своих реальных возможностей.",
-          "source": "BBC na srpskom / Danas, 2026"
+          "russian": "Мы действовали строго в пределах своих возможностей.",
+          "source": "BBC News na srpskom / Danas, 2026"
         },
         {
-          "serbian_latin": "Vode se za narodnom – širi se koliko ti je dug jorgan.",
-          "russian": "Они руководствуются народной мудростью: по одёжке протягивай ножки.",
-          "source": "RTS, 2011"
+          "serbian_latin": "Pružite se koliko je „jorgan dug“.",
+          "russian": "Живите по средствам.",
+          "source": "RTS, 2013"
         }
       ],
-      "note": "Сербский образ почти идеально соответствует русскому, но вместо одежды используется jorgan — «стёганое одеяло, одеяло» (турцизм). Пословица особенно часто относится к деньгам: не планировать расходы, свадьбу, строительство или покупки шире своих возможностей. Для русского полезна конструкция koliko ti je jorgan dug: ti здесь дательный принадлежности — буквально «насколько тебе длинно одеяло».",
-      "keyword": "jorgan"
+      "note": "Русскому удобно запомнить через близкое «по одёжке протягивай ножки». В живой сербской речи местоимение меняется вместе с участниками ситуации: koliko mi je jorgan dug, koliko ti je, koliko nam je. Выражение часто применяется именно к бюджету: Danas непосредственно поясняет его словами trošiti onoliko koliko imamo — «тратить столько, сколько у нас есть».",
+      "keyword": "jorgan dug"
     },
     {
       "headword_latin": "Prvi mačići se u vodu bacaju",
@@ -22378,6 +22459,33 @@
       "keyword": "tikva"
     },
     {
+      "headword_latin": "Pukao mi je film",
+      "type": "frazeologizam",
+      "definition_ru": "у меня лопнуло терпение; я сорвался; меня прорвало",
+      "synonyms_sr": [
+        "prekipelo mi je",
+        "izgubio sam živce",
+        "došlo mi je preko glave",
+        "pukao sam"
+      ],
+      "literal_ru": "у меня порвалась плёнка / лопнул фильм",
+      "register": "razg., ekspresivno; pukao mi/ti/mu/joj/nam je film; o trenutku kada neko posle nagomilanog nezadovoljstva više ne može da trpi",
+      "examples": [
+        {
+          "serbian_latin": "Pukao mi je film.",
+          "russian": "Тут у меня лопнуло терпение.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Nije, dakle, pukao film samo ovim velikanima, pukao je film svima nama.",
+          "russian": "Значит, терпение лопнуло не только у этих великих мастеров — оно лопнуло у всех нас.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Русскому важно не калькировать «у меня сломался фильм». Конструкция строится с дательным лица: pukao mi je film, буквально субъектом остаётся film. Это обычно кульминация накопившегося раздражения, после которой человек резко реагирует или принимает решение. Близкое pao mi je mrak na oči сильнее связано с внезапной яростью и потерей самообладания.",
+      "keyword": "pukao mi je film"
+    },
+    {
       "headword_latin": "Pun kao brod",
       "type": "frazeologizam",
       "definition_ru": "очень богатый; при деньгах; денег куры не клюют",
@@ -22459,6 +22567,33 @@
       ],
       "note": "Puna kapa обычно означает, что результат полностью удовлетворяет ожиданиям и требовать большего уже было бы чрезмерно. По-русски в зависимости от ситуации: «и этого за глаза», «уже отлично», «и на том спасибо». Это не то же самое, что просто dovoljno: выражение эмоционально подчёркивает удовлетворённость достигнутым.",
       "keyword": "puna kapa"
+    },
+    {
+      "headword_latin": "Puna mi je kapa",
+      "type": "frazeologizam",
+      "definition_ru": "с меня хватит; я сыт по горло; мне всё надоело",
+      "synonyms_sr": [
+        "dosta mi je",
+        "preko glave mi je",
+        "dojadilo mi je",
+        "smučilo mi se"
+      ],
+      "literal_ru": "моя шапка полна",
+      "register": "razg., ekspresivno; često puna mi je kapa svega / priče / posla / pitanja + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Puna mi je kapa tih priča o timskom duhu.",
+          "russian": "С меня хватит этих разговоров о командном духе.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Puna mi je kapa konstantnog putovanja.",
+          "russian": "Мне до смерти надоели постоянные разъезды.",
+          "source": "Sport Klub, 2018"
+        }
+      ],
+      "note": "Очень естественная разговорная формула раздражения и пресыщения. После неё типичен родительный: puna mi je kapa svega, politike, posla, njegovih priča. Не всякое puna kapa означает «надоело»: без дательного эта комбинация в других контекстах может просто обозначать большое количество, поэтому ключевая модель для активного словаря — именно puna mi je kapa nečega.",
+      "keyword": "puna mi je kapa"
     },
     {
       "headword_latin": "Punom parom",
