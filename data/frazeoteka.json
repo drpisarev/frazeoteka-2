@@ -25219,6 +25219,32 @@
       "keyword": "sreća u nesreći"
     },
     {
+      "headword_latin": "Srušiti / spaliti mostove za sobom",
+      "type": "frazeologizam",
+      "definition_ru": "сжечь мосты; отрезать себе путь назад; окончательно порвать с прошлым",
+      "synonyms_sr": [
+        "preseći sve veze",
+        "onemogućiti sebi povratak",
+        "raskrstiti s nečim"
+      ],
+      "literal_ru": "разрушить / сжечь мосты за собой",
+      "register": "neutralno-publicistički; varijante srušiti, porušiti, spaliti mostove za sobom",
+      "examples": [
+        {
+          "serbian_latin": "Ni Petrić, kao „pravi Partizanov vojnik“, nije porušio mostove za sobom.",
+          "russian": "Петрич, как «настоящий солдат „Партизана“», всё же не стал окончательно сжигать мосты.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Tužilac Nenadić je porušio sve mostove, prešao Rubikon.",
+          "russian": "Прокурор Ненадич сжёг все мосты, перешёл Рубикон.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Значение практически совпадает с русским «сжечь мосты». Однако сербский свободно использует не только spaliti, но и srušiti / porušiti mostove; поэтому буквальный русский образ не следует механически навязывать сербскому. Оборот означает такой разрыв отношений или такой поступок, после которого возвращение к прежнему положению становится крайне затруднительным. В современном языке особенно част в разговорах о работе, политике и личных отношениях.",
+      "keyword": "mostove za sobom"
+    },
+    {
       "headword_latin": "Stajati kao saliveno",
       "type": "frazeologizam",
       "definition_ru": "сидеть как влитое; сидеть идеально; быть точно по фигуре",
@@ -25328,6 +25354,32 @@
       ],
       "note": "По-русски гораздо естественнее «стар как мир», а буквальное «стар как Библия» звучит необычно. В сербском сравнение может относиться не только к человеку, но и к городу, предмету, истории или идее. Близкое star kao Metuzalem чаще ассоциируется именно с человеком преклонного возраста.",
       "keyword": "star kao Biblija"
+    },
+    {
+      "headword_latin": "Stara koka, dobra supa",
+      "type": "izreka",
+      "definition_ru": "старая лошадь борозды не портит; опыт возрастом не испортишь; о привлекательной женщине постарше — «женщина в возрасте ещё ого-го»",
+      "synonyms_sr": [
+        "iskustvo čini svoje",
+        "godine nisu prepreka",
+        "još je u formi"
+      ],
+      "literal_ru": "старая курица — хороший суп",
+      "register": "razg., šalj.; kada se govori o ženi često ima seksualizovan i potencijalno uvredljiv prizvuk",
+      "examples": [
+        {
+          "serbian_latin": "Stara koka, dobra supa.",
+          "russian": "Старая лошадь борозды не портит.",
+          "source": "Blic, 2018"
+        },
+        {
+          "serbian_latin": "Modrić uskoro puni 40... Stara koka, dobra supa!",
+          "russian": "Модричу скоро сорок — а старая школа всё ещё в деле!",
+          "source": "Sportal / Blic, 2025"
+        }
+      ],
+      "note": "Исходный бытовой образ вполне буквальный: из старой курицы получается наваристый суп. В отношении людей смысл переносится на ценность опыта и сохранение качеств с возрастом. Однако в современной разговорной речи фраза особенно часто используется мужчинами о сексуально привлекательной женщине постарше и поэтому может звучать грубо или сексистски. Пример с Лукой Модричем показывает, что оборот способен шутливо переноситься и на пожилого по спортивным меркам мужчину.",
+      "keyword": "stara koka"
     },
     {
       "headword_latin": "Stara ljubav zaborava nema",
@@ -26886,6 +26938,32 @@
       "keyword": "svoj"
     },
     {
+      "headword_latin": "Svoje se meso ne jede",
+      "type": "poslovica",
+      "definition_ru": "своих не сдают; своя кровь не водица; родню не трогают",
+      "synonyms_sr": [
+        "svoj svoga ne daje",
+        "čuvati svoje",
+        "ne udarati na svoje"
+      ],
+      "literal_ru": "своё мясо не едят",
+      "register": "poslov., razg.; neretko iron.-neodobr. o porodičnom, partijskom ili grupnom pokrivanju svojih",
+      "examples": [
+        {
+          "serbian_latin": "Da li njegova stranka funkcioniše po sistemu – svoje se meso ne jede?",
+          "russian": "Неужели его партия действует по принципу «своих не сдаём»?",
+          "source": "Vreme, 2019"
+        },
+        {
+          "serbian_latin": "Svoje se meso ne jede.",
+          "russian": "Своих не трогают.",
+          "source": "Vreme, 2020"
+        }
+      ],
+      "note": "Фраза может выражать нормальную семейную солидарность, но особенно выразительна как комментарий к покрывательству своих, даже когда они явно неправы. Поэтому в политическом контексте русский перевод «своих не сдаём» часто точнее буквального «своя кровь». Объектом такой солидарности может быть семья, партия, профессиональная группа или любой «свой круг».",
+      "keyword": "svoje meso"
+    },
+    {
       "headword_latin": "Svuda pođi, kući dođi",
       "type": "izreka",
       "definition_ru": "везде побывай, а домой возвращайся; в гостях хорошо, а дома лучше",
@@ -27221,6 +27299,60 @@
       "keyword": "što se mora nije teško"
     },
     {
+      "headword_latin": "Šuplja priča",
+      "type": "izraz",
+      "definition_ru": "пустые разговоры; пустой трёп; слова без содержания и оснований",
+      "synonyms_sr": [
+        "prazna priča",
+        "priča bez pokrića",
+        "prazne reči",
+        "demagogija"
+      ],
+      "literal_ru": "полая, пустая история",
+      "register": "razg., neodobr.; tipično to je šuplja priča, sve je to šuplja priča",
+      "examples": [
+        {
+          "serbian_latin": "Te najave bojkota... su šuplja priča.",
+          "russian": "Эти разговоры о бойкоте — пустой трёп.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Sve to je već danas očigledno šuplja priča.",
+          "russian": "Уже сегодня ясно, что всё это пустые разговоры.",
+          "source": "Danas, 2015"
+        }
+      ],
+      "note": "Šupalj буквально значит «полый, пустой внутри», поэтому šuplja priča — речь, за которой нет содержания, аргументов или реального действия. Близкое prazna priča нейтральнее и универсальнее. Один сербский политический пример противопоставляет боснийское šuplja priča сербскому prazna priča, однако реальные сербские СМИ регулярно употребляют и šuplja priča, так что считать выражение несербским нельзя.",
+      "keyword": "šuplja priča"
+    },
+    {
+      "headword_latin": "Švorc",
+      "type": "sleng",
+      "definition_ru": "без гроша; на мели; совсем без денег",
+      "synonyms_sr": [
+        "bez para",
+        "bez dinara",
+        "praznih džepova",
+        "dekintiran"
+      ],
+      "literal_ru": "",
+      "register": "razg., sleng; nepromenljivo: biti švorc, ostati švorc, potpuno švorc",
+      "examples": [
+        {
+          "serbian_latin": "Sad sam tu praznih džepova. Ja sam švorc.",
+          "russian": "Теперь я с пустыми карманами. Я на мели.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Kao i uvek kad ostane švorc, odlazi kod bata Gladiole.",
+          "russian": "Как всегда, когда он остаётся без гроша, он идёт к братцу Гладиоле.",
+          "source": "RTS, 2017"
+        }
+      ],
+      "note": "Это именно состояние отсутствия денег, а не просто бедность вообще. Очень естественны trenutno sam švorc «я сейчас на мели» и ostao je švorc «остался без денег». Слово неизменяемое: ja sam švorc, oni su švorc. Не путать с фамилией Švorc, которая также встречается.",
+      "keyword": "švorc"
+    },
+    {
       "headword_latin": "tačan kao švajcarski sat",
       "type": "фразеологическое сравнение",
       "definition_ru": "Предельно точный, пунктуальный и надёжный; работающий без опозданий и сбоев.",
@@ -27275,6 +27407,33 @@
       ],
       "note": "Film здесь метафорически означает предполагаемый сценарий развития событий. Реплика категорически отвергает чужой план или ожидание и часто звучит вызывающе: «не надейтесь». В современном политическом языке Сербии формула особенно заметна, но употребление не ограничено политикой.",
       "keyword": "taj film nećeš gledati"
+    },
+    {
+      "headword_latin": "Tako je kako je",
+      "type": "replika",
+      "definition_ru": "что есть, то есть; уж как есть; ничего не поделаешь",
+      "synonyms_sr": [
+        "šta da se radi",
+        "tako stoje stvari",
+        "nema druge",
+        "kako je, tako je"
+      ],
+      "literal_ru": "",
+      "register": "razg.; obično izražava prihvatanje neprijatnog ili nepromenljivog stanja, ponekad fatalizam",
+      "examples": [
+        {
+          "serbian_latin": "U ovom trenutku ne mogu ništa više da vam kažem... Tako je, kako je.",
+          "russian": "Сейчас я больше ничего сказать не могу… Что есть, то есть.",
+          "source": "N1, 2015"
+        },
+        {
+          "serbian_latin": "Ali tako je kako je.",
+          "russian": "Но уж как есть.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Формула обычно закрывает обсуждение: ситуация не обязательно нравится говорящему, но он принимает её как данность. Русское «так есть как есть» звучит менее естественно; лучше «что есть, то есть», «ничего не поделаешь». Возможна пунктуация tako je, kako je, но в обычной современной записи чаще встречается без запятой.",
+      "keyword": "tako je kako je"
     },
     {
       "headword_latin": "Tamni vilajet",
@@ -27501,6 +27660,32 @@
       ],
       "note": "Значение — нечто совершенно неизвестное или непонятное, а не просто «сложное». Выражение пришло через немецкую фразеологию; Милан Шипка связывает сербское španska sela с немецким spanische Dörfer и обсуждает его вместе с Иваном Клайном и немецко-сербохорватской фразеографией. Популярные газетные версии происхождения заметно расходятся в деталях, поэтому конкретную красивую историю о том, кто именно «изобрёл» выражение, лучше не считать доказанным фактом. Русское «китайская грамота» — отличный функциональный эквивалент: оба языка выбирают далёкую культуру как образ непонятного.",
       "keyword": "špansko selo"
+    },
+    {
+      "headword_latin": "Transfer blama",
+      "type": "sleng",
+      "definition_ru": "испанский стыд; неловкость за чужое поведение; стыд за другого",
+      "synonyms_sr": [
+        "stid zbog drugoga",
+        "neprijatnost zbog tuđeg ponašanja",
+        "krindž"
+      ],
+      "literal_ru": "перенос стыда / конфуза",
+      "register": "razg., savremeni sleng; tipično imam transfer blama, osećam transfer blama, doživeti transfer blama",
+      "examples": [
+        {
+          "serbian_latin": "Na samu pomisao osećam transfer blama.",
+          "russian": "От одной мысли об этом мне уже стыдно за них.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Danas se osećaj koji me je preplavio zove „krindž“, a mi smo to zvali „transfer blama“.",
+          "russian": "Сейчас это чувство называют «кринжем», а мы называли его «испанским стыдом».",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Это почти точный сербский функциональный эквивалент русского «испанский стыд»: неловко не за себя, а за чужое нелепое поведение. У молодых всё сильнее конкурирует англицизм krindž, однако transfer blama остаётся вполне живым и понятным; Danas фиксирует его уже в текстах 2010-х годов.",
+      "keyword": "transfer blama"
     },
     {
       "headword_latin": "Tražiti dlaku u jajetu",
@@ -27784,6 +27969,32 @@
       "keyword": "vo; kupus"
     },
     {
+      "headword_latin": "Tuđe je slađe",
+      "type": "izreka",
+      "definition_ru": "чужое всегда кажется лучше; запретный плод сладок; своё не ценим, чужому завидуем",
+      "synonyms_sr": [
+        "tuđe je uvek bolje",
+        "svoje se ne ceni",
+        "želeti tuđe"
+      ],
+      "literal_ru": "чужое слаще",
+      "register": "izreka, često iron.; o zavisti, tuđoj imovini, partnerima, stranim proizvodima, idejama ili načinu života",
+      "examples": [
+        {
+          "serbian_latin": "Mi u Srbiji imamo izreku koja pokriva široko polje značenja i upotrebe – „tuđe je slađe“.",
+          "russian": "В Сербии есть поговорка с очень широким употреблением: «чужое слаще».",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "Svi se drže principa „tuđe – slađe“.",
+          "russian": "Все придерживаются принципа: чужое всегда привлекательнее.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Русское «запретный плод сладок» совпадает лишь частично: сербское tuđe je slađe необязательно предполагает запрет — достаточно того, что вещь чужая, а поэтому кажется привлекательнее собственной. Может относиться и к романтическим партнёрам, и к товарам, культурам, идеям. Именно поэтому значение шире буквальной темы измены.",
+      "keyword": "tuđe je slađe"
+    },
+    {
       "headword_latin": "Tvrd orah",
       "type": "frazeologizam",
       "definition_ru": "крепкий орешек; трудный противник; человек, которого нелегко сломить или переубедить",
@@ -27917,6 +28128,32 @@
       "keyword": "laž; kratke noge"
     },
     {
+      "headword_latin": "U minut do dvanaest",
+      "type": "frazeologizam",
+      "definition_ru": "в последнюю минуту; в самый последний момент; когда уже дальше тянуть нельзя",
+      "synonyms_sr": [
+        "u poslednji čas",
+        "u poslednjem trenutku",
+        "pet do dvanaest"
+      ],
+      "literal_ru": "за минуту до двенадцати",
+      "register": "razg.-publicistički; i o postupku u poslednjem trenutku i o kritičnoj situaciji koja zahteva hitno delovanje",
+      "examples": [
+        {
+          "serbian_latin": "Zlatibor Lončar je istakao da je „minut do dvanaest“.",
+          "russian": "Златибор Лончар подчеркнул, что дальше откладывать уже некуда.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "To posredovanje ne može biti vođeno... u minut do dvanaest.",
+          "russian": "Это посредничество нельзя начинать в самую последнюю минуту.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Есть два близких употребления. Uradi nešto u minut do dvanaest — сделать что-то буквально в последний момент; minut je do dvanaest — ситуация критическая и действовать нужно немедленно. Шире распространён вариант pet do dvanaest, но minut do dvanaest усиливает ощущение крайней срочности. RTS использовал эту формулу даже как символическое время начала профилактической кампании.",
+      "keyword": "minut do dvanaest"
+    },
+    {
       "headword_latin": "U naponu snage",
       "type": "frazeologizam",
       "definition_ru": "в расцвете сил; в самом расцвете; в лучших годах",
@@ -28027,6 +28264,33 @@
       ],
       "note": "Kljuse — пренебрежительное «кляча, плохая лошадь». U se — окаменевшая старая форма, соответствующая современному u sebe; вне этой пословицы так обычно не говорят. Формула подчёркивает самостоятельность: помощь извне может и не прийти, поэтому рассчитывай на то, что есть у тебя самого.",
       "keyword": "u se i u svoje kljuse"
+    },
+    {
+      "headword_latin": "U sitna crevca",
+      "type": "frazeologizam",
+      "definition_ru": "досконально; до мельчайших подробностей; до последней детали",
+      "synonyms_sr": [
+        "do detalja",
+        "do najsitnijih pojedinosti",
+        "temeljno",
+        "potanko"
+      ],
+      "literal_ru": "до тонких кишок",
+      "register": "razg., ekspresivno; analizirati, objasniti, ispitati, razraditi nešto u sitna crevca; ponekad sa nijansom preterane sitničavosti",
+      "examples": [
+        {
+          "serbian_latin": "Pre nego što zađem u sitna crevca...",
+          "russian": "Прежде чем я полезу во все мельчайшие подробности…",
+          "source": "Danas, 2015"
+        },
+        {
+          "serbian_latin": "Sve smo „u sitna crevca“ saznali o Ubersee klubu.",
+          "russian": "Про клуб Übersee мы узнали всё до мельчайших подробностей.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Образ значительно телеснее русского «до мелочей»: sitna crevca — буквально «тонкие кишки». Выражение может хвалить основательность — objasnio je sve u sitna crevca, — но также раздражённо обозначать ненужное копание в деталях. Особенно часты глаголы analizirati, ispitivati, ulaziti / zalaziti u sitna crevca.",
+      "keyword": "sitna crevca"
     },
     {
       "headword_latin": "U sitne sate",
