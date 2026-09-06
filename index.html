@@ -568,12 +568,13 @@ async function pushToGitHub(statusEl=$("ghStatus")){
     statusEl.textContent="Čuvanje na GitHub...";
   }
 
-  const getUrl=
-    `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}?ref=${encodeURIComponent(c.branch)}`;
+  const getUrl =
+  `https://api.github.com/repos/${c.owner}/${c.repo}/contents/${c.path}?ref=${encodeURIComponent(c.branch)}&_=${Date.now()}`;
 
-  const gr=await fetch(getUrl,{
-    headers:ghHeaders(c.token)
-  });
+const gr = await fetch(getUrl, {
+  headers: ghHeaders(c.token),
+  cache: "no-store"
+});
 
   if(!gr.ok){
     throw new Error(`GitHub ${gr.status}`);
