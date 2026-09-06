@@ -2046,6 +2046,32 @@
       "keyword": "slep kod očiju"
     },
     {
+      "headword_latin": "Biti starog kova",
+      "type": "frazeologizam",
+      "definition_ru": "быть старой закалки; быть человеком старой школы",
+      "synonyms_sr": [
+        "biti stare škole",
+        "biti tradicionalan",
+        "držati do starih vrednosti"
+      ],
+      "literal_ru": "быть старого кова / старой чеканки",
+      "register": "najčešće odobr. ili pošt.; čovek, majstor, novinar, profesor starog kova",
+      "examples": [
+        {
+          "serbian_latin": "Patrijarh Irinej bio je staroga kova, i monah i hrišćanin i pastir i Srbin.",
+          "russian": "Патриарх Ириней был человеком старой закалки — и как монах, и как христианин, и как пастырь, и как серб.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Miloš Teodosić je poslednji košarkaš „starog kova“ po mnogo čemu.",
+          "russian": "Милош Теодосич во многих отношениях последний баскетболист старой школы.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Русское «старой закалки» совпадает очень хорошо. Важный оттенок: starog kova далеко не всегда означает просто «старомодный». Нередко это похвала профессионализму, принципам, ремесленной добросовестности или манерам прежнего поколения: zanatlija starog kova, profesor starog kova. В одном из современных примеров Порфирий прямо объясняет stari kov как качество, имеющее непреходящую ценность.",
+      "keyword": "starog kova"
+    },
+    {
       "headword_latin": "Biti svakoj vreći zakrpa",
       "type": "frazeologizam",
       "definition_ru": "быть в каждой бочке затычкой; всюду примазываться; лезть во все дела",
@@ -24285,6 +24311,59 @@
       "keyword": "smeši se brk"
     },
     {
+      "headword_latin": "Smor",
+      "type": "sleng",
+      "definition_ru": "скука; тоска смертная; занудство, нечто ужасно скучное",
+      "synonyms_sr": [
+        "dosada",
+        "smaračina",
+        "gnjavaža",
+        "smaranje"
+      ],
+      "literal_ru": "",
+      "register": "sleng, razg.; može označavati stanje dosade, dosadnu stvar ili aktivnost, ređe dosadnu osobu",
+      "examples": [
+        {
+          "serbian_latin": "Deca književnost i čitanje doživljavaju danas često kao „smor“.",
+          "russian": "Дети сегодня часто воспринимают литературу и чтение как смертную скуку.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Repujemo u mini suknjama, jer nam je smor da rep bude muški posao.",
+          "russian": "Мы читаем рэп в мини-юбках, потому что нас достало, что рэп считается мужским занятием.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Smor шире русского «скука»: ovo je smor может означать «это скукотища / это муторно / это достало». О человеке возможно on je smor, но для «зануда» точнее smarač. Связаны также smarati «доставать, утомлять, надоедать» и smoren «уставший от всего, скучающий, без настроения». Слово прочно вошло в современную разговорную речь, хотя сохраняет сленговую окраску.",
+      "keyword": "smor"
+    },
+    {
+      "headword_latin": "Snaga na usta ulazi",
+      "type": "izreka",
+      "definition_ru": "чтобы были силы, надо хорошо есть; сила через еду приходит",
+      "synonyms_sr": [
+        "treba dobro jesti",
+        "od hrane se dobija snaga",
+        "valja se dobro najesti"
+      ],
+      "literal_ru": "сила входит через рот",
+      "register": "narodno, razg., šalj.; često kao opravdanje ili podsticaj da se dobro jede",
+      "examples": [
+        {
+          "serbian_latin": "Snaga na usta ulazi, kaže narodna izreka.",
+          "russian": "Сила через рот приходит, как говорит народная поговорка.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Snaga na usta ulazi. Danas radimo do 12, a onda kući.",
+          "russian": "Силы приходят с едой. Сегодня работаем до двенадцати, а потом домой.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "Фраза обычно произносится добродушно за столом: мол, ешь, силы понадобятся. Может использоваться и иронически в адрес любителя поесть. Danas прямо называет её narodna izreka; надёжно установленного конкретного происхождения у формулы нет.",
+      "keyword": "snaga na usta ulazi"
+    },
+    {
       "headword_latin": "Soliti pamet",
       "type": "frazeologizam",
       "definition_ru": "поучать; читать нотации; компостировать мозги; учить жизни",
@@ -24644,6 +24723,58 @@
       "keyword": "spiskati"
     },
     {
+      "headword_latin": "Spojiti lepo i korisno",
+      "type": "izraz",
+      "definition_ru": "совместить приятное с полезным",
+      "synonyms_sr": [
+        "spojiti prijatno s korisnim",
+        "imati dvostruku korist",
+        "uživati i uraditi nešto korisno"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; vrlo česta konstrukcija spojiti lepo i korisno",
+      "examples": [
+        {
+          "serbian_latin": "Ponovo ćemo spojiti lepo i korisno.",
+          "russian": "Мы снова совместим приятное с полезным.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Mnogo je onih koji bi tako da spoje lepo i korisno – pomognu kome treba, a nešto korisno i nauče.",
+          "russian": "Многие хотели бы таким образом совместить приятное с полезным: помочь тем, кому это нужно, и заодно чему-нибудь научиться.",
+          "source": "Radio Beograd 1 / RTS, 2020"
+        }
+      ],
+      "note": "Практически полный функциональный эквивалент русского «совместить приятное с полезным», но сербский устойчиво использует lepo, а не обязательно prijatno. Поэтому для русскоязычного естественная активная формула — именно spojiti lepo i korisno.",
+      "keyword": "spojiti lepo i korisno"
+    },
+    {
+      "headword_latin": "Spolja gladac, a unutra jadac",
+      "type": "poslovica",
+      "definition_ru": "снаружи красиво, внутри беда; с виду блеск, а внутри убожество; внешность обманчива",
+      "synonyms_sr": [
+        "spolja lepo, iznutra loše",
+        "nije zlato sve što sija",
+        "samo spolja izgleda dobro"
+      ],
+      "literal_ru": "снаружи гладко-блестяще, а внутри — убожество",
+      "register": "poslov., iron.-neodobr.; o čoveku, zgradi, robi, organizaciji ili sistemu kod kojih lep izgled skriva loše stanje",
+      "examples": [
+        {
+          "serbian_latin": "„Spolja gladac, a unutra jadac“ – hrana koja nas može prevariti i biti štetna po zdravlje.",
+          "russian": "«Снаружи всё прекрасно, а внутри беда»: еда, которая может обмануть своим видом и оказаться вредной.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Spolja gladac, a unutra jadac. Ganc nova zgrada u Užičkoj 51 u Vršcu...",
+          "russian": "Снаружи блеск, а внутри убожество. Совершенно новый дом на улице Ужичкой, 51, во Вршаце…",
+          "source": "N1 / Danas, 2025"
+        }
+      ],
+      "note": "Gladac вне этой рифмованной формулы современному учащемуся почти не нужен: слово здесь сохраняется прежде всего ради старого образа и рифмы gladac — jadac. Выражение подчёркивает именно несоответствие фасада содержанию, поэтому близкое nije zlato sve što sija шире: оно говорит вообще о ложном внешнем впечатлении. Встречается также вариант без a: spolja gladac, unutra jadac.",
+      "keyword": "spolja gladac unutra jadac"
+    },
+    {
       "headword_latin": "Sprati ljagu sa nekoga / nečega",
       "type": "frazeologizam",
       "definition_ru": "смыть позорное пятно; снять обвинения; восстановить доброе имя",
@@ -24951,6 +25082,32 @@
       ],
       "note": "Русское «счастье в несчастье» совпадает буквально, а «нет худа без добра» часто звучит естественнее как свободный перевод. Выражение не превращает плохое событие в хорошее: оно выделяет одну благоприятную деталь внутри в целом неприятной ситуации.",
       "keyword": "sreća u nesreći"
+    },
+    {
+      "headword_latin": "Stajati kao saliveno",
+      "type": "frazeologizam",
+      "definition_ru": "сидеть как влитое; сидеть идеально; быть точно по фигуре",
+      "synonyms_sr": [
+        "savršeno stajati",
+        "pristajati savršeno",
+        "biti kao skrojen po meri"
+      ],
+      "literal_ru": "сидеть словно отлитое по форме",
+      "register": "razg., odobr.; uglavnom o odeći i modnim dodacima; saliven se slaže sa predmetom: haljina kao salivena, kaput kao saliven",
+      "examples": [
+        {
+          "serbian_latin": "Reč je o jednostavnom modelu koji glumici stoji kao saliven.",
+          "russian": "Речь о простой модели, которая сидит на актрисе как влитая.",
+          "source": "City Magazine, 2021"
+        },
+        {
+          "serbian_latin": "Spojiti gala izdanje s ogrtačem koji stoji kao saliven nije uvek lak zadatak.",
+          "russian": "Подобрать к вечернему образу накидку, которая сидит как влитая, не всегда легко.",
+          "source": "City Magazine, 2023"
+        }
+      ],
+      "note": "Здесь stajati означает не «стоять», а «сидеть, идти кому-либо» об одежде: haljina mi dobro stoji. Русскоязычному особенно важно согласование: haljina joj stoji kao salivena, но kaput joj stoji kao saliven — род определяется предметом одежды, а не человеком. Возможна и отрицательная конструкция ne stoji kao saliveno — «сидит неидеально».",
+      "keyword": "kao saliven"
     },
     {
       "headword_latin": "stajati kao ukopan",
@@ -26180,6 +26337,33 @@
       "keyword": "svakog gosta"
     },
     {
+      "headword_latin": "Svašta nešto",
+      "type": "izraz",
+      "definition_ru": "всякое-разное; много чего; чего только нет",
+      "synonyms_sr": [
+        "svašta",
+        "mnogo toga",
+        "razne stvari",
+        "koješta"
+      ],
+      "literal_ru": "",
+      "register": "razg.; namerno neodređeno označavanje mnogo različitih stvari, radnji, osobina ili tema",
+      "examples": [
+        {
+          "serbian_latin": "Gledali urednici ili ne, to „svašta nešto“ ide pa ide…",
+          "russian": "Смотрят редакторы или нет, всё это «всякое-разное» продолжает идти в эфир…",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Sigurno nas ima podosta koji svašta nešto ne umemo da izgovorimo.",
+          "russian": "Наверняка многие из нас много чего не умеют произнести вслух.",
+          "source": "City Magazine, 2022"
+        }
+      ],
+      "note": "Для русского сочетание сначала кажется избыточным: svašta уже означает «всякое», а к нему добавляется nešto «что-то». Но в разговорном сербском svašta nešto — совершенно узнаваемая формула со значением «куча всего разного, много чего». Она может стоять и перед сказуемым: Svašta nešto imam da ti pričam. Не путать с неодобрительным koješta! — «ерунда! / чепуха!». Danas отдельно обсуждал конструкцию как реально употребительную современную модель.",
+      "keyword": "svašta nešto"
+    },
+    {
       "headword_latin": "Sve će to narod pozlatiti",
       "type": "krilatica",
       "definition_ru": "«народ всё вознаградит»; общество отблагодарит — часто горько иронически о пустой благодарности вместо реальной помощи",
@@ -26264,6 +26448,60 @@
       "keyword": "sve ravno do Kosova"
     },
     {
+      "headword_latin": "Sve lađe su nekome potonule",
+      "type": "frazeologizam",
+      "definition_ru": "все надежды рухнули; руки опустились; всё пропало",
+      "synonyms_sr": [
+        "izgubiti svaku nadu",
+        "klonuti duhom",
+        "pasti u očaj",
+        "učiniti se da je sve propalo"
+      ],
+      "literal_ru": "у кого-то затонули все корабли",
+      "register": "razg.-ekspresivno; obično sve lađe su mi/mu/joj potonule; dativ označava osobu koja je izgubila nadu",
+      "examples": [
+        {
+          "serbian_latin": "U tom trenutku sam bio duboko nesrećan. Sve lađe su mi potonule.",
+          "russian": "В тот момент я был глубоко несчастен. Все мои надежды рухнули.",
+          "source": "Politika, 2016"
+        },
+        {
+          "serbian_latin": "Za one koje RFZO odbije ne znači da su sve lađe potonule.",
+          "russian": "Если Фонд медицинского страхования кому-то отказал, это ещё не значит, что всё потеряно.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Образ обозначает не просто плохое настроение, а ощущение, что больше не осталось выхода или надежды на успех. Поэтому особенно естественно mislio sam da su mi sve lađe potonule, после чего ситуация иногда неожиданно меняется. Русское «все корабли потонули» фразеологизмом не является, поэтому буквально переводить не стоит. В сербском возможны и potonule su mi sve lađe, и более обычное sve lađe su mi potonule.",
+      "keyword": "sve lađe su potonule"
+    },
+    {
+      "headword_latin": "Sve po PS-u",
+      "type": "izraz",
+      "definition_ru": "всё по уставу; всё по правилам; всё чин чином",
+      "synonyms_sr": [
+        "sve po pravilima",
+        "sve po propisu",
+        "sve po proceduri",
+        "sve kako treba"
+      ],
+      "literal_ru": "всё по PS — pravilo službe",
+      "register": "razg., prvobitno vojno; danas široko van vojske, često šalj. ili iron.; PS se obično piše velikim slovima",
+      "examples": [
+        {
+          "serbian_latin": "Postoje dozvole građevinske, sve je po PS-u, što se kaže.",
+          "russian": "Разрешения на строительство есть, всё, как говорится, по правилам.",
+          "source": "N1, 2019"
+        },
+        {
+          "serbian_latin": "Išla je sve po PS-u (pravila službe).",
+          "russian": "Она всё делала строго по уставу.",
+          "source": "Blic, 2009"
+        }
+      ],
+      "note": "PS здесь не латинское post scriptum. Это военная аббревиатура от pravilo službe — «правила службы, устав». Из армейской речи выражение вышло в общий язык и теперь может относиться к ремонту, документам, приготовлению еды или идеально организованному быту: sve je po PS-u. Нередко звучит с лёгкой иронией: «всё строго как положено».",
+      "keyword": "po PS-u"
+    },
+    {
       "headword_latin": "Sve se može kad se hoće",
       "type": "izreka",
       "definition_ru": "было бы желание — всё получится; всё возможно, если по-настоящему захотеть",
@@ -26319,6 +26557,31 @@
       ],
       "note": "Центральная идея — воздаяние, почти бытовая формула кармы: поступок рано или поздно возвращается к человеку. Поэтому русский аналог «не рой другому яму» уже по смыслу: он предупреждает только о зле, сделанном другому, тогда как сербское выражение значительно шире. Дополнительную культурную узнаваемость формуле придала знаменитая песня Tereze Kesovije Sve se vraća, sve se plaća, победившая на Zagrebfestu 1977 года; сама формула, однако, не сводится к названию песни.",
       "keyword": "sve se vraća sve se plaća"
+    },
+    {
+      "headword_latin": "Sve su pite pitice, a burek je pitac",
+      "type": "izreka",
+      "definition_ru": "все пироги хороши, но бурек — король; бурек среди пирогов главный",
+      "synonyms_sr": [
+        "burek je kralj među pitama",
+        "nema do bureka"
+      ],
+      "literal_ru": "все питы — «питочки», а бурек — «пита-мужик»",
+      "register": "šalj., gastronomska izreka; varijanta Sve su pite pitice, samo je burek pitac",
+      "examples": [
+        {
+          "serbian_latin": "„Sve su pite – pitice, a burek je – pitac“, kaže Milena Ešpek.",
+          "russian": "«Все пироги — всего лишь пирожочки, а бурек — настоящий пирог».",
+          "source": "Danas, 2011"
+        },
+        {
+          "serbian_latin": "Kao što se kod nas u Bosni kaže, sve su pite pitice, samo je burek pitac.",
+          "russian": "Как у нас в Боснии говорят: все питы — питочки, и только бурек — настоящий «питач».",
+          "source": "N1, 2022"
+        }
+      ],
+      "note": "Pitac здесь — игровое слово: женское pita нарочито превращается в «мужскую», увеличительно-почётную форму, чтобы представить бурек главным среди всех пит. Фразу часто связывают с Момо Капором, однако как бесспорно авторскую цитату фиксировать её не стоит: она давно живёт самостоятельно. Для Сербии важно не перенести боснийскую норму названий: в Сербии совершенно обычно burek sa sirom, тогда как в Боснии burek традиционно резервируют за мясной вариант, а сырный называют sirnica. N1 специально показывает это региональное различие.",
+      "keyword": "burek je pitac"
     },
     {
       "headword_latin": "Sve što je lepo kratko traje",
