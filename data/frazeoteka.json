@@ -12651,6 +12651,38 @@
       "keyword": "leva ruka ne zna šta radi desna"
     },
     {
+      "headword_latin": "Lice i naličje",
+      "type": "izraz",
+      "definition_ru": "лицо и изнанка; две стороны чего-либо; внешняя и скрытая сторона",
+      "synonyms_sr": [
+        "dve strane iste stvari",
+        "druga strana priče",
+        "vidljiva i skrivena strana",
+        "druga strana medalje"
+      ],
+      "literal_ru": "лицевая и оборотная сторона",
+      "register": "neutralno-publicistički, slikovito; naličje često označava skrivenu, manje privlačnu ili neprijatnu stranu pojave, ali negativno značenje nije obavezno",
+      "examples": [
+        {
+          "serbian_latin": "Naziv emisije „Lice i naličje“ sugeriše da će priča imati dve strane.",
+          "russian": "Название передачи «Лицо и изнанка» предполагает, что у истории будут показаны две стороны.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Imali smo prilike da vidimo i naličje sporta u Srbiji.",
+          "russian": "Нам довелось увидеть и изнанку спорта в Сербии.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Autori pokušavaju da što vernije prikažu lice i naličje pedesetogodišnjeg istorijskog trilera.",
+          "russian": "Авторы пытаются как можно достовернее показать обе стороны пятидесятилетней исторической драмы.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Буквально lice — лицевая, наружная сторона предмета или ткани, а naličje — оборотная, изнаночная. В переносном употреблении пара обозначает два аспекта одного явления: то, что видно снаружи, и то, что обнаруживается «с обратной стороны». При этом naličje очень часто получает отрицательный оттенок — «изнанка, неприглядная сторона»: naličje sporta, naličje uspeha, naličje društva. Но это не заложено в слове обязательно: современный RTS прямо объясняет lice i naličje как наличие у истории двух сторон. Русскому особенно полезно различать lice i naličje и druga strana medalje: первое легко противопоставляет внешнее и скрытое, тогда как второе обычно просто вводит другой аспект вопроса.",
+      "keyword": "lice i naličje"
+    },
+    {
       "headword_latin": "Licem u lice",
       "type": "izraz",
       "definition_ru": "лицом к лицу; непосредственно; при личной встрече",
