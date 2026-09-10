@@ -24213,6 +24213,38 @@
       "keyword": "skočiti sebi u usta"
     },
     {
+      "headword_latin": "Skrenuti s uma",
+      "type": "frazeologizam",
+      "definition_ru": "сойти с ума; лишиться рассудка; свихнуться",
+      "synonyms_sr": [
+        "sići s uma",
+        "poludeti",
+        "izgubiti pamet",
+        "pomeriti pameću"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; najčešće skrenuo / skrenula je s uma, kao da je skrenuo s uma; moguć je i red reči s uma skrenuti",
+      "examples": [
+        {
+          "serbian_latin": "U tom besomučnom i otrcanom ponavljanju fraze o skretanju pažnje kao da se skrenulo s uma.",
+          "russian": "В этом бесконечном повторении избитой фразы об «отвлечении внимания» словно уже совсем с ума сошли.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "U većini pozorišta gledaju ga kao da je skrenuo s uma kad im to pomene.",
+          "russian": "В большинстве театров, когда он об этом говорит, на него смотрят как на сумасшедшего.",
+          "source": "Politika, 2012"
+        },
+        {
+          "serbian_latin": "Kao da sam s uma skrenuo, već dve godine plaćam skuplje avionske karte.",
+          "russian": "Словно я с ума сошёл: уже два года покупаю более дорогие авиабилеты.",
+          "source": "Politika, 2019"
+        }
+      ],
+      "note": "Особенно важно не путать skrenuti s uma и smetnuti s uma. Первое означает «сойти с ума», тогда как smetnuti s uma — «забыть, упустить из виду»: Ne treba smetnuti s uma da... — «Не следует забывать, что...». У skrenuti s uma возможен обратный порядок s uma skrenuti, особенно ради выразительности. В реальной речи оборот часто гиперболический: Jesi li skrenuo s uma? — не медицинское «ты потерял рассудок?», а обычное «ты что, с ума сошёл?».",
+      "keyword": "skrenuti s uma"
+    },
+    {
       "headword_latin": "Skuplja dara nego mera",
       "type": "izreka",
       "definition_ru": "овчинка выделки не стоит; расходы больше выгоды; слишком дорогая цена за результат",
