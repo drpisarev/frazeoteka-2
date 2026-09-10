@@ -3181,6 +3181,32 @@
       "keyword": "pametan; budala; stid"
     },
     {
+      "headword_latin": "Čekati kao ozebao sunce",
+      "type": "frazeologizam",
+      "definition_ru": "ждать с огромным нетерпением; ждать как спасения; ждать как манны небесной",
+      "synonyms_sr": [
+        "željno iščekivati",
+        "jedva čekati",
+        "čekati kao spas"
+      ],
+      "literal_ru": "ждать солнца, как замёрзший человек",
+      "register": "razg.-publicistički, ekspresivno; obično o nečemu veoma željenom i potrebnom",
+      "examples": [
+        {
+          "serbian_latin": "Ostareli ribar, kao ozebao sunce, čeka vernog mačka koji je otišao na dug put.",
+          "russian": "Старый рыбак ждёт верного кота как спасения.",
+          "source": "Radio Beograd 2 / RTS, 2026"
+        },
+        {
+          "serbian_latin": "Evo premijere kakvu predugo čekamo, ko ozebao sunce, u našim repertoarskim pozorištima prestonice.",
+          "russian": "Вот премьера, которую мы в столичных театрах давно ждём как манну небесную.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Ozebao здесь субстантивировано: буквально «тот, кто замёрз и ждёт солнца». Поэтому выражение сильнее простого jedva čekati: желаемое воспринимается почти как избавление от неприятного состояния. Часто встречается разговорное ko ozebao sunce вместо kao.",
+      "keyword": "kao ozebao sunce"
+    },
+    {
       "headword_latin": "Čiča miča i gotova priča",
       "type": "izreka",
       "definition_ru": "вот и сказочке конец; вот и вся история; и на этом всё",
@@ -12445,6 +12471,32 @@
       "keyword": "kucni u drvo"
     },
     {
+      "headword_latin": "Kud koji, mili moji",
+      "type": "izreka",
+      "definition_ru": "кто куда; разбежались кто куда; дальше каждый своей дорогой",
+      "synonyms_sr": [
+        "svako na svoju stranu",
+        "razići se",
+        "svako svojim putem"
+      ],
+      "literal_ru": "кто куда, милые мои",
+      "register": "razg., šalj.-iron.; rimovana formula razilaženja, raspada ili završetka zajedničkog posla",
+      "examples": [
+        {
+          "serbian_latin": "Čestitali smo jedni drugima i kud koji, mili moji.",
+          "russian": "Мы поздравили друг друга — и дальше каждый пошёл своей дорогой.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Posle bio skroman koktel, pa kud koji, mili moji.",
+          "russian": "Потом был скромный коктейль — и все разошлись кто куда.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Формула часто появляется в момент, когда собрание, компания, совместный проект или целая система распадается и каждый отправляется своей дорогой. Mili moji буквально означает «милые мои», но обычно уже воспринимается как рифмованная часть готовой реплики. Точное происхождение формулы надёжно не установлено.",
+      "keyword": "kud koji mili moji"
+    },
+    {
       "headword_latin": "Kud svi Turci, tu i mali Mujo",
       "type": "izreka",
       "definition_ru": "куда все, туда и я; следовать за толпой; делать как все",
@@ -12918,6 +12970,33 @@
       "keyword": "koplje"
     },
     {
+      "headword_latin": "Loviti u mutnom",
+      "type": "frazeologizam",
+      "definition_ru": "ловить рыбу в мутной воде; пользоваться неразберихой; извлекать выгоду из сомнительной ситуации",
+      "synonyms_sr": [
+        "koristiti zbrku",
+        "izvlačiti korist",
+        "muljati (razg.)",
+        "koristiti nejasnu situaciju"
+      ],
+      "literal_ru": "ловить в мутном",
+      "register": "razg.-publicistički, neodobr.; takođe imenica lov u mutnom",
+      "examples": [
+        {
+          "serbian_latin": "Za to vreme predsednik Srbije na Ohridskom jezeru lovi u mutnom.",
+          "russian": "Тем временем президент Сербии на Охридском озере пытается ловить рыбу в мутной воде.",
+          "source": "N1, 2023"
+        },
+        {
+          "serbian_latin": "Realno stanje ili lov u mutnom?",
+          "russian": "Реальное положение дел или попытка половить рыбу в мутной воде?",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Важен отрицательный оттенок: человек использует непрозрачность, хаос или чужие затруднения в собственных интересах. Наряду с глагольным loviti u mutnom очень употребительно lov u mutnom. Русское «ловить рыбу в мутной воде» — практически точный эквивалент.",
+      "keyword": "loviti u mutnom"
+    },
+    {
       "headword_latin": "Lud kao struja",
       "type": "frazeologizam",
       "definition_ru": "безбашенный; сумасшедший; совершенно непредсказуемый",
@@ -13226,6 +13305,32 @@
       ],
       "note": "Русское «медвежья услуга» практически полностью совпадает по значению. Важно, что намерение обычно доброе, а результат оказывается вредным; сербский допускает и napraviti sebi medveđu uslugu. Шипка связывает закрепление выражения с басней Ивана Крылова Pustinjak i medved, где медведь, пытаясь помочь человеку, убивает его.",
       "keyword": "medveđa usluga"
+    },
+    {
+      "headword_latin": "Meriti istim aršinom",
+      "type": "frazeologizam",
+      "definition_ru": "мерить одной меркой; судить по одинаковым критериям; подходить ко всем одинаково",
+      "synonyms_sr": [
+        "meriti istom merom",
+        "primenjivati ista merila",
+        "suditi po istim kriterijumima"
+      ],
+      "literal_ru": "мерить одним и тем же аршином",
+      "register": "neutralno-publicistički; često meriti sve / svakoga istim aršinom; takođe u odričnoj konstrukciji",
+      "examples": [
+        {
+          "serbian_latin": "Ako je otišla ministarka Mala, mislim da bi trebalo meriti svima istim aršinom.",
+          "russian": "Если министр Мала ушла, думаю, ко всем следует применять одну и ту же мерку.",
+          "source": "N1, 2018"
+        },
+        {
+          "serbian_latin": "Možda će neko zameriti sudiji, ali je on istim aršinom merio sve.",
+          "russian": "Возможно, кто-то упрекнёт судью, но он ко всем применял одинаковые критерии.",
+          "source": "Politika, 2010"
+        }
+      ],
+      "note": "Aršin — старая мера длины, само слово вне исторического контекста сегодня значительно менее употребительно, чем фразеологизм. Сербские языковеды отмечают современную замену meriti istom merom. Русское «мерить одним аршином» понятно, но звучит несколько старомодно; обычнее «мерить одной меркой».",
+      "keyword": "istim aršinom"
     },
     {
       "headword_latin": "Mešati babe i žabe",
@@ -13931,6 +14036,33 @@
       ],
       "note": "Для русского буквальный образ ничего не подсказывает: «куково лето» русским фразеологизмом не является. Значение колеблется от категорического «никогда» до иронического «неизвестно когда, в очень далёком будущем». Danas прямо сопоставляет выражение с латинским ad calendas Graecas — «до греческих календ», то есть никогда.",
       "keyword": "kukovo leto"
+    },
+    {
+      "headword_latin": "Na lepe oči",
+      "type": "frazeologizam",
+      "definition_ru": "за красивые глаза; просто так; без заслуг или гарантий",
+      "synonyms_sr": [
+        "tek tako",
+        "bez pokrića",
+        "bez zasluge",
+        "na poverenje (delimično)"
+      ],
+      "literal_ru": "за красивые глаза",
+      "register": "razg., iron.; obično dobiti / dati nešto na lepe oči",
+      "examples": [
+        {
+          "serbian_latin": "Ovde ti niko ništa na lepe oči ne daje.",
+          "russian": "Здесь тебе никто ничего за красивые глаза не даст.",
+          "source": "RTS, 2010"
+        },
+        {
+          "serbian_latin": "Zašto će neki đaci dobiti peticu „na lepe oči“?",
+          "russian": "Почему некоторые ученики получат пятёрку просто так, за красивые глаза?",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Выражение употребляется, когда кто-то получает преимущество, оценку, деньги, должность или доверие без достаточных оснований. В финансовом контексте dati kredit na lepe oči может означать «дать без нормальных гарантий». Русское «за красивые глаза» почти полностью совпадает и по образу, и по ироническому оттенку.",
+      "keyword": "na lepe oči"
     },
     {
       "headword_latin": "Na licu mesta",
@@ -15538,6 +15670,33 @@
       ],
       "note": "Конструкция буквально устроена как «ему нет равного», поэтому местоимение стоит в дательном: nema mu ravna, nema joj ravne. Выражение обычно является сильной похвалой и может уточняться сферой: kao lekar, kao majstor, u tom poslu. Близкое nema mu premca звучит несколько книжнее и торжественнее.",
       "keyword": "nema mu ravna"
+    },
+    {
+      "headword_latin": "Nema ni kučeta ni mačeta",
+      "type": "frazeologizam",
+      "definition_ru": "ни родных ни близких; ни души; совершенно один",
+      "synonyms_sr": [
+        "nema nikoga svog",
+        "sam samcat",
+        "nema žive duše (o mestu)",
+        "nigde nikoga"
+      ],
+      "literal_ru": "нет ни собачонки, ни котёнка",
+      "register": "razg., ekspresivno; o čoveku — nema porodice i bliskih; o mestu — potpuno je pusto, nema nikoga",
+      "examples": [
+        {
+          "serbian_latin": "Lako je tebi da isključiš telefon, kada nemaš ni kučeta ni mačeta da te pozove.",
+          "russian": "Тебе легко выключить телефон: у тебя ни родных, ни близких, некому позвонить.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Nigde ni kučeta ni mačeta. Samo sneg i drveće.",
+          "russian": "Вокруг ни души. Только снег и деревья.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "У выражения два связанных употребления. On nema ni kučeta ni mačeta обычно означает, что человек совершенно один, без семьи и тех, о ком нужно заботиться; nigde ni kučeta ni mačeta — «вокруг ни души». Русское «ни кола ни двора» совпадает лишь частично: оно сильнее связано с отсутствием имущества.",
+      "keyword": "ni kučeta ni mačeta"
     },
     {
       "headword_latin": "Nema odmora dok traje obnova",
@@ -22926,6 +23085,33 @@
       "keyword": "mozak na pašu"
     },
     {
+      "headword_latin": "Pustiti nekoga / nešto niz vodu",
+      "type": "frazeologizam",
+      "definition_ru": "бросить на произвол судьбы; сдать кого-то; отказаться от поддержки; пожертвовать кем-то",
+      "synonyms_sr": [
+        "odreći se",
+        "žrtvovati",
+        "napustiti",
+        "ostaviti na cedilu"
+      ],
+      "literal_ru": "пустить кого-то / что-то вниз по течению",
+      "register": "razg.-publicistički, neodobr.; naročito o savezniku, saradniku, organizaciji ili projektu od kog se odustaje radi sopstvene koristi",
+      "examples": [
+        {
+          "serbian_latin": "Upitan da li je ministra finansija „pustio niz vodu“, kaže da ga se nije odrekao.",
+          "russian": "На вопрос, «сдал» ли он министра финансов, он ответил, что от него не отказался.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Oni u koje se najvećma uzdaš, kojima veruješ i koje smatraš najodanijim, ti će te pustiti niz vodu.",
+          "russian": "Именно те, на кого ты больше всего рассчитываешь, бросят тебя и откажутся поддерживать.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "В отличие от нейтрального odustati od nekoga, оборот часто содержит идею предательства или сознательного отказа спасать того, кому раньше помогали. Русское «спустить по течению» такого устойчивого значения не имеет; обычно нужны «сдать», «бросить», «пожертвовать кем-то», «оставить на произвол судьбы». Не путать с pustiti vodu — «спустить воду».",
+      "keyword": "pustiti niz vodu"
+    },
+    {
       "headword_latin": "pustiti nekoga niz vodu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Бросить кого-либо на произвол судьбы; прекратить поддержку; предать или пожертвовать кем-либо ради собственных интересов.",
@@ -23267,6 +23453,32 @@
       ],
       "note": "Смысл почти полностью совпадает с русским «рыба гниёт с головы»: неблагополучие организации связывают прежде всего с её руководством. Отличается глагольный образ: сербское smrdi — буквально «воняет», тогда как русский устойчиво говорит «гниёт». Оба порядка слов — riba od glave smrdi и riba smrdi od glave — реально употребительны.",
       "keyword": "riba od glave smrdi"
+    },
+    {
+      "headword_latin": "Roditi se / biti rođen pod srećnom zvezdom",
+      "type": "frazeologizam",
+      "definition_ru": "родиться под счастливой звездой; быть везунчиком; быть баловнем судьбы",
+      "synonyms_sr": [
+        "imati sreće",
+        "biti miljenik sreće",
+        "imati srećnu sudbinu"
+      ],
+      "literal_ru": "родиться под счастливой звездой",
+      "register": "neutralno-ekspresivno; o čoveku kome u životu neobično ide sreća",
+      "examples": [
+        {
+          "serbian_latin": "Kao da sam rođen pod srećnom zvezdom.",
+          "russian": "Как будто я родился под счастливой звездой.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Ja sam, izgleda, rođen pod srećnom zvezdom.",
+          "russian": "Я, похоже, родился под счастливой звездой.",
+          "source": "Politika, 2011"
+        }
+      ],
+      "note": "Образ практически полностью совпадает с русским. Для русскоязычного полезно помнить, что сербское srećan может означать не только «счастливый», но и «удачливый»; здесь актуально именно значение удачи, благоприятной судьбы.",
+      "keyword": "pod srećnom zvezdom"
     },
     {
       "headword_latin": "Rođen / rođena sa zlatnom kašikom",
@@ -27893,6 +28105,33 @@
       "keyword": "voda na svoju vodenicu"
     },
     {
+      "headword_latin": "Terati kera",
+      "type": "frazeologizam",
+      "definition_ru": "гулять напропалую; давать себе волю; делать что хочется; куражиться",
+      "synonyms_sr": [
+        "lumpovati",
+        "provoditi se",
+        "terati po svome",
+        "davati sebi oduška"
+      ],
+      "literal_ru": "гонять пса",
+      "register": "razg., tradicionalno, ekspresivno; značenje zavisi od konteksta: burno se provoditi ili ponašati se samovoljno — može mu se; danas može delovati regionalno ili staromodnije",
+      "examples": [
+        {
+          "serbian_latin": "Ja vazda tero kera, školu batalio, muljao nešto s devizama i benzinom, jurio sojke po Ibarskoj magistrali.",
+          "russian": "А я всё гулял да дурил: бросил школу, крутился с валютой и бензином, гонялся за девчонками по Ибарской магистрали.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "Njegova poenta je u tome da neko drugi „živi kao ker“, a da on tera kera dok mu ne dosadi.",
+          "russian": "Суть для него в том, чтобы другие жили по-собачьи, а он делал что хотел, пока не надоест.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Выражение неоднозначно. Старое и до сих пор понятное употребление связано с разгульным весельем, кутежом и «гулянием на полную», но встречается и значение terati po svome, inatiti se, može mu se — своевольничать и позволять себе то, что хочется. Danas фиксирует именно такое объяснение в обзоре местной лексики, а RTS включает terati kera в число традиционных выражений, несущих следы старого быта. Поэтому перевод всегда нужно выбирать по контексту, а не буквально.",
+      "keyword": "terati kera"
+    },
+    {
       "headword_latin": "Teško onom ko zlotvora nema",
       "type": "poslovica",
       "definition_ru": "плохо тому, у кого нет врагов; если у тебя нет недоброжелателей, значит, ты ничего не стоишь / ничем себя не проявил",
@@ -31461,6 +31700,33 @@
       ],
       "note": "Оборот персонифицирует время как нечто, что постепенно «грызёт» здания, вещи и памятники. Особенно характерны глаголы nagrizati и načeti. Русский «зуб времени» существует, но звучит несколько книжнее; часто естественнее перевести «разрушительное действие времени», «следы времени».",
       "keyword": "zub vremena"
+    },
+    {
+      "headword_latin": "Žali Bože",
+      "type": "izraz",
+      "definition_ru": "зря; жалко потраченного; жаль столько сил / денег / времени",
+      "synonyms_sr": [
+        "uzalud",
+        "šteta",
+        "bačen trud",
+        "bačene pare"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; naročito žali Bože + genitiv: žali Bože truda, para, vremena; izražava žaljenje zbog uzalud potrošenog ili upropašćenog",
+      "examples": [
+        {
+          "serbian_latin": "Žali Bože na šta ovaj režim troši naše živote!",
+          "russian": "Только подумать, на что впустую тратятся наши жизни!",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Žali bože para.",
+          "russian": "Зря только деньги потратили.",
+          "source": "Danas, 2022"
+        }
+      ],
+      "note": "Особенно полезны готовые модели žali Bože para — «зря потраченные деньги», žali Bože truda — «напрасный труд», žali Bože vremena — «жаль потраченного времени». Дословный русский перевод обычно неестественен. В реальном письме встречаются колебания Bože / bože; при сохранении прямого обращения к Богу логична прописная буква.",
+      "keyword": "žali Bože"
     },
     {
       "headword_latin": "Živeti kao bubreg u loju",
