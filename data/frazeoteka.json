@@ -21261,6 +21261,38 @@
       "keyword": "ražanj; zec"
     },
     {
+      "headword_latin": "Praviti / stvarati zlu krv",
+      "type": "frazeologizam",
+      "definition_ru": "сеять вражду; вызывать неприязнь; портить отношения между людьми",
+      "synonyms_sr": [
+        "zavađati",
+        "unositi razdor",
+        "sejati netrpeljivost",
+        "kvariti odnose"
+      ],
+      "literal_ru": "создавать дурную кровь",
+      "register": "razg.-publicistički, neodobr.; o postupcima, rečima ili sukobima koji izazivaju međusobnu netrpeljivost između ljudi ili grupa; takođe unositi / sejati zlu krv",
+      "examples": [
+        {
+          "serbian_latin": "Da li je onda pametno stvarati zlu krv igrajući se manipulacijama sa emocijama?",
+          "russian": "Стоит ли тогда сеять вражду, играя на человеческих эмоциях?",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Da se ne bi pravila zla krv.",
+          "russian": "Чтобы из-за этого не возникло вражды.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Ne želim da stvaram zlu krv i da se svađam.",
+          "russian": "Я не хочу нагнетать неприязнь и ссориться.",
+          "source": "N1, 2019"
+        }
+      ],
+      "note": "Zla krv — это уже существующая взаимная неприязнь, враждебность или напряжённость между людьми: među njima postoji zla krv. Поэтому praviti / stvarati zlu krv означает своими действиями создавать такую вражду, часто между третьими лицами или группами. Очень естественны также unositi zlu krv među ljude и более сильное sejati zlu krv. Русское буквальное «создавать злую кровь» невозможно; выбор между «сеять вражду», «натравливать друг на друга», «портить отношения» зависит от степени намеренности. Не путать с piti nekome krv — «изводить кого-то, пить кровь».",
+      "keyword": "zla krv"
+    },
+    {
       "headword_latin": "Praviti budalu od sebe / nekoga",
       "type": "frazeologizam",
       "definition_ru": "выставлять себя / кого-то дураком; делать из кого-то идиота; позориться",
