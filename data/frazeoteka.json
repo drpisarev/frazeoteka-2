@@ -7944,27 +7944,32 @@
     {
       "headword_latin": "Ići / doći mečki na rupu",
       "type": "frazeologizam",
-      "definition_ru": "лезть прямо в логово зверя; идти навстречу опасности; явиться туда, где тебя ждут неприятности",
+      "definition_ru": "лезть прямо в логово; самому идти навстречу опасности; являться туда, где тебя ждут серьёзные неприятности",
       "synonyms_sr": [
         "ići pravo u opasnost",
         "svesno rizikovati",
-        "otići pravo neprijatelju"
+        "zalaziti neprijatelju u ruke"
       ],
-      "literal_ru": "идти / прийти к медведю в берлогу",
-      "register": "razg., ekspresivno; mečki je dativ od mečka",
+      "literal_ru": "идти / прийти медведице к берлоге",
+      "register": "razg., ekspresivno; mečki je dativ od mečka; uz osnovno ići / doći veoma su prirodne uzročne konstrukcije odvesti / poslati nekoga mečki na rupu",
       "examples": [
         {
-          "serbian_latin": "Nikome nije jasno koji je vrag naterao Dinkića da dođe mečki na rupu.",
-          "russian": "Никому не понятно, зачем Динкич сам полез прямо в логово к противнику.",
-          "source": "RTS / Radio Beograd 1, 2015"
+          "serbian_latin": "Nikome, međutim, nije jasno koji je vrag naterao Dinkića da dođe mečki na rupu.",
+          "russian": "Никому, однако, не понятно, что заставило Динкича самому полезть прямо в логово к противнику.",
+          "source": "Radio Beograd 1 / RTS, 2015"
         },
         {
-          "serbian_latin": "Ali šta je ministar očekivao dolazeći „mečki na rupu“?",
-          "russian": "А чего министр ожидал, добровольно явившись туда, где его заведомо ждали неприятности?",
-          "source": "Danas, 2015"
+          "serbian_latin": "M. K. govori N. L. da je Radojevića „odveo mečki na rupu“.",
+          "russian": "М. К. говорит Н. Л., что тот отвёл Радоевича прямо в логово, фактически подставив его под опасность.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Magistrat ga je, zajedno s njegovom prvobitnom tužbom i svojim izveštajem, poslao knjazu u Kragujevac, što će reći: mečki na rupu.",
+          "russian": "Магистрат отправил его вместе с жалобой и своим докладом к князю в Крагуевац — то есть прямо в логово, где его ждали неприятности.",
+          "source": "Danas, 2014"
         }
       ],
-      "note": "RTS прямо объясняет выражение как поход в veoma opasno mesto. В отличие от общего igrati se vatrom, здесь опасность локализована: человек сам приходит туда, где находится сильный противник или где конфликт почти неизбежен. Русское «лезть в логово» хорошо сохраняет образ.",
+      "note": "RTS прямо объясняет ići mečki na rupu как идти в очень опасное место. Важное расширение модели — odvesti / poslati nekoga mečki na rupu: опасности подвергается уже не сам субъект, а человек, которого туда направляют или заманивают. Именно odvesti реально засвидетельствовано в современной сербской речи. Форму navući / navlačiti nekoga mečki na rupu я бы не включал: сам глагол navlačiti действительно может означать «подбивать, заманивать на что-то плохое», но данное сочетание как устойчивый фразеологизм не подтверждается. Возможна спонтанная контаминация с navući nekoga na tanak led, но надёжного подтверждения этому нет. По образу mečki na rupu ближе всего русское «лезть в логово зверя / врага».",
       "keyword": "mečki na rupu"
     },
     {
