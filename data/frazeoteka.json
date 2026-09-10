@@ -10522,6 +10522,37 @@
       "keyword": "sejati; žnjeti"
     },
     {
+      "headword_latin": "Kakve su ti misli, takav ti je život",
+      "type": "krilatica",
+      "definition_ru": "каковы твои мысли, такова и твоя жизнь; мысли во многом определяют то, как человек проживает свою жизнь",
+      "synonyms_sr": [
+        "misli oblikuju život",
+        "sve počinje od misli",
+        "kakvim se mislima bavimo, takav nam je i život"
+      ],
+      "literal_ru": "",
+      "register": "krilatica, duhovno-aforistički; često citatno; vezuje se za oca Tadeja Vitovničkog; nije narodna poslovica u užem smislu",
+      "examples": [
+        {
+          "serbian_latin": "„Kakve su ti misli, takav ti je život.“ — Otac Tadej.",
+          "russian": "«Каковы твои мысли, такова и твоя жизнь». — Отец Тадей.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "„Misli. Kakve su ti misli takav ti je život.“",
+          "russian": "«Мысли. Каковы твои мысли, такова и твоя жизнь».",
+          "source": "N1, 2022"
+        },
+        {
+          "serbian_latin": "Naš otac Tadej govorio je: „Kakve su ti misli, takav ti je život.“",
+          "russian": "Наш отец Тадей говорил: «Каковы твои мысли, такова и твоя жизнь».",
+          "source": "Politika, 2023"
+        }
+      ],
+      "note": "Фраза стала одной из самых узнаваемых формул, связанных с сербским православным духовником Tadejem Vitovničkim (Tadej Štrbulović), и дала название широко известному сборнику его поучений. В его поучениях встречается и более развёрнутая формула: Kakvim se mislima bavimo, takav nam je i život. Поэтому смысл здесь не просто в современном «позитивном мышлении», а прежде всего в православной идее внутренней работы над мыслями: то, чем человек постоянно занят внутренне, влияет на его душевное состояние, поступки и отношения с людьми. В современном сербском выражение вышло далеко за пределы религиозной среды и употребляется как самостоятельный жизненный афоризм.",
+      "keyword": "kakve su ti misli takav ti je život"
+    },
+    {
       "headword_latin": "Kamen oko vrata",
       "type": "frazeologizam",
       "definition_ru": "тяжёлое бремя; обуза; то, что постоянно мешает двигаться вперёд",
