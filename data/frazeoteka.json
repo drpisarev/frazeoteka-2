@@ -1249,6 +1249,38 @@
       "keyword": "kao na iglama"
     },
     {
+      "headword_latin": "Biti / živeti u zavadi (s nekim)",
+      "type": "kolokacija",
+      "definition_ru": "быть в ссоре; враждовать; жить во вражде",
+      "synonyms_sr": [
+        "biti u svađi",
+        "biti zavađen",
+        "biti u lošim odnosima",
+        "ne govoriti s nekim (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-knjiški; s nekim + instrumental; takođe biti u zavadi oko nečega",
+      "examples": [
+        {
+          "serbian_latin": "Sveti Sava je imao nameru da pomiri braću Vukana i Stefana, koji su bili u zavadi oko prestola.",
+          "russian": "Святой Савва намеревался примирить братьев Вукана и Стефана, которые враждовали из-за престола.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Sa komšijama smo u zavadi, veze su nam pokidane.",
+          "russian": "С соседями мы в ссоре, отношения у нас разорваны.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Rodrigo Duterte je bio u zavadi sa Vašingtonom.",
+          "russian": "Родриго Дутерте был в конфликте с Вашингтоном.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Zavada обычно обозначает не отдельную ссору, а состояние длительного разлада, неприязни или вражды. Поэтому posvađali su se juče — «они вчера поссорились», а godinama su u zavadi — «они годами не ладят / враждуют». В повседневной речи biti u svađi часто звучит обычнее, тогда как biti / živeti u zavadi несколько более книжно и особенно естественно в рассказах о семьях, соседях, политических противниках или исторических конфликтах. Конструкция oko + genitiv указывает причину: u zavadi oko prestola, nasledstva, zemlje.",
+      "keyword": "u zavadi"
+    },
+    {
       "headword_latin": "biti između čekića i nakovnja",
       "type": "glagolski frazem",
       "definition_ru": "находиться между молотом и наковальней; оказаться под давлением двух противоборствующих сторон",
