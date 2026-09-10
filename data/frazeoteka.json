@@ -4395,6 +4395,38 @@
       "keyword": "sidro"
     },
     {
+      "headword_latin": "Dizati / podići prašinu",
+      "type": "frazeologizam",
+      "definition_ru": "наделать шуму; вызвать бурную реакцию; вызвать большой резонанс",
+      "synonyms_sr": [
+        "izazvati buru",
+        "uzburkati javnost",
+        "izazvati veliku pažnju",
+        "dići galamu"
+      ],
+      "literal_ru": "поднимать / поднять пыль",
+      "register": "razg.-publicistički, ekspresivno; dizati označava proces ili ponavljanje, podići pojedinačno izazivanje reakcije; veoma često podići veliku prašinu",
+      "examples": [
+        {
+          "serbian_latin": "Jedan skriveni dokument podigao je veliku prašinu u Gadžinom Hanu.",
+          "russian": "Один скрытый документ наделал много шума в Гаджином Хане.",
+          "source": "N1, 2022"
+        },
+        {
+          "serbian_latin": "Poznati jutjuber podigao je poslednjih dana veliku prašinu pred finale Kupa Srbije.",
+          "russian": "Известный ютубер в последние дни наделал много шума перед финалом Кубка Сербии.",
+          "source": "Telegraf, 2026"
+        },
+        {
+          "serbian_latin": "Njegove izjave već danima dižu prašinu u javnosti.",
+          "russian": "Его заявления уже несколько дней вызывают бурную реакцию в обществе.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно речь не просто о «внимании», а о заметном общественном шуме: спорах, возмущении, обсуждениях, скандале или ажиотаже. Очень характерны izjava / odluka / fotografija / dokument je podigao veliku prašinu. Полезна и продолженная метафора: prašina se još nije slegla — «шум / скандал ещё не улёгся». Не путать с bacati prašinu u oči: это уже «пускать пыль в глаза, вводить в заблуждение», а не «вызывать резонанс».",
+      "keyword": "podići prašinu"
+    },
+    {
       "headword_latin": "dizati nekoga u nebesa",
       "type": "glagolski frazem",
       "definition_ru": "превозносить кого-либо до небес; чрезмерно восхвалять",
