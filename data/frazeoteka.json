@@ -26344,33 +26344,36 @@
       "keyword": "tačka na i"
     },
     {
-      "headword_latin": "staviti tačku na nešto",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Поставить точку в каком-либо деле; окончательно прекратить спор, процесс или отношения.",
+      "headword_latin": "Staviti tačku na nešto",
+      "type": "frazeologizam",
+      "definition_ru": "поставить точку; положить конец чему-либо; окончательно закрыть вопрос",
       "synonyms_sr": [
-        "završiti nešto",
-        "okončati nešto",
-        "prekinuti raspravu",
+        "okončati",
+        "završiti",
+        "prekinuti",
         "zaključiti priču"
       ],
-      "literal_ru": "Поставить точку на чём-либо.",
-      "register": "Нейтральное, образное; часто публицистическое.",
+      "literal_ru": "поставить точку на чём-либо",
+      "register": "neutralno-publicistički; na + akuzativ: staviti tačku na priču, temu, raspravu, spekulacije, neizvesnost, odnose",
       "examples": [
         {
-          "serbian_latin": "Ministar prosvete stavio tačku na dramu.",
-          "russian": "Министр просвещения поставил точку в этой истории.",
-          "source": "Telegraf, 2026",
-          "url": "https://www.telegraf.rs/vesti/srbija/4368644-ministar-prosvete-stavio-tacku-na-dramu-oko-osnivanja-fakulteta-srpskih-studija-u-nisu-ovo-je-konacna-odluka"
+          "serbian_latin": "Možemo započeti zajednički rad i staviti tačku na ovaj dug period neizvesnosti.",
+          "russian": "Мы можем начать совместную работу и положить конец этому долгому периоду неопределённости.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Vučić stavio tačku na laži blokadera i Šolakovih medija.",
-          "russian": "Вучич положил конец лжи участников блокад и СМИ Шолака.",
-          "source": "Alo, 2025",
-          "url": "https://www.alo.rs/vesti/politika/476174/generalstab-se-ne-prodaje-vucic-stavio-tacku-na-lazi-blokadera-i-solakovih-medija.html"
+          "serbian_latin": "Izrazio je nadu da će srpska javnost ovom izjavom staviti tačku na ovu temu.",
+          "russian": "Он выразил надежду, что этим заявлением сербская общественность поставит точку в этом вопросе.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Ili će vlast staviti tačku na rudarenje ili ćemo mi staviti tačku na njih.",
+          "russian": "Либо власти положат конец добыче, либо мы положим конец им.",
+          "source": "N1, 2024"
         }
       ],
-      "note": "Управление — staviti tačku na с винительным падежом: na raspravu, na pregovore, na nagađanja. Вариант staviti tačku может употребляться без дополнения, если контекст понятен.",
-      "keyword": "tačka"
+      "note": "Для русского особенно важно управление: по-сербски staviti tačku na nešto, то есть na + akuzativ: na temu, na raspravu, na spekulacije. По-русски обычно говорят «поставить точку в споре / в этой истории» или «положить конец спору», поэтому калька управления легко приводит к ошибке. Выражение означает окончательно прекратить процесс, обсуждение, отношения или состояние неопределённости; без дополнения возможно просто staviti tačku, если объект понятен из контекста. Не путать со staviti tačku na i: это отдельный фразеологизм, часто означающий последний решающий штрих, окончательно закрепляющий результат; он уже также есть в Frazeoteka.",
+      "keyword": "staviti tačku na"
     },
     {
       "headword_latin": "Stavljati / staviti nekoga / nešto na pijedestal",
