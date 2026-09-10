@@ -2868,6 +2868,33 @@
       "keyword": "Bože sačuvaj"
     },
     {
+      "headword_latin": "Brigo moja, pređi na drugoga",
+      "type": "izreka",
+      "definition_ru": "свалить проблему на другого; спихнуть ответственность; «моя забота — теперь чужая»",
+      "synonyms_sr": [
+        "prebaciti odgovornost",
+        "prebaciti problem drugome",
+        "prati ruke",
+        "ograđivati se od odgovornosti"
+      ],
+      "literal_ru": "забота моя, перейди к другому",
+      "register": "iron., neodobr.; gotova replika, naročito česta u kritici birokratije i prebacivanja odgovornosti",
+      "examples": [
+        {
+          "serbian_latin": "Onda jako voli da deli odgovornost u stilu – brigo moja, pređi na drugoga.",
+          "russian": "Тогда он очень любит распределять ответственность по принципу: «моя проблема — пусть теперь ею занимается кто-нибудь другой».",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Trebalo bi da patentiramo „brigo moja, pređi na drugoga“, jer smo za to pravi majstori.",
+          "russian": "Нам впору запатентовать принцип «спихни проблему на другого»: в этом мы настоящие мастера.",
+          "source": "Politika, 2023"
+        }
+      ],
+      "note": "Brigo — звательный падеж от briga, а pređi — повелительная форма от preći. Фраза изображает проблему как нечто, что можно просто передать следующему человеку, и поэтому особенно хорошо описывает круговую бюрократическую отписку. Русское «моя хата с краю» близко по безответственности, но там человек дистанцируется от проблемы, а здесь именно перекладывает её на другого.",
+      "keyword": "brigo moja pređi na drugoga"
+    },
+    {
       "headword_latin": "Brz kao vetar",
       "type": "frazeologizam",
       "definition_ru": "быстрый как ветер; молниеносный; очень быстрый",
@@ -4739,6 +4766,33 @@
       "keyword": "Kolumbo"
     },
     {
+      "headword_latin": "Dočekati nešto na volej",
+      "type": "frazeologizam",
+      "definition_ru": "тут же воспользоваться удобным поводом; подхватить чужую реплику или промах; поймать удобную подачу",
+      "synonyms_sr": [
+        "odmah iskoristiti priliku",
+        "spremno dočekati",
+        "odmah uzvratiti",
+        "iskoristiti tuđi potez"
+      ],
+      "literal_ru": "встретить мяч с лёта",
+      "register": "razg.-publicistički, sportska metafora; naročito o izjavi, grešci ili događaju koji protivnik odmah koristi u svoju korist",
+      "examples": [
+        {
+          "serbian_latin": "Ovakve poruke iz opozicionih redova vlast dočekuje „na volej“.",
+          "russian": "Подобные заявления оппозиции власть тут же подхватывает и использует в своих интересах.",
+          "source": "Politika, 2021"
+        },
+        {
+          "serbian_latin": "Neažurnost Košarkaškog saveza Srbije Crvena zvezda je posle sedam meseci dočekala na „volej“.",
+          "russian": "Спустя семь месяцев «Црвена звезда» воспользовалась нерасторопностью Баскетбольного союза Сербии как идеально подвернувшимся поводом.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Volej — удар по мячу до его касания земли; отсюда образ ситуации, когда собеседник или противник сам «подбрасывает удобный мяч». В переносном употреблении важно не просто быстро отреагировать, а немедленно воспользоваться предоставленным поводом, нередко обернув слова или ошибку против самого автора. Русского устойчивого эквивалента с волейболом или футболом нет; подходят «поймать удобную подачу», «тут же подхватить», «не упустить подаренный шанс».",
+      "keyword": "dočekati na volej"
+    },
+    {
       "headword_latin": "dočekati raširenih ruku",
       "type": "glagolski frazem",
       "definition_ru": "Встретить с распростёртыми объятиями; принять очень радушно.",
@@ -6217,6 +6271,33 @@
       ],
       "note": "Для русского это особенно обманчивое выражение: речь вовсе не о жертве и не о том, чтобы «отдать душу». Конструкция безличная и сохраняет форму dalo: ovo je dušu dalo za odmor, mesto je dušu dalo za decu. После za требуется винительный падеж.",
       "keyword": "dušu dalo"
+    },
+    {
+      "headword_latin": "Duvati u istu tikvu",
+      "type": "frazeologizam",
+      "definition_ru": "дудеть в одну дуду; быть заодно; действовать сообща в одних интересах",
+      "synonyms_sr": [
+        "biti na istoj strani",
+        "raditi zajedno",
+        "imati isti interes",
+        "pevati istu pesmu"
+      ],
+      "literal_ru": "дуть в одну и ту же тыкву",
+      "register": "razg., ekspresivno, obično neodobr.; često podrazumeva dogovor, zajedničku liniju ili usklađeno delovanje",
+      "examples": [
+        {
+          "serbian_latin": "Optužio je ljude u Fudbalskom savezu Srbije i Sudijskoj organizaciji da „duvaju u istu tikvu“.",
+          "russian": "Он обвинил представителей Футбольного союза Сербии и судейской организации в том, что они действуют заодно.",
+          "source": "RTS, 2010"
+        },
+        {
+          "serbian_latin": "U tome su oni i zapadnjaci na istoj strani. Duvaju u istu tikvu, kazao bi naš narod.",
+          "russian": "В этом они и западные страны на одной стороне. Как говорится, дудят в одну дуду.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Обычно выражение не просто констатирует согласие, а намекает, что стороны проводят одну линию или преследуют общий интерес. Поэтому русский «петь в один голос» иногда слишком нейтрален, а «дудеть в одну дуду» хорошо передаёт неодобрительный оттенок. Tikva буквально означает тыкву; точное происхождение всей фразеологической модели надёжно не установлено.",
+      "keyword": "duvati u istu tikvu"
     },
     {
       "headword_latin": "Dužan kao Grčka",
@@ -10269,6 +10350,33 @@
       "keyword": "džigerica"
     },
     {
+      "headword_latin": "Jezik je nekome brži od pameti",
+      "type": "frazeologizam",
+      "definition_ru": "язык впереди головы; сначала говорит, потом думает; ляпнуть не подумав",
+      "synonyms_sr": [
+        "govoriti bez razmišljanja",
+        "istrčavati se",
+        "izleteti s nečim",
+        "ne paziti šta se govori"
+      ],
+      "literal_ru": "язык у кого-то быстрее разума",
+      "register": "razg., iron.-neodobr.; lice je u dativu: jezik mi / mu / joj je brži od pameti",
+      "examples": [
+        {
+          "serbian_latin": "U našoj javnosti neretko ima onih kojima je „jezik brži od pameti“.",
+          "russian": "В нашем публичном пространстве нередко встречаются те, кто сначала говорит, а потом думает.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Kada se kaže da je jezik brži od pameti?",
+          "russian": "Когда говорят, что язык опережает разум?",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Речь не о болтливости вообще, а о недостатке внутреннего фильтра: человек успевает что-то сказать прежде, чем оценит последствия. Особенно естественна модель njemu je jezik brži od pameti. Русское «язык мой — враг мой» близко по результату, но шире; сербский оборот точнее описывает импульсивное высказывание.",
+      "keyword": "jezik brži od pameti"
+    },
+    {
       "headword_latin": "Jezik kosti nema, ali kosti lomi",
       "type": "poslovica",
       "definition_ru": "язык без костей, а кости ломает; словом можно сильно ранить",
@@ -12524,6 +12632,33 @@
       "keyword": "kud svi Turci"
     },
     {
+      "headword_latin": "Kukati / zakukati kao sinja kukavica",
+      "type": "frazeologizam",
+      "definition_ru": "горько причитать; жалобно стонать; ныть и жаловаться без конца",
+      "synonyms_sr": [
+        "jadikovati",
+        "naricati",
+        "žaliti se",
+        "kuknjaviti (razg.)"
+      ],
+      "literal_ru": "причитать как сизая кукушка",
+      "register": "narodno-razgovorno, ekspresivno; može opisivati iskrenu žalost, ali se danas često koristi podrugljivo o preteranom žaljenju",
+      "examples": [
+        {
+          "serbian_latin": "Sada si počeo kukati kao sinja kukavica.",
+          "russian": "Теперь ты начал горько жаловаться и причитать.",
+          "source": "Danas, komentari, 2025"
+        },
+        {
+          "serbian_latin": "Nemoj da kukaš kao sinja kukavica zbog jednog lošeg rezultata.",
+          "russian": "Не надо так убиваться и причитать из-за одного плохого результата.",
+          "source": ""
+        }
+      ],
+      "note": "Современное лингвистическое исследование сербской фразеологии фиксирует именно модель (za)kukati kao sinja kukavica. Sinja — архаично-поэтический компонент, который вне подобных традиционных сочетаний русскоязычному учащемуся почти не нужен. Кукушка в южнославянском фольклорном образе тесно связана с жалобным плачем и причитанием; в современной реплике оборот легко становится ироническим: «хватит ныть».",
+      "keyword": "sinja kukavica"
+    },
+    {
       "headword_latin": "Kum nije dugme",
       "type": "izreka",
       "definition_ru": "кум — человек не последний; кумовство — дело серьёзное; кумом не разбрасываются",
@@ -13956,6 +14091,33 @@
       "keyword": "jedvite jade"
     },
     {
+      "headword_latin": "Na kašičicu",
+      "type": "frazeologizam",
+      "definition_ru": "по чайной ложке; малыми дозами; понемногу, дозированно",
+      "synonyms_sr": [
+        "malo-pomalo",
+        "dozirano",
+        "u malim količinama",
+        "deo po deo"
+      ],
+      "literal_ru": "по ложечке",
+      "register": "razg.-publicistički, često neodobr.; obično davati / dobijati / pružati / dostavljati nešto na kašičicu",
+      "examples": [
+        {
+          "serbian_latin": "Kinezi ili dostavljaju „na kašičicu“ podatke ili daju pogrešne.",
+          "russian": "Китайская сторона либо выдаёт данные малыми порциями, либо предоставляет неверные.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "Linijski park koji Beograd dobija „na kašičicu“.",
+          "russian": "Линейный парк, который Белград получает буквально по чайной ложке.",
+          "source": "N1, 2026"
+        }
+      ],
+      "note": "Выражение особенно характерно для информации, денег, возможностей, времени или чего-либо, что кто-то контролирует и выдаёт слишком маленькими порциями. Поэтому informacije dobijamo na kašičicu — не просто «постепенно», а часто «нам сообщают понемногу, дозированно». Оттенок недовольства типичен, но не обязателен.",
+      "keyword": "na kašičicu"
+    },
+    {
       "headword_latin": "Na kraju krajeva",
       "type": "izraz",
       "definition_ru": "в конце концов; в конечном счёте; в конце-то концов",
@@ -15109,6 +15271,33 @@
       ],
       "note": "Lipši — повелительная форма от lipsati «издохнуть, околеть», прежде всего о животных; поэтому внутренняя форма нарочито грубоватая и комическая. Пословица высмеивает обещание блага в столь неопределённом будущем, что получатель рискует его не дождаться. Danas прямо употребляет её как формулу о пустых обещаниях.",
       "keyword": "ne lipši magarče"
+    },
+    {
+      "headword_latin": "Ne mirisati nekoga / nešto",
+      "type": "frazeologizam",
+      "definition_ru": "недолюбливать; не переваривать; испытывать неприязнь",
+      "synonyms_sr": [
+        "ne voleti",
+        "ne podnositi",
+        "biti nenaklonjen",
+        "ne gotiviti (razg.)"
+      ],
+      "literal_ru": "не нюхать / не находить приятным запах кого-либо",
+      "register": "razg., iron.; prelazna konstrukcija bez predloga: ne mirišem njega / tu stranku",
+      "examples": [
+        {
+          "serbian_latin": "Dobar deo njegovih birača „ne miriše preterano SNS“.",
+          "russian": "Значительная часть его избирателей не особенно жалует SNS.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Normalizovale su se „posete“ grupama medijskim kućama koje vlast „ne miriše“.",
+          "russian": "Уже стали привычными «визиты» групп к СМИ, которые власть недолюбливает.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Для русского особенно важно управление: ne mirisati nekoga / nešto, без na. Конструкция miriše na nešto означает уже другое — «пахнет чем-то», а переносно также «похоже на что-то, попахивает чем-то»: to mi miriše na prevaru. В значении неприязни глагол особенно часто встречается именно с отрицанием; по степени резкости ne mirisati nekoga обычно мягче, чем ne podnositi nekoga.",
+      "keyword": "ne mirisati nekoga"
     },
     {
       "headword_latin": "Ne mogu sebi da priuštim",
@@ -22258,6 +22447,33 @@
       "keyword": "sito i rešeto"
     },
     {
+      "headword_latin": "Prodati veru za večeru",
+      "type": "frazeologizam",
+      "definition_ru": "продать убеждения за выгоду; предать принципы ради сиюминутной пользы; продаться",
+      "synonyms_sr": [
+        "prodati se",
+        "izdati svoja načela",
+        "odreći se principa zbog koristi",
+        "promeniti stranu zbog koristi"
+      ],
+      "literal_ru": "продать веру за ужин",
+      "register": "tradicionalno, ekspresivno, izrazito neodobr.; naročito u političkom i moralno-ocenjivačkom jeziku",
+      "examples": [
+        {
+          "serbian_latin": "Ušli su u polemiku o tome ko je prodao veru za večeru.",
+          "russian": "Они вступили в спор о том, кто предал свои убеждения ради выгоды.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Naši aktivisti neće „prodati veru za večeru“.",
+          "russian": "Наши активисты не продадутся ради сиюминутной выгоды.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Vera здесь не обязательно означает религию: в современном употреблении это могут быть политические убеждения, верность группе, моральные принципы или данное слово. Večera символизирует небольшую и кратковременную материальную выгоду, поэтому выражение особенно резко осуждает неравноценный обмен принципов на удобство или подачку. Русское буквальное «продать веру за ужин» не является устойчивым выражением.",
+      "keyword": "prodati veru za večeru"
+    },
+    {
       "headword_latin": "prodavati maglu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Вводить в заблуждение пустыми словами; выдавать бессодержательные идеи или обещания за нечто ценное и серьёзное.",
@@ -28103,6 +28319,60 @@
       ],
       "note": "Образ связан с водяными мельницами: поток воды был ценным ресурсом, и каждому владельцу было выгодно направить его к своему колесу. Сербский лингвистический комментарий прямо связывает фразеологизм с этой старой хозяйственной реальностью. Русское «лить воду на свою мельницу» существует, но в живой речи часто естественнее «тянуть одеяло на себя».",
       "keyword": "voda na svoju vodenicu"
+    },
+    {
+      "headword_latin": "Terati / udarati kontru",
+      "type": "frazeologizam",
+      "definition_ru": "идти наперекор; намеренно делать наоборот; занимать противоположную позицию",
+      "synonyms_sr": [
+        "protiviti se",
+        "ići protiv nekoga",
+        "terati po svome",
+        "prkositi"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; češće terati nekome kontru — lice u dativu; udarati kontru je razgovornije i može stajati bez dopune",
+      "examples": [
+        {
+          "serbian_latin": "Pogrešio sam što nisam više slušao tatu, što sam mu terao „kontru“.",
+          "russian": "Я ошибался, когда не слушал отца и постоянно поступал ему наперекор.",
+          "source": "Politika, 2008"
+        },
+        {
+          "serbian_latin": "Ne želim da se ikome pravdam, krenuo sam da udaram kontru.",
+          "russian": "Я не хочу ни перед кем оправдываться, поэтому начал намеренно делать всё наоборот.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Близко к terati inat, но акцент различается: terati kontru прежде всего означает занять противоположную позицию или сознательно действовать наоборот, тогда как terati inat сильнее подчёркивает упрямство и мотив «назло». Очень типична разговорная конструкция terati mu kontru — «постоянно ему перечить / идти наперекор».",
+      "keyword": "terati kontru"
+    },
+    {
+      "headword_latin": "Terati inat",
+      "type": "frazeologizam",
+      "definition_ru": "делать назло; упираться из принципа; идти наперекор",
+      "synonyms_sr": [
+        "inatiti se",
+        "terati po svome",
+        "prkositi",
+        "protiviti se iz inata"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; terati inat nekome / nečemu — dativ; često terati inat na svoju štetu",
+      "examples": [
+        {
+          "serbian_latin": "Inat se može terati nekim ljudima sve vreme. Može i svim ljudima neko vreme. Ali inat se ne može terati svim ljudima sve vreme.",
+          "russian": "Можно всё время действовать назло некоторым людям. Можно какое-то время — всем. Но невозможно всё время идти наперекор всем.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Iracionalno je makar i na osnovu neospornih principa terati inat surovoj realnosti na svoju štetu.",
+          "russian": "Неразумно, даже исходя из бесспорных принципов, упрямо идти наперекор суровой реальности себе во вред.",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Inat — не просто обычное упрямство: важна идея демонстративного сопротивления кому-то или обстоятельствам, нередко по принципу «назло сделаю наоборот». Поэтому terati inat может быть и одобрительным как проявление непокорности, и резко критическим, особенно в сочетании na svoju štetu. Не всякое biti tvrdoglav означает terati inat.",
+      "keyword": "terati inat"
     },
     {
       "headword_latin": "Terati kera",
