@@ -31424,6 +31424,38 @@
       "keyword": "zagristi mamac"
     },
     {
+      "headword_latin": "Zaigrati / igrati mečka i pred nečijom kućom",
+      "type": "izreka",
+      "definition_ru": "и до них дошла беда; неприятность коснулась и их; пришёл и их черёд испытать беду на себе",
+      "synonyms_sr": [
+        "doći red i na nekoga",
+        "osetiti na sopstvenoj koži",
+        "ni njih nije zaobišlo",
+        "snaći i njih"
+      ],
+      "literal_ru": "и перед их домом заиграла медведица",
+      "register": "izreka, razg.-ekspresivno; obično o nevolji, krizi, kazni, otkazima, proverama, ratu, bolesti i sl.; često u perfektu: zaigrala je mečka i pred...",
+      "examples": [
+        {
+          "serbian_latin": "Do juče su se tuđim otkazima podsmevali, a sad je zaigrala mečka i pred njihovom kućom.",
+          "russian": "До вчерашнего дня они насмехались над чужими увольнениями, а теперь беда дошла и до них.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Mislili su da će kriza zaobići njihovu firmu, ali je mečka zaigrala i pred njihovim vratima.",
+          "russian": "Они думали, что кризис обойдёт их фирму стороной, но неприятности пришли и к ним.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad su i oni morali da čekaju pregled mesecima, videli su da mečka igra i pred njihovom kućom.",
+          "russian": "Когда и им самим пришлось месяцами ждать обследования, они увидели, что беда не обходит никого.",
+          "source": ""
+        }
+      ],
+      "note": "Это старая балканская образная формула с медведем-мечкой, которую водили по дворам ради зрелища; отсюда образ чего-то шумного, тяжёлого и неприятного, что «пришло и к тебе». В современном языке выражение почти всегда означает: то, что раньше случалось с другими, теперь коснулось и тебя. Очень часто в нём есть оттенок запоздалого прозрения или скрытого злорадства: раньше человек был сторонним наблюдателем, а теперь сам oseti na sopstvenoj koži. Русскому полезно помнить, что это не про веселье, несмотря на глагол igrati / zaigrati: в реальном употреблении значение обычно мрачное — беда, удар, расплата, неприятный поворот событий. Вариант pred vratima тоже естественен, но базовая модель для словаря — pred nečijom kućom.",
+      "keyword": "mečka i pred nečijom kućom"
+    },
+    {
       "headword_latin": "Zakazati termin",
       "type": "kolokacija",
       "definition_ru": "записаться; назначить время; договориться о приёме / визите",
