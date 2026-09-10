@@ -9006,6 +9006,38 @@
       "keyword": "zmija; džep"
     },
     {
+      "headword_latin": "Imati žicu (za nešto)",
+      "type": "frazeologizam",
+      "definition_ru": "иметь талант / дар к чему-либо; иметь особое чутьё; быть от природы способным к чему-то",
+      "synonyms_sr": [
+        "imati dara",
+        "imati talenta",
+        "imati smisla za nešto",
+        "biti nadaren"
+      ],
+      "literal_ru": "иметь «струну / жилку»",
+      "register": "razg.-neutralno, ekspresivno; obično imati žicu za + akuzativ: imati žicu za muziku, biznis, pisanje, rad s ljudima; takođe samostalno ima žicu / ima tu žicu",
+      "examples": [
+        {
+          "serbian_latin": "Za nekog ko ima talenat u našem narodu se kaže „ima žicu“, ima ono „nešto“.",
+          "russian": "О человеке, у которого есть талант, у нас говорят: «у него есть жилка», в нём есть то самое «что-то».",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Branko Cvejić otkrio je da ima žicu za horsku muziku.",
+          "russian": "Бранко Цвеич обнаружил, что у неё есть настоящий талант к хоровой музыке.",
+          "source": "Politika, 2020"
+        },
+        {
+          "serbian_latin": "Ukoliko ste osoba koja ima „žicu“ za društvene mreže i ume da oseti puls publike – ovo je prava karijera za vas.",
+          "russian": "Если у вас есть чутьё на социальные сети и вы умеете чувствовать аудиторию, эта профессия вам подходит.",
+          "source": "N1, 2024"
+        }
+      ],
+      "note": "Imati žicu обозначает прежде всего врождённую склонность, талант или особое чутьё, а не просто приобретённое умение. Поэтому ima žicu za muziku сильнее, чем просто dobro se razume u muziku: подразумевается, что человеку это «дано». Очень жив вариант ima tu žicu — «у него есть это чутьё / есть в нём что-то». Русское «есть жилка» совпадает лишь частично: естественно «коммерческая жилка», но про музыку, писательство или общение чаще скажем «есть талант / дар / чутьё». Точное происхождение переносного значения žica лучше не выводить из буквальной «проволоки» или «струны» без надёжного этимологического подтверждения.",
+      "keyword": "imati žicu"
+    },
+    {
       "headword_latin": "Iskočiti iz kože",
       "type": "frazeologizam",
       "definition_ru": "выйти из себя; не выдержать; лезть на стену от злости или нервов",
