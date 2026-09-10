@@ -13838,6 +13838,37 @@
       "keyword": "kukovo leto"
     },
     {
+      "headword_latin": "Na licu mesta",
+      "type": "izraz",
+      "definition_ru": "на месте; непосредственно там; на месте происшествия",
+      "synonyms_sr": [
+        "na samom mestu",
+        "na mestu događaja",
+        "tamo gde se nešto događa"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; veoma često u novinarskom, policijskom, administrativnom i svakodnevnom jeziku; značenje „odmah“ javlja se kontekstualno kada se radnja izvršava neposredno na tom mestu",
+      "examples": [
+        {
+          "serbian_latin": "Na licu mesta je naša dopisnica Sanja Lučić.",
+          "russian": "Наша корреспондентка находится непосредственно на месте событий.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Muškarac je na licu mesta preminuo od zadobijenih povreda.",
+          "russian": "Мужчина скончался от полученных травм на месте происшествия.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Kada se putnik zatekne bez karte, izdaje se na licu mesta prekršajni nalog.",
+          "russian": "Если пассажира обнаруживают без билета, постановление о нарушении выписывают прямо на месте.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Русскому важно не разбирать lice mesta буквально как «лицо места»: это давно закрепившаяся конструкция со значением места, где происходит или произошло событие. Особенно устойчивы preminuti na licu mesta, policija je na licu mesta, reporter je na licu mesta, izdati kaznu / nalog na licu mesta. В последней модели русский часто переводит «сразу на месте», но само na licu mesta прежде всего указывает на место действия, а не на скорость. Исторически оборот связан с юридическим языком; старые источники фиксируют сочетания типа na lice mesta / na lice zemlje, однако для современного учащегося выражение лучше запоминать целиком.",
+      "keyword": "na licu mesta"
+    },
+    {
       "headword_latin": "Na ljutu ranu, ljutu travu",
       "type": "poslovica",
       "definition_ru": "против серьёзной беды нужно сильное средство; радикальную проблему решают радикально",
