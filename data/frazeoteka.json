@@ -1711,6 +1711,33 @@
       "keyword": "na izmaku snaga"
     },
     {
+      "headword_latin": "Biti na klimavim nogama",
+      "type": "frazeologizam",
+      "definition_ru": "быть в шатком положении; держаться непрочно; быть под угрозой краха",
+      "synonyms_sr": [
+        "biti nestabilan",
+        "biti nesiguran",
+        "biti pred slomom",
+        "biti na tankom ledu (delimično)"
+      ],
+      "literal_ru": "быть на шатких ногах",
+      "register": "razg.-publicistički, ekspresivno; o vlasti, podršci, koaliciji, ideji, projektu, poziciji i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Podrška Obradoviću (ni)je na klimavim nogama.",
+          "russian": "Поддержка Обрадовича (не) находится в шатком положении.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "To će dodatno srušiti ideju bojkota, koja je ionako na klimavim nogama.",
+          "russian": "Это ещё сильнее пошатнёт идею бойкота, которая и без того держится весьма непрочно.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Klimav означает «шаткий, неустойчивый», и выражение очень свободно переносится на абстрактные вещи: vlada, koalicija, podrška, optužba, plan su na klimavim nogama. Близкое biti na tankom ledu сильнее подчёркивает риск и опасность, а biti na klimavim nogama — внутреннюю непрочность и возможность скорого развала. Русское «стоять на шатких ногах» понятно, но часто естественнее «быть в шатком положении».",
+      "keyword": "na klimavim nogama"
+    },
+    {
       "headword_latin": "Biti na konju",
       "type": "frazeologizam",
       "definition_ru": "быть в выигрышном положении; добиться своего; быть практически у цели",
@@ -4709,6 +4736,33 @@
       ],
       "note": "Dobiti mrvice обычно предполагает сравнение с кем-то, кому досталось значительно больше. Поэтому русский «получить мало» слабее образа; часто лучше «получить крохи», «довольствоваться крохами». В спортивной речи dobiti mrvice может означать совсем немного игрового времени, в экономической — ничтожную долю денег, в политической — небольшие уступки или привилегии. Заголовок Danas Trinkijeriju „mrvice“ od Partizana построен на том же образе: требовалась большая сумма, а присуждена лишь малая её часть.",
       "keyword": "dobiti mrvice"
+    },
+    {
+      "headword_latin": "Dobiti krila",
+      "type": "frazeologizam",
+      "definition_ru": "обрести крылья; воодушевиться; почувствовать уверенность; получить новый импульс",
+      "synonyms_sr": [
+        "ohrabriti se",
+        "dobiti samopouzdanje",
+        "dobiti zamah",
+        "poleteti (prenes.)"
+      ],
+      "literal_ru": "получить крылья",
+      "register": "neutralno-ekspresivno; o čoveku, timu ili poduhvatu kojima uspeh ili podrška daju novu snagu",
+      "examples": [
+        {
+          "serbian_latin": "Milivojevići iz Knina u Beogradu „dobili krila“.",
+          "russian": "Семья Миливоевичей из Книна в Белграде словно обрела крылья.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Ko na vreme uspostavi dobre govorne navike, postaje sigurniji i dobija krila da na pravi način predstavi sebe i svoje ideje.",
+          "russian": "Тот, кто вовремя формирует хорошие речевые привычки, становится увереннее и получает импульс для достойного представления себя и своих идей.",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Оборот обозначает прилив уверенности, энергии и свободы действий после успеха, поддержки или освобождения от ограничений. Возможна причинительная пара dati nekome krila — «окрылить кого-то». Русское «обрести крылья» несколько поэтичнее, тогда как сербское dobiti krila вполне обычно и в журналистике, спорте и повседневной речи.",
+      "keyword": "dobiti krila"
     },
     {
       "headword_latin": "Dobiti po nosu",
@@ -15089,6 +15143,32 @@
       "keyword": "mrav"
     },
     {
+      "headword_latin": "Ne bih bio u nečijoj koži",
+      "type": "frazeologizam",
+      "definition_ru": "не хотел бы оказаться на чьём-то месте; не хотел бы быть в его шкуре",
+      "synonyms_sr": [
+        "ne bih voleo da sam na njegovom mestu",
+        "nije mu lako",
+        "biti u nezavidnom položaju"
+      ],
+      "literal_ru": "не хотел бы быть в чьей-то коже",
+      "register": "razg., ekspresivno; varijante: ne bih ti bio u koži, ne bih voleo da budem u njegovoj koži",
+      "examples": [
+        {
+          "serbian_latin": "Ne bih im bio u koži.",
+          "russian": "Я бы не хотел оказаться на их месте.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Sigurno ne bih voleo da budem u njegovoj koži.",
+          "russian": "Я точно не хотел бы оказаться на его месте.",
+          "source": "Politika, 2010"
+        }
+      ],
+      "note": "Очень живы две грамматические модели: ne bih ti bio u koži с дательным местоимением и ne bih voleo da budem u njegovoj koži с притяжательной формой. Обычно говорящий считает положение другого тяжёлым, опасным или крайне неприятным. Не путать с osetiti nešto na svojoj koži — «испытать что-то на собственном опыте».",
+      "keyword": "biti u nečijoj koži"
+    },
+    {
       "headword_latin": "Ne bilo ti zapoveđeno",
       "type": "replika",
       "definition_ru": "если тебе не трудно; будь добр; не сочти за труд",
@@ -20560,6 +20640,33 @@
       "keyword": "poći za rukom"
     },
     {
+      "headword_latin": "Podići glas protiv nekoga / nečega",
+      "type": "frazeologizam",
+      "definition_ru": "поднять голос против; открыто выступить; заявить протест",
+      "synonyms_sr": [
+        "javno se usprotiviti",
+        "pobuniti se",
+        "protestovati",
+        "oglasiti se protiv"
+      ],
+      "literal_ru": "поднять голос",
+      "register": "neutralno-publicistički; protiv + genitiv; razgovorni oblik dići glas",
+      "examples": [
+        {
+          "serbian_latin": "Bojim se za položaj svih koji će podići glas protiv ovakvih provokacija.",
+          "russian": "Я опасаюсь за положение всех, кто выступит против подобных провокаций.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Ako u Srbiji nema pola miliona ljudi koji će podići glas protiv političarsko-lekarske besprizornosti...",
+          "russian": "Если в Сербии не найдётся полмиллиона людей, готовых открыто выступить против безобразия политиков и врачей...",
+          "source": "Danas, 2020"
+        }
+      ],
+      "note": "Без дополнения podići glas может означать буквально «заговорить громче», но конструкция podići glas protiv nečega / nekoga обычно означает публично возразить, выступить против несправедливости, решения или поведения. Русское «поднять голос против» практически полностью совпадает. Разговорное dići glas употребляется в том же значении.",
+      "keyword": "podići glas"
+    },
+    {
       "headword_latin": "podići prašinu",
       "type": "глагольный фразеологизм",
       "definition_ru": "Наделать шума; вызвать бурную реакцию, споры, возмущение или большой общественный интерес.",
@@ -21486,6 +21593,33 @@
       "keyword": "pošto-poto"
     },
     {
+      "headword_latin": "Povlačiti konce",
+      "type": "frazeologizam",
+      "definition_ru": "дёргать за ниточки; управлять из-за кулис; тайно контролировать происходящее",
+      "synonyms_sr": [
+        "upravljati iz senke",
+        "vući poteze iz pozadine",
+        "imati stvarnu kontrolu",
+        "manipulisati"
+      ],
+      "literal_ru": "тянуть за ниточки",
+      "register": "razg.-publicistički, često neodobr.; naročito o skrivenom centru moći ili osobi koja formalno nije u prvom planu",
+      "examples": [
+        {
+          "serbian_latin": "Srbijom i danas vladaju sile iz senke i povlače konce naših života.",
+          "russian": "Сербией и сегодня управляют силы из тени, которые дёргают за ниточки нашей жизни.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Na poslednjim stranicama stripa se vidi ko u stvari povlači konce cele priče.",
+          "russian": "На последних страницах комикса становится ясно, кто на самом деле дёргает за ниточки всей истории.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Не путать с уже имеющимся držati konce u rukama. Последнее прежде всего означает «контролировать ситуацию», тогда как povlačiti konce особенно хорошо передаёт активное закулисное управление людьми или событиями. Поэтому типичны povlačiti konce iz senke, iza scene. Русское «дёргать за ниточки» практически идеально совпадает.",
+      "keyword": "povlačiti konce"
+    },
+    {
       "headword_latin": "Povući / vući đavola za rep",
       "type": "frazeologizam",
       "definition_ru": "играть с огнём; накликать беду; дразнить судьбу",
@@ -21961,6 +22095,59 @@
       "keyword": "pre zore"
     },
     {
+      "headword_latin": "Prebaciti loptu u tuđe dvorište",
+      "type": "frazeologizam",
+      "definition_ru": "перевести стрелки; переложить ответственность; перекинуть проблему другой стороне",
+      "synonyms_sr": [
+        "prebaciti odgovornost",
+        "svaliti krivicu",
+        "prebaciti problem drugome",
+        "skinuti odgovornost sa sebe"
+      ],
+      "literal_ru": "перебросить мяч в чужой двор",
+      "register": "razg.-publicistički, često neodobr.; prebaciti loptu u nečije / tuđe dvorište",
+      "examples": [
+        {
+          "serbian_latin": "To komentariše kao uvek istu priču: „Prebaci loptu u tuđe dvorište.“",
+          "russian": "Он комментирует это как всё ту же историю: «Переведи стрелки на другого».",
+          "source": "N1, 2021"
+        },
+        {
+          "serbian_latin": "On elegantno loptu prebacuje u dvorište domaćina Novice Tončeva.",
+          "russian": "Он ловко перекладывает вопрос на хозяина встречи Новицу Тончева.",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Оборот часто означает не просто передачу вопроса другой стороне, а попытку снять ответственность с себя: теперь проблема и следующий ход находятся «в чужом дворе». В политической речи особенно близки русские «перевести стрелки», «переложить ответственность». Однако отрицательная оценка зависит от контекста: иногда речь лишь о переносе инициативы к другой стороне.",
+      "keyword": "prebaciti loptu u tuđe dvorište"
+    },
+    {
+      "headword_latin": "Preći crvenu liniju",
+      "type": "frazeologizam",
+      "definition_ru": "перейти красную черту; перейти границу допустимого; зайти слишком далеко",
+      "synonyms_sr": [
+        "preći granicu",
+        "otići predaleko",
+        "prekoračiti granicu prihvatljivog"
+      ],
+      "literal_ru": "перейти красную линию",
+      "register": "neutralno-publicistički, ekspresivno; preći + akuzativ; često u politici, diplomatiji i javnoj polemici",
+      "examples": [
+        {
+          "serbian_latin": "Vlada Srbije je „prešla crvenu liniju“.",
+          "russian": "Правительство Сербии перешло красную черту.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Ja ću milion crvenih linija da prelazim, ali jednu neću nikada.",
+          "russian": "Я перейду хоть миллион красных линий, но одну не перейду никогда.",
+          "source": "N1, 2026"
+        }
+      ],
+      "note": "Значение почти полностью совпадает с русским. Crvena linija — предел, нарушение которого считается недопустимым или вызывает определённые последствия; это может быть моральная, политическая, дипломатическая или стратегическая граница. Обычно употребляется единственное число, но во втором примере множественное crvene linije используется как риторическое усиление.",
+      "keyword": "preći crvenu liniju"
+    },
+    {
       "headword_latin": "Preći Rubikon",
       "type": "glagolski frazem",
       "definition_ru": "Перейти Рубикон; принять необратимое решение или пересечь черту, после которой возврат к прежнему положению невозможен.",
@@ -22124,6 +22311,33 @@
       "keyword": "usta"
     },
     {
+      "headword_latin": "Preseći Gordijev čvor",
+      "type": "frazeologizam",
+      "definition_ru": "разрубить гордиев узел; решительно разрешить запутанную проблему",
+      "synonyms_sr": [
+        "rešiti zamršen problem",
+        "razrešiti čvor",
+        "preseći problem",
+        "doneti odlučnu odluku"
+      ],
+      "literal_ru": "рассечь гордиев узел",
+      "register": "knjiž.-publicistički, ekspresivno; Gordijev se piše velikim početnim slovom",
+      "examples": [
+        {
+          "serbian_latin": "Moramo preseći Gordijev čvor i reći ljudima istinu.",
+          "russian": "Мы должны разрубить гордиев узел и сказать людям правду.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Šta valja činiti, kako preseći Gordijev čvor?",
+          "russian": "Что же делать, как разрубить этот гордиев узел?",
+          "source": "Politika, 2007"
+        }
+      ],
+      "note": "Образ восходит к античному преданию о сложнейшем Gordijev čvor, который Aleksandar Veliki не стал распутывать, а рассёк мечом. Поэтому выражение предполагает не просто решение трудной задачи, а решительный выход из ситуации, долго считавшейся запутанной или неразрешимой. По-русски устойчиво «разрубить гордиев узел», тогда как сербский употребляет preseći.",
+      "keyword": "Gordijev čvor"
+    },
+    {
       "headword_latin": "presipati iz šupljeg u prazno",
       "type": "глагольный фразеологизм",
       "definition_ru": "Заниматься бесполезным делом; вести пустые разговоры; бесконечно обсуждать проблему, ничего не решая.",
@@ -22285,6 +22499,33 @@
       ],
       "note": "Пословица говорит не столько о врождённой нечестности, сколько об искушении, создаваемом удобной ситуацией. Prilika — многозначное слово, но здесь это именно «случай, возможность», а не «внешность» и не «персона». Русское дословное «случай делает вора» понятно, но не столь устойчиво.",
       "keyword": "prilika čini lopova"
+    },
+    {
+      "headword_latin": "Prirasti nekome srcu",
+      "type": "frazeologizam",
+      "definition_ru": "запасть в душу; стать кому-то дорогим; полюбиться",
+      "synonyms_sr": [
+        "omileti",
+        "postati drag",
+        "zavoleti",
+        "vezati se za nekoga / nešto"
+      ],
+      "literal_ru": "прирасти кому-то к сердцу",
+      "register": "neutralno, emotivno pozitivno; lice je obično u dativu: prirasla mi je srcu, prirastao nam je srcu",
+      "examples": [
+        {
+          "serbian_latin": "Mađarska mi je prirasla srcu.",
+          "russian": "Венгрия стала мне очень дорога.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Ovo iskustvo je dragoceno i uloga mi je prirasla srcu.",
+          "russian": "Этот опыт бесценен, и эта роль стала мне очень дорога.",
+          "source": "Politika, 2026"
+        }
+      ],
+      "note": "Важно управление: nešto je nekome priraslo srcu, например grad mi je prirastao srcu, uloga joj je prirasla srcu. Субъектом может быть человек, город, животное, работа, роль или книга. В отличие от uvući se pod kožu, которое допускает и неприятное эмоциональное воздействие, prirasti srcu почти всегда положительно: объект становится близким и дорогим.",
+      "keyword": "prirasti srcu"
     },
     {
       "headword_latin": "Prljav posao",
@@ -26149,6 +26390,33 @@
       ],
       "note": "Для русскоязычного главное — падеж: по-сербски stati na kraj nasilju, то есть существительное стоит в дательном, а не конструкция с sa. Выражение предполагает не просто остановить отдельный эпизод, а окончательно пресечь явление или чью-либо деятельность.",
       "keyword": "stati na kraj"
+    },
+    {
+      "headword_latin": "Stati na loptu",
+      "type": "frazeologizam",
+      "definition_ru": "притормозить; взять паузу; сбавить темп и спокойно всё обдумать",
+      "synonyms_sr": [
+        "usporiti",
+        "zastati",
+        "smiriti se",
+        "razmisliti pre nastavka"
+      ],
+      "literal_ru": "поставить ногу на мяч; остановить мяч",
+      "register": "razg.-publicistički; naročito često morati stati na loptu — prestati žuriti i vratiti situaciju pod kontrolu",
+      "examples": [
+        {
+          "serbian_latin": "Mora se, kaže, stati na loptu.",
+          "russian": "Нужно, говорит он, притормозить и спокойно разобраться.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Ponekad moramo „stati na loptu“ i neke poslove odložiti za kasnije.",
+          "russian": "Иногда приходится притормозить и отложить некоторые дела на потом.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Образ понятен из футбола: игрок останавливает мяч и тем самым замедляет игру, чтобы оценить ситуацию. Не путать с уже имеющимся spustiti loptu: spustiti loptu чаще значит «сбавить тон, погасить конфликт или эйфорию», тогда как stati na loptu — «не спешить, сделать паузу, вернуть контроль над темпом». В некоторых ситуациях значения сближаются.",
+      "keyword": "stati na loptu"
     },
     {
       "headword_latin": "stati na ludi kamen",
