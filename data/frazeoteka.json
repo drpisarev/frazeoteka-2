@@ -1936,6 +1936,35 @@
       "keyword": "nebo"
     },
     {
+      "headword_latin": "Biti na stendbaju",
+      "type": "ustaljeni razgovorni izraz",
+      "definition_ru": "Быть на паузе, в режиме ожидания; временно не продвигаться дальше до решения или изменения обстоятельств. Так говорят о проекте, работе и даже отношениях, чей дальнейший статус пока не определён. Окончательного отказа выражение само по себе не означает.",
+      "synonyms_sr": [
+        "biti na čekanju",
+        "biti privremeno obustavljen",
+        "čekati dalji razvoj",
+        "biti u stanju mirovanja"
+      ],
+      "literal_ru": "Быть в режиме ожидания.",
+      "register": "Разговорное; англицизм, встречающийся также в деловой и газетной речи.",
+      "examples": [
+        {
+          "serbian_latin": "Stadion „Čair“ je trenutno na stendbaju.",
+          "russian": "Работы на стадионе «Чаир» сейчас в режиме ожидания.",
+          "source": "Južne vesti, 2023; высказывание о реконструкции стадиона",
+          "url": "https://www.juznevesti.com/sport/stadion-cair-nekad-na-stendbaju-sada-gotova-stvar-za-grad-nis/"
+        },
+        {
+          "serbian_latin": "Moj brak je na stendbaju trenutno.",
+          "russian": "Мой брак сейчас на паузе.",
+          "source": "Blic, 2023; цитата из телеинтервью",
+          "url": "https://www.blic.rs/zabava/indi-aradinovic-o-razvodu/ecte7t6"
+        }
+      ],
+      "note": "В первом примере «на паузе» не сам стадион как здание, а связанные с ним работы и решения. Во втором ещё не объявлен окончательный конец брака: говорящая описывает неопределённость в отношениях. Не стоит автоматически переводить оборот как «отменён» или «разведены». Английское standby приспособлено к сербской грамматике: в этой конструкции употребляется форма na stendbaju. Нейтральный сербский вариант — na čekanju, русский — «в ожидании» или «пока на паузе».",
+      "keyword": "stendbaj"
+    },
+    {
       "headword_latin": "Biti na tapetu",
       "type": "frazeologizam",
       "definition_ru": "быть предметом разбора; попасть под огонь критики; оказаться на повестке",
@@ -6003,6 +6032,35 @@
       "keyword": "kratak povodac"
     },
     {
+      "headword_latin": "Držati nekoga na tihoj vatri",
+      "type": "frazeologizam",
+      "definition_ru": "Держать кого-либо в неопределённости и напряжённом ожидании, не давая окончательного ответа и не раскрывая решения. Иногда — поддерживать интерес намёками и затягиванием. В центре значения не само промедление, а переживание людей, которые ждут ясности.",
+      "synonyms_sr": [
+        "držati nekoga u neizvesnosti",
+        "odugovlačiti sa odgovorom",
+        "podgrevati iščekivanje",
+        "ne otkrivati konačnu odluku"
+      ],
+      "literal_ru": "Держать кого-либо на медленном огне.",
+      "register": "Разговорное и публицистическое, образное; нередко неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "[…] Džeko drži navijače na \"tihoj vatri\"",
+          "russian": "[…] Джеко держит болельщиков в напряжённом ожидании.",
+          "source": "Sportske.net, 2026; фрагмент заголовка, сохранённый на Naslovi.net",
+          "url": "https://naslovi.net/2026-05-03/sportske/veliki-posao-salkea-u-slavljenickoj-noci-dzeko-drzi-navijace-na-tihoj-vatri/41749552"
+        },
+        {
+          "serbian_latin": "[…] Aleksandar Vučić i dalje drži na „tihoj vatri“ kako pripadnike ove partije, tako i sve građane Srbije.",
+          "russian": "[…] Александр Вучич по-прежнему держит в неопределённости и членов этой партии, и всех граждан Сербии.",
+          "source": "Nova.rs, 2023; фрагмент журналистского комментария",
+          "url": "https://nova.rs/vesti/politika/kako-ce-izgledati-vucicevo-povlacenje-sa-cela-sns-na-pomolu-nova-prevara-sefa-naprednjaka/"
+        }
+      ],
+      "note": "В спортивном примере болельщики ждут решения о будущем футболиста; в политическом автор так оценивает затягивание ясного ответа о партийном руководстве. Образ похож на длительное томление при приготовлении пищи. Однако выражение не означает угрозу физической расправы и не всегда предполагает сознательную манипуляцию: это может быть просто образное описание ожидания. Управление: držati koga — винительный падеж; na tihoj vatri — местный падеж. Русское «мариновать» подходит лишь для достаточно разговорного и неодобрительного контекста.",
+      "keyword": "tiha vatra"
+    },
+    {
       "headword_latin": "Držati nekoga u šaci",
       "type": "frazeologizam",
       "definition_ru": "держать кого-либо в своих руках; полностью контролировать; иметь рычаг давления",
@@ -7366,6 +7424,35 @@
       "keyword": "top"
     },
     {
+      "headword_latin": "Govoriti / razgovarati bez filtera",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "Говорить откровенно, без прикрас, сглаживания и привычной самоцензуры; не подбирать только удобные или благопристойные формулировки. В анонсах интервью обычно обещает личный, непринуждённый разговор. В других контекстах может подразумевать излишнюю прямоту.",
+      "synonyms_sr": [
+        "govoriti otvoreno",
+        "govoriti bez uvijanja",
+        "govoriti bez zadrške",
+        "ne ulepšavati svoje reči"
+      ],
+      "literal_ru": "Говорить / разговаривать без фильтра.",
+      "register": "Современное разговорное и медийное выражение; оценка зависит от контекста.",
+      "examples": [
+        {
+          "serbian_latin": "[…] Anđela Jovanović Dudaš bez filtera o braku i majčinstvu",
+          "russian": "[…] Анджела Йованович Дудаш откровенно о браке и материнстве.",
+          "source": "Informer, 2026; фрагмент заголовка",
+          "url": "https://informer.rs/zabava/kultura/1089746/glumica-andela-jovanovic-majcinstvo"
+        },
+        {
+          "serbian_latin": "Jedan na jedan i ljudska priča – bez filtera – zaštitni je znak kultne emisije “Biseri” voditelja Vanje Bulića.",
+          "russian": "Разговор с глазу на глаз и человеческая история без прикрас — отличительная черта программы «Бисери», которую ведёт Ваня Булич.",
+          "source": "Blic, 2025; анонс интервью",
+          "url": "https://www.blic.rs/zabava/sandra-akva-gost-emisije-biseri-zvali-su-me-kopile/yzbwh27"
+        }
+      ],
+      "note": "В заголовках глагол часто опускается: имя человека + bez filtera o… означает, что он откровенно говорит на указанную тему. В этих примерах выражение не обязательно обещает грубость, мат или скандал: речь о личном рассказе без приукрашивания. Вместе с тем заявленная откровенность ещё не гарантирует достоверности каждого утверждения. Следует отличать переносное употребление от буквального objaviti fotografiju bez filtera — опубликовать фотографию без цифрового фильтра.",
+      "keyword": "filter"
+    },
+    {
       "headword_latin": "Graditi mostove",
       "type": "frazeologizam",
       "definition_ru": "наводить мосты; сближать; налаживать связи",
@@ -8112,6 +8199,35 @@
       ],
       "note": "RTS прямо объясняет ići mečki na rupu как идти в очень опасное место. Важное расширение модели — odvesti / poslati nekoga mečki na rupu: опасности подвергается уже не сам субъект, а человек, которого туда направляют или заманивают. Именно odvesti реально засвидетельствовано в современной сербской речи. Форму navući / navlačiti nekoga mečki na rupu я бы не включал: сам глагол navlačiti действительно может означать «подбивать, заманивать на что-то плохое», но данное сочетание как устойчивый фразеологизм не подтверждается. Возможна спонтанная контаминация с navući nekoga na tanak led, но надёжного подтверждения этому нет. По образу mečki na rupu ближе всего русское «лезть в логово зверя / врага».",
       "keyword": "mečki na rupu"
+    },
+    {
+      "headword_latin": "Ići / krenuti u rikverc",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "Двигаться назад в переносном смысле: сдавать позиции, утрачивать достигнутое, менять прежнее направление развития. О растущих величинах, например ценах, — пойти вниз. Поэтому выражение не всегда означает ухудшение: оценка зависит от того, что именно движется «назад».",
+      "synonyms_sr": [
+        "nazadovati",
+        "kretati se unazad",
+        "vratiti se korak unazad",
+        "opadati umesto rasti"
+      ],
+      "literal_ru": "Ехать / тронуться задним ходом.",
+      "register": "Разговорное и публицистическое, образное; автомобильная метафора.",
+      "examples": [
+        {
+          "serbian_latin": "Kuda ide autoindustrija Srbije - u rikverc",
+          "russian": "Куда движется автопром Сербии? Назад.",
+          "source": "N1 / Biznis i finansije, 2026; заголовок",
+          "url": "https://n1info.rs/biznis/kuda-ide-autoindustrija-srbije-u-rikverc/"
+        },
+        {
+          "serbian_latin": "Ipak, viceguvernerka Narodne banke Srbije Ana Ivković ističe da usporavanje inflacije ne znači automatski da \"cene mogu u rikverc\".",
+          "russian": "Однако заместитель председателя Народного банка Сербии Ана Ивкович подчёркивает: замедление инфляции ещё не означает, что цены пойдут вниз.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5199603/inflacija-prepolovljena-do-kraja-godine-mogu-li-cene-u-rikverc.html"
+        }
+      ],
+      "note": "В первом примере выражение оценивает положение отрасли как движение вспять. Во втором речь о возможности обратного движения цен после роста; перевод «цены деградируют» здесь был бы нелеп. В сочетании mogu u rikverc глагол движения понятен из контекста и опущен. Буквальное автомобильное значение следует отделять от переносного: субъектом могут быть экономика, реформы, отношения или отдельный показатель. Русские соответствия — «пойти назад», «дать задний ход», «повернуть вспять» — выбираются по ситуации.",
+      "keyword": "rikverc"
     },
     {
       "headword_latin": "ići / prodavati se kao alva",
@@ -10189,6 +10305,35 @@
       ],
       "note": "В сербском нормативно и очень естественно именно iznositi prljav veš u javnost. Вариант с prati возможен как калькированный образ, но для фразеотеки лучше запоминать конструкцию с iznositi. Veš здесь, конечно, переносный: семейные ссоры, партийные интриги, скандалы, компромат.",
       "keyword": "prljav veš u javnost"
+    },
+    {
+      "headword_latin": "Izuti nekoga iz cipela",
+      "type": "frazeologizam",
+      "definition_ru": "Сразить наповал, ошеломить, произвести чрезвычайно сильное впечатление. Это может быть восхищение талантом или неприятное изумление неожиданными расходами. В приведённых употреблениях общий смысл — настолько удивить человека, что тот на мгновение теряется.",
+      "synonyms_sr": [
+        "oduševiti nekoga",
+        "zaprepastiti nekoga",
+        "ostaviti nekoga bez reči",
+        "snažno iznenaditi nekoga"
+      ],
+      "literal_ru": "Разуть кого-либо; буквально — вынуть его из туфель.",
+      "register": "Разговорное, очень экспрессивное; встречается в развлекательных и спортивных текстах.",
+      "examples": [
+        {
+          "serbian_latin": "Raša “izuo iz cipela” Željka Samardžića",
+          "russian": "Раша своим выступлением сразил Желько Самарджича наповал.",
+          "source": "Grand Online, 2016; заголовок",
+          "url": "https://grand.nova.rs/emisije-nikad-nije-kasno/rasa-izuo-iz-cipela-zeljka-samardzica-video/"
+        },
+        {
+          "serbian_latin": "[…] Stranac posetio Beograd, a jedan trošak ga je posebno \"izuo iz cipela\"",
+          "russian": "[…] Иностранец побывал в Белграде, и один расход особенно его ошеломил.",
+          "source": "Espreso, 2025; фрагмент заголовка",
+          "url": "https://www.espreso.co.rs/vesti/ekonomija/1525701/stranac-o-placanju-peronske-karte"
+        }
+      ],
+      "note": "Оценка определяется контекстом: певец поражает мастерством, а незнакомая плата за проход к автобусным платформам вызывает удивление. Поэтому нельзя автоматически переводить выражение как «обобрать» или «разорить»: во втором примере важна неожиданность отдельного платежа. Здесь также нет буквального раздевания или обязательного физического насилия. Управление: izuti koga iz cipela; формы прошедшего времени — izuo, izula, izuli. Русское «сразить наповал» особенно удобно для положительного впечатления.",
+      "keyword": "cipele"
     },
     {
       "headword_latin": "Izvoditi besne gliste",
@@ -18822,6 +18967,34 @@
       "keyword": "cedilo"
     },
     {
+      "headword_latin": "Ostaviti nekoga na seen-u",
+      "type": "ustaljeni razgovorni izraz",
+      "definition_ru": "Прочитать чьё-либо сообщение и оставить его без ответа, причём отправителю видна отметка о прочтении. По-русски: «прочитать и не ответить», «оставить на прочитанном». Само выражение описывает ситуацию в переписке, но не объясняет причину молчания.",
+      "synonyms_sr": [
+        "pročitati poruku i ne odgovoriti",
+        "ostaviti poruku bez odgovora",
+        "ne javiti se posle čitanja"
+      ],
+      "literal_ru": "Оставить кого-либо на отметке «просмотрено / прочитано».",
+      "register": "Разговорный сетевой жаргон; смешение сербской конструкции с английским обозначением прочтения сообщения.",
+      "examples": [
+        {
+          "serbian_latin": "[…] ako vas neko ostavi na seen-u (pogotovo više puta), NE TREBA više da pišete […]",
+          "russian": "[…] если кто-то прочёл ваше сообщение и не ответил (особенно несколько раз), больше писать НЕ НУЖНО […]",
+          "source": "Ispovesti, 2023; фрагмент пользовательской записи",
+          "url": "https://ispovesti.com/ispovest/3131980"
+        },
+        {
+          "serbian_latin": "Sada je to malo veći problem jer možemo da vidimo kada nas neko ostavi na \"seen\".",
+          "russian": "Теперь это чуть большая проблема: мы видим, когда кто-то прочёл наше сообщение, но не ответил.",
+          "source": "Espreso, 2022",
+          "url": "https://www.espreso.co.rs/vesti/drustvo/1176107/sta-znaci-ghostovanje"
+        }
+      ],
+      "note": "В источниках встречаются разные написания: na seen-u и na \"seen\". Здесь они сохранены, а в заголовке выбрана форма с сербским падежным окончанием. Дополнение обозначает человека, хотя без ответа остаётся его сообщение: ostavio me je na seen-u. Не следует автоматически приравнивать единичный случай к окончательному прекращению общения или намеренному унижению. Первый пример передаёт эмоциональную позицию автора записи, а не универсальное правило поведения в переписке.",
+      "keyword": "seen"
+    },
+    {
       "headword_latin": "Osveta",
       "type": "imenica",
       "definition_ru": "месть; возмездие",
@@ -22865,6 +23038,35 @@
       ],
       "note": "Sito и rešeto — два приспособления для просеивания, поэтому исходный образ предполагает многократное «просеивание». Отсюда два значения: человек многое перенёс и закалился либо объект прошёл строгий отбор и проверку.",
       "keyword": "sito i rešeto"
+    },
+    {
+      "headword_latin": "Prodati / prodavati nekome priču",
+      "type": "frazeologizam",
+      "definition_ru": "Убедить или пытаться убедить человека в удобной для говорящего версии событий; преподнести ему привлекательную историю. Часто неодобрительно: морочить голову, кормить обещаниями, выдавать сомнительные объяснения за правду. Сам оборот передаёт недоверие к рассказчику, но не доказывает обман.",
+      "synonyms_sr": [
+        "ubediti nekoga u nešto",
+        "navesti nekoga da poveruje",
+        "obmanuti nekoga pričom",
+        "predstaviti nešto u lepšem svetlu"
+      ],
+      "literal_ru": "Продать / продавать кому-либо историю.",
+      "register": "Разговорное и публицистическое; обычно скептическое или неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Francuz \"prodao\" priču Srbinu da može da mu umnoži 100.000 evra […]",
+          "russian": "Француз убедил серба, будто сможет приумножить его 100 000 евро […]",
+          "source": "Telegraf, 2020; фрагмент заголовка сообщения о предъявленном обвинении",
+          "url": "https://www.telegraf.rs/vesti/hronika/3264709-francuz-prodao-pricu-srbinu-da-moze-da-mu-umnozi-100000-evra-protiv-njega-podignuta-optuznica"
+        },
+        {
+          "serbian_latin": "Dok Pastor u javnosti prodaje priču o evropskim vrednostima i dostojanstvu, […]",
+          "russian": "Пока Пастор на публике рассказывает красивые истории о европейских ценностях и достоинстве, […]",
+          "source": "Danas / Beta, 2026; фрагмент цитируемого заявления Александра Мартона",
+          "url": "https://www.danas.rs/vesti/politika/marton-lsv-pastor-je-potrcko-vucica-i-seseljevih-radikala/"
+        }
+      ],
+      "note": "В первом примере речь об описанном в обвинении предполагаемом обмане, во втором — о полемической оценке политического оппонента. Нельзя превращать такую оценку в установленный факт. Типичные конструкции: prodati kome priču da… — убедить кого-либо, будто…; prodavati priču o nečemu — преподносить определённую версию чего-либо. Адресат стоит в дательном падеже: Srbinu, meni, ljudima. Prodati обозначает завершённый акт убеждения, prodavati — процесс или повторяющуюся попытку.",
+      "keyword": "priča"
     },
     {
       "headword_latin": "Prodati veru za večeru",
@@ -27280,6 +27482,35 @@
       "keyword": "staviti tačku na"
     },
     {
+      "headword_latin": "Staviti život na pauzu",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "Временно отложить привычную активную жизнь или важные личные планы; перестать двигаться в прежнем направлении. Причиной могут быть обстоятельства, переживания или сознательное решение. Это не обязательно отдых: жизнь «на паузе» может восприниматься как вынужденное и затянувшееся ожидание.",
+      "synonyms_sr": [
+        "odložiti lične planove",
+        "privremeno zaustaviti uobičajen život",
+        "povući se iz aktivnog života",
+        "staviti svoje potrebe u drugi plan"
+      ],
+      "literal_ru": "Поставить жизнь на паузу.",
+      "register": "Разговорное и публицистическое; образное, иногда эмоциональное.",
+      "examples": [
+        {
+          "serbian_latin": "[…] Divna Karleuša nakon velikog razočaranja pričala: \"Stavila sam život na pauzu\"",
+          "russian": "[…] Дивна Карлеуша после большого разочарования рассказывала: «Я поставила свою жизнь на паузу».",
+          "source": "Blic, 2019; фрагмент заголовка",
+          "url": "https://www.blic.rs/sudbine/zbog-supruga-napustila-fakultet-divna-karleusa-nakon-velikog-razocaranja-pricala/wm2wk0e"
+        },
+        {
+          "serbian_latin": "Čini se da je u Crnoj Gori život definitivno \"na pauzi\" […]",
+          "russian": "Похоже, жизнь в Черногории совсем «поставлена на паузу» […]",
+          "source": "Srbija Danas, 2021; фрагмент предложения о введённых ограничениях",
+          "url": "https://www.sd.rs/vesti/region/komsije-u-paklu-policijskog-casa-u-crnoj-gori-zabranjena-cak-i-kafa-za-poneti-ove-mere-stavile-zivot-2021-02-28"
+        }
+      ],
+      "note": "Полезно различать действие и состояние: staviti život na pauzu — поставить жизнь на паузу; život je na pauzi — жизнь находится на паузе. После na употребляются соответственно винительный и местный падежи. Выражение может описывать и отдельного человека, и обычную жизнь общества. Первый пример взят именно из газетного заголовка: внутри статьи мысль передана другими словами. Поэтому формулировку заголовка нельзя выдавать за дословную запись интервью.",
+      "keyword": "pauza"
+    },
+    {
       "headword_latin": "Stavljati / staviti nekoga / nešto na pijedestal",
       "type": "frazeologizam",
       "definition_ru": "возводить на пьедестал; идеализировать; превозносить",
@@ -31098,6 +31329,35 @@
       "keyword": "vrana; oči"
     },
     {
+      "headword_latin": "Vratiti (se) na fabrička podešavanja",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "1. Вернуться к исходному состоянию, привычному поведению или самому себе; словно заново настроиться. 2. Vratiti nekoga na fabrička podešavanja — резко отрезвить человека, осадить его, сбить спесь. Конкретный смысл зависит от того, кто и кого «возвращает к настройкам».",
+      "synonyms_sr": [
+        "vratiti se sebi",
+        "vratiti se na početno stanje",
+        "otrezniti nekoga",
+        "spustiti nekoga na zemlju"
+      ],
+      "literal_ru": "Вернуть(ся) к заводским настройкам.",
+      "register": "Современное разговорное и сетевое выражение; шутливое, а при описании чужого поражения — насмешливое.",
+      "examples": [
+        {
+          "serbian_latin": "Mislio sam da je vreme da se vratim na fabrička podešavanja i izbacim nešto što zapravo osećam.",
+          "russian": "Я подумал, что пора вернуться к себе настоящему и выпустить что-то, что я действительно чувствую.",
+          "source": "Mondo, 2023; высказывание Вояжа о своей музыке",
+          "url": "https://mondo.rs/Zabava/Zvezde-i-tracevi/a1833176/Mihajlo-Veruovic-Vojaz-o-traumaticnom-detinjstvu-i-planovima.html"
+        },
+        {
+          "serbian_latin": "[…] ali mu je brzo stigao odgovor koji ga je \"vratio na fabrička podešavanja\".",
+          "russian": "[…] но ему быстро ответили так, что его сразу «поставили на место».",
+          "source": "Alo, 2021; фрагмент журналистского комментария",
+          "url": "https://www.alo.rs/vesti/politika/1766112/povratak-na-fabricka-podesavanja-djilas-se-oglasio-na-tviteru-pa-se-pokajao-naprednjaci-i-njega-i-mariniku-brutalno-zakucali-sa-tri-mocne-recenice.html"
+        }
+      ],
+      "note": "Не следует всегда переводить этот оборот как «поставить на место». Возвратная конструкция vratiti se может обозначать возвращение к собственным чувствам, прежнему образу жизни или исходной точке. Конструкция vratiti nekoga в насмешливом контексте описывает сильное воздействие на другого человека. Во втором примере это оценка политически ангажированного автора, а не объективная мера победы в споре. Образ заимствован из знакомой операции сброса настроек устройства; с человеком речь, разумеется, не о буквальном стирании памяти.",
+      "keyword": "fabrička podešavanja"
+    },
+    {
       "headword_latin": "Vratiti milo za drago",
       "type": "frazeologizam",
       "definition_ru": "отплатить той же монетой; поквитаться; взять реванш",
@@ -32645,6 +32905,35 @@
       ],
       "note": "Главная ловушка для русского — несовпадение образа: по-сербски na visokoj nozi, по-русски «на широкую ногу». Калька «на высокой ноге» по-русски не работает. Выражение обычно говорит не просто о достатке, а о заметно дорогом стиле жизни.",
       "keyword": "visoka noga"
+    },
+    {
+      "headword_latin": "Živeti u svom balonu",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "Жить в собственном замкнутом мирке: видеть преимущественно удобную картину происходящего и не замечать неприятные стороны внешней реальности. Это может касаться личных убеждений, круга общения или тщательно отобранной картины жизни в социальных сетях.",
+      "synonyms_sr": [
+        "živeti u svom svetu",
+        "biti odvojen od stvarnosti",
+        "zatvarati oči pred stvarnošću",
+        "videti samo ono što nam odgovara"
+      ],
+      "literal_ru": "Жить в своём пузыре / воздушном шаре.",
+      "register": "Современное разговорное и публицистическое выражение; обычно критическое.",
+      "examples": [
+        {
+          "serbian_latin": "Živimo u balonu, mehuru lažne utehe i poricanja.",
+          "russian": "Мы живём в пузыре — пузыре ложного успокоения и отрицания.",
+          "source": "Blic, 2020",
+          "url": "https://www.blic.rs/slobodno-vreme/mislili-smo-da-smo-izolovani-od-prirodnih-opasnosti-kako-nas-korona-virus-podseca-da/mjrnkht"
+        },
+        {
+          "serbian_latin": "[…] čini se da Kragujevac na mrežama i dalje tvrdoglavo živi u svom filtriranom balonu.",
+          "russian": "[…] кажется, что Крагуевац в социальных сетях всё ещё упрямо живёт в своём приукрашенном пузыре.",
+          "source": "InfoKG, 2026; фрагмент авторской колонки",
+          "url": "https://www.infokg.rs/info/iza-kulisa-savrsenog-instagrama-zasto-kragujevac-na-mrezama-tvrdoglavo-zivi-u-fi89315d084e776893723c.html"
+        }
+      ],
+      "note": "Речь не обязательно об одиночестве или отсутствии контактов. У человека может быть много собеседников, но они поддерживают одну и ту же удобную картину мира. Во втором примере название города обозначает создаваемый его жителями образ жизни в социальных сетях. Слово svoj подчёркивает отдельность этого мирка, но может отсутствовать, как в первом примере. Это оценочная метафора, а не психиатрическое описание и не буквальное обозначение изолированной санитарной зоны.",
+      "keyword": "balon"
     },
     {
       "headword_latin": "Živi bili pa videli",
