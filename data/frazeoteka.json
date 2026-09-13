@@ -524,6 +524,64 @@
       "keyword": "baciti na kolena"
     },
     {
+      "headword_latin": "Baciti nekoga u rebus",
+      "type": "frazeologizam",
+      "definition_ru": "Озадачить кого-либо; поставить в тупик; заставить гадать, что произошло или что имеется в виду. Так говорят о непонятной публикации, двусмысленном намёке, неожиданном вопросе или сложной задаче.",
+      "synonyms_sr": [
+        "zbuniti nekoga",
+        "zateći nekoga",
+        "staviti nekoga pred zagonetku",
+        "naterati nekoga da se pita"
+      ],
+      "literal_ru": "Бросить кого-либо в ребус.",
+      "register": "Разговорное, экспрессивное; встречается в спортивной и развлекательной журналистике.",
+      "examples": [
+        {
+          "serbian_latin": "Kodi Miler Mekintajer bacio navijače u rebus najnovijom objavom: Simbolika je neverovatna, a rešenje lako",
+          "russian": "Коди Миллер-Макинтайр озадачил болельщиков новой публикацией: символика невероятная, а разгадка простая.",
+          "source": "Telegraf, 2024; заголовок",
+          "url": "https://www.telegraf.rs/sport/kosarka/3921573-kodi-miler-mekintajer-bacio-navijace-u-rebus-najnovijom-objavom-simbolika-je-neverovatna-a-resenje-lako"
+        },
+        {
+          "serbian_latin": "\"KAKO SE NOSITI SA LOŠOM SITUACIJOM?\" Novo oglašavanje Milana Stankovića bacilo sve u rebus",
+          "russian": "«Как справиться с неприятной ситуацией?» Новое обращение Милана Станковича всех озадачило.",
+          "source": "Blic, 2025; заголовок",
+          "url": "https://www.blic.rs/zabava/novo-oglasavanje-milana-stankovica-bacilo-sve-u-rebus-kako-se-nositi-sa-losom/blwwwfk"
+        }
+      ],
+      "note": "Это не обязательно сильное потрясение или неразрешимая проблема. Чаще человек просто не понимает намёка и пытается найти разгадку. Управление: baciti koga u rebus; местоименные формы — bacio me je u rebus, bacilo ih je u rebus. Русское «загнать в тупик» иногда слишком резко: для загадочной записи в соцсетях обычно точнее «озадачить» или «заставить гадать».",
+      "keyword": "rebus"
+    },
+    {
+      "headword_latin": "Baciti nekome kosku",
+      "type": "frazeologizam",
+      "definition_ru": "1. Подбросить кому-либо приманку: повод для обсуждений, спекуляций или споров. 2. Дать небольшую уступку или подачку, чтобы отвлечь от более существенных требований либо временно успокоить.",
+      "synonyms_sr": [
+        "baciti mamac",
+        "dati povod za nagađanja",
+        "skrenuti pažnju",
+        "umiriti nekoga sitnim ustupkom"
+      ],
+      "literal_ru": "Бросить кому-либо косточку.",
+      "register": "Разговорное, образное; в значении подачки — неодобрительное.",
+      "examples": [
+        {
+          "serbian_latin": "Žoze Murinjo \"bacio je kosku\" novinarima u nedelju uveče […]",
+          "russian": "Жозе Моуринью в воскресенье вечером «подбросил приманку» журналистам […]",
+          "source": "Sport Klub, 2020; фрагмент предложения",
+          "url": "https://sportklub.n1info.rs/video/fudbal-video/a324098-da-li-ce-i-kako-pl-reagovati-na-kaznu-izrecenu-sitiju/"
+        },
+        {
+          "serbian_latin": "Begović: Vučić u panici studentima \"bacio kosku\", nipodaštava ih registratorima",
+          "russian": "Бегович: Вучич в панике «бросил студентам подачку», унижая их папками с документами.",
+          "source": "021.rs / N1, 2024; заголовок с цитируемой оценкой",
+          "url": "https://www.021.rs/novi-sad/vesti/395763/begovic-vucic-u-panici-studentima-bacio-kosku-nipodastava-ih-registratorima"
+        }
+      ],
+      "note": "Статья посвящена неприветственным значениям. Не путать с дружеской репликой Baci kosku! — предложением стукнуться кулаками, функционально близким к «дай пять». В первом примере журналистам дают тему для спекуляций; во втором автор цитируемого высказывания оценивает уступку как подачку. У этих употреблений общий образ приманки, но перевод зависит от ситуации. Управление: baciti kome kosku.",
+      "keyword": "koska"
+    },
+    {
       "headword_latin": "Baciti novo svetlo na nešto",
       "type": "frazeologizam",
       "definition_ru": "пролить новый свет на что-то; показать с новой стороны; дать новое объяснение",
@@ -7716,6 +7774,35 @@
       "keyword": "zvono"
     },
     {
+      "headword_latin": "Hvatati / uhvatiti nekoga na galamu",
+      "type": "frazeologizam",
+      "definition_ru": "Брать кого-либо криком, напором или нахрапом; стараться добиться своего не убедительными доводами, а шумным и самоуверенным давлением. Иногда — сбить с толку и навязать невыгодное решение.",
+      "synonyms_sr": [
+        "nadglasavati nekoga",
+        "nametati se vikom",
+        "zastrašivati galamom",
+        "nametati svoje bez argumenata"
+      ],
+      "literal_ru": "Ловить / поймать кого-либо на шуме, крике.",
+      "register": "Разговорное, неодобрительное; о манере спорить, убеждать и добиваться своего.",
+      "examples": [
+        {
+          "serbian_latin": "Menadžer ga uhvati na galamu, uvali mu pet, šest Italijana...",
+          "russian": "Агент берёт его нахрапом и всучивает ему пять-шесть итальянцев…",
+          "source": "Nova.rs, 2020; интервью Раде Богдановича",
+          "url": "https://nova.rs/sport/fudbal/radomir-antic-atletiko-madrid-rade-bogdanovic-feljton/"
+        },
+        {
+          "serbian_latin": "Ložana sve hvata na galamu (dža-bu), dok je zdrav rezon bačen u totalni zapećak […]",
+          "russian": "Такой любитель напускной крутизны всех берёт нахрапом и шумом, а здравый смысл оказывается напрочь забыт […]",
+          "source": "Danas, 2016; фрагмент колонки, цитирующей определение с Vukajlija",
+          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/hvatanje-na-galamu"
+        }
+      ],
+      "note": "Смысл не просто в громком голосе: шум и уверенный напор заменяют аргументы и служат способом давления. В спортивном интервью агент таким образом навязывает игроков руководителю клуба. Совершенный вид — uhvatiti, несовершенный — hvatati. Русские соответствия выбираются по ситуации: в споре «брать криком», при навязывании решения «брать нахрапом». Слово ložana во втором примере — жаргонное обозначение человека с напускной крутизной.",
+      "keyword": "galama"
+    },
+    {
       "headword_latin": "Hvatati krivine",
       "type": "frazeologizam",
       "definition_ru": "отлынивать; сачковать; увиливать от работы",
@@ -9266,6 +9353,35 @@
       ],
       "note": "Imati žicu обозначает прежде всего врождённую склонность, талант или особое чутьё, а не просто приобретённое умение. Поэтому ima žicu za muziku сильнее, чем просто dobro se razume u muziku: подразумевается, что человеку это «дано». Очень жив вариант ima tu žicu — «у него есть это чутьё / есть в нём что-то». Русское «есть жилка» совпадает лишь частично: естественно «коммерческая жилка», но про музыку, писательство или общение чаще скажем «есть талант / дар / чутьё». Точное происхождение переносного значения žica лучше не выводить из буквальной «проволоки» или «струны» без надёжного этимологического подтверждения.",
       "keyword": "imati žicu"
+    },
+    {
+      "headword_latin": "Iskakati iz frižidera",
+      "type": "frazeologizam",
+      "definition_ru": "Назойливо мелькать повсюду: на телевидении, в новостях, рекламе и социальных сетях. Быть настолько заметным и часто упоминаемым, что кажется: от этого человека или темы нигде не скрыться.",
+      "synonyms_sr": [
+        "biti svuda prisutan",
+        "pojavljivati se na svakom koraku",
+        "preplaviti medije",
+        "dosaditi stalnim pojavljivanjem"
+      ],
+      "literal_ru": "Выскакивать из холодильника.",
+      "register": "Разговорное, шутливо-ироническое; нередко с раздражением из-за чрезмерной публичности.",
+      "examples": [
+        {
+          "serbian_latin": "Ukoliko i vama porodica Kardašijan \"iskače\" iz frižidera i jednostavno vam ih je dosta, […]",
+          "russian": "Если и у вас семейство Кардашьян уже «из холодильника выскакивает» и вы просто от них устали, […]",
+          "source": "Stil / Kurir, 2015; фрагмент предложения",
+          "url": "https://stil.kurir.rs/lifestyle/zanimljivosti/27182/izbrisite-kardasijane-zauvek-nova-aplikacija-ce-ih-blokirati"
+        },
+        {
+          "serbian_latin": "[…] srpski korisnici najveće društvene mreže na svetu žale se da im neki kandidati prosto \"iskaču iz frižidera\".",
+          "russian": "[…] сербские пользователи крупнейшей социальной сети жалуются, что некоторые кандидаты у них буквально «из холодильника выскакивают».",
+          "source": "Srbija Danas, 2017; фрагмент предложения",
+          "url": "https://www.sd.rs/it/vesti/jeremic-vam-stalno-iskace-na-fejsu-evo-kako-da-se-otarasite-dosadnih-reklama-politicara-u-4-klika-2017-02-23"
+        }
+      ],
+      "note": "Это преувеличение: даже холодильник, от которого никто не ждёт новостей, будто бы навязывает того же персонажа. Выражение обычно сильнее нейтрального «быть популярным» и подчёркивает пресыщение вниманием к человеку или теме. Настоящее время: iskače, iskaču; инфинитив — iskakati. Русский буквальный перевод понятен как шутка, но вне такого контекста естественнее «лезть из каждого утюга» или «мелькать на каждом шагу».",
+      "keyword": "frižider"
     },
     {
       "headword_latin": "Iskočiti iz kože",
@@ -22148,6 +22264,35 @@
       "keyword": "preći crvenu liniju"
     },
     {
+      "headword_latin": "Preći igricu",
+      "type": "frazeologizam",
+      "definition_ru": "Превзойти всех; добиться исключительного результата; сделать нечто настолько успешно, что, кажется, дальше уже некуда. Иронически — переплюнуть остальных по размаху, чрезмерности или нелепости поступка.",
+      "synonyms_sr": [
+        "nadmašiti sve",
+        "prevazići sva očekivanja",
+        "otići korak dalje",
+        "prevazići samog sebe"
+      ],
+      "literal_ru": "Пройти компьютерную игру.",
+      "register": "Современное разговорное и сетевое выражение; экспрессивное, нередко шутливое или ироническое.",
+      "examples": [
+        {
+          "serbian_latin": "Od nepoželjnog do MVP-a – kako je Ti Džej Šorts \"prešao igricu\" u Evroligi",
+          "russian": "Из нежеланного игрока — в самые ценные: как Ти Джей Шортс превзошёл все ожидания в Евролиге.",
+          "source": "RTS, 2024; заголовок",
+          "url": "https://www.rts.rs/lat/sport/kosarka/evroliga/5595301/od-nepozeljnog-do-mvp-a--kako-je-ti-dzej-sorts-presao-igricu-u-evroligi.html"
+        },
+        {
+          "serbian_latin": "Evroliga kaznila četiri kluba zbog preteranog budžeta za košarkaše - Janakopulos \"prešao igricu...\"",
+          "russian": "Евролига наказала четыре клуба за чрезмерные расходы на баскетболистов — Яннакопулос «переплюнул всех…».",
+          "source": "Espreso, 2026; заголовок",
+          "url": "https://www.espreso.co.rs/sport/kosarka/1594969/evroliga-cetiri-kluba-preterani-budzet-plate-igraci"
+        }
+      ],
+      "note": "Образ понятен через буквальное прохождение игры: все уровни уже пройдены. В переносном употреблении речь идёт о человеке или результате, который трудно превзойти. Оценку определяет контекст: спортивный успех вызывает восхищение, а чрезмерные траты — иронию. Поэтому выражение нельзя всегда переводить как «добиться успеха». Глагол совершенного вида: preći; формы прошедшего времени — prešao, prešla, prešli.",
+      "keyword": "igrica"
+    },
+    {
       "headword_latin": "Preći Rubikon",
       "type": "glagolski frazem",
       "definition_ru": "Перейти Рубикон; принять необратимое решение или пересечь черту, после которой возврат к прежнему положению невозможен.",
@@ -22617,6 +22762,35 @@
       ],
       "note": "Сербское probiti led шире русского «сломать лёд» в общении. Оно очень часто значит «стать первым, начать то, чего до этого никто не сделал»: первым выступить, забить, приехать, решиться. Поэтому в спортивном контексте перевод может быть просто «открыть счёт», «забить первым».",
       "keyword": "probiti led"
+    },
+    {
+      "headword_latin": "Proći / prolaziti ispod radara",
+      "type": "frazeologizam",
+      "definition_ru": "Остаться незамеченным; пройти мимо внимания публики, журналистов или людей, которые могли бы что-либо заметить. Иногда — не привлекать внимания сознательно, действуя тихо и незаметно.",
+      "synonyms_sr": [
+        "proći nezapaženo",
+        "ostati neprimećen",
+        "ne privući pažnju",
+        "izmaći pažnji"
+      ],
+      "literal_ru": "Пройти / проходить ниже зоны обнаружения радара.",
+      "register": "Публицистическое и разговорное; образное.",
+      "examples": [
+        {
+          "serbian_latin": "Svetsko srebro Damira Mikeca je prošlo ispod radara jer već ima kvotu i dosta medalja ove godine, […]",
+          "russian": "Серебро Дамира Микеца на чемпионате мира осталось незамеченным: у него уже есть олимпийская путёвка и немало медалей в этом году, […]",
+          "source": "RTS, 2023; фрагмент высказывания",
+          "url": "https://www.rts.rs/lat/sport/ostali-sportovi/5270848/sonja-vasic-olimpijske-igre-mundobasket-.html"
+        },
+        {
+          "serbian_latin": "Kada problem koji tišti prođe ispod radara, pre svih roditelja, ponekad to bude propuštena šansa za pomoć.",
+          "russian": "Когда мучающая человека проблема остаётся незамеченной, прежде всего родителями, это иногда означает упущенную возможность помочь.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/magazin/zivot/5720151/mentalno-zdravlje-dusan-vlahovic-ambasador-unicefa-deca-i-mladi.html"
+        }
+      ],
+      "note": "Не обязательно подразумевает тайный умысел. В первом примере спортивное достижение просто не получило внимания, во втором взрослые не заметили проблему. Перевод «избежать обнаружения» подходит лишь там, где действительно есть наблюдение или контроль. Видовая пара: proći — prolaziti. Встречаются уточнения вроде ispod medijskih radara — «вне внимания СМИ».",
+      "keyword": "radar"
     },
     {
       "headword_latin": "proći kao bos po trnju",
@@ -23634,6 +23808,35 @@
       ],
       "note": "Перевод только «сплетница» слишком узок. Radio Mileva может быть и человеком, и самой системой мгновенного неофициального распространения информации — близко к русским «сарафанное радио» и шутливому «агентство ОБС». Выражение существовало задолго до телесериала RTS Radio Mileva; название сериала сознательно использует уже знакомый культурный тип женщины, которая «всё знает». Даже автор сербской юмористической «квазиэнциклопедии» признавал, что почему говорится именно Mileva, а не другое женское имя, достоверно неизвестно.",
       "keyword": "Radio Mileva"
+    },
+    {
+      "headword_latin": "Raditi / funkcionisati na rezervi",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "Работать или держаться на последних остатках сил; продолжать справляться с делами при почти исчерпанном запасе энергии. Подчёркивается истощение ресурсов, а не просто большая нагрузка.",
+      "synonyms_sr": [
+        "raditi na izmaku snaga",
+        "trošiti poslednje zalihe energije",
+        "jedva izdržavati",
+        "nastavljati uprkos iscrpljenosti"
+      ],
+      "literal_ru": "Работать / функционировать на резервном остатке топлива.",
+      "register": "Разговорное и публицистическое; переносное употребление.",
+      "examples": [
+        {
+          "serbian_latin": "Hrana je doslovno energija za telo, pa ako često imate osećaj da radite \"na rezervi\", […]",
+          "russian": "Пища — это буквально энергия для тела, поэтому, если вам часто кажется, что вы работаете на последних остатках сил, […]",
+          "source": "Mondo, 2026; фрагмент предложения",
+          "url": "https://mondo.rs/Magazin/Stil/a2195598/najbolji-raspored-obroka-u-danu-od-nutricionista.html"
+        },
+        {
+          "serbian_latin": "Bez dovoljne količine kiseonika, tkiva i organi rade „na rezervi“, što se direktno odražava na svakodnevno funkcionisanje.",
+          "russian": "Без достаточного количества кислорода ткани и органы работают «на последних резервах», что непосредственно сказывается на повседневной жизни.",
+          "source": "Srbija Danas, 2026",
+          "url": "https://www.sd.rs/zena/zdravlje/doktor-upozorava-umor-koji-ne-prolazi-ukazuje-na-ozbiljan-zdravstveni-problem-evo-kako-ga-prepoznati-na-vreme-2026-02-20"
+        }
+      ],
+      "note": "Образ — автомобиль, у которого почти закончилось топливо, но который ещё едет на резервном остатке. Не путать с u rezervi — «в запасе» или «в резерве»: na rezervi описывает уже почти израсходованный ресурс. От na autopilotu отличается смыслом: там действие механическое, здесь на исходе силы. Медицинские публикации приведены как свидетельства употребления метафоры; само выражение не является диагнозом или медицинским термином.",
+      "keyword": "rezerva"
     },
     {
       "headword_latin": "Raditi nekome o glavi",
@@ -29784,6 +29987,35 @@
       "keyword": "pod kožu"
     },
     {
+      "headword_latin": "Ući u crveno",
+      "type": "frazeologizam",
+      "definition_ru": "Вспылить; сорваться; дойти до такой степени раздражения или ярости, что перестать сдерживать слова и поведение. В этой статье рассматривается эмоциональное, а не финансовое или техническое употребление.",
+      "synonyms_sr": [
+        "planuti",
+        "pobesneti",
+        "izgubiti kontrolu",
+        "izgubiti živce"
+      ],
+      "literal_ru": "Войти в красную зону.",
+      "register": "Разговорное, экспрессивное; встречается в описаниях ссор и эмоциональных вспышек.",
+      "examples": [
+        {
+          "serbian_latin": "Mića je \"ušao u crveno\" i čašćavao je gnusnim uvredama Bojanu, a ni ona mu nije ostala dužna.",
+          "russian": "Мича сорвался и осыпал Бояну мерзкими оскорблениями; она тоже не осталась в долгу.",
+          "source": "Srbija Danas, 2023",
+          "url": "https://www.sd.rs/vip/zadruga/sta-si-se-upalio-deda-lepi-mica-u-zestokoj-svadi-sa-zadrugarkom-video-2023-11-26"
+        },
+        {
+          "serbian_latin": "[…] sve dok Car ne uđe u crveno pa ne napravi svađu nakon koje se izvinjava […]",
+          "russian": "[…] пока Царь не выйдет из себя и не устроит ссору, за которую потом извиняется […]",
+          "source": "Srbija Danas, 2023; фрагмент предложения",
+          "url": "https://www.sd.rs/vip/zadruga/sve-odron-do-odrona-filip-car-pobesneo-usao-u-crveno-kako-ne-mogu-naci-neku-normalnu-video-2023-05-04"
+        }
+      ],
+      "note": "Красная зона здесь обозначает предел допустимого эмоционального напряжения. Оборот сильнее обычного naljutiti se — «рассердиться»: в приведённых примерах речь о срыве и скандале. Не следует переводить его как «покраснеть»: изменение цвета лица не является обязательным. Глагольные формы: uđe, ušao, ušla. Без контекста сочетание неоднозначно, поэтому значение ярости нельзя автоматически переносить на любой текст с u crveno.",
+      "keyword": "crveno"
+    },
+    {
       "headword_latin": "Ući u ritam",
       "type": "kolokacija",
       "definition_ru": "войти в ритм; набрать темп; втянуться",
@@ -29845,6 +30077,35 @@
       ],
       "note": "Štos в этой конструкции — не «шутка», а секрет, приём, принцип работы. Поэтому ući u štos часто означает именно приобрести практическое понимание: «врубиться», «набить руку». Это не то же самое, что ući u ritam, хотя в некоторых ситуациях переводы пересекаются.",
       "keyword": "ući u štos"
+    },
+    {
+      "headword_latin": "Udarati nekome čežnju",
+      "type": "frazeologizam",
+      "definition_ru": "Дразнить кого-либо своей недоступностью; заставлять сильнее желать общения или близости. В отношениях — выдерживать дистанцию, не спешить отвечать или демонстрировать привлекательность, вызывая тоску, сожаление либо ревность.",
+      "synonyms_sr": [
+        "praviti se nedostupan",
+        "držati nekoga u neizvesnosti",
+        "izazivati čežnju",
+        "izazivati ljubomoru"
+      ],
+      "literal_ru": "Наводить / «набивать» кому-либо тоску, томление.",
+      "register": "Разговорное, шутливое или ироническое; часто о флирте и отношениях.",
+      "examples": [
+        {
+          "serbian_latin": "Ako prolaze minuti i sati, moguće je da \"udara čežnju\" i ne želi da deluje kao paćenik […]",
+          "russian": "Если проходят минуты и часы, возможно, он заставляет вас томиться и не хочет выглядеть страдальцем […]",
+          "source": "Nova.rs, 2020; фрагмент предложения",
+          "url": "https://nova.rs/magazin/ljubavisex/pitali-smo-muskarce-zasto-ne-odgovaraju-na-poruke/"
+        },
+        {
+          "serbian_latin": "Jovana se sad oglasila na Instagramu i podelila provokativnu fotku, gde se izdvojio komentar: \"Udara čežnju bivšem\".",
+          "russian": "Йована опубликовала в Instagram провокационное фото; среди комментариев выделился такой: «Заставляет бывшего тосковать».",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/zabava/jovana-jeremic-se-oglasila-nakon-sto-je-njen-bivsi-muz-pokazao-novu-devojku/40wg3wf"
+        }
+      ],
+      "note": "Направление действия принципиально: тот, кто udara čežnju, вызывает томление у другого, а не сам тоскует. Дополнение ставится в дательном падеже: kome — bivšem, njoj, njemu. В первом примере речь о задержке ответа, во втором — о демонстративной публикации для бывшего партнёра. Предполагаемый мотив при этом остаётся оценкой автора или комментатора, а не доказанным намерением человека.",
+      "keyword": "čežnja"
     },
     {
       "headword_latin": "Udariti / lupiti šakom o sto",
@@ -32302,6 +32563,35 @@
       ],
       "note": "Особенно полезны готовые модели žali Bože para — «зря потраченные деньги», žali Bože truda — «напрасный труд», žali Bože vremena — «жаль потраченного времени». Дословный русский перевод обычно неестественен. В реальном письме встречаются колебания Bože / bože; при сохранении прямого обращения к Богу логична прописная буква.",
       "keyword": "žali Bože"
+    },
+    {
+      "headword_latin": "Živeti / funkcionisati na autopilotu",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "Жить или действовать на автомате: по привычке, без осознанного выбора и внимательного участия. О работе или процессе — продолжаться по заведённой схеме, без постоянного пересмотра решений.",
+      "synonyms_sr": [
+        "živeti po inerciji",
+        "raditi automatski",
+        "postupati po navici",
+        "raditi bez razmišljanja"
+      ],
+      "literal_ru": "Жить / функционировать на автопилоте.",
+      "register": "Разговорное и публицистическое; употребляется в текстах о повседневной жизни, привычках и работе.",
+      "examples": [
+        {
+          "serbian_latin": "Mi koristimo jaka fiksna uverenja, mišljenja i navike kako bi zataškali svoj iskonski bes, paniku i bol; živimo na autopilotu.",
+          "russian": "Мы используем твёрдые убеждения, мнения и привычки, чтобы заглушить глубинный гнев, панику и боль; живём на автомате.",
+          "source": "Sensa / Mondo, 2021",
+          "url": "https://sensa.mondo.rs/licni-razvoj/life-coach/a20426/OVO-JE-ZNAK-DA-VAS-OCEKUJE-VELIKA-PREKRETNICA-U-ZIVOTU-Evo-kako-da-prepoznate-vaznu-poruku-intuicije.html"
+        },
+        {
+          "serbian_latin": "[…] „stari medija plan“ više ne funkcioniše na autopilotu.",
+          "russian": "[…] «старый медиаплан» уже не работает сам собой, по привычной схеме.",
+          "source": "BIZLife / WebMind, 2025; фрагмент интервью",
+          "url": "https://bizlife.rs/nenad-milic-ai-podaci-i-kraj-oglasavanja-na-autopilotu/"
+        }
+      ],
+      "note": "С человеком выражение обычно подчёркивает привычку и недостаток осознанности, а не лень: дел может быть много, но выполняются они механически. В деловом контексте смысл иной: старую схему нельзя просто запустить и оставить без изменений. Авиационное значение и буквальная автоматизация здесь не рассматриваются. В первом примере сохранена авторская грамматическая форма kako bi; это цитата, а не образец нормативного согласования.",
+      "keyword": "autopilot"
     },
     {
       "headword_latin": "Živeti kao bubreg u loju",
