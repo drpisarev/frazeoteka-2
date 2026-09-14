@@ -1771,29 +1771,31 @@
     {
       "headword_latin": "Biti na klimavim nogama",
       "type": "frazeologizam",
-      "definition_ru": "быть в шатком положении; держаться непрочно; быть под угрозой краха",
+      "definition_ru": "Находиться в шатком положении, быть неустойчивым или ненадёжным. Об аргументации, обвинении или плане — иметь слабое основание; об организации или власти — держаться непрочно.",
       "synonyms_sr": [
         "biti nestabilan",
-        "biti nesiguran",
-        "biti pred slomom",
-        "biti na tankom ledu (delimično)"
+        "nemati čvrst oslonac",
+        "biti slabo utemeljen",
+        "biti u nesigurnom položaju"
       ],
-      "literal_ru": "быть на шатких ногах",
-      "register": "razg.-publicistički, ekspresivno; o vlasti, podršci, koaliciji, ideji, projektu, poziciji i sl.",
+      "literal_ru": "Стоять на шатающихся, нетвёрдых ногах.",
+      "register": "Разговорное и публицистическое; образное, обычно критическое.",
       "examples": [
         {
-          "serbian_latin": "Podrška Obradoviću (ni)je na klimavim nogama.",
-          "russian": "Поддержка Обрадовича (не) находится в шатком положении.",
-          "source": "Danas, 2019"
+          "serbian_latin": "Optužnica je na klimavim nogama jer ne postoji materijalni dokaz.",
+          "russian": "Обвинение имеет шаткую основу, поскольку нет вещественного доказательства.",
+          "source": "Nova.rs / Kurir, 2025; оценка Игора Юрича",
+          "url": "https://nova.rs/vesti/hronika/igor-juric-optuznica-u-slucaju-danke-ilic-na-klimavim-nogama/"
         },
         {
-          "serbian_latin": "To će dodatno srušiti ideju bojkota, koja je ionako na klimavim nogama.",
-          "russian": "Это ещё сильнее пошатнёт идею бойкота, которая и без того держится весьма непрочно.",
-          "source": "RTS, 2020"
+          "serbian_latin": "[…] Francuska vlada opstaje na \"klimavim nogama\"",
+          "russian": "[…] Французское правительство удерживается у власти, но его положение остаётся шатким.",
+          "source": "B92 / Tanjug, 2026; фрагмент заголовка",
+          "url": "https://www.b92.net/info/svet/201208/lekorni-preziveo-jos-jedno-glasanje-francuska-vlada-opstaje-na-klimavim-nogama/vest"
         }
       ],
-      "note": "Klimav означает «шаткий, неустойчивый», и выражение очень свободно переносится на абстрактные вещи: vlada, koalicija, podrška, optužba, plan su na klimavim nogama. Близкое biti na tankom ledu сильнее подчёркивает риск и опасность, а biti na klimavim nogama — внутреннюю непрочность и возможность скорого развала. Русское «стоять на шатких ногах» понятно, но часто естественнее «быть в шатком положении».",
-      "keyword": "na klimavim nogama"
+      "note": "Русский перевод зависит от предмета разговора: аргумент «слабо обоснован», а правительство «держится непрочно». Формулировка не обязательно предсказывает немедленный крах. В первом примере приведено мнение собеседника о доказательствах, а не установленный судом вывод. Во втором использован глагол opstajati — продолжать существовать, удерживаться. Физическая слабость ног в этих употреблениях не подразумевается.",
+      "keyword": "klimave noge"
     },
     {
       "headword_latin": "Biti na konju",
@@ -3322,6 +3324,34 @@
       "keyword": "pametan; budala; stid"
     },
     {
+      "headword_latin": "Čekati / dočekati svojih pet minuta",
+      "type": "frazeologizam",
+      "definition_ru": "Ждать / дождаться своего часа: удобного момента, когда можно проявить себя, добиться признания или наконец ответить на прежнюю обиду. Выражение подчёркивает наступление долгожданной возможности, а не её буквальную продолжительность.",
+      "synonyms_sr": [
+        "čekati svoju priliku",
+        "dočekati svoj trenutak",
+        "dobiti priliku da se pokaže"
+      ],
+      "literal_ru": "Ждать / дождаться своих пяти минут.",
+      "register": "Разговорное и публицистическое; часто с удовлетворением от наконец полученного шанса.",
+      "examples": [
+        {
+          "serbian_latin": "Celu jednu sezonu je Stevan Jovetić čekao svojih „pet minuta“ u Fiorentini, a onda je eksplodirao.",
+          "russian": "Целый сезон Стеван Йоветич ждал своего часа в «Фиорентине», а потом ярко заявил о себе.",
+          "source": "Danas, 2009; статья «Đilardino i ja smo odličan tandem»",
+          "url": "https://www.danas.rs/vesti/drustvo/djilardino-i-ja-smo-odlican-tandem"
+        },
+        {
+          "serbian_latin": "Legenda Engleske Piter Šilton dočekao je svojih pet minuta da se on smeje dok Dijego Maradona plače.",
+          "russian": "Легенда английского футбола Питер Шилтон дождался своего часа: теперь он мог смеяться, пока Диего Марадона плакал.",
+          "source": "Sport Klub, 2018; авторское описание реакции Питера Шилтона",
+          "url": "https://sportklub.n1info.rs/fudbal/fifa-world-cup/a243834-siltonovih-pet-minuta-na-godisnjicu-andquotbozje-rukeandquot/"
+        }
+      ],
+      "note": "В первом примере спортсмен получает возможность показать себя, во втором человек дожидается повода позлорадствовать. Поэтому «получить признание» подходит не всегда; «дождаться своего часа» универсальнее. Čekati описывает ожидание, dočekati — его успешное завершение. Оборот не обязательно означает недолгую славу: pet minuta здесь обозначает саму возможность воспользоваться моментом.",
+      "keyword": "pet minuta"
+    },
+    {
       "headword_latin": "Čekati kao ozebao sunce",
       "type": "frazeologizam",
       "definition_ru": "ждать с огромным нетерпением; ждать как спасения; ждать как манны небесной",
@@ -4422,6 +4452,35 @@
       "keyword": "debeo kao svinja"
     },
     {
+      "headword_latin": "Deliti lekcije",
+      "type": "frazeologizam",
+      "definition_ru": "1. Поучать, читать нотации, назидательно объяснять другим, как им следует поступать; часто неодобрительно. 2. Своим поведением или мастерством преподносить другим урок, показывать достойный пример.",
+      "synonyms_sr": [
+        "držati pridike",
+        "pametovati",
+        "pokazivati drugima kako se nešto radi",
+        "biti primer drugima"
+      ],
+      "literal_ru": "Раздавать уроки.",
+      "register": "Разговорное и публицистическое; оценка колеблется от неодобрения до восхищения.",
+      "examples": [
+        {
+          "serbian_latin": "Ljubičićeva: Skandalozno da Janković deli lekcije o bezbednosti",
+          "russian": "Любичич: возмутительно, что Янкович берётся поучать других вопросам безопасности.",
+          "source": "RTS / Tanjug, 2017; заголовок с высказыванием Любичич",
+          "url": "https://www.rts.rs/lat/vesti/politika/2625575/ljubiciceva-skandalozno-da-jankovic-deli-lekcije-o-bezbednosti.html"
+        },
+        {
+          "serbian_latin": "Devojčurak iz Orahovca, nesvesno, dok radi ono što najviše voli, mnogima deli lekcije – o vernosti, ljubavi, upornosti i hrabrosti.",
+          "russian": "Девочка из Ораховца, занимаясь любимым делом, сама того не осознавая, преподаёт многим уроки верности, любви, упорства и смелости.",
+          "source": "RTS, 2025; авторская характеристика героини передачи «Rodoslavci: Pavlina»",
+          "url": "https://www.rts.rs/lat/tv/rts1/5632494/rodoslavci-pavlina.html"
+        }
+      ],
+      "note": "Общая модель: deliti kome lekcije o nečemu — поучать кого-либо по какому-либо вопросу. В первом примере говорящая отказывает оппоненту в праве наставлять других; это её полемическая оценка. Во втором «уроки» преподаются без назидательных речей, самим поведением девочки. Поэтому автоматический перевод «читать нотации» был бы здесь неверен. Сербские синонимы в статье относятся к разным значениям и не взаимозаменяемы во всех контекстах.",
+      "keyword": "deliti lekcije"
+    },
+    {
       "headword_latin": "deliti šakom i kapom",
       "type": "глагольный фразеологизм",
       "definition_ru": "Раздавать щедро и в больших количествах; раздавать направо и налево, иногда без меры и разбора.",
@@ -4449,6 +4508,62 @@
       ],
       "note": "Может обозначать как настоящую щедрость, так и безответственную раздачу денег, наград, должностей, документов или обещаний.",
       "keyword": "šaka; kapa"
+    },
+    {
+      "headword_latin": "Devojka za sve",
+      "type": "frazeologizam",
+      "definition_ru": "Человек, которому поручают самые разные дела: универсальный помощник, работник на все случаи. В неодобрительном контексте — человек на побегушках, на которого все сваливают свои поручения. Выражение может относиться и к мужчине.",
+      "synonyms_sr": [
+        "osoba za sve poslove",
+        "svestrani pomoćnik",
+        "onaj kome svi daju zadatke"
+      ],
+      "literal_ru": "Девушка для всего.",
+      "register": "Разговорное, нередко шутливое; может подчёркивать полезность человека или его зависимое положение.",
+      "examples": [
+        {
+          "serbian_latin": "Čeda je službenik kojeg svi maltretiraju. On je \"devojka za sve\": šeta pudlicu, kuva kafu za pokeraško društvo njegove supruge.",
+          "russian": "Чеда — служащий, которым все помыкают. Он у всех на побегушках: выгуливает пуделя, варит кофе для покерной компании своей жены.",
+          "source": "RTS, 2023; описание сюжета фильма «Velika frka»",
+          "url": "https://www.rts.rs/lat/tv/rts1/5070337/velika-frka.html"
+        },
+        {
+          "serbian_latin": "„Devojka za sve“. Radilica na terenu. […] ume da odigra na svakom delu terena.",
+          "russian": "«Универсал на все случаи». Неутомимый работяга на поле. […] умеет сыграть на любом участке поля.",
+          "source": "Danas, 2010; характеристика футболиста Аднана Бекташевича",
+          "url": "https://www.danas.rs/vesti/drustvo/oni-su-nesto-posebno/"
+        }
+      ],
+      "note": "Оба примера относятся к мужчинам: буквальный перевод через «девушку» здесь не объясняет смысл. В описании фильма это подневольный исполнитель чужих поручений; в спортивной статье — полезный универсал, способный выполнять разные задачи. Поэтому «мастер на все руки» и «человек на побегушках» подходят к разным оттенкам. Само выражение не характеризует личные или сексуальные отношения человека.",
+      "keyword": "devojka za sve"
+    },
+    {
+      "headword_latin": "Dežurni krivac",
+      "type": "frazeološki izraz",
+      "definition_ru": "Постоянный «виноватый»: человек, группа или организация, на которых привычно сваливают ответственность за неприятности. Тот, кого удобно объявлять крайним, часто независимо от конкретных обстоятельств.",
+      "synonyms_sr": [
+        "onaj koga stalno okrivljuju",
+        "krivac za sve",
+        "žrtveni jarac"
+      ],
+      "literal_ru": "Дежурный виновник.",
+      "register": "Разговорное и публицистическое; обычно ироническое или с упрёком в несправедливом обвинении.",
+      "examples": [
+        {
+          "serbian_latin": "Srbija više nije samo dežurni krivac američke balkanske politike, već ozbiljan pregovarački partner.",
+          "russian": "Сербия больше не просто привычный «виноватый» в американской политике на Балканах, а серьёзный партнёр по переговорам.",
+          "source": "RTS / Tanjug, 2026; сербская передача оценки из швейцарского издания Weltwoche",
+          "url": "https://www.rts.rs/lat/vesti/politika/6003664/veltvohe-srbija-amerika-dijalog-straategija-.html"
+        },
+        {
+          "serbian_latin": "Posle njihovih upozorenja, Aleksa je postao „dežurni krivac“, a oni su „rušili ugled škole“.",
+          "russian": "После их предупреждений Алексу стали делать «вечно виноватым», а родителей обвинять в том, что они «подрывают репутацию школы».",
+          "source": "Danas, 2011; пересказ позиции родителей в репортаже",
+          "url": "https://www.danas.rs/vesti/drustvo/poruka-drzave-sami-stitite-svoju-decu/"
+        }
+      ],
+      "note": "Dežurni здесь не означает дежурство по расписанию: подразумевается привычная мишень для обвинений. Выражение показывает отношение говорящего к распределению вины, но само по себе не доказывает невиновность названного лица. Близкое žrtveni jarac — «козёл отпущения» — сильнее подчёркивает перенесение чужой вины на выбранную жертву. Dežurni krivac может обозначать и целую страну, как в первом примере.",
+      "keyword": "dežurni krivac"
     },
     {
       "headword_latin": "Dići / dignuti ruke od nekoga / nečega",
@@ -13983,6 +14098,34 @@
       "keyword": "mic po mic"
     },
     {
+      "headword_latin": "Minsko polje",
+      "type": "ustaljena metafora",
+      "definition_ru": "В переносном смысле — сложная и рискованная ситуация, в которой неосторожный шаг или слово могут вызвать конфликт и нежелательные последствия. Область общения или деятельности, где приходится постоянно учитывать скрытые опасности.",
+      "synonyms_sr": [
+        "situacija puna zamki",
+        "opasan teren",
+        "okolnosti koje zahtevaju veliki oprez"
+      ],
+      "literal_ru": "Минное поле.",
+      "register": "Образное разговорное и публицистическое употребление.",
+      "examples": [
+        {
+          "serbian_latin": "Kad osoba koju volite ima anksioznost, pronalaženje pravih reči ponekad je kao hodanje po minskom polju.",
+          "russian": "Когда близкий человек испытывает тревогу, поиск подходящих слов иногда напоминает хождение по минному полю.",
+          "source": "Prva / Ženski magazin, 2026; вступление к статье об общении",
+          "url": "https://www.prva.rs/zivot/zanimljivosti/20089/poznajete-nekoga-ko-se-bori-sa-anksioznoscu-ovih-8-recenica-moze-da-im-znaci-vise-nego-sto-mislite/vest"
+        },
+        {
+          "serbian_latin": "Srbija se neprestano nalazi u 'minskom polju' kada je Kosovo i Metohija u pitanju, […]",
+          "russian": "Когда речь о Косове и Метохии, Сербия постоянно находится словно на минном поле, […]",
+          "source": "Euronews Srbija, 2025; фрагмент высказывания Ибро Ибрахимовича",
+          "url": "https://www.euronews.rs/srbija/politika/153622/ibro-ibrahimovic-za-euronews-srbija-po-pitanju-kosova-i-metohije-stalno-u-minskom-polju-moramo-biti-oprezni/vest"
+        }
+      ],
+      "note": "В первом примере автор образно описывает осторожный выбор слов, во втором собеседник — дипломатические риски. Это оценочные метафоры, а не указания на настоящие мины. Сочетание употребляется с разными глаголами: hodati po minskom polju, nalaziti se u minskom polju. Русский образ совпадает почти полностью. Первый пример свидетельствует об употреблении выражения, а не устанавливает правило общения со всеми тревожными людьми.",
+      "keyword": "minsko polje"
+    },
+    {
       "headword_latin": "Miran kao bubica",
       "type": "frazeologizam",
       "definition_ru": "тише воды ниже травы; тихий как мышка; смирный-пресмирный",
@@ -15570,6 +15713,35 @@
       ],
       "note": "Для русского буквальный смысл совершенно непрозрачен. Формула делает приказ похожим на любезную просьбу, но именно поэтому часто звучит с добродушной иронией: старший просит младшего сделать то, от чего отказа практически не ждут. На Vukajlija её метко называют «трюком, превращающим приказ в просьбу»; это хорошо передаёт живую прагматику, хотя сам источник, конечно, не нормативный.",
       "keyword": "ne bilo ti zapoveđeno"
+    },
+    {
+      "headword_latin": "Ne biti od juče",
+      "type": "frazeologizam",
+      "definition_ru": "Не вчера родиться; быть достаточно опытным, чтобы разбираться в происходящем и не позволять легко себя обмануть. В ответной реплике — «я не настолько наивен», «меня не проведёшь».",
+      "synonyms_sr": [
+        "biti iskusan",
+        "ne biti naivan",
+        "znati kako stvari stoje",
+        "ne dati se lako prevariti"
+      ],
+      "literal_ru": "Быть не со вчерашнего дня.",
+      "register": "Разговорное; часто уверенное в себе, ироническое или возражающее.",
+      "examples": [
+        {
+          "serbian_latin": "Ja čitam Danas zato što nisam od juče, a i vrlo sam zainteresovan za sutra, […]",
+          "russian": "Я читаю «Данас», потому что не вчера родился, да и завтрашний день мне очень интересен, […]",
+          "source": "Danas, 2019; высказывание Марко Шелича Марчело",
+          "url": "https://www.danas.rs/vesti/drustvo/marcelo-ne-ser-lajk-tvit-nego-clanstvo-u-klubu-citalaca-danasa"
+        },
+        {
+          "serbian_latin": "VODITELJ POKAZAO DA NIJE OD JUČE […]",
+          "russian": "Ведущий показал, что его не так-то легко провести […]",
+          "source": "Alo, 2025; фрагмент заголовка о разговоре Миломира Марича с Воиславом Шешелем",
+          "url": "https://www.alo.rs/vesti/politika/991734/voditelj-pokazao-da-nije-od-juce-seselj-pokusao-da-prede-marica/vest"
+        }
+      ],
+      "note": "О человеке выражение подчёркивает опытность, а не точный возраст. Обычные формы: nisam od juče, nije od juče, nismo od juče. В первом примере построена игра слов: Danas — и название газеты, и слово «сегодня»; рядом стоят juče «вчера» и sutra «завтра». При неодушевлённом подлежащем смысл может быть другим: problem nije od juče означает, что проблема возникла давно, а не обладает «житейским опытом».",
+      "keyword": "od juče"
     },
     {
       "headword_latin": "Ne cvetaju ruže",
@@ -19053,6 +19225,34 @@
       "keyword": "praznih šaka"
     },
     {
+      "headword_latin": "Ostaviti / ostavljati otvorena vrata",
+      "type": "frazeologizam",
+      "definition_ru": "Оставить / оставлять возможность для дальнейшего соглашения, возвращения или примирения; не отвергать какой-либо вариант окончательно. Сохранить путь к продолжению отношений или переговоров, даже если сейчас согласия нет.",
+      "synonyms_sr": [
+        "ostaviti mogućnost",
+        "ne isključiti dogovor",
+        "ne odbaciti mogućnost pomirenja"
+      ],
+      "literal_ru": "Оставить / оставлять двери открытыми.",
+      "register": "Нейтральное образное выражение; употребляется в разговоре и публицистике.",
+      "examples": [
+        {
+          "serbian_latin": "[…] ali je, kako je rekao, „ostavio otvorena vrata za dalji dogovor”.",
+          "russian": "[…] но, по его словам, сохранил возможность дальнейшей договорённости.",
+          "source": "Politika, 2021; фрагмент сообщения о переговорах по составу правительства",
+          "url": "https://www.politika.rs/sr/clanak/489229/bez-dogovora-o-rekonstrukciji-vlade"
+        },
+        {
+          "serbian_latin": "Naglasio je zategnute odnose sa Anđelom Đuričić, ali je ostavio otvorena vrata za moguće pomirenje ako bude iskreno kajanje.",
+          "russian": "Он подчеркнул, что отношения с Анджелой Джуричич напряжённые, но не исключил примирения, если раскаяние будет искренним.",
+          "source": "Blic, 2026; редакционный пересказ слов Стефана Карича",
+          "url": "https://www.blic.rs/zabava/stefan-karic-pred-ulazak-u-elitu-10-otkrio-sta-se-desilo-sa-andjelom-djuricic/9rzs47k"
+        }
+      ],
+      "note": "Открытые двери — возможность, а не обещание: согласие может так и не быть достигнуто. Часто уточняется, для чего сохранён шанс: za dalji dogovor, za pomirenje. После za в таких сочетаниях стоит винительный падеж. Vrata — существительное, употребляющееся во множественном числе, поэтому otvorena согласуется с ним именно как с множественным числом. От буквального оставления двери незапертой переносный смысл отличает контекст.",
+      "keyword": "otvorena vrata"
+    },
+    {
       "headword_latin": "ostaviti nekoga bez daha",
       "type": "глагольный фразеологизм",
       "definition_ru": "Поразить, восхитить или потрясти кого-либо; заставить затаить дыхание.",
@@ -21436,6 +21636,35 @@
       ],
       "note": "Формула обычно появляется после шума, обещаний или ожидания развязки: время прошло, виновных нет, вопрос забыт — pojeo vuk magarca. Это не просто «всё закончилось», а именно циничное «и никому ничего». Точное происхождение выражения надёжно не установлено.",
       "keyword": "pojeo vuk magarca"
+    },
+    {
+      "headword_latin": "Pojesti se živ / živa",
+      "type": "frazeologizam",
+      "definition_ru": "Известись от досады, тревоги, нетерпения или сожаления; мучиться из-за чего-либо и не находить себе места. Обычно это выразительное преувеличение силы переживания: «я уже весь извёлся», «прямо съесть себя готов».",
+      "synonyms_sr": [
+        "izjesti se od muke",
+        "silno se iznervirati",
+        "mučiti se zbog nečega",
+        "ne moći da se smiri"
+      ],
+      "literal_ru": "Съесть себя заживо.",
+      "register": "Разговорное, очень экспрессивное; часто эмоциональная гипербола.",
+      "examples": [
+        {
+          "serbian_latin": "Pojedoh se živ, izlude me ovo više sa otvaranjem.",
+          "russian": "Я уже весь извёлся, с этим открытием я прямо с ума схожу.",
+          "source": "Večernje novosti, 2025; слова Александра Вучича об открытии участка автомагистрали",
+          "url": "https://www.novosti.rs/vesti/politika/1505747/pojedoh-ziv-izlude-vucic-otvaranju-auto-puta-pozege-vec-foliranja-glupiranja-krajnji-rok-ponedeljka"
+        },
+        {
+          "serbian_latin": "Ja tad hoću živa da se pojedem.",
+          "russian": "Вот тогда я прямо места себе не нахожу от досады.",
+          "source": "Blic, 2022; слова Хелены Оцоколич о пропущенной тренировке",
+          "url": "https://www.blic.rs/zabava/lidijina-cerka-helena-ocokoljic-na-blic-tv-emisija-show-se-nastavlja/wrcc4rr"
+        }
+      ],
+      "note": "Pojedoh — форма аориста первого лица от pojesti; в такой реплике она помогает эмоционально передать результат: «совсем извёлся». Прилагательное согласуется с говорящим: мужчина — živ, женщина — živa. Во втором примере порядок слов изменён, но выражение то же. Причина переживания определяется контекстом: зависть здесь не обязательна. Эти реплики не описывают буквальное причинение себе вреда. Не путать с pojesti nekoga živog, где воздействие направлено на другого человека.",
+      "keyword": "pojesti se živ"
     },
     {
       "headword_latin": "Pokazati pravo lice",
@@ -28500,6 +28729,34 @@
       ],
       "note": "Число šesnaest здесь не имеет прозрачного современного значения: выражение надо запоминать целиком как усилитель интенсивности. Надёжно установленного происхождения нет. Существуют версии о футбольном šesnaesterac, музыкальных шестнадцатых и символике числа 16, но подтверждения ни одна из них не получила.",
       "keyword": "sve u šesnaest"
+    },
+    {
+      "headword_latin": "Sveta krava",
+      "type": "frazeološki izraz",
+      "definition_ru": "В переносном смысле — человек, идея, произведение или учреждение, которые считаются неприкосновенными, защищёнными от критики и обычных требований. Иногда выражение лишь подчёркивает исключительное уважение и особое отношение.",
+      "synonyms_sr": [
+        "nedodirljiva osoba",
+        "nešto izuzeto od kritike",
+        "zaštićena svetinja"
+      ],
+      "literal_ru": "Священная корова.",
+      "register": "Публицистическое и разговорное; часто ироническое, особенно при критике привилегий.",
+      "examples": [
+        {
+          "serbian_latin": "Paket aranžman je sveta krava domaćeg rokenrola, […]",
+          "russian": "«Пакет аранжман» — священная корова отечественного рока, […]",
+          "source": "City Magazine / Danas, 2026; авторская характеристика музыкального альбома",
+          "url": "https://citymagazine.danas.rs/popkultura/muzika/paket-aranzman/"
+        },
+        {
+          "serbian_latin": "Vozio sam bicikl u Amsterdamu, i bio zapanjen. Ponašali su se prema meni kao da sam „sveta krava“.",
+          "russian": "Я ездил на велосипеде по Амстердаму и был поражён: со мной обращались как со «священной коровой».",
+          "source": "Danas, 2009; рассказ велосипедиста",
+          "url": "https://www.danas.rs/vesti/beograd/za-automobile-spori-za-pesake-brzi/"
+        }
+      ],
+      "note": "В первом примере речь об особенно почитаемом альбоме; во втором велосипедист так описывает бережное отношение к себе на дороге. Поэтому выражение не всегда обвиняет кого-либо в злоупотреблении привилегиями. В конструкции kao da sam sveta krava слова женского рода сохраняются и при говорящем мужчине: это грамматика самого образа. Русское соответствие совпадает практически полностью.",
+      "keyword": "sveta krava"
     },
     {
       "headword_latin": "Svetla tačka",
