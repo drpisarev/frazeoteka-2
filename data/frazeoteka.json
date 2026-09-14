@@ -5269,30 +5269,28 @@
     {
       "headword_latin": "Doći nekome glave",
       "type": "frazeologizam",
-      "definition_ru": "погубить кого-то; доконать; стать причиной гибели или краха",
+      "definition_ru": "погубить кого-то; доконать; стать причиной краха, смерти или серьёзного поражения",
       "synonyms_sr": [
         "upropastiti",
-        "uništiti",
         "dokrajčiti",
-        "biti koban za nekoga"
+        "biti koban za nekoga",
+        "uništiti nekoga"
       ],
       "literal_ru": "добраться до чьей-то головы",
-      "register": "разг.-публицист., экспр.; лицо в дательном падеже: to će mu doći glave",
+      "register": "razg.-neutralno, ekspresivno; nešto / neko je nekome došlo glave",
       "examples": [
         {
-          "serbian_latin": "Neobrazovanje koje će narodu doći glave.",
-          "russian": "Необразованность, которая в конце концов погубит народ.",
-          "source": "Danas, 2022",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/neobrazovanje-koje-ce-narodu-doci-glave/"
+          "serbian_latin": "Na kraju mu je upravo ta neopreznost došla glave.",
+          "russian": "В конце концов именно эта неосторожность его и погубила.",
+          "source": ""
         },
         {
-          "serbian_latin": "I to će vam kad-tad „doći glave“.",
-          "russian": "И это рано или поздно вас погубит.",
-          "source": "Danas, 2013",
-          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/uzor-i-uzorak"
+          "serbian_latin": "Mislio je da može tako zauvek, ali su mu dugovi došli glave.",
+          "russian": "Он думал, что так можно продолжать вечно, но долги в конце концов его доконали.",
+          "source": ""
         }
       ],
-      "note": "Выражение может обозначать как буквальную гибель, так и полный крах карьеры, бизнеса, системы или положения человека. Для русского особенно полезна безличная модель to će mi / ti / mu doći glave — «это меня / тебя / его погубит». Не путать с raditi nekome o glavi — «замышлять против кого-то, желать устранить».",
+      "note": "Выражение не обязательно означает смерть. Kocka mu je došla glave может значить «азартные игры его разорили», а greška mu je došla glave — «ошибка его погубила / стоила ему поражения». Для русского важно управление: došlo mu je glave, где лицо стоит в дательном падеже.",
       "keyword": "doći glave"
     },
     {
@@ -15109,30 +15107,28 @@
     {
       "headword_latin": "Na svoju ruku",
       "type": "izraz",
-      "definition_ru": "самовольно; по собственной инициативе; на свой страх и риск",
+      "definition_ru": "самовольно; по собственному почину; на свой страх и риск",
       "synonyms_sr": [
+        "samostalno",
         "samoinicijativno",
-        "bez konsultacije",
-        "samovoljno",
+        "bez dogovora",
         "bez odobrenja"
       ],
-      "literal_ru": "на свою руку",
-      "register": "разг.-нейтр.; обычно подразумевается действие без согласования с тем, с кем следовало посоветоваться",
+      "literal_ru": "",
+      "register": "vrlo često; od neutralnog samostalno do neodobravajućeg samovoljno",
       "examples": [
         {
-          "serbian_latin": "Koliko puta ste čuli da ne treba da uzimate lekove „na svoju ruku“.",
-          "russian": "Сколько раз вы слышали, что лекарства не следует принимать самостоятельно, без назначения.",
-          "source": "RTS, 2020",
-          "url": "https://www.rts.rs/lat/magazin/Zdravlje/3885185/jednu-za-pritisak-jednu-za-glavu-malo-vitamina-i-jedna-sumeca-ne-preterujte-sa-lekovima-na-svoju-ruku.html"
+          "serbian_latin": "Ne možete na svoju ruku menjati terapiju.",
+          "russian": "Нельзя самостоятельно менять терапию без консультации с врачом.",
+          "source": "RTS, 2022"
         },
         {
-          "serbian_latin": "Ne možete na svoju ruku menjati terapiju.",
-          "russian": "Нельзя самостоятельно менять лечение.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4781396/doktorka-iz-hitne-savetuje.html"
+          "serbian_latin": "Na svoju ruku, inspektor Pavlović odlazi u zatvor da lično proveri koga su uhapsili.",
+          "russian": "Инспектор Павлович самовольно отправляется в тюрьму лично проверить, кого арестовали.",
+          "source": "RTS, 2019"
         }
       ],
-      "note": "Частый русский перевод «самостоятельно» иногда слишком нейтрален: na svoju ruku нередко содержит оттенок «без разрешения, не посоветовавшись, вопреки установленному порядку». Особенно характерны uzimati lekove na svoju ruku, menjati nešto na svoju ruku, odlučiti na svoju ruku.",
+      "note": "Русскому особенно полезно различать оттенки. Uzeti lek na svoju ruku — «принимать лекарство самостоятельно, без назначения»; postupiti na svoju ruku — «действовать самовольно»; в положительном контексте возможно просто «по собственной инициативе». Это не обязательно нарушение правил, но почти всегда подчёркивается отсутствие предварительного согласования.",
       "keyword": "na svoju ruku"
     },
     {
@@ -16211,31 +16207,29 @@
     },
     {
       "headword_latin": "Ne zna se ko pije, ko plaća",
-      "type": "izreka",
-      "definition_ru": "чёрт ногу сломит; полный бардак; непонятно, кто за что отвечает",
+      "type": "izraz",
+      "definition_ru": "чёрт ногу сломит; полная неразбериха; непонятно, кто за что отвечает",
       "synonyms_sr": [
-        "vlada potpuni haos",
-        "ne zna se ko je za šta odgovoran",
-        "nema nikakvog reda",
-        "sve je zbrkano"
+        "potpuni haos",
+        "ne zna se ko šta radi",
+        "opšta zbrka",
+        "rasulo"
       ],
       "literal_ru": "неизвестно, кто пьёт, а кто платит",
-      "register": "разг., экспр., неодобр.; о беспорядке, неясном распределении обязанностей и ответственности",
+      "register": "razg., ekspresivno; o haosu u organizaciji, upravljanju, finansijama ili društvu",
       "examples": [
         {
-          "serbian_latin": "Situacija u svinjarskoj proizvodnji je takva da se „ne zna ni ko pije, ni ko plaća“.",
-          "russian": "В свиноводстве сейчас такой бардак, что вообще непонятно, кто за что отвечает.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/vesti/ekonomija/5884641/meso-skupo-svinje-jeftine-svinjarstvo.html"
+          "serbian_latin": "Za njima neki četnici – ne zna se ko pije ko plaća.",
+          "russian": "За ними пришли какие-то четники — полная неразбериха, никто не понимает, кто за что отвечает.",
+          "source": "Danas, 2022"
         },
         {
-          "serbian_latin": "I vaistinu se ne zna ko pije, a ko plaća.",
-          "russian": "И действительно, уже чёрт ногу сломит: кто что делает и кто за что отвечает — непонятно.",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/o-apatiji/"
+          "serbian_latin": "Posle se nije znalo ko pije a ko plaća.",
+          "russian": "Потом уже был такой бардак, что никто не понимал, что вообще происходит.",
+          "source": "Danas, 2018"
         }
       ],
-      "note": "Выпивка и расчёт здесь лишь образ. Фраза описывает ситуацию, где исчезли правила, роли и ответственность. Варианты ne zna se ko pije, ko plaća, ko pije, a ko plaća и усиленное ni ko pije ni ko plaća сосуществуют.",
+      "note": "Несмотря на образ кафаны, выражение давно не обязательно связано с алкоголем или оплатой. Главное — исчезновение порядка и ответственности: обязанности смешались, решения принимаются непонятно кем, никто ни за что не отвечает. Русское «кто в лес, кто по дрова» близко, но слабее передаёт именно организационный хаос.",
       "keyword": "ko pije ko plaća"
     },
     {
@@ -18466,29 +18460,29 @@
     },
     {
       "headword_latin": "Od Kulina bana",
-      "type": "frazeologizam",
-      "definition_ru": "с самого начала; начиная от царя Гороха; излагать всю предысторию от сотворения мира",
+      "type": "izraz",
+      "definition_ru": "от самого начала; издалека; начиная чуть ли не с допотопных времён",
       "synonyms_sr": [
         "od samog početka",
         "naširoko i nadugačko",
-        "od početka priče"
+        "izdaleka"
       ],
       "literal_ru": "",
-      "register": "разг., экспр., часто иронич.; прежде всего pričati / krenuti / početi od Kulina bana",
+      "register": "razg., kulturno-istor.; obično pričati / krenuti od Kulina bana",
       "examples": [
         {
-          "serbian_latin": "Razlog što idem ovako od Kulina Bana je taj što...",
-          "russian": "Причина, по которой я начинаю издалека, прямо от царя Гороха, состоит в том, что...",
-          "source": "City Magazine / Danas, 2025"
+          "serbian_latin": "Kada neko počne da raspreda priču naširoko i nadugačko, od samog početka, obično kažemo da priča „od Kulina bana“.",
+          "russian": "Когда кто-то начинает рассказывать долго и обстоятельно, с самого начала, говорят, что он начал ещё «от Кулина бана».",
+          "source": "RTS, 2018"
         },
         {
-          "serbian_latin": "Prvo od Kulina-bana. Tamo sedamdesetih, pokrenuli smo ovde jedan letnji festival...",
-          "russian": "Но сначала начну с самого начала. В семидесятые мы организовали здесь летний фестиваль...",
-          "source": "Danas, 2021"
+          "serbian_latin": "Kada neko o određenoj temi počne da nam priča potanko i naširoko, reći ćemo da je krenuo „od Kulina bana“.",
+          "russian": "Если человек начинает подробно и издалека рассказывать о какой-то теме, мы скажем, что он начал чуть ли не с допотопных времён.",
+          "source": "RTS, 2020"
         }
       ],
-      "note": "Кулин — средневековый бан Боснии, правивший на рубеже XII–XIII веков; имя исторического правителя закрепилось в устойчивом выражении о рассказе «с самых давних времён». Русскому по ситуации подойдут «от царя Гороха», «от сотворения мира», «начать издалека».",
-      "keyword": "od Kulina bana"
+      "note": "Kulin ban — боснийский бан конца XII — начала XIII века. Полная традиционная формула — od Kulina bana i dobrijeh dana. Сегодня выражение прежде всего означает, что человек начинает рассказ слишком издалека и пересказывает всю предысторию. Русскому полезно не переводить имя буквально: в обычной речи это «начать с самого начала», «начать издалека», иногда шутливое «со времён царя Гороха».",
+      "keyword": "Kulin ban"
     },
     {
       "headword_latin": "Od nemila do nedraga",
@@ -22361,6 +22355,33 @@
       "keyword": "povući ručnu"
     },
     {
+      "headword_latin": "Povući se u mišju rupu",
+      "type": "frazeologizam",
+      "definition_ru": "забиться в нору; спрятаться и не высовываться; уйти в полную тень",
+      "synonyms_sr": [
+        "povući se",
+        "sakriti se",
+        "ne izlaziti pred ljude",
+        "nestati iz javnosti"
+      ],
+      "literal_ru": "забраться в мышиную нору",
+      "register": "razg., ekspresivno; često posle poraza, skandala, straha ili stida",
+      "examples": [
+        {
+          "serbian_latin": "Povukao se u mišju rupu, ispunjenu knjigama, muzikom, alkoholom, kockom, duvanskim dimom i slučajnim ženama.",
+          "russian": "Он забился в свою нору, заполненную книгами, музыкой, алкоголем, азартными играми, табачным дымом и случайными женщинами.",
+          "source": "Testament Films"
+        },
+        {
+          "serbian_latin": "Posle takvog fijaska najradije bi se povukao u mišju rupu i nikome se ne bi javljao.",
+          "russian": "После такого провала ему хотелось забиться в нору и никому не показываться.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение обозначает не просто уединение. Обычно человек скрывается от окружающих или публичности после неприятности, испуга, поражения или разоблачения. Русское «забиться в мышиную нору» понятно, но естественнее часто «забиться в нору», «не высовываться».",
+      "keyword": "mišja rupa"
+    },
+    {
       "headword_latin": "Prati / oprati ruke od nečega",
       "type": "frazeologizam",
       "definition_ru": "умывать руки; снимать с себя ответственность; устраняться от дела",
@@ -22591,54 +22612,54 @@
     {
       "headword_latin": "Praviti račun bez krčmara",
       "type": "frazeologizam",
-      "definition_ru": "строить расчёты без главного участника; заранее всё решить за того, от кого зависит дело; делить шкуру неубитого медведя",
+      "definition_ru": "делить шкуру неубитого медведя; строить расчёты без того, от кого всё зависит; решать за других",
       "synonyms_sr": [
         "računati unapred",
-        "preuranjeno se dogovarati",
-        "planirati bez ključnog učesnika"
+        "odlučivati bez druge strane",
+        "praviti plan bez saglasnosti onoga koga se tiče"
       ],
       "literal_ru": "составлять счёт без трактирщика",
-      "register": "razg. i publicistički, neodobr.; takođe pravljenje računa bez krčmara",
+      "register": "razg.-publicistički, neodobr.; takođe račun bez krčmara",
       "examples": [
         {
-          "serbian_latin": "Beograd upozorava da ne prave račun bez krčmara.",
-          "russian": "Белград предупреждает, что не стоит заранее всё решать без того, от кого это зависит.",
-          "source": "RTS, 2016"
+          "serbian_latin": "Bojim se da se pravi račun bez krčmara, i da taj dokument može da unese razdor.",
+          "russian": "Боюсь, что здесь решают за тех, с кем ещё не договорились, и этот документ может внести раскол.",
+          "source": "N1, 2025"
         },
         {
-          "serbian_latin": "Srbi treba da budu jednako tretirani, naglasio je Vučić i istakao da bi sve drugo bilo pravljenje računa bez krčmara.",
-          "russian": "Сербы должны пользоваться равным отношением; всё остальное означало бы, что решения принимают без ключевой стороны.",
-          "source": "RTS, 2020"
+          "serbian_latin": "Beograd upozorava da ne prave račun bez krčmara.",
+          "russian": "Белград предупреждает: не надо заранее решать вопрос без стороны, от которой зависит исход.",
+          "source": "RTS, 2016"
         }
       ],
-      "note": "Русское «делить шкуру неубитого медведя» подходит не всегда. Сербский оборот особенно подчёркивает, что люди уже договорились или сделали расчёты, забыв спросить человека или сторону, без которых решение невозможно. Krčmar — хозяин или содержатель krčma; именно он в итоге выставляет настоящий счёт.",
+      "note": "Образ связан с ситуацией, когда гости уже подсчитали, что и сколько будут платить, хотя настоящий счёт ещё должен предъявить krčmar — хозяин трактира. Поэтому значение шире русского «делить шкуру неубитого медведя»: сербский оборот особенно часто подчёркивает, что кто-то принимает решение без участия необходимой стороны.",
       "keyword": "račun bez krčmara"
     },
     {
       "headword_latin": "Praviti se Englez",
       "type": "frazeologizam",
-      "definition_ru": "делать вид, что не понимаешь; прикидываться неосведомлённым; включать дурачка",
+      "definition_ru": "прикидываться, что ничего не понимаешь; делать вид, что не в курсе; включать дурачка",
       "synonyms_sr": [
         "praviti se lud",
         "praviti se nevešt",
         "glumiti da ne razumeš",
-        "praviti se neobavešten"
+        "izigravati naivca"
       ],
-      "literal_ru": "изображать из себя англичанина",
-      "register": "razg., iron., neodobr.; o svesnom ignorisanju očiglednog",
+      "literal_ru": "",
+      "register": "razg., šalj.-neodobr.; nešto staromodnije, ali prepoznatljivo",
       "examples": [
         {
-          "serbian_latin": "Gradonačelnik tvrdi da takav dopis nije primio i pravi se Englez usred zemlje Srbije.",
-          "russian": "Мэр утверждает, что такого письма не получал, и делает вид, будто ничего не знает.",
-          "source": "Danas, 2020"
+          "serbian_latin": "Šta nemaš pojma?! Ne pravi se Englez!",
+          "russian": "Как это «не знаю»?! Не прикидывайся, будто ничего не понимаешь!",
+          "source": "Vukajlija, 2007"
         },
         {
-          "serbian_latin": "Sudija to nije video, ali jeste nemački golman Nojer. Međutim, on uhvati loptu i „pravi se Englez“.",
-          "russian": "Судья этого не увидел, а немецкий вратарь Нойер увидел — но сделал вид, что ничего не произошло.",
-          "source": "Politika, 2014"
+          "serbian_latin": "Vinčić se „pravio Englez“.",
+          "russian": "Винчич сделал вид, будто ничего не знает и ни при чём.",
+          "source": "Srbija Danas, 2026"
         }
       ],
-      "note": "Главное — не настоящая национальность, а демонстративное непонимание или неведение: человек всё прекрасно видит и понимает, но ведёт себя так, словно это его не касается. Происхождение выражения точно не установлено; народные объяснения лучше не принимать за доказанную этимологию.",
+      "note": "Это не характеристика англичан и не буквальное «изображать англичанина». Типичная ситуация: человек прекрасно понимает вопрос, но притворяется непонимающим, чтобы избежать ответа или ответственности. Ближе всего praviti se lud, однако praviti se Englez звучит более шутливо и сейчас встречается реже.",
       "keyword": "praviti se Englez"
     },
     {
@@ -27570,6 +27591,32 @@
       "keyword": "glavu na panj"
     },
     {
+      "headword_latin": "Staviti glavu u torbu",
+      "type": "frazeologizam",
+      "definition_ru": "рисковать головой; поставить жизнь на кон; смертельно рисковать",
+      "synonyms_sr": [
+        "rizikovati život",
+        "izložiti se smrtnoj opasnosti",
+        "staviti život na kocku"
+      ],
+      "literal_ru": "положить голову в сумку",
+      "register": "razg.-publicistički, snažno ekspresivno; obično o realnoj ozbiljnoj opasnosti",
+      "examples": [
+        {
+          "serbian_latin": "Novinari koji znaju da pisati o narko-kartelima znači staviti glavu u torbu, zamerili su Penu...",
+          "russian": "Журналисты, понимающие, что писать о наркокартелях значит рисковать жизнью, упрекнули Пенна…",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Afrički i azijski migranti stavljaju glavu u torbu da se dokopaju kapitalističke Evrope.",
+          "russian": "Африканские и азиатские мигранты рискуют жизнью, пытаясь добраться до Европы.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Оборот значительно сильнее обычного rizikovati. Как правило, речь о риске для жизни или по крайней мере об опасности с очень серьёзными последствиями. Русское «голову в сумку» непонятно; естественные соответствия — «рисковать головой», «поставить жизнь на кон».",
+      "keyword": "glava u torbi"
+    },
+    {
       "headword_latin": "staviti karte na sto",
       "type": "глагольный фразеологизм",
       "definition_ru": "Раскрыть карты; открыто изложить намерения, требования или имеющиеся факты.",
@@ -29515,29 +29562,29 @@
     {
       "headword_latin": "Terati inat",
       "type": "frazeologizam",
-      "definition_ru": "делать назло; упираться из принципа; идти наперекор",
+      "definition_ru": "делать назло; упорствовать из принципа; действовать наперекор именно потому, что от тебя хотят обратного",
       "synonyms_sr": [
-        "inatiti se",
-        "terati po svome",
         "prkositi",
-        "protiviti se iz inata"
+        "raditi iz inata",
+        "ići nekome uz nos",
+        "namerno raditi suprotno"
       ],
       "literal_ru": "",
-      "register": "razg., ekspresivno; terati inat nekome / nečemu — dativ; često terati inat na svoju štetu",
+      "register": "razg.; tipično terati inat nekome, raditi nešto iz inata",
       "examples": [
         {
-          "serbian_latin": "Inat se može terati nekim ljudima sve vreme. Može i svim ljudima neko vreme. Ali inat se ne može terati svim ljudima sve vreme.",
-          "russian": "Можно всё время действовать назло некоторым людям. Можно какое-то время — всем. Но невозможно всё время идти наперекор всем.",
-          "source": "Danas, 2019"
+          "serbian_latin": "Nemoj da teraš inat samo zato što su ti rekli da to ne radiš.",
+          "russian": "Не делай назло только потому, что тебе сказали этого не делать.",
+          "source": ""
         },
         {
-          "serbian_latin": "Iracionalno je makar i na osnovu neospornih principa terati inat surovoj realnosti na svoju štetu.",
-          "russian": "Неразумно, даже исходя из бесспорных принципов, упрямо идти наперекор суровой реальности себе во вред.",
-          "source": "Danas, 2014"
+          "serbian_latin": "Njih dvojica više i ne raspravljaju o problemu — samo teraju inat jedan drugom.",
+          "russian": "Они уже и не спорят по существу — просто делают друг другу назло.",
+          "source": ""
         }
       ],
-      "note": "Inat — не просто обычное упрямство: важна идея демонстративного сопротивления кому-то или обстоятельствам, нередко по принципу «назло сделаю наоборот». Поэтому terati inat может быть и одобрительным как проявление непокорности, и резко критическим, особенно в сочетании na svoju štetu. Не всякое biti tvrdoglav означает terati inat.",
-      "keyword": "terati inat"
+      "note": "Inat — очень характерное для сербской культурной лексики слово: упрямое действие наперекор чужой воле, иногда даже вопреки собственной выгоде. Русские «упрямство» и «назло» передают лишь части значения. Terati inat обычно отрицательно описывает затянувшееся противостояние, тогда как iz inata иногда получает почти одобрительный оттенок стойкости: «всем назло».",
+      "keyword": "inat"
     },
     {
       "headword_latin": "Terati kera",
@@ -32954,6 +33001,32 @@
       ],
       "note": "Особенно распространена пассивная конструкция biti zavijen u crno — «быть погружённым в траур». В спортивных заголовках выражение употребляется гиперболически: «нанести тяжёлое поражение, повергнуть в отчаяние».",
       "keyword": "crno"
+    },
+    {
+      "headword_latin": "Zavrnuti / zasukati rukave",
+      "type": "frazeologizam",
+      "definition_ru": "засучить рукава; всерьёз взяться за дело; начать активно работать",
+      "synonyms_sr": [
+        "prionuti na posao",
+        "baciti se na posao",
+        "ozbiljno početi da radi"
+      ],
+      "literal_ru": "засучить рукава",
+      "register": "razg.-neutralno; zavrnuti rukave i zasukati rukave",
+      "examples": [
+        {
+          "serbian_latin": "Svi u Srbiji sada moraju da „zavrnu rukave“.",
+          "russian": "Теперь всем в Сербии придётся засучить рукава и серьёзно взяться за работу.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Građani i korisnici marine juče su zasukali rukave i organizovali akciju čišćenja jezera Međuvršje.",
+          "russian": "Жители и пользователи марины вчера засучили рукава и организовали уборку озера Меджувршје.",
+          "source": "Telegraf, 2026"
+        }
+      ],
+      "note": "В сербском оба глагола употребительны, хотя zasukati rukave образнее и традиционнее. Выражение может непосредственно предшествовать физической работе, но чаще означает переход от разговоров и планов к реальным действиям: Vreme je da zasučemo rukave.",
+      "keyword": "zasukati rukave"
     },
     {
       "headword_latin": "Zavrnuti slavinu",
