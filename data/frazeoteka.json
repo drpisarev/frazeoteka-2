@@ -1195,6 +1195,33 @@
       "keyword": "čekić; nakovanj"
     },
     {
+      "headword_latin": "Biti / naći se na sto muka",
+      "type": "frazeologizam",
+      "definition_ru": "быть в страшном затруднении; не знать, что делать; мучиться выбором",
+      "synonyms_sr": [
+        "biti u neprilici",
+        "biti u nedoumici",
+        "lomiti glavu",
+        "ne znati šta da radi"
+      ],
+      "literal_ru": "быть на ста мучениях",
+      "register": "razg., ekspresivno; česta konstrukcija biti na sto muka da li...",
+      "examples": [
+        {
+          "serbian_latin": "Do sada je dosta istoričara i arheologa bilo na sto muka da li da počini suštinski vandalsko delo.",
+          "russian": "До сих пор многие историки и археологи мучились вопросом, решиться ли на действие, которое по сути было бы вандализмом.",
+          "source": "Blic, 2016"
+        },
+        {
+          "serbian_latin": "Čim je pukla vest, našli su se na sto muka.",
+          "russian": "Как только появилась эта новость, они оказались в крайне затруднительном положении.",
+          "source": "Blic, 2017"
+        }
+      ],
+      "note": "Sto здесь обычная гипербола: речь не о «ста проблемах», а об очень сильном затруднении. Особенно характерно употребление, когда приходится выбирать между неприятными вариантами: bio sam na sto muka da li da idem ili da ostanem. Русское «быть в затруднении» часто слишком слабое; по ситуации подходят «весь измучился», «ломать голову», «не знать, как поступить».",
+      "keyword": "na sto muka"
+    },
+    {
       "headword_latin": "Biti / naći se na tankom ledu",
       "type": "frazeologizam",
       "definition_ru": "быть на тонком льду; оказаться в шатком положении; рисковать",
@@ -1337,6 +1364,33 @@
       ],
       "note": "Zavada обычно обозначает не отдельную ссору, а состояние длительного разлада, неприязни или вражды. Поэтому posvađali su se juče — «они вчера поссорились», а godinama su u zavadi — «они годами не ладят / враждуют». В повседневной речи biti u svađi часто звучит обычнее, тогда как biti / živeti u zavadi несколько более книжно и особенно естественно в рассказах о семьях, соседях, политических противниках или исторических конфликтах. Конструкция oko + genitiv указывает причину: u zavadi oko prestola, nasledstva, zemlje.",
       "keyword": "u zavadi"
+    },
+    {
+      "headword_latin": "Biti do guše u dugovima",
+      "type": "frazeologizam",
+      "definition_ru": "быть по уши в долгах; погрязнуть в долгах; быть в долгах по горло",
+      "synonyms_sr": [
+        "biti prezadužen",
+        "grcati u dugovima",
+        "dugovati na sve strane",
+        "biti zatrpan dugovima"
+      ],
+      "literal_ru": "быть в долгах по горло",
+      "register": "razg., ekspresivno; do guše pojačava stepen",
+      "examples": [
+        {
+          "serbian_latin": "Nikolas Kejdž je bio u dugovima do guše.",
+          "russian": "Николас Кейдж был по уши в долгах.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Većina Mitrovčana do guše je u dugovima.",
+          "russian": "Большинство жителей Митровицы погрязли в долгах.",
+          "source": "Blic, 2008"
+        }
+      ],
+      "note": "Сербское do guše буквально соответствует русскому «по горло», но по-русски с долгами часто естественнее «по уши». Модель продуктивна и шире этой статьи: do guše u problemima, poslu, blatu. Здесь важно именно ощущение, что человек почти «утонул» в долгах.",
+      "keyword": "do guše u dugovima"
     },
     {
       "headword_latin": "biti između čekića i nakovnja",
@@ -4389,6 +4443,33 @@
       "keyword": "svetlo"
     },
     {
+      "headword_latin": "Davati / dobijati nešto na kašičicu",
+      "type": "frazeologizam",
+      "definition_ru": "выдавать / получать по чайной ложке; давать малыми дозами; понемногу и с задержками",
+      "synonyms_sr": [
+        "davati pomalo",
+        "dozirati",
+        "davati deo po deo",
+        "davati u malim količinama"
+      ],
+      "literal_ru": "давать по ложечке",
+      "register": "razg.-publicistički, često neodobr.; o novcu, informacijama, pomoći, resursima, investicijama i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Linijski park koji Beograd dobija „na kašičicu“.",
+          "russian": "Линейный парк, который Белград получает буквально по чайной ложке, маленькими частями.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Obnova voznog parka VS svela se na kupovinu „na kašičicu“.",
+          "russian": "Обновление парка техники Вооружённых сил свелось к закупкам микроскопическими порциями.",
+          "source": "Politika, 2017"
+        }
+      ],
+      "note": "В переносном употреблении обычно чувствуется, что чего-то дают слишком мало или слишком медленно, хотя ожидается нормальный объём. Очень естественны informacije na kašičicu, pomoć na kašičicu, novac na kašičicu. Русское «по чайной ложке» хорошо сохраняет образ, а «дозированно» подходит для нейтрального перевода.",
+      "keyword": "na kašičicu"
+    },
+    {
       "headword_latin": "Debeo kao svinja",
       "type": "frazeologizam",
       "definition_ru": "толстый как свинья; очень толстый",
@@ -4593,6 +4674,60 @@
       ],
       "note": "Оба инфинитива — dići и dignuti — нормативны и употребительны. С делом выражение означает «бросить, отказаться от дальнейших попыток»; с человеком — «перестать надеяться на него, пытаться ему помочь или заниматься им». Русское «махнуть рукой на…» обычно передаёт оттенок точнее всего.",
       "keyword": "dići ruke od"
+    },
+    {
+      "headword_latin": "Dići / dignuti se na zadnje noge",
+      "type": "frazeologizam",
+      "definition_ru": "встать на дыбы; резко воспротивиться; поднять бурный протест",
+      "synonyms_sr": [
+        "pobuniti se",
+        "burno reagovati",
+        "oštro se usprotiviti",
+        "dići galamu"
+      ],
+      "literal_ru": "встать на задние ноги",
+      "register": "razg.-publicistički, ekspresivno; često o grupi ljudi, organizaciji ili javnosti",
+      "examples": [
+        {
+          "serbian_latin": "Pojedini analitičari i neki naši susedi digli su se na zadnje noge zbog samita nesvrstanih u Beogradu.",
+          "russian": "Некоторые аналитики и наши соседи встали на дыбы из-за саммита неприсоединившихся в Белграде.",
+          "source": "Kurir, 2021"
+        },
+        {
+          "serbian_latin": "Istog trenutka hrvatski zvaničnici digli su se na zadnje noge i otvoreno zapretili odmazdom.",
+          "russian": "Хорватские официальные лица тут же встали на дыбы и открыто пригрозили ответными мерами.",
+          "source": "Kurir, 2024"
+        }
+      ],
+      "note": "Образ — животное, которое встаёт на задние ноги перед нападением или сопротивлением. В переносном смысле речь почти всегда о резкой и шумной реакции, а не просто о несогласии. Русское «встать на дыбы» совпадает очень хорошо.",
+      "keyword": "na zadnje noge"
+    },
+    {
+      "headword_latin": "Dići / dignuti sve četiri uvis",
+      "type": "frazeologizam",
+      "definition_ru": "задрать лапки и отдыхать; развалиться и ничего не делать; полностью расслабиться",
+      "synonyms_sr": [
+        "izležavati se",
+        "odmarati",
+        "ne raditi ništa",
+        "dignuti noge"
+      ],
+      "literal_ru": "задрать все четыре лапы вверх",
+      "register": "razg., šalj.; ponekad neodobr. o neradu",
+      "examples": [
+        {
+          "serbian_latin": "Neko bi uveliko digao sve četiri noge uvis i čekao da mu padaju pare s neba.",
+          "russian": "Кто-то другой давно бы уже задрал все четыре лапы и ждал, пока деньги сами посыплются с неба.",
+          "source": "Blic, 2024"
+        },
+        {
+          "serbian_latin": "Uključite klimu daljinskim i dignete sve četiri uvis?",
+          "russian": "Включить кондиционер пультом, задрать все четыре лапы и отдыхать?",
+          "source": "Ona / Telegraf, 2026"
+        }
+      ],
+      "note": "Sve četiri шутливо превращает человека в четвероногое животное: руки и ноги «отключены», человек отдыхает и ничего не делает. Не путать с dići ruke od nečega — «махнуть рукой, отказаться от попыток». Здесь основной смысл — расслабиться, бездельничать, иногда заслуженно отдыхать.",
+      "keyword": "sve četiri uvis"
     },
     {
       "headword_latin": "Dići / praviti frku",
@@ -15558,6 +15693,33 @@
       "keyword": "natovariti na vrat"
     },
     {
+      "headword_latin": "Natrljati nekome nešto na nos",
+      "type": "frazeologizam",
+      "definition_ru": "ткнуть кого-то носом в что-то; злорадно припомнить; демонстративно поставить перед фактом",
+      "synonyms_sr": [
+        "nabijati nekome nešto na nos",
+        "prebacivati nekome",
+        "podsećati na nešto neprijatno",
+        "likovati nad nekim"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; model natrljati nekome nešto na nos",
+      "examples": [
+        {
+          "serbian_latin": "Nedović je onda to „natrljao na nos“ navijačima Partizana.",
+          "russian": "Недович после этого злорадно ткнул этим в лицо болельщиков «Партизана».",
+          "source": "Sportal / Blic, 2025"
+        },
+        {
+          "serbian_latin": "Osećam se kao da mi je natrljao sve to na nos.",
+          "russian": "Такое чувство, будто он ещё специально ткнул меня носом во всё это.",
+          "source": "Blic, 2009"
+        }
+      ],
+      "note": "Не путать с русским «утереть нос»: последнее обычно означает превзойти кого-то, тогда как natrljati nešto na nos — демонстративно напомнить человеку неприятный факт, поражение, собственную правоту или преимущество. Близкое сербское nabijati nekome nešto na nos обычно обозначает повторяющиеся упрёки: постоянно «тыкать этим в нос».",
+      "keyword": "natrljati na nos"
+    },
+    {
       "headword_latin": "Navoditi / terati vodu na svoju vodenicu",
       "type": "frazeologizam",
       "definition_ru": "тянуть одеяло на себя; поворачивать всё в свою пользу; извлекать выгоду для себя",
@@ -18347,6 +18509,33 @@
       ],
       "note": "Выражение употребляется не только о речи: можно обходить человека, обязанность, проблему или даже физически двигаться окольным маршрутом, как во втором примере. Точное происхождение надёжно не установлено; Милан Шипка относил эту формулу к выражениям, происхождение которых нельзя уверенно объяснить. Истории о дожде, якобы постоянно обходящем Крагуевац, следует воспринимать как народные объяснения, а не доказанную этимологию.",
       "keyword": "kiša; Kragujevac"
+    },
+    {
+      "headword_latin": "Obilaziti / vrteti se kao mačak oko vruće kaše",
+      "type": "frazeologizam",
+      "definition_ru": "ходить вокруг да около; не решаться перейти к сути; увиливать",
+      "synonyms_sr": [
+        "okolišati",
+        "izbegavati suštinu",
+        "odugovlačiti",
+        "ne prelaziti na stvar"
+      ],
+      "literal_ru": "ходить как кот вокруг горячей каши",
+      "register": "razg., ekspresivno; varijante sa mačak i mačka",
+      "examples": [
+        {
+          "serbian_latin": "Svi se vrte kao mačka oko vruće kaše, niko nije spreman da zagrize.",
+          "russian": "Все ходят вокруг да около, никто не готов взяться за дело напрямую.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Mnogo je više onih koji oko filozofije obilaze kao mačak oko vruće kaše nego što se njom stvarno bave.",
+          "russian": "Тех, кто ходит вокруг философии как кот вокруг горячей каши, гораздо больше, чем тех, кто действительно ею занимается.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Выражение описывает человека, который кружит вокруг неприятного или сложного вопроса, но не переходит непосредственно к сути. Оттенок может быть и «не решаться», и «намеренно увиливать». Русское «ходить вокруг да около» обычно идеально по функции.",
+      "keyword": "mačak oko vruće kaše"
     },
     {
       "headword_latin": "Obrati (zelen) bostan",
@@ -25894,6 +26083,33 @@
       "keyword": "skinuti ljagu"
     },
     {
+      "headword_latin": "Skinuti masku",
+      "type": "frazeologizam",
+      "definition_ru": "снять маску; показать истинное лицо; раскрыть настоящие намерения",
+      "synonyms_sr": [
+        "pokazati pravo lice",
+        "razotkriti se",
+        "otkriti prave namere",
+        "prestati da se pretvara"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički, ekspresivno; može imati i doslovno značenje",
+      "examples": [
+        {
+          "serbian_latin": "Potrebno je skinuti masku i sagledati situaciju, problemi su rešivi.",
+          "russian": "Нужно снять маску, посмотреть на ситуацию без притворства — проблемы решаемы.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Licemerje će samo skinuti masku uljudnosti i prikazati se u svom pravom nečovečnom liku.",
+          "russian": "Лицемерие просто сбросит маску благопристойности и покажет своё настоящее бесчеловечное лицо.",
+          "source": "Politika, 2017"
+        }
+      ],
+      "note": "Переносное skinuti masku предполагает, что внешняя благопристойность, дружелюбие или декларируемые намерения скрывали настоящую сущность. Родственное pasti maska означает, что маскировка разрушилась или обман раскрылся словно сам собой; skinuti masku чаще подчёркивает действие — человек сам перестал притворяться или кто-то разоблачил видимость. После пандемии буквальное и переносное значения особенно важно различать по контексту.",
+      "keyword": "skinuti masku"
+    },
+    {
       "headword_latin": "Skinuti rukavice",
       "type": "frazeologizam",
       "definition_ru": "снять перчатки; перестать сдерживаться; перейти к открытой жёсткой борьбе",
@@ -27863,6 +28079,33 @@
       ],
       "note": "Оборот связан с детским фольклорным представлением, будто птицу можно поймать, если насыпать ей соли на хвост. В реальной речи выражение употребляется иронически именно о недостижимом человеке: он уже ускользнул — теперь «положи ему соли на хвост». Русскому ближе «ищи-свищи», «попробуй поймай».",
       "keyword": "soli na rep"
+    },
+    {
+      "headword_latin": "Staviti nešto na vagu",
+      "type": "frazeologizam",
+      "definition_ru": "взвесить; положить на чашу весов; тщательно сопоставить аргументы и последствия",
+      "synonyms_sr": [
+        "odmeriti",
+        "razmotriti",
+        "proceniti",
+        "uporediti"
+      ],
+      "literal_ru": "положить что-то на весы",
+      "register": "neutralno-publicistički; često staviti sve na vagu",
+      "examples": [
+        {
+          "serbian_latin": "Nadam se da će se krajem godine sve staviti na vagu.",
+          "russian": "Надеюсь, что в конце года всё будет тщательно взвешено и оценено.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Sve to valja staviti „na vagu“.",
+          "russian": "Всё это нужно хорошенько взвесить.",
+          "source": "Politika, 2015"
+        }
+      ],
+      "note": "На «весы» обычно кладут преимущества и риски, два решения, аргументы или ценности. Поэтому выражение часто означает не просто «подумать», а сопоставить противоположные факторы. Не путать со staviti nešto na kocku — там речь уже о риске: «поставить на кон».",
+      "keyword": "staviti na vagu"
     },
     {
       "headword_latin": "staviti prst na čelo",
@@ -32459,6 +32702,33 @@
       ],
       "note": "Sića означает мелочь или незначительную сумму. Выражение может характеризовать и выгодную покупку, и невыгодную продажу.",
       "keyword": "sića"
+    },
+    {
+      "headword_latin": "Zabadati nos u tuđe poslove / živote",
+      "type": "frazeologizam",
+      "definition_ru": "совать нос в чужие дела; лезть не в своё дело; вмешиваться в чужую жизнь",
+      "synonyms_sr": [
+        "mešati se u tuđe stvari",
+        "gurati nos gde mu nije mesto",
+        "petljati se",
+        "mešati se gde te niko ne zove"
+      ],
+      "literal_ru": "засовывать нос в чужие дела",
+      "register": "razg., neodobr.; u + akuzativ: u tuđe poslove, u tuđ život",
+      "examples": [
+        {
+          "serbian_latin": "Ona voli da zabada nos u tuđe živote.",
+          "russian": "Она любит совать нос в чужую жизнь.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Težnja da se „zabada nos“ u tuđe živote nije nova pojava.",
+          "russian": "Стремление совать нос в чужую жизнь — явление не новое.",
+          "source": "Politika, 2014"
+        }
+      ],
+      "note": "Здесь русская и сербская метафоры почти полностью совпадают. Zabadati хорошо передаёт повторяющееся, назойливое вмешательство; близкое gurati nos gde mu nije mesto звучит ещё более разговорно и резко. Не всякое interesovati se является вмешательством: в zabadati nos обязательно присутствует неодобрение.",
+      "keyword": "zabadati nos"
     },
     {
       "headword_latin": "Zabiti glavu u pesak",
