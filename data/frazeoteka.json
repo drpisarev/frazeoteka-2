@@ -5692,6 +5692,33 @@
       "keyword": "ulje; vatra"
     },
     {
+      "headword_latin": "Dolivati / doliti ulje na vatru",
+      "type": "frazeologizam",
+      "definition_ru": "подливать масла в огонь; обострять конфликт; усиливать напряжение",
+      "synonyms_sr": [
+        "podgrevati tenzije",
+        "raspirivati sukob",
+        "pogoršavati situaciju",
+        "dodatno zaoštravati"
+      ],
+      "literal_ru": "подливать масло в огонь",
+      "register": "razg.-publicistički, neodobr.; takođe sipati ulje na vatru",
+      "examples": [
+        {
+          "serbian_latin": "Ne treba dolivati ulje na vatru, treba smiriti situaciju.",
+          "russian": "Не надо подливать масла в огонь, нужно успокоить ситуацию.",
+          "source": "RTS, 2009"
+        },
+        {
+          "serbian_latin": "Sada je najvažnije ne dolivati ulje na vatru.",
+          "russian": "Сейчас главное — не подливать масла в огонь.",
+          "source": "RTS, 2015"
+        }
+      ],
+      "note": "Практически полный эквивалент русского выражения. Глагол dolivati особенно естественен, когда конфликт уже существует и кто-то своими словами или действиями его дополнительно разжигает. Sipati ulje na vatru тоже употребляется, но dolivati лучше передаёт идею «добавлять ещё».",
+      "keyword": "dolivati ulje na vatru"
+    },
+    {
       "headword_latin": "dolivati ulje na vatru",
       "type": "глагольный фразеологизм",
       "definition_ru": "Подливать масла в огонь; своими словами или действиями ещё больше обострять конфликт либо напряжённую ситуацию.",
@@ -10391,6 +10418,32 @@
       "keyword": "izigravati žrtvu"
     },
     {
+      "headword_latin": "Između Scile i Haribde",
+      "type": "frazeologizam",
+      "definition_ru": "между Сциллой и Харибдой; между двумя одинаково опасными вариантами; из двух зол выбирать меньшее",
+      "synonyms_sr": [
+        "između dve vatre",
+        "između čekića i nakovnja",
+        "birati manje zlo"
+      ],
+      "literal_ru": "",
+      "register": "knjiž.-publicistički; antički frazeologizam",
+      "examples": [
+        {
+          "serbian_latin": "U ovom teškom vremenu prošli smo između Scile i Haribde, a da nismo rušili odnose koji su nam ostavljeni u nasleđe.",
+          "russian": "В это трудное время мы прошли между Сциллой и Харибдой, не разрушив унаследованных отношений.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Tužioci su birali između Scile i Haribde.",
+          "russian": "Прокурорам пришлось выбирать между Сциллой и Харибдой.",
+          "source": "Danas / N1, 2025"
+        }
+      ],
+      "note": "В «Одиссее» Сцилла и Харибда — две смертельные опасности по разные стороны морского прохода. Поэтому оборот точнее русского «между молотом и наковальней» передаёт ситуацию, где избежать обеих опасностей практически невозможно. В сербском нормативная форма — Haribda.",
+      "keyword": "Scila i Haribda"
+    },
+    {
       "headword_latin": "izneti prljav veš",
       "type": "глагольный фразеологизм",
       "definition_ru": "Вынести грязное бельё на публику; обнародовать неприятные подробности частной жизни, семейные конфликты или чужие постыдные секреты.",
@@ -13908,27 +13961,27 @@
     {
       "headword_latin": "Medveđa usluga",
       "type": "frazeologizam",
-      "definition_ru": "медвежья услуга; помощь во вред",
+      "definition_ru": "медвежья услуга; помощь, которая вместо пользы приносит вред",
       "synonyms_sr": [
+        "nespretna pomoć",
         "odmoći umesto pomoći",
-        "učiniti više štete nego koristi",
-        "nespretno pomoći"
+        "pomoć koja nanosi štetu"
       ],
       "literal_ru": "медвежья услуга",
-      "register": "neutralno do publicistički; učiniti / napraviti nekome medveđu uslugu; takođe napraviti sebi medveđu uslugu",
+      "register": "neutralno-publicistički, neodobr.; učiniti / napraviti nekome medveđu uslugu",
       "examples": [
         {
-          "serbian_latin": "Videće se da li je neki od funkcionera sebi napravio medveđu uslugu.",
-          "russian": "Выяснится, не оказал ли кто-то из чиновников сам себе медвежью услугу.",
-          "source": "Danas, 2010"
+          "serbian_latin": "Ti koji su zviždali napravili su sebi medveđu uslugu i sebe loše predstavili svetu.",
+          "russian": "Те, кто свистел, оказали себе медвежью услугу и выставили себя перед миром в плохом свете.",
+          "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Znao sam da imam kome da se obratim, mada je to možda medveđa usluga.",
-          "russian": "Я знал, что мне есть к кому обратиться, хотя, возможно, такая помощь только вредила мне.",
-          "source": "BBC na srpskom / Danas, 2019"
+          "serbian_latin": "Neko ko je u njeno ime lobirao za takvo pismo podrške učinio je njoj i Hrvatskoj medveđu uslugu.",
+          "russian": "Тот, кто от её имени добивался такого письма поддержки, оказал медвежью услугу и ей, и Хорватии.",
+          "source": "Danas, 2010"
         }
       ],
-      "note": "Русское «медвежья услуга» практически полностью совпадает по значению. Важно, что намерение обычно доброе, а результат оказывается вредным; сербский допускает и napraviti sebi medveđu uslugu. Шипка связывает закрепление выражения с басней Ивана Крылова Pustinjak i medved, где медведь, пытаясь помочь человеку, убивает его.",
+      "note": "Сербское и русское выражения полностью совпадают по значению. Его обычно связывают с басней Ивана Крылова о медведе, который хотел помочь человеку, но своей неуклюжей помощью его погубил; Милан Шипка отмечает, что сам образ мог существовать и раньше. Главное условие — вред возникает именно в результате помощи, часто при добрых намерениях.",
       "keyword": "medveđa usluga"
     },
     {
@@ -18296,6 +18349,33 @@
       "keyword": "kiša; Kragujevac"
     },
     {
+      "headword_latin": "Obrati (zelen) bostan",
+      "type": "frazeologizam",
+      "definition_ru": "плохо кончить; влипнуть; крупно попасть; потерпеть крах",
+      "synonyms_sr": [
+        "nadrljati (razg.)",
+        "loše proći",
+        "nastradati",
+        "propasti"
+      ],
+      "literal_ru": "убрать незрелый бахчевой урожай",
+      "register": "razg., ekspresivno; puna starija forma obrati zelen bostan, danas često samo obrati bostan",
+      "examples": [
+        {
+          "serbian_latin": "Samo kada za to sazna tvoja žena, obrao si bostan.",
+          "russian": "Вот когда об этом узнает твоя жена — тогда ты попал.",
+          "source": "Politika, 2007"
+        },
+        {
+          "serbian_latin": "Sreća njegova što u to vreme nije bilo televizije ni RRA, inače bi obrao bostan.",
+          "russian": "Повезло ему, что тогда не было телевидения и RRA, иначе ему бы сильно досталось.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Bostan — бахча, а также арбузы и дыни. Полная форма фиксируется уже у Вука Караджича: преждевременно собрать zelen bostan означало лишиться урожая и понести убыток; отсюда «плохо кончить, пропасть». Сегодня особенно естественна реплика E, sad si obrao bostan! — «ну всё, теперь ты попал».",
+      "keyword": "obrati bostan"
+    },
+    {
       "headword_latin": "Obrati zelen bostan",
       "type": "frazeologizam",
       "definition_ru": "плохо кончить; крупно влипнуть; потерпеть полный крах",
@@ -20233,6 +20313,33 @@
       "keyword": "pasti na foru"
     },
     {
+      "headword_latin": "Pasti / spasti na niske grane",
+      "type": "frazeologizam",
+      "definition_ru": "опуститься; прийти в упадок; скатиться до низкого уровня",
+      "synonyms_sr": [
+        "srozati se",
+        "propasti",
+        "dospeti na nizak nivo",
+        "izgubiti ugled"
+      ],
+      "literal_ru": "опуститься на низкие ветви",
+      "register": "razg.-publicistički, neodobr.; o čoveku, ustanovi, profesiji, kulturi, standardu i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Nama je obrazovanje spalo na niske grane.",
+          "russian": "Наше образование опустилось до крайне низкого уровня.",
+          "source": "N1, 2022"
+        },
+        {
+          "serbian_latin": "Imao sam ponude stranaka koje su nekada imale pristojnu podršku birača, a danas su spale „na niske grane“.",
+          "russian": "Мне поступали предложения от партий, которые когда-то пользовались приличной поддержкой, а сегодня сильно сдали позиции.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Оборот описывает ухудшение по сравнению с прежним положением: падение уровня, качества, престижа или материального состояния. Поэтому spasti na niske grane сильнее простого biti loš. Русские соответствия зависят от объекта: «скатиться», «прийти в упадок», «опуститься».",
+      "keyword": "niske grane"
+    },
+    {
       "headword_latin": "Pasti / upasti nekome sekira u med",
       "type": "frazeologizam",
       "definition_ru": "невероятно повезти; сорвать куш; попасть в исключительно выгодное положение",
@@ -21464,33 +21571,31 @@
       "keyword": "podviti rep"
     },
     {
-      "headword_latin": "podvući crtu",
-      "type": "фразеологизм",
-      "definition_ru": "Подвести итог; сделать окончательный вывод; завершить определённый этап.",
+      "headword_latin": "Podvući crtu",
+      "type": "frazeologizam",
+      "definition_ru": "подвести черту; подвести итог; провести границу и сказать «дальше — нет»",
       "synonyms_sr": [
-        "sumirati rezultate",
-        "izvesti zaključak",
-        "zaključiti priču",
-        "staviti tačku"
+        "napraviti presek",
+        "sumirati",
+        "zaključiti",
+        "povući granicu"
       ],
-      "literal_ru": "Подчеркнуть; провести черту.",
-      "register": "Нейтральное или публицистическое; переносное.",
+      "literal_ru": "провести линию",
+      "register": "neutralno-publicistički; može značiti sumirati ili postaviti granicu",
       "examples": [
         {
-          "serbian_latin": "Vučić podvukao crtu nakon istorijske nedelje.",
-          "russian": "Вучич подвёл итог исторической недели.",
-          "source": "NS Reporter, 2026",
-          "url": "https://nsreporter.rs/2026/07/vucic-podvukao-crtunakon-istorijske-nedelje-predsednik-mocnom-porukom-na-instagramu-zapusio-usta-kriticarima/"
+          "serbian_latin": "Posle četiri decenije, ipak, treba „podvući crtu“ i sagledati kako festival ubuduće može da komunicira sa stvaraocima i publikom.",
+          "russian": "После четырёх десятилетий всё же нужно подвести черту и оценить, как фестивалю развиваться дальше.",
+          "source": "Politika, 2016"
         },
         {
-          "serbian_latin": "Vučić podvukao crtu.",
-          "russian": "Вучич подвёл итог.",
-          "source": "Alo, 2026",
-          "url": "https://www.alo.rs/vesti/politika/16857880/vucic-sumirao-nedelju-i-poslao-snaznu-poruku-gradjanima.html"
+          "serbian_latin": "„Orlić je, ko ga malo bolje poznaje, pre svega dobar čovek.“ — „Ali tu bih podvukao crtu.“",
+          "russian": "«Орлич, если узнать его поближе, прежде всего хороший человек». — «Но на этом я бы поставил точку».",
+          "source": "BBC na srpskom / Danas, 2022"
         }
       ],
-      "note": "Встречается также конструкция podvući crtu pod nešto. Расширенный вариант podvući crtu i krenuti dalje означает закончить прежний этап и двигаться дальше.",
-      "keyword": "crta"
+      "note": "В первом значении это почти точное русское «подвести черту» — суммировать период или результаты. Во втором tu podvući crtu означает «вот здесь провести границу, дальше не соглашаться». Поэтому перевод «подвести итог» подходит не всегда.",
+      "keyword": "podvući crtu"
     },
     {
       "headword_latin": "Pogaziti reč",
@@ -23054,15 +23159,14 @@
     {
       "headword_latin": "Preseći Gordijev čvor",
       "type": "frazeologizam",
-      "definition_ru": "разрубить гордиев узел; решительно разрешить запутанную проблему",
+      "definition_ru": "разрубить гордиев узел; одним решительным действием разрешить крайне запутанную проблему",
       "synonyms_sr": [
         "rešiti zamršen problem",
-        "razrešiti čvor",
-        "preseći problem",
-        "doneti odlučnu odluku"
+        "razrešiti tešku situaciju",
+        "prelomiti stvar"
       ],
-      "literal_ru": "рассечь гордиев узел",
-      "register": "knjiž.-publicistički, ekspresivno; Gordijev se piše velikim početnim slovom",
+      "literal_ru": "разрубить гордиев узел",
+      "register": "knjiž.-publicistički, ekspresivno; takođe rešiti Gordijev čvor",
       "examples": [
         {
           "serbian_latin": "Moramo preseći Gordijev čvor i reći ljudima istinu.",
@@ -23070,12 +23174,12 @@
           "source": "RTS, 2013"
         },
         {
-          "serbian_latin": "Šta valja činiti, kako preseći Gordijev čvor?",
-          "russian": "Что же делать, как разрубить этот гордиев узел?",
-          "source": "Politika, 2007"
+          "serbian_latin": "Odlučili smo da povučemo poslednji potez i konačno presečemo najzamršeniji Gordijev čvor u srpskoj kulturi.",
+          "russian": "Мы решили сделать последний шаг и наконец разрубить самый запутанный гордиев узел в сербской культуре.",
+          "source": "Danas, 2015"
         }
       ],
-      "note": "Образ восходит к античному преданию о сложнейшем Gordijev čvor, который Aleksandar Veliki не стал распутывать, а рассёк мечом. Поэтому выражение предполагает не просто решение трудной задачи, а решительный выход из ситуации, долго считавшейся запутанной или неразрешимой. По-русски устойчиво «разрубить гордиев узел», тогда как сербский употребляет preseći.",
+      "note": "Выражение восходит к легенде об Александре Македонском, который не стал развязывать знаменитый узел, а рассёк его мечом. Поэтому важен оттенок решительного, нестандартного решения, а не просто успешного завершения сложного дела. Gordijev пишется с прописной буквы.",
       "keyword": "Gordijev čvor"
     },
     {
@@ -24348,28 +24452,28 @@
     {
       "headword_latin": "Pustiti nekoga / nešto niz vodu",
       "type": "frazeologizam",
-      "definition_ru": "бросить на произвол судьбы; сдать кого-то; отказаться от поддержки; пожертвовать кем-то",
+      "definition_ru": "сдать кого-то; бросить на произвол судьбы; отказаться поддерживать; пожертвовать кем-то или чем-то",
       "synonyms_sr": [
-        "odreći se",
-        "žrtvovati",
         "napustiti",
-        "ostaviti na cedilu"
+        "odreći se",
+        "prestati podržavati",
+        "žrtvovati"
       ],
-      "literal_ru": "пустить кого-то / что-то вниз по течению",
-      "register": "razg.-publicistički, neodobr.; naročito o savezniku, saradniku, organizaciji ili projektu od kog se odustaje radi sopstvene koristi",
+      "literal_ru": "пустить вниз по течению",
+      "register": "razg.-publicistički, neodobr.; naročito o saveznicima, kolegama, organizacijama i principima",
       "examples": [
         {
           "serbian_latin": "Upitan da li je ministra finansija „pustio niz vodu“, kaže da ga se nije odrekao.",
-          "russian": "На вопрос, «сдал» ли он министра финансов, он ответил, что от него не отказался.",
+          "russian": "На вопрос, «сдал» ли он министра финансов, он ответил, что от него не отказывался.",
           "source": "RTS, 2021"
         },
         {
-          "serbian_latin": "Oni u koje se najvećma uzdaš, kojima veruješ i koje smatraš najodanijim, ti će te pustiti niz vodu.",
-          "russian": "Именно те, на кого ты больше всего рассчитываешь, бросят тебя и откажутся поддерживать.",
-          "source": "Danas, 2025"
+          "serbian_latin": "Socijalisti su ostvarili potpuni zaokret u partiji i pustili niz vodu sve ono što ih je vezivalo za stari režim.",
+          "russian": "Социалисты полностью изменили курс партии и избавились от всего, что связывало их со старым режимом.",
+          "source": "Danas, 2010"
         }
       ],
-      "note": "В отличие от нейтрального odustati od nekoga, оборот часто содержит идею предательства или сознательного отказа спасать того, кому раньше помогали. Русское «спустить по течению» такого устойчивого значения не имеет; обычно нужны «сдать», «бросить», «пожертвовать кем-то», «оставить на произвол судьбы». Не путать с pustiti vodu — «спустить воду».",
+      "note": "Когда объект — человек, выражение обычно сильнее простого napustiti: его перестают защищать именно тогда, когда поддержка особенно нужна, фактически «сдают». С абстрактным объектом значение может смягчаться до «отказаться, отбросить»: pustiti niz vodu stare principe. В русском функционально близки «сдать», «бросить», «списать за борт».",
       "keyword": "pustiti niz vodu"
     },
     {
@@ -27440,33 +27544,31 @@
       "keyword": "stati na crtu"
     },
     {
-      "headword_latin": "stati nekome na žulj",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Наступить кому-либо на больную мозоль; сильно задеть, вызвать раздражение или нарушить чьи-либо интересы.",
+      "headword_latin": "Stati nekome na žulj",
+      "type": "frazeologizam",
+      "definition_ru": "наступить кому-то на больную мозоль; задеть болезненную тему или интерес; сильно досадить",
       "synonyms_sr": [
-        "pogoditi nekoga u bolnu tačku",
-        "dirnuti u osetljivo mesto",
-        "izazvati nečiji bes",
-        "zameriti se nekome"
+        "dirnuti u nečiji interes",
+        "pogoditi bolno mesto",
+        "zasmetati nekome",
+        "naljutiti nekoga"
       ],
-      "literal_ru": "Наступить кому-либо на мозоль.",
-      "register": "Разговорное, экспрессивное.",
+      "literal_ru": "наступить кому-то на мозоль",
+      "register": "razg.-publicistički; lice je u dativu: stao mi / mu / im je na žulj",
       "examples": [
         {
-          "serbian_latin": "Pašić kralju stao na žulj.",
-          "russian": "Пашич наступил королю на больную мозоль.",
-          "source": "Mondo, 2023",
-          "url": "https://mondo.rs/Info/Drustvo/a1857297/ZBOG-OVOGA-JE-PASIC-KRALJU-STAO-NA-ZULJ-odbrana-23.html"
+          "serbian_latin": "Moj stav očito nekima ne prija. Moraću da razmislim zašto i kome sam stao na žulj.",
+          "russian": "Моя позиция кому-то явно мешает. Придётся подумать, кому и чем я наступил на больную мозоль.",
+          "source": "RTS, 2017"
         },
         {
-          "serbian_latin": "Manaj stao na žulj srpskoj publici.",
-          "russian": "Манай сильно задел сербскую публику.",
-          "source": "Srbija Danas, 2025",
-          "url": "https://www.sd.rs/sport/fudbal/golcina-pa-provokacija-albanci-poveli-u-leskovcu-manaj-posle-gola-stao-na-zulj-srpskoj-publici-video-2025-10-11"
+          "serbian_latin": "Popović je, između ostalog, stao na žulj vršačkim naprednjacima.",
+          "russian": "Попович, помимо прочего, наступил на больную мозоль вршацким напреднякам.",
+          "source": "Danas, 2017"
         }
       ],
-      "note": "Человек «наступает на мозоль», когда затрагивает особенно болезненную тему, нарушает чужие интересы или совершает нечто, вызывающее сильное недовольство.",
-      "keyword": "žulj"
+      "note": "Очень близко русскому «наступить на больную мозоль», но сербский оборот часто употребляется шире: человек нарушил чьи-то интересы, помешал выгоде или стал неудобен влиятельной стороне. Поэтому в политической и криминальной журналистике kome je stao na žulj? может означать «чьи интересы он задел?».",
+      "keyword": "stati na žulj"
     },
     {
       "headword_latin": "Staviti / baciti nekome bubu u uho",
@@ -30904,30 +31006,28 @@
     {
       "headword_latin": "Udariti / lupiti šakom o sto",
       "type": "frazeologizam",
-      "definition_ru": "стукнуть кулаком по столу; проявить твёрдость; властно сказать «хватит»",
+      "definition_ru": "стукнуть кулаком по столу; жёстко настоять на своём; проявить власть и решительность",
       "synonyms_sr": [
-        "preseći",
-        "odlučno reagovati",
-        "pokazati autoritet",
-        "reći dosta"
+        "pokazati odlučnost",
+        "odlučno zahtevati",
+        "preseći raspravu",
+        "nametnuti odluku"
       ],
       "literal_ru": "ударить кулаком по столу",
-      "register": "разг., экспр.; может описывать реальный жест, но часто означает жёсткое и окончательное решение",
+      "register": "razg., ekspresivno; može biti doslovno i preneseno",
       "examples": [
         {
-          "serbian_latin": "Kada treba da udari šakom o sto i bude stroga za dobrobit ovog humanog poziva, naša sagovornica kaže da to i te kako čini.",
-          "russian": "Когда нужно проявить твёрдость и быть строгой ради дела, наша собеседница говорит, что без колебаний это делает.",
-          "source": "Politika, 2013",
-          "url": "https://www.politika.rs/sr/clanak/257248/milena-ratkovic-najbolja-sestra-vma"
+          "serbian_latin": "Naravno da je ponekad potrebno lupiti šakom o sto, figurativno rečeno.",
+          "russian": "Конечно, иногда нужно, образно говоря, стукнуть кулаком по столу.",
+          "source": "Danas, 2016"
         },
         {
-          "serbian_latin": "Nama je potreban neko... taj mora da kaže „upamet se, Srbi“ i možda da udari šakom o sto.",
-          "russian": "Нам нужен кто-то, кто скажет: «Образумьтесь, сербы» — и, возможно, наконец проявит жёсткость.",
-          "source": "Danas, 2019",
-          "url": "https://www.danas.rs/vesti/politika/bajic-ako-javni-funkcioneri-nastave-ovako-da-vode-igru-odvesce-nas-u-predvorje-gradjanskog-rata/"
+          "serbian_latin": "„Ni Danska, ni Amerika već – nezavisni Grenland!“, rekao je, lupivši šakom o sto.",
+          "russian": "«Ни Дания, ни Америка — только независимая Гренландия!» — сказал он, ударив кулаком по столу.",
+          "source": "RTS, 2020"
         }
       ],
-      "note": "Реальный удар по столу и переносное «проявить власть, прекратить спор и принять решение» легко переходят друг в друга. В политической речи образ часто связан с ожиданием «сильной руки». В русском аналогичная метафора есть, но по-сербски она особенно регулярно используется как символ решительности.",
+      "note": "В переносном употреблении жест обозначает момент, когда человек прекращает уговоры и занимает жёсткую позицию: «всё, будет так». Русское выражение устроено почти так же. В сербском особенно часто lupiti šakom o sto; udariti звучит чуть буквальнее.",
       "keyword": "šakom o sto"
     },
     {
