@@ -1195,60 +1195,6 @@
       "keyword": "čekić; nakovanj"
     },
     {
-      "headword_latin": "Biti / naći se na nišanu",
-      "type": "frazeologizam",
-      "definition_ru": "быть под прицелом; стать мишенью; оказаться объектом нападок, давления или преследования",
-      "synonyms_sr": [
-        "biti meta",
-        "biti na udaru",
-        "biti predmet napada",
-        "biti izložen pritisku"
-      ],
-      "literal_ru": "быть на прицеле",
-      "register": "neutralno-publicistički, ekspresivno; može imati doslovno oružano i preneseno značenje",
-      "examples": [
-        {
-          "serbian_latin": "Na nišanu im je, očito, pravosuđe.",
-          "russian": "Под их прицелом, очевидно, находится судебная система.",
-          "source": "Danas, 2026"
-        },
-        {
-          "serbian_latin": "Srbi na nišanu Kurtijevog pravosuđa.",
-          "russian": "Сербы под прицелом судебной системы Курти.",
-          "source": "Politika, 2026"
-        }
-      ],
-      "note": "Nišan здесь — прицел оружия. В публицистике выражение очень продуктивно: na nišanu medija, opozicije, tužilaštva, kriminalaca. Русское «под прицелом» совпадает почти полностью. Возможна конструкция с дательным: na nišanu im je X — буквально «у них под прицелом X».",
-      "keyword": "na nišanu"
-    },
-    {
-      "headword_latin": "Biti / naći se na sto muka",
-      "type": "frazeologizam",
-      "definition_ru": "быть в страшном затруднении; не знать, что делать; мучиться выбором",
-      "synonyms_sr": [
-        "biti u neprilici",
-        "biti u nedoumici",
-        "lomiti glavu",
-        "ne znati šta da radi"
-      ],
-      "literal_ru": "быть на ста мучениях",
-      "register": "razg., ekspresivno; česta konstrukcija biti na sto muka da li...",
-      "examples": [
-        {
-          "serbian_latin": "Do sada je dosta istoričara i arheologa bilo na sto muka da li da počini suštinski vandalsko delo.",
-          "russian": "До сих пор многие историки и археологи мучились вопросом, решиться ли на действие, которое по сути было бы вандализмом.",
-          "source": "Blic, 2016"
-        },
-        {
-          "serbian_latin": "Čim je pukla vest, našli su se na sto muka.",
-          "russian": "Как только появилась эта новость, они оказались в крайне затруднительном положении.",
-          "source": "Blic, 2017"
-        }
-      ],
-      "note": "Sto здесь обычная гипербола: речь не о «ста проблемах», а об очень сильном затруднении. Особенно характерно употребление, когда приходится выбирать между неприятными вариантами: bio sam na sto muka da li da idem ili da ostanem. Русское «быть в затруднении» часто слишком слабое; по ситуации подходят «весь измучился», «ломать голову», «не знать, как поступить».",
-      "keyword": "na sto muka"
-    },
-    {
       "headword_latin": "Biti / naći se na tankom ledu",
       "type": "frazeologizam",
       "definition_ru": "быть на тонком льду; оказаться в шатком положении; рисковать",
@@ -1332,33 +1278,6 @@
       "keyword": "pod staklenim zvonom"
     },
     {
-      "headword_latin": "Biti / ostati na mrtvoj tački",
-      "type": "frazeologizam",
-      "definition_ru": "быть в мёртвой точке; не сдвигаться с места; находиться в застое",
-      "synonyms_sr": [
-        "biti u zastoju",
-        "ne napredovati",
-        "biti blokiran",
-        "tapkati u mestu"
-      ],
-      "literal_ru": "быть в мёртвой точке",
-      "register": "neutralno-publicistički; suprotna konstrukcija krenuti / pomeriti se s mrtve tačke",
-      "examples": [
-        {
-          "serbian_latin": "Međutim, mi smo i dalje na mrtvoj tački.",
-          "russian": "Однако мы по-прежнему не сдвинулись с мёртвой точки.",
-          "source": "RTS, 2024"
-        },
-        {
-          "serbian_latin": "Nije bilo pomeranja sa mrtve tačke. Bar u zvaničnoj istrazi.",
-          "russian": "С мёртвой точки ничего не сдвинулось. По крайней мере в официальном расследовании.",
-          "source": "Danas, 2011"
-        }
-      ],
-      "note": "Mrtva tačka подчёркивает отсутствие движения и прогресса, а не обязательно безвыходность. Поэтому это не полный синоним ćorsokak: из mrtva tačka можно наконец krenuti, pomeriti stvar или pokrenuti pregovore. Русское «сдвинуться с мёртвой точки» образует такую же пару.",
-      "keyword": "mrtva tačka"
-    },
-    {
       "headword_latin": "Biti / sedeti kao na iglama",
       "type": "frazeologizam",
       "definition_ru": "быть как на иголках; нервничать в ожидании; не находить себе места",
@@ -1418,33 +1337,6 @@
       ],
       "note": "Zavada обычно обозначает не отдельную ссору, а состояние длительного разлада, неприязни или вражды. Поэтому posvađali su se juče — «они вчера поссорились», а godinama su u zavadi — «они годами не ладят / враждуют». В повседневной речи biti u svađi часто звучит обычнее, тогда как biti / živeti u zavadi несколько более книжно и особенно естественно в рассказах о семьях, соседях, политических противниках или исторических конфликтах. Конструкция oko + genitiv указывает причину: u zavadi oko prestola, nasledstva, zemlje.",
       "keyword": "u zavadi"
-    },
-    {
-      "headword_latin": "Biti do guše u dugovima",
-      "type": "frazeologizam",
-      "definition_ru": "быть по уши в долгах; погрязнуть в долгах; быть в долгах по горло",
-      "synonyms_sr": [
-        "biti prezadužen",
-        "grcati u dugovima",
-        "dugovati na sve strane",
-        "biti zatrpan dugovima"
-      ],
-      "literal_ru": "быть в долгах по горло",
-      "register": "razg., ekspresivno; do guše pojačava stepen",
-      "examples": [
-        {
-          "serbian_latin": "Nikolas Kejdž je bio u dugovima do guše.",
-          "russian": "Николас Кейдж был по уши в долгах.",
-          "source": "RTS, 2023"
-        },
-        {
-          "serbian_latin": "Većina Mitrovčana do guše je u dugovima.",
-          "russian": "Большинство жителей Митровицы погрязли в долгах.",
-          "source": "Blic, 2008"
-        }
-      ],
-      "note": "Сербское do guše буквально соответствует русскому «по горло», но по-русски с долгами часто естественнее «по уши». Модель продуктивна и шире этой статьи: do guše u problemima, poslu, blatu. Здесь важно именно ощущение, что человек почти «утонул» в долгах.",
-      "keyword": "do guše u dugovima"
     },
     {
       "headword_latin": "biti između čekića i nakovnja",
@@ -1879,31 +1771,29 @@
     {
       "headword_latin": "Biti na klimavim nogama",
       "type": "frazeologizam",
-      "definition_ru": "Находиться в шатком положении, быть неустойчивым или ненадёжным. Об аргументации, обвинении или плане — иметь слабое основание; об организации или власти — держаться непрочно.",
+      "definition_ru": "быть в шатком положении; держаться непрочно; быть под угрозой краха",
       "synonyms_sr": [
         "biti nestabilan",
-        "nemati čvrst oslonac",
-        "biti slabo utemeljen",
-        "biti u nesigurnom položaju"
+        "biti nesiguran",
+        "biti pred slomom",
+        "biti na tankom ledu (delimično)"
       ],
-      "literal_ru": "Стоять на шатающихся, нетвёрдых ногах.",
-      "register": "Разговорное и публицистическое; образное, обычно критическое.",
+      "literal_ru": "быть на шатких ногах",
+      "register": "razg.-publicistički, ekspresivno; o vlasti, podršci, koaliciji, ideji, projektu, poziciji i sl.",
       "examples": [
         {
-          "serbian_latin": "Optužnica je na klimavim nogama jer ne postoji materijalni dokaz.",
-          "russian": "Обвинение имеет шаткую основу, поскольку нет вещественного доказательства.",
-          "source": "Nova.rs / Kurir, 2025; оценка Игора Юрича",
-          "url": "https://nova.rs/vesti/hronika/igor-juric-optuznica-u-slucaju-danke-ilic-na-klimavim-nogama/"
+          "serbian_latin": "Podrška Obradoviću (ni)je na klimavim nogama.",
+          "russian": "Поддержка Обрадовича (не) находится в шатком положении.",
+          "source": "Danas, 2019"
         },
         {
-          "serbian_latin": "[…] Francuska vlada opstaje na \"klimavim nogama\"",
-          "russian": "[…] Французское правительство удерживается у власти, но его положение остаётся шатким.",
-          "source": "B92 / Tanjug, 2026; фрагмент заголовка",
-          "url": "https://www.b92.net/info/svet/201208/lekorni-preziveo-jos-jedno-glasanje-francuska-vlada-opstaje-na-klimavim-nogama/vest"
+          "serbian_latin": "To će dodatno srušiti ideju bojkota, koja je ionako na klimavim nogama.",
+          "russian": "Это ещё сильнее пошатнёт идею бойкота, которая и без того держится весьма непрочно.",
+          "source": "RTS, 2020"
         }
       ],
-      "note": "Русский перевод зависит от предмета разговора: аргумент «слабо обоснован», а правительство «держится непрочно». Формулировка не обязательно предсказывает немедленный крах. В первом примере приведено мнение собеседника о доказательствах, а не установленный судом вывод. Во втором использован глагол opstajati — продолжать существовать, удерживаться. Физическая слабость ног в этих употреблениях не подразумевается.",
-      "keyword": "klimave noge"
+      "note": "Klimav означает «шаткий, неустойчивый», и выражение очень свободно переносится на абстрактные вещи: vlada, koalicija, podrška, optužba, plan su na klimavim nogama. Близкое biti na tankom ledu сильнее подчёркивает риск и опасность, а biti na klimavim nogama — внутреннюю непрочность и возможность скорого развала. Русское «стоять на шатких ногах» понятно, но часто естественнее «быть в шатком положении».",
+      "keyword": "na klimavim nogama"
     },
     {
       "headword_latin": "Biti na konju",
@@ -2130,33 +2020,6 @@
       ],
       "note": "Сербское na vrh jezika соответствует русскому «на кончике языка». Оно может относиться и к слову, которое никак не удаётся вспомнить, и к реплике, которую человек почти произнёс, но удержался. Для русского полезна конструкция с дательным местоимением: na vrh jezika mi je.",
       "keyword": "na vrh jezika"
-    },
-    {
-      "headword_latin": "Biti nekome za petama",
-      "type": "frazeologizam",
-      "definition_ru": "наступать кому-то на пятки; идти по пятам; быть совсем рядом с преследуемым или конкурентом",
-      "synonyms_sr": [
-        "pratiti u stopu",
-        "sustizati",
-        "biti tik iza",
-        "ne zaostajati mnogo"
-      ],
-      "literal_ru": "быть у кого-то за пятками",
-      "register": "razg.-publicistički; lice je obično u dativu: za petama su mu, biti rivalu za petama",
-      "examples": [
-        {
-          "serbian_latin": "Za petama su mu dva briljantna igrača: Rafael Nadal [...] i naš Novak Đoković.",
-          "russian": "Ему на пятки наступают два блестящих игрока: Рафаэль Надаль и наш Новак Джокович.",
-          "source": "Danas, 2008"
-        },
-        {
-          "serbian_latin": "Za petama Huntelaru: De Jongu fali pet golova da bude najbolji strelac holandske lige u ovom veku.",
-          "russian": "По пятам за Хунтеларом: Де Йонгу не хватает пяти голов, чтобы стать лучшим бомбардиром нидерландской лиги в этом веке.",
-          "source": "Danas, 2023"
-        }
-      ],
-      "note": "Выражение может обозначать буквальное преследование, но особенно часто встречается в спорте, рейтингах и конкуренции: соперник уже почти догнал лидера. Для русскоязычного важно управление: on mu je za petama — «он наступает ему на пятки».",
-      "keyword": "za petama"
     },
     {
       "headword_latin": "Biti pod lupom",
@@ -3459,34 +3322,6 @@
       "keyword": "pametan; budala; stid"
     },
     {
-      "headword_latin": "Čekati / dočekati svojih pet minuta",
-      "type": "frazeologizam",
-      "definition_ru": "Ждать / дождаться своего часа: удобного момента, когда можно проявить себя, добиться признания или наконец ответить на прежнюю обиду. Выражение подчёркивает наступление долгожданной возможности, а не её буквальную продолжительность.",
-      "synonyms_sr": [
-        "čekati svoju priliku",
-        "dočekati svoj trenutak",
-        "dobiti priliku da se pokaže"
-      ],
-      "literal_ru": "Ждать / дождаться своих пяти минут.",
-      "register": "Разговорное и публицистическое; часто с удовлетворением от наконец полученного шанса.",
-      "examples": [
-        {
-          "serbian_latin": "Celu jednu sezonu je Stevan Jovetić čekao svojih „pet minuta“ u Fiorentini, a onda je eksplodirao.",
-          "russian": "Целый сезон Стеван Йоветич ждал своего часа в «Фиорентине», а потом ярко заявил о себе.",
-          "source": "Danas, 2009; статья «Đilardino i ja smo odličan tandem»",
-          "url": "https://www.danas.rs/vesti/drustvo/djilardino-i-ja-smo-odlican-tandem"
-        },
-        {
-          "serbian_latin": "Legenda Engleske Piter Šilton dočekao je svojih pet minuta da se on smeje dok Dijego Maradona plače.",
-          "russian": "Легенда английского футбола Питер Шилтон дождался своего часа: теперь он мог смеяться, пока Диего Марадона плакал.",
-          "source": "Sport Klub, 2018; авторское описание реакции Питера Шилтона",
-          "url": "https://sportklub.n1info.rs/fudbal/fifa-world-cup/a243834-siltonovih-pet-minuta-na-godisnjicu-andquotbozje-rukeandquot/"
-        }
-      ],
-      "note": "В первом примере спортсмен получает возможность показать себя, во втором человек дожидается повода позлорадствовать. Поэтому «получить признание» подходит не всегда; «дождаться своего часа» универсальнее. Čekati описывает ожидание, dočekati — его успешное завершение. Оборот не обязательно означает недолгую славу: pet minuta здесь обозначает саму возможность воспользоваться моментом.",
-      "keyword": "pet minuta"
-    },
-    {
       "headword_latin": "Čekati kao ozebao sunce",
       "type": "frazeologizam",
       "definition_ru": "ждать с огромным нетерпением; ждать как спасения; ждать как манны небесной",
@@ -4242,6 +4077,35 @@
       "keyword": "dara prevršila meru"
     },
     {
+      "headword_latin": "Dati / davati nekome krila",
+      "type": "frazeologizam",
+      "definition_ru": "Окрылить, воодушевить, придать уверенности и сил для дальнейших действий. Помочь человеку или коллективу почувствовать, что они способны на большее.",
+      "synonyms_sr": [
+        "ohrabriti nekoga",
+        "osokoliti nekoga",
+        "dati nekome polet",
+        "uliti nekome samopouzdanje"
+      ],
+      "literal_ru": "Дать / давать кому-либо крылья.",
+      "register": "Образное, обычно положительное; употребляется в личных рассказах и публицистике.",
+      "examples": [
+        {
+          "serbian_latin": "[…] to mi je dalo krila da nastavim da se bavim dalje.",
+          "russian": "[…] это окрылило меня и вдохновило дальше заниматься актёрским делом.",
+          "source": "RTS, 2018; фрагмент высказывания Тодора Трифуновича о возвращении к актёрской работе",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/3244819/razmazeni-princ-u-izvodjenju-polaznika-glumacke-radionice.html"
+        },
+        {
+          "serbian_latin": "To kao da je dalo krila domaćoj selekciji, koja je i u trećem setu sjajno servirala i igrala dobro u odbrani.",
+          "russian": "Это словно окрылило хозяев: и в третьем сете они великолепно подавали и хорошо играли в защите.",
+          "source": "RTS, 2009; репортаж о волейбольном матче",
+          "url": "https://www.rts.rs/lat/sport/Odbojka/68964/Koreja%2Bbolja%2Bu%2Bdrugom%2Bme%C4%8Du%2Bod%2BSrbije.html"
+        }
+      ],
+      "note": "В конструкции dati kome krila дательный падеж обозначает того, кто получил воодушевление: mi, njemu, ekipi. Источником уверенности может быть успех, поддержка или удачный поворот событий. Со стороны самого человека это же изменение описывается сочетанием dobiti krila — «окрылиться». Русское «дать крылья» понятно, но в обычном переводе чаще естественно звучат «окрылить» и «придать уверенности».",
+      "keyword": "dati krila; dobiti krila"
+    },
+    {
       "headword_latin": "dati / dobiti crveni karton",
       "type": "glagolski frazem",
       "definition_ru": "Показать или получить красную карточку; отстранить, отвергнуть или положить чему-либо конец.",
@@ -4524,33 +4388,6 @@
       "keyword": "svetlo"
     },
     {
-      "headword_latin": "Davati / dobijati nešto na kašičicu",
-      "type": "frazeologizam",
-      "definition_ru": "выдавать / получать по чайной ложке; давать малыми дозами; понемногу и с задержками",
-      "synonyms_sr": [
-        "davati pomalo",
-        "dozirati",
-        "davati deo po deo",
-        "davati u malim količinama"
-      ],
-      "literal_ru": "давать по ложечке",
-      "register": "razg.-publicistički, često neodobr.; o novcu, informacijama, pomoći, resursima, investicijama i sl.",
-      "examples": [
-        {
-          "serbian_latin": "Linijski park koji Beograd dobija „na kašičicu“.",
-          "russian": "Линейный парк, который Белград получает буквально по чайной ложке, маленькими частями.",
-          "source": "N1, 2026"
-        },
-        {
-          "serbian_latin": "Obnova voznog parka VS svela se na kupovinu „na kašičicu“.",
-          "russian": "Обновление парка техники Вооружённых сил свелось к закупкам микроскопическими порциями.",
-          "source": "Politika, 2017"
-        }
-      ],
-      "note": "В переносном употреблении обычно чувствуется, что чего-то дают слишком мало или слишком медленно, хотя ожидается нормальный объём. Очень естественны informacije na kašičicu, pomoć na kašičicu, novac na kašičicu. Русское «по чайной ложке» хорошо сохраняет образ, а «дозированно» подходит для нейтрального перевода.",
-      "keyword": "na kašičicu"
-    },
-    {
       "headword_latin": "Debeo kao svinja",
       "type": "frazeologizam",
       "definition_ru": "толстый как свинья; очень толстый",
@@ -4614,35 +4451,6 @@
       "keyword": "debeo kao svinja"
     },
     {
-      "headword_latin": "Deliti lekcije",
-      "type": "frazeologizam",
-      "definition_ru": "1. Поучать, читать нотации, назидательно объяснять другим, как им следует поступать; часто неодобрительно. 2. Своим поведением или мастерством преподносить другим урок, показывать достойный пример.",
-      "synonyms_sr": [
-        "držati pridike",
-        "pametovati",
-        "pokazivati drugima kako se nešto radi",
-        "biti primer drugima"
-      ],
-      "literal_ru": "Раздавать уроки.",
-      "register": "Разговорное и публицистическое; оценка колеблется от неодобрения до восхищения.",
-      "examples": [
-        {
-          "serbian_latin": "Ljubičićeva: Skandalozno da Janković deli lekcije o bezbednosti",
-          "russian": "Любичич: возмутительно, что Янкович берётся поучать других вопросам безопасности.",
-          "source": "RTS / Tanjug, 2017; заголовок с высказыванием Любичич",
-          "url": "https://www.rts.rs/lat/vesti/politika/2625575/ljubiciceva-skandalozno-da-jankovic-deli-lekcije-o-bezbednosti.html"
-        },
-        {
-          "serbian_latin": "Devojčurak iz Orahovca, nesvesno, dok radi ono što najviše voli, mnogima deli lekcije – o vernosti, ljubavi, upornosti i hrabrosti.",
-          "russian": "Девочка из Ораховца, занимаясь любимым делом, сама того не осознавая, преподаёт многим уроки верности, любви, упорства и смелости.",
-          "source": "RTS, 2025; авторская характеристика героини передачи «Rodoslavci: Pavlina»",
-          "url": "https://www.rts.rs/lat/tv/rts1/5632494/rodoslavci-pavlina.html"
-        }
-      ],
-      "note": "Общая модель: deliti kome lekcije o nečemu — поучать кого-либо по какому-либо вопросу. В первом примере говорящая отказывает оппоненту в праве наставлять других; это её полемическая оценка. Во втором «уроки» преподаются без назидательных речей, самим поведением девочки. Поэтому автоматический перевод «читать нотации» был бы здесь неверен. Сербские синонимы в статье относятся к разным значениям и не взаимозаменяемы во всех контекстах.",
-      "keyword": "deliti lekcije"
-    },
-    {
       "headword_latin": "deliti šakom i kapom",
       "type": "глагольный фразеологизм",
       "definition_ru": "Раздавать щедро и в больших количествах; раздавать направо и налево, иногда без меры и разбора.",
@@ -4672,62 +4480,6 @@
       "keyword": "šaka; kapa"
     },
     {
-      "headword_latin": "Devojka za sve",
-      "type": "frazeologizam",
-      "definition_ru": "Человек, которому поручают самые разные дела: универсальный помощник, работник на все случаи. В неодобрительном контексте — человек на побегушках, на которого все сваливают свои поручения. Выражение может относиться и к мужчине.",
-      "synonyms_sr": [
-        "osoba za sve poslove",
-        "svestrani pomoćnik",
-        "onaj kome svi daju zadatke"
-      ],
-      "literal_ru": "Девушка для всего.",
-      "register": "Разговорное, нередко шутливое; может подчёркивать полезность человека или его зависимое положение.",
-      "examples": [
-        {
-          "serbian_latin": "Čeda je službenik kojeg svi maltretiraju. On je \"devojka za sve\": šeta pudlicu, kuva kafu za pokeraško društvo njegove supruge.",
-          "russian": "Чеда — служащий, которым все помыкают. Он у всех на побегушках: выгуливает пуделя, варит кофе для покерной компании своей жены.",
-          "source": "RTS, 2023; описание сюжета фильма «Velika frka»",
-          "url": "https://www.rts.rs/lat/tv/rts1/5070337/velika-frka.html"
-        },
-        {
-          "serbian_latin": "„Devojka za sve“. Radilica na terenu. […] ume da odigra na svakom delu terena.",
-          "russian": "«Универсал на все случаи». Неутомимый работяга на поле. […] умеет сыграть на любом участке поля.",
-          "source": "Danas, 2010; характеристика футболиста Аднана Бекташевича",
-          "url": "https://www.danas.rs/vesti/drustvo/oni-su-nesto-posebno/"
-        }
-      ],
-      "note": "Оба примера относятся к мужчинам: буквальный перевод через «девушку» здесь не объясняет смысл. В описании фильма это подневольный исполнитель чужих поручений; в спортивной статье — полезный универсал, способный выполнять разные задачи. Поэтому «мастер на все руки» и «человек на побегушках» подходят к разным оттенкам. Само выражение не характеризует личные или сексуальные отношения человека.",
-      "keyword": "devojka za sve"
-    },
-    {
-      "headword_latin": "Dežurni krivac",
-      "type": "frazeološki izraz",
-      "definition_ru": "Постоянный «виноватый»: человек, группа или организация, на которых привычно сваливают ответственность за неприятности. Тот, кого удобно объявлять крайним, часто независимо от конкретных обстоятельств.",
-      "synonyms_sr": [
-        "onaj koga stalno okrivljuju",
-        "krivac za sve",
-        "žrtveni jarac"
-      ],
-      "literal_ru": "Дежурный виновник.",
-      "register": "Разговорное и публицистическое; обычно ироническое или с упрёком в несправедливом обвинении.",
-      "examples": [
-        {
-          "serbian_latin": "Srbija više nije samo dežurni krivac američke balkanske politike, već ozbiljan pregovarački partner.",
-          "russian": "Сербия больше не просто привычный «виноватый» в американской политике на Балканах, а серьёзный партнёр по переговорам.",
-          "source": "RTS / Tanjug, 2026; сербская передача оценки из швейцарского издания Weltwoche",
-          "url": "https://www.rts.rs/lat/vesti/politika/6003664/veltvohe-srbija-amerika-dijalog-straategija-.html"
-        },
-        {
-          "serbian_latin": "Posle njihovih upozorenja, Aleksa je postao „dežurni krivac“, a oni su „rušili ugled škole“.",
-          "russian": "После их предупреждений Алексу стали делать «вечно виноватым», а родителей обвинять в том, что они «подрывают репутацию школы».",
-          "source": "Danas, 2011; пересказ позиции родителей в репортаже",
-          "url": "https://www.danas.rs/vesti/drustvo/poruka-drzave-sami-stitite-svoju-decu/"
-        }
-      ],
-      "note": "Dežurni здесь не означает дежурство по расписанию: подразумевается привычная мишень для обвинений. Выражение показывает отношение говорящего к распределению вины, но само по себе не доказывает невиновность названного лица. Близкое žrtveni jarac — «козёл отпущения» — сильнее подчёркивает перенесение чужой вины на выбранную жертву. Dežurni krivac может обозначать и целую страну, как в первом примере.",
-      "keyword": "dežurni krivac"
-    },
-    {
       "headword_latin": "Dići / dignuti ruke od nekoga / nečega",
       "type": "frazeologizam",
       "definition_ru": "махнуть рукой на кого-то / что-то; отказаться; бросить попытки",
@@ -4755,60 +4507,6 @@
       ],
       "note": "Оба инфинитива — dići и dignuti — нормативны и употребительны. С делом выражение означает «бросить, отказаться от дальнейших попыток»; с человеком — «перестать надеяться на него, пытаться ему помочь или заниматься им». Русское «махнуть рукой на…» обычно передаёт оттенок точнее всего.",
       "keyword": "dići ruke od"
-    },
-    {
-      "headword_latin": "Dići / dignuti se na zadnje noge",
-      "type": "frazeologizam",
-      "definition_ru": "встать на дыбы; резко воспротивиться; поднять бурный протест",
-      "synonyms_sr": [
-        "pobuniti se",
-        "burno reagovati",
-        "oštro se usprotiviti",
-        "dići galamu"
-      ],
-      "literal_ru": "встать на задние ноги",
-      "register": "razg.-publicistički, ekspresivno; često o grupi ljudi, organizaciji ili javnosti",
-      "examples": [
-        {
-          "serbian_latin": "Pojedini analitičari i neki naši susedi digli su se na zadnje noge zbog samita nesvrstanih u Beogradu.",
-          "russian": "Некоторые аналитики и наши соседи встали на дыбы из-за саммита неприсоединившихся в Белграде.",
-          "source": "Kurir, 2021"
-        },
-        {
-          "serbian_latin": "Istog trenutka hrvatski zvaničnici digli su se na zadnje noge i otvoreno zapretili odmazdom.",
-          "russian": "Хорватские официальные лица тут же встали на дыбы и открыто пригрозили ответными мерами.",
-          "source": "Kurir, 2024"
-        }
-      ],
-      "note": "Образ — животное, которое встаёт на задние ноги перед нападением или сопротивлением. В переносном смысле речь почти всегда о резкой и шумной реакции, а не просто о несогласии. Русское «встать на дыбы» совпадает очень хорошо.",
-      "keyword": "na zadnje noge"
-    },
-    {
-      "headword_latin": "Dići / dignuti sve četiri uvis",
-      "type": "frazeologizam",
-      "definition_ru": "задрать лапки и отдыхать; развалиться и ничего не делать; полностью расслабиться",
-      "synonyms_sr": [
-        "izležavati se",
-        "odmarati",
-        "ne raditi ništa",
-        "dignuti noge"
-      ],
-      "literal_ru": "задрать все четыре лапы вверх",
-      "register": "razg., šalj.; ponekad neodobr. o neradu",
-      "examples": [
-        {
-          "serbian_latin": "Neko bi uveliko digao sve četiri noge uvis i čekao da mu padaju pare s neba.",
-          "russian": "Кто-то другой давно бы уже задрал все четыре лапы и ждал, пока деньги сами посыплются с неба.",
-          "source": "Blic, 2024"
-        },
-        {
-          "serbian_latin": "Uključite klimu daljinskim i dignete sve četiri uvis?",
-          "russian": "Включить кондиционер пультом, задрать все четыре лапы и отдыхать?",
-          "source": "Ona / Telegraf, 2026"
-        }
-      ],
-      "note": "Sve četiri шутливо превращает человека в четвероногое животное: руки и ноги «отключены», человек отдыхает и ничего не делает. Не путать с dići ruke od nečega — «махнуть рукой, отказаться от попыток». Здесь основной смысл — расслабиться, бездельничать, иногда заслуженно отдыхать.",
-      "keyword": "sve četiri uvis"
     },
     {
       "headword_latin": "Dići / praviti frku",
@@ -5293,34 +4991,6 @@
       "keyword": "ruka"
     },
     {
-      "headword_latin": "Doći / stići na naplatu",
-      "type": "ustaljeni metaforički izraz",
-      "definition_ru": "Дать о себе знать неприятными последствиями; потребовать расплаты. О прежних ошибках, чрезмерной нагрузке или нерешённых проблемах — накопиться и обернуться трудностями сейчас. Русские соответствия: «аукнуться», «теперь приходится расплачиваться», «всё это сказалось».",
-      "synonyms_sr": [
-        "uzeti svoj danak",
-        "imati odložene posledice",
-        "obiti se o glavu"
-      ],
-      "literal_ru": "Поступить к оплате, взысканию.",
-      "register": "Разговорное и публицистическое; финансовый образ в переносном употреблении.",
-      "examples": [
-        {
-          "serbian_latin": "Godine loših poslovnih odluka ponovo su stigle na naplatu […]",
-          "russian": "За годы неудачных управленческих решений вновь пришлось расплачиваться […]",
-          "source": "RTS, 2025; фрагмент спортивной статьи о «Лейкерс»",
-          "url": "https://www.rts.rs/lat/sport/kosarka/nba/5702225/lejkersi-lose-odluka-naplata-lebron-nba.html"
-        },
-        {
-          "serbian_latin": "Nosio je na leđima mnogo toga povređen i umoran. Sve je došlo na naplatu.",
-          "russian": "Он многое тащил на себе, играя с травмами и уставшим. Теперь всё это сказалось.",
-          "source": "Sportski žurnal, 2026; высказывание Деяна Станковича о Мирко Иваниче",
-          "url": "https://zurnal.politika.rs/sr/clanak/245069/fudbal/zvezda/stankovic-preziveo-sam-ivanicev-pakao"
-        }
-      ],
-      "note": "Это не обязательно наказание за проступок: во втором примере говорящий описывает последствия многолетней нагрузки. Подлежащим выступает то, за что приходится «платить»: greške su došle na naplatu, umor je došao na naplatu. Не смешивать с naplatiti nekome nešto — «взыскать с кого-либо плату». При буквальном разговоре о долге или счёте сочетание может вообще не быть фразеологизмом; здесь приведены именно переносные употребления.",
-      "keyword": "naplata"
-    },
-    {
       "headword_latin": "Doći će cica na kolica",
       "type": "izreka",
       "definition_ru": "ещё придёт твой черёд; ещё придёшь просить; придёт расплата",
@@ -5485,28 +5155,30 @@
     {
       "headword_latin": "Doći nekome glave",
       "type": "frazeologizam",
-      "definition_ru": "погубить кого-то; доконать; стать причиной краха, смерти или серьёзного поражения",
+      "definition_ru": "погубить кого-то; доконать; стать причиной гибели или краха",
       "synonyms_sr": [
         "upropastiti",
+        "uništiti",
         "dokrajčiti",
-        "biti koban za nekoga",
-        "uništiti nekoga"
+        "biti koban za nekoga"
       ],
       "literal_ru": "добраться до чьей-то головы",
-      "register": "razg.-neutralno, ekspresivno; nešto / neko je nekome došlo glave",
+      "register": "разг.-публицист., экспр.; лицо в дательном падеже: to će mu doći glave",
       "examples": [
         {
-          "serbian_latin": "Na kraju mu je upravo ta neopreznost došla glave.",
-          "russian": "В конце концов именно эта неосторожность его и погубила.",
-          "source": ""
+          "serbian_latin": "Neobrazovanje koje će narodu doći glave.",
+          "russian": "Необразованность, которая в конце концов погубит народ.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/neobrazovanje-koje-ce-narodu-doci-glave/"
         },
         {
-          "serbian_latin": "Mislio je da može tako zauvek, ali su mu dugovi došli glave.",
-          "russian": "Он думал, что так можно продолжать вечно, но долги в конце концов его доконали.",
-          "source": ""
+          "serbian_latin": "I to će vam kad-tad „doći glave“.",
+          "russian": "И это рано или поздно вас погубит.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/uzor-i-uzorak"
         }
       ],
-      "note": "Выражение не обязательно означает смерть. Kocka mu je došla glave может значить «азартные игры его разорили», а greška mu je došla glave — «ошибка его погубила / стоила ему поражения». Для русского важно управление: došlo mu je glave, где лицо стоит в дательном падеже.",
+      "note": "Выражение может обозначать как буквальную гибель, так и полный крах карьеры, бизнеса, системы или положения человека. Для русского особенно полезна безличная модель to će mi / ti / mu doći glave — «это меня / тебя / его погубит». Не путать с raditi nekome o glavi — «замышлять против кого-то, желать устранить».",
       "keyword": "doći glave"
     },
     {
@@ -5908,33 +5580,6 @@
       "keyword": "ulje; vatra"
     },
     {
-      "headword_latin": "Dolivati / doliti ulje na vatru",
-      "type": "frazeologizam",
-      "definition_ru": "подливать масла в огонь; обострять конфликт; усиливать напряжение",
-      "synonyms_sr": [
-        "podgrevati tenzije",
-        "raspirivati sukob",
-        "pogoršavati situaciju",
-        "dodatno zaoštravati"
-      ],
-      "literal_ru": "подливать масло в огонь",
-      "register": "razg.-publicistički, neodobr.; takođe sipati ulje na vatru",
-      "examples": [
-        {
-          "serbian_latin": "Ne treba dolivati ulje na vatru, treba smiriti situaciju.",
-          "russian": "Не надо подливать масла в огонь, нужно успокоить ситуацию.",
-          "source": "RTS, 2009"
-        },
-        {
-          "serbian_latin": "Sada je najvažnije ne dolivati ulje na vatru.",
-          "russian": "Сейчас главное — не подливать масла в огонь.",
-          "source": "RTS, 2015"
-        }
-      ],
-      "note": "Практически полный эквивалент русского выражения. Глагол dolivati особенно естественен, когда конфликт уже существует и кто-то своими словами или действиями его дополнительно разжигает. Sipati ulje na vatru тоже употребляется, но dolivati лучше передаёт идею «добавлять ещё».",
-      "keyword": "dolivati ulje na vatru"
-    },
-    {
       "headword_latin": "dolivati ulje na vatru",
       "type": "глагольный фразеологизм",
       "definition_ru": "Подливать масла в огонь; своими словами или действиями ещё больше обострять конфликт либо напряжённую ситуацию.",
@@ -5988,6 +5633,34 @@
       ],
       "note": "Это ближе не к общему «когда рак на горе свистнет», а к моменту расплаты или вынужденного возвращения. Фразеологические описания дают смысл: человек уклонялся от обязанности или встречи, но наконец вынужден столкнуться с людьми, фактами или последствиями. Русское «придёт зима — снега попросишь» хорошо передаёт один частный сценарий: «ещё сам ко мне придёшь».",
       "keyword": "došla maca na vratanca"
+    },
+    {
+      "headword_latin": "Doterati cara do duvara",
+      "type": "frazeologizam",
+      "definition_ru": "Довести дело до предела, зайти слишком далеко. В зависимости от ситуации — довести положение до кризиса, исчерпать чужое терпение или перейти последнюю допустимую границу.",
+      "synonyms_sr": [
+        "preterati",
+        "dovesti stvari do krajnje granice",
+        "dovesti situaciju do usijanja"
+      ],
+      "literal_ru": "Загнать царя к стене.",
+      "register": "Разговорное и публицистическое, экспрессивное; обычно с упрёком или предупреждением.",
+      "examples": [
+        {
+          "serbian_latin": "Trenutni direktor nemačkog instituta koji je postojao više od 130 godina je doterao „cara do duvara”.",
+          "russian": "Тогдашний директор немецкого института, просуществовавшего больше 130 лет, довёл дело до критической точки.",
+          "source": "Politika, 2019; авторское воспоминание о закрытии института",
+          "url": "https://www.politika.rs/sr/clanak/444839/kad-poreznici-ceo-institut-izbace-na-ulicu"
+        },
+        {
+          "serbian_latin": "[…] ko god stoji, sada je doterao cara do duvara […]",
+          "russian": "[…] кто бы за этим ни стоял, теперь он уже перешёл все границы […]",
+          "source": "RTV / Tanjug, 2020; фрагмент высказывания Милорада Пуповца",
+          "url": "https://rtv.rs/sr_lat/region/objavljen-snimak-napada-na-mlade-srbe-u-vukovaru_1156382.html"
+        }
+      ],
+      "note": "Не следует автоматически понимать оборот как «прижать к стенке другого человека». Действующий субъект может сам довести собственные дела до тяжёлого положения. В другом контексте выражение предупреждает: дальше терпеть происходящее уже невозможно. Duvar здесь означает «стена». Формы прошедшего времени: doterao, doterala, doterali. В первом примере речь о последствиях управления, во втором — об оценке чужих действий говорящим.",
+      "keyword": "doterati cara do duvara"
     },
     {
       "headword_latin": "Dozvati se pameti",
@@ -6469,32 +6142,6 @@
       ],
       "note": "Это сильнее простого kontrolisati: обычно контролируемому человеку трудно сопротивляться, поскольку другая сторона располагает реальным средством давления. Русское «держать в кулаке» близко, но иногда звучит жёстче; «держать в своих руках» универсальнее.",
       "keyword": "držati u šaci"
-    },
-    {
-      "headword_latin": "Držati nekome sveću",
-      "type": "frazeologizam",
-      "definition_ru": "быть третьим лишним при влюблённой паре; присутствовать при чужой интимной ситуации; быть свидетелем того, при чём обычно не присутствуют",
-      "synonyms_sr": [
-        "biti treći višak",
-        "biti suvišan uz zaljubljeni par",
-        "prisustvovati tuđoj intimi"
-      ],
-      "literal_ru": "держать кому-то свечу",
-      "register": "razg., šalj.; naročito o trećoj osobi pored zaljubljenog para",
-      "examples": [
-        {
-          "serbian_latin": "Jokić, koji sedi za stolom preko puta njih, drži im sveću.",
-          "russian": "Йокич сидит напротив влюблённой пары и оказывается в роли третьего лишнего.",
-          "source": "Kurir, 2019"
-        },
-        {
-          "serbian_latin": "Zašto šetaju, šta traže? Da im neko drži sveću, je li?",
-          "russian": "Зачем им кто-то должен присутствовать при том, что они делают в своей частной жизни?",
-          "source": "Blic, 2013"
-        }
-      ],
-      "note": "Здесь есть интересное расхождение с русским. Русское «я свечку не держал» обычно означает «я не был свидетелем их интимной жизни и не могу знать наверняка». Сербское držati nekome sveću сохраняет и этот смысл, но очень часто обозначает именно неловкого «третьего лишнего», который находится рядом с влюблённой парой. Поэтому Neću da vam držim sveću может значить просто «оставлю вас вдвоём».",
-      "keyword": "držati sveću"
     },
     {
       "headword_latin": "držati palčeve",
@@ -8940,6 +8587,35 @@
       "keyword": "niz dlaku"
     },
     {
+      "headword_latin": "Igrati na sigurno",
+      "type": "frazeologizam",
+      "definition_ru": "Не рисковать, выбирать надёжный или проверенный вариант; перестраховываться. Так говорят не только об игре, но и о работе, повседневных решениях и выборе жизненного пути.",
+      "synonyms_sr": [
+        "ne rizikovati",
+        "birati sigurniju opciju",
+        "osloniti se na provereno",
+        "postupati oprezno"
+      ],
+      "literal_ru": "Играть с расчётом на надёжный, безопасный исход.",
+      "register": "Разговорное и публицистическое; нейтральное, одобрительное или критическое по контексту.",
+      "examples": [
+        {
+          "serbian_latin": "Najbolje je \"igrati na sigurno\", pa ponesite više vode.",
+          "russian": "Лучше перестраховаться, поэтому возьмите побольше воды.",
+          "source": "Telegraf Ljubimci, 2025; совет о подготовке к прогулке на природе",
+          "url": "https://ljubimci.telegraf.rs/vesti-i-dogadjaji/saveti/4169586-pripreme-za-izlet-u-prirodi-sa-psom"
+        },
+        {
+          "serbian_latin": "[…] igrati na sigurno i odlučiti se za klasičan kancelarijski posao ili slediti svoj san […]",
+          "russian": "[…] выбрать надёжный путь и обычную офисную работу или последовать за своей мечтой […]",
+          "source": "ATA Stars, 2015; фрагмент описания сюжета фильма",
+          "url": "https://www.atastars.rs/vesti-ostalo/film/126435-film-qwe-are-your-friendsq-namenjen-ljubiteljima-elektronike/"
+        }
+      ],
+      "note": "Оборот описывает стратегию выбора, а не гарантированный результат. Человек старается уменьшить риск, но успех всё равно не обеспечен. В первом примере осторожность разумна; во втором надёжность противопоставлена осуществлению мечты. В русском подойдут «действовать наверняка», «делать ставку на проверенное», «не рисковать». Играть здесь не обязательно означает участвовать в соревновании или азартной игре.",
+      "keyword": "igrati na sigurno"
+    },
+    {
       "headword_latin": "igrati otvorenih karata",
       "type": "глагольный фразеологизм",
       "definition_ru": "Играть в открытую; действовать прозрачно и не скрывать своих намерений.",
@@ -9224,6 +8900,34 @@
       ],
       "note": "Старый образ связан с отсечённой головой: когда жизнь человека в опасности, она словно уже отделена от тела и лежит в торбе. В источниках фиксируются nositi glavu u torbi, metnuti glavu u torbu и glava mu je u torbi. Русское «держать голову в сумке» невозможно; переводить нужно «рисковать головой / жизнью».",
       "keyword": "glava u torbi"
+    },
+    {
+      "headword_latin": "Imati debelu kožu",
+      "type": "frazeologizam",
+      "definition_ru": "Быть устойчивым к критике, насмешкам и нападкам; не принимать их слишком близко к сердцу. По контексту — обладать здоровой невозмутимостью либо быть чрезмерно невосприимчивым к чужим замечаниям.",
+      "synonyms_sr": [
+        "biti otporan na kritike",
+        "ne vređati se lako",
+        "ne primati sve lično"
+      ],
+      "literal_ru": "Иметь толстую кожу.",
+      "register": "Разговорное и публицистическое; оценка может быть положительной или неодобрительной.",
+      "examples": [
+        {
+          "serbian_latin": "Teško je primiti kritiku, pa je stoga dobro imati “debelu kožu”, kako nas uče.",
+          "russian": "Критику принимать трудно, поэтому, как нас учат, полезно быть к ней менее чувствительным.",
+          "source": "Srbija Danas, 2014",
+          "url": "https://www.sd.rs/clanak/leji-ste-i-svadljivi-odlicno-14-10-2014"
+        },
+        {
+          "serbian_latin": "Nije me briga, navikao sam da budem u centru pažnje, imam debelu kožu.",
+          "russian": "Меня это не волнует: я привык быть в центре внимания, меня критикой не проймёшь.",
+          "source": "BN / Blic, 2017; сербский перевод высказывания футболиста Акселя Витселя",
+          "url": "https://www.rtvbn.com/3847850/vitsel-kritike-me-ne-doticu-ali-mama-i-sestra-prolaze-kroz-pakao"
+        }
+      ],
+      "note": "Русское «толстокожий» нередко подразумевает бессердечие, а сербский оборот в этих примерах — прежде всего защищённость от неприятных оценок. Поэтому перевод «меня трудно задеть» бывает точнее буквального. При этом устойчивость к нападкам и готовность учитывать обоснованную критику не исключают друг друга: первый источник специально противопоставляет эти вещи полному игнорированию замечаний.",
+      "keyword": "debela koža"
     },
     {
       "headword_latin": "Imati dve leve ruke",
@@ -10457,6 +10161,35 @@
       "keyword": "izbaciti iz takta"
     },
     {
+      "headword_latin": "Izbiti / izbijati nekome adute iz ruku",
+      "type": "frazeologizam",
+      "definition_ru": "Выбить у кого-либо козыри: лишить убедительных аргументов, выгодной позиции или средства давления. Устранить то преимущество, на которое другой человек рассчитывал в споре или соперничестве.",
+      "synonyms_sr": [
+        "lišiti nekoga prednosti",
+        "oduzeti nekome glavne argumente",
+        "oslabiti nečiju poziciju",
+        "obesnažiti nečije argumente"
+      ],
+      "literal_ru": "Выбить у кого-либо козыри из рук.",
+      "register": "Публицистическое и разговорное; образное, часто о споре и противоборстве.",
+      "examples": [
+        {
+          "serbian_latin": "[…] a time bismo i izbili iz ruku adute autonomaša da su sva ministarstva u Beogradu […]",
+          "russian": "[…] тем самым мы лишили бы сторонников автономии аргумента, что все министерства находятся в Белграде […]",
+          "source": "Blic, 2020; фрагмент интервью Жики Гойковича",
+          "url": "https://www.blic.rs/vesti/politika/autonomasima-izbiti-adute-zika-gojkovic-poks-ministarstva-poljoprivrede-i-prosvete/q16xmy5"
+        },
+        {
+          "serbian_latin": "Asanž izbija iz ruku poslednje adute Klintonove!",
+          "russian": "Ассанж выбивает у Клинтон последние козыри!",
+          "source": "Espreso, 2016; фрагмент заголовка",
+          "url": "https://www.espreso.co.rs/svet/planeta/88227/rusija-nema-veze-sa-mejlovima-zao-mi-je-hilari-asanz-izbija-iz-ruku-poslednje-adute-klintonove-video"
+        }
+      ],
+      "note": "Adut — «козырь»; в переносном употреблении это преимущество или сильный аргумент. Возможны перестановки слов: izbiti nekome adute iz ruku и izbiti nekome iz ruku adute. В первом примере названа конкретная претензия, которую предлагается устранить; во втором заголовок образно оценивает воздействие публикаций на политическую борьбу. Физического действия оборот не обозначает.",
+      "keyword": "aduti iz ruku"
+    },
+    {
       "headword_latin": "Izgledati kao avion",
       "type": "frazeologizam",
       "definition_ru": "Выглядеть сногсшибательно; выглядеть на все сто; быть просто отпад.",
@@ -10658,32 +10391,6 @@
       ],
       "note": "Izigravati здесь значит «разыгрывать, изображать определённую роль», причём обычно с отрицательной оценкой: говорящий считает эту роль не вполне искренней. Поэтому izigravati žrtvu сильнее нейтрального biti žrtva. Та же модель встречается в izigravati heroja, stručnjaka, klovna.",
       "keyword": "izigravati žrtvu"
-    },
-    {
-      "headword_latin": "Između Scile i Haribde",
-      "type": "frazeologizam",
-      "definition_ru": "между Сциллой и Харибдой; между двумя одинаково опасными вариантами; из двух зол выбирать меньшее",
-      "synonyms_sr": [
-        "između dve vatre",
-        "između čekića i nakovnja",
-        "birati manje zlo"
-      ],
-      "literal_ru": "",
-      "register": "knjiž.-publicistički; antički frazeologizam",
-      "examples": [
-        {
-          "serbian_latin": "U ovom teškom vremenu prošli smo između Scile i Haribde, a da nismo rušili odnose koji su nam ostavljeni u nasleđe.",
-          "russian": "В это трудное время мы прошли между Сциллой и Харибдой, не разрушив унаследованных отношений.",
-          "source": "RTS, 2026"
-        },
-        {
-          "serbian_latin": "Tužioci su birali između Scile i Haribde.",
-          "russian": "Прокурорам пришлось выбирать между Сциллой и Харибдой.",
-          "source": "Danas / N1, 2025"
-        }
-      ],
-      "note": "В «Одиссее» Сцилла и Харибда — две смертельные опасности по разные стороны морского прохода. Поэтому оборот точнее русского «между молотом и наковальней» передаёт ситуацию, где избежать обеих опасностей практически невозможно. В сербском нормативная форма — Haribda.",
-      "keyword": "Scila i Haribda"
     },
     {
       "headword_latin": "izneti prljav veš",
@@ -13230,6 +12937,35 @@
       "keyword": "zmija; noge"
     },
     {
+      "headword_latin": "Krojiti / skrojiti nekome kapu",
+      "type": "frazeologizam",
+      "definition_ru": "Решать за другого, распоряжаться его судьбой или навязывать ему условия. Определять, как человеку, коллективу или сообществу жить и действовать, нередко без их согласия.",
+      "synonyms_sr": [
+        "odlučivati umesto nekoga",
+        "određivati nečiju sudbinu",
+        "nametati nekome svoju volju",
+        "upravljati tuđim životom"
+      ],
+      "literal_ru": "Кроить / скроить кому-либо шапку.",
+      "register": "Разговорное и публицистическое; часто с недовольством чужим вмешательством.",
+      "examples": [
+        {
+          "serbian_latin": "Prema Sindikatu, oružarima će za koji dan „krojiti kapu“ strani investitor […]",
+          "russian": "По мнению профсоюза, скоро судьбу работников оружейного завода будет решать иностранный инвестор […]",
+          "source": "Danas / FoNet, 2018; фрагмент сообщения о позиции профсоюза",
+          "url": "https://www.danas.rs/vesti/drustvo/prosvetari-podrzavaju-oruzare/"
+        },
+        {
+          "serbian_latin": "Užice nam više neće krojiti kapu.",
+          "russian": "Ужице больше не будет решать за нас.",
+          "source": "Blic, 2014; высказывание в репортаже о Севойно",
+          "url": "https://www.blic.rs/vesti/srbija/sevojno-zubara-da-imamo-sve-ostalo-bi-lako/hkng0jn"
+        }
+      ],
+      "note": "Это не русское «шить дело»: обвинение в преступлении или фабрикация доказательств здесь не подразумеваются. В центре значения — чужая власть над решениями. Управление: krojiti kome kapu; местоимения mi, ti, nam обозначают того, за кого решают. В отрицательной конструкции выражение может звучать как отстаивание самостоятельности. Название города во втором примере обозначает его органы управления.",
+      "keyword": "krojiti kapu"
+    },
+    {
       "headword_latin": "Kružiti / obilaziti kao kiša oko Kragujevca",
       "type": "frazeologizam",
       "definition_ru": "ходить вокруг да около; всячески обходить суть; избегать прямого подхода",
@@ -13307,32 +13043,6 @@
       ],
       "note": "Kucati na sva vrata подчёркивает длительные и многочисленные попытки найти того, кто поможет; zakucati представляет такое обращение как более конкретный или решительный шаг. Для русского очень естественно «обивать пороги». Запоминается именно конструкция na sva vrata.",
       "keyword": "kucati na sva vrata"
-    },
-    {
-      "headword_latin": "Kucati na otvorena vrata",
-      "type": "frazeologizam",
-      "definition_ru": "ломиться в открытую дверь; доказывать то, с чем и так согласны; добиваться уже доступного",
-      "synonyms_sr": [
-        "ubeđivati već ubeđene",
-        "dokazivati očigledno",
-        "zalagati se za već prihvaćeno"
-      ],
-      "literal_ru": "стучать в открытую дверь",
-      "register": "razg.-publicistički, često iron.",
-      "examples": [
-        {
-          "serbian_latin": "Ministar kuca na otvorena vrata.",
-          "russian": "Министр ломится в открытую дверь.",
-          "source": "Danas, 2024"
-        },
-        {
-          "serbian_latin": "Kolega Jovanović, ako poziva na ujedinjenje, kuca na otvorena vrata.",
-          "russian": "Если коллега Йованович призывает к объединению, то он ломится в открытую дверь: здесь с ним и так согласны.",
-          "source": "Danas, 2023"
-        }
-      ],
-      "note": "Сербский образ мягче русского: по-сербски человек лишь kuca «стучит», тогда как по-русски обычно «ломится» в уже открытую дверь. Смысл один: усилия направлены на преодоление сопротивления, которого на самом деле нет.",
-      "keyword": "kucati na otvorena vrata"
     },
     {
       "headword_latin": "Kucni u drvo",
@@ -13887,58 +13597,30 @@
       "keyword": "koplje"
     },
     {
-      "headword_latin": "Lomiti se preko nečijih leđa",
-      "type": "frazeologizam",
-      "definition_ru": "Ложиться тяжёлым бременем на кого-либо; разрешаться за чужой счёт. О конфликте, кризисе или неудачном решении — оборачиваться неприятностями для людей, которым приходится отдуваться, хотя они могут не быть виновниками происходящего.",
-      "synonyms_sr": [
-        "ići na nečiju štetu",
-        "rešavati se na tuđ račun",
-        "pogađati one koji nisu krivi",
-        "svaljivati teret na nekoga"
-      ],
-      "literal_ru": "Ломаться о чью-либо спину.",
-      "register": "Разговорное и публицистическое; обычно критическое, с оттенком несправедливости.",
-      "examples": [
-        {
-          "serbian_latin": "Raskol koji vlada među strankama i partijama, nažalost, opet se \"lomi\" preko leđa građana, […]",
-          "russian": "К сожалению, за очередной раскол между партиями снова приходится расплачиваться гражданам, […]",
-          "source": "Politika, 2007; фрагмент статьи о газификации Ниша",
-          "url": "https://www.politika.rs/sr/clanak/6162/gasifikacija-nisa-tapka-u-mestu"
-        },
-        {
-          "serbian_latin": "Da li će dugotrajna priča o previsokim maržama u maloprodajnim lancima u Srbiji nastaviti da se lomi preko leđa običnih građana?",
-          "russian": "Неужели за затянувшуюся историю с чрезмерными торговыми наценками в Сербии и дальше будут расплачиваться обычные граждане?",
-          "source": "Blic Biznis, 2025; начало статьи о положении в розничной торговле",
-          "url": "https://www.blic.rs/biznis/privreda/delez-srbija-otpusta-radnike-i-zatvara-25-prodavnica-maksija/wnf83bd"
-        }
-      ],
-      "note": "Грамматически «ломается» конфликт или проблема, а не человек: sve se lomi preko leđa građana. По-русски естественнее перестроить фразу: «за всё отдуваются граждане». Возможны формы preko mojih, tvojih, njihovih leđa. Предлог preko требует родительного падежа. Оборот не описывает буквальную травму спины и не обязательно касается денежных потерь: бременем могут быть задержки, ухудшение условий жизни или чужие претензии.",
-      "keyword": "preko nečijih leđa"
-    },
-    {
       "headword_latin": "Loviti u mutnom",
       "type": "frazeologizam",
-      "definition_ru": "ловить рыбку в мутной воде; пользоваться неразберихой ради выгоды; наживаться на хаосе",
+      "definition_ru": "ловить рыбу в мутной воде; пользоваться неразберихой; извлекать выгоду из сомнительной ситуации",
       "synonyms_sr": [
-        "koristiti haos",
-        "izvlačiti korist iz nejasne situacije",
-        "mutiti (razg.)"
+        "koristiti zbrku",
+        "izvlačiti korist",
+        "muljati (razg.)",
+        "koristiti nejasnu situaciju"
       ],
-      "literal_ru": "ловить в мутной воде",
-      "register": "razg.-publicistički, neodobr.; obično o sticanju koristi tamo gde su pravila, okolnosti ili odgovornost nejasni",
+      "literal_ru": "ловить в мутном",
+      "register": "razg.-publicistički, neodobr.; takođe imenica lov u mutnom",
       "examples": [
         {
-          "serbian_latin": "Film je „stao“ zato što naše filmadžije vole da love u mutnom, a ja sam konkretan čovek.",
-          "russian": "Работа над фильмом застопорилась, потому что наши киношники любят ловить рыбку в мутной воде, а я человек конкретный.",
-          "source": "Danas, 2012"
+          "serbian_latin": "Za to vreme predsednik Srbije na Ohridskom jezeru lovi u mutnom.",
+          "russian": "Тем временем президент Сербии на Охридском озере пытается ловить рыбу в мутной воде.",
+          "source": "N1, 2023"
         },
         {
-          "serbian_latin": "Proizvođači i trgovci love u mutnom.",
-          "russian": "Производители и продавцы пользуются неразберихой в своих интересах.",
-          "source": "Danas, 2007"
+          "serbian_latin": "Realno stanje ili lov u mutnom?",
+          "russian": "Реальное положение дел или попытка половить рыбу в мутной воде?",
+          "source": "Danas, 2014"
         }
       ],
-      "note": "В переносном значении это не просто «действовать в хаотической ситуации». Обычно подразумевается, что человек сознательно использует непрозрачность, отсутствие контроля или чужую растерянность ради собственной выгоды. Русское «ловить рыбку в мутной воде» совпадает почти полностью.",
+      "note": "Важен отрицательный оттенок: человек использует непрозрачность, хаос или чужие затруднения в собственных интересах. Наряду с глагольным loviti u mutnom очень употребительно lov u mutnom. Русское «ловить рыбу в мутной воде» — практически точный эквивалент.",
       "keyword": "loviti u mutnom"
     },
     {
@@ -13994,6 +13676,35 @@
       ],
       "note": "Новый источник несколько сбивает примером про лёгкую контрольную: ядро выражения — не «легко», а несерьёзно, ничтожно, мало чего стоит. Поэтому kontrolni je bio luk i voda возможно, но скорее означает «контрольная оказалась пустяковой», а не просто «лёгкой». Не путать с prosto kao pasulj — там именно «очень просто».",
       "keyword": "luk i voda"
+    },
+    {
+      "headword_latin": "Lupati glavom o zid",
+      "type": "frazeologizam",
+      "definition_ru": "Биться как об стену, мучительно и безрезультатно искать выход; от бессилия или досады чувствовать, что «хоть головой об стену бейся». В более лёгком контексте — изводить себя трудной дилеммой, ломать над ней голову.",
+      "synonyms_sr": [
+        "uzalud se mučiti",
+        "mučiti se tražeći rešenje",
+        "očajavati zbog nemoći",
+        "nervirati se bez rezultata"
+      ],
+      "literal_ru": "Биться головой о стену.",
+      "register": "Разговорное, экспрессивное; от шутливой гиперболы до выражения сильной досады.",
+      "examples": [
+        {
+          "serbian_latin": "Ne morate više lupati glavom o zid zbog ove dileme, jer smo mi došli do odgovora.",
+          "russian": "Больше не нужно мучиться над этой дилеммой: мы уже нашли ответ.",
+          "source": "RTS, 2019; шуточный анонс программы «Promaja»",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/3413710/promajom-protiv-stresa.html"
+        },
+        {
+          "serbian_latin": "Mogu samo da lupam glavom o zid, jer većinu producenata ovako matora više ni ne zanimam, jer mi se ni ne obraćaju.",
+          "russian": "Тут хоть головой об стену бейся: в моём возрасте большинство продюсеров мной уже не интересуются и даже не обращаются ко мне.",
+          "source": "Danas, 2021; сербский перевод фрагмента дневника Джоан Коллинз",
+          "url": "https://www.danas.rs/kultura/dzoan-kolins-otkriva-sve-gluposti-holivuda"
+        }
+      ],
+      "note": "В этих примерах это образное описание душевного состояния, а не буквального действия. В первом передано раздражение из-за нерешённого вопроса, во втором — бессилие перед обстоятельствами. Не следует смешивать с ići glavom kroz zid: там человек упрямо идёт напролом, а здесь мучается из-за препятствия. Matora во втором примере — разговорное, самоироничное обозначение пожилого возраста говорящей.",
+      "keyword": "lupati glavom o zid"
     },
     {
       "headword_latin": "Lupati kao Maksim po diviziji",
@@ -14228,57 +13939,28 @@
     {
       "headword_latin": "Medveđa usluga",
       "type": "frazeologizam",
-      "definition_ru": "медвежья услуга; помощь, которая вместо пользы приносит вред",
+      "definition_ru": "медвежья услуга; помощь во вред",
       "synonyms_sr": [
-        "nespretna pomoć",
         "odmoći umesto pomoći",
-        "pomoć koja nanosi štetu"
+        "učiniti više štete nego koristi",
+        "nespretno pomoći"
       ],
       "literal_ru": "медвежья услуга",
-      "register": "neutralno-publicistički, neodobr.; učiniti / napraviti nekome medveđu uslugu",
+      "register": "neutralno do publicistički; učiniti / napraviti nekome medveđu uslugu; takođe napraviti sebi medveđu uslugu",
       "examples": [
         {
-          "serbian_latin": "Ti koji su zviždali napravili su sebi medveđu uslugu i sebe loše predstavili svetu.",
-          "russian": "Те, кто свистел, оказали себе медвежью услугу и выставили себя перед миром в плохом свете.",
-          "source": "RTS, 2016"
-        },
-        {
-          "serbian_latin": "Neko ko je u njeno ime lobirao za takvo pismo podrške učinio je njoj i Hrvatskoj medveđu uslugu.",
-          "russian": "Тот, кто от её имени добивался такого письма поддержки, оказал медвежью услугу и ей, и Хорватии.",
+          "serbian_latin": "Videće se da li je neki od funkcionera sebi napravio medveđu uslugu.",
+          "russian": "Выяснится, не оказал ли кто-то из чиновников сам себе медвежью услугу.",
           "source": "Danas, 2010"
-        }
-      ],
-      "note": "Сербское и русское выражения полностью совпадают по значению. Его обычно связывают с басней Ивана Крылова о медведе, который хотел помочь человеку, но своей неуклюжей помощью его погубил; Милан Шипка отмечает, что сам образ мог существовать и раньше. Главное условие — вред возникает именно в результате помощи, часто при добрых намерениях.",
-      "keyword": "medveđa usluga"
-    },
-    {
-      "headword_latin": "Meriti / odmeravati svaku reč",
-      "type": "frazeologizam",
-      "definition_ru": "Взвешивать каждое слово: осторожно выбирать выражения, заранее учитывать их возможный смысл и последствия. Так говорят и о тактичности, и о вынужденной сдержанности в сложном разговоре.",
-      "synonyms_sr": [
-        "pažljivo birati reči",
-        "paziti na svaku izgovorenu reč",
-        "govoriti promišljeno",
-        "izražavati se oprezno"
-      ],
-      "literal_ru": "Измерять / взвешивать каждое слово.",
-      "register": "Нейтральное образное выражение; употребляется в повседневной речи и публицистике.",
-      "examples": [
-        {
-          "serbian_latin": "Diplomate Ujedinjenih nacija \"odmeravaju svaku reč\" pripremajući izveštaj […]",
-          "russian": "Дипломаты ООН «взвешивают каждое слово», готовя доклад […]",
-          "source": "RTS, 2013; фрагмент сообщения о подготовке доклада",
-          "url": "https://www.rts.rs/lat/vesti/Svet/1395956/Izve%C5%A1taj%2Bo%2BSiriji%2Bpred%2BSavetom%2Bbezbednosti.html"
         },
         {
-          "serbian_latin": "[…] svako zaista mora meriti svaku reč, jer ona može da proizvede dublje efekte.",
-          "russian": "[…] каждому действительно нужно взвешивать каждое слово: оно может иметь далеко идущие последствия.",
-          "source": "Euronews Srbija, 2025; фрагмент высказывания Милана Антониевича",
-          "url": "https://www.euronews.rs/srbija/politika/193362/antonijevic-ovakva-eskalacija-je-bila-ocekivana/vest"
+          "serbian_latin": "Znao sam da imam kome da se obratim, mada je to možda medveđa usluga.",
+          "russian": "Я знал, что мне есть к кому обратиться, хотя, возможно, такая помощь только вредила мне.",
+          "source": "BBC na srpskom / Danas, 2019"
         }
       ],
-      "note": "Meriti и odmeravati в этом сочетании близки по смыслу. Не следует переводить его как «сдержать слово»: выполнение обещания здесь ни при чём. Осторожный выбор слов также не обязательно означает ложь или недосказанность — причиной может быть стремление к точности или желание никого не обидеть. Svaku reč стоит в винительном падеже; речь обо всём сказанном, а не о подсчёте количества слов.",
-      "keyword": "meriti reči"
+      "note": "Русское «медвежья услуга» практически полностью совпадает по значению. Важно, что намерение обычно доброе, а результат оказывается вредным; сербский допускает и napraviti sebi medveđu uslugu. Шипка связывает закрепление выражения с басней Ивана Крылова Pustinjak i medved, где медведь, пытаясь помочь человеку, убивает его.",
+      "keyword": "medveđa usluga"
     },
     {
       "headword_latin": "Meriti istim aršinom",
@@ -14414,34 +14096,6 @@
       ],
       "note": "Mic вне этой и родственных разговорных конструкций почти не функционирует как обычное самостоятельное слово. Формула подчёркивает очень медленное, постепенное продвижение и может звучать как нейтрально, так и слегка нетерпеливо: napredujemo, ali mic po mic.",
       "keyword": "mic po mic"
-    },
-    {
-      "headword_latin": "Minsko polje",
-      "type": "ustaljena metafora",
-      "definition_ru": "В переносном смысле — сложная и рискованная ситуация, в которой неосторожный шаг или слово могут вызвать конфликт и нежелательные последствия. Область общения или деятельности, где приходится постоянно учитывать скрытые опасности.",
-      "synonyms_sr": [
-        "situacija puna zamki",
-        "opasan teren",
-        "okolnosti koje zahtevaju veliki oprez"
-      ],
-      "literal_ru": "Минное поле.",
-      "register": "Образное разговорное и публицистическое употребление.",
-      "examples": [
-        {
-          "serbian_latin": "Kad osoba koju volite ima anksioznost, pronalaženje pravih reči ponekad je kao hodanje po minskom polju.",
-          "russian": "Когда близкий человек испытывает тревогу, поиск подходящих слов иногда напоминает хождение по минному полю.",
-          "source": "Prva / Ženski magazin, 2026; вступление к статье об общении",
-          "url": "https://www.prva.rs/zivot/zanimljivosti/20089/poznajete-nekoga-ko-se-bori-sa-anksioznoscu-ovih-8-recenica-moze-da-im-znaci-vise-nego-sto-mislite/vest"
-        },
-        {
-          "serbian_latin": "Srbija se neprestano nalazi u 'minskom polju' kada je Kosovo i Metohija u pitanju, […]",
-          "russian": "Когда речь о Косове и Метохии, Сербия постоянно находится словно на минном поле, […]",
-          "source": "Euronews Srbija, 2025; фрагмент высказывания Ибро Ибрахимовича",
-          "url": "https://www.euronews.rs/srbija/politika/153622/ibro-ibrahimovic-za-euronews-srbija-po-pitanju-kosova-i-metohije-stalno-u-minskom-polju-moramo-biti-oprezni/vest"
-        }
-      ],
-      "note": "В первом примере автор образно описывает осторожный выбор слов, во втором собеседник — дипломатические риски. Это оценочные метафоры, а не указания на настоящие мины. Сочетание употребляется с разными глаголами: hodati po minskom polju, nalaziti se u minskom polju. Русский образ совпадает почти полностью. Первый пример свидетельствует об употреблении выражения, а не устанавливает правило общения со всеми тревожными людьми.",
-      "keyword": "minsko polje"
     },
     {
       "headword_latin": "Miran kao bubica",
@@ -15427,28 +15081,30 @@
     {
       "headword_latin": "Na svoju ruku",
       "type": "izraz",
-      "definition_ru": "самовольно; по собственному почину; на свой страх и риск",
+      "definition_ru": "самовольно; по собственной инициативе; на свой страх и риск",
       "synonyms_sr": [
-        "samostalno",
         "samoinicijativno",
-        "bez dogovora",
+        "bez konsultacije",
+        "samovoljno",
         "bez odobrenja"
       ],
-      "literal_ru": "",
-      "register": "vrlo često; od neutralnog samostalno do neodobravajućeg samovoljno",
+      "literal_ru": "на свою руку",
+      "register": "разг.-нейтр.; обычно подразумевается действие без согласования с тем, с кем следовало посоветоваться",
       "examples": [
         {
-          "serbian_latin": "Ne možete na svoju ruku menjati terapiju.",
-          "russian": "Нельзя самостоятельно менять терапию без консультации с врачом.",
-          "source": "RTS, 2022"
+          "serbian_latin": "Koliko puta ste čuli da ne treba da uzimate lekove „na svoju ruku“.",
+          "russian": "Сколько раз вы слышали, что лекарства не следует принимать самостоятельно, без назначения.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/magazin/Zdravlje/3885185/jednu-za-pritisak-jednu-za-glavu-malo-vitamina-i-jedna-sumeca-ne-preterujte-sa-lekovima-na-svoju-ruku.html"
         },
         {
-          "serbian_latin": "Na svoju ruku, inspektor Pavlović odlazi u zatvor da lično proveri koga su uhapsili.",
-          "russian": "Инспектор Павлович самовольно отправляется в тюрьму лично проверить, кого арестовали.",
-          "source": "RTS, 2019"
+          "serbian_latin": "Ne možete na svoju ruku menjati terapiju.",
+          "russian": "Нельзя самостоятельно менять лечение.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4781396/doktorka-iz-hitne-savetuje.html"
         }
       ],
-      "note": "Русскому особенно полезно различать оттенки. Uzeti lek na svoju ruku — «принимать лекарство самостоятельно, без назначения»; postupiti na svoju ruku — «действовать самовольно»; в положительном контексте возможно просто «по собственной инициативе». Это не обязательно нарушение правил, но почти всегда подчёркивается отсутствие предварительного согласования.",
+      "note": "Частый русский перевод «самостоятельно» иногда слишком нейтрален: na svoju ruku нередко содержит оттенок «без разрешения, не посоветовавшись, вопреки установленному порядку». Особенно характерны uzimati lekove na svoju ruku, menjati nešto na svoju ruku, odlučiti na svoju ruku.",
       "keyword": "na svoju ruku"
     },
     {
@@ -15616,35 +15272,6 @@
       ],
       "note": "Nagon шире русского «инстинкт». Это может быть физиологический позыв (nagon za mokrenjem, povraćanjem), сексуальное или биологическое влечение, либо сильный внутренний импульс к действию. Instinkt чаще обозначает именно врождённую поведенческую программу, поэтому эти слова не всегда взаимозаменяемы.",
       "keyword": "nagon"
-    },
-    {
-      "headword_latin": "Naići na plodno tlo",
-      "type": "frazeologizam",
-      "definition_ru": "Попасть на благодатную почву: встретить благоприятные условия, заинтересованность или поддержку. Об идее, предложении или призыве — найти отклик у людей и получить возможность развиваться.",
-      "synonyms_sr": [
-        "naići na dobar prijem",
-        "naići na razumevanje",
-        "dobiti podršku",
-        "zateći povoljne uslove"
-      ],
-      "literal_ru": "Натолкнуться на плодородную почву.",
-      "register": "Нейтральное образное выражение; характерно для публицистики и обсуждения идей.",
-      "examples": [
-        {
-          "serbian_latin": "Tada njihova ideja nije naišla na plodno tlo.",
-          "russian": "Тогда их идея не нашла отклика.",
-          "source": "RTS / Radio Beograd 1, 2023; рассказ об истории объединения спортивных журналистов",
-          "url": "https://www.rts.rs/lat/radio/radio-beograd-1/5224268/vesti-iz-sveta-sporta.html"
-        },
-        {
-          "serbian_latin": "Prema njegovim rečima, ideja pokreta „Novi optimizam” iz Zrenjanina, […] u Subotici je naišla na plodno tlo.",
-          "russian": "По его словам, идея движения «Нови оптимизам» из Зренянина […] нашла в Суботице благоприятный отклик.",
-          "source": "Kurir, 2012; фрагмент сообщения об инициативе увековечить память Радомира Константиновича",
-          "url": "https://www.kurir.rs/vesti/srbija/481129/radomira-konstantinovica-za-pocasnog-gradanina-subotice"
-        }
-      ],
-      "note": "В этих примерах plodno tlo — не земельный участок, а готовность людей принять идею. Поэтому «найти отклик» часто естественнее буквального перевода. При отрицании оборот не обязательно означает резкий отказ: возможно, предложение просто не заинтересовало адресатов. Глагол согласуется с субъектом: ideja je naišla, predlog je naišao, upozorenje je naišlo. Положительная метафора почвы сама по себе не гарантирует, что поддержанная идея полезна.",
-      "keyword": "plodno tlo"
     },
     {
       "headword_latin": "Naivan / naivna kao francuska sobarica",
@@ -15823,33 +15450,6 @@
       ],
       "note": "Natovariti na vrat подчёркивает прежде всего обременение: человеку достаётся проблема, обязанность, забота, ответственность. Можно нагрузить и самого себя: natovariti sebi obaveze na vrat, и другого: natovariti nekome probleme na vrat. Русскому близки «взвалить на шею», «повесить на кого-то», «взвалить на себя». Не обязательно, что неприятность возникла как наказание за собственные действия: главное здесь именно груз.",
       "keyword": "natovariti na vrat"
-    },
-    {
-      "headword_latin": "Natrljati nekome nešto na nos",
-      "type": "frazeologizam",
-      "definition_ru": "ткнуть кого-то носом в что-то; злорадно припомнить; демонстративно поставить перед фактом",
-      "synonyms_sr": [
-        "nabijati nekome nešto na nos",
-        "prebacivati nekome",
-        "podsećati na nešto neprijatno",
-        "likovati nad nekim"
-      ],
-      "literal_ru": "",
-      "register": "razg., neodobr.; model natrljati nekome nešto na nos",
-      "examples": [
-        {
-          "serbian_latin": "Nedović je onda to „natrljao na nos“ navijačima Partizana.",
-          "russian": "Недович после этого злорадно ткнул этим в лицо болельщиков «Партизана».",
-          "source": "Sportal / Blic, 2025"
-        },
-        {
-          "serbian_latin": "Osećam se kao da mi je natrljao sve to na nos.",
-          "russian": "Такое чувство, будто он ещё специально ткнул меня носом во всё это.",
-          "source": "Blic, 2009"
-        }
-      ],
-      "note": "Не путать с русским «утереть нос»: последнее обычно означает превзойти кого-то, тогда как natrljati nešto na nos — демонстративно напомнить человеку неприятный факт, поражение, собственную правоту или преимущество. Близкое сербское nabijati nekome nešto na nos обычно обозначает повторяющиеся упрёки: постоянно «тыкать этим в нос».",
-      "keyword": "natrljati na nos"
     },
     {
       "headword_latin": "Navoditi / terati vodu na svoju vodenicu",
@@ -16056,35 +15656,6 @@
       ],
       "note": "Для русского буквальный смысл совершенно непрозрачен. Формула делает приказ похожим на любезную просьбу, но именно поэтому часто звучит с добродушной иронией: старший просит младшего сделать то, от чего отказа практически не ждут. На Vukajlija её метко называют «трюком, превращающим приказ в просьбу»; это хорошо передаёт живую прагматику, хотя сам источник, конечно, не нормативный.",
       "keyword": "ne bilo ti zapoveđeno"
-    },
-    {
-      "headword_latin": "Ne biti od juče",
-      "type": "frazeologizam",
-      "definition_ru": "Не вчера родиться; быть достаточно опытным, чтобы разбираться в происходящем и не позволять легко себя обмануть. В ответной реплике — «я не настолько наивен», «меня не проведёшь».",
-      "synonyms_sr": [
-        "biti iskusan",
-        "ne biti naivan",
-        "znati kako stvari stoje",
-        "ne dati se lako prevariti"
-      ],
-      "literal_ru": "Быть не со вчерашнего дня.",
-      "register": "Разговорное; часто уверенное в себе, ироническое или возражающее.",
-      "examples": [
-        {
-          "serbian_latin": "Ja čitam Danas zato što nisam od juče, a i vrlo sam zainteresovan za sutra, […]",
-          "russian": "Я читаю «Данас», потому что не вчера родился, да и завтрашний день мне очень интересен, […]",
-          "source": "Danas, 2019; высказывание Марко Шелича Марчело",
-          "url": "https://www.danas.rs/vesti/drustvo/marcelo-ne-ser-lajk-tvit-nego-clanstvo-u-klubu-citalaca-danasa"
-        },
-        {
-          "serbian_latin": "VODITELJ POKAZAO DA NIJE OD JUČE […]",
-          "russian": "Ведущий показал, что его не так-то легко провести […]",
-          "source": "Alo, 2025; фрагмент заголовка о разговоре Миломира Марича с Воиславом Шешелем",
-          "url": "https://www.alo.rs/vesti/politika/991734/voditelj-pokazao-da-nije-od-juce-seselj-pokusao-da-prede-marica/vest"
-        }
-      ],
-      "note": "О человеке выражение подчёркивает опытность, а не точный возраст. Обычные формы: nisam od juče, nije od juče, nismo od juče. В первом примере построена игра слов: Danas — и название газеты, и слово «сегодня»; рядом стоят juče «вчера» и sutra «завтра». При неодушевлённом подлежащем смысл может быть другим: problem nije od juče означает, что проблема возникла давно, а не обладает «житейским опытом».",
-      "keyword": "od juče"
     },
     {
       "headword_latin": "Ne cvetaju ruže",
@@ -16554,29 +16125,31 @@
     },
     {
       "headword_latin": "Ne zna se ko pije, ko plaća",
-      "type": "izraz",
-      "definition_ru": "чёрт ногу сломит; полная неразбериха; непонятно, кто за что отвечает",
+      "type": "izreka",
+      "definition_ru": "чёрт ногу сломит; полный бардак; непонятно, кто за что отвечает",
       "synonyms_sr": [
-        "potpuni haos",
-        "ne zna se ko šta radi",
-        "opšta zbrka",
-        "rasulo"
+        "vlada potpuni haos",
+        "ne zna se ko je za šta odgovoran",
+        "nema nikakvog reda",
+        "sve je zbrkano"
       ],
       "literal_ru": "неизвестно, кто пьёт, а кто платит",
-      "register": "razg., ekspresivno; o haosu u organizaciji, upravljanju, finansijama ili društvu",
+      "register": "разг., экспр., неодобр.; о беспорядке, неясном распределении обязанностей и ответственности",
       "examples": [
         {
-          "serbian_latin": "Za njima neki četnici – ne zna se ko pije ko plaća.",
-          "russian": "За ними пришли какие-то четники — полная неразбериха, никто не понимает, кто за что отвечает.",
-          "source": "Danas, 2022"
+          "serbian_latin": "Situacija u svinjarskoj proizvodnji je takva da se „ne zna ni ko pije, ni ko plaća“.",
+          "russian": "В свиноводстве сейчас такой бардак, что вообще непонятно, кто за что отвечает.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5884641/meso-skupo-svinje-jeftine-svinjarstvo.html"
         },
         {
-          "serbian_latin": "Posle se nije znalo ko pije a ko plaća.",
-          "russian": "Потом уже был такой бардак, что никто не понимал, что вообще происходит.",
-          "source": "Danas, 2018"
+          "serbian_latin": "I vaistinu se ne zna ko pije, a ko plaća.",
+          "russian": "И действительно, уже чёрт ногу сломит: кто что делает и кто за что отвечает — непонятно.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/o-apatiji/"
         }
       ],
-      "note": "Несмотря на образ кафаны, выражение давно не обязательно связано с алкоголем или оплатой. Главное — исчезновение порядка и ответственности: обязанности смешались, решения принимаются непонятно кем, никто ни за что не отвечает. Русское «кто в лес, кто по дрова» близко, но слабее передаёт именно организационный хаос.",
+      "note": "Выпивка и расчёт здесь лишь образ. Фраза описывает ситуацию, где исчезли правила, роли и ответственность. Варианты ne zna se ko pije, ko plaća, ko pije, a ko plaća и усиленное ni ko pije ni ko plaća сосуществуют.",
       "keyword": "ko pije ko plaća"
     },
     {
@@ -17352,35 +16925,6 @@
       ],
       "note": "Конструкция nešto je nekome kao dobar dan означает, что действие стало совершенно привычным. В заголовках встречается эллиптическая форма nešto za dobar dan. Точная конструкция kao dobar dan индексируется на Forum B92, но страница сейчас недоступна для проверки цитаты.",
       "keyword": "dobar dan"
-    },
-    {
-      "headword_latin": "Ni crno ispod nokta",
-      "type": "frazeološki izraz",
-      "definition_ru": "1. Ни капли, ни крошки, ровным счётом ничего — о предельно малом количестве, которое отрицается. 2. В сравнении людей: nije mu/joj ni crno ispod nokta — и ногтя его/её не стоит, в подмётки не годится.",
-      "synonyms_sr": [
-        "ni najmanje",
-        "baš ništa",
-        "ni mrvicu",
-        "ne moći se ni porediti s nekim"
-      ],
-      "literal_ru": "Даже не чернота, грязь под ногтем.",
-      "register": "Разговорное, очень экспрессивное; в сравнении людей — пренебрежительное и обидное.",
-      "examples": [
-        {
-          "serbian_latin": "[…] nije imao ništa od imovine! Ni crno ispod nokta!",
-          "russian": "[…] у него не было никакого имущества! Совершенно ничего!",
-          "source": "Kurir, 2020; фрагмент цитируемой публикации об Амфилохии",
-          "url": "https://www.kurir.rs/vesti/drustvo/3560269/poslednja-amfilohijeva-crkavica-ono-sto-je-djedo-uradio-sa-svojih-poslednjih-96-evra-svedoci-o-velicini-pokojnog-mitropolita"
-        },
-        {
-          "serbian_latin": "Zašto Goca smatra da joj Afrika nije ni crno ispod nokta, […]",
-          "russian": "Почему Гоца считает, что Африка ей и в подмётки не годится, […]",
-          "source": "Svet / Scandal, 2016; фрагмент редакционного анонса интервью",
-          "url": "https://svet-scandal.rs/goca-trzan-otkriva-za-novi-scandal-sandra-afrika-mi-nije-nikakva-konkurencija/"
-        }
-      ],
-      "note": "Смысл меняется вместе с конструкцией. При отрицании наличия чего-либо это усилитель «совсем ничего». В сочетании nije nekome ni crno ispod nokta возникает презрительное сравнение: одного человека ставят несоизмеримо ниже другого. Во втором примере joj относится к Гоце, а не к Африке. Первый пример — эмоциональное утверждение автора цитируемой публикации, не перечень имущества; второй — формулировка редакционного анонса, а не дословная реплика певицы.",
-      "keyword": "crno ispod nokta"
     },
     {
       "headword_latin": "Ni kriv ni dužan",
@@ -18643,60 +18187,6 @@
       "keyword": "kiša; Kragujevac"
     },
     {
-      "headword_latin": "Obilaziti / vrteti se kao mačak oko vruće kaše",
-      "type": "frazeologizam",
-      "definition_ru": "ходить вокруг да около; не решаться перейти к сути; увиливать",
-      "synonyms_sr": [
-        "okolišati",
-        "izbegavati suštinu",
-        "odugovlačiti",
-        "ne prelaziti na stvar"
-      ],
-      "literal_ru": "ходить как кот вокруг горячей каши",
-      "register": "razg., ekspresivno; varijante sa mačak i mačka",
-      "examples": [
-        {
-          "serbian_latin": "Svi se vrte kao mačka oko vruće kaše, niko nije spreman da zagrize.",
-          "russian": "Все ходят вокруг да около, никто не готов взяться за дело напрямую.",
-          "source": "Danas, 2025"
-        },
-        {
-          "serbian_latin": "Mnogo je više onih koji oko filozofije obilaze kao mačak oko vruće kaše nego što se njom stvarno bave.",
-          "russian": "Тех, кто ходит вокруг философии как кот вокруг горячей каши, гораздо больше, чем тех, кто действительно ею занимается.",
-          "source": "Danas, 2010"
-        }
-      ],
-      "note": "Выражение описывает человека, который кружит вокруг неприятного или сложного вопроса, но не переходит непосредственно к сути. Оттенок может быть и «не решаться», и «намеренно увиливать». Русское «ходить вокруг да около» обычно идеально по функции.",
-      "keyword": "mačak oko vruće kaše"
-    },
-    {
-      "headword_latin": "Obrati (zelen) bostan",
-      "type": "frazeologizam",
-      "definition_ru": "плохо кончить; влипнуть; крупно попасть; потерпеть крах",
-      "synonyms_sr": [
-        "nadrljati (razg.)",
-        "loše proći",
-        "nastradati",
-        "propasti"
-      ],
-      "literal_ru": "убрать незрелый бахчевой урожай",
-      "register": "razg., ekspresivno; puna starija forma obrati zelen bostan, danas često samo obrati bostan",
-      "examples": [
-        {
-          "serbian_latin": "Samo kada za to sazna tvoja žena, obrao si bostan.",
-          "russian": "Вот когда об этом узнает твоя жена — тогда ты попал.",
-          "source": "Politika, 2007"
-        },
-        {
-          "serbian_latin": "Sreća njegova što u to vreme nije bilo televizije ni RRA, inače bi obrao bostan.",
-          "russian": "Повезло ему, что тогда не было телевидения и RRA, иначе ему бы сильно досталось.",
-          "source": "Danas, 2010"
-        }
-      ],
-      "note": "Bostan — бахча, а также арбузы и дыни. Полная форма фиксируется уже у Вука Караджича: преждевременно собрать zelen bostan означало лишиться урожая и понести убыток; отсюда «плохо кончить, пропасть». Сегодня особенно естественна реплика E, sad si obrao bostan! — «ну всё, теперь ты попал».",
-      "keyword": "obrati bostan"
-    },
-    {
       "headword_latin": "Obrati zelen bostan",
       "type": "frazeologizam",
       "definition_ru": "плохо кончить; крупно влипнуть; потерпеть полный крах",
@@ -18861,29 +18351,29 @@
     },
     {
       "headword_latin": "Od Kulina bana",
-      "type": "izraz",
-      "definition_ru": "от самого начала; издалека; начиная чуть ли не с допотопных времён",
+      "type": "frazeologizam",
+      "definition_ru": "с самого начала; начиная от царя Гороха; излагать всю предысторию от сотворения мира",
       "synonyms_sr": [
         "od samog početka",
         "naširoko i nadugačko",
-        "izdaleka"
+        "od početka priče"
       ],
       "literal_ru": "",
-      "register": "razg., kulturno-istor.; obično pričati / krenuti od Kulina bana",
+      "register": "разг., экспр., часто иронич.; прежде всего pričati / krenuti / početi od Kulina bana",
       "examples": [
         {
-          "serbian_latin": "Kada neko počne da raspreda priču naširoko i nadugačko, od samog početka, obično kažemo da priča „od Kulina bana“.",
-          "russian": "Когда кто-то начинает рассказывать долго и обстоятельно, с самого начала, говорят, что он начал ещё «от Кулина бана».",
-          "source": "RTS, 2018"
+          "serbian_latin": "Razlog što idem ovako od Kulina Bana je taj što...",
+          "russian": "Причина, по которой я начинаю издалека, прямо от царя Гороха, состоит в том, что...",
+          "source": "City Magazine / Danas, 2025"
         },
         {
-          "serbian_latin": "Kada neko o određenoj temi počne da nam priča potanko i naširoko, reći ćemo da je krenuo „od Kulina bana“.",
-          "russian": "Если человек начинает подробно и издалека рассказывать о какой-то теме, мы скажем, что он начал чуть ли не с допотопных времён.",
-          "source": "RTS, 2020"
+          "serbian_latin": "Prvo od Kulina-bana. Tamo sedamdesetih, pokrenuli smo ovde jedan letnji festival...",
+          "russian": "Но сначала начну с самого начала. В семидесятые мы организовали здесь летний фестиваль...",
+          "source": "Danas, 2021"
         }
       ],
-      "note": "Kulin ban — боснийский бан конца XII — начала XIII века. Полная традиционная формула — od Kulina bana i dobrijeh dana. Сегодня выражение прежде всего означает, что человек начинает рассказ слишком издалека и пересказывает всю предысторию. Русскому полезно не переводить имя буквально: в обычной речи это «начать с самого начала», «начать издалека», иногда шутливое «со времён царя Гороха».",
-      "keyword": "Kulin ban"
+      "note": "Кулин — средневековый бан Боснии, правивший на рубеже XII–XIII веков; имя исторического правителя закрепилось в устойчивом выражении о рассказе «с самых давних времён». Русскому по ситуации подойдут «от царя Гороха», «от сотворения мира», «начать издалека».",
+      "keyword": "od Kulina bana"
     },
     {
       "headword_latin": "Od nemila do nedraga",
@@ -19618,34 +19108,6 @@
       ],
       "note": "Фраза особенно естественна, когда человек рассчитывал получить что-то конкретное, но не получил ничего. Русское «остаться с пустыми руками» совпадает буквально и стилистически. Близкое ostati kratkih rukava сильнее подчёркивает, что человека обошли при разделе ожидаемой выгоды.",
       "keyword": "praznih šaka"
-    },
-    {
-      "headword_latin": "Ostaviti / ostavljati otvorena vrata",
-      "type": "frazeologizam",
-      "definition_ru": "Оставить / оставлять возможность для дальнейшего соглашения, возвращения или примирения; не отвергать какой-либо вариант окончательно. Сохранить путь к продолжению отношений или переговоров, даже если сейчас согласия нет.",
-      "synonyms_sr": [
-        "ostaviti mogućnost",
-        "ne isključiti dogovor",
-        "ne odbaciti mogućnost pomirenja"
-      ],
-      "literal_ru": "Оставить / оставлять двери открытыми.",
-      "register": "Нейтральное образное выражение; употребляется в разговоре и публицистике.",
-      "examples": [
-        {
-          "serbian_latin": "[…] ali je, kako je rekao, „ostavio otvorena vrata za dalji dogovor”.",
-          "russian": "[…] но, по его словам, сохранил возможность дальнейшей договорённости.",
-          "source": "Politika, 2021; фрагмент сообщения о переговорах по составу правительства",
-          "url": "https://www.politika.rs/sr/clanak/489229/bez-dogovora-o-rekonstrukciji-vlade"
-        },
-        {
-          "serbian_latin": "Naglasio je zategnute odnose sa Anđelom Đuričić, ali je ostavio otvorena vrata za moguće pomirenje ako bude iskreno kajanje.",
-          "russian": "Он подчеркнул, что отношения с Анджелой Джуричич напряжённые, но не исключил примирения, если раскаяние будет искренним.",
-          "source": "Blic, 2026; редакционный пересказ слов Стефана Карича",
-          "url": "https://www.blic.rs/zabava/stefan-karic-pred-ulazak-u-elitu-10-otkrio-sta-se-desilo-sa-andjelom-djuricic/9rzs47k"
-        }
-      ],
-      "note": "Открытые двери — возможность, а не обещание: согласие может так и не быть достигнуто. Часто уточняется, для чего сохранён шанс: za dalji dogovor, za pomirenje. После za в таких сочетаниях стоит винительный падеж. Vrata — существительное, употребляющееся во множественном числе, поэтому otvorena согласуется с ним именно как с множественным числом. От буквального оставления двери незапертой переносный смысл отличает контекст.",
-      "keyword": "otvorena vrata"
     },
     {
       "headword_latin": "ostaviti nekoga bez daha",
@@ -20634,60 +20096,6 @@
       "keyword": "pasti na foru"
     },
     {
-      "headword_latin": "Pasti / padati s nogu",
-      "type": "frazeologizam",
-      "definition_ru": "валиться с ног; быть совершенно измотанным; едва держаться от усталости",
-      "synonyms_sr": [
-        "biti premoren",
-        "biti iscrpljen",
-        "jedva stajati na nogama",
-        "biti mrtav umoran"
-      ],
-      "literal_ru": "падать с ног",
-      "register": "razg., ekspresivno; naročito padati s nogu od posla / umora",
-      "examples": [
-        {
-          "serbian_latin": "Ovih dana pada s nogu od posla.",
-          "russian": "В эти дни она буквально валится с ног от работы.",
-          "source": "Danas, 2020"
-        },
-        {
-          "serbian_latin": "Ono malo zdravstvenog osoblja što je ostalo u bolnicama pada s nogu od posla.",
-          "russian": "Те немногие медработники, которые остались в больницах, валятся с ног от работы.",
-          "source": "Danas, 2017"
-        }
-      ],
-      "note": "При padati s nogu переносное значение особенно ясно с дополнением od umora, od posla. Совершенное pasti s nogu может в конкретном контексте означать и реальное падение, поэтому значение определяется ситуацией. Русское «валиться с ног» практически полностью совпадает.",
-      "keyword": "padati s nogu"
-    },
-    {
-      "headword_latin": "Pasti / spasti na niske grane",
-      "type": "frazeologizam",
-      "definition_ru": "опуститься; прийти в упадок; скатиться до низкого уровня",
-      "synonyms_sr": [
-        "srozati se",
-        "propasti",
-        "dospeti na nizak nivo",
-        "izgubiti ugled"
-      ],
-      "literal_ru": "опуститься на низкие ветви",
-      "register": "razg.-publicistički, neodobr.; o čoveku, ustanovi, profesiji, kulturi, standardu i sl.",
-      "examples": [
-        {
-          "serbian_latin": "Nama je obrazovanje spalo na niske grane.",
-          "russian": "Наше образование опустилось до крайне низкого уровня.",
-          "source": "N1, 2022"
-        },
-        {
-          "serbian_latin": "Imao sam ponude stranaka koje su nekada imale pristojnu podršku birača, a danas su spale „na niske grane“.",
-          "russian": "Мне поступали предложения от партий, которые когда-то пользовались приличной поддержкой, а сегодня сильно сдали позиции.",
-          "source": "Danas, 2010"
-        }
-      ],
-      "note": "Оборот описывает ухудшение по сравнению с прежним положением: падение уровня, качества, престижа или материального состояния. Поэтому spasti na niske grane сильнее простого biti loš. Русские соответствия зависят от объекта: «скатиться», «прийти в упадок», «опуститься».",
-      "keyword": "niske grane"
-    },
-    {
       "headword_latin": "Pasti / upasti nekome sekira u med",
       "type": "frazeologizam",
       "definition_ru": "невероятно повезти; сорвать куш; попасть в исключительно выгодное положение",
@@ -21172,33 +20580,6 @@
       ],
       "note": "Это не просто «долго носится». Peri-deri обычно характеризует простую, практичную вещь, которую можно постоянно носить, стирать и не особенно беречь. В современной речи выражение особенно характерно для одежды: в 2026 году встречается даже basic crna majica za peri-deri.",
       "keyword": "peri-deri"
-    },
-    {
-      "headword_latin": "Pevati drugu pesmu",
-      "type": "frazeologizam",
-      "definition_ru": "запеть другую песню; заговорить иначе; резко изменить позицию или тон",
-      "synonyms_sr": [
-        "promeniti priču",
-        "promeniti stav",
-        "promeniti ton",
-        "govoriti drugačije"
-      ],
-      "literal_ru": "петь другую песню",
-      "register": "razg.-publicistički, obično iron. ili neodobr.; često o nedoslednosti ili prilagođavanju okolnostima",
-      "examples": [
-        {
-          "serbian_latin": "Hoti na sastancima u Briselu peva drugu pesmu.",
-          "russian": "На встречах в Брюсселе Хоти поёт уже совсем другую песню.",
-          "source": "Danas, 2020"
-        },
-        {
-          "serbian_latin": "Danas peva drugu pesmu, po režimskim notama.",
-          "russian": "Сегодня он уже поёт другую песню — по нотам режима.",
-          "source": "Danas, 2023"
-        }
-      ],
-      "note": "Обычно речь не просто об изменившемся мнении, а о заметной перемене риторики под влиянием новых обстоятельств, интересов или давления. Русское «запеть другую песню» совпадает очень хорошо. В буквальном музыкальном контексте сочетание, разумеется, может не быть фразеологизмом.",
-      "keyword": "pevati drugu pesmu"
     },
     {
       "headword_latin": "Pevati koliko te grlo nosi",
@@ -21946,31 +21327,33 @@
       "keyword": "podviti rep"
     },
     {
-      "headword_latin": "Podvući crtu",
-      "type": "frazeologizam",
-      "definition_ru": "подвести черту; подвести итог; провести границу и сказать «дальше — нет»",
+      "headword_latin": "podvući crtu",
+      "type": "фразеологизм",
+      "definition_ru": "Подвести итог; сделать окончательный вывод; завершить определённый этап.",
       "synonyms_sr": [
-        "napraviti presek",
-        "sumirati",
-        "zaključiti",
-        "povući granicu"
+        "sumirati rezultate",
+        "izvesti zaključak",
+        "zaključiti priču",
+        "staviti tačku"
       ],
-      "literal_ru": "провести линию",
-      "register": "neutralno-publicistički; može značiti sumirati ili postaviti granicu",
+      "literal_ru": "Подчеркнуть; провести черту.",
+      "register": "Нейтральное или публицистическое; переносное.",
       "examples": [
         {
-          "serbian_latin": "Posle četiri decenije, ipak, treba „podvući crtu“ i sagledati kako festival ubuduće može da komunicira sa stvaraocima i publikom.",
-          "russian": "После четырёх десятилетий всё же нужно подвести черту и оценить, как фестивалю развиваться дальше.",
-          "source": "Politika, 2016"
+          "serbian_latin": "Vučić podvukao crtu nakon istorijske nedelje.",
+          "russian": "Вучич подвёл итог исторической недели.",
+          "source": "NS Reporter, 2026",
+          "url": "https://nsreporter.rs/2026/07/vucic-podvukao-crtunakon-istorijske-nedelje-predsednik-mocnom-porukom-na-instagramu-zapusio-usta-kriticarima/"
         },
         {
-          "serbian_latin": "„Orlić je, ko ga malo bolje poznaje, pre svega dobar čovek.“ — „Ali tu bih podvukao crtu.“",
-          "russian": "«Орлич, если узнать его поближе, прежде всего хороший человек». — «Но на этом я бы поставил точку».",
-          "source": "BBC na srpskom / Danas, 2022"
+          "serbian_latin": "Vučić podvukao crtu.",
+          "russian": "Вучич подвёл итог.",
+          "source": "Alo, 2026",
+          "url": "https://www.alo.rs/vesti/politika/16857880/vucic-sumirao-nedelju-i-poslao-snaznu-poruku-gradjanima.html"
         }
       ],
-      "note": "В первом значении это почти точное русское «подвести черту» — суммировать период или результаты. Во втором tu podvući crtu означает «вот здесь провести границу, дальше не соглашаться». Поэтому перевод «подвести итог» подходит не всегда.",
-      "keyword": "podvući crtu"
+      "note": "Встречается также конструкция podvući crtu pod nešto. Расширенный вариант podvući crtu i krenuti dalje означает закончить прежний этап и двигаться дальше.",
+      "keyword": "crta"
     },
     {
       "headword_latin": "Pogaziti reč",
@@ -22110,35 +21493,6 @@
       ],
       "note": "Формула обычно появляется после шума, обещаний или ожидания развязки: время прошло, виновных нет, вопрос забыт — pojeo vuk magarca. Это не просто «всё закончилось», а именно циничное «и никому ничего». Точное происхождение выражения надёжно не установлено.",
       "keyword": "pojeo vuk magarca"
-    },
-    {
-      "headword_latin": "Pojesti se živ / živa",
-      "type": "frazeologizam",
-      "definition_ru": "Известись от досады, тревоги, нетерпения или сожаления; мучиться из-за чего-либо и не находить себе места. Обычно это выразительное преувеличение силы переживания: «я уже весь извёлся», «прямо съесть себя готов».",
-      "synonyms_sr": [
-        "izjesti se od muke",
-        "silno se iznervirati",
-        "mučiti se zbog nečega",
-        "ne moći da se smiri"
-      ],
-      "literal_ru": "Съесть себя заживо.",
-      "register": "Разговорное, очень экспрессивное; часто эмоциональная гипербола.",
-      "examples": [
-        {
-          "serbian_latin": "Pojedoh se živ, izlude me ovo više sa otvaranjem.",
-          "russian": "Я уже весь извёлся, с этим открытием я прямо с ума схожу.",
-          "source": "Večernje novosti, 2025; слова Александра Вучича об открытии участка автомагистрали",
-          "url": "https://www.novosti.rs/vesti/politika/1505747/pojedoh-ziv-izlude-vucic-otvaranju-auto-puta-pozege-vec-foliranja-glupiranja-krajnji-rok-ponedeljka"
-        },
-        {
-          "serbian_latin": "Ja tad hoću živa da se pojedem.",
-          "russian": "Вот тогда я прямо места себе не нахожу от досады.",
-          "source": "Blic, 2022; слова Хелены Оцоколич о пропущенной тренировке",
-          "url": "https://www.blic.rs/zabava/lidijina-cerka-helena-ocokoljic-na-blic-tv-emisija-show-se-nastavlja/wrcc4rr"
-        }
-      ],
-      "note": "Pojedoh — форма аориста первого лица от pojesti; в такой реплике она помогает эмоционально передать результат: «совсем извёлся». Прилагательное согласуется с говорящим: мужчина — živ, женщина — živa. Во втором примере порядок слов изменён, но выражение то же. Причина переживания определяется контекстом: зависть здесь не обязательна. Эти реплики не описывают буквальное причинение себе вреда. Не путать с pojesti nekoga živog, где воздействие направлено на другого человека.",
-      "keyword": "pojesti se živ"
     },
     {
       "headword_latin": "Pokazati pravo lice",
@@ -22835,33 +22189,6 @@
       "keyword": "povući ručnu"
     },
     {
-      "headword_latin": "Povući se u mišju rupu",
-      "type": "frazeologizam",
-      "definition_ru": "забиться в нору; спрятаться и не высовываться; уйти в полную тень",
-      "synonyms_sr": [
-        "povući se",
-        "sakriti se",
-        "ne izlaziti pred ljude",
-        "nestati iz javnosti"
-      ],
-      "literal_ru": "забраться в мышиную нору",
-      "register": "razg., ekspresivno; često posle poraza, skandala, straha ili stida",
-      "examples": [
-        {
-          "serbian_latin": "Povukao se u mišju rupu, ispunjenu knjigama, muzikom, alkoholom, kockom, duvanskim dimom i slučajnim ženama.",
-          "russian": "Он забился в свою нору, заполненную книгами, музыкой, алкоголем, азартными играми, табачным дымом и случайными женщинами.",
-          "source": "Testament Films"
-        },
-        {
-          "serbian_latin": "Posle takvog fijaska najradije bi se povukao u mišju rupu i nikome se ne bi javljao.",
-          "russian": "После такого провала ему хотелось забиться в нору и никому не показываться.",
-          "source": ""
-        }
-      ],
-      "note": "Выражение обозначает не просто уединение. Обычно человек скрывается от окружающих или публичности после неприятности, испуга, поражения или разоблачения. Русское «забиться в мышиную нору» понятно, но естественнее часто «забиться в нору», «не высовываться».",
-      "keyword": "mišja rupa"
-    },
-    {
       "headword_latin": "Prati / oprati ruke od nečega",
       "type": "frazeologizam",
       "definition_ru": "умывать руки; снимать с себя ответственность; устраняться от дела",
@@ -23004,35 +22331,6 @@
       "keyword": "praviti budalu"
     },
     {
-      "headword_latin": "Praviti nekoga od blata",
-      "type": "frazeologizam",
-      "definition_ru": "Сильно жалеть об утраченном человеке и желать его возвращения. Особенно в реплике Pravićeš me od blata! — «Ещё пожалеешь, что меня потерял!», «Ещё будешь меня вспоминать!». Так подчёркивают, что ценность человека станет понятна лишь после его ухода.",
-      "synonyms_sr": [
-        "žaliti za nekim",
-        "želeti da se neko vrati",
-        "tek kasnije shvatiti nečiju vrednost",
-        "osećati da je neko nezamenljiv"
-      ],
-      "literal_ru": "Лепить кого-либо из грязи, глины.",
-      "register": "Разговорное, экспрессивное; обиженное, горькое или шутливо-самоуверенное.",
-      "examples": [
-        {
-          "serbian_latin": "Od blata ćeš me praviti, ali me tada neće biti.",
-          "russian": "Ещё будешь жалеть, что меня потеряла, да только меня тогда уже не будет.",
-          "source": "Srbija Danas, 2020; реплика Анабелы Атияс в разговоре с дочерью",
-          "url": "https://www.sd.rs/vip/zadruga/od-blata-ces-me-praviti-anabela-recima-razorila-lunu-cerka-prekrila-lice-tri-godine-pravis-cirkus-2020-04-16"
-        },
-        {
-          "serbian_latin": "Pravićemo Miloja od blata, […]",
-          "russian": "Ещё будем жалеть, что у нас больше нет Милоевича, […]",
-          "source": "Sportal / Blic, 2026; фрагмент заголовка с высказыванием Марко Перовича о тренере",
-          "url": "https://sportal.blic.rs/prica/perovic-zvezda-ce-miloja-praviti-od-blata-2026082806380931643"
-        }
-      ],
-      "note": "Это не «смешать с грязью» и не оскорбить человека. Наоборот: того, кого теперь не ценят, позже захотят вернуть хотя бы в виде вылепленной копии. Смерть не является обязательным условием: речь может идти о разрыве отношений, увольнении или смене тренера. В первом примере звучит личный упрёк, во втором — сожаление о прежнем специалисте. Варианты порядка слов: pravićeš me od blata и od blata ćeš me praviti.",
-      "keyword": "praviti od blata"
-    },
-    {
       "headword_latin": "praviti od komarca magarca",
       "type": "фразеологизм",
       "definition_ru": "Делать из мухи слона; чрезмерно преувеличивать незначительную проблему.",
@@ -23092,54 +22390,54 @@
     {
       "headword_latin": "Praviti račun bez krčmara",
       "type": "frazeologizam",
-      "definition_ru": "делить шкуру неубитого медведя; строить расчёты без того, от кого всё зависит; решать за других",
+      "definition_ru": "строить расчёты без главного участника; заранее всё решить за того, от кого зависит дело; делить шкуру неубитого медведя",
       "synonyms_sr": [
         "računati unapred",
-        "odlučivati bez druge strane",
-        "praviti plan bez saglasnosti onoga koga se tiče"
+        "preuranjeno se dogovarati",
+        "planirati bez ključnog učesnika"
       ],
       "literal_ru": "составлять счёт без трактирщика",
-      "register": "razg.-publicistički, neodobr.; takođe račun bez krčmara",
+      "register": "razg. i publicistički, neodobr.; takođe pravljenje računa bez krčmara",
       "examples": [
         {
-          "serbian_latin": "Bojim se da se pravi račun bez krčmara, i da taj dokument može da unese razdor.",
-          "russian": "Боюсь, что здесь решают за тех, с кем ещё не договорились, и этот документ может внести раскол.",
-          "source": "N1, 2025"
+          "serbian_latin": "Beograd upozorava da ne prave račun bez krčmara.",
+          "russian": "Белград предупреждает, что не стоит заранее всё решать без того, от кого это зависит.",
+          "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Beograd upozorava da ne prave račun bez krčmara.",
-          "russian": "Белград предупреждает: не надо заранее решать вопрос без стороны, от которой зависит исход.",
-          "source": "RTS, 2016"
+          "serbian_latin": "Srbi treba da budu jednako tretirani, naglasio je Vučić i istakao da bi sve drugo bilo pravljenje računa bez krčmara.",
+          "russian": "Сербы должны пользоваться равным отношением; всё остальное означало бы, что решения принимают без ключевой стороны.",
+          "source": "RTS, 2020"
         }
       ],
-      "note": "Образ связан с ситуацией, когда гости уже подсчитали, что и сколько будут платить, хотя настоящий счёт ещё должен предъявить krčmar — хозяин трактира. Поэтому значение шире русского «делить шкуру неубитого медведя»: сербский оборот особенно часто подчёркивает, что кто-то принимает решение без участия необходимой стороны.",
+      "note": "Русское «делить шкуру неубитого медведя» подходит не всегда. Сербский оборот особенно подчёркивает, что люди уже договорились или сделали расчёты, забыв спросить человека или сторону, без которых решение невозможно. Krčmar — хозяин или содержатель krčma; именно он в итоге выставляет настоящий счёт.",
       "keyword": "račun bez krčmara"
     },
     {
       "headword_latin": "Praviti se Englez",
       "type": "frazeologizam",
-      "definition_ru": "прикидываться, что ничего не понимаешь; делать вид, что не в курсе; включать дурачка",
+      "definition_ru": "делать вид, что не понимаешь; прикидываться неосведомлённым; включать дурачка",
       "synonyms_sr": [
         "praviti se lud",
         "praviti se nevešt",
         "glumiti da ne razumeš",
-        "izigravati naivca"
+        "praviti se neobavešten"
       ],
-      "literal_ru": "",
-      "register": "razg., šalj.-neodobr.; nešto staromodnije, ali prepoznatljivo",
+      "literal_ru": "изображать из себя англичанина",
+      "register": "razg., iron., neodobr.; o svesnom ignorisanju očiglednog",
       "examples": [
         {
-          "serbian_latin": "Šta nemaš pojma?! Ne pravi se Englez!",
-          "russian": "Как это «не знаю»?! Не прикидывайся, будто ничего не понимаешь!",
-          "source": "Vukajlija, 2007"
+          "serbian_latin": "Gradonačelnik tvrdi da takav dopis nije primio i pravi se Englez usred zemlje Srbije.",
+          "russian": "Мэр утверждает, что такого письма не получал, и делает вид, будто ничего не знает.",
+          "source": "Danas, 2020"
         },
         {
-          "serbian_latin": "Vinčić se „pravio Englez“.",
-          "russian": "Винчич сделал вид, будто ничего не знает и ни при чём.",
-          "source": "Srbija Danas, 2026"
+          "serbian_latin": "Sudija to nije video, ali jeste nemački golman Nojer. Međutim, on uhvati loptu i „pravi se Englez“.",
+          "russian": "Судья этого не увидел, а немецкий вратарь Нойер увидел — но сделал вид, что ничего не произошло.",
+          "source": "Politika, 2014"
         }
       ],
-      "note": "Это не характеристика англичан и не буквальное «изображать англичанина». Типичная ситуация: человек прекрасно понимает вопрос, но притворяется непонимающим, чтобы избежать ответа или ответственности. Ближе всего praviti se lud, однако praviti se Englez звучит более шутливо и сейчас встречается реже.",
+      "note": "Главное — не настоящая национальность, а демонстративное непонимание или неведение: человек всё прекрасно видит и понимает, но ведёт себя так, словно это его не касается. Происхождение выражения точно не установлено; народные объяснения лучше не принимать за доказанную этимологию.",
       "keyword": "praviti se Englez"
     },
     {
@@ -23532,43 +22830,17 @@
       "keyword": "usta"
     },
     {
-      "headword_latin": "Presaviti tabak",
-      "type": "frazeologizam",
-      "definition_ru": "подать в суд; подать иск или жалобу; начать юридическое разбирательство",
-      "synonyms_sr": [
-        "podneti tužbu",
-        "pokrenuti postupak",
-        "obratiti se sudu",
-        "podneti prijavu"
-      ],
-      "literal_ru": "сложить лист бумаги",
-      "register": "razg., nešto staromodnije; naročito presaviti tabak i tužiti nekoga",
-      "examples": [
-        {
-          "serbian_latin": "Presaviti tabak i tužiti trgovca.",
-          "russian": "Подать на продавца в суд.",
-          "source": "BBC na srpskom / Danas, 2022"
-        },
-        {
-          "serbian_latin": "Zato što je isprepadan da će jedan ili više tužilaca konačno presaviti tabak i naložiti njegovo privođenje.",
-          "russian": "Потому что он боится, что один или несколько прокуроров наконец решатся начать официальное разбирательство и распорядятся о его доставлении.",
-          "source": "RTS, 2025"
-        }
-      ],
-      "note": "Tabak — лист бумаги; в самом выражении сохраняется образ официальной бумаги, с которой человек отправляется добиваться своих прав. В современной речи presaviti tabak особенно тесно связано с обращением в суд, прокуратуру или другую инстанцию. Поэтому переводить просто «написать письмо» обычно слишком слабо.",
-      "keyword": "presaviti tabak"
-    },
-    {
       "headword_latin": "Preseći Gordijev čvor",
       "type": "frazeologizam",
-      "definition_ru": "разрубить гордиев узел; одним решительным действием разрешить крайне запутанную проблему",
+      "definition_ru": "разрубить гордиев узел; решительно разрешить запутанную проблему",
       "synonyms_sr": [
         "rešiti zamršen problem",
-        "razrešiti tešku situaciju",
-        "prelomiti stvar"
+        "razrešiti čvor",
+        "preseći problem",
+        "doneti odlučnu odluku"
       ],
-      "literal_ru": "разрубить гордиев узел",
-      "register": "knjiž.-publicistički, ekspresivno; takođe rešiti Gordijev čvor",
+      "literal_ru": "рассечь гордиев узел",
+      "register": "knjiž.-publicistički, ekspresivno; Gordijev se piše velikim početnim slovom",
       "examples": [
         {
           "serbian_latin": "Moramo preseći Gordijev čvor i reći ljudima istinu.",
@@ -23576,12 +22848,12 @@
           "source": "RTS, 2013"
         },
         {
-          "serbian_latin": "Odlučili smo da povučemo poslednji potez i konačno presečemo najzamršeniji Gordijev čvor u srpskoj kulturi.",
-          "russian": "Мы решили сделать последний шаг и наконец разрубить самый запутанный гордиев узел в сербской культуре.",
-          "source": "Danas, 2015"
+          "serbian_latin": "Šta valja činiti, kako preseći Gordijev čvor?",
+          "russian": "Что же делать, как разрубить этот гордиев узел?",
+          "source": "Politika, 2007"
         }
       ],
-      "note": "Выражение восходит к легенде об Александре Македонском, который не стал развязывать знаменитый узел, а рассёк его мечом. Поэтому важен оттенок решительного, нестандартного решения, а не просто успешного завершения сложного дела. Gordijev пишется с прописной буквы.",
+      "note": "Образ восходит к античному преданию о сложнейшем Gordijev čvor, который Aleksandar Veliki не стал распутывать, а рассёк мечом. Поэтому выражение предполагает не просто решение трудной задачи, а решительный выход из ситуации, долго считавшейся запутанной или неразрешимой. По-русски устойчиво «разрубить гордиев узел», тогда как сербский употребляет preseći.",
       "keyword": "Gordijev čvor"
     },
     {
@@ -23998,31 +23270,62 @@
       "keyword": "priča"
     },
     {
-      "headword_latin": "Prodati veru za večeru",
+      "headword_latin": "Prodati / prodavati rog za sveću",
       "type": "frazeologizam",
-      "definition_ru": "продать убеждения за выгоду; предать принципы ради сиюминутной пользы; продаться",
+      "definition_ru": "Выдать одно за другое, подсунуть подмену под видом настоящего; убедить человека принять сомнительную вещь или версию событий за доброкачественную и достоверную. Говорящий обвиняет кого-либо в обмане или намеренном введении в заблуждение.",
       "synonyms_sr": [
-        "prodati se",
-        "izdati svoja načela",
-        "odreći se principa zbog koristi",
-        "promeniti stranu zbog koristi"
+        "podvaliti nekome",
+        "obmanuti nekoga",
+        "predstaviti jedno kao drugo",
+        "poturiti nešto pod tuđim imenom"
       ],
-      "literal_ru": "продать веру за ужин",
-      "register": "tradicionalno, ekspresivno, izrazito neodobr.; naročito u političkom i moralno-ocenjivačkom jeziku",
+      "literal_ru": "Продать рог вместо свечи, выдав его за свечу.",
+      "register": "Разговорное и публицистическое, неодобрительное; обвинительная формулировка.",
       "examples": [
         {
-          "serbian_latin": "Ušli su u polemiku o tome ko je prodao veru za večeru.",
-          "russian": "Они вступили в спор о том, кто предал свои убеждения ради выгоды.",
-          "source": "RTS, 2016"
+          "serbian_latin": "[…] pokušavajući da im proda rog za sveću […]",
+          "russian": "[…] пытаясь подсунуть им подмену под видом правды […]",
+          "source": "Канцелярия по Косову и Метохии, 2023; фрагмент заявления Петара Петковича",
+          "url": "https://kim.gov.rs/lat/v5086.php"
         },
         {
-          "serbian_latin": "Naši aktivisti neće „prodati veru za večeru“.",
-          "russian": "Наши активисты не продадутся ради сиюминутной выгоды.",
-          "source": "Danas, 2020"
+          "serbian_latin": "Đukić je agenciji Beta kazao da je Vučić Evropskoj uniji \"ponovo prodao rog za sveću\" […]",
+          "russian": "Джукич заявил агентству Beta, что Вучич «снова ввёл Евросоюз в заблуждение» […]",
+          "source": "021.rs / Beta, 2025; фрагмент высказывания Сречко Джукича",
+          "url": "https://www.021.rs/info/srbija/405184/bivsi-diplomata-sastanak-vucica-sa-celnicima-eu-velika-maskarada-jos-vece-razocarenje-gradjana-u-eu"
         }
       ],
-      "note": "Vera здесь не обязательно означает религию: в современном употреблении это могут быть политические убеждения, верность группе, моральные принципы или данное слово. Večera символизирует небольшую и кратковременную материальную выгоду, поэтому выражение особенно резко осуждает неравноценный обмен принципов на удобство или подачку. Русское буквальное «продать веру за ужин» не является устойчивым выражением.",
-      "keyword": "prodati veru za večeru"
+      "note": "Выражение применимо не только к торговле: «подменой» могут быть аргументы, обещания и политические объяснения. Адресат обмана ставится в дательном падеже: prodati kome rog za sveću. Prodati подчёркивает состоявшуюся подмену, prodavati — процесс или повторение. Оба примера передают полемические обвинения авторов высказываний, а не доказанный словарём факт обмана.",
+      "keyword": "rog za sveću"
+    },
+    {
+      "headword_latin": "Prodati veru za večeru",
+      "type": "frazeologizam",
+      "definition_ru": "Поступиться верой, убеждениями, принципами или верностью ради личной выгоды; продаться, променяв важное на сиюминутную пользу. Образ подчёркивает унизительную несоразмерность такой сделки.",
+      "synonyms_sr": [
+        "izdati svoja uverenja",
+        "odreći se principa radi koristi",
+        "prodati se",
+        "izneveriti svoje ideale"
+      ],
+      "literal_ru": "Продать веру за ужин.",
+      "register": "Резко неодобрительное; употребляется в религиозной, общественной и политической полемике.",
+      "examples": [
+        {
+          "serbian_latin": "Mi nismo ljudi koji će prodati veru za večeru […]",
+          "russian": "Мы не из тех, кто поступится своей верой ради выгоды […]",
+          "source": "RTS, 2009; фрагмент высказывания Муамера Зукорлича",
+          "url": "https://www.rts.rs/lat/vesti/politika/62180/ceric-u-sandzaku.html"
+        },
+        {
+          "serbian_latin": "[…] kao odgovor na njihovu prethodnu polemiku o tome ko je prodao veru za večeru […]",
+          "russian": "[…] в ответ на их предыдущую перепалку о том, кто поступился убеждениями ради выгоды […]",
+          "source": "RTS, 2016; фрагмент парламентского репортажа",
+          "url": "https://www.rts.rs/lat/vesti/politika/2415687/seselj-svi-smo-mi-pomalo-vlasi.html"
+        }
+      ],
+      "note": "Vera может означать собственно религиозную веру, но всё выражение употребляется и шире — о принципах и политической верности. Večera не обязательно обозначает настоящий ужин или точно определённую сумму: это образ выгоды, ради которой отказываются от более ценного. Сочетание в первом примере служит заверением в верности, во втором — предметом взаимных обвинений. Нейтральное «изменить мнение» не передаёт его осуждающего оттенка.",
+      "keyword": "vera za večeru"
     },
     {
       "headword_latin": "prodavati maglu",
@@ -24854,28 +24157,28 @@
     {
       "headword_latin": "Pustiti nekoga / nešto niz vodu",
       "type": "frazeologizam",
-      "definition_ru": "сдать кого-то; бросить на произвол судьбы; отказаться поддерживать; пожертвовать кем-то или чем-то",
+      "definition_ru": "бросить на произвол судьбы; сдать кого-то; отказаться от поддержки; пожертвовать кем-то",
       "synonyms_sr": [
-        "napustiti",
         "odreći se",
-        "prestati podržavati",
-        "žrtvovati"
+        "žrtvovati",
+        "napustiti",
+        "ostaviti na cedilu"
       ],
-      "literal_ru": "пустить вниз по течению",
-      "register": "razg.-publicistički, neodobr.; naročito o saveznicima, kolegama, organizacijama i principima",
+      "literal_ru": "пустить кого-то / что-то вниз по течению",
+      "register": "razg.-publicistički, neodobr.; naročito o savezniku, saradniku, organizaciji ili projektu od kog se odustaje radi sopstvene koristi",
       "examples": [
         {
           "serbian_latin": "Upitan da li je ministra finansija „pustio niz vodu“, kaže da ga se nije odrekao.",
-          "russian": "На вопрос, «сдал» ли он министра финансов, он ответил, что от него не отказывался.",
+          "russian": "На вопрос, «сдал» ли он министра финансов, он ответил, что от него не отказался.",
           "source": "RTS, 2021"
         },
         {
-          "serbian_latin": "Socijalisti su ostvarili potpuni zaokret u partiji i pustili niz vodu sve ono što ih je vezivalo za stari režim.",
-          "russian": "Социалисты полностью изменили курс партии и избавились от всего, что связывало их со старым режимом.",
-          "source": "Danas, 2010"
+          "serbian_latin": "Oni u koje se najvećma uzdaš, kojima veruješ i koje smatraš najodanijim, ti će te pustiti niz vodu.",
+          "russian": "Именно те, на кого ты больше всего рассчитываешь, бросят тебя и откажутся поддерживать.",
+          "source": "Danas, 2025"
         }
       ],
-      "note": "Когда объект — человек, выражение обычно сильнее простого napustiti: его перестают защищать именно тогда, когда поддержка особенно нужна, фактически «сдают». С абстрактным объектом значение может смягчаться до «отказаться, отбросить»: pustiti niz vodu stare principe. В русском функционально близки «сдать», «бросить», «списать за борт».",
+      "note": "В отличие от нейтрального odustati od nekoga, оборот часто содержит идею предательства или сознательного отказа спасать того, кому раньше помогали. Русское «спустить по течению» такого устойчивого значения не имеет; обычно нужны «сдать», «бросить», «пожертвовать кем-то», «оставить на произвол судьбы». Не путать с pustiti vodu — «спустить воду».",
       "keyword": "pustiti niz vodu"
     },
     {
@@ -26294,33 +25597,6 @@
       ],
       "note": "Skinuti ljagu и sprati ljagu практически синонимичны, но образ немного различается: sprati представляет позор как грязь, которую надо «смыть», а skinuti — как наложенное на человека пятно или клеймо, которое нужно «снять». Особенно естественно skinuti ljagu sa imena. В пассиве часто говорят skinuta je ljaga sa njegovog imena — «его доброе имя очищено».",
       "keyword": "skinuti ljagu"
-    },
-    {
-      "headword_latin": "Skinuti masku",
-      "type": "frazeologizam",
-      "definition_ru": "снять маску; показать истинное лицо; раскрыть настоящие намерения",
-      "synonyms_sr": [
-        "pokazati pravo lice",
-        "razotkriti se",
-        "otkriti prave namere",
-        "prestati da se pretvara"
-      ],
-      "literal_ru": "",
-      "register": "neutralno-publicistički, ekspresivno; može imati i doslovno značenje",
-      "examples": [
-        {
-          "serbian_latin": "Potrebno je skinuti masku i sagledati situaciju, problemi su rešivi.",
-          "russian": "Нужно снять маску, посмотреть на ситуацию без притворства — проблемы решаемы.",
-          "source": "RTS, 2024"
-        },
-        {
-          "serbian_latin": "Licemerje će samo skinuti masku uljudnosti i prikazati se u svom pravom nečovečnom liku.",
-          "russian": "Лицемерие просто сбросит маску благопристойности и покажет своё настоящее бесчеловечное лицо.",
-          "source": "Politika, 2017"
-        }
-      ],
-      "note": "Переносное skinuti masku предполагает, что внешняя благопристойность, дружелюбие или декларируемые намерения скрывали настоящую сущность. Родственное pasti maska означает, что маскировка разрушилась или обман раскрылся словно сам собой; skinuti masku чаще подчёркивает действие — человек сам перестал притворяться или кто-то разоблачил видимость. После пандемии буквальное и переносное значения особенно важно различать по контексту.",
-      "keyword": "skinuti masku"
     },
     {
       "headword_latin": "Skinuti rukavice",
@@ -27973,31 +27249,33 @@
       "keyword": "stati na crtu"
     },
     {
-      "headword_latin": "Stati nekome na žulj",
-      "type": "frazeologizam",
-      "definition_ru": "наступить кому-то на больную мозоль; задеть болезненную тему или интерес; сильно досадить",
+      "headword_latin": "stati nekome na žulj",
+      "type": "глагольный фразеологизм",
+      "definition_ru": "Наступить кому-либо на больную мозоль; сильно задеть, вызвать раздражение или нарушить чьи-либо интересы.",
       "synonyms_sr": [
-        "dirnuti u nečiji interes",
-        "pogoditi bolno mesto",
-        "zasmetati nekome",
-        "naljutiti nekoga"
+        "pogoditi nekoga u bolnu tačku",
+        "dirnuti u osetljivo mesto",
+        "izazvati nečiji bes",
+        "zameriti se nekome"
       ],
-      "literal_ru": "наступить кому-то на мозоль",
-      "register": "razg.-publicistički; lice je u dativu: stao mi / mu / im je na žulj",
+      "literal_ru": "Наступить кому-либо на мозоль.",
+      "register": "Разговорное, экспрессивное.",
       "examples": [
         {
-          "serbian_latin": "Moj stav očito nekima ne prija. Moraću da razmislim zašto i kome sam stao na žulj.",
-          "russian": "Моя позиция кому-то явно мешает. Придётся подумать, кому и чем я наступил на больную мозоль.",
-          "source": "RTS, 2017"
+          "serbian_latin": "Pašić kralju stao na žulj.",
+          "russian": "Пашич наступил королю на больную мозоль.",
+          "source": "Mondo, 2023",
+          "url": "https://mondo.rs/Info/Drustvo/a1857297/ZBOG-OVOGA-JE-PASIC-KRALJU-STAO-NA-ZULJ-odbrana-23.html"
         },
         {
-          "serbian_latin": "Popović je, između ostalog, stao na žulj vršačkim naprednjacima.",
-          "russian": "Попович, помимо прочего, наступил на больную мозоль вршацким напреднякам.",
-          "source": "Danas, 2017"
+          "serbian_latin": "Manaj stao na žulj srpskoj publici.",
+          "russian": "Манай сильно задел сербскую публику.",
+          "source": "Srbija Danas, 2025",
+          "url": "https://www.sd.rs/sport/fudbal/golcina-pa-provokacija-albanci-poveli-u-leskovcu-manaj-posle-gola-stao-na-zulj-srpskoj-publici-video-2025-10-11"
         }
       ],
-      "note": "Очень близко русскому «наступить на больную мозоль», но сербский оборот часто употребляется шире: человек нарушил чьи-то интересы, помешал выгоде или стал неудобен влиятельной стороне. Поэтому в политической и криминальной журналистике kome je stao na žulj? может означать «чьи интересы он задел?».",
-      "keyword": "stati na žulj"
+      "note": "Человек «наступает на мозоль», когда затрагивает особенно болезненную тему, нарушает чужие интересы или совершает нечто, вызывающее сильное недовольство.",
+      "keyword": "žulj"
     },
     {
       "headword_latin": "Staviti / baciti nekome bubu u uho",
@@ -28120,32 +27398,6 @@
       ],
       "note": "В современном переносном употреблении физическая опасность вовсе не обязательна: можно staviti glavu na panj ради утверждения, решения или прогноза, рискуя карьерой и репутацией. Русское «голову на отсечение» обычно выражает уверенность в истинности слов, а сербский оборот шире и может подчёркивать сам риск.",
       "keyword": "glavu na panj"
-    },
-    {
-      "headword_latin": "Staviti glavu u torbu",
-      "type": "frazeologizam",
-      "definition_ru": "рисковать головой; поставить жизнь на кон; смертельно рисковать",
-      "synonyms_sr": [
-        "rizikovati život",
-        "izložiti se smrtnoj opasnosti",
-        "staviti život na kocku"
-      ],
-      "literal_ru": "положить голову в сумку",
-      "register": "razg.-publicistički, snažno ekspresivno; obično o realnoj ozbiljnoj opasnosti",
-      "examples": [
-        {
-          "serbian_latin": "Novinari koji znaju da pisati o narko-kartelima znači staviti glavu u torbu, zamerili su Penu...",
-          "russian": "Журналисты, понимающие, что писать о наркокартелях значит рисковать жизнью, упрекнули Пенна…",
-          "source": "RTS, 2020"
-        },
-        {
-          "serbian_latin": "Afrički i azijski migranti stavljaju glavu u torbu da se dokopaju kapitalističke Evrope.",
-          "russian": "Африканские и азиатские мигранты рискуют жизнью, пытаясь добраться до Европы.",
-          "source": "RTS, 2020"
-        }
-      ],
-      "note": "Оборот значительно сильнее обычного rizikovati. Как правило, речь о риске для жизни или по крайней мере об опасности с очень серьёзными последствиями. Русское «голову в сумку» непонятно; естественные соответствия — «рисковать головой», «поставить жизнь на кон».",
-      "keyword": "glava u torbi"
     },
     {
       "headword_latin": "staviti karte na sto",
@@ -28292,33 +27544,6 @@
       ],
       "note": "Оборот связан с детским фольклорным представлением, будто птицу можно поймать, если насыпать ей соли на хвост. В реальной речи выражение употребляется иронически именно о недостижимом человеке: он уже ускользнул — теперь «положи ему соли на хвост». Русскому ближе «ищи-свищи», «попробуй поймай».",
       "keyword": "soli na rep"
-    },
-    {
-      "headword_latin": "Staviti nešto na vagu",
-      "type": "frazeologizam",
-      "definition_ru": "взвесить; положить на чашу весов; тщательно сопоставить аргументы и последствия",
-      "synonyms_sr": [
-        "odmeriti",
-        "razmotriti",
-        "proceniti",
-        "uporediti"
-      ],
-      "literal_ru": "положить что-то на весы",
-      "register": "neutralno-publicistički; često staviti sve na vagu",
-      "examples": [
-        {
-          "serbian_latin": "Nadam se da će se krajem godine sve staviti na vagu.",
-          "russian": "Надеюсь, что в конце года всё будет тщательно взвешено и оценено.",
-          "source": "N1, 2026"
-        },
-        {
-          "serbian_latin": "Sve to valja staviti „na vagu“.",
-          "russian": "Всё это нужно хорошенько взвесить.",
-          "source": "Politika, 2015"
-        }
-      ],
-      "note": "На «весы» обычно кладут преимущества и риски, два решения, аргументы или ценности. Поэтому выражение часто означает не просто «подумать», а сопоставить противоположные факторы. Не путать со staviti nešto na kocku — там речь уже о риске: «поставить на кон».",
-      "keyword": "staviti na vagu"
     },
     {
       "headword_latin": "staviti prst na čelo",
@@ -28930,34 +28155,6 @@
       "keyword": "kovač svoje sreće"
     },
     {
-      "headword_latin": "Svako se češe tamo gde ga svrbi",
-      "type": "poslovica",
-      "definition_ru": "У кого что болит, тот о том и говорит. Люди особенно остро реагируют на то, что затрагивает их собственные заботы, интересы или уязвимые места. В споре поговоркой нередко намекают: собеседник заговорил об этом не случайно, тема задела его лично.",
-      "synonyms_sr": [
-        "svako govori o onome što ga muči",
-        "svakoga njegova muka najviše boli",
-        "svako polazi od svojih briga"
-      ],
-      "literal_ru": "Каждый чешется там, где у него чешется.",
-      "register": "Разговорная поговорка; часто ироническая или колкая, возможна самоирония.",
-      "examples": [
-        {
-          "serbian_latin": "Svako se češe tamo gde ga svrbi, i Dinkić, ali, eto, i moja malenkost.",
-          "russian": "У кого что болит, тот о том и говорит: и Динкич, и, чего уж скрывать, ваш покорный слуга.",
-          "source": "NUNS, 2009; авторская колонка «Nešto sasvim lično»",
-          "url": "https://nuns.rs/nesto-sasvim-licno/"
-        },
-        {
-          "serbian_latin": "Svako se češe tamo gde ga svrbi.",
-          "russian": "У кого что болит, тот о том и говорит.",
-          "source": "Danas, 2024; начало цитируемого комментария Аиды Чорович",
-          "url": "https://www.danas.rs/vesti/politika/sagovornici-danasa-o-izjavi-predsednika-srbije-da-su-nad-nasim-narodom-pocinjeni-brojni-i-strasni/"
-        }
-      ],
-      "note": "В первом примере автор применяет поговорку и к себе: это признание личной заинтересованности, а не обвинение. Во втором она открывает полемический комментарий. Поэтому перевод «на воре шапка горит» иногда передаёт колкость, но без контекста слишком сильно приписывает человеку вину. Слово tamo может опускаться: svako se češe gde ga svrbi. Не путать с češati se gde ne svrbi: отрицание меняет смысл на вмешательство не в своё дело или поиск ненужных неприятностей.",
-      "keyword": "svrbeti; češati se"
-    },
-    {
       "headword_latin": "Svako zašto ima svoje zato",
       "type": "izreka",
       "definition_ru": "у каждого «почему» есть своё «потому»; всему есть причина; всему есть объяснение",
@@ -29334,34 +28531,6 @@
       ],
       "note": "Число šesnaest здесь не имеет прозрачного современного значения: выражение надо запоминать целиком как усилитель интенсивности. Надёжно установленного происхождения нет. Существуют версии о футбольном šesnaesterac, музыкальных шестнадцатых и символике числа 16, но подтверждения ни одна из них не получила.",
       "keyword": "sve u šesnaest"
-    },
-    {
-      "headword_latin": "Sveta krava",
-      "type": "frazeološki izraz",
-      "definition_ru": "В переносном смысле — человек, идея, произведение или учреждение, которые считаются неприкосновенными, защищёнными от критики и обычных требований. Иногда выражение лишь подчёркивает исключительное уважение и особое отношение.",
-      "synonyms_sr": [
-        "nedodirljiva osoba",
-        "nešto izuzeto od kritike",
-        "zaštićena svetinja"
-      ],
-      "literal_ru": "Священная корова.",
-      "register": "Публицистическое и разговорное; часто ироническое, особенно при критике привилегий.",
-      "examples": [
-        {
-          "serbian_latin": "Paket aranžman je sveta krava domaćeg rokenrola, […]",
-          "russian": "«Пакет аранжман» — священная корова отечественного рока, […]",
-          "source": "City Magazine / Danas, 2026; авторская характеристика музыкального альбома",
-          "url": "https://citymagazine.danas.rs/popkultura/muzika/paket-aranzman/"
-        },
-        {
-          "serbian_latin": "Vozio sam bicikl u Amsterdamu, i bio zapanjen. Ponašali su se prema meni kao da sam „sveta krava“.",
-          "russian": "Я ездил на велосипеде по Амстердаму и был поражён: со мной обращались как со «священной коровой».",
-          "source": "Danas, 2009; рассказ велосипедиста",
-          "url": "https://www.danas.rs/vesti/beograd/za-automobile-spori-za-pesake-brzi/"
-        }
-      ],
-      "note": "В первом примере речь об особенно почитаемом альбоме; во втором велосипедист так описывает бережное отношение к себе на дороге. Поэтому выражение не всегда обвиняет кого-либо в злоупотреблении привилегиями. В конструкции kao da sam sveta krava слова женского рода сохраняются и при говорящем мужчине: это грамматика самого образа. Русское соответствие совпадает практически полностью.",
-      "keyword": "sveta krava"
     },
     {
       "headword_latin": "Svetla tačka",
@@ -30120,29 +29289,29 @@
     {
       "headword_latin": "Terati inat",
       "type": "frazeologizam",
-      "definition_ru": "делать назло; упорствовать из принципа; действовать наперекор именно потому, что от тебя хотят обратного",
+      "definition_ru": "делать назло; упираться из принципа; идти наперекор",
       "synonyms_sr": [
+        "inatiti se",
+        "terati po svome",
         "prkositi",
-        "raditi iz inata",
-        "ići nekome uz nos",
-        "namerno raditi suprotno"
+        "protiviti se iz inata"
       ],
       "literal_ru": "",
-      "register": "razg.; tipično terati inat nekome, raditi nešto iz inata",
+      "register": "razg., ekspresivno; terati inat nekome / nečemu — dativ; često terati inat na svoju štetu",
       "examples": [
         {
-          "serbian_latin": "Nemoj da teraš inat samo zato što su ti rekli da to ne radiš.",
-          "russian": "Не делай назло только потому, что тебе сказали этого не делать.",
-          "source": ""
+          "serbian_latin": "Inat se može terati nekim ljudima sve vreme. Može i svim ljudima neko vreme. Ali inat se ne može terati svim ljudima sve vreme.",
+          "russian": "Можно всё время действовать назло некоторым людям. Можно какое-то время — всем. Но невозможно всё время идти наперекор всем.",
+          "source": "Danas, 2019"
         },
         {
-          "serbian_latin": "Njih dvojica više i ne raspravljaju o problemu — samo teraju inat jedan drugom.",
-          "russian": "Они уже и не спорят по существу — просто делают друг другу назло.",
-          "source": ""
+          "serbian_latin": "Iracionalno je makar i na osnovu neospornih principa terati inat surovoj realnosti na svoju štetu.",
+          "russian": "Неразумно, даже исходя из бесспорных принципов, упрямо идти наперекор суровой реальности себе во вред.",
+          "source": "Danas, 2014"
         }
       ],
-      "note": "Inat — очень характерное для сербской культурной лексики слово: упрямое действие наперекор чужой воле, иногда даже вопреки собственной выгоде. Русские «упрямство» и «назло» передают лишь части значения. Terati inat обычно отрицательно описывает затянувшееся противостояние, тогда как iz inata иногда получает почти одобрительный оттенок стойкости: «всем назло».",
-      "keyword": "inat"
+      "note": "Inat — не просто обычное упрямство: важна идея демонстративного сопротивления кому-то или обстоятельствам, нередко по принципу «назло сделаю наоборот». Поэтому terati inat может быть и одобрительным как проявление непокорности, и резко критическим, особенно в сочетании na svoju štetu. Не всякое biti tvrdoglav означает terati inat.",
+      "keyword": "terati inat"
     },
     {
       "headword_latin": "Terati kera",
@@ -30170,35 +29339,6 @@
       ],
       "note": "Выражение неоднозначно. Старое и до сих пор понятное употребление связано с разгульным весельем, кутежом и «гулянием на полную», но встречается и значение terati po svome, inatiti se, može mu se — своевольничать и позволять себе то, что хочется. Danas фиксирует именно такое объяснение в обзоре местной лексики, а RTS включает terati kera в число традиционных выражений, несущих следы старого быта. Поэтому перевод всегда нужно выбирать по контексту, а не буквально.",
       "keyword": "terati kera"
-    },
-    {
-      "headword_latin": "Terati kontru",
-      "type": "frazeologizam",
-      "definition_ru": "Идти наперекор, упрямо возражать или делать наоборот. Часто подразумевается, что человек сопротивляется из принципа или назло, а не ради решения вопроса. Иногда выражение просто подчёркивает демонстративное несогласие с окружающими.",
-      "synonyms_sr": [
-        "kontrirati",
-        "terati inat",
-        "ići uz inat",
-        "namerno se protiviti"
-      ],
-      "literal_ru": "Гнать «контру», то есть упорно действовать против.",
-      "register": "Разговорное, экспрессивное; обычно неодобрительное, иногда с одобрением независимости.",
-      "examples": [
-        {
-          "serbian_latin": "OTAC ILONA MASKA TERA KONTRU GLOBALISTIMA […]",
-          "russian": "Отец Илона Маска идёт наперекор глобалистам […]",
-          "source": "Dnevnik, 2025; фрагмент редакционного заголовка",
-          "url": "https://www.dnevnik.rs/lat/vesti/svet/otac-ilona-maska-tera-kontru-globalistima-tesko-je-nemati-postovanja-prema-putinu-kao-coveku-2025-04-04"
-        },
-        {
-          "serbian_latin": "[…] Ostoja tera kontru! Partizan neće da odloži derbi […]",
-          "russian": "[…] Остоя упёрся! «Партизан» отказывается переносить дерби […]",
-          "source": "Direktno, 2026; фрагмент заголовка о споре вокруг переноса матча",
-          "url": "https://direktno.rs/sport/kosarka/681686/kk-crvena-zvezda-kk-partizan-aba-liga-veciti-derbi.html"
-        }
-      ],
-      "note": "Можно terati kontru nekome — идти наперекор кому-либо; адресат ставится в дательном падеже. Оборот сильнее нейтрального ne slagati se — «не соглашаться»: он добавляет впечатление намеренного сопротивления. Однако мотив «назло» может быть лишь оценкой журналиста или собеседника. В первом заголовке автор подаёт несогласие как независимую позицию, во втором — как упрямство. Kontra здесь не обозначает спортивную контратаку.",
-      "keyword": "kontra"
     },
     {
       "headword_latin": "Teško onom ko zlotvora nema",
@@ -31168,35 +30308,6 @@
       "keyword": "u zdravom telu zdrav duh"
     },
     {
-      "headword_latin": "Ubiti / ubijati nekoga u pojam",
-      "type": "frazeologizam",
-      "definition_ru": "Морально подавить, измотать, довести до полного уныния. О человеке, потоке неприятных слов или тягостных обстоятельствах — лишать сил и желания что-либо делать. В менее серьёзном контексте: «измучить», «окончательно достать».",
-      "synonyms_sr": [
-        "dotući nekoga",
-        "demoralisati nekoga",
-        "psihički iscrpeti nekoga",
-        "obeshrabriti nekoga"
-      ],
-      "literal_ru": "Буквально: «убить кого-либо в понятие»; по-русски образ не воспроизводится.",
-      "register": "Разговорное, очень экспрессивное; может быть как серьёзной жалобой, так и преувеличением.",
-      "examples": [
-        {
-          "serbian_latin": "Dodaje kako će je ovo zatvaranje usred zime \"ubiti u pojam\".",
-          "russian": "Она добавляет, что новые ограничения среди зимы окончательно её изведут.",
-          "source": "Telegraf, 2021; журналистский пересказ слов собеседницы о локдауне",
-          "url": "https://www.telegraf.rs/vesti/svet/3421089-srbima-u-becu-prekipelo-mame-ocajne-zbog-lokdauna-ovo-je-najgora-prica-ubija-u-pojam"
-        },
-        {
-          "serbian_latin": "[…] ali Pink ima mnogo goru misiju – ubija u pojam, […]",
-          "russian": "[…] но у Pink миссия куда хуже — морально подавлять зрителя, […]",
-          "source": "Danas, 2017; фрагмент сатирической колонки Драголюба Петровича",
-          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/pusenje-mitrovica-zeljka/"
-        }
-      ],
-      "note": "Глагол ubiti здесь не обозначает физическое убийство. Формы с несовершенным видом ubijati подчёркивают продолжающееся воздействие: ubija me u pojam. Совершенный вид ubiti выражает результат: ubilo me je u pojam. Степень серьёзности определяет контекст: бытовая гипербола не равна описанию психического заболевания. Второй пример — авторская сатира и оценка телепрограммы, а не установленный медицинский эффект.",
-      "keyword": "ubiti u pojam"
-    },
-    {
       "headword_latin": "ubiti dve muve jednim udarcem",
       "type": "глагольный фразеологизм",
       "definition_ru": "Убить двух зайцев одним выстрелом; одним действием достичь двух целей.",
@@ -31462,28 +30573,30 @@
     {
       "headword_latin": "Udariti / lupiti šakom o sto",
       "type": "frazeologizam",
-      "definition_ru": "стукнуть кулаком по столу; жёстко настоять на своём; проявить власть и решительность",
+      "definition_ru": "стукнуть кулаком по столу; проявить твёрдость; властно сказать «хватит»",
       "synonyms_sr": [
-        "pokazati odlučnost",
-        "odlučno zahtevati",
-        "preseći raspravu",
-        "nametnuti odluku"
+        "preseći",
+        "odlučno reagovati",
+        "pokazati autoritet",
+        "reći dosta"
       ],
       "literal_ru": "ударить кулаком по столу",
-      "register": "razg., ekspresivno; može biti doslovno i preneseno",
+      "register": "разг., экспр.; может описывать реальный жест, но часто означает жёсткое и окончательное решение",
       "examples": [
         {
-          "serbian_latin": "Naravno da je ponekad potrebno lupiti šakom o sto, figurativno rečeno.",
-          "russian": "Конечно, иногда нужно, образно говоря, стукнуть кулаком по столу.",
-          "source": "Danas, 2016"
+          "serbian_latin": "Kada treba da udari šakom o sto i bude stroga za dobrobit ovog humanog poziva, naša sagovornica kaže da to i te kako čini.",
+          "russian": "Когда нужно проявить твёрдость и быть строгой ради дела, наша собеседница говорит, что без колебаний это делает.",
+          "source": "Politika, 2013",
+          "url": "https://www.politika.rs/sr/clanak/257248/milena-ratkovic-najbolja-sestra-vma"
         },
         {
-          "serbian_latin": "„Ni Danska, ni Amerika već – nezavisni Grenland!“, rekao je, lupivši šakom o sto.",
-          "russian": "«Ни Дания, ни Америка — только независимая Гренландия!» — сказал он, ударив кулаком по столу.",
-          "source": "RTS, 2020"
+          "serbian_latin": "Nama je potreban neko... taj mora da kaže „upamet se, Srbi“ i možda da udari šakom o sto.",
+          "russian": "Нам нужен кто-то, кто скажет: «Образумьтесь, сербы» — и, возможно, наконец проявит жёсткость.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/politika/bajic-ako-javni-funkcioneri-nastave-ovako-da-vode-igru-odvesce-nas-u-predvorje-gradjanskog-rata/"
         }
       ],
-      "note": "В переносном употреблении жест обозначает момент, когда человек прекращает уговоры и занимает жёсткую позицию: «всё, будет так». Русское выражение устроено почти так же. В сербском особенно часто lupiti šakom o sto; udariti звучит чуть буквальнее.",
+      "note": "Реальный удар по столу и переносное «проявить власть, прекратить спор и принять решение» легко переходят друг в друга. В политической речи образ часто связан с ожиданием «сильной руки». В русском аналогичная метафора есть, но по-сербски она особенно регулярно используется как символ решительности.",
       "keyword": "šakom o sto"
     },
     {
@@ -31623,32 +30736,6 @@
       ],
       "note": "По-сербски метафора строится на voz — «поезд», тогда как русский разговорный аналог часто использует «последний вагон». Речь обычно о последней реалистической возможности, а не обязательно о буквально единственном шансе в жизни. Несовершенный hvatati особенно частотен в спортивных заголовках.",
       "keyword": "poslednji voz"
-    },
-    {
-      "headword_latin": "Uhvatiti bika za rogove",
-      "type": "frazeologizam",
-      "definition_ru": "взять быка за рога; решительно взяться за проблему; перестать откладывать трудное дело",
-      "synonyms_sr": [
-        "odlučno se suočiti s problemom",
-        "preuzeti inicijativu",
-        "uhvatiti se ukoštac s problemom"
-      ],
-      "literal_ru": "схватить быка за рога",
-      "register": "razg.-publicistički, ekspresivno; javlja se i zgrabiti bika za rogove",
-      "examples": [
-        {
-          "serbian_latin": "Uhvatite bika za rogove, priznajte prelaznu vlast i obezbedite potpunu izolaciju.",
-          "russian": "Возьмите быка за рога, признайте переходную власть и обеспечьте полную изоляцию.",
-          "source": "Politika, 2011"
-        },
-        {
-          "serbian_latin": "Mladim trenerskim generacijama veoma je teško da zgrabe bika za rogove.",
-          "russian": "Молодому поколению тренеров очень трудно решительно взять ситуацию в свои руки.",
-          "source": "Sport Klub, 2022"
-        }
-      ],
-      "note": "Русский и сербский образы практически полностью совпадают. Выражение предполагает не просто начало работы, а решительное столкновение с главной трудностью, которую прежде избегали или откладывали. Zgrabiti делает образ ещё энергичнее, но основной словарный вариант — uhvatiti bika za rogove.",
-      "keyword": "bika za rogove"
     },
     {
       "headword_latin": "Uhvatiti Boga za bradu",
@@ -32420,6 +31507,35 @@
       "keyword": "više sreće nego pameti"
     },
     {
+      "headword_latin": "Voditi glavnu reč",
+      "type": "frazeologizam",
+      "definition_ru": "Играть ведущую роль, задавать тон, иметь определяющее влияние на происходящее. Руководить обсуждением или фактически определять решения в группе, организации либо другой сфере.",
+      "synonyms_sr": [
+        "imati presudan uticaj",
+        "odlučivati o najvažnijem",
+        "biti vodeći",
+        "predvoditi"
+      ],
+      "literal_ru": "Вести главное слово.",
+      "register": "Нейтральное разговорное и публицистическое выражение.",
+      "examples": [
+        {
+          "serbian_latin": "Nema mnogo dileme ko će voditi glavnu reč u ovoj epizodi.",
+          "russian": "Нет особых сомнений, кто будет задавать тон в этом выпуске.",
+          "source": "RTS, 2023; анонс передачи «Plava ptica»",
+          "url": "https://www.rts.rs/lat/tv/rts2/5259927/plava-ptica-srpske-words.html"
+        },
+        {
+          "serbian_latin": "Naprednjaci će voditi glavnu reč i na do sada opozicionoj opštini, Starom gradu.",
+          "russian": "Представители Сербской прогрессивной партии будут определять политику и в Стари-Граде, которым до сих пор управляла оппозиция.",
+          "source": "RTS, 2020; сообщение о результатах выборов",
+          "url": "https://www.rts.rs/lat/vesti/izbori-2020/3995277/izbori-2020-beograd-rezultati.html"
+        }
+      ],
+      "note": "Главное здесь — влияние, а не количество произнесённых слов. Поэтому выражение не тождественно držati banku — «завладеть общим вниманием и говорить больше всех». Ведущую роль может играть даже человек, который говорит мало, но принимает решения. Оборот также не совпадает с imati poslednju reč: последнее подчёркивает окончательное решение, а voditi glavnu reč — ведущую позицию в происходящем.",
+      "keyword": "voditi glavnu reč"
+    },
+    {
       "headword_latin": "Vrag je odneo šalu",
       "type": "izreka",
       "definition_ru": "шутки кончились; дело стало серьёзным; стало не до шуток",
@@ -32941,33 +32057,6 @@
       ],
       "note": "Sića означает мелочь или незначительную сумму. Выражение может характеризовать и выгодную покупку, и невыгодную продажу.",
       "keyword": "sića"
-    },
-    {
-      "headword_latin": "Zabadati nos u tuđe poslove / živote",
-      "type": "frazeologizam",
-      "definition_ru": "совать нос в чужие дела; лезть не в своё дело; вмешиваться в чужую жизнь",
-      "synonyms_sr": [
-        "mešati se u tuđe stvari",
-        "gurati nos gde mu nije mesto",
-        "petljati se",
-        "mešati se gde te niko ne zove"
-      ],
-      "literal_ru": "засовывать нос в чужие дела",
-      "register": "razg., neodobr.; u + akuzativ: u tuđe poslove, u tuđ život",
-      "examples": [
-        {
-          "serbian_latin": "Ona voli da zabada nos u tuđe živote.",
-          "russian": "Она любит совать нос в чужую жизнь.",
-          "source": "RTS, 2020"
-        },
-        {
-          "serbian_latin": "Težnja da se „zabada nos“ u tuđe živote nije nova pojava.",
-          "russian": "Стремление совать нос в чужую жизнь — явление не новое.",
-          "source": "Politika, 2014"
-        }
-      ],
-      "note": "Здесь русская и сербская метафоры почти полностью совпадают. Zabadati хорошо передаёт повторяющееся, назойливое вмешательство; близкое gurati nos gde mu nije mesto звучит ещё более разговорно и резко. Не всякое interesovati se является вмешательством: в zabadati nos обязательно присутствует неодобрение.",
-      "keyword": "zabadati nos"
     },
     {
       "headword_latin": "Zabiti glavu u pesak",
@@ -33612,32 +32701,6 @@
       "keyword": "crno"
     },
     {
-      "headword_latin": "Zavrnuti / zasukati rukave",
-      "type": "frazeologizam",
-      "definition_ru": "засучить рукава; всерьёз взяться за дело; начать активно работать",
-      "synonyms_sr": [
-        "prionuti na posao",
-        "baciti se na posao",
-        "ozbiljno početi da radi"
-      ],
-      "literal_ru": "засучить рукава",
-      "register": "razg.-neutralno; zavrnuti rukave i zasukati rukave",
-      "examples": [
-        {
-          "serbian_latin": "Svi u Srbiji sada moraju da „zavrnu rukave“.",
-          "russian": "Теперь всем в Сербии придётся засучить рукава и серьёзно взяться за работу.",
-          "source": "RTS, 2023"
-        },
-        {
-          "serbian_latin": "Građani i korisnici marine juče su zasukali rukave i organizovali akciju čišćenja jezera Međuvršje.",
-          "russian": "Жители и пользователи марины вчера засучили рукава и организовали уборку озера Меджувршје.",
-          "source": "Telegraf, 2026"
-        }
-      ],
-      "note": "В сербском оба глагола употребительны, хотя zasukati rukave образнее и традиционнее. Выражение может непосредственно предшествовать физической работе, но чаще означает переход от разговоров и планов к реальным действиям: Vreme je da zasučemo rukave.",
-      "keyword": "zasukati rukave"
-    },
-    {
       "headword_latin": "Zavrnuti slavinu",
       "type": "frazeologizam",
       "definition_ru": "перекрыть финансовый кран; прекратить финансирование; лишить источника ресурсов",
@@ -34103,34 +33166,6 @@
       ],
       "note": "Главная ловушка для русского — несовпадение образа: по-сербски na visokoj nozi, по-русски «на широкую ногу». Калька «на высокой ноге» по-русски не работает. Выражение обычно говорит не просто о достатке, а о заметно дорогом стиле жизни.",
       "keyword": "visoka noga"
-    },
-    {
-      "headword_latin": "Živeti od stare slave",
-      "type": "frazeologizam",
-      "definition_ru": "Жить былой славой: сохранять популярность, положение или получать выгоду главным образом благодаря прежним достижениям, а не новым успехам. О человеке или организации — продолжать пользоваться когда-то заработанной репутацией.",
-      "synonyms_sr": [
-        "oslanjati se na nekadašnji ugled",
-        "koristiti ranije stečenu slavu",
-        "živeti na račun starih uspeha"
-      ],
-      "literal_ru": "Жить за счёт старой славы.",
-      "register": "Разговорное и публицистическое; обычно критическое или ироническое.",
-      "examples": [
-        {
-          "serbian_latin": "Objekat od 70.000 kvadrata više živi od stare slave nego od zarade.",
-          "russian": "Комплекс площадью 70 000 квадратных метров держится скорее на былой славе, чем на доходах.",
-          "source": "RTS, 2017; статья о белградском «Сава-центре»",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/2732742/centar-sava-ceka-partnera-koji-ce-mu-vratiti-stari-sjaj.html"
-        },
-        {
-          "serbian_latin": "Neki pevači žive od stare slave, neki gotovo da penziju dočekaju pevajući više decenija stare hitove.",
-          "russian": "Некоторые певцы живут былой славой, а некоторые едва ли не до пенсии поют хиты, которым уже несколько десятилетий.",
-          "source": "RTS, 2025; вступление к материалу о Халиде Бешличе",
-          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/5804009/halid-beslic-oko-drugi-o-pevacu.html"
-        }
-      ],
-      "note": "Речь не просто о приятных воспоминаниях: прежние заслуги продолжают поддерживать нынешнее положение. Оборот можно перевести и как «почивать на лаврах», но это соответствие сильнее подчёркивает бездействие. Само выражение не отрицает реальности прошлых успехов. В первом примере зданию приписано действие учреждения, которое в нём работает. Во втором автор затем противопоставляет Бешлича описанным певцам; цитата не утверждает, что он сам жил былой славой.",
-      "keyword": "stara slava"
     },
     {
       "headword_latin": "Živeti u svom balonu",
