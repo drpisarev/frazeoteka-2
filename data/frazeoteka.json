@@ -1994,6 +1994,33 @@
       "keyword": "na tapetu"
     },
     {
+      "headword_latin": "Biti načisto sa sobom / nekim / nečim",
+      "type": "frazeologizam",
+      "definition_ru": "иметь полную ясность; разобраться для себя; точно понимать свою позицию или отношение",
+      "synonyms_sr": [
+        "biti siguran",
+        "znati šta hoćeš",
+        "imati jasan stav",
+        "razjasniti sebi"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; načisto se piše zajedno; obično sa + instrumental",
+      "examples": [
+        {
+          "serbian_latin": "To je neophodno da bismo bili načisto sami sa sobom i sa ljudima oko nas.",
+          "russian": "Это необходимо, чтобы мы разобрались в себе и ясно понимали свои отношения с окружающими.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Nisam načisto sam sa sobom, ali mislim da je situacija kod gola bila problematična.",
+          "russian": "Я сам до конца не уверен, но думаю, что в моменте с голом была спорная ситуация.",
+          "source": "RTS, 2014"
+        }
+      ],
+      "note": "Для русского это потенциальный ложный друг. Сербское biti načisto sa sobom — не «говорить начистоту», а иметь ясное понимание собственных желаний, позиции или ситуации. Кроме того, načisto в этом значении пишется одним словом.",
+      "keyword": "biti načisto"
+    },
+    {
       "headword_latin": "Biti nekome na vrh jezika",
       "type": "frazeologizam",
       "definition_ru": "вертеться на языке; быть на кончике языка; быть вот-вот вспомненным или сказанным",
@@ -3593,6 +3620,33 @@
       ],
       "note": "Русское «человек предполагает, а Бог располагает» — практически идеальный эквивалент. Snovati здесь означает «строить планы, замышлять», а не только «грезить». Формула особенно уместна, когда жизнь неожиданно полностью меняет первоначальный план.",
       "keyword": "čovek snuje Bog određuje"
+    },
+    {
+      "headword_latin": "Čudna mi čuda",
+      "type": "izraz",
+      "definition_ru": "подумаешь!; тоже мне чудо!; велика важность!",
+      "synonyms_sr": [
+        "baš čudo (iron.)",
+        "velika stvar (iron.)",
+        "pa šta",
+        "ništa posebno"
+      ],
+      "literal_ru": "",
+      "register": "razg., iron., potcenjivački; uzvična formula; varijante: čudna li čuda, čudnog mi čuda",
+      "examples": [
+        {
+          "serbian_latin": "Čudna mi čuda, jedan EPS manje-više i par neodržanih koncerata.",
+          "russian": "Подумаешь, одним EPS больше или меньше да пара несостоявшихся концертов.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Tja, čudna mi čuda što je to rekao.",
+          "russian": "Подумаешь, сказал он это — тоже мне событие.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Несмотря на слово čuda, реплика обычно означает ровно обратное: говорящий не считает событие удивительным или значительным. Mi здесь — экспрессивный дательный и не требует буквального перевода «мне». По функции очень близко русским «подумаешь!» и «тоже мне чудо!».",
+      "keyword": "čudna mi čuda"
     },
     {
       "headword_latin": "Čupati kosu",
@@ -13177,6 +13231,33 @@
       "keyword": "sinja kukavica"
     },
     {
+      "headword_latin": "Kukati kao sinja kukavica",
+      "type": "frazeologizam",
+      "definition_ru": "горько причитать; жалобно ныть; громко плакаться на свою долю",
+      "synonyms_sr": [
+        "jadikovati",
+        "naricati",
+        "kukati na sav glas",
+        "žaliti se bez prestanka"
+      ],
+      "literal_ru": "причитать как сизая кукушка",
+      "register": "narodno, razg., ekspresivno; može opisivati stvarnu tugu, ali se danas često koristi ironično o preteranom žaljenju",
+      "examples": [
+        {
+          "serbian_latin": "Glumi da smo mu predstavu zabranili i kuka ko sinja kukavica.",
+          "russian": "Он изображает, будто мы запретили ему спектакль, и горько причитает об этом.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Da si ti privatnik, kukao bi ti ovde kao sinja kukavica.",
+          "russian": "Будь ты частником, ты бы здесь ещё как жаловался и причитал.",
+          "source": "Krstarica forum, 2009"
+        }
+      ],
+      "note": "Kukavica здесь прежде всего птица — кукушка, традиционно связанная в фольклорном образе с плачем и причитанием, а не «трус». Sinja — старый поэтический эпитет; его буквальный цветовой смысл для современной фразы уже несущественен. В сегодняшней речи выражение часто неодобрительное: человек не просто жалуется, а чрезмерно и жалобно причитает.",
+      "keyword": "sinja kukavica"
+    },
+    {
       "headword_latin": "Kum nije dugme",
       "type": "izreka",
       "definition_ru": "кум — человек не последний; кумовство — дело серьёзное; кумом не разбрасываются",
@@ -16402,6 +16483,33 @@
       "keyword": "hleb; motika"
     },
     {
+      "headword_latin": "Nema leba od nečega / toga",
+      "type": "izraz",
+      "definition_ru": "ничего из этого не выйдет; на этом не заработаешь; толку не будет",
+      "synonyms_sr": [
+        "nema vajde",
+        "od toga nema ništa",
+        "ne isplati se",
+        "nema perspektive"
+      ],
+      "literal_ru": "хлеба от этого нет",
+      "register": "razg.; naročito o zanimanju, profesiji ili poslu koji ne donosi zaradu ili nema perspektivu; standardno hleba, ali u živoj formuli veoma često leba",
+      "examples": [
+        {
+          "serbian_latin": "Povukla sam se sa estradnog neba i oprostila od publike pre godinu dana jer nema leba od muzike.",
+          "russian": "Я ушла со сцены и год назад попрощалась с публикой, потому что музыкой не заработаешь.",
+          "source": "Blic, 2016"
+        },
+        {
+          "serbian_latin": "Sine moj, idi čuvaj svinje, nema leba od tog tvog škrabanja!",
+          "russian": "Сынок, иди лучше свиней паси: этим твоим рисованием на жизнь не заработаешь!",
+          "source": "Blic, 2014"
+        }
+      ],
+      "note": "Выражение часто говорит не просто о бесполезности, а именно об отсутствии заработка или жизненной перспективы: nema leba od muzike, fudbala, tog posla. Разговорная потеря начального h в leba ненормативна вне соответствующей речи; стандартная форма — hleba, но устойчивую реплику очень часто произносят именно nema leba od toga. Русскому хорошо подходят «этим сыт не будешь», «на этом не заработаешь».",
+      "keyword": "nema leba od toga"
+    },
+    {
       "headword_latin": "Nema mu ravna",
       "type": "frazeologizam",
       "definition_ru": "ему нет равных; ему нет равного; он вне конкуренции",
@@ -18049,6 +18157,33 @@
       ],
       "note": "Это яркий сербский вариант международной модели «ни то ни другое». Образ прозрачно напоминает sirena — существо, которое одновременно девушка и рыба, но историческое происхождение именно из образа русалки надёжно не установлено. В современной сербской публицистике выражение вполне живое и применяется к государственному устройству, политике, книгам, спектаклям, деловым форматам и всему гибридному или неопределённому. Русское «ни рыба ни мясо» — практически идеальный функциональный эквивалент.",
       "keyword": "nit riba nit devojka"
+    },
+    {
+      "headword_latin": "Niti smrdi niti miriše",
+      "type": "frazeologizam",
+      "definition_ru": "ни рыба ни мясо; ни то ни сё; безликий, никакой",
+      "synonyms_sr": [
+        "ni tamo ni ovamo",
+        "bezličan",
+        "mlak",
+        "neutralan (često neodobr.)"
+      ],
+      "literal_ru": "и не воняет, и не благоухает",
+      "register": "razg., neodobr.; česta skraćena forma nit smrdi nit miriše",
+      "examples": [
+        {
+          "serbian_latin": "Ako je neko trojka, to znači da neko „nit smrdi nit miriše“.",
+          "russian": "Если человек получает тройку, это значит, что он ни рыба ни мясо: особых чувств не вызывает.",
+          "source": "Vreme, 2023"
+        },
+        {
+          "serbian_latin": "Informativni program tamo je napravljen da niti smrdi niti miriše.",
+          "russian": "Информационная программа там сделана так, чтобы быть ни рыбой ни мясом.",
+          "source": "N1 Srbija, 2025"
+        }
+      ],
+      "note": "Это не обязательно нейтральность в хорошем смысле. Чаще выражение критикует безликость, отсутствие позиции, характера или яркого качества: не настолько плохо, чтобы возмутить, но и не настолько хорошо, чтобы понравиться. Русское «ни рыба ни мясо» передаёт оттенок почти идеально.",
+      "keyword": "niti smrdi niti miriše"
     },
     {
       "headword_latin": "Nosi se",
@@ -20292,29 +20427,27 @@
     {
       "headword_latin": "Pasti nekome kamen sa srca",
       "type": "frazeologizam",
-      "definition_ru": "камень с души свалился; почувствовать огромное облегчение; отлегло от сердца",
+      "definition_ru": "камень с души свалился; отлегло от сердца; испытать огромное облегчение",
       "synonyms_sr": [
         "laknuti nekome",
         "odahnuti",
         "osetiti veliko olakšanje"
       ],
       "literal_ru": "камень упал с сердца",
-      "register": "разг.-нейтр., экспр.; типичная модель pao mi je kamen sa srca",
+      "register": "razg.-neutralno, ekspresivno; pao mi / ti / mu / joj / nam je kamen sa srca",
       "examples": [
         {
           "serbian_latin": "Veoma sam srećan, pao mi je kamen sa srca.",
-          "russian": "Я очень счастлив, у меня камень с души свалился.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/sport/tenis/5878114/djokovic-eksperti-su-hteli-da-me-penzionisu.html"
+          "russian": "Я очень счастлив, у меня словно камень с души свалился.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Moram da vam priznam iskreno da mi je pao jedan veliki kamen sa srca.",
-          "russian": "Должен честно признаться: у меня огромный камень с души свалился.",
-          "source": "N1, 2026",
-          "url": "https://n1info.rs/vesti/advokatica-studenata-uhapsenih-posle-vidovdana-bili-su-pokretni-prisluskivaci-prvooptuzeni-kaze-pao-mi-je-kamen-sa-srca/"
+          "serbian_latin": "Otkriće pokreta telesne neutralnosti bilo je kao da joj je pao kamen sa srca.",
+          "russian": "Когда она узнала о движении телесной нейтральности, у неё словно камень с души свалился.",
+          "source": "BBC na srpskom / Danas, 2020"
         }
       ],
-      "note": "Сербский образ использует srce, тогда как русский устойчивый эквивалент обычно говорит о «душе»: «камень с души свалился». Возможен усилитель veliki kamen. Выражение обозначает именно исчезновение тяжёлого беспокойства или напряжения.",
+      "note": "Образ почти совпадает с русским, но «камень» находится в разных местах: по-сербски он падает sa srca, а по-русски обычно «с души». Очень полезно запомнить дательный: Pao mi je kamen sa srca, буквально «мне упал камень с сердца».",
       "keyword": "kamen sa srca"
     },
     {
@@ -21971,6 +22104,33 @@
       ],
       "note": "Выражение описывает не интеллект, а самоуверенное ощущение собственного всезнания. Особенно типична конструкция misliti da si popio / popila svu pamet sveta; причастие согласуется с полом говорящего. Нормален и вариант svu pamet ovog sveta. По-русски буквальный образ не употребляется, поэтому нужны «возомнить себя самым умным», «думать, что всё знаешь».",
       "keyword": "svu pamet sveta"
+    },
+    {
+      "headword_latin": "Popu pop, a bobu bob",
+      "type": "izreka",
+      "definition_ru": "называть вещи своими именами; говорить прямо; без обиняков",
+      "synonyms_sr": [
+        "nazvati stvari pravim imenom",
+        "reći otvoreno",
+        "govoriti bez uvijanja",
+        "reći kako jeste"
+      ],
+      "literal_ru": "попу — поп, бобу — боб",
+      "register": "narodno, razg.-publicistički; varijanta: bobu bob, popu pop",
+      "examples": [
+        {
+          "serbian_latin": "Mene napadate što ja govorim popu pop, a bobu bob, i što je crno crno, a belo belo.",
+          "russian": "Вы нападаете на меня за то, что я называю вещи своими именами и называю чёрное чёрным, а белое белым.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Mi kažemo bobu bob, popu pop.",
+          "russian": "Мы называем вещи своими именами.",
+          "source": "RTS, 2017"
+        }
+      ],
+      "note": "Рифмованная формула требует называть каждого и каждую вещь именно тем, чем они являются. Ею часто подчёркивают собственную прямоту, но она может служить и оправданием излишней резкости: сербские авторы обсуждают именно такой оттенок. Порядок частей свободно меняется: popu pop, bobu bob и bobu bob, popu pop.",
+      "keyword": "popu pop bobu bob"
     },
     {
       "headword_latin": "Posle bitke svi su generali",
@@ -23777,6 +23937,32 @@
       "keyword": "prstom ne mrdnuti"
     },
     {
+      "headword_latin": "Pruži se koliko ti je guber dug",
+      "type": "poslovica",
+      "definition_ru": "по одёжке протягивай ножки; живи по средствам; соизмеряй желания с возможностями",
+      "synonyms_sr": [
+        "živeti prema mogućnostima",
+        "ne trošiti više nego što imaš",
+        "prema guberu se pružati"
+      ],
+      "literal_ru": "вытягивайся настолько, насколько длинно твоё одеяло",
+      "register": "poslovica; varijante: Pokrij se koliko ti je guber dug; Prema guberu se pružaj",
+      "examples": [
+        {
+          "serbian_latin": "Pruži se koliko ti je guber dug.",
+          "russian": "По одёжке протягивай ножки.",
+          "source": "Sensa, 2026"
+        },
+        {
+          "serbian_latin": "Postoji jedna divna izreka: „Pokrij se koliko ti je guber dug.“",
+          "russian": "Есть прекрасная поговорка: живи по средствам.",
+          "source": "RTS, 2011"
+        }
+      ],
+      "note": "Guber — старое название толстого шерстяного одеяла. Первоначальный образ прост: нельзя вытянуться дальше, чем позволяет длина одеяла. Сегодня пословица относится не только к деньгам, но и к амбициям, времени, силам и обязательствам: не бери на себя больше, чем реально можешь позволить.",
+      "keyword": "guber"
+    },
+    {
       "headword_latin": "Pruži se koliko ti je jorgan dug",
       "type": "poslovica",
       "definition_ru": "живи по средствам; по одёжке протягивай ножки; рассчитывай свои возможности",
@@ -25296,6 +25482,33 @@
       ],
       "note": "Выражение означает дать кому-то возможность или решение практически в готовом виде. Особенно часто встречается в спортивной речи: партнёру создают настолько удобный момент, что остаётся только завершить атаку. Для сербского основная форма здесь tacna; хорватское pladanj для нашей фразеотеки не нужно.",
       "keyword": "servirati na tacni"
+    },
+    {
+      "headword_latin": "Sesti nekome na grbaču",
+      "type": "frazeologizam",
+      "definition_ru": "сесть кому-то на шею; не слезать с кого-либо; постоянно давить или доставать",
+      "synonyms_sr": [
+        "okačiti se nekome",
+        "gnjaviti",
+        "pritiskati",
+        "ne skidati se nekome s vrata"
+      ],
+      "literal_ru": "сесть кому-то на горб / спину",
+      "register": "razg., ekspresivno; lice je u dativu: sesti mi / ti / mu / im na grbaču",
+      "examples": [
+        {
+          "serbian_latin": "Seo si mi na grbaču od kad si izašao iz zatvora.",
+          "russian": "Ты с тех пор, как вышел из тюрьмы, от меня не отстаёшь.",
+          "source": "Telegraf, 2020"
+        },
+        {
+          "serbian_latin": "Tri nedelje pre isteka išao i seo im na grbaču i džaba.",
+          "russian": "За три недели до истечения срока я пошёл к ним и начал постоянно их тормошить — и всё без толку.",
+          "source": "Benchmark forum, 2025"
+        }
+      ],
+      "note": "Sesti nekome na grbaču может означать и стать обузой, и буквально «не слезать» с человека с требованиями и давлением. Родственное živeti nekome na grbači уже конкретнее означает «жить за чужой счёт, сидеть у кого-то на шее». Русское «сесть на шею» поэтому совпадает лишь частично.",
+      "keyword": "sesti na grbaču"
     },
     {
       "headword_latin": "Sevap",
@@ -28669,6 +28882,33 @@
       ],
       "note": "Число šesnaest здесь не имеет прозрачного современного значения: выражение надо запоминать целиком как усилитель интенсивности. Надёжно установленного происхождения нет. Существуют версии о футбольном šesnaesterac, музыкальных шестнадцатых и символике числа 16, но подтверждения ни одна из них не получила.",
       "keyword": "sve u šesnaest"
+    },
+    {
+      "headword_latin": "Svesti / svoditi račune",
+      "type": "frazeologizam",
+      "definition_ru": "подвести итоги; свести счёты; рассчитаться; разобраться с кем-либо",
+      "synonyms_sr": [
+        "podvući crtu",
+        "sumirati",
+        "raščistiti račune",
+        "obračunati se (jače)"
+      ],
+      "literal_ru": "свести расчёты",
+      "register": "neutralno-publicistički ili ekspresivno; značenje zavisi od konstrukcije, naročito od sa + instrumental",
+      "examples": [
+        {
+          "serbian_latin": "Bliži se kraj godine. Treba da se svedu računi.",
+          "russian": "Приближается конец года. Пора подводить итоги.",
+          "source": "Radio Beograd 2 / RTS, 2025"
+        },
+        {
+          "serbian_latin": "Uskoro dolazi dan mog svođenja računa sa Veselinom Simonovićem i Predragom Mihailovićem.",
+          "russian": "Скоро придёт день, когда я сведу счёты с Веселином Симоновичем и Предрагом Михайловичем.",
+          "source": "Cenzolovka / Blic, 2019"
+        }
+      ],
+      "note": "У выражения два хорошо различимых значения. Svesti račune na kraju godine — подвести итоги, оценить результат; svesti račune s nekim — свести с кем-то счёты, причём в конфликтном контексте это может звучать угрожающе. Поэтому русскому особенно важно замечать дополнение с sa.",
+      "keyword": "svesti račune"
     },
     {
       "headword_latin": "Svetla tačka",
