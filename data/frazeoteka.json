@@ -3009,6 +3009,33 @@
       "keyword": "Bože sačuvaj"
     },
     {
+      "headword_latin": "Braniti nekoga / nešto rukama i nogama",
+      "type": "frazeologizam",
+      "definition_ru": "защищать всеми силами; стоять горой; отчаянно отстаивать",
+      "synonyms_sr": [
+        "braniti svim silama",
+        "čvrsto braniti",
+        "zauzimati se za nekoga",
+        "stati u nečiju odbranu"
+      ],
+      "literal_ru": "защищать руками и ногами",
+      "register": "razg., ekspresivno; objekat je u akuzativu; često sa pojačanjem i rukama i nogama",
+      "examples": [
+        {
+          "serbian_latin": "Ne možete Mirku reći „daj mi svoj glas“, a ne garantovati mu da ćete taj glas braniti i rukama i nogama od lopova.",
+          "russian": "Нельзя сказать Мирко «отдай мне свой голос» и не гарантировать ему, что вы будете всеми силами защищать этот голос от воров.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Ove ću braniti i grudima i rukama i nogama.",
+          "russian": "Этих я буду защищать грудью, руками и ногами — всеми силами.",
+          "source": "N1 Srbija, 2017"
+        }
+      ],
+      "note": "Не путать с braniti se rukama i nogama: возвратная конструкция может означать «отбиваться всеми силами», а переносно — «категорически сопротивляться чему-то». Здесь же braniti nekoga / nešto rukama i nogama означает активно и упорно защищать объект.",
+      "keyword": "braniti rukama i nogama"
+    },
+    {
       "headword_latin": "Brigo moja, pređi na drugoga",
       "type": "izreka",
       "definition_ru": "свалить проблему на другого; спихнуть ответственность; «моя забота — теперь чужая»",
@@ -3962,6 +3989,33 @@
       "keyword": "Vlasi se ne dosete"
     },
     {
+      "headword_latin": "Dajem glavu da...",
+      "type": "frazeologizam",
+      "definition_ru": "голову даю, что…; готов голову на отсечение дать; абсолютно уверен",
+      "synonyms_sr": [
+        "siguran sam",
+        "garantujem",
+        "smem da se kladim",
+        "nema sumnje"
+      ],
+      "literal_ru": "даю голову, что…",
+      "register": "razg., snažno ekspresivno uveravanje; obično dajem glavu da + prezent / perfekt",
+      "examples": [
+        {
+          "serbian_latin": "Glavu dajem da nije mogao da ubije čoveka.",
+          "russian": "Голову даю, что он не мог убить человека.",
+          "source": "Blic, 2021"
+        },
+        {
+          "serbian_latin": "Glavu dajem da nikada ne bi ubio čoveka.",
+          "russian": "Готов голову на отсечение дать, что он никогда не смог бы убить человека.",
+          "source": "Kurir, 2015"
+        }
+      ],
+      "note": "Это прежде всего формула крайней уверенности, а не реальное обещание пожертвовать жизнью. Возможен свободный порядок слов: Dajem glavu da... и Glavu dajem da.... Не следует смешивать с буквальным или высоким dati glavu za nekoga / nešto — «отдать жизнь за кого-то / что-то».",
+      "keyword": "dajem glavu"
+    },
+    {
       "headword_latin": "Daleko bilo",
       "type": "izraz",
       "definition_ru": "не дай бог; упаси бог; тьфу-тьфу, только не это",
@@ -4563,6 +4617,33 @@
       "keyword": "dići ruke od"
     },
     {
+      "headword_latin": "Dići / dizati frku",
+      "type": "frazeologizam",
+      "definition_ru": "поднять шум; устроить скандал; поднять панику; раздувать проблему",
+      "synonyms_sr": [
+        "praviti galamu",
+        "dizati buku",
+        "praviti problem",
+        "uzbuniti se"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; frka sama može značiti gužvu, nevolju, paniku",
+      "examples": [
+        {
+          "serbian_latin": "Kada sam digao frku, odjednom su odnekud izvukli dva kompleta.",
+          "russian": "Когда я поднял шум, они вдруг откуда-то достали два комплекта.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Marilu nije želela da „diže frku“.",
+          "russian": "Марилу не хотела поднимать шум и устраивать скандал.",
+          "source": "BBC na srpskom / Danas, 2019"
+        }
+      ],
+      "note": "Dići frku не обязательно значит «устроить истерику»: иногда человек просто громко добивается реакции на проблему. Но выражение почти всегда подчёркивает шумность и заметность реакции. Несовершенный dizati frku описывает процесс или привычное поведение, совершенный dići frku — конкретный эпизод.",
+      "keyword": "dići frku"
+    },
+    {
       "headword_latin": "Dići / praviti frku",
       "type": "sleng",
       "definition_ru": "поднять шум; устроить скандал; поднять кипиш; развести панику",
@@ -4675,6 +4756,33 @@
       ],
       "note": "Первоначально морское выражение. В переносном значении часто употребляется при уходе игрока, тренера или работника из команды либо организации.",
       "keyword": "sidro"
+    },
+    {
+      "headword_latin": "Digla se kuka i motika",
+      "type": "izreka",
+      "definition_ru": "все восстали; поднялся настоящий бунт; поднялась вся округа",
+      "synonyms_sr": [
+        "svi su se pobunili",
+        "digla se buna",
+        "nastalo je veliko negodovanje",
+        "digao se narod"
+      ],
+      "literal_ru": "поднялись крюк и мотыга",
+      "register": "narodno-razg., ekspresivno; danas često ironično o masovnom negodovanju, a ne o pravoj pobuni",
+      "examples": [
+        {
+          "serbian_latin": "Da se odmah išlo na smanjenje od deset odsto, digla bi se kuka i motika.",
+          "russian": "Если бы сразу пошли на сокращение на десять процентов, поднялся бы настоящий бунт.",
+          "source": "Politika, 2014"
+        },
+        {
+          "serbian_latin": "Digla se kuka i motika da se odbrani cenjeni glumac.",
+          "russian": "Все как один поднялись на защиту уважаемого актёра.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Kuka и motika — традиционные сельскохозяйственные орудия; формула вызывает образ простого народа, который массово поднялся на сопротивление. В современной журналистике это чаще гипербола: «возмутились буквально все», «поднялся большой шум». Поэтому перевод «все восстали» часто лучше буквального образа.",
+      "keyword": "kuka i motika"
     },
     {
       "headword_latin": "Dizati / podići prašinu",
@@ -7948,6 +8056,33 @@
       "keyword": "hvalite me usta moja"
     },
     {
+      "headword_latin": "Hvaliti na sva zvona",
+      "type": "frazeologizam",
+      "definition_ru": "расхваливать на все лады; превозносить; громко разрекламировать",
+      "synonyms_sr": [
+        "hvaliti na sav glas",
+        "uzdizati",
+        "veličati",
+        "isticati kao izuzetno"
+      ],
+      "literal_ru": "хвалить во все колокола",
+      "register": "razg.-publicistički, ekspresivno; često podrazumeva preteranu ili veoma javnu pohvalu",
+      "examples": [
+        {
+          "serbian_latin": "Nova Netfliksova serija postala je neočekivani hit koji gledaoci hvale na sva zvona.",
+          "russian": "Новый сериал Netflix неожиданно стал хитом, который зрители расхваливают на все лады.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "S ponosom je hvale na sva zvona.",
+          "russian": "Её с гордостью превозносят на все лады.",
+          "source": "Vreme, 2022"
+        }
+      ],
+      "note": "Na sva zvona усиливает публичность: о чём-то буквально «звонят во все колокола». Выражение не обязательно ироническое, но нередко намекает, что похвала чрезмерна. Возможны также razglasiti na sva zvona — «раструбить повсюду» и pričati na sva zvona.",
+      "keyword": "na sva zvona"
+    },
+    {
       "headword_latin": "Hvaliti nekoga / nešto na sva usta",
       "type": "frazeologizam",
       "definition_ru": "расхваливать на все лады; превозносить; без конца хвалить",
@@ -8665,6 +8800,60 @@
       ],
       "note": "Образ совпадает с движением рукой по шерсти животного: niz dlaku приятно и не вызывает сопротивления, uz dlaku — наоборот. Поэтому речь обычно не просто о согласии, а о сознательном потакании чужим вкусам, желаниям или самолюбию. Русское «гладить по шерсти» близко, но менее частотно.",
       "keyword": "niz dlaku"
+    },
+    {
+      "headword_latin": "Ići svojim putem",
+      "type": "frazeologizam",
+      "definition_ru": "идти своим путём; поступать по-своему; придерживаться собственного курса",
+      "synonyms_sr": [
+        "slediti svoj put",
+        "biti samostalan",
+        "ne povoditi se za drugima",
+        "voditi sopstvenu politiku"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; može biti doslovno i preneseno",
+      "examples": [
+        {
+          "serbian_latin": "On je čovek koji ide svojim putem i ne obraća mnogo pažnje na kritike.",
+          "russian": "Он человек, который идёт своим путём и не слишком обращает внимание на критику.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Većina Evropljana smatra da Evropa treba da ide svojim putem.",
+          "russian": "Большинство европейцев считает, что Европе следует идти своим путём.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Оборот часто передаёт независимость от чужого мнения или политического курса. Но в конструкции svako je otišao svojim putem он может означать уже не принципиальную самостоятельность, а простое расхождение людей: «каждый пошёл своей дорогой». Значение определяется контекстом.",
+      "keyword": "svojim putem"
+    },
+    {
+      "headword_latin": "Ide voda na usta nekome",
+      "type": "frazeologizam",
+      "definition_ru": "слюнки текут; рот наполняется слюной; очень хочется чего-либо",
+      "synonyms_sr": [
+        "cure sline",
+        "zazubice rastu",
+        "silno želeti",
+        "biti željan nečega"
+      ],
+      "literal_ru": "вода идёт кому-то на рот",
+      "register": "razg.; lice je u dativu: ide mi / ti / mu voda na usta; pre svega o hrani, preneseno o snažnoj želji",
+      "examples": [
+        {
+          "serbian_latin": "Kolač „Havana“, na koji kad pomislim i danas mi ide voda na usta.",
+          "russian": "Торт «Гавана»: даже сегодня при одной мысли о нём у меня текут слюнки.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Shvatio sam da vam već ide voda na usta.",
+          "russian": "Я понял, что у вас уже слюнки текут.",
+          "source": "Vreme, 2023"
+        }
+      ],
+      "note": "В русском естественно «слюнки текут», а не буквальное «вода идёт в рот». В переносной публицистической речи оборот может обозначать жадное предвкушение денег, власти или выгоды. Для русскоязычного особенно полезна модель с дательным: Meni ide voda na usta → чаще просто Ide mi voda na usta.",
+      "keyword": "voda na usta"
     },
     {
       "headword_latin": "Igrati na sigurno",
@@ -19186,6 +19375,33 @@
       "keyword": "na svojoj koži"
     },
     {
+      "headword_latin": "Osmeh od uha do uha / razvući osmeh od uha do uha",
+      "type": "frazeologizam",
+      "definition_ru": "улыбка до ушей; расплыться в широкой улыбке",
+      "synonyms_sr": [
+        "široko se osmehnuti",
+        "ozariti se",
+        "razvlačiti osmeh",
+        "blistati od sreće"
+      ],
+      "literal_ru": "улыбка от уха до уха",
+      "register": "razg.-neutralno, ekspresivno; naročito često s osmehom od uha do uha",
+      "examples": [
+        {
+          "serbian_latin": "Grohl je istrčao na binu sa osmehom od uha do uha.",
+          "russian": "Грол выбежал на сцену с улыбкой до ушей.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Sa osmehom od uha do uha dočekao je novu pobedu.",
+          "russian": "Новую победу он встретил с улыбкой до ушей.",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "В современном употреблении значительно чаще встречается именная модель osmeh od uha do uha или s osmehom od uha do uha, чем обязательный глагол razvući. Русское «улыбка до ушей» полностью передаёт образ. Сербское osmeh — именно «улыбка», тогда как глагол может быть osmehnuti se или разговорно razvući osmeh.",
+      "keyword": "osmeh od uha do uha"
+    },
+    {
       "headword_latin": "ostati / ostaviti nekoga na cedilu",
       "type": "фразеологизм",
       "definition_ru": "Оказаться брошенным без помощи; бросить или подвести кого-либо в трудной ситуации.",
@@ -24770,6 +24986,33 @@
       "keyword": "reče i ostade živ"
     },
     {
+      "headword_latin": "Reći nekome nešto u lice",
+      "type": "frazeologizam",
+      "definition_ru": "сказать прямо в лицо; высказать без обиняков; сказать лично и открыто",
+      "synonyms_sr": [
+        "reći otvoreno",
+        "reći direktno",
+        "kazati bez uvijanja",
+        "suočiti nekoga s istinom"
+      ],
+      "literal_ru": "сказать кому-то что-либо в лицо",
+      "register": "neutralno-razg., ekspresivno; nekome je u dativu, sadržaj iskaza u akuzativu ili zavisnoj rečenici",
+      "examples": [
+        {
+          "serbian_latin": "Šta mislim o Vučiću, reći ću mu u lice!",
+          "russian": "Что я думаю о Вучиче, я скажу ему прямо в лицо!",
+          "source": "Espreso, 2016"
+        },
+        {
+          "serbian_latin": "Reći ću mu u lice o zlu koje nam je učinio.",
+          "russian": "Я прямо в лицо скажу ему о том зле, которое он нам причинил.",
+          "source": "Sportal, 2024"
+        }
+      ],
+      "note": "В отличие от нейтрального reći nekome, добавление u lice подчёркивает отсутствие страха и посредников: говорящий готов произнести неприятное непосредственно перед человеком. Русское «сказать в лицо» совпадает почти полностью. Не путать с baciti nekome nešto u lice — там оттенок упрёка или демонстративного обвинения сильнее.",
+      "keyword": "reći u lice"
+    },
+    {
       "headword_latin": "reći popu pop, a bobu bob",
       "type": "пословичный фразеологизм",
       "definition_ru": "Назвать вещи своими именами; сказать каждому правду; высказаться прямо и без пристрастия.",
@@ -25195,6 +25438,33 @@
       ],
       "note": "Это важная культурная особенность слова obraz: в устойчивых сочетаниях оно часто означает честь и моральную репутацию. Поэтому sačuvati obraz не всегда следует механически переводить русским «сохранить лицо»: нередко точнее «сохранить честь», «не поступиться достоинством».",
       "keyword": "sačuvati obraz"
+    },
+    {
+      "headword_latin": "Sam kao duh",
+      "type": "frazeologizam",
+      "definition_ru": "один как перст; совершенно один; один-одинёшенек",
+      "synonyms_sr": [
+        "potpuno sam",
+        "sam samcit",
+        "bez ikoga",
+        "usamljen"
+      ],
+      "literal_ru": "один как призрак",
+      "register": "razg.-ekspresivno; takođe u sportskom jeziku o potpuno slobodnom igraču",
+      "examples": [
+        {
+          "serbian_latin": "Ja sam sam kao duh Hamletovog oca u jednoj kući usred šume.",
+          "russian": "Я один как призрак отца Гамлета в доме посреди леса.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Korać je ostao sam kao duh pred golom.",
+          "russian": "Корач остался совершенно один перед воротами.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Для русского образ с «духом» непривычен: естественный перевод зависит от контекста — «совершенно один», «один как перст», а в футболе «совсем без опеки». Само выражение не обязательно передаёт эмоциональное одиночество: оно может просто означать отсутствие кого-либо рядом.",
+      "keyword": "sam kao duh"
     },
     {
       "headword_latin": "Sam pao, sam se ubio",
