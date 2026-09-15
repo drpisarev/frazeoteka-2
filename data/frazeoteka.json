@@ -3036,6 +3036,32 @@
       "keyword": "braniti rukama i nogama"
     },
     {
+      "headword_latin": "Brat bratu",
+      "type": "izraz",
+      "definition_ru": "грубо говоря; если прикинуть; по приблизительной, но реалистичной оценке",
+      "synonyms_sr": [
+        "otprilike",
+        "po slobodnoj proceni",
+        "realno gledano"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; naročito često pred brojem, iznosom, cenom ili količinom; javlja se i brat-bratu",
+      "examples": [
+        {
+          "serbian_latin": "Na poslovno „glancanje“ Er Srbije iz državnog budžeta potrošeno je brat-bratu 300 miliona evra.",
+          "russian": "На финансовое «приукрашивание» Air Serbia из госбюджета, если грубо прикинуть, потратили 300 миллионов евро.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Ovaj stan, od blizu 200 kvadrata, brat bratu mora da vredi bar jedno pola milke evra.",
+          "russian": "Эта квартира площадью почти 200 квадратов, если по-простому прикинуть, должна стоить минимум полмиллиона евро.",
+          "source": "Nova.rs, 2022"
+        }
+      ],
+      "note": "Несмотря на буквальные слова brat bratu, речь вовсе не о братьях. Это разговорный маркер приблизительной «житейской» оценки: мол, если прикинуть без сложных расчётов, получится примерно столько. В некоторых контекстах возникает дополнительный оттенок «как минимум», но он не является обязательным значением.",
+      "keyword": "brat bratu"
+    },
+    {
       "headword_latin": "Brigo moja, pređi na drugoga",
       "type": "izreka",
       "definition_ru": "свалить проблему на другого; спихнуть ответственность; «моя забота — теперь чужая»",
@@ -4299,6 +4325,33 @@
       "keyword": "dati do znanja"
     },
     {
+      "headword_latin": "Dati nekome nogom u guzicu",
+      "type": "frazeologizam",
+      "definition_ru": "вышвырнуть; дать пинка под зад; грубо прогнать",
+      "synonyms_sr": [
+        "najuriti (razg.)",
+        "oterati",
+        "izbaciti",
+        "šutnuti (pren.)"
+      ],
+      "literal_ru": "дать кому-то ногой в зад",
+      "register": "razg., grubo, ekspresivno; lice je u dativu; takođe dobiti nogom u guzicu",
+      "examples": [
+        {
+          "serbian_latin": "Ćosić je vladavinu neslavno završio tako što ga je Šešelj najurio nogom u guzicu.",
+          "russian": "Правление Чосича бесславно закончилось тем, что Шешель вышвырнул его пинком под зад.",
+          "source": "Kurir, 2023"
+        },
+        {
+          "serbian_latin": "...sa kojeg ga je nogom u guzicu u ropotarnicu istorije degažirao jedan od njegovih avatara, Šešelj.",
+          "russian": "…с этого поста один из его политических аватаров, Шешель, пинком под зад отправил его на свалку истории.",
+          "source": "Kurir, 2024"
+        }
+      ],
+      "note": "Физический пинок вовсе не обязателен: очень часто это образ грубого увольнения, изгнания, разрыва отношений или демонстративного отвержения. Dati nekome nogom u guzicu значительно резче обычного oterati или izbaciti. Обратная перспектива — dobiti nogom u guzicu: «быть вышвырнутым, получить пинка под зад».",
+      "keyword": "nogom u guzicu"
+    },
+    {
       "headword_latin": "Dati nekome odrešene ruke",
       "type": "glagolski frazem",
       "definition_ru": "Развязать кому-либо руки; предоставить полную свободу действий и не ограничивать принимаемые решения.",
@@ -4588,6 +4641,33 @@
       "keyword": "šaka; kapa"
     },
     {
+      "headword_latin": "Derati se kao da ga kolju",
+      "type": "frazeologizam",
+      "definition_ru": "орать как резаный; вопить во всё горло; кричать чрезмерно громко",
+      "synonyms_sr": [
+        "urlati",
+        "derati se kao lud",
+        "vikati iz sveg glasa",
+        "praviti dreku"
+      ],
+      "literal_ru": "орать, будто его режут",
+      "register": "razg., grublje, ekspresivno; zamenica se menja: ga, je, ih; razgovorno ko da...; bliska varijanta kao da ga vode na klanje",
+      "examples": [
+        {
+          "serbian_latin": "Ispada da je on takva pevačina, a dere se kao da ga vode na klanje.",
+          "russian": "Строит из себя великого певца, а орёт как резаный.",
+          "source": "Blic, 2019"
+        },
+        {
+          "serbian_latin": "Na groblju babe se deru ko da ih kolju.",
+          "russian": "На кладбище женщины вопят так, будто их режут.",
+          "source": "Sremske novine, 2025"
+        }
+      ],
+      "note": "Оборот значительно сильнее нейтрального vikati и даже обычного derati se. Им могут описывать крик, плач, протест или очень громкое неприятное пение. Русское «орать как резаный» почти точно совпадает и по образу, и по степени экспрессии.",
+      "keyword": "kao da ga kolju"
+    },
+    {
       "headword_latin": "Dići / dignuti ruke od nekoga / nečega",
       "type": "frazeologizam",
       "definition_ru": "махнуть рукой на кого-то / что-то; отказаться; бросить попытки",
@@ -4783,6 +4863,33 @@
       ],
       "note": "Kuka и motika — традиционные сельскохозяйственные орудия; формула вызывает образ простого народа, который массово поднялся на сопротивление. В современной журналистике это чаще гипербола: «возмутились буквально все», «поднялся большой шум». Поэтому перевод «все восстали» часто лучше буквального образа.",
       "keyword": "kuka i motika"
+    },
+    {
+      "headword_latin": "Dignuti / dizati nos do neba",
+      "type": "frazeologizam",
+      "definition_ru": "задрать нос; возгордиться; держаться с чрезвычайно гордым видом",
+      "synonyms_sr": [
+        "uobraziti se",
+        "praviti se važan",
+        "uznositi se",
+        "držati se ponosno"
+      ],
+      "literal_ru": "поднять нос до неба",
+      "register": "razg., ekspresivno; češće iron. ili neodobr., ali kontekst može dati pozitivno značenje ponosnog držanja",
+      "examples": [
+        {
+          "serbian_latin": "Digao nos do neba, bre! Ne poznaje me sad baraba.",
+          "russian": "Нос задрал до небес! Теперь, негодяй, меня даже не узнаёт.",
+          "source": "Krstarica forum, 2012"
+        },
+        {
+          "serbian_latin": "Ja hodam sredinom „džade“, digao nos do neba... a bio mlad, plav, šest stopa visok!",
+          "russian": "Иду я посреди дороги, нос до неба задрал… молодой был, светловолосый, шесть футов ростом!",
+          "source": "MyCity Military, 2020"
+        }
+      ],
+      "note": "Основной оттенок близок русскому «задрать нос»: демонстративная гордость легко превращается в высокомерие. Однако образ не всегда отрицателен: в подходящем контексте dignuti nos do neba может означать «гордо поднять голову, не стыдиться себя» — такое употребление также встречается в сербской прессе. Усилитель do neba делает позу особенно заметной и гиперболической.",
+      "keyword": "nos do neba"
     },
     {
       "headword_latin": "Dizati / podići prašinu",
@@ -5487,6 +5594,33 @@
       ],
       "note": "Формула восходит к знаменитому латинскому изречению Цезаря и в современной сербской речи обычно означает быстрый, эффектный триумф. Очень часто используется в заголовках о спорте, выборах, конкурсах и дебюте на новом месте.",
       "keyword": "dođoh videh pobedih"
+    },
+    {
+      "headword_latin": "Događati se / dešavati se pred nosom",
+      "type": "frazeologizam",
+      "definition_ru": "происходить прямо под носом; твориться на глазах; происходить в непосредственной близости",
+      "synonyms_sr": [
+        "dešavati se naočigled",
+        "dešavati se pred očima",
+        "događati se u neposrednoj blizini",
+        "biti tik pored nekoga"
+      ],
+      "literal_ru": "происходить перед самым носом",
+      "register": "razg.-publicistički; tipično pred našim nosom, pred nosom policije, pred nosom EU",
+      "examples": [
+        {
+          "serbian_latin": "Istina – ovo se dešava pred nosom i očima EU i celog sveta.",
+          "russian": "Правда в том, что всё это происходит прямо под носом и на глазах у ЕС и всего мира.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "I tako je za nas bilo veliko iznenađenje kad smo shvatili da zapravo stotine milijardi dolara odlaze u zemlje kao što su SAD, Velika Britanija i Nemačka, i da nam se sve to dešava pred nosom.",
+          "russian": "Для нас оказалось большим сюрпризом понять, что сотни миллиардов долларов уходят в США, Великобританию и Германию, причём всё это происходит прямо у нас под носом.",
+          "source": "BBC na srpskom / Danas, 2025"
+        }
+      ],
+      "note": "Помимо простой близости, pred nosom очень часто несёт упрёк: событие происходило настолько близко и явно, что его должны были заметить, предотвратить или хотя бы понимать. Поэтому русский эквивалент «прямо под носом» особенно точен. Возможна и усиленная конструкция pred nosom i očima.",
+      "keyword": "pred nosom"
     },
     {
       "headword_latin": "Dok dlanom o dlan",
@@ -8802,6 +8936,32 @@
       "keyword": "niz dlaku"
     },
     {
+      "headword_latin": "Ići s kokoškama na spavanje",
+      "type": "frazeologizam",
+      "definition_ru": "ложиться с курами; очень рано ложиться спать",
+      "synonyms_sr": [
+        "rano leći",
+        "rano ići na spavanje",
+        "leći čim padne mrak"
+      ],
+      "literal_ru": "идти спать вместе с курами",
+      "register": "razg., šalj.; takođe s kokoškama leći, ići s kokoškama u krevet; često u paru sa s petlovima ustati",
+      "examples": [
+        {
+          "serbian_latin": "Pa nije ovo srednji vek da s kokoškama idemo na spavanje.",
+          "russian": "Это же не Средневековье, чтобы ложиться спать вместе с курами.",
+          "source": "021.rs, 2012"
+        },
+        {
+          "serbian_latin": "Sa kokoškama na spavanje, sa petlovima ustajanje.",
+          "russian": "С курами спать, с петухами вставать.",
+          "source": "021.rs, 2019"
+        }
+      ],
+      "note": "Русское «ложиться с курами» почти полностью совпадает. Образ основан на том, что домашняя птица устраивается на ночлег с наступлением темноты. Часто выражение продолжают симметричной формулой s petlovima ustati — «вставать с петухами».",
+      "keyword": "s kokoškama na spavanje"
+    },
+    {
       "headword_latin": "Ići svojim putem",
       "type": "frazeologizam",
       "definition_ru": "идти своим путём; поступать по-своему; придерживаться собственного курса",
@@ -9305,6 +9465,33 @@
       ],
       "note": "Метафора взрывчатки прозрачна: чем короче фитиль, тем быстрее происходит «взрыв». Очень естественны обе модели: imati kratak fitilj и biti kratkog fitilja. Русское «короткий фитиль» понятно, но устойчивее сказать «вспыльчивый», «быстро заводится».",
       "keyword": "kratak fitilj"
+    },
+    {
+      "headword_latin": "Imati nečega na izvoz",
+      "type": "frazeologizam",
+      "definition_ru": "иметь с избытком; хоть отбавляй; навалом",
+      "synonyms_sr": [
+        "imati na pretek",
+        "imati koliko hoćeš",
+        "imati mnogo",
+        "imati kao pleve"
+      ],
+      "literal_ru": "иметь столько, что хватит на экспорт",
+      "register": "razg., šalj.-ekspresivno; posle ima obično genitiv količine: posla, lekova, cveća, kandidata ima na izvoz",
+      "examples": [
+        {
+          "serbian_latin": "Pretpostavljamo da će biti hit ove godine jer ih kod Kineza ima na izvoz, što bi se reklo.",
+          "russian": "Думаем, в этом году они будут хитом: у китайских продавцов их хоть отбавляй.",
+          "source": "Nova.rs, 2022"
+        },
+        {
+          "serbian_latin": "Uglavnom, posla za tu komisiju ovde na naselju ima na izvoz.",
+          "russian": "В общем, работы для этой комиссии здесь в районе — хоть отбавляй.",
+          "source": "021.rs, 2025"
+        }
+      ],
+      "note": "Реальный экспорт не подразумевается: na izvoz гиперболически означает «настолько много, что можно ещё и экспортировать». Формула свободно сочетается и с предметами, и с людьми, и с абстрактными существительными: stručnjaka, problema, posla ima na izvoz. Русское буквальное «есть на экспорт» этого значения не передаёт.",
+      "keyword": "na izvoz"
     },
     {
       "headword_latin": "Imati nešto u džepu",
@@ -9852,6 +10039,33 @@
       ],
       "note": "Imati žicu обозначает прежде всего врождённую склонность, талант или особое чутьё, а не просто приобретённое умение. Поэтому ima žicu za muziku сильнее, чем просто dobro se razume u muziku: подразумевается, что человеку это «дано». Очень жив вариант ima tu žicu — «у него есть это чутьё / есть в нём что-то». Русское «есть жилка» совпадает лишь частично: естественно «коммерческая жилка», но про музыку, писательство или общение чаще скажем «есть талант / дар / чутьё». Точное происхождение переносного значения žica лучше не выводить из буквальной «проволоки» или «струны» без надёжного этимологического подтверждения.",
       "keyword": "imati žicu"
+    },
+    {
+      "headword_latin": "Isisati iz malog prsta nešto",
+      "type": "frazeologizam",
+      "definition_ru": "высосать из пальца; выдумать без оснований; взять с потолка",
+      "synonyms_sr": [
+        "izmisliti",
+        "iskonstruisati",
+        "izmišljati bez osnova",
+        "nagađati bez dokaza"
+      ],
+      "literal_ru": "высосать что-то из мизинца",
+      "register": "razg.-publicistički, neodobr.; takođe često pasivno: nešto je isisano iz malog prsta",
+      "examples": [
+        {
+          "serbian_latin": "Analize o potrebi da studenti na izbore idu sa opozicijom isisane su iz malog prsta.",
+          "russian": "Рассуждения о необходимости студентам идти на выборы вместе с оппозицией высосаны из пальца.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Nisam ga isisao iz malog prsta, nego ga bazirao na liku i delu Petera Mađara.",
+          "russian": "Я не высосал его из пальца, а создал на основе образа и деятельности Петера Мадьяра.",
+          "source": "Euronews Srbija, 2026"
+        }
+      ],
+      "note": "Главное отличие от русского — сербский устойчиво уточняет mali prst, то есть мизинец: isisati iz malog prsta. Смысл тот же: сведения, цифры, объяснение или целая теория придуманы без достаточных фактов. Особенно естественно публицистическое tvrdnje / procene / analize isisane iz malog prsta.",
+      "keyword": "isisati iz malog prsta"
     },
     {
       "headword_latin": "Iskakati iz frižidera",
@@ -22296,6 +22510,32 @@
       "keyword": "vrh glave"
     },
     {
+      "headword_latin": "Popiti / ispiti naiskap",
+      "type": "kolokacija",
+      "definition_ru": "выпить залпом; осушить одним духом; выпить не отрываясь",
+      "synonyms_sr": [
+        "popiti u jednom dahu",
+        "eksirati (sleng)",
+        "popiti odjednom"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; naiskap je prilog; upotrebljava se ne samo o alkoholu",
+      "examples": [
+        {
+          "serbian_latin": "Naiskap sam popio čašu vinjaka 5.",
+          "russian": "Я залпом выпил стакан виньяка «5».",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Nakon što je rakiju popila naiskap, Dara je rekla da po ukusu podseća na našu rakiju.",
+          "russian": "Выпив ракию залпом, Дара сказала, что по вкусу она напоминает нашу ракию.",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Naiskap означает не просто «до дна», а выпить за один непрерывный приём, одним духом. Поэтому popiti do dna и popiti naiskap не всегда взаимозаменяемы: до дна можно допить и несколькими глотками. Разговорное eksirati особенно характерно для алкоголя.",
+      "keyword": "naiskap"
+    },
+    {
       "headword_latin": "Popiti svu pamet sveta",
       "type": "frazeologizam",
       "definition_ru": "возомнить, что знаешь всё; считать себя умнее всех; воображать себя всезнайкой",
@@ -26710,6 +26950,33 @@
       ],
       "note": "Фраза обычно произносится добродушно за столом: мол, ешь, силы понадобятся. Может использоваться и иронически в адрес любителя поесть. Danas прямо называет её narodna izreka; надёжно установленного конкретного происхождения у формулы нет.",
       "keyword": "snaga na usta ulazi"
+    },
+    {
+      "headword_latin": "Snalaziti se kao riba u vodi",
+      "type": "frazeologizam",
+      "definition_ru": "чувствовать себя как рыба в воде; прекрасно ориентироваться; быть в своей стихии",
+      "synonyms_sr": [
+        "biti u svom elementu",
+        "odlično se snalaziti",
+        "osećati se kao kod kuće",
+        "biti siguran na svom terenu"
+      ],
+      "literal_ru": "ориентироваться как рыба в воде",
+      "register": "neutralno-razg., ekspresivno; o sredini ili situaciji u kojoj se neko lako i sigurno snalazi",
+      "examples": [
+        {
+          "serbian_latin": "Domaćin će pokazati da se i na pijaci snalazi kao riba u vodi.",
+          "russian": "Хозяин покажет, что и на рынке чувствует себя как рыба в воде.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Poznato je da se u takvoj situaciji Pariz snalazi kao riba u vodi.",
+          "russian": "Известно, что в такой ситуации «Париж» чувствует себя как рыба в воде.",
+          "source": "Sport Klub, 2026"
+        }
+      ],
+      "note": "Важно различать osećati se kao riba u vodi и snalaziti se kao riba u vodi. Первое прежде всего означает внутренний комфорт, второе — способность отлично ориентироваться и действовать в данных условиях. В русском оба оттенка часто передаются одной формулой «как рыба в воде».",
+      "keyword": "kao riba u vodi"
     },
     {
       "headword_latin": "Soliti pamet",
