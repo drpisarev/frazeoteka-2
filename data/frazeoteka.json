@@ -5635,6 +5635,32 @@
       "keyword": "došla maca na vratanca"
     },
     {
+      "headword_latin": "Dotaći se teme / pitanja",
+      "type": "kolokacija",
+      "definition_ru": "коснуться темы / вопроса; кратко затронуть что-либо в разговоре",
+      "synonyms_sr": [
+        "pomenuti",
+        "načeti temu",
+        "kratko govoriti o nečemu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, vrlo često; dotaći se + genitiv: teme, pitanja, problema",
+      "examples": [
+        {
+          "serbian_latin": "Malo smo se dotakli te teme, nasmejali smo se, bila je prijatna konverzacija.",
+          "russian": "Мы немного коснулись этой темы, посмеялись, разговор был приятным.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "U našoj studijskoj emisiji dotakli smo se i teme suđenja i sudijskih grešaka.",
+          "russian": "В нашей студийной программе мы также затронули тему судейства и судейских ошибок.",
+          "source": "Sport Klub, 2024"
+        }
+      ],
+      "note": "Важно управление: dotaći se teme, а не dotaći temu, если речь о переносном «затронуть тему». Глагол предполагает, что вопрос упомянули или обсудили лишь частично; если его разобрали подробно, естественнее detaljno razmotriti, pretresti, obraditi temu.",
+      "keyword": "dotaći se teme"
+    },
+    {
       "headword_latin": "Doterati cara do duvara",
       "type": "frazeologizam",
       "definition_ru": "Довести дело до предела, зайти слишком далеко. В зависимости от ситуации — довести положение до кризиса, исчерпать чужое терпение или перейти последнюю допустимую границу.",
@@ -18267,6 +18293,33 @@
       "keyword": "očitati bukvicu"
     },
     {
+      "headword_latin": "Od A do Š",
+      "type": "izraz",
+      "definition_ru": "от А до Я; от начала до конца; полностью, во всех подробностях",
+      "synonyms_sr": [
+        "od početka do kraja",
+        "u celosti",
+        "sve do detalja",
+        "potpuno"
+      ],
+      "literal_ru": "от А до Ш",
+      "register": "razg.-neutralno, vrlo produktivno; objasniti, ispričati, pročitati, znati nešto od A do Š",
+      "examples": [
+        {
+          "serbian_latin": "Pokazao sam i pročitao od A do Š šta smo mi ispunili i radili.",
+          "russian": "Я показал и полностью, от А до Я, изложил, что мы выполнили и сделали.",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Od A do Š, od prve do poslednje strane, ovaj strip je leskovački proizvod.",
+          "russian": "От А до Я, от первой до последней страницы, этот комикс — лесковацкий продукт.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Od A do Š само по себе не означает именно «поговорить откровенно и ничего не утаить»; основной смысл — «целиком, от начала до конца». Поэтому Rekli smo sve jedno drugom od A do Š понятно, но естественнее, например, Ispričali smo jedno drugom sve od A do Š. Культурно важная деталь: Š — последняя буква сербской кириллицы в латинской передаче (Ш); сама сербская латиница заканчивается буквой Ž. Поэтому устойчиво именно od A do Š, а не od A do Ž.",
+      "keyword": "od A do Š"
+    },
+    {
       "headword_latin": "Od glave do pete",
       "type": "frazeologizam",
       "definition_ru": "с головы до пят; целиком; насквозь, во всех отношениях",
@@ -22886,6 +22939,33 @@
       "keyword": "šuplje; prazno"
     },
     {
+      "headword_latin": "Pretresti temu / sve teme",
+      "type": "kolokacija",
+      "definition_ru": "подробно обсудить; разобрать вопрос со всех сторон; обстоятельно всё проговорить",
+      "synonyms_sr": [
+        "detaljno razmotriti",
+        "prodiskutovati",
+        "proći kroz sve",
+        "temeljno razgovarati o nečemu"
+      ],
+      "literal_ru": "перетрясти тему",
+      "register": "razg.-publicistički, preneseno; pretresti temu, pitanje, problem, sve teme",
+      "examples": [
+        {
+          "serbian_latin": "Pretresli smo sve teme koje se tiču politike u Srbiji i našeg napredovanja ka EU.",
+          "russian": "Мы подробно обсудили все темы, касающиеся политики в Сербии и продвижения к ЕС.",
+          "source": "Tanjug, 2025"
+        },
+        {
+          "serbian_latin": "Vučić kaže da su Vladimir Putin i on pretresli sve teme u odnosima dve zemlje.",
+          "russian": "Вучич говорит, что они с Владимиром Путиным подробно обсудили все вопросы отношений двух стран.",
+          "source": "N1 Srbija, 2019"
+        }
+      ],
+      "note": "Ваше pretresli svaku temu грамматически возможно, но как модель естественнее запоминать pretresti temu или pretresti sve teme. В этом переносном значении pretresti сильнее простого razgovarati o: тему обстоятельно «перетряхивают», рассматривая разные её стороны.",
+      "keyword": "pretresti temu"
+    },
+    {
       "headword_latin": "Prevesti nekoga žednog preko vode",
       "type": "frazeologizam",
       "definition_ru": "обвести вокруг пальца; ловко обмануть; провести кого-то",
@@ -23136,6 +23216,38 @@
       ],
       "note": "Сербское probiti led шире русского «сломать лёд» в общении. Оно очень часто значит «стать первым, начать то, чего до этого никто не сделал»: первым выступить, забить, приехать, решиться. Поэтому в спортивном контексте перевод может быть просто «открыть счёт», «забить первым».",
       "keyword": "probiti led"
+    },
+    {
+      "headword_latin": "Pročešljati nešto uzduž i popreko",
+      "type": "frazeologizam",
+      "definition_ru": "прочесать вдоль и поперёк; тщательно исследовать, проверить или разобрать что-либо",
+      "synonyms_sr": [
+        "detaljno pregledati",
+        "temeljno proveriti",
+        "istražiti",
+        "pretresti"
+      ],
+      "literal_ru": "прочесать что-либо вдоль и поперёк",
+      "register": "razg.-publicistički, ekspresivno; objekat može biti mesto, dokumentacija, internet, oblast, tema i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Pročešljali planetu uzduž i popreko: koje nacije najviše putuju i kuda idu?",
+          "russian": "Планету изучили вдоль и поперёк: какие народы путешествуют больше всех и куда они ездят?",
+          "source": "Kurir, 2017"
+        },
+        {
+          "serbian_latin": "Oni će pročešljati estradu uzduž i popreko.",
+          "russian": "Они прочешут шоу-бизнес вдоль и поперёк.",
+          "source": "Kurir, 2012"
+        },
+        {
+          "serbian_latin": "Tu temu smo pročešljali uzduž i popreko.",
+          "russian": "Мы разобрали эту тему вдоль и поперёк.",
+          "source": ""
+        }
+      ],
+      "note": "Ваш пример естественный, но заголовок лучше не ограничивать словом tema: глагол очень продуктивен — pročešljati internet, teren, dokumentaciju, poslovanje, temu. Uzduž i popreko усиливает полноту проверки: не просто посмотреть, а пройти всё вдоль и поперёк. В СМИ также часто встречается просто pročešljati без усиления.",
+      "keyword": "pročešljati uzduž i popreko"
     },
     {
       "headword_latin": "Proći / prolaziti ispod radara",
@@ -25712,6 +25824,32 @@
       ],
       "note": "Для русского образ непривычен: дословный перевод звучит почти бессмысленно. Суть выражения — человек сам разрушает то, что только что утверждал, словами или собственными действиями. Возможны формы skočiti sebi u usta и несовершенное skakati sebi u usta.",
       "keyword": "skočiti sebi u usta"
+    },
+    {
+      "headword_latin": "Skrenuti s teme",
+      "type": "kolokacija",
+      "definition_ru": "отклониться от темы; уйти в сторону от обсуждаемого вопроса",
+      "synonyms_sr": [
+        "udaljiti se od teme",
+        "otići u drugom pravcu",
+        "digresirati"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; takođe skrenuti sa teme; s teme je kraće i sasvim prirodno",
+      "examples": [
+        {
+          "serbian_latin": "Skrenuli smo s teme, naše društvo u celini zahteva moralnu katarzu.",
+          "russian": "Мы отошли от темы; вообще-то нашему обществу в целом требуется моральное очищение.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Do sada je skrenuo s teme kako bi govorio o radu svog izaslanika Stiva Vitkofa s Rusijom.",
+          "russian": "До этого он отошёл от темы, чтобы поговорить о работе своего спецпосланника Стива Уиткоффа с Россией.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Выражение может относиться и к отдельному говорящему, и ко всему разговору: Skrenuo si s teme; Malo smo skrenuli s teme. Для возвращения разговора естественно: Da se vratimo na temu / Vratimo se na ono o čemu smo pričali.",
+      "keyword": "skrenuti s teme"
     },
     {
       "headword_latin": "Skrenuti s uma",
