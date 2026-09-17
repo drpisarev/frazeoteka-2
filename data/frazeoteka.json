@@ -3227,6 +3227,33 @@
       "keyword": "bura; čaša vode"
     },
     {
+      "headword_latin": "Cediti suvu drenovinu",
+      "type": "frazeologizam",
+      "definition_ru": "Пытаться выжать ещё что-либо из уже практически исчерпанного источника; требовать дополнительные ресурсы там, где их почти не осталось. По-русски: «выжимать последние соки», «пытаться выжать невозможное».",
+      "synonyms_sr": [
+        "izvlačiti poslednje rezerve",
+        "cediti poslednje",
+        "tražiti tamo gde više nema",
+        "iscrpljivati do kraja"
+      ],
+      "literal_ru": "выжимать сухую древесину кизила",
+      "register": "razg.-publicistički, slikovito",
+      "examples": [
+        {
+          "serbian_latin": "Cediti suvu drenovinu je moguće samo u narodnim pesmama.",
+          "russian": "Выжать что-либо из сухого кизила можно разве что в народных песнях.",
+          "source": "Politika, 2014"
+        },
+        {
+          "serbian_latin": "Cediti „suvu drenovinu“ za dodatno smanjenje rashoda za 30 do 40 milijardi dinara.",
+          "russian": "Пытаться выжать последние ресурсы, чтобы дополнительно сократить расходы на 30–40 миллиардов динаров.",
+          "source": "Blic, 2009"
+        }
+      ],
+      "note": "Drenovina — древесина кизила, известная твёрдостью. Если она ещё и сухая, выжать из неё что-либо невозможно. Поэтому оборот хорошо передаёт попытку получить дополнительные деньги, силы или результат из уже исчерпанного ресурса.",
+      "keyword": "suva drenovina; cediti; iscrpljivanje"
+    },
+    {
       "headword_latin": "Crn kao noć",
       "type": "frazeologizam",
       "definition_ru": "чёрный как ночь; иссиня-чёрный; совершенно чёрный",
@@ -8212,6 +8239,33 @@
       "keyword": "hladan tuš"
     },
     {
+      "headword_latin": "Hleb sa sedam kora",
+      "type": "frazeologizam",
+      "definition_ru": "Тяжёлый хлеб; заработок, который достаётся чрезвычайно тяжёлым и опасным трудом. Особенно часто выражение употребляется о труде шахтёров, но может переноситься и на другие тяжёлые профессии.",
+      "synonyms_sr": [
+        "težak hleb",
+        "mukotrpan posao",
+        "teško zarađen hleb",
+        "težak način zarade"
+      ],
+      "literal_ru": "хлеб с семью корками",
+      "register": "razg.-publicistički; tradicionalno naročito o rudarskom poslu",
+      "examples": [
+        {
+          "serbian_latin": "Rad u rudniku je, kako se obično kaže, hleb sa sedam kora, težak, naporan i odgovoran.",
+          "russian": "Работа в шахте — это, как говорится, тяжёлый хлеб: трудный, изнурительный и ответственный.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Rudarski „hleb sa sedam kora“ u majdanpečkom Rudniku bakra zarađuje stotinu žena rame uz rame sa svojim kolegama.",
+          "russian": "Шахтёрский «хлеб с семью корками» в Майданпеке зарабатывают и сотни женщин наравне с мужчинами.",
+          "source": "Danas, 2016"
+        }
+      ],
+      "note": "Семь корок здесь усиливают образ труднодоступного хлеба насущного: прежде чем до него доберёшься, приходится преодолеть множество тяжёлых слоёв. Выражение особенно прочно связано в Сербии с шахтёрским трудом.",
+      "keyword": "hleb sa sedam kora; težak posao; rudari"
+    },
+    {
       "headword_latin": "Hleba i igara",
       "type": "krilatica",
       "definition_ru": "хлеба и зрелищ; отвлекать людей пропитанием и развлечениями",
@@ -11264,6 +11318,33 @@
       "keyword": "vojvodo serdare"
     },
     {
+      "headword_latin": "Jabuka razdora",
+      "type": "frazeologizam",
+      "definition_ru": "Яблоко раздора; предмет, вопрос или обстоятельство, из-за которого возникает серьёзный спор, конфликт или раскол между людьми или группами.",
+      "synonyms_sr": [
+        "uzrok sukoba",
+        "predmet spora",
+        "kamen spoticanja",
+        "uzrok razdora"
+      ],
+      "literal_ru": "яблоко раздора",
+      "register": "neutralno-knjiški i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Raspolaganje imovinom Jevreja ubijenih u Holokaustu bez potomaka pokazalo se kao jabuka razdora.",
+          "russian": "Распоряжение имуществом евреев, погибших в Холокосте и не оставивших потомков, оказалось яблоком раздора.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Upravo ova direktorska fotelja bila je jabuka razdora između Velimira Ilića i premijera Aleksandra Vučića.",
+          "russian": "Именно эта директорская должность стала яблоком раздора между Велимиром Иличем и премьером Александром Вучичем.",
+          "source": "Politika, 2017"
+        }
+      ],
+      "note": "Восходит к древнегреческому мифу о яблоке с надписью «прекраснейшей», из-за которого поспорили богини. По значению и образу полностью соответствует русскому «яблоко раздора».",
+      "keyword": "jabuka razdora; sukob; spor"
+    },
+    {
       "headword_latin": "jak kao bik",
       "type": "poređenje",
       "definition_ru": "Сильный как бык; чрезвычайно крепкий и физически сильный.",
@@ -13440,6 +13521,33 @@
       "keyword": "kost u grlu"
     },
     {
+      "headword_latin": "Koštati Boga oca",
+      "type": "frazeologizam",
+      "definition_ru": "Стоить чрезвычайно дорого; обходиться в огромные деньги. Русские соответствия: «стоить бешеных денег», «стоить целое состояние», «обойтись в копеечку».",
+      "synonyms_sr": [
+        "koštati čitavo bogatstvo",
+        "papreno koštati",
+        "biti preskupo",
+        "koštati kao Svetog Petra kajgana"
+      ],
+      "literal_ru": "",
+      "register": "razg., veoma ekspresivno; neformalno",
+      "examples": [
+        {
+          "serbian_latin": "Sve ovo je preskupo, a to košta boga oca.",
+          "russian": "Всё это ужасно дорого, обходится в целое состояние.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Najskuplji pas na svetu izgleda kao lav i košta boga oca.",
+          "russian": "Самая дорогая собака в мире похожа на льва и стоит бешеных денег.",
+          "source": "Blic Žena, 2026"
+        }
+      ],
+      "note": "Сильное разговорное усиление высокой цены. Несмотря на компонент Boga, в обычной современной речи выражение чаще воспринимается как эмоциональная формула, а не религиозное высказывание. Стилистически грубее и разговорнее, чем papreno koštati.",
+      "keyword": "koštati Boga oca; skupo; cena"
+    },
+    {
       "headword_latin": "koštati kao Svetog Petra kajgana",
       "type": "frazeologizam",
       "definition_ru": "Стоить чрезвычайно дорого, обойтись в огромную сумму. Русские аналоги: «стоить целое состояние», «влететь в копеечку», «обойтись втридорога».",
@@ -13607,6 +13715,33 @@
       ],
       "note": "Это не русское «шить дело»: обвинение в преступлении или фабрикация доказательств здесь не подразумеваются. В центре значения — чужая власть над решениями. Управление: krojiti kome kapu; местоимения mi, ti, nam обозначают того, за кого решают. В отрицательной конструкции выражение может звучать как отстаивание самостоятельности. Название города во втором примере обозначает его органы управления.",
       "keyword": "krojiti kapu"
+    },
+    {
+      "headword_latin": "Kroz iglene uši",
+      "type": "frazeologizam",
+      "definition_ru": "С огромным трудом, едва-едва, чудом преодолев препятствие или избежав неудачи. Особенно часто о победе, квалификации, экзамене, прохождении отбора.",
+      "synonyms_sr": [
+        "jedva",
+        "za dlaku",
+        "uz velike teškoće",
+        "jedva se provući"
+      ],
+      "literal_ru": "сквозь игольное ушко",
+      "register": "razg.-publicistički, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Crvena zvezda je kroz iglene uši stigla do pobede.",
+          "russian": "«Црвена звезда» с огромным трудом вырвала победу.",
+          "source": "Politika, 2011"
+        },
+        {
+          "serbian_latin": "Poljska – kroz iglene uši do petog prvenstva Evrope u nizu.",
+          "russian": "Польша — с огромным трудом на пятый подряд чемпионат Европы.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Образ крайне узкого отверстия подчёркивает минимальный запас успеха: результат достигнут буквально едва-едва. Частая конструкция: provući se / proći kroz iglene uši.",
+      "keyword": "iglene uši; jedva; za dlaku"
     },
     {
       "headword_latin": "Kružiti / obilaziti kao kiša oko Kragujevca",
@@ -13929,6 +14064,33 @@
       ],
       "note": "Русское «выиграть время» обычно нейтральнее, тогда как kupovati vreme часто намекает на сознательное затягивание неизбежного решения. Поэтому одно и то же выражение переводится «выиграть время» при полезной отсрочке и «тянуть время» при манипулятивной.",
       "keyword": "kupiti vreme"
+    },
+    {
+      "headword_latin": "Labudova pesma",
+      "type": "frazeologizam",
+      "definition_ru": "Лебединая песня; последнее значительное произведение, выступление или большое достижение человека, направления или эпохи перед уходом, завершением или исчезновением.",
+      "synonyms_sr": [
+        "poslednje veliko delo",
+        "završno ostvarenje",
+        "poslednji veliki nastup",
+        "oproštajno delo"
+      ],
+      "literal_ru": "лебединая песня",
+      "register": "knjiški i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Ova poema je biser srpske poezije, labudova pesma Crnjanskog.",
+          "russian": "Эта поэма — жемчужина сербской поэзии, лебединая песня Црнянского.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Manasija je „labudova pesma“ srpske srednjovekovne kulture, umetnosti i arhitekture.",
+          "russian": "Манасия — «лебединая песня» сербской средневековой культуры, искусства и архитектуры.",
+          "source": "Politika, 2025"
+        }
+      ],
+      "note": "Основано на древнем представлении, будто лебедь особенно прекрасно поёт перед смертью. Сербское и русское выражения совпадают почти полностью.",
+      "keyword": "labudova pesma; poslednje delo; završetak"
     },
     {
       "headword_latin": "Laže čim zine",
@@ -21318,6 +21480,33 @@
       "keyword": "pasti s neba"
     },
     {
+      "headword_latin": "Pasti s nogu",
+      "type": "frazeologizam",
+      "definition_ru": "Валиться с ног от усталости; совершенно выбиться из сил из-за тяжёлой работы, недосыпа, длительной нагрузки или множества дел.",
+      "synonyms_sr": [
+        "premoriti se",
+        "biti iscrpljen",
+        "biti mrtav umoran",
+        "ne moći više od umora"
+      ],
+      "literal_ru": "упасть с ног",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Zabrinut sam jer znam da će moji ljudi koji to rade pasti s nogu u narednom periodu.",
+          "russian": "Я обеспокоен, потому что знаю: люди, которые этим занимаются, вскоре будут буквально валиться с ног.",
+          "source": "Telegraf, 2020"
+        },
+        {
+          "serbian_latin": "Pali smo s nogu od posla! Satima smo čistili ulicu.",
+          "russian": "Мы с ног валились от работы! Несколько часов чистили улицу.",
+          "source": "Kurir, 2014"
+        }
+      ],
+      "note": "Практически совпадает с русским «валиться с ног». Очень естественно сочетание pasti s nogu od umora / posla. Не путать с oboriti nekoga s nogu — «сразить, ошеломить, покорить».",
+      "keyword": "pasti s nogu; umor; iscrpljenost"
+    },
+    {
       "headword_latin": "Pasti u drugi plan",
       "type": "izraz",
       "definition_ru": "отойти на второй план; стать менее важным; потерять приоритет",
@@ -21376,31 +21565,30 @@
     {
       "headword_latin": "Pasti u vatru",
       "type": "frazeologizam",
-      "definition_ru": "вспылить; горячо возмутиться; выйти из себя",
+      "definition_ru": "Сильно распалиться, разволноваться, прийти в возбуждение; чаще — вспылить, разозлиться и начать говорить или действовать горячо. Иногда может означать и чрезмерно увлечься чем-либо.",
       "synonyms_sr": [
         "planuti",
         "razbesneti se",
         "uzrujati se",
-        "burno reagovati"
+        "zaneti se",
+        "žestoko reagovati"
       ],
       "literal_ru": "упасть в огонь",
-      "register": "разг., экспр.; в переносном значении — внезапно сильно эмоционально возбудиться, чаще от гнева или возмущения",
+      "register": "razg.-knjiški, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Donald Tramp je, kao po običaju, pao u vatru kada je u utorak uveče govorio pred kamerama u Beloj kući.",
-          "russian": "Дональд Трамп, как обычно, вспылил, когда во вторник вечером выступал перед камерами в Белом доме.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/svet/madrid-tvrd-prema-trampu-ostar-prema-mercu/"
+          "serbian_latin": "Donald Tramp je, kao po običaju, pao u vatru kada je govorio pred kamerama.",
+          "russian": "Дональд Трамп, как обычно, распалился, выступая перед камерами.",
+          "source": "Danas, 2026"
         },
         {
-          "serbian_latin": "General Rouz zapisao je da je Mladić, čim je pomenut NATO, pao u vatru i počeo da viče.",
-          "russian": "Генерал Роуз записал, что Младич, едва был упомянут НАТО, вспылил и начал кричать.",
-          "source": "Danas, 2007",
-          "url": "https://www.danas.rs/vesti/drustvo/sa-strancima-razgovarao-nervozno-i-bez-argumenata/"
+          "serbian_latin": "Jedini koji je malo „pao u vatru“ od pozicije bio je doktor Boris Đinđić.",
+          "russian": "Единственным, кто немного распалился из-за своей позиции, был доктор Борис Джинджич.",
+          "source": "Južne vesti, 2024"
         }
       ],
-      "note": "Русскому буквальное «упасть в огонь» ничего не подсказывает. Обычно это не просто «разозлиться», а резко войти в эмоциональный раж: начать горячиться, кричать, спорить. Контекст легко отличает переносное значение от буквального pasti u vatru — физически упасть в огонь.",
-      "keyword": "pasti u vatru"
+      "note": "Не путать с буквальным pasti u vatru — «упасть в огонь». В переносном значении человек эмоционально «разгорается». В старых и книжных контекстах возможен положительный оттенок «увлечься, воодушевиться», но сейчас особенно часто речь о раздражении или горячей реакции.",
+      "keyword": "pasti u vatru; planuti; bes; uzbuđenje"
     },
     {
       "headword_latin": "pasti u vodu",
@@ -21580,6 +21768,32 @@
       ],
       "note": "Pijan kao majka Milan Šipka толкует как «совершенно, до беспамятства пьян». Происхождение точно не установлено. Обсуждаются по крайней мере две версии: сокращение более старого образа pijan kao majka zemlja, где «пьяная» земля означает пропитанную водой, и исторический обычай давать роженицам алкоголь для притупления боли. Сам Шipka считает объяснение через majka zemlja весьма убедительным, но отмечает, что и медицинский обычай мог поддержать выражение в народном сознании.",
       "keyword": "pijan kao majka"
+    },
+    {
+      "headword_latin": "Pirova pobeda",
+      "type": "frazeologizam",
+      "definition_ru": "Пиррова победа; победа, достигнутая такой высокой ценой или с такими потерями, что фактически она почти равносильна поражению.",
+      "synonyms_sr": [
+        "preskupo plaćena pobeda",
+        "pobeda uz velike gubitke",
+        "pobeda koja vodi porazu"
+      ],
+      "literal_ru": "Пиррова победа",
+      "register": "neutralno-knjiški i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Pirova pobeda Srbije.",
+          "russian": "Пиррова победа Сербии.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "„Pirova pobeda“ na sudu u Njujorku za Blejk Lajvli.",
+          "russian": "«Пиррова победа» Блейк Лайвли в нью-йоркском суде.",
+          "source": "Politika, 2026"
+        }
+      ],
+      "note": "Выражение связано с царём Пирром Эпирским: победы над римлянами стоили его войску настолько больших потерь, что продолжение таких побед вело бы к поражению. Русский эквивалент полный.",
+      "keyword": "Pirova pobeda; pobeda; gubici"
     },
     {
       "headword_latin": "Piti kao smuk",
@@ -31176,6 +31390,33 @@
       ],
       "note": "Обычная конструкция — biti trn u oku nekome: раздражать кого-либо, мешать кому-либо или вызывать враждебное отношение.",
       "keyword": "trn"
+    },
+    {
+      "headword_latin": "Trojanski konj",
+      "type": "frazeologizam",
+      "definition_ru": "Троянский конь; человек, организация, идея или механизм, который внешне допускается внутрь системы, но затем действует изнутри в чужих интересах или наносит ей вред. В информатике — разновидность вредоносной программы.",
+      "synonyms_sr": [
+        "prikrivena pretnja",
+        "ubačeni element",
+        "skriveni protivnik",
+        "prikriveni mehanizam za prodor"
+      ],
+      "literal_ru": "троянский конь",
+      "register": "neutralno-publicistički; takođe stručni informatički termin",
+      "examples": [
+        {
+          "serbian_latin": "Srbija nije ničiji „trojanski konj“.",
+          "russian": "Сербия не является ничьим «троянским конём».",
+          "source": "RTS, 2018"
+        },
+        {
+          "serbian_latin": "Nemački hakeri upali su u kompjuterski sistem NASA i instalirali program nazvan „Trojanski konj“.",
+          "russian": "Немецкие хакеры проникли в компьютерную систему NASA и установили программу под названием «Троянский конь».",
+          "source": "NIN, arhivski tekst"
+        }
+      ],
+      "note": "Происходит из мифа о деревянном коне, с помощью которого греки проникли в Трою. Современное переносное значение сохраняет центральную идею: опасность скрытно попадает внутрь под видом чего-то приемлемого или безобидного.",
+      "keyword": "Trojanski konj; skrivena pretnja; prodor"
     },
     {
       "headword_latin": "Trpati / staviti sve u isti koš",
