@@ -915,6 +915,33 @@
       "keyword": "bez glave i repa"
     },
     {
+      "headword_latin": "Bez kraja i konca",
+      "type": "frazeološki izraz",
+      "definition_ru": "Бесконечно, чрезвычайно долго, без видимого завершения. Русские соответствия: «без конца и края», «без конца».",
+      "synonyms_sr": [
+        "bez kraja",
+        "beskonačno",
+        "unedogled",
+        "nikad da se završi"
+      ],
+      "literal_ru": "без конца и нитки",
+      "register": "razg.-knjiški, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "I tako bez kraja i konca.",
+          "russian": "И так без конца и края.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Demonske intrige i krvoločna ubistva bez kraja i konca.",
+          "russian": "Демонические интриги и кровавые убийства без конца и края.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Основное значение — отсутствие конца, а не отсутствие логики. Для бессвязного текста в сербском гораздо точнее bez glave i repa, которое у вас уже есть отдельной статьёй.",
+      "keyword": "bez kraja i konca; beskrajno"
+    },
+    {
       "headword_latin": "Bez muke nema nauke",
       "type": "poslovica",
       "definition_ru": "без труда знаний не добудешь; учёба без труда не даётся",
@@ -7934,6 +7961,33 @@
       "keyword": "gledati svoja posla"
     },
     {
+      "headword_latin": "Gledati u kristalnu kuglu",
+      "type": "frazeologizam",
+      "definition_ru": "Пытаться предсказать то, чего сейчас знать невозможно; гадать о будущем без достаточных данных. Русские соответствия: «гадать на кофейной гуще», «смотреть в хрустальный шар».",
+      "synonyms_sr": [
+        "nagađati",
+        "predviđati bez osnova",
+        "gatati",
+        "pokušavati da se predvidi budućnost"
+      ],
+      "literal_ru": "смотреть в хрустальный шар",
+      "register": "razg.-publicistički, ironično",
+      "examples": [
+        {
+          "serbian_latin": "Trebalo bi gledati u kristalnu kuglu da bi znali koliko će proces da traje.",
+          "russian": "Нужно было бы смотреть в хрустальный шар, чтобы знать, сколько продлится процесс.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Ne treba gledati u kristalnu kuglu da bi se na tronu patrijarha ugledao upravo Artemije.",
+          "russian": "Не нужно смотреть в хрустальный шар, чтобы предположить, что на патриаршем престоле окажется именно Артемий.",
+          "source": "Danas, 2010"
+        }
+      ],
+      "note": "Часто употребляется в отрицательной конструкции ne treba gledati u kristalnu kuglu — «нетрудно догадаться». Сам образ обычно иронический.",
+      "keyword": "kristalna kugla; predviđanje; nagađanje"
+    },
+    {
       "headword_latin": "Gledati u pasulj",
       "type": "frazeologizam",
       "definition_ru": "гадать; строить догадки; пытаться угадать без достаточных данных",
@@ -10746,6 +10800,32 @@
       "keyword": "iznenada; bez razloga; bez povoda"
     },
     {
+      "headword_latin": "Iz krajnosti u krajnost",
+      "type": "frazeologizam",
+      "definition_ru": "Переходить от одной крайности к противоположной, не находя разумной середины. Русский эквивалент: «из крайности в крайность».",
+      "synonyms_sr": [
+        "ići iz jedne krajnosti u drugu",
+        "preterivati čas na jednu čas na drugu stranu",
+        "nemati meru"
+      ],
+      "literal_ru": "из крайности в крайность",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Kod nas se uvek išlo iz krajnosti u krajnost.",
+          "russian": "У нас всегда бросались из крайности в крайность.",
+          "source": "Danas, 2007"
+        },
+        {
+          "serbian_latin": "Moj najveći problem je što idem iz krajnosti u krajnost.",
+          "russian": "Моя главная проблема в том, что я бросаюсь из крайности в крайность.",
+          "source": "RTS, 2021"
+        }
+      ],
+      "note": "Особенно естественно с глаголом ići: ići iz krajnosti u krajnost. Описывает резкие колебания в поведении, решениях, питании, политике, оценках и т. п.",
+      "keyword": "iz krajnosti u krajnost; preterivanje"
+    },
+    {
       "headword_latin": "Iz ove kože se ne može",
       "type": "izraz",
       "definition_ru": "из своей шкуры не выпрыгнешь; от себя не убежишь; ничего не поделаешь",
@@ -10827,6 +10907,33 @@
       ],
       "note": "Русский и сербский обороты совпадают почти полностью. Противопоставление — iz druge ruke: информация получена через посредника, пересказ. Типичные сочетания: čuti, saznati, videti, iskusiti iz prve ruke.",
       "keyword": "iz prve ruke"
+    },
+    {
+      "headword_latin": "Iz sveg srca",
+      "type": "frazeološki izraz",
+      "definition_ru": "Совершенно искренне, от всей души. Особенно часто с пожеланиями, благодарностью, поддержкой, любовью.",
+      "synonyms_sr": [
+        "od srca",
+        "iskreno",
+        "svim srcem",
+        "najiskrenije"
+      ],
+      "literal_ru": "из всего сердца",
+      "register": "neutralno, emotivno",
+      "examples": [
+        {
+          "serbian_latin": "Iz sveg srca ću navijati da naše igračice izađu iz predstojećeg meča kao pobednice.",
+          "russian": "Я от всей души буду болеть за то, чтобы наши теннисистки выиграли предстоящий матч.",
+          "source": "RTS, 2009"
+        },
+        {
+          "serbian_latin": "Iz sveg srca jedva čekam da vidim jednu našu ekipu u grupnoj fazi.",
+          "russian": "Я от всей души надеюсь увидеть одну из наших команд на групповом этапе.",
+          "source": "RTS, 2014"
+        }
+      ],
+      "note": "Важно для русскоязычных: нормативно sveg, а не разговорное svog в значении «всего». Очень близкое od srca короче и ещё чаще встречается в поздравлениях.",
+      "keyword": "iz sveg srca"
     },
     {
       "headword_latin": "Iza kulisa",
@@ -15553,6 +15660,32 @@
       "keyword": "mutiti vodu"
     },
     {
+      "headword_latin": "Na drugi pogled",
+      "type": "izraz",
+      "definition_ru": "При повторном или более внимательном рассмотрении, когда первоначальное впечатление меняется. Русские соответствия: «со второго взгляда», «при ближайшем рассмотрении».",
+      "synonyms_sr": [
+        "kad se bolje pogleda",
+        "pri pažljivijem posmatranju",
+        "nakon ponovnog razmatranja"
+      ],
+      "literal_ru": "со второго взгляда",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Moma se Emi dopao na drugi pogled.",
+          "russian": "Эме Мома понравился со второго взгляда.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Na drugi pogled i drugo slušanje nije teško shvatiti da se veliki broj disciplina i dalje služi latinskim.",
+          "russian": "При более внимательном взгляде и повторном рассмотрении нетрудно заметить, что многие дисциплины по-прежнему используют латынь.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Часто противопоставляется na prvi pogled. Может быть буквальным — второе впечатление от человека, — или переносным: после более внимательного анализа.",
+      "keyword": "na drugi pogled"
+    },
+    {
       "headword_latin": "Na duge staze",
       "type": "izraz",
       "definition_ru": "в долгосрочной перспективе; в конечном счёте; на длинной дистанции",
@@ -15631,6 +15764,32 @@
       ],
       "note": "Выражение особенно характерно для информации, денег, возможностей, времени или чего-либо, что кто-то контролирует и выдаёт слишком маленькими порциями. Поэтому informacije dobijamo na kašičicu — не просто «постепенно», а часто «нам сообщают понемногу, дозированно». Оттенок недовольства типичен, но не обязателен.",
       "keyword": "na kašičicu"
+    },
+    {
+      "headword_latin": "Na korak od nečega",
+      "type": "frazeologizam",
+      "definition_ru": "Быть совсем близко к достижению цели или какому-либо результату. Русские соответствия: «в шаге от», «на пороге чего-либо».",
+      "synonyms_sr": [
+        "biti veoma blizu",
+        "biti nadomak nečega",
+        "gotovo ostvariti nešto"
+      ],
+      "literal_ru": "в одном шаге от чего-либо",
+      "register": "neutralno-publicistički, veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Zvezda na korak od Lige Evrope.",
+          "russian": "«Звезда» в шаге от Лиги Европы.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Omer na korak od studija na Oksfordu, novac poslednja prepreka.",
+          "russian": "Омер в шаге от учёбы в Оксфорде: последним препятствием остаются деньги.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "После od требуется родительный падеж: na korak od pobede, cilja, finala, dogovora. Может относиться как к желательному, так и к негативному исходу: na korak od katastrofe.",
+      "keyword": "na korak od; blizu; cilj"
     },
     {
       "headword_latin": "Na kraju krajeva",
@@ -15714,6 +15873,33 @@
       ],
       "note": "В современных текстах основное значение — «никогда / неизвестно когда». В диалектных источниках kukovo leto может иметь и другое значение, связанное с кратким осенним потеплением, но для активного современного словаря важнее именно ироническое «никогда».",
       "keyword": "kukovo leto; nikad; čekanje"
+    },
+    {
+      "headword_latin": "Na kvarno",
+      "type": "priloški izraz",
+      "definition_ru": "Исподтишка, нечестно, пользуясь тем, что другой не ожидает действия или не может вовремя отреагировать. Русские соответствия: «исподтишка», «по-тихому», «нечестным приёмом».",
+      "synonyms_sr": [
+        "podmuklo",
+        "nepošteno",
+        "krišom",
+        "ispod žita"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Film ima najlepšu ljubavnu priču, provučenu „na kvarno“.",
+          "russian": "В фильме прекрасная любовная линия, незаметно и хитро вплетённая в сюжет.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Onako na kvarno su to uradili.",
+          "russian": "Они сделали это исподтишка.",
+          "source": "Blic, 2018"
+        }
+      ],
+      "note": "Значение зависит от ситуации: в спорте udariti na kvarno — нанести запрещённый или неожиданный удар; в обычной речи nešto uraditi na kvarno — сделать исподтишка, нечестно или хитростью.",
+      "keyword": "na kvarno; podmuklo; krišom"
     },
     {
       "headword_latin": "Na lepe oči",
@@ -15987,6 +16173,33 @@
       ],
       "note": "Для русского выражение обманчиво: оно не означает «по Божьей справедливости», а, наоборот, подчёркивает несправедливость — человек пострадал, ничего не сделав. В устойчивом выражении нормативно пишется bog со строчной: na pravdi boga. Это отдельно отмечают и сербские языковые справочники.",
       "keyword": "na pravdi boga"
+    },
+    {
+      "headword_latin": "Na prepad",
+      "type": "priloški izraz",
+      "definition_ru": "Внезапно, без предупреждения, застав противника или собеседника врасплох. В зависимости от контекста: «внезапно», «с наскока», «застав врасплох».",
+      "synonyms_sr": [
+        "iznenada",
+        "neočekivano",
+        "bez najave",
+        "na brzinu i iznenada"
+      ],
+      "literal_ru": "нападением врасплох",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Pitanje na „prepad“, trema pred kamerama ili nešto treće...",
+          "russian": "Вопрос с наскока, волнение перед камерой или что-то ещё...",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Pljačkaju noću, na „prepad“, žrtve koje spavaju u vozilima.",
+          "russian": "Ночью они внезапно нападают на жертв, спящих в автомобилях.",
+          "source": "Politika, 2016"
+        }
+      ],
+      "note": "Может относиться как к настоящему нападению, так и к вопросу, решению или требованию, которое предъявляют неожиданно, не дав человеку подготовиться.",
+      "keyword": "na prepad; iznenada; neočekivano"
     },
     {
       "headword_latin": "Na pretek",
@@ -16703,6 +16916,33 @@
       ],
       "note": "Для русского буквальный смысл совершенно непрозрачен. Формула делает приказ похожим на любезную просьбу, но именно поэтому часто звучит с добродушной иронией: старший просит младшего сделать то, от чего отказа практически не ждут. На Vukajlija её метко называют «трюком, превращающим приказ в просьбу»; это хорошо передаёт живую прагматику, хотя сам источник, конечно, не нормативный.",
       "keyword": "ne bilo ti zapoveđeno"
+    },
+    {
+      "headword_latin": "Ne birati reči",
+      "type": "frazeologizam",
+      "definition_ru": "Говорить очень резко и прямо, не заботясь о мягкости выражений и возможной обиде собеседника. Русские соответствия: «не стесняться в выражениях», «не выбирать выражений».",
+      "synonyms_sr": [
+        "govoriti bez ustručavanja",
+        "govoriti vrlo oštro",
+        "ne štedeti na rečima",
+        "biti grub u izražavanju"
+      ],
+      "literal_ru": "не выбирать слова",
+      "register": "razg.-publicistički, obično oštro ili neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Govoreći na skupu, Lula nije birao reči.",
+          "russian": "Выступая на собрании, Лула не стеснялся в выражениях.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Rudi Đulijani ni najmanje nije birao reči kada je komentarisao Hilari Klinton.",
+          "russian": "Руди Джулиани совершенно не выбирал выражений, говоря о Хиллари Клинтон.",
+          "source": "Politika, 2016"
+        }
+      ],
+      "note": "Не обязательно означает ругань: человек может просто говорить необычно резко и недипломатично. Смысл противоположен pažljivo birati reči — тщательно подбирать слова.",
+      "keyword": "ne birati reči; oštro; direktno"
     },
     {
       "headword_latin": "Ne cvetaju ruže",
@@ -19560,6 +19800,32 @@
       "keyword": "od igle do lokomotive"
     },
     {
+      "headword_latin": "Od jutra do mraka",
+      "type": "priloški izraz",
+      "definition_ru": "Весь день, с утра до позднего вечера; практически непрерывно. Русский эквивалент: «с утра до ночи».",
+      "synonyms_sr": [
+        "po ceo dan",
+        "ceo dan",
+        "od ranog jutra do večeri"
+      ],
+      "literal_ru": "от утра до темноты",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "U mojoj smatračnici radio svira od jutra do mraka.",
+          "russian": "У меня радио играет с утра до ночи.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "To je od jutra do mraka, odnosno od jutra do sledećeg jutra.",
+          "russian": "Это работа с утра до ночи, а точнее — с утра до следующего утра.",
+          "source": "RTS, 2018"
+        }
+      ],
+      "note": "Mrak здесь обозначает наступление темноты, поэтому буквальный образ несколько отличается от русского «с утра до вечера», но функция та же.",
+      "keyword": "od jutra do mraka; ceo dan"
+    },
+    {
       "headword_latin": "od Kulina bana",
       "type": "frazeologizam",
       "definition_ru": "Начинать рассказ с самого начала, издалека, с давних времён; подробно излагать всю предысторию. Часто употребляется иронически, когда человек слишком долго подбирается к сути. Русские аналоги: «начать от Адама и Евы», «начать издалека».",
@@ -19666,6 +19932,32 @@
       ],
       "note": "Это не утверждение о буквальном отсутствии вреда от избытка, а бытовая идея «лишний запас пригодится». Поэтому выражение легко переворачивают иронически: RTS, например, обыгрывает его именно в контексте веществ, избыток которых способен навредить. Русское «запас карман не тянет» обычно звучит естественнее кальки.",
       "keyword": "od viška"
+    },
+    {
+      "headword_latin": "Od vrata do vrata",
+      "type": "kolokacija",
+      "definition_ru": "Непосредственно от одного адреса до другого, без необходимости самостоятельно добираться до промежуточной точки. Также о посещении домов один за другим.",
+      "synonyms_sr": [
+        "od adrese do adrese",
+        "direktno do kuće",
+        "od kuće do kuće"
+      ],
+      "literal_ru": "от двери до двери",
+      "register": "neutralno; transport, dostava, prodaja, kampanje",
+      "examples": [
+        {
+          "serbian_latin": "Vanlinijski prevoz osoba sa invaliditetom po principu „od vrata do vrata“ realizuje se posebnim kombi vozilima.",
+          "russian": "Перевозка людей с инвалидностью по принципу «от двери до двери» осуществляется специальными микроавтобусами.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Gostima nudimo organizaciju putovanja „od vrata do vrata“.",
+          "russian": "Гостям мы предлагаем организацию путешествия по принципу «от двери до двери».",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "В современном сербском особенно часто о prevoz, dostava и kampanja od vrata do vrata. По структуре это скорее устойчивая коллокация, чем образный фразеологизм.",
+      "keyword": "od vrata do vrata"
     },
     {
       "headword_latin": "Od zla oca i gore majke",
@@ -24627,6 +24919,33 @@
       "keyword": "prevrnuti nebo i zemlju"
     },
     {
+      "headword_latin": "Priča za malu decu",
+      "type": "frazeologizam",
+      "definition_ru": "Неправдоподобная, наивная история, в которую взрослый разумный человек не должен верить. Русские соответствия: «сказки для маленьких», «детские сказки», «байки».",
+      "synonyms_sr": [
+        "bajka",
+        "neuverljiva priča",
+        "priča za naivne",
+        "prazna priča"
+      ],
+      "literal_ru": "история для маленьких детей",
+      "register": "razg., ironično-neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Gatanje ispred velikog ogledala je priča za malu decu.",
+          "russian": "Гадание перед большим зеркалом — сказки для маленьких детей.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "„Odrastanje je priča za malu decu“ jedan je od naslova Sare Andersen.",
+          "russian": "«Взросление — сказка для маленьких» — одно из названий книг Сары Андерсен.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Может быть буквальным названием детской истории, но в разговорной формуле to je priča za malu decu обычно означает: «не рассказывай мне сказки, я в это не верю».",
+      "keyword": "priča za malu decu; bajka; neverovatno"
+    },
+    {
       "headword_latin": "Prijatelj se u nevolji poznaje",
       "type": "poslovica",
       "definition_ru": "друзья познаются в беде; настоящий друг проявляется в трудную минуту",
@@ -26187,6 +26506,33 @@
       "keyword": "daska"
     },
     {
+      "headword_latin": "Razbijati glavu",
+      "type": "frazeologizam",
+      "definition_ru": "Долго и напряжённо думать над сложным вопросом, пытаясь найти решение или объяснение. Русские соответствия: «ломать голову», «голову ломать».",
+      "synonyms_sr": [
+        "lomiti glavu",
+        "mučiti se razmišljanjem",
+        "tražiti rešenje",
+        "mozgati"
+      ],
+      "literal_ru": "разбивать голову",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "A što i da razbija glavu oko toga?",
+          "russian": "Да и зачем ему ломать над этим голову?",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Tada sam shvatio da o tome nema smisla razbijati glavu, već treba nastaviti raditi po svome.",
+          "russian": "Тогда я понял, что нет смысла ломать над этим голову — нужно просто продолжать делать своё дело.",
+          "source": "Politika, 2019"
+        }
+      ],
+      "note": "Типичная конструкция razbijati glavu oko nečega / nad nečim. Не путать с буквальным razbiti nekome glavu — «разбить кому-то голову».",
+      "keyword": "razbijati glavu; razmišljati; problem"
+    },
+    {
       "headword_latin": "Razvezati jezik",
       "type": "frazeologizam",
       "definition_ru": "развязать язык; разговориться; начать выдавать то, о чём раньше молчал",
@@ -26589,6 +26935,32 @@
       ],
       "note": "Rečnik SANU через Шипку толкует выражение как группу, собранную со всех сторон, без выбора и критериев, из людей «всякого, худшего сорта». Исторический образ связывают с осуждёнными, избежавшими казни на колу или через повешение. В современном употреблении значение может ослабляться до «разношёрстная и сомнительная компания».",
       "keyword": "s koca i konopca"
+    },
+    {
+      "headword_latin": "S kolena na koleno",
+      "type": "frazeologizam",
+      "definition_ru": "Из поколения в поколение, от предков к потомкам. Русский эквивалент: «из поколения в поколение».",
+      "synonyms_sr": [
+        "iz generacije u generaciju",
+        "s naraštaja na naraštaj",
+        "od predaka potomcima"
+      ],
+      "literal_ru": "с колена на колено",
+      "register": "neutralno, tradicionalno",
+      "examples": [
+        {
+          "serbian_latin": "I tako s kolena na koleno, sve preko navrbabe, prababe, dede.",
+          "russian": "И так из поколения в поколение — через прапрабабушек, прабабушек и дедов.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "O Burdušu se, kao u narodnoj pesmi, legenda prenosi s kolena na koleno.",
+          "russian": "Легенда о Бурдуше, словно народная песня, передаётся из поколения в поколение.",
+          "source": "Politika, 2009"
+        }
+      ],
+      "note": "Нормативная форма — s kolena na koleno; именно её сербские языковые источники приводят как устойчивое выражение. Чаще всего так передаются priče, običaji, znanje, zanat, recepti.",
+      "keyword": "s kolena na koleno; generacije; tradicija"
     },
     {
       "headword_latin": "S konja na magarca",
@@ -28691,6 +29063,33 @@
       "keyword": "srce se stegne"
     },
     {
+      "headword_latin": "Srcem i dušom",
+      "type": "frazeološki izraz",
+      "definition_ru": "Всем сердцем, всей душой; полностью и искренне отдавая себя человеку, делу или занятию.",
+      "synonyms_sr": [
+        "celim bićem",
+        "potpuno",
+        "svim srcem",
+        "bez rezerve"
+      ],
+      "literal_ru": "сердцем и душой",
+      "register": "neutralno, emotivno",
+      "examples": [
+        {
+          "serbian_latin": "Čovek sa stanom i poslom u Njujorku, a srcem i dušom u Srbiji.",
+          "russian": "Человек с квартирой и работой в Нью-Йорке, но сердцем и душой в Сербии.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Srcem i dušom sam uz vaterpolo.",
+          "russian": "Я всем сердцем и душой с водным поло.",
+          "source": "RTS, 2008"
+        }
+      ],
+      "note": "Частые конструкции: biti srcem i dušom uz nekoga, posvetiti se nečemu srcem i dušom, doživeti nešto srcem i dušom.",
+      "keyword": "srcem i dušom"
+    },
+    {
       "headword_latin": "Sreća je okrenula leđa nekome",
       "type": "frazeologizam",
       "definition_ru": "удача отвернулась; перестало везти; фортуна отвернулась",
@@ -28794,6 +29193,33 @@
       ],
       "note": "Значение практически совпадает с русским «сжечь мосты». Однако сербский свободно использует не только spaliti, но и srušiti / porušiti mostove; поэтому буквальный русский образ не следует механически навязывать сербскому. Оборот означает такой разрыв отношений или такой поступок, после которого возвращение к прежнему положению становится крайне затруднительным. В современном языке особенно част в разговорах о работе, политике и личных отношениях.",
       "keyword": "mostove za sobom"
+    },
+    {
+      "headword_latin": "Stajati iza svojih reči",
+      "type": "frazeologizam",
+      "definition_ru": "Отвечать за сказанное, не отказываться от своих слов и быть готовым подтвердить их поступками. Русские соответствия: «отвечать за свои слова», «стоять за своими словами».",
+      "synonyms_sr": [
+        "držati se svojih reči",
+        "odgovarati za ono što se kaže",
+        "ne povlačiti rečeno",
+        "braniti svoj stav"
+      ],
+      "literal_ru": "стоять за своими словами",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Moramo biti ono što jesmo, autentični i stajati iza svojih reči i muzike.",
+          "russian": "Мы должны оставаться собой, быть настоящими и отвечать за свои слова и свою музыку.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Ali stajati iza svojih reči, to je pak nekakav minimum ljudskog.",
+          "russian": "Но отвечать за собственные слова — это всё-таки какой-то минимум человеческого достоинства.",
+          "source": "Danas, 2008"
+        }
+      ],
+      "note": "Можно stajati iza svojih reči, odluke, izjave, obećanja. Выражение подразумевает не просто повторить сказанное, а принять за него ответственность.",
+      "keyword": "stajati iza svojih reči; odgovornost; obećanje"
     },
     {
       "headword_latin": "Stajati kao saliveno",
@@ -29042,6 +29468,33 @@
       ],
       "note": "Шутливое обозначение вступления в брак. Обычно употребляется в формах stao je na ludi kamen и stala je na ludi kamen; выражение не указывает непосредственно, кто женился, а кто вышел замуж.",
       "keyword": "kamen"
+    },
+    {
+      "headword_latin": "Stati na nečiju stranu",
+      "type": "frazeologizam",
+      "definition_ru": "Поддержать одну из сторон спора или конфликта; встать на чью-либо сторону.",
+      "synonyms_sr": [
+        "podržati nekoga",
+        "opredeliti se za nekoga",
+        "držati nečiju stranu",
+        "svrstati se uz nekoga"
+      ],
+      "literal_ru": "встать на чью-то сторону",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Ja nikada kao reditelj ne mogu stati na nečiju stranu.",
+          "russian": "Как режиссёр я никогда не могу встать на чью-либо сторону.",
+          "source": "Blic, 2019"
+        },
+        {
+          "serbian_latin": "A sad vi očekujete da ja stanem na nečiju stranu.",
+          "russian": "А теперь вы ожидаете, что я встану на чью-то сторону.",
+          "source": "Danas, 2011"
+        }
+      ],
+      "note": "После stranu употребляется притяжательная форма: na njegovu stranu, na njenu stranu, na nečiju stranu. Близкое držati nečiju stranu чаще описывает уже существующую поддержку, а stati — момент выбора.",
+      "keyword": "stati na nečiju stranu; podrška; sukob"
     },
     {
       "headword_latin": "Stati na noge",
@@ -30741,6 +31194,32 @@
       "keyword": "šaka"
     },
     {
+      "headword_latin": "Šalu na stranu",
+      "type": "izraz",
+      "definition_ru": "Если говорить серьёзно; оставим шутки и перейдём к сути. Русский эквивалент: «шутки в сторону».",
+      "synonyms_sr": [
+        "ozbiljno govoreći",
+        "bez šale",
+        "da se uozbiljimo"
+      ],
+      "literal_ru": "шутку в сторону",
+      "register": "razg., veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Šalu na stranu, radeći petnaest godina u odeljenju fotosloga, nije ni slutila šta je čeka.",
+          "russian": "Шутки в сторону: проработав пятнадцать лет в отделе фотонабора, она даже не предполагала, что её ждёт.",
+          "source": "Politika, 2008"
+        },
+        {
+          "serbian_latin": "Šalu na stranu. Dizajneri neće dozvoliti da im nekakve domaćice kreiraju ambijent.",
+          "russian": "Шутки в сторону. Дизайнеры не позволят каким-то домохозяйкам определять интерьер.",
+          "source": "Politika, 2010"
+        }
+      ],
+      "note": "Обычно стоит в начале нового предложения и обозначает переход от юмора к серьёзному содержанию: Šalu na stranu, problem zaista postoji.",
+      "keyword": "šalu na stranu"
+    },
+    {
       "headword_latin": "Šarena laža",
       "type": "frazeologizam",
       "definition_ru": "красивая сказка; заманчивый обман; пустое привлекательное обещание",
@@ -31268,6 +31747,33 @@
       ],
       "note": "Tante za tante подчёркивает равноценность: услуга за услугу, уступка за уступку, ответ той же мерой. Поэтому русское «око за око» возможно только в конфликтном контексте; само выражение не обязательно означает месть. В современной политической публицистике формула узнаваема именно как противоположность tante za kukuriku.",
       "keyword": "tante za tante"
+    },
+    {
+      "headword_latin": "Tapkati u mestu",
+      "type": "frazeologizam",
+      "definition_ru": "Топтаться на месте; не продвигаться вперёд, несмотря на действия или затраченное время.",
+      "synonyms_sr": [
+        "stajati u mestu",
+        "ne napredovati",
+        "vrteti se u krug",
+        "ne micati se s mrtve tačke"
+      ],
+      "literal_ru": "топтаться на месте",
+      "register": "razg.-publicistički, veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Privatizacija banja tapka u mestu.",
+          "russian": "Приватизация курортов топчется на месте.",
+          "source": "Danas, 2012"
+        },
+        {
+          "serbian_latin": "EU će tapkati u mestu i na kraju se raspasti.",
+          "russian": "ЕС будет топтаться на месте и в конце концов распадётся.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Обычно речь о процессе, переговорах, реформе, карьере или организации, которые существуют, но заметного продвижения нет. Не обязательно означает полное бездействие: можно много работать и всё равно tapkati u mestu.",
+      "keyword": "tapkati u mestu; napredak; zastoj"
     },
     {
       "headword_latin": "terati / isterati mak na konac",
@@ -34002,6 +34508,32 @@
       ],
       "note": "Очень типична возвратная конструкция nešto se nekome vratilo kao bumerang: Odluka mu se vratila kao bumerang. Дательный обозначает того, кому последствия «вернулись». Русское «обернулось бумерангом» практически совпадает.",
       "keyword": "vratiti se kao bumerang"
+    },
+    {
+      "headword_latin": "Vreme je novac",
+      "type": "krilatica",
+      "definition_ru": "Время имеет практическую и экономическую ценность, поэтому его не следует тратить впустую. Русский эквивалент: «время — деньги».",
+      "synonyms_sr": [
+        "vreme vredi",
+        "ne treba gubiti vreme",
+        "svaki trenutak je dragocen"
+      ],
+      "literal_ru": "время — деньги",
+      "register": "opštepoznata krilatica",
+      "examples": [
+        {
+          "serbian_latin": "„Vreme je novac“, čuvene su reči Bendžamina Frenklina.",
+          "russian": "«Время — деньги» — знаменитые слова Бенджамина Франклина.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Vreme je novac! Kakva groteska današnjeg čoveka.",
+          "russian": "Время — деньги! Какая гротескная формула современного человека.",
+          "source": "Danas, 2007"
+        }
+      ],
+      "note": "Формула традиционно связывается с Бенджамином Франклином. В современном сербском употребляется как серьёзно, так и иронически — например, при критике постоянной спешки.",
+      "keyword": "vreme je novac"
     },
     {
       "headword_latin": "Vreme leči sve rane",
