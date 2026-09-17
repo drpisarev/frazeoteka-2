@@ -8746,31 +8746,31 @@
       "keyword": "glavom kroz zid"
     },
     {
-      "headword_latin": "Ići grlom u jagode",
+      "headword_latin": "ići grlom u jagode",
       "type": "frazeologizam",
-      "definition_ru": "лезть напролом; бросаться очертя голову; действовать безрассудно",
+      "definition_ru": "Действовать безрассудно, очертя голову, без подготовки и оценки риска; слишком поспешно бросаться в какое-либо дело.",
       "synonyms_sr": [
         "srljati",
-        "postupati nepromišljeno",
-        "zaletati se",
-        "ići bez plana"
+        "ići bezglavo",
+        "postupati brzopleto",
+        "uletati bez razmišljanja"
       ],
-      "literal_ru": "идти горлом в землянику",
-      "register": "razg., ekspresivno, neodobr.; o brzopletom postupku bez procene rizika",
+      "literal_ru": "идти горлом в клубнику",
+      "register": "razgovorno, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Ne možete ići u nešto grlom u jagode pa da poginete ko guska.",
-          "russian": "Нельзя бросаться во что-то очертя голову и в итоге погореть.",
-          "source": "Danas, 2017"
+          "serbian_latin": "Ne treba da idemo „grlom u jagode“, treba malo strpljenja.",
+          "russian": "Не надо бросаться очертя голову, нужно немного терпения.",
+          "source": "Danas, 2016"
         },
         {
-          "serbian_latin": "Nećemo ići „grlom u jagode“.",
-          "russian": "Мы не будем действовать безрассудно, сгоряча.",
-          "source": "RTS, 2018"
+          "serbian_latin": "Ne treba ići „grlom u jagode“ i treba sprovesti validna klinička ispitivanja pre uvoza leka.",
+          "russian": "Не следует действовать сгоряча: перед внедрением препарата нужно провести надлежащие клинические исследования.",
+          "source": "Danas, 2025"
         }
       ],
-      "note": "Главное значение — ринуться к цели без подготовки и размышлений о последствиях. Русскому буквальное grlom ничего не объясняет; естественны «очертя голову», «лезть напролом», «соваться не подумав». Популярное объяснение связывает образ с неосторожным броском в заросли за земляникой, но надёжно установленной этимологией считать эту версию не стоит.",
-      "keyword": "grlom u jagode"
+      "note": "Выражение описывает импульсивное движение к цели без предварительной оценки препятствий и последствий. Значение хорошо передают nepromišljeno, brzopleto и bezglavo. Не путать с названием культового телесериала „Grlom u jagode“.",
+      "keyword": "brzopleto; srljati; bez razmišljanja"
     },
     {
       "headword_latin": "Ići kao metak",
@@ -13334,31 +13334,31 @@
       "keyword": "kost u grlu"
     },
     {
-      "headword_latin": "Koštati kao Svetog Petra kajgana",
+      "headword_latin": "koštati kao Svetog Petra kajgana",
       "type": "frazeologizam",
-      "definition_ru": "стоить баснословно дорого; обойтись в целое состояние; влететь в копеечку",
+      "definition_ru": "Стоить чрезвычайно дорого, обойтись в огромную сумму. Русские аналоги: «стоить целое состояние», «влететь в копеечку», «обойтись втридорога».",
       "synonyms_sr": [
-        "koštati papreno",
         "biti preskupo",
+        "papreno koštati",
         "koštati čitavo bogatstvo",
-        "imati astronomsku cenu"
+        "skupo stajati"
       ],
       "literal_ru": "стоить как яичница святого Петра",
-      "register": "razg., ekspresivno, šalj.; takođe skupo kao Svetog Petra kajgana",
+      "register": "razgovorno, ekspresivno, često šaljivo",
       "examples": [
         {
-          "serbian_latin": "Transfer Dilana Osetkovskog koštao je Partizan kao Svetog Petra kajgana.",
-          "russian": "Трансфер Дилана Осетковского обошёлся «Партизану» в целое состояние.",
-          "source": "Danas, 2026"
+          "serbian_latin": "Dan na Rolan Garosu košta kao, poznata je izreka, Svetog Petra kajgana.",
+          "russian": "День на «Ролан Гаррос» обходится, как говорится, в целое состояние.",
+          "source": "RTS, 2019"
         },
         {
-          "serbian_latin": "Kada nešto platimo više nego inače, često kažemo da nas je to koštalo „kao Svetog Petra kajgana“.",
-          "russian": "Когда мы платим необычно дорого, часто говорим, что это обошлось в целое состояние.",
-          "source": "Danas, 2024"
+          "serbian_latin": "Jaja koštaju „kao Svetog Petra kajgana“.",
+          "russian": "Яйца стоят баснословно дорого.",
+          "source": "RTS, 2017"
         }
       ],
-      "note": "Danas приводит несколько легендарных объяснений и указывает на греческую параллель со Sveti Đorđe, поэтому история о Петре, Христе, бедной вдове и окаменевшей яичнице — именно народная легенда, а не доказанная этимология. Для русскоязычного важно и управление: обычно nešto me je koštalo kao Svetog Petra kajgana — буквально «что-то мне стоило…».",
-      "keyword": "kajgana"
+      "note": "Устойчивое сравнение обозначает именно чрезмерно высокую цену. Существует несколько фольклорных объяснений происхождения выражения; надёжно установленной единственной этимологии нет, поэтому легенду лучше не выдавать за исторический факт.",
+      "keyword": "skupo; cena; kajgana"
     },
     {
       "headword_latin": "Krasti bogu dane",
@@ -22477,6 +22477,33 @@
       "keyword": "pomeriti sastanak"
     },
     {
+      "headword_latin": "pomeriti se s mrtve tačke",
+      "type": "frazeologizam",
+      "definition_ru": "Сдвинуться с мёртвой точки; начать продвигаться после периода застоя, когда дело долго не менялось и не развивалось.",
+      "synonyms_sr": [
+        "napraviti pomak",
+        "izaći iz zastoja",
+        "pokrenuti stvari",
+        "krenuti napred"
+      ],
+      "literal_ru": "сдвинуться с мёртвой точки",
+      "register": "neutralno i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Ostaje nam varljiva nada da će se i ovim delom stvari u obrazovanju pomeriti sa mrtve tačke.",
+          "russian": "Остаётся надежда, что благодаря этой работе дела в образовании сдвинутся с мёртвой точки.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Nismo se pomerili sa mrtve tačke.",
+          "russian": "Мы так и не сдвинулись с мёртвой точки.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Встречаются формы s mrtve tačke и sa mrtve tačke. Возможны как непереходное pomeriti se sa mrtve tačke, так и переходное pomeriti nešto sa mrtve tačke — «сдвинуть дело с мёртвой точки».",
+      "keyword": "mrtva tačka; zastoj; pomak"
+    },
+    {
       "headword_latin": "Pomrsiti nekome konce",
       "type": "frazeologizam",
       "definition_ru": "спутать кому-то карты; сорвать планы; помешать осуществить задуманное",
@@ -22881,6 +22908,33 @@
       ],
       "note": "С русским «тянуть за язык» есть важное частичное совпадение. Сербское выражение часто означает именно вызвать человека на высказывание вопросом, замечанием или провокацией. Русская реплика «кто тебя за язык тянул?» чаще осуждает человека уже после того, как он сказал лишнее.",
       "keyword": "povući za jezik"
+    },
+    {
+      "headword_latin": "povući nogu",
+      "type": "frazeologizam",
+      "definition_ru": "Первым начать какое-либо действие и тем самым дать пример другим или запустить цепочку похожих действий. Русские аналоги: «почин сделать», «подать пример», «первым начать».",
+      "synonyms_sr": [
+        "dati primer",
+        "prvi započeti",
+        "pokrenuti niz",
+        "otvoriti put drugima"
+      ],
+      "literal_ru": "потянуть ногу",
+      "register": "razgovorno, često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "I sam sam pomalo „povukao nogu“ drugim kolegama.",
+          "russian": "Я и сам в некоторой степени подал пример другим коллегам.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Bajatović nije zadužbinar, ali je na svoj način „povukao nogu“.",
+          "russian": "Баято́вич не меценат, но по-своему он первым подал пример.",
+          "source": "Politika, 2010"
+        }
+      ],
+      "note": "В переносном значении речь не о ноге буквально: один человек делает первый шаг, после чего ожидается, что другие последуют его примеру. Особенно часто употребляется, когда первое действие запускает серию подобных.",
+      "keyword": "primer; prvi; pokrenuti"
     },
     {
       "headword_latin": "Povući ručnu",
@@ -23442,6 +23496,32 @@
       "keyword": "preko noći"
     },
     {
+      "headword_latin": "preko preče, naokolo bliže",
+      "type": "poslovica",
+      "definition_ru": "Попытка срезать путь или решить дело самым коротким способом не всегда действительно экономит время и силы; иногда более длинный, но надёжный путь оказывается быстрее и лучше. Русские соответствия по ситуации: «короче — не всегда быстрее», «поспешишь — людей насмешишь».",
+      "synonyms_sr": [
+        "prečica nije uvek najbrži put",
+        "bolje dužim ali sigurnijim putem",
+        "ne ići prečicom po svaku cenu"
+      ],
+      "literal_ru": "напрямик короче, а в обход ближе",
+      "register": "poslovično, razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Preko preče, naokolo ipak bliže.",
+          "russian": "Напрямик вроде короче, а в обход всё-таки быстрее.",
+          "source": "RTS, 2016"
+        },
+        {
+          "serbian_latin": "Pretrčavanje šest kolovoznih traka na Novom Beogradu – preko preče, naokolo bliže, ali uz veliku opasnost.",
+          "russian": "Перебегать шесть полос на Новом Белграде — попытка срезать путь, которая оборачивается большой опасностью.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "Пословица построена на парадоксе: preče означает более прямой и короткий путь, но такой путь может оказаться неудобным, опасным или в итоге более долгим. Употребляется и буквально о маршруте, и переносно о способе решения проблемы.",
+      "keyword": "prečica; put; naokolo"
+    },
+    {
       "headword_latin": "Preko trnja do zvezda",
       "type": "izreka",
       "definition_ru": "через тернии к звёздам; к успеху через трудности",
@@ -23524,6 +23604,33 @@
       "keyword": "preko volje"
     },
     {
+      "headword_latin": "prelomiti preko kolena",
+      "type": "frazeologizam",
+      "definition_ru": "Решить или сделать что-либо наскоро, резко и без достаточного обсуждения или подготовки. Русские аналоги: «решить с наскока», «рубить сплеча», «сделать наспех».",
+      "synonyms_sr": [
+        "odlučiti naprečac",
+        "rešiti na brzinu",
+        "uraditi bez dovoljno razmatranja",
+        "preseći bez dogovora"
+      ],
+      "literal_ru": "переломить через колено",
+      "register": "razgovorno i publicistički, obično neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Sigurno je da nećemo to prelomiti preko kolena u roku od nekoliko nedelja.",
+          "russian": "Совершенно точно мы не будем решать это с наскока за несколько недель.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Prosvetari strahuju da će se najavljena reforma u obrazovanju „prelomiti preko kolena“.",
+          "russian": "Работники образования опасаются, что объявленную реформу проведут наскоро, без должного обсуждения.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Выражение подчёркивает не просто быстроту, а форсированное решение сложного вопроса без нормальной процедуры, подготовки или согласования. Часто употребляется о реформах, законах и организационных решениях.",
+      "keyword": "naprečac; brzopleto; odluka"
+    },
+    {
       "headword_latin": "Prenositi se od usta do usta",
       "type": "glagolski frazem",
       "definition_ru": "передаваться из уст в уста; распространяться посредством личных пересказов",
@@ -23549,6 +23656,33 @@
       ],
       "note": "Конструкция od usta do usta может употребляться самостоятельно как определение: reklama, marketing, komunikacija od usta do usta.",
       "keyword": "usta"
+    },
+    {
+      "headword_latin": "presaviti tabak",
+      "type": "frazeologizam",
+      "definition_ru": "Решиться на официальную письменную жалобу или судебное разбирательство; подать иск, обратиться в суд. По-русски в зависимости от контекста: «подать в суд», «написать жалобу», «накатать заявление».",
+      "synonyms_sr": [
+        "podneti tužbu",
+        "tužiti",
+        "obratiti se sudu",
+        "podneti prijavu"
+      ],
+      "literal_ru": "сложить лист бумаги",
+      "register": "razgovorno, pomalo starinski i slikovito",
+      "examples": [
+        {
+          "serbian_latin": "Presaviti tabak i tužiti trgovca.",
+          "russian": "Подать иск и судиться с продавцом.",
+          "source": "Danas / BBC na srpskom, 2022"
+        },
+        {
+          "serbian_latin": "Ukoliko poslodavac ne ispuni zahteve, zaposleni prete da će „presaviti tabak“ i svoja prava potražiti na sudu.",
+          "russian": "Если работодатель не выполнит требования, работники грозят обратиться в суд и защищать там свои права.",
+          "source": "Danas, 2018"
+        }
+      ],
+      "note": "Tabak — лист бумаги. Исторически выражение связано с письменным обращением, жалобой или иском; в современной речи чаще всего означает перейти от слов к официальной юридической процедуре.",
+      "keyword": "tabak; tužba; sud"
     },
     {
       "headword_latin": "Preseći Gordijev čvor",
@@ -24216,6 +24350,33 @@
       ],
       "note": "Образ связан с ощущением knedla u grlu — «комок в горле». В одном контексте человек сдерживает слёзы, страх или волнение, в другом — «проглатывает» гордость и вынужденно принимает неприятное решение. Поэтому перевод зависит от ситуации: «сглотнуть комок», «стерпеть», «пересилить себя», «стиснуть зубы».",
       "keyword": "progutati knedlu"
+    },
+    {
+      "headword_latin": "promašiti ceo fudbal",
+      "type": "frazeologizam",
+      "definition_ru": "Полностью промахнуться мимо сути; неверно понять ситуацию, обсуждать не то или сделать совершенно неправильный вывод. Русские аналоги: «совсем не попасть в точку», «промахнуться мимо сути», «не понять, о чём вообще речь».",
+      "synonyms_sr": [
+        "promašiti poentu",
+        "pogrešno shvatiti stvar",
+        "biti potpuno mimo teme",
+        "omašiti suštinu"
+      ],
+      "literal_ru": "промахнуться мимо всего футбола",
+      "register": "razgovorno, šaljivo i ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Činilo nam se da je naprosto ova izvedba promašila ceo fudbal.",
+          "russian": "Нам показалось, что эта постановка совершенно промахнулась мимо сути.",
+          "source": "NIN, 2024"
+        },
+        {
+          "serbian_latin": "U suprotnom, kako kaže, „promašili smo ceo fudbal“.",
+          "russian": "Иначе, как она говорит, мы совершенно не поняли бы сути.",
+          "source": "Objektiv, 2024"
+        }
+      ],
+      "note": "Образ пришёл из футбола: игрок замахивается по мячу, но не попадает по нему вообще. В переносной речи выражение означает уже не обычную ошибку, а полный промах в понимании проблемы или основной идеи.",
+      "keyword": "fudbal; poenta; promašaj"
     },
     {
       "headword_latin": "Promoliti nos",
@@ -28457,6 +28618,32 @@
       "keyword": "nož pod grlo"
     },
     {
+      "headword_latin": "staviti nekome reči u usta",
+      "type": "frazeologizam",
+      "definition_ru": "Приписать человеку слова, которых он не говорил, или представить чужую формулировку как его собственную. Русский аналог: «вкладывать кому-то слова в рот».",
+      "synonyms_sr": [
+        "pripisivati nekome nešto što nije rekao",
+        "govoriti u tuđe ime",
+        "izvrtati nečije reči"
+      ],
+      "literal_ru": "вложить кому-то слова в рот",
+      "register": "neutralno-razgovorno, često polemički",
+      "examples": [
+        {
+          "serbian_latin": "Ne stavljajte mi tuđe reči u usta.",
+          "russian": "Не приписывайте мне чужих слов.",
+          "source": "N1 Srbija, 2022"
+        },
+        {
+          "serbian_latin": "Studio bi mogao staviti reči u usta glumca koji te reči ne odobrava.",
+          "russian": "Студия могла бы вложить в уста актёра слова, которые он сам не одобряет.",
+          "source": "N1 Srbija, 2023"
+        }
+      ],
+      "note": "Обычно используется в ситуации спора или искажения чужой позиции. Типичная конструкция: Nemoj da mi stavljaš reči u usta. Не обязательно означает сознательную ложь: это может быть и неверная интерпретация сказанного.",
+      "keyword": "reči; pripisivanje; govor"
+    },
+    {
       "headword_latin": "Staviti nekome soli na rep",
       "type": "frazeologizam",
       "definition_ru": "попробуй поймай; теперь его не достанешь; ищи-свищи",
@@ -31787,6 +31974,33 @@
       ],
       "note": "Na delu здесь значит не просто «за работой», а прежде всего «в момент совершения конкретного поступка», часто нарушения. Поэтому при преступлении или проступке русский «поймать с поличным» точнее буквального «застать за делом». Возможна и форма zateći nekoga na delu.",
       "keyword": "uhvatiti na delu"
+    },
+    {
+      "headword_latin": "uhvatiti nekoga na spavanju",
+      "type": "frazeologizam",
+      "definition_ru": "Застать кого-либо врасплох, воспользоваться моментом, когда человек или соперник не готов к действию и потерял бдительность.",
+      "synonyms_sr": [
+        "zateći nespremnog",
+        "iznenaditi protivnika",
+        "iskoristiti nepažnju",
+        "zateći nekoga nespremnog"
+      ],
+      "literal_ru": "поймать кого-то во сне",
+      "register": "razgovorno i publicistički, naročito često u sportu",
+      "examples": [
+        {
+          "serbian_latin": "Ovo je lepa prilika za Zvezdu da ih uhvati na „spavanju“.",
+          "russian": "Это хорошая возможность для «Звезды» застать их врасплох.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Ovakvu ekipu možeš uhvatiti jedino „na spavanju“.",
+          "russian": "Такую команду можно обыграть, только застав её врасплох.",
+          "source": "Danas, 2025"
+        }
+      ],
+      "note": "Чаще всего встречается в спортивной речи, но употребляется и шире — о бизнесе, переговорах и любой ситуации, где одна сторона пользуется неподготовленностью другой. Возможна и пассивная форма biti uhvaćen na spavanju.",
+      "keyword": "spavanje; nespreman; iznenađenje"
     },
     {
       "headword_latin": "uhvatiti se u koštac s nekim / nečim",
