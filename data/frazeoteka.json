@@ -1340,31 +1340,30 @@
     },
     {
       "headword_latin": "biti između čekića i nakovnja",
-      "type": "glagolski frazem",
-      "definition_ru": "находиться между молотом и наковальней; оказаться под давлением двух противоборствующих сторон",
+      "type": "frazeologizam",
+      "definition_ru": "Оказаться под давлением двух противоположных сторон или быть вынужденным выбирать между двумя плохими вариантами. Русский аналог: «оказаться между молотом и наковальней».",
       "synonyms_sr": [
-        "biti u bezizlaznom položaju",
+        "biti u procepu",
+        "biti između dve vatre",
         "biti pritisnut sa dve strane",
-        "naći se između suprotstavljenih interesa"
+        "birati između dva zla"
       ],
-      "literal_ru": "находиться между молотом и наковальней",
-      "register": "neutralno, ekspresivno, često publicistički",
+      "literal_ru": "быть между молотом и наковальней",
+      "register": "neutralno, publicistički i razgovorno",
       "examples": [
         {
-          "serbian_latin": "Univerzitet, između čekića i nakovnja.",
-          "russian": "Университет между молотом и наковальней.",
-          "source": "N1, 2025",
-          "url": "https://n1info.rs/najave-emisija/n1-studio-live-u-11h-univerzitet-izmedju-cekica-i-nakovnja/"
+          "serbian_latin": "Nalazimo se između čekića i nakovnja, jer biramo između dve loše stvari.",
+          "russian": "Мы оказались между молотом и наковальней, потому что выбираем между двумя плохими вариантами.",
+          "source": "RTS, 2013"
         },
         {
-          "serbian_latin": "Između čekića i nakovnja: Šta nas čeka ako Amerikanci ne produže licencu NIS-u?",
-          "russian": "Между молотом и наковальней: что нас ждёт, если американцы не продлят лицензию NIS?",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/vesti/ekonomija/sta-nas-ceka-ako-amerikanci-ne-produze-licencu-nis-u-posle-28-avgusta/"
+          "serbian_latin": "Srpska zajednica na Kosovu je između čekića i nakovnja.",
+          "russian": "Сербская община в Косове оказалась между молотом и наковальней.",
+          "source": "Danas, 2026"
         }
       ],
-      "note": "Субъектом может быть человек, учреждение, государство или отрасль. Выражение предполагает давление с двух сторон.",
-      "keyword": "čekić; nakovanj"
+      "note": "В отличие от između dve vatre, образ особенно подчёркивает, что давление идёт с обеих сторон и любой вариант может причинить ущерб.",
+      "keyword": "čekić; nakovanj; pritisak; procep"
     },
     {
       "headword_latin": "biti između dve vatre",
@@ -5877,32 +5876,30 @@
     },
     {
       "headword_latin": "dolivati ulje na vatru",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Подливать масла в огонь; своими словами или действиями ещё больше обострять конфликт либо напряжённую ситуацию.",
+      "type": "frazeologizam",
+      "definition_ru": "Своими словами или действиями ещё больше обострять конфликт, напряжение, спор или неприятную ситуацию. Русский аналог: «подливать масла в огонь».",
       "synonyms_sr": [
-        "pogoršavati situaciju",
         "raspirivati sukob",
-        "podgrevati tenzije",
-        "dodatno zaoštravati odnose"
+        "podizati tenzije",
+        "pogoršavati situaciju",
+        "podgrevati sukob"
       ],
-      "literal_ru": "Подливать масло в огонь.",
-      "register": "Разговорное, экспрессивное; часто публицистическое.",
+      "literal_ru": "подливать масло в огонь",
+      "register": "neutralno-razgovorno, publicistički",
       "examples": [
         {
-          "serbian_latin": "Britanija metodično i redovno doliva ulje na vatru.",
-          "russian": "Британия методично и постоянно подливает масла в огонь.",
-          "source": "N1, 2026",
-          "url": "https://n1info.rs/svet/rusija-optuzila-britaniju-da-doliva-ulje-na-vatru-barnam-kaze-da-podrzavaju-ukrajinu-uprkos-necuvenim-pretnjama/"
+          "serbian_latin": "Ne smemo dolivati ulje na vatru.",
+          "russian": "Нельзя подливать масла в огонь.",
+          "source": "Danas, 2007"
         },
         {
-          "serbian_latin": "Opasan fenomen doliva ulje na vatru.",
-          "russian": "Опасное явление подливает масла в огонь.",
-          "source": "Blic, 2026",
-          "url": "https://www.blic.rs/vesti/svet/ekstremne-oluje-prete-milijardama-a-el-ninjo-doliva-ulje-na-vatru-i-vec-nemilosrdno/z6nl882"
+          "serbian_latin": "Mislim, što se kaže, dolivati ulje na vatru nema potrebe.",
+          "russian": "Думаю, как говорится, совершенно незачем подливать масла в огонь.",
+          "source": "Blic, 2025"
         }
       ],
-      "note": "Выражение употребляется, когда чьё-либо вмешательство не успокаивает ситуацию, а усиливает конфликт, страх, возмущение или напряжение. Возможен совершенный вид doliti ulje na vatru.",
-      "keyword": "ulje; vatra"
+      "note": "Глагол встречается как dolivati, так и dolijevati, но для сербской нормы в словаре лучше оставить dolivati.",
+      "keyword": "ulje; vatra; sukob; tenzija"
     },
     {
       "headword_latin": "Došla maca na vratanca",
@@ -6608,31 +6605,31 @@
       "keyword": "držati se po strani"
     },
     {
-      "headword_latin": "Držati sve konce u rukama",
-      "type": "glagolski frazem",
-      "definition_ru": "держать все нити в своих руках; полностью контролировать положение",
+      "headword_latin": "držati sve konce u rukama",
+      "type": "frazeologizam",
+      "definition_ru": "Полностью контролировать происходящее, управлять людьми, процессами или организацией и знать обо всех важных деталях. Русские соответствия: «держать все нити в своих руках», «держать всё под контролем».",
       "synonyms_sr": [
-        "imati potpunu kontrolu",
-        "upravljati situacijom",
-        "odlučivati o svemu",
-        "vući konce"
+        "držati stvar pod kontrolom",
+        "imati kontrolu",
+        "voditi glavnu reč",
+        "upravljati situacijom"
       ],
-      "literal_ru": "держать все нити в руках",
-      "register": "neutralno do publicistički, preneseno",
+      "literal_ru": "держать все ниточки в руках",
+      "register": "neutralno-razgovorno",
       "examples": [
         {
-          "serbian_latin": "Imam sve konce u svojim rukama.",
-          "russian": "Все нити находятся у меня в руках.",
-          "source": "Sport Klub, 2021"
+          "serbian_latin": "Komandant parade – moja baba. Drži sve konce u rukama.",
+          "russian": "Командует всем моя бабушка. Она держит все нити в своих руках.",
+          "source": "Politika, 2006"
         },
         {
-          "serbian_latin": "Ana Vintur drži sve konce u svojim rukama.",
-          "russian": "Анна Винтур держит все нити в своих руках.",
-          "source": "Kurir / Naslovi.net, 2026"
+          "serbian_latin": "Najveći izazov mi je bio imati kreativnu kontrolu nad celim projektom i držati sve konce u rukama.",
+          "russian": "Главной трудностью было сохранить творческий контроль над всем проектом и держать все нити в своих руках.",
+          "source": "VICE Srbija, 2017"
         }
       ],
-      "note": "Выражение подчёркивает полный контроль над событиями. Близкое vući konce часто имеет отрицательный оттенок и подразумевает закулисное управление.",
-      "keyword": "konci"
+      "note": "Возможны варианты držati konce u rukama и držati sve konce u svojim rukama. Часто обозначает не только контроль, но и координацию множества деталей.",
+      "keyword": "konci; kontrola; upravljanje"
     },
     {
       "headword_latin": "držati vodu dok majstori odu",
@@ -8749,29 +8746,29 @@
     {
       "headword_latin": "ići grlom u jagode",
       "type": "frazeologizam",
-      "definition_ru": "Действовать безрассудно, очертя голову, без подготовки и оценки риска; слишком поспешно бросаться в какое-либо дело.",
+      "definition_ru": "Бросаться в какое-либо дело без подготовки, плана и оценки возможных последствий; действовать опрометчиво и напролом. Русские соответствия: «лезть очертя голову», «бросаться с места в карьер», «действовать напролом».",
       "synonyms_sr": [
         "srljati",
-        "ići bezglavo",
-        "postupati brzopleto",
-        "uletati bez razmišljanja"
+        "zaletati se",
+        "postupati nepromišljeno",
+        "ići bez plana"
       ],
       "literal_ru": "идти горлом в клубнику",
-      "register": "razgovorno, ekspresivno",
+      "register": "razgovorno, slikovito",
       "examples": [
         {
-          "serbian_latin": "Ne treba da idemo „grlom u jagode“, treba malo strpljenja.",
-          "russian": "Не надо бросаться очертя голову, нужно немного терпения.",
+          "serbian_latin": "Vrlo je zanimljivo kada mladi ljudi vrlo često prave greške, idu grlom u jagode.",
+          "russian": "Очень интересно, как молодые люди постоянно ошибаются, бросаясь во всё очертя голову.",
           "source": "Danas, 2016"
         },
         {
-          "serbian_latin": "Ne treba ići „grlom u jagode“ i treba sprovesti validna klinička ispitivanja pre uvoza leka.",
-          "russian": "Не следует действовать сгоряча: перед внедрением препарата нужно провести надлежащие клинические исследования.",
-          "source": "Danas, 2025"
+          "serbian_latin": "Ako neko prihvati veliki posao bez razmišljanja o obavezama, možemo reći da je otišao grlom u jagode.",
+          "russian": "Если человек берётся за большое дело, не подумав об обязанностях, можно сказать, что он полез очертя голову.",
+          "source": "Kurir, 2026"
         }
       ],
-      "note": "Выражение описывает импульсивное движение к цели без предварительной оценки препятствий и последствий. Значение хорошо передают nepromišljeno, brzopleto и bezglavo. Не путать с названием культового телесериала „Grlom u jagode“.",
-      "keyword": "brzopleto; srljati; bez razmišljanja"
+      "note": "Встречается также более старый вариант s golim grlom u jagode. Современная обычная форма — ići / otići grlom u jagode.",
+      "keyword": "grlom u jagode; srljati; nepromišljeno"
     },
     {
       "headword_latin": "Ići kao metak",
@@ -18283,31 +18280,31 @@
       "keyword": "nije cvećka"
     },
     {
-      "headword_latin": "Nije šija nego vrat",
+      "headword_latin": "nije šija nego vrat",
       "type": "izreka",
-      "definition_ru": "хрен редьки не слаще; то же самое, только под другим названием",
+      "definition_ru": "Так говорят, когда две формулировки преподносятся как разные, хотя по существу означают одно и то же. Русские соответствия: «что в лоб, что по лбу», «по сути одно и то же».",
       "synonyms_sr": [
-        "isto mu dođe",
-        "isto je",
-        "samo drugo ime",
-        "suštinski isto"
+        "isto ti dođe",
+        "jedno te isto",
+        "suštinski isto",
+        "razlika je samo u nazivu"
       ],
       "literal_ru": "не шея сзади, а шея спереди",
-      "register": "razg., iron., neodobr.; o prividnoj razlici",
+      "register": "razgovorno, ironično",
       "examples": [
         {
-          "serbian_latin": "Ako neko traži da priznate teritorijalni integritet dela vaše teritorije, onda „nije šija nego vrat“.",
-          "russian": "Если от вас фактически требуют того же самого другими словами, разницы нет.",
+          "serbian_latin": "Dačić odgovara: „Nije šija nego vrat“.",
+          "russian": "Дачич отвечает: «Что в лоб, что по лбу».",
           "source": "RTS, 2011"
         },
         {
-          "serbian_latin": "Neće se povećati cena struje nego fantomska stavka troškova... Nije šija nego vrat.",
-          "russian": "Цена электричества вроде бы не повышается, просто появляется другая статья расходов: хрен редьки не слаще.",
-          "source": "Danas, 2013"
+          "serbian_latin": "Narod kaže „nije šija nego vrat“.",
+          "russian": "В народе говорят: «что в лоб, что по лбу».",
+          "source": "Danas, 2023"
         }
       ],
-      "note": "Šija и vrat обозначают одну и ту же часть тела, хотя стилистически не полностью совпадают: šija обычно относится к задней стороне шеи и звучит грубее. Поэтому выражение высмеивает попытку представить одно и то же как две разные вещи. Danas отдельно обращает внимание именно на эту игру близких слов.",
-      "keyword": "šija; vrat"
+      "note": "Обычно используется иронически, когда кто-либо пытается представить простую замену названия или формулировки как содержательное изменение.",
+      "keyword": "šija; vrat; isto; razlika"
     },
     {
       "headword_latin": "Nije ti tata staklorezac",
@@ -21191,32 +21188,30 @@
     },
     {
       "headword_latin": "pasti u vodu",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Провалиться; сорваться; не осуществиться; оказаться напрасным.",
+      "type": "frazeologizam",
+      "definition_ru": "Не осуществиться, потерять силу или смысл, сорваться; о планах, надеждах, договорённостях, аргументах, усилиях. Русские соответствия: «пойти прахом», «сорваться», «рухнуть», «сойти на нет».",
       "synonyms_sr": [
         "propasti",
-        "ne ostvariti se",
         "izjaloviti se",
-        "ostati bez rezultata"
+        "ne ostvariti se",
+        "doživeti krah"
       ],
-      "literal_ru": "Упасть в воду.",
-      "register": "Разговорное, часто публицистическое.",
+      "literal_ru": "упасть в воду",
+      "register": "neutralno-razgovorno",
       "examples": [
         {
-          "serbian_latin": "Američki plan pao u vodu.",
-          "russian": "Американский план провалился.",
-          "source": "Alo, 2026",
-          "url": "https://www.alo.rs/vesti/svet/16849756/bruka-u-teksasu-americki-plan-pao-u-vodu.html"
+          "serbian_latin": "Ipak, njegov kodeks će pasti u vodu kad ga Ana nagovori da učestvuje u pljački banke.",
+          "russian": "Однако его принципы пойдут прахом, когда Ана уговорит его участвовать в ограблении банка.",
+          "source": "RTS, 2021"
         },
         {
-          "serbian_latin": "Razotkrivena je strategija dečaku ubicinih roditelja, pa je sada, očigledno, njihov plan pao u vodu.",
-          "russian": "Стратегия родителей мальчика-убийцы была раскрыта, поэтому теперь их план, очевидно, провалился.",
-          "source": "Republika, 2023",
-          "url": "https://www.republika.rs/hronika/hronika/460929/decak-ubica-roditelji-plan-masakr-u-ribnikaru"
+          "serbian_latin": "Svi dosadašnji napori igrača će pasti u vodu ukoliko pokleknu na poslednjem stepeniku.",
+          "russian": "Все прежние усилия игроков пойдут прахом, если они оступятся на последней ступени.",
+          "source": "RTS, 2021"
         }
       ],
-      "note": "Обычно говорится о планах, надеждах, договорённостях, проектах или попытках, которые не удалось реализовать.",
-      "keyword": "voda"
+      "note": "Не путать с буквальным pasti u vodu — «упасть в воду». В переносном значении субъектом обычно служат plan, nada, dogovor, trud, teorija, priča и т. п.",
+      "keyword": "pasti u vodu; propasti; plan; trud"
     },
     {
       "headword_latin": "pasti u zaborav",
@@ -23193,30 +23188,31 @@
       "keyword": "od muve slona"
     },
     {
-      "headword_latin": "Praviti račun bez krčmara",
+      "headword_latin": "praviti račun bez krčmara",
       "type": "frazeologizam",
-      "definition_ru": "строить расчёты без главного участника; заранее всё решить за того, от кого зависит дело; делить шкуру неубитого медведя",
+      "definition_ru": "Строить планы и заранее рассчитывать на результат, не учитывая человека или обстоятельство, от которых этот результат на самом деле зависит. Русские соответствия: «делить шкуру неубитого медведя», «строить расчёты без хозяина».",
       "synonyms_sr": [
-        "računati unapred",
-        "preuranjeno se dogovarati",
-        "planirati bez ključnog učesnika"
+        "računati unapred bez pokrića",
+        "planirati bez dogovora",
+        "deliti plen unapred",
+        "uzimati ishod zdravo za gotovo"
       ],
       "literal_ru": "составлять счёт без трактирщика",
-      "register": "razg. i publicistički, neodobr.; takođe pravljenje računa bez krčmara",
+      "register": "razgovorno-publicistički, ekspresivno",
       "examples": [
         {
           "serbian_latin": "Beograd upozorava da ne prave račun bez krčmara.",
-          "russian": "Белград предупреждает, что не стоит заранее всё решать без того, от кого это зависит.",
+          "russian": "Белград предупреждает, что не стоит делить шкуру неубитого медведя.",
           "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Srbi treba da budu jednako tretirani, naglasio je Vučić i istakao da bi sve drugo bilo pravljenje računa bez krčmara.",
-          "russian": "Сербы должны пользоваться равным отношением; всё остальное означало бы, что решения принимают без ключевой стороны.",
-          "source": "RTS, 2020"
+          "serbian_latin": "Jelica Putniković smatra da je ovaj predlog „račun bez krčmara“.",
+          "russian": "Елица Путникович считает, что этот план составлен без учёта того, от кого зависит результат.",
+          "source": "RTS, 2025"
         }
       ],
-      "note": "Русское «делить шкуру неубитого медведя» подходит не всегда. Сербский оборот особенно подчёркивает, что люди уже договорились или сделали расчёты, забыв спросить человека или сторону, без которых решение невозможно. Krčmar — хозяин или содержатель krčma; именно он в итоге выставляет настоящий счёт.",
-      "keyword": "račun bez krčmara"
+      "note": "Часто встречается сокращённое račun bez krčmara. Krčmar — хозяин трактира, то есть тот, кто в итоге и предъявляет настоящий счёт.",
+      "keyword": "račun; krčmar; planiranje; unapred"
     },
     {
       "headword_latin": "Praviti se Englez",
@@ -26374,32 +26370,30 @@
     },
     {
       "headword_latin": "sipati so na ranu",
-      "type": "глагольный фразеологизм",
-      "definition_ru": "Причинять дополнительную душевную боль; напоминать о поражении или несчастье; ещё сильнее задевать уже пострадавшего человека.",
+      "type": "frazeologizam",
+      "definition_ru": "Ещё сильнее причинять человеку душевную боль, напоминая о неприятности, поражении или утрате либо добавляя к уже существующей неприятности новую. Русский аналог: «сыпать соль на рану».",
       "synonyms_sr": [
-        "dodatno povrediti",
-        "pogoršati bol",
-        "dirati u bolno mesto",
-        "podsećati na poraz"
+        "dirati u živu ranu",
+        "dodatno povrediti nekoga",
+        "pogoršavati nečiju muku",
+        "podsećati na bolno"
       ],
-      "literal_ru": "Сыпать соль на рану.",
-      "register": "Разговорное, экспрессивное.",
+      "literal_ru": "сыпать соль на рану",
+      "register": "neutralno-razgovorno, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Negucić sipa so na ranu Janičiću nakon poraza.",
-          "russian": "После поражения Негучич продолжает сыпать Яничичу соль на рану.",
-          "source": "Sportissimo, 2026",
-          "url": "https://sportissimo.republika.rs/ostali-sportovi/borilacki-sportovi/101430/ufc-milos-janicic-stefan-negucic-prozivka"
+          "serbian_latin": "To je navijačima Zvezde dalo ideju da naprave montažu kojom će sipati so na ranu rivalima.",
+          "russian": "Это навело болельщиков «Звезды» на мысль сделать монтаж, чтобы ещё сильнее задеть соперников.",
+          "source": "Telegraf, 2015"
         },
         {
-          "serbian_latin": "Prve reakcije Srba sa Kosova na izjavu Paunović: „So na ranu, posledice ćemo snositi mi“.",
-          "russian": "Первые реакции косовских сербов на заявление Паунович: «Это соль на рану, а последствия расхлёбывать нам».",
-          "source": "RTV Mir, 2026",
-          "url": "https://www.rtvmir.com/index.php/vesti/politika/17758-prve-reakcije-srba-sa-kosova-na-izjavu-paunovic-so-na-ranu-posledice-cemo-snositi-mi.html"
+          "serbian_latin": "Mi možemo da pomognemo žrtvama tako što im nećemo sipati so na ranu.",
+          "russian": "Мы можем помочь пострадавшим хотя бы тем, что не будем сыпать им соль на рану.",
+          "source": "NUNS, 2021"
         }
       ],
-      "note": "Употребляется также существительная конструкция so na ranu: нечто особенно болезненное на фоне уже пережитой обиды, потери или неудачи.",
-      "keyword": "so; rana"
+      "note": "Употребляется и о намеренном злорадстве, и о неумышленном напоминании человеку о болезненной теме.",
+      "keyword": "so; rana; bol; povrediti"
     },
     {
       "headword_latin": "Siromašan kao crkveni miš",
@@ -30553,6 +30547,33 @@
       "keyword": "terati kera"
     },
     {
+      "headword_latin": "terati mak na konac",
+      "type": "frazeologizam",
+      "definition_ru": "Проявлять чрезмерную педантичность, придираться к мелочам, настаивать на совершенно точном соблюдении деталей даже там, где это уже не имеет практического смысла. Русские соответствия: «цепляться к мелочам», «придираться», «доводить педантичность до абсурда».",
+      "synonyms_sr": [
+        "cepidlačiti",
+        "sitničariti",
+        "isterivati do kraja",
+        "preterano insistirati na detaljima"
+      ],
+      "literal_ru": "протягивать мак через нитку",
+      "register": "razgovorno, ekspresivno, obično neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Suviše je daleko treći milenijum stare ere, da bi trebalo terati mak na konac!",
+          "russian": "Третье тысячелетие до нашей эры слишком далеко, чтобы здесь стоило придираться к каждой мелочи.",
+          "source": "Danas, 2007"
+        },
+        {
+          "serbian_latin": "Da li su utvrđeni problemi zaista toliko veliki da je potrebno terati mak na konac?",
+          "russian": "Неужели выявленные проблемы настолько велики, что нужно так цепляться к каждой мелочи?",
+          "source": "Blic, 2017"
+        }
+      ],
+      "note": "Смысл не просто в настойчивости, а именно в чрезмерной скрупулёзности. Часто говорится: nemoj da teraš mak na konac.",
+      "keyword": "mak; konac; cepidlačenje; sitničarenje"
+    },
+    {
       "headword_latin": "Teško onom ko zlotvora nema",
       "type": "poslovica",
       "definition_ru": "плохо тому, у кого нет врагов; если у тебя нет недоброжелателей, значит, ты ничего не стоишь / ничем себя не проявил",
@@ -30664,33 +30685,31 @@
       "keyword": "transfer blama"
     },
     {
-      "headword_latin": "Tražiti dlaku u jajetu",
+      "headword_latin": "tražiti dlaku u jajetu",
       "type": "frazeologizam",
-      "definition_ru": "придираться к мелочам; выискивать недостатки; искать, к чему бы придраться",
+      "definition_ru": "Искать недостаток там, где его практически нет; намеренно выискивать мелкие изъяны и повод придраться. Русские соответствия: «искать, к чему придраться», «выискивать недостатки», «цепляться к мелочам».",
       "synonyms_sr": [
         "cepidlačiti",
-        "sitničariti",
-        "tražiti mane",
-        "zakerati (razg.)"
+        "tražiti manu",
+        "zakerati",
+        "sitničariti"
       ],
       "literal_ru": "искать волос в яйце",
-      "register": "разг., неодобр.; обычно о чрезмерно придирчивом поиске недостатков там, где в целом всё хорошо",
+      "register": "razgovorno, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Ako tražim dlaku u jajetu, dešavaju se te neke minimalne greške i probaćemo to da ispravimo.",
-          "russian": "Если уж совсем придираться, случаются кое-какие мелкие ошибки, и мы постараемся их исправить.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/sport/sasa-ilic-tobol-ugresic/"
+          "serbian_latin": "Nemojte tražiti dlaku u jajetu.",
+          "russian": "Не ищите, к чему бы ещё придраться.",
+          "source": "Danas, 2026"
         },
         {
-          "serbian_latin": "Priznajem da sam kao dugogodišnji pretplatnik digitalnih replika dva ugledna strana dnevna lista pokušao da pronađem „dlaku u jajetu“ i uputim neku zamerku.",
-          "russian": "Признаюсь, как давний подписчик цифровых версий двух известных зарубежных газет, я попытался найти, к чему придраться, и высказать какое-нибудь замечание.",
-          "source": "Danas, 2012",
-          "url": "https://www.danas.rs/kolumna/vladimir-matkovic/danas-uskoro-i-na-tabletima/"
+          "serbian_latin": "Dobro nije baš sve bilo jasno, ali ne treba tražiti dlaku u jajetu, ili roštilju.",
+          "russian": "Да, не всё было совершенно ясно, но не стоит уж так придираться к мелочам.",
+          "source": "Danas, 2025"
         }
       ],
-      "note": "Образ сильнее нейтрального tražiti greške: недостаток настолько ничтожен, что его приходится буквально «искать в яйце». Часто употребляется условно: ako baš tražimo dlaku u jajetu — «если уж совсем придираться». Русскому близки «искать соринку», «придираться к каждой мелочи».",
-      "keyword": "dlaka; jaje"
+      "note": "Очень живое выражение. В отличие от terati mak na konac, здесь акцент прежде всего на поиске недостатка или повода для критики.",
+      "keyword": "dlaka; jaje; mana; cepidlačenje"
     },
     {
       "headword_latin": "Tražiti hleba preko pogače",
