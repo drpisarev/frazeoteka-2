@@ -7514,6 +7514,33 @@
       "keyword": "gladan kao vuk"
     },
     {
+      "headword_latin": "glavom bez obzira",
+      "type": "frazeologizam",
+      "definition_ru": "Бежать или спасаться как можно быстрее, не оглядываясь и не думая ни о чём другом. Русские аналоги: «бежать без оглядки», «бежать сломя голову», «удирать со всех ног».",
+      "synonyms_sr": [
+        "bežati bez osvrtanja",
+        "pobeći što brže",
+        "dati se u beg",
+        "bežati kao bez duše"
+      ],
+      "literal_ru": "головой без оглядки",
+      "register": "razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Kad nilski konj pojuri čamac, onda bežite glavom bez obzira.",
+          "russian": "Когда бегемот бросается за лодкой, тогда уже удираешь со всех ног.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Međutim, problem je kamera pa svi beže glavom bez obzira, pre svega najmlađi.",
+          "russian": "Однако проблема в камере, поэтому все разбегаются без оглядки, прежде всего самые молодые.",
+          "source": "N1, 2022"
+        }
+      ],
+      "note": "Почти всегда сочетается с bežati / pobeći. В этом фразеологизме „bez obzira“ нельзя понимать как обычное «несмотря на»: всё сочетание означает быстро убегать, не оглядываясь.",
+      "keyword": "bežanje; brzo; bez osvrtanja"
+    },
+    {
       "headword_latin": "Glavom i bradom",
       "type": "izraz",
       "definition_ru": "собственной персоной; собственной особой; лично",
@@ -10424,31 +10451,31 @@
       "keyword": "iz aviona se vidi"
     },
     {
-      "headword_latin": "Iz čista mira",
-      "type": "izraz",
-      "definition_ru": "ни с того ни с сего; без всякой причины; ни с чего вдруг",
+      "headword_latin": "iz čista mira",
+      "type": "frazeologizam",
+      "definition_ru": "Вдруг, совершенно неожиданно и без какой-либо видимой причины или повода. Точный русский аналог: «ни с того ни с сего». Также: «на ровном месте», «без всякого повода».",
       "synonyms_sr": [
-        "bez razloga",
-        "bez povoda",
+        "bez ikakvog povoda",
         "ničim izazvano",
-        "odjednom bez objašnjenja"
+        "odjednom",
+        "bez razloga"
       ],
-      "literal_ru": "из полного покоя",
-      "register": "ustaljeni priloški izraz; o neočekivanom postupku ili događaju bez vidljivog povoda",
+      "literal_ru": "из чистого спокойствия",
+      "register": "razgovorno",
       "examples": [
         {
-          "serbian_latin": "Sigurno nije razlog da iz čista mira ispriča tako nešto.",
-          "russian": "Вряд ли она стала бы рассказывать такое ни с того ни с сего.",
-          "source": "RTS, 2026"
+          "serbian_latin": "Ptice koje u toku maja, naizgled iz čista mira, napadaju građane.",
+          "russian": "Птицы, которые в мае, на первый взгляд ни с того ни с сего, нападают на горожан.",
+          "source": "RTS, 2019"
         },
         {
-          "serbian_latin": "Kovačević je mene iz čista mira prozvao Tomicom.",
-          "russian": "Ковачевич ни с того ни с сего назвал меня Томицей.",
-          "source": "Politika, 2022"
+          "serbian_latin": "Radimo uobičajene stvari i iz čista mira se setimo neke neprijatne situacije iz srednje škole.",
+          "russian": "Мы занимаемся обычными делами и вдруг ни с того ни с сего вспоминаем какую-нибудь неприятную ситуацию из школы.",
+          "source": "RTS, 2022"
         }
       ],
-      "note": "Iz čista mira — застывшая фразеологическая форма; сочетание čista mira не нужно перестраивать по обычной современной модели при употреблении этого выражения. Значение — отсутствие видимой причины или повода, а не просто «внезапно»: внезапное событие может иметь совершенно понятную причину.",
-      "keyword": "iz čista mira"
+      "note": "Очень частотное разговорное выражение. Может обозначать как неожиданность события, так и отсутствие очевидной причины: udariti nekoga iz čista mira, početi da plače iz čista mira, setiti se nečega iz čista mira.",
+      "keyword": "iznenada; bez razloga; bez povoda"
     },
     {
       "headword_latin": "Iz ove kože se ne može",
@@ -10476,6 +10503,33 @@
       ],
       "note": "Koža может метафорически обозначать и собственную природу, и данную человеку жизненную ситуацию. Поэтому перевод колеблется от «из своей шкуры не выпрыгнешь» до «ничего не поделаешь». Часто фраза выражает не отчаяние, а трезвое принятие реальности.",
       "keyword": "iz ove kože se ne može"
+    },
+    {
+      "headword_latin": "iz petnih žila",
+      "type": "frazeologizam",
+      "definition_ru": "Изо всех сил, со всей возможной силой. С глаголами vikati, urlati означает «во всё горло»; с truditi se, upirati se, boriti se — «изо всех сил», «всеми силами».",
+      "synonyms_sr": [
+        "iz sve snage",
+        "svom snagom",
+        "svim silama",
+        "koliko god može"
+      ],
+      "literal_ru": "из жил в пятках",
+      "register": "razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Vikao je iz petnih žila da vam ne daju ni krajcare.",
+          "russian": "Он кричал во всё горло, чтобы вам не дали ни гроша.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Iz petnih žila skupljam snagu da večeras odradim ono što mi pritiska grudi.",
+          "russian": "Я изо всех сил собираюсь с силами, чтобы сегодня вечером сделать то, что давит мне на грудь.",
+          "source": "Telegraf, 2026"
+        }
+      ],
+      "note": "Очень живое выражение. Особенно часто употребляется с глаголами vikati, urlati, truditi se, upirati se.",
+      "keyword": "snaga; napor; vikati"
     },
     {
       "headword_latin": "Iz prve ruke",
@@ -15095,31 +15149,31 @@
       "keyword": "na duge staze"
     },
     {
-      "headword_latin": "Na jedvite jade",
+      "headword_latin": "na jedvite jade",
       "type": "frazeologizam",
-      "definition_ru": "с огромным трудом; еле-еле; через силу",
+      "definition_ru": "Еле-еле, с огромным трудом, едва добившись результата. Употребляется, когда что-то удалось сделать только после больших усилий или трудностей. Русские аналоги: «еле-еле», «с грехом пополам», «с большим трудом».",
       "synonyms_sr": [
         "jedva",
-        "uz veliku muku",
         "s mukom",
-        "uz krajnji napor"
+        "uz velike teškoće",
+        "jedva nekako"
       ],
       "literal_ru": "",
-      "register": "razg.-neutralno, ekspresivno; rezultat je postignut jedva i uz veliki napor",
+      "register": "neutralno, razgovorno",
       "examples": [
         {
-          "serbian_latin": "Ulogu Kalabića je prihvatio „na jedvite jade“.",
-          "russian": "Роль Калабича он согласился принять с огромным трудом, после долгих уговоров.",
-          "source": "RTS, 2019"
+          "serbian_latin": "Mi smo na jedvite jade uspeli da se domognemo finala.",
+          "russian": "Нам еле-еле удалось пробиться в финал.",
+          "source": "RTS, 2011"
         },
         {
-          "serbian_latin": "Kako sam na jedvite jade završio gimnaziju, postavilo se pitanje šta ću da studiram.",
-          "russian": "Поскольку гимназию я окончил еле-еле, встал вопрос, куда идти учиться дальше.",
-          "source": "Danas, 2019"
+          "serbian_latin": "Vlada Kirila Petkova na jedvite jade je formirana.",
+          "russian": "Правительство Кирила Петкова удалось сформировать с огромным трудом.",
+          "source": "RTS, 2022"
         }
       ],
-      "note": "По смыслу сильнее простого jedva: обычно подразумевается значительное усилие, сопротивление обстоятельств и результат буквально «на грани». Устойчиво именно множественное jade; разбирать выражение как современное свободное сочетание не следует.",
-      "keyword": "jedvite jade"
+      "note": "Выражение подчёркивает не просто трудность, а то, что желаемый результат был достигнут буквально с большим трудом, едва-едва.",
+      "keyword": "teškoća; jedva; napor"
     },
     {
       "headword_latin": "Na kašičicu",
@@ -15589,33 +15643,31 @@
       "keyword": "na ravnoj nozi"
     },
     {
-      "headword_latin": "Na svoju ruku",
-      "type": "izraz",
-      "definition_ru": "самовольно; по собственной инициативе; на свой страх и риск",
+      "headword_latin": "na svoju ruku",
+      "type": "frazeologizam",
+      "definition_ru": "Действовать самостоятельно, по собственной инициативе, не посоветовавшись с другими или не получив разрешения. В зависимости от контекста: «по собственной инициативе», «самовольно», «на своё усмотрение», «на свой страх и риск».",
       "synonyms_sr": [
         "samoinicijativno",
-        "bez konsultacije",
-        "samovoljno",
+        "samostalno",
+        "bez dogovora",
         "bez odobrenja"
       ],
-      "literal_ru": "на свою руку",
-      "register": "разг.-нейтр.; обычно подразумевается действие без согласования с тем, с кем следовало посоветоваться",
+      "literal_ru": "по своей руке",
+      "register": "neutralno, razgovorno",
       "examples": [
         {
           "serbian_latin": "Koliko puta ste čuli da ne treba da uzimate lekove „na svoju ruku“.",
-          "russian": "Сколько раз вы слышали, что лекарства не следует принимать самостоятельно, без назначения.",
-          "source": "RTS, 2020",
-          "url": "https://www.rts.rs/lat/magazin/Zdravlje/3885185/jednu-za-pritisak-jednu-za-glavu-malo-vitamina-i-jedna-sumeca-ne-preterujte-sa-lekovima-na-svoju-ruku.html"
+          "russian": "Сколько раз вы слышали, что не следует принимать лекарства самостоятельно, без назначения.",
+          "source": "RTS, 2020"
         },
         {
-          "serbian_latin": "Ne možete na svoju ruku menjati terapiju.",
-          "russian": "Нельзя самостоятельно менять лечение.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4781396/doktorka-iz-hitne-savetuje.html"
+          "serbian_latin": "Za Stanimira se može reći da je bio prek, nepredvidljiv i čovek „na svoju ruku“.",
+          "russian": "О Станимире можно сказать, что он был резким, непредсказуемым человеком, привыкшим поступать по-своему.",
+          "source": "Politika, 2014"
         }
       ],
-      "note": "Частый русский перевод «самостоятельно» иногда слишком нейтрален: na svoju ruku нередко содержит оттенок «без разрешения, не посоветовавшись, вопреки установленному порядку». Особенно характерны uzimati lekove na svoju ruku, menjati nešto na svoju ruku, odlučiti na svoju ruku.",
-      "keyword": "na svoju ruku"
+      "note": "Часто имеет оттенок неодобрения: человек действует без согласования, разрешения или вопреки установленному порядку. Типичная конструкция: raditi / uraditi nešto na svoju ruku.",
+      "keyword": "samostalno; samoinicijativno; bez dozvole"
     },
     {
       "headword_latin": "Na udaru",
@@ -18941,30 +18993,30 @@
       "keyword": "od igle do lokomotive"
     },
     {
-      "headword_latin": "Od Kulina bana",
+      "headword_latin": "od Kulina bana",
       "type": "frazeologizam",
-      "definition_ru": "с самого начала; начиная от царя Гороха; излагать всю предысторию от сотворения мира",
+      "definition_ru": "Начинать рассказ с самого начала, издалека, с давних времён; подробно излагать всю предысторию. Часто употребляется иронически, когда человек слишком долго подбирается к сути. Русские аналоги: «начать от Адама и Евы», «начать издалека».",
       "synonyms_sr": [
         "od samog početka",
-        "naširoko i nadugačko",
-        "od početka priče"
+        "krenuti izdaleka",
+        "pričati naširoko i nadugačko"
       ],
-      "literal_ru": "",
-      "register": "разг., экспр., часто иронич.; прежде всего pričati / krenuti / početi od Kulina bana",
+      "literal_ru": "от времён бана Кулина",
+      "register": "razgovorno, često šaljivo",
       "examples": [
         {
-          "serbian_latin": "Razlog što idem ovako od Kulina Bana je taj što...",
-          "russian": "Причина, по которой я начинаю издалека, прямо от царя Гороха, состоит в том, что...",
-          "source": "City Magazine / Danas, 2025"
+          "serbian_latin": "Kada neko o određenoj temi počne da nam priča potanko i naširoko, reći ćemo da je krenuo „od Kulina bana“.",
+          "russian": "Когда кто-то начинает рассказывать о чём-либо подробно и пространно, мы скажем, что он начал «от Кулина бана», то есть издалека.",
+          "source": "RTS, 2020"
         },
         {
-          "serbian_latin": "Prvo od Kulina-bana. Tamo sedamdesetih, pokrenuli smo ovde jedan letnji festival...",
-          "russian": "Но сначала начну с самого начала. В семидесятые мы организовали здесь летний фестиваль...",
-          "source": "Danas, 2021"
+          "serbian_latin": "Nemoj da mi pričaš od Kulina bana!",
+          "russian": "Не начинай мне рассказывать от Адама и Евы!",
+          "source": "Kurir, 2017"
         }
       ],
-      "note": "Кулин — средневековый бан Боснии, правивший на рубеже XII–XIII веков; имя исторического правителя закрепилось в устойчивом выражении о рассказе «с самых давних времён». Русскому по ситуации подойдут «от царя Гороха», «от сотворения мира», «начать издалека».",
-      "keyword": "od Kulina bana"
+      "note": "Часто встречается расширенная форма „od Kulina bana i dobrijeh dana“. Выражение связано с баном Кулином, правителем Боснии XII века. Помимо значения «начинать рассказ издалека», может обозначать очень давние времена.",
+      "keyword": "pričanje; početak; davna vremena"
     },
     {
       "headword_latin": "Od nemila do nedraga",
