@@ -792,6 +792,33 @@
       "keyword": "baciti se oko vrata"
     },
     {
+      "headword_latin": "Bela vrana",
+      "type": "frazeologizam",
+      "definition_ru": "Редкий, необычный человек, сильно отличающийся от окружающих; исключение из общего правила. Русский эквивалент: «белая ворона».",
+      "synonyms_sr": [
+        "izuzetak",
+        "autsajder",
+        "neobičan čovek",
+        "onaj koji se izdvaja"
+      ],
+      "literal_ru": "белая ворона",
+      "register": "razg.-publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Bela vrana ili crna ovca? Jedno je sigurno. Ne pripadaju svom okruženju.",
+          "russian": "Белая ворона или чёрная овца? Ясно одно: они не принадлежат своему окружению.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "„Biti bela vrana ili crna ovca, meni je nešto sasvim blisko“, kaže Predin.",
+          "russian": "«Быть белой вороной или чёрной овцой мне очень знакомо», — говорит Предин.",
+          "source": "BBC na srpskom / Danas, 2026"
+        }
+      ],
+      "note": "В отличие от crna ovca, выражение не обязательно содержит моральное осуждение: bela vrana может быть просто редким исключением или человеком, который мыслит иначе.",
+      "keyword": "bela vrana; izuzetak; drugačiji"
+    },
+    {
       "headword_latin": "Besposlen pop i jariće krsti",
       "type": "poslovica",
       "definition_ru": "от нечего делать заниматься ерундой; у бездельника и бессмысленная работа найдётся",
@@ -2863,6 +2890,33 @@
       "keyword": "bogami"
     },
     {
+      "headword_latin": "Bogu iza leđa",
+      "type": "frazeološki izraz",
+      "definition_ru": "Очень далеко, в глухом и труднодоступном месте, вдали от цивилизации. Русские соответствия: «у чёрта на куличках», «Бог знает где», «в глуши».",
+      "synonyms_sr": [
+        "bogu iza nogu",
+        "na kraju sveta",
+        "u nedođiji",
+        "daleko od svega"
+      ],
+      "literal_ru": "за спиной у Бога",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Svetilišta „Bogu iza leđa“.",
+          "russian": "Святилища у чёрта на куличках.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Bistrica je najljepše mjesto Bogu iza leđa, udaljeno 20-ak kilometara od Bijelog Polja.",
+          "russian": "Бистрица — красивейшее место в настоящей глуши, примерно в двадцати километрах от Биело-Поле.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Обычно выражение не имеет религиозного смысла: это гиперболический образ крайне удалённого места. Возможна и форма bogu iza nogu.",
+      "keyword": "Bogu iza leđa; daleko; nedođija"
+    },
+    {
       "headword_latin": "Bogu iza nogu",
       "type": "frazeologizam",
       "definition_ru": "у чёрта на куличках; на краю света; в глухомани",
@@ -3337,6 +3391,33 @@
       ],
       "note": "Это прозрачное устойчивое сравнение, и русский эквивалент практически полный. Сербские исследования цветообозначений подтверждают noć как один из типичных эталонов максимальной черноты наряду с ugljem, mrakom, katranom. Выражение обычно описывает реальный цвет, поэтому не всякое употребление следует считать полноценной идиомой.",
       "keyword": "crn kao noć"
+    },
+    {
+      "headword_latin": "Crna ovca",
+      "type": "frazeologizam",
+      "definition_ru": "Человек, резко отличающийся от своей семьи или группы и воспринимаемый ею как проблемный, неподходящий или позорящий остальных. Русский эквивалент: «паршивая овца», иногда «белая ворона» — в зависимости от контекста.",
+      "synonyms_sr": [
+        "izopštenik",
+        "autsajder",
+        "nepoželjan član",
+        "žrtveni jarac"
+      ],
+      "literal_ru": "чёрная овца",
+      "register": "razg., obično negativno ili ironično",
+      "examples": [
+        {
+          "serbian_latin": "Bela vrana ili crna ovca? Jedno je sigurno. Ne pripadaju svom okruženju.",
+          "russian": "Белая ворона или чёрная овца? Ясно одно: они не вписываются в своё окружение.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "U psihologiji se ova uloga često krije iza svima poznatog izraza „crna ovca“.",
+          "russian": "В психологии эта роль нередко скрывается за всем известным выражением «чёрная овца».",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Crna ovca обычно несёт более отрицательный оттенок, чем bela vrana: это не просто необычный человек, а тот, кого группа считает своим «неудобным» или плохим членом.",
+      "keyword": "crna ovca; autsajder; porodica"
     },
     {
       "headword_latin": "Crno na belo",
@@ -16341,6 +16422,33 @@
       "keyword": "na udaru"
     },
     {
+      "headword_latin": "Naći se u čudu",
+      "type": "frazeologizam",
+      "definition_ru": "Сильно удивиться и растеряться из-за неожиданной ситуации; не сразу понять, что происходит. Русские соответствия: «опешить», «оторопеть», «прийти в недоумение».",
+      "synonyms_sr": [
+        "iznenaditi se",
+        "zbuniti se",
+        "ostati zatečen",
+        "ostati u neverici"
+      ],
+      "literal_ru": "оказаться в чуде",
+      "register": "razg., veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Sanja Nikčević iz Beograda našla se u čudu kada u baru u Švedskoj nije mogla da plati račun gotovinom.",
+          "russian": "Саня Никчевич из Белграда опешила, когда в шведском баре не смогла расплатиться наличными.",
+          "source": "BBC na srpskom / Danas, 2023"
+        },
+        {
+          "serbian_latin": "Dragan Ignjatović našao se u čudu kada je saznao da je punih osam godina bio „mrtav“.",
+          "russian": "Драган Игнятович был ошеломлён, узнав, что целых восемь лет официально числился «мёртвым».",
+          "source": "Blic, 2009"
+        }
+      ],
+      "note": "Čudo здесь не «чудо» в положительном смысле. Человек nađe se u čudu, когда сталкивается с чем-то настолько неожиданным, что сначала не знает, как реагировать.",
+      "keyword": "naći se u čudu; iznenađenje; zbunjenost"
+    },
+    {
       "headword_latin": "Naći se u nebranom grožđu",
       "type": "frazeologizam",
       "definition_ru": "оказаться в затруднительном положении; попасть в неловкую ситуацию; растеряться",
@@ -16539,6 +16647,32 @@
       ],
       "note": "Выражение нередко подразумевает не подлинную наивность, а притворство: человек всё понимает, но изображает удивление или неосведомлённость.",
       "keyword": "sobarica"
+    },
+    {
+      "headword_latin": "Naoružan do zuba",
+      "type": "frazeologizam",
+      "definition_ru": "Очень хорошо или чрезмерно вооружённый, снабжённый большим количеством оружия. Русский эквивалент полностью совпадает: «вооружён до зубов».",
+      "synonyms_sr": [
+        "teško naoružan",
+        "pun oružja",
+        "opremljen svim oružjem"
+      ],
+      "literal_ru": "вооружён до зубов",
+      "register": "razg.-publicistički, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Naoružan do zuba, dvojac se bori protiv čudovišta.",
+          "russian": "Вооружённый до зубов дуэт сражается с чудовищами.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Naoružan do zuba kreće u suludu osvetničku akciju.",
+          "russian": "Вооружённый до зубов, он отправляется совершать безумную месть.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Обычно относится к настоящему оружию, но возможна и шутливая метафора о человеке, который чрезвычайно хорошо экипирован инструментами, знаниями или аргументами.",
+      "keyword": "naoružan do zuba; oružje"
     },
     {
       "headword_latin": "Naoružati se strpljenjem",
@@ -17186,6 +17320,33 @@
       ],
       "note": "Для русского особенно важно управление: ne mirisati nekoga / nešto, без na. Конструкция miriše na nešto означает уже другое — «пахнет чем-то», а переносно также «похоже на что-то, попахивает чем-то»: to mi miriše na prevaru. В значении неприязни глагол особенно часто встречается именно с отрицанием; по степени резкости ne mirisati nekoga обычно мягче, чем ne podnositi nekoga.",
       "keyword": "ne mirisati nekoga"
+    },
+    {
+      "headword_latin": "Ne moći iz svoje kože",
+      "type": "frazeologizam",
+      "definition_ru": "Не быть способным изменить свою основную натуру, привычки или глубоко укоренённый способ поведения. Русские соответствия: «из своей шкуры не выпрыгнешь», «от себя не убежишь».",
+      "synonyms_sr": [
+        "ne moći protiv svoje prirode",
+        "ostati isti",
+        "ne moći promeniti sebe",
+        "takav je kakav je"
+      ],
+      "literal_ru": "не мочь выйти из собственной кожи",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Kako se iz svoje kože ne može, krenite sa nama u otkrivanje njenih čuda!",
+          "russian": "Раз уж из собственной кожи не выйдешь, отправляйтесь с нами открывать её чудеса.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ne može iz svoje kože.",
+          "russian": "Из своей шкуры не выпрыгнешь.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Чаще говорится о характере или типичном поведении человека: он может стараться измениться, но в определённой ситуации снова действует привычным образом.",
+      "keyword": "ne moći iz svoje kože; priroda; karakter"
     },
     {
       "headword_latin": "Ne mogu sebi da priuštim",
@@ -19826,6 +19987,33 @@
       "keyword": "od jutra do mraka; ceo dan"
     },
     {
+      "headword_latin": "Od krvi i mesa",
+      "type": "frazeološki izraz",
+      "definition_ru": "Настоящий живой человек со слабостями, страхами, чувствами и ошибками, а не идеализированный или безупречный образ. Русский эквивалент: «из плоти и крови».",
+      "synonyms_sr": [
+        "stvaran čovek",
+        "običan čovek",
+        "ljudsko biće sa manama",
+        "neidealizovan"
+      ],
+      "literal_ru": "из крови и мяса",
+      "register": "neutralno-knjiški",
+      "examples": [
+        {
+          "serbian_latin": "Ideja mi je bila da od nje napravim ženu od krvi i mesa.",
+          "russian": "Мне хотелось показать её живой женщиной из плоти и крови.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Stefan Prvovenčani će u seriji biti čovek „od krvi i mesa“.",
+          "russian": "Стефан Первовенчанный в сериале будет показан живым человеком из плоти и крови.",
+          "source": "RTS, 2016"
+        }
+      ],
+      "note": "Особенно часто используется, когда историческую, литературную или знаменитую фигуру хотят показать не памятником, а живым человеком со слабостями.",
+      "keyword": "od krvi i mesa; stvaran čovek"
+    },
+    {
       "headword_latin": "od Kulina bana",
       "type": "frazeologizam",
       "definition_ru": "Начинать рассказ с самого начала, издалека, с давних времён; подробно излагать всю предысторию. Часто употребляется иронически, когда человек слишком долго подбирается к сути. Русские аналоги: «начать от Адама и Евы», «начать издалека».",
@@ -20639,6 +20827,33 @@
       "keyword": "ostati kratkih rukava"
     },
     {
+      "headword_latin": "Ostati otvorenih usta",
+      "type": "frazeologizam",
+      "definition_ru": "Быть настолько удивлённым, поражённым или восхищённым, что буквально потерять дар речи. Русские соответствия: «остаться с открытым ртом», «разинуть рот от удивления».",
+      "synonyms_sr": [
+        "ostati zapanjen",
+        "ostati bez reči",
+        "ostati zatečen",
+        "zaprepastiti se"
+      ],
+      "literal_ru": "остаться с открытым ртом",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Žan Klod van Dam još jednom je ostao otvorenih usta kada je video plakat.",
+          "russian": "Жан-Клод Ван Дамм снова остался с открытым ртом, увидев плакат.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Ukoliko ste ostali otvorenih usta i pomalo besni nakon finala, ne krivimo vas.",
+          "russian": "Если после финала вы остались с открытым ртом и слегка разозлились, мы вас не виним.",
+          "source": "Blic, 2025"
+        }
+      ],
+      "note": "Причиной может быть как восхищение, так и шок, возмущение или неожиданность. Оттенок определяется контекстом.",
+      "keyword": "ostati otvorenih usta; iznenađenje; šok"
+    },
+    {
       "headword_latin": "Ostati praznih šaka",
       "type": "frazeologizam",
       "definition_ru": "остаться с пустыми руками; остаться ни с чем; ничего не получить",
@@ -21058,6 +21273,33 @@
       ],
       "note": "Буквальное русское «открывать старые раны» понятно, но устойчивее звучит «бередить старые раны». В сербском выражение очень естественно и для коллективной исторической памяти, особенно когда обсуждение прошлого рискует вновь вызвать сильные эмоции или конфликт. Otvarati обозначает повторяющееся действие, otvoriti — конкретный случай.",
       "keyword": "stare rane"
+    },
+    {
+      "headword_latin": "Otvoriti četvore oči",
+      "type": "frazeologizam",
+      "definition_ru": "Быть предельно внимательным и осторожным; внимательно следить за происходящим. Русские соответствия: «смотреть в оба», «держать ухо востро».",
+      "synonyms_sr": [
+        "dobro paziti",
+        "biti veoma oprezan",
+        "gledati na sve strane",
+        "obratiti posebnu pažnju"
+      ],
+      "literal_ru": "открыть четыре глаза",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Otvorite četvore oči: Novi heroji srpskog filma i serija.",
+          "russian": "Смотрите в оба: новые герои сербского кино и сериалов.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Otvorite četvore oči ako dobijete ovakvu poruku!",
+          "russian": "Смотрите в оба, если получите такое сообщение!",
+          "source": "Kurir, 2025"
+        }
+      ],
+      "note": "Число четыре усиливает обычное otvoriti oči. Встречается также форма otvoriti četvere oči.",
+      "keyword": "otvoriti četvore oči; paziti; oprez"
     },
     {
       "headword_latin": "otvoriti dušu",
@@ -24838,6 +25080,33 @@
       "keyword": "pretresti temu"
     },
     {
+      "headword_latin": "Preuzeti kormilo",
+      "type": "frazeologizam",
+      "definition_ru": "Взять руководство, управление или ответственность за организацию, команду, проект либо собственную судьбу. Русские соответствия: «взять штурвал», «встать у руля», «возглавить».",
+      "synonyms_sr": [
+        "preuzeti vođstvo",
+        "preuzeti upravljanje",
+        "stati na čelo",
+        "preuzeti kontrolu"
+      ],
+      "literal_ru": "взять штурвал",
+      "register": "neutralno-publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Nakon što je i zvanično preuzeo kormilo beogradskog kluba, pred španskim trenerom nalazi se jedan od najvažnijih zadataka.",
+          "russian": "После того как испанский тренер официально встал у руля белградского клуба, перед ним стоит одна из важнейших задач.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Stanković veoma uspešno preuzima „kormilo“ od iskusnijeg Petrovića.",
+          "russian": "Станкович весьма успешно принимает штурвал у более опытного Петровича.",
+          "source": "City Magazine / Danas, 2021"
+        }
+      ],
+      "note": "Kormilo — судовой руль. Образ свободно переносится на спортивную команду, предприятие, государство, творческий проект и жизнь человека.",
+      "keyword": "preuzeti kormilo; vođstvo; upravljanje"
+    },
+    {
       "headword_latin": "prevesti nekoga žednog preko vode",
       "type": "frazeologizam",
       "definition_ru": "Очень ловко кого-либо обмануть, перехитрить или обвести вокруг пальца. Часто характеризует особенно хитрого человека: он способен обмануть даже там, где обман кажется невозможным.",
@@ -25883,6 +26152,33 @@
       ],
       "note": "Выражение действительно существует в сербской речи, но сегодня часто воспринимается как комическая, смягчённая или слегка ретро-замена более грубых формул безразличия. Поэтому для нейтральной речи лучше svejedno mi je, для живой разговорной — baš me briga.",
       "keyword": "puca mi prsluk"
+    },
+    {
+      "headword_latin": "Pucati od zdravlja",
+      "type": "frazeologizam",
+      "definition_ru": "Выглядеть чрезвычайно здоровым, крепким и полным сил. Русские соответствия: «пышать здоровьем», «здоровьем так и пышет».",
+      "synonyms_sr": [
+        "biti zdrav kao dren",
+        "biti pun snage",
+        "izgledati veoma zdravo",
+        "prštati od energije"
+      ],
+      "literal_ru": "лопаться от здоровья",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Govori o pojedincu ugroženom većinom koja puca od zdravlja.",
+          "russian": "Он пишет о человеке, противостоящем большинству, которое прямо-таки пышет здоровьем.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Milica već ima 14 godina, devojčica puca od zdravlja.",
+          "russian": "Милице уже четырнадцать, девочка просто пышет здоровьем.",
+          "source": "Blic, 2018"
+        }
+      ],
+      "note": "Pucati здесь является усилителем крайней степени. Аналогично говорят pucati od smeha, besa, ljubomore, ponosa.",
+      "keyword": "pucati od zdravlja; zdravlje; snaga"
     },
     {
       "headword_latin": "Pucati po šavovima",
@@ -27711,6 +28007,33 @@
       "keyword": "sitno se broji"
     },
     {
+      "headword_latin": "Siva eminencija",
+      "type": "frazeologizam",
+      "definition_ru": "Очень влиятельный человек, который предпочитает оставаться в тени и не занимает либо не демонстрирует формально главную позицию. Русский эквивалент: «серый кардинал».",
+      "synonyms_sr": [
+        "moćnik iz senke",
+        "čovek iz pozadine",
+        "neformalni centar moći",
+        "skriveni uticajni čovek"
+      ],
+      "literal_ru": "серая эминенция",
+      "register": "publicistički, često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Rajnhard Hajdrih, siva eminencija nacističkog režima, inspirisao je reditelja Sedrika Jimeneza.",
+          "russian": "Рейнхард Гейдрих, серый кардинал нацистского режима, вдохновил режиссёра Седрика Хименеса.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Branko Vučićević bio je siva eminencija crnog talasa.",
+          "russian": "Бранко Вучичевич был серым кардиналом югославской «чёрной волны».",
+          "source": "Blic, 2018"
+        }
+      ],
+      "note": "Выражение происходит от французского éminence grise. Сербский использует siva eminencija там, где по-русски значительно естественнее «серый кардинал».",
+      "keyword": "siva eminencija; uticaj; iz senke"
+    },
+    {
       "headword_latin": "Sjaši Kurta da uzjaše Murta",
       "type": "izreka",
       "definition_ru": "одни ушли, пришли такие же; шило на мыло; лица меняются, а по сути ничего",
@@ -29036,6 +29359,33 @@
       "keyword": "srce na mestu"
     },
     {
+      "headword_latin": "Srce na dlanu",
+      "type": "frazeologizam",
+      "definition_ru": "Полная эмоциональная открытость, искренность и готовность делиться своими чувствами; также щедрость души. Русские соответствия: «душа нараспашку», «открытое сердце».",
+      "synonyms_sr": [
+        "otvoreno srce",
+        "biti potpuno iskren",
+        "otvoriti dušu",
+        "davati se bez rezerve"
+      ],
+      "literal_ru": "сердце на ладони",
+      "register": "emotivno, knjiški do razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Nosila je srce na dlanu.",
+          "russian": "Она жила с душой нараспашку.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Svi sagovornici nam bukvalno daju svoje kucajuće srce na dlanu.",
+          "russian": "Все наши собеседники буквально кладут перед нами своё бьющееся сердце на ладонь.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Употребляются модели imati, nositi, dati srce na dlanu. Образ подчёркивает отсутствие эмоциональной защиты: человек открыто показывает то, что чувствует.",
+      "keyword": "srce na dlanu; iskrenost; osećanja"
+    },
+    {
       "headword_latin": "Srce se stegne nekome",
       "type": "frazeologizam",
       "definition_ru": "сердце сжимается; сердце защемило; становится тяжело на душе",
@@ -29982,6 +30332,33 @@
       ],
       "note": "Оборот связан с детским фольклорным представлением, будто птицу можно поймать, если насыпать ей соли на хвост. В реальной речи выражение употребляется иронически именно о недостижимом человеке: он уже ускользнул — теперь «положи ему соли на хвост». Русскому ближе «ищи-свищи», «попробуй поймай».",
       "keyword": "soli na rep"
+    },
+    {
+      "headword_latin": "Staviti pod lupu",
+      "type": "frazeologizam",
+      "definition_ru": "Подвергнуть особенно тщательному изучению, проверке или контролю. Русские соответствия: «рассмотреть под лупой», «взять под пристальное наблюдение».",
+      "synonyms_sr": [
+        "detaljno ispitati",
+        "pažljivo proveriti",
+        "podrobno analizirati",
+        "staviti pod nadzor"
+      ],
+      "literal_ru": "положить под лупу",
+      "register": "neutralno-publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Nemamo ništa protiv da se čitav taj sistem stavi pod lupu i dodatno uredi.",
+          "russian": "Мы не против того, чтобы всю эту систему тщательно изучили и дополнительно упорядочили.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Izvršni odbor FSS-a će „staviti pod lupu“ rad svih organa.",
+          "russian": "Исполнительный комитет ФСС тщательно проверит работу всех органов.",
+          "source": "Sportski žurnal / Politika"
+        }
+      ],
+      "note": "Подразумевает более пристальное внимание, чем обычное proveriti. Часто под лупу попадают rad, poslovanje, odluke, dokumenti, ugovori.",
+      "keyword": "staviti pod lupu; provera; analiza"
     },
     {
       "headword_latin": "staviti prst na čelo",
@@ -32796,6 +33173,33 @@
       "keyword": "po bela dana"
     },
     {
+      "headword_latin": "U pola glasa",
+      "type": "frazeološki izraz",
+      "definition_ru": "Тихо, приглушённым голосом, почти шёпотом; иногда — неофициально и без желания говорить об этом открыто. Русские соответствия: «вполголоса», «в полголоса».",
+      "synonyms_sr": [
+        "tiho",
+        "prigušenim glasom",
+        "gotovo šapatom",
+        "nezvanično"
+      ],
+      "literal_ru": "в половину голоса",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Pričao je u pola glasa, a kada je trebalo da saopšti nešto važno, izgledalo je kao da je prethodno spremao mali govor.",
+          "russian": "Он говорил вполголоса, а когда нужно было сообщить что-то важное, казалось, будто он заранее готовил небольшую речь.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Imala sam kolegu koji me je odvlačio u stranu i u pola glasa pričao šta misli o osobi koja je upravo napustila prostoriju.",
+          "russian": "У меня был коллега, который отводил меня в сторону и вполголоса рассказывал, что думает о только что вышедшем человеке.",
+          "source": "RTS, 2019"
+        }
+      ],
+      "note": "В публицистике u pola glasa может означать и «об этом тихо поговаривают»: u pola glasa se govori / spekuliše.",
+      "keyword": "u pola glasa; tiho; šapat"
+    },
+    {
       "headword_latin": "U poslednji čas",
       "type": "izraz",
       "definition_ru": "в последний момент; в самый последний момент; едва успев",
@@ -33273,6 +33677,33 @@
       "keyword": "ući u štos"
     },
     {
+      "headword_latin": "Udarac ispod pojasa",
+      "type": "frazeologizam",
+      "definition_ru": "Нечестный, подлый или особенно болезненный приём в споре, конфликте или отношениях. Русский эквивалент: «удар ниже пояса».",
+      "synonyms_sr": [
+        "nepošten potez",
+        "nizak udarac",
+        "podlost",
+        "nefer potez"
+      ],
+      "literal_ru": "удар ниже пояса",
+      "register": "razg.-publicistički, neodobr.; poreklo iz boksa",
+      "examples": [
+        {
+          "serbian_latin": "Politika je disciplina u kojoj je laž legitimna, udarac ispod pojasa se dodatno nagrađuje.",
+          "russian": "Политика превращается в дисциплину, где ложь допустима, а удар ниже пояса ещё и вознаграждается.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Pirkovič je to nazvao udarcem „ispod pojasa“.",
+          "russian": "Пиркович назвал это «ударом ниже пояса».",
+          "source": "RTS, 2022"
+        }
+      ],
+      "note": "Происходит из бокса, где удар ниже пояса запрещён. В переносном употреблении обычно подразумевается нарушение правил честной борьбы.",
+      "keyword": "udarac ispod pojasa; nefer; podlost"
+    },
+    {
       "headword_latin": "Udarati nekome čežnju",
       "type": "frazeologizam",
       "definition_ru": "Дразнить кого-либо своей недоступностью; заставлять сильнее желать общения или близости. В отношениях — выдерживать дистанцию, не спешить отвечать или демонстрировать привлекательность, вызывая тоску, сожаление либо ревность.",
@@ -33578,6 +34009,33 @@
       ],
       "note": "Чаще всего встречается в спортивной речи, но употребляется и шире — о бизнесе, переговорах и любой ситуации, где одна сторона пользуется неподготовленностью другой. Возможна и пассивная форма biti uhvaćen na spavanju.",
       "keyword": "spavanje; nespreman; iznenađenje"
+    },
+    {
+      "headword_latin": "Uhvatiti priključak",
+      "type": "frazeologizam",
+      "definition_ru": "Догнать ушедших вперёд; сократить отставание и снова включиться в борьбу, соревнование или общий темп. Русские соответствия: «подтянуться», «догнать», «вернуться в игру».",
+      "synonyms_sr": [
+        "smanjiti zaostatak",
+        "približiti se",
+        "uhvatiti korak",
+        "vratiti se u igru"
+      ],
+      "literal_ru": "поймать подключение",
+      "register": "razg.-publicistički; naročito često u sportu",
+      "examples": [
+        {
+          "serbian_latin": "Kada je izgledalo da će aktuelni šampion Jadranske lige uhvatiti priključak, usledile su dve tehničke greške.",
+          "russian": "Когда показалось, что действующий чемпион Адриатической лиги вот-вот сократит отставание, последовали два технических фола.",
+          "source": "RTS, 2014"
+        },
+        {
+          "serbian_latin": "Domaćin je povremeno samo uspevao da uhvati priključak.",
+          "russian": "Хозяевам лишь временами удавалось подтянуться к сопернику.",
+          "source": "Sportal / Blic, 2026"
+        }
+      ],
+      "note": "Особенно частотно в спорте, когда команда сокращает разрыв в счёте. Переносно можно uhvatiti priključak sa konkurencijom, svetom, tržištem — догнать тех, кто ушёл вперёд.",
+      "keyword": "uhvatiti priključak; zaostatak; stići"
     },
     {
       "headword_latin": "uhvatiti se u koštac s nekim / nečim",
@@ -34235,6 +34693,33 @@
       ],
       "note": "Для русского естественный устойчивый эквивалент — «боевое крещение», а не буквальное «огненное крещение». В современном сербском реальная война не подразумевается: это первый серьёзный контакт с трудной практикой после подготовки или теории.",
       "keyword": "vatreno krštenje"
+    },
+    {
+      "headword_latin": "Vetar u jedra",
+      "type": "frazeologizam",
+      "definition_ru": "Поддержка, помощь или благоприятное обстоятельство, которые придают силы и ускоряют движение к цели. Русские соответствия: «дать импульс», «придать ускорение», «дать новый толчок».",
+      "synonyms_sr": [
+        "podsticaj",
+        "zamajac",
+        "dodatna podrška",
+        "novi polet"
+      ],
+      "literal_ru": "ветер в паруса",
+      "register": "neutralno-publicistički, slikovito",
+      "examples": [
+        {
+          "serbian_latin": "Vetar u jedra koji nedostaje je novac.",
+          "russian": "Тот самый попутный ветер, которого не хватает, — это деньги.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Vaša podrška je vetar u naša jedra.",
+          "russian": "Ваша поддержка даёт нам новые силы и помогает двигаться вперёд.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Близко по значению к dati vetar u leđa, которое уже есть в базе, но образ другой: здесь ветер наполняет паруса и заставляет судно двигаться быстрее.",
+      "keyword": "vetar u jedra; podsticaj; podrška"
     },
     {
       "headword_latin": "Videla žaba da se konji kuju, pa i ona digla nogu",
@@ -35199,6 +35684,33 @@
       "keyword": "sekira"
     },
     {
+      "headword_latin": "Zakopati ratnu sekiru",
+      "type": "frazeologizam",
+      "definition_ru": "Прекратить вражду или длительную ссору и помириться. Русские соответствия: «зарыть топор войны», «заключить мир».",
+      "synonyms_sr": [
+        "pomiriti se",
+        "prekinuti sukob",
+        "izgladiti spor",
+        "staviti tačku na svađu"
+      ],
+      "literal_ru": "закопать боевой топор",
+      "register": "razg.-publicistički, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Jovana zakopava staru ratnu sekiru sa Majom Žmirić.",
+          "russian": "Йована зарывает старый топор войны с Майей Жмирич.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Prošlo je neko vreme otkad su Zec Petar i Toma Makgregor zakopali ratnu sekiru, barem prividno.",
+          "russian": "Прошло некоторое время с тех пор, как Кролик Питер и Томас Макгрегор зарыли топор войны — по крайней мере внешне.",
+          "source": "Blic, 2019"
+        }
+      ],
+      "note": "Встречаются варианты zakopati, spustiti и реже odložiti ratnu sekiru. Zakopati наиболее прозрачно совпадает с русским «зарыть топор войны».",
+      "keyword": "zakopati ratnu sekiru; pomirenje; sukob"
+    },
+    {
       "headword_latin": "Zalupiti / zatvoriti nekome vrata pred nosom",
       "type": "frazeologizam",
       "definition_ru": "захлопнуть дверь перед носом; дать от ворот поворот; отказать в доступе или поддержке",
@@ -35950,6 +36462,33 @@
       ],
       "note": "Особенно полезны готовые модели žali Bože para — «зря потраченные деньги», žali Bože truda — «напрасный труд», žali Bože vremena — «жаль потраченного времени». Дословный русский перевод обычно неестественен. В реальном письме встречаются колебания Bože / bože; при сохранении прямого обращения к Богу логична прописная буква.",
       "keyword": "žali Bože"
+    },
+    {
+      "headword_latin": "Žila kucavica",
+      "type": "frazeologizam",
+      "definition_ru": "Жизненно важная артерия, центральный элемент, без которого система, место или организация не могут нормально существовать. Русские соответствия: «жизненная артерия», «главная артерия».",
+      "synonyms_sr": [
+        "glavna arterija",
+        "oslonac",
+        "ključna veza",
+        "pokretačka snaga"
+      ],
+      "literal_ru": "пульсирующая жила",
+      "register": "neutralno-publicistički, slikovito",
+      "examples": [
+        {
+          "serbian_latin": "Velika Morava vijuga kao žila kucavica ovim predelima.",
+          "russian": "Велика-Морава извивается как жизненная артерия этих мест.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "A njegova žila kucavica su volonteri kojih je više od 60 hiljada u celoj zemlji.",
+          "russian": "А его жизненная сила — более шестидесяти тысяч волонтёров по всей стране.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Может обозначать реку, дорогу, железную дорогу, учреждение или группу людей — всё, от чего зависит жизнь и функционирование целого.",
+      "keyword": "žila kucavica; arterija; važnost"
     },
     {
       "headword_latin": "Živeti / funkcionisati na autopilotu",
