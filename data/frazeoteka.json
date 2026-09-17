@@ -821,31 +821,31 @@
     {
       "headword_latin": "Beo kao kreč",
       "type": "poređenje",
-      "definition_ru": "Чрезвычайно бледный, обычно от страха, шока, болезни или сильного волнения. Русские соответствия: «белый как мел», «белый как полотно».",
+      "definition_ru": "Очень бледный, обычно от сильного страха, волнения, шока или плохого самочувствия. Русские соответствия: «белый как полотно», «бледный как смерть».",
       "synonyms_sr": [
-        "veoma bled",
         "prebledeo",
         "bled kao krpa",
-        "bez kapi krvi u licu"
+        "bled kao smrt",
+        "bez krvi u licu"
       ],
       "literal_ru": "белый как известь",
       "register": "razg., ekspresivno",
       "examples": [
         {
           "serbian_latin": "Sa centra sam, beo kao kreč, krenuo ka šesnaestercu.",
-          "russian": "Я, белый как мел, пошёл от центра поля к штрафной.",
-          "source": "RTS, 2020",
+          "russian": "От центра поля я пошёл к штрафной белый как полотно.",
+          "source": "RTS, 2026",
           "url": "https://www.rts.rs/lat/sport/fudbal/3965961/.html?print=true"
         },
         {
-          "serbian_latin": "Pitali su me treba li mi voda jer sam bio beo kao kreč.",
-          "russian": "Меня спрашивали, не нужна ли мне вода, потому что я был белый как мел.",
+          "serbian_latin": "Kolege su me pitale treba li mi voda jer sam bio beo kao kreč.",
+          "russian": "Коллеги спрашивали, не нужна ли мне вода: я был белый как полотно.",
           "source": "Blic, 2018",
           "url": "https://www.blic.rs/vesti/drustvo/da-se-ne-zaboravi-19-godina-od-nato-bombardovanja-jugoslavije/mxn3wx6"
         }
       ],
-      "note": "Kreč — известь, поэтому образ буквально обозначает мертвенно-белый цвет лица. Близкое bled kao krpa также употребительно, но использует другой образ.",
-      "keyword": "beo kao kreč; bled"
+      "note": "Kreč — известь. Сербский образ значительно естественнее буквального русского «белый как известь», поэтому перевод лучше адаптировать.",
+      "keyword": "beo kao kreč"
     },
     {
       "headword_latin": "Besposlen pop i jariće krsti",
@@ -1164,31 +1164,31 @@
     {
       "headword_latin": "Bez trunke savesti",
       "type": "frazeološki izraz",
-      "definition_ru": "Без малейших угрызений совести; совершенно бессовестно.",
+      "definition_ru": "Совершенно без угрызений совести; не испытывая морального беспокойства из-за своих поступков.",
       "synonyms_sr": [
         "bez griže savesti",
-        "bez imalo savesti",
-        "bezdušno",
-        "beskrupulozno"
+        "bez imalo kajanja",
+        "bez osećaja krivice",
+        "bez skrupula"
       ],
       "literal_ru": "без крупицы совести",
-      "register": "razg.-publicistički, jako neodobr.",
+      "register": "ekspresivno, izrazito neodobr.",
       "examples": [
         {
-          "serbian_latin": "Goran Jaćimović, bez trunke savesti, brani se od optužbi.",
-          "russian": "Горан Ячимович без малейших угрызений совести защищается от обвинений.",
-          "source": "Blic, 2014",
-          "url": "https://www.blic.rs/vesti/hronika/kafedzija-prevario-poplavljene-a-sad-preti/tq92hb9"
+          "serbian_latin": "Laži su širene bez trunke ljudske i hrišćanske svesti i savesti.",
+          "russian": "Ложь распространяли без малейших угрызений человеческой и христианской совести.",
+          "source": "RTS, 2010",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/503581/u-gracanici-mirno.html"
         },
         {
-          "serbian_latin": "Bez trunke savesti nudi svoju „isceliteljsku terapiju“.",
-          "russian": "Без малейших угрызений совести он предлагает свою «целительскую терапию».",
-          "source": "Blic, 2019",
-          "url": "https://www.blic.rs/vesti/drustvo/monstruozni-iscelitelj-dok-je-uzimao-pare-miroljub-petrovic-se-javljao-porodici-a-kad/njl9f38"
+          "serbian_latin": "Uništitelji kluba sve to gledaju bez trunke stida ili griže savesti.",
+          "russian": "Разрушители клуба смотрят на всё это без малейшего стыда и угрызений совести.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/sport/fudbal/5526411/.html?print=true"
         }
       ],
-      "note": "Trunka — мельчайшая частица. Поэтому bez trunke усиливает значение полного отсутствия чего-либо: bez trunke savesti, sumnje, straha, ironije.",
-      "keyword": "bez trunke savesti; beskrupulozno"
+      "note": "Trunka буквально означает крошечную частицу. Поэтому bez trunke усиливает отрицание: «ни капли, ни малейшего следа».",
+      "keyword": "bez trunke savesti"
     },
     {
       "headword_latin": "Bez zamerke",
@@ -1278,6 +1278,35 @@
       ],
       "note": "Формула звучит как строка из народной эпики или старинной песни и строится на рифме ago — drago. Aga — турцизм, историческое обращение к османскому военному или административному лицу, позднее и вообще к зажиточному, влиятельному мужчине в османской среде. В современной сербской речи выражение может появляться иронически, когда человеку предоставляют широкий выбор: примерно «выбирай, что душе угодно». Для русского важно не воспринимать ago как имя: это звательный падеж от aga. Без культурного оттенка нейтральный современный эквивалент — biraj šta hoćeš / izaberi šta ti se sviđa.",
       "keyword": "biraj ago što je tebi drago"
+    },
+    {
+      "headword_latin": "Biti / imati pri ruci",
+      "type": "frazeološki izraz",
+      "definition_ru": "Быть под рукой; находиться рядом и быть доступным для немедленного использования.",
+      "synonyms_sr": [
+        "biti nadohvat ruke",
+        "imati kod sebe",
+        "biti dostupan",
+        "biti blizu"
+      ],
+      "literal_ru": "быть при руке",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Kamera mu je uvek pri ruci, da sve snimi i da ništa ne propusti.",
+          "russian": "Камера у него всегда под рукой, чтобы всё снять и ничего не пропустить.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/1394836/gospodin-snimatelj-ne-prestaje-da-radi.html"
+        },
+        {
+          "serbian_latin": "Žaoku treba izvaditi što pre pincetom, ako je imamo pri ruci.",
+          "russian": "Жало нужно как можно скорее удалить пинцетом, если он есть под рукой.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/zivot/ovo-sme-da-se-stavlja-a-ovo-ne-na-mesto-uboda-insekta-opekotinu-ili-ranu/"
+        }
+      ],
+      "note": "Очень полезная бытовая конструкция: imati telefon, lek, alat, papir pri ruci. При человеке biti nekome pri ruci может также означать «быть рядом и помогать».",
+      "keyword": "pri ruci"
     },
     {
       "headword_latin": "Biti / izgubiti se kao magarac u magli",
@@ -2384,31 +2413,31 @@
     {
       "headword_latin": "Biti s glavom u oblacima",
       "type": "frazeologizam",
-      "definition_ru": "Витать в облаках; мечтать, фантазировать и быть несколько оторванным от повседневной реальности.",
+      "definition_ru": "Витать в облаках; мечтать, фантазировать и быть несколько оторванным от практической реальности.",
       "synonyms_sr": [
         "maštati",
-        "sanjati",
-        "biti zanesen",
+        "biti sanjar",
+        "ne biti sasvim prizeman",
         "živeti u svom svetu"
       ],
       "literal_ru": "быть с головой в облаках",
-      "register": "razg., slikovito; može biti simpatično ili blago kritično",
+      "register": "razg., od blago šaljivog do kritičkog",
       "examples": [
         {
-          "serbian_latin": "Priča o druženju i bukvalno životu sa „glavom u oblacima“.",
-          "russian": "Это история о дружбе и буквально о жизни «с головой в облаках».",
+          "serbian_latin": "Priča o nastanku Oblakodera je priča o druženju i bukvalno životu sa „glavom u oblacima“.",
+          "russian": "История появления «Облакодера» — это история дружбы и буквально жизни с головой в облаках.",
           "source": "Danas, 2023",
           "url": "https://www.danas.rs/kultura/kako-je-druzenje-i-zivot-sa-glavom-u-oblacima-preraslo-u-magazin-kog-publika-prepoznaje-i-voli-oblakoder-slavi-jubilarni-peti-rodjendan/"
         },
         {
-          "serbian_latin": "Zbirka pesama nosi naziv „S glavom u oblacima“.",
-          "russian": "Сборник стихов называется «С головой в облаках».",
+          "serbian_latin": "Pred čitaocima je knjiga „S glavom u oblacima“, dvojezična antologija stihova poljskih autora.",
+          "russian": "Перед читателями книга «С головой в облаках» — двуязычная антология польской поэзии.",
           "source": "RTS, 2015",
           "url": "https://www.rts.rs/lat/magazin/kultura/kultura/1948532/poljska-poezija-za-decu-prevedena-i-na-srpski.html"
         }
       ],
-      "note": "Русское «витать в облаках» передаёт значение естественнее буквального перевода. Возможны конструкции živeti, hodati, biti s glavom u oblacima.",
-      "keyword": "glavom u oblacima; maštanje"
+      "note": "По-русски практически полностью совпадает с «витать в облаках». Сербская конструкция часто оформляется как biti / živeti / hodati s glavom u oblacima.",
+      "keyword": "glava u oblacima"
     },
     {
       "headword_latin": "Biti sateran / pritisnut uza zid",
@@ -5399,31 +5428,31 @@
     {
       "headword_latin": "Do poslednjeg daha",
       "type": "frazeološki izraz",
-      "definition_ru": "До самого конца, до последнего вздоха; не прекращая бороться, работать, любить или защищать что-либо до конца жизни или сил.",
+      "definition_ru": "До самого конца жизни; до последних сил; не прекращая борьбу, работу или преданность чему-либо до конца.",
       "synonyms_sr": [
         "do samog kraja",
+        "do smrti",
         "dok god ima snage",
-        "do kraja života",
-        "bez predaje"
+        "do kraja života"
       ],
       "literal_ru": "до последнего дыхания",
-      "register": "ekspresivno, knjiški i publicistički",
+      "register": "ekspresivno, često svečano ili dramatično",
       "examples": [
         {
-          "serbian_latin": "Najavljuju veliku borbu, do poslednjeg daha.",
-          "russian": "Они обещают большую борьбу до последнего вздоха.",
-          "source": "RTS, 2015",
-          "url": "https://www.rts.rs/lat/tv/rts1/1954421/finale-svetskog-prvenstva-u20-brazil---srbija.html"
+          "serbian_latin": "Veršingova nije jedina koja je radila do poslednjeg daha.",
+          "russian": "Вершинг была не единственной, кто работал до последнего дыхания.",
+          "source": "Politika, 2023",
+          "url": "https://www.politika.rs/sr/clanak/536647/glumci-helen-mekrori-cedvik-bouzman-helen-mccrory-chadwick-boseman"
         },
         {
-          "serbian_latin": "Radila je i stvarala praktično do poslednjeg daha.",
-          "russian": "Она работала и творила практически до последнего вздоха.",
-          "source": "Nova.rs, 2022",
-          "url": "https://nova.rs/kultura/do-poslednjeg-daha-secanje-nede-todorovic-na-vesu/"
+          "serbian_latin": "Žika Jelić obećava da će momci nastaviti da sviraju „do poslednjeg daha“.",
+          "russian": "Жика Елич обещает, что музыканты будут играть до последнего дыхания.",
+          "source": "RTS, 2010",
+          "url": "https://www.rts.rs/lat/magazin/muzika/802008/cetiri-decenije-ju-grupe.html"
         }
       ],
-      "note": "Не обязательно буквально означает момент смерти: в спорте и других соревнованиях do poslednjeg daha — «бороться до самого конца, пока остаются силы».",
-      "keyword": "do poslednjeg daha; do kraja"
+      "note": "Не обязательно буквально о смерти: выражение часто гиперболически подчёркивает абсолютную решимость продолжать дело до конца.",
+      "keyword": "do poslednjeg daha"
     },
     {
       "headword_latin": "Do srži",
@@ -7770,6 +7799,35 @@
       "keyword": "leš"
     },
     {
+      "headword_latin": "Gaziti preko mrtvih",
+      "type": "frazeologizam",
+      "definition_ru": "Добиваться своей цели любой ценой, безжалостно используя или уничтожая других и не считаясь с моральными последствиями.",
+      "synonyms_sr": [
+        "ići preko svega",
+        "ne birati sredstva",
+        "gaziti preko drugih",
+        "učiniti sve radi cilja"
+      ],
+      "literal_ru": "шагать по мёртвым",
+      "register": "razg., veoma ekspresivno i neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Izgleda da se ovde gazi preko mrtvih kako bi se isteralo po svome.",
+          "russian": "Похоже, здесь идут по головам, лишь бы добиться своего.",
+          "source": "Telegraf, 2018",
+          "url": "https://www.telegraf.rs/vesti/hronika/2927930-pokusavaju-da-mi-smeste-vi-znate-ko-buran-nastavak-sudjenja-za-ubistvo-nikole-bojovica"
+        },
+        {
+          "serbian_latin": "Spremna je da gazi preko mrtvih da dobije ono što želi.",
+          "russian": "Она готова идти по головам, чтобы получить желаемое.",
+          "source": "Kurir",
+          "url": "https://www.kurir.rs/stars/9632855/svadja-koja-je-tresla-estradu"
+        }
+      ],
+      "note": "Обычно употребляется гиперболически: речь не о буквальных погибших, а о полной безжалостности и принципе «цель оправдывает средства». Русский функциональный эквивалент — «идти по головам».",
+      "keyword": "gaziti preko mrtvih"
+    },
+    {
       "headword_latin": "Gde ima dima, ima i vatre",
       "type": "poslovica",
       "definition_ru": "нет дыма без огня; слухи обычно возникают не на пустом месте",
@@ -9240,6 +9298,35 @@
       "keyword": "rikverc"
     },
     {
+      "headword_latin": "Ići / pasti nekome na dušu",
+      "type": "frazeologizam",
+      "definition_ru": "Быть чьей-либо виной или моральной ответственностью; оставаться на чьей-либо совести.",
+      "synonyms_sr": [
+        "biti nečija krivica",
+        "biti na nečijoj savesti",
+        "snositi odgovornost",
+        "biti odgovoran za nešto"
+      ],
+      "literal_ru": "идти кому-то на душу",
+      "register": "razg.-publicistički, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Pogodak ide na dušu golmana Crvene zvezde Aleksandra Kirovskog.",
+          "russian": "Этот гол на совести голкипера «Црвены звезды» Александра Кировского.",
+          "source": "RTS, 2012",
+          "url": "https://www.rts.rs/lat/sport/fudbal/1215542/romanticari-u-polufinalu.html"
+        },
+        {
+          "serbian_latin": "Plakala sam zbog njega, nek mu ide na dušu.",
+          "russian": "Я плакала из-за него — пусть это останется на его совести.",
+          "source": "Blic, 2024",
+          "url": "https://www.blic.rs/zabava/vera-matovic-o-prozivkama-nikole-rokvica-i-njegovog-brata-govorili-su-da-sam-dno-dna/byv1rmy"
+        }
+      ],
+      "note": "Очень характерная конструкция nek mu ide na dušu — «пусть это будет на его совести». В спорте может означать конкретную ошибку, приведшую к голу или поражению.",
+      "keyword": "ide na dušu"
+    },
+    {
       "headword_latin": "ići / prodavati se kao alva",
       "type": "poređenje",
       "definition_ru": "расходиться как горячие пирожки; продаваться очень быстро; пользоваться огромным спросом",
@@ -10469,6 +10556,35 @@
       "keyword": "puter; glava"
     },
     {
+      "headword_latin": "Imati svoj dan",
+      "type": "frazeologizam",
+      "definition_ru": "Быть в особенно хорошей форме, когда всё удаётся; показать результат значительно лучше обычного. Отрицательная форма nemati svoj dan — «сегодня всё валится из рук».",
+      "synonyms_sr": [
+        "biti raspoložen",
+        "sve mu polazi za rukom",
+        "biti u odličnoj formi",
+        "imati dobar dan"
+      ],
+      "literal_ru": "иметь свой день",
+      "register": "razg.; naročito često u sportu",
+      "examples": [
+        {
+          "serbian_latin": "Srpska odbrana pokazala je da ima svoj dan.",
+          "russian": "Сербская защита показала, что сегодня у неё всё получается.",
+          "source": "Dnevnik, 2017",
+          "url": "https://www.dnevnik.rs/lat/sport/vaterpolo/srpski-vaterpolisti-razbili-spanice-19-07-2017"
+        },
+        {
+          "serbian_latin": "Sudija očigledno nije imao svoj dan.",
+          "russian": "У судьи явно был неудачный день.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/sport/predsednik-sudijske-komisije-fss-partizan-nije-ostecen-sudija-nije-imao-svoj-dan/"
+        }
+      ],
+      "note": "Очень характерно для спортивной речи, но возможно и в быту: danas imam svoj dan — всё получается; danas mi nije dan — сегодня всё идёт не так.",
+      "keyword": "imati svoj dan"
+    },
+    {
       "headword_latin": "Imati tremu",
       "type": "kolokacija",
       "definition_ru": "волноваться; нервничать перед выступлением, экзаменом или встречей; испытывать мандраж",
@@ -11086,31 +11202,31 @@
     {
       "headword_latin": "Iz dana u dan",
       "type": "priloški izraz",
-      "definition_ru": "День за днём, с каждым новым днём; постепенно и непрерывно во времени.",
+      "definition_ru": "День за днём; с каждым днём; постоянно и постепенно по мере течения времени.",
       "synonyms_sr": [
         "svakim danom",
         "dan za danom",
         "svakodnevno",
-        "sve više iz dana u dan"
+        "neprestano"
       ],
-      "literal_ru": "из дня в день",
+      "literal_ru": "изо дня в день",
       "register": "neutralno, veoma često",
       "examples": [
         {
-          "serbian_latin": "Situacija se menja iz dana u dan.",
-          "russian": "Ситуация меняется день ото дня.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/vesti/politika/krkobabic-o-izborima-proceniti-situaciju-u-zemlji-i-okruzenju-situacija-se-menja-iz-dana-u-dan/"
+          "serbian_latin": "Iz dana u dan obaraju se rekordi u potrošnji električne energije.",
+          "russian": "Изо дня в день бьются рекорды потребления электроэнергии.",
+          "source": "RTS, 2009",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/38453/.html?print=true"
         },
         {
-          "serbian_latin": "Ukrajinska vojska gubi pozicije iz dana u dan.",
-          "russian": "Украинская армия теряет позиции день за днём.",
-          "source": "Politika, 2026",
-          "url": "https://www.politika.rs/sr/clanak/783153/zaharova-ukrajinska-vojska-gubi-pozicije-iz-dana-u-dan"
+          "serbian_latin": "Iz dana u dan koračajući, on posmatra i opaža grad.",
+          "russian": "День за днём шагая по городу, он наблюдает и замечает его жизнь.",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/kultura/iz-dana-u-dan-gabriela-glida/"
         }
       ],
-      "note": "В отличие от svakog dana, которое просто означает повторяемость, iz dana u dan часто подчёркивает постепенное изменение: raste, menja se, pogoršava se iz dana u dan.",
-      "keyword": "iz dana u dan; svakim danom"
+      "note": "Может обозначать повторяемость — «изо дня в день» — либо постепенное изменение: situacija se pogoršava iz dana u dan.",
+      "keyword": "iz dana u dan"
     },
     {
       "headword_latin": "Iz krajnosti u krajnost",
@@ -12604,32 +12720,32 @@
     },
     {
       "headword_latin": "Kao gromom pogođen",
-      "type": "frazeologizam",
-      "definition_ru": "Ошеломлённый внезапной новостью или событием; словно поражённый громом. Русские соответствия: «как громом поражённый», «как громом ударило».",
+      "type": "poređenje",
+      "definition_ru": "Как громом поражённый; внезапно ошеломлённый известием, событием или сильным впечатлением.",
       "synonyms_sr": [
-        "ostati zatečen",
-        "biti šokiran",
-        "ostati zaprepašćen",
-        "skameniti se od šoka"
+        "ostati zapanjen",
+        "ostati skamenjen",
+        "biti potpuno zatečen",
+        "ostati bez reči"
       ],
       "literal_ru": "словно поражённый громом",
-      "register": "razg.-knjiški, veoma ekspresivno",
+      "register": "ekspresivno, književno do razgovorno",
       "examples": [
         {
-          "serbian_latin": "Ljubinko, kao gromom pogođen tim pogledom, seda na šamlicu.",
-          "russian": "Любинко, словно громом поражённый этим взглядом, садится на табуретку.",
+          "serbian_latin": "Ljubinko, kao gromom pogođen tim pogledom, seda na šamlicu pored furune.",
+          "russian": "Любинко, словно громом поражённый этим взглядом, садится на скамеечку у печи.",
           "source": "Danas, 2013",
           "url": "https://www.danas.rs/kolumna/vladimir-jokic/ljubinko-i-desanka-2/"
         },
         {
-          "serbian_latin": "Umro je iznenada u 37. godini, „kao gromom pogođen“.",
-          "russian": "Он внезапно умер в 37 лет, словно поражённый громом.",
+          "serbian_latin": "Jovan Skerlić umro je iznenada u 37. godini „kao gromom pogođen“.",
+          "russian": "Йован Скерлич внезапно умер в 37 лет, словно поражённый громом.",
           "source": "Politika, 2023",
           "url": "https://www.politika.rs/sr/clanak/537464/zanr-krimi-romana-nikad-ne-umire"
         }
       ],
-      "note": "Оборот может описывать эмоциональный шок, внезапное оцепенение или, реже, резкое физическое поражение. Форма согласуется по роду: pogođen, pogođena.",
-      "keyword": "kao gromom pogođen; šok; iznenađenje"
+      "note": "Образ обозначает мгновенный шок: человек будто физически замирает после неожиданного удара. Возможны формы stajati / ostati kao gromom pogođen.",
+      "keyword": "kao gromom pogođen"
     },
     {
       "headword_latin": "Kao guska u magli",
@@ -12998,6 +13114,35 @@
       ],
       "note": "Образ понятен буквально: если сложить несколько рогатых животных или рогов в тесное пространство, они постоянно цепляются друг за друга. Выражение описывает не разовую ссору, а хроническую несовместимость. Русские «как кошка с собакой» и «как пауки в банке» выбираются по степени враждебности.",
       "keyword": "rogovi u vreći"
+    },
+    {
+      "headword_latin": "Kao stvoren za",
+      "type": "frazeološki izraz",
+      "definition_ru": "Словно специально создан для кого-либо или чего-либо; идеально подходит.",
+      "synonyms_sr": [
+        "idealan za",
+        "savršeno odgovara",
+        "kao napravljen za",
+        "baš odgovara"
+      ],
+      "literal_ru": "словно создан для",
+      "register": "neutralno-razgovorno, veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Engleski ljulj, kao stvoren za Đokovića.",
+          "russian": "Английский райграс словно создан для Джоковича.",
+          "source": "Politika, 2023",
+          "url": "https://www.politika.rs/sr/clanak/561262/sport/tenis/engleski-ljulj-kao-stvoren-za-dokovica"
+        },
+        {
+          "serbian_latin": "Ovaj balkanski grad je kao stvoren za jesenji beg.",
+          "russian": "Этот балканский город словно создан для осенней поездки.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/biznis/after-hour/ovaj-balkanski-grad-je-kao-stvoren-za-jesenji-beg-manje-turista-a-cene-povoljne/183s7z7"
+        }
+      ],
+      "note": "Согласуется по роду и числу: kao stvoren, stvorena, stvoreno, stvoreni. Может относиться к человеку, месту, вещи, погоде или обстоятельствам.",
+      "keyword": "kao stvoren za"
     },
     {
       "headword_latin": "Kao stvoren za nekoga / nešto",
@@ -17919,6 +18064,35 @@
       "keyword": "pišljiva boba"
     },
     {
+      "headword_latin": "Ne zna gde mu je glava",
+      "type": "frazeologizam",
+      "definition_ru": "У человека столько дел, забот или хаоса вокруг, что он совершенно растерян и ничего не успевает. Русские соответствия: «голова кругом», «не знает, за что хвататься».",
+      "synonyms_sr": [
+        "ne zna šta će pre",
+        "pogubio se",
+        "pretrpan je obavezama",
+        "ne zna gde udara"
+      ],
+      "literal_ru": "не знает, где у него голова",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Pusti ga, zar ne vidiš da ne zna gde mu je glava.",
+          "russian": "Оставь его, разве не видишь — он совершенно потерялся.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kultura/kristali/"
+        },
+        {
+          "serbian_latin": "Tasovac nazdravlja sa ambasadorom, ali sad već ne zna gde mu je glava.",
+          "russian": "Тасовац чокается с послом, но уже не знает, за что хвататься.",
+          "source": "Blic",
+          "url": "https://www.blic.rs/kultura/vesti/diskretni-sarm-marsa-na-drinu/wghgr2f"
+        }
+      ],
+      "note": "Особенно часто с дополнением od posla / obaveza: ne znam gde mi je glava od posla. Подчёркивает перегруженность и растерянность.",
+      "keyword": "ne zna gde mu je glava"
+    },
+    {
       "headword_latin": "ne zna se ko pije, a ko plaća",
       "type": "izreka",
       "definition_ru": "Полный беспорядок: непонятно, кто за что отвечает, кто принимает решения и кто несёт последствия. Русские соответствия: «чёрт ногу сломит», «не поймёшь, кто за что отвечает», «полный бардак».",
@@ -19544,19 +19718,19 @@
     {
       "headword_latin": "Nije smak sveta",
       "type": "izraz",
-      "definition_ru": "Это не конец света; неприятность серьёзная, но не катастрофическая и жизнь на этом не заканчивается.",
+      "definition_ru": "Это не конец света; случившееся неприятно, но не настолько страшно и непоправимо, как кажется.",
       "synonyms_sr": [
-        "nije katastrofa",
-        "nije kraj sveta",
+        "nije tragedija",
         "nije sve propalo",
-        "može se preživeti"
+        "nije kraj svega",
+        "život ide dalje"
       ],
       "literal_ru": "это не конец света",
-      "register": "razg., često utešno ili relativizujuće",
+      "register": "razg., utešno; veoma često",
       "examples": [
         {
           "serbian_latin": "Nije smak sveta ako košarkaši ne odu na Svetsko prvenstvo.",
-          "russian": "Если баскетболисты не попадут на чемпионат мира, это ещё не конец света.",
+          "russian": "Не конец света, если баскетболисты не попадут на чемпионат мира.",
           "source": "RTS, 2022",
           "url": "https://www.rts.rs/lat/sport/kosarka/4876830/tomasevic-nije-smak-sveta-ako-kosarkasi-ne-odu-na-sp.html"
         },
@@ -19567,8 +19741,8 @@
           "url": "https://www.danas.rs/sport/nije-smak-sveta-ali-jeste-opomena"
         }
       ],
-      "note": "Smak sveta буквально — конец света, гибель мира. Формула nije smak sveta очень частотна как способ успокоить человека или уменьшить драматизм неудачи.",
-      "keyword": "nije smak sveta; nije katastrofa"
+      "note": "Очень употребительная утешительная формула после ошибки, проигрыша, отказа или другой неприятности: nije prijatno, ali nije smak sveta.",
+      "keyword": "nije smak sveta"
     },
     {
       "headword_latin": "nije šija nego vrat",
@@ -20448,31 +20622,31 @@
     {
       "headword_latin": "Od pamtiveka",
       "type": "priloški izraz",
-      "definition_ru": "С незапамятных времён, испокон веков; так давно, что начало невозможно вспомнить.",
+      "definition_ru": "С незапамятных времён; испокон веков; настолько давно, насколько хватает человеческой памяти.",
       "synonyms_sr": [
         "od davnina",
-        "od vajkada",
-        "od iskona",
-        "od najstarijih vremena"
+        "odvajkada",
+        "od pradavnih vremena",
+        "vekovima"
       ],
-      "literal_ru": "с незапамятного времени",
+      "literal_ru": "со времён памяти",
       "register": "neutralno-knjiški, tradicionalno",
       "examples": [
         {
-          "serbian_latin": "Srbija je od pamtiveka zemlja u kojoj jabuka zauzima posebno mesto.",
-          "russian": "Сербия с незапамятных времён — страна, где яблоко занимает особое место.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/tv/rts1/2728573/od-zlata-jabuka.html"
+          "serbian_latin": "Od pamtiveka beduin je poznat po svom gostoprimstvu.",
+          "russian": "С незапамятных времён бедуины известны своим гостеприимством.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/vesti/drustvo/palmira-fantomski-grad/"
         },
         {
-          "serbian_latin": "Tradicija kaže da je to od pamtiveka.",
-          "russian": "По традиции считается, что так было испокон веков.",
-          "source": "RTS, 2021",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/4570391/minusi-krediti-zurke-tone-hrane--slave-su-od-pamtiveka-a-obelezavamo-ih-drugacije-od-tradicije.html"
+          "serbian_latin": "Čovek ima iskonski poriv da za sobom nešto ostavi. Tako je od pamtiveka.",
+          "russian": "У человека есть исконное стремление оставить после себя след. Так было испокон веков.",
+          "source": "Blic, 2023",
+          "url": "https://www.blic.rs/kultura/dubravka-turic-rediteljka-filma-tragovi-covek-ima-iskonski-poriv-da-za-sobom-nesto/bgdr29n"
         }
       ],
-      "note": "Pamtivek — чрезвычайно давнее, почти мифическое прошлое. Выражение сильнее обычного odavno и обычно относится к традициям, обычаям и явлениям, существующим очень долго.",
-      "keyword": "od pamtiveka; davnina; tradicija"
+      "note": "Близко к od vajkada, но pamtivek буквально отсылает к времени, уходящему за пределы человеческой памяти. В русском хорошо соответствует «испокон веков».",
+      "keyword": "od pamtiveka"
     },
     {
       "headword_latin": "Od Silvane do Nirvane",
@@ -20504,31 +20678,31 @@
     {
       "headword_latin": "Od vajkada",
       "type": "priloški izraz",
-      "definition_ru": "Издавна, испокон веков, с очень давних времён.",
+      "definition_ru": "Издавна; испокон веков; с очень давних времён.",
       "synonyms_sr": [
-        "od davnina",
         "od pamtiveka",
-        "od iskona",
-        "odavno"
+        "od davnina",
+        "od pradavnih vremena",
+        "vekovima"
       ],
       "literal_ru": "",
-      "register": "knjiški do razgovorno; pomalo arhaično, ali i dalje živo",
+      "register": "neutralno-knjiški, tradicionalno",
       "examples": [
         {
           "serbian_latin": "Čovek istoriju od vajkada proučava i pokušava da je razume.",
-          "russian": "Человек издревле изучает историю и пытается её понять.",
+          "russian": "Человек издавна изучает историю и пытается её понять.",
           "source": "RTS, 2020",
           "url": "https://www.rts.rs/lat/tv/rts1/3839189/prolom-banja---aktivni-odmor.html"
         },
         {
-          "serbian_latin": "Znalo se od vajkada da je prestonica bio Kragujevac.",
-          "russian": "Издавна было известно, что столицей был Крагуевац.",
-          "source": "Danas, 2013",
-          "url": "https://www.danas.rs/vesti/drustvo/srpska-vrelina/"
+          "serbian_latin": "Orijent je od vajkada fascinirao Zapad.",
+          "russian": "Восток испокон веков завораживал Запад.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/kultura/magija-misterija-i-mistika-orijenta-u-150-slika"
         }
       ],
-      "note": "По значению почти совпадает с od pamtiveka. Od vajkada обычно звучит немного более старинно и фольклорно, но регулярно встречается и в современной публицистике.",
-      "keyword": "od vajkada; davnina"
+      "note": "По смыслу почти совпадает с od pamtiveka. Od vajkada несколько более книжно-фольклорное и хорошо встречается в исторических и традиционных контекстах.",
+      "keyword": "od vajkada"
     },
     {
       "headword_latin": "Od viška glava ne boli",
@@ -21070,31 +21244,31 @@
     {
       "headword_latin": "Omča oko vrata",
       "type": "frazeologizam",
-      "definition_ru": "Тяжёлое бремя, ограничение, долг или обстоятельство, которое лишает свободы действий и постоянно давит на человека или организацию. Русские соответствия: «петля на шее», «камень на шее».",
+      "definition_ru": "Тяжёлое обязательство, долг, зависимость или проблема, которая сильно ограничивает и угрожает человеку, организации или хозяйству. Русский аналог: «петля на шее».",
       "synonyms_sr": [
-        "težak teret",
-        "veliko opterećenje",
-        "ograničenje",
-        "pritisak koji guši"
+        "veliki teret",
+        "teško opterećenje",
+        "ozbiljna obaveza",
+        "teret koji guši"
       ],
-      "literal_ru": "петля на шее",
-      "register": "razg.-publicistički, veoma ekspresivno",
+      "literal_ru": "петля вокруг шеи",
+      "register": "razg.-publicistički, izrazito ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Imperativ pobede bio je kao omča oko vrata turskim košarkašima.",
-          "russian": "Необходимость победить висела петлёй на шее турецких баскетболистов.",
-          "source": "RTS, 2022",
-          "url": "https://rts.rs/lat/sport/Evrobasket2022/orlovi/4935273/danasnji-rival-srbije--turska-odakle-preti-najveca-opasnost.html"
+          "serbian_latin": "Zemljište koje se obrađuje u zakupu je omča oko vrata u ovakvim uslovima.",
+          "russian": "Арендованная земля в таких условиях становится настоящей петлёй на шее.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5580250/susa-niske-otkupne-cene-poljoprivreda-zakup-zemlje.html"
         },
         {
-          "serbian_latin": "Ruskim klubovima praktično je stavljena omča oko vrata.",
-          "russian": "Российским клубам фактически затянули петлю на шее.",
-          "source": "Politika, 2025",
-          "url": "https://www.politika.rs/sr/clanak/663047/evroliga-odskrinula-vrata-ruskim-klubovima"
+          "serbian_latin": "Dugovi stari tri i četiri decenije biće nam „omča oko vrata“ još decenijama.",
+          "russian": "Долги тридцати-сорокалетней давности ещё десятилетиями будут петлёй на нашей шее.",
+          "source": "Blic, 2021",
+          "url": "https://www.blic.rs/biznis/titove-dugove-vracacemo-jos-20-godina-poslednja-rata-dospeva-2041-ali-to-nam-nije/4rfje2g"
         }
       ],
-      "note": "Образ сильный и обычно предполагает не просто трудность, а давление, которое всё больше ограничивает свободу действий. Частые конструкции: biti omča oko vrata, staviti omču oko vrata.",
-      "keyword": "omča oko vrata; teret; pritisak"
+      "note": "Особенно часто о кредитах, долгах, убыточном контракте или другом долговременном бремени. Образ значительно сильнее нейтрального teret.",
+      "keyword": "omča oko vrata"
     },
     {
       "headword_latin": "Oprati obraz",
@@ -21237,31 +21411,31 @@
     {
       "headword_latin": "Ostati bez daha",
       "type": "frazeologizam",
-      "definition_ru": "Затаить дыхание, быть чрезвычайно поражённым, восхищённым или ошеломлённым увиденным. По-русски: «дух захватывает», «лишиться дара речи от впечатления».",
+      "definition_ru": "Затаить дыхание от сильного впечатления; быть чрезвычайно поражённым красотой, неожиданностью или эмоциями. Также буквально — запыхаться.",
       "synonyms_sr": [
-        "ostati zapanjen",
-        "ostati zadivljen",
         "zanemeti od oduševljenja",
+        "biti zadivljen",
+        "ostati zapanjen",
         "oduzeti nekome dah"
       ],
       "literal_ru": "остаться без дыхания",
-      "register": "neutralno-razgovorno, ekspresivno; često o snažnom pozitivnom utisku",
+      "register": "neutralno-razgovorno, ekspresivno",
       "examples": [
         {
           "serbian_latin": "Prvi susret sa Barselonom naučio me je značenju reči „ostati bez daha“.",
-          "russian": "Первая встреча с Барселоной показала мне, что значит «дух захватывает».",
+          "russian": "Первая встреча с Барселоной научила меня, что значит «затаить дыхание».",
           "source": "Danas, 2022",
           "url": "https://www.danas.rs/zivot/putopisi/barselona-1-kad-ostanete-bez-daha"
         },
         {
-          "serbian_latin": "Ostaćete bez daha kada stanete ispred impozantnog ulaza u pećinu.",
-          "russian": "У вас перехватит дыхание, когда вы окажетесь перед величественным входом в пещеру.",
-          "source": "RTS, 2020",
-          "url": "https://www.rts.rs/lat/magazin/putujemo/4005354/u-kucevskim-pecinama-cekaju-vas-lepa-vlajna-raspeti-isus-i-vestica-koja-zacarava-ljude.html"
+          "serbian_latin": "Mislim da će ljudi ostati bez daha, ali idemo korak po korak.",
+          "russian": "Думаю, люди будут потрясены, но мы идём шаг за шагом.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/rts/pesma-evrovizije/pesma-evrovizije-2025/pesma-za-evroviziju-2025/5665133/princ-pesma-evrovizije-bazel-nastup-pripreme-visi-nivo.html"
         }
       ],
-      "note": "Может обозначать и буквальную нехватку воздуха, поэтому переносное значение определяется контекстом. Особенно часто употребляется о красоте, зрелище, выступлении или неожиданном впечатлении.",
-      "keyword": "ostati bez daha; oduševljenje; iznenađenje"
+      "note": "В переносном значении обычно речь о красоте, великолепном выступлении или сильном эмоциональном эффекте. Родственная конструкция oduzeti dah описывает то, что вызывает такую реакцию.",
+      "keyword": "ostati bez daha"
     },
     {
       "headword_latin": "Ostati bez teksta",
@@ -23884,6 +24058,35 @@
       ],
       "note": "Употребляются формы разных видов и времён: gledati istini u oči, pogledati istini u oči, morati pogledati istini u oči.",
       "keyword": "istina"
+    },
+    {
+      "headword_latin": "Pogoditi u centar",
+      "type": "frazeologizam",
+      "definition_ru": "Точно попасть в суть, правильно определить главное или сделать исключительно удачный выбор. Также буквально — попасть точно в центр мишени.",
+      "synonyms_sr": [
+        "pogoditi suštinu",
+        "pogoditi pravo u metu",
+        "tačno proceniti",
+        "ubosti pravo mesto"
+      ],
+      "literal_ru": "попасть в центр",
+      "register": "neutralno-razgovorno; često pravo u centar",
+      "examples": [
+        {
+          "serbian_latin": "Pogodio je pravo u centar jer je njegovo uvce naštimovano da oseti velike stvari.",
+          "russian": "Он попал точно в цель: его слух настроен на то, чтобы чувствовать большие вещи.",
+          "source": "Politika, 2023",
+          "url": "https://www.politika.rs/sr/clanak/577976/pogledi/meka-moc-aleksandre-prijovic"
+        },
+        {
+          "serbian_latin": "Književni debi Dragojevića pogodio je pravo u centar interesovanja.",
+          "russian": "Литературный дебют Драгоевича попал точно в центр читательского интереса.",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/kultura/srdjan-dragojevic-o-romanu-lajk-kako-je-poznati-filmski-reziser-postao-pisac/qzm2nv2"
+        }
+      ],
+      "note": "В переносном значении особенно част вариант pogoditi pravo u centar. Близко русским «попасть в точку», «попасть в самое яблочко».",
+      "keyword": "pogoditi u centar"
     },
     {
       "headword_latin": "Pogoditi u živac",
@@ -34228,6 +34431,35 @@
       "keyword": "ući u štos"
     },
     {
+      "headword_latin": "Ući u trag",
+      "type": "frazeologizam",
+      "definition_ru": "Обнаружить след и установить местонахождение, личность, происхождение или источник чего-либо; выйти на след.",
+      "synonyms_sr": [
+        "otkriti",
+        "pronaći",
+        "doći do počinioca",
+        "utvrditi poreklo"
+      ],
+      "literal_ru": "войти в след",
+      "register": "neutralno-publicistički; često policijski i istraživački kontekst",
+      "examples": [
+        {
+          "serbian_latin": "Postavlja se pitanje kako ući u trag organizatorima ilegalnih borbi pasa.",
+          "russian": "Возникает вопрос, как выйти на след организаторов нелегальных собачьих боёв.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3443715/ilegalne-borbe-pasa-kako-uci-u-trag-organizatorima.html"
+        },
+        {
+          "serbian_latin": "Gotovo je nemoguće ući u trag počiniocima.",
+          "russian": "Выйти на след преступников почти невозможно.",
+          "source": "Euronews Srbija, 2025",
+          "url": "https://www.euronews.rs/srbija/aktuelno/171500/krada-saobracajnih-znakova-steta-i-retke-kazne/vest"
+        }
+      ],
+      "note": "Управление: ući u trag nekome / nečemu. Может относиться к преступнику, письму, деньгам, происхождению предмета или даже историческому документу.",
+      "keyword": "ući u trag"
+    },
+    {
       "headword_latin": "Udarac ispod pojasa",
       "type": "frazeologizam",
       "definition_ru": "Нечестный, подлый или особенно болезненный приём в споре, конфликте или отношениях. Русский эквивалент: «удар ниже пояса».",
@@ -36432,6 +36664,35 @@
       ],
       "note": "Kučine — спутанные очёсы льна или конопли; слово сегодня мало знакомо городскому носителю вне подобных оборотов. В Rečniku srpskih govora Vojvodine фиксируются несколько вариантов: saplesti se, upetljati se, zaplesti se kao pile u kučine. Образ понятен: чем сильнее цыплёнок барахтается в волокнах, тем сильнее запутывается. Русскому естественнее «запутаться как муха в паутине», но сербский оборот значительно колоритнее.",
       "keyword": "pile u kučine"
+    },
+    {
+      "headword_latin": "Zastaje dah",
+      "type": "frazeološki izraz",
+      "definition_ru": "Дух захватывает; что-либо производит настолько сильное впечатление красотой, масштабом или необычностью, что человек словно перестаёт дышать.",
+      "synonyms_sr": [
+        "oduzima dah",
+        "ostavlja bez daha",
+        "zadivljuje",
+        "izaziva oduševljenje"
+      ],
+      "literal_ru": "дыхание останавливается",
+      "register": "ekspresivno; naročito o pejzažima, umetnosti i spektakularnim prizorima",
+      "examples": [
+        {
+          "serbian_latin": "Pogled od koga zastaje dah.",
+          "russian": "Вид, от которого дух захватывает.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/3966309/kozji-kamen-na-staroj-planini-vidikovac-na-kome-zastaje-dah.html"
+        },
+        {
+          "serbian_latin": "Srbija krije brojne prirodne bisere od kojih zastaje dah.",
+          "russian": "В Сербии скрыто множество природных жемчужин, от которых захватывает дух.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/drustvo/gde-letovati-u-srbiji/"
+        }
+      ],
+      "note": "Типичная модель: prizor / pogled / lepota od koje zastaje dah. Почти полный русский эквивалент — «дух захватывает».",
+      "keyword": "zastaje dah"
     },
     {
       "headword_latin": "Zastati nekome dah",
