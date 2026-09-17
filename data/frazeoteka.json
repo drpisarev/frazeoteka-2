@@ -1195,6 +1195,33 @@
       "keyword": "čekić; nakovanj"
     },
     {
+      "headword_latin": "Biti / naći se na sto muka",
+      "type": "frazeologizam",
+      "definition_ru": "Находиться в крайне затруднительном положении; мучительно искать решение, не знать, как поступить; столкнуться сразу с множеством проблем.",
+      "synonyms_sr": [
+        "biti u velikoj nedoumici",
+        "biti u teškoj situaciji",
+        "ne znati šta da radiš",
+        "lomiti glavu"
+      ],
+      "literal_ru": "быть на ста муках",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Vi koji ste na sto muka održali fabrike i firme u energetici, prenite se i recite da hoćete ponovo da proizvodite.",
+          "russian": "Вы, кому с огромным трудом удалось сохранить предприятия энергетики, очнитесь и скажите, что хотите снова производить.",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "Biti lider znači i biti odgovoran za sve, što čoveka lako stavlja na sto muka.",
+          "russian": "Быть лидером означает отвечать за всё, а это легко ставит человека в крайне трудное положение.",
+          "source": "Blic, 2010"
+        }
+      ],
+      "note": "Выражение может описывать и объективные трудности, и мучительную нерешительность: biti na sto muka kako nešto uraditi. Sto здесь является обычным фразеологическим усилителем: проблем не обязательно буквально сто.",
+      "keyword": "na sto muka"
+    },
+    {
       "headword_latin": "Biti / naći se na tankom ledu",
       "type": "frazeologizam",
       "definition_ru": "быть на тонком льду; оказаться в шатком положении; рисковать",
@@ -2020,6 +2047,33 @@
       "keyword": "biti načisto"
     },
     {
+      "headword_latin": "Biti nečija desna ruka",
+      "type": "frazeologizam",
+      "definition_ru": "Быть чьим-либо ближайшим и доверенным помощником, человеком, на которого особенно полагаются. Русский аналог: «быть чьей-то правой рукой».",
+      "synonyms_sr": [
+        "biti najbliži saradnik",
+        "biti glavni pomoćnik",
+        "biti osoba od poverenja",
+        "biti ključni saradnik"
+      ],
+      "literal_ru": "быть чьей-то правой рукой",
+      "register": "neutralno-razgovorno i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Kažu mnogi da sam desna ruka Jasmine Vujić.",
+          "russian": "Многие говорят, что я правая рука Ясмины Вуич.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Još nije odredio ko će biti njegova desna ruka, odnosno obavljati najznačajniju funkciju šefa kabineta.",
+          "russian": "Он ещё не определил, кто станет его правой рукой, то есть займёт важнейшую должность руководителя кабинета.",
+          "source": "RTS, 2012"
+        }
+      ],
+      "note": "Русский и сербский образы полностью совпадают. Desna ruka — не просто любой помощник, а обычно ближайший доверенный сотрудник, обладающий заметной ответственностью и влиянием.",
+      "keyword": "desna ruka"
+    },
+    {
       "headword_latin": "Biti nekome na vrh jezika",
       "type": "frazeologizam",
       "definition_ru": "вертеться на языке; быть на кончике языка; быть вот-вот вспомненным или сказанным",
@@ -2587,6 +2641,33 @@
       ],
       "note": "Koplje здесь уже не воспринимается как реальная единица расстояния: оборот просто выражает заметное превосходство. Образ продуктивен — встречаются dva koplja ispred, tri koplja iznad, nekoliko kopalja ispred. Русское «на голову выше» почти всегда естественнее буквального «на копьё выше».",
       "keyword": "za koplje ispred"
+    },
+    {
+      "headword_latin": "Bled kao krpa",
+      "type": "poređenje",
+      "definition_ru": "Очень бледный; резко побледневший от страха, потрясения, болезни или сильного волнения. По-русски: «белый как полотно», «бледный как смерть».",
+      "synonyms_sr": [
+        "veoma bled",
+        "prebledeo",
+        "bez kapi krvi u licu",
+        "bled kao smrt"
+      ],
+      "literal_ru": "бледный как тряпка",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Predsednik je postao ljut kao ris, a trener bled kao krpa.",
+          "russian": "Президент разозлился как чёрт, а тренер стал белым как полотно.",
+          "source": "Sportski žurnal, 2025"
+        },
+        {
+          "serbian_latin": "Imao sam 15 godina, bio sam bled kao krpa.",
+          "russian": "Мне было пятнадцать лет, и я был белый как полотно.",
+          "source": "BBC na srpskom / Danas, 2022"
+        }
+      ],
+      "note": "Буквальное русское «бледный как тряпка» не является обычным фразеологизмом, поэтому переводить лучше «белый как полотно», «бледный как смерть». В сербском krpa в этом сравнении совершенно естественна.",
+      "keyword": "bled kao krpa"
     },
     {
       "headword_latin": "Blenuti kao tele u šarena vrata",
@@ -7854,6 +7935,33 @@
       ],
       "note": "В заголовках глагол часто опускается: имя человека + bez filtera o… означает, что он откровенно говорит на указанную тему. В этих примерах выражение не обязательно обещает грубость, мат или скандал: речь о личном рассказе без приукрашивания. Вместе с тем заявленная откровенность ещё не гарантирует достоверности каждого утверждения. Следует отличать переносное употребление от буквального objaviti fotografiju bez filtera — опубликовать фотографию без цифрового фильтра.",
       "keyword": "filter"
+    },
+    {
+      "headword_latin": "Graditi kule u vazduhu",
+      "type": "frazeologizam",
+      "definition_ru": "Строить нереалистичные планы, мечтать о том, что не имеет прочной основы или практически неосуществимо. Русский аналог: «строить воздушные замки».",
+      "synonyms_sr": [
+        "praviti nerealne planove",
+        "maštati bez osnova",
+        "živeti od iluzija",
+        "planirati bez realnog temelja"
+      ],
+      "literal_ru": "строить башни в воздухе",
+      "register": "neutralno-razgovorno i publicistički; obično neodobr. ili ironično",
+      "examples": [
+        {
+          "serbian_latin": "Nestaje baza, a mi gradimo kule u vazduhu.",
+          "russian": "Основа исчезает, а мы продолжаем строить воздушные замки.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Prisustvovali smo gradnji kule u vazduhu, ali bez temelja na zemlji.",
+          "russian": "Мы наблюдали строительство воздушного замка, у которого не было фундамента на земле.",
+          "source": "N1, 2015"
+        }
+      ],
+      "note": "Нормальная современная форма — graditi kule u vazduhu. Выражение обозначает не просто фантазирование, а планы, которым недостаёт реальной основы. Сербские лингвистические источники прямо сопоставляют его с идеей неосуществимых планов.",
+      "keyword": "kule u vazduhu"
     },
     {
       "headword_latin": "Graditi mostove",
@@ -16354,6 +16462,60 @@
       "keyword": "ni pet para"
     },
     {
+      "headword_latin": "Ne ide mi u glavu",
+      "type": "frazeologizam",
+      "definition_ru": "Я никак не могу этого понять или принять; это не укладывается у меня в голове. Русский эквивалент: «у меня в голове не укладывается».",
+      "synonyms_sr": [
+        "ne mogu da shvatim",
+        "ne mogu da razumem",
+        "nije mi jasno",
+        "ne mogu to da pojmim"
+      ],
+      "literal_ru": "мне это не идёт в голову",
+      "register": "razg., veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Ne ide mi u glavu. Pokušao sam to nekako sebi da objasnim, ali ne nalazim odgovore.",
+          "russian": "У меня это в голове не укладывается. Я пытался себе это как-то объяснить, но не нахожу ответа.",
+          "source": "BBC na srpskom / Danas, 2023"
+        },
+        {
+          "serbian_latin": "Da se sportska ikona Novak Đoković proglašava idiotom, to mi ne ide u glavu.",
+          "russian": "У меня в голове не укладывается, что спортивную икону Новака Джоковича называют идиотом.",
+          "source": "N1, 2018"
+        }
+      ],
+      "note": "Одна из очень полезных разговорных конструкций. Местоимение меняется: ne ide mi / ti / mu / joj u glavu. Часто выражает не отсутствие информации, а именно невозможность логически понять или эмоционально принять происходящее.",
+      "keyword": "ne ide mi u glavu"
+    },
+    {
+      "headword_latin": "Ne laje kera sela radi, nego sebe radi",
+      "type": "poslovica",
+      "definition_ru": "Человек действует не ради общего блага, как может утверждать, а прежде всего ради собственной выгоды или интереса. По-русски: «не за других старается — свой интерес блюдёт».",
+      "synonyms_sr": [
+        "svako gleda svoj interes",
+        "gleda svoju korist",
+        "ne radi to zbog drugih",
+        "ima svoj račun"
+      ],
+      "literal_ru": "собака лает не ради села, а ради самой себя",
+      "register": "poslovica, razgovorno, ironično ili cinično",
+      "examples": [
+        {
+          "serbian_latin": "Postoji jedna stara srpska poslovica: ne laje kera sela radi, nego sebe radi.",
+          "russian": "Есть старая сербская пословица: собака лает не ради села, а ради собственной выгоды.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Ne laje kera sela radi, nego sebe radi.",
+          "russian": "Не ради общего дела старается — свой интерес преследует.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Устойчивого полного русского аналога с тем же образом нет. Пословицу употребляют, когда за показной заботой об обществе, группе или другом человеке видят личный интерес. Встречается и сокращённая форма Ne laje kera sela radi.",
+      "keyword": "ne laje kera sela radi"
+    },
+    {
       "headword_latin": "Ne lezi vraže",
       "type": "izreka",
       "definition_ru": "но не тут-то было; ан нет; как назло",
@@ -18462,6 +18624,33 @@
       ],
       "note": "У выражения библейская основа, но сербская пословичная форма использует конкретный образ selo — «село, деревня». Русскому естественно переводить устойчивым «нет пророка в своём отечестве», а не сохранять деревню.",
       "keyword": "prorok u svom selu"
+    },
+    {
+      "headword_latin": "Nisam od juče",
+      "type": "izraz",
+      "definition_ru": "Я не вчера родился; я не новичок; у меня достаточно опыта, чтобы понимать, как всё устроено, и меня нелегко провести.",
+      "synonyms_sr": [
+        "nisam nov u tome",
+        "imam iskustva",
+        "znam kako stvari funkcionišu",
+        "ne možeš me lako prevariti"
+      ],
+      "literal_ru": "я не со вчерашнего дня",
+      "register": "razg., ekspresivno; često kao odgovor na pokušaj da se nekome objasni nešto očigledno ili da ga prevare",
+      "examples": [
+        {
+          "serbian_latin": "Ja nisam od juče u politici pa da ne znam šta je popularnije govoriti.",
+          "russian": "Я не вчера пришёл в политику и прекрасно понимаю, что популярнее говорить.",
+          "source": "Politika, 2024"
+        },
+        {
+          "serbian_latin": "Nisam od juče, jer 17 godina sam na važnim funkcijama.",
+          "russian": "Я не новичок: уже 17 лет занимаю важные должности.",
+          "source": "Politika, 2010"
+        }
+      ],
+      "note": "Очень живой разговорный оборот. Формы меняются по лицам: nisi od juče, nije on od juče и т. д. Обычно говорящий подчёркивает собственный опыт и то, что его трудно обмануть. Русское «я не вчера родился» практически полностью совпадает по функции.",
+      "keyword": "nisam od juče"
     },
     {
       "headword_latin": "Nisam sisao vesla",
@@ -21156,6 +21345,33 @@
       ],
       "note": "Конструкция почти полностью совпадает с русской, но полезно запомнить пару: biti u prvom planu — «быть на первом плане» и pasti u drugi plan — «отойти на второй план». Pasti подчёркивает изменение статуса: раньше это было важнее, теперь приоритет уменьшился.",
       "keyword": "pasti u drugi plan"
+    },
+    {
+      "headword_latin": "Pasti u nemilost",
+      "type": "frazeologizam",
+      "definition_ru": "Впасть в немилость; лишиться расположения, доверия, поддержки или покровительства влиятельного человека, группы или власти.",
+      "synonyms_sr": [
+        "izgubiti naklonost",
+        "izgubiti podršku",
+        "postati nepoželjan",
+        "izgubiti nečiju milost"
+      ],
+      "literal_ru": "впасть в немилость",
+      "register": "neutralno-knjiški i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Branko je, naravno, pao u nemilost.",
+          "russian": "Бранко, разумеется, впал в немилость.",
+          "source": "Politika, 2023"
+        },
+        {
+          "serbian_latin": "Navukao je gnev tamošnjih medija i pao u nemilost.",
+          "russian": "Он навлёк на себя гнев местных СМИ и впал в немилость.",
+          "source": "Politika, 2011"
+        }
+      ],
+      "note": "Сербский и русский обороты практически полностью совпадают. Чаще всего говорится о человеке, который раньше пользовался расположением или защитой, но затем их лишился. Возможен также вариант zapasti u nemilost.",
+      "keyword": "pasti u nemilost"
     },
     {
       "headword_latin": "Pasti u vatru",
@@ -29230,6 +29446,33 @@
       "keyword": "svaka roba ima svog kupca"
     },
     {
+      "headword_latin": "Svaka sila za vremena",
+      "type": "poslovica",
+      "definition_ru": "Никакая сила, власть или могущество не вечны; всему когда-нибудь приходит конец. Русские соответствия: «всякая сила до поры до времени», «ничто не вечно».",
+      "synonyms_sr": [
+        "ništa ne traje večno",
+        "svaka moć je prolazna",
+        "svemu dođe kraj",
+        "ničija nije do zore gorela"
+      ],
+      "literal_ru": "всякая сила — до времени",
+      "register": "poslovica, tradicionalno i publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Sila Boga ne moli, ali je svaka sila za vremena.",
+          "russian": "Сила Бога не просит, но всякая сила — лишь до поры до времени.",
+          "source": "Politika, 2023"
+        },
+        {
+          "serbian_latin": "Istorija nas uči da je svaka sila za vremena.",
+          "russian": "История учит нас, что никакая сила не вечна.",
+          "source": "Politika, 2023"
+        }
+      ],
+      "note": "Za vremena здесь означает «до определённого времени, не навечно». Пословица напоминает о временности власти и могущества. Встречается также в более длинных народных формулах, но короткая Svaka sila za vremena функционирует самостоятельно.",
+      "keyword": "svaka sila za vremena"
+    },
+    {
       "headword_latin": "Svaka škola se plaća",
       "type": "izreka",
       "definition_ru": "за каждый урок приходится платить; опыт приобретается ценой ошибок",
@@ -31067,6 +31310,33 @@
       ],
       "note": "Русское «крепкий орешек» совпадает почти полностью. Сербское tvrd orah особенно часто характеризует человека или соперника, которого трудно победить, заставить уступить или склонить к своей позиции. Возможна также характеристика сложной проблемы.",
       "keyword": "tvrd orah"
+    },
+    {
+      "headword_latin": "Tvrdoglav kao mazga",
+      "type": "poređenje",
+      "definition_ru": "Чрезвычайно упрямый, не желающий менять мнение или поведение даже тогда, когда это было бы разумно. Русский аналог: «упрямый как осёл».",
+      "synonyms_sr": [
+        "veoma tvrdoglav",
+        "svojeglav",
+        "jogunast",
+        "nedokazan"
+      ],
+      "literal_ru": "упрямый как мул",
+      "register": "razg., ekspresivno, obično neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Tvrdoglav kao mazga, dok je mogao da nešto uradi za sebe, mislio je da nema potrebe.",
+          "russian": "Упрямый как осёл: пока ещё мог что-то сделать для себя, считал, что в этом нет необходимости.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Handke je „tvrdoglav kao mazga“.",
+          "russian": "Хандке упрям как осёл.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Mazga — мул. Русскому учащемуся важно не калькировать автоматически: естественный русский образ обычно «упрямый как осёл». В сербском сравнение tvrdoglav kao mazga устойчивое и живое.",
+      "keyword": "tvrdoglav kao mazga"
     },
     {
       "headword_latin": "U bescenje",
