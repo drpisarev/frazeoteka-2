@@ -8551,30 +8551,31 @@
       "keyword": "i posle Tita Tito"
     },
     {
-      "headword_latin": "I vuk sit i ovce na broju",
+      "headword_latin": "i vuk sit i ovce na broju",
       "type": "poslovica",
-      "definition_ru": "и волки сыты, и овцы целы; все довольны; компромисс без явного проигравшего",
+      "definition_ru": "Найти решение, при котором удовлетворены обе стороны и никто ничего существенного не теряет. Практически полный русский аналог: «и волки сыты, и овцы целы».",
       "synonyms_sr": [
         "svi zadovoljni",
         "naći kompromis",
-        "niko nije na gubitku"
+        "zadovoljiti obe strane",
+        "pomiriti suprotne interese"
       ],
       "literal_ru": "и волк сыт, и овцы все на месте",
-      "register": "poslovica; često o kompromisu, dogovoru ili rešenju koje zadovoljava interese različitih strana",
+      "register": "poslovično, razgovorno i publicistički",
       "examples": [
         {
-          "serbian_latin": "Ukratko, situacija [...] ja tebi – ti meni, i vuk sit i ovce na broju.",
-          "russian": "Короче говоря: ты мне — я тебе, и волки сыты, и овцы целы.",
-          "source": "RTS, 2019"
+          "serbian_latin": "Znači, i vukovi su siti i ovce su na broju.",
+          "russian": "Получается, и волки сыты, и овцы целы.",
+          "source": "RTS, 2018"
         },
         {
-          "serbian_latin": "I vuk sit i ovce na broju.",
-          "russian": "И волки сыты, и овцы целы.",
-          "source": "Danas, 2008"
+          "serbian_latin": "Na kraju, narodski rečeno, bili su i vuk sit i ovce na broju.",
+          "russian": "В итоге, как говорится, и волки оказались сыты, и овцы целы.",
+          "source": "Danas, 2026"
         }
       ],
-      "note": "Русский эквивалент почти полный, но сербское ovce na broju буквально означает «все овцы на месте, ни одной не недостаёт». Встречается и множественный вариант vukovi su siti i ovce su na broju. Обычно формула подчёркивает решение, при котором удалось избежать явного ущерба для одной из сторон.",
-      "keyword": "vuk sit ovce na broju"
+      "note": "Варианты единственного и множественного числа свободно чередуются: i vuk sit / i vukovi siti. Фраза может употребляться серьёзно или иронически, если компромисс выглядит слишком удобным.",
+      "keyword": "vuk; ovce; kompromis"
     },
     {
       "headword_latin": "I zidovi imaju uši",
@@ -14161,6 +14162,33 @@
       "keyword": "koplje"
     },
     {
+      "headword_latin": "lomiti koplja oko nečega",
+      "type": "frazeologizam",
+      "definition_ru": "Жарко спорить о чём-либо; вести ожесточённые споры вокруг какого-либо вопроса. Русские соответствия: «ломать копья», «вести жаркие споры».",
+      "synonyms_sr": [
+        "žestoko raspravljati",
+        "sporiti se",
+        "voditi polemiku",
+        "sukobljavati stavove"
+      ],
+      "literal_ru": "ломать копья вокруг чего-либо",
+      "register": "neutralno-publicistički, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Oko cene NIS-a će se lomiti koplja.",
+          "russian": "Вокруг цены NIS будут идти жаркие споры.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Oko njega će se tek lomiti koplja u predizbornoj kampanji.",
+          "russian": "Вокруг него в предвыборной кампании ещё будут ломать копья.",
+          "source": "Danas, 2012"
+        }
+      ],
+      "note": "Обычно употребляется с предлогом oko: lomiti koplja oko pitanja, zakona, kandidata, cene. Обозначает активное столкновение противоположных мнений, а не обязательно личную ссору.",
+      "keyword": "koplja; rasprava; spor"
+    },
+    {
       "headword_latin": "Loviti u mutnom",
       "type": "frazeologizam",
       "definition_ru": "ловить рыбу в мутной воде; пользоваться неразберихой; извлекать выгоду из сомнительной ситуации",
@@ -15259,16 +15287,17 @@
       "keyword": "na krv i nož"
     },
     {
-      "headword_latin": "Na kukovo leto",
-      "type": "izraz",
-      "definition_ru": "когда рак на горе свистнет; после дождичка в четверг; никогда или бог знает когда",
+      "headword_latin": "na kukovo leto",
+      "type": "frazeologizam",
+      "definition_ru": "Никогда или в неопределённо далёком будущем, которого практически не дождаться. Русские аналоги: «когда рак на горе свистнет», «после дождичка в четверг».",
       "synonyms_sr": [
         "nikad",
+        "nikad pa ni tad",
         "ko zna kad",
         "kad na vrbi rodi grožđe"
       ],
-      "literal_ru": "",
-      "register": "razg., iron.; o događaju koji se neće desiti ili se odlaže na neodređeno daleku budućnost",
+      "literal_ru": "на кукушкино лето",
+      "register": "narodno, razgovorno, ironično",
       "examples": [
         {
           "serbian_latin": "Vanredni parlamentarni izbori na kukovo leto.",
@@ -15276,13 +15305,13 @@
           "source": "Danas, 2026"
         },
         {
-          "serbian_latin": "…da će privremena uprava u Zemunu biti uvedena „na kukovo leto“.",
-          "russian": "…что временное управление в Земуне введут бог знает когда.",
-          "source": "Blic, 2009"
+          "serbian_latin": "Dedovina na kukovo leto.",
+          "russian": "Наследственное имущество — неизвестно когда, если вообще когда-нибудь.",
+          "source": "NIN, 2023"
         }
       ],
-      "note": "Для русского буквальный образ ничего не подсказывает: «куково лето» русским фразеологизмом не является. Значение колеблется от категорического «никогда» до иронического «неизвестно когда, в очень далёком будущем». Danas прямо сопоставляет выражение с латинским ad calendas Graecas — «до греческих календ», то есть никогда.",
-      "keyword": "kukovo leto"
+      "note": "В современных текстах основное значение — «никогда / неизвестно когда». В диалектных источниках kukovo leto может иметь и другое значение, связанное с кратким осенним потеплением, но для активного современного словаря важнее именно ироническое «никогда».",
+      "keyword": "kukovo leto; nikad; čekanje"
     },
     {
       "headword_latin": "Na lepe oči",
@@ -16660,30 +16689,31 @@
       "keyword": "pišljiva boba"
     },
     {
-      "headword_latin": "Ne zna se ko pije, a ko plaća",
+      "headword_latin": "ne zna se ko pije, a ko plaća",
       "type": "izreka",
-      "definition_ru": "полный бардак; непонятно, кто за что отвечает; ничего не разберёшь",
+      "definition_ru": "Полный беспорядок: непонятно, кто за что отвечает, кто принимает решения и кто несёт последствия. Русские соответствия: «чёрт ногу сломит», «не поймёшь, кто за что отвечает», «полный бардак».",
       "synonyms_sr": [
-        "vlada haos",
+        "vlada potpuni haos",
+        "ne zna se ko je za šta odgovoran",
         "nema reda",
-        "ne zna se ko šta radi"
+        "sve je zbrkano"
       ],
       "literal_ru": "неизвестно, кто пьёт, а кто платит",
-      "register": "razg., ekspresivno, neodobr.; takođe ne zna se ko pije ko plaća",
+      "register": "razgovorno, ekspresivno, neodobr.",
       "examples": [
         {
-          "serbian_latin": "To što se ne zna ko pije, a ko plaća, ko upravlja Evropskom unijom.",
+          "serbian_latin": "Ne zna se ko pije, a ko plaća, ko upravlja Evropskom unijom.",
           "russian": "Непонятно, кто за что отвечает и кто вообще управляет Европейским союзом.",
           "source": "RTS, 2026"
         },
         {
           "serbian_latin": "Kako bi se narodski reklo: „Ne zna se ko pije, a ko plaća“.",
-          "russian": "Как говорится в народе: полный бардак, ничего не разберёшь.",
+          "russian": "Как говорится в народе: полный беспорядок, никто ни за что не отвечает.",
           "source": "Danas, 2023"
         }
       ],
-      "note": "Главное здесь не пьянство и не деньги, а отсутствие порядка и ясного распределения ролей: непонятно, кто принимает решения, кто отвечает и что вообще происходит. В зависимости от контекста по-русски это «чёрт ногу сломит», «полный бардак», «не поймёшь, кто за что отвечает». Выражение особенно часто встречается при описании плохо организованной системы или учреждения.",
-      "keyword": "ko pije a ko plaća"
+      "note": "Выражение описывает организационный хаос и размывание ответственности. Это не обязательно связано с деньгами или настоящим застольем. Часто употребляется о фирме, учреждении, государственном управлении или плохо организованной работе.",
+      "keyword": "ko pije ko plaća; haos; odgovornost"
     },
     {
       "headword_latin": "Ne zna se ko pije, ko plaća",
@@ -18937,31 +18967,31 @@
       "keyword": "od glave do pete"
     },
     {
-      "headword_latin": "Od gotovog praviti veresiju",
+      "headword_latin": "od gotovog praviti veresiju",
       "type": "frazeologizam",
-      "definition_ru": "упустить почти верное дело; из практически достигнутого результата снова сделать неопределённость",
+      "definition_ru": "Испортив почти решённое или выигранное дело, снова сделать результат неопределённым; поставить под угрозу то, что уже практически было в руках. Русские соответствия: «упустить почти верное дело», «из выигранного положения создать себе проблемы».",
       "synonyms_sr": [
         "prokockati prednost",
         "zakomplikovati gotovu stvar",
-        "ispustiti dobijeno",
-        "upropastiti skoro završen posao"
+        "dovesti siguran ishod u pitanje",
+        "pokvariti već završenu stvar"
       ],
-      "literal_ru": "из готового делать продажу в долг",
-      "register": "razg.-publicistički, neodobr.; naročito često u sportu kada se gubi gotovo sigurna pobeda",
+      "literal_ru": "из готового делать вересию — покупку в долг",
+      "register": "razgovorno, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Navijači se često sete klubova koji su gubili dobijene utakmice, ili kako se kaže, „od gotovog pravili veresiju“.",
-          "russian": "Болельщики вспоминают команды, которые умудрялись упустить практически выигранные матчи.",
-          "source": "RTS, 2011"
+          "serbian_latin": "Ne treba od gotovog praviti veresiju.",
+          "russian": "Не стоит ставить под угрозу то, что уже практически решено.",
+          "source": "Narodna skupština Republike Srbije, 2013"
         },
         {
-          "serbian_latin": "Srpski fudbaleri [...] ne umeju ni sami da objasne kako su od gotovog napravili veresiju.",
-          "russian": "Сербские футболисты и сами не могут объяснить, как упустили почти готовую победу.",
-          "source": "BBC na srpskom / Danas, 2022"
+          "serbian_latin": "Valensija umalo od gotovog napravila veresiju.",
+          "russian": "«Валенсия» едва не упустила практически уже выигранное дело.",
+          "source": "Sportal, 2026"
         }
       ],
-      "note": "Veresija — покупка или продажа в долг, без немедленной оплаты. Образ поэтому очень точный: нечто уже практически «готовое» снова превращают в сомнительный будущий результат. По-русски компактного образного эквивалента нет; в спорте лучше «упустить почти выигранный матч», в делах — «самому всё снова поставить под вопрос».",
-      "keyword": "od gotovog praviti veresiju"
+      "note": "Veresija — покупка в долг, без немедленной оплаты. Образ противопоставляет nešto gotovo — уже имеющийся, надёжный результат — чему-то неопределённому и ещё не оплаченному. Особенно часто выражение встречается в спорте.",
+      "keyword": "gotovo; veresija; prokockati"
     },
     {
       "headword_latin": "Od igle do lokomotive",
@@ -23768,33 +23798,31 @@
       "keyword": "pretresti temu"
     },
     {
-      "headword_latin": "Prevesti nekoga žednog preko vode",
+      "headword_latin": "prevesti nekoga žednog preko vode",
       "type": "frazeologizam",
-      "definition_ru": "обвести вокруг пальца; ловко обмануть; провести кого-то",
+      "definition_ru": "Очень ловко кого-либо обмануть, перехитрить или обвести вокруг пальца. Часто характеризует особенно хитрого человека: он способен обмануть даже там, где обман кажется невозможным.",
       "synonyms_sr": [
-        "prevariti",
-        "nasamariti",
-        "obrlatiti",
-        "podvaliti"
+        "nadmudriti nekoga",
+        "prevariti nekoga",
+        "namagarčiti nekoga",
+        "obmanuti nekoga"
       ],
-      "literal_ru": "перевести кого-то жаждущим через воду",
-      "register": "razg., ekspresivno, neodobr.; objekat je u akuzativu",
+      "literal_ru": "перевести кого-то жаждущего через воду",
+      "register": "razgovorno, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Lako je prevariti naivnog i prevesti ga žednog preko vode.",
-          "russian": "Наивного легко обмануть и обвести вокруг пальца.",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/kolumna/milan-st-protic/eto-sta-je-njegova-politika-batine-i-milostinja/"
+          "serbian_latin": "On te može prevesti žednog preko vode.",
+          "russian": "Он тебя кого угодно обведёт вокруг пальца.",
+          "source": "Vukajlija, 2007"
         },
         {
-          "serbian_latin": "A da ne izgleda kao da ga je Kremlj preveo žednog preko vode.",
-          "russian": "Чтобы при этом не выглядело так, будто Кремль обвёл его вокруг пальца.",
-          "source": "BBC na srpskom / Danas, 2025",
-          "url": "https://www.danas.rs/bbc-news-serbian/putin-daje-trampu-tek-toliko-da-moze-da-tvrdi-da-je-ostvaren-napredak-u-ukrajini/"
+          "serbian_latin": "Ona ti je njega prevela žednog preko vode!",
+          "russian": "Она его здорово перехитрила!",
+          "source": "Vukajlija, 2007"
         }
       ],
-      "note": "Образ особенно выразителен: человека будто провели через воду, но он всё равно остался жаждущим — его ловко оставили ни с чем. Для русскоязычного неожиданна грамматика: žednog относится к объекту и стоит вместе с ним в винительном падеже — prevesti njega žednog; с женским лицом возможно je žednu.",
-      "keyword": "žednog preko vode"
+      "note": "Образ намеренно парадоксален: человека проводят мимо доступной воды, но он всё равно остаётся жаждущим. Очень частая характеристика ловкости: taj bi te žednog preko vode preveo. Обычно имеет неодобрительный оттенок.",
+      "keyword": "žedan; voda; prevara"
     },
     {
       "headword_latin": "Prevesti žednog preko vode",
@@ -24904,6 +24932,33 @@
       "keyword": "tikva"
     },
     {
+      "headword_latin": "pući tikva između nekoga",
+      "type": "frazeologizam",
+      "definition_ru": "Окончательно рассориться; разорвать отношения, союз или дружбу. Часто употребляется без дополнения: pukla je tikva или просто pukla tikva. Русские аналоги: «отношения дали трещину», «между ними всё кончено», «они разругались».",
+      "synonyms_sr": [
+        "posvađati se",
+        "raskinuti odnose",
+        "prekinuti vezu",
+        "razlaziti se"
+      ],
+      "literal_ru": "тыква лопнула",
+      "register": "razgovorno, ekspresivno, često u naslovima",
+      "examples": [
+        {
+          "serbian_latin": "Pukla tikva! Gastoz potvrdio raskid sa Anđelom.",
+          "russian": "Всё кончено: Гастоз подтвердил расставание с Анджелой.",
+          "source": "Telegraf, 2026"
+        },
+        {
+          "serbian_latin": "Pukla tikva nakon što je Pavle Mensur uhvaćen sa atraktivnom plavušom.",
+          "russian": "Отношения окончательно дали трещину после того, как Павле Менсура увидели с блондинкой.",
+          "source": "Blic, 2026"
+        }
+      ],
+      "note": "Выражение применимо не только к любовным отношениям: tikva может pući между друзьями, партнёрами, коллегами или политическими союзниками. Типичная модель: između njih je pukla tikva.",
+      "keyword": "pukla tikva; svađa; raskid"
+    },
+    {
       "headword_latin": "Pukao mi je film",
       "type": "frazeologizam",
       "definition_ru": "у меня лопнуло терпение; я сорвался; меня прорвало",
@@ -25815,27 +25870,30 @@
     },
     {
       "headword_latin": "s neba pa u rebra",
-      "type": "фразеологизм",
-      "definition_ru": "Внезапно и без подготовки; без предисловий; ошарашить прямым вопросом или заявлением.",
+      "type": "frazeologizam",
+      "definition_ru": "Сказать или сделать что-либо совершенно неожиданно, без вступления и подготовки, сразу поставив собеседника перед фактом или неудобным вопросом. Русские аналоги: «с бухты-барахты», «ни с того ни с сего», иногда «с места в карьер».",
       "synonyms_sr": [
-        "iznenada",
         "bez uvoda",
-        "bez najave",
+        "iznenada",
         "odmah preći na stvar",
-        "sasuti nekome nešto u lice"
+        "neočekivano"
       ],
-      "literal_ru": "С неба прямо в рёбра.",
-      "register": "Разговорное, экспрессивное, часто неодобрительное.",
+      "literal_ru": "с неба прямо по рёбрам",
+      "register": "razgovorno, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Nije ni čudo, sinak, kad si nastupio tako s neba pa u rebra.",
-          "russian": "Неудивительно, сынок: ты начал слишком резко, без всякого предисловия.",
-          "source": "Vukajlija, 2010",
-          "url": "https://vukajlija.com/s-neba-pa-u-rebra/127936"
+          "serbian_latin": "Ni dobar dan mi ne reče, s neba pa u rebra pita: „Kad si poslednji put imao seks?“",
+          "russian": "Даже не поздоровался и вдруг с места в карьер спросил: «Когда у тебя последний раз был секс?»",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Ona trudna, deveti mesec, a on s neba pa u rebra! Vanbračno dete!",
+          "russian": "Она на девятом месяце беременности, а он вдруг как гром среди ясного неба — внебрачный ребёнок!",
+          "source": "Danas, 2016"
         }
       ],
-      "note": "Выражение обозначает не просто неожиданность, а резкий переход к теме или чересчур прямолинейное заявление.",
-      "keyword": "rebro"
+      "note": "Особенно естественно о неожиданном вопросе, заявлении или новости: pitati nešto s neba pa u rebra, saopštiti nešto s neba pa u rebra. Обычно подчёркивается отсутствие какого-либо плавного вступления.",
+      "keyword": "s neba pa u rebra; iznenada; bez uvoda"
     },
     {
       "headword_latin": "S oproštenjem",
@@ -30802,6 +30860,33 @@
       "keyword": "trla baba lan"
     },
     {
+      "headword_latin": "trla baba lan da joj prođe dan",
+      "type": "poslovica",
+      "definition_ru": "Заниматься пустыми, бесполезными разговорами или действиями, которые ничего не меняют и служат только для того, чтобы занять время. Русские аналоги: «толочь воду в ступе», «переливать из пустого в порожнее».",
+      "synonyms_sr": [
+        "praznosloviti",
+        "vrteti istu priču",
+        "pričati bez rezultata",
+        "gubiti vreme"
+      ],
+      "literal_ru": "трепала баба лён, чтобы день прошёл",
+      "register": "narodno, razgovorno, ironično",
+      "examples": [
+        {
+          "serbian_latin": "Beskrajne jalove rasprave u stilu: „Trla baba lan da joj prođe dan…“",
+          "russian": "Бесконечные бесплодные разговоры в стиле «лишь бы чем-нибудь занять время».",
+          "source": "Danas, 2014"
+        },
+        {
+          "serbian_latin": "To se u boljim vremenima zvalo „trla baba lan“.",
+          "russian": "В прежние времена это называли «толочь воду в ступе».",
+          "source": "Danas, 2013"
+        }
+      ],
+      "note": "Очень часто употребляется сокращённая форма trla baba lan. Обычно это неодобрительная характеристика бессодержательных совещаний, повторяющихся обещаний, разговоров по кругу или имитации деятельности.",
+      "keyword": "trla baba lan; prazna priča; uzalud"
+    },
+    {
       "headword_latin": "trn u oku",
       "type": "фразеологизм",
       "definition_ru": "Постоянный раздражитель; ненавистный человек или предмет; помеха, которую хотели бы устранить.",
@@ -32745,30 +32830,31 @@
       "keyword": "vrag je odneo šalu"
     },
     {
-      "headword_latin": "Vrana vrani oči ne vadi",
+      "headword_latin": "vrana vrani oči ne vadi",
       "type": "poslovica",
-      "definition_ru": "ворон ворону глаз не выклюет; свои своих не сдают; рука руку моет",
+      "definition_ru": "Люди одной среды или группы обычно прикрывают друг друга и не вредят своим, особенно если у них общие интересы. Русский аналог: «ворон ворону глаз не выклюет».",
       "synonyms_sr": [
         "svoj svoga štiti",
-        "moćnici se međusobno čuvaju",
-        "ruka ruku mije"
+        "čuvati svoje",
+        "držati jedni drugima stranu",
+        "štititi se međusobno"
       ],
-      "literal_ru": "ворона вороне глаза не выклёвывает",
-      "register": "poslovica, neodobr.; o korporativnoj solidarnosti ljudi koji međusobno prikrivaju jedni druge",
+      "literal_ru": "ворона вороне глаз не выклёвывает",
+      "register": "poslovično, razgovorno, obično neodobr. ili cinično",
       "examples": [
         {
-          "serbian_latin": "Ima ona maksima da vrana vrani oči ne vadi.",
-          "russian": "Есть такая поговорка: ворон ворону глаз не выклюет.",
-          "source": "RTS, 2023"
+          "serbian_latin": "Vrana vrani oči ne vadi.",
+          "russian": "Ворон ворону глаз не выклюет.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Forma je zadovoljena, ali svi znaju da je po sredi prevara. Zašto? Zato što vrana vrani oči ne vadi.",
-          "russian": "Формальность соблюдена, но все понимают, что это обман. Почему? Потому что ворон ворону глаз не выклюет.",
-          "source": "Danas, 2007"
+          "serbian_latin": "Vrana vrani oči ne vadi, njihov korporativni interes jači je od svega.",
+          "russian": "Ворон ворону глаз не выклюет: их общий корпоративный интерес сильнее всего.",
+          "source": "Danas, 2012"
         }
       ],
-      "note": "Русский эквивалент совпадает почти буквально. Обычно речь не о простой дружбе, а о взаимном прикрытии представителей одной профессии, власти, организации или круга интересов. Поэтому поговорка почти всегда несёт критическую оценку.",
-      "keyword": "vrana; oči"
+      "note": "Обычно подразумевается не просто дружеская солидарность, а взаимное прикрытие людей одной профессии, организации или круга, даже когда один из них поступил неправильно.",
+      "keyword": "vrana; svoj svoga; solidarnost"
     },
     {
       "headword_latin": "Vratiti (se) na fabrička podešavanja",
