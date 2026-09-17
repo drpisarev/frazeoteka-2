@@ -1305,6 +1305,33 @@
       "keyword": "pod staklenim zvonom"
     },
     {
+      "headword_latin": "Biti / ostati čvrsto na zemlji",
+      "type": "frazeologizam",
+      "definition_ru": "Сохранять реалистичный взгляд на вещи, не зазнаваться и не терять чувство реальности из-за успеха, похвалы или больших ожиданий. Русские соответствия: «твёрдо стоять на земле», «не отрываться от реальности».",
+      "synonyms_sr": [
+        "biti realan",
+        "ostati prizeman",
+        "ne zanositi se",
+        "ne poleteti posle uspeha"
+      ],
+      "literal_ru": "твёрдо оставаться на земле",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Moramo da budemo čvrsto na zemlji, bez euforije.",
+          "russian": "Нужно твёрдо стоять на земле и не поддаваться эйфории.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Preskočio sam neke stepenike, ali ostao sam na zemlji.",
+          "russian": "Я перескочил несколько ступеней, но не потерял связи с реальностью.",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Часты варианты ostati na zemlji, biti sa obe noge na zemlji и biti čvrsto na zemlji. Речь не о физическом положении тела, а о здравом, реалистичном отношении к себе и ситуации.",
+      "keyword": "čvrsto na zemlji"
+    },
+    {
       "headword_latin": "Biti / sedeti kao na iglama",
       "type": "frazeologizam",
       "definition_ru": "быть как на иголках; нервничать в ожидании; не находить себе места",
@@ -3621,6 +3648,33 @@
       "keyword": "čist račun duga ljubav"
     },
     {
+      "headword_latin": "Čiste savesti",
+      "type": "frazeološki izraz",
+      "definition_ru": "Не испытывая чувства вины; будучи уверенным, что поступил честно и правильно. Русские соответствия: «с чистой совестью», «со спокойной совестью».",
+      "synonyms_sr": [
+        "mirne savesti",
+        "bez osećaja krivice",
+        "bez griže savesti",
+        "spokojne savesti"
+      ],
+      "literal_ru": "с чистой совестью",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Odlazim čiste savesti i uzdignuta čela.",
+          "russian": "Я ухожу с чистой совестью и высоко поднятой головой.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Svako ko je čiste savesti i zdrave pameti ume da se zaštiti.",
+          "russian": "Каждый, у кого чистая совесть и здравый разум, умеет себя защитить.",
+          "source": "Politika, 2007"
+        }
+      ],
+      "note": "Употребляются модели biti čiste savesti и nešto uraditi čiste savesti. Противоположное griža savesti — «угрызения совести».",
+      "keyword": "čiste savesti"
+    },
+    {
       "headword_latin": "Čitati između redova",
       "type": "frazeologizam",
       "definition_ru": "читать между строк; улавливать скрытый смысл; понимать невысказанное",
@@ -5117,6 +5171,33 @@
       ],
       "note": "В сочетании gas do daske русский эквивалент — «газ в пол». Но do daske давно работает шире как усилитель максимальной степени: pojačati do daske, živeti do daske. Поэтому одного русского перевода нет: «до упора», «на полную», «на всю катушку». Точное происхождение расширенного употребления лучше не выводить только из современного автомобильного образа.",
       "keyword": "do daske"
+    },
+    {
+      "headword_latin": "Do srži",
+      "type": "frazeološki izraz",
+      "definition_ru": "До самой глубины, полностью, всем существом; до самой сути. Русские соответствия: «до мозга костей», «до глубины души», «до самой сердцевины» — в зависимости от контекста.",
+      "synonyms_sr": [
+        "do same srži",
+        "potpuno",
+        "duboko",
+        "u potpunosti"
+      ],
+      "literal_ru": "до костного мозга / сердцевины",
+      "register": "ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Crnogorski ekstremni nacionalizam je nešto čemu se do srži protivi.",
+          "russian": "Черногорский крайний национализм — то, чему он противится всем своим существом.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Ocena stanja nacije – iskreno do srži.",
+          "russian": "Оценка состояния нации — откровенно до самой глубины.",
+          "source": "Danas, 2026"
+        }
+      ],
+      "note": "Srži буквально означает «костный мозг» или сердцевину чего-либо. Поэтому перевод зависит от сочетания: iskren do srži — «искренний до мозга костей», potresen do srži — «потрясён до глубины души».",
+      "keyword": "do srži"
     },
     {
       "headword_latin": "Dobar glas daleko se čuje",
@@ -7964,6 +8045,33 @@
       "keyword": "filter"
     },
     {
+      "headword_latin": "Govoriti istim jezikom",
+      "type": "frazeologizam",
+      "definition_ru": "Хорошо понимать друг друга, исходить из сходных представлений или пользоваться общей профессиональной системой понятий. Русский аналог: «говорить на одном языке».",
+      "synonyms_sr": [
+        "dobro se razumeti",
+        "razumeti se",
+        "imati zajednički način razmišljanja",
+        "biti na istoj talasnoj dužini"
+      ],
+      "literal_ru": "говорить на одном и том же языке",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Veoma je prijatno raditi sa profesionalcem i govoriti istim profesionalnim jezikom.",
+          "russian": "Очень приятно работать с профессионалом и говорить с ним на одном профессиональном языке.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Kako je moguće i dalje govoriti istim jezikom, koristiti iste metode?",
+          "russian": "Как возможно по-прежнему говорить тем же языком и пользоваться теми же методами?",
+          "source": "Danas, 2014"
+        }
+      ],
+      "note": "Может быть буквально о языке общения, поэтому фразеологическое значение определяется контекстом. В нём istim jezikom означает прежде всего общее понимание и общую систему взглядов.",
+      "keyword": "govoriti istim jezikom"
+    },
+    {
       "headword_latin": "Graditi kule u vazduhu",
       "type": "frazeologizam",
       "definition_ru": "Строить нереалистичные планы, мечтать о том, что не имеет прочной основы или практически неосуществимо. Русский аналог: «строить воздушные замки».",
@@ -10719,6 +10827,33 @@
       ],
       "note": "Русский и сербский обороты совпадают почти полностью. Противопоставление — iz druge ruke: информация получена через посредника, пересказ. Типичные сочетания: čuti, saznati, videti, iskusiti iz prve ruke.",
       "keyword": "iz prve ruke"
+    },
+    {
+      "headword_latin": "Iza kulisa",
+      "type": "frazeologizam",
+      "definition_ru": "Скрытно от публики; в непубличной части какого-либо процесса. Русские соответствия: «за кулисами», «за сценой», «неофициально».",
+      "synonyms_sr": [
+        "daleko od očiju javnosti",
+        "tajno",
+        "u pozadini",
+        "nezvanično"
+      ],
+      "literal_ru": "за кулисами",
+      "register": "neutralno-publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Iza kulisa su vodile svoju bitku.",
+          "russian": "За кулисами они вели собственную борьбу.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Iza kulisa života u Mineapolisu odvijaju se sasvim drugačije priče.",
+          "russian": "За кулисами жизни Миннеаполиса разворачиваются совсем другие истории.",
+          "source": "BBC na srpskom / Danas, 2026"
+        }
+      ],
+      "note": "Kulise буквально — театральные декорации. Переносное iza kulisa особенно часто относится к переговорам, договорённостям, конфликтам и событиям, невидимым публике.",
+      "keyword": "iza kulisa"
     },
     {
       "headword_latin": "Izaći / doći na zelenu granu",
@@ -16193,6 +16328,33 @@
       "keyword": "sobarica"
     },
     {
+      "headword_latin": "Naoružati se strpljenjem",
+      "type": "frazeologizam",
+      "definition_ru": "Запастись терпением, заранее приготовиться долго ждать или спокойно переносить трудности. Русский эквивалент: «вооружиться терпением».",
+      "synonyms_sr": [
+        "biti strpljiv",
+        "spremiti se na čekanje",
+        "imati strpljenja",
+        "strpljivo sačekati"
+      ],
+      "literal_ru": "вооружиться терпением",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Ukoliko ovih dana zovete turističke agencije, treba se naoružati strpljenjem.",
+          "russian": "Если вы сейчас звоните в туристические агентства, придётся запастись терпением.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Ključno je ne preskakati stepenice i naoružati se strpljenjem.",
+          "russian": "Главное — не перескакивать через ступени и запастись терпением.",
+          "source": "Politika, 2026"
+        }
+      ],
+      "note": "Глагол naoružati se буквально означает «вооружиться», но здесь речь о психологическом ресурсе. Часто используется как совет перед долгим ожиданием или сложным процессом.",
+      "keyword": "naoružati se strpljenjem"
+    },
+    {
       "headword_latin": "Napaćena duša",
       "type": "kolokacija",
       "definition_ru": "измученная душа; многострадальная душа; измученный человек",
@@ -16244,6 +16406,33 @@
       ],
       "note": "Выражение описывает крайнюю степень опьянения и одновременно резко осуждает поведение человека. В живой речи широко употребляются варианты napiti se kao stoka, napiti se kao majka и ubiti se od alkohola. Русское «напиться как свинья» почти полностью совпадает с сербским выражением по образу и степени грубости.",
       "keyword": "napiti se"
+    },
+    {
+      "headword_latin": "Napuniti baterije",
+      "type": "frazeologizam",
+      "definition_ru": "Отдохнуть и восстановить силы, энергию и работоспособность. Русские соответствия: «подзарядить батарейки», «набраться сил», «перезагрузиться».",
+      "synonyms_sr": [
+        "odmoriti se",
+        "povratiti energiju",
+        "obnoviti snagu",
+        "napuniti se energijom"
+      ],
+      "literal_ru": "зарядить батареи",
+      "register": "razg., veoma često",
+      "examples": [
+        {
+          "serbian_latin": "U kiosku možete da se posvetite mentalnoj dobrobiti i napunite baterije.",
+          "russian": "В кабинке можно уделить внимание психологическому состоянию и подзарядить батарейки.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Ovde uživamo, napunimo baterije i vratimo se kući.",
+          "russian": "Здесь мы отдыхаем, заряжаемся энергией и возвращаемся домой.",
+          "source": "RTS, 2024"
+        }
+      ],
+      "note": "Современная технологическая метафора стала полностью привычной в языке. Обычно подразумевает отдых после напряжённой работы, поездку, природу, сон или приятное общение.",
+      "keyword": "napuniti baterije"
     },
     {
       "headword_latin": "Našla vreća zakrpu",
@@ -19479,6 +19668,33 @@
       "keyword": "od viška"
     },
     {
+      "headword_latin": "Od zla oca i gore majke",
+      "type": "izraz",
+      "definition_ru": "О группе крайне неприятных, сомнительных или дурных людей: один хуже другого, все как на подбор. Русские соответствия: «один хуже другого», «все как на подбор — хуже некуда».",
+      "synonyms_sr": [
+        "sve gori od goreg",
+        "jedan gori od drugog",
+        "loše društvo",
+        "s koca i konopca"
+      ],
+      "literal_ru": "от злого отца и ещё худшей матери",
+      "register": "razg., ekspresivno, pejorativno",
+      "examples": [
+        {
+          "serbian_latin": "Za ostale je ocenio da su „od zla oca i gore majke“.",
+          "russian": "Об остальных он сказал, что они один хуже другого.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Slepo ga slušaju samo sledbenici, što bi narod rekao „od zla oca i od gore majke“.",
+          "russian": "Его беспрекословно слушают лишь последователи — как говорится, один хуже другого.",
+          "source": "Danas, 2024"
+        }
+      ],
+      "note": "Выражение старое и встречается уже в народной эпической традиции. Оно не описывает реальных родителей человека: вся формула служит усиленно отрицательной характеристикой людей или компании.",
+      "keyword": "od zla oca i gore majke"
+    },
+    {
       "headword_latin": "Odelo ne čini čoveka",
       "type": "poslovica",
       "definition_ru": "не одежда красит человека; по одёжке встречают, но человека определяет не одежда",
@@ -21563,6 +21779,33 @@
       "keyword": "pasti u nemilost"
     },
     {
+      "headword_latin": "Pasti u senku",
+      "type": "frazeologizam",
+      "definition_ru": "Отойти на второй план; стать менее заметным или менее важным из-за другого события, человека или обстоятельства. Русские соответствия: «оказаться в тени», «отойти на второй план».",
+      "synonyms_sr": [
+        "ostati u senci",
+        "biti potisnut u drugi plan",
+        "postati manje primećen",
+        "izgubiti značaj"
+      ],
+      "literal_ru": "попасть в тень",
+      "register": "neutralno-publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Njegova sjajna igra je pala u senku incidenta u finišu meča.",
+          "russian": "Его великолепная игра отошла на второй план из-за инцидента в концовке матча.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Čak je i olimpijska bronza pala u senku, a ona je, ipak, najvažnija.",
+          "russian": "Даже олимпийская бронза оказалась в тени, хотя именно она всё-таки важнее всего.",
+          "source": "Politika, 2008"
+        }
+      ],
+      "note": "Частая модель: nešto pada / padne u senku nečega. Причина, которая заслоняет главное событие, обычно ставится в родительном падеже после u senku.",
+      "keyword": "pasti u senku"
+    },
+    {
       "headword_latin": "Pasti u vatru",
       "type": "frazeologizam",
       "definition_ru": "Сильно распалиться, разволноваться, прийти в возбуждение; чаще — вспылить, разозлиться и начать говорить или действовать горячо. Иногда может означать и чрезмерно увлечься чем-либо.",
@@ -22028,6 +22271,32 @@
       "keyword": "pljunuti pa polizati"
     },
     {
+      "headword_latin": "Po cenu života",
+      "type": "frazeologizam",
+      "definition_ru": "Даже рискуя собственной жизнью; ценой жизни. Русский эквивалент: «ценой жизни». В гиперболическом употреблении — сделать что-либо несмотря на крайнюю опасность или огромные жертвы.",
+      "synonyms_sr": [
+        "rizikujući život",
+        "makar koštalo života",
+        "uz životni rizik"
+      ],
+      "literal_ru": "ценой жизни",
+      "register": "neutralno do veoma ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Obećanje se prema tradiciji mora održati po cenu života.",
+          "russian": "Согласно традиции, обещание должно быть сдержано даже ценой жизни.",
+          "source": "RTS, 2010"
+        },
+        {
+          "serbian_latin": "Helen reši da po cenu života spasi devojčicu Melani.",
+          "russian": "Хелен решает спасти девочку Мелани даже ценой собственной жизни.",
+          "source": "RTS, 2016"
+        }
+      ],
+      "note": "Конструкция po cenu + genitiv продуктивна: po cenu poraza, sukoba, gubitka. Po cenu života — её наиболее сильный вариант.",
+      "keyword": "po cenu života"
+    },
+    {
       "headword_latin": "Po jutru se dan poznaje",
       "type": "poslovica",
       "definition_ru": "по началу видно, как пойдёт дело; хорошее начало многое показывает; утро задаёт тон всему дню",
@@ -22251,6 +22520,59 @@
       ],
       "note": "Для русского особенно важна конструкция с дательным: meni je pošlo za rukom — «мне удалось», nije mu pošlo za rukom — «ему не удалось». Очень частотна модель nije mi pošlo za rukom da + prezent. Близкое ići od ruke чаще описывает то, что человеку вообще хорошо даётся.",
       "keyword": "poći za rukom"
+    },
+    {
+      "headword_latin": "Pod vedrim nebom",
+      "type": "izraz",
+      "definition_ru": "Под открытым небом; на улице, вне помещения. Русские соответствия: «под открытым небом», «на свежем воздухе».",
+      "synonyms_sr": [
+        "na otvorenom",
+        "na otvorenom prostoru",
+        "napolju"
+      ],
+      "literal_ru": "под ясным небом",
+      "register": "neutralno, slikovito",
+      "examples": [
+        {
+          "serbian_latin": "Pod vedrim nebom nastupilo je više od stotinu izvođača.",
+          "russian": "Под открытым небом выступило более ста артистов.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Slogan ovogodišnjeg Festivala je – „I dalje pod vedrim nebom“.",
+          "russian": "Лозунг нынешнего фестиваля — «По-прежнему под открытым небом».",
+          "source": "Danas, 2009"
+        }
+      ],
+      "note": "Vedro не обязательно означает, что на небе буквально нет облаков: выражение давно функционирует как образное обозначение мероприятия или ночлега на открытом воздухе.",
+      "keyword": "pod vedrim nebom"
+    },
+    {
+      "headword_latin": "Pod znakom pitanja",
+      "type": "frazeologizam",
+      "definition_ru": "Быть неопределённым, сомнительным, находиться под угрозой отмены или неосуществления. Русский эквивалент: «быть под вопросом».",
+      "synonyms_sr": [
+        "biti neizvestan",
+        "biti upitan",
+        "biti nejasan",
+        "biti doveden u pitanje"
+      ],
+      "literal_ru": "под знаком вопроса",
+      "register": "neutralno-publicistički, veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Jokić je pod znakom pitanja za poslednji meč u sezoni.",
+          "russian": "Участие Йокича в последнем матче сезона остаётся под вопросом.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Šta je Jeleni važno, to je pod znakom pitanja.",
+          "russian": "Что на самом деле важно для Елены, остаётся под вопросом.",
+          "source": "RTS, 2021"
+        }
+      ],
+      "note": "Очень продуктивная модель: nastup je pod znakom pitanja, budućnost projekta je pod znakom pitanja. Близкое dovesti nešto u pitanje означает уже активное «поставить что-либо под сомнение».",
+      "keyword": "pod znakom pitanja"
     },
     {
       "headword_latin": "Podići glas protiv nekoga / nečega",
@@ -26454,6 +26776,60 @@
       ],
       "note": "Gazda — хозяин, владелец, начальник; слово очень живое в сербской разговорной речи. Biti sam svoj gazda обычно подчёркивает именно самостоятельность в работе и принятии решений, а не богатство или высокий социальный статус.",
       "keyword": "sam svoj gazda"
+    },
+    {
+      "headword_latin": "Sam svoj majstor",
+      "type": "izraz",
+      "definition_ru": "Человек, который сам выполняет работу, ремонт, изготовление или организацию дела, не прибегая к помощи специалиста; шире — человек, привыкший всё делать самостоятельно. Русские соответствия: «сам себе мастер», «сделай сам».",
+      "synonyms_sr": [
+        "uradi sam",
+        "sve raditi sam",
+        "samostalan",
+        "sam sebi majstor"
+      ],
+      "literal_ru": "сам себе мастер",
+      "register": "razg., često šaljivo ili odobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Krečenje u varijanti „sam svoj majstor“ danas je znatno skuplje.",
+          "russian": "Ремонт в варианте «сам себе мастер» сегодня стал заметно дороже.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Želim da budem sam svoj majstor i sam svoj gazda.",
+          "russian": "Я хочу сама быть себе и мастером, и хозяином.",
+          "source": "RTS, 2020"
+        }
+      ],
+      "note": "Формула очень продуктивна: sam svoj majstor может обозначать бытовой DIY, самостоятельного предпринимателя, музыканта, издателя и вообще человека, который предпочитает не зависеть от других.",
+      "keyword": "sam svoj majstor"
+    },
+    {
+      "headword_latin": "Saseći nešto u korenu",
+      "type": "frazeologizam",
+      "definition_ru": "Пресечь что-либо в самом начале, пока проблема ещё не успела развиться. Русские аналоги: «пресечь в корне», «задушить в зародыше».",
+      "synonyms_sr": [
+        "sprečiti u začetku",
+        "zaustaviti na samom početku",
+        "iskoreniti",
+        "odmah suzbiti"
+      ],
+      "literal_ru": "срубить у самого корня",
+      "register": "neutralno-publicistički, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Epidemija se mogla predvideti i saseći u korenu.",
+          "russian": "Эпидемию можно было предвидеть и пресечь в самом начале.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Zato ćemo izdaju saseći u korenu.",
+          "russian": "Поэтому мы пресечём измену в корне.",
+          "source": "Danas, 2019"
+        }
+      ],
+      "note": "Возможны saseći и seći u korenu. Обычно объектом выступают problem, pojava, nasilje, korupcija, bolest, pobuna и другие процессы, которые желательно остановить до их развития.",
+      "keyword": "saseći u korenu"
     },
     {
       "headword_latin": "Sastavljati kraj s krajem",
@@ -30809,6 +31185,33 @@
       "keyword": "tamni vilajet"
     },
     {
+      "headword_latin": "Tantalove muke",
+      "type": "frazeologizam",
+      "definition_ru": "Тяжёлые, мучительные и долго продолжающиеся страдания, особенно когда желаемое решение кажется совсем близким, но остаётся недоступным. Русский эквивалент: «танталовы муки».",
+      "synonyms_sr": [
+        "velike muke",
+        "dugotrajno mučenje",
+        "teške patnje",
+        "beskrajna muka"
+      ],
+      "literal_ru": "муки Тантала",
+      "register": "knjiški do publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Tantalove muke su bile. Mlaz vode iz slavine tada je bio misaona imenica.",
+          "russian": "Это были настоящие танталовы муки: струя воды из крана тогда казалась недостижимой мечтой.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "To su uvek neke Tantalove muke.",
+          "russian": "Это каждый раз настоящие танталовы муки.",
+          "source": "Danas, 2017"
+        }
+      ],
+      "note": "Тантал в древнегреческом мифе был обречён видеть воду и плоды совсем рядом, но не мог до них дотянуться. Отсюда образ мучительно близкой, но недостижимой цели.",
+      "keyword": "Tantalove muke"
+    },
+    {
       "headword_latin": "Tante za kukuriku",
       "type": "izraz",
       "definition_ru": "неравноценный обмен; непонятно что в обмен на непонятно что; ерунда вместо равноценной отдачи",
@@ -31659,6 +32062,59 @@
       ],
       "note": "Главная трудность для русского — пара poneti se – poniziti se. Poneti se здесь не обычное «повести себя», а «возгордиться, слишком высоко о себе возомнить». Пословица требует внутреннего равновесия: успех не должен делать человека высокомерным, а беда — лишать достоинства.",
       "keyword": "u dobru se ne ponesi u zlu se ne ponizi"
+    },
+    {
+      "headword_latin": "U isti mah",
+      "type": "priloški izraz",
+      "definition_ru": "Одновременно; в один и тот же момент; при этом одновременно обладая двумя свойствами. Русские соответствия: «одновременно», «в то же время», «в один и тот же момент».",
+      "synonyms_sr": [
+        "istovremeno",
+        "u isto vreme",
+        "odjednom"
+      ],
+      "literal_ru": "в тот же миг",
+      "register": "neutralno, nešto knjiškije od istovremeno",
+      "examples": [
+        {
+          "serbian_latin": "Prevela je knjigu i, u isti mah, uvela prozu Roberta Bolanja u naš jezik.",
+          "russian": "Она перевела книгу и одновременно ввела прозу Роберто Боланьо в наш язык.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Reći za Predraga da je samouk u isti mah je i tačno i pogrdno.",
+          "russian": "Назвать Предрага самоучкой одновременно и верно, и несколько уничижительно.",
+          "source": "Politika, 2025"
+        }
+      ],
+      "note": "Mah здесь имеет старое значение «мгновение, момент». Выражение вполне живое, особенно в письменной речи; в обычном разговоре часто заменяется на istovremeno или u isto vreme.",
+      "keyword": "u isti mah"
+    },
+    {
+      "headword_latin": "U jedan glas",
+      "type": "frazeologizam",
+      "definition_ru": "Все вместе, одновременно говоря или утверждая одно и то же; единогласно. Русский эквивалент: «в один голос», иногда «хором».",
+      "synonyms_sr": [
+        "jednoglasno",
+        "svi zajedno",
+        "u horu",
+        "složno"
+      ],
+      "literal_ru": "в один голос",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Hiljade navijača zapevaju u jedan glas.",
+          "russian": "Тысячи болельщиков запевают в один голос.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Hajdemo svi u jedan glas: Zaklinjem se da ću od danas raditi sve što mogu.",
+          "russian": "Давайте все вместе, в один голос: клянусь, что отныне сделаю всё, что могу.",
+          "source": "Danas, 2021"
+        }
+      ],
+      "note": "Может быть буквальным — люди действительно говорят или поют одновременно — и переносным: više stručnjaka tvrdi u jedan glas означает, что все они придерживаются одного мнения.",
+      "keyword": "u jedan glas"
     },
     {
       "headword_latin": "U jednom dahu",
@@ -32647,6 +33103,33 @@
       "keyword": "koštac"
     },
     {
+      "headword_latin": "Ukrstiti koplja",
+      "type": "frazeologizam",
+      "definition_ru": "Вступить в противоборство, соревнование, спор или дебаты. Русские соответствия: «скрестить копья», «сойтись в поединке», «помериться силами».",
+      "synonyms_sr": [
+        "odmeriti snage",
+        "sukobiti se",
+        "suprotstaviti se",
+        "ući u duel"
+      ],
+      "literal_ru": "скрестить копья",
+      "register": "neutralno-publicistički, naročito sportski",
+      "examples": [
+        {
+          "serbian_latin": "Fudbaleri Reala i Sitija ponovo će ukrstiti koplja u eliminacionoj fazi.",
+          "russian": "Футболисты «Реала» и «Сити» вновь скрестят копья в плей-офф.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Srbija će ukrstiti koplja sa Italijom i Poljskom.",
+          "russian": "Сербия померится силами с Италией и Польшей.",
+          "source": "RTS, 2015"
+        }
+      ],
+      "note": "Сегодня особенно частотно в спортивной журналистике, но возможно и о политических дебатах, научных спорах или противопоставлении мнений.",
+      "keyword": "ukrstiti koplja"
+    },
+    {
       "headword_latin": "Uljudne fraze",
       "type": "kolokacija",
       "definition_ru": "вежливые фразы; формулы вежливости; любезности",
@@ -32780,6 +33263,33 @@
       ],
       "note": "Upotrebljavaju se aktivna konstrukcija upisati nešto zlatnim slovima i pasivna biti upisan zlatnim slovima.",
       "keyword": "zlato; slovo"
+    },
+    {
+      "headword_latin": "Uploviti u bračne vode",
+      "type": "frazeologizam",
+      "definition_ru": "Вступить в брак, жениться или выйти замуж. Русские соответствия: «вступить в брак», шутливо «отправиться в семейное плавание».",
+      "synonyms_sr": [
+        "stupiti u brak",
+        "venčati se",
+        "oženiti se",
+        "udati se"
+      ],
+      "literal_ru": "вплыть в брачные воды",
+      "register": "razg.-publicistički, često šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Sa izabranicom srca uskoro će uploviti u bračne vode.",
+          "russian": "Со своей избранницей он вскоре вступит в брак.",
+          "source": "Politika, 2019"
+        },
+        {
+          "serbian_latin": "Otkrio je kako su se upoznali i posle koliko vremena su uplovili u bračne vode.",
+          "russian": "Он рассказал, как они познакомились и через какое время поженились.",
+          "source": "Blic, 2020"
+        }
+      ],
+      "note": "Очень характерное газетное клише о свадьбах известных людей. Bračne vode развивают метафору брака как нового плавания или жизненного пути.",
+      "keyword": "uploviti u bračne vode"
     },
     {
       "headword_latin": "Ustati na levu nogu",
@@ -34441,6 +34951,33 @@
       ],
       "note": "Это скорее устойчивая семейная реплика, чем классический фразеологизм. Её бросают тому, кто вошёл и оставил дверь открытой. Комизм строится на абсурдном объяснении: будто привычка не закрывать дверь естественна для того, кто вырос в лодке. Формула широко узнаваема на постъюгославском пространстве; точное происхождение надёжно не установлено. Особенно естественна форма Zatvori ta vrata..., где ta усиливает раздражённое указание на оставленную дверь.",
       "keyword": "rođen u čamcu"
+    },
+    {
+      "headword_latin": "Zatvoriti krug",
+      "type": "frazeologizam",
+      "definition_ru": "Завершить цикл или процесс так, чтобы его конец символически или логически соединился с началом; довести историю до завершения. Русский аналог: «замкнуть круг».",
+      "synonyms_sr": [
+        "zaokružiti celinu",
+        "završiti ciklus",
+        "privesti priču kraju",
+        "zaokružiti priču"
+      ],
+      "literal_ru": "замкнуть круг",
+      "register": "neutralno, često publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Jesss će zatvoriti krug i oprostiti se od ovog projekta poslednjim koncertom u Srbiji.",
+          "russian": "Jesss замкнёт круг и попрощается с проектом последним концертом в Сербии.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Tako će se zatvoriti jedan simboličan krug.",
+          "russian": "Так замкнётся своеобразный символический круг.",
+          "source": "RTS, 2014"
+        }
+      ],
+      "note": "Помимо буквального круга, выражение особенно естественно для жизненных историй, проектов, путешествий и творческих циклов, когда финал возвращает к исходной точке.",
+      "keyword": "zatvoriti krug"
     },
     {
       "headword_latin": "Zavadi pa vladaj",
