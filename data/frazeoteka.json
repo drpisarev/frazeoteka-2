@@ -1871,6 +1871,34 @@
       "keyword": "na ceni"
     },
     {
+      "headword_latin": "Biti na crnoj listi",
+      "type": "imenički frazeologizam",
+      "definition_ru": "быть в чёрном списке; входить в перечень нежелательных, ограниченных, наказанных или не допускаемых лиц или организаций",
+      "synonyms_sr": [
+        "biti nepoželjan",
+        "biti stavljen na listu zabrane",
+        "biti pod sankcijama"
+      ],
+      "literal_ru": "быть в чёрном списке",
+      "register": "neutralno i publicistički; može označavati i zvaničnu listu i prenesenu društvenu isključenost",
+      "examples": [
+        {
+          "serbian_latin": "Ko krši prava trudnica i porodilja, koji poslodavci su na decembarskoj „crnoj listi“?",
+          "russian": "Кто нарушает права беременных и рожениц и какие работодатели попали в декабрьский «чёрный список»?",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/tv/rts1/3811230/ovo-je-srbija.html"
+        },
+        {
+          "serbian_latin": "U protivnom bi mogli da se nađu na crnoj listi zabrane ulaska u zemlje EU.",
+          "russian": "В противном случае они могут попасть в чёрный список с запретом на въезд в страны ЕС.",
+          "source": "RTS, 2023",
+          "url": "https://rts.rs/lat/vesti/drustvo/5249027/.html?print=true"
+        }
+      ],
+      "note": "Формула употребляется и буквально, когда существует официальный список ограничений, и переносно — о негласно нежелательных людях. Типичные глаголы: biti, naći se, dospeti, staviti nekoga na crnu listu.",
+      "keyword": "crna lista; zabrana; nepoželjan"
+    },
+    {
       "headword_latin": "Biti na istoj talasnoj dužini",
       "type": "frazeologizam",
       "definition_ru": "быть на одной волне; прекрасно понимать друг друга; одинаково мыслить",
@@ -2245,30 +2273,31 @@
     },
     {
       "headword_latin": "Biti nečija desna ruka",
-      "type": "frazeologizam",
-      "definition_ru": "Быть чьим-либо ближайшим и доверенным помощником, человеком, на которого особенно полагаются. Русский аналог: «быть чьей-то правой рукой».",
+      "type": "imenički frazeologizam",
+      "definition_ru": "быть чьей-либо правой рукой; ближайшим, особенно доверенным и полезным помощником",
       "synonyms_sr": [
         "biti najbliži saradnik",
-        "biti glavni pomoćnik",
-        "biti osoba od poverenja",
-        "biti ključni saradnik"
+        "biti glavni oslonac",
+        "biti čovek od poverenja"
       ],
       "literal_ru": "быть чьей-то правой рукой",
-      "register": "neutralno-razgovorno i publicistički",
+      "register": "neutralno; često o poslu, politici, sportu i organizacijama",
       "examples": [
         {
-          "serbian_latin": "Kažu mnogi da sam desna ruka Jasmine Vujić.",
-          "russian": "Многие говорят, что я правая рука Ясмины Вуич.",
-          "source": "RTS, 2013"
+          "serbian_latin": "Među njima je bio i Janko Katić, desna ruka vožda Karađorđa.",
+          "russian": "Среди них был и Янко Катич, правая рука вождя Карагеоргия.",
+          "source": "Politika, 2019",
+          "url": "https://www.politika.rs/sr/articles/amp/422869"
         },
         {
-          "serbian_latin": "Još nije odredio ko će biti njegova desna ruka, odnosno obavljati najznačajniju funkciju šefa kabineta.",
-          "russian": "Он ещё не определил, кто станет его правой рукой, то есть займёт важнейшую должность руководителя кабинета.",
-          "source": "RTS, 2012"
+          "serbian_latin": "Za stolom nam se pridružio Viktorov prvi saradnik i desna ruka – direktor kluba Igor Milojević.",
+          "russian": "К нам за стол присоединился ближайший соратник и правая рука Виктора — директор клуба Игор Милошевич.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/sport/vaterpolo/1516257/jelenic-za-rts-neophodne-sistemske-promene-za-spas-vaterpola.html"
         }
       ],
-      "note": "Русский и сербский образы полностью совпадают. Desna ruka — не просто любой помощник, а обычно ближайший доверенный сотрудник, обладающий заметной ответственностью и влиянием.",
-      "keyword": "desna ruka"
+      "note": "Русский и сербский образы полностью совпадают. Можно сказать desna ruka direktora, predsednika, trenera или biti nekome desna ruka. Обычно речь не просто о помощнике, а о человеке, которому особенно доверяют.",
+      "keyword": "desna ruka; saradnik; poverenje"
     },
     {
       "headword_latin": "Biti nekome na vrh jezika",
@@ -3508,6 +3537,34 @@
       "keyword": "bura; čaša vode"
     },
     {
+      "headword_latin": "Bure baruta",
+      "type": "imenički frazeologizam",
+      "definition_ru": "пороховая бочка; крайне напряжённая, взрывоопасная ситуация, которой достаточно небольшого повода, чтобы резко обостриться",
+      "synonyms_sr": [
+        "eksplozivna situacija",
+        "stanje pred eksplozijom",
+        "tempirana bomba"
+      ],
+      "literal_ru": "бочка пороха",
+      "register": "neutralno i publicistički, snažno metaforično",
+      "examples": [
+        {
+          "serbian_latin": "Suve oluje pretvaraju velika prostranstva planete u bure baruta kome je potrebna samo varnica.",
+          "russian": "Сухие грозы превращают огромные пространства планеты в пороховую бочку, которой нужна лишь искра.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/priroda/5785157/suve-oluje-vremenski-fenomen-.html"
+        },
+        {
+          "serbian_latin": "Metaforično, situacija je postala kao bure baruta i samo nedostaje varnica da upali fitilj.",
+          "russian": "Образно говоря, ситуация стала похожа на пороховую бочку — не хватает лишь искры, чтобы поджечь фитиль.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/vesti/ekonomija/dosad-otkupljena-tek-svaka-cetvrta-malina-u-srbiji"
+        }
+      ],
+      "note": "Очень продуктивная метафора: biti bure baruta, pretvoriti nešto u bure baruta, situacija je kao bure baruta. Важный элемент образа — достаточно одной «искры» (varnica), чтобы всё взорвалось.",
+      "keyword": "bure baruta; varnica; napetost"
+    },
+    {
       "headword_latin": "Cediti suvu drenovinu",
       "type": "frazeologizam",
       "definition_ru": "Пытаться выжать ещё что-либо из уже практически исчерпанного источника; требовать дополнительные ресурсы там, где их почти не осталось. По-русски: «выжимать последние соки», «пытаться выжать невозможное».",
@@ -3591,6 +3648,34 @@
       ],
       "note": "Crna ovca обычно несёт более отрицательный оттенок, чем bela vrana: это не просто необычный человек, а тот, кого группа считает своим «неудобным» или плохим членом.",
       "keyword": "crna ovca; autsajder; porodica"
+    },
+    {
+      "headword_latin": "Crno mu se piše",
+      "type": "frazeologizam",
+      "definition_ru": "его ждут большие неприятности; ничего хорошего ему не светит; дело плохо",
+      "synonyms_sr": [
+        "loše mu se piše",
+        "ne piše mu se dobro",
+        "nadrljaće"
+      ],
+      "literal_ru": "ему пишется чёрное",
+      "register": "razg., ekspresivno; često šaljivo, dramatično ili preteće",
+      "examples": [
+        {
+          "serbian_latin": "Na Crni petak crno im se piše...",
+          "russian": "В Чёрную пятницу им несдобровать...",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/magazin/Zanimljivosti/3332561/na-crni-petak-crno-im-se-pise-.html"
+        },
+        {
+          "serbian_latin": "Crno mu se piše: gavran prekinuo meč Australijanaca.",
+          "russian": "Ему несдобровать: ворон прервал матч австралийцев.",
+          "source": "Espreso, 2022",
+          "url": "https://www.espreso.co.rs/sport/tenis/957445/crno-mu-se-pise-gavran-prekinuo-mec-australijanaca-graktao-dok-ga-nije-smecovao-video"
+        }
+      ],
+      "note": "Лицо выражается дательным местоимением: crno mi / ti / mu / joj / nam / vam / im se piše. Порядок слов может меняться: piše mu se crno. Это устойчивое предсказание неприятного исхода, а не буквальное «писать чёрным».",
+      "keyword": "crno se piše; nevolja; loš ishod"
     },
     {
       "headword_latin": "Crno na belo",
@@ -5676,6 +5761,35 @@
       "keyword": "dobiti po nosu"
     },
     {
+      "headword_latin": "Dobiti po prstima",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "получить по рукам; подвергнуться наказанию, выговору, санкциям или резкой критике за свои действия",
+      "synonyms_sr": [
+        "dobiti packu",
+        "biti kažnjen",
+        "biti ukoren",
+        "snositi posledice"
+      ],
+      "literal_ru": "получить по пальцам",
+      "register": "razg. i publicistički; često se stavlja pod navodnike u naslovima",
+      "examples": [
+        {
+          "serbian_latin": "Bjelica napao igrača Bajerna, pa dobio „po prstima“: suspenzija i velika novčana kazna.",
+          "russian": "Бьелица напал на игрока «Баварии» и получил по рукам: дисквалификацию и крупный штраф.",
+          "source": "Telegraf, 2024",
+          "url": "https://www.telegraf.rs/sport/fudbal/3824980-bjelica-napao-igraca-bajerna-pa-dobio-po-prstima-suspenzija-i-velika-novcana-kazna"
+        },
+        {
+          "serbian_latin": "Puhovski je rekao da je to učinio „nakon što je dobio po prstima“.",
+          "russian": "Пуховски сказал, что тот сделал это после того, как получил по рукам.",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/svet/puhovski-praljak-je-i-zlocinac-i-junak"
+        }
+      ],
+      "note": "Чаще всего речь о фигуральном наказании или предупреждении, а не о буквальном ударе по пальцам. Русские соответствия зависят от контекста: «получить по рукам», «получить нагоняй», «получить санкции».",
+      "keyword": "po prstima; kazna; packa"
+    },
+    {
       "headword_latin": "Dobro jutro, Kolumbo",
       "type": "replika",
       "definition_ru": "ну наконец-то дошло!; доброе утро!; Америку открыл!",
@@ -6036,6 +6150,34 @@
       ],
       "note": "Второй пример показывает более широкое разговорное значение: не обязательно ярость — иногда просто внезапный странный порыв, «взбрело в голову». Популярные статьи объясняют žuta символикой жёлтого цвета, однако надёжно установленной этимологии у оборота нет; такие объяснения лучше считать гипотезами, а не фактом.",
       "keyword": "žuta minuta"
+    },
+    {
+      "headword_latin": "Doći praznih ruku",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "прийти с пустыми руками; явиться ничего не принеся, а в более широком контексте — без результата или без того, что ожидалось",
+      "synonyms_sr": [
+        "doći bez ičega",
+        "doći bez poklona",
+        "doći bez rezultata"
+      ],
+      "literal_ru": "прийти с пустыми руками",
+      "register": "neutralno i razg.; značenje zavisi od glagola i konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Ne možeš tek tako doći praznih ruku i otići praznih ruku.",
+          "russian": "Нельзя просто так прийти с пустыми руками и уйти с пустыми руками.",
+          "source": "UNICEF Srbija, 2017",
+          "url": "https://www.unicef.org/serbia/price/svako-ima-pravo-na-san"
+        },
+        {
+          "serbian_latin": "U Kozjak ovih dana niko ne ide praznih ruku.",
+          "russian": "В Козяк в эти дни никто не идёт с пустыми руками.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3854645/novi-kozjak-deca.html"
+        }
+      ],
+      "note": "С глаголом doći выражение часто буквально означает «ничего не принести». Варианты otići / vratiti se / ostati praznih ruku чаще означают «уйти ни с чем, ничего не добиться». Поэтому глагол важен для перевода.",
+      "keyword": "prazne ruke; bez poklona; bez rezultata"
     },
     {
       "headword_latin": "Doći sebi",
@@ -6450,6 +6592,34 @@
       ],
       "note": "Важно управление: dotaći se teme, а не dotaći temu, если речь о переносном «затронуть тему». Глагол предполагает, что вопрос упомянули или обсудили лишь частично; если его разобрали подробно, естественнее detaljno razmotriti, pretresti, obraditi temu.",
       "keyword": "dotaći se teme"
+    },
+    {
+      "headword_latin": "Dotaknuti dno",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "достичь дна; дойти до самой низкой точки в жизни, состоянии, карьере или развитии ситуации",
+      "synonyms_sr": [
+        "pasti na najnižu tačku",
+        "doći do dna",
+        "dosegnuti minimum"
+      ],
+      "literal_ru": "коснуться дна",
+      "register": "neutralno, ekspresivno; često o životnoj ili poslovnoj krizi",
+      "examples": [
+        {
+          "serbian_latin": "Film je romantična komedija o ženi koja misli da je „dotakla dno“.",
+          "russian": "Фильм — романтическая комедия о женщине, которой кажется, что она достигла дна.",
+          "source": "RTS, 2009",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/236951/.html?print=true"
+        },
+        {
+          "serbian_latin": "Dotakla sam dno, znala sam da gore ne može.",
+          "russian": "Я достигла дна и понимала, что хуже уже быть не может.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/katarina-zivkovic-je-o-ovome-jednom-pricaladotakla-sam-dno-gore-ne-moze/5ekd39k"
+        }
+      ],
+      "note": "Обычно обозначает крайнюю низкую точку, после которой возможен разворот к лучшему. В зависимости от контекста субъектом может быть человек, компания, карьера, рынок или целая ситуация.",
+      "keyword": "dotaknuti dno; kriza; najniža tačka"
     },
     {
       "headword_latin": "Doterati cara do duvara",
@@ -7315,6 +7485,34 @@
       ],
       "note": "Для русского это особенно обманчивое выражение: речь вовсе не о жертве и не о том, чтобы «отдать душу». Конструкция безличная и сохраняет форму dalo: ovo je dušu dalo za odmor, mesto je dušu dalo za decu. После za требуется винительный падеж.",
       "keyword": "dušu dalo"
+    },
+    {
+      "headword_latin": "Dušu isplakati",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "выплакать душу; очень долго и сильно плакать, полностью отдаваясь горю",
+      "synonyms_sr": [
+        "mnogo se isplakati",
+        "isplakati oči",
+        "isplakati se do kraja"
+      ],
+      "literal_ru": "выплакать душу",
+      "register": "razg., ekspresivno; najčešće u perfektu dušu sam isplakao / isplakala",
+      "examples": [
+        {
+          "serbian_latin": "Dušu sam isplakala, nisam očekivala ovako nizak udarac.",
+          "russian": "Я всю душу выплакала, я не ожидала такого низкого удара.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/stanija-van-sebe-maja-se-ne-zaustavlja-dusu-sam-isplakala-nisam-to-ocekivala/ebyxe1c"
+        },
+        {
+          "serbian_latin": "Nedavno je otišao Kemal Monteno, dušu sam isplakala.",
+          "russian": "Недавно ушёл Кемал Монтено — я всю душу выплакала.",
+          "source": "Blic, 2015",
+          "url": "https://www.blic.rs/kultura/vesti/amira-medunjanin-za-blic-pevam-da-bi-nas-evropa-razumela/03e5y9k"
+        }
+      ],
+      "note": "В русском есть почти точный эмоциональный эквивалент «выплакать всю душу». В сербском объект dušu обычно ставится перед формой глагола для усиления: dušu sam isplakala.",
+      "keyword": "dušu isplakati; plakati; tuga"
     },
     {
       "headword_latin": "Duvati u istu tikvu",
@@ -8437,6 +8635,34 @@
       "keyword": "govoriti istim jezikom"
     },
     {
+      "headword_latin": "Govoriti iz srca",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "говорить от сердца; говорить совершенно искренне, выражая свои настоящие чувства или убеждения",
+      "synonyms_sr": [
+        "govoriti iskreno",
+        "govoriti otvoreno",
+        "govoriti od srca"
+      ],
+      "literal_ru": "говорить из сердца",
+      "register": "neutralno, emotivno; obično pozitivno",
+      "examples": [
+        {
+          "serbian_latin": "Zaista ovo govorim iz srca, volim da nastupam u Srbiji, volim publiku ovde.",
+          "russian": "Я действительно говорю это от сердца: мне нравится выступать в Сербии, я люблю здешнюю публику.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/magazin/muzika/5597601/mariza-fado-beogradska-publika.html"
+        },
+        {
+          "serbian_latin": "Uvek sam govorio iz srca, a to podrazumeva da govorim istinu.",
+          "russian": "Я всегда говорил от сердца, а это значит — говорил правду.",
+          "source": "Telegraf, 2022",
+          "url": "https://www.telegraf.rs/pop-i-kultura/muzika/3607743-ovo-su-najbolje-pesme-u-2022-godini-po-izboru-telegrafa"
+        }
+      ],
+      "note": "По-русски обычно «говорить от сердца» или «говорить искренне». Сербское od srca чаще встречается в формулах пожеланий и благодарности (želim ti od srca), тогда как govoriti iz srca подчёркивает источник искренних слов.",
+      "keyword": "iz srca; iskreno; govoriti"
+    },
+    {
       "headword_latin": "Graditi kule u vazduhu",
       "type": "frazeologizam",
       "definition_ru": "Строить нереалистичные планы, мечтать о том, что не имеет прочной основы или практически неосуществимо. Русский аналог: «строить воздушные замки».",
@@ -8632,6 +8858,34 @@
       "keyword": "tepih"
     },
     {
+      "headword_latin": "Gurati nos u tuđa posla",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "совать нос в чужие дела; вмешиваться в то, что человека не касается",
+      "synonyms_sr": [
+        "mešati se u tuđa posla",
+        "zabadati nos u tuđe stvari",
+        "petljati se gde ti nije mesto"
+      ],
+      "literal_ru": "совать нос в чужие дела",
+      "register": "razg., neodobr.; česta je zapovedna forma Ne guraj nos u tuđa posla!",
+      "examples": [
+        {
+          "serbian_latin": "Često ćete čuti da ljudi kažu: Ne guraj nos u tuđa posla!",
+          "russian": "Часто можно услышать: не суй нос в чужие дела!",
+          "source": "RTV, 2026",
+          "url": "https://www.rtv.rs/sr_lat/vojvodina/novi-sad/promocija-nagradjenog-romana-olivere-zulovic-sto-posto-tudja-posla-u-novom-sadu_1698546.html"
+        },
+        {
+          "serbian_latin": "Gavran Gavra nadziraće Lanin dolazak svojim neviđenim talentom da gura nos u tuđa posla.",
+          "russian": "Ворон Гавра будет следить за приездом Ланы благодаря своему невероятному таланту совать нос в чужие дела.",
+          "source": "Laguna, 2025",
+          "url": "https://laguna.rs/bukmarker/prikaz-mladih-kriticara-lana-i-koprivasta-druzina/"
+        }
+      ],
+      "note": "Очень близко русскому «совать нос не в своё дело». Употребляются варианты gurati / zabadati nos u tuđa posla. Tuđa posla — устойчивое сочетание во множественном числе.",
+      "keyword": "gurati nos; tuđa posla; mešanje"
+    },
+    {
       "headword_latin": "gurati probleme pod tepih",
       "type": "фразеологизм",
       "definition_ru": "Замалчивать или игнорировать проблемы вместо их решения.",
@@ -8688,32 +8942,32 @@
     },
     {
       "headword_latin": "Hladan kao led",
-      "type": "poređenje",
-      "definition_ru": "Абсолютно спокойный, невозмутимый или эмоционально холодный; в буквальном значении — очень холодный. Русский эквивалент: «холодный как лёд».",
+      "type": "poredbeni frazeologizam",
+      "definition_ru": "холодный как лёд; о человеке — совершенно невозмутимый, хладнокровный или эмоционально холодный",
       "synonyms_sr": [
-        "potpuno miran",
         "hladnokrvan",
+        "potpuno miran",
         "bez emocija",
-        "nepokolebljiv"
+        "smiren kao da se ništa ne dešava"
       ],
       "literal_ru": "холодный как лёд",
-      "register": "razg., ekspresivno",
+      "register": "razg., ekspresivno; može biti pohvalno ili neodobravajuće u zavisnosti od konteksta",
       "examples": [
         {
-          "serbian_latin": "Marko je bio hladan kao led na merenju pred FNC 25.",
-          "russian": "Марко на взвешивании перед FNC 25 был холоден как лёд.",
-          "source": "Telegraf, 2025",
-          "url": "https://www.telegraf.rs/sport/fight-club/4223558-na-ovakvog-bojkovica-nismo-navikli-marko-hladan-kao-led-na-merenju-pred-fnc-25"
+          "serbian_latin": "Srpski „Čekić“ bio je hladan kao led i potpuno fokusiran.",
+          "russian": "Сербский «Молот» был холоден как лёд и полностью сосредоточен.",
+          "source": "Telegraf, 2024",
+          "url": "https://www.telegraf.rs/sport/fight-club/4002327-ekskluzivno-usli-smo-u-stosicevu-svlacionicu-srpski-cekic-hladan-kao-led-gvozdene-pesnice-su-spremne"
         },
         {
-          "serbian_latin": "Darko Stošić hladan kao led pred Spartancem.",
-          "russian": "Дарко Стошич остаётся холодным как лёд перед встречей со «Спартанцем».",
-          "source": "Telegraf, 2026",
-          "url": "https://www.telegraf.rs/sport/fight-club/4266569-darko-stosic-hladan-kao-led-pred-spartancem-srbin-pogledom-zaledio-iskusnog-protivnika-pred-fnc-27"
+          "serbian_latin": "Moraš da budeš baš „hladan kao led“ i emotivno stabilan.",
+          "russian": "Нужно быть по-настоящему хладнокровным и эмоционально устойчивым.",
+          "source": "Sportal, 2025",
+          "url": "https://sportal.blic.rs/prica/izjava-dzerada-batlera-o-poslednjem-sutu-protiv-partizana-nije-bio-presudan-2025121509452308311"
         }
       ],
-      "note": "При характеристике человека может означать либо положительное самообладание, либо отрицательную эмоциональную бесчувственность. Контекст принципиален.",
-      "keyword": "hladan kao led; miran; hladnokrvan"
+      "note": "В буквальном описании предмета выражение просто означает очень низкую температуру. О человеке оно метафорическое: может хвалить самообладание или, наоборот, подчёркивать отсутствие эмоций. Женская форма: hladna kao led.",
+      "keyword": "hladan kao led; hladnokrvnost; emocije"
     },
     {
       "headword_latin": "Hladan kao špricer",
@@ -9903,6 +10157,34 @@
       ],
       "note": "Обозначает прозрачное поведение без тайных целей и скрытых условий. Помимо конструкции igrati otvorenih karata, употребляется именная форма igra otvorenih karata.",
       "keyword": "karta"
+    },
+    {
+      "headword_latin": "Igrati prljavo",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "играть грязно; действовать нечестно, использовать недостойные или неэтичные приёмы",
+      "synonyms_sr": [
+        "igrati nefer",
+        "služiti se nepoštenim sredstvima",
+        "igrati pokvareno"
+      ],
+      "literal_ru": "играть грязно",
+      "register": "razg. i publicistički; može biti doslovno u sportu, ali veoma često preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Ana igra prljavo i to mi se ne sviđa.",
+          "russian": "Ана играет грязно, и мне это не нравится.",
+          "source": "Blic, 2023",
+          "url": "https://www.blic.rs/zabava/jovana-novakov-smizla-raskrinkala-anu-curcic/r7pztrn"
+        },
+        {
+          "serbian_latin": "„Survivor“ nije prljava igra, nego ljudi igraju prljavo.",
+          "russian": "«Survivor» сам по себе не грязная игра — это люди играют грязно.",
+          "source": "Blic, 2009",
+          "url": "https://www.blic.rs/zabava/mnogi-su-igrali-prljavo-na-ostrvu/vh1fbty"
+        }
+      ],
+      "note": "Выражение давно вышло за пределы спорта: igrati prljavo можно в бизнесе, отношениях, споре и любой конкуренции. Подразумевает сознательное нарушение неписаных правил честной игры.",
+      "keyword": "igrati prljavo; nefer; nepošteno"
     },
     {
       "headword_latin": "igrati se vatrom",
@@ -13422,6 +13704,34 @@
       "keyword": "kap koja je prelila čašu"
     },
     {
+      "headword_latin": "Kap u moru",
+      "type": "imenički frazeologizam",
+      "definition_ru": "капля в море; ничтожно малая часть по сравнению с общей потребностью, количеством или масштабом проблемы",
+      "synonyms_sr": [
+        "zanemarljivo malo",
+        "tek mali deo",
+        "nedovoljno u odnosu na potrebe"
+      ],
+      "literal_ru": "капля в море",
+      "register": "neutralno, veoma često u publicistici i svakodnevnom govoru",
+      "examples": [
+        {
+          "serbian_latin": "Najavljeni otkup predstavlja samo „kap u moru“ zaliha koje opterećuju mlekare.",
+          "russian": "Объявленный выкуп — лишь капля в море запасов, которые лежат тяжёлым грузом на молокозаводах.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/ekonomija/kap-u-moru-mlecnih-zaliha/"
+        },
+        {
+          "serbian_latin": "Mnogo je lakše osećati se beznačajno, kao da smo samo kap u moru, od koje ništa ne zavisi.",
+          "russian": "Гораздо легче чувствовать себя незначительным, словно мы всего лишь капля в море, от которой ничего не зависит.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/magazin/Zdravlje/3713895/eko-anksioznost-i-eko-bol-nastaju-zbog-klimatskih-promena.html"
+        }
+      ],
+      "note": "Почти полный эквивалент русского «капля в море». Особенно часто встречается конструкция samo kap u moru, подчёркивающая, что предпринятое или имеющееся слишком мало по сравнению с масштабом задачи.",
+      "keyword": "kap u moru; malo; nedovoljno"
+    },
+    {
       "headword_latin": "Kasno Marko na Kosovo stiže",
       "type": "izreka",
       "definition_ru": "поздно спохватились; поезд ушёл; хороша ложка к обеду",
@@ -15126,6 +15436,34 @@
       ],
       "note": "Здесь ruda — не «руда» в русском смысле, а деревянное дышло повозки, элемент упряжи. Это важный ложный друг. Образ связан с молодым упряжным животным, которое сначала сопротивляется, а затем занимает положенное место и начинает тянуть. Danas прямо объясняет выражение через эту ситуацию.",
       "keyword": "leći na rudu"
+    },
+    {
+      "headword_latin": "Lediti krv u žilama",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "леденить кровь в жилах; вызывать сильнейший страх, ужас или жуткое ощущение",
+      "synonyms_sr": [
+        "uterivati strah u kosti",
+        "izazivati jezu",
+        "biti jeziv"
+      ],
+      "literal_ru": "леденить кровь в жилах",
+      "register": "ekspresivno; često u opisima straha, užasa i potresnih prizora",
+      "examples": [
+        {
+          "serbian_latin": "Taj period opisuje kao strahotu koja ledi krv u žilama.",
+          "russian": "Он описывает тот период как ужас, от которого кровь стынет в жилах.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/tv/rts2/5354996/srbija-na-vezi---portreti-djordje-kadijevic-1deo.html"
+        },
+        {
+          "serbian_latin": "Stanovnicima Milakovića od te simfonije počinje da se ledi krv u žilama.",
+          "russian": "У жителей Милаковичей от этой «симфонии» начинает стынуть кровь в жилах.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/tv/rts1/2972355/kvadratura-kruga-milakovici-i-jasenovo.html"
+        }
+      ],
+      "note": "Конструкция возможна как переходная (nešto ledi krv u žilama) и безлично-возвратная (od toga mi se ledi krv u žilama). Русский образ практически полностью совпадает.",
+      "keyword": "krv u žilama; strah; jeza"
     },
     {
       "headword_latin": "Lepa reč i gvozdena vrata otvara",
@@ -22224,6 +22562,34 @@
       "keyword": "duša"
     },
     {
+      "headword_latin": "Otvoriti nekome oči",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "открыть кому-либо глаза; помочь увидеть правду, понять реальное положение вещей или избавиться от заблуждения",
+      "synonyms_sr": [
+        "pokazati nekome istinu",
+        "osvestiti nekoga",
+        "razjasniti nekome stvari"
+      ],
+      "literal_ru": "открыть кому-либо глаза",
+      "register": "neutralno i razg.; vrlo često preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Ti si uzdrmala moj svet i otvorila mi oči.",
+          "russian": "Ты потрясла мой мир и открыла мне глаза.",
+          "source": "Telegraf, 2017",
+          "url": "https://www.telegraf.rs/zivot-i-stil/2755788-hvala-ti-to-je-sve-sto-zelim-da-kazem-zeni-koja-mi-je-ukrala-muza-evo-i-zasto"
+        },
+        {
+          "serbian_latin": "Umislio sam da sam neko i nešto, ali onda mi je Bog pokazao kako stvari stoje, otvorio mi oči.",
+          "russian": "Я возомнил о себе слишком много, но затем Бог показал мне, как всё обстоит, и открыл мне глаза.",
+          "source": "Sportal, 2023",
+          "url": "https://sportal.blic.rs/prica/ko-je-simon-vukcevic-trebalo-da-postane-novi-dejan-savicevic-zavrsio-u-zatvoru-2023120812512901602"
+        }
+      ],
+      "note": "Управление такое же, как в русском: otvoriti nekome oči. Часто добавляется уточнение za nešto / za neke stvari. Буквальное значение «открыть глаза» отличает только контекст.",
+      "keyword": "otvoriti oči; istina; shvatiti"
+    },
+    {
       "headword_latin": "Pa kud puklo da puklo",
       "type": "izraz",
       "definition_ru": "будь что будет; была не была; что бы ни случилось",
@@ -23123,29 +23489,30 @@
     },
     {
       "headword_latin": "Pasti s nogu",
-      "type": "frazeologizam",
-      "definition_ru": "Валиться с ног от усталости; совершенно выбиться из сил из-за тяжёлой работы, недосыпа, длительной нагрузки или множества дел.",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "валиться с ног; совершенно выбиться из сил, крайне устать",
       "synonyms_sr": [
-        "premoriti se",
         "biti iscrpljen",
-        "biti mrtav umoran",
-        "ne moći više od umora"
+        "biti premoren",
+        "jedva stajati na nogama"
       ],
       "literal_ru": "упасть с ног",
-      "register": "razg., ekspresivno",
+      "register": "razg., ekspresivno; najčešće o krajnjem fizičkom umoru",
       "examples": [
         {
-          "serbian_latin": "Zabrinut sam jer znam da će moji ljudi koji to rade pasti s nogu u narednom periodu.",
-          "russian": "Я обеспокоен, потому что знаю: люди, которые этим занимаются, вскоре будут буквально валиться с ног.",
-          "source": "Telegraf, 2020"
+          "serbian_latin": "Kardiolozi i hirurzi noćas pali s nogu!",
+          "russian": "Кардиологи и хирурги этой ночью буквально валились с ног!",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/beograd/burno-i-zahtevno-dezurstvo-na-vma-puno-posla-za-kardiolog-i-hirurge/k1beh8g"
         },
         {
-          "serbian_latin": "Pali smo s nogu od posla! Satima smo čistili ulicu.",
-          "russian": "Мы с ног валились от работы! Несколько часов чистили улицу.",
-          "source": "Kurir, 2014"
+          "serbian_latin": "Neki će od umora pasti s nogu i možda će morati ponovo da nauče da hodaju.",
+          "russian": "Некоторые будут валиться с ног от усталости и, возможно, им придётся заново учиться ходить.",
+          "source": "Srbija Danas, 2020",
+          "url": "https://orion.sd.rs/vesti/svet/doktor-upozorava-da-se-lecenje-korona-virusa-ne-zavrsava-kada-se-pacijent-skine-sa-respiratora-2020-05-02"
         }
       ],
-      "note": "Практически совпадает с русским «валиться с ног». Очень естественно сочетание pasti s nogu od umora / posla. Не путать с oboriti nekoga s nogu — «сразить, ошеломить, покорить».",
+      "note": "Pasti s nogu обозначает крайнюю усталость: человек едва держится на ногах. Не путать с oboriti nekoga s nogu — «сразить, ошеломить, покорить» или буквально «сбить с ног».",
       "keyword": "pasti s nogu; umor; iscrpljenost"
     },
     {
@@ -23206,30 +23573,31 @@
     },
     {
       "headword_latin": "Pasti u senku",
-      "type": "frazeologizam",
-      "definition_ru": "Отойти на второй план; стать менее заметным или менее важным из-за другого события, человека или обстоятельства. Русские соответствия: «оказаться в тени», «отойти на второй план».",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "оказаться в тени; перестать быть главным объектом внимания из-за более заметного события, человека или обстоятельства",
       "synonyms_sr": [
-        "ostati u senci",
-        "biti potisnut u drugi plan",
-        "postati manje primećen",
-        "izgubiti značaj"
+        "biti zasenjen",
+        "ostati u drugom planu",
+        "postati manje primećen"
       ],
-      "literal_ru": "попасть в тень",
-      "register": "neutralno-publicistički",
+      "literal_ru": "упасть в тень",
+      "register": "neutralno, često publicistički",
       "examples": [
         {
-          "serbian_latin": "Njegova sjajna igra je pala u senku incidenta u finišu meča.",
-          "russian": "Его великолепная игра отошла на второй план из-за инцидента в концовке матча.",
-          "source": "RTS, 2021"
+          "serbian_latin": "Turska zvezda je pala u senku svoje žene, što mu, kaže, prija.",
+          "russian": "Турецкая звезда оказалась в тени своей жены, и, по его словам, его это устраивает.",
+          "source": "Blic, 2016",
+          "url": "https://www.blic.rs/zabava/turska-zvezda-u-beogradu-mustafa-sandal-uzivam-da-budem-samo-eminin-muz/ssjthx3"
         },
         {
-          "serbian_latin": "Čak je i olimpijska bronza pala u senku, a ona je, ipak, najvažnija.",
-          "russian": "Даже олимпийская бронза оказалась в тени, хотя именно она всё-таки важнее всего.",
-          "source": "Politika, 2008"
+          "serbian_latin": "Svečanost je donekle pala u senku incidenta koji se dogodio između 11 i 12 časova.",
+          "russian": "Торжество в некоторой степени оказалось в тени инцидента, произошедшего между 11 и 12 часами.",
+          "source": "Telegraf, 2022",
+          "url": "https://www.telegraf.rs/vesti/srbija/3598786-muzjak-leoparda-u-palickom-zoo-vrtu-usmrtio-zenku-pred-posetiocima"
         }
       ],
-      "note": "Частая модель: nešto pada / padne u senku nečega. Причина, которая заслоняет главное событие, обычно ставится в родительном падеже после u senku.",
-      "keyword": "pasti u senku"
+      "note": "Варианты biti / ostati / pasti u senci имеют близкий смысл. Pasti u senku особенно подчёркивает изменение: что-то было заметным, но другое событие внезапно отодвинуло его на второй план.",
+      "keyword": "pasti u senku; drugi plan; zaseniti"
     },
     {
       "headword_latin": "Pasti u vatru",
@@ -27410,6 +27778,34 @@
       "keyword": "puna mi je kapa"
     },
     {
+      "headword_latin": "Puno mi je srce",
+      "type": "rečenični frazeologizam",
+      "definition_ru": "сердце переполняют радость, гордость или тёплые чувства; я очень счастлив и растроган",
+      "synonyms_sr": [
+        "presrećan sam",
+        "srce mi je ispunjeno",
+        "veoma sam ponosan i srećan"
+      ],
+      "literal_ru": "моё сердце полно",
+      "register": "razg., emotivno, pozitivno; često u izjavama zahvalnosti, ponosa i radosti",
+      "examples": [
+        {
+          "serbian_latin": "Puno mi je srce što je kuća puna dece.",
+          "russian": "У меня сердце радуется оттого, что дом полон детей.",
+          "source": "RTS, 2008",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/12786/devetnaestoro-dece-u-jednom-domacinstvu.html"
+        },
+        {
+          "serbian_latin": "Zahvalnost ovim momcima! Zahvalnost i klubu i navijačima, samo zahvalnost. Puno mi je srce.",
+          "russian": "Спасибо этим ребятам, клубу и болельщикам — только благодарность. Моё сердце переполнено.",
+          "source": "Sport Srbija, 2026",
+          "url": "https://sportsrbija.rs/fudbal/75364/puno-mi-je-srce-dejan-stankovic-nikad-emotivniji-posle-osvojenog-kupa/"
+        }
+      ],
+      "note": "Не обязательно переводить буквально. По-русски естественны «сердце переполнено», «сердце радуется», «я очень счастлив». Лицо меняется: puno mu je srce, puno joj je srce и т. д.",
+      "keyword": "puno srce; radost; ponos"
+    },
+    {
       "headword_latin": "Punom parom",
       "type": "frazeologizam",
       "definition_ru": "полным ходом; вовсю; на полную мощность",
@@ -30420,6 +30816,34 @@
       ],
       "note": "Русскому здесь нельзя механически переводить srce как «сердце»: чаще естественны «душа на месте», «отлегло от сердца», «теперь я спокоен». Выражение описывает восстановившееся душевное равновесие или удовлетворение положением дел. Не путать с srce mi je sišlo u pete — «душа ушла в пятки».",
       "keyword": "srce na mestu"
+    },
+    {
+      "headword_latin": "Srce mi se cepa",
+      "type": "rečenični frazeologizam",
+      "definition_ru": "сердце разрывается; я испытываю очень сильную боль, жалость или печаль",
+      "synonyms_sr": [
+        "puca mi srce",
+        "boli me duša",
+        "neizmerno mi je teško"
+      ],
+      "literal_ru": "моё сердце разрывается",
+      "register": "razg., veoma emotivno i ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Srce mi se cepa, hvala ti na svemu.",
+          "russian": "У меня сердце разрывается, спасибо тебе за всё.",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/sudbine/pevacica-slomljena-zbog-smrti-vlasnika-medijske-kuce-dragana-veselcica-srce-mi-se/46d2lv5"
+        },
+        {
+          "serbian_latin": "Ovo je postao prosečan klub, srce mi se cepa zbog navijača!",
+          "russian": "Этот клуб стал заурядным, и у меня сердце разрывается за болельщиков!",
+          "source": "Sportal, 2026",
+          "url": "https://sportal.blic.rs/prica/predrag-mijatovic-zabrinut-za-valensiju-srce-mi-se-cepa-2026041809325276042"
+        }
+      ],
+      "note": "Сильнее нейтрального žao mi je. Возможны srce mi puca и srce mi se kida. В сербской экавице — cepa; иекавская форма cijepa встречается в других вариантах стандарта.",
+      "keyword": "srce se cepa; tuga; bol"
     },
     {
       "headword_latin": "Srce na dlanu",
@@ -36222,6 +36646,34 @@
       ],
       "note": "Значение практически совпадает с русским. При этом выражение нередко намеренно оспаривают: vreme ne leči sve rane — время само по себе не устраняет тяжёлую душевную травму. Поэтому в живой речи это прежде всего традиционная формула утешения, а не буквальное психологическое утверждение.",
       "keyword": "vreme leči sve rane"
+    },
+    {
+      "headword_latin": "Vrteti istu ploču",
+      "type": "glagolski frazeologizam",
+      "definition_ru": "твердить одно и то же; снова и снова повторять ту же мысль, жалобу или аргумент",
+      "synonyms_sr": [
+        "stalno ponavljati isto",
+        "pričati jednu te istu priču",
+        "ponavljati se"
+      ],
+      "literal_ru": "крутить одну и ту же пластинку",
+      "register": "razg., obično neodobr.; često sa prilogom stalno ili uvek",
+      "examples": [
+        {
+          "serbian_latin": "Šta ćemo sa onima kojima je jezik brži od pameti, pa stalno „vrte istu ploču“?",
+          "russian": "Что делать с теми, у кого язык быстрее мысли и кто всё время твердит одно и то же?",
+          "source": "Politika, 2014",
+          "url": "https://www.politika.rs/sr/clanak/286347/Nije-tesko-reci-izvini"
+        },
+        {
+          "serbian_latin": "Da li vam deluje da i društvo kao celina „vrti istu ploču“ iz dana u dan?",
+          "russian": "Не кажется ли вам, что и общество в целом изо дня в день повторяет одну и ту же пластинку?",
+          "source": "Nova ekonomija, 2021",
+          "url": "https://novaekonomija.rs/upload/Issue/Pdf/2021-05/80.pdf"
+        }
+      ],
+      "note": "Важное отличие от okrenuti / promeniti ploču — «сменить пластинку», то есть изменить позицию или тон. Vrteti istu ploču, наоборот, означает упорно повторять одно и то же.",
+      "keyword": "ista ploča; ponavljanje; vrteti"
     },
     {
       "headword_latin": "Vrteti nekoga oko malog prsta",
