@@ -2440,6 +2440,34 @@
       "keyword": "glava u oblacima"
     },
     {
+      "headword_latin": "Biti s obe noge na zemlji",
+      "type": "frazeologizam",
+      "definition_ru": "твёрдо стоять на земле; быть реалистичным, здравомыслящим и не терять связь с реальностью",
+      "synonyms_sr": [
+        "biti realan",
+        "čvrsto stajati na zemlji",
+        "biti prizeman u dobrom smislu"
+      ],
+      "literal_ru": "быть обеими ногами на земле",
+      "register": "neutralno, pohvalno",
+      "examples": [
+        {
+          "serbian_latin": "Nikola je sa obe noge na zemlji.",
+          "russian": "Никола твёрдо стоит обеими ногами на земле.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/sport/kosarka/3391033/nikola-jokic--superzvezda-koja-se-i-dalje-dokazuje-amerikancima.html"
+        },
+        {
+          "serbian_latin": "Ona stoji čvrsto sa obe noge na zemlji.",
+          "russian": "Она крепко стоит обеими ногами на земле.",
+          "source": "Srbija Danas, 2014",
+          "url": "https://www.sd.rs/clanak/najlepsa-dama-dana-aleksandra-krunic-02-10-2014"
+        }
+      ],
+      "note": "Может описывать реализм, скромность и психологическую устойчивость. Частый вариант čvrsto stajati s obe noge na zemlji.",
+      "keyword": "obe noge na zemlji; realnost; prizemnost"
+    },
+    {
       "headword_latin": "Biti sateran / pritisnut uza zid",
       "type": "frazeologizam",
       "definition_ru": "быть загнанным в угол; оказаться в безвыходном положении; быть прижатым к стенке",
@@ -5427,32 +5455,31 @@
     },
     {
       "headword_latin": "Do poslednjeg daha",
-      "type": "frazeološki izraz",
-      "definition_ru": "До самого конца жизни; до последних сил; не прекращая борьбу, работу или преданность чему-либо до конца.",
+      "type": "priloški frazeologizam",
+      "definition_ru": "до последнего вздоха; до самого конца, до конца жизни или до полного исчерпания сил",
       "synonyms_sr": [
         "do samog kraja",
-        "do smrti",
-        "dok god ima snage",
-        "do kraja života"
+        "do kraja života",
+        "do poslednjeg trenutka"
       ],
       "literal_ru": "до последнего дыхания",
-      "register": "ekspresivno, često svečano ili dramatično",
+      "register": "neutralno, ekspresivno; često svečano ili dramatično",
       "examples": [
         {
-          "serbian_latin": "Veršingova nije jedina koja je radila do poslednjeg daha.",
-          "russian": "Вершинг была не единственной, кто работал до последнего дыхания.",
+          "serbian_latin": "Radila je do poslednjeg daha.",
+          "russian": "Она работала до последнего вздоха.",
           "source": "Politika, 2023",
           "url": "https://www.politika.rs/sr/clanak/536647/glumci-helen-mekrori-cedvik-bouzman-helen-mccrory-chadwick-boseman"
         },
         {
-          "serbian_latin": "Žika Jelić obećava da će momci nastaviti da sviraju „do poslednjeg daha“.",
-          "russian": "Жика Елич обещает, что музыканты будут играть до последнего дыхания.",
+          "serbian_latin": "Nastaviće da sviraju do poslednjeg daha.",
+          "russian": "Они будут играть до последнего вздоха.",
           "source": "RTS, 2010",
           "url": "https://www.rts.rs/lat/magazin/muzika/802008/cetiri-decenije-ju-grupe.html"
         }
       ],
-      "note": "Не обязательно буквально о смерти: выражение часто гиперболически подчёркивает абсолютную решимость продолжать дело до конца.",
-      "keyword": "do poslednjeg daha"
+      "note": "Может означать буквально «до конца жизни» или гиперболически «до самого конца, не сдаваясь». Контекст решает, насколько буквальна формула.",
+      "keyword": "poslednji dah; do kraja; istrajnost"
     },
     {
       "headword_latin": "Do srži",
@@ -8464,6 +8491,34 @@
       "keyword": "graditi mostove"
     },
     {
+      "headword_latin": "Gubiti glavu",
+      "type": "frazeologizam",
+      "definition_ru": "терять самообладание, паниковать, переставать трезво рассуждать; в другом контексте буквально/метафорически — погибать",
+      "synonyms_sr": [
+        "paničiti",
+        "gubiti prisebnost",
+        "izgubiti kontrolu"
+      ],
+      "literal_ru": "терять голову",
+      "register": "razg.; značenje zavisi od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Ako se to ne dogodi, ne treba gubiti glavu.",
+          "russian": "Если этого не случится, не нужно терять голову.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/sport/Fudbal/1721439/Upoznajte%2Breprezentaciju%2BAlbanije.html"
+        },
+        {
+          "serbian_latin": "Treba ići korak po korak i ne gubiti glavu.",
+          "russian": "Нужно двигаться шаг за шагом и не терять голову.",
+          "source": "Srbija Danas, 2014",
+          "url": "https://www.sd.rs/clanak/najlepsa-dama-dana-aleksandra-krunic-02-10-2014"
+        }
+      ],
+      "note": "В значении «паниковать, терять контроль» часто встречается с отрицанием: ne gubiti glavu. По контексту важно отличать от значения «поплатиться жизнью».",
+      "keyword": "gubiti glavu; panika; prisebnost"
+    },
+    {
       "headword_latin": "gubiti se / izgubiti se svaki trag nekome",
       "type": "glagolski frazem",
       "definition_ru": "от кого-либо пропадают все следы; кто-либо бесследно исчезает",
@@ -9437,6 +9492,34 @@
       "keyword": "grlom u jagode; srljati; nepromišljeno"
     },
     {
+      "headword_latin": "Ići kako vetar duva",
+      "type": "frazeologizam",
+      "definition_ru": "менять поведение, мнение или сторону в зависимости от обстоятельств и выгоды; держать нос по ветру",
+      "synonyms_sr": [
+        "okretati se kako vetar duva",
+        "povijati se prema okolnostima",
+        "prilagođavati se iz koristi"
+      ],
+      "literal_ru": "идти туда, куда дует ветер",
+      "register": "razg., neodobr.; često o oportunizmu",
+      "examples": [
+        {
+          "serbian_latin": "Okreće se kako vetar duva.",
+          "russian": "Он поворачивается туда, куда дует ветер.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/kraj-tisine/"
+        },
+        {
+          "serbian_latin": "Kako vetar duva. I kako im se nalagalo.",
+          "russian": "Куда ветер дует — и как им велели.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/divide-et-impera/"
+        }
+      ],
+      "note": "Чаще встречается модель okretati se / ponašati se kako vetar duva. Смысл обычно неодобрительный: человек не держится принципов, а подстраивается под конъюнктуру.",
+      "keyword": "vetar duva; oportunizam; prilagođavanje"
+    },
+    {
       "headword_latin": "Ići kao metak",
       "type": "frazeologizam",
       "definition_ru": "лететь пулей; мчаться как пуля; идти очень быстро",
@@ -9654,6 +9737,34 @@
       ],
       "note": "Образ совпадает с движением рукой по шерсти животного: niz dlaku приятно и не вызывает сопротивления, uz dlaku — наоборот. Поэтому речь обычно не просто о согласии, а о сознательном потакании чужим вкусам, желаниям или самолюбию. Русское «гладить по шерсти» близко, но менее частотно.",
       "keyword": "niz dlaku"
+    },
+    {
+      "headword_latin": "Ići nekome od ruke",
+      "type": "frazeologizam",
+      "definition_ru": "хорошо получаться, легко даваться кому-либо; быть в чём-либо умелым",
+      "synonyms_sr": [
+        "dobro ići",
+        "lako polaziti za rukom",
+        "biti vešt u nečemu"
+      ],
+      "literal_ru": "идти кому-либо от руки",
+      "register": "neutralno i razg.; često uz dativ: ide mi / ti / mu od ruke",
+      "examples": [
+        {
+          "serbian_latin": "Crna komedija nam ide od ruke, kao Brazilcima fudbal.",
+          "russian": "Чёрная комедия нам удаётся так же хорошо, как бразильцам футбол.",
+          "source": "Politika, 2012",
+          "url": "https://www.politika.rs/sr/clanak/240008/crna-komedija-nam-ide-od-ruke-kao-brazilcima-fudbal"
+        },
+        {
+          "serbian_latin": "Pravopis im ide od ruke.",
+          "russian": "Правописание им даётся хорошо.",
+          "source": "Blic, 2017",
+          "url": "https://www.blic.rs/vesti/drustvo/pravopis-im-ide-od-ruke-ali-knjizevnost-osmake-na-testu-iz-srpskog-namucili-tom-sojer/dhrs4c9"
+        }
+      ],
+      "note": "Типичная модель: nešto nekome ide od ruke. Противоположность: ne ide mi od ruke — «у меня это плохо получается».",
+      "keyword": "ići od ruke; uspevati; veština"
     },
     {
       "headword_latin": "Ići s kokoškama na spavanje",
@@ -10077,6 +10188,34 @@
       ],
       "note": "Русское «толстокожий» нередко подразумевает бессердечие, а сербский оборот в этих примерах — прежде всего защищённость от неприятных оценок. Поэтому перевод «меня трудно задеть» бывает точнее буквального. При этом устойчивость к нападкам и готовность учитывать обоснованную критику не исключают друг друга: первый источник специально противопоставляет эти вещи полному игнорированию замечаний.",
       "keyword": "debela koža"
+    },
+    {
+      "headword_latin": "Imati duge prste",
+      "type": "frazeologizam",
+      "definition_ru": "быть вороватым; иметь склонность присваивать чужое, особенно мелко воровать",
+      "synonyms_sr": [
+        "biti lopov",
+        "krasti",
+        "biti lak na tuđem"
+      ],
+      "literal_ru": "иметь длинные пальцы",
+      "register": "razg., neodobr.; često šaljivo ili eufemistički",
+      "examples": [
+        {
+          "serbian_latin": "Za „duge prste“ se lepi sve što je nadohvat ruke.",
+          "russian": "К «длинным пальцам» липнет всё, что оказывается под рукой.",
+          "source": "Politika, 2011",
+          "url": "https://www.politika.rs/sr/clanak/172523/em-steta-em-bruka"
+        },
+        {
+          "serbian_latin": "Da li ste ikada imali duge prste?",
+          "russian": "Бывало ли у вас, что руки тянулись к чужому?",
+          "source": "Krstarica forum, 2004",
+          "url": "https://forum.krstarica.com/threads/kradja.30277/"
+        }
+      ],
+      "note": "Эвфемистический образ вора. Возможны близкие варианты dugi prsti / dugački prsti. Не путать с буквальным описанием длинных пальцев.",
+      "keyword": "dugi prsti; krađa; lopov"
     },
     {
       "headword_latin": "Imati dve leve ruke",
@@ -10646,6 +10785,34 @@
       ],
       "note": "Английское trip сильно разрослось в сербском сленге. Imati trip da... чаще обозначает субъективное, иногда тревожное или иррациональное убеждение: «мне всё кажется, что…». А imati neki trip na nešto может означать уже «иметь пунктик / бзик насчёт чего-то»; поэтому ваш пример лучше переделать в Martin ima neki trip na reciklažu.",
       "keyword": "imati trip da"
+    },
+    {
+      "headword_latin": "Imati veliko srce",
+      "type": "frazeologizam",
+      "definition_ru": "быть добрым, щедрым, отзывчивым человеком; обладать большим сердцем",
+      "synonyms_sr": [
+        "biti velikodušan",
+        "biti plemenit",
+        "biti širokog srca"
+      ],
+      "literal_ru": "иметь большое сердце",
+      "register": "neutralno, pohvalno",
+      "examples": [
+        {
+          "serbian_latin": "Milorad Jurković, poznatiji kao Stolar Mile, odavno je dokazao da ima veliko srce.",
+          "russian": "Милорад Юркович, известный как Столяр Миле, давно доказал, что у него большое сердце.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3758324/.html?print=true"
+        },
+        {
+          "serbian_latin": "On ima veliko srce.",
+          "russian": "У него большое сердце.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/5961568/zdravko-colic-rodjendan-vuk-zugic.html"
+        }
+      ],
+      "note": "Обычно говорит не о смелости, а о доброте, великодушии и готовности помогать. Сравните biti širokog srca — «быть щедрым, великодушным».",
+      "keyword": "veliko srce; dobrota; velikodušnost"
     },
     {
       "headword_latin": "imati vezane ruke",
@@ -15798,6 +15965,34 @@
       "keyword": "mirne duše"
     },
     {
+      "headword_latin": "Misliti svojom glavom",
+      "type": "frazeologizam",
+      "definition_ru": "думать самостоятельно; иметь собственное суждение, а не слепо следовать чужому мнению",
+      "synonyms_sr": [
+        "samostalno razmišljati",
+        "imati sopstveni stav",
+        "ne povoditi se za drugima"
+      ],
+      "literal_ru": "думать своей головой",
+      "register": "neutralno, pohvalno",
+      "examples": [
+        {
+          "serbian_latin": "Najvažnije je misliti svojom glavom.",
+          "russian": "Самое важное — думать своей головой.",
+          "source": "Blic, 2002",
+          "url": "https://www.blic.rs/vesti/drustvo/najvaznije-je-misliti-svojom-glavom/wbbddsc"
+        },
+        {
+          "serbian_latin": "Oduvek je bilo teško misliti svojom glavom.",
+          "russian": "Всегда было непросто думать своей головой.",
+          "source": "Blic, 2023",
+          "url": "https://www.blic.rs/kultura/intervju-nikola-ristanovski/3kspj3q"
+        }
+      ],
+      "note": "Практически полный эквивалент русского «думать своей головой». Притяжательное меняется по лицу: svojom glavom, но не mojom glavom при том же субъекте.",
+      "keyword": "svoja glava; samostalno mišljenje; stav"
+    },
+    {
       "headword_latin": "Mlatiti praznu slamu",
       "type": "frazeologizam",
       "definition_ru": "толочь воду в ступе; переливать из пустого в порожнее; заниматься пустой болтовнёй",
@@ -16203,6 +16398,34 @@
       ],
       "note": "Русское «мутить воду» почти полностью совпадает по образу, но сербское выражение особенно часто подразумевает сознательное создание путаницы: затемнить суть вопроса, посеять сомнения, увести обсуждение в сторону. Не обязательно означает прямую ложь.",
       "keyword": "mutiti vodu"
+    },
+    {
+      "headword_latin": "Na brzu ruku",
+      "type": "priloški frazeologizam",
+      "definition_ru": "на скорую руку; поспешно, быстро и без достаточной подготовки или тщательности",
+      "synonyms_sr": [
+        "na brzinu",
+        "navrat-nanos",
+        "zbrda-zdola"
+      ],
+      "literal_ru": "на быструю руку",
+      "register": "razg.; često ima blago negativnu nijansu — nešto je urađeno prebrzo ili površno",
+      "examples": [
+        {
+          "serbian_latin": "A oni bi navrat-nanos, preko noći i na brzu ruku, da oforme novu visoku školu.",
+          "russian": "А они хотели бы второпях, за одну ночь, на скорую руку создать новую высшую школу.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/osnivanje-srpske-antiskole-trostruka-negacija/"
+        },
+        {
+          "serbian_latin": "Preduzeća su na brzu ruku privatizovana.",
+          "russian": "Предприятия были приватизированы на скорую руку.",
+          "source": "Politika, 2011",
+          "url": "https://www.politika.rs/sr/clanak/181272/brisel-proverava-privatizacije-u-srbiji"
+        }
+      ],
+      "note": "В отличие от нейтрального brzo, выражение na brzu ruku часто подчёркивает поспешность и недостаток основательности. Близко к русскому «на скорую руку».",
+      "keyword": "brza ruka; brzina; žurba"
     },
     {
       "headword_latin": "Na drugi pogled",
@@ -17653,29 +17876,30 @@
     {
       "headword_latin": "Ne ide mi u glavu",
       "type": "frazeologizam",
-      "definition_ru": "Я никак не могу этого понять или принять; это не укладывается у меня в голове. Русский эквивалент: «у меня в голове не укладывается».",
+      "definition_ru": "не укладывается в голове; не могу понять, осмыслить или принять что-либо",
       "synonyms_sr": [
         "ne mogu da shvatim",
         "ne mogu da razumem",
-        "nije mi jasno",
-        "ne mogu to da pojmim"
+        "nije mi jasno"
       ],
-      "literal_ru": "мне это не идёт в голову",
-      "register": "razg., veoma često",
+      "literal_ru": "не идёт мне в голову",
+      "register": "razg.; veoma često",
       "examples": [
         {
-          "serbian_latin": "Ne ide mi u glavu. Pokušao sam to nekako sebi da objasnim, ali ne nalazim odgovore.",
-          "russian": "У меня это в голове не укладывается. Я пытался себе это как-то объяснить, но не нахожу ответа.",
-          "source": "BBC na srpskom / Danas, 2023"
+          "serbian_latin": "Ne ide mi u glavu da Đokovića nazivaju idiotom.",
+          "russian": "У меня не укладывается в голове, что Джоковича называют идиотом.",
+          "source": "N1 Srbija, 2018",
+          "url": "https://n1info.rs/sport-klub/fudbal/a402747-Milojko-Pantic-Englezi-ce-biti-svetski-prvaci/"
         },
         {
-          "serbian_latin": "Da se sportska ikona Novak Đoković proglašava idiotom, to mi ne ide u glavu.",
-          "russian": "У меня в голове не укладывается, что спортивную икону Новака Джоковича называют идиотом.",
-          "source": "N1, 2018"
+          "serbian_latin": "Ne ide mi u glavu. Pokušao sam to nekako sebi da objasnim.",
+          "russian": "У меня это не укладывается в голове. Я пытался как-то себе это объяснить.",
+          "source": "BBC na srpskom / Danas, 2023",
+          "url": "https://www.danas.rs/bbc-news-serbian/rusija-i-ukrajina-blinken-tvrdi-da-ce-ukrajinska-kontraofanziva-poceti-u-narednim-nedeljama-lavrov-u-poseti-turskoj/"
         }
       ],
-      "note": "Одна из очень полезных разговорных конструкций. Местоимение меняется: ne ide mi / ti / mu / joj u glavu. Часто выражает не отсутствие информации, а именно невозможность логически понять или эмоционально принять происходящее.",
-      "keyword": "ne ide mi u glavu"
+      "note": "Очень разговорная и естественная конструкция. Меняется лицо: ne ide mu / joj / nam u glavu. Может выражать как непонимание, так и эмоциональное неприятие.",
+      "keyword": "ići u glavu; ne razumeti; neshvatljivo"
     },
     {
       "headword_latin": "Ne laje kera sela radi, nego sebe radi",
@@ -20539,30 +20763,31 @@
     },
     {
       "headword_latin": "Od krvi i mesa",
-      "type": "frazeološki izraz",
-      "definition_ru": "Настоящий живой человек со слабостями, страхами, чувствами и ошибками, а не идеализированный или безупречный образ. Русский эквивалент: «из плоти и крови».",
+      "type": "atributivni frazeologizam",
+      "definition_ru": "из плоти и крови; живой, настоящий человек со слабостями, чувствами и обычными человеческими чертами",
       "synonyms_sr": [
         "stvaran čovek",
         "običan čovek",
-        "ljudsko biće sa manama",
-        "neidealizovan"
+        "živ čovek sa manama i vrlinama"
       ],
       "literal_ru": "из крови и мяса",
-      "register": "neutralno-knjiški",
+      "register": "neutralno, ekspresivno; često nasuprot idealizovanoj ili apstraktnoj slici",
       "examples": [
         {
-          "serbian_latin": "Ideja mi je bila da od nje napravim ženu od krvi i mesa.",
-          "russian": "Мне хотелось показать её живой женщиной из плоти и крови.",
-          "source": "RTS, 2022"
+          "serbian_latin": "Kralj Petar Prvi biće predstavljen kao čovek od krvi i mesa, a ne ikona.",
+          "russian": "Король Пётр I будет показан как живой человек из плоти и крови, а не как икона.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/2993214/petar-ristovski-snimicu-vestern-o-kralju-petru-prvom.html"
         },
         {
-          "serbian_latin": "Stefan Prvovenčani će u seriji biti čovek „od krvi i mesa“.",
-          "russian": "Стефан Первовенчанный в сериале будет показан живым человеком из плоти и крови.",
-          "source": "RTS, 2016"
+          "serbian_latin": "To su ljudi od krvi i mesa.",
+          "russian": "Это живые люди из плоти и крови.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/tv/rts-drama/4698228/tv-teatar---dervis-i-smrt.html"
         }
       ],
-      "note": "Особенно часто используется, когда историческую, литературную или знаменитую фигуру хотят показать не памятником, а живым человеком со слабостями.",
-      "keyword": "od krvi i mesa; stvaran čovek"
+      "note": "Русскому соответствует «из плоти и крови». В сербском формула od krvi i mesa подчёркивает человеческую реальность в противопоставлении мифу, идеалу, образу или статистике.",
+      "keyword": "krv i meso; čovek; stvarnost"
     },
     {
       "headword_latin": "od Kulina bana",
@@ -23641,6 +23866,34 @@
       "keyword": "pocrveneti do ušiju"
     },
     {
+      "headword_latin": "Početi od nule",
+      "type": "frazeologizam",
+      "definition_ru": "начать с нуля, с самого начала, не имея готовой базы, ресурсов или прежних результатов",
+      "synonyms_sr": [
+        "krenuti od nule",
+        "početi ispočetka",
+        "krenuti od početka"
+      ],
+      "literal_ru": "начать от нуля",
+      "register": "neutralno; često u poslu, učenju i životnim promenama",
+      "examples": [
+        {
+          "serbian_latin": "Imati startap kompaniju u Srbiji znači početi od nule.",
+          "russian": "Иметь стартап-компанию в Сербии означает начинать с нуля.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/4380096/startap-kompanije-it-srbija.html"
+        },
+        {
+          "serbian_latin": "U Jadranskoj Lešnici, to je značilo početi od nule.",
+          "russian": "В Ядранской Лешнице это означало начать с нуля.",
+          "source": "UNICEF Srbija, 2014",
+          "url": "https://www.unicef.org/serbia/price/vrti%C4%87i-bez-granica"
+        }
+      ],
+      "note": "Полный эквивалент русского «начать с нуля». Частый вариант krenuti od nule. Početi ispočetka близко, но не обязательно подразумевает отсутствие ресурсов.",
+      "keyword": "od nule; početak; ispočetka"
+    },
+    {
       "headword_latin": "Počivati / spavati na lovorikama",
       "type": "frazeologizam",
       "definition_ru": "почивать на лаврах; успокоиться на достигнутом; перестать развиваться после успеха",
@@ -23724,29 +23977,31 @@
     },
     {
       "headword_latin": "Pod vedrim nebom",
-      "type": "izraz",
-      "definition_ru": "Под открытым небом; на улице, вне помещения. Русские соответствия: «под открытым небом», «на свежем воздухе».",
+      "type": "priloški frazeologizam",
+      "definition_ru": "под открытым небом; на открытом воздухе, вне помещения",
       "synonyms_sr": [
         "na otvorenom",
         "na otvorenom prostoru",
         "napolju"
       ],
       "literal_ru": "под ясным небом",
-      "register": "neutralno, slikovito",
+      "register": "neutralno; često u kulturi, turizmu i svakodnevnom govoru",
       "examples": [
         {
-          "serbian_latin": "Pod vedrim nebom nastupilo je više od stotinu izvođača.",
-          "russian": "Под открытым небом выступило более ста артистов.",
-          "source": "RTS, 2023"
+          "serbian_latin": "Pod vedrim nebom Beograda održao je koncert.",
+          "russian": "Он дал концерт под открытым небом Белграда.",
+          "source": "RTS, 2022",
+          "url": "https://rts.rs/lat/magazin/muzika/4897390/bocelijev-koncert-pod-vedrim-nebom-beograda-spektakl-koji-ce-se-pamtiti.html"
         },
         {
-          "serbian_latin": "Slogan ovogodišnjeg Festivala je – „I dalje pod vedrim nebom“.",
-          "russian": "Лозунг нынешнего фестиваля — «По-прежнему под открытым небом».",
-          "source": "Danas, 2009"
+          "serbian_latin": "„Aida“ će biti izvedena pod vedrim nebom.",
+          "russian": "«Аида» будет исполнена под открытым небом.",
+          "source": "RTS, 2021",
+          "url": "https://rts.rs/lat/tv/rts2/4511428/opera-aida-pod-vedrim-nebom-medju-zidinama-petrovardinske-tvrdjave.html"
         }
       ],
-      "note": "Vedro не обязательно означает, что на небе буквально нет облаков: выражение давно функционирует как образное обозначение мероприятия или ночлега на открытом воздухе.",
-      "keyword": "pod vedrim nebom"
+      "note": "Значение не требует буквально безоблачной погоды: pod vedrim nebom устойчиво означает «на открытом воздухе».",
+      "keyword": "vedro nebo; na otvorenom; napolju"
     },
     {
       "headword_latin": "Pod znakom pitanja",
@@ -28034,33 +28289,60 @@
       "keyword": "s oproštenjem"
     },
     {
-      "headword_latin": "Sačuvati hladnu glavu",
+      "headword_latin": "Sabirati kruške i jabuke",
       "type": "frazeologizam",
-      "definition_ru": "Сохранить спокойствие, самообладание и способность рассуждать трезво в напряжённой, опасной или эмоциональной ситуации. Русские соответствия: «сохранить холодную голову», «не терять голову».",
+      "definition_ru": "складывать, сопоставлять или смешивать несопоставимые вещи; сравнивать разные категории как будто они одно и то же",
       "synonyms_sr": [
-        "ostati pribran",
-        "ostati smiren",
-        "ne paničiti",
-        "razmišljati trezveno"
+        "mešati babe i žabe",
+        "porediti neuporedivo",
+        "mešati različite stvari"
       ],
-      "literal_ru": "сохранить холодную голову",
-      "register": "neutralno-razgovorno, veoma često",
+      "literal_ru": "складывать груши и яблоки",
+      "register": "razg. i publicistički; često u raspravama o brojkama i poređenjima",
       "examples": [
         {
-          "serbian_latin": "Važno je sačuvati kritički duh i hladnu glavu.",
-          "russian": "Важно сохранить критическое мышление и холодную голову.",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/kultura/vazno-je-sacuvati-kriticki-duh-i-hladnu-glavu-ne-treba-se-predavati-euforiji-vladimir-arsenijevic-pisac-i-jedan-od-osnivaca-krokodil-a/"
+          "serbian_latin": "Pokazano je da je moguće sabirati kruške i jabuke.",
+          "russian": "Было показано, что можно складывать груши с яблоками.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/736337/berijina-lista"
         },
         {
-          "serbian_latin": "Uspeli smo da sačuvamo hladnu glavu i da na miran način reagujemo.",
-          "russian": "Нам удалось сохранить холодную голову и спокойно отреагировать.",
-          "source": "RTS, 2018",
-          "url": "https://www.rts.rs/lat/vesti/politika/3086728/nikada-vise-oluja-i-bljesak.html"
+          "serbian_latin": "Sigurno je da se kruške i jabuke ne mogu sabirati.",
+          "russian": "Совершенно ясно, что груши и яблоки складывать нельзя.",
+          "source": "Partizanov vesnik, 1975",
+          "url": "https://pvesnik.rs/1975/01/22/stil-jednog-vaspitaca/"
         }
       ],
-      "note": "Hladna glava здесь имеет положительный смысл: человек не бесчувственный, а спокойный и рациональный. Противоположные модели — izgubiti glavu, paničiti, planuti.",
-      "keyword": "sačuvati hladnu glavu; pribranost; mir"
+      "note": "Устойчивый образ ошибочного сравнения или арифметического объединения разных категорий. По смыслу близко к mešati babe i žabe, но особенно естественно при разговоре о цифрах и статистике.",
+      "keyword": "kruške i jabuke; poređenje; neuporedivo"
+    },
+    {
+      "headword_latin": "Sačuvati hladnu glavu",
+      "type": "frazeologizam",
+      "definition_ru": "сохранить хладнокровие и ясность мышления; не поддаться панике или эмоциям",
+      "synonyms_sr": [
+        "ostati pribran",
+        "zadržati prisebnost",
+        "ne paničiti"
+      ],
+      "literal_ru": "сохранить холодную голову",
+      "register": "neutralno; često u kriznim, sportskim i konfliktnim situacijama",
+      "examples": [
+        {
+          "serbian_latin": "Nadam se da ćemo i u Srbiji sačuvati hladnu glavu.",
+          "russian": "Надеюсь, что и в Сербии мы сумеем сохранить хладнокровие.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/drustvo/intervju-ladislav-nemet-nadam-se-da-cemo-i-u-srbiji-sacuvati-hladnu-glavu/"
+        },
+        {
+          "serbian_latin": "Važno je sačuvati hladnu glavu.",
+          "russian": "Важно сохранять хладнокровие.",
+          "source": "Kurir, 2025",
+          "url": "https://www.kurir.rs/sport/fudbal/9738117/fk-partizan-oleksandrija-liga-konferencija"
+        }
+      ],
+      "note": "Хорошая пара к izgubiti / gubiti glavu — «потерять голову, запаниковать». Hladna glava здесь означает самообладание, а не эмоциональную холодность.",
+      "keyword": "hladna glava; prisebnost; samokontrola"
     },
     {
       "headword_latin": "Sačuvati obraz",
@@ -28867,6 +29149,34 @@
       "keyword": "skakati sebi u usta"
     },
     {
+      "headword_latin": "Skidati kapu nekome",
+      "type": "frazeologizam",
+      "definition_ru": "выражать кому-либо большое уважение, признание или восхищение; снимать шляпу перед кем-либо",
+      "synonyms_sr": [
+        "odati priznanje",
+        "iskazati poštovanje",
+        "svaka čast"
+      ],
+      "literal_ru": "снимать перед кем-либо шапку",
+      "register": "razg., pohvalno; vrlo često u obliku skidam kapu",
+      "examples": [
+        {
+          "serbian_latin": "Doktoru skidam kapu.",
+          "russian": "Перед доктором снимаю шляпу.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/Zdravlje/5989139/.html?print=true"
+        },
+        {
+          "serbian_latin": "Skidam kapu ko je zaradio od koncerta.",
+          "russian": "Снимаю шляпу перед тем, кто сумел заработать на концерте.",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/zabava/ivana-selakov-iskreno-o-estradi-i-braku-skidam-kapu-ko-je-zaradio-od-koncerta/mh6j0tf"
+        }
+      ],
+      "note": "Чаще всего: skidam kapu nekome / za nešto. Это не буквальное действие, а формула признания заслуг: «респект», «снимаю шляпу».",
+      "keyword": "skinuti kapu; poštovanje; priznanje"
+    },
+    {
       "headword_latin": "Skinuti kapu nekome",
       "type": "frazeologizam",
       "definition_ru": "снять шляпу перед кем-либо; отдать должное; выразить уважение",
@@ -29312,6 +29622,34 @@
       ],
       "note": "Короткая форма Sloga kuću gradi совершенно самостоятельна. Вторая половина не закреплена в одном-единственном варианте: встречаются a nesloga ruši, razgrađuje, uništava. Поэтому в заголовке лучше сохранять устойчивую первую часть.",
       "keyword": "sloga"
+    },
+    {
+      "headword_latin": "Slomiti nekome srce",
+      "type": "frazeologizam",
+      "definition_ru": "разбить кому-либо сердце; причинить сильную эмоциональную, чаще любовную боль",
+      "synonyms_sr": [
+        "povrediti nekoga",
+        "naneti ljubavnu bol",
+        "razočarati u ljubavi"
+      ],
+      "literal_ru": "сломать кому-либо сердце",
+      "register": "neutralno i emotivno; vrlo često u ljubavnom kontekstu",
+      "examples": [
+        {
+          "serbian_latin": "Meni je teško slomiti srce.",
+          "russian": "Мне трудно разбить сердце.",
+          "source": "Telegraf, 2024",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/3906053-neka-gori-balkan-tea-tairovic-obratila-se-fanovima-i-podelila-vaznu-stvar-dragi-moji"
+        },
+        {
+          "serbian_latin": "Jedan joj je slomio srce.",
+          "russian": "Один из них разбил ей сердце.",
+          "source": "Knjižare Vulkan, 2022",
+          "url": "https://www.knjizare-vulkan.rs/tinejdz-i-ya-roman/135165-uvek-cemo-imati-leto-tiktok-hit"
+        }
+      ],
+      "note": "Управление: slomiti srce nekome / slomiti nekome srce. Возможна пассивная конструкция srce mi je slomljeno.",
+      "keyword": "slomiti srce; ljubav; bol"
     },
     {
       "headword_latin": "Smandrljati",
@@ -32878,6 +33216,34 @@
       "keyword": "tapkati u mestu; napredak; zastoj"
     },
     {
+      "headword_latin": "Teći med i mleko",
+      "type": "frazeologizam",
+      "definition_ru": "жить в полном достатке; царить благополучию и изобилию; о месте или ситуации, где всё якобы прекрасно",
+      "synonyms_sr": [
+        "živeti u blagostanju",
+        "živeti u izobilju",
+        "sve ide kao po loju"
+      ],
+      "literal_ru": "текут мёд и молоко",
+      "register": "razg. i publicistički; često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Ako se kaže da negde teče med i mleko, znači da je blagostanje.",
+          "russian": "Если говорят, что где-то текут мёд и молоко, это значит, что там благополучие.",
+          "source": "RTS, 2009",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/167191/mlekari-iz-eu-prosipaju-mleko.html"
+        },
+        {
+          "serbian_latin": "Gde se skriva istina, a kome teče med i mleko?",
+          "russian": "Где скрывается истина и у кого всё идёт как нельзя лучше?",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/tv/rts-sat/5825910/znanje-imanje-med-i-vino.html"
+        }
+      ],
+      "note": "Образ изобилия. Очень часто употребляется с отрицанием или иронией: nije baš da teče med i mleko — «не то чтобы всё было прекрасно».",
+      "keyword": "med i mleko; blagostanje; izobilje"
+    },
+    {
       "headword_latin": "terati / isterati mak na konac",
       "type": "глагольный фразеологизм",
       "definition_ru": "Придираться к каждой мелочи; настаивать на своём до конца; довести разбирательство до окончательного результата.",
@@ -33754,6 +34120,34 @@
       ],
       "note": "Сербский и русский образы почти полностью совпадают. Речь необязательно идёт о буквальном отсутствии пауз: выражение подчёркивает цельность, лёгкость и увлечённость процессом. Особенно естественно о книге, фильме, сериале, рассказе или произведении, созданном быстро и на одном эмоциональном подъёме.",
       "keyword": "u jednom dahu"
+    },
+    {
+      "headword_latin": "U kratkim crtama",
+      "type": "priloški frazeologizam",
+      "definition_ru": "вкратце, в общих чертах, без подробностей",
+      "synonyms_sr": [
+        "ukratko",
+        "u osnovnim crtama",
+        "sažeto"
+      ],
+      "literal_ru": "короткими штрихами",
+      "register": "neutralno; vrlo često u govoru i pisanju",
+      "examples": [
+        {
+          "serbian_latin": "On ju je opisao samo u kratkim crtama.",
+          "russian": "Он описал её лишь в общих чертах.",
+          "source": "BBC na srpskom / Danas, 2020",
+          "url": "https://www.danas.rs/bbc-news-serbian/bil-inglis-odlazak-tvorca-prvog-kompjuterskog-misa/"
+        },
+        {
+          "serbian_latin": "Molila bih da mi neko to u kratkim crtama predoči!",
+          "russian": "Я бы попросила кого-нибудь изложить мне это вкратце!",
+          "source": "Krstarica forum, 2011",
+          "url": "https://forum.krstarica.com/threads/povrsina-krivolinijskog-trapeza.452580/"
+        }
+      ],
+      "note": "Удобная нейтральная формула для резюме: Da objasnim u kratkim crtama... = «Объясню вкратце...». Практически синоним ukratko.",
+      "keyword": "kratke crte; ukratko; sažeto"
     },
     {
       "headword_latin": "U laži su kratke noge",
@@ -36519,6 +36913,34 @@
       ],
       "note": "Буквальное значение полностью прозрачно, но переносное шире: отказать в возможности, сотрудничестве, доступе или поддержке. Для русского особенно полезно управление: zalupiti nekome vrata pred nosom. В переносном значении русское «захлопнуть дверь перед кем-то» часто звучит естественнее дословного варианта с «носом».",
       "keyword": "vrata pred nosom"
+    },
+    {
+      "headword_latin": "Zaljubiti se do ušiju",
+      "type": "frazeologizam",
+      "definition_ru": "влюбиться по уши; быть очень сильно влюблённым",
+      "synonyms_sr": [
+        "biti ludo zaljubljen",
+        "zaljubiti se preko glave",
+        "biti opčinjen nekim"
+      ],
+      "literal_ru": "влюбиться до ушей",
+      "register": "razg., emotivno; često šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Ne krije da je zaljubljen do ušiju.",
+          "russian": "Он не скрывает, что влюблён по уши.",
+          "source": "Blic, 2017",
+          "url": "https://www.blic.rs/vesti/drustvo/zaljubljen-do-usiju-sasa-kovacevic-srecan-sam-mozda-se-i-ozenim-video/hz4qv30"
+        },
+        {
+          "serbian_latin": "On je zaljubljen do ušiju u nju.",
+          "russian": "Он влюблён в неё по уши.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/adi-sose-smestio-devojku-u-prvi-red-na-koncertu-u-beogradu-zene-lude-za-njim-a-on/v7vg4v2"
+        }
+      ],
+      "note": "Очень близко к русскому «по уши влюбиться». Обычно: zaljubiti se do ušiju u nekoga / biti zaljubljen do ušiju.",
+      "keyword": "do ušiju; zaljubljenost; ljubav"
     },
     {
       "headword_latin": "Zamoriti nekoga",
