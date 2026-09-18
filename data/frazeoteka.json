@@ -17632,6 +17632,35 @@
       "keyword": "mora samo da se umre"
     },
     {
+      "headword_latin": "Može se na prste izbrojati",
+      "type": "frazeologizam",
+      "definition_ru": "можно пересчитать по пальцам; чего-либо или кого-либо очень мало",
+      "synonyms_sr": [
+        "ima ih vrlo malo",
+        "jedva nekoliko",
+        "na prste jedne ruke",
+        "malobrojni su"
+      ],
+      "literal_ru": "можно пересчитать по пальцам",
+      "register": "neutralno, veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Ostalo je po nekoliko ljudi koji se mogu izbrojati na prste jedne ruke.",
+          "russian": "Осталось всего несколько человек — их можно пересчитать по пальцам одной руки.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/tv/rts1/5317907/osamnaest-godina-samoce-petar-sijan-lika.html"
+        },
+        {
+          "serbian_latin": "Na prste jedne ruke mogu da se nabroje filmovi...",
+          "russian": "Фильмы такого рода можно пересчитать по пальцам одной руки.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/rts/rts-predstavlja/nemanjici/radjanje-kraljevine/2821048/seobe-i-drugi-demoni.html"
+        }
+      ],
+      "note": "Частая полная форма — mogu se izbrojati / nabrojati na prste jedne ruke. Русский эквивалент практически дословный.",
+      "keyword": "na prste izbrojati"
+    },
+    {
       "headword_latin": "Možeš na hleb da ga namažeš",
       "type": "frazeologizam",
       "definition_ru": "добрейшей души; хоть к ране прикладывай; мухи не обидит",
@@ -19092,6 +19121,94 @@
       "keyword": "sobarica"
     },
     {
+      "headword_latin": "Naklon do poda",
+      "type": "izraz",
+      "definition_ru": "низкий поклон; выражение очень сильного уважения, благодарности или восхищения",
+      "synonyms_sr": [
+        "svaka čast",
+        "kapa dole",
+        "duboko poštovanje",
+        "veliko hvala"
+      ],
+      "literal_ru": "поклон до пола",
+      "register": "razgovorno-publicistički, pohvalno",
+      "examples": [
+        {
+          "serbian_latin": "Žene velikog srca, naklon do poda.",
+          "russian": "Женщины с большим сердцем — низкий поклон.",
+          "source": "Nova.rs, 2025",
+          "url": "https://nova.rs/zabava/showbiz/zene-velikog-srca-naklon-do-poda-dokumentarac-vise-od-majke-na-tv-nova-najgledaniji-sadrzaj-medju-kablovskim-televizijama-preplavio-mreze-emocijama/"
+        },
+        {
+          "serbian_latin": "A svima vama, medaljašima, naklon do poda.",
+          "russian": "А всем вам, призёрам, — низкий поклон.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/sport/rio-2016/orlovi/2428781/predsednik-nikolic-primio-srpske-olimpijce-hvala-vam.html"
+        }
+      ],
+      "note": "Может быть буквальным поклоном, но гораздо чаще — метафорическая формула высшей похвалы: naklon do poda za nekoga / za nešto.",
+      "keyword": "naklon do poda"
+    },
+    {
+      "headword_latin": "Naliti se do daske / biti pijan do daske",
+      "type": "sleng / frazeološka konstrukcija",
+      "definition_ru": "напиться до предела, быть совершенно пьяным; набраться в стельку",
+      "synonyms_sr": [
+        "napiti se do kraja",
+        "biti mrtav pijan",
+        "biti potpuno pijan",
+        "naliti se"
+      ],
+      "literal_ru": "напиться / быть пьяным до доски",
+      "register": "razgovorno, sleng",
+      "examples": [
+        {
+          "serbian_latin": "Nakresan do daske, skakao sam po sobi i vikao...",
+          "russian": "Пьяный в стельку, я прыгал по комнате и кричал...",
+          "source": "Nportal / Novosti, 2022",
+          "url": "https://nportal.novosti.rs/amp/35600/retro/crno-bela-estrada/bajina-prva-ljubav-pedalu-dobio-pismom-dok-je-bio-u-vojsci"
+        },
+        {
+          "serbian_latin": "Postoji i izraz „pijan do daske“, odnosno skroz pijan, potpuno.",
+          "russian": "Есть и выражение «пьяный до предела», то есть совершенно пьяный.",
+          "source": "Blic, 2016",
+          "url": "https://www.blic.rs/slobodno-vreme/zasto-kazemo-ostavljen-na-cedilu-i-sta-znace-krokodilske-suze/bwl6kw7"
+        }
+      ],
+      "note": "В `Frazeoteka1` заголовок был Naliti se do daske. В живом употреблении лучше подтверждён общий шаблон X do daske со значением «полностью, до предела»: pijan / nakresan do daske. Поэтому статья сохраняет исходную единицу, но показывает более частотные варианты.",
+      "keyword": "do daske; pijan"
+    },
+    {
+      "headword_latin": "Namazan svim bojama",
+      "type": "frazeologizam",
+      "definition_ru": "тёртый калач, хитрый и очень изворотливый человек; умеет приспосабливаться и провести другого",
+      "synonyms_sr": [
+        "prepreden",
+        "lukav",
+        "snalažljiv",
+        "prevrtljivac",
+        "namazan"
+      ],
+      "literal_ru": "намазан всеми красками",
+      "register": "razgovorno, često neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Jest' da nije slikar, al' je namazan svim bojama.",
+          "russian": "Пусть он и не художник, зато намазан всеми красками — тот ещё пройдоха.",
+          "source": "Vukajlija, 2010",
+          "url": "https://vukajlija.com/namazan-svim-bojama"
+        },
+        {
+          "serbian_latin": "Ovaj znak je toliko namazan svim bojama da će vas ubediti u svaku svoju priču.",
+          "russian": "Этот знак настолько хитёр и изворотлив, что убедит вас в любой своей истории.",
+          "source": "Krstarica, 2026",
+          "url": "https://www.krstarica.com/horoskop/astrologija/namazani-su-svim-bojama-najlukaviji-znak-koji-vas-gleda-u-oci-i-laze-a-da-ne-trepne/"
+        }
+      ],
+      "note": "Нередко оттенок сильнее, чем у просто snalažljiv: человек ловкий, хитрый, меняет поведение по обстоятельствам, иногда лицемерен.",
+      "keyword": "namazan svim bojama"
+    },
+    {
       "headword_latin": "Naoružan do zuba",
       "type": "frazeologizam",
       "definition_ru": "Очень хорошо или чрезмерно вооружённый, снабжённый большим количеством оружия. Русский эквивалент полностью совпадает: «вооружён до зубов».",
@@ -19287,6 +19404,36 @@
       ],
       "note": "Natovariti na vrat подчёркивает прежде всего обременение: человеку достаётся проблема, обязанность, забота, ответственность. Можно нагрузить и самого себя: natovariti sebi obaveze na vrat, и другого: natovariti nekome probleme na vrat. Русскому близки «взвалить на шею», «повесить на кого-то», «взвалить на себя». Не обязательно, что неприятность возникла как наказание за собственные действия: главное здесь именно груз.",
       "keyword": "natovariti na vrat"
+    },
+    {
+      "headword_latin": "Navaliti kao smrt na babu",
+      "type": "frazeologizam / poređenje",
+      "definition_ru": "назойливо и упорно пристать; не отцепляться, несмотря на отказ",
+      "synonyms_sr": [
+        "navaliti",
+        "biti dosadan",
+        "ne odustajati",
+        "gnjaviti",
+        "pritiskati nekoga"
+      ],
+      "literal_ru": "навалиться как смерть на старуху",
+      "register": "razgovorno, šaljivo-grubo",
+      "examples": [
+        {
+          "serbian_latin": "Šta si navalila k'o smrt na babu...",
+          "russian": "Что ты пристала как банный лист...",
+          "source": "Vukajlija, 2009",
+          "url": "https://vukajlija.com/navalio-la-k-o-smrt-na-babu/63161"
+        },
+        {
+          "serbian_latin": "Šta si navalio ko smrt na babu?",
+          "russian": "Что ты так привязался и не отстаёшь?",
+          "source": "Vukajlija, 2011",
+          "url": "https://vukajlija.com/navalio-ko-smrt-na-babu/520364"
+        }
+      ],
+      "note": "Устойчивое грубовато-комическое сравнение. Главное значение — чрезмерная настойчивость, которая уже раздражает окружающих.",
+      "keyword": "smrt na babu"
     },
     {
       "headword_latin": "Navoditi / terati vodu na svoju vodenicu",
@@ -19522,6 +19669,35 @@
       "keyword": "ne birati reči; oštro; direktno"
     },
     {
+      "headword_latin": "Ne biti u ljubavi",
+      "type": "frazeologizam",
+      "definition_ru": "быть не в ладах; иметь прохладные или плохие отношения, недолюбливать друг друга",
+      "synonyms_sr": [
+        "ne slagati se",
+        "ne biti u dobrim odnosima",
+        "ne voleti se",
+        "imati loše odnose"
+      ],
+      "literal_ru": "не быть в любви",
+      "register": "razgovorno-publicistički, često ublažavajuće",
+      "examples": [
+        {
+          "serbian_latin": "Poznato je da Partizan „nije u ljubavi“ sa Jadranskom ligom i njenim čelnicima.",
+          "russian": "Известно, что «Партизан» не в ладах с Адриатической лигой и её руководством.",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/vesti/drustvo/drzava-nije-prepoznalo-sta-se-krije-u-partizanu/"
+        },
+        {
+          "serbian_latin": "Privatno i nisu u ljubavi i u „koaliciju“ su priterani s druge strane.",
+          "russian": "В частном порядке они не особенно ладят, а к «коалиции» их подтолкнули обстоятельства.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/sport/dragan-stojkovic-piksi-jovan-surbatovic-fss-fudbal/"
+        }
+      ],
+      "note": "Не обязательно о романтической любви. В конструкции X nije u ljubavi sa Y часто речь именно о неприязни или конфликтных отношениях. Мягче, чем biti na ratnoj nozi.",
+      "keyword": "ne biti u ljubavi"
+    },
+    {
       "headword_latin": "Ne cvetaju ruže",
       "type": "frazeologizam",
       "definition_ru": "дела идут неважно; не всё гладко; положение незавидное",
@@ -19573,6 +19749,64 @@
       ],
       "note": "Выражение обозначает неблагополучную ситуацию вообще, а не обязательно полный провал: проблемы есть, дела идут хуже желаемого. Часто употребляется с лёгкой иронией. Русскому буквальные «розы не цветут» ничего не подсказывают; лучше «не всё гладко», «дела неважны».",
       "keyword": "ne cvetaju ruže"
+    },
+    {
+      "headword_latin": "Ne da ni Bogu tamjana",
+      "type": "frazeologizam",
+      "definition_ru": "крайне скуп; у него зимой снега не выпросишь",
+      "synonyms_sr": [
+        "škrt je",
+        "cicija je",
+        "džimrija je",
+        "ne daje ništa nikome"
+      ],
+      "literal_ru": "даже Богу ладана не даст",
+      "register": "narodno, razgovorno, izrazito neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Od tog džimrije da išteš, pa taj ne da ni Bogu tamjana!",
+          "russian": "У этого жмота попроси — он даже Богу ладана не даст!",
+          "source": "Rečnik srpskih govora Vojvodine / Srpski Vikirečnik, 2016",
+          "url": "https://sr.wiktionary.org/wiki/d%C5%BEimrija"
+        },
+        {
+          "serbian_latin": "Ne bi Bogu tamjana dao.",
+          "russian": "Он и Богу ладана не дал бы.",
+          "source": "Vukajlija, pristupljeno 2026",
+          "url": "https://vukajlija.com/na-slovo/n"
+        }
+      ],
+      "note": "Очень сильная характеристика скупости: tamjan — минимальный символический дар Богу, и даже его такой человек якобы не отдаст.",
+      "keyword": "Bogu tamjana"
+    },
+    {
+      "headword_latin": "Ne dam na sebe",
+      "type": "razgovorni izraz",
+      "definition_ru": "я себя в обиду не дам; не позволю собой помыкать, унижать меня или нарушать мои границы",
+      "synonyms_sr": [
+        "branim se",
+        "ne dam da me gaze",
+        "znam da se zauzmem za sebe",
+        "čuvam svoje dostojanstvo"
+      ],
+      "literal_ru": "не дам на себя",
+      "register": "razgovorno, odlučno",
+      "examples": [
+        {
+          "serbian_latin": "Dao sam sebe, ali ne dam na sebe.",
+          "russian": "Я отдавал себя делу, но в обиду себя не дам.",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/sport/nisam-marioneta/"
+        },
+        {
+          "serbian_latin": "Videli su da ne dam na sebe.",
+          "russian": "Они увидели, что я себя в обиду не дам.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/lepa-brena-ovo-nije-mogla-da-trpi-potukli-smo-se-grebala-sam-ga-po-licu/5d2tdfs"
+        }
+      ],
+      "note": "Часто позитивно о способности отстаивать себя, но в некоторых контекстах может подразумевать задиристость или чрезмерную резкость.",
+      "keyword": "ne dam na sebe"
     },
     {
       "headword_latin": "Ne dao Bog",
@@ -19630,6 +19864,35 @@
       "keyword": "ni pet para"
     },
     {
+      "headword_latin": "Ne diraj lava dok spava",
+      "type": "izreka",
+      "definition_ru": "не буди лихо, пока оно тихо; не провоцируй опасного человека или проблему, которые пока тебя не трогают",
+      "synonyms_sr": [
+        "ne izazivaj nevolju",
+        "ne provociraj",
+        "pusti neka miruje",
+        "ne budi uspavanog lava"
+      ],
+      "literal_ru": "не трогай льва, пока он спит",
+      "register": "razgovorno, upozoravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Ne diraj lava dok spava.",
+          "russian": "Не трогай льва, пока он спит.",
+          "source": "Forum Krstarice, 2023",
+          "url": "https://forum.krstarica.com/threads/ne-diraj-lava-dok-spava.974590/"
+        },
+        {
+          "serbian_latin": "Izreka „ne diraj lava dok spava“ upozorava da ne treba izazivati opasnost koja miruje.",
+          "russian": "Поговорка предупреждает: не стоит провоцировать опасность, которая пока бездействует.",
+          "source": "Rečnikopedija, 2024",
+          "url": "https://recnikopedija.com/ne-diraj-lava-dok-spava/"
+        }
+      ],
+      "note": "Рифма lava — spava делает формулу легко запоминающейся. Функционально близко русскому «не буди лихо, пока оно тихо».",
+      "keyword": "lav; spava"
+    },
+    {
       "headword_latin": "Ne ide mi u glavu",
       "type": "frazeologizam",
       "definition_ru": "не укладывается в голове; не могу понять, осмыслить или принять что-либо",
@@ -19656,6 +19919,35 @@
       ],
       "note": "Очень разговорная и естественная конструкция. Меняется лицо: ne ide mu / joj / nam u glavu. Может выражать как непонимание, так и эмоциональное неприятие.",
       "keyword": "ići u glavu; ne razumeti; neshvatljivo"
+    },
+    {
+      "headword_latin": "Ne izbijati iz",
+      "type": "frazeologizam",
+      "definition_ru": "не вылезать откуда-либо; постоянно находиться в одном месте, быть там завсегдатаем",
+      "synonyms_sr": [
+        "stalno biti negde",
+        "ne izlaziti iz",
+        "visiti negde",
+        "stalno boraviti"
+      ],
+      "literal_ru": "",
+      "register": "razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Ne izbija iz kafane.",
+          "russian": "Он из кабака не вылезает.",
+          "source": "Politika, 2007",
+          "url": "https://www.politika.rs/sr/clanak/23393/obdaniste-odraslih"
+        },
+        {
+          "serbian_latin": "Ne izbija iz Đašine kafane...",
+          "russian": "Он постоянно торчит в кафане Джаши...",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/kolumna/vladimir-jokic/sabirni-centar-5/"
+        }
+      ],
+      "note": "Управление: ne izbijati iz + genitiv. Часто с кафаной, теретаной, кућом, kancelarijom и т. п.",
+      "keyword": "ne izbijati iz"
     },
     {
       "headword_latin": "Ne laje kera sela radi, nego sebe radi",
@@ -19739,6 +20031,35 @@
       "keyword": "ne lipši magarče"
     },
     {
+      "headword_latin": "Ne mirisati nekoga / ne mirisati se",
+      "type": "frazeologizam",
+      "definition_ru": "не любить, не переносить кого-либо; взаимно недолюбливать друг друга",
+      "synonyms_sr": [
+        "ne podnositi",
+        "ne voleti",
+        "ne slagati se",
+        "ne biti u dobrim odnosima"
+      ],
+      "literal_ru": "не нюхать / не пахнуть друг другу",
+      "register": "razgovorno, blago ironično",
+      "examples": [
+        {
+          "serbian_latin": "Ljudi ne kažu uzalud: „Ne mirišem ga“.",
+          "russian": "Не зря люди говорят: «Я его не перевариваю».",
+          "source": "dm Srbija, 2026",
+          "url": "https://www.dm.rs/inspiracija-i-saveti/nega-od-glave-do-pete/parfemi/kako-da-pronadjete-savrseni-miris-parfema-1302950"
+        },
+        {
+          "serbian_latin": "Ne mirišu vas berberi i konobari.",
+          "russian": "Парикмахеры и официанты вас не жалуют.",
+          "source": "Filozofski fakultet Univerziteta u Novom Sadu, INTERKULT, pristupljeno 2026",
+          "url": "https://digitalna.ff.uns.ac.rs/sites/default/files/db/books/978-86-80707-69-3-Volume2.pdf"
+        }
+      ],
+      "note": "Чаще документируется переходное ne mirisati nekoga — «не переваривать кого-то». Взаимная форма ne mirisati se означает «не переносить друг друга».",
+      "keyword": "ne mirisati"
+    },
+    {
       "headword_latin": "Ne mirisati nekoga / nešto",
       "type": "frazeologizam",
       "definition_ru": "недолюбливать; не переваривать; испытывать неприязнь",
@@ -19791,6 +20112,35 @@
       ],
       "note": "Чаще говорится о характере или типичном поведении человека: он может стараться измениться, но в определённой ситуации снова действует привычным образом.",
       "keyword": "ne moći iz svoje kože; priroda; karakter"
+    },
+    {
+      "headword_latin": "Ne mogu ni usta da otvorim",
+      "type": "razgovorni izraz",
+      "definition_ru": "не могу и рта раскрыть; физически не могу открыть рот или, переносно, не могу ничего сказать из-за страха, давления или растерянности",
+      "synonyms_sr": [
+        "ne mogu ništa da kažem",
+        "ne mogu da progovorim",
+        "ne mogu usta da otvorim",
+        "zanemeo sam"
+      ],
+      "literal_ru": "не могу даже рот открыть",
+      "register": "razgovorno; doslovno ili preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Ja od despota Miloševića ne mogu ni usta da otvorim.",
+          "russian": "Из-за деспотизма Милошевича я и рта раскрыть не могу.",
+          "source": "Fond za humanitarno pravo, transkript, 2003",
+          "url": "https://www.hlc-rdc.org/Transkripti/Milosevic/Transkripti/Transkripti%20sa%20sudjenja%20Slobodanu%20Milosevicu%20%2838%29/Transkript%20sa%20sudjenja%20Slobodanu%20Milosevicu%20-%2010.%20jul%202003..pdf"
+        },
+        {
+          "serbian_latin": "Nešto mi se stegli zubi i vilice pa ne mogu usta da otvorim!",
+          "russian": "У меня так сжались зубы и челюсти, что я не могу рта раскрыть!",
+          "source": "Branislav Nušić, „Hajduci“, elektronsko izdanje",
+          "url": "https://1300kaplara.edu.rs/biblioteka/biblioteka%20na%20daljinu/Branislav-Nusic-Hajduci.pdf"
+        }
+      ],
+      "note": "Старое определение в `Frazeoteka1` («объелся до отвала») оказалось слишком узким. Реальное выражение гораздо шире и может быть как буквальным, так и переносным.",
+      "keyword": "usta da otvorim"
     },
     {
       "headword_latin": "Ne mogu sebi da priuštim",
@@ -19988,6 +20338,64 @@
       "keyword": "pije vodu"
     },
     {
+      "headword_latin": "Ne polazi mi za rukom",
+      "type": "frazeologizam",
+      "definition_ru": "у меня не получается; мне никак не удаётся что-либо сделать",
+      "synonyms_sr": [
+        "ne uspevam",
+        "ne ide mi",
+        "ne uspeva mi",
+        "nikako da uspem"
+      ],
+      "literal_ru": "не идёт мне за рукой",
+      "register": "neutralno, veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Ipak mi ne polazi za rukom...",
+          "russian": "Но у меня всё-таки не получается...",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/kolumna/ivan-dzidic/djidic-li-je-dzidic-li-je-jebem-li-ga/"
+        },
+        {
+          "serbian_latin": "Polazi mi za rukom da kroz zabavu nešto i kažem.",
+          "russian": "Мне удаётся через развлекательную форму что-то сказать.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/kultura/ceznja-za-sopstvenom-prosloscu/"
+        }
+      ],
+      "note": "Полезно учить сразу обе формы: poći/polaziti nekome za rukom — «удаваться» и ne polaziti za rukom — «не получаться».",
+      "keyword": "polaziti za rukom"
+    },
+    {
+      "headword_latin": "Ne talasaj",
+      "type": "razgovorni izraz",
+      "definition_ru": "не мути воду; не поднимай волну; не создавай проблем и не нарушай сложившееся спокойствие",
+      "synonyms_sr": [
+        "ne diži prašinu",
+        "ne pravi probleme",
+        "ne mešaj se",
+        "ne uznemiravaj situaciju"
+      ],
+      "literal_ru": "не создавай волн",
+      "register": "razgovorno, često neodobravajuće ili upozoravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Ćuti, ne talasaj!",
+          "russian": "Молчи, не мути воду!",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/tamara-djordjevic/psihologija-cutanja-buka-kao-instrukcija/"
+        },
+        {
+          "serbian_latin": "Ne talasaj previše!",
+          "russian": "Не раскачивай лодку слишком сильно!",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/tv/rts2/5145481/promaja-2.html"
+        }
+      ],
+      "note": "Часто выражает давление среды: «не высовывайся, не задавай неудобных вопросов». Может быть и нейтральнее — «не усложняй ситуацию».",
+      "keyword": "ne talasaj"
+    },
+    {
       "headword_latin": "Ne videti dalje od svog nosa",
       "type": "frazeologizam",
       "definition_ru": "не видеть дальше собственного носа; быть недальновидным; мыслить узко и только о ближайшей выгоде",
@@ -20042,6 +20450,35 @@
       ],
       "note": "Pišljiv может означать «червивый, никчёмный, ничего не стоящий», но современному учащемуся выражение лучше запоминать целиком. Русский естественный образ — «гроша ломаного не стоит», а не буквальный боб. В исследовании сербской фразеологии ne vredi ni pišljiva boba прямо приводится среди сербских единиц со значением полной безвредности.",
       "keyword": "pišljiva boba"
+    },
+    {
+      "headword_latin": "Ne zna da li je došao ili pošao",
+      "type": "frazeologizam",
+      "definition_ru": "совсем растерялся, запутался или настолько пьян/ошарашен, что не понимает, что делает",
+      "synonyms_sr": [
+        "ne zna gde bije",
+        "potpuno je zbunjen",
+        "izgubio se",
+        "ne zna šta radi"
+      ],
+      "literal_ru": "не знает, пришёл он или ушёл",
+      "register": "razgovorno, šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Vidi ga ovaj, ne zna da l' je poš'o il' je doš'o.",
+          "russian": "Посмотри на него: уже не понимает, пришёл он или ушёл.",
+          "source": "Vukajlija, 2011",
+          "url": "https://vukajlija.com/pretraga/izraz?q=jebi-je&strana=18"
+        },
+        {
+          "serbian_latin": "Ne znati je li ko došao ili pošao.",
+          "russian": "Не понимать, пришёл ты или ушёл; быть совершенно потерянным.",
+          "source": "Novorečje, Filozofski fakultet Univerziteta u Novom Sadu, 2024",
+          "url": "https://www.reci.org.rs/wp-content/uploads/2024/12/11-Novorecje.pdf"
+        }
+      ],
+      "note": "В Vukajlija выражение отдельно фиксируется о крайне пьяном человеке; в более широком употреблении — о полной растерянности и дезориентации.",
+      "keyword": "došao ili pošao"
     },
     {
       "headword_latin": "Ne zna gde mu je glava",
@@ -20129,6 +20566,35 @@
       "keyword": "ko pije ko plaća"
     },
     {
+      "headword_latin": "Ne znam, nisam pametna / pametan",
+      "type": "razgovorna formula",
+      "definition_ru": "не знаю, ума не приложу; затрудняюсь объяснить или решить",
+      "synonyms_sr": [
+        "ne znam šta da kažem",
+        "nemam pojma",
+        "ne znam šta da mislim",
+        "nisam siguran"
+      ],
+      "literal_ru": "не знаю, я не умна / умён",
+      "register": "razgovorno, često samoironično",
+      "examples": [
+        {
+          "serbian_latin": "Ne znam, nisam pametna.",
+          "russian": "Не знаю, ума не приложу.",
+          "source": "Peščanik, 2017",
+          "url": "https://pescanik.net/pruga-u-magli/"
+        },
+        {
+          "serbian_latin": "„Ne znam, nisam pametna“ spada među neobične rečenice u srpskom jeziku.",
+          "russian": "«Не знаю, ума не приложу» приводят среди характерных сербских разговорных формул.",
+          "source": "Espreso, 2023",
+          "url": "https://www.espreso.co.rs/vesti/drustvo/1291891/najcudnije-recenice-u-sprskom-jeziku"
+        }
+      ],
+      "note": "Женщина говорит nisam pametna, мужчина — nisam pametan. Фраза обычно не означает буквальное признание в глупости: это формула растерянности или неопределённости.",
+      "keyword": "nisam pametna"
+    },
+    {
       "headword_latin": "Ne znati gde ti je glava",
       "type": "frazeologizam",
       "definition_ru": "Быть настолько загруженным, обеспокоенным или растерянным, что не понимать, за что хвататься в первую очередь. Русские соответствия: «голова кругом», «не знать, за что хвататься».",
@@ -20212,6 +20678,35 @@
       "keyword": "šta ga je snašlo"
     },
     {
+      "headword_latin": "Ne žalim se",
+      "type": "razgovorna formula",
+      "definition_ru": "не жалуюсь; всё достаточно хорошо, хотя и не обязательно идеально",
+      "synonyms_sr": [
+        "dobro mi je",
+        "nemam razloga da se žalim",
+        "nije loše",
+        "sve je u redu"
+      ],
+      "literal_ru": "не жалуюсь",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Ne žalim se, lepo mi je...",
+          "russian": "Не жалуюсь, мне хорошо...",
+          "source": "Grand / Nova.rs, 2026",
+          "url": "https://grand.nova.rs/showbiz/katarina-zivkovic-otkrila-kako-izgleda-njen-dan-u-crnoj-gori/"
+        },
+        {
+          "serbian_latin": "Porodica trpi, ali ne žalim se.",
+          "russian": "Семья страдает от моего графика, но я не жалуюсь.",
+          "source": "Kurir, 2014",
+          "url": "https://www.kurir.rs/sport/ostali-sportovi/1190177/vladimir-batez-porodica-trpi-ali-ne-zalim-se"
+        }
+      ],
+      "note": "Типичный ответ на Kako si? В зависимости от интонации может значить и искреннее «всё хорошо», и сдержанное «бывало и лучше, но грех жаловаться».",
+      "keyword": "ne žalim se"
+    },
+    {
       "headword_latin": "Neće grom u koprive",
       "type": "izreka",
       "definition_ru": "таким ничего не сделается; беда таких обходит; дурному всё нипочём",
@@ -20270,6 +20765,34 @@
       "keyword": "neće ti faliti ni dlaka s glave"
     },
     {
+      "headword_latin": "Neko te spominje",
+      "type": "narodno verovanje / razgovorna formula",
+      "definition_ru": "кто-то тебя вспоминает или говорит о тебе; так шутливо говорят человеку, который икает",
+      "synonyms_sr": [
+        "neko priča o tebi",
+        "neko te pominje",
+        "neko misli na tebe"
+      ],
+      "literal_ru": "кто-то тебя упоминает",
+      "register": "razgovorno, šaljivo; narodno verovanje",
+      "examples": [
+        {
+          "serbian_latin": "Kada osoba štuca, u našem narodu se kaže „neko te spominje“.",
+          "russian": "Когда человек икает, у нас говорят: «Кто-то тебя вспоминает».",
+          "source": "Mondo, 2021",
+          "url": "https://mondo.rs/Magazin/Stil/a1549793/Kako-zaustaviti-stucanje.html"
+        },
+        {
+          "serbian_latin": "Ona bapska: „Štucaš, neko te spominje“.",
+          "russian": "Та самая бабушкина примета: «Икаешь — кто-то тебя вспоминает».",
+          "source": "Forum Krstarice, 2012",
+          "url": "https://forum.krstarica.com/threads/stucanje.569062/"
+        }
+      ],
+      "note": "Это не утверждение о реальной причине икоты, а традиционная бытовая примета и готовая шутливая реплика.",
+      "keyword": "štucanje; spominje"
+    },
+    {
       "headword_latin": "Nekome gori pod nogama",
       "type": "frazeologizam",
       "definition_ru": "кому-то припекло; кого-то прижало; положение стало срочным или критическим",
@@ -20297,6 +20820,34 @@
       "keyword": "gori pod nogama"
     },
     {
+      "headword_latin": "Nema brata dok ne rodi majka",
+      "type": "poslovica",
+      "definition_ru": "настоящий брат — прежде всего родной брат; кровное родство считается особенно прочной связью",
+      "synonyms_sr": [
+        "brat je brat",
+        "krv nije voda",
+        "rođeni brat je najbliži rod"
+      ],
+      "literal_ru": "нет брата, пока его не родит мать",
+      "register": "narodno, poslovično",
+      "examples": [
+        {
+          "serbian_latin": "Nema brata dok ne rodi majka.",
+          "russian": "Нет брата, пока его не родит мать.",
+          "source": "Predrag Živković Tozovac — zvanični sajt, 2024",
+          "url": "https://www.tozovac.rs/nema-brata-dok-ne-rodi-majka/"
+        },
+        {
+          "serbian_latin": "Nema brata dok ne rodi majka.",
+          "russian": "Родной брат — особая связь.",
+          "source": "Forum Poreklo, 2016",
+          "url": "https://forum.poreklo.rs/index.php?topic=389.0"
+        }
+      ],
+      "note": "Старая народная формула, известная также по народной песне в исполнении Тозовца. Не означает, что дружба не ценится; подчёркивает особую силу кровного братства.",
+      "keyword": "brat; majka"
+    },
+    {
       "headword_latin": "Nema cile-mile",
       "type": "izraz",
       "definition_ru": "никаких церемоний; без поблажек; никаких «туда-сюда»; всё строго",
@@ -20322,6 +20873,36 @@
       ],
       "note": "Cile-mile лучше запоминать как цельную рифмованную разговорную формулу: отдельные компоненты современному говорящему практически ничего не объясняют. Значение меняется по контексту от «никакого сюсюканья и поблажек» до «никаких колебаний и лишних церемоний». Часто выражение характеризует строгого человека: Kod njega nema cile-mile.",
       "keyword": "nema cile-mile"
+    },
+    {
+      "headword_latin": "Nema frke",
+      "type": "sleng / razgovorna formula",
+      "definition_ru": "без проблем; не парься; ничего страшного; я согласен или легко это сделаю",
+      "synonyms_sr": [
+        "nema problema",
+        "opušteno",
+        "sve je okej",
+        "nije problem",
+        "lagano"
+      ],
+      "literal_ru": "нет суеты / паники",
+      "register": "razgovorno, sleng, veoma često",
+      "examples": [
+        {
+          "serbian_latin": "Nema problema. Nije problem. Neće mi biti teško da to uradim.",
+          "russian": "Без проблем. Мне не трудно это сделать.",
+          "source": "Vukajlija, 2009",
+          "url": "https://vukajlija.com/nema-frke"
+        },
+        {
+          "serbian_latin": "Ali, nema frke, sve za zdravlje.",
+          "russian": "Но без проблем, всё ради здоровья.",
+          "source": "Nova.rs, 2020",
+          "url": "https://nova.rs/vesti/svet/hrvatski-stozer-kao-srpski-stab-svaka-slicnost-je-namerna/"
+        }
+      ],
+      "note": "Frka сама по себе — суета, паника, проблема, напряжённая ситуация. Nema frke стало очень обычным сербским эквивалентом «no problem».",
+      "keyword": "nema frke"
     },
     {
       "headword_latin": "Nema ga ni od korova",
