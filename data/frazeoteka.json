@@ -30013,6 +30013,32 @@
       "keyword": "prazna vreća ne stoji uspravno"
     },
     {
+      "headword_latin": "Prazne se puške dvojica boje",
+      "type": "poslovica",
+      "definition_ru": "пустого ружья двое боятся; даже пустая угроза может действовать, если противник не знает, что она пустая",
+      "synonyms_sr": [
+        "prazne puške plaše dvojicu",
+        "pucati iz prazne puške (delimično)",
+        "blefirati (delimično)"
+      ],
+      "literal_ru": "пустого ружья двое боятся",
+      "register": "poslovica, nar.; postoje varijante reda reči",
+      "examples": [
+        {
+          "serbian_latin": "Tada sam u praksi uvideo značenje poslovice „prazne se puške dvojica boje“.",
+          "russian": "Тогда я на практике понял смысл пословицы «пустого ружья двое боятся».",
+          "source": "Vreme, 2021"
+        },
+        {
+          "serbian_latin": "On samo preti, ali prazne se puške dvojica boje.",
+          "russian": "Он только грозится, но даже пустая угроза может сработать.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица описывает ситуацию блефа: тот, кому угрожают, не знает, заряжено ли оружие, а тот, кто держит пустое ружьё, боится разоблачения. В Vreme выражение прямо названо poslovica. Родственное pucati iz prazne puške означает «угрожать без реальных средств выполнить угрозу».",
+      "keyword": "prazna puška"
+    },
+    {
       "headword_latin": "Pre roka",
       "type": "kolokacija",
       "definition_ru": "досрочно; раньше срока; до установленного срока",
@@ -30182,6 +30208,32 @@
       ],
       "note": "Выражение восходит к переходу Юлия Цезаря через реку Рубикон в 49 году до н. э., после которого столкновение с сенатом стало неизбежным. Название реки пишется с прописной буквы.",
       "keyword": "Rubikon"
+    },
+    {
+      "headword_latin": "Preko glave mi je",
+      "type": "izraz",
+      "definition_ru": "мне по горло надоело; с меня хватит; меня это достало",
+      "synonyms_sr": [
+        "dosta mi je",
+        "puna mi je kapa",
+        "smučilo mi se"
+      ],
+      "literal_ru": "у меня уже выше головы",
+      "register": "razg., ekspresivno; preko glave mi je + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Preko glave mi je svega.",
+          "russian": "Мне всё уже поперёк горла.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Preko glave mi je njegovih obećanja.",
+          "russian": "Мне его обещания уже по горло надоели.",
+          "source": ""
+        }
+      ],
+      "note": "Не путать с imati posla preko glave — «иметь дел по горло»: там preko glave обозначает количество работы, здесь — предел терпения. После выражения естествен родительный: preko glave mi je svega, priče, problema.",
+      "keyword": "preko glave"
     },
     {
       "headword_latin": "Preko noći",
@@ -30373,6 +30425,32 @@
       ],
       "note": "Выражение шире исторического «переломного момента»: prelomna tačka может быть в отношениях, карьере, проекте, процессе или общественных событиях. Близкое prekretnica обычно звучит ещё компактнее.",
       "keyword": "prelomna tačka; prekretnica"
+    },
+    {
+      "headword_latin": "Prema tome",
+      "type": "izraz",
+      "definition_ru": "следовательно; стало быть; исходя из этого",
+      "synonyms_sr": [
+        "dakle",
+        "shodno tome",
+        "prema tome sledi"
+      ],
+      "literal_ru": "согласно этому",
+      "register": "neutralno-knjiški; veznički izraz",
+      "examples": [
+        {
+          "serbian_latin": "Prema tome, nema razloga da menjamo plan.",
+          "russian": "Следовательно, нет причин менять план.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Podaci nisu potpuni i, prema tome, zaključak nije pouzdan.",
+          "russian": "Данные неполны, и, следовательно, вывод ненадёжен.",
+          "source": ""
+        }
+      ],
+      "note": "В роли вводно-связующего выражения соответствует русским «следовательно», «стало быть». Не надо автоматически переводить буквально через «по отношению к этому». Отдельно prema + dativ сохраняет обычное значение предлога: prema meni, prema zakonu.",
+      "keyword": "prema tome"
     },
     {
       "headword_latin": "Prenositi se od usta do usta",
@@ -30647,6 +30725,32 @@
       "keyword": "priča za malu decu; bajka; neverovatno"
     },
     {
+      "headword_latin": "Pričati kao navijen",
+      "type": "frazeologizam",
+      "definition_ru": "говорить как заведённый; тараторить без остановки",
+      "synonyms_sr": [
+        "ne zatvarati usta",
+        "pričati bez prestanka",
+        "meljati (razg.)"
+      ],
+      "literal_ru": "говорить как заведённый механизм",
+      "register": "razg., ekspresivno; navijen / navijena se slaže sa subjektom",
+      "examples": [
+        {
+          "serbian_latin": "Sat vremena priča kao navijen, ne mogu da ga prekinem.",
+          "russian": "Он уже час говорит как заведённый, я не могу его перебить.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad se uzbudi, priča kao navijena.",
+          "russian": "Когда она волнуется, говорит без остановки.",
+          "source": ""
+        }
+      ],
+      "note": "Образ связан с naviti sat / mehanizam — «завести часы, механизм». Русское «как заведённый» совпадает почти полностью. В исходном JSON заголовок был Priča kao navijen; для словаря удобнее инфинитивная форма Pričati kao navijen.",
+      "keyword": "navijen"
+    },
+    {
       "headword_latin": "Prihvatiti bačenu rukavicu",
       "type": "frazeologizam",
       "definition_ru": "принять вызов; согласиться на предложенное соперничество, борьбу или трудную задачу",
@@ -30726,6 +30830,33 @@
       "keyword": "prilika čini lopova"
     },
     {
+      "headword_latin": "Primiti se",
+      "type": "sleng",
+      "definition_ru": "повестись; купиться; всерьёз загореться чем-то",
+      "synonyms_sr": [
+        "upecati se",
+        "naložiti se (sleng)",
+        "poverovati",
+        "zagrejati se za nešto"
+      ],
+      "literal_ru": "",
+      "register": "razg.-sleng.; značenje zavisi od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da se primaš, zezaju te.",
+          "russian": "Не ведись, тебя разыгрывают.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Baš se primio na tu ideju.",
+          "russian": "Он прямо загорелся этой идеей.",
+          "source": ""
+        }
+      ],
+      "note": "Разговорное primiti se может означать и «повестись на шутку/провокацию», и «загореться идеей». Не путать с нейтральным sadnica se primila — «саженец прижился» и primiti se posla — «взяться за работу».",
+      "keyword": "primiti se"
+    },
+    {
       "headword_latin": "Prirasti nekome srcu",
       "type": "frazeologizam",
       "definition_ru": "запасть в душу; стать кому-то дорогим; полюбиться",
@@ -30751,6 +30882,32 @@
       ],
       "note": "Важно управление: nešto je nekome priraslo srcu, например grad mi je prirastao srcu, uloga joj je prirasla srcu. Субъектом может быть человек, город, животное, работа, роль или книга. В отличие от uvući se pod kožu, которое допускает и неприятное эмоциональное воздействие, prirasti srcu почти всегда положительно: объект становится близким и дорогим.",
       "keyword": "prirasti srcu"
+    },
+    {
+      "headword_latin": "Pristajati nekome kao magarcu sedlo",
+      "type": "frazeologizam",
+      "definition_ru": "идти кому-то как корове седло; совершенно не подходить",
+      "synonyms_sr": [
+        "nikako ne pristajati",
+        "ne stajati dobro",
+        "biti potpuno neprikladan"
+      ],
+      "literal_ru": "подходить как седло ослу",
+      "register": "razg., podsmešljivo; nekome + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Ta uloga mu pristaje kao magarcu sedlo.",
+          "russian": "Эта роль ему идёт как корове седло.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ta kravata ti pristaje kao magarcu sedlo.",
+          "russian": "Этот галстук тебе идёт как корове седло.",
+          "source": ""
+        }
+      ],
+      "note": "Фразеологизм подтверждается и в сербских учебных материалах; речь может идти не только об одежде, но и о должности, роли или манере поведения. Русский использует тот же образ несовместимости, но обычно с коровой.",
+      "keyword": "magarac; sedlo"
     },
     {
       "headword_latin": "Prljav posao",
@@ -31408,6 +31565,33 @@
       "keyword": "prošla baba s kolačima"
     },
     {
+      "headword_latin": "Prsnuti",
+      "type": "glagol",
+      "definition_ru": "лопнуть, треснуть; разг. не выдержать, сорваться, «поехать крышей»",
+      "synonyms_sr": [
+        "pući",
+        "odlepiti (sleng)",
+        "poludeti (razg.)",
+        "izgubiti živce"
+      ],
+      "literal_ru": "",
+      "register": "neutralno u doslovnom značenju; razg.-sleng. u prenesenom",
+      "examples": [
+        {
+          "serbian_latin": "Još jedan ovakav dan i prsnuću.",
+          "russian": "Ещё один такой день — и я сорвусь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Guma je prsnula usred vožnje.",
+          "russian": "Шина лопнула прямо во время движения.",
+          "source": ""
+        }
+      ],
+      "note": "Разговорная форма прошедшего времени часто сокращается до prs'o вместо prsnuo: skroz sam prs'o. В переносном значении это не медицинское «сойти с ума», а обычно эмоционально «не выдержать, сломаться, сорваться».",
+      "keyword": "prsnuti"
+    },
+    {
       "headword_latin": "Prst u oko",
       "type": "frazeologizam",
       "definition_ru": "вызывающая провокация; демонстративное оскорбление; плевок в лицо",
@@ -31537,6 +31721,31 @@
       ],
       "note": "Русскому удобно запомнить через близкое «по одёжке протягивай ножки». В живой сербской речи местоимение меняется вместе с участниками ситуации: koliko mi je jorgan dug, koliko ti je, koliko nam je. Выражение часто применяется именно к бюджету: Danas непосредственно поясняет его словами trošiti onoliko koliko imamo — «тратить столько, сколько у нас есть».",
       "keyword": "jorgan dug"
+    },
+    {
+      "headword_latin": "Prva ljubav zaborava nema",
+      "type": "izreka",
+      "definition_ru": "первая любовь не забывается",
+      "synonyms_sr": [
+        "prva ljubav se ne zaboravlja",
+        "prva ljubav ostaje u sećanju"
+      ],
+      "literal_ru": "у первой любви нет забвения",
+      "register": "sentimentalno, poslovično; često i ironično",
+      "examples": [
+        {
+          "serbian_latin": "Prva ljubav zaborava nema.",
+          "russian": "Первая любовь не забывается.",
+          "source": "NS Uživo, 2022"
+        },
+        {
+          "serbian_latin": "Kad je vidi posle toliko godina, odmah se zbuni — prva ljubav zaborava nema.",
+          "russian": "Когда он видит её спустя столько лет, сразу теряется: первая любовь не забывается.",
+          "source": ""
+        }
+      ],
+      "note": "Формула воспринимается как изречение и действительно употребляется вне песни. Одновременно она прочно связана с популярной песней „Prva ljubav zaborava nema“, известной с 1960-х годов; поэтому у выражения есть и культурно-песенный оттенок.",
+      "keyword": "prva ljubav"
     },
     {
       "headword_latin": "Prva violina",
@@ -31895,6 +32104,32 @@
       "keyword": "pukao mi je film"
     },
     {
+      "headword_latin": "Pukim slučajem",
+      "type": "izraz",
+      "definition_ru": "по чистой случайности; совершенно случайно",
+      "synonyms_sr": [
+        "sasvim slučajno",
+        "igrom slučaja",
+        "slučajno"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-knjiški; pukim + instrumental",
+      "examples": [
+        {
+          "serbian_latin": "Nekoliko zvezda je uspelo da sačuva svoje imanje pukim slučajem.",
+          "russian": "Нескольким звёздам удалось сохранить свои дома по чистой случайности.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Pukim slučajem sam ga sreo u gradu.",
+          "russian": "Я встретил его в городе по чистой случайности.",
+          "source": ""
+        }
+      ],
+      "note": "Puk здесь имеет усилительное значение «чистый, сущий, один только» и вне подобных сочетаний встречается реже. Ср. pukom srećom — «по чистой удаче».",
+      "keyword": "pukim slučajem"
+    },
+    {
       "headword_latin": "Pun kao brod",
       "type": "frazeologizam",
       "definition_ru": "очень богатый; при деньгах; денег куры не клюют",
@@ -31951,6 +32186,32 @@
       "keyword": "pun pogodak"
     },
     {
+      "headword_latin": "Pun-puncat",
+      "type": "pridev",
+      "definition_ru": "полным-полнёхонек; битком набитый; полный до отказа",
+      "synonyms_sr": [
+        "krcat",
+        "prepun",
+        "pun do vrha"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; ž. puna-puncata, s. puno-puncato",
+      "examples": [
+        {
+          "serbian_latin": "Autobus je bio pun-puncat, nije imalo gde da se stane.",
+          "russian": "Автобус был битком набит, встать было негде.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Sala je bila puna-puncata.",
+          "russian": "Зал был полным-полнёхонек.",
+          "source": ""
+        }
+      ],
+      "note": "Это усилительная редупликация, родственная sam-samcat, nov-novcat, go-golcat. Компонент puncat практически не живёт самостоятельно. Для русского естественны «битком», «полным-полнёхонек», а не буквальное удвоение.",
+      "keyword": "pun-puncat"
+    },
+    {
       "headword_latin": "Puna kapa",
       "type": "frazeologizam",
       "definition_ru": "более чем достаточно; и на том спасибо; уже отличный результат",
@@ -32003,6 +32264,32 @@
       ],
       "note": "Очень естественная разговорная формула раздражения и пресыщения. После неё типичен родительный: puna mi je kapa svega, politike, posla, njegovih priča. Не всякое puna kapa означает «надоело»: без дательного эта комбинация в других контекстах может просто обозначать большое количество, поэтому ключевая модель для активного словаря — именно puna mi je kapa nečega.",
       "keyword": "puna mi je kapa"
+    },
+    {
+      "headword_latin": "Puno kao oko",
+      "type": "frazeologizam",
+      "definition_ru": "полным-полно; битком; всё заполнено",
+      "synonyms_sr": [
+        "krcato",
+        "pun-puncat",
+        "prepuno"
+      ],
+      "literal_ru": "полно как глаз",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Za Novu godinu sve puno kao oko!",
+          "russian": "На Новый год всё забито битком!",
+          "source": "Dnevnik, 2025"
+        },
+        {
+          "serbian_latin": "U kafiću je bilo puno kao oko.",
+          "russian": "В кафе было битком.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение живо и употребляется о помещениях, курортах, мероприятиях. Буквальный образ современному говорящему непрозрачен, поэтому этимологию лучше не додумывать: практическое значение — «очень полно, набито людьми или вещами».",
+      "keyword": "puno kao oko"
     },
     {
       "headword_latin": "Puno mi je srce",
@@ -32228,6 +32515,57 @@
       "keyword": "voda"
     },
     {
+      "headword_latin": "Pušiti kao Turčin",
+      "type": "frazeologizam",
+      "definition_ru": "дымить как паровоз; очень много курить",
+      "synonyms_sr": [
+        "mnogo pušiti",
+        "pušiti kao dimnjak",
+        "biti strastven pušač"
+      ],
+      "literal_ru": "курить как турок",
+      "register": "razg., ekspresivno; tradicionalno poređenje",
+      "examples": [
+        {
+          "serbian_latin": "Čuli ste za izreku „Puši kao Turčin“?",
+          "russian": "Вы ведь слышали выражение «курит как турок»?",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Puši kao Turčin, po dve pakle dnevno.",
+          "russian": "Дымит как паровоз — по две пачки в день.",
+          "source": ""
+        }
+      ],
+      "note": "RTS фиксирует формулу как узнаваемое выражение. Она отражает старый балканский стереотип о чрезвычайно интенсивном курении у османов; это исторический фразеологический образ, а не характеристика современных турок.",
+      "keyword": "pušiti kao Turčin"
+    },
+    {
+      "headword_latin": "Rad je stvorio čoveka",
+      "type": "krilatica",
+      "definition_ru": "труд создал человека",
+      "synonyms_sr": [
+        "rad oblikuje čoveka",
+        "čoveka određuje rad (delimično)"
+      ],
+      "literal_ru": "труд создал человека",
+      "register": "krilatica, ideološko-istorijski; danas često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Hajde, ustaj — rad je stvorio čoveka.",
+          "russian": "Давай вставай: труд создал человека.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "„Rad je stvorio čoveka“ bila je jedna od poznatih krilatica marksističke filozofije.",
+          "russian": "«Труд создал человека» было одной из известных крылатых формул марксистской философии.",
+          "source": "P.U.L.S.E, 2020"
+        }
+      ],
+      "note": "Формула связана с Энгельсом и его текстом о роли труда в превращении обезьяны в человека. В югославской школьной и идеологической культуре она стала очень узнаваемой; сегодня нередко произносится шутливо, когда кого-то заставляют работать.",
+      "keyword": "rad"
+    },
+    {
       "headword_latin": "Radio Mileva",
       "type": "izraz",
       "definition_ru": "сарафанное радио; агентство ОБС; слухи и сплетни; сплетница, которая всё знает и всем сообщает",
@@ -32289,6 +32627,60 @@
       "keyword": "rezerva"
     },
     {
+      "headword_latin": "Raditi kao konj",
+      "type": "frazeologizam",
+      "definition_ru": "пахать как лошадь; очень тяжело и много работать",
+      "synonyms_sr": [
+        "rintati",
+        "raditi kao vo",
+        "ubijati se od posla",
+        "raditi bez predaha"
+      ],
+      "literal_ru": "работать как лошадь",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Radim kao konj, a plata ista.",
+          "russian": "Пашу как лошадь, а зарплата та же.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ceo mesec je radio kao konj da završi projekat.",
+          "russian": "Весь месяц он пахал как лошадь, чтобы закончить проект.",
+          "source": ""
+        }
+      ],
+      "note": "Очень близко русскому «пахать как лошадь». Сербское сравнение подчёркивает изнурительный объём труда; само по себе оно не говорит, хорошо ли выполнена работа.",
+      "keyword": "raditi kao konj"
+    },
+    {
+      "headword_latin": "Raditi levom nogom",
+      "type": "frazeologizam",
+      "definition_ru": "делать левой ногой; делать кое-как, спустя рукава",
+      "synonyms_sr": [
+        "raditi ofrlje",
+        "fušeriti",
+        "otaljavati",
+        "raditi preko volje"
+      ],
+      "literal_ru": "работать левой ногой",
+      "register": "razg., neodobr.; manje čvrsto ustaljeno od raditi ofrlje",
+      "examples": [
+        {
+          "serbian_latin": "Ovo je urađeno levom nogom, mora sve iznova.",
+          "russian": "Это сделано левой ногой, всё надо переделывать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj da radiš levom nogom samo da završiš što pre.",
+          "russian": "Не делай тяп-ляп только ради того, чтобы быстрее закончить.",
+          "source": ""
+        }
+      ],
+      "note": "Сербское выражение обозначает прежде всего небрежное исполнение. Для русского важно, что «левой ногой» иногда может значить ещё и «без труда»; в сербском для лёгкости лучше bez po muke, mačji kašalj.",
+      "keyword": "leva noga"
+    },
+    {
       "headword_latin": "Raditi nekome o glavi",
       "type": "frazeologizam",
       "definition_ru": "строить козни против кого-то; пытаться погубить; желать чьего-то устранения",
@@ -32314,6 +32706,59 @@
       ],
       "note": "Выражение сильнее обычного raditi protiv nekoga. В серьёзном контексте оно может подразумевать угрозу жизни, но очень часто речь переносно идёт о карьере, власти, репутации, браке или положении человека. Русскому важно управление: именно raditi nekome o glavi, а не калька с винительным падежом.",
       "keyword": "raditi o glavi"
+    },
+    {
+      "headword_latin": "Raf",
+      "type": "imenica",
+      "definition_ru": "полка; стеллаж; ячейка на полке",
+      "synonyms_sr": [
+        "polica",
+        "stalaža",
+        "pregrada"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; veoma često u trgovini",
+      "examples": [
+        {
+          "serbian_latin": "Nema ga na rafu, pitaj prodavca.",
+          "russian": "На полке его нет, спроси продавца.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Proizvod je već stigao na rafove prodavnica.",
+          "russian": "Товар уже появился на полках магазинов.",
+          "source": ""
+        }
+      ],
+      "note": "Raf — обычное в Сербии слово, особенно в торговле: rafovi u supermarketu, roba na rafu. Это именно полка или секция стеллажа, а не «прилавок»: прилавок — pult или tezga.",
+      "keyword": "raf"
+    },
+    {
+      "headword_latin": "Rasipati se",
+      "type": "glagol",
+      "definition_ru": "сорить деньгами; транжирить; разбрасываться ресурсами",
+      "synonyms_sr": [
+        "rasipati novac",
+        "trošiti nemilice",
+        "razbacivati se",
+        "traćiti"
+      ],
+      "literal_ru": "рассыпаться",
+      "register": "neutralno do razg.; preneseno često neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da se rasipaš, tek je početak meseca.",
+          "russian": "Не транжирь деньги, месяц только начался.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne treba se rasipati ni novcem ni energijom.",
+          "russian": "Не стоит разбрасываться ни деньгами, ни силами.",
+          "source": ""
+        }
+      ],
+      "note": "Исходный JSON слишком узко сводил глагол к деньгам. Rasipati se шире: можно rasipati se novcem, energijom, talentom. Когда речь именно о привычке сорить деньгами, русский «транжирить» подходит лучше всего.",
+      "keyword": "rasipati se"
     },
     {
       "headword_latin": "Raspremiti",
@@ -32372,6 +32817,32 @@
       ],
       "note": "Для русского глагол raspremiti может быть обманчив: приставка ras- не означает автоматически «разобрать, раскидать». В словарной традиции raspremiti postelju соотносится с «приготовить / привести постель в порядок», рядом с namestiti krevet. При этом в современной бытовой речи namestiti krevet — самый прозрачный и универсальный вариант «застелить кровать».",
       "keyword": "raspremiti krevet"
+    },
+    {
+      "headword_latin": "Rasti kao iz vode",
+      "type": "frazeologizam",
+      "definition_ru": "расти как на дрожжах; очень быстро расти",
+      "synonyms_sr": [
+        "brzo rasti",
+        "naglo napredovati",
+        "rasti iz dana u dan"
+      ],
+      "literal_ru": "расти словно из воды",
+      "register": "razg.; o deci, biljkama, a preneseno i o drugim pojavama",
+      "examples": [
+        {
+          "serbian_latin": "Biljka je dvadeset i nešto godina rasla uporedo sa Sarom, kao iz vode.",
+          "russian": "Растение больше двадцати лет росло рядом с Сарой как на дрожжах.",
+          "source": "City Magazine / Danas, 2019"
+        },
+        {
+          "serbian_latin": "Deca rastu kao iz vode.",
+          "russian": "Дети растут как на дрожжах.",
+          "source": ""
+        }
+      ],
+      "note": "Сербские словарные материалы фиксируют rasti kao iz vode со значением «быстро расти, развиваться». Русскому естественнее «как на дрожжах»; буквальное «как из воды» устойчивого значения не имеет.",
+      "keyword": "rasti kao iz vode"
     },
     {
       "headword_latin": "Rasturati se od posla",
@@ -32598,6 +33069,32 @@
       "keyword": "reda radi"
     },
     {
+      "headword_latin": "Riba",
+      "type": "sleng",
+      "definition_ru": "девушка; девчонка; привлекательная девушка — по контексту",
+      "synonyms_sr": [
+        "devojka",
+        "ženska (razg.)",
+        "cica (razg.)"
+      ],
+      "literal_ru": "рыба",
+      "register": "sleng, familijarno; može zvučati objektivizujuće",
+      "examples": [
+        {
+          "serbian_latin": "Ko je ona riba što je bila s vama?",
+          "russian": "Кто та девушка, которая была с вами?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Vidi kakva riba.",
+          "russian": "Глянь, какая красотка.",
+          "source": ""
+        }
+      ],
+      "note": "RTS, обсуждая сербский жаргон, прямо приводит riba в значении devojka. Поэтому исходное «красотка» слишком узко: привлекательность часто подразумевается, но базовое жаргонное значение — «девушка». Для русского это ложный друг: русское «рыба» о человеке скорее ассоциируется с холодностью.",
+      "keyword": "riba"
+    },
+    {
       "headword_latin": "Riba od glave smrdi / Riba smrdi od glave",
       "type": "poslovica",
       "definition_ru": "рыба гниёт с головы; проблемы начинаются с руководства",
@@ -32675,6 +33172,60 @@
       ],
       "note": "В подтверждённых сербских примерах употребляется форма sa zlatnom kašikom. Сербское слово — kašika; хорватское žlica в заголовок не включается.",
       "keyword": "zlatna kašika"
+    },
+    {
+      "headword_latin": "Roknuti",
+      "type": "sleng",
+      "definition_ru": "сильно ударить; пристрелить / убить; завалить экзамен или учебный год; грохнуться — в зависимости от контекста",
+      "synonyms_sr": [
+        "udariti",
+        "ubiti (sleng)",
+        "pasti na ispitu",
+        "tresnuti"
+      ],
+      "literal_ru": "",
+      "register": "sleng, ekspresivno; više različitih značenja",
+      "examples": [
+        {
+          "serbian_latin": "Roknuo sam ispit.",
+          "russian": "Я завалил экзамен.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "U filmu ga na kraju roknu.",
+          "russian": "В фильме его в конце пристреливают.",
+          "source": ""
+        }
+      ],
+      "note": "Поправка к исходному JSON: roknuti ispit / godinu означает «завалить экзамен / остаться на второй год», а не «сдать на отлично». Это значение фиксируется в исследованиях молодёжного жаргона наряду с «сильно ударить» и «убить из огнестрельного оружия». Контекст здесь принципиален.",
+      "keyword": "roknuti"
+    },
+    {
+      "headword_latin": "Rovit",
+      "type": "pridev",
+      "definition_ru": "1. недоваренный, всмятку — о яйце; 2. ещё не восстановившийся, слабый, не в полной форме",
+      "synonyms_sr": [
+        "meko kuvan (o jajetu)",
+        "neoporavljen",
+        "slab",
+        "načet"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; drugo značenje naročito često u sportu",
+      "examples": [
+        {
+          "serbian_latin": "Šćepović, koji je bio rovit i pre puta u Zagreb, mora da napusti igru.",
+          "russian": "Шчепович, который ещё до поездки в Загреб был не вполне восстановившимся, вынужден покинуть поле.",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Volim rovito jaje za doručak.",
+          "russian": "Я люблю яйцо всмятку на завтрак.",
+          "source": ""
+        }
+      ],
+      "note": "Для яйца rovit значит «мягко сваренный, всмятку». Переносно особенно о спортсмене после травмы: rovit igrač — ещё не полностью восстановившийся, физически уязвимый. Исходный вариант Rovito лучше нормализовать в заголовке до словарной формы Rovit.",
+      "keyword": "rovit"
     },
     {
       "headword_latin": "Ruka ruku mije",
@@ -32757,6 +33308,32 @@
       ],
       "note": "В современном сербском это прежде всего вводная формула честного признания или уступки в споре, а реальный жест рукой вовсе не предполагается. Часто стоит в начале предложения: Ruku na srce, nije ni on kriv. Русское «положа руку на сердце» очень близко, но иногда естественнее просто «надо признать».",
       "keyword": "ruku na srce"
+    },
+    {
+      "headword_latin": "Rušiti nekome sneška",
+      "type": "sleng",
+      "definition_ru": "обломать кого-то; разрушить приятную иллюзию; вернуть на землю",
+      "synonyms_sr": [
+        "pokvariti nekome iluziju",
+        "spustiti nekoga na zemlju",
+        "razočarati"
+      ],
+      "literal_ru": "сломать кому-то снеговика",
+      "register": "razg.-sleng., šalj.; naročito u formuli Ne bih da ti rušim sneška, ali...",
+      "examples": [
+        {
+          "serbian_latin": "Ne bih da rušim Sneška, ali to se neće desiti.",
+          "russian": "Не хочу тебя обламывать, но этого не произойдёт.",
+          "source": "BBC na srpskom / Danas, 2020"
+        },
+        {
+          "serbian_latin": "Neću da ti rušim sneška, ali ona nije mislila na tebe.",
+          "russian": "Не хочу разрушать твои иллюзии, но она имела в виду не тебя.",
+          "source": ""
+        }
+      ],
+      "note": "Очень характерна именно вежливо-ироническая рамка Ne bih da ti rušim sneška, ali..., после которой как раз и следует неприятная правда. Выражение современное и разговорное; в формальном стиле лучше razbiti iluziju.",
+      "keyword": "sneško"
     },
     {
       "headword_latin": "Ružan kao lopov",
@@ -32916,6 +33493,32 @@
       "keyword": "konj; magarac"
     },
     {
+      "headword_latin": "S medom raditi, a prste ne lizati",
+      "type": "poslovica",
+      "definition_ru": "быть у мёда и не облизать пальцы; пользоваться случаем и брать себе часть того, чем распоряжаешься",
+      "synonyms_sr": [
+        "ko sa medom radi, prste oblizuje",
+        "teško je odoleti iskušenju",
+        "ne ostati praznih ruku"
+      ],
+      "literal_ru": "работать с мёдом и не облизывать пальцы",
+      "register": "poslovica; često u odričnoj formi Ne može se s medom raditi, a prste ne lizati",
+      "examples": [
+        {
+          "serbian_latin": "Ne može se s medom raditi, a prste ne lizati.",
+          "russian": "Трудно быть у мёда и ни разу не облизать пальцы.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Godinama je raspolagao tim novcem — s medom raditi, a prste ne lizati teško ide.",
+          "russian": "Он годами распоряжался этими деньгами — трудно быть у кормушки и ничего себе не взять.",
+          "source": ""
+        }
+      ],
+      "note": "Смысл может быть как снисходительным («естественно воспользоваться доступным благом»), так и коррупционным намёком: тому, кто распоряжается чужими ресурсами, что-то «прилипает к пальцам». Не следует переводить буквально, если контекст явно о злоупотреблении.",
+      "keyword": "med; prsti"
+    },
+    {
       "headword_latin": "s neba pa u rebra",
       "type": "frazeologizam",
       "definition_ru": "Сказать или сделать что-либо совершенно неожиданно, без вступления и подготовки, сразу поставив собеседника перед фактом или неудобным вопросом. Русские аналоги: «с бухты-барахты», «ни с того ни с сего», иногда «с места в карьер».",
@@ -32967,6 +33570,32 @@
       ],
       "note": "В новом источнике формула описана как старомодно-учтивая, но современное употребление заметно шире: она вполне жива и часто создаёт комический контраст между подчеркнутой вежливостью и следующим за ней грубым словом. Близкое da izvinete ещё чаще встречается в спонтанной речи. Bez uvrede означает другое — «без обид» перед потенциально неприятной оценкой.",
       "keyword": "s oproštenjem"
+    },
+    {
+      "headword_latin": "S vragom došlo, s vragom i otišlo",
+      "type": "poslovica",
+      "definition_ru": "как пришло, так и ушло; худо нажитое впрок не идёт",
+      "synonyms_sr": [
+        "lako došlo, lako otišlo",
+        "nepošteno stečeno ne traje",
+        "kako došlo, tako prošlo"
+      ],
+      "literal_ru": "с чёртом пришло, с чёртом и ушло",
+      "register": "poslovica, nar.; moralizatorski",
+      "examples": [
+        {
+          "serbian_latin": "Zaradio je preko noći i sve izgubio za mesec — s vragom došlo, s vragom i otišlo.",
+          "russian": "Заработал за ночь и всё потерял за месяц: как пришло, так и ушло.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "U zbirkama se beleži poslovica: „S vragom je došlo, s vragom otišlo“.",
+          "russian": "В сборниках фиксируется пословица: «С чёртом пришло, с чёртом и ушло».",
+          "source": "BG Online, 2021"
+        }
+      ],
+      "note": "Формула входит в корпус Вуковых народных пословиц. В отличие от нейтрального lako došlo, lako otišlo, здесь есть моральная оценка: имущество пришло дурным, нечестным или «нечистым» путём, поэтому так же исчезло.",
+      "keyword": "vrag"
     },
     {
       "headword_latin": "Sabirati kruške i jabuke",
@@ -33338,6 +33967,58 @@
       "keyword": "seći granu na kojoj sediš"
     },
     {
+      "headword_latin": "Seći uši da se pokrpi dupe",
+      "type": "frazeologizam",
+      "definition_ru": "латать одну дыру, проделывая другую; тришкин кафтан",
+      "synonyms_sr": [
+        "krpiti jedno na štetu drugog",
+        "prelivati problem",
+        "uzimati od jednog da se pokrije drugo"
+      ],
+      "literal_ru": "отрезать уши, чтобы залатать зад",
+      "register": "grub.-razg., neodobr.; često o novcu i dugovima",
+      "examples": [
+        {
+          "serbian_latin": "Kakav štek, za njega baš treba lova — sečeš uši, krpiš dupe.",
+          "russian": "Какие там сбережения: латаешь одну дыру, открывая другую.",
+          "source": "Forum Krstarica, 2013"
+        },
+        {
+          "serbian_latin": "Uzima novi kredit da vrati stari — seče uši da pokrpi dupe.",
+          "russian": "Берёт новый кредит, чтобы закрыть старый: настоящий тришкин кафтан.",
+          "source": ""
+        }
+      ],
+      "note": "Сербский образ грубее русского «тришкин кафтан»: проблема решается за счёт такого же ущерба в другом месте. Встречается с разными лицами и видами глагола: seći / odseći uši, krpiti / pokrpiti dupe.",
+      "keyword": "uši; dupe"
+    },
+    {
+      "headword_latin": "Sedeti na dukatima",
+      "type": "frazeologizam",
+      "definition_ru": "сидеть на богатстве; быть очень богатым, но не пользоваться своим состоянием",
+      "synonyms_sr": [
+        "biti veoma bogat",
+        "ležati na parama",
+        "imati veliko bogatstvo"
+      ],
+      "literal_ru": "сидеть на дукатах",
+      "register": "razg.-knjiški; danas ređe",
+      "examples": [
+        {
+          "serbian_latin": "Sedi na dukatima, a cenka se oko svakog dinara.",
+          "russian": "Сидит на мешке с золотом, а торгуется за каждый динар.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nema smisla da sediš na dukatima, a kuća ti propada.",
+          "russian": "Нет смысла сидеть на богатстве, пока дом разваливается.",
+          "source": ""
+        }
+      ],
+      "note": "Фразеологические словари фиксируют sedeti na dukatima в значении «быть очень богатым». Dukat — историческая золотая монета и важный элемент традиционного семейного богатства и приданого. Контекст часто добавляет оттенок скупости, но он не обязателен.",
+      "keyword": "dukat"
+    },
+    {
       "headword_latin": "sedeti na dve stolice",
       "type": "глагольный фразеологизм",
       "definition_ru": "Пытаться одновременно придерживаться двух несовместимых позиций; лавировать между двумя сторонами ради собственной выгоды.",
@@ -33395,6 +34076,33 @@
       "keyword": "skrštenih ruku"
     },
     {
+      "headword_latin": "Sereš kao foka",
+      "type": "sleng",
+      "definition_ru": "несёшь чушь; врёшь без остановки; говоришь полную ерунду",
+      "synonyms_sr": [
+        "lupetaš",
+        "pričaš gluposti",
+        "lažeš",
+        "kenjaš (vulg.)"
+      ],
+      "literal_ru": "срёшь как тюлень",
+      "register": "vulg.-razg.; samo među bliskima ili u svađi",
+      "examples": [
+        {
+          "serbian_latin": "Ma, sereš k'o foka.",
+          "russian": "Да ты чушь несёшь.",
+          "source": "Vukajlija, 2007"
+        },
+        {
+          "serbian_latin": "Sereš kao foka, ništa od toga nije istina.",
+          "russian": "Врёшь как сивый мерин, ничего из этого не правда.",
+          "source": ""
+        }
+      ],
+      "note": "В переносном разговорном serati означает «нести чушь, врать, болтать ерунду». Сравнение с foka не имеет прозрачной логики и служит комическим усилителем. Сербское выражение значительно грубее русского «врёшь как сивый мерин».",
+      "keyword": "foka"
+    },
+    {
       "headword_latin": "Servirati nekome nešto na tacni",
       "type": "frazeologizam",
       "definition_ru": "преподнести на блюдечке; дать всё в готовом виде; создать готовую возможность",
@@ -33420,6 +34128,32 @@
       ],
       "note": "Выражение означает дать кому-то возможность или решение практически в готовом виде. Особенно часто встречается в спортивной речи: партнёру создают настолько удобный момент, что остаётся только завершить атаку. Для сербского основная форма здесь tacna; хорватское pladanj для нашей фразеотеки не нужно.",
       "keyword": "servirati na tacni"
+    },
+    {
+      "headword_latin": "Sesti kao dečja guza na nošu",
+      "type": "frazeologizam",
+      "definition_ru": "сесть как влитое; идеально подойти по месту или форме",
+      "synonyms_sr": [
+        "leći kao saliveno",
+        "uklopiti se savršeno",
+        "stajati kao saliveno"
+      ],
+      "literal_ru": "сесть как детская попа на горшок",
+      "register": "razg., grubo-šalj.; neprikladno u formalnom govoru",
+      "examples": [
+        {
+          "serbian_latin": "Taj deo je seo kao dečja guza na nošu.",
+          "russian": "Эта деталь села как влитая.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nova maska je sela kao dečja guza na nošu.",
+          "russian": "Новая накладка подошла идеально.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол sesti здесь означает «точно лечь на место, идеально встать». Формула сниженная и комическая; в нейтральной речи лучше kao saliveno, savršeno se uklopilo.",
+      "keyword": "guza; noša"
     },
     {
       "headword_latin": "Sesti nekome na grbaču",
@@ -33612,6 +34346,58 @@
       ],
       "note": "Пословицу лучше понимать не буквально как богословское утверждение, а как горький социальный комментарий: бедного человека словно все считают обузой, и неприятности чаще всего достаются именно ему. Поэтому выражение может звучать сочувственно, но при обращении непосредственно к бедному человеку способно восприниматься унизительно. Особенно типично употребление после истории о несправедливых расходах, штрафах, ценах или отношении государства к малоимущим.",
       "keyword": "sirotinjo"
+    },
+    {
+      "headword_latin": "Sirova sila",
+      "type": "kolokacija",
+      "definition_ru": "грубая сила; голая физическая мощь без тонких средств",
+      "synonyms_sr": [
+        "gruba sila",
+        "čista snaga",
+        "fizička sila"
+      ],
+      "literal_ru": "сырая сила",
+      "register": "neutralno-publicistički; često neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Problem su pokušali da reše sirovom silom.",
+          "russian": "Проблему попытались решить грубой силой.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Tu nije presudila tehnika, nego sirova sila.",
+          "russian": "Тут решила не техника, а грубая сила.",
+          "source": ""
+        }
+      ],
+      "note": "Sirov буквально значит «сырой, необработанный», а о человеке — «грубый, неотёсанный». Поэтому sirova sila подчёркивает силу без finesse, мастерства или аргументов. Русское «грубая сила» — естественный эквивалент.",
+      "keyword": "sirova sila"
+    },
+    {
+      "headword_latin": "Sisati vesla",
+      "type": "frazeologizam",
+      "definition_ru": "быть наивным простаком; почти всегда в отрицании nisam ja sisao vesla — меня не проведёшь, я не вчера родился",
+      "synonyms_sr": [
+        "nisam ja naivan",
+        "nisam ja od juče",
+        "ne možeš me prevariti"
+      ],
+      "literal_ru": "сосать вёсла",
+      "register": "razg.-sleng.; naročito u odričnoj formi",
+      "examples": [
+        {
+          "serbian_latin": "Nećeš ti mene prevariti, nisam ja sisao vesla.",
+          "russian": "Меня ты не проведёшь, я не вчера родился.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nisam ja sisao vesla da ne znam kako se to radi.",
+          "russian": "Я не вчера родился, чтобы не знать, как это делается.",
+          "source": "dijalekatski zapis: Begeč, Kovilj, Vršac"
+        }
+      ],
+      "note": "Выражение действительно фиксируется в сербских диалектных материалах, в том числе для Begeč, Kovilj и Vršac. Практически оно живёт прежде всего как отрицательная защитная реплика nisam ja sisao vesla — «не считай меня наивным». Популярные рассказы о происхождении через деревянное весло как детскую соску являются народной этимологией и надёжно не доказаны.",
+      "keyword": "vesla"
     },
     {
       "headword_latin": "Sit gladnom ne veruje",
