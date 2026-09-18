@@ -792,6 +792,34 @@
       "keyword": "baciti se oko vrata"
     },
     {
+      "headword_latin": "Bela kuga",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "публицистическое обозначение низкой рождаемости и связанного с ней сокращения или старения населения; демографическая убыль",
+      "synonyms_sr": [
+        "nizak natalitet",
+        "depopulacija",
+        "negativan prirodni priraštaj"
+      ],
+      "literal_ru": "белая чума",
+      "register": "публицистическое, эмоционально-оценочное",
+      "examples": [
+        {
+          "serbian_latin": "U poslednje vreme ustalio se negativan trend rađanja, što može da zabrine jer bela kuga preti.",
+          "russian": "В последнее время закрепилась негативная тенденция рождаемости, что вызывает тревогу из-за угрозы демографической убыли.",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/vesti/drustvo/bela-kuga-preti-ovom-gradu-u-srbiji-rodilo-se-skoro-100-beba-manje-u-2024-godini/3sqhex3"
+        },
+        {
+          "serbian_latin": "„Bela kuga“ je svetska kriza: Zašto ljudi nemaju onoliko dece koliko zaista žele",
+          "russian": "Демографический спад — мировой кризис: почему у людей меньше детей, чем им на самом деле хотелось бы.",
+          "source": "NIN / BBC News na srpskom, 2025 — заголовок, сохранённый на Naslovi.net",
+          "url": "https://naslovi.net/2025-06-10/nin/bela-kuga-je-svetska-kriza-zasto-ljudi-nemaju-onoliko-dece-koliko-zaista-zele/39840185"
+        }
+      ],
+      "note": "В современном сербском демографическом контексте это не название инфекции и не медицинский диагноз. Для естественного русского перевода обычно подходят «демографический спад», «низкая рождаемость», «убыль населения», а не буквальная «белая чума». Перечисленные сербские синонимы раскрывают связанные аспекты явления и не являются строго взаимозаменяемыми статистическими терминами.",
+      "keyword": "bela kuga; natalitet; depopulacija; stanovništvo"
+    },
+    {
       "headword_latin": "Bela vrana",
       "type": "frazeologizam",
       "definition_ru": "Редкий, необычный человек, сильно отличающийся от окружающих; исключение из общего правила. Русский эквивалент: «белая ворона».",
@@ -817,6 +845,34 @@
       ],
       "note": "В отличие от crna ovca, выражение не обязательно содержит моральное осуждение: bela vrana может быть просто редким исключением или человеком, который мыслит иначе.",
       "keyword": "bela vrana; izuzetak; drugačiji"
+    },
+    {
+      "headword_latin": "Bela zastava",
+      "type": "ustaljeni simbolički izraz",
+      "definition_ru": "белый флаг как знак сдачи; в переносном употреблении — отказ от борьбы, признание поражения",
+      "synonyms_sr": [
+        "predaja",
+        "odustajanje od borbe",
+        "priznavanje poraza"
+      ],
+      "literal_ru": "белый флаг",
+      "register": "общеупотребительное, образное; особенно в спорте и публицистике",
+      "examples": [
+        {
+          "serbian_latin": "Bela zastava nije podignuta",
+          "russian": "Белый флаг не поднят — капитуляции нет.",
+          "source": "B92 / Tanjug, 2026 — фрагмент заголовка",
+          "url": "https://www.b92.net/info/svet/210377/zelenski-povodom-cetiri-godine-rata/vest"
+        },
+        {
+          "serbian_latin": "Ne nose belu zastavu: U Železničaru spremni na protivnika koji je igrao polufinale Lige Evrope prošle sezone!",
+          "russian": "Сдаваться они не собираются: «Железничар» готов к сопернику, который в прошлом сезоне играл в полуфинале Лиги Европы!",
+          "source": "HotSport, 2026 — заголовок; регистр букв нормализован",
+          "url": "https://hotsport.rs/2026/06/17/zeleznicar-protivnik-polufinale-liga-evrope/"
+        }
+      ],
+      "note": "Типичные глагольные формы: podići belu zastavu — «сдаться», mahati belom zastavom — «сигнализировать о сдаче», ne nositi belu zastavu — «не собираться сдаваться заранее». Последняя особенно характерна для спортивных заявлений перед матчем с сильным соперником. Различайте символический перенос и буквальное упоминание флага.",
+      "keyword": "bela zastava; podići belu zastavu; predaja; odustajanje"
     },
     {
       "headword_latin": "Beo kao kreč",
@@ -3172,6 +3228,34 @@
       "keyword": "boli me uvo"
     },
     {
+      "headword_latin": "Bolna tačka",
+      "type": "imenički frazeologizam",
+      "definition_ru": "больное место; чувствительная тема, слабость или проблема, вызывающая неприятные переживания",
+      "synonyms_sr": [
+        "osetljiva tema",
+        "slaba tačka",
+        "izvor nelagode"
+      ],
+      "literal_ru": "болезненная точка",
+      "register": "общеупотребительное, образное",
+      "examples": [
+        {
+          "serbian_latin": "Pokazao je da su mu mečevi sa njim i dalje bolna tačka, posebno na US Openu.",
+          "russian": "Он показал, что матчи с ним по-прежнему остаются для него больной темой, особенно на US Open.",
+          "source": "Mondo, 2026 — авторская оценка отношения Федерера к матчам с Джоковичем",
+          "url": "https://mondo.rs/Sport/Tenis/a2273013/zasto-je-federer-zaboravio-djokovica-na-us-openu.html"
+        },
+        {
+          "serbian_latin": "Partizan je bolna tačka Teodosića: Posle skoro 15 godina crno-beli ponovo prekinuli istorijski niz Miloša",
+          "russian": "«Партизан» — больное место Теодосича: спустя почти 15 лет чёрно-белые вновь прервали историческую серию Милоша.",
+          "source": "Telegraf, 2024 — заголовок",
+          "url": "https://www.telegraf.rs/sport/kosarka/4006192-partizan-je-bolna-tacka-teodosica-posle-skoro-15-godina-crno-beli-ponovo-prekinuli-istorijski-niz-milosa"
+        }
+      ],
+      "note": "Конструкции: nečija bolna tačka, biti nekome bolna tačka, pogoditi bolnu tačku. В отличие от slaba tačka, выражение подчёркивает не только уязвимость, но и болезненную реакцию на неё. Может обозначать и давнюю проблемную область в работе организации.",
+      "keyword": "bolna tačka; osetljivost; slabost; neprijatna tema"
+    },
+    {
       "headword_latin": "Bolje da propadne selo nego običaj",
       "type": "poslovica",
       "definition_ru": "обычай превыше всего; пусть всё пропадёт, лишь бы традицию соблюсти",
@@ -4364,6 +4448,34 @@
       ],
       "note": "Это не обязательно защита от физической опасности. Čuvati nekome leđa означает быть тем, на кого можно положиться, защищать интересы партнёра или союзника. В негативном политическом контексте может означать и взаимное покрывательство.",
       "keyword": "čuvati leđa"
+    },
+    {
+      "headword_latin": "Čvrsta ruka",
+      "type": "imenički frazeologizam",
+      "definition_ru": "твёрдая рука; жёсткое, решительное руководство и контроль, нередко авторитарные",
+      "synonyms_sr": [
+        "strogo rukovođenje",
+        "odlučno upravljanje",
+        "autoritarno vođstvo"
+      ],
+      "literal_ru": "твёрдая рука",
+      "register": "общеупотребительное, образное; в политике часто оценочное",
+      "examples": [
+        {
+          "serbian_latin": "Politikolog Parun smatra da je kult ličnosti ili vera u čvrstu ruku kod nas sveprisutna koliko god doseže pogled unazad.",
+          "russian": "Политолог Парун считает, что культ личности или вера в твёрдую руку присутствовали у нас всегда, насколько можно судить по прошлому.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/studentski-pokret-kult-licnosti-cvrsta-ruka-srbija/"
+        },
+        {
+          "serbian_latin": "Ideja da je Srbiji potrebna „čvrsta ruka“ neizostavan je deo našeg političkog života…",
+          "russian": "Идея о том, что Сербии нужна «твёрдая рука», — неотъемлемая часть нашей политической жизни…",
+          "source": "Talas, 2020 — фрагмент предложения",
+          "url": "https://talas.rs/2020/05/04/potreba-za-cvrstom-rukom-kult-licnosti-40-godina-od-titove-smrti/"
+        }
+      ],
+      "note": "Распространены сочетания vladati čvrstom rukom, voditi čvrstom rukom, potreba za čvrstom rukom. В зависимости от контекста это похвала решительности либо критика подавляющего контроля. В приведённых примерах обсуждается политическая модель власти, а не физическая сила руки.",
+      "keyword": "čvrsta ruka; vlast; kontrola; autoritet"
     },
     {
       "headword_latin": "Ćeraćemo se još",
@@ -8915,6 +9027,62 @@
       "keyword": "tepih"
     },
     {
+      "headword_latin": "Gvozdena disciplina",
+      "type": "ustaljeni metaforički spoj",
+      "definition_ru": "железная дисциплина; чрезвычайно строгая организованность и неуклонное соблюдение правил или режима",
+      "synonyms_sr": [
+        "stroga disciplina",
+        "nepopustljiva samokontrola",
+        "bespogovorno poštovanje pravila"
+      ],
+      "literal_ru": "железная дисциплина",
+      "register": "общеупотребительное, усилительно-образное",
+      "examples": [
+        {
+          "serbian_latin": "Na njenu gvozdenu disciplinu u izboru hrane često se osvrtao i suprug Dejvid Bekam.",
+          "russian": "О её железной дисциплине в выборе еды часто говорил и её муж Дэвид Бекхэм.",
+          "source": "Mondo, 2026",
+          "url": "https://mondo.rs/Magazin/Stil/a2176359/sta-viktorija-bekam-jede-u-jednom-danu.html"
+        },
+        {
+          "serbian_latin": "„Dubočica“ prijateljski „razbila“ domaćina u Pirotu: Gvozdena disciplina Alberta Nađa",
+          "russian": "«Дубочица» разгромила хозяев в товарищеском матче в Пироте: железная дисциплина Альберта Надя.",
+          "source": "Rešetka, 2026 — заголовок",
+          "url": "https://resetka.rs/dubocica-prijateljski-razbila-domacina-u-pirotu-gvozdena-disciplina-alberta-nadja/"
+        }
+      ],
+      "note": "Обозначает как личную самодисциплину, так и строгий порядок, установленный руководителем или тренером. Сочетания: imati gvozdenu disciplinu, uvesti gvozdenu disciplinu, održavati gvozdenu disciplinu. Прилагательное gvozdena усиливает значение неуклонности, а не обозначает материал.",
+      "keyword": "gvozdena disciplina; samokontrola; strogost; pravila"
+    },
+    {
+      "headword_latin": "Gvozdena zavesa",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "железный занавес; политическая или информационная изоляция, жёсткое разделение стран и обществ, препятствующее контактам",
+      "synonyms_sr": [
+        "politička izolacija",
+        "informaciona blokada",
+        "nepremostiva politička barijera"
+      ],
+      "literal_ru": "железный занавес",
+      "register": "историко-политическое и публицистическое",
+      "examples": [
+        {
+          "serbian_latin": "Pre 30 godina „Sve-evropski piknik“ u Mađarskoj označio je početak kraja Gvozdene zavese…",
+          "russian": "Тридцать лет назад «Панъевропейский пикник» в Венгрии ознаменовал начало конца железного занавеса…",
+          "source": "BBC News na srpskom / Danas, 2019 — фрагмент предложения",
+          "url": "https://www.danas.rs/bbc-news-serbian/presecanje-gvozdene-zavese-30-godina-od-sve-evropskog-piknika/"
+        },
+        {
+          "serbian_latin": "Rusi iza digitalne gvozdene zavese: Kako Putin blokadom interneta pokušava da eliminiše svaki vid kritike na račun vlasti",
+          "russian": "Россияне за цифровым железным занавесом: как Путин блокировкой интернета пытается устранить любые формы критики власти.",
+          "source": "Nedeljnik, 2026 — заголовок",
+          "url": "https://www.nedeljnik.rs/rusi-iza-digitalne-gvozdene-zavese-kako-putin-blokadom-interneta-pokusava-da-eliminise-svaki-vid-kritike-na-racun-vlasti/"
+        }
+      ],
+      "note": "Исторически выражение связано с разделением Европы в эпоху холодной войны; в современной публицистике переносится на другие формы изоляции. Характерные сочетания: iza gvozdene zavese, spustiti gvozdenu zavesu. Определение digitalna сужает образ до ограничений информационного обмена. Написание с прописной буквы в первом примере сохранено по источнику.",
+      "keyword": "gvozdena zavesa; izolacija; blokada; hladni rat"
+    },
+    {
       "headword_latin": "Gvožđe se kuje dok je vruće",
       "type": "poslovica",
       "definition_ru": "куй железо, пока горячо; действуй, пока момент подходящий",
@@ -12439,30 +12607,31 @@
     },
     {
       "headword_latin": "Jabuka razdora",
-      "type": "frazeologizam",
-      "definition_ru": "Яблоко раздора; предмет, вопрос или обстоятельство, из-за которого возникает серьёзный спор, конфликт или раскол между людьми или группами.",
+      "type": "imenički frazeologizam",
+      "definition_ru": "яблоко раздора; предмет, вопрос или человек, из-за которого возникают споры и разногласия",
       "synonyms_sr": [
-        "uzrok sukoba",
         "predmet spora",
-        "kamen spoticanja",
+        "povod za sukob",
         "uzrok razdora"
       ],
       "literal_ru": "яблоко раздора",
-      "register": "neutralno-knjiški i publicistički",
+      "register": "общеупотребительное и публицистическое, образное",
       "examples": [
         {
-          "serbian_latin": "Raspolaganje imovinom Jevreja ubijenih u Holokaustu bez potomaka pokazalo se kao jabuka razdora.",
-          "russian": "Распоряжение имуществом евреев, погибших в Холокосте и не оставивших потомков, оказалось яблоком раздора.",
-          "source": "RTS, 2019"
+          "serbian_latin": "Smederevska Palanka je, čini se, najveća „jabuka razdora“ studentskog pokreta i opozicionih stranaka…",
+          "russian": "Смедеревска-Паланка, похоже, стала главным «яблоком раздора» между студенческим движением и оппозиционными партиями…",
+          "source": "Blic, 2026 — фрагмент предложения",
+          "url": "https://www.blic.rs/vesti/politika/smederevska-palanka-jabuka-razdora-studenata-i-opozicije-formirane-dve-liste/ddgk2r1"
         },
         {
-          "serbian_latin": "Upravo ova direktorska fotelja bila je jabuka razdora između Velimira Ilića i premijera Aleksandra Vučića.",
-          "russian": "Именно эта директорская должность стала яблоком раздора между Велимиром Иличем и премьером Александром Вучичем.",
-          "source": "Politika, 2017"
+          "serbian_latin": "Japan „jabuka razdora“ između Kine i SAD: Si izrazio nezadovoljstvo Trampu zbog rasta vojne moći Japana",
+          "russian": "Япония — «яблоко раздора» между Китаем и США: Си выразил Трампу недовольство ростом военной мощи Японии.",
+          "source": "Euronews Srbija / Tanjug, 2026 — заголовок",
+          "url": "https://www.euronews.rs/svet/fokus/225149/si-upozorio-trampa-na-rast-vojne-moci-japana/vest"
         }
       ],
-      "note": "Восходит к древнегреческому мифу о яблоке с надписью «прекраснейшей», из-за которого поспорили богини. По значению и образу полностью соответствует русскому «яблоко раздора».",
-      "keyword": "jabuka razdora; sukob; spor"
+      "note": "Обычно: biti ili postati jabuka razdora između nekoga i nekoga. Определение razdora — родительный падеж от razdor, «раздор, раскол». Выражение обозначает то, вокруг чего спорят, и не равнозначно человеку, который намеренно провоцирует ссору.",
+      "keyword": "jabuka razdora; spor; sukob; neslaganje"
     },
     {
       "headword_latin": "jak kao bik",
@@ -12515,6 +12684,33 @@
       ],
       "note": "Može stajati samostalno ili uz zavisnu rečenicu: jasno je kao dan da..., jasno kao dan zašto...",
       "keyword": "dan"
+    },
+    {
+      "headword_latin": "Javna tajna",
+      "type": "imenički frazeologizam",
+      "definition_ru": "секрет Полишинеля; сведения, которые формально скрывают или не признают открыто, хотя о них знают многие",
+      "synonyms_sr": [
+        "opštepoznata tajna",
+        "nešto što svi znaju, a javno se prećutkuje"
+      ],
+      "literal_ru": "публичная тайна",
+      "register": "общеупотребительное; часто с ироническим или критическим оттенком",
+      "examples": [
+        {
+          "serbian_latin": "Generalno, pronevere u ukrajinskoj odbrambenoj industriji i umešanost celog lanca stranih izvođača radova u korupciju dugo su bili javna tajna za Zapad.",
+          "russian": "В целом хищения в украинской оборонной промышленности и вовлечённость целой цепочки иностранных подрядчиков в коррупцию давно были для Запада секретом Полишинеля.",
+          "source": "Večernje novosti, 2026 — утверждение автора публикации",
+          "url": "https://www.novosti.rs/planeta/svet/1645682/rat-ukrajina-korupcija-odbrana-vojna-industrija-nato-zapad-ukrajina-nabu"
+        },
+        {
+          "serbian_latin": "Bivši inspektori o policajcima koji čuvaju kontroverzne biznismene: Javna je tajna da se to godinama dešava",
+          "russian": "Бывшие инспекторы о полицейских, охраняющих бизнесменов с сомнительной репутацией: то, что это происходит годами, — секрет Полишинеля.",
+          "source": "N1, 2026 — заголовок",
+          "url": "https://n1info.rs/vesti/bivsi-inspektori-o-policajcima-koji-cuvaju-kontroverzne-biznismene-javna-je-tajna/"
+        }
+      ],
+      "note": "Основная конструкция — javna je tajna da… («ни для кого не секрет, что…»). Парадоксальное соединение «публичного» и «тайны» указывает на разрыв между неофициальной осведомлённостью и открытым признанием. В журналистском тексте это может вводить недоказанное обвинение; примеры фиксируют формулировки источников, а не подтверждают изложенные в них обвинения.",
+      "keyword": "javna tajna; prećutkivanje; opštepoznato; neformalno znanje"
     },
     {
       "headword_latin": "Jedi govna!",
@@ -15220,6 +15416,34 @@
       "keyword": "sinja kukavica"
     },
     {
+      "headword_latin": "Kula od karata",
+      "type": "imenički frazeologizam",
+      "definition_ru": "карточный домик; непрочная система, построение или замысел, которые могут быстро разрушиться",
+      "synonyms_sr": [
+        "krhka konstrukcija",
+        "nestabilan sistem",
+        "nešto bez čvrstog oslonca"
+      ],
+      "literal_ru": "башня из карт",
+      "register": "общеупотребительное, образное; часто в публицистике",
+      "examples": [
+        {
+          "serbian_latin": "Studenti: Kula od karata se ruši",
+          "russian": "Студенты: Карточный домик рушится.",
+          "source": "Bujanovačke, 2026 — заголовок",
+          "url": "https://bujanovacke.co.rs/2026/04/01/studenti-kula-od-karata-se-rusi/"
+        },
+        {
+          "serbian_latin": "Poslednja karta na kuli od karata",
+          "russian": "Последняя карта в карточном домике.",
+          "source": "Danas, 2025 — заголовок авторской колонки",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/poslednja-karta-na-kuli-od-karata/"
+        }
+      ],
+      "note": "Русский устойчивый эквивалент — «карточный домик», хотя сербское kula буквально означает «башня». Типичные сочетания: srušiti se kao kula od karata, graditi kulu od karata. В примерах образ относится к политической конструкции; второй заголовок развивает метафору добавления последней карты, после которой всё может обрушиться.",
+      "keyword": "kula od karata; nestabilnost; rušenje; krhkost"
+    },
+    {
       "headword_latin": "Kum nije dugme",
       "type": "izreka",
       "definition_ru": "кум — человек не последний; кумовство — дело серьёзное; кумом не разбрасываются",
@@ -15331,30 +15555,31 @@
     },
     {
       "headword_latin": "Labudova pesma",
-      "type": "frazeologizam",
-      "definition_ru": "Лебединая песня; последнее значительное произведение, выступление или большое достижение человека, направления или эпохи перед уходом, завершением или исчезновением.",
+      "type": "imenički frazeologizam",
+      "definition_ru": "лебединая песня; последнее значительное выступление, произведение или яркое проявление деятельности перед её завершением",
       "synonyms_sr": [
-        "poslednje veliko delo",
-        "završno ostvarenje",
-        "poslednji veliki nastup",
+        "poslednje značajno ostvarenje",
+        "završni nastup",
         "oproštajno delo"
       ],
       "literal_ru": "лебединая песня",
-      "register": "knjiški i publicistički",
+      "register": "книжное и публицистическое, образное; возможно ироническое употребление",
       "examples": [
         {
-          "serbian_latin": "Ova poema je biser srpske poezije, labudova pesma Crnjanskog.",
-          "russian": "Эта поэма — жемчужина сербской поэзии, лебединая песня Црнянского.",
-          "source": "RTS, 2024"
+          "serbian_latin": "Labudova pesma golgetera",
+          "russian": "Лебединая песня бомбардиров.",
+          "source": "Mozzart Sport, 2026 — заголовок материала о последнем чемпионате мира для ветеранов",
+          "url": "https://www.mozzartsport.com/sp-2026/vesti/labudova-pesma-golgetera/545884"
         },
         {
-          "serbian_latin": "Manasija je „labudova pesma“ srpske srednjovekovne kulture, umetnosti i arhitekture.",
-          "russian": "Манасия — «лебединая песня» сербской средневековой культуры, искусства и архитектуры.",
-          "source": "Politika, 2025"
+          "serbian_latin": "Ovo je labudova pesma režima i finale predstave pokazivanja mišića",
+          "russian": "Это лебединая песня режима и финал спектакля с демонстрацией силы.",
+          "source": "N1, 2025 — фрагмент заголовка с высказыванием Драгана Поповича",
+          "url": "https://n1info.rs/vesti/popovic-o-vojnoj-paradi-ovo-je-labudova-pesma-rezima-i-finale-predstave-pokazivanja-misica/"
         }
       ],
-      "note": "Основано на древнем представлении, будто лебедь особенно прекрасно поёт перед смертью. Сербское и русское выражения совпадают почти полностью.",
-      "keyword": "labudova pesma; poslednje delo; završetak"
+      "note": "Не обязательно связано со смертью: речь может идти об уходе из спорта, завершении карьеры или последней попытке сохранить влияние. В оценочных политических текстах выражение нередко предсказывает конец деятельности; это позиция говорящего, а не установленный факт. Родительный падеж — labudove pesme.",
+      "keyword": "labudova pesma; završetak; oproštaj; poslednji nastup"
     },
     {
       "headword_latin": "Laže čim zine",
@@ -15746,6 +15971,34 @@
       ],
       "note": "Обычно употребляется с предлогом oko: lomiti koplja oko pitanja, zakona, kandidata, cene. Обозначает активное столкновение противоположных мнений, а не обязательно личную ссору.",
       "keyword": "koplja; rasprava; spor"
+    },
+    {
+      "headword_latin": "Lov na veštice",
+      "type": "imenički frazeologizam",
+      "definition_ru": "охота на ведьм; кампания преследования, поиска мнимых врагов или обвинения людей без достаточных оснований",
+      "synonyms_sr": [
+        "hajka",
+        "progon neistomišljenika",
+        "traženje izmišljenih neprijatelja"
+      ],
+      "literal_ru": "охота на ведьм",
+      "register": "публицистическое, резко неодобрительное",
+      "examples": [
+        {
+          "serbian_latin": "Šabić: Tužilaštvo da se bavi odgovornošću nadležnih, a ne „lovom na veštice“ po internetu",
+          "russian": "Шабич: Прокуратуре следует заняться ответственностью уполномоченных лиц, а не «охотой на ведьм» в интернете.",
+          "source": "Danas, 2026 — подзаголовок",
+          "url": "https://www.danas.rs/vesti/drustvo/vjt-deliblatska-pescara/"
+        },
+        {
+          "serbian_latin": "Naleti paranoje, „crvene“ ili neke druge panike koji prerastu u lov na veštice, s vremena na vreme okupiraju američko društvo i politiku.",
+          "russian": "Вспышки паранойи, «красной» или иной паники, перерастающие в охоту на ведьм, время от времени захватывают американское общество и политику.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/svet/5989938/kontrarevolucija-tramp-komunizam-socijalizam-mamdani-amerika.html"
+        }
+      ],
+      "note": "В переносном значении выражение оценивает преследование как несправедливое или надуманное. Назвать расследование lov na veštice — значит выразить отношение к нему, а не нейтрально описать юридическую процедуру. Управление: pokrenuti lov na veštice, pretvoriti se u lov na veštice, baviti se lovom na veštice.",
+      "keyword": "lov na veštice; hajka; progon; optužbe"
     },
     {
       "headword_latin": "Loviti u mutnom",
@@ -16550,6 +16803,34 @@
       "keyword": "mrtav hladan"
     },
     {
+      "headword_latin": "Mrtav kapital",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "мёртвый капитал; деньги, имущество или ресурсы, которые не используются и не приносят ожидаемой пользы или дохода",
+      "synonyms_sr": [
+        "neiskorišćena imovina",
+        "neaktivan kapital",
+        "neiskorišćeni resursi"
+      ],
+      "literal_ru": "мёртвый капитал",
+      "register": "экономическое и публицистическое; перенос возможен за пределами экономики",
+      "examples": [
+        {
+          "serbian_latin": "Kapital koji se ne kreće jeste mrtav kapital.",
+          "russian": "Капитал, который не находится в движении, — мёртвый капитал.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/782590/direktor-beogradske-berze-gradani-u-bankama-drze-cak-42-milijarde-evra"
+        },
+        {
+          "serbian_latin": "…hoće li milioni ubetonirani u izložbene hale dugoročno biti motor privrede ili samo mrtav kapital?",
+          "russian": "…станут ли миллионы, вложенные в бетон выставочных павильонов, долгосрочным двигателем экономики или останутся мёртвым капиталом?",
+          "source": "Insajder, 2026 — фрагмент предложения",
+          "url": "https://insajder.net/vesti/sta-posle-expo-a-motor-razvoja-ili-mrtav-kapital-video"
+        }
+      ],
+      "note": "Не означает автоматически «потерянные деньги»: ценность может сохраняться, но оставаться неиспользованной. Употребляется о пустующих зданиях, простаивающем оборудовании, неработающих средствах; шире — о невостребованных знаниях и возможностях. Родительный падеж — mrtvog kapitala.",
+      "keyword": "mrtav kapital; imovina; neiskorišćenost; ulaganje"
+    },
+    {
       "headword_latin": "Mrtav umoran",
       "type": "izraz",
       "definition_ru": "смертельно уставший; устал как собака; совершенно без сил",
@@ -16575,6 +16856,34 @@
       ],
       "note": "Mrtav здесь не имеет отношения к смерти и просто резко усиливает признак. Сочетание настолько устойчиво, что словарно сопоставляется с английским dead tired. Для русского естественнее «смертельно устал», «устал как собака», а не буквальное «мёртвый уставший».",
       "keyword": "mrtav umoran"
+    },
+    {
+      "headword_latin": "Mrtva trka",
+      "type": "imenički frazeologizam",
+      "definition_ru": "борьба на равных, гонка с почти равными шансами; соперники идут вровень, и победитель неясен",
+      "synonyms_sr": [
+        "izjednačena borba",
+        "neizvesno nadmetanje",
+        "borba ravnopravnih suparnika"
+      ],
+      "literal_ru": "мёртвая гонка",
+      "register": "публицистическое и разговорное; спорт, выборы, конкуренция",
+      "examples": [
+        {
+          "serbian_latin": "Mrtva trka na izborima u Švedskoj!",
+          "russian": "На выборах в Швеции соперники идут вровень!",
+          "source": "Blic, 2026 — фрагмент заголовка; регистр букв нормализован",
+          "url": "https://www.blic.rs/vesti/svet/izbori-u-svedskoj-mrtva-trka-nakon-neizvesne-noci-opoziciona-stranka-vodi/xqebz7x"
+        },
+        {
+          "serbian_latin": "Mrtva trka za prvo mesto Jedinstva iz Gornjeg Stopanja i bojničke Puste reke",
+          "russian": "«Единство» из Горне-Стопане и «Пуста-Река» из Бойника идут вровень в борьбе за первое место.",
+          "source": "JUGpress, 2026 — заголовок",
+          "url": "https://jugpress.com/mrtva-trka-za-prvo-mesto-jedinstva-iz-gornjeg-stopanja-i-bojnicke-puste-reke/"
+        }
+      ],
+      "note": "Говорят voditi mrtvu trku, mrtva trka između kandidata, mrtva trka za prvo mesto. Выражение не означает «безнадёжная гонка» или «гонка со смертельным исходом». Основной признак — равенство результатов или сил, из-за которого исход борьбы остаётся неясным.",
+      "keyword": "mrtva trka; nadmetanje; izjednačenost; neizvesnost"
     },
     {
       "headword_latin": "Mrtvo slovo na papiru",
@@ -23714,6 +24023,33 @@
       ],
       "note": "Это не просто «долго носится». Peri-deri обычно характеризует простую, практичную вещь, которую можно постоянно носить, стирать и не особенно беречь. В современной речи выражение особенно характерно для одежды: в 2026 году встречается даже basic crna majica za peri-deri.",
       "keyword": "peri-deri"
+    },
+    {
+      "headword_latin": "Peta kolona",
+      "type": "ustaljeni metaforički izraz",
+      "definition_ru": "пятая колонна; люди внутри страны или организации, которых считают пособниками внешнего противника или обвиняют в подрыве общих интересов",
+      "synonyms_sr": [
+        "unutrašnji pomagači protivnika",
+        "saradnici spoljnog neprijatelja"
+      ],
+      "literal_ru": "пятая колонна",
+      "register": "политическое и публицистическое, резко неодобрительное; часто обвинительный ярлык",
+      "examples": [
+        {
+          "serbian_latin": "Propast pete kolone: Otkriven plan izdaje države i način buduće borbe protiv petokolonaša",
+          "russian": "Крах пятой колонны: раскрыт план предательства государства и способ дальнейшей борьбы с представителями пятой колонны.",
+          "source": "Kurir, 2025 — оценочный заголовок; регистр букв нормализован",
+          "url": "https://www.kurir.rs/vesti/9794801/propast-pete-kolone-otkriven-plan-izdaje-drzave-i-nacin-buduce-borbe-protiv-petokolonasa"
+        },
+        {
+          "serbian_latin": "Hajka na N1 u Kragujevcu: Na plakatima kao Gebels i „peta kolona“",
+          "russian": "Травля N1 в Крагуеваце: на плакатах телеканал сравнивают с Геббельсом и называют «пятой колонной».",
+          "source": "N1, 2023 — заголовок",
+          "url": "https://n1info.rs/vesti/hajka-na-n1-u-kragujevcu-na-plakatima-kao-gebels-i-peta-kolona/"
+        }
+      ],
+      "note": "Родительный падеж — pete kolone; производное petokolonaš обозначает человека, отнесённого к такой группе. В политической полемике выражение часто используется для дискредитации оппонентов без доказательства реальной связи с внешним противником. Первый пример применяет этот ярлык, второй сообщает о его применении к другим. При нейтральном изложении важно указывать, кто именно выдвигает обвинение.",
+      "keyword": "peta kolona; petokolonaš; politička optužba; unutrašnji protivnik"
     },
     {
       "headword_latin": "Pevati koliko te grlo nosi",
@@ -32916,6 +33252,34 @@
       "keyword": "svetla tačka"
     },
     {
+      "headword_latin": "Svetlo na kraju tunela",
+      "type": "imenički frazeologizam",
+      "definition_ru": "свет в конце тоннеля; признаки возможного выхода из трудного положения, надежда на благополучное завершение проблемного периода",
+      "synonyms_sr": [
+        "nagoveštaj izlaza iz krize",
+        "znak nade",
+        "izgledno poboljšanje"
+      ],
+      "literal_ru": "свет в конце тоннеля",
+      "register": "общеупотребительное, образное",
+      "examples": [
+        {
+          "serbian_latin": "…u ovom trenutku mogu da kažem da vidim svetlo na kraju tunela.",
+          "russian": "…в данный момент я могу сказать, что вижу свет в конце тоннеля.",
+          "source": "Blic, 2026 — фрагмент высказывания о строительстве объектов Expo",
+          "url": "https://www.blic.rs/biznis/vesti/vucic-na-gradilistu-ekspa-stadion-i-objekti-napreduju-rok-za-zavrsetak-1-decembar/qt5bhr6"
+        },
+        {
+          "serbian_latin": "Možemo početi da vidimo svetlo na kraju tunela u borbi protiv šumskih požara.",
+          "russian": "В борьбе с лесными пожарами мы начинаем видеть свет в конце тоннеля.",
+          "source": "NIN / Tanjug, 2026 — высказывание Педро Санчеса",
+          "url": "https://www.nin.rs/svet/vesti/119465/sancez-o-borbi-sa-pozarima-mozemo-da-vidimo-svetlo-na-kraju-tunela"
+        }
+      ],
+      "note": "Встречается также вариант svetlost na kraju tunela. Типичные формы: videti svetlo na kraju tunela, nazire se svetlo na kraju tunela. Выражение обозначает появление надежды или перспективы, но не обязательно уже решённую проблему. Многоточием в первом примере отмечено сокращение цитаты.",
+      "keyword": "svetlo na kraju tunela; svetlost na kraju tunela; nada; izlaz iz krize"
+    },
+    {
       "headword_latin": "Svirati kurcu",
       "type": "sleng",
       "definition_ru": "бездельничать; заниматься бесполезной х*рнёй; ничего полезного не делать; попусту тратить время",
@@ -38018,6 +38382,90 @@
       "keyword": "zlatna koka"
     },
     {
+      "headword_latin": "Zlatna sredina",
+      "type": "imenički frazeologizam",
+      "definition_ru": "золотая середина; разумный баланс между крайностями; иногда — умеренное или среднее положение в сравнении с другими",
+      "synonyms_sr": [
+        "razumna mera",
+        "uravnoteženo rešenje",
+        "srednji put"
+      ],
+      "literal_ru": "золотая середина",
+      "register": "общеупотребительное; обычно одобрительное, иногда ироническое",
+      "examples": [
+        {
+          "serbian_latin": "Srbija se našla na „zlatnoj sredini“, u kategoriji sreće i osećanja, pokazuju najnovija istraživanja agencije „Galup“.",
+          "russian": "Сербия оказалась на «золотой середине» по показателям счастья и эмоционального состояния, свидетельствуют последние исследования агентства Gallup.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/magazin/zanimljivosti/3503848/stanovnici-srbije-po-osecanjima-i-sreci-na-zlatnoj-sr.html"
+        },
+        {
+          "serbian_latin": "Zlatna sredina se nalazi između Srbina i Rusa",
+          "russian": "Золотая середина находится между сербом и русским.",
+          "source": "Sputnik na srpskom, 2025 — фрагмент заголовка интервью, сохранённый на Naslovi.net",
+          "url": "https://naslovi.net/2025-03-02/sputnik/rus-kojeg-ovde-obozavaju-zlatna-sredina-se-nalazi-izmedju-srbina-i-rusa-video/39103410"
+        }
+      ],
+      "note": "Частые сочетания: naći zlatnu sredinu, držati se zlatne sredine, zlatna sredina između dve krajnosti. В первом примере выражение шутливо обозначает середину рейтинга, а не обязательно идеальное положение. Во втором передана субъективная оценка собеседника интервью о сочетании привычек и черт характера; это не объективная характеристика национальностей. Не путать с математическим термином zlatni presek.",
+      "keyword": "zlatna sredina; ravnoteža; umerenost; kompromis"
+    },
+    {
+      "headword_latin": "Zlatno doba",
+      "type": "imenički frazeologizam",
+      "definition_ru": "золотой век, эпоха расцвета; период наивысших достижений, благополучия или популярности",
+      "synonyms_sr": [
+        "vreme procvata",
+        "vrhunac razvoja",
+        "period blagostanja"
+      ],
+      "literal_ru": "золотая эпоха",
+      "register": "общеупотребительное и публицистическое; возможно ироническое употребление",
+      "examples": [
+        {
+          "serbian_latin": "Čini se da zlatno doba dugovečnih hitova poput „Breaking Bad“ ili „Game of Thrones“ polako zalazi…",
+          "russian": "Похоже, золотой век многосезонных хитов вроде «Во все тяжкие» или «Игры престолов» постепенно подходит к концу…",
+          "source": "Danas, 2026 — фрагмент предложения",
+          "url": "https://www.danas.rs/kultura/zlatno-doba-mini-serija-osvojile-gledaoce/"
+        },
+        {
+          "serbian_latin": "Šta je ostalo od Vučićevog „zlatnog doba“ reći će vam sindikati.",
+          "russian": "Что осталось от «золотого века» Вучича, вам расскажут профсоюзы.",
+          "source": "Nova, 2026 — первое предложение заголовка",
+          "url": "https://nova.rs/vesti/politika/sta-je-ostalo-od-vucicevog-zlatnog-doba-reci-ce-vam-sindikati-njihove-clanove-ovih-dana-teraju-da-skupljaju-kapilarne-glasove-pod-pretnjom-otkaza/"
+        }
+      ],
+      "note": "Сочетания: zlatno doba filma, zlatno doba neke zemlje, u zlatno doba, kraj zlatnog doba. Существительное doba среднего рода; в родительном падеже единственного числа — zlatnog doba. Кавычки могут выражать дистанцию или иронию, как во втором примере, где автор оспаривает обещанный период благополучия.",
+      "keyword": "zlatno doba; procvat; vrhunac; blagostanje"
+    },
+    {
+      "headword_latin": "Zlatno pravilo",
+      "type": "ustaljeni metaforički spoj",
+      "definition_ru": "золотое правило; особенно важный, надёжный или рекомендуемый принцип поведения и действий",
+      "synonyms_sr": [
+        "osnovno načelo",
+        "ključno pravilo",
+        "proveren princip"
+      ],
+      "literal_ru": "золотое правило",
+      "register": "общеупотребительное; часто в советах и инструкциях",
+      "examples": [
+        {
+          "serbian_latin": "Zlatna pravila ulaganja u 2026: Kako obični ljudi mogu povećati štednju i zaradu",
+          "russian": "Золотые правила инвестирования в 2026 году: как обычным людям увеличить сбережения и доходы.",
+          "source": "Telegraf Biznis, 2026 — заголовок",
+          "url": "https://biznis.telegraf.rs/info-biz/4283588-zlatna-pravila-ulaganja-u-2026-kako-obicni-ljudi-mogu-povecati-stednju-i-zaradu"
+        },
+        {
+          "serbian_latin": "Lekar otkriva 7 zlatnih pravila za dugovečnost: Jednu grešku sa spavanjem svi masovno pravimo",
+          "russian": "Врач называет семь золотых правил долголетия: одну и ту же ошибку, связанную со сном, допускают очень многие.",
+          "source": "Ona.rs, 2026 — заголовок",
+          "url": "https://ona.telegraf.rs/fitnes-i-zdravlje/4381612-lekar-otkriva-7-zlatnih-pravila-za-dugovecnost-jednu-gresku-sa-spavanjem-svi-masovno-pravimo"
+        }
+      ],
+      "note": "Часто используется множественное число zlatna pravila; после числительных от пяти — zlatnih pravila. Модели: zlatno pravilo nečega, zlatno pravilo za nešto, pridržavati se zlatnog pravila. Прилагательное zlatno выражает высокую оценку полезности правила; само по себе оно не гарантирует научной обоснованности совета. Примеры показывают языковое употребление, а не рекомендации по здоровью или инвестициям.",
+      "keyword": "zlatno pravilo; načelo; savet; postupanje"
+    },
+    {
       "headword_latin": "Zlo i naopako",
       "type": "izraz",
       "definition_ru": "ужас; беда; всё из рук вон плохо; не дай бог",
@@ -38206,6 +38654,34 @@
       "keyword": "žila kucavica; arterija; važnost"
     },
     {
+      "headword_latin": "Živa enciklopedija",
+      "type": "imenički frazeologizam",
+      "definition_ru": "ходячая энциклопедия; человек с обширными знаниями, способный многое рассказать; расширенно — живое воплощение накопленной истории или сведений",
+      "synonyms_sr": [
+        "čovek širokog znanja",
+        "veliki znalac",
+        "riznica znanja"
+      ],
+      "literal_ru": "живая энциклопедия",
+      "register": "общеупотребительное, образное; обычно одобрительное, иногда шутливое",
+      "examples": [
+        {
+          "serbian_latin": "Meštani Martinaca za deda Radu kažu da je živa enciklopedija sela i primer kako se znanje može steći isključivo snagom volje.",
+          "russian": "Жители Мартинцев называют деда Раде живой энциклопедией села и примером того, как знания можно приобрести одной лишь силой воли.",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/vesti/drustvo/genije-iz-srema-deda-rade-ima-4-razreda-skole-a-sam-je-naucio-nemacki/2d05lw3"
+        },
+        {
+          "serbian_latin": "Ova porodica je živa enciklopedija istorije Balkana",
+          "russian": "Эта семья — живая энциклопедия истории Балкан.",
+          "source": "Dnevnik, 2025 — фрагмент заголовка; транслитерация с сербской кириллицы",
+          "url": "https://www.dnevnik.rs/magazin/zanimljivosti/ova-porodica-je-prava-ziva-enciklopedija-istorije-balkana-karadjordje-tito-draza-pod-istim-krovom-2025-06-13"
+        }
+      ],
+      "note": "Основное значение — похвала эрудиции человека: živa enciklopedija sporta, istorije и т. п. Второй пример представляет шутливое расширение образа: члены семьи носят имена исторических деятелей, поэтому речь не об их энциклопедических знаниях. Слово enciklopedija остаётся женского рода и при характеристике мужчины.",
+      "keyword": "živa enciklopedija; znanje; erudicija; pamćenje"
+    },
+    {
       "headword_latin": "Živeti / funkcionisati na autopilotu",
       "type": "ustaljeni metaforički izraz",
       "definition_ru": "Жить или действовать на автомате: по привычке, без осознанного выбора и внимательного участия. О работе или процессе — продолжаться по заведённой схеме, без постоянного пересмотра решений.",
@@ -38341,6 +38817,33 @@
       ],
       "note": "Почти идеальный функциональный эквивалент русского «поживём — увидим». В зависимости от интонации реплика может быть нейтральной, осторожной или насмешливо-недоверчивой: «ну-ну, посмотрим». Возможна пунктуация Živi bili, pa videli, но сама формула остаётся той же.",
       "keyword": "živi bili; videli"
+    },
+    {
+      "headword_latin": "Žrtveni jarac",
+      "type": "imenički frazeologizam",
+      "definition_ru": "козёл отпущения; человек или группа, на которых перекладывают чужую вину и ответственность за общие неудачи",
+      "synonyms_sr": [
+        "dežurni krivac",
+        "osoba na koju se svaljuje tuđa krivica"
+      ],
+      "literal_ru": "жертвенный козёл",
+      "register": "общеупотребительное, образное; часто в публицистике",
+      "examples": [
+        {
+          "serbian_latin": "Boldvin: Uzimali su me kao žrtvenog jarca „za dela i propuste drugih, bez obzira na dokaze ili zakon“",
+          "russian": "Болдуин: Меня делали козлом отпущения «за поступки и упущения других, невзирая на доказательства или закон».",
+          "source": "RTV / Tanjug, 2025 — заголовок",
+          "url": "https://www.rtv.rs/sr_lat/svet/boldvin-uzimali-su-me-kao-zrtvenog-jarca-za-dela-i-propuste-drugih-bez-obzira-na-dokaze-ili-zakon_1597998.html"
+        },
+        {
+          "serbian_latin": "Porodica koristi žrtvenog jarca da bi izbegla suočavanje sa stvarnim problemima i održala lažnu sliku savršenstva",
+          "russian": "Семья использует козла отпущения, чтобы не сталкиваться с реальными проблемами и поддерживать ложный образ совершенства.",
+          "source": "Blic, 2026 — фрагмент вводной части",
+          "url": "https://www.blic.rs/zdravlje/zdravstvena-stanja/crna-ovca-ili-zrtveni-jarac-u-porodici-kako-toksicna-familija-bira-krivca/dwntrk0"
+        }
+      ],
+      "note": "Употребляется в сочетаниях biti žrtveni jarac, napraviti od nekoga žrtvenog jarca, tražiti žrtvenog jarca. Винительный падеж единственного числа — žrtvenog jarca; множественное число — žrtveni jarci. Выражение указывает на несправедливое возложение вины, а не просто на человека, который действительно виноват.",
+      "keyword": "žrtveni jarac; krivica; odgovornost; optuživanje"
     },
     {
       "headword_latin": "Žuditi za nečim",
