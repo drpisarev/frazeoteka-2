@@ -1192,6 +1192,35 @@
       "keyword": "prebijena para"
     },
     {
+      "headword_latin": "Bez rukavica",
+      "type": "izraz",
+      "definition_ru": "Без обиняков; прямо и жёстко; не смягчая слов и не щадя собеседника.",
+      "synonyms_sr": [
+        "bez uvijanja",
+        "otvoreno",
+        "direktno",
+        "bez ulepšavanja"
+      ],
+      "literal_ru": "без перчаток",
+      "register": "razgovorno-publicistički; često uz govoriti, pisati, razgovarati, kritikovati",
+      "examples": [
+        {
+          "serbian_latin": "Govori i piše jasno, bez rukavica, otvoreno o svemu o čemu svi misle.",
+          "russian": "Она говорит и пишет ясно, без обиняков, открыто обо всём, о чём думают все.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/magazin/kultura/kultura/3751563/.html?print=true"
+        },
+        {
+          "serbian_latin": "Treba da se vidi pravo stanje u zemlji – bez rukavica i ružičastih naočara.",
+          "russian": "Нужно увидеть реальное положение дел в стране — без прикрас и без розовых очков.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/politika/vladimir-prebilic-evropski-poslanik-o-izjavama-vucica-i-brnabic-dolazak-ep-delegacije-treba-da-se-saceka-pogacom-i-solju-a-ne-drvljem-i-kamenjem/"
+        }
+      ],
+      "note": "Оборот особенно естественен в журналистике и интервью. В отличие от нейтрального otvoreno, bez rukavica подчёркивает отсутствие смягчений и дипломатичности; по-русски часто подходят «без обиняков», «без церемоний», «жёстко и прямо».",
+      "keyword": "rukavice; direktno"
+    },
+    {
       "headword_latin": "Bez starca nema udarca",
       "type": "izreka",
       "definition_ru": "старый конь борозды не портит; опытный ветеран ещё даст фору молодым",
@@ -7491,6 +7520,35 @@
       ],
       "note": "Рифма dug – drug делает формулу особенно запоминающейся. Drug здесь не обязательно близкий «друг», а скорее спутник, товарищ: задолженность становится неприятным постоянным спутником. Выражение очень естественно и при обсуждении кредитов, ипотеки и государственного долга.",
       "keyword": "dug je zao drug"
+    },
+    {
+      "headword_latin": "Dug jezik",
+      "type": "frazeologizam",
+      "definition_ru": "Длинный язык; склонность говорить лишнее, дерзить, сплетничать или не сдерживать язык.",
+      "synonyms_sr": [
+        "biti jezičav",
+        "pričati previše",
+        "ne umeti da ćuti",
+        "govoriti bez zadrške"
+      ],
+      "literal_ru": "длинный язык",
+      "register": "razgovorno, obično neodobravajuće; često imati dug jezik",
+      "examples": [
+        {
+          "serbian_latin": "Poznat je po dugačkom jeziku.",
+          "russian": "Он известен своим длинным языком.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/drustvo/nemanja-aleksic-biografija-advokat/"
+        },
+        {
+          "serbian_latin": "Grin je morao da ukroti svoj tradicionalno dug jezik.",
+          "russian": "Грину пришлось укротить свой привычно длинный язык.",
+          "source": "RTS, 2022",
+          "url": "https://rts.rs/lat/sport/kosarka/4836840/golden-stejt-protiv-bostona-u-velikom-finalu---sansa-za-razbijanje-mitova-i-ispisivanje-istorije.html"
+        }
+      ],
+      "note": "Значение зависит от контекста: dug jezik может быть болтливостью, привычкой выдавать чужие секреты, резкостью или дерзостью. Русский образ «длинный язык» совпадает, но конкретный перевод лучше подбирать по ситуации.",
+      "keyword": "dug jezik; jezičav"
     },
     {
       "headword_latin": "Dupke pun",
@@ -16031,6 +16089,35 @@
       "keyword": "koplja; rasprava; spor"
     },
     {
+      "headword_latin": "Lopta je u tvom dvorištu",
+      "type": "frazeologizam",
+      "definition_ru": "Теперь ход за тобой; дальнейшее решение или действие зависит от тебя.",
+      "synonyms_sr": [
+        "ti si na potezu",
+        "red je na tebe",
+        "odluka je sada na tebi",
+        "sledeći potez je tvoj"
+      ],
+      "literal_ru": "мяч на твоей половине двора",
+      "register": "razgovorno i publicistički; javlja se i u množini: lopta je u vašem dvorištu",
+      "examples": [
+        {
+          "serbian_latin": "Lopta je u tvom dvorištu.",
+          "russian": "Теперь ход за тобой.",
+          "source": "Resurs centar Građanske inicijative, 2021",
+          "url": "https://rc.gradjanske.org/jos-danas-otvorene-prijave-za-youth-media-hub/"
+        },
+        {
+          "serbian_latin": "Lopta je sada u tvom dvorištu.",
+          "russian": "Теперь мяч на твоей стороне, действовать тебе.",
+          "source": "Sportski žurnal, 2026",
+          "url": "https://zurnal.politika.rs/sr/clanak/255845/miks/borilacki-sportovi/usikov-menadzer-odbacio-fjurijev-poziv-za-treci-mec"
+        }
+      ],
+      "note": "Образ пришёл из игр с мячом и обозначает передачу инициативы другой стороне. Не путать с prebaciti loptu u tuđe dvorište, где акцент на перекладывании ответственности; здесь просто констатируется, чья очередь действовать.",
+      "keyword": "lopta; dvorište; potez"
+    },
+    {
       "headword_latin": "Lov na veštice",
       "type": "imenički frazeologizam",
       "definition_ru": "охота на ведьм; кампания преследования, поиска мнимых врагов или обвинения людей без достаточных оснований",
@@ -21615,6 +21702,34 @@
       "keyword": "od igle do lokomotive"
     },
     {
+      "headword_latin": "Od inata nema goreg zanata",
+      "type": "izreka",
+      "definition_ru": "Нет худшего занятия, чем действовать назло; упрямство и действия из одного лишь принципа обычно вредят прежде всего самому человеку.",
+      "synonyms_sr": [
+        "inat se ne isplati",
+        "ne terati inat",
+        "inat vodi u štetu"
+      ],
+      "literal_ru": "Нет ремесла хуже, чем упрямство назло.",
+      "register": "poslovično, razgovorno; često kao savet ili opomena protiv inata",
+      "examples": [
+        {
+          "serbian_latin": "Mi od inata ne možemo da živimo, od inata nema goreg zanata.",
+          "russian": "Мы не можем жить одним упрямством: нет худшего занятия, чем делать назло.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/vesti/politika/1300474/vucic-od-inata-nema-goreg-zanata.html"
+        },
+        {
+          "serbian_latin": "Kaže se da od inata nema goreg zanata.",
+          "russian": "Говорят, что нет худшего занятия, чем действовать назло.",
+          "source": "Večernje novosti, 2016",
+          "url": "https://www.novosti.rs/vesti/lifestyle.303.html%3A598903-Zasto-je-inat-srpski-zanat"
+        }
+      ],
+      "note": "Очень узнаваемая сербская рифмованная формула об inat — упрямом сопротивлении или поступке «назло». Она не утверждает, что всякая настойчивость плоха: осуждается именно действие из принципа вопреки здравому смыслу и собственным интересам.",
+      "keyword": "inat; zanat"
+    },
+    {
       "headword_latin": "Od jutra do mraka",
       "type": "priloški izraz",
       "definition_ru": "Весь день, с утра до позднего вечера; практически непрерывно. Русский эквивалент: «с утра до ночи».",
@@ -21975,6 +22090,35 @@
       "keyword": "kesa"
     },
     {
+      "headword_latin": "Održati lekciju nekome",
+      "type": "frazeologizam",
+      "definition_ru": "Преподать кому-либо урок; наглядно показать превосходство, образцовое поведение или указать на ошибку.",
+      "synonyms_sr": [
+        "očitati lekciju",
+        "pokazati kako se nešto radi",
+        "dati pouku",
+        "nadigrati nekoga"
+      ],
+      "literal_ru": "провести кому-либо урок",
+      "register": "neutralno-publicistički; figurativno veoma često u sportu i moralnom vrednovanju",
+      "examples": [
+        {
+          "serbian_latin": "Zverev je održao lekciju Fricu.",
+          "russian": "Зверев преподал Фрицу настоящий урок.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/sport/tenis/5991202/.html?print=true"
+        },
+        {
+          "serbian_latin": "Obama je ovom posetom želeo lično da održi lekciju Karzaiju.",
+          "russian": "Этой поездкой Обама хотел лично преподать Карзаю урок.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/vesti/drustvo/obama-odrzao-lekciju-karzaiju"
+        }
+      ],
+      "note": "Переносное значение шире школьного «провести урок». В спорте održati nekome lekciju — убедительно превзойти соперника; в общественной речи — своим поведением или словами наглядно показать, как следует поступать. Близкий более резкий вариант: očitati nekome lekciju.",
+      "keyword": "održati lekciju; pouka"
+    },
+    {
       "headword_latin": "Odvojiti / razdvojiti žito od kukolja",
       "type": "frazeologizam",
       "definition_ru": "отделить зёрна от плевел; отделить хорошее от плохого; отсеять негодное",
@@ -22140,6 +22284,35 @@
       ],
       "note": "Главное значение — не просто «передумать», а демонстративно поменять сторону или прежнюю позицию, часто из расчёта. Поэтому выражение почти всегда неодобрительное. В современной речи ćurak вне этого фразеологизма встречается значительно реже.",
       "keyword": "okrenuti ćurak naopako"
+    },
+    {
+      "headword_latin": "Okrenuti drugi obraz",
+      "type": "frazeologizam",
+      "definition_ru": "Не отвечать злом на зло; отказаться от мести и ответной агрессии, проявить терпение и смирение.",
+      "synonyms_sr": [
+        "ne uzvratiti istom merom",
+        "uzdržati se od osvete",
+        "oprostiti",
+        "ne svetiti se"
+      ],
+      "literal_ru": "подставить другую щёку",
+      "register": "knjiški i opštepoznat biblijski izraz; često i u nereligioznom kontekstu",
+      "examples": [
+        {
+          "serbian_latin": "Progonitelju treba okrenuti i drugi obraz.",
+          "russian": "Преследователю следует подставить и другую щёку.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/vesti/svet/2549616/preobrazaj-prekaljenog-ratnika.html"
+        },
+        {
+          "serbian_latin": "Kako okrenuti i drugi obraz, ako imaš poriv da se osvetiš?",
+          "russian": "Как подставить другую щёку, если испытываешь желание отомстить?",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kultura/intervju-boris-lijesevic/"
+        }
+      ],
+      "note": "Библейский образ, хорошо понятный и вне религиозной речи. Обычно речь не о буквальном повороте лица, а о сознательном отказе отвечать ударом на удар. Русский устойчивый эквивалент — «подставить другую щёку».",
+      "keyword": "drugi obraz; osveta"
     },
     {
       "headword_latin": "Okrenuti leđa nekome / nečemu",
@@ -22736,6 +22909,35 @@
       ],
       "note": "В источниках встречаются разные написания: na seen-u и na \"seen\". Здесь они сохранены, а в заголовке выбрана форма с сербским падежным окончанием. Дополнение обозначает человека, хотя без ответа остаётся его сообщение: ostavio me je na seen-u. Не следует автоматически приравнивать единичный случай к окончательному прекращению общения или намеренному унижению. Первый пример передаёт эмоциональную позицию автора записи, а не универсальное правило поведения в переписке.",
       "keyword": "seen"
+    },
+    {
+      "headword_latin": "Ostaviti otvorena vrata",
+      "type": "frazeologizam",
+      "definition_ru": "Оставить дверь открытой; не исключать возможность дальнейшего сотрудничества, переговоров или возвращения к варианту.",
+      "synonyms_sr": [
+        "ostaviti mogućnost",
+        "ne zatvoriti opciju",
+        "ostaviti prostor za dogovor",
+        "ne prekidati zauvek"
+      ],
+      "literal_ru": "оставить открытые двери",
+      "register": "neutralno-publicistički; često o pregovorima, saradnji i budućim opcijama",
+      "examples": [
+        {
+          "serbian_latin": "Najbolje bi bilo ostaviti otvorena vrata za saradnju svim državama sveta.",
+          "russian": "Лучше всего было бы оставить открытыми двери для сотрудничества со всеми странами мира.",
+          "source": "Politika, 2007",
+          "url": "https://www.politika.rs/sr/clanak/24163/srbija-kao-svajcarska"
+        },
+        {
+          "serbian_latin": "Svakako ćemo ostaviti otvorena vrata za dalje pregovore.",
+          "russian": "Мы в любом случае оставим дверь открытой для дальнейших переговоров.",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/vesti/politika/rodoljubi-pregovaraju-sa-raskovic-ivic"
+        }
+      ],
+      "note": "В переносном употреблении vrata — возможность, которая ещё не закрыта окончательно. Часто выражение означает не обещание продолжения, а сознательный отказ исключать его. Русское «оставить дверь открытой» употребляется аналогично.",
+      "keyword": "otvorena vrata; mogućnost"
     },
     {
       "headword_latin": "Osveta",
@@ -24401,6 +24603,35 @@
       "keyword": "Pirova pobeda; pobeda; gubici"
     },
     {
+      "headword_latin": "Piši propalo",
+      "type": "izraz",
+      "definition_ru": "Пиши пропало; дело безнадёжно; можно считать, что всё потеряно или сорвалось.",
+      "synonyms_sr": [
+        "gotova stvar",
+        "nema ništa od toga",
+        "sve je propalo",
+        "nema spasa"
+      ],
+      "literal_ru": "пиши: пропало",
+      "register": "razgovorno, ekspresivno i često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Pendrek, pare i propaganda – piši propalo.",
+          "russian": "Дубинка, деньги и пропаганда — пиши пропало.",
+          "source": "N1 Srbija, 2026",
+          "url": "https://n1info.rs/licni-stav/pendrek-pare-i-propaganda-pisi-propalo/"
+        },
+        {
+          "serbian_latin": "Kad je golman najbolji, piši propalo!",
+          "russian": "Если лучший игрок — вратарь, пиши пропало!",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/sport/fudbal/4315335-partizanova-tuzna-istina-kad-je-golman-najbolji-pisi-propalo"
+        }
+      ],
+      "note": "Короткая разговорная формула окончательного пессимистического вывода. Часто употребляется отдельно после описания плохих обстоятельств. Русское «пиши пропало» полностью совпадает и по форме, и по интонации.",
+      "keyword": "piši propalo"
+    },
+    {
       "headword_latin": "Piti kao smuk",
       "type": "frazeologizam",
       "definition_ru": "пить как не в себя; пить как рыба; пить огромными количествами",
@@ -24967,6 +25198,35 @@
       "keyword": "pod znakom pitanja"
     },
     {
+      "headword_latin": "Podgrevati tenzije",
+      "type": "izraz",
+      "definition_ru": "Подогревать напряжённость; своими действиями или словами усиливать уже существующий конфликт или нервозность.",
+      "synonyms_sr": [
+        "pojačavati tenzije",
+        "raspirivati napetost",
+        "dizati tenziju",
+        "pogoršavati odnose"
+      ],
+      "literal_ru": "подогревать напряжённость",
+      "register": "publicistički i neutralno; često o društvenim, političkim i međuljudskim sukobima",
+      "examples": [
+        {
+          "serbian_latin": "Strano mešanje u Tripoliju samo podgreva tenzije.",
+          "russian": "Иностранное вмешательство в Триполи лишь подогревает напряжённость.",
+          "source": "RTS, 2008",
+          "url": "https://www.rts.rs/lat/vesti/svet/15761/pomirenje-islamskih-sekti-u-libanu.html"
+        },
+        {
+          "serbian_latin": "Rastući broj imigranata podgreva tenzije.",
+          "russian": "Растущее число иммигрантов усиливает напряжённость.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/kultura/favorit-za-oskara-na-otvaranju-festa/"
+        }
+      ],
+      "note": "Очень частотная публицистическая метафора: уже существующая tenzija мыслится как нечто, чему можно «добавить жара». Близко raspirivati sukob, но podgrevati tenzije не обязательно предполагает открытый конфликт.",
+      "keyword": "podgrevati tenzije; napetost"
+    },
+    {
       "headword_latin": "Podići glas protiv nekoga / nečega",
       "type": "frazeologizam",
       "definition_ru": "поднять голос против; открыто выступить; заявить протест",
@@ -25022,6 +25282,35 @@
       ],
       "note": "Выражение может относиться к заявлению, документу, фотографии, решению или поступку, вызвавшему заметный общественный резонанс. Продолжительность реакции передаётся конструкцией prašina se još nije slegla — шум ещё не улёгся.",
       "keyword": "prašina"
+    },
+    {
+      "headword_latin": "Podignuti lestvicu",
+      "type": "frazeologizam",
+      "definition_ru": "Поднять планку; повысить уровень требований, качества или достижений.",
+      "synonyms_sr": [
+        "podići standard",
+        "postaviti više kriterijume",
+        "podići nivo",
+        "povećati očekivanja"
+      ],
+      "literal_ru": "поднять перекладину",
+      "register": "neutralno-publicistički; često o kvalitetu, standardima, sportu, umetnosti i poslu",
+      "examples": [
+        {
+          "serbian_latin": "Danas je podigao lestvicu standarda našeg novinarstva na viši nivo.",
+          "russian": "Danas поднял планку стандартов нашей журналистики на более высокий уровень.",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/visoko-podignuta-lestvica-2"
+        },
+        {
+          "serbian_latin": "Pesmama sam podigao lestvicu više.",
+          "russian": "Своими песнями я поднял планку выше.",
+          "source": "Večernje novosti, 2026",
+          "url": "https://www.novosti.rs/scena/poznati/1568896/uros-zivkovic-intervju-novosti-novosti-intervju-novosti"
+        }
+      ],
+      "note": "Lestvica буквально «перекладина, планка». Выражение может обозначать как повышение собственных результатов, так и установление более высоких требований для других. Русское «поднять планку» почти полностью совпадает.",
+      "keyword": "lestvica; standard"
     },
     {
       "headword_latin": "Podmetati klipove nekome / pod točkove",
@@ -25644,6 +25933,35 @@
       "keyword": "polomiti zube"
     },
     {
+      "headword_latin": "Pomeriti granice",
+      "type": "izraz",
+      "definition_ru": "Раздвинуть границы возможного; выйти за прежние рамки и установить новый уровень или стандарт.",
+      "synonyms_sr": [
+        "prevazići dosadašnje okvire",
+        "postaviti nove standarde",
+        "otići korak dalje",
+        "proširiti mogućnosti"
+      ],
+      "literal_ru": "сдвинуть границы",
+      "register": "neutralno-publicistički; vrlo često o sportu, umetnosti, tehnologiji i poslovanju",
+      "examples": [
+        {
+          "serbian_latin": "Pristup snimanju će definitivno pomeriti granice u domaćoj kinematografiji.",
+          "russian": "Этот подход к съёмкам определённо раздвинет границы отечественного кинематографа.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/4266997/.html?print=true"
+        },
+        {
+          "serbian_latin": "Možemo zaista pomeriti granice i postaviti nove standarde.",
+          "russian": "Мы действительно можем раздвинуть границы и установить новые стандарты.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5157749/aleksandar-bogdanovic-novi-predsednik-izvrsnog-odbora-mobi-banke.html"
+        }
+      ],
+      "note": "В прямом смысле granica может быть государственной или физической границей, но в этом выражении почти всегда речь о переносных пределах возможностей, качества или допустимого. Русские «раздвинуть границы», «расширить пределы возможного» подходят по контексту.",
+      "keyword": "pomeriti granice; standard"
+    },
+    {
       "headword_latin": "Pomeriti sastanak",
       "type": "kolokacija",
       "definition_ru": "перенести встречу; передвинуть встречу на другое время",
@@ -25758,6 +26076,64 @@
       ],
       "note": "Выражение предполагает неожиданное вмешательство, из-за которого первоначальный замысел становится трудно или невозможно осуществить.",
       "keyword": "račun"
+    },
+    {
+      "headword_latin": "Pomrsiti račune",
+      "type": "frazeologizam",
+      "definition_ru": "Спутать кому-либо карты; нарушить планы и расчёты, неожиданно изменить ожидаемый ход событий.",
+      "synonyms_sr": [
+        "pokvariti planove",
+        "poremetiti računicu",
+        "osujetiti namere",
+        "zakomplikovati situaciju"
+      ],
+      "literal_ru": "спутать расчёты",
+      "register": "razgovorno-publicistički; naročito često u sportu i politici",
+      "examples": [
+        {
+          "serbian_latin": "Jermenija može mnogima pomrsiti račune.",
+          "russian": "Армения может многим спутать карты.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/sport/Fudbal/1748188/Karad%C5%BEi%C4%87%3A%2B%C5%BDalba%2Bposlata%2C%2Bmoramo%2Bda%2Bpobedimo.html"
+        },
+        {
+          "serbian_latin": "Smederevo će, sigurno, pomrsiti račune favoritima u prvenstvu.",
+          "russian": "«Смедерево» наверняка спутает карты фаворитам чемпионата.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/drustvo/bodove-osvajamo-kolektivnom-igrom"
+        }
+      ],
+      "note": "Глагол pomrsiti буквально связан с запутыванием. Здесь računi — не счета к оплате, а планы и расчёты. Очень естественно: pomrsiti nekome račune — «сорвать чьи-то расчёты, спутать карты».",
+      "keyword": "pomrsiti račune; planovi"
+    },
+    {
+      "headword_latin": "Pomutiti pamet",
+      "type": "frazeologizam",
+      "definition_ru": "Вскружить голову; лишить кого-либо ясности суждений сильным впечатлением, страстью, соблазном или пропагандой.",
+      "synonyms_sr": [
+        "zavrteti nekome pamet",
+        "opčiniti",
+        "zbuniti",
+        "poremetiti rasuđivanje"
+      ],
+      "literal_ru": "замутить разум",
+      "register": "razgovorno-knjiški, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Konfuznoj drugarici koja će nesrećnom šonji pomutiti pamet.",
+          "russian": "Сумбурной подруге, которая вскружит голову несчастному простаку.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/kolumna/pavle-simjanovic/grad-strasti-farse-i-apsurda"
+        },
+        {
+          "serbian_latin": "Teško je pomutiti pamet jednog čoveka, ali je lako pomutiti pamet jednog naroda.",
+          "russian": "Трудно затуманить разум одному человеку, но легко — целому народу.",
+          "source": "Politika, 2021",
+          "url": "https://www.politika.rs/sr/clanak/486297/komite-u-crnoj-gori"
+        }
+      ],
+      "note": "Pamet здесь ближе к «разуму, способности здраво судить». В любовном контексте выражение часто означает «вскружить голову», в общественном — «затуманить сознание, сбить с толку».",
+      "keyword": "pomutiti pamet; razum"
     },
     {
       "headword_latin": "Popeti se nekome na vrh glave",
@@ -26857,6 +27233,35 @@
       ],
       "note": "Выражение подчёркивает не просто быстроту, а форсированное решение сложного вопроса без нормальной процедуры, подготовки или согласования. Часто употребляется о реформах, законах и организационных решениях.",
       "keyword": "naprečac; brzopleto; odluka"
+    },
+    {
+      "headword_latin": "Prelomna tačka",
+      "type": "izraz",
+      "definition_ru": "Переломный момент; точка, после которой развитие событий заметно меняет направление.",
+      "synonyms_sr": [
+        "prekretnica",
+        "ključni trenutak",
+        "tačka preokreta",
+        "presudan momenat"
+      ],
+      "literal_ru": "переломная точка",
+      "register": "neutralno-publicistički; koristi se i u stručnom jeziku u doslovnijim značenjima",
+      "examples": [
+        {
+          "serbian_latin": "GSP kao prelomna tačka političkih previranja u Beogradu.",
+          "russian": "ГСП как переломная точка политических потрясений в Белграде.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/ekonomija/gsp-strela-javni-prevoz-vlast-aleksandar-sapic-beograd/"
+        },
+        {
+          "serbian_latin": "Koja je bila prelomna tačka kada su ti odnosi krenuli silaznom putanjom?",
+          "russian": "Какой момент стал переломным, после чего эти отношения пошли по нисходящей?",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/politika/5838848/srbija-francuska-istorija.html"
+        }
+      ],
+      "note": "Выражение шире исторического «переломного момента»: prelomna tačka может быть в отношениях, карьере, проекте, процессе или общественных событиях. Близкое prekretnica обычно звучит ещё компактнее.",
+      "keyword": "prelomna tačka; prekretnica"
     },
     {
       "headword_latin": "Prenositi se od usta do usta",
@@ -27967,6 +28372,35 @@
       "keyword": "jorgan dug"
     },
     {
+      "headword_latin": "Prva violina",
+      "type": "frazeologizam",
+      "definition_ru": "Первая скрипка; ведущий, ключевой человек в команде, коллективе или проекте.",
+      "synonyms_sr": [
+        "glavni igrač",
+        "vodeća figura",
+        "ključni čovek",
+        "nosilac igre"
+      ],
+      "literal_ru": "первая скрипка",
+      "register": "neutralno-publicistički; figurativno naročito često u sportu i kulturi",
+      "examples": [
+        {
+          "serbian_latin": "Nikola je takođe bio „prva violina“ Džordžije.",
+          "russian": "Никола также был «первой скрипкой» Джорджии.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/vesti/drustvo/ponos-juzne-dakote-i-dzordzije/"
+        },
+        {
+          "serbian_latin": "Lorenco Braun je u Crvenoj zvezdi bio prva violina tima.",
+          "russian": "Лоренцо Браун был первой скрипкой команды «Црвена звезда».",
+          "source": "Sport Klub, 2025",
+          "url": "https://sportklub.n1info.rs/kosarka/euroleague/braun-zagolicao-mastu-delija-i-dao-sud-pred-duel-sa-bajernom/"
+        }
+      ],
+      "note": "Метафора оркестра: prva violina ведёт свою группу и играет заметную роль. В переносном значении это человек, вокруг которого строится игра или работа коллектива. Русское «первая скрипка» совпадает полностью.",
+      "keyword": "prva violina; vodeća figura"
+    },
+    {
       "headword_latin": "Prvi mačići se u vodu bacaju",
       "type": "poslovica",
       "definition_ru": "первый блин комом; первая попытка редко бывает идеальной; на первой пробе не судят",
@@ -28457,6 +28891,35 @@
       ],
       "note": "Образ пришёл из эпохи парового транспорта: при подаче полной мощности пара поезд или пароход двигался с максимальной скоростью. Затем развилось переносное значение «со всей силой, очень интенсивно». Русское «полным ходом» почти всегда подходит лучше буквального «полным паром».",
       "keyword": "punom parom"
+    },
+    {
+      "headword_latin": "Pustiti buvu",
+      "type": "frazeologizam",
+      "definition_ru": "Запустить слух, намёк или непроверенную информацию, чтобы она начала распространяться и вызвала реакцию.",
+      "synonyms_sr": [
+        "pustiti glasinu",
+        "proturiti priču",
+        "plasirati glasinu",
+        "baciti mamac u javnost"
+      ],
+      "literal_ru": "пустить блоху",
+      "register": "razgovorno, često ironično ili neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Za to je dovoljno samo pustiti neku buvu.",
+          "russian": "Для этого достаточно всего лишь запустить какой-нибудь слух.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/supermen-baculov-u-akciji"
+        },
+        {
+          "serbian_latin": "Neko je „pustio buvu“ kako su to najstrašnija stvorenja.",
+          "russian": "Кто-то запустил слух, будто это самые страшные существа.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/kultura/najbolji-fotoaparat-je-onaj-koji-imate-u-ruci-kad-se-nesto-dogadja/"
+        }
+      ],
+      "note": "Обычно buva — это небольшая, но цепкая информация, которую намеренно «пускают» в обращение. Она может быть ложной, проверочной или провокационной. По-русски наиболее естественно «запустить слух» или «закинуть информацию».",
+      "keyword": "pustiti buvu; glasina"
     },
     {
       "headword_latin": "Pustiti korenje",
@@ -30313,6 +30776,35 @@
       ],
       "note": "Образ связан с борьбой: пока «перчатки надеты», стороны ещё соблюдают определённые ограничения; skinuti rukavice означает отказаться от них. Русское «снять перчатки» понятно, но по контексту часто естественнее «перестать церемониться», «перейти к открытой борьбе».",
       "keyword": "skinuti rukavice"
+    },
+    {
+      "headword_latin": "Sklopiti kockice",
+      "type": "frazeologizam",
+      "definition_ru": "Сложить пазл; собрать разрозненные факты в единую картину и понять, как они связаны между собой.",
+      "synonyms_sr": [
+        "povezati stvari",
+        "sastaviti celu sliku",
+        "povezati činjenice",
+        "shvatiti celinu"
+      ],
+      "literal_ru": "сложить кубики / детали",
+      "register": "razgovorno-neutralno; često i sklopiti sve kockice, kockice su se sklopile",
+      "examples": [
+        {
+          "serbian_latin": "Treba sklopiti kockice tog multidisciplinarnog mozaika.",
+          "russian": "Нужно собрать воедино детали этого междисциплинарного мозаика.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/nauka/5122699/na-koji-nacin-ce-vestacka-inteligencija-pomagati-u-ranom-otkrivanju-retkih-bolesti.html"
+        },
+        {
+          "serbian_latin": "Naravno, na kraju će se sklopiti sve kockice.",
+          "russian": "Конечно, в конце концов все детали сложатся в единую картину.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/kultura/intervju-goran-susljik-povodom-serije-vreme-smrti-niti-smo-bili-herojski-u-tim-herojskim-vremenima-niti-smo-sada/"
+        }
+      ],
+      "note": "Очень живой современный образ. Sklopiti kockice означает не просто закончить работу, а увидеть целое после сопоставления отдельных фактов, признаков или событий. Форма kockice su se sklopile часто означает «теперь всё стало понятно / всё сошлось».",
+      "keyword": "kockice; povezati činjenice"
     },
     {
       "headword_latin": "Sklopiti kolica",
@@ -32333,6 +32825,35 @@
       "keyword": "pod istu kapu"
     },
     {
+      "headword_latin": "Staviti ad acta",
+      "type": "izraz",
+      "definition_ru": "Отложить в долгий ящик; считать вопрос закрытым; прекратить заниматься делом и отправить его в архив.",
+      "synonyms_sr": [
+        "staviti u arhivu",
+        "zatvoriti pitanje",
+        "odložiti zauvek",
+        "skinuti sa dnevnog reda"
+      ],
+      "literal_ru": "поместить к делам / в архив",
+      "register": "knjiški i publicistički; latinizam, često u administrativnom i pravnom kontekstu",
+      "examples": [
+        {
+          "serbian_latin": "Tako je čitav predmet 2014. stavljen ad acta.",
+          "russian": "Так всё дело в 2014 году было отправлено в архив.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/ubistvo-radnika-rts-i-ubistvo-pod-nadstresnicom-su-dva-drzavna-zlocina/"
+        },
+        {
+          "serbian_latin": "Projekat je definitivno ad acta.",
+          "russian": "Проект окончательно закрыт и отложен в архив.",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/vesti/drustvo/stalna-izlozba-vidljivi-znak-umesto-spornog-centra-protiv-progona"
+        }
+      ],
+      "note": "Латинское ad acta буквально связано с помещением документа «к делам», то есть в архив. В современном сербском ставить что-либо ad acta означает перестать этим заниматься, закрыть вопрос или фактически похоронить проект. Употребляется и без глагола: nešto je ad acta.",
+      "keyword": "ad acta; arhiva"
+    },
+    {
       "headword_latin": "Staviti glavu na panj",
       "type": "frazeologizam",
       "definition_ru": "поставить голову на кон; рискнуть всем; поручиться своей репутацией",
@@ -32389,6 +32910,35 @@
       ],
       "note": "Вариант staviti sve karte na sto усиливает значение полной откровенности.",
       "keyword": "karta"
+    },
+    {
+      "headword_latin": "Staviti na probu",
+      "type": "frazeologizam",
+      "definition_ru": "Подвергнуть испытанию; проверить прочность, качество, способности, отношения или убеждения в сложных условиях.",
+      "synonyms_sr": [
+        "testirati",
+        "iskušati",
+        "proveriti izdržljivost",
+        "izložiti iskušenju"
+      ],
+      "literal_ru": "поставить на испытание",
+      "register": "neutralno; vrlo često u publicističkom i književnom stilu",
+      "examples": [
+        {
+          "serbian_latin": "Peta sezona stavlja na probu i prijateljstvo između Emili i Mindi.",
+          "russian": "Пятый сезон подвергает испытанию и дружбу между Эмили и Минди.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/5847714/serija-emili-u-parizu-peta-sezona-italija-venecija-rim.html"
+        },
+        {
+          "serbian_latin": "Delotvornost sistema bezbednosti stavljena je na probu.",
+          "russian": "Эффективность системы безопасности подверглась испытанию.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/drustvo/sistem-bezbednosti-stavljen-na-probu"
+        }
+      ],
+      "note": "На пробу можно ставить человека, отношения, систему, убеждения, терпение или способность что-либо выдержать. В отличие от буквального testirati, выражение часто подразумевает реальную жизненную ситуацию, в которой качество должно проявиться на деле.",
+      "keyword": "staviti na probu; iskušenje"
     },
     {
       "headword_latin": "staviti nekoga / nešto pod lupu",
@@ -34767,6 +35317,35 @@
       ],
       "note": "Очень живое выражение. В отличие от terati mak na konac, здесь акцент прежде всего на поиске недостатка или повода для критики.",
       "keyword": "dlaka; jaje; mana; cepidlačenje"
+    },
+    {
+      "headword_latin": "Tražiti đavola",
+      "type": "frazeologizam",
+      "definition_ru": "Самому напрашиваться на неприятности; сознательно рисковать там, где можно было бы избежать проблемы.",
+      "synonyms_sr": [
+        "izazivati nevolju",
+        "igrati se vatrom",
+        "tražiti belaja",
+        "navlačiti problem na vrat"
+      ],
+      "literal_ru": "искать дьявола",
+      "register": "razgovorno, ekspresivno; često kao upozorenje: Ne traži đavola",
+      "examples": [
+        {
+          "serbian_latin": "Dvojica baš mojih najbližih prosto su „tražili đavola“.",
+          "russian": "Двое моих самых близких людей буквально сами напрашивались на неприятности.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/magazin/kultura/intervju/4018138/tako-je-govorio-aleksandar-deroko-.html"
+        },
+        {
+          "serbian_latin": "Postoji i fraza „tražiš đavola“.",
+          "russian": "Есть и выражение «сам ищешь неприятностей».",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kolumna/marko-selic-marcelo/drzavna-redaljka-nad-radnicima-u-kulturi/"
+        }
+      ],
+      "note": "Смысл не религиозный: đavo здесь образ опасности и неприятностей. Реплика Ne traži đavola! близка русским «не нарывайся», «не ищи приключений на свою голову», «не играй с огнём».",
+      "keyword": "tražiti đavola; nevolja"
     },
     {
       "headword_latin": "Tražiti hleba preko pogače",
