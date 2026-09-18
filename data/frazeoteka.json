@@ -5222,6 +5222,35 @@
       "keyword": "dati sve od sebe"
     },
     {
+      "headword_latin": "Dati vatru tabanima",
+      "type": "frazeologizam",
+      "definition_ru": "дать дёру; броситься бежать; быстро скрыться",
+      "synonyms_sr": [
+        "pobeći",
+        "dati petama vetra",
+        "zbrisati",
+        "uteći"
+      ],
+      "literal_ru": "дать огонь пяткам",
+      "register": "razgovorno, ekspresivno; danas ređe, ali prepoznatljivo",
+      "examples": [
+        {
+          "serbian_latin": "Dati vatru tabanima je fraza koja znači pobeći, uteći, klisnuti.",
+          "russian": "«Дать огонь пяткам» — фраза со значением убежать, улизнуть.",
+          "source": "MyCity.rs, 2010",
+          "url": "https://www.mycity.rs/Srpski-jezik/Univerbacija-univerbizacija-glagola.html"
+        },
+        {
+          "serbian_latin": "Da si uteka k'o zec, da si dao vatru tabanima...",
+          "russian": "Чтобы ты удрал как заяц, дал дёру...",
+          "source": "Vukajlija, 2012",
+          "url": "https://vukajlija.com/pretraga/izraz?s=svetog+petra+kajganu&strana=25"
+        }
+      ],
+      "note": "Образ строится на очень быстром беге — словно подошвы загорелись. Близкие современные варианты: dati petama vetra, zbrisati.",
+      "keyword": "vatra; tabani"
+    },
+    {
       "headword_latin": "dati vetar u leđa",
       "type": "глагольный фразеологизм",
       "definition_ru": "Поддержать; ободрить; придать дополнительные силы или ускорение.",
@@ -5684,6 +5713,35 @@
       "keyword": "nebesa"
     },
     {
+      "headword_latin": "Dno je dobilo svoj podrum",
+      "type": "meme / metaforični izraz",
+      "definition_ru": "пробито очередное дно; ситуация оказалась ещё хуже того уровня, который уже казался пределом",
+      "synonyms_sr": [
+        "probijeno je dno",
+        "novo dno",
+        "može i gore",
+        "palo se još niže"
+      ],
+      "literal_ru": "у дна появился собственный подвал",
+      "register": "savremeno, memno, ironično-sarkastično",
+      "examples": [
+        {
+          "serbian_latin": "Dno je dobilo svoj podrum.",
+          "russian": "У дна появился собственный подвал — пробито новое дно.",
+          "source": "Nova.rs, 2024",
+          "url": "https://nova.rs/zabava/showbiz/jelena-karleusa-napala-teu-tairovic/"
+        },
+        {
+          "serbian_latin": "Dno je dobilo svoj podrum.",
+          "russian": "Дно получило подвал — ниже уже, казалось бы, некуда.",
+          "source": "Magazin Novosti, 2024",
+          "url": "https://www.magazin.novosti.rs/sr/tv-novosti/tv-zvezde/vest/lazne-suze-jeftina-patetika-jelena-karleusa-nikad-ostrije-oplela-po-tei-tairovic-dno-je-dobilo-svoj-podrum/1554754"
+        }
+      ],
+      "note": "Современная гиперболическая интернет-формула. В отличие от просто dno, она подчёркивает повторное ухудшение: казалось, что хуже уже нельзя, но оказалось, что можно.",
+      "keyword": "dno; podrum"
+    },
+    {
       "headword_latin": "Do bola",
       "type": "izraz",
       "definition_ru": "до предела; невероятно; ужасно",
@@ -5909,6 +5967,35 @@
       ],
       "note": "Dobiti mrvice обычно предполагает сравнение с кем-то, кому досталось значительно больше. Поэтому русский «получить мало» слабее образа; часто лучше «получить крохи», «довольствоваться крохами». В спортивной речи dobiti mrvice может означать совсем немного игрового времени, в экономической — ничтожную долю денег, в политической — небольшие уступки или привилегии. Заголовок Danas Trinkijeriju „mrvice“ od Partizana построен на том же образе: требовалась большая сумма, а присуждена лишь малая её часть.",
       "keyword": "dobiti mrvice"
+    },
+    {
+      "headword_latin": "Dobiti / dati šut kartu",
+      "type": "razgovorni izraz",
+      "definition_ru": "получить / дать от ворот поворот; быть отвергнутым, исключённым или уволенным",
+      "synonyms_sr": [
+        "dobiti korpu",
+        "biti odbijen",
+        "dobiti nogu",
+        "biti izbačen"
+      ],
+      "literal_ru": "получить / дать пинок-карту",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Većina nas u ovom životu dobije šut kartu (ili je daje).",
+          "russian": "Большинство из нас в жизни получает от ворот поворот — или сами его дают.",
+          "source": "BBC na srpskom / Danas, 2023",
+          "url": "https://www.danas.rs/bbc-news-serbian/muzika-sakirina-out-of-your-league-kako-napisati-savrseni-hit-o-raskidu/"
+        },
+        {
+          "serbian_latin": "Milica htela da peva Senidinu pesmu, a dobila šut kartu.",
+          "russian": "Милица хотела спеть песню Сенидах, но получила отказ.",
+          "source": "Telegraf, 2022",
+          "url": "https://www.telegraf.rs/jetset/vesti-jetset/3460130-sad-je-javno-pitam-zasto-milica-htela-da-peva-senidinu-pesmu-a-dobila-sut-kartu"
+        }
+      ],
+      "note": "Шире романтического отказа: šut karta может означать увольнение, исключение из команды/проекта или резкое отклонение предложения.",
+      "keyword": "šut karta"
     },
     {
       "headword_latin": "Dobiti krila",
@@ -8271,6 +8358,35 @@
       ],
       "note": "У выражения два близких употребления: ответ Kako je? — Đene-đene = «так себе, более-менее» и конструкция X još đene-đene, ali Y… = «X ещё куда ни шло, но Y…». Politika относит đene-đene к окаменевшим разговорным формулам, отдельные компоненты которых современному говорящему уже ничего не говорят. N1 связывает выражение с тур. gene/yine «снова, опять».",
       "keyword": "đene-đene"
+    },
+    {
+      "headword_latin": "E moj ti",
+      "type": "razgovorna formula",
+      "definition_ru": "эх ты…; ну ты даёшь…; формула разочарования, сочувствия, укоризны или снисходительного недоверия — смысл сильно зависит от интонации",
+      "synonyms_sr": [
+        "eh, ti",
+        "šta da ti kažem",
+        "e moj druže",
+        "ajde, molim te"
+      ],
+      "literal_ru": "эх, мой ты",
+      "register": "razgovorno, izrazito intonacijski zavisno",
+      "examples": [
+        {
+          "serbian_latin": "Danas mi policija napisala kaznu za prebrzu vožnju. — E moj ti.",
+          "russian": "Сегодня полиция выписала мне штраф за скорость. — Эх ты...",
+          "source": "Vukajlija, 2011",
+          "url": "https://vukajlija.com/e-moj-ti/351297"
+        },
+        {
+          "serbian_latin": "Ja, blago odmahujući glavom, sa uzdahom: „E moj ti“.",
+          "russian": "Я, слегка покачав головой и вздохнув: «Эх ты...»",
+          "source": "Vukajlija, 2011",
+          "url": "https://vukajlija.com/e-moj-ti/447952"
+        }
+      ],
+      "note": "Выражение невозможно переводить одной формулой во всех ситуациях. Оно может передавать жалость («эх ты, бедолага»), укор («ну что же ты»), снисходительность или реакцию на явную глупость.",
+      "keyword": "e moj ti"
     },
     {
       "headword_latin": "Fale samo od popa uši",
@@ -17320,6 +17436,35 @@
       "keyword": "svoja glava; samostalno mišljenje; stav"
     },
     {
+      "headword_latin": "Mlatiti pare",
+      "type": "razgovorni izraz",
+      "definition_ru": "зашибать деньги; много и легко зарабатывать, получать большие суммы",
+      "synonyms_sr": [
+        "zarađivati velike pare",
+        "dobro zarađivati",
+        "uzimati velike pare",
+        "praviti pare"
+      ],
+      "literal_ru": "молотить деньги",
+      "register": "razgovorno, ekspresivno; često sa prizvukom zavisti ili kritike",
+      "examples": [
+        {
+          "serbian_latin": "Mlate pare, ali knjiga ih ne zanima.",
+          "russian": "Деньги гребут, а книги их не интересуют.",
+          "source": "Nova.rs, 2023",
+          "url": "https://nova.rs/zabava/showbiz/ovi-nasi-pevaci-nemaju-ni-srednju-skolu-mlate-pare-ali-knjiga-ih-ne-zanima/"
+        },
+        {
+          "serbian_latin": "Glume, „mlate pare“, ali ajde živi sa prosečnom platom i kritikuj vlast.",
+          "russian": "Играют, «гребут деньги», а попробуй пожить на среднюю зарплату и критиковать власть.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kolumna/safeta-bisevac/kad-niko-postane-neko/"
+        }
+      ],
+      "note": "Mlatiti pare описывает поток заработка, обычно заметного или лёгкого со стороны. Не путать с ležati na parama — «сидеть на деньгах, быть богатым»: там речь о наличии денег, а не о процессе заработка.",
+      "keyword": "mlatiti pare"
+    },
+    {
       "headword_latin": "Mlatiti praznu slamu",
       "type": "frazeologizam",
       "definition_ru": "толочь воду в ступе; переливать из пустого в порожнее; заниматься пустой болтовнёй",
@@ -18333,6 +18478,34 @@
       ],
       "note": "Устойчивое сербское изречение о преемственности поколений. Может звучать как похвала молодым, призыв дать им возможность действовать или напоминание старшим уступить место.",
       "keyword": "mlađi; svet ostaje"
+    },
+    {
+      "headword_latin": "Na mostu dobio, na ćupriji izgubio",
+      "type": "poslovica",
+      "definition_ru": "выиграть в одном, но столько же потерять в другом; выгода в одном месте нивелируется убытком в другом",
+      "synonyms_sr": [
+        "na jednom dobiti, na drugom izgubiti",
+        "sve izađe na isto",
+        "jedno dobiješ, drugo izgubiš"
+      ],
+      "literal_ru": "на мосту выиграл, на ћуприи проиграл",
+      "register": "poslovično, razgovorno, ironično",
+      "examples": [
+        {
+          "serbian_latin": "Tih ušteđenih 50 eura može na kraju da se pretvori u ono: na mostu dobio, na ćupriji izgubio.",
+          "russian": "Сэкономленные 50 евро в итоге могут обернуться так: в одном выиграл, в другом потерял.",
+          "source": "Skijanje.rs forum, 2007",
+          "url": "https://www.skijanje.rs/forum/archive/index.php/t-1608.html?s=d3e22b60e66529b36fd629eb60a379bb"
+        },
+        {
+          "serbian_latin": "Na mostu dobio — na ćupriji izgubio.",
+          "russian": "В одном выиграл — в другом потерял.",
+          "source": "Vukajlija, 2008",
+          "url": "https://vukajlija.com/pretraga/izraz?q=na-definiciji&strana=19"
+        }
+      ],
+      "note": "Most и ćuprija означают по сути одно и то же, поэтому парадокс подчёркивает бессмысленность «выигрыша»: что приобрёл с одной стороны, то потерял с другой. Встречается и форма na mostu dobiješ, na ćupriji izgubiš.",
+      "keyword": "most; ćuprija"
     },
     {
       "headword_latin": "Na mostu dobiti, na ćupriji izgubiti",
@@ -21552,6 +21725,34 @@
       "keyword": "nije cvećka"
     },
     {
+      "headword_latin": "Nije skupo, nego ste se loše udali",
+      "type": "meme / razgovorna formula",
+      "definition_ru": "«не дорого — просто вы неудачно вышли замуж»; дерзкая шутливая реплика на жалобу женщины о высокой цене",
+      "synonyms_sr": [
+        "nije skupo, nemaš para",
+        "skupo je za tvoj džep",
+        "loše si se udala"
+      ],
+      "literal_ru": "не дорого, просто вы плохо вышли замуж",
+      "register": "razgovorno, memno, šaljivo-drčno; može zvučati uvredljivo ili seksistički",
+      "examples": [
+        {
+          "serbian_latin": "Nije gospođo ništa skupo, samo ste se vi loše udali!",
+          "russian": "Да ничего не дорого, сударыня, просто вы неудачно вышли замуж!",
+          "source": "Vukajlija, 2011",
+          "url": "https://vukajlija.com/pretraga/izraz?q=nije-taj-nego-onaj&strana=1"
+        },
+        {
+          "serbian_latin": "Prema tome nije skupo, nego smo se mi loše udali.",
+          "russian": "Выходит, дело не в дороговизне — просто мы неудачно замуж вышли.",
+          "source": "Nportal, 2024",
+          "url": "https://nportal.novosti.rs/sr/vesti/83274/komentari?parent_id=68515"
+        }
+      ],
+      "note": "Это именно мемная/разговорная формула, а не классическая пословица, но она живёт как узнаваемая готовая реплика. Формулировка варьируется: nisi se dobro udala, loše si se udala, samo ste se loše udali.",
+      "keyword": "loše udati se; skupo"
+    },
+    {
       "headword_latin": "Nije smak sveta",
       "type": "izraz",
       "definition_ru": "Это не конец света; случившееся неприятно, но не настолько страшно и непоправимо, как кажется.",
@@ -24017,6 +24218,35 @@
       "keyword": "oteto prokleto"
     },
     {
+      "headword_latin": "Otići / ići na doboš",
+      "type": "frazeologizam",
+      "definition_ru": "пойти с молотка; быть выставленным на публичную продажу или аукцион, нередко из-за долгов или банкротства",
+      "synonyms_sr": [
+        "otići na aukciju",
+        "biti prodat na licitaciji",
+        "ići na javnu prodaju",
+        "prodati zbog dugova"
+      ],
+      "literal_ru": "пойти на барабан",
+      "register": "razgovorno-publicistički; često o imovini firmi, kuća, fabrika",
+      "examples": [
+        {
+          "serbian_latin": "Nepokretno kulturno dobro ide „na doboš“.",
+          "russian": "Объект культурного наследия идёт с молотка.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/drustvo/nepokretno-kulturno-dobro-ide-na-dobos/"
+        },
+        {
+          "serbian_latin": "Imovina Fabrike ulja „ide na doboš“.",
+          "russian": "Имущество маслозавода идёт с молотка.",
+          "source": "Blic, 2017",
+          "url": "https://www.blic.rs/vesti/srbija/imovina-fabrike-ulja-ide-na-dobos/fyz15wn"
+        }
+      ],
+      "note": "Doboš — барабан. Исторически публичные объявления, в том числе о продаже имущества, оглашались под барабанный бой. Сегодня оборот особенно част в журналистских текстах о банкротстве и аукционах.",
+      "keyword": "doboš; aukcija"
+    },
+    {
       "headword_latin": "Otići Bogu na istinu",
       "type": "frazeologizam",
       "definition_ru": "умереть; отправиться на тот свет; преставиться",
@@ -24212,6 +24442,35 @@
       "keyword": "stare rane"
     },
     {
+      "headword_latin": "Otvorena ti je radnja",
+      "type": "razgovorni eufemizam",
+      "definition_ru": "у тебя расстёгнута ширинка; шутливый эвфемистический намёк, позволяющий не говорить прямо šlic ti je otvoren",
+      "synonyms_sr": [
+        "otkopčan ti je šlic",
+        "otvoren ti je dućan",
+        "otvorena ti je prodavnica",
+        "otvorena ti je kineska radnja"
+      ],
+      "literal_ru": "у тебя магазин открыт",
+      "register": "razgovorno, šaljivo, eufemistički",
+      "examples": [
+        {
+          "serbian_latin": "Ministru prosvete / Otvorena radnja.",
+          "russian": "У министра просвещения «магазин открыт», то есть расстёгнута ширинка.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/balada-o-otkopcanom-slicu-ministra-prosvete/"
+        },
+        {
+          "serbian_latin": "Otvorena ti je kineska radnja.",
+          "russian": "У тебя «китайский магазин открыт» — ширинка расстёгнута.",
+          "source": "Vukajlija, indeks (pristupljeno 2026)",
+          "url": "https://vukajlija.com/na-slovo/o"
+        }
+      ],
+      "note": "У этой шутки много вариантов: otvorena ti je radnja / prodavnica / trgovina / kineska radnja, otvoren ti je dućan. Общий смысл один — незаметно сообщить человеку о расстёгнутой ширинке.",
+      "keyword": "otvorena radnja; šlic"
+    },
+    {
       "headword_latin": "Otvoriti četvore oči",
       "type": "frazeologizam",
       "definition_ru": "Быть предельно внимательным и осторожным; внимательно следить за происходящим. Русские соответствия: «смотреть в оба», «держать ухо востро».",
@@ -24327,6 +24586,35 @@
       ],
       "note": "Это не просто svejedno mi je «мне всё равно». Говорящий понимает риск, но принимает решение идти до конца: сделаю — и пусть последствия будут какими угодно. Поэтому в русском хорошо работают «будь что будет», «была не была».",
       "keyword": "pa kud puklo da puklo"
+    },
+    {
+      "headword_latin": "Pa znaš kako",
+      "type": "razgovorna formula",
+      "definition_ru": "ну, знаешь…; как тебе сказать…; вводная формула, когда говорящий собирается объяснить, уточнить или осторожно возразить",
+      "synonyms_sr": [
+        "znaš kako",
+        "kako da ti kažem",
+        "pa ovako",
+        "vidi"
+      ],
+      "literal_ru": "ну, знаешь как",
+      "register": "razgovorno; diskursni marker i poštapalica",
+      "examples": [
+        {
+          "serbian_latin": "Pa, znaš kako, nisam ja gledao čak ni ove generacije...",
+          "russian": "Ну, знаешь, я даже эти поколения не смотрел...",
+          "source": "Nova.rs, 2026",
+          "url": "https://nova.rs/sport/kosarka/ognjen-dobric-najvazniji-sut-milos-teodosic/"
+        },
+        {
+          "serbian_latin": "Pa znaš kako, prolaziš kroz razne faze u životu...",
+          "russian": "Ну, знаешь, в жизни проходишь через разные этапы...",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/kultura/scena/zivot-je-najveca-inspiracija/"
+        }
+      ],
+      "note": "Полезная разговорная формула: часто не несёт самостоятельного фактического смысла, а даёт говорящему время сформулировать ответ и делает возражение менее резким.",
+      "keyword": "pa znaš kako"
     },
     {
       "headword_latin": "Padati / pasti u očaj",
@@ -32405,6 +32693,35 @@
       "keyword": "smeši se brk"
     },
     {
+      "headword_latin": "Smilje i bosilje",
+      "type": "frazeologizam / simbolična formula",
+      "definition_ru": "1) идиллия, благодать, нечто хорошее; 2) в сравнении — ещё цветочки, ещё вполне хорошо по сравнению с чем-то гораздо худшим",
+      "synonyms_sr": [
+        "milina",
+        "divota",
+        "još je dobro",
+        "prava blagodat"
+      ],
+      "literal_ru": "бессмертник и базилик",
+      "register": "narodno, književno i razgovorno; često u konstrukciji biti smilje i bosilje prema nečemu",
+      "examples": [
+        {
+          "serbian_latin": "One su prema bosanskim čitluk-sahibijama bile smilje i bosilje.",
+          "russian": "По сравнению с боснийскими землевладельцами они были просто благодатью.",
+          "source": "Vuk Karadžić, „Život i običaji naroda srpskoga“, Wikizvor (pristupljeno 2026)",
+          "url": "https://sr.wikisource.org/sr-el/%D0%96%D0%B8%D0%B2%D0%BE%D1%82_%D0%B8_%D0%BE%D0%B1%D0%B8%D1%87%D0%B0%D1%98%D0%B8_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B0_%D1%81%D1%80%D0%BF%D1%81%D0%BA%D0%BE%D0%B3%D0%B0/6"
+        },
+        {
+          "serbian_latin": "Đe od nje kaplja krvi pala, onđe raste smilje i bosilje.",
+          "russian": "Где упала капля её крови, там растут бессмертник и базилик.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/tv/rts-digital/2833017/.html?print=true"
+        }
+      ],
+      "note": "В народной культуре smilje и bosilje — растения с сильной положительной символикой. Отсюда переносное «milina, divota». Особенно полезна конструкция X je smilje i bosilje prema Y — «X ещё цветочки по сравнению с Y».",
+      "keyword": "smilje; bosilje"
+    },
+    {
       "headword_latin": "Smor",
       "type": "sleng",
       "definition_ru": "скука; тоска смертная; занудство, нечто ужасно скучное",
@@ -35620,6 +35937,35 @@
       "keyword": "šarena laža"
     },
     {
+      "headword_latin": "Šio mi / mu ga Đura",
+      "type": "razgovorni izraz",
+      "definition_ru": "ироническая реакция на неубедительное объяснение, неудачу или плохо сделанную вещь; примерно «ага, конечно», «не тут-то было», «ну и работёнка»",
+      "synonyms_sr": [
+        "malo sutra",
+        "važi",
+        "nije nego",
+        "promašaj"
+      ],
+      "literal_ru": "это мне / ему Джура сшил",
+      "register": "razgovorno, ironično; značenje varira među govornicima",
+      "examples": [
+        {
+          "serbian_latin": "Izraz „šio mi ga Đura“ koristi se kao reakcija na neko neubedljivo objašnjenje ili pokušaj prevare.",
+          "russian": "Выражение употребляют как реакцию на неубедительное объяснение или попытку обмана.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/drustvo/zasto-se-kaze-sio-mi-ga-djura-i-ko-je-on-bio/"
+        },
+        {
+          "serbian_latin": "Sa „šio mi ga Đura“ komentariše se nešto što je promašeno, nije uspelo ili kad neko priča gluposti.",
+          "russian": "Так комментируют промах, неудачу или чушь.",
+          "source": "Espreso, 2016",
+          "url": "https://www.espreso.co.rs/vesti/drustvo/80283/svi-ponekad-kazemo-ali-da-li-znamo-zasto-sta-znaci-sio-mi-ga-djura"
+        }
+      ],
+      "note": "Современные объяснения расходятся: часть источников подчёркивает недоверие («malo sutra»), часть — неудачный или бессмысленный результат. Историю о белградском портном Джуре лучше считать популярной этимологической версией, а не бесспорно доказанным происхождением.",
+      "keyword": "Šio mi ga Đura"
+    },
+    {
       "headword_latin": "Šio mi ga Đura",
       "type": "replika",
       "definition_ru": "ага, конечно; как бы не так; рассказывай; да мне всё равно",
@@ -36363,6 +36709,34 @@
       "keyword": "zlotvor"
     },
     {
+      "headword_latin": "Teško se / ne može se s rogatim bosti",
+      "type": "poslovica",
+      "definition_ru": "трудно тягаться с тем, кто значительно сильнее, влиятельнее или лучше вооружён возможностями; против рожна не попрёшь",
+      "synonyms_sr": [
+        "ne možeš protiv jačeg",
+        "teško je protiv moćnijeg",
+        "ne vredi se kačiti sa jačim"
+      ],
+      "literal_ru": "трудно бодаться с рогатым",
+      "register": "narodno, poslovično",
+      "examples": [
+        {
+          "serbian_latin": "Tako mi i treba kad 'oću da se bodem s rogatim.",
+          "russian": "Так мне и надо, раз полез бодаться с рогатым.",
+          "source": "Vukajlija, 2014",
+          "url": "https://vukajlija.com/bosti-se-s-rogatim"
+        },
+        {
+          "serbian_latin": "Ne možeš se s rogatim bosti.",
+          "russian": "С рогатым бодаться не выйдет — против сильного не попрёшь.",
+          "source": "Vukajlija, 2014",
+          "url": "https://vukajlija.com/ne-mozes-se-s-rogatim-bosti/703907"
+        }
+      ],
+      "note": "Rogati — буквально тот, у кого есть рога, то есть объективное преимущество в бодании. Переносно — человек или структура с властью, связями, деньгами или иным явным превосходством.",
+      "keyword": "rogati; bosti se"
+    },
+    {
       "headword_latin": "Tiha voda breg roni",
       "type": "poslovica",
       "definition_ru": "вода камень точит; терпение и настойчивость своё возьмут; тихая вода берега подмывает",
@@ -36392,6 +36766,35 @@
       ],
       "note": "Разница с русским «в тихом омуте черти водятся» принципиальна. Русская фраза предупреждает, что за внешней тихостью могут скрываться неожиданные или опасные черты. Сербское Tiha voda breg roni обычно хвалит неброскую, но постоянную силу, терпение и упорство. В исследованиях его используют как метафору стратегии постепенного достижения изменений. Поэтому лучший русский эквивалент — «вода камень точит».",
       "keyword": "tiha voda breg roni"
+    },
+    {
+      "headword_latin": "To je jasno i vrapcima na grani",
+      "type": "frazeologizam",
+      "definition_ru": "это и ежу понятно; это очевидно абсолютно всем и не требует объяснений",
+      "synonyms_sr": [
+        "svima je jasno",
+        "to svi znaju",
+        "očigledno je",
+        "jasno kao dan"
+      ],
+      "literal_ru": "это ясно даже воробьям на ветке",
+      "register": "razgovorno-publicistički, često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Odgovor na ovo pitanje poznat je i vrapcima na grani.",
+          "russian": "Ответ на этот вопрос известен даже воробьям на ветке — то есть всем.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/vesti/drustvo/grupni-portret-sa-trenerima-prvog-tima/"
+        },
+        {
+          "serbian_latin": "I vrapcima na grani jasno je da bi sa Parizom, Londonom i Dubaijem to bila veoma ozbiljna liga.",
+          "russian": "Даже воробьям на ветке ясно, что с Парижем, Лондоном и Дубаем это была бы очень серьёзная лига.",
+          "source": "Večernje novosti, 2023",
+          "url": "https://www.novosti.rs/sport/kosarka/1304448/nikola-kalinic-aba-liga-evroliga-barselona-partizan-fenerbahce-zeljko-obradovic-najnovije-vesti"
+        }
+      ],
+      "note": "Есть две частые модели: to znaju i vrapci na grani и to je jasno i vrapcima na grani. Русскому естественнее всего «это и ежу понятно».",
+      "keyword": "vrapci na grani"
     },
     {
       "headword_latin": "To je za mene špansko selo",
@@ -36896,6 +37299,35 @@
       ],
       "note": "Русское «запретный плод сладок» совпадает лишь частично: сербское tuđe je slađe необязательно предполагает запрет — достаточно того, что вещь чужая, а поэтому кажется привлекательнее собственной. Может относиться и к романтическим партнёрам, и к товарам, культурам, идеям. Именно поэтому значение шире буквальной темы измены.",
       "keyword": "tuđe je slađe"
+    },
+    {
+      "headword_latin": "Tuk na luk",
+      "type": "izreka",
+      "definition_ru": "нашла коса на камень; столкнулись две одинаково упрямые или жёсткие стороны, и ни одна не хочет уступать",
+      "synonyms_sr": [
+        "inat na inat",
+        "udarila sila na silu",
+        "niko ne popušta",
+        "tvrd na tvrdog"
+      ],
+      "literal_ru": "",
+      "register": "narodno, razgovorno-publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Tuk na luk – jedna je od brojnih naših poslovica koje je nemoguće precizno prevesti na strani jezik.",
+          "russian": "«Tuk na luk» — одна из наших пословичных формул, которую трудно точно перевести.",
+          "source": "Politika, 2021",
+          "url": "https://www.politika.rs/sr/clanak/480922/da-li-je-jutro-pametnije-od-veceri"
+        },
+        {
+          "serbian_latin": "Tuk na luk.",
+          "russian": "Нашла коса на камень.",
+          "source": "Politika, 2015",
+          "url": "https://www.politika.rs/sr/clanak/326205/pogledi/tuk-na-luk"
+        }
+      ],
+      "note": "Очень сербская рифмованная формула, тесно связанная с понятием inat. Употребляется, когда одна упёртая сторона встречает столь же упёртую другую.",
+      "keyword": "tuk na luk; inat"
     },
     {
       "headword_latin": "Tušta i tma",
@@ -37422,6 +37854,35 @@
       "keyword": "u se i u svoje kljuse"
     },
     {
+      "headword_latin": "U se, na se i poda se",
+      "type": "izreka / razgovorna formula",
+      "definition_ru": "жить прежде всего ради еды и выпивки, одежды/внешнего комфорта и секса; всё тратить на собственные телесные удовольствия",
+      "synonyms_sr": [
+        "živeti za uživanje",
+        "udovoljavati sebi",
+        "hedonistički živeti",
+        "sve trošiti na sebe"
+      ],
+      "literal_ru": "в себя, на себя и под себя",
+      "register": "narodno-razgovorno, šaljivo, često neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "„U se“ znači da moraš da jedeš, „na se“ da obučeš nešto, a „poda se“ odnosi se na seks.",
+          "russian": "«В себя» — поесть, «на себя» — одеться, а «под себя» относится к сексу.",
+          "source": "Blic, 2003",
+          "url": "https://www.blic.rs/zabava/u-se-na-se-i-poda-se/t99gvss"
+        },
+        {
+          "serbian_latin": "U se, na se i poda se.",
+          "russian": "В себя, на себя и под себя — жить ради собственных удовольствий.",
+          "source": "Beogradsko dramsko pozorište, 2023",
+          "url": "https://www.bdp.rs/predstave/u-se-na-se-i-poda-se"
+        }
+      ],
+      "note": "Формула строится на трёх старых кратких предложно-местоименных сочетаниях: u se — еда/питьё, na se — одежда и материальное, poda se — сексуальное удовольствие. Часто характеризует эгоистический гедонизм.",
+      "keyword": "u se; na se; poda se"
+    },
+    {
       "headword_latin": "U sitna crevca",
       "type": "frazeologizam",
       "definition_ru": "досконально; до мельчайших подробностей; до последней детали",
@@ -37609,6 +38070,35 @@
       ],
       "note": "Сербская формула полностью узнаваема русскому. При этом латинское mens sana in corpore sano буквально означает «здоровый дух в здоровом теле», а исходная строка Ювенала была частью пожелания-молитвы, а не строгим утверждением причинно-следственной связи. В бытовом сербском выражение давно функционирует самостоятельно.",
       "keyword": "u zdravom telu zdrav duh"
+    },
+    {
+      "headword_latin": "Ubaciti / baciti svojih pet para",
+      "type": "razgovorni izraz",
+      "definition_ru": "вставить свои пять копеек; добавить собственное мнение к разговору, иногда без особой необходимости",
+      "synonyms_sr": [
+        "dodati svoje mišljenje",
+        "umešati se u razgovor",
+        "reći šta misliš",
+        "dodati od sebe"
+      ],
+      "literal_ru": "подбросить свои пять пар",
+      "register": "razgovorno; česte varijante svojih/mojih pet para",
+      "examples": [
+        {
+          "serbian_latin": "Da bacim ja svojih pet para oko kvaliteta mreže.",
+          "russian": "Вставлю и я свои пять копеек насчёт качества сети.",
+          "source": "Benchmark Forum, 2016",
+          "url": "https://forum.benchmark.rs/threads/yettel-ex-telenor-postpaid-paketi-i-promocije.192244/page-498"
+        },
+        {
+          "serbian_latin": "Mojih pet para: Gil-galad je, kao što smo videli, zaista proglasio doba mira.",
+          "russian": "Мои пять копеек: Гил-галад, как мы видели, действительно провозгласил эпоху мира.",
+          "source": "VOX92 forum, 2022",
+          "url": "https://vox92.net/forum/topic/145-the-rings-of-power/page/19/"
+        }
+      ],
+      "note": "В `frazeoteka1.json` стоит ubaciti svojih pet para, но в живой сетевой речи очень естественны также baciti svojih pet para и самостоятельное mojih pet para. Все варианты выражают добавление своего мнения.",
+      "keyword": "pet para"
     },
     {
       "headword_latin": "ubiti dve muve jednim udarcem",
@@ -39416,6 +39906,35 @@
       "keyword": "vreme leči sve rane"
     },
     {
+      "headword_latin": "Vrh ledenog brega",
+      "type": "frazeologizam",
+      "definition_ru": "верхушка айсберга; малая видимая часть гораздо более крупной скрытой проблемы или явления",
+      "synonyms_sr": [
+        "samo mali deo problema",
+        "tek vidljivi deo",
+        "samo površina",
+        "tek početak problema"
+      ],
+      "literal_ru": "вершина ледяной горы",
+      "register": "neutralno-publicistički",
+      "examples": [
+        {
+          "serbian_latin": "To je samo vrh ledenog brega.",
+          "russian": "Это лишь верхушка айсберга.",
+          "source": "RTS, 2009",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/76188/pregled-stampe-26.-07.-2009..html"
+        },
+        {
+          "serbian_latin": "To je tek „vrh ledenog brega“.",
+          "russian": "Это только верхушка айсберга.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/svet/mediji-madjarska-orban-vesti/"
+        }
+      ],
+      "note": "По смыслу совпадает с международным образом «верхушки айсберга»: видимая часть мала по сравнению со скрытым масштабом проблемы.",
+      "keyword": "ledeni breg"
+    },
+    {
       "headword_latin": "Vrteti istu ploču",
       "type": "glagolski frazeologizam",
       "definition_ru": "твердить одно и то же; снова и снова повторять ту же мысль, жалобу или аргумент",
@@ -39959,6 +40478,35 @@
       "keyword": "mečka i pred nečijom kućom"
     },
     {
+      "headword_latin": "Zajeban kao kratko ćebe",
+      "type": "sleng / poređenje",
+      "definition_ru": "очень неудобный, трудный, проблемный человек или ситуация; такой, с кем постоянно возникают сложности",
+      "synonyms_sr": [
+        "težak čovek",
+        "nezgodan",
+        "komplikovan",
+        "težak za saradnju"
+      ],
+      "literal_ru": "неудобный как короткое одеяло",
+      "register": "vulgarno-razgovorno, šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Zajeban ko kratko ćebe.",
+          "russian": "Тот ещё тип — неудобный как короткое одеяло.",
+          "source": "Vukajlija, 2008",
+          "url": "https://vukajlija.com/kratko-cebe"
+        },
+        {
+          "serbian_latin": "On ti je zajeban k'o kratko ćebe.",
+          "russian": "Он тот ещё непростой тип.",
+          "source": "Vukajlija, 2013",
+          "url": "https://vukajlija.com/pretraga/izraz?q=kratko&strana=1"
+        }
+      ],
+      "note": "Комизм сравнения в том, что короткое одеяло всегда неудобно: накроешь ноги — открыта верхняя часть, накроешься выше — мёрзнут ноги. Zajeban здесь не обязательно «опасный»; часто именно «сложный, неудобный, проблемный».",
+      "keyword": "kratko ćebe"
+    },
+    {
       "headword_latin": "Zakazati termin",
       "type": "kolokacija",
       "definition_ru": "записаться; назначить время; договориться о приёме / визите",
@@ -40279,6 +40827,35 @@
       ],
       "note": "В зависимости от контекста это может быть и нейтральное «броситься в глаза», и более личное «приглянуться». Для русского важно управление: ona mi je zapala za oko — буквально «она мне попала за глаз», естественно «она мне приглянулась». Не путать с upasti u oči, которое чаще подчёркивает заметность.",
       "keyword": "zapasti za oko"
+    },
+    {
+      "headword_latin": "Zapet kao puška",
+      "type": "poređenje / frazeologizam",
+      "definition_ru": "весь на взводе и полностью готов к действию; собран, напряжён и ждёт сигнала",
+      "synonyms_sr": [
+        "spreman kao puška",
+        "na gotovs",
+        "napet",
+        "spreman da krene"
+      ],
+      "literal_ru": "взведён как ружьё",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Zapet k'o puška!",
+          "russian": "Взведён как ружьё — весь наготове!",
+          "source": "MyCity.rs, 2019",
+          "url": "https://www.mycity.rs/Pricaonica/Kao.html"
+        },
+        {
+          "serbian_latin": "Wuko, Wuchka, zapet sam ko puška.",
+          "russian": "Вуко, Вучка, я весь на взводе, как ружьё.",
+          "source": "Fiat-Lancia Club Serbia forum, 2009",
+          "url": "https://www.fiat-lancia.org.rs/forum/index.php?%2Ftopic%2F39255-ma-off-bre%2F=&comment=626003&do=findComment"
+        }
+      ],
+      "note": "Zapet — «взведённый». Оборот может описывать готовность немедленно действовать, нетерпеливое ожидание или сильное внутреннее напряжение.",
+      "keyword": "zapet kao puška"
     },
     {
       "headword_latin": "Zapetljati se kao pile u kučine",
