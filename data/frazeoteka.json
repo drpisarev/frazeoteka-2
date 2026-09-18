@@ -38977,6 +38977,64 @@
       "keyword": "um; snaga"
     },
     {
+      "headword_latin": "Upasti / otići u minus",
+      "type": "razgovorna finansijska formula",
+      "definition_ru": "уйти в минус; оказаться с отрицательным балансом, перерасходом или долгом",
+      "synonyms_sr": [
+        "otići u minus",
+        "biti u minusu",
+        "zadužiti se",
+        "prekoračiti stanje"
+      ],
+      "literal_ru": "попасть в минус",
+      "register": "razgovorno, finansijski kontekst",
+      "examples": [
+        {
+          "serbian_latin": "Nikad ne dopuštam sebi da odem u minus.",
+          "russian": "Я никогда не позволяю себе уйти в минус.",
+          "source": "Reddit r/serbia, 2023",
+          "url": "https://www.reddit.com/r/serbia/comments/162svuy"
+        },
+        {
+          "serbian_latin": "Ako moj klub ide ka minusu... ako uđe u minus, imam mesec dana da ga vratim.",
+          "russian": "Если клуб уходит к отрицательному балансу... если он войдёт в минус, у меня месяц, чтобы исправить положение.",
+          "source": "B92 komentari, 2014",
+          "url": "https://www.b92.net/komentari?nav_id=821697"
+        }
+      ],
+      "note": "В банковском контексте особенно часты otići u minus и biti u minusu; upasti u minus разговорно подчёркивает сам момент попадания в отрицательный баланс.",
+      "keyword": "minus; račun"
+    },
+    {
+      "headword_latin": "Upasti / upadati u reč",
+      "type": "frazeologizam",
+      "definition_ru": "перебить говорящего; вклиниться в чужую речь до того, как человек закончил",
+      "synonyms_sr": [
+        "prekinuti nekoga",
+        "prekidati",
+        "ubaciti se u razgovor",
+        "ne dati da završi"
+      ],
+      "literal_ru": "впасть в слово",
+      "register": "neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Vuk Karadžić upada u reč: „Pogrešno!“",
+          "russian": "Вук Караджич перебивает: «Неправильно!»",
+          "source": "Politika, 2016",
+          "url": "https://www.politika.rs/sr/clanak/349238/sterija-i-vuk-macevanje-jezikom"
+        },
+        {
+          "serbian_latin": "Upada mi u reč, preokreće priču na svoju vodenicu.",
+          "russian": "Он меня перебивает и переводит разговор в свою пользу.",
+          "source": "Kurir, 2021",
+          "url": "https://www.kurir.rs/stars/rijaliti/3631713/ona-je-najtezi-covek-na-svetu-karic-opleo-po-misici-priznao-da-su-u-losem-odnosu-a-onda-se-ubacila-i-ona-video"
+        }
+      ],
+      "note": "Очень употребительная модель. Несовершенный вид upadati u reč — повторяющееся перебивание; совершенный upasti u reč — конкретный эпизод.",
+      "keyword": "upasti u reč"
+    },
+    {
       "headword_latin": "Upasti nekome sekira u med",
       "type": "frazeologizam",
       "definition_ru": "сказочно повезти; сорвать куш; неожиданно оказаться в чрезвычайно выгодной ситуации",
@@ -39110,6 +39168,35 @@
       ],
       "note": "Сербский и русский фразеологизмы практически идентичны. Образ связан с традиционным противопоставлением правой стороны как благоприятной и левой как неблагоприятной; в исследовании сербских афоризмов ustati na levu nogu прямо поясняется как быть «нерасположенным и неприятным без особой причины».",
       "keyword": "ustati na levu nogu"
+    },
+    {
+      "headword_latin": "Uškopiti",
+      "type": "glagol",
+      "definition_ru": "1) кастрировать самца; 2) переносно — выхолостить, лишить силы, остроты или способности действовать",
+      "synonyms_sr": [
+        "kastrirati",
+        "uštrojiti",
+        "obesnažiti",
+        "lišiti snage"
+      ],
+      "literal_ru": "",
+      "register": "neutralno u stočarstvu; preneseno grubo/ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Uškopiti — kastrirati.",
+          "russian": "Uškopiti — кастрировать.",
+          "source": "Srpski Vikirečnik, pristupljeno 2026",
+          "url": "https://sr.wiktionary.org/wiki/u%C5%A1kopiti"
+        },
+        {
+          "serbian_latin": "Uškopiti se beleži i kao zoološki termin.",
+          "russian": "Uškopiti фиксируется и как зоологический термин.",
+          "source": "Sistematski rečnik srpskohrvatskog jezika, 1936 / Vikizvornik",
+          "url": "https://sr.wikisource.org/sr-el/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D1%81%D0%BA%D0%B8_%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA_%D1%81%D1%80%D0%BF%D1%81%D0%BA%D0%BE%D1%85%D1%80%D0%B2%D0%B0%D1%82%D1%81%D0%BA%D0%BE%D0%B3_%D1%98%D0%B5%D0%B7%D0%B8%D0%BA%D0%B0_%281936%29/%D0%A3"
+        }
+      ],
+      "note": "Само слово надёжно лексикографически подтверждено, но в открытом современном сербском интернете полноценных контекстов с инфинитивом uškopiti мало. Поэтому здесь честно приведены словарные фиксации; переносное значение «выхолостить, обессилить» следует проверять по конкретному контексту.",
+      "keyword": "uškopiti"
     },
     {
       "headword_latin": "Uterati strah u kosti",
@@ -41364,6 +41451,35 @@
       "keyword": "zemljo otvori se; stid; blam"
     },
     {
+      "headword_latin": "Zini da ti kažem",
+      "type": "razgovorna / memna formula",
+      "definition_ru": "«открой рот — скажу»; насмешливая или грубоватая отговорка вместо нормального ответа, иногда с двусмысленным или сексуальным подтекстом",
+      "synonyms_sr": [
+        "neću da ti kažem",
+        "pogodi",
+        "saznaćeš",
+        "malo sutra"
+      ],
+      "literal_ru": "разинь рот, я тебе скажу",
+      "register": "razgovorno, šaljivo, često podrugljivo ili prostački",
+      "examples": [
+        {
+          "serbian_latin": "Zini da ti kažem.",
+          "russian": "Открой рот — скажу.",
+          "source": "Vukajlija, 2012",
+          "url": "https://vukajlija.com/pretraga/izraz?q=da-li-bih-ti&strana=41"
+        },
+        {
+          "serbian_latin": "Gde si je video? — Zini da ti kažem.",
+          "russian": "Где ты её видел? — А вот не скажу.",
+          "source": "Vukajlija, 2009",
+          "url": "https://vukajlija.com/pretraga/izraz?q=ulicom&strana=29"
+        }
+      ],
+      "note": "Мемно-разговорная формула. Значение определяется контекстом: от детской дразнилки до грубой отговорки или двусмысленной шутки.",
+      "keyword": "zini da ti kažem"
+    },
+    {
       "headword_latin": "Zlatna koka",
       "type": "frazeologizam",
       "definition_ru": "курица, несущая золотые яйца; золотая жила; источник стабильной прибыли",
@@ -41475,6 +41591,62 @@
       "keyword": "zlatno pravilo; načelo; savet; postupanje"
     },
     {
+      "headword_latin": "Zlato je čisto i u prljavoj kesi",
+      "type": "poslovica",
+      "definition_ru": "истинная ценность не исчезает из-за бедного происхождения, плохого окружения или непрезентабельной внешности; золото остаётся золотом и в грязи",
+      "synonyms_sr": [
+        "vrednost ostaje vrednost",
+        "zlato se poznaje i u blatu",
+        "dobar čovek ostaje dobar"
+      ],
+      "literal_ru": "золото чисто и в грязном кошельке",
+      "register": "narodno, poslovično, odobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Zlato je čisto i u prljavoj kesi.",
+          "russian": "Золото остаётся чистым и в грязном кошельке.",
+          "source": "Univerzitet u Beogradu — zbirka poslovica, pristupljeno 2026",
+          "url": "https://tesla.rcub.bg.ac.rs/~nena/Poslovice/Poslovice.html"
+        },
+        {
+          "serbian_latin": "Zlato je čisto i u prljavoj kesi.",
+          "russian": "Золото и в грязи остаётся золотом.",
+          "source": "Bašta Balkana, 2015",
+          "url": "https://www.bastabalkana.com/2015/11/srpske-narodne-poslovice-mudrosti-izreke-sintagme/"
+        }
+      ],
+      "note": "Народная пословица. В современном употреблении может относиться к человеку, идее или качественной вещи, чья ценность не зависит от внешней оболочки.",
+      "keyword": "zlato; prljava kesa"
+    },
+    {
+      "headword_latin": "Zlatom piše, govnom zapečati",
+      "type": "izreka",
+      "definition_ru": "начать прекрасно, но всё испортить в самом конце; добавить ложку дёгтя после почти безупречного результата",
+      "synonyms_sr": [
+        "sve upropastiti na kraju",
+        "dobro početi pa loše završiti",
+        "pokvariti dobar utisak"
+      ],
+      "literal_ru": "золотом пишет, д***мом запечатывает",
+      "register": "vulgarno-razgovorno, ironično",
+      "examples": [
+        {
+          "serbian_latin": "Zlatom piše, govnom zapečati.",
+          "russian": "Золотом пишет, а в конце всё портит.",
+          "source": "Vukajlija, 2008",
+          "url": "https://vukajlija.com/pretraga/izraz?q=+stara+vremena&strana=50"
+        },
+        {
+          "serbian_latin": "Ali znaš kako se u narodu kaže: „Zlatom piše, govnom zapečati“.",
+          "russian": "Но знаешь, как в народе говорят: «Золотом пишет, а в конце всё портит».",
+          "source": "Forum Krstarice, 2012",
+          "url": "https://forum.krstarica.com/threads/pismo-bogu.536956/"
+        }
+      ],
+      "note": "Реально употребимая грубоватая формула. В русской части обсценное слово маскируется по правилам Frazeoteka.",
+      "keyword": "zlatom piše; zapečati"
+    },
+    {
       "headword_latin": "Zlo i naopako",
       "type": "izraz",
       "definition_ru": "ужас; беда; всё из рук вон плохо; не дай бог",
@@ -41529,6 +41701,35 @@
       "keyword": "ko kosi a ko vodu nosi"
     },
     {
+      "headword_latin": "Znam te, puško, dok si pištolj bila",
+      "type": "izreka",
+      "definition_ru": "я тебя давно знаю и помню, каким ты был раньше; передо мной не нужно важничать или притворяться",
+      "synonyms_sr": [
+        "znam te odavno",
+        "znam ko si",
+        "ne možeš mene da prevariš",
+        "pamtim te od ranije"
+      ],
+      "literal_ru": "я знаю тебя, ружьё, ещё когда ты была пистолетом",
+      "register": "razgovorno, ironično, često podrugljivo",
+      "examples": [
+        {
+          "serbian_latin": "Naš narod kaže: znam te puško dok si pištolj bila!",
+          "russian": "Наш народ говорит: я тебя ещё помню пистолетом, не строй из себя ружьё.",
+          "source": "Kurir, 2014",
+          "url": "https://www.kurir.rs/vesti/drustvo/1631104/mali-dokica-a-velika-lopuza"
+        },
+        {
+          "serbian_latin": "Znam te puško dok si pištolj bila.",
+          "russian": "Я тебя давно знаю и помню прежним.",
+          "source": "Ana.rs forum, 2013",
+          "url": "https://www.ana.rs/forum/index.php?topic=4382.11940"
+        }
+      ],
+      "note": "Формула стала особенно узнаваемой и благодаря песне Riblje Čorbe „Znam te (Drugoga voli)“, но употребляется и независимо как народное выражение.",
+      "keyword": "puška; pištolj"
+    },
+    {
       "headword_latin": "Znati koliko je sati",
       "type": "frazeologizam",
       "definition_ru": "понимать, что происходит; знать расклад; хорошо понимать реальное положение вещей",
@@ -41554,6 +41755,64 @@
       ],
       "note": "В переносном значении часы вообще не имеют отношения к смыслу: человек zna koliko je sati, если он не наивен и понимает настоящий расклад, скрытые риски или близкий исход ситуации. Особенно характерно короткое Zna on koliko je sati — «Он прекрасно понимает, что происходит».",
       "keyword": "znati koliko je sati"
+    },
+    {
+      "headword_latin": "Znati sve staze i bogaze",
+      "type": "frazeologizam",
+      "definition_ru": "знать все дороги, тропы, ходы и выходы; прекрасно ориентироваться в местности или, переносно, в какой-либо среде",
+      "synonyms_sr": [
+        "poznavati svaki put",
+        "znati sve puteve",
+        "dobro poznavati teren",
+        "znati sve prolaze"
+      ],
+      "literal_ru": "знать все тропы и теснины",
+      "register": "narodno, neutralno-razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Znati (poznavati) sve staze i bogaze znači poznavati dobro sve puteve.",
+          "russian": "Знать все staze i bogaze — значит отлично знать все дороги.",
+          "source": "Vokabular.org, 2008",
+          "url": "https://www.vokabular.org/forum/index.php?topic=2071.msg19208"
+        },
+        {
+          "serbian_latin": "Staze i bogaze.",
+          "russian": "Тропы и дороги, хоженые и нехоженые пути.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/vesti/drustvo/staze-i-bogaze/"
+        }
+      ],
+      "note": "Bogaz — турцизм со значением узкого прохода, ущелья, теснины. В современном языке особенно живёт именно внутри сочетания staze i bogaze.",
+      "keyword": "staze; bogaze"
+    },
+    {
+      "headword_latin": "Znati za jadac",
+      "type": "frazeologizam",
+      "definition_ru": "знать подвох; понимать уловку заранее и не дать себя провести",
+      "synonyms_sr": [
+        "znati foru",
+        "prepoznati podvalu",
+        "ne dati se prevariti",
+        "znati trik"
+      ],
+      "literal_ru": "",
+      "register": "razgovorno, idiomatski",
+      "examples": [
+        {
+          "serbian_latin": "Sam izraz „znam za jadac“ može da se izgovori i kad neko pokušava da vam podvali.",
+          "russian": "Выражение «я знаю этот подвох» говорят, когда кто-то пытается вас провести.",
+          "source": "Politika, 2022",
+          "url": "https://www.politika.rs/sr/clanak/515887/ostade-mi-samo-jadac"
+        },
+        {
+          "serbian_latin": "Ko pokazuje „šipak“, taj zna i za „jadac“.",
+          "russian": "Кто показывает «шиш», тот знает и про jadac — про подвох.",
+          "source": "Velike priče, 2026",
+          "url": "https://velikeprice.com/drustvo/ko-pokazuje-sipak-taj-zna-i-za-jadac/"
+        }
+      ],
+      "note": "Jadac — раздвоенная птичья косточка, с которой связана старая игра на ловкость и обман. Отсюда переносное znaš za jadac — «тебя не проведёшь».",
+      "keyword": "jadac"
     },
     {
       "headword_latin": "Zrno po zrno pogača, kamen po kamen palača",
@@ -41609,6 +41868,91 @@
       "keyword": "zub vremena"
     },
     {
+      "headword_latin": "Zubato sunce",
+      "type": "metaforični izraz",
+      "definition_ru": "яркое, но холодное солнце; светит, но почти не греет",
+      "synonyms_sr": [
+        "hladno sunce",
+        "zimsko sunce",
+        "sunce koje ne greje"
+      ],
+      "literal_ru": "зубастое солнце",
+      "register": "razgovorno-književno, slikovito",
+      "examples": [
+        {
+          "serbian_latin": "Dok januarsko zubato sunce obasjava kupolu...",
+          "russian": "Пока январское холодное, «зубастое» солнце освещает купол...",
+          "source": "BBC na srpskom / Danas, 2019",
+          "url": "https://www.danas.rs/bbc-news-serbian/on-voli-nas-pravoslavce-kako-se-srbija-spremala-da-doceka-putina/"
+        },
+        {
+          "serbian_latin": "Pojavljuje se sunce na horizontu, ako je još zubato, ipak je sunce.",
+          "russian": "На горизонте появляется солнце — пусть пока холодное, но всё-таки солнце.",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/kolumna/cvijetin-milivojevic/ko-je-ovde-sveti-bik"
+        }
+      ],
+      "note": "Выражение особенно естественно для зимнего солнечного дня при низкой температуре. Zubato усиливает ощущение холода, будто солнце «кусается».",
+      "keyword": "zubato sunce"
+    },
+    {
+      "headword_latin": "Zubići kao biseri",
+      "type": "poređenje",
+      "definition_ru": "красивые маленькие белые зубы, особенно у ребёнка; зубки как жемчужинки",
+      "synonyms_sr": [
+        "beli zubići",
+        "biserni zubi",
+        "zubi kao biseri"
+      ],
+      "literal_ru": "зубки как жемчужины",
+      "register": "razgovorno, umiljato",
+      "examples": [
+        {
+          "serbian_latin": "Igrom do zdravih zuba – Zubići kao biseri.",
+          "russian": "Через игру к здоровым зубам — «Зубки как жемчужинки».",
+          "source": "Nedeljnik, 2026",
+          "url": "https://www.nedeljnik.rs/proglasene-igracke-sa-svrhom-2026/"
+        },
+        {
+          "serbian_latin": "Igrom do zdravih zuba – Zubići kao biseri.",
+          "russian": "Игра для здоровых зубов — «Зубки как жемчужинки».",
+          "source": "Yumama, 2026",
+          "url": "https://yumama.mondo.rs/vesti/zanimljivosti/a57961/proglasene-igracke-sa-svrhom-2026.html"
+        }
+      ],
+      "note": "Это не строгий фразеологизм, а устойчивое образное сравнение и ласковая формула, особенно в речи о детях.",
+      "keyword": "zubići; biseri"
+    },
+    {
+      "headword_latin": "Zvocati",
+      "type": "glagol",
+      "definition_ru": "пилить, зудеть, нудно и многократно попрекать, ворчать или повторять одно и то же",
+      "synonyms_sr": [
+        "zanovetati",
+        "gunđati",
+        "prigovarati",
+        "dosađivati prigovorima"
+      ],
+      "literal_ru": "",
+      "register": "razgovorno, neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Skoro svaki dan Živanka nađe povod da „zvoca“ Draganu.",
+          "russian": "Почти каждый день Живанка находит повод пилить Драгана.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kolumna/misa-brkic/seca-sns-biznis-knezova/"
+        },
+        {
+          "serbian_latin": "Prodaje suprugu, jer mnogo zvoca.",
+          "russian": "Он продаёт жену, потому что она слишком много пилит.",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/zivot/na-prodaju-supruga-koja-zvoca-model-iz-1983"
+        }
+      ],
+      "note": "Очень живой разговорный глагол. Обычно описывает постоянные мелкие претензии и повторяющиеся упрёки, а не разовую критику.",
+      "keyword": "zvocati"
+    },
+    {
       "headword_latin": "Žali Bože",
       "type": "izraz",
       "definition_ru": "зря; жалко потраченного; жаль столько сил / денег / времени",
@@ -41634,6 +41978,64 @@
       ],
       "note": "Особенно полезны готовые модели žali Bože para — «зря потраченные деньги», žali Bože truda — «напрасный труд», žali Bože vremena — «жаль потраченного времени». Дословный русский перевод обычно неестественен. В реальном письме встречаются колебания Bože / bože; при сохранении прямого обращения к Богу логична прописная буква.",
       "keyword": "žali Bože"
+    },
+    {
+      "headword_latin": "Žali se upravi vodovoda",
+      "type": "razgovorna / memna formula",
+      "definition_ru": "жалуйся куда хочешь — мне всё равно; твоя жалоба ничего не изменит",
+      "synonyms_sr": [
+        "žali se kome hoćeš",
+        "baš me briga",
+        "niko ti neće pomoći",
+        "piši žalbu"
+      ],
+      "literal_ru": "жалуйся управлению водопровода",
+      "register": "razgovorno, ironično, podrugljivo",
+      "examples": [
+        {
+          "serbian_latin": "Najčešće dobijam isti odgovor moje nerazumne okoline: ma žali se upravi vodovoda.",
+          "russian": "Чаще всего получаю один и тот же ответ: да жалуйся хоть управлению водопровода.",
+          "source": "O radio, 2021",
+          "url": "https://oradio.rs/sr/podcast/zali-se-upravi-vodovoda-na-polarizaciju-2723.html"
+        },
+        {
+          "serbian_latin": "Rešenja za birokratiju na kraju i nema... žali se upravi vodovoda.",
+          "russian": "Решения бюрократической проблемы нет — жалуйся хоть водоканалу.",
+          "source": "O radio, 2020",
+          "url": "https://oradio.rs/sr/podcast/zali-se-upravi-vodovoda-na-birokratiju-2439.html"
+        }
+      ],
+      "note": "Шутливая бессмысленная инстанция для жалобы. Благодаря одноимённой рубрике O radija выражение получило дополнительную современную узнаваемость.",
+      "keyword": "uprava vodovoda"
+    },
+    {
+      "headword_latin": "Želudac mi se prevrnuo",
+      "type": "frazeologizam / telesna metafora",
+      "definition_ru": "меня затошнило; меня передёрнуло от отвращения, страха или неприятного зрелища",
+      "synonyms_sr": [
+        "smučilo mi se",
+        "okrenuo mi se želudac",
+        "pripalo mi je muka",
+        "zgadilo mi se"
+      ],
+      "literal_ru": "у меня перевернулся желудок",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Čim je Džo otvorio zavese, želudac mi se prevrnuo.",
+          "russian": "Как только Джо открыл занавески, меня затошнило от дурного предчувствия.",
+          "source": "BBC na srpskom / Danas, 2023",
+          "url": "https://www.danas.rs/bbc-news-serbian/nemacka-i-seksualno-zlostavljanje-obozavateljka-benda-ramstajn-tvrdi-da-su-je-pripremali-za-seks-sa-pevacem-na-koncertu/"
+        },
+        {
+          "serbian_latin": "Želudac mi se prevrnuo.",
+          "russian": "Меня чуть не вывернуло.",
+          "source": "Kurir, 2021",
+          "url": "https://www.kurir.rs/stars/rijaliti/3807771/dejan-se-kaje-zbog-braka-sa-dalilom"
+        }
+      ],
+      "note": "Может описывать как настоящую тошноту, так и эмоциональное отвращение. Частый вариант: okrenuo mi se želudac.",
+      "keyword": "želudac; prevrnuti"
     },
     {
       "headword_latin": "Žila kucavica",
@@ -41663,6 +42065,35 @@
       "keyword": "žila kucavica; arterija; važnost"
     },
     {
+      "headword_latin": "Živ bio",
+      "type": "blagoslov / razgovorna formula",
+      "definition_ru": "будь здоров; дай бог тебе здоровья; спасибо тебе — доброжелательная формула благодарности, пожелания или прощания",
+      "synonyms_sr": [
+        "živ mi bio",
+        "zdrav bio",
+        "hvala ti",
+        "svako dobro"
+      ],
+      "literal_ru": "жив будь",
+      "register": "razgovorno, tradicionalno, srdačno",
+      "examples": [
+        {
+          "serbian_latin": "Pozdravlja me sa „živ mi bio“. Živ bio Zvonko.",
+          "russian": "Он прощается словами «будь жив-здоров». Будь здоров, Звонко.",
+          "source": "Blic, 2017",
+          "url": "https://www.blic.rs/kultura/vesti/panonski-dzeger-prica-o-zvonku-bogdanu/fxrbeq6"
+        },
+        {
+          "serbian_latin": "Živ bio, brate.",
+          "russian": "Будь здоров, брат.",
+          "source": "Blic, 2023",
+          "url": "https://www.blic.rs/slobodno-vreme/jutjuber-coda-potrazio-20-dinara-prosjaku-nakon-cega-ga-je-castio-velikom-sumom-novca/tkm13f3"
+        }
+      ],
+      "note": "Форма bio исторически пожелательная, а не прошедшее время в современном смысле. Возможны živ mi bio, živ i zdrav bio, živa bila.",
+      "keyword": "živ bio"
+    },
+    {
       "headword_latin": "Živ se pojesti",
       "type": "frazeologizam",
       "definition_ru": "изводить себя; мучиться от досады, стыда, сожаления или тревоги; места себе не находить",
@@ -41690,6 +42121,35 @@
       ],
       "note": "Форма согласуется с субъектом: pojeo sam se živ, pojela se živa, poješće se živ. Обычно речь не просто о переживании, а о сильном внутреннем самоедстве.",
       "keyword": "pojesti se živ; izjedati se; kajanje"
+    },
+    {
+      "headword_latin": "Živa bila, velika porasla",
+      "type": "blagoslov / šaljiva formula",
+      "definition_ru": "будь здорова, расти большая; ласковое или шутливое пожелание девочке или молодой женщине",
+      "synonyms_sr": [
+        "živa i zdrava bila",
+        "velika porasla",
+        "sve najbolje",
+        "da si živa i zdrava"
+      ],
+      "literal_ru": "будь жива, вырасти большая",
+      "register": "razgovorno, tradicionalno, šaljivo-umiljato",
+      "examples": [
+        {
+          "serbian_latin": "Jovanka je teška 2.700 grama... Živa bila, velika porasla!",
+          "russian": "Йованка весит 2700 граммов... Пусть растёт большая и здоровая!",
+          "source": "Informer, 2025",
+          "url": "https://informer.rs/drustvo/srbija/1039584/cacak-porodiliste-beba-porodaj"
+        },
+        {
+          "serbian_latin": "Hvala ćerko, živa bila, velika porasla.",
+          "russian": "Спасибо, дочка, будь здорова, расти большая.",
+          "source": "Grand / Nova.rs, 2023",
+          "url": "https://grand.nova.rs/zvezde-granda/otkriveno-koliku-penziju-ima-verica-serifovic/"
+        }
+      ],
+      "note": "Формула может употребляться и буквально по отношению к ребёнку, и шутливо по отношению ко взрослой женщине.",
+      "keyword": "živa bila; velika porasla"
     },
     {
       "headword_latin": "Živa enciklopedija",
@@ -41749,6 +42209,35 @@
       "keyword": "autopilot"
     },
     {
+      "headword_latin": "Živeti / život na visokoj nozi",
+      "type": "frazeologizam",
+      "definition_ru": "жить на широкую ногу; вести дорогой, роскошный образ жизни",
+      "synonyms_sr": [
+        "živeti luksuzno",
+        "živeti raskošno",
+        "trošiti mnogo",
+        "živeti u luksuzu"
+      ],
+      "literal_ru": "жить на высокой ноге",
+      "register": "neutralno-publicistički, često kritički ili ironično",
+      "examples": [
+        {
+          "serbian_latin": "Kada pas živi na visokoj nozi.",
+          "russian": "Когда собака живёт на широкую ногу.",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/magazin/stil/2222117/kada-pas-zivi-na-visokoj-nozi.html"
+        },
+        {
+          "serbian_latin": "Po fotografijama možemo da zaključimo da živi život na visokoj nozi.",
+          "russian": "По фотографиям можно заключить, что она живёт на широкую ногу.",
+          "source": "Blic, 2020",
+          "url": "https://www.blic.rs/zabava/helena-topalovic-luksuz/y2fkx0h"
+        }
+      ],
+      "note": "По функции полностью соответствует русскому «жить на широкую ногу», хотя прилагательное в сербском другое: visoka, а не široka.",
+      "keyword": "visoka noga"
+    },
+    {
       "headword_latin": "Živeti kao bubreg u loju",
       "type": "frazeologizam",
       "definition_ru": "жить припеваючи; жить как сыр в масле; прекрасно устроиться",
@@ -41800,6 +42289,35 @@
       ],
       "note": "Главная ловушка для русского — несовпадение образа: по-сербски na visokoj nozi, по-русски «на широкую ногу». Калька «на высокой ноге» по-русски не работает. Выражение обычно говорит не просто о достатке, а о заметно дорогом стиле жизни.",
       "keyword": "visoka noga"
+    },
+    {
+      "headword_latin": "Živeti od danas do sutra",
+      "type": "frazeologizam",
+      "definition_ru": "жить одним днём; не иметь устойчивого плана или запаса, перебиваться от сегодняшнего дня к завтрашнему",
+      "synonyms_sr": [
+        "živeti od danas do sutra",
+        "živeti dan za dan",
+        "ne planirati unapred",
+        "krpiti kraj s krajem"
+      ],
+      "literal_ru": "жить от сегодня до завтра",
+      "register": "razgovorno, neutralno do neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Srbi su, po nekom mom shvatanju, živi od danas do sutra.",
+          "russian": "Сербы, по моему ощущению, живут от сегодня до завтра.",
+          "source": "RTS, 2022",
+          "url": "https://rts.rs/lat/rts/dijaspora/srbija-na-vezi/4575304/sprinteri-naspram-maratonaca.html"
+        },
+        {
+          "serbian_latin": "Živi od danas do sutra.",
+          "russian": "Живёт одним днём.",
+          "source": "PileMoe — zbirka narodnih poslovica, pristupljeno 2026",
+          "url": "https://pilemoe.blogspot.com/p/narodne-poslovice.html"
+        }
+      ],
+      "note": "Может означать и беспечность («не думает о будущем»), и нестабильность («едва хватает на ближайший день»). Контекст решает.",
+      "keyword": "od danas do sutra"
     },
     {
       "headword_latin": "Živeti u svom balonu",
@@ -41855,6 +42373,63 @@
       ],
       "note": "Почти идеальный функциональный эквивалент русского «поживём — увидим». В зависимости от интонации реплика может быть нейтральной, осторожной или насмешливо-недоверчивой: «ну-ну, посмотрим». Возможна пунктуация Živi bili, pa videli, но сама формула остаётся той же.",
       "keyword": "živi bili; videli"
+    },
+    {
+      "headword_latin": "Životna škola skupo se plaća",
+      "type": "izreka",
+      "definition_ru": "жизненный опыт часто приобретается через дорогие ошибки, потери и неприятные последствия; за науку жизни приходится платить",
+      "synonyms_sr": [
+        "iskustvo se skupo plaća",
+        "greške su skupa škola",
+        "život uči na težak način"
+      ],
+      "literal_ru": "за жизненную школу дорого платят",
+      "register": "aforistično, razgovorno",
+      "examples": [
+        {
+          "serbian_latin": "Životna škola skupo se plaća.",
+          "russian": "За жизненную школу дорого платят.",
+          "source": "Smijeh X — zbirka izreka, 2013",
+          "url": "https://smijeh-x.blogspot.com/2013/09/narodne-poslovice-doskocice-i-uzrecice.html"
+        },
+        {
+          "serbian_latin": "Postoji posebna ranjivost kod žena koje su skupo pohađale tu životnu školu.",
+          "russian": "Есть особая уязвимость у женщин, которым жизненная школа обошлась дорого.",
+          "source": "Marie Claire Srbija, 2024",
+          "url": "https://marieclaire.rs/lifestyle/report/stvarna-zivotna-skola/"
+        }
+      ],
+      "note": "Второй пример показывает живую вариацию той же метафоры. Формула может употребляться не только дословно, но и как skupo plaćena škola / skupo pohađati životnu školu.",
+      "keyword": "životna škola"
+    },
+    {
+      "headword_latin": "Životna želja",
+      "type": "kolokacija / ustaljeni izraz",
+      "definition_ru": "мечта всей жизни; самое сильное и давнее желание человека",
+      "synonyms_sr": [
+        "san života",
+        "najveća želja",
+        "davna želja",
+        "životni san"
+      ],
+      "literal_ru": "жизненное желание",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Njegova najveća praznična i životna želja je da ozdravi.",
+          "russian": "Его самая большая праздничная мечта и мечта всей жизни — выздороветь.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5072085/nikolina-jedina-zelja-je-da-ozdravi--i-mi-mozemo-da-je-ispunimo-.html"
+        },
+        {
+          "serbian_latin": "Meni je ostvarena životna želja da se bavim anesteziologijom na kardiohirurgiji.",
+          "russian": "Моя мечта всей жизни — заниматься анестезиологией в кардиохирургии — осуществилась.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/3369615/posao-za-najbolje-mlade-niske-lekare.html"
+        }
+      ],
+      "note": "Очень частотная нейтральная коллокация. По-русски чаще естественно «мечта всей жизни», а не буквальное «жизненное желание».",
+      "keyword": "životna želja"
     },
     {
       "headword_latin": "Žrtveni jarac",
