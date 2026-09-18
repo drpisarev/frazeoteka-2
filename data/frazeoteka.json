@@ -21243,6 +21243,32 @@
       "keyword": "nema vajde"
     },
     {
+      "headword_latin": "Nema za Marka kape",
+      "type": "izreka",
+      "definition_ru": "на него не угодишь; ничего ему не подходит; всё не то",
+      "synonyms_sr": [
+        "ništa mu ne odgovara",
+        "teško mu je ugoditi",
+        "uvek nešto zamera"
+      ],
+      "literal_ru": "для Марко нет подходящей шапки",
+      "register": "razg., iron.; o veoma izbirljivoj osobi kojoj ništa nije po volji",
+      "examples": [
+        {
+          "serbian_latin": "Nema za Marka kape.",
+          "russian": "На него не угодишь: всё не то.",
+          "source": "Go Speak Serbian, 2023"
+        },
+        {
+          "serbian_latin": "Obišli smo pet prodavnica i opet ništa — nema za Marka kape.",
+          "russian": "Мы обошли пять магазинов, и опять ничего: на него не угодишь.",
+          "source": ""
+        }
+      ],
+      "note": "Формула реально употребляется о чрезмерно разборчивом человеке. Встречается и вариант Nema za Rajka kapa. Марко здесь лучше воспринимать как условное рифменно-фольклорное имя: надёжного подтверждения связи с королевичем Марко нет.",
+      "keyword": "kapa"
+    },
+    {
       "headword_latin": "Nema zime",
       "type": "izraz",
       "definition_ru": "бояться нечего; всё будет хорошо; этому ничего не грозит",
@@ -21267,6 +21293,32 @@
       ],
       "note": "Несмотря на слово zima, речь обычно вовсе не о погоде. Формула означает, что человек или дело находятся в достаточно хорошем положении и опасаться за их будущее не приходится. Особенно характерна конструкция za njega / njih / tu branšu nema zime.",
       "keyword": "nema zime"
+    },
+    {
+      "headword_latin": "Nemam ništa s tim",
+      "type": "izraz",
+      "definition_ru": "я к этому не имею отношения; я тут ни при чём",
+      "synonyms_sr": [
+        "nemam veze s tim",
+        "nisam umešan",
+        "to nije do mene"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; često kao distanciranje od tuđe odluke, postupka ili problema",
+      "examples": [
+        {
+          "serbian_latin": "Ja nemam ništa s tim, pitaj njega.",
+          "russian": "Я к этому отношения не имею, спроси у него.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemam ništa s tim kako su oni podelili novac.",
+          "russian": "Я не имею отношения к тому, как они разделили деньги.",
+          "source": ""
+        }
+      ],
+      "note": "Полная и очень частая модель — nemati ništa / nikakve veze s nečim. Русскому важно не калькировать управление: по-сербски s tim, s tim slučajem, s tom odlukom.",
+      "keyword": "veza"
     },
     {
       "headword_latin": "Nemam reči",
@@ -21428,6 +21480,32 @@
       ],
       "note": "Часто за формулой следует ali. Как и русское «не пойми меня неправильно», она не отменяет резкость последующей фразы, а лишь заранее смягчает её.",
       "keyword": "shvatiti pogrešno"
+    },
+    {
+      "headword_latin": "Nemoj da me shvatiš pogrešno, ali...",
+      "type": "replika",
+      "definition_ru": "не пойми меня неправильно, но…; ты уж не обижайся, но…",
+      "synonyms_sr": [
+        "nemoj pogrešno da me shvatiš",
+        "bez uvrede, ali...",
+        "ne zameri, ali..."
+      ],
+      "literal_ru": "",
+      "register": "razg.; formula koja uvodi kritiku, neslaganje ili neprijatnu primedbu",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj pogrešno da me shvatiš.",
+          "russian": "Не пойми меня неправильно.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Nemoj da me shvatiš pogrešno, ali ovo mora ponovo da se uradi.",
+          "russian": "Не пойми меня неправильно, но это придётся переделать.",
+          "source": ""
+        }
+      ],
+      "note": "Порядок слов свободно варьирует: Nemoj da me shvatiš pogrešno и Nemoj pogrešno da me shvatiš одинаково естественны. Формула часто смягчает критику, но сама по себе уже предупреждает собеседника, что дальше последует что-то неприятное.",
+      "keyword": "shvatiti"
     },
     {
       "headword_latin": "Nemoj da se cimaš",
@@ -21679,6 +21757,32 @@
       ],
       "note": "Оборот не всегда буквально сопоставляет количества. Чаще он подчёркивает удивительный факт: došao je, ni manje ni više, predsednik — «пришёл ни кто иной, как президент». Очень типична конструкция ni manje ni više nego....",
       "keyword": "ni manje ni više"
+    },
+    {
+      "headword_latin": "Ni minut više",
+      "type": "izraz",
+      "definition_ru": "ни минутой больше; ни минуты дольше",
+      "synonyms_sr": [
+        "ni trenutak više",
+        "ni sekund duže",
+        "ni časa više"
+      ],
+      "literal_ru": "",
+      "register": "razg., kategorično; produktivna konstrukcija ni + mera + više",
+      "examples": [
+        {
+          "serbian_latin": "Sa Radovanom smo proveli onoliko vremena koliko je zakonom dozvoljeno i ni minut više.",
+          "russian": "С Радованом мы провели ровно столько времени, сколько разрешено законом, и ни минутой больше.",
+          "source": "RTS, 2008"
+        },
+        {
+          "serbian_latin": "Čekaću te do osam i ni minut više.",
+          "russian": "Я буду ждать тебя до восьми и ни минутой больше.",
+          "source": ""
+        }
+      ],
+      "note": "Это не идиома в узком смысле, а очень живая усилительная модель. По тому же образцу: ni dinar više, ni korak dalje, ni reč više.",
+      "keyword": "minut"
     },
     {
       "headword_latin": "ni mrava ne bi zgazio",
@@ -22170,6 +22274,32 @@
       "keyword": "gorela do zore"
     },
     {
+      "headword_latin": "Ničim izazvan",
+      "type": "izraz",
+      "definition_ru": "ни с того ни с сего; без всякого повода; ничем не спровоцированный",
+      "synonyms_sr": [
+        "bez povoda",
+        "bez ikakvog razloga",
+        "iz čista mira"
+      ],
+      "literal_ru": "ничем не вызванный",
+      "register": "neutralno u doslovnom značenju; razg.-iron. kada stoji kao izdvojena najava neočekivanog postupka",
+      "examples": [
+        {
+          "serbian_latin": "Ničim izazvan, počeo je da analizira moj lik i delo.",
+          "russian": "Ни с того ни с сего он начал разбирать мою личность и творчество.",
+          "source": "Ulaznica, 2010"
+        },
+        {
+          "serbian_latin": "Ničim izazvan, ustao je i održao govor od dvadeset minuta.",
+          "russian": "Ни с того ни с сего он встал и произнёс двадцатиминутную речь.",
+          "source": ""
+        }
+      ],
+      "note": "В официальном стиле ničim izazvan означает буквально «ничем не спровоцированный». В разговорной и публицистической иронии оборот часто выносится перед сообщением о неожиданном поступке и соответствует русскому «ни с того ни с сего».",
+      "keyword": "izazvati"
+    },
+    {
       "headword_latin": "Nije do mene",
       "type": "izraz",
       "definition_ru": "от меня не зависит; дело не во мне; я тут ни при чём",
@@ -22306,32 +22436,55 @@
       "keyword": "nije cvećka"
     },
     {
-      "headword_latin": "Nije skupo, nego ste se loše udali",
-      "type": "meme / razgovorna formula",
-      "definition_ru": "«не дорого — просто вы неудачно вышли замуж»; дерзкая шутливая реплика на жалобу женщины о высокой цене",
+      "headword_latin": "Nije pošteno",
+      "type": "replika",
+      "definition_ru": "это нечестно; это несправедливо; так не делается",
       "synonyms_sr": [
-        "nije skupo, nemaš para",
-        "skupo je za tvoj džep",
-        "loše si se udala"
+        "nije fer",
+        "nije pravedno",
+        "nije u redu"
       ],
-      "literal_ru": "не дорого, просто вы плохо вышли замуж",
-      "register": "razgovorno, memno, šaljivo-drčno; može zvučati uvredljivo ili seksistički",
+      "literal_ru": "",
+      "register": "neutralno-razg.; česta spontana reakcija na nepravdu ili nejednak tretman",
       "examples": [
         {
-          "serbian_latin": "Nije gospođo ništa skupo, samo ste se vi loše udali!",
-          "russian": "Да ничего не дорого, сударыня, просто вы неудачно вышли замуж!",
-          "source": "Vukajlija, 2011",
-          "url": "https://vukajlija.com/pretraga/izraz?q=nije-taj-nego-onaj&strana=1"
+          "serbian_latin": "Nije pošteno da samo on dobije još jednu šansu.",
+          "russian": "Нечестно, что только ему дают ещё один шанс.",
+          "source": ""
         },
         {
-          "serbian_latin": "Prema tome nije skupo, nego smo se mi loše udali.",
-          "russian": "Выходит, дело не в дороговизне — просто мы неудачно замуж вышли.",
-          "source": "Nportal, 2024",
-          "url": "https://nportal.novosti.rs/sr/vesti/83274/komentari?parent_id=68515"
+          "serbian_latin": "To stvarno nije pošteno prema ostalima.",
+          "russian": "Это действительно несправедливо по отношению к остальным.",
+          "source": ""
         }
       ],
-      "note": "Это именно мемная/разговорная формула, а не классическая пословица, но она живёт как узнаваемая готовая реплика. Формулировка варьируется: nisi se dobro udala, loše si se udala, samo ste se loše udali.",
-      "keyword": "loše udati se; skupo"
+      "note": "Pošten шире русского «честный»: это и «порядочный», и «честный», и «справедливый» в бытовой оценке. Поэтому nije pošteno часто естественнее переводить как «это несправедливо», а не буквально «это нечестно».",
+      "keyword": "pošteno"
+    },
+    {
+      "headword_latin": "Nije skupo, nego ste se loše udali",
+      "type": "replika",
+      "definition_ru": "дело не в цене, а в том, что вы неудачно вышли замуж; дерзкая шутка в ответ на жалобу о дороговизне",
+      "synonyms_sr": [
+        "nije skupo, samo nije za svačiji džep",
+        "skupo ti je jer nemaš para"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj.-drsko, često kao vic ili internet-formula; može zvučati uvredljivo",
+      "examples": [
+        {
+          "serbian_latin": "Nije, gospođo, ništa skupo — samo ste se vi loše udali.",
+          "russian": "Да не дорого это, сударыня, просто вы неудачно замуж вышли.",
+          "source": "Vukajlija, 2011"
+        },
+        {
+          "serbian_latin": "Kad neko krene da se žali na cenu, uvek se nađe neko sa: „Nije skupo, nego ste se loše udali.“",
+          "russian": "Стоит кому-то пожаловаться на цену, как обязательно найдётся кто-нибудь с репликой: «Не дорого, просто вы неудачно замуж вышли».",
+          "source": ""
+        }
+      ],
+      "note": "Это не пословица старого фонда, а устойчивая шутливая «спушталица», хорошо узнаваемая в интернете и бытовом юморе. Реплика намеренно хамоватая и строится на переносе проблемы с цены товара на достаток мужа.",
+      "keyword": "skupo"
     },
     {
       "headword_latin": "Nije smak sveta",
@@ -22806,33 +22959,83 @@
       "keyword": "nisu sve koze na broju"
     },
     {
+      "headword_latin": "Ništa lično",
+      "type": "replika",
+      "definition_ru": "ничего личного; без обид",
+      "synonyms_sr": [
+        "bez uvrede",
+        "nije lično",
+        "ne zameri"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; o odluci ili kritici koja se predstavlja kao nepersonalna",
+      "examples": [
+        {
+          "serbian_latin": "Moramo da raskinemo ugovor. Ništa lično.",
+          "russian": "Нам придётся расторгнуть договор. Ничего личного.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ništa lično, ali za ovaj posao tražimo nekoga sa više iskustva.",
+          "russian": "Ничего личного, но для этой работы нам нужен человек с большим опытом.",
+          "source": ""
+        }
+      ],
+      "note": "Формула может стоять и до неприятного сообщения, и после него. Как и по-русски, она не гарантирует, что собеседник действительно не воспримет сказанное лично.",
+      "keyword": "lično"
+    },
+    {
+      "headword_latin": "Ništa posebno",
+      "type": "izraz",
+      "definition_ru": "ничего особенного; ничего примечательного; да ничего",
+      "synonyms_sr": [
+        "ništa naročito",
+        "ništa specijalno",
+        "ništa novo"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; i kao procena i kao kratak odgovor",
+      "examples": [
+        {
+          "serbian_latin": "Šta se dogodilo? — Ništa posebno.",
+          "russian": "Что произошло? — Ничего особенного.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Kako je bilo? — Ništa posebno.",
+          "russian": "Как прошло? — Да ничего особенного.",
+          "source": ""
+        }
+      ],
+      "note": "Это не только ритуальный ответ на Šta ima? Формула также обычна как самостоятельная оценка фильма, события, еды, работы: Film nije ništa posebno — «фильм ничего особенного».",
+      "keyword": "ništa"
+    },
+    {
       "headword_latin": "Nit smrdi, nit miriše",
       "type": "frazeologizam",
-      "definition_ru": "ни рыба ни мясо; ничем не выделяется, не вызывает ни явного одобрения, ни явного неприятия; позиция или качество неопределённы",
+      "definition_ru": "ни рыба ни мясо; ни то ни сё; без ярко выраженных качеств или позиции",
       "synonyms_sr": [
         "ni tamo ni ovamo",
         "bezličan",
         "neodređen",
-        "ni dobar ni loš"
+        "mlak"
       ],
       "literal_ru": "ни воняет, ни пахнет",
-      "register": "razgovorno, ironično ili neodobravajuće",
+      "register": "razg., neodobr.; o osobi, stavu, delu ili proizvodu bez jasnog karaktera",
       "examples": [
         {
-          "serbian_latin": "Uvek je bio malo onako – nit smrdi nit miriše.",
-          "russian": "Он всегда был таким — ни рыба ни мясо.",
-          "source": "Danas, 2017",
-          "url": "https://www.danas.rs/kolumna/vladimir-jokic/razvojni-put-bore-snajdera/"
+          "serbian_latin": "Većinski sadržaj televizije: nit smrdi nit miriše.",
+          "russian": "Большая часть телевизионного контента — ни рыба ни мясо.",
+          "source": "NIN, 2023"
         },
         {
-          "serbian_latin": "I znate kako se obično kaže da nešto nit smrdi nit miriše?",
-          "russian": "Знаете, как обычно говорят: ни пахнет, ни воняет?",
-          "source": "Peščanik, 2019",
-          "url": "https://pescanik.net/ljubavni-jad-i-beda/"
+          "serbian_latin": "Film nije loš, ali nit smrdi nit miriše.",
+          "russian": "Фильм не плохой, но ни рыба ни мясо.",
+          "source": ""
         }
       ],
-      "note": "Можно говорить о человеке, произведении, решении или позиции. Часто подразумевает не просто посредственность, а отсутствие ясной позиции или характера.",
-      "keyword": "smrdi; miriše"
+      "note": "Сербский образ строится на отсутствии даже запаха: объект настолько безликий, что не вызывает ни положительной, ни отрицательной реакции. Русское «ни рыба ни мясо» почти полностью совпадает по функции.",
+      "keyword": "smrdeti"
     },
     {
       "headword_latin": "Nit’ riba, nit’ devojka",
@@ -22946,6 +23149,59 @@
       ],
       "note": "В сербском лексиконе медиаграмотности novinarska patka определяется как непроверенная, чаще всего неверная информация, запускаемая ради сенсации. Популярное объяснение происхождения через сокращение n. t. и немецкое Ente «утка» в исследовании Университета Нови-Сада прямо названо городской легендой, поэтому выдавать эту этимологию за установленный факт нельзя.",
       "keyword": "novinarska patka"
+    },
+    {
+      "headword_latin": "Njakati kao magarac",
+      "type": "frazeologizam",
+      "definition_ru": "реветь как осёл; говорить неприятным, тягучим или ноющим голосом",
+      "synonyms_sr": [
+        "drečati",
+        "urlati",
+        "zavijati",
+        "gnjaviti pričom"
+      ],
+      "literal_ru": "реветь как осёл",
+      "register": "razg., podrugljivo-grub.; o glasu ili načinu govora",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da njačeš kao magarac, reci lepo šta hoćeš.",
+          "russian": "Не реви как осёл, нормально скажи, чего хочешь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Celo jutro njače o istom problemu.",
+          "russian": "Всё утро ноет об одной и той же проблеме.",
+          "source": ""
+        }
+      ],
+      "note": "Njakati — прежде всего «реветь, кричать по-ослиному». Переносно глагол может уничижительно описывать неприятный голос или нытьё; это грубее нейтральных govoriti, žaliti se.",
+      "keyword": "magarac"
+    },
+    {
+      "headword_latin": "O čemu se radi",
+      "type": "izraz",
+      "definition_ru": "в чём дело?; о чём речь?; в чём суть?",
+      "synonyms_sr": [
+        "o čemu je reč",
+        "šta je u pitanju",
+        "šta se dešava"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, vrlo često; radi se o + lokativ",
+      "examples": [
+        {
+          "serbian_latin": "„O čemu se radi?“ — pitali su se mnogi posle nastupa Konstrakte.",
+          "russian": "«В чём тут дело?» — спрашивали многие после выступления Констракты.",
+          "source": "N1 Srbija, 2022"
+        },
+        {
+          "serbian_latin": "Objasni mi o čemu se radi.",
+          "russian": "Объясни мне, в чём дело.",
+          "source": ""
+        }
+      ],
+      "note": "Raditi se o — безличная конструкция: Radi se o važnom pitanju. Русскому особенно важно не связывать её с обычным raditi «работать» и не строить личные формы типа ja se radim o.",
+      "keyword": "raditi se"
     },
     {
       "headword_latin": "Obećanje — ludom radovanje",
@@ -23113,31 +23369,54 @@
     {
       "headword_latin": "Obrni-okreni",
       "type": "izraz",
-      "definition_ru": "как ни крути; с какой стороны ни посмотри; в конечном счёте результат или вывод остаётся тем же",
+      "definition_ru": "как ни крути; так или иначе; в конечном счёте",
       "synonyms_sr": [
         "kako god okreneš",
         "u svakom slučaju",
-        "ovako ili onako",
         "na kraju krajeva"
       ],
-      "literal_ru": "поверни-переверни",
-      "register": "razgovorno, veoma često",
+      "literal_ru": "поверни так, поверни эдак",
+      "register": "razg.; često kao uvod u zaključak koji se ne može izbeći",
       "examples": [
         {
-          "serbian_latin": "Na našoj javnoj sceni je obrni-okreni. Ja tebi, ti meni...",
-          "russian": "На нашей публичной сцене, как ни крути, всё сводится к «ты мне — я тебе».",
-          "source": "RTS, 2025",
-          "url": "https://www.rts.rs/lat/radio/radio-beograd-2/5762856/jutarnji-vikend-program.html"
+          "serbian_latin": "Na našoj javnoj sceni je obrni-okreni: ja tebi, ti meni.",
+          "russian": "На нашей публичной сцене, как ни крути: ты мне — я тебе.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Obrni-okreni ovaj je „puko ko bas“.",
-          "russian": "Как ни крути, этот совсем «поехал».",
-          "source": "Politika, 2013",
-          "url": "https://www.politika.rs/sr/clanak/256393/Fraze-i-izrazi-deo-kulturnog-nasleda"
+          "serbian_latin": "Obrni-okreni, neko će morati da plati račun.",
+          "russian": "Как ни крути, кому-то придётся оплатить счёт.",
+          "source": ""
         }
       ],
-      "note": "Может оформляться через дефис или раздельно. Не означает физически что-то перевернуть: это дискурсивная формула итогового вывода.",
-      "keyword": "obrni-okreni"
+      "note": "Два императива срастаются в вводно-наречную формулу. В отличие от буквально возможного okrenuti nešto, здесь речь не о физическом повороте, а о неизбежности одного и того же вывода.",
+      "keyword": "okrenuti"
+    },
+    {
+      "headword_latin": "Obrve kao morske pijavice",
+      "type": "izraz",
+      "definition_ru": "тёмные, тонкие и красиво изогнутые брови; фольклорный образ женской красоты",
+      "synonyms_sr": [
+        "tanke crne obrve",
+        "izvijene obrve",
+        "obrve kao luk"
+      ],
+      "literal_ru": "брови как морские пиявки",
+      "register": "folklorno, arhaično-poetski; danas pre citat nego svakodnevni kompliment",
+      "examples": [
+        {
+          "serbian_latin": "Ima tanke, tamne obrve kao morske pijavice.",
+          "russian": "У неё тонкие тёмные брови дугой.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "U narodnoj pesmi lepotica ima „obrve morske pijavice“.",
+          "russian": "В народной песне у красавицы «брови — морские пиявки».",
+          "source": ""
+        }
+      ],
+      "note": "В сборниках народной поэзии формула morske pijavice действительно входит в традиционный портрет красавицы. Но как обычный современный комплимент выражение почти не живёт: сегодня оно скорее фольклорная цитата или шутливая стилизация. Поэтому переводить буквально в современном разговоре нельзя.",
+      "keyword": "obrve"
     },
     {
       "headword_latin": "Oči veće od stomaka",
@@ -23193,6 +23472,32 @@
       "keyword": "očitati bukvicu"
     },
     {
+      "headword_latin": "Oće kaki, neće kaki",
+      "type": "replika",
+      "definition_ru": "то хочет, то не хочет; ни да ни нет; никак не решится",
+      "synonyms_sr": [
+        "ne zna šta hoće",
+        "koleba se",
+        "čas hoće, čas neće"
+      ],
+      "literal_ru": "то хочет какать, то не хочет",
+      "register": "razg., grubo-šalj.; namerno nestandardno oće; dečja reč kaki",
+      "examples": [
+        {
+          "serbian_latin": "Te oće na terasu, te oće unutra. Oće kaki, neće kaki.",
+          "russian": "То на террасу хочет, то внутрь. То хочет, то не хочет — никак не определится.",
+          "source": "NIN, 2023"
+        },
+        {
+          "serbian_latin": "Odluči se više, oće kaki, neće kaki.",
+          "russian": "Определись уже: то да, то нет.",
+          "source": ""
+        }
+      ],
+      "note": "Формула намеренно сниженная: oće — разговорное стяжение от hoće, kaki — детское слово. Смысл не физиологический, а насмешка над нерешительностью и метаниями.",
+      "keyword": "kaki"
+    },
+    {
       "headword_latin": "Od A do Š",
       "type": "izraz",
       "definition_ru": "от А до Я; от начала до конца; полностью, во всех подробностях",
@@ -23218,6 +23523,32 @@
       ],
       "note": "Od A do Š само по себе не означает именно «поговорить откровенно и ничего не утаить»; основной смысл — «целиком, от начала до конца». Поэтому Rekli smo sve jedno drugom od A do Š понятно, но естественнее, например, Ispričali smo jedno drugom sve od A do Š. Культурно важная деталь: Š — последняя буква сербской кириллицы в латинской передаче (Ш); сама сербская латиница заканчивается буквой Ž. Поэтому устойчиво именно od A do Š, а не od A do Ž.",
       "keyword": "od A do Š"
+    },
+    {
+      "headword_latin": "Od Baha do sevdaha",
+      "type": "izraz",
+      "definition_ru": "от Баха до севдаха; от классики до традиционной балканской песни; слушать всё подряд",
+      "synonyms_sr": [
+        "od klasike do narodnjaka",
+        "slušati sve žanrove",
+        "imati širok muzički ukus"
+      ],
+      "literal_ru": "от Баха до севдаха",
+      "register": "razg., šalj.; rimovana formula o vrlo širokom muzičkom ukusu",
+      "examples": [
+        {
+          "serbian_latin": "Od Baha do sevdaha. Ali samo kada se meni peva.",
+          "russian": "От Баха до севдаха. Но только когда мне самой хочется петь.",
+          "source": "NIN, 2023"
+        },
+        {
+          "serbian_latin": "Kod mene na plejlisti ima svega, od Baha do sevdaha.",
+          "russian": "У меня в плейлисте есть всё — от Баха до севдаха.",
+          "source": ""
+        }
+      ],
+      "note": "Sevdah — не просто «грусть», а культурно нагруженное слово, связанное прежде всего с bosanskom gradskom pesmom и sevdalinkom, а также с любовной тоской. Формула держится и на смысловом контрасте, и на созвучии Baha — sevdaha.",
+      "keyword": "sevdah"
     },
     {
       "headword_latin": "Od glave do pete",
@@ -23358,32 +23689,29 @@
     },
     {
       "headword_latin": "Od jutra do sutra",
-      "type": "frazeologizam",
-      "definition_ru": "с утра до ночи; целыми днями; практически без остановки",
+      "type": "izraz",
+      "definition_ru": "с утра до ночи; день-деньской; почти круглые сутки",
       "synonyms_sr": [
         "od jutra do mraka",
-        "po ceo dan",
-        "od zore do mraka",
-        "bez prestanka"
+        "ceo dan",
+        "danonoćno"
       ],
       "literal_ru": "с утра до завтра",
-      "register": "razgovorno, ekspresivno",
+      "register": "razg., ekspresivno; naročito o dugom radu ili obavezama",
       "examples": [
         {
           "serbian_latin": "To je bio rad bez radnog vremena, od jutra do sutra, od zore do zvezde.",
-          "russian": "Это была работа без рабочего времени — с утра до ночи, от зари до звёзд.",
-          "source": "RTS, 2018",
-          "url": "https://www.rts.rs/lat/radio/radio-beograd-1/3132648/.html?print=true"
+          "russian": "Это была работа без рабочего времени: с утра до ночи, от зари до звёзд.",
+          "source": "RTS, 2018"
         },
         {
-          "serbian_latin": "Tu je posao od jutra do sutra.",
-          "russian": "Здесь работа с утра до ночи.",
-          "source": "RTS, 2024",
-          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5375609/zlatna-sretenjska-medalja-ali-i-zemlja-o-kojoj-snezana-brine.html"
+          "serbian_latin": "Radi od jutra do sutra, a opet ništa ne stiže.",
+          "russian": "Работает с утра до ночи и всё равно ничего не успевает.",
+          "source": ""
         }
       ],
-      "note": "Гиперболическая сербская модель: буквально работа продолжается «с утра до завтра». Не обязательно означает ровно 24 часа.",
-      "keyword": "od jutra do sutra"
+      "note": "Sutra здесь создаёт намеренное преувеличение: работа длится не просто «до вечера», а будто до следующего дня. В русском обычно естественнее «с утра до ночи» или «день-деньской».",
+      "keyword": "jutro"
     },
     {
       "headword_latin": "Od krvi i mesa",
@@ -23496,6 +23824,32 @@
       ],
       "note": "Близко к od vajkada, но pamtivek буквально отсылает к времени, уходящему за пределы человеческой памяти. В русском хорошо соответствует «испокон веков».",
       "keyword": "od pamtiveka"
+    },
+    {
+      "headword_latin": "Od samoće ništa gore nema",
+      "type": "poslovica",
+      "definition_ru": "нет ничего хуже одиночества; одиночество — тяжёлая доля",
+      "synonyms_sr": [
+        "teško je biti sam",
+        "samoća je teška",
+        "bez ljudi je najteže"
+      ],
+      "literal_ru": "нет ничего хуже одиночества",
+      "register": "poslovica, starije-folklorno; danas više citatno nego svakodnevno",
+      "examples": [
+        {
+          "serbian_latin": "Vrati se među ljude — od samoće ništa gore nema.",
+          "russian": "Возвращайся к людям: нет ничего хуже одиночества.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Stari su govorili: od samoće ništa gore nema.",
+          "russian": "Старики говорили: нет ничего хуже одиночества.",
+          "source": ""
+        }
+      ],
+      "note": "Формула фиксируется в сборниках народных пословиц, но в современной городской речи звучит скорее как цитата из старой житейской мудрости. Конструкция od + genitiv + ništa gore nema буквально задаёт высшую степень: «хуже этого нет ничего».",
+      "keyword": "samoća"
     },
     {
       "headword_latin": "Od Silvane do Nirvane",
@@ -23718,6 +24072,33 @@
       ],
       "note": "Часты оба порядка: odneo je vrag šalu и vrag je odneo šalu. Vrag здесь не религиозное утверждение, а устойчивый экспрессивный компонент.",
       "keyword": "vrag; šala"
+    },
+    {
+      "headword_latin": "Odrediti / određen",
+      "type": "glagol",
+      "definition_ru": "odrediti — определить, установить, назначить; određen — определённый, установленный, конкретный",
+      "synonyms_sr": [
+        "utvrditi",
+        "ustanoviti",
+        "definisati",
+        "zakazati"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; odrediti je svršeni glagol, određivati nesvršeni; određen je i trpni pridev i samostalan pridev",
+      "examples": [
+        {
+          "serbian_latin": "Odredili su rok za petnaesti septembar.",
+          "russian": "Срок назначили на пятнадцатое сентября.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "U određenim situacijama bolje je sačekati.",
+          "russian": "В определённых ситуациях лучше подождать.",
+          "source": ""
+        }
+      ],
+      "note": "У određen есть два важных русских соответствия: «установленный, назначенный» и «определённый, некоторый». Поэтому određeno vreme может означать и «назначенное время», и «некоторое время» — значение решает контекст.",
+      "keyword": "odrediti"
     },
     {
       "headword_latin": "odrešiti kesu",
@@ -24003,6 +24384,33 @@
       "keyword": "okrenuti leđa"
     },
     {
+      "headword_latin": "Okrenuti naglavačke",
+      "type": "frazeologizam",
+      "definition_ru": "перевернуть вверх дном; перевернуть с ног на голову; радикально изменить",
+      "synonyms_sr": [
+        "preokrenuti",
+        "izvrnuti",
+        "poremetiti sve",
+        "promeniti iz korena"
+      ],
+      "literal_ru": "перевернуть вверх ногами",
+      "register": "neutralno-razg.; i doslovno i preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Njihov spokojni život jednoga dana se okrenuo naglavačke.",
+          "russian": "Их спокойная жизнь однажды перевернулась вверх дном.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Ta odluka nam je okrenula sve planove naglavačke.",
+          "russian": "Это решение перевернуло все наши планы вверх дном.",
+          "source": ""
+        }
+      ],
+      "note": "Naglavačke пишется слитно и означает «вверх ногами, кувырком». В переносном употреблении особенно часты život, planovi, svet, sistem: что-то полностью нарушает прежний порядок.",
+      "keyword": "naglavačke"
+    },
+    {
       "headword_latin": "okrenuti nekome leđa",
       "type": "глагольный фразеологизм",
       "definition_ru": "Отвернуться от кого-либо; бросить без поддержки; отказаться помогать; отречься от прежнего союзника.",
@@ -24236,33 +24644,57 @@
       "keyword": "omča oko vrata"
     },
     {
-      "headword_latin": "Opasuljiti se",
-      "type": "glagol / razgovorni izraz",
-      "definition_ru": "очухаться; прийти в себя; наконец сообразить, что происходит, и начать вести себя разумно",
+      "headword_latin": "On je u svom filmu",
+      "type": "frazeologizam",
+      "definition_ru": "он в своём мире; он живёт в своей реальности; он погружён в собственную историю",
       "synonyms_sr": [
-        "doći sebi",
-        "dozvati se pameti",
-        "urazumiti se",
-        "osvestiti se"
+        "u svom je svetu",
+        "ne prati šta se dešava",
+        "živi svoju priču"
       ],
-      "literal_ru": "",
-      "register": "razgovorno, ekspresivno",
+      "literal_ru": "он в своём фильме",
+      "register": "razg.; može biti blago šaljivo ili neodobravajuće",
       "examples": [
         {
-          "serbian_latin": "Opasulji se, MT:S, lepo ti kažem.",
-          "russian": "Очухайся, MT:S, я тебе по-хорошему говорю.",
-          "source": "Danas, 2011",
-          "url": "https://www.danas.rs/kolumna/svetislav-basara/opasulji-se-mts/"
+          "serbian_latin": "Svi živimo u svom filmu.",
+          "russian": "Все мы живём в своём собственном мире.",
+          "source": "RTS / Beograd 202, 2018"
         },
         {
-          "serbian_latin": "Vidi, gari, opasulji se!",
-          "russian": "Слушай, приятель, очухайся!",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/vesti/drustvo/odrzan-jos-jedan-protiv-skup-protiv-novog-sada-na-vodi-vidi-gari-opasulji-se-video-foto"
+          "serbian_latin": "Pusti ga, on je opet u svom filmu.",
+          "russian": "Оставь его, он опять в своём мире.",
+          "source": ""
         }
       ],
-      "note": "Живое разговорное слово, особенно характерное для призыва opasulji se! — «приди в себя, включи голову». Связь формы со словом pasulj породила языковые шутки, но значение давно лексикализовано.",
-      "keyword": "opasuljiti se"
+      "note": "Выражение может описывать мечтательную погружённость в себя, но часто содержит лёгкий упрёк: человек не слышит остальных и воспринимает ситуацию по собственной версии. Русское «у него своё кино» близко, но менее нейтрально.",
+      "keyword": "film"
+    },
+    {
+      "headword_latin": "Opasuljiti se",
+      "type": "glagol",
+      "definition_ru": "очухаться; прийти в себя; образумиться; наконец сообразить",
+      "synonyms_sr": [
+        "doći sebi",
+        "urazumiti se",
+        "osvestiti se",
+        "sabrati se"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj.; često u imperativu opasulji se",
+      "examples": [
+        {
+          "serbian_latin": "„Opasulji se!“ znači: dođi sebi, urazumi se.",
+          "russian": "«Opasulji se!» значит: приди в себя, образумься.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Opasulji se, čoveče, šta to radiš?",
+          "russian": "Очухайся, человек, что ты делаешь?",
+          "source": ""
+        }
+      ],
+      "note": "Связь со словом pasulj формально очевидна, но точное происхождение глагола надёжно не установлено. В живой речи это эмоциональное «приди в себя / сообрази наконец», нередко с оттенком раздражения.",
+      "keyword": "pasulj"
     },
     {
       "headword_latin": "Oprati obraz",
@@ -24290,6 +24722,32 @@
       ],
       "note": "Obraz в традиционной сербской фразеологии тесно связан с честью и общественной репутацией: отсюда čist obraz, izgubiti obraz, ukaljati obraz. Поэтому буквальное русское «умыть лицо» здесь совершенно не работает. Oprati obraz — исправить прежний позор поступком, который возвращает честь; близкое sprati ljagu больше акцентирует снятие пятна или обвинения.",
       "keyword": "oprati obraz"
+    },
+    {
+      "headword_latin": "Opreznost je majka mudrosti",
+      "type": "poslovica",
+      "definition_ru": "осторожность — мать мудрости; бережёного Бог бережёт",
+      "synonyms_sr": [
+        "bolje sprečiti nego lečiti",
+        "treba biti oprezan",
+        "ne srljati"
+      ],
+      "literal_ru": "осторожность — мать мудрости",
+      "register": "poslovica, neutralno-knjiški; često kao savet da se proveri ili sačeka",
+      "examples": [
+        {
+          "serbian_latin": "Opreznost je majka mudrosti.",
+          "russian": "Осторожность — мать мудрости.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Proveri još jednom — opreznost je majka mudrosti.",
+          "russian": "Проверь ещё раз: бережёного Бог бережёт.",
+          "source": ""
+        }
+      ],
+      "note": "Русская буквальная калька понятна, но в живом переводе часто естественнее «бережёного Бог бережёт» или «осторожность лишней не бывает». Сербская модель X je majka Y очень продуктивна: ponavljanje je majka znanja.",
+      "keyword": "opreznost"
     },
     {
       "headword_latin": "osećati se kao riba na suvom",
@@ -24693,6 +25151,58 @@
       "keyword": "osveta"
     },
     {
+      "headword_latin": "Osvetiti nekoga / osvetiti se nekome",
+      "type": "glagol",
+      "definition_ru": "отомстить за кого-то / отомстить кому-то",
+      "synonyms_sr": [
+        "uzvratiti za nekoga",
+        "osvetiti nečiju smrt",
+        "vratiti nekome milo za drago"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; osvetiti koga + akuzativ, ali osvetiti se kome + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Osvetiću brata.",
+          "russian": "Я отомщу за брата.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Osvetiću ti se za ovo.",
+          "russian": "Я тебе за это отомщу.",
+          "source": ""
+        }
+      ],
+      "note": "Для русскоязычного это опасная пара: частица se полностью меняет роли участников. Osvetiti nekoga — «отомстить за кого-то», а osvetiti se nekome — «отомстить кому-то». Отдельно существует религиозное osvetiti hram / vodu — «освятить храм / воду»; значение определяется объектом и контекстом.",
+      "keyword": "osveta"
+    },
+    {
+      "headword_latin": "Otac ko kolac",
+      "type": "izreka",
+      "definition_ru": "отец одно название; отец, от которого мало заботы и участия",
+      "synonyms_sr": [
+        "otac samo na papiru",
+        "nebrizan otac",
+        "nikakav otac"
+      ],
+      "literal_ru": "отец как кол",
+      "register": "narodno-razg., podrugljivo; danas ređe i često citatno",
+      "examples": [
+        {
+          "serbian_latin": "Kaže se i: otac kolac — za oca koji ne brine o deci.",
+          "russian": "Говорят и «otac kolac» — об отце, который не заботится о детях.",
+          "source": "OVC Braća Nedić, 2023"
+        },
+        {
+          "serbian_latin": "Kod njih je majka sve, a otac ko kolac.",
+          "russian": "У них мать — всё, а отец одно название.",
+          "source": ""
+        }
+      ],
+      "note": "Современные объяснения связывают формулу прежде всего с неучастливым, холодным отцом. Это рифмованная народная присказка otac — kolac; сегодня она звучит довольно грубо и обобщающе, поэтому употребляется осторожно.",
+      "keyword": "otac"
+    },
+    {
       "headword_latin": "Otegnuti papke",
       "type": "frazeologizam",
       "definition_ru": "протянуть ноги; дать дуба; сыграть в ящик; умереть",
@@ -24855,6 +25365,32 @@
       "keyword": "Bogu na istinu"
     },
     {
+      "headword_latin": "Otići na doboš",
+      "type": "frazeologizam",
+      "definition_ru": "пойти с молотка; уйти с торгов; быть проданным за долги",
+      "synonyms_sr": [
+        "biti prodat na licitaciji",
+        "otići na javnu prodaju",
+        "biti rasprodat zbog dugova"
+      ],
+      "literal_ru": "уйти на барабан",
+      "register": "razg.-publicistički; naročito o kući, stanu, firmi ili imovini",
+      "examples": [
+        {
+          "serbian_latin": "Imovina Marije Milošević otišla na doboš.",
+          "russian": "Имущество Марии Милошевич пошло с молотка.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Ako ne vrate kredit, kuća će otići na doboš.",
+          "russian": "Если они не вернут кредит, дом пойдёт с молотка.",
+          "source": ""
+        }
+      ],
+      "note": "Doboš — барабан. Выражение связано со старой практикой публичных торгов, на которые людей созывали барабанным боем; поэтому по функции сербский doboš соответствует русскому аукционному «молотку». Часты и формы dati / staviti na doboš.",
+      "keyword": "doboš"
+    },
+    {
       "headword_latin": "otići trbuhom za kruhom",
       "type": "глагольный фразеологизм",
       "definition_ru": "Уехать на заработки; покинуть родные места в поисках работы и лучшей жизни.",
@@ -24918,31 +25454,28 @@
     {
       "headword_latin": "Otkad je sveta i veka",
       "type": "frazeologizam",
-      "definition_ru": "испокон веков; с незапамятных времён; сколько существует мир",
+      "definition_ru": "испокон веков; спокон веку; сколько существует мир",
       "synonyms_sr": [
-        "odvajkada",
         "od pamtiveka",
-        "od davnina",
-        "od kada je sveta"
+        "odvajkada",
+        "oduvek"
       ],
       "literal_ru": "с тех пор, как существуют мир и век",
-      "register": "neutralno, književno-publicistički i razgovorno",
+      "register": "neutralno-knjiški i razgovorno; često uz preuveličavanje",
       "examples": [
         {
-          "serbian_latin": "Razotkrivanje najkreativnijeg genija otkad je sveta i veka.",
-          "russian": "Разоблачение самого творческого гения с незапамятных времён.",
-          "source": "Laguna, 2019",
-          "url": "https://laguna.rs/bukmarker/razotkrivanje-najkreativnijeg-genija-otkad-je-sveta-i-veka/"
+          "serbian_latin": "Tako je, nažalost, otkad je sveta i veka.",
+          "russian": "Так, к сожалению, было испокон веков.",
+          "source": "Danas, 2024"
         },
         {
-          "serbian_latin": "Običaj postoji „otkad je sveta i veka“.",
-          "russian": "Этот обычай существует испокон веков.",
-          "source": "Politika, 2024",
-          "url": "https://www.politika.rs/sr/clanak/647513/praznicni-svinjokolj-tradicija-u-kacarevu"
+          "serbian_latin": "Kod nas se to radi otkad je sveta i veka.",
+          "russian": "У нас так делают испокон веков.",
+          "source": ""
         }
       ],
-      "note": "Устойчивый усилитель очень большой давности. Русские соответствия: «испокон веков», «с незапамятных времён», «от сотворения мира».",
-      "keyword": "sveta i veka"
+      "note": "Формула часто не утверждает реальную древность, а просто гиперболически означает «так было всегда». Близкие слова odvajkada и od pamtiveka книжнее и короче.",
+      "keyword": "vek"
     },
     {
       "headword_latin": "Otkriti toplu vodu",
@@ -25024,32 +25557,29 @@
     },
     {
       "headword_latin": "Otvorena ti je radnja",
-      "type": "razgovorni eufemizam",
-      "definition_ru": "у тебя расстёгнута ширинка; шутливый эвфемистический намёк, позволяющий не говорить прямо šlic ti je otvoren",
+      "type": "replika",
+      "definition_ru": "у тебя ширинка расстёгнута; у тебя «магазин открыт»",
       "synonyms_sr": [
+        "otvoren ti je šlic",
         "otkopčan ti je šlic",
-        "otvoren ti je dućan",
-        "otvorena ti je prodavnica",
-        "otvorena ti je kineska radnja"
+        "zakopčaj pantalone"
       ],
-      "literal_ru": "у тебя магазин открыт",
-      "register": "razgovorno, šaljivo, eufemistički",
+      "literal_ru": "у тебя лавка открыта",
+      "register": "razg., šalj.-eufemistički; diskretan ili podsmešljiv komentar o otkopčanom šlicu",
       "examples": [
         {
-          "serbian_latin": "Ministru prosvete / Otvorena radnja.",
-          "russian": "У министра просвещения «магазин открыт», то есть расстёгнута ширинка.",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/balada-o-otkopcanom-slicu-ministra-prosvete/"
+          "serbian_latin": "Ministru prosvete otvorena radnja.",
+          "russian": "У министра просвещения ширинка расстёгнута.",
+          "source": "Danas, 2025"
         },
         {
-          "serbian_latin": "Otvorena ti je kineska radnja.",
-          "russian": "У тебя «китайский магазин открыт» — ширинка расстёгнута.",
-          "source": "Vukajlija, indeks (pristupljeno 2026)",
-          "url": "https://vukajlija.com/na-slovo/o"
+          "serbian_latin": "Ej, otvorena ti je radnja.",
+          "russian": "Эй, у тебя ширинка расстёгнута.",
+          "source": ""
         }
       ],
-      "note": "У этой шутки много вариантов: otvorena ti je radnja / prodavnica / trgovina / kineska radnja, otvoren ti je dućan. Общий смысл один — незаметно сообщить человеку о расстёгнутой ширинке.",
-      "keyword": "otvorena radnja; šlic"
+      "note": "Метафора почти совпадает с русским шутливым «магазин открыт». Radnja здесь не «работа», а «магазин, лавка»; нейтрально следует сказать otvoren / otkopčan ti je šlic.",
+      "keyword": "radnja"
     },
     {
       "headword_latin": "Otvoriti četvore oči",
@@ -25135,6 +25665,58 @@
       ],
       "note": "Управление такое же, как в русском: otvoriti nekome oči. Часто добавляется уточнение za nešto / za neke stvari. Буквальное значение «открыть глаза» отличает только контекст.",
       "keyword": "otvoriti oči; istina; shvatiti"
+    },
+    {
+      "headword_latin": "Ovih dana",
+      "type": "izraz",
+      "definition_ru": "на днях; в эти дни; в ближайшие дни",
+      "synonyms_sr": [
+        "ovih nekoliko dana",
+        "u poslednje vreme",
+        "uskoro"
+      ],
+      "literal_ru": "этих дней",
+      "register": "neutralno; može upućivati i na blisku prošlost i na blisku budućnost",
+      "examples": [
+        {
+          "serbian_latin": "Zašto je krompir ovih dana čudnog ukusa?",
+          "russian": "Почему картофель в последние дни странный на вкус?",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Svratiću kod tebe ovih dana.",
+          "russian": "Я загляну к тебе на днях.",
+          "source": ""
+        }
+      ],
+      "note": "Как и русское «на днях», выражение смотрит в обе стороны времени. Ovih dana smo se videli — «мы виделись на днях», а svratiću ovih dana — «зайду в ближайшие дни»; направление задаёт время глагола.",
+      "keyword": "dan"
+    },
+    {
+      "headword_latin": "Ozloglašen",
+      "type": "pridev",
+      "definition_ru": "печально известный; пресловутый; пользующийся дурной славой",
+      "synonyms_sr": [
+        "zloglasan",
+        "na lošem glasu",
+        "čuven po zlu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-knjiški i publicistički; uvek negativna reputacija",
+      "examples": [
+        {
+          "serbian_latin": "Ozloglašen po svom halapljivom apetitu za alkoholom i cigaretama...",
+          "russian": "Печально известный своей ненасытной тягой к алкоголю и сигаретам...",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "To je ozloglašen deo grada.",
+          "russian": "Это район с дурной славой.",
+          "source": ""
+        }
+      ],
+      "note": "Ozloglašen нельзя переводить нейтральным «известный»: отрицательная оценка встроена в слово. Ближайшие сербские соответствия — zloglasan и na lošem glasu; čuven, наоборот, обычно несёт положительную или нейтральную известность.",
+      "keyword": "glas"
     },
     {
       "headword_latin": "Pa kud puklo da puklo",
