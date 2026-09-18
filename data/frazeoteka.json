@@ -7706,6 +7706,35 @@
       "keyword": "dva loša; Miloš"
     },
     {
+      "headword_latin": "Dva ovna na brvnu",
+      "type": "frazeologizam",
+      "definition_ru": "два упрямца, ни один из которых не хочет уступать; лобовое столкновение двух непримиримых сторон",
+      "synonyms_sr": [
+        "niko ne popušta",
+        "sukob tvrdoglavih",
+        "nadmetanje bez popuštanja",
+        "tvrdoglav sukob"
+      ],
+      "literal_ru": "два барана на бревне",
+      "register": "razgovorno i poslovično, ironično",
+      "examples": [
+        {
+          "serbian_latin": "Rama i Beriša 'dva ovna na brvnu'.",
+          "russian": "Рама и Бериша — «два барана на узком мостике»: никто не уступает.",
+          "source": "RTS, 2011",
+          "url": "https://www.rts.rs/lat/vesti/region/833358/.html?print=true"
+        },
+        {
+          "serbian_latin": "Ispadamo smešni kao dva ovna na brvnu pred celom međunarodnom zajednicom.",
+          "russian": "Мы выглядим смешно перед всем международным сообществом, как два упрямых барана на узком мостике.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/vesti/politika/3120415/vucic-na-balkanu-bi-neki-jos-da-ratuju-a-svi-nam-ljudi-odose.html"
+        }
+      ],
+      "note": "Образ двух баранов, встретившихся на узком бревне и не желающих уступить дорогу. Так описывают конфликт, где обе стороны упрямы и компромисс не находится.",
+      "keyword": "dva ovna na brvnu; tvrdoglavost; sukob"
+    },
+    {
       "headword_latin": "Dvostruki aršin",
       "type": "frazeologizam",
       "definition_ru": "двойные стандарты; двойная мерка",
@@ -12713,6 +12742,35 @@
       "keyword": "javna tajna; prećutkivanje; opštepoznato; neformalno znanje"
     },
     {
+      "headword_latin": "Jedan kroz jedan",
+      "type": "izraz",
+      "definition_ru": "на сто процентов; точно, без сомнений; один к одному, без изменений — значение зависит от контекста",
+      "synonyms_sr": [
+        "sto posto",
+        "potpuno",
+        "tačno",
+        "bez dileme"
+      ],
+      "literal_ru": "один через один; один делённый на один",
+      "register": "razgovorno; značenje se određuje kontekstom, a izraz postoji i u tehničkom ili vlasničkom smislu",
+      "examples": [
+        {
+          "serbian_latin": "Po meni je to utisak jedan kroz jedan da je Branko Malović glavni organizator svega ovoga.",
+          "russian": "По-моему, это стопроцентное впечатление, что главным организатором всего этого является Бранко Малович.",
+          "source": "N1 Srbija, 2024",
+          "url": "https://n1info.rs/vesti/ko-je-branko-malovic-biografija/"
+        },
+        {
+          "serbian_latin": "Posebno sam uživala u 'Spajdermenu' jer u njemu igram negativca. I to jedan kroz jedan.",
+          "russian": "Особенно мне понравилось играть в «Человеке-пауке», потому что там я играю злодейку — причём на все сто.",
+          "source": "Večernje novosti, 2018",
+          "url": "https://www.novosti.rs/vesti/kultura.71.html%3A763410-Tamara-Aleksic-U-glumi-je-najvaznije-zajednistvo"
+        }
+      ],
+      "note": "Разговорное употребление шире буквального математического «1:1». В зависимости от контекста может означать «точно», «полностью», «без изменений», «напрямую». Поэтому перевод лучше выбирать по конкретной фразе.",
+      "keyword": "jedan kroz jedan; sto posto; potpuno"
+    },
+    {
       "headword_latin": "Jedi govna!",
       "type": "replika",
       "definition_ru": "иди н***й!; пошёл ты!; отвали!",
@@ -16248,6 +16306,35 @@
       "keyword": "mahati pred nosom"
     },
     {
+      "headword_latin": "Mala maca",
+      "type": "frazeologizam",
+      "definition_ru": "пустяки, цветочки; нечто сравнительно безобидное или незначительное на фоне чего-то гораздо более серьёзного",
+      "synonyms_sr": [
+        "ništa u poređenju s",
+        "sitnica u poređenju",
+        "bezazleno u poređenju",
+        "mnogo blaže"
+      ],
+      "literal_ru": "маленькая кошечка",
+      "register": "razgovorno, ekspresivno; tipičan obrazac: X je mala maca u odnosu na Y",
+      "examples": [
+        {
+          "serbian_latin": "Njegovo poimanje 'horor škole' mala je maca u odnosu na ono što se dešavalo u školi u prošlosti.",
+          "russian": "Его представление об «ужасной школе» — сущие цветочки по сравнению с тем, что происходило там раньше.",
+          "source": "RTS, 2023",
+          "url": "https://rts.rs/lat/tv/rts-poletarac/5180689/muke-jednog-lava-subota-djacka-bubota--price-o-disciplini-u-skoli.html"
+        },
+        {
+          "serbian_latin": "Film jeste efektan, ali je mala maca u odnosu na istoimenu knjigu Maksa Bruksa.",
+          "russian": "Фильм эффектный, но это цветочки по сравнению с одноимённой книгой Макса Брукса.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/kolumna/zoran-panovic/hodam-sad-kao-zombi/"
+        }
+      ],
+      "note": "Обычно употребляется в сравнительной конструкции: одно явление оказывается гораздо менее серьёзным, опасным, трудным или впечатляющим, чем другое. Русские аналоги: «цветочки», «детский сад», «пустяки по сравнению с...».",
+      "keyword": "mala maca; poređenje; sitnica"
+    },
+    {
       "headword_latin": "Malo sutra",
       "type": "replika",
       "definition_ru": "ага, сейчас!; как бы не так!; никогда; щас, разбежался!",
@@ -17047,6 +17134,35 @@
       "keyword": "mutiti vodu"
     },
     {
+      "headword_latin": "Na blef",
+      "type": "priloški izraz",
+      "definition_ru": "на авось, без подготовки или надёжного основания; рассчитывая на удачу, риск или обманное впечатление",
+      "synonyms_sr": [
+        "na sreću",
+        "bez pripreme",
+        "napamet",
+        "rizikujući"
+      ],
+      "literal_ru": "на блеф",
+      "register": "razgovorno; može označavati pravi blef ili preneseno postupanje bez znanja i pripreme",
+      "examples": [
+        {
+          "serbian_latin": "Studenti se po televizijama bune, uopšte i ne uče, već izlaze na ispit 'na blef'.",
+          "russian": "Студенты протестуют по телевидению, совсем не учатся, а на экзамен идут на авось.",
+          "source": "Politika, 2018",
+          "url": "https://www.politika.rs/sr/clanak/417582/sarcevic-profesorka-pavlovic-je-stroga-ali-ni-studenti-nisu-andeli"
+        },
+        {
+          "serbian_latin": "Nemoj učiti 'na blef', jer saobraćaj nije kviz znanja – kad pogrešiš u praksi, posledice mogu biti ozbiljne.",
+          "russian": "Не учи на авось: дорожное движение — не викторина, и ошибка на практике может иметь серьёзные последствия.",
+          "source": "Auto škola Kalinić, Novi Sad, 2025",
+          "url": "https://autoskolakalinic.com/teorijski-ispit-za-voznju/"
+        }
+      ],
+      "note": "За пределами карточной игры na blef означает действовать без достаточного знания, подготовки или реальных оснований, надеясь, что риск сработает или окружающие не заметят слабости.",
+      "keyword": "na blef; bez pripreme; rizik"
+    },
+    {
       "headword_latin": "Na brzu ruku",
       "type": "priloški frazeologizam",
       "definition_ru": "на скорую руку; поспешно, быстро и без достаточной подготовки или тщательности",
@@ -17179,6 +17295,35 @@
       ],
       "note": "Выражение особенно характерно для информации, денег, возможностей, времени или чего-либо, что кто-то контролирует и выдаёт слишком маленькими порциями. Поэтому informacije dobijamo na kašičicu — не просто «постепенно», а часто «нам сообщают понемногу, дозированно». Оттенок недовольства типичен, но не обязателен.",
       "keyword": "na kašičicu"
+    },
+    {
+      "headword_latin": "Na keca",
+      "type": "priloški izraz",
+      "definition_ru": "сразу; с первой попытки; без раздумий; легко и наверняка — в зависимости от контекста",
+      "synonyms_sr": [
+        "odmah",
+        "iz prve",
+        "bez razmišljanja",
+        "bez greške"
+      ],
+      "literal_ru": "на туза",
+      "register": "razgovorno i žargonski; značenje zavisi od glagola i konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Naše ćete pogoditi na keca, za hrvatsko u životu niste čuli.",
+          "russian": "Наше вы угадаете сразу, а о хорватском, скорее всего, никогда не слышали.",
+          "source": "City Magazine / Danas, 2023",
+          "url": "https://citymagazine.danas.rs/scena/drustvene-mreze/mapa-sa-popularnim-jelima-evrope-se-deli-mrezama-nase-cete-pogoditi-na-keca-za-hrvatsko-u-zivotu-niste-culi/"
+        },
+        {
+          "serbian_latin": "Ova nežna plavuša mogla bi da vas prebije na keca.",
+          "russian": "Эта хрупкая блондинка могла бы уложить вас в два счёта.",
+          "source": "Blic, 2019",
+          "url": "https://www.blic.rs/slobodno-vreme/darija-izgleda-kao-manekenka-ali-ova-nezna-plavusa-mogla-bi-da-vas-prebije-na-keca/prdggpj"
+        }
+      ],
+      "note": "Очень разговорное выражение. В разных сочетаниях означает «сразу», «с первой попытки», «без проблем», «в два счёта». Переводить буквально как «на туза» обычно не нужно.",
+      "keyword": "na keca; odmah; iz prve"
     },
     {
       "headword_latin": "Na korak od nečega",
@@ -17562,6 +17707,64 @@
       ],
       "note": "Выражение часто функционирует как самостоятельная народная формула, хотя широко известна и более длинная строка U dobru je lako dobar biti, na muci se poznaju junaci, которую сербские источники связывают с Петром II Петровичем Негошем. Русскому лучше переводить смыслом: «в беде видно, кто чего стоит», поскольку буквальные «герои на муке» звучат неестественно.",
       "keyword": "na muci se poznaju junaci"
+    },
+    {
+      "headword_latin": "Na mufte",
+      "type": "priloški izraz",
+      "definition_ru": "на халяву, даром; не заплатив или не приложив должных усилий",
+      "synonyms_sr": [
+        "džabe",
+        "besplatno",
+        "bez plaćanja",
+        "bez truda"
+      ],
+      "literal_ru": "на халяву",
+      "register": "razgovorno, često ironično ili neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Moguće je steći diplomu 'na mufte' i sa kupljenom diplomom postati čak i ministar.",
+          "russian": "Можно получить диплом «на халяву» и с купленным дипломом стать даже министром.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/politika/narodna-stranka-neophodna-temeljna-reforma-obrazovnog-sistema/"
+        },
+        {
+          "serbian_latin": "Oni Ukrajinci, hteli bi gasa na mufte.",
+          "russian": "Эти украинцы хотели бы получать газ даром.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/drustvo/ranjeni-orao/"
+        }
+      ],
+      "note": "Разговорное na mufte может обозначать и буквальное «бесплатно», и более широкое «без труда, незаслуженно, обходным путём». По оттенку близко к džabe, но часто звучит более неодобрительно.",
+      "keyword": "mufte; džabe; besplatno"
+    },
+    {
+      "headword_latin": "Na neviđeno",
+      "type": "priloški izraz",
+      "definition_ru": "вслепую; не увидев и не проверив заранее; без предварительного знакомства",
+      "synonyms_sr": [
+        "naslepo",
+        "bez prethodnog viđenja",
+        "bez provere",
+        "bez uvida"
+      ],
+      "literal_ru": "не видя; не увидев заранее",
+      "register": "neutralno-razgovorno; naročito često uz kupiti, prodati, izabrati, zaljubiti se",
+      "examples": [
+        {
+          "serbian_latin": "Igrom slučaja, na neviđeno se zaljubljuje u voditeljku radijskog noćnog programa.",
+          "russian": "По воле случая он заочно влюбляется в ведущую ночной радиопрограммы.",
+          "source": "RTS, 2023",
+          "url": "https://rts.rs/lat/radio/radio-beograd-2/5077843/ana-vucicevic-zaljubljeni-jorgandzija-mika.html"
+        },
+        {
+          "serbian_latin": "Svih 99 Bugatti Mistrala prodato je na neviđeno.",
+          "russian": "Все 99 Bugatti Mistral были проданы вслепую, ещё до того, как покупатели увидели машины.",
+          "source": "N1 Srbija, 2023",
+          "url": "https://n1info.rs/magazin/auto/rimac-grupa-prodato-vec-50-nevera-a-bugatiji-rasprodati-na-nevidjeno/"
+        }
+      ],
+      "note": "Обычно означает решение без непосредственного осмотра или знакомства. Частотны сочетания kupiti/prodati na neviđeno, brak na neviđeno, zaljubiti se na neviđeno.",
+      "keyword": "neviđeno; naslepo; bez provere"
     },
     {
       "headword_latin": "Na pravdi boga",
@@ -20694,6 +20897,35 @@
       ],
       "note": "Vinkla — строительный угольник и, шире, правильный угол; поэтому буквально что-то nije u vinklu, если стоит криво. Перенос на человека даёт «что-то с ним не так, не совсем нормальный». Politika фиксирует выражение рядом с nakrivo nasađen и fali mu daska u glavi. Для русского важно не переводить буквально «не под углом».",
       "keyword": "nije u vinklu"
+    },
+    {
+      "headword_latin": "Nije za bacanje",
+      "type": "frazeologizam",
+      "definition_ru": "ещё вполне годится; имеет ценность или может пригодиться; не стоит отбрасывать или выбрасывать",
+      "synonyms_sr": [
+        "vredi sačuvati",
+        "može da posluži",
+        "nije bezvredno",
+        "ima neku vrednost"
+      ],
+      "literal_ru": "не для выбрасывания",
+      "register": "razgovorno-neutralno; često namerno ublažena pohvala ili praktična procena",
+      "examples": [
+        {
+          "serbian_latin": "Iako već skoro 10 godina nema obaveze upisa podataka o stažu u radnu knjižicu, ona nije za bacanje.",
+          "russian": "Хотя уже почти десять лет стаж не обязаны вносить в трудовую книжку, выбрасывать её всё же не стоит.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/695540/radna-knjizica-ipak-nije-za-bacanje"
+        },
+        {
+          "serbian_latin": "Prosveti je, kažu, svaki dinar važan. I nije za bacanje.",
+          "russian": "В образовании, говорят, важен каждый динар. И такими деньгами разбрасываться не стоит.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/2024517/udzbenici-od-skole-do-ulicne-tezge-visa-matematika.html"
+        }
+      ],
+      "note": "Выражение часто служит сдержанной положительной оценкой: предмет, сумма, идея, результат или человек не идеальны, но достаточно ценны, чтобы ими не пренебрегать.",
+      "keyword": "nije za bacanje; vredi; korisno"
     },
     {
       "headword_latin": "Nije zlato sve što sija",
@@ -25740,6 +25972,35 @@
       "keyword": "podići letvicu"
     },
     {
+      "headword_latin": "Posuti se pepelom",
+      "type": "frazeologizam",
+      "definition_ru": "покаяться; признать свою вину или ошибку; публично раскаяться",
+      "synonyms_sr": [
+        "pokajati se",
+        "priznati grešku",
+        "izvinjavati se",
+        "preuzeti krivicu"
+      ],
+      "literal_ru": "посыпать себя пеплом",
+      "register": "knjiški i publicistički, ali vrlo razumljivo u svakodnevnom jeziku; često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Rado bih poneo svoj deo krivice i lično se izvinjavao, posuo se pepelom po glavi kad bih znao gde grešim.",
+          "russian": "Я охотно взял бы на себя часть вины, лично извинился и посыпал голову пеплом, если бы знал, в чём ошибаюсь.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/drustvo/sinisa-kovacevic-gradjani-srbije-nisu-navikli-da-se-raduju-jarmu/"
+        },
+        {
+          "serbian_latin": "Puzo se posuo pepelom po glavi, priznavši da je Paćino svoju ulogu odigrao savršeno.",
+          "russian": "Пьюзо покаялся, признав, что Пачино сыграл свою роль безупречно.",
+          "source": "Nova.rs, 2025",
+          "url": "https://nova.rs/zabava/sudbine/odrastao-u-getu-kockao-se-jedva-izdrzavao-porodicu-a-onda-mu-se-sreca-osmehnula-neverovatna-zivotna-prica-coveka-koji-je-napisao-kuma/"
+        }
+      ],
+      "note": "Выражение связано с древним символическим жестом покаяния и скорби — посыпанием головы пеплом. Сегодня почти всегда употребляется переносно: признать ошибку, покаяться, взять на себя вину; нередко с иронией.",
+      "keyword": "pepeo; pokajanje; priznati grešku"
+    },
+    {
       "headword_latin": "Poštapalica",
       "type": "imenica",
       "definition_ru": "слово-паразит; речевая присказка; постоянно повторяемое слово или выражение",
@@ -27369,6 +27630,35 @@
       ],
       "note": "Образ связан с ощущением knedla u grlu — «комок в горле». В одном контексте человек сдерживает слёзы, страх или волнение, в другом — «проглатывает» гордость и вынужденно принимает неприятное решение. Поэтому перевод зависит от ситуации: «сглотнуть комок», «стерпеть», «пересилить себя», «стиснуть зубы».",
       "keyword": "progutati knedlu"
+    },
+    {
+      "headword_latin": "Progutati udicu",
+      "type": "frazeologizam",
+      "definition_ru": "попасться на удочку; поверить приманке, уловке или обману",
+      "synonyms_sr": [
+        "nasesti",
+        "pasti na foru",
+        "uhvatiti se na mamac",
+        "poverovati podvali"
+      ],
+      "literal_ru": "проглотить крючок",
+      "register": "razgovorno-publicistički; često o manipulaciji, obećanju ili priči koja treba nekoga da navede da poveruje",
+      "examples": [
+        {
+          "serbian_latin": "Studenti neće progutati udicu odugovlačenja.",
+          "russian": "Студенты не попадутся на удочку затягивания времени.",
+          "source": "Nova.rs, 2025",
+          "url": "https://nova.rs/emisije/obucina-jabuku-cuva-za-kasnije-trebace-mu-kad-shvati-da-studenti-nece-progutati-udicu-odugovlacenja/"
+        },
+        {
+          "serbian_latin": "Zapad je progutao udicu tzv. svađe Moskve i 'Vagnera'.",
+          "russian": "Запад попался на удочку так называемой ссоры Москвы и «Вагнера».",
+          "source": "Tanjug, 2023",
+          "url": "https://www.tanjug.rs/srbija/politika/37912/diplomata-branko-brankovic-zapad-progutao-udicu-akcija-moskve-i-placenika-izvanredno-smisljena/vest"
+        }
+      ],
+      "note": "Образ рыболовного крючка: кто-то принимает приманку и тем самым оказывается пойман. В переносном значении речь обычно о ложном обещании, провокации, манипуляции или хитрости. Не путать с буквальным проглатыванием крючка рыбой.",
+      "keyword": "udica; nasesti; obmana"
     },
     {
       "headword_latin": "promašiti ceo fudbal",
@@ -29691,6 +29981,35 @@
       "keyword": "sit gladnom"
     },
     {
+      "headword_latin": "Sitna boranija",
+      "type": "frazeologizam",
+      "definition_ru": "мелкая сошка; малозначительные, невлиятельные люди или второстепенные фигуры",
+      "synonyms_sr": [
+        "sitne ribe",
+        "mali igrači",
+        "nevažni ljudi",
+        "sporedni igrači"
+      ],
+      "literal_ru": "мелкая фасоль",
+      "register": "razgovorno, ironično ili omalovažavajuće",
+      "examples": [
+        {
+          "serbian_latin": "Danas je uhapšena i sitna boranija zbog uobičajenih kraduckanja čiji se iznosi mere u dinarima.",
+          "russian": "Сегодня задержали и мелкую сошку за обычные мелкие хищения, суммы которых измеряются динарами.",
+          "source": "Nova.rs, 2025",
+          "url": "https://nova.rs/emisije/seratlic-valja-spojiti-narodna-dela-sa-savremenim-trenutkom-sto-majstori-za-dan-ga-sagrade-korupcija-za-noc-obaljuje/"
+        },
+        {
+          "serbian_latin": "Primetno je da kapitalce i dalje ne hapse, već je to sitna boranija.",
+          "russian": "Заметно, что крупную рыбу по-прежнему не задерживают, а берут мелкую сошку.",
+          "source": "N1 Srbija, 2025",
+          "url": "https://n1info.rs/vesti/bisevac-o-hapsenjima-ocigledno-da-vlast-ima-dovoljno-imena-u-fioci-sve-sto-se-radi-radi-se-zbog-marketinga/"
+        }
+      ],
+      "note": "Переносное значение обычно относится к людям небольшого веса или влияния, особенно в противопоставлении krupne ribe, kapitalci, veliki igrači. Оттенок чаще пренебрежительный.",
+      "keyword": "sitna boranija; nevažni; mali igrači"
+    },
+    {
       "headword_latin": "Sitna riba",
       "type": "frazeologizam",
       "definition_ru": "мелкая сошка; мелкая рыбёшка; незначительный игрок",
@@ -30250,6 +30569,35 @@
       ],
       "note": "Это не обязательно настоящие трудности. Часто речь идёт о ситуации, когда выбрать сложно именно потому, что хороших вариантов слишком много. Поэтому в спортивной речи trener ima slatke muke почти стандартно говорится о сильном составе и конкуренции за место в команде; в быту оборот шире и может означать любые приятные заботы.",
       "keyword": "slatke muke"
+    },
+    {
+      "headword_latin": "Slepa ulica",
+      "type": "frazeologizam",
+      "definition_ru": "тупик; ситуация, процесс или направление, из которых не видно выхода",
+      "synonyms_sr": [
+        "ćorsokak",
+        "bezizlazna situacija",
+        "zastoj bez izlaza",
+        "put bez izlaza"
+      ],
+      "literal_ru": "тупиковая улица",
+      "register": "neutralno i publicistički; može biti i doslovno o ulici bez izlaza",
+      "examples": [
+        {
+          "serbian_latin": "Slepa ulica u kojoj se nalazi naš proizvođač automobila nije novijeg datuma.",
+          "russian": "Тупик, в котором оказался наш автопроизводитель, возник далеко не вчера.",
+          "source": "Politika, 2007",
+          "url": "https://www.politika.rs/sr/articles/amp/3595"
+        },
+        {
+          "serbian_latin": "'Bosna i Hercegovina u slepoj ulici - godina raspleta' naziv je tribine.",
+          "russian": "«Босния и Герцеговина в тупике — год развязки» — так называется трибуна.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/region/5734777/republika-srpska-dejton.html"
+        }
+      ],
+      "note": "Полный русский эквивалент — «тупик». В переносном употреблении slepa ulica — это положение без ясного выхода или путь, который не может привести к результату. Синоним ćorsokak разговорнее и образнее.",
+      "keyword": "slepa ulica; ćorsokak; bez izlaza"
     },
     {
       "headword_latin": "Sličan kao jaje jajetu",
@@ -31125,6 +31473,35 @@
       ],
       "note": "Личное местоимение изменяется: srce mi, ti, mu, joj или nam je sišlo u pete. Встречается также вариант srce mi je u petama.",
       "keyword": "srce; pete"
+    },
+    {
+      "headword_latin": "Srce kao kuća",
+      "type": "frazeologizam",
+      "definition_ru": "очень добрый, щедрый, душевный человек; человек с большим сердцем",
+      "synonyms_sr": [
+        "dobričina",
+        "velikodušan",
+        "široke duše",
+        "dobar čovek"
+      ],
+      "literal_ru": "сердце как дом",
+      "register": "razgovorno, pohvalno i emotivno",
+      "examples": [
+        {
+          "serbian_latin": "Jedan car, dobričina, šaljivdžija, srce kao kuća.",
+          "russian": "Настоящий молодец, добряк, шутник — сердце огромное.",
+          "source": "Blic, 2023",
+          "url": "https://www.blic.rs/slobodno-vreme/doktor-aleksandar-dolazi-na-posao-bolestan-i-prikacen-na-kiseonik-kako-bi-pomogao/639sw99"
+        },
+        {
+          "serbian_latin": "Ima srce kao kuća, ma i veće.",
+          "russian": "У него сердце огромное — даже больше дома.",
+          "source": "Večernje novosti, 2020",
+          "url": "https://www.novosti.rs/drustvo/vesti/907392/deca-naslikala-marijanovu-hrabrost-malisani-vrtica-citluku-kod-krusevca-napravili-knjigu-podvizima-svog-sugradjanina"
+        }
+      ],
+      "note": "Хвалебная характеристика человека с большой душой — доброго, щедрого, сердечного. Не путать с srce mi je na mestu, где речь о чувстве облегчения и удовлетворения.",
+      "keyword": "srce kao kuća; dobričina; velikodušan"
     },
     {
       "headword_latin": "Srce mi je na mestu",
@@ -32742,6 +33119,35 @@
       "keyword": "svaka škola se plaća"
     },
     {
+      "headword_latin": "Svaka vaška obaška",
+      "type": "izreka",
+      "definition_ru": "каждый сам по себе; кто в лес, кто по дрова; вразнобой, без единства и координации",
+      "synonyms_sr": [
+        "svako za sebe",
+        "svako na svoju stranu",
+        "bez zajedništva",
+        "razjedinjeno"
+      ],
+      "literal_ru": "каждая вошь отдельно",
+      "register": "razgovorno, ironično; ustaljena izreka sa starinskim prilogom obaška",
+      "examples": [
+        {
+          "serbian_latin": "Sindikati razdvojeni po principu 'svaka vaška obaška' – svaki štrajkuje iz nekih svojih interesa.",
+          "russian": "Профсоюзы разобщены по принципу «каждый сам по себе»: каждый бастует ради собственных интересов.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/1720561/strajkovi-bez-zakona-ali-i-bez-efekta.html"
+        },
+        {
+          "serbian_latin": "Gradski centar je opstao celih deset godina, a onda je krenulo po onoj 'svaka vaška obaška'.",
+          "russian": "Городской центр продержался целых десять лет, а потом началось: каждый сам по себе.",
+          "source": "Politika, 2024",
+          "url": "https://www.politika.rs/sr/clanak/597454/zatvorili-smo-oazu-srpske-kulture-u-australiji"
+        }
+      ],
+      "note": "Obaška значит «отдельно, особо». Выражение подчёркивает разобщённость: у каждого свои интересы, планы или правила, общего действия нет. Обычно употребляется иронически или неодобрительно.",
+      "keyword": "vaška; obaška; razjedinjeno"
+    },
+    {
       "headword_latin": "Svaki Ciga svoga konja hvali",
       "type": "poslovica",
       "definition_ru": "каждый кулик своё болото хвалит; всяк своё хвалит",
@@ -34281,6 +34687,35 @@
       "keyword": "špansko selo"
     },
     {
+      "headword_latin": "Topovsko meso",
+      "type": "frazeologizam",
+      "definition_ru": "пушечное мясо; люди, которыми жертвуют или которых используют как расходный материал ради чужих целей",
+      "synonyms_sr": [
+        "potrošna roba",
+        "žrtvovani ljudi",
+        "ljudi za jednokratnu upotrebu",
+        "žrtve tuđih interesa"
+      ],
+      "literal_ru": "пушечное мясо",
+      "register": "publicistički i razgovorno, izrazito negativno i dehumanizujuće kada opisuje način na koji se ljudi tretiraju",
+      "examples": [
+        {
+          "serbian_latin": "Kako ljudi postaju 'topovsko meso', 'glasački materijali' ili 'stečajna masa'...",
+          "russian": "Как люди превращаются в «пушечное мясо», «материал для голосования» или «конкурсную массу»...",
+          "source": "RTS, 2011",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-2/890992/.html?print=true"
+        },
+        {
+          "serbian_latin": "Deca koja su često željna dokazivanja postaju idealno 'topovsko meso'.",
+          "russian": "Подростки, которым часто хочется самоутвердиться, становятся идеальным «пушечным мясом».",
+          "source": "Telegraf, 2026",
+          "url": "https://www.telegraf.rs/vesti/hronika/4260267-od-tribina-do-pistolja-kako-mladi-u-srbiji-postaju-topovsko-meso-za-obracune-kriminalnih-grupa"
+        }
+      ],
+      "note": "Изначально военный образ, но современное употребление намного шире: так называют людей, которых сознательно подвергают риску или легко заменяют ради интересов других.",
+      "keyword": "topovsko meso; potrošna roba; žrtve"
+    },
+    {
       "headword_latin": "Transfer blama",
       "type": "sleng",
       "definition_ru": "испанский стыд; неловкость за чужое поведение; стыд за другого",
@@ -34445,6 +34880,35 @@
       ],
       "note": "Сербское выражение практически идеально совпадает с русским «гора родила мышь», но в сербской публицистике употребляется чрезвычайно свободно и часто как готовый итоговый комментарий: Tresla se gora, rodio se miš. Это не обязательно означает полный провал: результат может просто оказаться несоразмерно мал по сравнению с шумом, ожиданиями и обещаниями. Выражение обычно называют narodna umotvorina или narodna poslovica; частые политические переделки показывают его высокую узнаваемость.",
       "keyword": "tresla se gora rodio se miš"
+    },
+    {
+      "headword_latin": "Tri puta meri, jednom seci",
+      "type": "poslovica",
+      "definition_ru": "семь раз отмерь, один раз отрежь; тщательно обдумай действие, прежде чем принимать решение",
+      "synonyms_sr": [
+        "dobro razmisli pre nego što odlučiš",
+        "ne srljaj",
+        "promisli pa delaj",
+        "meri pre nego što sečeš"
+      ],
+      "literal_ru": "три раза отмерь, один раз отрежь",
+      "register": "poslovično; savet za oprezno i promišljeno odlučivanje",
+      "examples": [
+        {
+          "serbian_latin": "Kritički stav i pravilo 'tri put meri, jednom seci' je u rukama majstora novinarskog zanata.",
+          "russian": "Критический подход и правило «трижды отмерь, один раз отрежь» — в руках мастера журналистики.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/698564/stanko-pevac-tri-puta-meri-jednom-seci"
+        },
+        {
+          "serbian_latin": "Najbolja odluka je ona koja se donese hladne glave, koja je tipa 'tri puta meri, jednom seci'.",
+          "russian": "Лучшее решение принимают с холодной головой — по принципу «семь раз отмерь, один раз отрежь».",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/vesti/smatracnica/4057875/nastava-u-skoli-ili-od-kuce-kako-smo-odgovorili-na-anketu-.html"
+        }
+      ],
+      "note": "Сербская пословица функционально соответствует русскому «семь раз отмерь, один раз отрежь». Встречаются варианты tri puta meri, jednom seci; tri put meri, jednom seci; triput meri, jednom seci.",
+      "keyword": "meri; seci; oprez"
     },
     {
       "headword_latin": "Trinaesto prase",
@@ -34824,6 +35288,35 @@
       ],
       "note": "Главная трудность для русского — пара poneti se – poniziti se. Poneti se здесь не обычное «повести себя», а «возгордиться, слишком высоко о себе возомнить». Пословица требует внутреннего равновесия: успех не должен делать человека высокомерным, а беда — лишать достоинства.",
       "keyword": "u dobru se ne ponesi u zlu se ne ponizi"
+    },
+    {
+      "headword_latin": "U hodu",
+      "type": "priloški izraz",
+      "definition_ru": "по ходу дела; в процессе, без остановки и часто без заранее готового решения",
+      "synonyms_sr": [
+        "usput",
+        "tokom procesa",
+        "u toku rada",
+        "bez prekidanja"
+      ],
+      "literal_ru": "на ходу",
+      "register": "neutralno-razgovorno i publicistički; veoma često u značenju rešavati ili menjati nešto tokom samog procesa",
+      "examples": [
+        {
+          "serbian_latin": "'Politika' je trebalo da u hodu rešava novi rebus: kako preživeti.",
+          "russian": "«Политике» пришлось по ходу дела решать новую головоломку: как выжить.",
+          "source": "Politika, 2020",
+          "url": "https://www.politika.rs/sr/clanak/453766/redakcija-politike-u-vanrednom-stanju"
+        },
+        {
+          "serbian_latin": "U hodu se, pored ostalih, rešava i problem ljudstva.",
+          "russian": "По ходу дела, среди прочего, решается и кадровая проблема.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/vesti/drustvo/toplani-dva-miliona-evra-bespovratne-pomoci/"
+        }
+      ],
+      "note": "Помимо буквального «во время ходьбы», очень частотно переносное значение «в процессе, по ходу дела». Особенно типичны rešavati u hodu, menjati u hodu, učiti u hodu, prilagođavati se u hodu.",
+      "keyword": "u hodu; usput; tokom procesa"
     },
     {
       "headword_latin": "U isti mah",
@@ -36660,6 +37153,35 @@
       "keyword": "vatreno krštenje"
     },
     {
+      "headword_latin": "Velika zverka",
+      "type": "frazeologizam",
+      "definition_ru": "важная шишка; влиятельный, высокопоставленный или очень значимый человек",
+      "synonyms_sr": [
+        "važna ličnost",
+        "moćnik",
+        "krupna riba",
+        "veliki igrač"
+      ],
+      "literal_ru": "большой зверь",
+      "register": "razgovorno, često ironično; može biti i neutralno opisno u zavisnosti od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Rečenicu izgovara obično 'velika zverka' koja zapravo i nije velika.",
+          "russian": "Такую фразу обычно произносит «важная шишка», которая на деле не так уж и важна.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kolumna/nina-savcic/znas-li-ti-ko-sam-ja-2/"
+        },
+        {
+          "serbian_latin": "Znam s kim je bila Ružica, to je neka velika zverka.",
+          "russian": "Я знаю, с кем была Ружица — это какая-то важная шишка.",
+          "source": "Kurir, 2016",
+          "url": "https://www.kurir.rs/stars/2330335/gastoz-daje-celi-honorar-znam-s-kim-je-bila-ruzica-to-je-neka-velika-zverka"
+        }
+      ],
+      "note": "Разговорное обозначение человека с большим влиянием, статусом или связями. Близко к krupna riba и veliki igrač; часто употребляется с иронией или в кавычках.",
+      "keyword": "velika zverka; moćnik; važna ličnost"
+    },
+    {
       "headword_latin": "Vetar u jedra",
       "type": "frazeologizam",
       "definition_ru": "Поддержка, помощь или благоприятное обстоятельство, которые придают силы и ускоряют движение к цели. Русские соответствия: «дать импульс», «придать ускорение», «дать новый толчок».",
@@ -38355,6 +38877,34 @@
       "keyword": "zdrav kao dren"
     },
     {
+      "headword_latin": "Zemljo, otvori se",
+      "type": "uzvik / frazeologizam",
+      "definition_ru": "хоть сквозь землю провались; выражение крайнего стыда, неловкости или потрясения",
+      "synonyms_sr": [
+        "propasti u zemlju od stida",
+        "umreti od blama",
+        "sakriti se od sramote"
+      ],
+      "literal_ru": "земля, разверзнись",
+      "register": "razgovorno, uzvično i ekspresivno; često samostalna reakcija",
+      "examples": [
+        {
+          "serbian_latin": "Stidljive osobe osećaju izrazitu neprijatnost od izlaganja pogledima drugih. 'Zemljo, otvori se'.",
+          "russian": "Застенчивые люди испытывают сильный дискомфорт под чужими взглядами: «Хоть сквозь землю провались».",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/zivot/zasto-smo-sve-vise-stidljivi/"
+        },
+        {
+          "serbian_latin": "Kada sam ušao na izložbu i video reakcije ljudi, pomislio sam: 'Zemljo, otvori se'.",
+          "russian": "Когда я вошёл на выставку и увидел реакцию людей, я подумал: «Хоть сквозь землю провались».",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/vesti/drustvo/sabacki-slikar-kojem-su-odrzali-minut-cutanja-na-izlozbi-neslanom-salom-proglasen-sam-mrtvim/"
+        }
+      ],
+      "note": "Устойчивый возглас, когда человек хочет буквально «исчезнуть» от стыда или неловкости. Может также выражать шок и возмущение, но базовый образ — желание провалиться сквозь землю.",
+      "keyword": "zemljo otvori se; stid; blam"
+    },
+    {
       "headword_latin": "Zlatna koka",
       "type": "frazeologizam",
       "definition_ru": "курица, несущая золотые яйца; золотая жила; источник стабильной прибыли",
@@ -38652,6 +39202,35 @@
       ],
       "note": "Может обозначать реку, дорогу, железную дорогу, учреждение или группу людей — всё, от чего зависит жизнь и функционирование целого.",
       "keyword": "žila kucavica; arterija; važnost"
+    },
+    {
+      "headword_latin": "Živ se pojesti",
+      "type": "frazeologizam",
+      "definition_ru": "изводить себя; мучиться от досады, стыда, сожаления или тревоги; места себе не находить",
+      "synonyms_sr": [
+        "izjedati se",
+        "gristi se",
+        "kinjiti se",
+        "mučiti se"
+      ],
+      "literal_ru": "съесть себя живьём",
+      "register": "razgovorno, veoma ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Pojeo sam se živ što smo izgubili u četvrtfinalu Evrolige.",
+          "russian": "Я места себе не находил из-за того, что мы проиграли в четвертьфинале Евролиги.",
+          "source": "Politika, 2008",
+          "url": "https://www.politika.rs/sr/clanak/39333/sport/silom-prilika-nacionalista"
+        },
+        {
+          "serbian_latin": "Živa se pojela jer se osramotila.",
+          "russian": "Она себя извела из-за того, что опозорилась.",
+          "source": "Blic, 2020",
+          "url": "https://www.blic.rs/zabava/romana-panic-pustena-iz-zatvora-decko-filip-mrkajic-novac/hzyqk8b"
+        }
+      ],
+      "note": "Форма согласуется с субъектом: pojeo sam se živ, pojela se živa, poješće se živ. Обычно речь не просто о переживании, а о сильном внутреннем самоедстве.",
+      "keyword": "pojesti se živ; izjedati se; kajanje"
     },
     {
       "headword_latin": "Živa enciklopedija",
