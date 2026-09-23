@@ -13821,6 +13821,27 @@
       "keyword": "zagustiti"
     },
     {
+      "headword_latin": "Kad-tad",
+      "type": "prilog",
+      "definition_ru": "рано или поздно; когда-нибудь всё равно",
+      "synonyms_sr": [
+        "pre ili kasnije",
+        "jednom će",
+        "jednog dana"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; piše se sa crticom",
+      "examples": [
+        {
+          "serbian_latin": "Velja se nada da će ovaj kad-tad pokleknuti.",
+          "russian": "Веля надеется, что тот рано или поздно сдастся.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Значение не «когда-то» в прошлом, а именно неизбежность в неопределённом будущем: «рано или поздно». Ударение смысла часто падает на уверенность говорящего.",
+      "keyword": "kad-tad"
+    },
+    {
       "headword_latin": "Kadija te tuži, kadija ti sudi",
       "type": "poslovica",
       "definition_ru": "сам обвиняет, сам и судит; о беспристрастном суде речи нет",
@@ -14300,6 +14321,33 @@
       ],
       "note": "Русский эквивалент «в чём мать родила» практически полный, хотя порядок компонентов другой. Сербская базовая модель — go kao od majke rođen. Возможно и самостоятельное kao od majke rođen, если из контекста уже ясно, что речь о наготе.",
       "keyword": "kao od majke rođen"
+    },
+    {
+      "headword_latin": "Kao pokisao miš",
+      "type": "frazeologizam",
+      "definition_ru": "как мокрая курица; жалкий, съёжившийся и растерянный",
+      "synonyms_sr": [
+        "utučen",
+        "pokunjen",
+        "jadan",
+        "klonuo"
+      ],
+      "literal_ru": "как промокшая мышь",
+      "register": "razg.-poredb.; o izgledu ili stanju čoveka",
+      "examples": [
+        {
+          "serbian_latin": "Stajao je pred vratima kao pokisao miš.",
+          "russian": "Он стоял у двери как мокрая курица.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Posle kritike izašao je kao pokisao miš.",
+          "russian": "После разноса он вышел совсем сникший.",
+          "source": ""
+        }
+      ],
+      "note": "Русский выбирает образ «мокрой курицы», сербский — промокшей мыши. Значение объединяет жалкий внешний вид, подавленность и потерю уверенности; буквальная мокрая одежда не обязательна.",
+      "keyword": "pokisao miš"
     },
     {
       "headword_latin": "Kao pokisla kokoš",
@@ -18839,6 +18887,48 @@
       "keyword": "samostalno; samoinicijativno; bez dozvole"
     },
     {
+      "headword_latin": "Na svoju štetu",
+      "type": "izraz",
+      "definition_ru": "себе во вред; в ущерб себе; за свой счёт",
+      "synonyms_sr": [
+        "sebi na štetu",
+        "protiv sopstvenog interesa",
+        "na sopstvenu štetu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; raditi nešto na svoju štetu",
+      "examples": [
+        {
+          "serbian_latin": "Ljudi koji žele da ugode drugima često to rade na sopstvenu štetu.",
+          "russian": "Люди, стремящиеся всем угодить, часто делают это в ущерб себе.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "Русское «на свой ущерб» звучит неестественно; переводить нужно «в ущерб себе», «себе во вред». Противоположная конструкция — u svoju korist «в свою пользу».",
+      "keyword": "šteta"
+    },
+    {
+      "headword_latin": "Na svu sreću",
+      "type": "izraz",
+      "definition_ru": "к счастью; по счастью; хорошо ещё, что",
+      "synonyms_sr": [
+        "srećom",
+        "na sreću",
+        "dobro je što"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; priloški izraz",
+      "examples": [
+        {
+          "serbian_latin": "Na svu sreću, telo ima način da se oslobodi ovih otrovnih hemikalija.",
+          "russian": "К счастью, организм умеет избавляться от этих токсичных веществ.",
+          "source": "RTS, 2025"
+        }
+      ],
+      "note": "Усиленное по сравнению с простым na sreću. Русский обычно не передаёт svu отдельно: естественное соответствие — просто «к счастью».",
+      "keyword": "sreća"
+    },
+    {
       "headword_latin": "Na udaru",
       "type": "kolokacija",
       "definition_ru": "под ударом; под давлением; стать объектом атаки, критики или воздействия",
@@ -19560,6 +19650,27 @@
       ],
       "note": "Очень полезное несовпадение: по-русски говорят «своими именами», а по-сербски — pravim imenom, буквально «правильным / настоящим именем». Калька svojim imenima здесь не нужна. Формула часто вводит прямую, намеренно недипломатичную оценку ситуации.",
       "keyword": "pravim imenom"
+    },
+    {
+      "headword_latin": "Ne bi ga ni rođena majka poznala",
+      "type": "izreka",
+      "definition_ru": "родная мать не узнала бы; изменился до неузнаваемости",
+      "synonyms_sr": [
+        "promenio se do neprepoznatljivosti",
+        "potpuno se promenio",
+        "neprepoznatljiv je"
+      ],
+      "literal_ru": "",
+      "register": "razg., hiperbolično",
+      "examples": [
+        {
+          "serbian_latin": "Namazanog blatom ni rođena majka me ne bi prepoznala.",
+          "russian": "Обмазанного грязью меня даже родная мать не узнала бы.",
+          "source": "RTS, 2010"
+        }
+      ],
+      "note": "Почти полное совпадение с русским. Часто используется о гриме, сильном изменении внешности, похудении, старении или переодевании.",
+      "keyword": "rođena majka"
     },
     {
       "headword_latin": "Ne bi ni mrava zgazio",
@@ -24328,31 +24439,28 @@
     {
       "headword_latin": "Okrenuti drugi obraz",
       "type": "frazeologizam",
-      "definition_ru": "Не отвечать злом на зло; отказаться от мести и ответной агрессии, проявить терпение и смирение.",
+      "definition_ru": "подставить другую щёку; не отвечать злом на зло; отказаться от мести",
       "synonyms_sr": [
         "ne uzvratiti istom merom",
-        "uzdržati se od osvete",
         "oprostiti",
         "ne svetiti se"
       ],
-      "literal_ru": "подставить другую щёку",
-      "register": "knjiški i opštepoznat biblijski izraz; često i u nereligioznom kontekstu",
+      "literal_ru": "повернуть другую щёку",
+      "register": "biblijski, knjiški; može i ironično",
       "examples": [
         {
-          "serbian_latin": "Progonitelju treba okrenuti i drugi obraz.",
-          "russian": "Преследователю следует подставить и другую щёку.",
-          "source": "RTS, 2016",
-          "url": "https://www.rts.rs/lat/vesti/svet/2549616/preobrazaj-prekaljenog-ratnika.html"
+          "serbian_latin": "Ako te ko udari po desnom obrazu, okreni mu i drugi.",
+          "russian": "Если тебя ударят по правой щеке, подставь и другую.",
+          "source": "Matej 5:39"
         },
         {
-          "serbian_latin": "Kako okrenuti i drugi obraz, ako imaš poriv da se osvetiš?",
-          "russian": "Как подставить другую щёку, если испытываешь желание отомстить?",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/kultura/intervju-boris-lijesevic/"
+          "serbian_latin": "Neću se svađati; ovog puta ću okrenuti drugi obraz.",
+          "russian": "Я не буду ссориться; на этот раз подставлю другую щёку.",
+          "source": ""
         }
       ],
-      "note": "Библейский образ, хорошо понятный и вне религиозной речи. Обычно речь не о буквальном повороте лица, а о сознательном отказе отвечать ударом на удар. Русский устойчивый эквивалент — «подставить другую щёку».",
-      "keyword": "drugi obraz; osveta"
+      "note": "Источник — Нагорная проповедь. В современной речи выражение может означать сознательно не отвечать на оскорбление или агрессию тем же; иногда употребляется иронически о чрезмерной уступчивости.",
+      "keyword": "drugi obraz"
     },
     {
       "headword_latin": "Okrenuti leđa nekome / nečemu",
@@ -26578,6 +26686,32 @@
       ],
       "note": "Для русского здесь важна конструкция: не ja padam na pamet, а meni je palo na pamet. В прошедшем времени особенно часта безличная модель palo mi je na pamet da... — «мне пришло в голову, что / сделать…». С отрицанием ne pada mi na pamet часто означает уже не «не приходит в голову», а решительное «и не подумаю!».",
       "keyword": "pasti na pamet"
+    },
+    {
+      "headword_latin": "Pasti na teret",
+      "type": "kolokacija",
+      "definition_ru": "лечь на чьи-либо расходы; быть отнесённым за чей-либо счёт; лечь бременем",
+      "synonyms_sr": [
+        "biti na teret",
+        "snositi trošak",
+        "opteretiti"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-oficijelno; naročito o troškovima i obavezama; pasti na teret kome/čemu + dativ",
+      "examples": [
+        {
+          "serbian_latin": "To pada na teret budžeta.",
+          "russian": "Это ложится на бюджет.",
+          "source": "Tanjug, 2026"
+        },
+        {
+          "serbian_latin": "Troškovi vraćanja padaju na teret kupca.",
+          "russian": "Расходы по возврату несёт покупатель.",
+          "source": ""
+        }
+      ],
+      "note": "Русский чаще использует разные глаголы: «расходы несёт покупатель», «это ложится на бюджет». Сербская модель pasti na teret универсальнее и особенно часта в договорах и деловой речи.",
+      "keyword": "teret"
     },
     {
       "headword_latin": "Pasti nekome kamen sa srca",
@@ -46003,6 +46137,27 @@
       "keyword": "zakopati ratnu sekiru; pomirenje; sukob"
     },
     {
+      "headword_latin": "Zalepiti se kao čičak",
+      "type": "frazeologizam",
+      "definition_ru": "прицепиться как репей; прилипнуть и не отвязываться",
+      "synonyms_sr": [
+        "zakačiti se kao čičak",
+        "lepiti se kao flaster",
+        "pratiti nekoga u stopu"
+      ],
+      "literal_ru": "прилипнуть как репей",
+      "register": "razg., neodobr.; o nametljivoj osobi",
+      "examples": [
+        {
+          "serbian_latin": "Ušunjao im se u kuću i zalepio za njih kao čičak.",
+          "russian": "Влез к ним в дом и прицепился как репей.",
+          "source": "Blic, 2004"
+        }
+      ],
+      "note": "Выражение включается исследователями в сербскую группу сравнительных фразеологизмов навязчивости наряду с dosadan kao stenica и lepiti se kao flaster. Русский «прицепиться как репей» совпадает почти полностью.",
+      "keyword": "čičak"
+    },
+    {
       "headword_latin": "Zalupiti / zatvoriti nekome vrata pred nosom",
       "type": "frazeologizam",
       "definition_ru": "захлопнуть дверь перед носом; дать от ворот поворот; отказать в доступе или поддержке",
@@ -47093,59 +47248,43 @@
     {
       "headword_latin": "Znati sve staze i bogaze",
       "type": "frazeologizam",
-      "definition_ru": "знать все дороги, тропы, ходы и выходы; прекрасно ориентироваться в местности или, переносно, в какой-либо среде",
+      "definition_ru": "знать все тропы; знать местность как свои пять пальцев; знать все ходы",
       "synonyms_sr": [
         "poznavati svaki put",
-        "znati sve puteve",
-        "dobro poznavati teren",
-        "znati sve prolaze"
+        "znati svaki ćošak",
+        "dobro poznavati teren"
       ],
       "literal_ru": "знать все тропы и теснины",
-      "register": "narodno, neutralno-razgovorno",
+      "register": "razg.-slikovito; pre svega o putevima, stazama i terenu",
       "examples": [
         {
-          "serbian_latin": "Znati (poznavati) sve staze i bogaze znači poznavati dobro sve puteve.",
-          "russian": "Знать все staze i bogaze — значит отлично знать все дороги.",
-          "source": "Vokabular.org, 2008",
-          "url": "https://www.vokabular.org/forum/index.php?topic=2071.msg19208"
-        },
-        {
-          "serbian_latin": "Staze i bogaze.",
-          "russian": "Тропы и дороги, хоженые и нехоженые пути.",
-          "source": "Danas, 2011",
-          "url": "https://www.danas.rs/vesti/drustvo/staze-i-bogaze/"
+          "serbian_latin": "Odrastao je ovde i zna sve staze i bogaze.",
+          "russian": "Он здесь вырос и знает каждую тропинку.",
+          "source": ""
         }
       ],
-      "note": "Bogaz — турцизм со значением узкого прохода, ущелья, теснины. В современном языке особенно живёт именно внутри сочетания staze i bogaze.",
-      "keyword": "staze; bogaze"
+      "note": "Bogaz — старое слово со значением узкого прохода, теснины, тропы. Сербские языковые источники объясняют znati sve staze i bogaze как «хорошо знать все дороги». Русское «знать все ходы и выходы» шире и чаще относится к устройству системы, тогда как сербский образ изначально пространственный.",
+      "keyword": "staze i bogaze"
     },
     {
       "headword_latin": "Znati za jadac",
       "type": "frazeologizam",
-      "definition_ru": "знать подвох; понимать уловку заранее и не дать себя провести",
+      "definition_ru": "знать, в чём подвох; быть начеку; меня не проведёшь",
       "synonyms_sr": [
-        "znati foru",
-        "prepoznati podvalu",
-        "ne dati se prevariti",
-        "znati trik"
+        "biti na oprezu",
+        "znati u čemu je caka",
+        "ne dati se prevariti"
       ],
       "literal_ru": "",
-      "register": "razgovorno, idiomatski",
+      "register": "razg.; često znam ja za jadac, on zna za jadac",
       "examples": [
         {
-          "serbian_latin": "Sam izraz „znam za jadac“ može da se izgovori i kad neko pokušava da vam podvali.",
-          "russian": "Выражение «я знаю этот подвох» говорят, когда кто-то пытается вас провести.",
-          "source": "Politika, 2022",
-          "url": "https://www.politika.rs/sr/clanak/515887/ostade-mi-samo-jadac"
-        },
-        {
-          "serbian_latin": "Ko pokazuje „šipak“, taj zna i za „jadac“.",
-          "russian": "Кто показывает «шиш», тот знает и про jadac — про подвох.",
-          "source": "Velike priče, 2026",
-          "url": "https://velikeprice.com/drustvo/ko-pokazuje-sipak-taj-zna-i-za-jadac/"
+          "serbian_latin": "Svako ko je više puta konkurisao za posao zna za jadac.",
+          "russian": "Тот, кто не раз устраивался на работу, уже знает, где тут подвох.",
+          "source": "Danas, 2010"
         }
       ],
-      "note": "Jadac — раздвоенная птичья косточка, с которой связана старая игра на ловкость и обман. Отсюда переносное znaš za jadac — «тебя не проведёшь».",
+      "note": "Jadac — раздвоенная птичья косточка и одновременно название старой игры-спора: принимая что-либо от партнёра, нужно помнить и сказать Znam za jadac, иначе проигрываешь. Такое значение и связь с игрой подтверждаются сербским диалектным словарём. Отсюда переносное «я помню о ловушке, меня врасплох не возьмёшь».",
       "keyword": "jadac"
     },
     {
@@ -47203,87 +47342,80 @@
     },
     {
       "headword_latin": "Zubato sunce",
-      "type": "metaforični izraz",
-      "definition_ru": "яркое, но холодное солнце; светит, но почти не греет",
+      "type": "frazeologizam",
+      "definition_ru": "солнце светит, да не греет; обманчивое зимнее солнце",
       "synonyms_sr": [
         "hladno sunce",
-        "zimsko sunce",
-        "sunce koje ne greje"
+        "zimsko sunce koje ne greje"
       ],
       "literal_ru": "зубастое солнце",
-      "register": "razgovorno-književno, slikovito",
+      "register": "razg.-slikovito; o sunčanom ali hladnom zimskom danu",
       "examples": [
         {
-          "serbian_latin": "Dok januarsko zubato sunce obasjava kupolu...",
-          "russian": "Пока январское холодное, «зубастое» солнце освещает купол...",
-          "source": "BBC na srpskom / Danas, 2019",
-          "url": "https://www.danas.rs/bbc-news-serbian/on-voli-nas-pravoslavce-kako-se-srbija-spremala-da-doceka-putina/"
+          "serbian_latin": "Hladan dan i zubato sunce, sneg na planinama.",
+          "russian": "Холодный день и солнце, которое светит, но не греет; в горах снег.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Pojavljuje se sunce na horizontu, ako je još zubato, ipak je sunce.",
-          "russian": "На горизонте появляется солнце — пусть пока холодное, но всё-таки солнце.",
-          "source": "Danas, 2015",
-          "url": "https://www.danas.rs/kolumna/cvijetin-milivojevic/ko-je-ovde-sveti-bik"
+          "serbian_latin": "Nemoj bez jakne, napolju je zubato sunce.",
+          "russian": "Не выходи без куртки: солнце обманчивое, на улице холодно.",
+          "source": ""
         }
       ],
-      "note": "Выражение особенно естественно для зимнего солнечного дня при низкой температуре. Zubato усиливает ощущение холода, будто солнце «кусается».",
+      "note": "Образ очень живой: солнце яркое, но вместо тепла как будто «кусается». Выражение не исчезло из современной речи и употребляется даже в прогнозах погоды.",
       "keyword": "zubato sunce"
     },
     {
       "headword_latin": "Zubići kao biseri",
-      "type": "poređenje",
-      "definition_ru": "красивые маленькие белые зубы, особенно у ребёнка; зубки как жемчужинки",
+      "type": "kolokacija",
+      "definition_ru": "зубки как жемчужинки; ровные белые зубки",
       "synonyms_sr": [
         "beli zubići",
-        "biserni zubi",
-        "zubi kao biseri"
+        "lepi zubići",
+        "biserno beli zubi"
       ],
-      "literal_ru": "зубки как жемчужины",
-      "register": "razgovorno, umiljato",
+      "literal_ru": "",
+      "register": "razg., umiljato; naročito prirodno o deci",
       "examples": [
         {
           "serbian_latin": "Igrom do zdravih zuba – Zubići kao biseri.",
           "russian": "Через игру к здоровым зубам — «Зубки как жемчужинки».",
-          "source": "Nedeljnik, 2026",
-          "url": "https://www.nedeljnik.rs/proglasene-igracke-sa-svrhom-2026/"
+          "source": "Nedeljnik, 2026"
         },
         {
-          "serbian_latin": "Igrom do zdravih zuba – Zubići kao biseri.",
-          "russian": "Игра для здоровых зубов — «Зубки как жемчужинки».",
-          "source": "Yumama, 2026",
-          "url": "https://yumama.mondo.rs/vesti/zanimljivosti/a57961/proglasene-igracke-sa-svrhom-2026.html"
+          "serbian_latin": "Nasmejala se i pokazala zubiće kao bisere.",
+          "russian": "Она улыбнулась и показала белые зубки-жемчужинки.",
+          "source": ""
         }
       ],
-      "note": "Это не строгий фразеологизм, а устойчивое образное сравнение и ласковая формула, особенно в речи о детях.",
-      "keyword": "zubići; biseri"
+      "note": "Уменьшительное zubići особенно характерно для детской речи и текстов о детях. Для взрослого нормально и zubi kao biseri; поэтому исходную мысль о том, что уменьшительное «обязательно», лучше не абсолютизировать.",
+      "keyword": "zubići"
     },
     {
       "headword_latin": "Zvocati",
       "type": "glagol",
-      "definition_ru": "пилить, зудеть, нудно и многократно попрекать, ворчать или повторять одно и то же",
+      "definition_ru": "пилить; зудеть; постоянно ворчать и попрекать",
       "synonyms_sr": [
         "zanovetati",
-        "gunđati",
         "prigovarati",
-        "dosađivati prigovorima"
+        "gunđati",
+        "kvocati"
       ],
       "literal_ru": "",
-      "register": "razgovorno, neodobravajuće",
+      "register": "razg., neodobr.; nesvršeni glagol; obično zvocati nekome",
       "examples": [
         {
-          "serbian_latin": "Skoro svaki dan Živanka nađe povod da „zvoca“ Draganu.",
-          "russian": "Почти каждый день Живанка находит повод пилить Драгана.",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/kolumna/misa-brkic/seca-sns-biznis-knezova/"
+          "serbian_latin": "Nemoj mi zvocati, već sam shvatio.",
+          "russian": "Не пили меня, я уже понял.",
+          "source": ""
         },
         {
-          "serbian_latin": "Prodaje suprugu, jer mnogo zvoca.",
-          "russian": "Он продаёт жену, потому что она слишком много пилит.",
-          "source": "Danas, 2008",
-          "url": "https://www.danas.rs/zivot/na-prodaju-supruga-koja-zvoca-model-iz-1983"
+          "serbian_latin": "Nisam ti rekao jer sam znao da ćeš zvocati.",
+          "russian": "Я тебе не сказал, потому что знал, что ты начнёшь зудеть.",
+          "source": ""
         }
       ],
-      "note": "Очень живой разговорный глагол. Обычно описывает постоянные мелкие претензии и повторяющиеся упрёки, а не разовую критику.",
+      "note": "Сербские словарные источники определяют zvocati как постоянно и надоедливо делать замечания, попрекать, ворчать. Для русского «пилить» очень хорошо передаёт семейно-бытовой оттенок.",
       "keyword": "zvocati"
     },
     {
@@ -47315,61 +47447,55 @@
     },
     {
       "headword_latin": "Žali se upravi vodovoda",
-      "type": "razgovorna / memna formula",
-      "definition_ru": "жалуйся куда хочешь — мне всё равно; твоя жалоба ничего не изменит",
+      "type": "replika",
+      "definition_ru": "жалуйся в спортлото; жалуйся кому хочешь; всем всё равно",
       "synonyms_sr": [
         "žali se kome hoćeš",
         "baš me briga",
-        "niko ti neće pomoći",
-        "piši žalbu"
+        "piši žalbu (iron.)"
       ],
       "literal_ru": "жалуйся управлению водопровода",
-      "register": "razgovorno, ironično, podrugljivo",
+      "register": "razg., ironično-odbijajuće",
       "examples": [
         {
-          "serbian_latin": "Najčešće dobijam isti odgovor moje nerazumne okoline: ma žali se upravi vodovoda.",
-          "russian": "Чаще всего получаю один и тот же ответ: да жалуйся хоть управлению водопровода.",
-          "source": "O radio, 2021",
-          "url": "https://oradio.rs/sr/podcast/zali-se-upravi-vodovoda-na-polarizaciju-2723.html"
+          "serbian_latin": "Najčešće dobijam isti odgovor: „Ma, žali se upravi vodovoda.“",
+          "russian": "Чаще всего я получаю один ответ: «Ну так жалуйся в спортлото».",
+          "source": "O radio, 2020"
         },
         {
-          "serbian_latin": "Rešenja za birokratiju na kraju i nema... žali se upravi vodovoda.",
-          "russian": "Решения бюрократической проблемы нет — жалуйся хоть водоканалу.",
-          "source": "O radio, 2020",
-          "url": "https://oradio.rs/sr/podcast/zali-se-upravi-vodovoda-na-birokratiju-2439.html"
+          "serbian_latin": "Ne sviđa ti se? Žali se upravi vodovoda.",
+          "russian": "Не нравится? Жалуйся в спортлото.",
+          "source": ""
         }
       ],
-      "note": "Шутливая бессмысленная инстанция для жалобы. Благодаря одноимённой рубрике O radija выражение получило дополнительную современную узнаваемость.",
-      "keyword": "uprava vodovoda"
+      "note": "Смысл в намеренно бессмысленном адресате: водоканал заведомо не имеет отношения к твоей жалобе. Формула настолько узнаваема, что O radio назвал ею целый цикл передач.",
+      "keyword": "vodovod"
     },
     {
       "headword_latin": "Želudac mi se prevrnuo",
-      "type": "frazeologizam / telesna metafora",
-      "definition_ru": "меня затошнило; меня передёрнуло от отвращения, страха или неприятного зрелища",
+      "type": "frazeologizam",
+      "definition_ru": "меня чуть не стошнило; меня передёрнуло от отвращения; с души воротит",
       "synonyms_sr": [
         "smučilo mi se",
-        "okrenuo mi se želudac",
-        "pripalo mi je muka",
+        "pripala mi je muka",
         "zgadilo mi se"
       ],
       "literal_ru": "у меня перевернулся желудок",
-      "register": "razgovorno, ekspresivno",
+      "register": "razg.; i o fizičkoj mučnini i o snažnom gađenju",
       "examples": [
         {
-          "serbian_latin": "Čim je Džo otvorio zavese, želudac mi se prevrnuo.",
-          "russian": "Как только Джо открыл занавески, меня затошнило от дурного предчувствия.",
-          "source": "BBC na srpskom / Danas, 2023",
-          "url": "https://www.danas.rs/bbc-news-serbian/nemacka-i-seksualno-zlostavljanje-obozavateljka-benda-ramstajn-tvrdi-da-su-je-pripremali-za-seks-sa-pevacem-na-koncertu/"
+          "serbian_latin": "Kako je film počeo, tako mi se želudac prevrnuo kad sam shvatio šta me čeka.",
+          "russian": "Как только фильм начался и я понял, что меня ждёт, меня чуть не стошнило.",
+          "source": "Nova.rs, 2023"
         },
         {
-          "serbian_latin": "Želudac mi se prevrnuo.",
-          "russian": "Меня чуть не вывернуло.",
-          "source": "Kurir, 2021",
-          "url": "https://www.kurir.rs/stars/rijaliti/3807771/dejan-se-kaje-zbog-braka-sa-dalilom"
+          "serbian_latin": "Želudac mi se prevrne kad vidim takvu prljavštinu.",
+          "russian": "Меня выворачивает, когда я вижу такую грязь.",
+          "source": ""
         }
       ],
-      "note": "Может описывать как настоящую тошноту, так и эмоциональное отвращение. Частый вариант: okrenuo mi se želudac.",
-      "keyword": "želudac; prevrnuti"
+      "note": "Возможны prevrnuo mi se želudac и želudac mi se prevrnuo. Несовершенное повторяющееся ощущение естественно передаётся как prevrće mi se želudac.",
+      "keyword": "želudac"
     },
     {
       "headword_latin": "Žila kucavica",
@@ -47425,6 +47551,27 @@
         }
       ],
       "note": "Форма bio исторически пожелательная, а не прошедшее время в современном смысле. Возможны živ mi bio, živ i zdrav bio, živa bila.",
+      "keyword": "živ bio"
+    },
+    {
+      "headword_latin": "Živ bio!",
+      "type": "replika",
+      "definition_ru": "спасибо!; дай бог здоровья!; будь здоров!",
+      "synonyms_sr": [
+        "hvala ti",
+        "svaka ti čast",
+        "da si živ i zdrav"
+      ],
+      "literal_ru": "будь жив",
+      "register": "razg., toplo zahvalno ili blagoslovno; ž. živa bila, mn. živi bili",
+      "examples": [
+        {
+          "serbian_latin": "Hvala ti puno. Živ bio, legendo!",
+          "russian": "Большое спасибо. Дай бог тебе здоровья, легенда!",
+          "source": "Kurir, 2024"
+        }
+      ],
+      "note": "Это не обычное прошедшее время со смыслом «был жив», а старая пожелательная формула. В учебных материалах по сербскому Živ bio! объясняется как пожелание и благодарность, особенно характерные для старших говорящих.",
       "keyword": "živ bio"
     },
     {
@@ -47484,6 +47631,27 @@
       ],
       "note": "Формула может употребляться и буквально по отношению к ребёнку, и шутливо по отношению ко взрослой женщине.",
       "keyword": "živa bila; velika porasla"
+    },
+    {
+      "headword_latin": "Živa bila, velika porasla!",
+      "type": "replika",
+      "definition_ru": "расти большая и здоровая!; будь здорова, расти большая!",
+      "synonyms_sr": [
+        "živa i zdrava bila",
+        "velika porasla",
+        "sve najbolje"
+      ],
+      "literal_ru": "",
+      "register": "razg., nežno blagoslovno; naročito detetu ili mlađoj osobi",
+      "examples": [
+        {
+          "serbian_latin": "Srećan ti prvi rođendan, živa bila i velika porasla!",
+          "russian": "С первым днём рождения! Расти большая и здоровая!",
+          "source": "Ringeraja.rs, 2011"
+        }
+      ],
+      "note": "Это традиционная ласковая благопожелательная формула, особенно естественная в поздравлениях ребёнку. В интернете она продолжает употребляться именно в пожеланиях на день рождения.",
+      "keyword": "velika porasla"
     },
     {
       "headword_latin": "Živa enciklopedija",
@@ -47627,30 +47795,27 @@
     {
       "headword_latin": "Živeti od danas do sutra",
       "type": "frazeologizam",
-      "definition_ru": "жить одним днём; не иметь устойчивого плана или запаса, перебиваться от сегодняшнего дня к завтрашнему",
+      "definition_ru": "жить одним днём; жить от одного дня до другого; перебиваться",
       "synonyms_sr": [
-        "živeti od danas do sutra",
-        "živeti dan za dan",
-        "ne planirati unapred",
-        "krpiti kraj s krajem"
+        "živeti bez plana",
+        "sastavljati kraj s krajem",
+        "ne misliti na budućnost"
       ],
       "literal_ru": "жить от сегодня до завтра",
-      "register": "razgovorno, neutralno do neodobravajuće",
+      "register": "razg.; može označavati i neplaniranje budućnosti i materijalnu nesigurnost",
       "examples": [
         {
           "serbian_latin": "Srbi su, po nekom mom shvatanju, živi od danas do sutra.",
-          "russian": "Сербы, по моему ощущению, живут от сегодня до завтра.",
-          "source": "RTS, 2022",
-          "url": "https://rts.rs/lat/rts/dijaspora/srbija-na-vezi/4575304/sprinteri-naspram-maratonaca.html"
+          "russian": "Сербы, по моему впечатлению, живут одним днём.",
+          "source": "RTS, 2022"
         },
         {
-          "serbian_latin": "Živi od danas do sutra.",
-          "russian": "Живёт одним днём.",
-          "source": "PileMoe — zbirka narodnih poslovica, pristupljeno 2026",
-          "url": "https://pilemoe.blogspot.com/p/narodne-poslovice.html"
+          "serbian_latin": "Bez stalnih primanja živeli su od danas do sutra.",
+          "russian": "Без постоянного дохода они перебивались со дня на день.",
+          "source": ""
         }
       ],
-      "note": "Может означать и беспечность («не думает о будущем»), и нестабильность («едва хватает на ближайший день»). Контекст решает.",
+      "note": "Контекст решает, идёт ли речь о беспечности и отсутствии планов или буквально о бедности. Лингвистические исследования также дают živeti od danas do sutra как эквивалент жизни без цели и долгосрочного плана.",
       "keyword": "od danas do sutra"
     },
     {
@@ -47711,58 +47876,48 @@
     {
       "headword_latin": "Životna škola skupo se plaća",
       "type": "izreka",
-      "definition_ru": "жизненный опыт часто приобретается через дорогие ошибки, потери и неприятные последствия; за науку жизни приходится платить",
+      "definition_ru": "жизненные уроки дорого обходятся; за науку жизни приходится платить",
       "synonyms_sr": [
-        "iskustvo se skupo plaća",
-        "greške su skupa škola",
-        "život uči na težak način"
+        "svaka škola se plaća",
+        "škola života je skupa",
+        "iskustvo se plaća"
       ],
-      "literal_ru": "за жизненную школу дорого платят",
-      "register": "aforistično, razgovorno",
+      "literal_ru": "",
+      "register": "razg.-aforistički; manje ustaljeno od Svaka škola se plaća",
       "examples": [
         {
-          "serbian_latin": "Životna škola skupo se plaća.",
-          "russian": "За жизненную школу дорого платят.",
-          "source": "Smijeh X — zbirka izreka, 2013",
-          "url": "https://smijeh-x.blogspot.com/2013/09/narodne-poslovice-doskocice-i-uzrecice.html"
-        },
-        {
-          "serbian_latin": "Postoji posebna ranjivost kod žena koje su skupo pohađale tu životnu školu.",
-          "russian": "Есть особая уязвимость у женщин, которым жизненная школа обошлась дорого.",
-          "source": "Marie Claire Srbija, 2024",
-          "url": "https://marieclaire.rs/lifestyle/report/stvarna-zivotna-skola/"
+          "serbian_latin": "Izgubio je pare, ali je naučio lekciju — životna škola skupo se plaća.",
+          "russian": "Деньги потерял, зато урок усвоил: за науку жизни приходится дорого платить.",
+          "source": ""
         }
       ],
-      "note": "Второй пример показывает живую вариацию той же метафоры. Формула может употребляться не только дословно, но и как skupo plaćena škola / skupo pohađati životnu školu.",
+      "note": "Выражение стоит сохранить как отдельную афористическую формулу из исходного словаря, но не стоит представлять его как каноническую народную пословицу. Более устойчива формула svaka škola se plaća; škola života сама по себе широко употребительна.",
       "keyword": "životna škola"
     },
     {
       "headword_latin": "Životna želja",
-      "type": "kolokacija / ustaljeni izraz",
-      "definition_ru": "мечта всей жизни; самое сильное и давнее желание человека",
+      "type": "kolokacija",
+      "definition_ru": "мечта всей жизни; заветное желание",
       "synonyms_sr": [
-        "san života",
         "najveća želja",
-        "davna želja",
-        "životni san"
+        "životni san",
+        "davna želja"
       ],
-      "literal_ru": "жизненное желание",
-      "register": "neutralno",
+      "literal_ru": "",
+      "register": "neutralno; tipično životna želja mi je da...",
       "examples": [
         {
-          "serbian_latin": "Njegova najveća praznična i životna želja je da ozdravi.",
-          "russian": "Его самая большая праздничная мечта и мечта всей жизни — выздороветь.",
-          "source": "RTS, 2022",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/5072085/nikolina-jedina-zelja-je-da-ozdravi--i-mi-mozemo-da-je-ispunimo-.html"
+          "serbian_latin": "To mi je bila životna želja.",
+          "russian": "Это было мечтой всей моей жизни.",
+          "source": "RTS, 2024"
         },
         {
-          "serbian_latin": "Meni je ostvarena životna želja da se bavim anesteziologijom na kardiohirurgiji.",
-          "russian": "Моя мечта всей жизни — заниматься анестезиологией в кардиохирургии — осуществилась.",
-          "source": "RTS, 2018",
-          "url": "https://www.rts.rs/lat/vesti/srbija-danas/3369615/posao-za-najbolje-mlade-niske-lekare.html"
+          "serbian_latin": "Moja životna želja je da jednom obiđem Japan.",
+          "russian": "Мечта всей моей жизни — однажды побывать в Японии.",
+          "source": ""
         }
       ],
-      "note": "Очень частотная нейтральная коллокация. По-русски чаще естественно «мечта всей жизни», а не буквальное «жизненное желание».",
+      "note": "Сербское želja шире русского «желание» и в таком сочетании естественно переводится именно как «мечта». Ср. životno delo «дело всей жизни», životna uloga «роль всей жизни».",
       "keyword": "životna želja"
     },
     {
