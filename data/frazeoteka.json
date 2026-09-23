@@ -36697,6 +36697,31 @@
       "keyword": "dete na trešnji"
     },
     {
+      "headword_latin": "Sreću čine male stvari",
+      "type": "izreka",
+      "definition_ru": "счастье в мелочах; счастье складывается из мелочей",
+      "synonyms_sr": [
+        "sreća je u malim stvarima",
+        "male stvari čine život lepšim"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-sentimentalno; savremena aforistička formula, nije tradicionalna poslovica",
+      "examples": [
+        {
+          "serbian_latin": "Rediteljka je htela da pokaže da sreću čine male stvari.",
+          "russian": "Режиссёр хотела показать, что счастье складывается из мелочей.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Kafa na terasi, mirno jutro — sreću čine male stvari.",
+          "russian": "Кофе на террасе, спокойное утро — счастье в мелочах.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение очень прозрачно и часто встречается в мотивационных текстах, рекламе и бытовой речи. Это скорее современная формула, чем народная пословица.",
+      "keyword": "sreća"
+    },
+    {
       "headword_latin": "Srušiti / spaliti mostove za sobom",
       "type": "frazeologizam",
       "definition_ru": "сжечь мосты; отрезать себе путь назад; окончательно порвать с прошлым",
@@ -36832,6 +36857,84 @@
       "keyword": "stajati na putu"
     },
     {
+      "headword_latin": "Stajati u stavu mirno",
+      "type": "izraz",
+      "definition_ru": "стоять по стойке смирно; стоять навытяжку",
+      "synonyms_sr": [
+        "stajati mirno",
+        "stajati kao vojnik",
+        "biti na gotovs"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; doslovno vojnički stav, preneseno bespogovorno se povinovati",
+      "examples": [
+        {
+          "serbian_latin": "Borci svih savezničkih armija stajali su u stavu mirno.",
+          "russian": "Бойцы всех союзных армий стояли по стойке смирно.",
+          "source": "RTS, 2025"
+        },
+        {
+          "serbian_latin": "Ne očekuj da pred tobom stojimo u stavu mirno.",
+          "russian": "Не жди, что мы будем перед тобой стоять навытяжку.",
+          "source": ""
+        }
+      ],
+      "note": "Команда — Mirno! «Смирно!», противоположная — Voljno! «Вольно!». В переносном употреблении выражение часто подчёркивает покорность перед авторитетом.",
+      "keyword": "stav mirno"
+    },
+    {
+      "headword_latin": "Stalo mi je do tebe",
+      "type": "izraz",
+      "definition_ru": "ты мне дорог; мне не всё равно; я дорожу тобой",
+      "synonyms_sr": [
+        "važan si mi",
+        "brinem za tebe",
+        "mnogo mi značiš"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; stalo je kome do koga/čega + genitiv; bezlična konstrukcija",
+      "examples": [
+        {
+          "serbian_latin": "Stalo mi je do tebe.",
+          "russian": "Ты мне дорог.",
+          "source": "Danas, 2013"
+        },
+        {
+          "serbian_latin": "Da mi nije stalo do tebe, ne bih ti ovo ni govorio.",
+          "russian": "Если бы ты мне был безразличен, я бы тебе этого даже не говорил.",
+          "source": ""
+        }
+      ],
+      "note": "Для русского особенно важно управление: stalo mi je do tebe / do posla / do toga. Конструкция безличная: буквально не «я дорожу», а «мне важно до…». Отрицательное nije mi stalo — «мне всё равно, мне не важно».",
+      "keyword": "stalo"
+    },
+    {
+      "headword_latin": "Stani malo, od Doboja Mujo, i mi konja za trku imamo",
+      "type": "krilatica",
+      "definition_ru": "погоди, мы тоже не лыком шиты; и у нас есть чем ответить",
+      "synonyms_sr": [
+        "i mi konja za trku imamo",
+        "imamo i mi svog aduta",
+        "nemoj nas potcenjivati"
+      ],
+      "literal_ru": "погоди, Муйо из Добоя, и у нас есть конь для скачки",
+      "register": "krilatica, šaljivo-zadirkivački; puna forma arhaičnija, jezgro i mi konja za trku imamo življe",
+      "examples": [
+        {
+          "serbian_latin": "Stani malo od Doboja Mujo, i mi konja za trku imamo.",
+          "russian": "Постой, Муйо из Добоя, и у нас есть чем ответить.",
+          "source": "stenografske beleške Narodne skupštine, 1937"
+        },
+        {
+          "serbian_latin": "Nemoj da nas otpisuješ — i mi konja za trku imamo.",
+          "russian": "Не списывай нас со счетов — мы тоже не лыком шиты.",
+          "source": ""
+        }
+      ],
+      "note": "Формула связана с народно-эпической строкой об Mujo od Doboja и конском состязании; в сербской публичной речи она употреблялась уже как готовая цитата. Современное практическое ядро — I mi konja za trku imamo: «у нас тоже есть сильный кандидат / козырь».",
+      "keyword": "konj za trku"
+    },
+    {
       "headword_latin": "Star kao Biblija",
       "type": "frazeologizam",
       "definition_ru": "стар как мир; древний; очень старый",
@@ -36911,6 +37014,32 @@
       ],
       "note": "Выражение легко переносится с прежнего возлюбленного на старый клуб, профессию, музыку, политическую партию или хобби. Поэтому русский «старая любовь не ржавеет» особенно удачен: он обладает той же переносимостью и тем же часто ироническим оттенком.",
       "keyword": "stara ljubav zaborava nema"
+    },
+    {
+      "headword_latin": "Stari konj",
+      "type": "frazeologizam",
+      "definition_ru": "старый хрыч; старикашка; пожилой мужчина — пренебрежительно",
+      "synonyms_sr": [
+        "matori konj",
+        "matorac (razg., blaže)",
+        "stariji čovek (neutralno)"
+      ],
+      "literal_ru": "старый конь",
+      "register": "razg., podrugljivo-neodobr.; o starijem muškarcu, ponekad o onome koji pokušava da se ponaša ili izgleda mlađe",
+      "examples": [
+        {
+          "serbian_latin": "Pogledaj starog konja, obukao se kao da mu je dvadeset.",
+          "russian": "Глянь на старого хрыча: вырядился так, будто ему двадцать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ma pusti tog starog konja, opet pametuje.",
+          "russian": "Да оставь ты этого старого хрыча, опять умничает.",
+          "source": ""
+        }
+      ],
+      "note": "Поправка к исходному JSON: значение «неотёсанный мужлан» слишком узкое. В фразеологии основной компонент — возраст; насмешка или неодобрение возникают из контекста, особенно если мужчина ведёт себя «не по годам».",
+      "keyword": "stari konj"
     },
     {
       "headword_latin": "Stati na kraj nečemu",
@@ -37934,6 +38063,32 @@
       "keyword": "novac sa strane"
     },
     {
+      "headword_latin": "Stena",
+      "type": "imenica",
+      "definition_ru": "скала; каменная глыба; перен. опора, надёжный человек",
+      "synonyms_sr": [
+        "hrid",
+        "kamena gromada",
+        "litica (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; preneseno o snažnom i pouzdanom čoveku",
+      "examples": [
+        {
+          "serbian_latin": "Popeli smo se na stenu iznad reke.",
+          "russian": "Мы забрались на скалу над рекой.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Otac mi je uvek bio stena.",
+          "russian": "Отец всегда был для меня опорой.",
+          "source": ""
+        }
+      ],
+      "note": "Важнейший ложный друг: сербское stena — не русская «стена». Русская «стена дома» — zid. Litica — скорее отвесная скала, обрыв.",
+      "keyword": "stena"
+    },
+    {
       "headword_latin": "Stezati / stegnuti kaiš",
       "type": "frazeologizam",
       "definition_ru": "затягивать пояс; экономить; урезать расходы",
@@ -38019,6 +38174,111 @@
       ],
       "note": "Ćud — не буквально «мнение», а «нрав, характер, индивидуальная натура». Поэтому русский «сколько людей, столько мнений» функционально хорош, но несколько сужает сербский смысл. Пословица применяется также к вкусам, привычкам и темпераменту. Она настолько узнаваема, что RTS свободно продолжает её: Sto ljudi, sto ćudi, dvesta problema.",
       "keyword": "sto ljudi sto ćudi"
+    },
+    {
+      "headword_latin": "Stoji ti kao piletu sise",
+      "type": "frazeologizam",
+      "definition_ru": "идёт тебе как корове седло; совершенно тебе не идёт",
+      "synonyms_sr": [
+        "uopšte ti ne stoji",
+        "ne pristaje ti",
+        "stoji ti smešno"
+      ],
+      "literal_ru": "сидит на тебе как сиськи на цыплёнке",
+      "register": "razg., grubo-šaljivo, podsmešljivo; obično o odeći ili modnom detalju",
+      "examples": [
+        {
+          "serbian_latin": "Te pantalone ti stoje kao piletu sise.",
+          "russian": "Эти брюки тебе идут как корове седло.",
+          "source": "Serbology, 2024"
+        },
+        {
+          "serbian_latin": "Skidaj taj šešir, stoji ti kao piletu sise.",
+          "russian": "Сними эту шляпу, она тебе совершенно не идёт.",
+          "source": ""
+        }
+      ],
+      "note": "Сравнение строится на абсурдности: у цыплёнка не может быть груди такого типа. Формула узнаваема в современной сербской разговорной культуре; нейтрально следует сказать ne stoji ti dobro или ne pristaje ti.",
+      "keyword": "pile"
+    },
+    {
+      "headword_latin": "Stoka bez repa",
+      "type": "frazeologizam",
+      "definition_ru": "скотина; хамьё; двуногое быдло",
+      "synonyms_sr": [
+        "stoka",
+        "primitivci",
+        "prostaci",
+        "bagra (grub.)"
+      ],
+      "literal_ru": "скот без хвоста",
+      "register": "grubo, uvredljivo; o čoveku ili grupi ljudi koji se ponašaju krajnje nekulturno",
+      "examples": [
+        {
+          "serbian_latin": "Guraju se, viču, bacaju smeće — stoka bez repa.",
+          "russian": "Толкаются, орут, мусорят — настоящее хамьё.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ko je ovo polomio? Stoka bez repa.",
+          "russian": "Кто это сломал? Скотина какая-то.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение не новое: формула stoka bez repa встречается и в классической сербской прозе. В современной речи это прямое тяжёлое оскорбление, а не нейтральная характеристика.",
+      "keyword": "stoka"
+    },
+    {
+      "headword_latin": "Strefila ga srčka",
+      "type": "izraz",
+      "definition_ru": "его хватил сердечный приступ; его чуть удар не хватил",
+      "synonyms_sr": [
+        "strefio ga infarkt",
+        "udarila ga srčka",
+        "srce ga je izdalo"
+      ],
+      "literal_ru": "",
+      "register": "razg.; često i hiperbolično: umalo me nije strefila srčka",
+      "examples": [
+        {
+          "serbian_latin": "Kada smo primili sedam golova, strefila me srčka.",
+          "russian": "Когда мы пропустили семь голов, меня хватил сердечный приступ.",
+          "source": "Danas, 2009"
+        },
+        {
+          "serbian_latin": "Umalo me nije strefila srčka kad sam video račun.",
+          "russian": "Меня чуть удар не хватил, когда я увидел счёт.",
+          "source": ""
+        }
+      ],
+      "note": "Srčka — разговорное название сердечного приступа / инфаркта; strefiti — «поразить, хватить». В бытовой речи формула нередко просто гиперболизирует сильный испуг.",
+      "keyword": "srčka"
+    },
+    {
+      "headword_latin": "Strm",
+      "type": "pridev",
+      "definition_ru": "крутой; резко наклонный; обрывистый",
+      "synonyms_sr": [
+        "veoma nagnut",
+        "kos (slabije)",
+        "strmen (ređe)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; o putu, usponu, padini, stepenicama, krovu",
+      "examples": [
+        {
+          "serbian_latin": "Put je veoma strm, vozi polako.",
+          "russian": "Дорога очень крутая, езжай медленно.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Do kuće vodi strmo stepenište.",
+          "russian": "К дому ведёт крутая лестница.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «крутой» значительно шире: «крутой парень» нельзя перевести как strm čovek. Strm относится прежде всего к физическому наклону; наречие — strmo, существительное — strmina.",
+      "keyword": "strm"
     },
     {
       "headword_latin": "Strpljen – spasen",
@@ -38398,6 +38658,33 @@
       "keyword": "svakog gosta"
     },
     {
+      "headword_latin": "Svašta",
+      "type": "izraz",
+      "definition_ru": "1. всякое; чего только не; 2. ну и ну!; безобразие!; ну уж нет!",
+      "synonyms_sr": [
+        "koješta",
+        "svakojake stvari",
+        "gluposti!",
+        "ma nemoj!"
+      ],
+      "literal_ru": "",
+      "register": "razg.; značenje zavisi od intonacije i konteksta",
+      "examples": [
+        {
+          "serbian_latin": "Šta si sve video na putu? — Svašta.",
+          "russian": "Чего ты только не повидал в поездке? — Да всякого.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Svašta! Ne možeš tako da razgovaraš s ljudima.",
+          "russian": "Ну и ну! Нельзя так разговаривать с людьми.",
+          "source": ""
+        }
+      ],
+      "note": "Не смешивать с отдельной формулой svašta nešto — «много всякого, всякая всячина». Самостоятельное Svašta! очень часто является возгласом возмущения или недоверия.",
+      "keyword": "svašta"
+    },
+    {
       "headword_latin": "Svašta nešto",
       "type": "izraz",
       "definition_ru": "всякое-разное; много чего; чего только нет",
@@ -38451,6 +38738,32 @@
       "keyword": "sve će to narod pozlatiti"
     },
     {
+      "headword_latin": "Sve ima svoje",
+      "type": "izreka",
+      "definition_ru": "у всего есть своя причина или смысл; всему своё; всё имеет свою сторону",
+      "synonyms_sr": [
+        "sve ima razlog",
+        "sve ima svoje vreme",
+        "svaka stvar ima svoju cenu"
+      ],
+      "literal_ru": "у всего есть своё",
+      "register": "razg., filozofsko-pomirljivo; namerno nedovršena formula",
+      "examples": [
+        {
+          "serbian_latin": "Nije ispalo kako smo planirali, ali sve ima svoje.",
+          "russian": "Получилось не так, как мы планировали, но, наверное, во всём есть свой смысл.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne žuri, sve ima svoje vreme.",
+          "russian": "Не спеши, всему своё время.",
+          "source": ""
+        }
+      ],
+      "note": "Исходное определение «у всего есть своя цена» слишком узкое. Смысл зависит от мысленно восстановленного слова: svoje vreme, svoje razloge, svoju cenu, svoje prednosti. Поэтому по-русски перевод приходится выбирать по ситуации.",
+      "keyword": "svoje"
+    },
+    {
       "headword_latin": "Sve je dobro što se dobro svrši",
       "type": "izreka",
       "definition_ru": "всё хорошо, что хорошо кончается",
@@ -38475,6 +38788,32 @@
       ],
       "note": "Сербская и русская формулы совпадают практически полностью. Это также традиционный сербский перевод названия пьесы Шекспира All’s Well That Ends Well, однако в обычной речи выражение совершенно самостоятельно и не воспринимается обязательно как литературная цитата.",
       "keyword": "sve je dobro što se dobro svrši"
+    },
+    {
+      "headword_latin": "Sve je lako kad si mlad",
+      "type": "izreka",
+      "definition_ru": "молодым всё по плечу; в молодости всё легко",
+      "synonyms_sr": [
+        "mladost sve može",
+        "dok si mlad, sve možeš",
+        "mladima je sve lakše"
+      ],
+      "literal_ru": "",
+      "register": "razg.-aforistički; često nostalgično ili šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Sve je stvarno lako kad si mlad.",
+          "russian": "Когда молод, действительно всё кажется лёгким.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Nekad smo radili celu noć pa ujutru išli na fakultet — sve je lako kad si mlad.",
+          "russian": "Когда-то мы работали всю ночь, а утром шли в университет — молодым всё нипочём.",
+          "source": ""
+        }
+      ],
+      "note": "Это не старая народная пословица. Формула дополнительно закрепилась в югославской поп-культуре благодаря песне Sve je lako kad si mlad группы Prljavo kazalište; поэтому у неё есть и узнаваемый музыкально-ностальгический оттенок.",
+      "keyword": "mlad"
     },
     {
       "headword_latin": "Sve je nekome ravno (do Kosova)",
@@ -38534,6 +38873,32 @@
       ],
       "note": "Образ обозначает не просто плохое настроение, а ощущение, что больше не осталось выхода или надежды на успех. Поэтому особенно естественно mislio sam da su mi sve lađe potonule, после чего ситуация иногда неожиданно меняется. Русское «все корабли потонули» фразеологизмом не является, поэтому буквально переводить не стоит. В сербском возможны и potonule su mi sve lađe, и более обычное sve lađe su mi potonule.",
       "keyword": "sve lađe su potonule"
+    },
+    {
+      "headword_latin": "Sve mu smeta",
+      "type": "izraz",
+      "definition_ru": "ему всё мешает; ему всё не так; он всем недоволен",
+      "synonyms_sr": [
+        "ništa mu ne odgovara",
+        "sve mu ide na živce",
+        "stalno nešto zamera"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; smetati kome + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Čas mu je hladno, čas vruće, čas je buka — sve mu smeta.",
+          "russian": "То ему холодно, то жарко, то шумно — всё ему не так.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne možeš mu ugoditi, sve mu smeta.",
+          "russian": "Ему не угодишь, он всем недоволен.",
+          "source": ""
+        }
+      ],
+      "note": "Русскому важно управление: smeta mi buka, smeta mu dim, smetam li ti? — «я тебе не мешаю?». Не нужен винительный падеж человека.",
+      "keyword": "smetati"
     },
     {
       "headword_latin": "Sve po PS-u",
@@ -38751,6 +39116,33 @@
       "keyword": "svesti račune"
     },
     {
+      "headword_latin": "Svetkom i petkom",
+      "type": "frazeologizam",
+      "definition_ru": "и в праздники, и в будни; без выходных; постоянно",
+      "synonyms_sr": [
+        "bez prestanka",
+        "bez odmora",
+        "i radnim danom i praznikom",
+        "danonoćno (jače)"
+      ],
+      "literal_ru": "по праздникам и по пятницам",
+      "register": "razg.; naročito o radu bez odmora; postoji i redosled petkom i svetkom",
+      "examples": [
+        {
+          "serbian_latin": "U Srbiji se i dalje radi „i svetkom i petkom“.",
+          "russian": "В Сербии по-прежнему работают и в праздники, и в будни — без передышки.",
+          "source": "Vreme, 2024"
+        },
+        {
+          "serbian_latin": "Radi svetkom i petkom, skoro nikad nema slobodan dan.",
+          "russian": "Работает без выходных, свободных дней почти не бывает.",
+          "source": ""
+        }
+      ],
+      "note": "Svetak — старое слово «праздничный, святой день», сохранившееся прежде всего в этой формуле. Сегодня весь оборот означает не буквально пятницу и праздник, а «постоянно, даже тогда, когда другие отдыхают».",
+      "keyword": "petak"
+    },
+    {
       "headword_latin": "Svetla tačka",
       "type": "frazeologizam",
       "definition_ru": "светлое пятно; приятное исключение; единственное хорошее на плохом фоне",
@@ -38893,6 +39285,32 @@
       "keyword": "svoje meso"
     },
     {
+      "headword_latin": "Svud se dičim što na babu ličim",
+      "type": "izreka",
+      "definition_ru": "везде горжусь, что похож на отца",
+      "synonyms_sr": [
+        "ponosim se što ličim na oca",
+        "na oca sam",
+        "isti sam otac"
+      ],
+      "literal_ru": "везде горжусь тем, что похож на отца",
+      "register": "regionalno, Sandžak/Bosna, rimovano; u opštem srpskom retko",
+      "examples": [
+        {
+          "serbian_latin": "Isti hod, isti glas — svud se dičim što na babu ličim.",
+          "russian": "Та же походка, тот же голос — горжусь, что похож на отца.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kažu da sam isti babo, a ja se time dičim.",
+          "russian": "Говорят, я весь в отца, и я этим горжусь.",
+          "source": ""
+        }
+      ],
+      "note": "Поправка: в исходном JSON было «на бабку похожа», но здесь babu — винительный от регионального babo «отец», а не от baba «бабушка». Именно такое толкование фиксируется в сборнике выражений Санджака. В стандартной сербской речи babo регионально; нейтральное слово — otac.",
+      "keyword": "babo"
+    },
+    {
       "headword_latin": "Svuda pođi, kući dođi",
       "type": "izreka",
       "definition_ru": "везде побывай, а домой возвращайся; в гостях хорошо, а дома лучше",
@@ -39001,6 +39419,33 @@
       "keyword": "šarena laža"
     },
     {
+      "headword_latin": "Šćućuriti se",
+      "type": "glagol",
+      "definition_ru": "съёжиться; свернуться калачиком; притулиться",
+      "synonyms_sr": [
+        "sklupčati se",
+        "zgrčiti se",
+        "priviti se",
+        "zavući se"
+      ],
+      "literal_ru": "",
+      "register": "razg.; svršeni glagol; šćućuren / šćućurena",
+      "examples": [
+        {
+          "serbian_latin": "Šćućurila se pored peći i čitala knjigu.",
+          "russian": "Она свернулась калачиком возле печки и читала книгу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Mačka se šćućurila u uglu kauča.",
+          "russian": "Кошка уютно свернулась в углу дивана.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол может описывать и уютную позу, и защитное съёживание от холода, страха или желания спрятаться. Словарное значение включает «согнуться, сжаться, скорчиться» и «прижаться к кому-либо или чему-либо».",
+      "keyword": "šćućuriti se"
+    },
+    {
       "headword_latin": "Šio mi / mu ga Đura",
       "type": "razgovorni izraz",
       "definition_ru": "ироническая реакция на неубедительное объяснение, неудачу или плохо сделанную вещь; примерно «ага, конечно», «не тут-то было», «ну и работёнка»",
@@ -39055,6 +39500,84 @@
       ],
       "note": "Значение сильно зависит от интонации: от русского «ага, конечно!» до «ну и х*р с ним». Популярная версия связывает выражение с белградским портным Đura Janošević и его мастерской конца XIX века; её повторяют современные сербские СМИ, но они опираются на популярные, а не академические этимологические источники, поэтому считать эту историю окончательно доказанной нельзя.",
       "keyword": "šio mi ga Đura"
+    },
+    {
+      "headword_latin": "Šljiva na oku",
+      "type": "frazeologizam",
+      "definition_ru": "фингал; синяк под глазом",
+      "synonyms_sr": [
+        "modrica oko oka",
+        "podliv",
+        "masnica (regionalno)"
+      ],
+      "literal_ru": "слива на глазу",
+      "register": "razg.; imati / dobiti / napraviti nekome šljivu na oku",
+      "examples": [
+        {
+          "serbian_latin": "Srpski reprezentativac dobio je šljivu na oku.",
+          "russian": "Сербский игрок получил фингал под глазом.",
+          "source": "Kurir, 2026"
+        },
+        {
+          "serbian_latin": "Otkud ti ta šljiva na oku?",
+          "russian": "Откуда у тебя этот фингал?",
+          "source": ""
+        }
+      ],
+      "note": "Образ связан с тёмно-синей или фиолетовой окраской гематомы. В сербской фразеологии фиксируется именно imati šljivu na oku — «иметь синяк вокруг глаза».",
+      "keyword": "šljiva"
+    },
+    {
+      "headword_latin": "Šta bih ja bez tebe?",
+      "type": "replika",
+      "definition_ru": "что бы я без тебя делал?; что бы я без тебя делала?",
+      "synonyms_sr": [
+        "šta bih bez tebe",
+        "mnogo mi pomažeš",
+        "spasao si me (po kontekstu)"
+      ],
+      "literal_ru": "",
+      "register": "razg.; zahvalno ili ironično; bih je oblik prvog lica kondicionala",
+      "examples": [
+        {
+          "serbian_latin": "Doneo si mi ključeve! Šta bih ja bez tebe?",
+          "russian": "Ты принёс мне ключи! Что бы я без тебя делал?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Opet si mi objasnio nešto što već znam. Šta bih ja bez tebe.",
+          "russian": "Ты опять объяснил мне то, что я и так знаю. Что бы я без тебя делал.",
+          "source": ""
+        }
+      ],
+      "note": "Поправка: нормативно Šta bih ja bez tebe?, а не Šta bi ja bez tebe. Форма ja bi часто встречается в разговорной речи, но стандартное первое лицо кондиционала — ja bih. Интонация решает, искренняя это благодарность или ирония.",
+      "keyword": "bez tebe"
+    },
+    {
+      "headword_latin": "Šta će mi?",
+      "type": "replika",
+      "definition_ru": "зачем мне это?; на что оно мне?; что мне с этим делать?",
+      "synonyms_sr": [
+        "ne treba mi",
+        "čemu mi to",
+        "šta će mi to"
+      ],
+      "literal_ru": "что оно мне будет",
+      "register": "razg.; dativ se menja: šta će ti / mu / joj / nam / vam",
+      "examples": [
+        {
+          "serbian_latin": "Šta će mi tehnolog za šljivovicu?",
+          "russian": "Зачем мне технолог для шливовицы?",
+          "source": "Politika, 2010"
+        },
+        {
+          "serbian_latin": "Uzmi još jednu kutiju. — Šta će mi?",
+          "russian": "Возьми ещё одну коробку. — На что она мне?",
+          "source": ""
+        }
+      ],
+      "note": "Очень живая конструкция ненужности. Русскому она может показаться вопросом о будущем из-за će, но здесь смысл не «что будет?», а «зачем это кому-либо?». Часто расширяется: Šta će mi to sad? — «И зачем мне это сейчас?».",
+      "keyword": "šta će mi"
     },
     {
       "headword_latin": "Šta fali?",
