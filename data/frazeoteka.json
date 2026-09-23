@@ -34672,6 +34672,33 @@
       "keyword": "skinuti kapu; poštovanje; priznanje"
     },
     {
+      "headword_latin": "Skini mi se s kurca",
+      "type": "replika",
+      "definition_ru": "отвали; отвяжись; отъ***сь от меня",
+      "synonyms_sr": [
+        "odjebi! (vulg.)",
+        "gubi se!",
+        "pusti me na miru!",
+        "skini mi se s grbače!"
+      ],
+      "literal_ru": "слезь с моего х*я",
+      "register": "vulg., veoma grubo i agresivno; samo u svađi ili vrlo familijarnom govoru",
+      "examples": [
+        {
+          "serbian_latin": "Skini mi se s kurca!",
+          "russian": "Отъ***сь от меня!",
+          "source": "Vukajlija, 2011"
+        },
+        {
+          "serbian_latin": "Skini mi se s kurca, nemam živaca za ovo.",
+          "russian": "Отвали от меня, у меня на это уже нет нервов.",
+          "source": ""
+        }
+      ],
+      "note": "Сербская реплика заметно грубее нейтрального русского «отвали»: по силе ближе к «отъ***сь от меня». Смягчённые ступени — skini mi se s grbače, pusti me na miru, ostavi me na miru.",
+      "keyword": "skinuti se"
+    },
+    {
       "headword_latin": "Skinuti kapu nekome",
       "type": "frazeologizam",
       "definition_ru": "снять шляпу перед кем-либо; отдать должное; выразить уважение",
@@ -34757,6 +34784,38 @@
       ],
       "note": "Образ связан с борьбой: пока «перчатки надеты», стороны ещё соблюдают определённые ограничения; skinuti rukavice означает отказаться от них. Русское «снять перчатки» понятно, но по контексту часто естественнее «перестать церемониться», «перейти к открытой борьбе».",
       "keyword": "skinuti rukavice"
+    },
+    {
+      "headword_latin": "Sklopiti / zaklopiti / preklopiti",
+      "type": "glagol",
+      "definition_ru": "sklopiti — сложить или соединить части; zaklopiti — закрыть, прикрыв; preklopiti — сложить, перегнув или наложив одну часть на другую",
+      "synonyms_sr": [
+        "sastaviti",
+        "zatvoriti",
+        "presaviti",
+        "savijati"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; tri glagola istog korena sa različitim prostornim rezultatom radnje",
+      "examples": [
+        {
+          "serbian_latin": "Sklopio je ruke na grudima.",
+          "russian": "Он сложил руки на груди.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zaklopi lonac da se jelo ne hladi.",
+          "russian": "Накрой кастрюлю крышкой, чтобы еда не остывала.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Preklopi papir napola.",
+          "russian": "Сложи лист бумаги пополам.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «сложить / закрыть» часто покрывает несколько сербских глаголов. Sklopiti соединяет части в целое, zaklopiti закрывает сверху или смыкает, preklopiti складывает одну часть поверх другой. Поэтому выбор приставки зависит от характера действия, а не только от русского перевода.",
+      "keyword": "klopiti"
     },
     {
       "headword_latin": "Sklopiti kockice",
@@ -34932,6 +34991,32 @@
       "keyword": "skrenuti s uma"
     },
     {
+      "headword_latin": "Skroz blesavo",
+      "type": "izraz",
+      "definition_ru": "совершенно дурацки; полный бред; полная нелепица",
+      "synonyms_sr": [
+        "potpuno besmisleno",
+        "sasvim glupo",
+        "totalno blesavo"
+      ],
+      "literal_ru": "",
+      "register": "razg.; skroz je razgovorni pojačivač",
+      "examples": [
+        {
+          "serbian_latin": "Ovo je skroz blesavo.",
+          "russian": "Это полный бред.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zvuči skroz blesavo, ali možda upali.",
+          "russian": "Звучит совершенно нелепо, но, может быть, сработает.",
+          "source": ""
+        }
+      ],
+      "note": "Skroz в разговорной речи значит «совсем, полностью»: skroz drugačije, skroz lud. Blesav обычно мягче и менее обидно, чем glup: это скорее «дурацкий, нелепый, чудной».",
+      "keyword": "blesav"
+    },
+    {
       "headword_latin": "Skuplja dara nego mera",
       "type": "izreka",
       "definition_ru": "овчинка выделки не стоит; расходы больше выгоды; слишком дорогая цена за результат",
@@ -35016,6 +35101,58 @@
       "keyword": "skupljati mrvice"
     },
     {
+      "headword_latin": "Skuvati se",
+      "type": "glagol",
+      "definition_ru": "свариться; изныть от жары; ужасно перегреться",
+      "synonyms_sr": [
+        "ispeći se",
+        "rastopiti se (pren.)",
+        "umreti od vrućine (pren.)"
+      ],
+      "literal_ru": "свариться",
+      "register": "razg. u prenesenom značenju; doslovno o hrani",
+      "examples": [
+        {
+          "serbian_latin": "Skuvaću se u ovom autobusu.",
+          "russian": "Я сейчас сварюсь в этом автобусе.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ceo dan smo bili na suncu i skoro se skuvali.",
+          "russian": "Мы весь день были на солнце и чуть не сварились.",
+          "source": ""
+        }
+      ],
+      "note": "Перенос практически полностью совпадает с русским «свариться от жары». В той же разговорной серии встречаются ispeći se «изжариться» и rastopiti se «растаять».",
+      "keyword": "skuvati se"
+    },
+    {
+      "headword_latin": "Slagati se kao rogovi u vreći",
+      "type": "frazeologizam",
+      "definition_ru": "жить как кошка с собакой; постоянно конфликтовать и не ладить",
+      "synonyms_sr": [
+        "stalno se svađati",
+        "ne slagati se",
+        "biti kao pas i mačka"
+      ],
+      "literal_ru": "ладить как рога в мешке",
+      "register": "razg., iron.; formalno je poređenje sa glagolom slagati se, ali značenje je suprotno doslovnom",
+      "examples": [
+        {
+          "serbian_latin": "Viktorija i Magdalena su kao rogovi u vreći.",
+          "russian": "Виктория и Магдалена живут как кошка с собакой.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Njih dvojica se slažu kao rogovi u vreći.",
+          "russian": "Эти двое постоянно грызутся друг с другом.",
+          "source": ""
+        }
+      ],
+      "note": "Комизм в том, что rogovi u vreći как раз не могут спокойно «уложиться»: торчат в разные стороны и цепляются. Поэтому slagati se kao rogovi u vreći означает не согласие, а постоянные столкновения.",
+      "keyword": "rogovi u vreći"
+    },
+    {
       "headword_latin": "Slatke muke",
       "type": "frazeologizam",
       "definition_ru": "приятные хлопоты; приятная проблема; муки выбора между хорошими вариантами",
@@ -35071,6 +35208,32 @@
       ],
       "note": "Полный русский эквивалент — «тупик». В переносном употреблении slepa ulica — это положение без ясного выхода или путь, который не может привести к результату. Синоним ćorsokak разговорнее и образнее.",
       "keyword": "slepa ulica; ćorsokak; bez izlaza"
+    },
+    {
+      "headword_latin": "Slepi putnik",
+      "type": "izraz",
+      "definition_ru": "безбилетник; заяц; пассажир, тайком едущий без билета или разрешения",
+      "synonyms_sr": [
+        "putnik bez karte",
+        "putnik na crno",
+        "ilegalni putnik"
+      ],
+      "literal_ru": "слепой пассажир",
+      "register": "neutralno-razg.; o putniku bez karte ili skrivenom putniku na brodu, vozu i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Kontrolor je u vozu otkrio slepog putnika.",
+          "russian": "Контролёр обнаружил в поезде безбилетника.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Na brodu su pronašli slepog putnika koji se sakrio među teretom.",
+          "russian": "На судне нашли нелегального пассажира, спрятавшегося среди груза.",
+          "source": ""
+        }
+      ],
+      "note": "Русский использует образ «зайца», а сербский — «слепого пассажира». В лексикографических объяснениях оборот связывают с пассажиром, который едет без билета или скрывается от контроля; этимологическое объяснение через немецкую модель встречается, но его лучше считать вероятным, а не бесспорным.",
+      "keyword": "slepi putnik"
     },
     {
       "headword_latin": "Sličan kao jaje jajetu",
@@ -35177,6 +35340,32 @@
       "keyword": "sloga"
     },
     {
+      "headword_latin": "Slomi nogu!",
+      "type": "replika",
+      "definition_ru": "ни пуха ни пера!; удачи!",
+      "synonyms_sr": [
+        "srećno!",
+        "mnogo sreće!",
+        "drž' se!"
+      ],
+      "literal_ru": "сломай ногу!",
+      "register": "razg., šalj.; želja za sreću, naročito pred nastup, ispit ili drugi važan događaj",
+      "examples": [
+        {
+          "serbian_latin": "Sutra ti je premijera? Slomi nogu!",
+          "russian": "Завтра премьера? Ни пуха ни пера!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Slomi nogu na ispitu!",
+          "russian": "Удачи на экзамене!",
+          "source": ""
+        }
+      ],
+      "note": "Формула употребляется по принципу пожелания «обратного» исхода и особенно связана со сценой; в сербском она существует, хотя нейтральное Srećno! универсальнее. Точное происхождение международного выражения спорно, поэтому не стоит приписывать ему одну доказанную этимологию.",
+      "keyword": "slomi nogu"
+    },
+    {
       "headword_latin": "Slomiti nekome srce",
       "type": "frazeologizam",
       "definition_ru": "разбить кому-либо сердце; причинить сильную эмоциональную, чаще любовную боль",
@@ -35203,6 +35392,32 @@
       ],
       "note": "Управление: slomiti srce nekome / slomiti nekome srce. Возможна пассивная конструкция srce mi je slomljeno.",
       "keyword": "slomiti srce; ljubav; bol"
+    },
+    {
+      "headword_latin": "Složna braća kuću grade, a nesložna i dvore razgrađuju",
+      "type": "poslovica",
+      "definition_ru": "согласие созидает, раздор разрушает; дружно — не грузно, а врозь — хоть брось",
+      "synonyms_sr": [
+        "u slozi je snaga",
+        "sloga kuću gradi",
+        "nesloga sve ruši"
+      ],
+      "literal_ru": "дружные братья дом строят, а недружные и палаты разрушают",
+      "register": "poslovica, nar., poučno; postoje kraće i varijantne forme",
+      "examples": [
+        {
+          "serbian_latin": "Držite se zajedno — složna braća kuću grade, a nesložna i dvore razgrađuju.",
+          "russian": "Держитесь вместе: согласие созидает, а раздор разрушает.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad svako vuče na svoju stranu, seti se: složna braća kuću grade.",
+          "russian": "Когда каждый тянет в свою сторону, вспомни: в согласии сила.",
+          "source": ""
+        }
+      ],
+      "note": "Dvori здесь — старое «палаты, большой дом», а не просто двор перед домом. В пословичном фонде встречаются сокращённые и перестроенные варианты второй части.",
+      "keyword": "složna braća"
     },
     {
       "headword_latin": "Smandrljati",
@@ -35232,27 +35447,82 @@
       "keyword": "smandrljati"
     },
     {
-      "headword_latin": "smejati se kao lud na brašno",
-      "type": "устойчивое сравнение",
-      "definition_ru": "Смеяться без видимой причины; глупо или неудержимо хохотать.",
+      "headword_latin": "Smarač",
+      "type": "sleng",
+      "definition_ru": "зануда; душнила; человек, который утомляет и надоедает",
+      "synonyms_sr": [
+        "dosadnjaković",
+        "gnjavator",
+        "naporna osoba"
+      ],
+      "literal_ru": "",
+      "register": "razg.-sleng, neodobr.; ž. smaračica; od glagola smarati",
+      "examples": [
+        {
+          "serbian_latin": "Ne zovi ga, teški je smarač.",
+          "russian": "Не зови его, он ужасный зануда.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj da budeš smarač, idemo još malo da prošetamo.",
+          "russian": "Не будь душнилой, давай ещё немного прогуляемся.",
+          "source": ""
+        }
+      ],
+      "note": "Полезно учить всё гнездо: smarati nekoga — «доставать, утомлять», smara me — «меня это достаёт / мне скучно», smor — «скука, тягомотина», smoren — «закисший, морально вымотанный». Русское «зануда» покрывает прежде всего человека, а сербский корень smor- значительно шире.",
+      "keyword": "smarač"
+    },
+    {
+      "headword_latin": "Smejati se kao lud na brašno",
+      "type": "frazeologizam",
+      "definition_ru": "смеяться без всякой причины; ржать как ненормальный",
       "synonyms_sr": [
         "smejati se bez razloga",
         "cerekati se",
-        "keziti se",
-        "smejati se kao lud"
+        "keziti se bez razloga"
       ],
-      "literal_ru": "Смеяться как сумасшедший на муку.",
-      "register": "Разговорное, экспрессивное, насмешливое.",
+      "literal_ru": "смеяться как сумасшедший на муку",
+      "register": "razg., podsmešljivo; o neobjašnjivom ili neprimerenom smehu",
       "examples": [
         {
-          "serbian_latin": "Vidi ludaka, smeje se kao lud na brašno?",
-          "russian": "Ты посмотри на этого ненормального: смеётся неизвестно чему.",
-          "source": "Danas, 2022",
-          "url": "https://www.danas.rs/zivot/odakle-potice-izraz-smeje-se-kao-lud-na-brasno-i-sta-znaci/"
+          "serbian_latin": "Vidi ludaka, smeje se kao lud na brašno.",
+          "russian": "Смотри, смеётся без всякой причины, как ненормальный.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Šta se smeješ kao lud na brašno?",
+          "russian": "Чего ты ржёшь без причины?",
+          "source": ""
         }
       ],
-      "note": "Так говорят о человеке, чей смех кажется окружающим беспричинным или неуместным. Происхождение выражения объясняют несколькими народными историями, но достоверная этимология не установлена.",
-      "keyword": "brašno"
+      "note": "Danas прямо объясняет выражение как смех без видимой причины. Существует несколько популярных историй происхождения, но даже более ранняя колонка Danas отмечала, что происхождение неясно; поэтому единственную версию лучше не выдавать за установленный факт.",
+      "keyword": "lud na brašno"
+    },
+    {
+      "headword_latin": "Smeši mu se brk",
+      "type": "frazeologizam",
+      "definition_ru": "он довольно усмехается; не может скрыть довольную улыбку",
+      "synonyms_sr": [
+        "zadovoljno se smeškati",
+        "jedva skrivati osmeh",
+        "smejuljiti se"
+      ],
+      "literal_ru": "ус ему улыбается",
+      "register": "razg., slikovito; o jedva prikrivenom zadovoljstvu ili veselju",
+      "examples": [
+        {
+          "serbian_latin": "„Svi smo mi isti kreteni“ — smeši mu se brk.",
+          "russian": "«Все мы одинаковые идиоты», — говорит он с довольной усмешкой.",
+          "source": "Večernje novosti, 2025"
+        },
+        {
+          "serbian_latin": "Ćuti, a smeši mu se brk — vidi se da je zadovoljan.",
+          "russian": "Молчит, а сам довольно усмехается — видно, что доволен.",
+          "source": ""
+        }
+      ],
+      "note": "Brk в устойчивом образе не обязательно требует буквального внимания к усам: важна картина едва скрываемой довольной улыбки. По-русски естественны «усмехаться в усы», «довольно улыбаться», «не скрывать удовольствия».",
+      "keyword": "brk"
     },
     {
       "headword_latin": "Smeši se nekome brk",
@@ -35282,32 +35552,29 @@
     },
     {
       "headword_latin": "Smilje i bosilje",
-      "type": "frazeologizam / simbolična formula",
-      "definition_ru": "1) идиллия, благодать, нечто хорошее; 2) в сравнении — ещё цветочки, ещё вполне хорошо по сравнению с чем-то гораздо худшим",
+      "type": "frazeologizam",
+      "definition_ru": "благодать; красота; ещё цветочки по сравнению с чем-то гораздо худшим",
       "synonyms_sr": [
-        "milina",
         "divota",
-        "još je dobro",
-        "prava blagodat"
+        "milina",
+        "još i dobro"
       ],
       "literal_ru": "бессмертник и базилик",
-      "register": "narodno, književno i razgovorno; često u konstrukciji biti smilje i bosilje prema nečemu",
+      "register": "razg., često iron.; naročito nije sve smilje i bosilje i X je smilje i bosilje prema Y",
       "examples": [
         {
-          "serbian_latin": "One su prema bosanskim čitluk-sahibijama bile smilje i bosilje.",
-          "russian": "По сравнению с боснийскими землевладельцами они были просто благодатью.",
-          "source": "Vuk Karadžić, „Život i običaji naroda srpskoga“, Wikizvor (pristupljeno 2026)",
-          "url": "https://sr.wikisource.org/sr-el/%D0%96%D0%B8%D0%B2%D0%BE%D1%82_%D0%B8_%D0%BE%D0%B1%D0%B8%D1%87%D0%B0%D1%98%D0%B8_%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B0_%D1%81%D1%80%D0%BF%D1%81%D0%BA%D0%BE%D0%B3%D0%B0/6"
+          "serbian_latin": "Nije ni tamo sve smilje i bosilje.",
+          "russian": "И там далеко не всё так прекрасно.",
+          "source": ""
         },
         {
-          "serbian_latin": "Đe od nje kaplja krvi pala, onđe raste smilje i bosilje.",
-          "russian": "Где упала капля её крови, там растут бессмертник и базилик.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/tv/rts-digital/2833017/.html?print=true"
+          "serbian_latin": "Prošla zima je bila smilje i bosilje prema ovoj.",
+          "russian": "Прошлая зима была просто благодать по сравнению с этой.",
+          "source": ""
         }
       ],
-      "note": "В народной культуре smilje и bosilje — растения с сильной положительной символикой. Отсюда переносное «milina, divota». Особенно полезна конструкция X je smilje i bosilje prema Y — «X ещё цветочки по сравнению с Y».",
-      "keyword": "smilje; bosilje"
+      "note": "Смысл строится на приятном образе ароматных и традиционно ценимых растений. Выражение может означать «красота, благодать», но особенно характерно сравнительное употребление: что-то неприятное всё же smilje i bosilje рядом с ещё худшим. Дополнительная южнославянская лексикографическая фиксация даёт значения divota, milina.",
+      "keyword": "smilje i bosilje"
     },
     {
       "headword_latin": "Smor",
@@ -35335,6 +35602,111 @@
       ],
       "note": "Smor шире русского «скука»: ovo je smor может означать «это скукотища / это муторно / это достало». О человеке возможно on je smor, но для «зануда» точнее smarač. Связаны также smarati «доставать, утомлять, надоедать» и smoren «уставший от всего, скучающий, без настроения». Слово прочно вошло в современную разговорную речь, хотя сохраняет сленговую окраску.",
       "keyword": "smor"
+    },
+    {
+      "headword_latin": "Smoren sam",
+      "type": "sleng",
+      "definition_ru": "мне скучно; меня всё достало; я морально вымотан и без настроения",
+      "synonyms_sr": [
+        "smorio sam se",
+        "u bedu sam",
+        "smučilo mi se",
+        "bezvoljan sam"
+      ],
+      "literal_ru": "",
+      "register": "razg.-sleng.; stanje dosade, bezvoljnosti ili psihičke iscrpljenosti, ne nužno fizičkog umora",
+      "examples": [
+        {
+          "serbian_latin": "Smoren sam, ništa mi se ne radi.",
+          "russian": "Мне всё надоело, ничего не хочется делать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Baš sam smoren danas, hajde da izađemo negde.",
+          "russian": "Я сегодня совсем скис, давай куда-нибудь выйдем.",
+          "source": ""
+        }
+      ],
+      "note": "Smoren не равно просто umoran. Человек может быть физически бодр, но скучать, быть без настроения или чувствовать себя морально выжатым. Слово принадлежит тому же разговорному гнезду, что smor, smarati и smarač.",
+      "keyword": "smoren"
+    },
+    {
+      "headword_latin": "Smrdi kao kod lavova",
+      "type": "frazeologizam",
+      "definition_ru": "воняет ужасно; вонища как в зверинце; хоть топор вешай",
+      "synonyms_sr": [
+        "užasno smrdi",
+        "vonja",
+        "smrdi kao tvor"
+      ],
+      "literal_ru": "воняет как у львов",
+      "register": "razg., grubo-šalj.; o veoma jakom neprijatnom mirisu",
+      "examples": [
+        {
+          "serbian_latin": "Za zeca svi kažu da smrdi kao kod lavova.",
+          "russian": "Про кролика все говорят, что от него вонища как в зверинце.",
+          "source": "Forum Krstarica, 2011"
+        },
+        {
+          "serbian_latin": "Otvori prozor, smrdi kao kod lavova.",
+          "russian": "Открой окно, тут хоть топор вешай.",
+          "source": ""
+        }
+      ],
+      "note": "Исходный JSON слишком узко связывал выражение только с непроветренным помещением. По живому употреблению оно просто усиливает оценку очень сильного неприятного запаха — от помещения, животного или чего-либо другого. Образ отсылает к запаху зверинца или клетки крупных животных.",
+      "keyword": "lavovi"
+    },
+    {
+      "headword_latin": "Smrt je jedina pravda na svetu",
+      "type": "izreka",
+      "definition_ru": "смерть — единственная справедливость на свете; перед смертью все равны",
+      "synonyms_sr": [
+        "pred smrću su svi jednaki",
+        "smrt sve izjednačava"
+      ],
+      "literal_ru": "",
+      "register": "aforistički, mračno; kao izreka o jednakosti svih pred smrću",
+      "examples": [
+        {
+          "serbian_latin": "Ni bogatstvo mu nije pomoglo — smrt je jedina pravda na svetu.",
+          "russian": "И богатство ему не помогло: перед смертью все равны.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kažu da je smrt jedina pravda na svetu.",
+          "russian": "Говорят, что смерть — единственная справедливость на свете.",
+          "source": ""
+        }
+      ],
+      "note": "Формула встречается как афористическое высказывание, но надёжно считать её общеупотребительной старой сербской народной пословицей не стоит: подтверждается она слабее классических пословиц. В исходнике встречалась иекавская форма svijetu; для сербского экавского стандарта — svetu.",
+      "keyword": "smrt"
+    },
+    {
+      "headword_latin": "Snađi se",
+      "type": "replika",
+      "definition_ru": "выкручивайся сам; сообрази на месте; найди выход как умеешь",
+      "synonyms_sr": [
+        "snađi se kako znaš",
+        "nađi rešenje",
+        "izvuci se",
+        "snalazi se"
+      ],
+      "literal_ru": "",
+      "register": "razg.; imperativ od snaći se; česta formula sistem snađi se",
+      "examples": [
+        {
+          "serbian_latin": "Sve po sistemu „snađi se“.",
+          "russian": "Всё по принципу «выкручивайся как умеешь».",
+          "source": "Politika, 2011"
+        },
+        {
+          "serbian_latin": "Niko ti neće objasniti proceduru — snađi se.",
+          "russian": "Процедуру тебе никто не объяснит — выкручивайся сам.",
+          "source": ""
+        }
+      ],
+      "note": "Сам глагол snaći se нейтрален и означает «сориентироваться, найти выход». Но sistem / parola snađi se часто критически описывает среду, где человеку не дают нормальной поддержки и перекладывают всё на его личную находчивость. Snalažljiv при этом обычно положительно характеризует практичную способность найти решение.",
+      "keyword": "snađi se"
     },
     {
       "headword_latin": "Snaga na usta ulazi",
@@ -35557,6 +35929,32 @@
       "keyword": "most"
     },
     {
+      "headword_latin": "Spasti / pasti s konja na magarca",
+      "type": "frazeologizam",
+      "definition_ru": "с коня да на осла; резко ухудшить своё положение; опуститься на ступень ниже",
+      "synonyms_sr": [
+        "nazadovati",
+        "pasti na niže grane",
+        "pogoršati položaj"
+      ],
+      "literal_ru": "свалиться с коня на осла",
+      "register": "razg., iron.-saosećajno; o padu statusa, kvaliteta, prihoda ili uslova",
+      "examples": [
+        {
+          "serbian_latin": "Moj pokojni Aleksa, ćale, predratni trgovac, koji je spao sa konja na magarca...",
+          "russian": "Мой покойный отец Алекса, довоенный торговец, резко опустился в положении...",
+          "source": "RTS, 2013"
+        },
+        {
+          "serbian_latin": "Prešao je iz odlične firme u mnogo goru — spao je s konja na magarca.",
+          "russian": "Ушёл из отличной фирмы в куда худшую — с коня да на осла.",
+          "source": ""
+        }
+      ],
+      "note": "Русское «из князи в грязи» обычно звучит сильнее и предполагает почти полный крах. Сербский образ относительный: человек пересел с лучшего положения на заметно худшее. Употребляются spasti и pasti s konja na magarca.",
+      "keyword": "konj; magarac"
+    },
+    {
       "headword_latin": "Spasti na prosjački štap",
       "type": "frazeologizam",
       "definition_ru": "пойти по миру; обнищать; оказаться в полной нищете",
@@ -35749,6 +36147,32 @@
       "keyword": "spiskati"
     },
     {
+      "headword_latin": "Splet okolnosti",
+      "type": "kolokacija",
+      "definition_ru": "стечение обстоятельств",
+      "synonyms_sr": [
+        "sticaj okolnosti",
+        "kombinacija okolnosti",
+        "okolnosti su se tako složile"
+      ],
+      "literal_ru": "сплетение обстоятельств",
+      "register": "neutralno-knjiški; često nesrećan, neobičan, povoljan splet okolnosti",
+      "examples": [
+        {
+          "serbian_latin": "To je bio splet okolnosti.",
+          "russian": "Это было стечение обстоятельств.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Sve se desilo zbog nesrećnog spleta okolnosti.",
+          "russian": "Всё произошло из-за несчастливого стечения обстоятельств.",
+          "source": ""
+        }
+      ],
+      "note": "Почти полный эквивалент русского «стечение обстоятельств». Splet сам по себе передаёт переплетение нескольких факторов; типичны сочетания nesrećan, čudan, neobičan, povoljan splet okolnosti.",
+      "keyword": "splet okolnosti"
+    },
+    {
       "headword_latin": "Spojiti lepo i korisno",
       "type": "izraz",
       "definition_ru": "совместить приятное с полезным",
@@ -35799,6 +36223,32 @@
       ],
       "note": "Gladac вне этой рифмованной формулы современному учащемуся почти не нужен: слово здесь сохраняется прежде всего ради старого образа и рифмы gladac — jadac. Выражение подчёркивает именно несоответствие фасада содержанию, поэтому близкое nije zlato sve što sija шире: оно говорит вообще о ложном внешнем впечатлении. Встречается также вариант без a: spolja gladac, unutra jadac.",
       "keyword": "spolja gladac unutra jadac"
+    },
+    {
+      "headword_latin": "Spolja gledano",
+      "type": "izraz",
+      "definition_ru": "если смотреть со стороны; внешне; на первый взгляд",
+      "synonyms_sr": [
+        "na prvi pogled",
+        "gledano sa strane",
+        "spolja posmatrano"
+      ],
+      "literal_ru": "если смотреть снаружи",
+      "register": "neutralno; izdvojeni priloški izraz, često na početku rečenice",
+      "examples": [
+        {
+          "serbian_latin": "Spolja gledano, njihovi životi deluju veoma različito.",
+          "russian": "Если смотреть со стороны, их жизни кажутся совершенно разными.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Spolja gledano, sve je u redu.",
+          "russian": "Внешне всё в порядке.",
+          "source": ""
+        }
+      ],
+      "note": "Близко к na prvi pogled, но не полностью тождественно: spolja gledano подчёркивает внешнюю перспективу, тогда как na prvi pogled — первое впечатление вообще. В русском часто достаточно наречия «внешне».",
+      "keyword": "spolja"
     },
     {
       "headword_latin": "Sprati ljagu sa nekoga / nečega",
@@ -36219,6 +36669,32 @@
       ],
       "note": "Русское «счастье в несчастье» совпадает буквально, а «нет худа без добра» часто звучит естественнее как свободный перевод. Выражение не превращает плохое событие в хорошее: оно выделяет одну благоприятную деталь внутри в целом неприятной ситуации.",
       "keyword": "sreća u nesreći"
+    },
+    {
+      "headword_latin": "Srećan kao dete na trešnji",
+      "type": "frazeologizam",
+      "definition_ru": "счастлив как ребёнок; на седьмом небе от счастья",
+      "synonyms_sr": [
+        "presrećan",
+        "na sedmom nebu",
+        "ushićen"
+      ],
+      "literal_ru": "счастлив как ребёнок на черешне",
+      "register": "razg., slikovito; retko i regionalno obojeno, slabije potvrđeno od opštih poređenja",
+      "examples": [
+        {
+          "serbian_latin": "Kad je dobio novi bicikl, bio je srećan kao dete na trešnji.",
+          "russian": "Когда ему подарили новый велосипед, он был на седьмом небе.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Sedi za računarom srećan kao dete na trešnji i neće da ustane.",
+          "russian": "Сидит за компьютером довольный как ребёнок и вставать не хочет.",
+          "source": ""
+        }
+      ],
+      "note": "В исходном словаре образ объясняется как ребёнок, уже забравшийся на дерево среди ягод и совершенно счастливый. Однако точное сравнение srećan kao dete na trešnji подтверждается слабее, чем общеупотребительные srećan kao dete / srećan kao malo dete, поэтому единицу лучше хранить с пометой «редк./регионально», а не подавать как общесербскую норму.",
+      "keyword": "dete na trešnji"
     },
     {
       "headword_latin": "Srušiti / spaliti mostove za sobom",
