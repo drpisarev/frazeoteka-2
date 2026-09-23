@@ -39580,6 +39580,84 @@
       "keyword": "šta će mi"
     },
     {
+      "headword_latin": "Šta ćemo",
+      "type": "replika",
+      "definition_ru": "что поделаешь; ну что ж; ничего не поделаешь",
+      "synonyms_sr": [
+        "šta se može",
+        "tako je kako je",
+        "šta da se radi"
+      ],
+      "literal_ru": "что будем [делать]",
+      "register": "razg.; može biti pravo pitanje, ali često formula mirenja s neizbežnim",
+      "examples": [
+        {
+          "serbian_latin": "Ponovo pada kiša. — E, šta ćemo, ostajemo kod kuće.",
+          "russian": "Опять дождь. — Ну что поделаешь, остаёмся дома.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nije ispalo kako smo hteli, ali šta ćemo.",
+          "russian": "Получилось не так, как хотелось, но ничего не поделаешь.",
+          "source": ""
+        }
+      ],
+      "note": "Интонация отличает реальный вопрос Šta ćemo sutra? «Что будем делать завтра?» от законченной реплики Šta ćemo... «что поделаешь». Во втором случае ответа обычно не ожидают.",
+      "keyword": "šta ćemo"
+    },
+    {
+      "headword_latin": "Šta da se radi",
+      "type": "replika",
+      "definition_ru": "что поделаешь; ничего не попишешь; что тут сделаешь",
+      "synonyms_sr": [
+        "šta ćemo",
+        "šta se može",
+        "tako je kako je"
+      ],
+      "literal_ru": "",
+      "register": "razg.; bezlična konstrukcija da + prezent; prihvatanje neprijatne činjenice",
+      "examples": [
+        {
+          "serbian_latin": "Otkazali su let. Šta da se radi.",
+          "russian": "Рейс отменили. Что поделаешь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nema više karata — šta da se radi, doći ćemo drugi put.",
+          "russian": "Билетов больше нет — ничего не поделаешь, придём в другой раз.",
+          "source": ""
+        }
+      ],
+      "note": "Очень близко к Šta ćemo, но здесь нет конкретного «мы»: формула безличная. Русскому важно не калькировать как «что делать?» во всех случаях: часто это уже не вопрос, а вздох примирения.",
+      "keyword": "šta da se radi"
+    },
+    {
+      "headword_latin": "Šta da ti kažem",
+      "type": "replika",
+      "definition_ru": "что тебе сказать; ну что сказать; как тебе сказать",
+      "synonyms_sr": [
+        "kako da ti kažem",
+        "šta reći",
+        "ne znam šta da kažem"
+      ],
+      "literal_ru": "",
+      "register": "razg.; uvod u nezgodan, neodređen ili ne naročito pozitivan odgovor",
+      "examples": [
+        {
+          "serbian_latin": "Kako je bilo? — Šta da ti kažem, moglo je i bolje.",
+          "russian": "Как прошло? — Что тебе сказать, могло быть и лучше.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Šta da ti kažem, nisam baš oduševljen.",
+          "russian": "Как тебе сказать, я не особенно в восторге.",
+          "source": ""
+        }
+      ],
+      "note": "Это часто не буквальное отсутствие слов, а средство смягчить оценку. От Šta reći? отличается обращением к конкретному собеседнику: ti.",
+      "keyword": "šta da ti kažem"
+    },
+    {
       "headword_latin": "Šta fali?",
       "type": "replika",
       "definition_ru": "а что не так?; а что плохого?; чего не хватает?",
@@ -39611,6 +39689,162 @@
       "keyword": "šta fali"
     },
     {
+      "headword_latin": "Šta ima, ima; šta nema, kupićemo",
+      "type": "izreka",
+      "definition_ru": "что есть, то есть, а чего нет — купим; всего хватит",
+      "synonyms_sr": [
+        "ima svega",
+        "ne brini, biće dovoljno",
+        "ako zafali, kupićemo"
+      ],
+      "literal_ru": "",
+      "register": "razg., gostoljubiva i umirujuća formula",
+      "examples": [
+        {
+          "serbian_latin": "Ne brini za večeru — šta ima, ima; šta nema, kupićemo.",
+          "russian": "За ужин не переживай: что есть, то есть, а чего нет — купим.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Dolazi vas deset? Nema problema: šta ima, ima; šta nema, kupićemo.",
+          "russian": "Вас будет десять? Не проблема: что есть — есть, чего не хватит — докупим.",
+          "source": ""
+        }
+      ],
+      "note": "Это не сербский эквивалент русского «чем богаты, тем и рады»: русский хозяин скорее извиняется за скромный стол, а сербская формула обещает, что недостающее просто приобретут.",
+      "keyword": "kupićemo"
+    },
+    {
+      "headword_latin": "Šta ima?",
+      "type": "replika",
+      "definition_ru": "что нового?; как жизнь?; чего слышно?",
+      "synonyms_sr": [
+        "šta ima novo?",
+        "kako si?",
+        "gde si? (funkcionalno blisko)"
+      ],
+      "literal_ru": "",
+      "register": "razg., veoma često; pozdravno pitanje koje često ne traži sadržajan odgovor",
+      "examples": [
+        {
+          "serbian_latin": "Ćao, šta ima?",
+          "russian": "Привет, что нового?",
+          "source": "Vukajlija, 2008"
+        },
+        {
+          "serbian_latin": "— Šta ima? — Evo, ništa posebno.",
+          "russian": "— Как жизнь? — Да ничего особенного.",
+          "source": ""
+        }
+      ],
+      "note": "Функционально это зачастую просто приветствие, как английское What's up?. Возможна разговорная редукция Š'a ima? Ответ может быть минимальным: Evo, ništa; ma, standardno.",
+      "keyword": "šta ima"
+    },
+    {
+      "headword_latin": "Šta je starije, kokoška ili jaje?",
+      "type": "izreka",
+      "definition_ru": "что было раньше: курица или яйцо?; неразрешимая дилемма о причине и следствии",
+      "synonyms_sr": [
+        "začarani krug (delimično)",
+        "pitanje bez odgovora",
+        "večita dilema"
+      ],
+      "literal_ru": "",
+      "register": "opšteupotrebno; o pitanju gde je teško utvrditi šta je uzrok a šta posledica",
+      "examples": [
+        {
+          "serbian_latin": "Da li prvo dolazi iskustvo ili dobar posao? Šta je starije, kokoška ili jaje?",
+          "russian": "Что появляется раньше — опыт или хорошая работа? Вечный вопрос о курице и яйце.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Opet se vraćamo na pitanje šta je starije, kokoška ili jaje.",
+          "russian": "Мы опять возвращаемся к вопросу, что было раньше — курица или яйцо.",
+          "source": ""
+        }
+      ],
+      "note": "Полностью узнаваемая международная формула. Она используется не столько для настоящего вопроса о происхождении курицы, сколько для циклических проблем, где причина и следствие зависят друг от друга.",
+      "keyword": "kokoška; jaje"
+    },
+    {
+      "headword_latin": "Šta nema!",
+      "type": "replika",
+      "definition_ru": "чего только нет!; чего тут только не бывает!",
+      "synonyms_sr": [
+        "svega ima",
+        "ima svašta",
+        "nema šta nema"
+      ],
+      "literal_ru": "чего нет!",
+      "register": "razg., uzvično; često šaljiv odgovor na Šta ima?",
+      "examples": [
+        {
+          "serbian_latin": "— Šta ima kod vas? — Ma, šta nema!",
+          "russian": "— Что у вас нового? — Да чего только нет!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Na toj pijaci — šta nema!",
+          "russian": "На этом рынке чего только нет!",
+          "source": ""
+        }
+      ],
+      "note": "Отрицательная форма парадоксально сообщает об изобилии. Более развернутая и очень частотная формула — nema šta nema «там есть абсолютно всё».",
+      "keyword": "šta nema"
+    },
+    {
+      "headword_latin": "Šta reći?",
+      "type": "replika",
+      "definition_ru": "что тут скажешь?; что сказать; без комментариев",
+      "synonyms_sr": [
+        "šta da kažem",
+        "nema se šta reći",
+        "ostao sam bez reči"
+      ],
+      "literal_ru": "",
+      "register": "razg.-publicistički; retoričko pitanje",
+      "examples": [
+        {
+          "serbian_latin": "Opet su podigli cene. Šta reći?",
+          "russian": "Опять подняли цены. Что тут скажешь?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Šta reći posle svega ovoga?",
+          "russian": "Что тут скажешь после всего этого?",
+          "source": ""
+        }
+      ],
+      "note": "Может выражать разочарование, восхищение, возмущение или растерянность — оценку задаёт контекст. Расширенная драматическая формула: Šta reći, a ne zaplakati?",
+      "keyword": "šta reći"
+    },
+    {
+      "headword_latin": "Šta se radi na estradi?",
+      "type": "replika",
+      "definition_ru": "что новенького?; какие новости?; чего слышно?",
+      "synonyms_sr": [
+        "šta ima?",
+        "šta ima novo?",
+        "šta se radi?"
+      ],
+      "literal_ru": "что делается на эстраде?",
+      "register": "razg., šalj.; rimovano pozdravno pitanje, obično bez veze sa pravom estradom",
+      "examples": [
+        {
+          "serbian_latin": "Dobar dan. Gde ste, kako ste, šta se radi na estradi?",
+          "russian": "Добрый день. Где пропадали, как дела, что новенького?",
+          "source": "Forum Krstarica, 2025"
+        },
+        {
+          "serbian_latin": "Ćao, ljudi, šta se radi na estradi?",
+          "russian": "Привет, народ, какие новости?",
+          "source": ""
+        }
+      ],
+      "note": "Выражение построено на рифме radi — estradi. Разговорные источники определяют его как шутливое Šta ima novo?, поэтому реальная эстрада обычно вообще не подразумевается.",
+      "keyword": "estrada"
+    },
+    {
       "headword_latin": "Što je babi milo, to joj se i snilo",
       "type": "poslovica",
       "definition_ru": "принимать желаемое за действительное; что хочется, то и мерещится",
@@ -39636,6 +39870,32 @@
       ],
       "note": "Baba здесь не обязательно конкретная старая женщина: это фольклорный персонаж рифмованной формулы. В современной политической речи выражение очень удобно для критики wishful thinking. Русскому лучше не сохранять «бабу», а переводить «принимать желаемое за действительное».",
       "keyword": "babi milo; snilo"
+    },
+    {
+      "headword_latin": "Što je brzo, to je i kuso",
+      "type": "poslovica",
+      "definition_ru": "поспешишь — людей насмешишь; сделанное наспех выходит недоделанным",
+      "synonyms_sr": [
+        "brzo pa kuso",
+        "ne valja brzati",
+        "žurba kvari posao"
+      ],
+      "literal_ru": "что быстро, то и куцо",
+      "register": "poslovica; o lošem rezultatu prevelike žurbe",
+      "examples": [
+        {
+          "serbian_latin": "Ne rešavajte zadatke na brzinu — što je brzo, to je i kuso.",
+          "russian": "Не решайте задания наспех: поспешишь — людей насмешишь.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Što je brzo, to je i kuso.",
+          "russian": "Сделанное наспех часто оказывается недоделанным.",
+          "source": "RTS, 2026"
+        }
+      ],
+      "note": "Kus — «куцый, обрубленный, неполный». Поэтому смысл связан именно с качеством поспешно сделанного результата, а не с тем, что «быстро пришло — быстро ушло».",
+      "keyword": "kuso"
     },
     {
       "headword_latin": "Što je brzo, to je kuso",
@@ -39693,6 +39953,32 @@
       ],
       "note": "Džabe здесь значит именно «бесплатно», а не другое его частое значение «напрасно». Выражение часто иронизирует над желанием взять ненужную или посредственную вещь исключительно потому, что за неё не надо платить. В нормативном написании при обозначении Бога — Bogu с прописной буквы; в газетах встречается и строчная из-за лексикализации формулы.",
       "keyword": "što je džabe"
+    },
+    {
+      "headword_latin": "Što je džabe, i Bogu je drago",
+      "type": "izreka",
+      "definition_ru": "что бесплатно, то всем мило; на халяву и уксус сладкий",
+      "synonyms_sr": [
+        "džabe je najslađe (razg.)",
+        "kad je besplatno, svi hoće",
+        "što je džabe, dobro je"
+      ],
+      "literal_ru": "",
+      "register": "razg., šaljivo-poslovično; o privlačnosti onoga što se dobija besplatno",
+      "examples": [
+        {
+          "serbian_latin": "Što je džabe i Bogu je drago.",
+          "russian": "Что бесплатно, то и Богу мило.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Uzeo je još dva komada — što je džabe, i Bogu je drago.",
+          "russian": "Взял ещё две штуки: на халяву и уксус сладкий.",
+          "source": ""
+        }
+      ],
+      "note": "Džabe означает и «бесплатно», и «напрасно», но в этой формуле действует только значение «даром». Выражение часто оправдывает лёгкую человеческую жадность к бесплатному и обычно произносится с улыбкой.",
+      "keyword": "džabe"
     },
     {
       "headword_latin": "Što je sigurno, sigurno je",
@@ -39780,6 +40066,31 @@
       "keyword": "što na um to na drum"
     },
     {
+      "headword_latin": "Što poseješ, to ćeš i požnjeti",
+      "type": "poslovica",
+      "definition_ru": "что посеешь, то и пожнёшь",
+      "synonyms_sr": [
+        "kako radiš, tako će ti biti",
+        "svako snosi posledice svojih dela"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, opšteupotrebna; o posledicama sopstvenih postupaka",
+      "examples": [
+        {
+          "serbian_latin": "Nisi radio cele godine — što poseješ, to ćeš i požnjeti.",
+          "russian": "Весь год не занимался: что посеешь, то и пожнёшь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Staro pravilo kaže: „Što poseješ, to ćeš i požnjeti“.",
+          "russian": "Старое правило гласит: «Что посеешь, то и пожнёшь».",
+          "source": "adventisti.us, 2015"
+        }
+      ],
+      "note": "Поправка к исходному JSON: для сербской экавицы poseješ, а не posiješ. Формула имеет библейскую основу и широко употребляется независимо от религиозного контекста.",
+      "keyword": "posejati"
+    },
+    {
       "headword_latin": "Što se mora nije teško",
       "type": "poslovica",
       "definition_ru": "раз надо — значит надо; неизбежное легче принять; что необходимо, то и делай",
@@ -39804,6 +40115,84 @@
       ],
       "note": "Выражение не утверждает буквально, что обязательная работа объективно проста. Смысл психологический: если выбора всё равно нет, легче перестать сопротивляться и сделать необходимое. Сербское безличное mora se — чрезвычайно частая модель: Mora se raditi; šta se mora, mora se.",
       "keyword": "što se mora nije teško"
+    },
+    {
+      "headword_latin": "Što se mora, nije teško",
+      "type": "izreka",
+      "definition_ru": "надо так надо; что неизбежно, то не в тягость",
+      "synonyms_sr": [
+        "mora se",
+        "kad moraš, moraš",
+        "nema druge"
+      ],
+      "literal_ru": "то, что приходится делать, не трудно",
+      "register": "poslovično, pomirljivo; često polušaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Kritikovana poslovica „što se mora nije teško“ ipak važi u ovom slučaju.",
+          "russian": "Раскритикованная поговорка «надо так надо» в этом случае всё-таки работает.",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Ustajem u pet, ali što se mora, nije teško.",
+          "russian": "Встаю в пять, но надо так надо.",
+          "source": ""
+        }
+      ],
+      "note": "В реальности обязательное может быть очень тяжёлым: фраза выражает не объективную лёгкость, а установку «раз выбора нет, нечего жаловаться». Употребляется как утешение себя или другого перед неизбежной обязанностью.",
+      "keyword": "morati"
+    },
+    {
+      "headword_latin": "Što trezan misli, pijan govori",
+      "type": "poslovica",
+      "definition_ru": "что у трезвого на уме, то у пьяного на языке",
+      "synonyms_sr": [
+        "šta pijan govori, trezan misli",
+        "u vinu je istina"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; redosled delova varira",
+      "examples": [
+        {
+          "serbian_latin": "Jer, šta pijan govori, trezan misli.",
+          "russian": "Ведь что у трезвого на уме, то у пьяного на языке.",
+          "source": "Danas, 2022"
+        },
+        {
+          "serbian_latin": "Sinoć je sve izgovorio — što trezan misli, pijan govori.",
+          "russian": "Вчера он всё выложил: что у трезвого на уме, то у пьяного на языке.",
+          "source": ""
+        }
+      ],
+      "note": "Порядок частей свободно варьирует: što trezan misli, pijan govori и što pijan govori, trezan misli. Форма trezan — сербская экавская; trijezan было бы иекавским.",
+      "keyword": "trezan; pijan"
+    },
+    {
+      "headword_latin": "Šuć-muć (pa prolij)",
+      "type": "frazeologizam",
+      "definition_ru": "тяп-ляп; ни то ни сё; бессмыслица; плохо сделанная мешанина",
+      "synonyms_sr": [
+        "zbrda-zdola",
+        "bez veze",
+        "traljavo",
+        "koješta"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; okamenjena zvukovna formula, puna forma šuć-muć pa prolij",
+      "examples": [
+        {
+          "serbian_latin": "Ovo je sve nešto šuć-muć pa prolij — uradi ponovo kako treba.",
+          "russian": "Тут всё какое-то тяп-ляп — переделай нормально.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Od njegovog objašnjenja ostalo je samo šuć-muć.",
+          "russian": "От его объяснения осталась какая-то невнятная мешанина.",
+          "source": ""
+        }
+      ],
+      "note": "Поправка: исходное значение «по-тихому что-то провернуть» не подтверждается как основное. Сербские и южнославянские фразеологические источники связывают šuć-muć / šuć-muć pa prolij с бессмыслицей, неясной мешаниной и плохо выполненным делом. Пишется через дефис: šuć-muć.",
+      "keyword": "šuć-muć"
     },
     {
       "headword_latin": "Šuplja priča",
@@ -39831,6 +40220,33 @@
       ],
       "note": "Šupalj буквально значит «полый, пустой внутри», поэтому šuplja priča — речь, за которой нет содержания, аргументов или реального действия. Близкое prazna priča нейтральнее и универсальнее. Один сербский политический пример противопоставляет боснийское šuplja priča сербскому prazna priča, однако реальные сербские СМИ регулярно употребляют и šuplja priča, так что считать выражение несербским нельзя.",
       "keyword": "šuplja priča"
+    },
+    {
+      "headword_latin": "Šut-karta",
+      "type": "sleng",
+      "definition_ru": "от ворот поворот; отказ; увольнение; расставание",
+      "synonyms_sr": [
+        "korpa (razg., u ljubavi)",
+        "otkaz",
+        "odbijanje",
+        "noga (sleng)"
+      ],
+      "literal_ru": "",
+      "register": "sleng; dobiti šut-kartu, dati nekome šut-kartu",
+      "examples": [
+        {
+          "serbian_latin": "Dobije li neko zato „šut-kartu“?",
+          "russian": "Получает ли кто-нибудь за это от ворот поворот?",
+          "source": "Politika, 2010"
+        },
+        {
+          "serbian_latin": "Posle tri meseca dobio je šut-kartu.",
+          "russian": "Через три месяца ему дали от ворот поворот.",
+          "source": ""
+        }
+      ],
+      "note": "Сленговые словари фиксируют написание šut-karta и два особенно частых значения: быть брошенным партнёром и получить увольнение. Выражение остаётся живым и в современной прессе.",
+      "keyword": "šut-karta"
     },
     {
       "headword_latin": "Švorc",
@@ -39941,6 +40357,32 @@
       ],
       "note": "Формула обычно закрывает обсуждение: ситуация не обязательно нравится говорящему, но он принимает её как данность. Русское «так есть как есть» звучит менее естественно; лучше «что есть, то есть», «ничего не поделаешь». Возможна пунктуация tako je, kako je, но в обычной современной записи чаще встречается без запятой.",
       "keyword": "tako je kako je"
+    },
+    {
+      "headword_latin": "Tako nešto",
+      "type": "izraz",
+      "definition_ru": "что-то в этом роде; вроде того; примерно такое",
+      "synonyms_sr": [
+        "nešto tako",
+        "tako nekako",
+        "otprilike tako"
+      ],
+      "literal_ru": "",
+      "register": "razg.; često samostalan odgovor",
+      "examples": [
+        {
+          "serbian_latin": "Hoćeš neku kratku jaknu? — Da, tako nešto.",
+          "russian": "Хочешь какую-нибудь короткую куртку? — Да, что-то в этом роде.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Rekao je da dolazi oko osam, tako nešto.",
+          "russian": "Он сказал, что придёт часов в восемь, примерно так.",
+          "source": ""
+        }
+      ],
+      "note": "Порядок tako nešto и nešto tako оба нормальны, но tako nešto особенно удобно как самостоятельная реакция «да, примерно это». Родственное tako nekako значит «как-то так».",
+      "keyword": "tako nešto"
     },
     {
       "headword_latin": "Tamni vilajet",
@@ -40272,6 +40714,84 @@
       ],
       "note": "Смысл не просто в настойчивости, а именно в чрезмерной скрупулёзности. Часто говорится: nemoj da teraš mak na konac.",
       "keyword": "mak; konac; cepidlačenje; sitničarenje"
+    },
+    {
+      "headword_latin": "Teško da",
+      "type": "izraz",
+      "definition_ru": "вряд ли; едва ли; маловероятно, что",
+      "synonyms_sr": [
+        "malo je verovatno da",
+        "sumnjam da",
+        "jedva da (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; teško da + lična forma glagola",
+      "examples": [
+        {
+          "serbian_latin": "Teško da će danas stići.",
+          "russian": "Вряд ли он сегодня успеет.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Teško da je to bila slučajnost.",
+          "russian": "Едва ли это было случайностью.",
+          "source": ""
+        }
+      ],
+      "note": "Ложная прозрачность для русского: буквально «трудно, что» переводить нельзя. Teško da će doći значит «вряд ли придёт». Не путать с teško je to uraditi — «это трудно сделать».",
+      "keyword": "teško da"
+    },
+    {
+      "headword_latin": "Teško je šutu s rogatim bosti se",
+      "type": "poslovica",
+      "definition_ru": "слабому трудно тягаться с сильным; против рожна не попрёшь",
+      "synonyms_sr": [
+        "ne može šut s rogatim",
+        "teško je protiv jačeg",
+        "ne može se protiv sile"
+      ],
+      "literal_ru": "безрогому трудно бодаться с рогатым",
+      "register": "poslovica, starije; o nejednakoj borbi sa jačim ili moćnijim protivnikom",
+      "examples": [
+        {
+          "serbian_latin": "Kad nemaš ni novca ni veze, teško je šutu s rogatim bosti se.",
+          "russian": "Когда у тебя нет ни денег, ни связей, трудно бодаться с сильными мира сего.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Odustao je od spora — teško je šutu s rogatim bosti se.",
+          "russian": "Он отказался от тяжбы: против рожна не попрёшь.",
+          "source": ""
+        }
+      ],
+      "note": "Поправка: исходный вариант Teško se s rogatim bosti потерял важный компонент šut «безрогий». В традиционных сербских собраниях фиксируется Teško je šutu sa/s rogatim bosti se, а также сокращённое Ne može šut s rogatim. Именно противопоставление безрогого и рогатого создаёт смысл неравенства сил.",
+      "keyword": "šut; rogat"
+    },
+    {
+      "headword_latin": "Teško je žabu u vodu naterati",
+      "type": "poslovica",
+      "definition_ru": "его и уговаривать не надо; сам только этого и ждёт",
+      "synonyms_sr": [
+        "jedva je dočekao",
+        "ne treba ga dvaput pitati",
+        "sam je rad"
+      ],
+      "literal_ru": "трудно загнать лягушку в воду",
+      "register": "poslovično, ironično; o prividnom nagovaranju nekoga na ono što i sam želi",
+      "examples": [
+        {
+          "serbian_latin": "Na pitanje da li će Divac još igrati, Bodiroga reče: „Teško žabu u vodu naterati…“",
+          "russian": "На вопрос, будет ли Дивац ещё играть, Бодирога ответил: «Его-то уговаривать не надо…»",
+          "source": "Vreme, 2002"
+        },
+        {
+          "serbian_latin": "Pozvali ga na roštilj — teško je žabu u vodu naterati.",
+          "russian": "Позвали его на шашлыки — его дважды просить не надо.",
+          "source": ""
+        }
+      ],
+      "note": "Ирония очевидна: лягушка сама стремится в воду. Формула остаётся живой; употребляется и сокращённое teško žabu naterati u vodu. По-русски естественнее всего «его дважды просить не надо».",
+      "keyword": "žaba"
     },
     {
       "headword_latin": "Teško onom ko zlotvora nema",
