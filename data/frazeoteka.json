@@ -44757,6 +44757,27 @@
       "keyword": "videla žaba da se konji kuju"
     },
     {
+      "headword_latin": "Vidi ribu",
+      "type": "sleng",
+      "definition_ru": "глянь на девчонку; смотри какая; зацени её",
+      "synonyms_sr": [
+        "vidi devojku",
+        "vidi ovu",
+        "pogledaj je"
+      ],
+      "literal_ru": "",
+      "register": "razg.-sleng, familijarno; može zvučati objektivizujuće",
+      "examples": [
+        {
+          "serbian_latin": "Vidi ribu, onu za šankom.",
+          "russian": "Глянь на девчонку, вон ту у барной стойки.",
+          "source": ""
+        }
+      ],
+      "note": "Riba в сербском сленге давно значит «девушка, девчонка», иногда с дополнительным оттенком привлекательности; RTS отмечает, что это значение пережило несколько поколений жаргона. Поэтому исходное толкование только как «красотка» слишком узкое.",
+      "keyword": "riba"
+    },
+    {
       "headword_latin": "Visiti o koncu",
       "type": "frazeologizam",
       "definition_ru": "висеть на волоске; быть на грани; находиться в крайне опасном и неопределённом положении",
@@ -44782,6 +44803,27 @@
       ],
       "note": "Русское «висеть на волоске» — естественный эквивалент, хотя сербское konac буквально означает нитку. Помимо жизни человека, так говорят о карьере, сделке, правительстве, проекте или существовании организации, если исход зависит от очень хрупкого обстоятельства.",
       "keyword": "visiti o koncu"
+    },
+    {
+      "headword_latin": "Viša sila",
+      "type": "izraz",
+      "definition_ru": "форс-мажор; непреодолимая сила; независящие обстоятельства",
+      "synonyms_sr": [
+        "nepredviđene okolnosti",
+        "okolnosti van nečije kontrole",
+        "force majeure (struč.)"
+      ],
+      "literal_ru": "высшая сила",
+      "register": "pravno, neutralno; razgovorno i kao objašnjenje ili opravdanje",
+      "examples": [
+        {
+          "serbian_latin": "Požari se smatraju višom silom.",
+          "russian": "Пожары считаются форс-мажором.",
+          "source": "RTS, 2021"
+        }
+      ],
+      "note": "В юридическом языке это обстоятельства, на которые стороны не могут повлиять; среди типичных примеров называются эпидемии, землетрясения, пожары и военные события. В быту можно сказать просто Viša sila — «обстоятельства так сложились».",
+      "keyword": "viša sila"
     },
     {
       "headword_latin": "Više sreće nego pameti",
@@ -44811,6 +44853,26 @@
       ],
       "note": "Очень характерна самоирония: говорящий принижает собственную заслугу и приписывает успех удачному стечению обстоятельств. Но о другом человеке фраза может прозвучать пренебрежительно: мол, успеха он не заслужил. По роду меняется только глагольная форма: imao / imala sam više sreće nego pameti.",
       "keyword": "više sreće nego pameti"
+    },
+    {
+      "headword_latin": "Voda sve opere osim crna obraza",
+      "type": "poslovica",
+      "definition_ru": "всё можно отмыть, кроме позора; запятнанную честь не отмоешь",
+      "synonyms_sr": [
+        "obraz se teško pere",
+        "ukaljan obraz se ne pere vodom"
+      ],
+      "literal_ru": "вода всё отмоет, кроме чёрного лица",
+      "register": "poslovica, narodna; arhaična gramatička forma crna obraza",
+      "examples": [
+        {
+          "serbian_latin": "Voda sve opere osim crna obraza.",
+          "russian": "Всё можно отмыть, кроме запятнанной чести.",
+          "source": "Religija.rs, 2026"
+        }
+      ],
+      "note": "Obraz здесь означает не часть лица, а «честь, доброе имя, совесть». Современные сербские источники объясняют crn obraz как запятнанную совесть и дурные поступки. Форму crna obraza лучше запоминать как застывшую пословичную.",
+      "keyword": "obraz"
     },
     {
       "headword_latin": "Voditi glavnu reč",
@@ -45058,30 +45120,22 @@
     {
       "headword_latin": "Vrh ledenog brega",
       "type": "frazeologizam",
-      "definition_ru": "верхушка айсберга; малая видимая часть гораздо более крупной скрытой проблемы или явления",
+      "definition_ru": "верхушка айсберга; лишь видимая часть проблемы",
       "synonyms_sr": [
-        "samo mali deo problema",
-        "tek vidljivi deo",
-        "samo površina",
-        "tek početak problema"
+        "samo mali deo",
+        "tek početak",
+        "vidljivi deo problema"
       ],
       "literal_ru": "вершина ледяной горы",
-      "register": "neutralno-publicistički",
+      "register": "publicistički, opšteupotrebno",
       "examples": [
         {
           "serbian_latin": "To je samo vrh ledenog brega.",
-          "russian": "Это лишь верхушка айсберга.",
-          "source": "RTS, 2009",
-          "url": "https://www.rts.rs/lat/vesti/drustvo/76188/pregled-stampe-26.-07.-2009..html"
-        },
-        {
-          "serbian_latin": "To je tek „vrh ledenog brega“.",
           "russian": "Это только верхушка айсберга.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/svet/mediji-madjarska-orban-vesti/"
+          "source": "RTS, 2026"
         }
       ],
-      "note": "По смыслу совпадает с международным образом «верхушки айсберга»: видимая часть мала по сравнению со скрытым масштабом проблемы.",
+      "note": "Русский и сербский образы полностью совпадают. В самом обороте традиционно ledeni breg, хотя самостоятельное ajsberg в сербском тоже употребляется.",
       "keyword": "ledeni breg"
     },
     {
@@ -45244,6 +45298,27 @@
       ],
       "note": "Буквальное действие возможно, но переносно vući nekoga za rukav означает постоянно обращаться к человеку, напоминать, просить, добиваться от него чего-либо. Особенно типичны деньги, спонсорство, услуги и решение бюрократических вопросов. Русское «дёргать кого-то» хорошо передаёт и образ, и лёгкое раздражение.",
       "keyword": "vući za rukav"
+    },
+    {
+      "headword_latin": "Vući se kao mrtav konj",
+      "type": "frazeologizam",
+      "definition_ru": "еле тащиться; плестись как сонная муха",
+      "synonyms_sr": [
+        "jedva se vući",
+        "mileti",
+        "jedva ići"
+      ],
+      "literal_ru": "тащиться как мёртвый конь",
+      "register": "razg., grubo-slikovito, neodobr.; o čoveku ili sporom procesu",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da se vučeš kao mrtav konj, požuri malo.",
+          "russian": "Не тащись еле-еле, поторопись.",
+          "source": ""
+        }
+      ],
+      "note": "Сравнение значительно грубее простого vući se «плестись, тащиться». Может описывать и затянувшийся процесс: Posao se vuče kao mrtav konj.",
+      "keyword": "mrtav konj"
     },
     {
       "headword_latin": "Vuk dlaku menja, ali ćud nikada",
@@ -45445,6 +45520,67 @@
       "keyword": "za džabe"
     },
     {
+      "headword_latin": "Za džabe i sirće je slatko",
+      "type": "poslovica",
+      "definition_ru": "на халяву и уксус сладкий",
+      "synonyms_sr": [
+        "što je džabe, i Bogu je drago",
+        "džabe je najslađe"
+      ],
+      "literal_ru": "",
+      "register": "razg., šaljivo-poslovično; o privlačnosti besplatnog",
+      "examples": [
+        {
+          "serbian_latin": "Kad je džabe, i sirće je slatko!",
+          "russian": "На халяву и уксус сладкий!",
+          "source": "Radio Beograd 1 / RTS, 2022"
+        }
+      ],
+      "note": "Русское и сербское выражения практически совпадают даже образом уксуса. Это самостоятельная устойчивая формула и не дублирует Što je džabe, i Bogu je drago, хотя общий смысл у них близок.",
+      "keyword": "džabe; sirće"
+    },
+    {
+      "headword_latin": "Za ondašnje prilike",
+      "type": "kolokacija",
+      "definition_ru": "по тем временам; для того времени",
+      "synonyms_sr": [
+        "u ono vreme",
+        "za to vreme",
+        "prema tadašnjim merilima"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-knjiški; parno za današnje prilike",
+      "examples": [
+        {
+          "serbian_latin": "Za ondašnje prilike to je bila ogromna suma.",
+          "russian": "По тем временам это была огромная сумма.",
+          "source": ""
+        }
+      ],
+      "note": "Ondašnji — «тогдашний», от onda «тогда». Русскому удобно запомнить парой: za ondašnje prilike — «по тем временам», za današnje prilike — «по нынешним меркам».",
+      "keyword": "ondašnji"
+    },
+    {
+      "headword_latin": "Za razliku od",
+      "type": "izraz",
+      "definition_ru": "в отличие от",
+      "synonyms_sr": [
+        "nasuprot",
+        "drugačije od (po kontekstu)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; za razliku od koga/čega + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Za razliku od mene, ona voli da ustaje rano.",
+          "russian": "В отличие от меня, она любит рано вставать.",
+          "source": ""
+        }
+      ],
+      "note": "Для русскоязычного главное — предлог: od, не iz и не sa. Ср. razlikovati se od nekoga — «отличаться от кого-либо».",
+      "keyword": "razlika"
+    },
+    {
       "headword_latin": "za siću",
       "type": "predloški izraz",
       "definition_ru": "за гроши; задёшево; за ничтожную сумму",
@@ -45472,6 +45608,27 @@
       ],
       "note": "Sića означает мелочь или незначительную сумму. Выражение может характеризовать и выгодную покупку, и невыгодную продажу.",
       "keyword": "sića"
+    },
+    {
+      "headword_latin": "Za svakog ponešto",
+      "type": "izraz",
+      "definition_ru": "каждому найдётся что-нибудь; на любой вкус",
+      "synonyms_sr": [
+        "ponešto za svakoga",
+        "za svačiji ukus",
+        "ima svega"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; o programu, izboru, meniju ili asortimanu",
+      "examples": [
+        {
+          "serbian_latin": "Za svakog ima ponešto.",
+          "russian": "Для каждого найдётся что-нибудь.",
+          "source": "RTS, 2017"
+        }
+      ],
+      "note": "Очень ходовая рекламно-описательная формула. Встречается также раздельное za svakog po nešto; в сербском употреблении представлены оба типа.",
+      "keyword": "ponešto"
     },
     {
       "headword_latin": "Zabiti glavu u pesak",
@@ -45530,6 +45687,28 @@
       ],
       "note": "Это метафора именно предательства со стороны того, от кого нападения не ожидали. Поэтому она сильнее нейтрального izdati. В русском «ударить ножом в спину» возможно, но устойчивее обычно «нанести удар в спину», «предать».",
       "keyword": "nož u leđa"
+    },
+    {
+      "headword_latin": "Začkoljica",
+      "type": "imenica",
+      "definition_ru": "закавыка; загвоздка; подвох",
+      "synonyms_sr": [
+        "caka",
+        "kvaka (razg., pren.)",
+        "skriveni problem",
+        "komplikacija"
+      ],
+      "literal_ru": "",
+      "register": "razg.; tipično ima jedna začkoljica, tu je začkoljica",
+      "examples": [
+        {
+          "serbian_latin": "Sve izgleda jednostavno, ali ima jedna začkoljica.",
+          "russian": "Всё выглядит просто, но есть одна загвоздка.",
+          "source": ""
+        }
+      ],
+      "note": "В отличие от problem, začkoljica обычно обозначает небольшую, не сразу заметную трудность: деталь, из-за которой простое дело внезапно становится сложнее. Очень близко к caka.",
+      "keyword": "začkoljica"
     },
     {
       "headword_latin": "Zaglaviti u saobraćaju",
@@ -45654,31 +45833,24 @@
     },
     {
       "headword_latin": "Zajeban kao kratko ćebe",
-      "type": "sleng / poređenje",
-      "definition_ru": "очень неудобный, трудный, проблемный человек или ситуация; такой, с кем постоянно возникают сложности",
+      "type": "frazeologizam",
+      "definition_ru": "тяжёлый, неудобный человек; с ним каши не сваришь",
       "synonyms_sr": [
-        "težak čovek",
         "nezgodan",
-        "komplikovan",
-        "težak za saradnju"
+        "težak čovek",
+        "prgav",
+        "zajeban (vulg.)"
       ],
       "literal_ru": "неудобный как короткое одеяло",
-      "register": "vulgarno-razgovorno, šaljivo",
+      "register": "vulg.-razg., ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Zajeban ko kratko ćebe.",
-          "russian": "Тот ещё тип — неудобный как короткое одеяло.",
-          "source": "Vukajlija, 2008",
-          "url": "https://vukajlija.com/kratko-cebe"
-        },
-        {
           "serbian_latin": "On ti je zajeban k'o kratko ćebe.",
-          "russian": "Он тот ещё непростой тип.",
-          "source": "Vukajlija, 2013",
-          "url": "https://vukajlija.com/pretraga/izraz?q=kratko&strana=1"
+          "russian": "С ним каши не сваришь.",
+          "source": "Vukajlija, 2013"
         }
       ],
-      "note": "Комизм сравнения в том, что короткое одеяло всегда неудобно: накроешь ноги — открыта верхняя часть, накроешься выше — мёрзнут ноги. Zajeban здесь не обязательно «опасный»; часто именно «сложный, неудобный, проблемный».",
+      "note": "Образ прозрачен: коротким одеялом укроешь ноги — открыты плечи, укроешь плечи — мёрзнут ноги. Отсюда человек или ситуация, к которым как ни подступись — всё неудобно. Формула хорошо подтверждается современным разговорным употреблением.",
       "keyword": "kratko ćebe"
     },
     {
@@ -45884,6 +46056,48 @@
       ],
       "note": "Очень близко к русскому «по уши влюбиться». Обычно: zaljubiti se do ušiju u nekoga / biti zaljubljen do ušiju.",
       "keyword": "do ušiju; zaljubljenost; ljubav"
+    },
+    {
+      "headword_latin": "Zameniti mesta",
+      "type": "kolokacija",
+      "definition_ru": "поменяться местами; обменяться местами",
+      "synonyms_sr": [
+        "promeniti mesta",
+        "zameniti se",
+        "sesti jedan na mesto drugog"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; pri uzajamnoj zameni obično množina mesta",
+      "examples": [
+        {
+          "serbian_latin": "Hajde da zamenimo mesta, ovde mi duva.",
+          "russian": "Давай поменяемся местами, мне здесь дует.",
+          "source": ""
+        }
+      ],
+      "note": "Zameniti mesta — двое меняются своими местами. Zameniti nekoga — «заменить кого-либо», а zameniti mesto в другом контексте может означать сменить конкретное место.",
+      "keyword": "mesto"
+    },
+    {
+      "headword_latin": "Zamorče",
+      "type": "imenica",
+      "definition_ru": "морская свинка; перен. подопытный кролик",
+      "synonyms_sr": [
+        "morsko prase",
+        "eksperimentalni subjekt (formalno)",
+        "pokusni kunić (pren., ređe)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; preneseno često biti / služiti kao zamorče",
+      "examples": [
+        {
+          "serbian_latin": "Bio je prvi zatvorenik, zapravo zamorče, nad kojim je testiran program.",
+          "russian": "Он был первым заключённым — фактически подопытным, на котором испытывали программу.",
+          "source": "RTS, 2023"
+        }
+      ],
+      "note": "Русский в переносном значении предпочитает «подопытный кролик», сербский — zamorče. Поэтому Nisam ja zamorče естественно переводится «Я вам не подопытный кролик».",
+      "keyword": "zamorče"
     },
     {
       "headword_latin": "Zamoriti nekoga",
@@ -46147,6 +46361,28 @@
       "keyword": "rukavi"
     },
     {
+      "headword_latin": "Zategnut kao praćka",
+      "type": "frazeologizam",
+      "definition_ru": "подтянутый как струна; в отличной форме",
+      "synonyms_sr": [
+        "utegnut",
+        "u odličnoj formi",
+        "zategnut",
+        "fit"
+      ],
+      "literal_ru": "натянутый как рогатка",
+      "register": "razg.; ženski zategnuta kao praćka; obično o figuri i izgledu",
+      "examples": [
+        {
+          "serbian_latin": "Zategnuta kao praćka posle tri porođaja.",
+          "russian": "Подтянутая как струна после трёх родов.",
+          "source": "Puls, 2026"
+        }
+      ],
+      "note": "Исходный заголовок был только в женском роде; для словаря удобнее базовая форма zategnut kao praćka. Zategnut также употребляется совсем иначе: zategnuti odnosi — «напряжённые отношения».",
+      "keyword": "praćka"
+    },
+    {
       "headword_latin": "Zatucan čovek",
       "type": "kolokacija",
       "definition_ru": "узколобый человек; косный, ограниченный человек; человек с отсталыми взглядами",
@@ -46283,6 +46519,27 @@
       ],
       "note": "Формула соответствует латинскому divide et impera. Её часто приписывают Цезарю и другим историческим правителям, однако надёжно связывать происхождение с одним конкретным автором не стоит. В современном языке это прежде всего обозначение сознательного разжигания конфликтов ради сохранения контроля.",
       "keyword": "zavadi pa vladaj"
+    },
+    {
+      "headword_latin": "Zavisi",
+      "type": "replika",
+      "definition_ru": "зависит; смотря как; по-разному",
+      "synonyms_sr": [
+        "kako kad",
+        "zavisi od situacije",
+        "sve zavisi"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; samostalna replika; zavisi od koga/čega + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Koliko ti treba vremena? — Zavisi.",
+          "russian": "Сколько тебе нужно времени? — Смотря как.",
+          "source": ""
+        }
+      ],
+      "note": "Сербское Zavisi гораздо естественнее русского буквального «зависит» как самостоятельный ответ. По-русски часто лучше «смотря», «по-разному», «как получится».",
+      "keyword": "zavisi"
     },
     {
       "headword_latin": "zaviti nekoga / nešto u crno",
@@ -46458,6 +46715,25 @@
       "keyword": "zbog sira i vojne muzike"
     },
     {
+      "headword_latin": "Zbog sirota sunce sjaje",
+      "type": "poslovica",
+      "definition_ru": "и для бедных солнце светит; есть на свете благо и для обездоленных",
+      "synonyms_sr": [
+        "i sirotinja ima svoju sreću"
+      ],
+      "literal_ru": "ради сирот солнце светит",
+      "register": "stara narodna poslovica; arhaična forma sjaje",
+      "examples": [
+        {
+          "serbian_latin": "Zbog sirota sunce sjaje.",
+          "russian": "И ради сирых солнце светит.",
+          "source": "srpska gramatika / Vukova građa, 1921"
+        }
+      ],
+      "note": "Поправка: в исходнике Zbog sirota sunce grije — иекавская форма. В старых сербских источниках документировано Zbog sirota sunce sjaje; встречается и вариант Da nije sirotinje, ne bi ni sunce grijalo. Точное традиционное толкование источники не разъясняют, поэтому выражение лучше понимать широко как утешительную мысль: природные блага существуют и для бедных.",
+      "keyword": "sirota; sunce"
+    },
+    {
       "headword_latin": "Zbrda-zdola",
       "type": "prilog",
       "definition_ru": "как попало; бессистемно; тяп-ляп; пятое через десятое",
@@ -46540,32 +46816,24 @@
     },
     {
       "headword_latin": "Zini da ti kažem",
-      "type": "razgovorna / memna formula",
-      "definition_ru": "«открой рот — скажу»; насмешливая или грубоватая отговорка вместо нормального ответа, иногда с двусмысленным или сексуальным подтекстом",
+      "type": "replika",
+      "definition_ru": "ага, сейчас; разбежался; сейчас всё тебе расскажу",
       "synonyms_sr": [
-        "neću da ti kažem",
-        "pogodi",
-        "saznaćeš",
-        "malo sutra"
+        "malo sutra",
+        "važi, baš ću ti reći (iron.)",
+        "nećeš saznati"
       ],
-      "literal_ru": "разинь рот, я тебе скажу",
-      "register": "razgovorno, šaljivo, često podrugljivo ili prostački",
+      "literal_ru": "открой рот, скажу тебе",
+      "register": "razg.-sleng, ironično-odbijajuće; moguć seksualni podtekst",
       "examples": [
         {
-          "serbian_latin": "Zini da ti kažem.",
-          "russian": "Открой рот — скажу.",
-          "source": "Vukajlija, 2012",
-          "url": "https://vukajlija.com/pretraga/izraz?q=da-li-bih-ti&strana=41"
-        },
-        {
-          "serbian_latin": "Gde si je video? — Zini da ti kažem.",
-          "russian": "Где ты её видел? — А вот не скажу.",
-          "source": "Vukajlija, 2009",
-          "url": "https://vukajlija.com/pretraga/izraz?q=ulicom&strana=29"
+          "serbian_latin": "Koliko si platio? — Zini da ti kažem.",
+          "russian": "Сколько заплатил? — Ага, сейчас всё тебе расскажу.",
+          "source": ""
         }
       ],
-      "note": "Мемно-разговорная формула. Значение определяется контекстом: от детской дразнилки до грубой отговорки или двусмысленной шутки.",
-      "keyword": "zini da ti kažem"
+      "note": "В сленговом употреблении это намеренно издевательский отказ отвечать; Vukajlija фиксирует именно функцию «не хотим дать настоящий ответ на вопрос». Из-за zini «разинь рот» реплика может получать непристойный второй план.",
+      "keyword": "zini"
     },
     {
       "headword_latin": "Zlatna koka",
@@ -46681,58 +46949,44 @@
     {
       "headword_latin": "Zlato je čisto i u prljavoj kesi",
       "type": "poslovica",
-      "definition_ru": "истинная ценность не исчезает из-за бедного происхождения, плохого окружения или непрезентабельной внешности; золото остаётся золотом и в грязи",
+      "definition_ru": "золото остаётся золотом и в грязном мешке; истинная ценность не зависит от окружения",
       "synonyms_sr": [
-        "vrednost ostaje vrednost",
-        "zlato se poznaje i u blatu",
-        "dobar čovek ostaje dobar"
+        "zlato ostaje zlato",
+        "zna se zlato i u đubretu",
+        "za čisto zlato rđa ne prijanja"
       ],
-      "literal_ru": "золото чисто и в грязном кошельке",
-      "register": "narodno, poslovično, odobravajuće",
+      "literal_ru": "золото чисто и в грязном мешке",
+      "register": "poslovica, narodna, odobravajuća",
       "examples": [
         {
           "serbian_latin": "Zlato je čisto i u prljavoj kesi.",
-          "russian": "Золото остаётся чистым и в грязном кошельке.",
-          "source": "Univerzitet u Beogradu — zbirka poslovica, pristupljeno 2026",
-          "url": "https://tesla.rcub.bg.ac.rs/~nena/Poslovice/Poslovice.html"
-        },
-        {
-          "serbian_latin": "Zlato je čisto i u prljavoj kesi.",
-          "russian": "Золото и в грязи остаётся золотом.",
-          "source": "Bašta Balkana, 2015",
-          "url": "https://www.bastabalkana.com/2015/11/srpske-narodne-poslovice-mudrosti-izreke-sintagme/"
+          "russian": "Золото остаётся золотом и в грязном мешке.",
+          "source": "zbirka srpskih poslovica"
         }
       ],
-      "note": "Народная пословица. В современном употреблении может относиться к человеку, идее или качественной вещи, чья ценность не зависит от внешней оболочки.",
-      "keyword": "zlato; prljava kesa"
+      "note": "Пословица говорит о внутренней ценности, которую не уничтожают бедное происхождение, непрезентабельная внешность или плохое окружение. Близкая сербская формула — zna se zlato i u đubretu.",
+      "keyword": "zlato"
     },
     {
       "headword_latin": "Zlatom piše, govnom zapečati",
       "type": "izreka",
-      "definition_ru": "начать прекрасно, но всё испортить в самом конце; добавить ложку дёгтя после почти безупречного результата",
+      "definition_ru": "начать за здравие, кончить за упокой; прекрасно сделать почти всё и испортить в конце",
       "synonyms_sr": [
         "sve upropastiti na kraju",
-        "dobro početi pa loše završiti",
-        "pokvariti dobar utisak"
+        "pokvariti dobar posao",
+        "uprskati završnicu"
       ],
-      "literal_ru": "золотом пишет, д***мом запечатывает",
-      "register": "vulgarno-razgovorno, ironično",
+      "literal_ru": "золотом пишет, г***ом запечатывает",
+      "register": "grub.-razg., ekspresivno; varijante zlatom piši, govnom zapečati; zlatom pisano, govnetom pečaćeno",
       "examples": [
         {
-          "serbian_latin": "Zlatom piše, govnom zapečati.",
-          "russian": "Золотом пишет, а в конце всё портит.",
-          "source": "Vukajlija, 2008",
-          "url": "https://vukajlija.com/pretraga/izraz?q=+stara+vremena&strana=50"
-        },
-        {
-          "serbian_latin": "Ali znaš kako se u narodu kaže: „Zlatom piše, govnom zapečati“.",
-          "russian": "Но знаешь, как в народе говорят: «Золотом пишет, а в конце всё портит».",
-          "source": "Forum Krstarice, 2012",
-          "url": "https://forum.krstarica.com/threads/pismo-bogu.536956/"
+          "serbian_latin": "Sve uradi kako treba, pa na kraju napravi glupost — zlatom piše, govnom zapečati.",
+          "russian": "Всё делает как надо, а в конце всё портит — начал за здравие, кончил за упокой.",
+          "source": ""
         }
       ],
-      "note": "Реально употребимая грубоватая формула. В русской части обсценное слово маскируется по правилам Frazeoteka.",
-      "keyword": "zlatom piše; zapečati"
+      "note": "Исходную помету «не подтверждено» можно снять: формула фиксируется в сербском разговорном интернете и специализированных подборках. Образ очень точный: работа почти завершена великолепно, но последняя «печать» уничтожает впечатление от всего сделанного.",
+      "keyword": "zlatom; zapečatiti"
     },
     {
       "headword_latin": "Zlo i naopako",
@@ -46790,31 +47044,23 @@
     },
     {
       "headword_latin": "Znam te, puško, dok si pištolj bila",
-      "type": "izreka",
-      "definition_ru": "я тебя давно знаю и помню, каким ты был раньше; передо мной не нужно важничать или притворяться",
+      "type": "frazeologizam",
+      "definition_ru": "знаю я тебя давно; помню, с чего ты начинал; меня твоей нынешней важностью не впечатлишь",
       "synonyms_sr": [
-        "znam te odavno",
-        "znam ko si",
-        "ne možeš mene da prevariš",
-        "pamtim te od ranije"
+        "dobro te znam",
+        "znam ja tebe odavno",
+        "znam odakle si počeo"
       ],
-      "literal_ru": "я знаю тебя, ружьё, ещё когда ты была пистолетом",
-      "register": "razgovorno, ironično, često podrugljivo",
+      "literal_ru": "знаю тебя, ружьё, ещё когда ты была пистолетом",
+      "register": "razg., ironično; često onome ko se uzdigao, uobrazio ili pokušava da ostavi važniji utisak",
       "examples": [
         {
-          "serbian_latin": "Naš narod kaže: znam te puško dok si pištolj bila!",
-          "russian": "Наш народ говорит: я тебя ещё помню пистолетом, не строй из себя ружьё.",
-          "source": "Kurir, 2014",
-          "url": "https://www.kurir.rs/vesti/drustvo/1631104/mali-dokica-a-velika-lopuza"
-        },
-        {
-          "serbian_latin": "Znam te puško dok si pištolj bila.",
-          "russian": "Я тебя давно знаю и помню прежним.",
-          "source": "Ana.rs forum, 2013",
-          "url": "https://www.ana.rs/forum/index.php?topic=4382.11940"
+          "serbian_latin": "Nemoj meni da glumiš velikog šefa — znam te, puško, dok si pištolj bila.",
+          "russian": "Не строй передо мной большого начальника — я прекрасно помню, с чего ты начинал.",
+          "source": ""
         }
       ],
-      "note": "Формула стала особенно узнаваемой и благодаря песне Riblje Čorbe „Znam te (Drugoga voli)“, но употребляется и независимо как народное выражение.",
+      "note": "Формула существовала в разговорной речи и получила дополнительную узнаваемость благодаря песне grupe Riblja Čorba „Znam te (Drugoga voli)“. Смысл не просто «я тебя знаю», а «я знаю твоё прошлое, поэтому нынешний фасад меня не обманет».",
       "keyword": "puška; pištolj"
     },
     {
