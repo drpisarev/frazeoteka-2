@@ -1652,6 +1652,32 @@
       "keyword": "u zavadi"
     },
     {
+      "headword_latin": "Biti hladan kao špricer",
+      "type": "frazeologizam",
+      "definition_ru": "быть холодным как лёд; оставаться невозмутимым, равнодушным",
+      "synonyms_sr": [
+        "biti hladan kao led",
+        "biti hladan kao stena",
+        "biti ravnodušan"
+      ],
+      "literal_ru": "быть холодным как шприцер",
+      "register": "razg.-frazeološki; o osobi bez vidljive emocionalne reakcije",
+      "examples": [
+        {
+          "serbian_latin": "Svi su se uznemirili, a on hladan kao špricer.",
+          "russian": "Все разволновались, а он невозмутим как лёд.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Očekivala sam neku reakciju, ali ostao je hladan kao špricer.",
+          "russian": "Я ожидала какой-то реакции, но он остался совершенно холоден.",
+          "source": ""
+        }
+      ],
+      "note": "Сербское исследование сравнительных фразеологизмов фиксирует biti hladan kao špricer наряду с hladan kao led и hladan kao stena. Špricer — холодное белое вино с сода-водой; именно его температура мотивирует сравнение.",
+      "keyword": "špricer"
+    },
+    {
       "headword_latin": "biti između čekića i nakovnja",
       "type": "frazeologizam",
       "definition_ru": "Оказаться под давлением двух противоположных сторон или быть вынужденным выбирать между двумя плохими вариантами. Русский аналог: «оказаться между молотом и наковальней».",
@@ -2415,6 +2441,32 @@
       ],
       "note": "Сербское na vrh jezika соответствует русскому «на кончике языка». Оно может относиться и к слову, которое никак не удаётся вспомнить, и к реплике, которую человек почти произнёс, но удержался. Для русского полезна конструкция с дательным местоимением: na vrh jezika mi je.",
       "keyword": "na vrh jezika"
+    },
+    {
+      "headword_latin": "Biti nem kao riba",
+      "type": "frazeologizam",
+      "definition_ru": "быть немым как рыба; упорно молчать",
+      "synonyms_sr": [
+        "ćutati kao riba",
+        "ćutati kao zaliven",
+        "ne progovarati"
+      ],
+      "literal_ru": "быть немым как рыба",
+      "register": "razg., ekspresivno; o osobi koja ništa ne govori ili odbija da govori",
+      "examples": [
+        {
+          "serbian_latin": "Kada se povede reč o njegovom privatnom životu, glumac postaje nem kao riba.",
+          "russian": "Когда речь заходит о его личной жизни, актёр становится нем как рыба.",
+          "source": "Vesti Online, 2016"
+        },
+        {
+          "serbian_latin": "Pitali smo ga šta se dogodilo, a on nem kao riba.",
+          "russian": "Мы спрашивали, что случилось, а он молчит как рыба.",
+          "source": ""
+        }
+      ],
+      "note": "Академическое исследование сербской фразеологии фиксирует рядом три оборота: biti nem kao riba, ćutati kao riba, ćutati kao zaliven. Первый описывает именно упорное отсутствие речи, а не немоту в медицинском смысле.",
+      "keyword": "nem; riba"
     },
     {
       "headword_latin": "Biti pod lupom",
@@ -4269,6 +4321,32 @@
       "keyword": "čovek je čoveku vuk"
     },
     {
+      "headword_latin": "Čovek od reči",
+      "type": "frazeologizam",
+      "definition_ru": "человек слова; человек, который держит обещания",
+      "synonyms_sr": [
+        "pouzdan čovek",
+        "čovek koji drži reč",
+        "principijelan čovek"
+      ],
+      "literal_ru": "",
+      "register": "odobravajuće; o pouzdanoj osobi koja ispunjava obećanja",
+      "examples": [
+        {
+          "serbian_latin": "Do kraja je bio čovek od reči i zakletve.",
+          "russian": "До конца он оставался человеком слова и верным своей клятве.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "On je čovek od reči: ako je obećao, uradiće.",
+          "russian": "Он человек слова: раз обещал, сделает.",
+          "source": ""
+        }
+      ],
+      "note": "Практически полное совпадение с русским. Главное качество здесь не красноречие, а надёжность: сказанное воспринимается как обязательство.",
+      "keyword": "čovek od reči"
+    },
+    {
       "headword_latin": "Čovek planira, a Bog se smeje",
       "type": "izreka",
       "definition_ru": "человек предполагает, а Бог располагает; хочешь рассмешить Бога — расскажи ему о своих планах",
@@ -5191,6 +5269,31 @@
       ],
       "note": "Образ прозрачен: бегущий настолько быстро перебирает ногами, будто его пяткам помогает ветер. Сербское выражение живое и разговорное; русские «дать дёру», «дать стрекача», «унести ноги» передают его лучше буквального перевода. Возможен другой порядок слов, но словарная форма dati petama vetra наиболее удобна.",
       "keyword": "petama vetra"
+    },
+    {
+      "headword_latin": "Dati reč",
+      "type": "frazeologizam",
+      "definition_ru": "дать слово, пообещать; предоставить кому-либо слово",
+      "synonyms_sr": [
+        "obećati",
+        "dozvoliti nekome da govori"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; dati reč da... i dati nekome reč imaju različita značenja",
+      "examples": [
+        {
+          "serbian_latin": "Dali su reč i verovali da ih to obavezuje.",
+          "russian": "Они дали слово и считали, что оно их обязывает.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "I građanima bi trebalo dati reč.",
+          "russian": "Следовало бы предоставить слово и гражданам.",
+          "source": "Politika, 2020"
+        }
+      ],
+      "note": "Управление различает значения: dati reč da ćeš nešto uraditi — «пообещать», а dati nekome reč — «дать кому-либо возможность выступить».",
+      "keyword": "dati reč"
     },
     {
       "headword_latin": "Dati sve od sebe",
@@ -7537,6 +7640,32 @@
       ],
       "note": "Это сильнее простого kontrolisati: обычно контролируемому человеку трудно сопротивляться, поскольку другая сторона располагает реальным средством давления. Русское «держать в кулаке» близко, но иногда звучит жёстче; «держать в своих руках» универсальнее.",
       "keyword": "držati u šaci"
+    },
+    {
+      "headword_latin": "Držati nekoga za reč",
+      "type": "frazeologizam",
+      "definition_ru": "ловить на слове; считать обещание данным; требовать выполнить сказанное",
+      "synonyms_sr": [
+        "očekivati da ispuni obećanje",
+        "podsetiti na obećanje",
+        "računati na nečiju reč"
+      ],
+      "literal_ru": "держать кого-либо за слово",
+      "register": "razg.-neutralno; držati koga za reč + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Dobro, držim te za reč, pazi šta si rekao!",
+          "russian": "Хорошо, ловлю тебя на слове, смотри не забудь, что сказал!",
+          "source": "Vukajlija, 2009"
+        },
+        {
+          "serbian_latin": "Rekao si da ćeš pomoći — držim te za reč.",
+          "russian": "Ты сказал, что поможешь, — ловлю тебя на слове.",
+          "source": ""
+        }
+      ],
+      "note": "Не путать с držati reč «держать слово». Здесь обещание дал другой человек, а говорящий заявляет, что будет рассчитывать на его слова.",
+      "keyword": "držati za reč"
     },
     {
       "headword_latin": "držati palčeve",
@@ -12133,6 +12262,32 @@
       "keyword": "ispod mire"
     },
     {
+      "headword_latin": "Ispod ruke",
+      "type": "izraz",
+      "definition_ru": "из-под полы; по неофициальным каналам; с рук",
+      "synonyms_sr": [
+        "mimo regularne prodaje",
+        "preko veze (delimično)",
+        "ispod tezge (delimično)"
+      ],
+      "literal_ru": "из-под руки",
+      "register": "razg.; tipično kupiti, prodati, nabaviti ispod ruke",
+      "examples": [
+        {
+          "serbian_latin": "Govorio je da ima vezu u fabrici koja mu krem nabavlja ispod ruke.",
+          "russian": "Он говорил, что у него есть связь на фабрике, через которую он достаёт крем из-под полы.",
+          "source": "Blic, 2013"
+        },
+        {
+          "serbian_latin": "Tih godina mnoge stvari su se kupovale ispod ruke.",
+          "russian": "В те годы многие вещи покупали из-под полы.",
+          "source": ""
+        }
+      ],
+      "note": "Значение — купить или продать вне обычной официальной торговли, иногда через посредника или знакомого. Не путать с pod ruku «под руку»: uhvatiti nekoga pod ruku.",
+      "keyword": "ispod ruke"
+    },
+    {
       "headword_latin": "Ispod svake kritike",
       "type": "frazeologizam",
       "definition_ru": "ниже всякой критики; никуда не годится; совершенно неприемлемо",
@@ -13304,6 +13459,32 @@
       ],
       "note": "Основная конструкция — javna je tajna da… («ни для кого не секрет, что…»). Парадоксальное соединение «публичного» и «тайны» указывает на разрыв между неофициальной осведомлённостью и открытым признанием. В журналистском тексте это может вводить недоказанное обвинение; примеры фиксируют формулировки источников, а не подтверждают изложенные в них обвинения.",
       "keyword": "javna tajna; prećutkivanje; opštepoznato; neformalno znanje"
+    },
+    {
+      "headword_latin": "Jebe lud zbunjenog",
+      "type": "sleng",
+      "definition_ru": "полный дурдом; чёрт ногу сломит; никто не понимает, что происходит",
+      "synonyms_sr": [
+        "totalni haos",
+        "ludnica",
+        "ne zna se ko pije a ko plaća"
+      ],
+      "literal_ru": "сумасшедший е***т растерянного",
+      "register": "vulg., sleng; gruba ocena haotične i apsurdne situacije",
+      "examples": [
+        {
+          "serbian_latin": "Jebe lud zbunjenog.",
+          "russian": "Полный дурдом.",
+          "source": "021.rs, 2021"
+        },
+        {
+          "serbian_latin": "Menjaju pravila svaki dan — ovde stvarno jebe lud zbunjenog.",
+          "russian": "Правила меняют каждый день — здесь уже полный п***ц и никто ничего не понимает.",
+          "source": ""
+        }
+      ],
+      "note": "Это не описание конкретных людей, а готовая формула системного хаоса: один распоряжается непонятно как, другой не понимает, что делать. В сербском звучит очень грубо; нейтральнее ne zna se ko pije a ko plaća.",
+      "keyword": "lud; zbunjen"
     },
     {
       "headword_latin": "Jedan kroz jedan",
@@ -17267,6 +17448,32 @@
       "keyword": "medveđa usluga"
     },
     {
+      "headword_latin": "Među nama rečeno",
+      "type": "izraz",
+      "definition_ru": "между нами говоря; между нами; по секрету",
+      "synonyms_sr": [
+        "između nas",
+        "da ostane među nama",
+        "iskreno govoreći (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "razg.-neutralno; uvodna formula poverljivosti",
+      "examples": [
+        {
+          "serbian_latin": "Među nama rečeno, pokojnicima je svejedno.",
+          "russian": "Между нами говоря, покойникам всё равно.",
+          "source": "Politika, 2017"
+        },
+        {
+          "serbian_latin": "Među nama rečeno, ni meni se ta ideja ne dopada.",
+          "russian": "Между нами говоря, мне эта идея тоже не нравится.",
+          "source": ""
+        }
+      ],
+      "note": "Не обязательно означает настоящий секрет. Часто лишь создаёт доверительный тон перед более откровенной или слегка неприличной для публичного высказывания мыслью.",
+      "keyword": "među nama"
+    },
+    {
       "headword_latin": "Meriti istim aršinom",
       "type": "frazeologizam",
       "definition_ru": "мерить одной меркой; судить по одинаковым критериям; подходить ко всем одинаково",
@@ -18034,32 +18241,29 @@
     },
     {
       "headword_latin": "Na blef",
-      "type": "priloški izraz",
-      "definition_ru": "на авось, без подготовки или надёжного основания; рассчитывая на удачу, риск или обманное впечатление",
+      "type": "izraz",
+      "definition_ru": "на блеф; на авось; без подготовки, рассчитывая на удачу",
       "synonyms_sr": [
-        "na sreću",
-        "bez pripreme",
-        "napamet",
-        "rizikujući"
+        "blefirajući",
+        "naslepo (delimično)",
+        "na sreću"
       ],
-      "literal_ru": "на блеф",
-      "register": "razgovorno; može označavati pravi blef ili preneseno postupanje bez znanja i pripreme",
+      "literal_ru": "",
+      "register": "razg.; tipično izaći na ispit na blef, pokušati na blef",
       "examples": [
         {
-          "serbian_latin": "Studenti se po televizijama bune, uopšte i ne uče, već izlaze na ispit 'na blef'.",
-          "russian": "Студенты протестуют по телевидению, совсем не учатся, а на экзамен идут на авось.",
-          "source": "Politika, 2018",
-          "url": "https://www.politika.rs/sr/clanak/417582/sarcevic-profesorka-pavlovic-je-stroga-ali-ni-studenti-nisu-andeli"
+          "serbian_latin": "Studenti izlaze na ispit „na blef“.",
+          "russian": "Студенты идут на экзамен на авось, практически не подготовившись.",
+          "source": "Politika, 2018"
         },
         {
-          "serbian_latin": "Nemoj učiti 'na blef', jer saobraćaj nije kviz znanja – kad pogrešiš u praksi, posledice mogu biti ozbiljne.",
-          "russian": "Не учи на авось: дорожное движение — не викторина, и ошибка на практике может иметь серьёзные последствия.",
-          "source": "Auto škola Kalinić, Novi Sad, 2025",
-          "url": "https://autoskolakalinic.com/teorijski-ispit-za-voznju/"
+          "serbian_latin": "Nisam znao odgovor, pa sam pokušao na blef.",
+          "russian": "Я не знал ответа и решил попробовать наугад.",
+          "source": ""
         }
       ],
-      "note": "За пределами карточной игры na blef означает действовать без достаточного знания, подготовки или реальных оснований, надеясь, что риск сработает или окружающие не заметят слабости.",
-      "keyword": "na blef; bez pripreme; rizik"
+      "note": "Значение шире буквального покерного «блефа». Na blef можно сделать что-то без достаточного знания или подготовки, надеясь, что получится или что окружающие не заметят неуверенности.",
+      "keyword": "blef"
     },
     {
       "headword_latin": "Na brzu ruku",
@@ -18140,6 +18344,32 @@
       ],
       "note": "Образ пришёл из дистанции или забега: важен результат не сейчас, а после длительного периода. Русская калька «на долгие дистанции» возможна только буквально; в переносном смысле естественнее «в долгосрочной перспективе», «на длинной дистанции», «долго».",
       "keyword": "na duge staze"
+    },
+    {
+      "headword_latin": "Na greškama se uči",
+      "type": "poslovica",
+      "definition_ru": "на ошибках учатся",
+      "synonyms_sr": [
+        "učiti na greškama",
+        "iskustvo je najbolji učitelj (blisko)",
+        "grešiti je ljudski (blisko)"
+      ],
+      "literal_ru": "",
+      "register": "poslovično-aforistički, opšteupotrebno",
+      "examples": [
+        {
+          "serbian_latin": "Ono „na greškama se uči“ u našoj školi ne vredi.",
+          "russian": "Принцип «на ошибках учатся» в нашей школе не работает.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Pogrešio si, ali dobro — na greškama se uči.",
+          "russian": "Ты ошибся, но ничего: на ошибках учатся.",
+          "source": ""
+        }
+      ],
+      "note": "Почти полное совпадение с русским. Может употребляться и серьёзно как педагогическая формула, и иронически как оправдание очередной неудачи.",
+      "keyword": "greška"
     },
     {
       "headword_latin": "na jedvite jade",
@@ -18386,6 +18616,32 @@
       ],
       "note": "Выражение употребляется, когда кто-то получает преимущество, оценку, деньги, должность или доверие без достаточных оснований. В финансовом контексте dati kredit na lepe oči может означать «дать без нормальных гарантий». Русское «за красивые глаза» почти полностью совпадает и по образу, и по ироническому оттенку.",
       "keyword": "na lepe oči"
+    },
+    {
+      "headword_latin": "Na leru",
+      "type": "izraz",
+      "definition_ru": "на холостом ходу; перен. на минималках, почти без усилий",
+      "synonyms_sr": [
+        "u praznom hodu",
+        "bez većeg napora (pren.)",
+        "minimalnim tempom (pren.)"
+      ],
+      "literal_ru": "",
+      "register": "razg.; automobilsko doslovno značenje i prenesena metafora",
+      "examples": [
+        {
+          "serbian_latin": "Mnogi se vraćaju staroj navici – spuštanju nizbrdo u leru.",
+          "russian": "Многие возвращаются к старой привычке — спускаться с горы на нейтральной передаче.",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Poslednjih mesec dana radim na leru, samo najnužnije.",
+          "russian": "Последний месяц я работаю на минималках, делаю только самое необходимое.",
+          "source": ""
+        }
+      ],
+      "note": "Буквально ler — нейтральная передача / холостой ход. Отсюда разговорное živeti na leru — прикладывать минимум усилий и выполнять лишь необходимое для существования.",
+      "keyword": "ler"
     },
     {
       "headword_latin": "Na licu mesta",
@@ -18665,32 +18921,30 @@
     },
     {
       "headword_latin": "Na mufte",
-      "type": "priloški izraz",
-      "definition_ru": "на халяву, даром; не заплатив или не приложив должных усилий",
+      "type": "prilog",
+      "definition_ru": "на халяву; бесплатно; обходным путём, не платя",
       "synonyms_sr": [
         "džabe",
         "besplatno",
-        "bez plaćanja",
-        "bez truda"
+        "na tuđ račun",
+        "ispod ruke (delimično)"
       ],
-      "literal_ru": "на халяву",
-      "register": "razgovorno, često ironično ili neodobravajuće",
+      "literal_ru": "",
+      "register": "razg.-sleng; obično o sticanju koristi bez plaćanja ili mimo uobičajenog postupka",
       "examples": [
         {
-          "serbian_latin": "Moguće je steći diplomu 'na mufte' i sa kupljenom diplomom postati čak i ministar.",
-          "russian": "Можно получить диплом «на халяву» и с купленным дипломом стать даже министром.",
-          "source": "Danas, 2019",
-          "url": "https://www.danas.rs/vesti/politika/narodna-stranka-neophodna-temeljna-reforma-obrazovnog-sistema/"
+          "serbian_latin": "Ne znam koliko košta ulaznica, na mufte sam uš'o.",
+          "russian": "Не знаю, сколько стоит билет, я прошёл нахаляву.",
+          "source": "Vukajlija, 2012"
         },
         {
-          "serbian_latin": "Oni Ukrajinci, hteli bi gasa na mufte.",
-          "russian": "Эти украинцы хотели бы получать газ даром.",
-          "source": "Danas, 2009",
-          "url": "https://www.danas.rs/vesti/drustvo/ranjeni-orao/"
+          "serbian_latin": "Navikao je sve da dobija na mufte.",
+          "russian": "Он привык всё получать на халяву.",
+          "source": ""
         }
       ],
-      "note": "Разговорное na mufte может обозначать и буквальное «бесплатно», и более широкое «без труда, незаслуженно, обходным путём». По оттенку близко к džabe, но часто звучит более неодобрительно.",
-      "keyword": "mufte; džabe; besplatno"
+      "note": "Mufte фиксируется в значении «бесплатно, даром»; существует и вариант mukte. В разговорной речи часто появляется дополнительный оттенок: получить что-либо хитростью, по знакомству или в обход правил. Слово старое, отмечалось уже у Вука Караджича.",
+      "keyword": "mufte"
     },
     {
       "headword_latin": "Na neviđeno",
@@ -20987,33 +21241,30 @@
     },
     {
       "headword_latin": "Nema frke",
-      "type": "sleng / razgovorna formula",
-      "definition_ru": "без проблем; не парься; ничего страшного; я согласен или легко это сделаю",
+      "type": "replika",
+      "definition_ru": "без проблем; не парься; всё нормально",
       "synonyms_sr": [
         "nema problema",
         "opušteno",
-        "sve je okej",
-        "nije problem",
-        "lagano"
+        "ne brini",
+        "sve je u redu"
       ],
-      "literal_ru": "нет суеты / паники",
-      "register": "razgovorno, sleng, veoma često",
+      "literal_ru": "нет паники / неприятности",
+      "register": "razg.-sleng, veoma često; umirujuća replika",
       "examples": [
         {
-          "serbian_latin": "Nema problema. Nije problem. Neće mi biti teško da to uradim.",
-          "russian": "Без проблем. Мне не трудно это сделать.",
-          "source": "Vukajlija, 2009",
-          "url": "https://vukajlija.com/nema-frke"
+          "serbian_latin": "Kad ovde izbije frka, uvek se rešava uzrečicom: „Nema frke“.",
+          "russian": "Когда здесь возникает проблема, всё решается одной фразой: «Без проблем».",
+          "source": "Politika, 2011"
         },
         {
-          "serbian_latin": "Ali, nema frke, sve za zdravlje.",
-          "russian": "Но без проблем, всё ради здоровья.",
-          "source": "Nova.rs, 2020",
-          "url": "https://nova.rs/vesti/svet/hrvatski-stozer-kao-srpski-stab-svaka-slicnost-je-namerna/"
+          "serbian_latin": "Kasniću deset minuta. — Nema frke, čekam te.",
+          "russian": "Опоздаю минут на десять. — Без проблем, жду тебя.",
+          "source": ""
         }
       ],
-      "note": "Frka сама по себе — суета, паника, проблема, напряжённая ситуация. Nema frke стало очень обычным сербским эквивалентом «no problem».",
-      "keyword": "nema frke"
+      "note": "Frka — «паника, неприятность, напряжённая ситуация». Поэтому nema frke функционально соответствует не буквальному «нет паники», а русским «без проблем», «не парься».",
+      "keyword": "frka"
     },
     {
       "headword_latin": "Nema ga ni od korova",
@@ -30532,6 +30783,33 @@
       "keyword": "naprečac; brzopleto; odluka"
     },
     {
+      "headword_latin": "Prelomiti u glavi",
+      "type": "frazeologizam",
+      "definition_ru": "окончательно решиться; принять внутреннее решение; перестроить мышление",
+      "synonyms_sr": [
+        "odlučiti",
+        "preseći",
+        "raščistiti sa sobom",
+        "promeniti način razmišljanja"
+      ],
+      "literal_ru": "",
+      "register": "razg.; prelomiti u glavi da... / prelomiti nešto u glavi",
+      "examples": [
+        {
+          "serbian_latin": "Najpre se mora prelomiti sve u glavi.",
+          "russian": "Прежде всего нужно внутренне перестроиться и принять решение.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Kad sam prelomio u glavi da odlazim, više nije bilo dileme.",
+          "russian": "Когда я окончательно решил уехать, сомнений больше не было.",
+          "source": ""
+        }
+      ],
+      "note": "Русскому легко перевести буквально как «сломать в голове», но смысл — внутренне перейти границу между сомнением и решением. Близкое preseći обычно короче и ещё категоричнее: «решить раз и навсегда».",
+      "keyword": "prelomiti; glava"
+    },
+    {
       "headword_latin": "Prelomna tačka",
       "type": "izraz",
       "definition_ru": "Переломный момент; точка, после которой развитие событий заметно меняет направление.",
@@ -32400,6 +32678,32 @@
       "keyword": "puna mi je kapa"
     },
     {
+      "headword_latin": "Punim plućima",
+      "type": "frazeologizam",
+      "definition_ru": "полной грудью; в полную силу; на полную катушку",
+      "synonyms_sr": [
+        "svim srcem (delimično)",
+        "punom snagom",
+        "potpuno"
+      ],
+      "literal_ru": "полными лёгкими",
+      "register": "ekspresivno; tipično živeti, disati, pevati, uživati punim plućima",
+      "examples": [
+        {
+          "serbian_latin": "Odlučio je da putuje svetom i živi punim plućima.",
+          "russian": "Он решил путешествовать по миру и жить полной жизнью.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Posle svega ponovo uživa u životu punim plućima.",
+          "russian": "После всего пережитого он снова наслаждается жизнью по полной.",
+          "source": ""
+        }
+      ],
+      "note": "При disati выражение может быть буквальным, но с živeti, uživati означает «полноценно, интенсивно, не ограничивая себя». В современных сербских СМИ оборот очень живой.",
+      "keyword": "punim plućima"
+    },
+    {
       "headword_latin": "Puno kao oko",
       "type": "frazeologizam",
       "definition_ru": "полным-полно; битком; всё заполнено",
@@ -33870,6 +34174,32 @@
       "keyword": "sam pao sam se ubio"
     },
     {
+      "headword_latin": "Sam samcat",
+      "type": "izraz",
+      "definition_ru": "совсем один; один-одинёшенек; совершенно один",
+      "synonyms_sr": [
+        "potpuno sam",
+        "sasvim sam",
+        "bez ikoga"
+      ],
+      "literal_ru": "",
+      "register": "razg.-ekspresivno; menja se po rodu: sam samcat, sama samcata",
+      "examples": [
+        {
+          "serbian_latin": "Pacijent sa druge strane bio je sam samcat, boreći se da diše.",
+          "russian": "Пациент по другую сторону был совершенно один и боролся за каждый вдох.",
+          "source": "Danas / BBC na srpskom, 2021"
+        },
+        {
+          "serbian_latin": "Ostao je sam samcat u velikoj kući.",
+          "russian": "Он остался один-одинёшенек в большом доме.",
+          "source": ""
+        }
+      ],
+      "note": "Samcat усиливает sam: речь не просто об отсутствии компании, а о подчёркнутом полном одиночестве. Форма настолько самостоятельна, что Sam samcat используется и как название фильма в сербских источниках.",
+      "keyword": "samcat"
+    },
+    {
       "headword_latin": "Sam svoj gazda",
       "type": "izraz",
       "definition_ru": "сам себе хозяин; работать на себя; ни от кого не зависеть",
@@ -34668,6 +34998,32 @@
       ],
       "note": "Выражение происходит от французского éminence grise. Сербский использует siva eminencija там, где по-русски значительно естественнее «серый кардинал».",
       "keyword": "siva eminencija; uticaj; iz senke"
+    },
+    {
+      "headword_latin": "Sizifov posao",
+      "type": "frazeologizam",
+      "definition_ru": "сизифов труд; бесконечная и почти бесплодная работа",
+      "synonyms_sr": [
+        "uzaludan posao",
+        "beskrajan posao",
+        "posao bez kraja"
+      ],
+      "literal_ru": "",
+      "register": "knjiški-publicistički, ali vrlo upotrebljivo",
+      "examples": [
+        {
+          "serbian_latin": "Da li je držanje dijete Sizifov posao?",
+          "russian": "Не является ли соблюдение диеты сизифовым трудом?",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Bez pravog alata ovo je Sizifov posao.",
+          "russian": "Без подходящих инструментов это сизифов труд.",
+          "source": ""
+        }
+      ],
+      "note": "Отсылка к мифу о Сизифе русскому понятна без дополнительной культурной адаптации: задача снова и снова возвращается к исходной точке. В сербском это обычная современная метафора.",
+      "keyword": "Sizif"
     },
     {
       "headword_latin": "Sjaši Kurta da uzjaše Murta",
@@ -36909,6 +37265,32 @@
       "keyword": "stajati iza svojih reči; odgovornost; obećanje"
     },
     {
+      "headword_latin": "Stajati kao drvena Marija",
+      "type": "frazeologizam",
+      "definition_ru": "стоять столбом; стоять как истукан; застыть в неловкой позе",
+      "synonyms_sr": [
+        "stajati kao kip",
+        "stajati ukopano",
+        "stajati ukočeno"
+      ],
+      "literal_ru": "стоять как деревянная Мария",
+      "register": "razg.-slikovito; o nepomičnoj, ukočenoj ili zbunjenoj osobi",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da stojiš kao drvena Marija, pomozi nam.",
+          "russian": "Не стой столбом, помоги нам.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad su ga prozvali, ostao je da stoji kao drvena Marija.",
+          "russian": "Когда его вызвали, он застыл как истукан.",
+          "source": ""
+        }
+      ],
+      "note": "Академическое описание сербских фразеологизмов определяет оборот как «стоять жёстко, неестественно» и связывает образ с деревянной фигурой Богородицы. Может добавляться оттенок растерянности и беспомощности.",
+      "keyword": "drvena Marija"
+    },
+    {
       "headword_latin": "Stajati kao saliveno",
       "type": "frazeologizam",
       "definition_ru": "сидеть как влитое; сидеть идеально; быть точно по фигуре",
@@ -38740,6 +39122,32 @@
       "keyword": "kovač svoje sreće"
     },
     {
+      "headword_latin": "Svako nosi svoj krst",
+      "type": "izreka",
+      "definition_ru": "у каждого свой крест; у каждого своя тяжёлая ноша",
+      "synonyms_sr": [
+        "svako ima svoju muku",
+        "svako ima svoje breme",
+        "svako ima svoje probleme"
+      ],
+      "literal_ru": "каждый несёт свой крест",
+      "register": "izreka, biblijska slika; često i potpuno svetovno",
+      "examples": [
+        {
+          "serbian_latin": "Čovek ne zna šta ima sve dok to ne izgubi. Sa druge strane, svako nosi svoj krst.",
+          "russian": "Человек не знает, что имеет, пока не потеряет. С другой стороны, у каждого свой крест.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Ne osuđuj ga odmah — svako nosi svoj krst.",
+          "russian": "Не суди его сразу: у каждого свой крест.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение связано с христианским образом несения креста, но в современной речи часто просто означает личные трудности, о которых окружающие могут ничего не знать.",
+      "keyword": "krst"
+    },
+    {
       "headword_latin": "Svako zašto ima svoje zato",
       "type": "izreka",
       "definition_ru": "у каждого «почему» есть своё «потому»; всему есть причина; всему есть объяснение",
@@ -40198,6 +40606,32 @@
       ],
       "note": "Drum — дорога, большой путь; образно мысль из головы сразу «выходит наружу», в публичное пространство. Поэтому смысл шире буквального «что на уме, то на языке»: человек не фильтрует сказанное и быстро выносит внутреннюю мысль наружу. Академическое исследование рекламного языка показывает, насколько формула узнаваема: её пародируют как Što na umu, to u somunu!",
       "keyword": "što na um to na drum"
+    },
+    {
+      "headword_latin": "Što na umu, to na drumu",
+      "type": "poslovica",
+      "definition_ru": "что на уме, то и на языке; говорить всё без фильтра",
+      "synonyms_sr": [
+        "govoriti bez zadrške",
+        "reći sve što misliš",
+        "biti direktan"
+      ],
+      "literal_ru": "что на уме, то и на дороге",
+      "register": "poslovica; o direktnoj ili neuzdržanoj osobi, procena zavisi od konteksta",
+      "examples": [
+        {
+          "serbian_latin": "„Što na umu, to na drumu“ prevedeno je bukvalno na engleski kao deo akcije sa srpskim poslovicama.",
+          "russian": "Пословица «что на уме, то и на языке» была буквально переведена на английский в рамках проекта с сербскими пословицами.",
+          "source": "Politika, 2008"
+        },
+        {
+          "serbian_latin": "Kod njega je uvek što na umu, to na drumu.",
+          "russian": "У него что на уме, то и на языке.",
+          "source": ""
+        }
+      ],
+      "note": "Может быть похвалой прямоте или упрёком за отсутствие самоконтроля. В современной публицистике формула регулярно используется именно для человека, который говорит всё, что думает.",
+      "keyword": "um; drum"
     },
     {
       "headword_latin": "Što poseješ, to ćeš i požnjeti",
