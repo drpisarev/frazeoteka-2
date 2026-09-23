@@ -40844,6 +40844,32 @@
       "keyword": "rogati; bosti se"
     },
     {
+      "headword_latin": "Tetka iz Crvenke",
+      "type": "izraz",
+      "definition_ru": "«тётя приехала»; месячные; «эти дни»",
+      "synonyms_sr": [
+        "dobila sam",
+        "menstruacija",
+        "oni dani (eufem.)"
+      ],
+      "literal_ru": "тётя из Црвенки",
+      "register": "razg., eufemistički, pomalo staromodno; stigla mi je / došla mi je tetka iz Crvenke",
+      "examples": [
+        {
+          "serbian_latin": "„Došla mi je tetka iz Crvenke“ i ostali sinonimi pokazuju koliko je menstruacija stigmatizovana.",
+          "russian": "«Приехала тётя из Црвенки» и другие эвфемизмы показывают, насколько тема менструации табуирована.",
+          "source": "Oblakoder, 2023"
+        },
+        {
+          "serbian_latin": "Ne mogu danas na bazen, stigla mi je tetka iz Crvenke.",
+          "russian": "Сегодня в бассейн не могу — «тётя приехала».",
+          "source": ""
+        }
+      ],
+      "note": "Црвенка — населённый пункт в Воеводине; комизм поддерживается ассоциацией с crven «красный». Выражение действительно употреблялось как эвфемизм менструации, но сегодня может звучать старомодно или нарочито шутливо.",
+      "keyword": "tetka iz Crvenke"
+    },
+    {
       "headword_latin": "Tiha voda breg roni",
       "type": "poslovica",
       "definition_ru": "вода камень точит; терпение и настойчивость своё возьмут; тихая вода берега подмывает",
@@ -40877,31 +40903,54 @@
     {
       "headword_latin": "To je jasno i vrapcima na grani",
       "type": "frazeologizam",
-      "definition_ru": "это и ежу понятно; это очевидно абсолютно всем и не требует объяснений",
+      "definition_ru": "это и ежу понятно; это всем известно",
       "synonyms_sr": [
+        "jasno kao dan",
         "svima je jasno",
-        "to svi znaju",
-        "očigledno je",
-        "jasno kao dan"
+        "to znaju i vrapci na grani"
       ],
       "literal_ru": "это ясно даже воробьям на ветке",
-      "register": "razgovorno-publicistički, često ironično",
+      "register": "razg., ekspresivno; češći je model to znaju i vrapci na grani",
       "examples": [
         {
-          "serbian_latin": "Odgovor na ovo pitanje poznat je i vrapcima na grani.",
-          "russian": "Ответ на этот вопрос известен даже воробьям на ветке — то есть всем.",
-          "source": "Danas, 2013",
-          "url": "https://www.danas.rs/vesti/drustvo/grupni-portret-sa-trenerima-prvog-tima/"
+          "serbian_latin": "Da li sve ovo i vrapci na grani znaju?",
+          "russian": "Неужели всё это и так уже всем известно?",
+          "source": "RTS, 2022"
         },
         {
-          "serbian_latin": "I vrapcima na grani jasno je da bi sa Parizom, Londonom i Dubaijem to bila veoma ozbiljna liga.",
-          "russian": "Даже воробьям на ветке ясно, что с Парижем, Лондоном и Дубаем это была бы очень серьёзная лига.",
-          "source": "Večernje novosti, 2023",
-          "url": "https://www.novosti.rs/sport/kosarka/1304448/nikola-kalinic-aba-liga-evroliga-barselona-partizan-fenerbahce-zeljko-obradovic-najnovije-vesti"
+          "serbian_latin": "To znaju i vrapci na grani, samo se on pravi da ne zna.",
+          "russian": "Это и ежу понятно, только он делает вид, что не знает.",
+          "source": ""
         }
       ],
-      "note": "Есть две частые модели: to znaju i vrapci na grani и to je jasno i vrapcima na grani. Русскому естественнее всего «это и ежу понятно».",
+      "note": "Русский выбирает ежа, сербский — воробьёв. Устойчивее всего модель i vrapci na grani znaju, поэтому исходный заголовок стоит понимать как её вариант.",
       "keyword": "vrapci na grani"
+    },
+    {
+      "headword_latin": "To je skup sport",
+      "type": "izraz",
+      "definition_ru": "это дорогое удовольствие; это недешёвое занятие",
+      "synonyms_sr": [
+        "mnogo košta",
+        "skupa zabava",
+        "nije jeftino"
+      ],
+      "literal_ru": "это дорогой спорт",
+      "register": "razg.-publicistički; i o stvarima koje nisu sport",
+      "examples": [
+        {
+          "serbian_latin": "Kućno obrazovanje je pre svega „skup sport“ za naše prilike.",
+          "russian": "Домашнее обучение для наших условий — прежде всего дорогое удовольствие.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Menjati auto svake dve godine — to je skup sport.",
+          "russian": "Менять машину каждые два года — дорогое удовольствие.",
+          "source": ""
+        }
+      ],
+      "note": "Первоначально сочетание совершенно буквально употребляется о дорогих видах спорта; перенос на любое затратное занятие очень естественен. В прессе skup sport регулярно встречается и буквально.",
+      "keyword": "skup sport"
     },
     {
       "headword_latin": "To je za mene špansko selo",
@@ -40936,6 +40985,90 @@
       "keyword": "špansko selo"
     },
     {
+      "headword_latin": "To ti kažem",
+      "type": "replika",
+      "definition_ru": "вот и я о том же; именно это я и говорю",
+      "synonyms_sr": [
+        "upravo tako",
+        "baš to kažem",
+        "o tome ti pričam"
+      ],
+      "literal_ru": "это тебе и говорю",
+      "register": "razg.; često potvrđuje ono što je sagovornik upravo rekao",
+      "examples": [
+        {
+          "serbian_latin": "Trebalo je odmah da odemo. — E, to ti kažem.",
+          "russian": "Надо было сразу уйти. — Вот и я о том же.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ovo će nas skupo koštati. — To ti kažem.",
+          "russian": "Это нам дорого обойдётся. — Именно.",
+          "source": ""
+        }
+      ],
+      "note": "Ловушка для русского — буквальное «это тебе говорю» может казаться продолжением собственной мысли. На практике реплика очень часто означает «вот именно», «я же об этом».",
+      "keyword": "to ti kažem"
+    },
+    {
+      "headword_latin": "Toga ima samo kod nas",
+      "type": "replika",
+      "definition_ru": "такое только у нас; ну где ещё такое увидишь",
+      "synonyms_sr": [
+        "samo kod nas",
+        "to može samo ovde",
+        "nema toga nigde"
+      ],
+      "literal_ru": "",
+      "register": "razg.; najčešće samoirično, ređe ponosno",
+      "examples": [
+        {
+          "serbian_latin": "Tri šaltera, a radi samo jedan — toga ima samo kod nas.",
+          "russian": "Три окошка, а работает одно — такое только у нас.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Toga ima samo kod nas: svi se žale, a niko ništa ne menja.",
+          "russian": "Такое только у нас: все жалуются, а никто ничего не меняет.",
+          "source": ""
+        }
+      ],
+      "note": "Формула сама по себе нейтральна, но в реальной речи чаще всего вводит самоироническое описание нелепости, бюрократии или местной привычки. Положительный контекст тоже возможен.",
+      "keyword": "kod nas"
+    },
+    {
+      "headword_latin": "Top! Vrh! Strava!",
+      "type": "sleng",
+      "definition_ru": "супер! класс! отпад!",
+      "synonyms_sr": [
+        "ekstra!",
+        "do jaja! (vulg.-sleng)",
+        "kida! (sleng)",
+        "brutalno! (sleng)"
+      ],
+      "literal_ru": "",
+      "register": "razg.-sleng, pohvalno; tri samostalne evaluativne replike",
+      "examples": [
+        {
+          "serbian_latin": "Patike su ti top.",
+          "russian": "Кроссовки у тебя супер.",
+          "source": "Vukajlija, 2009"
+        },
+        {
+          "serbian_latin": "Koncert je bio vrh.",
+          "russian": "Концерт был отпад.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Film je strava!",
+          "russian": "Фильм классный!",
+          "source": ""
+        }
+      ],
+      "note": "Top и vrh буквально обозначают «верх, вершину» и легко превращаются в высшую похвалу. Strava буквально «ужас», но в разговорной оценке способно значить «класс, потрясающе» — примерно как русское «ужасно круто». Прилагательное stravičan при этом обычно сохраняет отрицательное значение.",
+      "keyword": "top; vrh; strava"
+    },
+    {
       "headword_latin": "Topovsko meso",
       "type": "frazeologizam",
       "definition_ru": "пушечное мясо; люди, которыми жертвуют или которых используют как расходный материал ради чужих целей",
@@ -40963,6 +41096,32 @@
       ],
       "note": "Изначально военный образ, но современное употребление намного шире: так называют людей, которых сознательно подвергают риску или легко заменяют ради интересов других.",
       "keyword": "topovsko meso; potrošna roba; žrtve"
+    },
+    {
+      "headword_latin": "Tovarna marva",
+      "type": "kolokacija",
+      "definition_ru": "вьючный скот; перен. ломовая лошадь, рабочая скотина",
+      "synonyms_sr": [
+        "tegleća stoka",
+        "radna marva",
+        "neko ko tegli sve (pren.)"
+      ],
+      "literal_ru": "вьючный скот",
+      "register": "doslovno neutralno; preneseno o čoveku razg., neodobr.-žalobno",
+      "examples": [
+        {
+          "serbian_latin": "Alpake im služe i kao tovarna marva.",
+          "russian": "Альпаки служат им в том числе как вьючные животные.",
+          "source": "Pojačalo, 2025"
+        },
+        {
+          "serbian_latin": "Nisam ja tovarna marva da nosim sve njihove stvari.",
+          "russian": "Я не ломовая лошадь, чтобы таскать все их вещи.",
+          "source": ""
+        }
+      ],
+      "note": "Поправка к исходному JSON: прежде всего это обычное буквальное сочетание «вьючный скот». Перенос на человека понятен и естественен, но это скорее разговорная метафора, чем жёстко закреплённый фразеологизм.",
+      "keyword": "tovarna marva"
     },
     {
       "headword_latin": "Transfer blama",
@@ -41045,6 +41204,32 @@
       ],
       "note": "Смысл не религиозный: đavo здесь образ опасности и неприятностей. Реплика Ne traži đavola! близка русским «не нарывайся», «не ищи приключений на свою голову», «не играй с огнём».",
       "keyword": "tražiti đavola; nevolja"
+    },
+    {
+      "headword_latin": "Tražiti hlad",
+      "type": "izraz",
+      "definition_ru": "искать тень; перен. искать, где полегче, отлынивать",
+      "synonyms_sr": [
+        "sklanjati se u hlad",
+        "zabušavati (pren.)",
+        "izvlačiti se od posla (pren.)"
+      ],
+      "literal_ru": "искать тень",
+      "register": "doslovno neutralno; preneseno razgovorno i slabije ustaljeno",
+      "examples": [
+        {
+          "serbian_latin": "Srbija traži hlad, a njih ni toplotni talas ne zaustavlja.",
+          "russian": "Сербия ищет тень, а их даже жара не останавливает.",
+          "source": "Srbija Danas, 2026"
+        },
+        {
+          "serbian_latin": "Kad dođe vreme za težak posao, on odmah traži hlad.",
+          "russian": "Как только начинается тяжёлая работа, он сразу ищет, где бы отсидеться.",
+          "source": ""
+        }
+      ],
+      "note": "Исходный файл подаёт «отлынивать» как готовое значение, но надёжно подтверждается прежде всего буквальное tražiti hlad. Переносное употребление понятно как ситуативный образ — «искать прохладу вместо работы» — однако его лучше не считать таким же устойчивым, как zabušavati.",
+      "keyword": "hlad"
     },
     {
       "headword_latin": "Tražiti hleba preko pogače",
@@ -41216,6 +41401,32 @@
       "keyword": "trinaesto prase"
     },
     {
+      "headword_latin": "Triput meri, jednom seci",
+      "type": "poslovica",
+      "definition_ru": "семь раз отмерь, один раз отрежь",
+      "synonyms_sr": [
+        "dobro razmisli pre nego što odlučiš",
+        "ne brzaj",
+        "prvo promisli"
+      ],
+      "literal_ru": "трижды отмерь, один раз отрежь",
+      "register": "poslovica, opšteupotrebna",
+      "examples": [
+        {
+          "serbian_latin": "Triput meri, jednom seci — kako izabrati kvalitetan stan.",
+          "russian": "Семь раз отмерь, один раз отрежь: как выбрать качественную квартиру.",
+          "source": "021.rs / BBC na srpskom, 2022"
+        },
+        {
+          "serbian_latin": "Pre nego što potpišeš ugovor, triput meri, jednom seci.",
+          "russian": "Прежде чем подписывать договор, семь раз отмерь, один раз отрежь.",
+          "source": ""
+        }
+      ],
+      "note": "Сербский отмеряет три раза, русский — семь. При переводе число обычно не сохраняют, а берут готовую русскую пословицу. Выражение надёжно фиксируется как сербская пословица.",
+      "keyword": "meri; seci"
+    },
+    {
       "headword_latin": "Trla baba lan",
       "type": "izreka",
       "definition_ru": "толочь воду в ступе; вести пустую говорильню; заниматься бессмысленным делом",
@@ -41299,6 +41510,32 @@
       "keyword": "trn"
     },
     {
+      "headword_latin": "Trnu mi zubi",
+      "type": "izraz",
+      "definition_ru": "зубы сводит; оскомина на зубах",
+      "synonyms_sr": [
+        "zubi mi bride",
+        "osećam trnjenje zuba",
+        "kiselo mi skuplja zube (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; trnu mi zubi od čega",
+      "examples": [
+        {
+          "serbian_latin": "Trnu mi zubi od kisele jabuke.",
+          "russian": "От кислого яблока у меня зубы сводит.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Od ovog hladnog soka trnu mi zubi.",
+          "russian": "От этого холодного сока зубы сводит.",
+          "source": ""
+        }
+      ],
+      "note": "Словарно фиксируется именно физическое ощущение от кислого, холода и т. п. Исходный JSON слишком уверенно расширял выражение до русской переносной «оскомины» от надоевшей рекламы: такое образное употребление возможно, но не является основным значением.",
+      "keyword": "trnuti; zubi"
+    },
+    {
       "headword_latin": "Trojanski konj",
       "type": "frazeologizam",
       "definition_ru": "Троянский конь; человек, организация, идея или механизм, который внешне допускается внутрь системы, но затем действует изнутри в чужих интересах или наносит ей вред. В информатике — разновидность вредоносной программы.",
@@ -41355,6 +41592,58 @@
       "keyword": "isti koš"
     },
     {
+      "headword_latin": "Tu i tamo",
+      "type": "prilog",
+      "definition_ru": "время от времени; кое-где; то тут, то там",
+      "synonyms_sr": [
+        "povremeno",
+        "ponegde",
+        "s vremena na vreme"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; vremensko i prostorno značenje",
+      "examples": [
+        {
+          "serbian_latin": "Tu i tamo odemo zajedno na ručak.",
+          "russian": "Время от времени мы вместе ходим обедать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Tu i tamo još ima snega.",
+          "russian": "Кое-где ещё лежит снег.",
+          "source": ""
+        }
+      ],
+      "note": "Это не один переносный фразеологизм, а очень употребительное наречное сочетание. Русский перевод зависит от того, распределены ли события во времени — «время от времени» — или в пространстве — «то тут, то там».",
+      "keyword": "tu i tamo"
+    },
+    {
+      "headword_latin": "Tu sam po gradu",
+      "type": "izraz",
+      "definition_ru": "да так, по городу; мотаюсь по делам; где-то в городе",
+      "synonyms_sr": [
+        "po gradu sam",
+        "motam se po gradu",
+        "završavam nešto po gradu"
+      ],
+      "literal_ru": "",
+      "register": "razg.; neodređen odgovor na pitanje gde je neko ili šta radi",
+      "examples": [
+        {
+          "serbian_latin": "Gde si? — Tu sam po gradu, završavam neke stvari.",
+          "russian": "Ты где? — Да по городу, кое-какие дела решаю.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Šta radiš? — Ništa, tu sam po gradu.",
+          "russian": "Что делаешь? — Да так, мотаюсь по городу.",
+          "source": ""
+        }
+      ],
+      "note": "Это разговорная формула, а не настоящий идиом. Tu sam создаёт ощущение «я где-то здесь, недалеко», а po gradu намеренно оставляет точное место неопределённым.",
+      "keyword": "po gradu"
+    },
+    {
       "headword_latin": "Tući nekoga kao vola u kupusu",
       "type": "poređenje",
       "definition_ru": "жестоко избивать; избивать до полусмерти",
@@ -41408,6 +41697,31 @@
       "keyword": "tuđe je slađe"
     },
     {
+      "headword_latin": "Tuđu nafaku niko ukrasti ne može",
+      "type": "izreka",
+      "definition_ru": "чужую долю не отнимешь; каждому своё предназначено",
+      "synonyms_sr": [
+        "nafaku ti niko ne može uzeti",
+        "svako ima svoju nafaku"
+      ],
+      "literal_ru": "никто не может украсть чужую нафаку",
+      "register": "regionalno, Sandžak; islamsko-orijentalni kulturni sloj; nije opštesrpska standardna formula",
+      "examples": [
+        {
+          "serbian_latin": "Hvala Bogu, nalaze svoj put, jer im nafaku niko ne može uzeti.",
+          "russian": "Слава Богу, они находят свой путь: предназначенную им долю никто не отнимет.",
+          "source": "Sandžak Danas, 2024"
+        },
+        {
+          "serbian_latin": "Ne zavidi mu — tuđu nafaku niko ukrasti ne može.",
+          "russian": "Не завидуй ему: чужую долю всё равно не отнимешь.",
+          "source": ""
+        }
+      ],
+      "note": "Nafaka — региональное слово арабского происхождения через османско-турецкую традицию: «удел, пропитание, то, что человеку предназначено». Особенно живо в Санджаке и боснийской мусульманской речи; для общего сербского стандарта слово маркировано регионально.",
+      "keyword": "nafaka"
+    },
+    {
       "headword_latin": "Tuk na luk",
       "type": "izreka",
       "definition_ru": "нашла коса на камень; столкнулись две одинаково упрямые или жёсткие стороны, и ни одна не хочет уступать",
@@ -41435,6 +41749,32 @@
       ],
       "note": "Очень сербская рифмованная формула, тесно связанная с понятием inat. Употребляется, когда одна упёртая сторона встречает столь же упёртую другую.",
       "keyword": "tuk na luk; inat"
+    },
+    {
+      "headword_latin": "Tuk na luk / udario tuk na luk",
+      "type": "frazeologizam",
+      "definition_ru": "нашла коса на камень; слово за слово; столкнулись два одинаково упорных соперника",
+      "synonyms_sr": [
+        "naišao na ravnog sebi",
+        "našla kosa na kamen",
+        "prepucavati se"
+      ],
+      "literal_ru": "",
+      "register": "razg., nar., iron.; tuk na luk i udario tuk na luk imaju blisko ali ne potpuno isto funkcionisanje",
+      "examples": [
+        {
+          "serbian_latin": "Udario tuk na luk — nijedan neće da popusti.",
+          "russian": "Нашла коса на камень: ни один не хочет уступать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Celo veče je bilo tuk na luk, odgovor na odgovor.",
+          "russian": "Весь вечер — слово за слово, ответ на ответ.",
+          "source": ""
+        }
+      ],
+      "note": "Поправка: исходное значение «око за око» слишком неточно. Лексикографическое tuk na luk означает бесконечное словесное препирательство, когда каждому нужно последнее слово; udario tuk na luk — столкновение двух одинаково упорных и сильных противников.",
+      "keyword": "tuk na luk"
     },
     {
       "headword_latin": "Tušta i tma",
@@ -41595,6 +41935,32 @@
       ],
       "note": "Главная трудность для русского — пара poneti se – poniziti se. Poneti se здесь не обычное «повести себя», а «возгордиться, слишком высоко о себе возомнить». Пословица требует внутреннего равновесия: успех не должен делать человека высокомерным, а беда — лишать достоинства.",
       "keyword": "u dobru se ne ponesi u zlu se ne ponizi"
+    },
+    {
+      "headword_latin": "U dupe na vašar",
+      "type": "replika",
+      "definition_ru": "на кудыкину гору; не твоё дело, куда",
+      "synonyms_sr": [
+        "nije te briga",
+        "kud me noge nose",
+        "gde god hoću"
+      ],
+      "literal_ru": "в задницу на ярмарку",
+      "register": "grub.-razg., šalj.; zajedljiv odgovor na Gde ćeš?",
+      "examples": [
+        {
+          "serbian_latin": "Gde ćeš? — U dupe na vašar.",
+          "russian": "Ты куда? — На кудыкину гору.",
+          "source": "Vukajlija, 2008"
+        },
+        {
+          "serbian_latin": "Opet pitaš gde idem? U dupe na vašar.",
+          "russian": "Опять спрашиваешь, куда я? Куда надо.",
+          "source": ""
+        }
+      ],
+      "note": "Реальная функция — не сообщить место, а оборвать назойливый вопрос. Фразеологические описания также дают значения «неважно куда», «не твоё дело». Vašar — «ярмарка».",
+      "keyword": "vašar"
     },
     {
       "headword_latin": "U hodu",
@@ -41790,6 +42156,32 @@
       "keyword": "minut do dvanaest"
     },
     {
+      "headword_latin": "U moje vreme toga nije bilo",
+      "type": "replika",
+      "definition_ru": "в моё время такого не было; вот раньше такого не было",
+      "synonyms_sr": [
+        "nekad toga nije bilo",
+        "u naše vreme bilo je drugačije",
+        "današnja omladina... (funkcionalno)"
+      ],
+      "literal_ru": "",
+      "register": "razg.; tipična generacijska replika, često i ironično citirana",
+      "examples": [
+        {
+          "serbian_latin": "Posle takvih vesti čovek pomisli: „U moje vreme toga nije bilo.“",
+          "russian": "После таких новостей человек думает: «В моё время такого не было».",
+          "source": "Ministarstvo prosvete Srbije, 2015"
+        },
+        {
+          "serbian_latin": "Deca po ceo dan gledaju telefon — u moje vreme toga nije bilo.",
+          "russian": "Дети целыми днями смотрят в телефон — в моё время такого не было.",
+          "source": ""
+        }
+      ],
+      "note": "Это обычное предложение, ставшее готовой поколенческой репликой. Оно может произноситься всерьёз, но очень часто пародирует идеализацию собственной молодости.",
+      "keyword": "u moje vreme"
+    },
+    {
       "headword_latin": "U naponu snage",
       "type": "frazeologizam",
       "definition_ru": "в расцвете сил; в самом расцвете; в лучших годах",
@@ -41935,6 +42327,31 @@
       "keyword": "u poslednji čas"
     },
     {
+      "headword_latin": "U ručici doneti, u guzici odneti",
+      "type": "izreka",
+      "definition_ru": "принести чуть-чуть, а съесть или унести гораздо больше",
+      "synonyms_sr": [
+        "malo doneti, mnogo pojesti",
+        "doći s malo, otići s mnogo"
+      ],
+      "literal_ru": "в ручке принести, в заднице унести",
+      "register": "grub.-razg., šalj.-neodobr.; o gostu koji donese sitnicu a pojede i popije mnogo",
+      "examples": [
+        {
+          "serbian_latin": "Dođe s jednom čokoladom, a pojede pola frižidera — u ručici doneti, u guzici odneti.",
+          "russian": "Придёт с одной шоколадкой, а съест полхолодильника: принёс чуть-чуть, унёс в животе полдома.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Za takve goste se govorilo: u ručici doneti, u guzici odneti.",
+          "russian": "Про таких гостей говорили: принести малость, а съесть в несколько раз больше.",
+          "source": "Vokabular.org, 2016"
+        }
+      ],
+      "note": "Форумное обсуждение сербских идиом прямо объясняет оборот через гостя, который приносит вино или шоколад, а затем съедает и выпивает у хозяев несравнимо больше. Фраза грубая и сегодня скорее шутливо-фольклорная.",
+      "keyword": "ručica; guzica"
+    },
+    {
       "headword_latin": "U se i u svoje kljuse",
       "type": "izreka",
       "definition_ru": "надейся прежде всего на себя; рассчитывай на собственные силы",
@@ -41962,32 +42379,29 @@
     },
     {
       "headword_latin": "U se, na se i poda se",
-      "type": "izreka / razgovorna formula",
-      "definition_ru": "жить прежде всего ради еды и выпивки, одежды/внешнего комфорта и секса; всё тратить на собственные телесные удовольствия",
+      "type": "izreka",
+      "definition_ru": "всё на еду, одежду и удовольствия; жить только для себя и телесных радостей",
       "synonyms_sr": [
-        "živeti za uživanje",
-        "udovoljavati sebi",
-        "hedonistički živeti",
-        "sve trošiti na sebe"
+        "živeti za svoja zadovoljstva",
+        "ugađati sebi",
+        "hedonisati (razg.)"
       ],
       "literal_ru": "в себя, на себя и под себя",
-      "register": "narodno-razgovorno, šaljivo, često neodobravajuće",
+      "register": "razg., šalj.-neodobr.; ustaljena ritmička formula",
       "examples": [
         {
-          "serbian_latin": "„U se“ znači da moraš da jedeš, „na se“ da obučeš nešto, a „poda se“ odnosi se na seks.",
-          "russian": "«В себя» — поесть, «на себя» — одеться, а «под себя» относится к сексу.",
-          "source": "Blic, 2003",
-          "url": "https://www.blic.rs/zabava/u-se-na-se-i-poda-se/t99gvss"
+          "serbian_latin": "Sve što zaradi ode u se, na se i poda se.",
+          "russian": "Всё, что зарабатывает, уходит на еду, одежду и удовольствия.",
+          "source": ""
         },
         {
-          "serbian_latin": "U se, na se i poda se.",
-          "russian": "В себя, на себя и под себя — жить ради собственных удовольствий.",
-          "source": "Beogradsko dramsko pozorište, 2023",
-          "url": "https://www.bdp.rs/predstave/u-se-na-se-i-poda-se"
+          "serbian_latin": "„U se“ znači da moraš da jedeš, „na se“ da nešto obučeš...",
+          "russian": "«В себя» — надо поесть, «на себя» — во что-то одеться...",
+          "source": "Blic, 2003"
         }
       ],
-      "note": "Формула строится на трёх старых кратких предложно-местоименных сочетаниях: u se — еда/питьё, na se — одежда и материальное, poda se — сексуальное удовольствие. Часто характеризует эгоистический гедонизм.",
-      "keyword": "u se; na se; poda se"
+      "note": "Традиционное шутливое расшифровывание: u se — еда и питьё, na se — одежда, poda se — секс. Формула обозначает приземлённый гедонистический принцип жизни. Она настолько узнаваема, что используется как название современных спектаклей.",
+      "keyword": "u se na se poda se"
     },
     {
       "headword_latin": "U sitna crevca",
@@ -42093,6 +42507,57 @@
       ],
       "note": "Kukolj — сорное растение, традиционно считавшееся нежелательной примесью среди зерновых. Пословица обычно служит именно оговоркой против обобщения: один плохой врач, болельщик или чиновник ещё не характеризует всех остальных. Русское «в семье не без урода» иногда подходит, но оно резче; нейтральнее «везде встречаются разные люди».",
       "keyword": "žito; kukolj"
+    },
+    {
+      "headword_latin": "U šali se deca prave",
+      "type": "izreka",
+      "definition_ru": "шутки шутками, а последствия бывают настоящими",
+      "synonyms_sr": [
+        "šala može otići predaleko",
+        "od šale može postati ozbiljno"
+      ],
+      "literal_ru": "в шутку и дети делаются",
+      "register": "razg., šalj.; retko i slabo potvrđeno kao ustaljena izreka",
+      "examples": [
+        {
+          "serbian_latin": "Počeli su da flertuju iz šale, a sad se venčavaju — u šali se deca prave.",
+          "russian": "Начали флиртовать в шутку, а теперь женятся: шутки шутками, а последствия настоящие.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj toliko da se šališ s njom — u šali se deca prave.",
+          "russian": "Не заигрывайся с ней так сильно: шутки могут зайти далеко.",
+          "source": ""
+        }
+      ],
+      "note": "В отличие от большинства соседних единиц из исходного файла, эту точную формулу не удалось надёжно подтвердить в крупных сербских источниках как устойчивую пословицу. Она понятна и возможна как народная шутливая реплика, поэтому лучше хранить её с пометой «редк./слабо подтверждено», а не выдавать за общеупотребительную пословицу.",
+      "keyword": "šala; deca"
+    },
+    {
+      "headword_latin": "U šupku svemira",
+      "type": "sleng",
+      "definition_ru": "в ж*пе мира; у чёрта на куличках; в глухой дыре",
+      "synonyms_sr": [
+        "bogu iza nogu",
+        "u vukojebini (vulg.)",
+        "na kraju sveta"
+      ],
+      "literal_ru": "в заднем проходе Вселенной",
+      "register": "vulg., ekspresivno-šalj.; u šupku svemira / sveta",
+      "examples": [
+        {
+          "serbian_latin": "Žena govori da živimo u šupku svemira.",
+          "russian": "Жена говорит, что мы живём в ж*пе мира.",
+          "source": "Benchmark Forum, 2023"
+        },
+        {
+          "serbian_latin": "Dali su mu stan negde u šupku svemira, dva sata od centra.",
+          "russian": "Ему дали квартиру где-то у чёрта на куличках, два часа до центра.",
+          "source": ""
+        }
+      ],
+      "note": "В исходном источнике раньше встречалась ошибочная форма u šipku svemira; правильно šupak → u šupku. Реальное сербское интернет-употребление подтверждает именно эту форму. По грубости она заметно сильнее bogu iza nogu.",
+      "keyword": "šupak; svemir"
     },
     {
       "headword_latin": "U tom grmu leži zec",
