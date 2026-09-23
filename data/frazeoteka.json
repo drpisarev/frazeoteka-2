@@ -42619,6 +42619,84 @@
       "keyword": "u tren oka"
     },
     {
+      "headword_latin": "U više navrata",
+      "type": "izraz",
+      "definition_ru": "неоднократно; не раз; несколько раз",
+      "synonyms_sr": [
+        "više puta",
+        "nekoliko puta",
+        "ponovljeno"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-knjiški; često u štampi, administrativnom i poslovnom jeziku",
+      "examples": [
+        {
+          "serbian_latin": "U više navrata i doktori i ja mislili smo da neću uspeti da se vratim.",
+          "russian": "Не раз и врачи, и я думали, что мне не удастся вернуться.",
+          "source": "Sport Klub, 2023"
+        },
+        {
+          "serbian_latin": "U više navrata sam pokušavao da ga pozovem.",
+          "russian": "Я неоднократно пытался ему позвонить.",
+          "source": ""
+        }
+      ],
+      "note": "Разговорный эквивалент — više puta. U više navrata обозначает несколько отдельных случаев и не обязательно означает «несколько раз подряд».",
+      "keyword": "navrat"
+    },
+    {
+      "headword_latin": "U vrh glave",
+      "type": "frazeologizam",
+      "definition_ru": "самое большее; максимум; от силы",
+      "synonyms_sr": [
+        "najviše",
+        "maksimum",
+        "najviše što može"
+      ],
+      "literal_ru": "до макушки",
+      "register": "razg.; obično ispred količine, roka ili cene",
+      "examples": [
+        {
+          "serbian_latin": "Treba nam dva sata, u vrh glave tri.",
+          "russian": "Нам нужно два часа, максимум три.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ima ih dvadeset, u vrh glave dvadeset pet.",
+          "russian": "Их двадцать, от силы двадцать пять.",
+          "source": ""
+        }
+      ],
+      "note": "Корпусные исследования подтверждают значение «максимум, самое большее». Русскому не следует понимать vrh glave буквально: вся конструкция функционирует как наречный предел количества.",
+      "keyword": "vrh glave"
+    },
+    {
+      "headword_latin": "U zdravlje da nosiš",
+      "type": "replika",
+      "definition_ru": "носи на здоровье; с обновкой",
+      "synonyms_sr": [
+        "srećno da nosiš",
+        "lepo da nosiš",
+        "da te dugo služi"
+      ],
+      "literal_ru": "",
+      "register": "razg., dobronamerno; želja uz novu odeću, obuću, sat i sl.",
+      "examples": [
+        {
+          "serbian_latin": "Pri svakoj kupovini dobiješ ljubazan blagoslov: „U zdravlje da nosiš“.",
+          "russian": "При каждой покупке слышишь доброе пожелание: «Носи на здоровье».",
+          "source": "Vice Srbija, 2016"
+        },
+        {
+          "serbian_latin": "Nove cipele? U zdravlje da nosiš!",
+          "russian": "Новые туфли? Носи на здоровье!",
+          "source": ""
+        }
+      ],
+      "note": "Очень естественная сербская формула при обновке. Встречается и шутливое расширение u zdravlje da pocepaš, pa na bolje da zameniš — пожелание долго носить вещь и со временем заменить её на ещё лучшую.",
+      "keyword": "u zdravlje"
+    },
+    {
       "headword_latin": "U zdravom telu zdrav duh",
       "type": "izreka",
       "definition_ru": "в здоровом теле — здоровый дух",
@@ -42673,6 +42751,32 @@
       "keyword": "pet para"
     },
     {
+      "headword_latin": "Ubaciti svojih pet para",
+      "type": "frazeologizam",
+      "definition_ru": "вставить свои пять копеек; влезть со своим мнением",
+      "synonyms_sr": [
+        "dodati svoje mišljenje",
+        "umešati se",
+        "dobaciti nešto"
+      ],
+      "literal_ru": "подбросить свои пять пар",
+      "register": "razg., obično ironično ili neodobr.; ubaciti svojih pet para u razgovor",
+      "examples": [
+        {
+          "serbian_latin": "Naravno, morao je i on da ubaci svojih pet para.",
+          "russian": "Конечно, и он не удержался и вставил свои пять копеек.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Čim počnemo o poslu, ona ubaci svojih pet para.",
+          "russian": "Как только мы начинаем говорить о работе, она вставляет свои пять копеек.",
+          "source": ""
+        }
+      ],
+      "note": "Сербский и русский образы практически совпадают: минимальная денежная сумма символизирует маленький, часто непрошеный вклад в разговор. Para — сотая доля динара; в наличном обращении такие мелкие номиналы давно практически не играют роли.",
+      "keyword": "pet para"
+    },
+    {
       "headword_latin": "ubiti dve muve jednim udarcem",
       "type": "глагольный фразеологизм",
       "definition_ru": "Убить двух зайцев одним выстрелом; одним действием достичь двух целей.",
@@ -42699,6 +42803,32 @@
       ],
       "note": "Сербский образ отличается от русского: в нём фигурируют две мухи и один удар, а не два зайца и один выстрел.",
       "keyword": "muva; udarac"
+    },
+    {
+      "headword_latin": "Ućeban džemper",
+      "type": "kolokacija",
+      "definition_ru": "свалявшийся свитер; свитер в катышках",
+      "synonyms_sr": [
+        "džemper s kuglicama",
+        "izlizan džemper",
+        "ofucan džemper (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "razg.; ućeban, ućebati se o tkanini koja se slepila ili dobila kuglice vlakana",
+      "examples": [
+        {
+          "serbian_latin": "Omiljeni džemper se skupio ili „ućebao“?",
+          "russian": "Любимый свитер сел или свалялся?",
+          "source": "Mondo, 2020"
+        },
+        {
+          "serbian_latin": "Džemper mi se sav ućebao posle nekoliko pranja.",
+          "russian": "Свитер после нескольких стирок весь закатался.",
+          "source": ""
+        }
+      ],
+      "note": "Помету исходного файла «не подтверждено надёжно» можно снять: современное сербское употребление ućebao, ućebane tufnice, ućebanost подтверждается. Слово разговорное; нейтральнее описательно džemper s kuglicama.",
+      "keyword": "ućeban"
     },
     {
       "headword_latin": "ući / ulaziti u krv",
@@ -43219,6 +43349,32 @@
       "keyword": "zid"
     },
     {
+      "headword_latin": "Udobno se smestite",
+      "type": "replika",
+      "definition_ru": "устраивайтесь поудобнее; располагайтесь",
+      "synonyms_sr": [
+        "smestite se udobno",
+        "raskomotite se (razg.)",
+        "sedite udobno"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-ljubazno; i kao uvod u emisiju, priču ili predavanje",
+      "examples": [
+        {
+          "serbian_latin": "Poštovana deco, udobno se smestite.",
+          "russian": "Дорогие дети, устраивайтесь поудобнее.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Udobno se smestite, priča će potrajati.",
+          "russian": "Устраивайтесь поудобнее, история будет долгой.",
+          "source": ""
+        }
+      ],
+      "note": "Smestiti se — «разместиться, устроиться». Не путать с разговорным smestiti nekome — «подставить кого-либо»: одинаковая форма, но совсем другое управление и значение.",
+      "keyword": "smestiti se"
+    },
+    {
       "headword_latin": "Udri brigu na veselje",
       "type": "izreka",
       "definition_ru": "забудь о заботах и веселись; махни рукой на проблемы; гуляй, пока гуляется",
@@ -43246,6 +43402,32 @@
       ],
       "note": "Udri здесь не переводится буквально как «ударь»: вся формула означает сознательно переключиться с тревог на удовольствие и веселье. В положительном контексте это почти «не унывай», а в критическом может подразумевать беспечное игнорирование серьёзных проблем.",
       "keyword": "udri brigu na veselje"
+    },
+    {
+      "headword_latin": "Ugojiti se kao mečka",
+      "type": "frazeologizam",
+      "definition_ru": "сильно растолстеть; разъесться как медведица",
+      "synonyms_sr": [
+        "mnogo se ugojiti",
+        "udebljati se",
+        "nabaciti mnogo kilograma"
+      ],
+      "literal_ru": "растолстеть как медведица",
+      "register": "razg., grubo-neodobr.; o izgledu čoveka može biti uvredljivo",
+      "examples": [
+        {
+          "serbian_latin": "Od kada je prestala da trenira, ugojila se kao mečka.",
+          "russian": "После того как она перестала тренироваться, сильно располнела.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj nekome u lice reći da se ugojio kao mečka.",
+          "russian": "Не стоит говорить человеку в лицо, что он «разъелся как медведь».",
+          "source": ""
+        }
+      ],
+      "note": "Сравнение реально зафиксировано в исследованиях оценочной лексики о теле. Это заметно грубее нейтрального ugojiti se и легко воспринимается как оскорбление. Заголовок нормализован в инфинитив.",
+      "keyword": "mečka"
     },
     {
       "headword_latin": "Uhvatiti / hvatati poslednji voz",
@@ -43440,6 +43622,33 @@
       "keyword": "uhvatiti priključak; zaostatak; stići"
     },
     {
+      "headword_latin": "Uhvatiti se u kolo",
+      "type": "frazeologizam",
+      "definition_ru": "взяться за руки в коло; перен. ввязаться, присоединиться к общему делу",
+      "synonyms_sr": [
+        "zaigrati kolo",
+        "pridružiti se",
+        "uključiti se",
+        "ući u igru (pren.)"
+      ],
+      "literal_ru": "взяться в коло",
+      "register": "neutralno doslovno; razg.-slikovito preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Ako bi se desilo da se momak uhvati u kolo do devojke...",
+          "russian": "Если случалось, что парень вставал в коло рядом с девушкой...",
+          "source": "011info, 2020"
+        },
+        {
+          "serbian_latin": "Kad si se već uhvatio u kolo, moraš da igraš.",
+          "russian": "Раз уж ввязался, теперь надо играть по правилам.",
+          "source": ""
+        }
+      ],
+      "note": "Исходное значение второго JSON было слишком узким: речь не обязательно о присоединении к уже успешному делу. Буквально это участие в круговом танце; переносно — вступление в общее предприятие, после которого уже трудно отступить.",
+      "keyword": "kolo"
+    },
+    {
       "headword_latin": "uhvatiti se u koštac s nekim / nečim",
       "type": "глагольный фразеологизм",
       "definition_ru": "Решительно взяться за трудную задачу; вступить в борьбу; противостоять кому-либо или чему-либо.",
@@ -43494,6 +43703,32 @@
       ],
       "note": "Сегодня особенно частотно в спортивной журналистике, но возможно и о политических дебатах, научных спорах или противопоставлении мнений.",
       "keyword": "ukrstiti koplja"
+    },
+    {
+      "headword_latin": "Ukucati u pretraživač",
+      "type": "kolokacija",
+      "definition_ru": "вбить в поисковик; набрать в строке поиска",
+      "synonyms_sr": [
+        "uneti u pretraživač",
+        "pretražiti",
+        "proguglati (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg., digitalna leksika; ukucati šta u pretraživač",
+      "examples": [
+        {
+          "serbian_latin": "Ukucaj naziv u pretraživač i odmah ćeš ga naći.",
+          "russian": "Вбей название в поисковик и сразу найдёшь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Samo sam ukucao adresu u pretraživač.",
+          "russian": "Я просто ввёл адрес в поисковик.",
+          "source": ""
+        }
+      ],
+      "note": "Ukucati буквально связано с kucati «стучать, печатать», поэтому в компьютерной речи совершенно естественно значит «набрать с клавиатуры». Разговорное proguglati уже конкретно отсылает к Google, а pretraživač — родовое слово.",
+      "keyword": "pretraživač"
     },
     {
       "headword_latin": "Uljudne fraze",
@@ -43634,6 +43869,58 @@
       "keyword": "sekira u med"
     },
     {
+      "headword_latin": "Upasti u minus",
+      "type": "kolokacija",
+      "definition_ru": "уйти в минус; оказаться в убытке; залезть в отрицательный баланс",
+      "synonyms_sr": [
+        "ući u minus",
+        "biti u minusu",
+        "napraviti minus"
+      ],
+      "literal_ru": "",
+      "register": "razg.-finansijski; o računu, budžetu, firmi ili ličnim finansijama",
+      "examples": [
+        {
+          "serbian_latin": "Firma će u nekom trenutku jednostavno upasti u minus.",
+          "russian": "В какой-то момент компания просто уйдёт в минус.",
+          "source": "Sport Klub, 2025"
+        },
+        {
+          "serbian_latin": "Ako nastavim ovako da trošim, upašću u minus.",
+          "russian": "Если продолжу так тратить, залезу в минус.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно означает не просто «мало денег», а отрицательное финансовое сальдо или перерасход. Очень близкое и ещё более частотное сочетание — biti / ući u minus.",
+      "keyword": "minus"
+    },
+    {
+      "headword_latin": "Upasti u reč",
+      "type": "frazeologizam",
+      "definition_ru": "перебить; вклиниться в речь; не дать договорить",
+      "synonyms_sr": [
+        "prekinuti nekoga",
+        "preseći nekoga",
+        "uskočiti nekome u reč"
+      ],
+      "literal_ru": "влезть в слово",
+      "register": "neutralno-razg.; upasti kome u reč + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Izvini što ti upadam u reč, ali moram nešto da dodam.",
+          "russian": "Извини, что перебиваю, но мне нужно кое-что добавить.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Stalno mi upada u reč i ne da mi da završim.",
+          "russian": "Он постоянно меня перебивает и не даёт закончить.",
+          "source": ""
+        }
+      ],
+      "note": "Главное для русского — управление: upasti nekome u reč, а не прямой винительный объекта. Выражение фиксируется как сербский эквивалент «перебить говорящего» и в старых, и в современных лингвистических источниках.",
+      "keyword": "reč"
+    },
+    {
       "headword_latin": "Upinjati se iz petnih žila",
       "type": "frazeologizam",
       "definition_ru": "стараться изо всех сил; лезть из кожи вон; прилагать все усилия",
@@ -43742,6 +44029,32 @@
       "keyword": "ustati na levu nogu"
     },
     {
+      "headword_latin": "Uškopiti",
+      "type": "glagol",
+      "definition_ru": "кастрировать; оскопить; перен. лишить силы, самостоятельности",
+      "synonyms_sr": [
+        "kastrirati",
+        "sterilizovati (nije isto uvek)",
+        "obesnažiti (pren.)"
+      ],
+      "literal_ru": "",
+      "register": "svršeni glagol; doslovno pre svega o mužjacima životinja; preneseno grubo i ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Džu je bio uškopljen još pre zemljotresa.",
+          "russian": "Хряк Джу был кастрирован ещё до землетрясения.",
+          "source": "Blic, 2011"
+        },
+        {
+          "serbian_latin": "Takvim pravilima potpuno su uškopili projekat.",
+          "russian": "Такими правилами проект полностью лишили самостоятельности и силы.",
+          "source": ""
+        }
+      ],
+      "note": "Нормальное прямое значение — «кастрировать», подтверждаемое сербскими словарными источниками. Переносное uškopljen встречается о системе, искусстве, СМИ и т. п. в смысле «обезвреженный, лишённый силы», но звучит резко.",
+      "keyword": "uškopiti"
+    },
+    {
       "headword_latin": "Uterati strah u kosti",
       "type": "frazeologizam",
       "definition_ru": "нагнать жути; вселить сильный страх; напугать до дрожи",
@@ -43769,6 +44082,32 @@
       "keyword": "strah u kosti"
     },
     {
+      "headword_latin": "Uvek može bolje",
+      "type": "izreka",
+      "definition_ru": "всегда можно лучше; совершенству нет предела",
+      "synonyms_sr": [
+        "može još bolje",
+        "ima prostora za napredak",
+        "nikad nije dovoljno dobro"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; formula umerenog nezadovoljstva rezultatom",
+      "examples": [
+        {
+          "serbian_latin": "Uvek može bolje, ali i gore.",
+          "russian": "Всегда может быть лучше, но может быть и хуже.",
+          "source": "Sport Klub, 2026"
+        },
+        {
+          "serbian_latin": "Zadovoljan sam, ali uvek može bolje.",
+          "russian": "Я доволен, но всегда можно лучше.",
+          "source": ""
+        }
+      ],
+      "note": "Очень частая формула при оценке собственной работы или результата. Может звучать конструктивно, но в устах перфекциониста — как невозможность признать результат достаточно хорошим.",
+      "keyword": "uvek može bolje"
+    },
+    {
       "headword_latin": "Uvući se pod kožu nekome",
       "type": "frazeologizam",
       "definition_ru": "запасть в душу; прочно засесть в чувствах; проникнуть под кожу",
@@ -43794,6 +44133,32 @@
       ],
       "note": "В сербском оборот очень естественен и в положительном смысле: человек, город, песня или атмосфера постепенно становятся особенно близкими. Но возможен и отрицательный контекст — например, когда strah se uvuče pod kožu. Поэтому перевод зависит от объекта: «запасть в душу», «засесть внутри», «пробрать».",
       "keyword": "uvući se pod kožu"
+    },
+    {
+      "headword_latin": "Uz dužno poštovanje",
+      "type": "izraz",
+      "definition_ru": "при всём уважении; со всем должным уважением",
+      "synonyms_sr": [
+        "uz svo poštovanje",
+        "bez namere da uvredim (funkcionalno)",
+        "ne zamerite, ali..."
+      ],
+      "literal_ru": "",
+      "register": "neutralno-oficijelno; često uvodi neslaganje ili kritiku",
+      "examples": [
+        {
+          "serbian_latin": "Uz dužno poštovanje Zemunu, postaraćemo se da pružimo maksimum.",
+          "russian": "При всём уважении к «Земуну», мы постараемся выложиться по максимуму.",
+          "source": "Politika, 2026"
+        },
+        {
+          "serbian_latin": "Uz dužno poštovanje, ne slažem se s tim zaključkom.",
+          "russian": "При всём уважении, я не согласен с этим выводом.",
+          "source": ""
+        }
+      ],
+      "note": "Прагматически почти полностью совпадает с русским «при всём уважении» и английским with all due respect: слушатель нередко заранее ожидает возражения. RTS даже приводит её среди формул, после которых обычно следует критика.",
+      "keyword": "dužno poštovanje"
     },
     {
       "headword_latin": "Uzdaj se u se i u svoje kljuse",
@@ -44102,6 +44467,32 @@
       "keyword": "zdravo za gotovo"
     },
     {
+      "headword_latin": "Uzmi, kume, da se ne baci",
+      "type": "replika",
+      "definition_ru": "бери, а то пропадёт; доедай, не выбрасывать же",
+      "synonyms_sr": [
+        "uzmi da ne propadne",
+        "pojedi da se ne baci",
+        "šteta da se baci"
+      ],
+      "literal_ru": "бери, кум, чтобы не выбрасывать",
+      "register": "razg., šalj.; trpezarijsko nagovaranje da se pojedu ostaci",
+      "examples": [
+        {
+          "serbian_latin": "To se kaže: „Uzmi, kume, da se ne baci“.",
+          "russian": "Говорят: «Бери, кум, а то выбрасывать жалко».",
+          "source": "Vokabular.org, 2016"
+        },
+        {
+          "serbian_latin": "Ima još sarme, uzmi, kume, da se ne baci.",
+          "russian": "Сарма ещё осталась, бери, не пропадать же добру.",
+          "source": ""
+        }
+      ],
+      "note": "Kume здесь не обязательно обращение к настоящему куму — это часть шутливой формулы гостеприимного давления на гостя. В живом обсуждении выражение употребляется именно о хозяйке, которая подсовывает остатки еды, чтобы ничего не выбрасывать.",
+      "keyword": "kume"
+    },
+    {
       "headword_latin": "Vaditi kestenje iz vatre",
       "type": "frazeologizam",
       "definition_ru": "спасать положение; вытаскивать дело из беды; брать на себя самый трудный участок",
@@ -44155,6 +44546,85 @@
       "keyword": "vatreno krštenje"
     },
     {
+      "headword_latin": "Važi, čujemo se",
+      "type": "replika",
+      "definition_ru": "договорились, созвонимся; ладно, на связи",
+      "synonyms_sr": [
+        "dogovoreno, čujemo se",
+        "važi, javljamo se",
+        "čujemo se uskoro"
+      ],
+      "literal_ru": "",
+      "register": "razg., veoma često; formula završetka razgovora ili prepiske",
+      "examples": [
+        {
+          "serbian_latin": "Važi, čujemo se sutra.",
+          "russian": "Договорились, созвонимся завтра.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "— Poslaću ti adresu. — Važi, čujemo se.",
+          "russian": "— Я пришлю тебе адрес. — Хорошо, на связи.",
+          "source": ""
+        }
+      ],
+      "note": "Čujemo se буквально «услышимся», но употребляется и после переписки, когда следующий контакт может снова быть текстовым. Формула очень частотна и воспринимается как готовое разговорное прощание.",
+      "keyword": "čujemo se"
+    },
+    {
+      "headword_latin": "Važno je učestvovati",
+      "type": "krilatica",
+      "definition_ru": "главное — участие; главное не победа, а участие",
+      "synonyms_sr": [
+        "nije sve u pobedi",
+        "bitno je učestvovati",
+        "važno je biti deo toga"
+      ],
+      "literal_ru": "",
+      "register": "krilatica, sportsko-olimpijska formula; u svakodnevnom govoru često ironično",
+      "examples": [
+        {
+          "serbian_latin": "Važno je učestvovati, to je moto sedamnaestogodišnjeg sprintera.",
+          "russian": "Главное — участие: таков девиз семнадцатилетнего спринтера.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Ispali smo odmah, ali dobro — važno je učestvovati.",
+          "russian": "Мы сразу вылетели, но ладно — главное участие.",
+          "source": ""
+        }
+      ],
+      "note": "Формула прочно ассоциируется с олимпийским принципом «важна не только победа, но и участие». В обычной речи часто служит ироническим утешением после слабого результата.",
+      "keyword": "učestvovati"
+    },
+    {
+      "headword_latin": "Vedriti i oblačiti",
+      "type": "frazeologizam",
+      "definition_ru": "всем заправлять; быть полновластным хозяином; решать всё",
+      "synonyms_sr": [
+        "imati svu vlast",
+        "biti glavni",
+        "odlučivati o svemu",
+        "držati sve konce u rukama"
+      ],
+      "literal_ru": "делать ясную и облачную погоду",
+      "register": "razg.-publicistički, često neodobr.; vedriti i oblačiti negde / u nečemu",
+      "examples": [
+        {
+          "serbian_latin": "On u toj firmi vedri i oblači.",
+          "russian": "В этой фирме он всем заправляет.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Godinama je tamo vedrio i oblačio, niko mu se nije suprotstavljao.",
+          "russian": "Годами он там был царь и бог, никто ему не перечил.",
+          "source": ""
+        }
+      ],
+      "note": "Значение словарно фиксируется как «иметь большую власть, проводить свою волю, быть очень могущественным». Образ — человек словно распоряжается даже погодой. Заголовок исходного файла Vedri i oblači нормализован до инфинитива.",
+      "keyword": "vedriti; oblačiti"
+    },
+    {
       "headword_latin": "Velika zverka",
       "type": "frazeologizam",
       "definition_ru": "важная шишка; влиятельный, высокопоставленный или очень значимый человек",
@@ -44182,6 +44652,56 @@
       ],
       "note": "Разговорное обозначение человека с большим влиянием, статусом или связями. Близко к krupna riba и veliki igrač; часто употребляется с иронией или в кавычках.",
       "keyword": "velika zverka; moćnik; važna ličnost"
+    },
+    {
+      "headword_latin": "Vesela mladost najveća je radost",
+      "type": "poslovica",
+      "definition_ru": "весёлая молодость — самая большая радость; молодость — золотая пора",
+      "synonyms_sr": [
+        "mladost je najlepše doba",
+        "mladost je radost"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, narodna, toplo-odobravajuća; pomalo staromodna",
+      "examples": [
+        {
+          "serbian_latin": "Jedna od naših narodnih poslovica je i ona: „Vesela mladost najveća je radost“.",
+          "russian": "Одна из наших народных пословиц гласит: «Весёлая молодость — самая большая радость».",
+          "source": "Biznis i Finansije, 2008"
+        },
+        {
+          "serbian_latin": "Neka se provesele — vesela mladost najveća je radost.",
+          "russian": "Пусть повеселятся — молодость бывает один раз.",
+          "source": ""
+        }
+      ],
+      "note": "Формула держится на рифме mladost — radost и действительно приводится как народная пословица. Сегодня чаще звучит как добродушное старшее напутствие или стилизация под старую мудрость.",
+      "keyword": "mladost"
+    },
+    {
+      "headword_latin": "Veselo srce pola zdravlja",
+      "type": "poslovica",
+      "definition_ru": "весёлое сердце — половина здоровья; хороший настрой — половина дела",
+      "synonyms_sr": [
+        "smeh je lek (delimično)",
+        "vedar duh mnogo znači"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, narodna; često bez glagolske kopule je",
+      "examples": [
+        {
+          "serbian_latin": "Veselo srce pola zdravlja.",
+          "russian": "Весёлое сердце — половина здоровья.",
+          "source": "Kurir, 2015"
+        },
+        {
+          "serbian_latin": "Nemoj samo da se sekiraš — veselo srce pola zdravlja.",
+          "russian": "Не переживай так сильно: хороший настрой — уже полдела.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица надёжно фиксируется в современных подборках сербских народных изречений. Это житейская формула о пользе бодрого настроения, а не медицинское утверждение о том, что настроение буквально определяет половину здоровья.",
+      "keyword": "veselo srce"
     },
     {
       "headword_latin": "Vetar u jedra",
