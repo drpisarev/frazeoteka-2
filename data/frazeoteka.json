@@ -2781,6 +2781,32 @@
       "keyword": "svakom loncu poklopac"
     },
     {
+      "headword_latin": "Biti široke ruke",
+      "type": "frazeologizam",
+      "definition_ru": "быть щедрым; не скупиться; быть широким жестом",
+      "synonyms_sr": [
+        "biti darežljiv",
+        "biti velikodušan",
+        "ne škrtariti"
+      ],
+      "literal_ru": "быть широкой руки",
+      "register": "odobravajuće; o novcu, poklonima, čašćavanju, ponekad i šire",
+      "examples": [
+        {
+          "serbian_latin": "Evropljani su bili široke ruke što se tiče proslava i poklona.",
+          "russian": "Европейцы не скупились на праздники и подарки.",
+          "source": "RTS, 2011"
+        },
+        {
+          "serbian_latin": "Kad časti društvo, uvek je široke ruke.",
+          "russian": "Когда он угощает компанию, никогда не скупится.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот жив и в буквальном человеческом значении «щедрый», и метафорически: можно сказать даже что природа была široke ruke. Русское «широкой души» близко, но сербский устойчивый компонент — именно ruka.",
+      "keyword": "široke ruke"
+    },
+    {
       "headword_latin": "biti trn u oku",
       "type": "глагольный фразеологизм",
       "definition_ru": "Сильно раздражать кого-либо; быть нежелательным человеком или серьёзной помехой.",
@@ -3065,6 +3091,33 @@
       ],
       "note": "Koplje здесь уже не воспринимается как реальная единица расстояния: оборот просто выражает заметное превосходство. Образ продуктивен — встречаются dva koplja ispred, tri koplja iznad, nekoliko kopalja ispred. Русское «на голову выше» почти всегда естественнее буквального «на копьё выше».",
       "keyword": "za koplje ispred"
+    },
+    {
+      "headword_latin": "Biti živ kao čigra",
+      "type": "frazeologizam",
+      "definition_ru": "быть как юла; быть очень живым, подвижным, не сидеть на месте",
+      "synonyms_sr": [
+        "biti nemiran",
+        "biti pun energije",
+        "ne držati mesto",
+        "biti živahan"
+      ],
+      "literal_ru": "быть живым как волчок",
+      "register": "razg.-poredb., odobravajuće ili neutralno; naročito o detetu ili vrlo energičnoj osobi",
+      "examples": [
+        {
+          "serbian_latin": "U vodi je kao čigra, ne staje.",
+          "russian": "В воде она как юла, ни секунды не останавливается.",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Dete je zdravo i živo kao čigra.",
+          "russian": "Ребёнок здоровый и вертлявый, как юла.",
+          "source": ""
+        }
+      ],
+      "note": "Čigra здесь — детский волчок: образ строится на его быстром непрерывном вращении. В сербской традиции сравнение živ kao čigra засвидетельствовано давно; современный RTS также свободно использует kao čigra о чрезвычайно подвижном человеке.",
+      "keyword": "čigra"
     },
     {
       "headword_latin": "Bled kao krpa",
@@ -5103,6 +5156,33 @@
       ],
       "note": "Полезно сразу запомнить пару: dati nekome korpu — «отказать кому-то», dobiti korpu — «получить отказ». Хотя особенно часто речь идёт о романтическом отказе, выражение употребляется и шире — например, когда кого-то не выбирают или не принимают. С настоящей корзиной значение обычно легко различается по контексту.",
       "keyword": "dati dobiti korpu"
+    },
+    {
+      "headword_latin": "Dati gas",
+      "type": "frazeologizam",
+      "definition_ru": "дать газу; прибавить ходу; поднажать",
+      "synonyms_sr": [
+        "ubrzati",
+        "pojačati tempo",
+        "krenuti jače",
+        "pritisnuti gas"
+      ],
+      "literal_ru": "дать газ",
+      "register": "razg.; doslovno o vozilu, preneseno ubrzati rad ili aktivnost",
+      "examples": [
+        {
+          "serbian_latin": "Da bi ponovo dali gas, traže dogovor sa poslovodstvom.",
+          "russian": "Чтобы снова набрать обороты, они требуют договорённости с руководством.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Moramo da damo gas ako hoćemo da završimo do petka.",
+          "russian": "Нужно поднажать, если хотим закончить к пятнице.",
+          "source": ""
+        }
+      ],
+      "note": "Перенос очень живой: двигатель ускоряется после нажатия газа → человек, команда или проект увеличивают темп. Не обязательно означает буквальное «ехать быстрее».",
+      "keyword": "gas"
     },
     {
       "headword_latin": "Dati nekome do znanja",
@@ -10435,6 +10515,32 @@
       "keyword": "rikverc"
     },
     {
+      "headword_latin": "Ići / otići dođavola",
+      "type": "frazeologizam",
+      "definition_ru": "идти / пойти к чёрту; полететь к чертям; пойти прахом",
+      "synonyms_sr": [
+        "propasti",
+        "otići k vragu",
+        "sve se raspasti"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; Idi dođavola! kao odsečna replika, sve je otišlo dođavola o propasti situacije",
+      "examples": [
+        {
+          "serbian_latin": "I sve je otišlo dođavola.",
+          "russian": "И всё полетело к чертям.",
+          "source": "Politika, 2017"
+        },
+        {
+          "serbian_latin": "Ako nastavimo ovako, ceo plan će otići dođavola.",
+          "russian": "Если так продолжим, весь план полетит к чертям.",
+          "source": ""
+        }
+      ],
+      "note": "Полезно различать адресованное человеку Idi dođavola! и безличное Sve je otišlo dođavola. Вторая модель чрезвычайно естественна для полного провала дела, системы или ситуации и регулярно встречается в современной сербской прессе.",
+      "keyword": "dođavola"
+    },
+    {
       "headword_latin": "Ići / pasti nekome na dušu",
       "type": "frazeologizam",
       "definition_ru": "Быть чьей-либо виной или моральной ответственностью; оставаться на чьей-либо совести.",
@@ -11330,6 +11436,33 @@
       "keyword": "debela koža"
     },
     {
+      "headword_latin": "Imati dug jezik",
+      "type": "frazeologizam",
+      "definition_ru": "быть длинным на язык; говорить лишнее; не уметь держать язык за зубами",
+      "synonyms_sr": [
+        "biti brbljiv",
+        "svašta pričati",
+        "ne držati jezik za zubima",
+        "biti jezičav"
+      ],
+      "literal_ru": "иметь длинный язык",
+      "register": "razg., neodobr.; može podrazumevati brbljivost, drskost ili neuzdržanost",
+      "examples": [
+        {
+          "serbian_latin": "Ne pričaj mu to, ima dug jezik.",
+          "russian": "Не рассказывай ему это, он слишком длинный на язык.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zbog dugog jezika često sebi napravi problem.",
+          "russian": "Из-за своего длинного языка он часто сам себе создаёт проблемы.",
+          "source": ""
+        }
+      ],
+      "note": "Современная сербская пресса употребляет dug / dugačak jezik как характеристику человека, который говорит слишком много или слишком резко. Не равно bez dlake na jeziku: последнее может положительно характеризовать прямоту, тогда как dug jezik обычно содержит упрёк.",
+      "keyword": "dug jezik"
+    },
+    {
       "headword_latin": "Imati duge prste",
       "type": "frazeologizam",
       "definition_ru": "быть вороватым; иметь склонность присваивать чужое, особенно мелко воровать",
@@ -11605,6 +11738,32 @@
       ],
       "note": "Obraz в сербской традиционной семантике — не только «лицо», но и честь, стыд, моральная репутация. У đon подошва толстая и нечувствительная: отсюда образ человека, которого ничем не проймёшь. Русскому буквальный перевод «лицо как подошва» ничего не скажет.",
       "keyword": "obraz kao đon"
+    },
+    {
+      "headword_latin": "Imati obraza",
+      "type": "frazeologizam",
+      "definition_ru": "иметь наглость; как не стыдно; посметь",
+      "synonyms_sr": [
+        "usuditi se",
+        "biti bezobrazan (po kontekstu)",
+        "nemati stida"
+      ],
+      "literal_ru": "иметь лицо / честь",
+      "register": "razg., neodobr.; naročito Kako imaš obraza da + prezent",
+      "examples": [
+        {
+          "serbian_latin": "Kako imaš obraza da mu to kažeš posle svega što je uradio za tebe?",
+          "russian": "Как тебе не стыдно говорить ему это после всего, что он для тебя сделал?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Imaš obraza još i da tražiš uslugu?",
+          "russian": "У тебя ещё хватает наглости просить об услуге?",
+          "source": ""
+        }
+      ],
+      "note": "Obraz в сербской традиционной семантике — не только «щека», но и «честь, достоинство, чувство стыда». Лингвист Милан Шипка приводит imati obraza среди сербских фразеологизмов и толкует его как «сметь, осмеливаться сделать что-либо». Парадокс для русского: формально «иметь честь», а прагматически конструкция чаще выражает возмущение бесстыдством.",
+      "keyword": "obraz"
     },
     {
       "headword_latin": "Imati oči na leđima",
@@ -12375,6 +12534,32 @@
       "keyword": "Drina"
     },
     {
+      "headword_latin": "Ispustiti dušu",
+      "type": "frazeologizam",
+      "definition_ru": "испустить дух; умереть; перен. чуть не умереть от усталости",
+      "synonyms_sr": [
+        "izdahnuti",
+        "umreti",
+        "predati dušu (knjiž.)"
+      ],
+      "literal_ru": "выпустить душу",
+      "register": "knjiž.-razg., ekspresivno; osnovno značenje je umreti",
+      "examples": [
+        {
+          "serbian_latin": "Starac je te noći mirno ispustio dušu.",
+          "russian": "Старик той ночью тихо испустил дух.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Dok sam izneo sve kutije na četvrti sprat, umalo nisam ispustio dušu.",
+          "russian": "Пока затащил все коробки на четвёртый этаж, чуть не умер.",
+          "source": ""
+        }
+      ],
+      "note": "Сербские фразеологические исследования прямо указывают: основное значение ispustiti dušu — «умереть», вторично выражение может описывать крайнюю физическую изнурённость. Метафора основана на представлении о смерти как выходе души из тела.",
+      "keyword": "duša"
+    },
+    {
       "headword_latin": "Ista meta, isto odstojanje",
       "type": "izraz",
       "definition_ru": "всё по-прежнему; ничего не изменилось; всё те же на манеже",
@@ -12426,6 +12611,32 @@
       ],
       "note": "Сербское выражение шире русского «вывести на чистую воду»: оно не обязательно предполагает разоблачение виновного. Часто нужно просто добиться ясного ответа, определить позиции сторон или устранить двусмысленность. Поэтому перевод «вывести на чистую воду» подходит только при оттенке разоблачения.",
       "keyword": "isterati na čistac"
+    },
+    {
+      "headword_latin": "Isterati svoje",
+      "type": "frazeologizam",
+      "definition_ru": "добиться своего; настоять на своём; всё-таки продавить своё",
+      "synonyms_sr": [
+        "postići što si naumio",
+        "sprovesti svoju volju",
+        "izboriti se za svoje"
+      ],
+      "literal_ru": "",
+      "register": "razg.; ocena zavisi od konteksta, od upornosti do tvrdoglavosti",
+      "examples": [
+        {
+          "serbian_latin": "Na kraju je investitor isterao svoje.",
+          "russian": "В конце концов инвестор добился своего.",
+          "source": "Danas, 2017"
+        },
+        {
+          "serbian_latin": "Tvrdoglav je i neće stati dok ne istera svoje.",
+          "russian": "Он упрямый и не остановится, пока не добьётся своего.",
+          "source": ""
+        }
+      ],
+      "note": "Не следует переводить буквально через «выгнать». В этой конструкции isterati значит довести собственное намерение до желаемого результата вопреки сопротивлению. Близкое terati po svome — «делать всё по-своему, гнуть свою линию», то есть описывает процесс, а isterati svoje — достигнутый результат.",
+      "keyword": "isterati svoje"
     },
     {
       "headword_latin": "Isto sranje",
@@ -19686,6 +19897,32 @@
       "keyword": "napuniti baterije"
     },
     {
+      "headword_latin": "Napuniti nekome glavu",
+      "type": "frazeologizam",
+      "definition_ru": "забить кому голову; внушить кому что-либо; набить голову идеями",
+      "synonyms_sr": [
+        "nametnuti nekome ideju",
+        "ubediti nekoga u nešto",
+        "utuviti nekome nešto u glavu"
+      ],
+      "literal_ru": "наполнить кому голову",
+      "register": "razg.; napuniti kome glavu čime + dativ + instrumental",
+      "examples": [
+        {
+          "serbian_latin": "Ko ti je napunio glavu tim glupostima?",
+          "russian": "Кто тебе забил голову этой ерундой?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Napunili su mu glavu velikim planovima i obećanjima.",
+          "russian": "Ему набили голову грандиозными планами и обещаниями.",
+          "source": ""
+        }
+      ],
+      "note": "Сербские когнитивно-фразеологические исследования прямо фиксируют (na)puniti glavu kome как навязывание мысли, желания, убеждения или идеи. Русскому важно управление: не napuniti nekoga, а napuniti nekome glavu nečim.",
+      "keyword": "napuniti glavu"
+    },
+    {
       "headword_latin": "Našla vreća zakrpu",
       "type": "izreka",
       "definition_ru": "два сапога пара; нашли друг друга; один другого стоит",
@@ -20032,6 +20269,33 @@
       ],
       "note": "Не обязательно означает ругань: человек может просто говорить необычно резко и недипломатично. Смысл противоположен pažljivo birati reči — тщательно подбирать слова.",
       "keyword": "ne birati reči; oštro; direktno"
+    },
+    {
+      "headword_latin": "Ne biti sav svoj",
+      "type": "frazeologizam",
+      "definition_ru": "быть не в себе; быть каким-то не таким; плохо себя чувствовать",
+      "synonyms_sr": [
+        "ne biti svoj",
+        "biti van forme (delimično)",
+        "čudno se osećati",
+        "ne osećati se dobro"
+      ],
+      "literal_ru": "не быть целиком своим",
+      "register": "razg.; o privremenom fizičkom ili psihičkom stanju, zbunjenosti ili slabosti",
+      "examples": [
+        {
+          "serbian_latin": "Znala sam da moj sin nije sav svoj, da ne diše normalno.",
+          "russian": "Я понимала, что с моим сыном что-то не так, что он дышит ненормально.",
+          "source": "Danas / BBC na srpskom, 2021"
+        },
+        {
+          "serbian_latin": "Danas nisam sav svoj, valjda zbog nespavanja.",
+          "russian": "Я сегодня сам не свой, наверное, из-за недосыпа.",
+          "source": ""
+        }
+      ],
+      "note": "Очень близко русскому «сам не свой», но сербский добавляет sav: буквально «не весь свой». Может обозначать тревогу, болезнь, усталость, шок или просто необычное поведение; конкретная причина определяется контекстом.",
+      "keyword": "sav svoj"
     },
     {
       "headword_latin": "Ne biti u ljubavi",
@@ -20565,6 +20829,32 @@
       "keyword": "jare i pare"
     },
     {
+      "headword_latin": "Ne može ni muva da proleti",
+      "type": "frazeologizam",
+      "definition_ru": "и муха не пролетит; всё под строжайшим контролем",
+      "synonyms_sr": [
+        "sve je pod kontrolom",
+        "ništa ne može da promakne",
+        "niko ne može da prođe"
+      ],
+      "literal_ru": "даже муха не может пролететь",
+      "register": "razg.-hiperbolično; varijante ni muva ne može da proleti, da ni muva ne proleti",
+      "examples": [
+        {
+          "serbian_latin": "Ni muva ne može da proleti, a kamoli da neko pomoću užeta preskoči zid.",
+          "russian": "Там и муха не пролетит, не то что человек перелезет через стену с помощью верёвки.",
+          "source": "Blic, 2005"
+        },
+        {
+          "serbian_latin": "Obezbeđenje je takvo da ni muva ne može da proleti.",
+          "russian": "Охрана такая, что и муха не пролетит.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно речь о тотальном контроле, строгой охране или внимательном надзоре. В отличие от русского «яблоку негде упасть», теснота и количество людей здесь не являются главным значением.",
+      "keyword": "muva"
+    },
+    {
       "headword_latin": "Ne može šut s rogatim",
       "type": "poslovica",
       "definition_ru": "плетью обуха не перешибёшь; слабому не тягаться с сильным; силы слишком неравны",
@@ -20618,6 +20908,33 @@
       ],
       "note": "Без контекста ostati dužan может означать настоящий денежный долг. Но конструкция nije mu ostao dužan чрезвычайно часто относится к словесной перепалке: один напал или пошутил, другой тут же ответил. Русское «не остаться в долгу» совпадает и по образу, и по функции.",
       "keyword": "ne ostati dužan"
+    },
+    {
+      "headword_latin": "Ne pada mi na pamet",
+      "type": "replika",
+      "definition_ru": "и не подумаю; ни за что; мне и в голову не приходит",
+      "synonyms_sr": [
+        "nema šanse",
+        "ne nameravam",
+        "ni slučajno",
+        "ne dolazi u obzir"
+      ],
+      "literal_ru": "не падает мне на ум",
+      "register": "razg.; ne pada mi na pamet da + prezent",
+      "examples": [
+        {
+          "serbian_latin": "Ne pada mi na pamet da se pravdam.",
+          "russian": "И не подумаю оправдываться.",
+          "source": "Danas, 2019"
+        },
+        {
+          "serbian_latin": "Ne pada mi na pamet da platim toliko za običnu majicu.",
+          "russian": "Я ни за что не стану столько платить за обычную футболку.",
+          "source": ""
+        }
+      ],
+      "note": "Без отрицания pasti na pamet значит «прийти в голову». Но ne pada mi na pamet da... очень часто обозначает не отсутствие мысли, а категорический отказ: «даже не собираюсь». Пишется раздельно na pamet.",
+      "keyword": "ne pada mi na pamet"
     },
     {
       "headword_latin": "Ne pada sneg da pokrije breg, nego da svaka zverka pokaže svoj trag",
@@ -20958,6 +21275,33 @@
       ],
       "note": "Женщина говорит nisam pametna, мужчина — nisam pametan. Фраза обычно не означает буквальное признание в глупости: это формула растерянности или неопределённости.",
       "keyword": "nisam pametna"
+    },
+    {
+      "headword_latin": "Ne znati gde bije",
+      "type": "frazeologizam",
+      "definition_ru": "ничего не соображать; не понимать, что творишь; быть совершенно потерянным",
+      "synonyms_sr": [
+        "biti pogubljen",
+        "biti potpuno zbunjen",
+        "ne znati šta radiš",
+        "izgubiti se"
+      ],
+      "literal_ru": "не знать, куда бьёшь",
+      "register": "razg., ekspresivno; često od umora, stresa ili zbunjenosti",
+      "examples": [
+        {
+          "serbian_latin": "Od posla i nespavanja više ne znam gde bijem.",
+          "russian": "От работы и недосыпа я уже вообще ничего не соображаю.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Deluje kao da ne zna gde bije.",
+          "russian": "Такое впечатление, что он вообще не понимает, что делает.",
+          "source": "Danas, 2023"
+        }
+      ],
+      "note": "Выражение сильнее простого zbunjen sam. Это состояние, когда человек потерял ориентиры и действует хаотично. В современной сербской публицистике живы и формы ne zna gde bije, и разговорное от первого лица ne znam gde bijem.",
+      "keyword": "gde bije"
     },
     {
       "headword_latin": "Ne znati gde ti je glava",
@@ -22738,6 +23082,33 @@
       ],
       "note": "Формула выражает довольно характерный фатализм: договорённость, обещание или очевидный прогноз ещё не гарантируют исход — окончательно всё решит судьба. В последние годы выражение получило дополнительную популярность через эстраду и футбол, но оно существовало задолго до современных песен; Danas фиксировал его как narodna mudrost уже в 2013 году.",
       "keyword": "nije kome je rečeno nego kome je suđeno"
+    },
+    {
+      "headword_latin": "Nije kraj sveta",
+      "type": "replika",
+      "definition_ru": "не конец света; ничего страшного; жизнь на этом не заканчивается",
+      "synonyms_sr": [
+        "nije strašno",
+        "nije smak sveta",
+        "nije tragedija",
+        "život ide dalje"
+      ],
+      "literal_ru": "",
+      "register": "razg.; utešna formula posle neuspeha ili problema",
+      "examples": [
+        {
+          "serbian_latin": "Svi imamo pravo na krizu i to nije kraj sveta.",
+          "russian": "У каждого может быть кризис, и это не конец света.",
+          "source": "RTS, 2023"
+        },
+        {
+          "serbian_latin": "Pao si ispit? Nije kraj sveta, položićeš sledeći put.",
+          "russian": "Не сдал экзамен? Не конец света, сдашь в следующий раз.",
+          "source": ""
+        }
+      ],
+      "note": "Почти полное совпадение с русским, включая прагматику: говорящий уменьшает катастрофичность произошедшего. Формула очень частотна в современной сербской речи и СМИ.",
+      "keyword": "kraj sveta"
     },
     {
       "headword_latin": "Nije mama pičku rodila",
@@ -25837,6 +26208,32 @@
       "keyword": "vek"
     },
     {
+      "headword_latin": "Otkriti karte",
+      "type": "frazeologizam",
+      "definition_ru": "раскрыть карты; открыто показать свои намерения",
+      "synonyms_sr": [
+        "pokazati namere",
+        "otvoreno reći šta hoćeš",
+        "razotkriti plan"
+      ],
+      "literal_ru": "открыть карты",
+      "register": "razg.-publicistički; često otkriti svoje karte",
+      "examples": [
+        {
+          "serbian_latin": "Dozvolite mi da počnem tako što ću otkriti svoje karte.",
+          "russian": "Позвольте мне начать с того, что я раскрою свои карты.",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Još nije otkrio karte i ne znamo šta zapravo namerava.",
+          "russian": "Он ещё не раскрыл карты, и мы не знаем, что он на самом деле намеревается делать.",
+          "source": ""
+        }
+      ],
+      "note": "Очень близко русскому «раскрыть карты». Родственное staviti karte na sto больше подчёркивает полную открытость и выкладывание всех обстоятельств, тогда как otkriti karte — прежде всего перестать скрывать собственные намерения.",
+      "keyword": "karte"
+    },
+    {
       "headword_latin": "Otkriti toplu vodu",
       "type": "frazeologizam",
       "definition_ru": "открыть Америку; изобрести велосипед; выдать очевидное за открытие",
@@ -28857,6 +29254,33 @@
       "keyword": "pojeo vuk magarca"
     },
     {
+      "headword_latin": "Pojeo vuk magare",
+      "type": "izreka",
+      "definition_ru": "дело замяли; и всё сошло с рук; концы в воду",
+      "synonyms_sr": [
+        "nikom ništa",
+        "zataškati stvar",
+        "sve se zaboravilo",
+        "prošlo bez posledica"
+      ],
+      "literal_ru": "волк съел осла",
+      "register": "razg.-poslovično, ironično-neodobr.; o skandalu, prestupu ili problemu koji se završio bez posledica",
+      "examples": [
+        {
+          "serbian_latin": "I šta je bilo na kraju? — Ma... pojeo vuk magare.",
+          "russian": "И чем всё закончилось? — Да ничем, всё замяли.",
+          "source": "Vukajlija, 2011"
+        },
+        {
+          "serbian_latin": "Napravila se velika buka, a posle mesec dana — pojeo vuk magare.",
+          "russian": "Поднялся огромный шум, а через месяц — и всё спустили на тормозах.",
+          "source": ""
+        }
+      ],
+      "note": "Значение хорошо фиксируется и в сербской фразеологической литературе: неприятное дело прошло без последствий, словно ничего не случилось. Поэтому это не просто «всё закончилось», а обычно ещё и упрёк в том, что виновных не наказали или проблему забыли.",
+      "keyword": "vuk; magare"
+    },
+    {
       "headword_latin": "Pokazati pravo lice",
       "type": "frazeologizam",
       "definition_ru": "показать истинное лицо; раскрыть свою настоящую сущность; показать, кто ты на самом деле",
@@ -30595,6 +31019,32 @@
       "keyword": "Rubikon"
     },
     {
+      "headword_latin": "Pregristi jezik",
+      "type": "frazeologizam",
+      "definition_ru": "прикусить язык; удержаться от слов; промолчать",
+      "synonyms_sr": [
+        "uzdržati se od komentara",
+        "ugristi se za jezik",
+        "prećutati"
+      ],
+      "literal_ru": "перекусить язык",
+      "register": "razg.-frazeološki; o svesnom uzdržavanju od onoga što je neko hteo da kaže",
+      "examples": [
+        {
+          "serbian_latin": "Hteo sam da mu odgovorim, ali sam pregrizao jezik.",
+          "russian": "Я хотел ему ответить, но прикусил язык.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Bolje pregrizi jezik nego da kažeš nešto zbog čega ćeš se kajati.",
+          "russian": "Лучше прикуси язык, чем скажи то, о чём потом пожалеешь.",
+          "source": ""
+        }
+      ],
+      "note": "Фразеологические исследования описывают pregristi jezik как резкое прекращение речи или сознательное удержание от высказывания. Близкое ugristi se za jezik часто подчёркивает момент, когда человек уже начал говорить или внезапно спохватился.",
+      "keyword": "pregristi jezik"
+    },
+    {
       "headword_latin": "Preko glave mi je",
       "type": "izraz",
       "definition_ru": "мне по горло надоело; с меня хватит; меня это достало",
@@ -31519,6 +31969,32 @@
       ],
       "note": "Речь идёт не о настоящем кладбище, а о демонстративном отсутствии внимания или приветствия. В нейтральной речи лучше использовать proći bez pozdrava или ignorisati nekoga.",
       "keyword": "groblje"
+    },
+    {
+      "headword_latin": "Proći kroz vatru i vodu",
+      "type": "frazeologizam",
+      "definition_ru": "пройти огонь и воду; пройти тяжёлые испытания",
+      "synonyms_sr": [
+        "proći svašta",
+        "proći kroz teška iskušenja",
+        "mnogo pretrpeti"
+      ],
+      "literal_ru": "пройти через огонь и воду",
+      "register": "ekspresivno; o preživljenim teškoćama i iskušenjima",
+      "examples": [
+        {
+          "serbian_latin": "Prošli smo zajedno kroz vatru i vodu.",
+          "russian": "Мы вместе прошли огонь и воду.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Posle svega kroz šta je prošla, može se reći da je prošla kroz vatru i vodu.",
+          "russian": "После всего пережитого можно сказать, что она прошла огонь и воду.",
+          "source": ""
+        }
+      ],
+      "note": "Образ практически совпадает с русским. В сербской публицистике оборот продолжает свободно употребляться как обозначение тяжёлого пути и многочисленных препятствий. Не путать с ići u vatru i vodu za nekoga — «быть готовым на всё ради кого-либо».",
+      "keyword": "vatra i voda"
     },
     {
       "headword_latin": "Proći sito i rešeto",
@@ -46257,6 +46733,32 @@
       "keyword": "nož u leđa"
     },
     {
+      "headword_latin": "Začepiti nekome usta",
+      "type": "frazeologizam",
+      "definition_ru": "заткнуть кому рот; заставить замолчать; лишить аргументов",
+      "synonyms_sr": [
+        "ućutkati",
+        "zatvoriti nekome usta",
+        "ostaviti nekoga bez odgovora"
+      ],
+      "literal_ru": "закупорить кому рот",
+      "register": "razg., ekspresivno; začepiti kome usta + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Ovim dokazom su mu začepili usta.",
+          "russian": "Этим доказательством ему заткнули рот.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Prestani da govoriš ili ću ti začepiti usta.",
+          "russian": "Перестань говорить, или я заставлю тебя замолчать.",
+          "source": "Zbornik za jezike i književnosti Filozofskog fakulteta u Novom Sadu, 2020"
+        }
+      ],
+      "note": "В переносном употреблении физического воздействия может вообще не быть: человеку «затыкают рот» убедительным доказательством, ответом или обстоятельствами. Сербские исследования фиксируют вариант začepiti / zatvoriti nekome usta.",
+      "keyword": "usta"
+    },
+    {
       "headword_latin": "Začkoljica",
       "type": "imenica",
       "definition_ru": "закавыка; загвоздка; подвох",
@@ -46569,6 +47071,32 @@
       ],
       "note": "Встречаются варианты zakopati, spustiti и реже odložiti ratnu sekiru. Zakopati наиболее прозрачно совпадает с русским «зарыть топор войны».",
       "keyword": "zakopati ratnu sekiru; pomirenje; sukob"
+    },
+    {
+      "headword_latin": "Zakuvati nekome kašu",
+      "type": "frazeologizam",
+      "definition_ru": "заварить кому кашу; устроить неприятности; создать сложную ситуацию",
+      "synonyms_sr": [
+        "napraviti problem",
+        "zamrsiti stvar",
+        "uvaliti nekoga u problem"
+      ],
+      "literal_ru": "заварить кому кашу",
+      "register": "razg.; zakuvati kome kašu + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Ovu kašu je sam zakuvao.",
+          "russian": "Эту кашу он заварил сам.",
+          "source": "Danas, 2010"
+        },
+        {
+          "serbian_latin": "Ti si nam zakuvao kašu, a sad očekuješ da je mi rešavamo.",
+          "russian": "Ты заварил нам кашу, а теперь ждёшь, что разгребать будем мы.",
+          "source": ""
+        }
+      ],
+      "note": "Русский и сербский образы почти совпадают, но сербская модель особенно свободно допускает дательный: zakuvati nekome kašu. Выражение фиксируется именно как сербский фразеологизм и в лингвистической литературе.",
+      "keyword": "kaša"
     },
     {
       "headword_latin": "Zalepiti se kao čičak",
