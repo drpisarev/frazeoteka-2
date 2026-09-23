@@ -3815,6 +3815,32 @@
       "keyword": "suva drenovina; cediti; iscrpljivanje"
     },
     {
+      "headword_latin": "Crn kao gavran",
+      "type": "frazeologizam",
+      "definition_ru": "чёрный как ворон; иссиня-чёрный",
+      "synonyms_sr": [
+        "potpuno crn",
+        "crn kao noć",
+        "gavran-crn"
+      ],
+      "literal_ru": "чёрный как ворон",
+      "register": "ekspresivno; najčešće o kosi, očima, odeći ili boji",
+      "examples": [
+        {
+          "serbian_latin": "Begemot je veliki kao prase i crn kao gavran.",
+          "russian": "Бегемот большой как поросёнок и чёрный как ворон.",
+          "source": "Politika, 2009"
+        },
+        {
+          "serbian_latin": "Imao je gustu kosu, crnu kao gavran.",
+          "russian": "У него были густые, чёрные как ворон волосы.",
+          "source": ""
+        }
+      ],
+      "note": "Образ мотивирован цветом оперения ворона; современная сербская фразеология особенно связывает его с очень чёрными волосами.",
+      "keyword": "gavran"
+    },
+    {
       "headword_latin": "Crn kao noć",
       "type": "frazeologizam",
       "definition_ru": "чёрный как ночь; иссиня-чёрный; совершенно чёрный",
@@ -10012,6 +10038,32 @@
       ],
       "note": "Сербский образ отличается от обычного русского: буквально человек старается не раздавить яйца. По смыслу в русском чаще «ходить по минному полю», «как по тонкому льду», «бояться лишнее слово сказать».",
       "keyword": "kao po jajima"
+    },
+    {
+      "headword_latin": "Hrabar kao lav",
+      "type": "frazeologizam",
+      "definition_ru": "храбрый как лев; бесстрашный",
+      "synonyms_sr": [
+        "neustrašiv",
+        "veoma hrabar",
+        "srčan"
+      ],
+      "literal_ru": "храбрый как лев",
+      "register": "odobr., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Hrabar je kao lav.",
+          "russian": "Он храбр как лев.",
+          "source": "RTS, 2021"
+        },
+        {
+          "serbian_latin": "Kad treba da zaštiti svoje, hrabar je kao lav.",
+          "russian": "Когда нужно защитить своих, он храбр как лев.",
+          "source": ""
+        }
+      ],
+      "note": "Лев как образ храбрости одинаково прозрачен для русского и сербского. Выражение лексикографически устойчиво.",
+      "keyword": "lav"
     },
     {
       "headword_latin": "Hvalite me, usta moja",
@@ -16325,6 +16377,33 @@
       "keyword": "krojiti kapu"
     },
     {
+      "headword_latin": "Krotak kao jagnje",
+      "type": "frazeologizam",
+      "definition_ru": "кроткий как ягнёнок; смирный, безобидный",
+      "synonyms_sr": [
+        "miran kao jagnje",
+        "blag",
+        "pitom",
+        "bezazlen"
+      ],
+      "literal_ru": "кроткий как ягнёнок",
+      "register": "odobr. ili neutralno; može i ironično o nekome ko se iznenada primirio",
+      "examples": [
+        {
+          "serbian_latin": "On je sada krotak kao jagnje.",
+          "russian": "Теперь он кроткий как ягнёнок.",
+          "source": "Politika, 2022"
+        },
+        {
+          "serbian_latin": "Pred šefom je odjednom postao krotak kao jagnje.",
+          "russian": "Перед начальником он вдруг стал тише воды.",
+          "source": ""
+        }
+      ],
+      "note": "Образ связан с традиционной, в том числе христианской, символикой ягнёнка как существа кроткого и безобидного. Встречаются варианты krotak, pitom, umiljat kao jagnje.",
+      "keyword": "jagnje"
+    },
+    {
       "headword_latin": "Kroz iglene uši",
       "type": "frazeologizam",
       "definition_ru": "С огромным трудом, едва-едва, чудом преодолев препятствие или избежав неудачи. Особенно часто о победе, квалификации, экзамене, прохождении отбора.",
@@ -16839,6 +16918,32 @@
       "keyword": "krv u žilama; strah; jeza"
     },
     {
+      "headword_latin": "Lenj kao trut",
+      "type": "frazeologizam",
+      "definition_ru": "ленивый как трут; отъявленный лентяй",
+      "synonyms_sr": [
+        "neradan",
+        "lenština",
+        "lenj kao buba"
+      ],
+      "literal_ru": "ленивый как трутень",
+      "register": "razg., neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Često se kaže za nekog „lenj kao trut“.",
+          "russian": "О ком-нибудь часто говорят: «ленивый как трут».",
+          "source": "SRDA, 2022"
+        },
+        {
+          "serbian_latin": "Po ceo dan leži, lenj je kao trut.",
+          "russian": "Целыми днями лежит, лентяй каких поискать.",
+          "source": ""
+        }
+      ],
+      "note": "Trut — трутень. Народный образ строится на том, что трутни не собирают нектар и воспринимаются как «неработающие» члены улья, хотя биологически у них есть репродуктивная функция. Оборот хорошо закреплён в сербской фразеологии.",
+      "keyword": "trut"
+    },
+    {
       "headword_latin": "Lepa reč i gvozdena vrata otvara",
       "type": "poslovica",
       "definition_ru": "добрым словом многого добьёшься; лаской и железную дверь откроешь",
@@ -17288,6 +17393,32 @@
       "keyword": "luk i voda"
     },
     {
+      "headword_latin": "Lukav kao lisica",
+      "type": "frazeologizam",
+      "definition_ru": "хитрый как лиса; очень хитрый, изворотливый",
+      "synonyms_sr": [
+        "prepreden",
+        "domišljat",
+        "lukav kao lisac"
+      ],
+      "literal_ru": "хитрый как лиса",
+      "register": "razg.-ekspresivno; od neodobravanja do divljenja",
+      "examples": [
+        {
+          "serbian_latin": "Ne veruj mu baš sve, lukav je kao lisica.",
+          "russian": "Не верь ему во всём, он хитёр как лиса.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Lukava je kao lisica, uvek pronađe izlaz.",
+          "russian": "Она хитра как лиса, всегда найдёт выход.",
+          "source": ""
+        }
+      ],
+      "note": "Образ лисы как эталона хитрости закреплён в сербской фразеологии и связывается исследователями прежде всего с басенной традицией.",
+      "keyword": "lisica"
+    },
+    {
       "headword_latin": "Lupa kao Maksim po diviziji",
       "type": "frazeologizam",
       "definition_ru": "несёт чушь; говорит много, быстро и бессвязно, особенно о том, в чём плохо разбирается",
@@ -17398,6 +17529,59 @@
       ],
       "note": "Как и русское «кусать локти», выражение обозначает позднее сожаление о собственной ошибке или упущенной возможности. Возможен буквальный жест, поэтому граница между фразеологизмом и образной гиперболой бывает размыта. Очень типична модель lupati se po glavi što nisam / nismo....",
       "keyword": "lupati se po glavi"
+    },
+    {
+      "headword_latin": "Ljigav kao jegulja",
+      "type": "frazeologizam",
+      "definition_ru": "скользкий как угорь; перен. мерзкий, скользкий тип",
+      "synonyms_sr": [
+        "odvratan",
+        "ljigavac",
+        "sluzav (dosl.)",
+        "neiskren (pren., po kontekstu)"
+      ],
+      "literal_ru": "скользкий как угорь",
+      "register": "razg.; doslovno o klizavosti, preneseno izrazito neodobravajuće o čoveku",
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu da ga podnesem, ljigav je kao jegulja.",
+          "russian": "Терпеть его не могу, скользкий и мерзкий тип.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Jegulju je teško držati jer je ljigava.",
+          "russian": "Угря трудно удержать, потому что он скользкий.",
+          "source": ""
+        }
+      ],
+      "note": "Сербские источники прямо связывают физическую скользкость угря с выражением ljigav kao jegulja. Фразеологическая литература отмечает и переносное значение ljigav — «отталкивающий, вызывающий омерзение».",
+      "keyword": "jegulja"
+    },
+    {
+      "headword_latin": "Ljubomoran kao pas",
+      "type": "frazeologizam",
+      "definition_ru": "ревнивый как пёс; ужасно ревнивый",
+      "synonyms_sr": [
+        "veoma ljubomoran",
+        "posesivan",
+        "ljubomoran do ludila"
+      ],
+      "literal_ru": "ревнивый как пёс",
+      "register": "razg.-ekspresivno, neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "I ona je ljubomorna k'o pas.",
+          "russian": "И она ревнивая как чёрт.",
+          "source": "Kurir, 2021"
+        },
+        {
+          "serbian_latin": "On je ljubomoran kao pas čim neko priđe njegovoj devojci.",
+          "russian": "Он ужасно ревнив, стоит кому-нибудь подойти к его девушке.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение входит в сербскую зоонимную фразеологию; его мотивацию исследователи связывают с территориальностью и привязанностью собаки, хотя происхождение образа не вполне прозрачно.",
+      "keyword": "ljubomoran; pas"
     },
     {
       "headword_latin": "maca ti je pojela jezik",
@@ -18073,6 +18257,32 @@
       "keyword": "kućica; slobodica"
     },
     {
+      "headword_latin": "Mokar kao miš",
+      "type": "frazeologizam",
+      "definition_ru": "промокший насквозь; мокрый как мышь; как мокрая курица",
+      "synonyms_sr": [
+        "mokar do kože",
+        "skroz mokar",
+        "pokisao"
+      ],
+      "literal_ru": "мокрый как мышь",
+      "register": "razg.-ekspresivno; obično posle kiše ili pada u vodu",
+      "examples": [
+        {
+          "serbian_latin": "Stigao je kući mokar kao miš.",
+          "russian": "Он пришёл домой промокший насквозь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemam kišobran, biću mokar kao miš.",
+          "russian": "У меня нет зонта, промокну до нитки.",
+          "source": ""
+        }
+      ],
+      "note": "Сравнение mokar kao miš фиксируется именно в сербской сравнительной фразеологии. В русском естественный перевод обычно «промокнуть до нитки» или «как мокрая курица», а не буквальная мышь.",
+      "keyword": "mokar; miš"
+    },
+    {
       "headword_latin": "Mora samo da se umre",
       "type": "replika",
       "definition_ru": "обязательно только умереть; ничего ты не обязан; «должен» — только умереть",
@@ -18178,6 +18388,32 @@
       ],
       "note": "Хотя mrk значит «мрачный, тёмный», современная формула воспринимается целиком как отрицательный прогноз: «ничего не выйдет», «дело дрянь». Она особенно удобна именно как короткий ответ или итог оценки ситуации. Mrka kapa s nama / s tim poslom — «плохи наши дела / с этим делом ничего не выйдет».",
       "keyword": "mrka kapa"
+    },
+    {
+      "headword_latin": "Mršav kao bakalar",
+      "type": "frazeologizam",
+      "definition_ru": "тощий как жердь; худой как щепка; очень худой",
+      "synonyms_sr": [
+        "veoma mršav",
+        "suv kao grana",
+        "kost i koža"
+      ],
+      "literal_ru": "худой как сушёная треска",
+      "register": "razg.-ekspresivno; ređe od nekih drugih poređenja; može biti uvredljivo",
+      "examples": [
+        {
+          "serbian_latin": "Posle bolesti je ostao mršav kao bakalar.",
+          "russian": "После болезни он стал худой как щепка.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Jedi nešto, mršav si kao bakalar.",
+          "russian": "Поешь хоть что-нибудь, ты совсем тощий.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение включено в сербскую зоонимную сравнительную фразеологию как вариант крайней худобы. Для русского буквальный образ сушёной рыбы обычно заменяется «худой как щепка», «тощий как жердь».",
+      "keyword": "bakalar"
     },
     {
       "headword_latin": "Mrtav hladan",
@@ -22351,6 +22587,32 @@
       ],
       "note": "Конструкция nešto je nekome kao dobar dan означает, что действие стало совершенно привычным. В заголовках встречается эллиптическая форма nešto za dobar dan. Точная конструкция kao dobar dan индексируется на Forum B92, но страница сейчас недоступна для проверки цитаты.",
       "keyword": "dobar dan"
+    },
+    {
+      "headword_latin": "Nevin kao jagnje",
+      "type": "frazeologizam",
+      "definition_ru": "невинный как ягнёнок; сама невинность",
+      "synonyms_sr": [
+        "bezazlen",
+        "čist kao suza (delimično)",
+        "nevin kao dete"
+      ],
+      "literal_ru": "невинный как ягнёнок",
+      "register": "ekspresivno; može iskreno ili ironično",
+      "examples": [
+        {
+          "serbian_latin": "Pred svima se pravi nevin kao jagnje.",
+          "russian": "Перед всеми строит из себя невинного ягнёнка.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Gleda te nevin kao jagnje, kao da ništa nije uradio.",
+          "russian": "Смотрит на тебя сама невинность, будто ничего не сделал.",
+          "source": ""
+        }
+      ],
+      "note": "Ягнёнок в сербской традиции символизирует нравственную чистоту и безобидность; nevin kao jagnje надёжно фиксируется и в современном сербском корпусном материале. Ироническое употребление особенно характерно с praviti se.",
+      "keyword": "nevin; jagnje"
     },
     {
       "headword_latin": "Ni kriv ni dužan",
@@ -28121,6 +28383,32 @@
       "keyword": "ljuta godina"
     },
     {
+      "headword_latin": "Plašljiv kao zec",
+      "type": "frazeologizam",
+      "definition_ru": "трусливый как заяц; всего боится",
+      "synonyms_sr": [
+        "strašljiv",
+        "kukavica",
+        "plašljiv kao srna"
+      ],
+      "literal_ru": "пугливый как заяц",
+      "register": "razg.-ekspresivno; obično neodobr. ili šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Kapital je plašljiv kao zec.",
+          "russian": "Капитал пуглив как заяц.",
+          "source": "Politika, 2016"
+        },
+        {
+          "serbian_latin": "Kad vidi iglu, plašljiv je kao zec.",
+          "russian": "Как увидит иглу, становится трусливым как заяц.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивы варианты plašljiv kao zec и plašljiv kao srna. Современная речь свободно переносит сравнение и с человека на абстрактные понятия — например, капитал.",
+      "keyword": "zec"
+    },
+    {
       "headword_latin": "Platiti ceh",
       "type": "frazeologizam",
       "definition_ru": "расплачиваться; поплатиться; расхлёбывать последствия",
@@ -29817,6 +30105,33 @@
       ],
       "note": "Pamet здесь ближе к «разуму, способности здраво судить». В любовном контексте выражение часто означает «вскружить голову», в общественном — «затуманить сознание, сбить с толку».",
       "keyword": "pomutiti pamet; razum"
+    },
+    {
+      "headword_latin": "Ponosan kao paun",
+      "type": "frazeologizam",
+      "definition_ru": "гордый как павлин; важный, самодовольный",
+      "synonyms_sr": [
+        "gord",
+        "nadmen",
+        "šepurav",
+        "pun sebe"
+      ],
+      "literal_ru": "гордый как павлин",
+      "register": "razg.-ekspresivno; često ironično ili neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Kad su ga pohvalili, hodao je ponosan kao paun.",
+          "russian": "Когда его похвалили, он ходил гордый как павлин.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pokazivao je novu uniformu, ponosan kao paun.",
+          "russian": "Он демонстрировал новую форму, важный как павлин.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском павлин устойчиво связан с гордостью и демонстративным самолюбованием; рядом существует šepuriti se kao paun. Современные исследования прямо относят эти единицы к сербской фразеологии.",
+      "keyword": "paun"
     },
     {
       "headword_latin": "Popeti se nekome na vrh glave",
@@ -31770,6 +32085,32 @@
       ],
       "note": "Фразеологизм подтверждается и в сербских учебных материалах; речь может идти не только об одежде, но и о должности, роли или манере поведения. Русский использует тот же образ несовместимости, но обычно с коровой.",
       "keyword": "magarac; sedlo"
+    },
+    {
+      "headword_latin": "Prljav kao svinja",
+      "type": "frazeologizam",
+      "definition_ru": "грязный как свинья; весь в грязи",
+      "synonyms_sr": [
+        "prljav kao prasac",
+        "sav prljav",
+        "neuredan"
+      ],
+      "literal_ru": "грязный как свинья",
+      "register": "razg., grublje-neodobravajuće; o čoveku može biti uvredljivo",
+      "examples": [
+        {
+          "serbian_latin": "Došao je iz dvorišta prljav kao svinja.",
+          "russian": "Пришёл со двора грязный как свинья.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Operi ruke, prljav si kao svinja.",
+          "russian": "Вымой руки, ты грязный как свинья.",
+          "source": ""
+        }
+      ],
+      "note": "Это нормативно описанный сербский сравнительный фразеологизм; встречается также prljav kao prase / prasac. Сравнение может характеризовать не только физическую грязь, но контекстуально и крайнюю неопрятность.",
+      "keyword": "prljav; svinja"
     },
     {
       "headword_latin": "Prljav posao",
@@ -34250,6 +34591,32 @@
       "keyword": "sneško"
     },
     {
+      "headword_latin": "Ružan kao akrap",
+      "type": "frazeologizam",
+      "definition_ru": "страшный как чёрт; очень некрасивый, уродливый",
+      "synonyms_sr": [
+        "veoma ružan",
+        "ružan kao pas",
+        "ružan kao majmun"
+      ],
+      "literal_ru": "уродливый как скорпион",
+      "register": "razg., grubo, pomalo starinski/regionalno",
+      "examples": [
+        {
+          "serbian_latin": "Neću da ga vređam, ali ljudi kažu da je ružan kao akrap.",
+          "russian": "Не хочу его обижать, но люди говорят, что он страшный как чёрт.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Na fotografiji su ga namerno napravili ružnog kao akrap.",
+          "russian": "На фотографии его намеренно сделали совершенно страшным.",
+          "source": ""
+        }
+      ],
+      "note": "Akrap — старый турцизм арабского происхождения, один из вариантов названия скорпиона; слово получило и переносную связь с отталкивающей внешностью. Само сравнение ružan kao akrap включается в сербскую фразеологическую систему.",
+      "keyword": "akrap"
+    },
+    {
       "headword_latin": "Ružan kao lopov",
       "type": "frazeologizam",
       "definition_ru": "страшный как смертный грех; очень некрасивый; уродливый",
@@ -34595,6 +34962,32 @@
       ],
       "note": "Это важная культурная особенность слова obraz: в устойчивых сочетаниях оно часто означает честь и моральную репутацию. Поэтому sačuvati obraz не всегда следует механически переводить русским «сохранить лицо»: нередко точнее «сохранить честь», «не поступиться достоинством».",
       "keyword": "sačuvati obraz"
+    },
+    {
+      "headword_latin": "Sam kao ćuk",
+      "type": "frazeologizam",
+      "definition_ru": "один-одинёшенек; совершенно один",
+      "synonyms_sr": [
+        "potpuno sam",
+        "sam samcat",
+        "bez igde ikoga"
+      ],
+      "literal_ru": "один как сова-сплюшка",
+      "register": "razg.-ekspresivno; o potpunoj usamljenosti",
+      "examples": [
+        {
+          "serbian_latin": "Ostao je sam kao ćuk u praznoj kancelariji.",
+          "russian": "Он остался один-одинёшенек в пустом офисе.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Svi su otišli kući, a ja sam ostao sam kao ćuk.",
+          "russian": "Все ушли домой, а я остался совсем один.",
+          "source": ""
+        }
+      ],
+      "note": "Сербская фразеологическая литература объясняет образ одиночным образом жизни ćuk — небольшой совы. По смыслу выражение сильнее нейтрального sam и близко sam samcat, но это самостоятельный фразеологизм с другим образом.",
+      "keyword": "ćuk"
     },
     {
       "headword_latin": "Sam kao duh",
@@ -36145,6 +36538,32 @@
       ],
       "note": "Это не обязательно настоящие трудности. Часто речь идёт о ситуации, когда выбрать сложно именно потому, что хороших вариантов слишком много. Поэтому в спортивной речи trener ima slatke muke почти стандартно говорится о сильном составе и конкуренции за место в команде; в быту оборот шире и может означать любые приятные заботы.",
       "keyword": "slatke muke"
+    },
+    {
+      "headword_latin": "Slep kao krtica",
+      "type": "frazeologizam",
+      "definition_ru": "слепой как крот; ничего не видеть; очень плохо видеть",
+      "synonyms_sr": [
+        "jedva videti",
+        "biti ćorav (razg.)",
+        "slabo videti"
+      ],
+      "literal_ru": "слепой как крот",
+      "register": "razg.-ekspresivno; obično o veoma slabom vidu",
+      "examples": [
+        {
+          "serbian_latin": "Bez naočara sam slep kao krtica.",
+          "russian": "Без очков я слепой как крот.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "U mraku ne vidi ništa, slep je kao krtica.",
+          "russian": "В темноте он ничего не видит, слепой как крот.",
+          "source": ""
+        }
+      ],
+      "note": "Это устойчивое сербское сравнение, зафиксированное в современной фразеологической литературе. Биологически крот не абсолютно слеп, поэтому выражение отражает народное представление, а не зоологический факт.",
+      "keyword": "krtica"
     },
     {
       "headword_latin": "Slepa ulica",
@@ -44828,6 +45247,33 @@
       "keyword": "um; snaga"
     },
     {
+      "headword_latin": "Uobražen kao ćuran",
+      "type": "frazeologizam",
+      "definition_ru": "важный как индюк; надутый, самодовольный",
+      "synonyms_sr": [
+        "nadmen",
+        "pun sebe",
+        "šepuriti se",
+        "umišljen"
+      ],
+      "literal_ru": "самодовольный как индюк",
+      "register": "razg., podsmešljivo-neodobravajuće",
+      "examples": [
+        {
+          "serbian_latin": "Otkad je dobio funkciju, uobražen je kao ćuran.",
+          "russian": "С тех пор как получил должность, ходит важный как индюк.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne šepuri se, uobražen si kao ćuran.",
+          "russian": "Не важничай, надулся как индюк.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском ćuran — самостоятельный образ надменности наряду с павлином: фиксируются uobražen kao ćuran и šepuriti se kao ćuran. Для русского образ индюка тоже хорошо понятен.",
+      "keyword": "ćuran"
+    },
+    {
       "headword_latin": "Upasti / otići u minus",
       "type": "razgovorna finansijska formula",
       "definition_ru": "уйти в минус; оказаться с отрицательным балансом, перерасходом или долгом",
@@ -45698,6 +46144,32 @@
       "keyword": "velika zverka; moćnik; važna ličnost"
     },
     {
+      "headword_latin": "Veran kao pas",
+      "type": "frazeologizam",
+      "definition_ru": "верный как пёс; беззаветно преданный",
+      "synonyms_sr": [
+        "veoma odan",
+        "privržen",
+        "veran do kraja"
+      ],
+      "literal_ru": "верный как пёс",
+      "register": "najčešće odobravajuće; o čoveku i doslovno o psu",
+      "examples": [
+        {
+          "serbian_latin": "Veran kao pas, Bekan nema cenu.",
+          "russian": "Верный как пёс — Бекан бесценен.",
+          "source": "RTS, 2015"
+        },
+        {
+          "serbian_latin": "Bio mu je veran kao pas do poslednjeg dana.",
+          "russian": "Он был ему предан как пёс до последнего дня.",
+          "source": ""
+        }
+      ],
+      "note": "В сербской фразеологии собака одновременно может символизировать верность, бедность, голод и другие свойства — значение определяется сочетанием. Veran kao pas нормативно фиксируется как интенсивная характеристика преданности.",
+      "keyword": "veran; pas"
+    },
+    {
       "headword_latin": "Vesela mladost najveća je radost",
       "type": "poslovica",
       "definition_ru": "весёлая молодость — самая большая радость; молодость — золотая пора",
@@ -46108,6 +46580,32 @@
       ],
       "note": "Очень типична возвратная конструкция nešto se nekome vratilo kao bumerang: Odluka mu se vratila kao bumerang. Дательный обозначает того, кому последствия «вернулись». Русское «обернулось бумерангом» практически совпадает.",
       "keyword": "vratiti se kao bumerang"
+    },
+    {
+      "headword_latin": "Vredan kao pčela",
+      "type": "frazeologizam",
+      "definition_ru": "трудолюбивый как пчела; очень работящий",
+      "synonyms_sr": [
+        "marljiv",
+        "radan",
+        "vredan kao mrav"
+      ],
+      "literal_ru": "трудолюбивый как пчела",
+      "register": "odobr., opšteupotrebno",
+      "examples": [
+        {
+          "serbian_latin": "Vredan kao pčela.",
+          "russian": "Трудолюбивый как пчела.",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Od jutra nešto radi, vredna je kao pčela.",
+          "russian": "С утра всё чем-то занимается, трудится как пчёлка.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском рядом существуют vredan kao pčela, pčelica, mrav, реже другие варианты. Пчела — один из самых устойчивых культурных символов трудолюбия.",
+      "keyword": "pčela"
     },
     {
       "headword_latin": "Vreme je novac",
@@ -47798,6 +48296,32 @@
       ],
       "note": "В отличие от нейтрального povući se, здесь человеку приписывается страх, стыд или желание избежать ответственности и чужих глаз. Русское «забиться в мышиную нору» совпадает и по образу, и по оценке. Частая модель после поражения или скандала: neka se zavuče u mišju rupu i ćuti.",
       "keyword": "mišja rupa"
+    },
+    {
+      "headword_latin": "Zbijeni kao sardine",
+      "type": "frazeologizam",
+      "definition_ru": "набиты как сельди в бочке; тесно прижаты друг к другу",
+      "synonyms_sr": [
+        "nagurani",
+        "nabijeni jedni uz druge",
+        "stisnuti kao sardine"
+      ],
+      "literal_ru": "уложены тесно, как сардины",
+      "register": "razg.-slikovito; najčešće o grupi ljudi u tesnom prostoru",
+      "examples": [
+        {
+          "serbian_latin": "Potom su nas sabili kao sardine.",
+          "russian": "Потом нас набили как сельдей в бочку.",
+          "source": "Danas / BBC na srpskom, 2026"
+        },
+        {
+          "serbian_latin": "U autobusu smo bili zbijeni kao sardine.",
+          "russian": "В автобусе мы были набиты как сельди в бочке.",
+          "source": ""
+        }
+      ],
+      "note": "Фразеологическая литература фиксирует варианты zbijeni, stisnuti, nabijeni kao sardine. Русский обычно заменяет сардины «сельдями в бочке».",
+      "keyword": "sardine"
     },
     {
       "headword_latin": "Zbog sira i vojne muzike",
