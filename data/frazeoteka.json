@@ -21990,6 +21990,35 @@
       "keyword": "ni kučeta ni mačeta"
     },
     {
+      "headword_latin": "Nema ni za lek",
+      "type": "frazeologizam",
+      "definition_ru": "нет совсем, ни капли, ни одной штуки; о полном отсутствии чего-либо",
+      "synonyms_sr": [
+        "nema uopšte",
+        "nema ni malo",
+        "nema ni trunke",
+        "nema nigde"
+      ],
+      "literal_ru": "нет даже на лекарство",
+      "register": "razgovorno, veoma često, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "FARINA nema ni za lek.",
+          "russian": "Фарина нет совсем, нигде не достать.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/kolumna/natasa-b-odalovic/farin-5-miligrama-tableta/"
+        },
+        {
+          "serbian_latin": "Trave nije bilo ni za lek, ostala samo gola ledina.",
+          "russian": "Травы не было совсем, осталась одна голая земля.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/694957/susa-unistava-pasnjake-stocarima-sve-teze"
+        }
+      ],
+      "note": "Устойчивое усиление отрицания. Сочетается практически с любым существительным: nema posla ni za lek, nema trave ni za lek, nema maski ni za lek. Значение давно шире буквального 'лекарства'.",
+      "keyword": "ni za lek"
+    },
+    {
       "headword_latin": "Nema odmora dok traje obnova",
       "type": "krilatica",
       "definition_ru": "пока идёт восстановление, отдыхать некогда; пока дело не сделано — не до отдыха; покой нам только снится",
@@ -22235,6 +22264,35 @@
       ],
       "note": "Несмотря на слово zima, речь обычно вовсе не о погоде. Формула означает, что человек или дело находятся в достаточно хорошем положении и опасаться за их будущее не приходится. Особенно характерна конструкция za njega / njih / tu branšu nema zime.",
       "keyword": "nema zime"
+    },
+    {
+      "headword_latin": "Nemam ni prebijene pare",
+      "type": "frazeologizam",
+      "definition_ru": "у меня нет ни гроша, я совершенно без денег",
+      "synonyms_sr": [
+        "nemam ni dinara",
+        "švorc sam",
+        "bez dinara sam",
+        "prazni su mi džepovi"
+      ],
+      "literal_ru": "у меня нет даже перебитой монеты",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Kod sebe uglavnom nemam ni prebijene pare!",
+          "russian": "Обычно у меня при себе нет ни гроша!",
+          "source": "Srbija Danas, 2019",
+          "url": "https://www.sd.rs/vip/vip/sokantno-zorica-brunclik-praznih-dzepova-bez-prebijene-pare-da-mi-traze-100-dinara-ne-bih-imala-2019-12-07"
+        },
+        {
+          "serbian_latin": "Ma nemam ni prebijene pare.",
+          "russian": "Да у меня ни гроша нет.",
+          "source": "Vukajlija, 2008",
+          "url": "https://vukajlija.com/prebijena-para/40710"
+        }
+      ],
+      "note": "Базовая форма также vrlo često: biti / ostati bez prebijene pare. Prebijena para здесь - образ монеты ничтожной стоимости; вся конструкция означает абсолютное безденежье.",
+      "keyword": "prebijena para"
     },
     {
       "headword_latin": "Nemam ništa s tim",
@@ -25824,6 +25882,35 @@
       "keyword": "osmeh od uha do uha"
     },
     {
+      "headword_latin": "Ostao je kost i koža",
+      "type": "frazeologizam",
+      "definition_ru": "от него остались кожа да кости; он страшно похудел, исхудал",
+      "synonyms_sr": [
+        "sama kost i koža",
+        "smršao je do neprepoznatljivosti",
+        "presušio je",
+        "mršav je kao čačkalica"
+      ],
+      "literal_ru": "остался кость и кожа",
+      "register": "razgovorno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Bila sam kost i koža.",
+          "russian": "Я была кожа да кости.",
+          "source": "Lepa i srećna / Mondo, 2023",
+          "url": "https://lepaisrecna.mondo.rs/Lifestyle/Poznati/a61527/dzejla-ramovic-o-visku-kilograma.html"
+        },
+        {
+          "serbian_latin": "Ona izgleda kao leš, sama kost i koža!",
+          "russian": "Она выглядит как труп, одна кожа да кости!",
+          "source": "Ana.rs forum, 2006",
+          "url": "https://www.ana.rs/forum/index.php?topic=1980.0"
+        }
+      ],
+      "note": "Наиболее частая модель - biti / ostati sama kost i koža или просто biti kost i koža. Употребляется о крайне худом, истощённом человеке.",
+      "keyword": "kost i koža"
+    },
+    {
       "headword_latin": "ostati / ostaviti nekoga na cedilu",
       "type": "фразеологизм",
       "definition_ru": "Оказаться брошенным без помощи; бросить или подвести кого-либо в трудной ситуации.",
@@ -27024,28 +27111,33 @@
     },
     {
       "headword_latin": "Pali!",
-      "type": "replika",
-      "definition_ru": "вали!; проваливай!; убирайся!",
+      "type": "žargonski uzvik",
+      "definition_ru": "вали!, проваливай!, исчезни отсюда!",
       "synonyms_sr": [
-        "gubi se!",
-        "beži!",
-        "marš! (grub.)"
+        "gubi se",
+        "briši",
+        "beži",
+        "tornjaj se",
+        "nosi se",
+        "marš"
       ],
-      "literal_ru": "",
-      "register": "sleng, grubo; imperativ glagola paliti u posebnom razgovornom značenju „otići“",
+      "literal_ru": "зажигай!; включай!",
+      "register": "žargonski, grubo ili familijarno; imperativ",
       "examples": [
         {
-          "serbian_latin": "Pali odavde dok nisam pozvao policiju.",
-          "russian": "Вали отсюда, пока я не вызвал полицию.",
-          "source": ""
+          "serbian_latin": "Frozen, hajde pali odavde.",
+          "russian": "Фрозен, давай вали отсюда.",
+          "source": "Forum Krstarice, 2006",
+          "url": "https://forum.krstarica.com/threads/zene-zena-ili-muskarac.97218/"
         },
         {
-          "serbian_latin": "Ma pali, bre!",
-          "russian": "Да проваливай ты!",
-          "source": ""
+          "serbian_latin": "Ae moronu, pali odavde...",
+          "russian": "Эй, придурок, вали отсюда...",
+          "source": "Vukajlija, 2014",
+          "url": "https://vukajlija.com/ceva-i-kale/710977"
         }
       ],
-      "note": "Рядом существует Palimo! — «пошли / поехали / сваливаем», а moram da palim — «мне пора идти».",
+      "note": "Разговорное переносное значение глагола paliti: 'быстро уходить, сматываться'. Часто с odavde: pali odavde. Есть расширенные сленговые варианты pali žmigavce, pali štraftu.",
       "keyword": "pali"
     },
     {
@@ -28306,28 +28398,31 @@
     {
       "headword_latin": "Plakati kao godina",
       "type": "frazeologizam",
-      "definition_ru": "плакать навзрыд; лить слёзы ручьём",
+      "definition_ru": "горько, сильно и долго плакать; лить слёзы ручьём",
       "synonyms_sr": [
         "plakati kao kiša",
-        "ridati",
-        "plakati iz glasa"
+        "roniti suze",
+        "plakati iz glasa",
+        "gorko plakati"
       ],
-      "literal_ru": "плакать как «година»",
-      "register": "razg.-folklorno, ekspresivno",
+      "literal_ru": "плакать как год",
+      "register": "narodno, frazeološki, danas ređe od plakati kao kiša",
       "examples": [
         {
-          "serbian_latin": "Kaže se: plače kao godina.",
-          "russian": "Говорят: «плачет как дождь, заливается слезами».",
-          "source": "Prva, 2014"
+          "serbian_latin": "Zašto se kaže i kada se koristi izreka 'plakati kao godina'?",
+          "russian": "Почему говорят и когда употребляют выражение 'плакать как godina'?",
+          "source": "Prva TV, 2014",
+          "url": "https://www.prva.rs/zivot/zanimljivosti/zasto-se-kaze-plakati-kao-godina-1958947"
         },
         {
-          "serbian_latin": "Plakala je kao godina kada je čula vest.",
-          "russian": "Услышав новость, она разрыдалась.",
-          "source": ""
+          "serbian_latin": "U srpskom jeziku ima više ustaljenih izraza koji označavaju kako neko plače... plakati kao godina.",
+          "russian": "В сербском есть несколько устойчивых выражений о плаче... в том числе plakati kao godina.",
+          "source": "Opšte obrazovanje, pristupljeno 2026",
+          "url": "https://www.opsteobrazovanje.in.rs/zasto-se-kaze/plakati-kao-godina/"
         }
       ],
-      "note": "Здесь скрыто старое региональное значение godina — «непогода, буря, дождь», зафиксированное Rečnik Matice srpske; поэтому образ близок plakati kao kiša. Это объяснение приводит Милан Шипка.",
-      "keyword": "godina"
+      "note": "Старинное značenje reči godina bilo je i 'oluja, nevreme, kiša'. Zato je plakati kao godina prvobitno isto što i 'plakati kao kiša'. Варианты: kao ljuta godina, kao crna godina, kao godinica.",
+      "keyword": "plakati kao godina"
     },
     {
       "headword_latin": "Plakati kao kišna godina",
@@ -28359,27 +28454,30 @@
     {
       "headword_latin": "Plakati kao ljuta godina",
       "type": "frazeologizam",
-      "definition_ru": "рыдать навзрыд; заливаться горькими слезами",
+      "definition_ru": "рыдать навзрыд, очень сильно плакать",
       "synonyms_sr": [
         "plakati kao godina",
         "plakati kao kiša",
-        "ridati"
+        "roniti suze",
+        "gorko plakati"
       ],
       "literal_ru": "плакать как лютая година",
-      "register": "razg.-folklorno, ekspresivno; pojačan oblik izraza plakati kao godina",
+      "register": "narodno, ekspresivno",
       "examples": [
         {
-          "serbian_latin": "Govori se: plače kao ljuta ili crna godina.",
-          "russian": "Говорят: «плачет как лютая / чёрная година», то есть рыдает навзрыд.",
-          "source": "Prva, 2014"
+          "serbian_latin": "Govori se: plače kao ljuta godina.",
+          "russian": "Говорят: рыдает как лютая година.",
+          "source": "Prva TV, 2014",
+          "url": "https://www.prva.rs/zivot/zanimljivosti/zasto-se-kaze-plakati-kao-godina-1958947"
         },
         {
-          "serbian_latin": "Plakala je kao ljuta godina.",
-          "russian": "Она рыдала в три ручья.",
-          "source": ""
+          "serbian_latin": "Najčešće se kaže plakati kao godina, sa dodatkom: ljuta, crna godina i sl.",
+          "russian": "Чаще говорят plakati kao godina, усиливая: ljuta, crna godina и т. п.",
+          "source": "Opšte obrazovanje, pristupljeno 2026",
+          "url": "https://www.opsteobrazovanje.in.rs/zasto-se-kaze/plakati-kao-godina/"
         }
       ],
-      "note": "Вариант ljuta / crna godina действительно описан в сербских языковых материалах. Прилагательное усиливает уже существующее сравнение plakati kao godina.",
+      "note": "Это усиленный вариант предыдущего выражения. Ljuta здесь не 'злая' буквально, а экспрессивный усилитель. Не путать с современным значением godina 'год'.",
       "keyword": "ljuta godina"
     },
     {
@@ -28465,24 +28563,30 @@
     },
     {
       "headword_latin": "Plitak potok, a voda duboka",
-      "type": "izraz",
-      "definition_ru": "«ручей мелкий, а вода глубокая»; парадоксальная, мемная строка без надёжно установленного самостоятельного фразеологического значения",
-      "synonyms_sr": [],
+      "type": "krilatica / memna formula",
+      "definition_ru": "буквально парадоксальная фраза 'мелкий ручей, а вода глубокая'; сегодня узнаваемая абсурдно-комическая цитата",
+      "synonyms_sr": [
+        "nelogična dosetka",
+        "apsurdna fraza",
+        "ko razume, shvatiće"
+      ],
       "literal_ru": "мелкий ручей, а вода глубокая",
-      "register": "šalj., citatno; poznata pesnička i memna formula",
+      "register": "šaljivo, memno, citatno",
       "examples": [
         {
-          "serbian_latin": "Nekoliko tipova je zaurlalo i zaigralo uz „Plitak potok, a voda duboka“.",
-          "russian": "Несколько парней запели и пустились в пляс под «Plitak potok, a voda duboka».",
-          "source": "City Magazine / Danas, 2023"
+          "serbian_latin": "Plitak potok, a voda duboka.",
+          "russian": "Мелкий ручей, а вода глубокая.",
+          "source": "Nova.rs, 2021",
+          "url": "https://nova.rs/zabava/showbiz/plitak-potok-a-voda-duboka-najgluplji-stihovi-turbo-folka/"
         },
         {
-          "serbian_latin": "„Plitak potok, a voda duboka“ našao se na listi najčudnijih rečenica u srpskom jeziku.",
-          "russian": "«Ручей мелкий, а вода глубокая» попало в список самых странных сербских фраз.",
-          "source": "Dnevnik, 2024"
+          "serbian_latin": "Plitak potok, a voda duboka.",
+          "russian": "Мелкий ручей, а вода глубокая.",
+          "source": "Dnevnik, 2024",
+          "url": "https://www.dnevnik.rs/lat/drustvo/ko-razume-shvatice-ovo-su-najcudnije-recenice-i-fraze-u-srpskom-jeziku-plitak-potok-voda"
         }
       ],
-      "note": "Сегодня эта формула узнаваема прежде всего как песенная и юмористическая. Надёжных оснований приписывать ей самостоятельное пословичное значение вроде русского «в тихом омуте черти водятся» нет.",
+      "note": "Фраза закрепилась как цитата из эстрадно-фольклорного контекста и как пример намеренно или комически нелогичной сербской формулы. Полезна именно как культурно-мемная единица.",
       "keyword": "plitak potok"
     },
     {
@@ -28520,29 +28624,32 @@
     },
     {
       "headword_latin": "Pljuni pa zalepi",
-      "type": "frazeologizam",
-      "definition_ru": "тяп-ляп; на соплях; кое-как склеить или соорудить",
+      "type": "razgovorna formula",
+      "definition_ru": "сделай кое-как, на скорую руку, буквально 'слюной приклей'; о кустарном, ненадёжном решении",
       "synonyms_sr": [
         "sklepati",
-        "skrpiti",
+        "zbudžiti",
+        "zakrpiti",
         "uraditi na brzinu",
         "fušeraj"
       ],
       "literal_ru": "плюнь и приклей",
-      "register": "razg., neodobr.; o brzom, improvizovanom i nepouzdanom poslu",
+      "register": "razgovorno, šaljivo, ironično",
       "examples": [
         {
-          "serbian_latin": "To uopšte nije „pljuni pa zalepi“.",
-          "russian": "Это вовсе не работа «тяп-ляп».",
-          "source": "Narodna skupština Srbije, 2017"
+          "serbian_latin": "Paaa, pljuni pa zalepi. Nema pitanja!",
+          "russian": "Ну, плюнь да приклей. Вопросов нет!",
+          "source": "Forum Krstarice, 2004",
+          "url": "https://forum.krstarica.com/threads/odgovori-i-pitanja-ii-deo.20992/"
         },
         {
-          "serbian_latin": "Ovo je popravljeno po sistemu pljuni pa zalepi.",
-          "russian": "Это починили на соплях.",
-          "source": ""
+          "serbian_latin": "Par kanti Sika lepka kao na trgu rešava problem... sistem pljuni i zalepi.",
+          "russian": "Пара вёдер клея, как на площади, решит проблему... система 'плюнь и приклей'.",
+          "source": "Beobuild forum, 2021",
+          "url": "https://forum.beobuild.rs/threads/kara%C4%91or%C4%91eva-ulica.2538/page-189"
         }
       ],
-      "note": "Формула старая и хорошо засвидетельствована, в том числе в сербской драматургии. По смыслу близка выражению drži vodu dok majstori odu.",
+      "note": "Очень живая ироническая модель о временном, халтурном ремонте или сборке. Варианты: pljuni i zalepi, pljuni-zalepi. Часто близко по смыслу к fušeraj и drži vodu dok majstori odu.",
       "keyword": "pljuni zalepi"
     },
     {
@@ -28653,29 +28760,32 @@
     },
     {
       "headword_latin": "Po definiciji",
-      "type": "izraz",
-      "definition_ru": "по определению; по самой своей сути",
+      "type": "ustaljena konstrukcija",
+      "definition_ru": "по определению; исходя из самого определения или природы явления",
       "synonyms_sr": [
+        "samim tim",
         "po samoj definiciji",
-        "po svojoj prirodi",
-        "samim tim"
+        "u osnovi",
+        "nužno"
       ],
-      "literal_ru": "",
-      "register": "neutralno-knjiški; često i u svakodnevnom govoru",
+      "literal_ru": "по определению",
+      "register": "neutralno, književno-publicistički",
       "examples": [
         {
-          "serbian_latin": "To je po definiciji nemoguće.",
-          "russian": "Это по определению невозможно.",
-          "source": ""
+          "serbian_latin": "Mali format je po definiciji tabloidni.",
+          "russian": "Малый формат по определению таблоидный.",
+          "source": "Politika, 2015",
+          "url": "https://www.politika.rs/sr/clanak/317122/tema-nedelje/politika-prica-duga-111-godina/novine-od-formata"
         },
         {
-          "serbian_latin": "Satira bi, po definiciji, trebalo da bude neprijatna za onoga koga pogađa.",
-          "russian": "Сатира по определению должна быть неприятна тому, кого она задевает.",
-          "source": ""
+          "serbian_latin": "Političari, po definiciji, ne traže istinu, već traže pristalice.",
+          "russian": "Политики, по определению, ищут не истину, а сторонников.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/772348/najava-rekordne-turisticke-sezone-u-crnoj-gori-nema-uporiste-u-realnosti"
         }
       ],
-      "note": "Практически полный эквивалент русского выражения. Иногда po definiciji употребляется иронически для слишком категоричных обобщений.",
-      "keyword": "definicija"
+      "note": "Не идиома в строгом смысле, а очень частотная готовая связка. В разговорной речи может означать и 'само собой, в силу природы X'.",
+      "keyword": "po definiciji"
     },
     {
       "headword_latin": "Po jutru se dan poznaje",
@@ -28705,55 +28815,60 @@
     },
     {
       "headword_latin": "Po meni",
-      "type": "izraz",
-      "definition_ru": "1. по-моему, на мой взгляд; 2. через меня, со мной как с посыльным",
+      "type": "razgovorna formula",
+      "definition_ru": "по-моему, на мой взгляд, как я считаю",
       "synonyms_sr": [
         "po mom mišljenju",
-        "što se mene tiče",
-        "preko mene (delimično, značenje 2)"
+        "ja mislim",
+        "koliko ja vidim",
+        "za mene"
       ],
-      "literal_ru": "",
-      "register": "neutralno; dva različita značenja iste konstrukcije",
+      "literal_ru": "по мне",
+      "register": "neutralno-razgovorno, veoma često",
       "examples": [
         {
-          "serbian_latin": "Po meni, trebalo bi da sačekamo.",
-          "russian": "По-моему, нам стоит подождать.",
-          "source": ""
+          "serbian_latin": "Imati mogućnost da budeš umetnik, a ne govoriš stvari koje su vrlo važne za ljude je, po meni, apsolutna katastrofa.",
+          "russian": "Иметь возможность быть художником и не говорить о важных для людей вещах - по-моему, абсолютная катастрофа.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/magazin/muzika/4585291/rokenroma-kal-grupa-.html"
         },
         {
-          "serbian_latin": "Pošalji dokumenta po meni, svakako idem tamo.",
-          "russian": "Передай документы со мной, я всё равно туда иду.",
-          "source": ""
+          "serbian_latin": "To je, po meni, pravi odnos prema sebi i svom radu.",
+          "russian": "Это, по-моему, правильное отношение к себе и своей работе.",
+          "source": "Politika, 2010",
+          "url": "https://www.politika.rs/sr/clanak/119753/sport/ljubav-je-pokretac-svih-odnosa"
         }
       ],
-      "note": "Второе значение особенно неочевидно русскому: serb. poslati nešto po nekome означает передать вещь с человеком как с посыльным. Калька sa mnom здесь меняет конструкцию.",
+      "note": "Очень частотная сербская формула субъективной оценки. Для русскоязычного важно: обычно переводится 'по-моему / на мой взгляд', а не буквальным 'по мне'.",
       "keyword": "po meni"
     },
     {
       "headword_latin": "Po noći",
-      "type": "izraz",
-      "definition_ru": "ночью; по ночам",
+      "type": "ustaljena priloška veza",
+      "definition_ru": "ночью, по ночам, в ночное время",
       "synonyms_sr": [
         "noću",
         "tokom noći",
         "u noćnim satima"
       ],
-      "literal_ru": "",
-      "register": "razg.; neutralnije i sažetije obično noću",
+      "literal_ru": "по ночи",
+      "register": "neutralno-razgovorno",
       "examples": [
         {
-          "serbian_latin": "Ne volim da vozim po noći.",
-          "russian": "Я не люблю ездить ночью.",
-          "source": ""
+          "serbian_latin": "Vozimo kola u svim uslovima - po kiši, snegu, blatu, asfaltu, po danu i po noći.",
+          "russian": "Мы водим в любых условиях - в дождь, снег, грязь, по асфальту, днём и ночью.",
+          "source": "RTS, 2010",
+          "url": "https://www.rts.rs/lat/sport/auto-moto/724456/hirvonen-u-srbiji.html"
         },
         {
-          "serbian_latin": "Čuje se neka buka po noći.",
-          "russian": "По ночам слышен какой-то шум.",
-          "source": ""
+          "serbian_latin": "Obraše se vinogradi, al' po noći!",
+          "russian": "Виноградники убрали, да только ночью!",
+          "source": "RTS Radio Beograd 1, 2024",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-1/5539245/obrase-se-vinogradi-al-po-noci.html"
         }
       ],
-      "note": "Не путать с usred noći — «посреди ночи, в совершенно неурочное время». В po noći важнее сам период, а не точный момент.",
-      "keyword": "noć"
+      "note": "Это обычная наречная конструкция, не фразеологизм. Сохранена как самостоятельная единица, потому что присутствует в исходном `frazeoteka1.json`. Часто взаимозаменяема с noću.",
+      "keyword": "po noći"
     },
     {
       "headword_latin": "Po svoj prilici",
@@ -29463,28 +29578,31 @@
     },
     {
       "headword_latin": "Pogurati se",
-      "type": "glagol",
-      "definition_ru": "протиснуться вперёд; продвинуться, слегка расталкивая других; пробиться",
+      "type": "glagolska konstrukcija",
+      "definition_ru": "потолкаться, сцепиться, начать толкать друг друга; вступить в небольшую физическую стычку",
       "synonyms_sr": [
-        "progurati se",
-        "probiti se",
-        "izboriti sebi mesto"
+        "gurati se",
+        "odgurnuti se",
+        "zakačiti se",
+        "koškati se"
       ],
-      "literal_ru": "",
-      "register": "razg.; povratni glagol",
+      "literal_ru": "подтолкаться",
+      "register": "razgovorno",
       "examples": [
         {
-          "serbian_latin": "Pogurali su se bliže vratima.",
-          "russian": "Они протиснулись поближе к двери.",
-          "source": ""
+          "serbian_latin": "Pogurali smo se kod vrata.",
+          "russian": "Мы потолкались у двери.",
+          "source": "Blic, 2020",
+          "url": "https://www.blic.rs/zabava/ana-korac-david-dragojevic-nasilje/17j1h6p"
         },
         {
-          "serbian_latin": "Svako pokušava nekako da se pogura napred.",
-          "russian": "Каждый пытается как-то пробиться вперёд.",
-          "source": ""
+          "serbian_latin": "Pogurali smo se, pokušao sam da se odbranim, međutim, ujeo me za uvo.",
+          "russian": "Мы сцепились и начали толкаться; я попытался защищаться, но он укусил меня за ухо.",
+          "source": "Mondo, 2023",
+          "url": "https://mondo.rs/Info/Drustvo/a1802217/Radnik-tvrdi-da-mu-je-sef-odgrizao-uvo.html"
         }
       ],
-      "note": "Поправка к исходному JSON: возвратное pogurati se не следует переводить как «поднажать». Для этого естественнее zapeti, potruditi se; невозвратное pogurati широко употребляется в переносном значении «подтолкнуть, ускорить»: pogurati projekat, pogurati nekoga napred.",
+      "note": "Не путать с невозвратным pogurati nekoga/nešto = 'подтолкнуть, помочь продвинуть': navijači su nas pogurali. Возвратное pogurati se чаще описывает взаимное толкание или небольшую стычку.",
       "keyword": "pogurati se"
     },
     {
@@ -29655,54 +29773,58 @@
     {
       "headword_latin": "Poklonu se u zube ne gleda",
       "type": "poslovica",
-      "definition_ru": "дарёному коню в зубы не смотрят; подарок не критикуют",
+      "definition_ru": "дарёному коню в зубы не смотрят; подарок не следует придирчиво оценивать",
       "synonyms_sr": [
-        "na poklonu se ne zamera",
-        "treba biti zahvalan na poklonu",
-        "dar se prima bez zameranja"
+        "poklonjenom konju se u zube ne gleda",
+        "darovanom konju se u zube ne gleda"
       ],
-      "literal_ru": "",
-      "register": "poslovica; takođe poklonjenom konju se u zube ne gleda",
+      "literal_ru": "подарку в зубы не смотрят",
+      "register": "poslovično, opštepoznato",
       "examples": [
         {
-          "serbian_latin": "Jeste da se poklonu „u zube ne gleda“, ali koliko ste samo puta u životu dobili nešto što ničemu ne služi.",
-          "russian": "Дарёному коню в зубы не смотрят, но сколько раз вам дарили совершенно бесполезную вещь?",
-          "source": "RTS, 2021"
+          "serbian_latin": "Poklonu se u zube ne gleda.",
+          "russian": "Дарёному коню в зубы не смотрят.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/drustvo/zasto-se-kaze-poklonu-se-u-zube-ne-gleda/"
         },
         {
-          "serbian_latin": "„Poklonu se u zube ne gleda“, kaže narodna poslovica.",
-          "russian": "«Дарёному коню в зубы не смотрят», — говорит народная пословица.",
-          "source": "Danas, 2020"
+          "serbian_latin": "'Poklonu se u zube ne gleda', kaže narodna poslovica.",
+          "russian": "'Дарёному коню в зубы не смотрят', - говорит народная пословица.",
+          "source": "Mondo, 2017",
+          "url": "https://mondo.rs/Magazin/Stil/a970010/Poklon-pokloni-poruke-koje-se-salju-poklonima.html"
         }
       ],
-      "note": "Здесь происхождение прозрачно и хорошо документировано: возраст и состояние коня традиционно определяли в том числе по зубам, но подарок таким образом оценивать невежливо. Danas подробно описывает этот культурный фон. Русская пословица практически полностью совпадает, только обычно явно называет коня.",
+      "note": "Полная международная модель связана с оценкой возраста и качества лошади по зубам. В сербском живы и короткая форма Poklonu se u zube ne gleda, и полная Poklonjenom konju se u zube ne gleda.",
       "keyword": "poklon; zubi"
     },
     {
       "headword_latin": "Pokondirena tikva",
-      "type": "izraz",
-      "definition_ru": "выскочка; мещанин во дворянстве; человек, корчащий из себя аристократа",
+      "type": "frazeologizam / kulturna aluzija",
+      "definition_ru": "выскочка, сноб, мещанин-скоро­богатей, человек, который строит из себя представителя 'высшего света'",
       "synonyms_sr": [
         "skorojević",
         "snob",
+        "uobražen čovek",
         "pomodar",
-        "uobraženi skorojević"
+        "malograđanin"
       ],
-      "literal_ru": "",
-      "register": "razg.-kulturno, podrugljivo, neodobr.; o osobi koja želi da deluje otmenije, obrazovanije ili društveno više nego što jeste",
+      "literal_ru": "тыква, возомнившая себя кувшином",
+      "register": "razgovorno-književno, ironično, podrugljivo",
       "examples": [
         {
-          "serbian_latin": "Svako vreme ima svoju „pokondirenu tikvu“.",
-          "russian": "В каждом времени есть свои выскочки, воображающие себя знатью.",
-          "source": "Danas, 2021"
+          "serbian_latin": "'Pokondirena tikva' - to je prava reč za nju.",
+          "russian": "'Поконди́ренная тыква' - вот самое точное слово для неё.",
+          "source": "Ana.rs forum, 2008",
+          "url": "https://www.ana.rs/forum/index.php?topic=17402.90"
         },
         {
-          "serbian_latin": "Bila je prava – pokondirena tikva.",
-          "russian": "Она была настоящей «мещанкой во дворянстве».",
-          "source": "BBC News na srpskom / Danas, 2022"
+          "serbian_latin": "Pokondirena tikva: skorojević, malograđanin u najčešćem slučaju.",
+          "russian": "Pokondirena tikva: чаще всего выскочка, мещанин-скоробогатей.",
+          "source": "Vukajlija, 2008",
+          "url": "https://vukajlija.com/pokondirena-tikva/12163"
         }
       ],
-      "note": "Это название знаменитой комедии Йована Стерии Поповича Pokondirena tikva; произведение опубликовано в 1838 году. Фема, вдова ремесленника, одержима noblesom, подражает иностранным манерам и пытается вырваться в «высшие круги»; отсюда выражение стало самостоятельным обозначением претенциозного выскочки. RTS характеризует комедию как сатиру на pomodarstvo, показную учёность и преклонение перед ложными ценностями.",
+      "note": "Выражение стало нарицательным благодаря комедии Јована Стерије Поповића `Pokondirena tikva`. Образ: простая tikva пытается стать kondir - более престижным сосудом. Современный смысл: претенциозный сноб, человек с показными манерами и претензией на более высокий статус.",
       "keyword": "pokondirena tikva"
     },
     {
@@ -29772,28 +29894,31 @@
     {
       "headword_latin": "Pokupiti kajmak",
       "type": "frazeologizam",
-      "definition_ru": "снять сливки; забрать себе самое выгодное; получить основную прибыль или награду",
+      "definition_ru": "снять сливки; получить лучшую, самую выгодную часть, извлечь основную пользу",
       "synonyms_sr": [
-        "uzeti najbolji deo",
+        "pobrati kajmak",
+        "skinuti kajmak",
         "izvući najveću korist",
-        "prisvojiti najveću dobit"
+        "uzeti najbolje"
       ],
-      "literal_ru": "собрать каймак",
-      "register": "razg.-publicistički, često neodobr.; o profitu, koristi ili naročito vrednom rezultatu",
+      "literal_ru": "собрать каймак с поверхности",
+      "register": "razgovorno-publicistički, često ironično",
       "examples": [
         {
-          "serbian_latin": "Vlasnici su oni koji odlučuju šta će se praviti i oni koji će pokupiti skoro sav kajmak.",
-          "russian": "Владельцы решают, что производить, и именно они снимут почти все сливки.",
-          "source": "RTS, 2019"
+          "serbian_latin": "Strani investitor pokupio je kajmak, dobio milionske subvencije i sada napušta Srbiju.",
+          "russian": "Иностранный инвестор снял сливки, получил миллионные субсидии и теперь покидает Сербию.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/napreduju-samo-mafijaski-klanovi"
         },
         {
-          "serbian_latin": "Pobednik će osvojiti regionalnu titulu i „pokupiti kajmak“ u vidu sigurnog učešća u Evroligi.",
-          "russian": "Победитель возьмёт титул и снимет сливки в виде гарантированного участия в Евролиге.",
-          "source": "Danas, 2021"
+          "serbian_latin": "Ovaj mali je pokupio sav kajmak, a mi smo onoliko radili.",
+          "russian": "Этот мальчишка снял все сливки, а мы столько работали.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/kultura/imre-szabo-niko-nije-terao-narod-da-place-za-titom/"
         }
       ],
-      "note": "Kajmak — важная балканская молочная реалия: жирный верхний слой молочного продукта считается особенно ценным. Поэтому метафора практически идеально соответствует русскому «снять сливки». Часто подразумевается, что основную выгоду получает не тот, кто выполнил основную работу.",
-      "keyword": "pokupiti kajmak"
+      "note": "Метафора полностью прозрачна: kajmak - самый жирный и ценный слой сверху. Устойчивые варианты: pokupiti, pobrati, skinuti kajmak. Русский естественный эквивалент - 'снять сливки'.",
+      "keyword": "kajmak"
     },
     {
       "headword_latin": "Pokupiti svoje krpice",
@@ -29826,28 +29951,30 @@
     },
     {
       "headword_latin": "Poleđina",
-      "type": "imenica",
-      "definition_ru": "оборотная сторона; тыльная сторона; изнанка",
+      "type": "reč",
+      "definition_ru": "оборотная, задняя сторона чего-либо; изнанка, тыльная сторона",
       "synonyms_sr": [
-        "naličje",
         "zadnja strana",
-        "druga strana"
+        "naličje",
+        "stražnja strana"
       ],
-      "literal_ru": "",
-      "register": "neutralno; imenica ženskog roda",
+      "literal_ru": "задняя сторона",
+      "register": "neutralno",
       "examples": [
         {
-          "serbian_latin": "Potpišite se na poleđini dokumenta.",
-          "russian": "Распишитесь на обороте документа.",
-          "source": ""
+          "serbian_latin": "Poleđina lične karte sadržaće podatke kao što su jedinstveni matični broj, država, mesto i opština rođenja...",
+          "russian": "Оборотная сторона удостоверения личности будет содержать такие данные, как личный номер, страна, место и муниципалитет рождения...",
+          "source": "Danas, 2007",
+          "url": "https://www.danas.rs/vesti/drustvo/licna-karta-kao-kreditna/"
         },
         {
-          "serbian_latin": "Svaki uspeh ima i svoju poleđinu.",
-          "russian": "У каждого успеха есть и оборотная сторона.",
-          "source": ""
+          "serbian_latin": "Ovog puta, pod lupom nije prednja strana slike - već njena poleđina.",
+          "russian": "На этот раз под лупой оказалась не лицевая сторона картины, а её оборот.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kultura/samson-i-dalila-falsifikat/"
         }
       ],
-      "note": "Образовано от leđa «спина». Для метафорического «обратная сторона явления» очень естественно также naličje.",
+      "note": "Это не фразеологизм, а обычная лексема. Сохранена отдельной статьёй, потому что она присутствует в исходном `frazeoteka1.json`. Полезно противопоставление prednja strana - poleđina; для абстрактной 'изнанки явления' чаще naličje.",
       "keyword": "poleđina"
     },
     {
