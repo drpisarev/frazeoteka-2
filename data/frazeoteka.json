@@ -10225,6 +10225,37 @@
       "keyword": "hvatati krivine"
     },
     {
+      "headword_latin": "Hvatati na staru slavu",
+      "type": "izraz",
+      "definition_ru": "выезжать на былой славе; пользоваться прежними заслугами; почивать на лаврах",
+      "synonyms_sr": [
+        "živeti od stare slave",
+        "oslanjati se na staru slavu",
+        "počivati na lovorikama"
+      ],
+      "literal_ru": "",
+      "register": "autorski, slikovito, neodobr.; retko van citata pesme",
+      "examples": [
+        {
+          "serbian_latin": "I kad radiš, nemoj hvatati na staru slavu.",
+          "russian": "И когда работаешь, не пытайся выехать на прежних заслугах.",
+          "source": "Ekatarina Velika, 1993"
+        },
+        {
+          "serbian_latin": "Naravno, ne živi se od stare slave, ali treba poštovati svoju istoriju i tradiciju.",
+          "russian": "Конечно, одними прошлыми заслугами не проживёшь, но свою историю и традиции нужно уважать.",
+          "source": "Politika, 2024"
+        },
+        {
+          "serbian_latin": "Ekonomska kriza pokazala je, međutim, da je zemlja uglavnom živela od stare slave.",
+          "russian": "Экономический кризис, однако, показал, что страна в основном держалась на былых достижениях.",
+          "source": "RTS, 2012"
+        }
+      ],
+      "note": "Выражение встречается в песне группы Ekatarina Velika с альбома Neko nas posmatra (1993); автор текста — Milan Mladenović. Именно hvatati na staru slavu, судя по найденным употреблениям, скорее авторский оборот, чем общепринятый фразеологизм: его форма поддерживается рифмой slavu — glavu в следующей строке песни. В обычной речи естественнее živeti od stare slave, oslanjati se na staru slavu или počivati na lovorikama. Важный оттенок: речь не о попытке вернуть былую славу, а о стремлении пользоваться прежними достижениями вместо того, чтобы добиваться новых.",
+      "keyword": "hvatati na staru slavu"
+    },
+    {
       "headword_latin": "Hvatati se za slamku (spasa)",
       "type": "frazeologizam",
       "definition_ru": "хвататься за соломинку; цепляться за последнюю надежду",
