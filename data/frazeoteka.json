@@ -42663,6 +42663,29 @@
       "keyword": "sat"
     },
     {
+      "headword_latin": "Tačno u podne",
+      "type": "kolokacija",
+      "definition_ru": "ровно в полдень; точно в двенадцать часов",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Zdravko Čolić, tačno u podne, objavio novi spot za pesmu „Ono malo sreće“",
+          "russian": "Здравко Чолич ровно в полдень выпустил новый клип на песню «Ono malo sreće».",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/magazin/muzika/3588108/zdravko-colic-tacno-u-podne-objavio-novi-spot-za-pesmu-ono-malo-srece.html"
+        },
+        {
+          "serbian_latin": "Stigli smo na trg tačno u podne.",
+          "russian": "Мы пришли на площадь ровно в полдень.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tačno u podne"
+    },
+    {
       "headword_latin": "Taj film nećeš gledati",
       "type": "replika",
       "definition_ru": "этого не будет; не дождёшься; такой сценарий не пройдёт",
@@ -42688,6 +42711,133 @@
       ],
       "note": "Film здесь метафорически означает предполагаемый сценарий развития событий. Реплика категорически отвергает чужой план или ожидание и часто звучит вызывающе: «не надейтесь». В современном политическом языке Сербии формула особенно заметна, но употребление не ограничено политикой.",
       "keyword": "taj film nećeš gledati"
+    },
+    {
+      "headword_latin": "Tajne zanata",
+      "type": "kolokacija",
+      "definition_ru": "секреты мастерства; профессиональные хитрости",
+      "synonyms_sr": [
+        "zanatske tajne",
+        "majstorske cake"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Tajne zanata, koji je potrebno izučavati skoro dve decenije da bi neko postao majstor, znaju svi u porodici Milošević.",
+          "russian": "Секреты ремесла, которому нужно учиться почти два десятилетия, чтобы стать мастером, знают все в семье Милошевич.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/magazin/Zanimljivosti/2703713/.html?print=true"
+        },
+        {
+          "serbian_latin": "Majstor je učenicima otkrio tajne zanata.",
+          "russian": "Мастер открыл ученикам секреты ремесла.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tajne zanata"
+    },
+    {
+      "headword_latin": "Tajni kanal",
+      "type": "kolokacija",
+      "definition_ru": "тайный канал связи; неофициальный канал переговоров",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Bela kuća je shvatila da joj je potreban tajni kanal komunikacije sa rukovodstvom IRGC",
+          "russian": "Белый дом понял, что ему необходим тайный канал связи с руководством КСИР.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/778850/trampov-tim-uspostavio-tajni-kanal-sa-iranom-preko-lidera-irackog-kurdistana"
+        },
+        {
+          "serbian_latin": "Pregovori su vođeni preko tajnog kanala.",
+          "russian": "Переговоры велись по неофициальному каналу.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tajni kanal"
+    },
+    {
+      "headword_latin": "Tajno glasanje",
+      "type": "kolokacija",
+      "definition_ru": "тайное голосование",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Nakon rasprave sledi tajno glasanje.",
+          "russian": "После обсуждения состоится тайное голосование.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/skupstinska-sednica-u-arandjelovcu-bira-se-predsednik-opstine-okupljeni-studenti-i-pristalice-sns/"
+        },
+        {
+          "serbian_latin": "Zatim je ponovljeno to glasanje i tu su odbornici koalicije oko SNS povredili poslovnik, time što su tajno glasanje sprovodili javno.",
+          "russian": "Затем голосование повторили; депутаты от коалиции вокруг СНС нарушили регламент, проведя тайное голосование открыто.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/odbornica-mladi-kula-sns-tajno-glasanje-sprovodio-javno-odbornici-vlasti-vise-puta-odlazili-na-razgovore/"
+        },
+        {
+          "serbian_latin": "Odluka je doneta tajnim glasanjem.",
+          "russian": "Решение приняли тайным голосованием.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tajno glasanje"
+    },
+    {
+      "headword_latin": "Takav je život",
+      "type": "replika",
+      "definition_ru": "такова жизнь; ничего не поделаешь",
+      "synonyms_sr": [
+        "takav je svet",
+        "tako ti je to"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Naravno da bih voleo da je na mojoj strani, ali takav je život",
+          "russian": "Конечно, мне хотелось бы, чтобы он был на моей стороне, но такова жизнь.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/sport/takav-je-zivot-selektor-kameruna-ponosan-na-strelca-jedinog-gola-za-svajcarsku/"
+        },
+        {
+          "serbian_latin": "Planovi su nam propali, ali takav je život.",
+          "russian": "Наши планы сорвались, но такова жизнь.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "takav je život"
+    },
+    {
+      "headword_latin": "Tako blizu a ipak tako daleko",
+      "type": "replika",
+      "definition_ru": "так близко и всё же так далеко",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Ističe da smo bili tako blizu, a ipak tako daleko.",
+          "russian": "Он подчёркивает, что мы были так близко и всё же так далеко.",
+          "source": "RTS, 2024",
+          "url": "https://rts.rs/lat/sport/euro2024/slobodnjak/5473599/rade-bogdanovic-srbija-danska-komentar-evropsko-prvenstvo.html"
+        },
+        {
+          "serbian_latin": "Pobeda nam je bila tako blizu, a ipak tako daleko.",
+          "russian": "Победа была так близко, но всё же недосягаема.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tako blizu a ipak tako daleko"
     },
     {
       "headword_latin": "Tako je kako je",
@@ -42901,6 +43051,32 @@
       "keyword": "takvi se ne rađaju svaki dan"
     },
     {
+      "headword_latin": "Tamna mrlja",
+      "type": "kolokacija",
+      "definition_ru": "тёмное пятно; позорное пятно на репутации",
+      "synonyms_sr": [
+        "ljaga",
+        "mrlja na ugledu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Tamna mrlja u odnosima svakako jesu NATO bombardovanje 1999. godine i podrška jednostranom proglašenju nezavisnosti Kosova",
+          "russian": "Тёмным пятном в отношениях остаются бомбардировки НАТО 1999 года и поддержка одностороннего провозглашения независимости Косова.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/politika/5997599/.html?print=true"
+        },
+        {
+          "serbian_latin": "Taj skandal ostao je tamna mrlja u njegovoj karijeri.",
+          "russian": "Этот скандал остался тёмным пятном в его карьере.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tamna mrlja"
+    },
+    {
       "headword_latin": "Tamni vilajet",
       "type": "frazeologizam",
       "definition_ru": "тёмное царство; безвыходная ситуация; мрачная, запутанная среда",
@@ -42926,6 +43102,29 @@
       ],
       "note": "Выражение связано с известным преданием о tamni vilajet: путникам в темноте предлагают взять камни с предупреждением, что и взявшие, и не взявшие будут жалеть; на свету камни оказываются драгоценностями. Мотив пришёл через средневековый роман об Александре Великом и был записан Вуком Караджичем. Vilajet — турцизм, исторически «область, провинция».",
       "keyword": "tamni vilajet"
+    },
+    {
+      "headword_latin": "Tampon država",
+      "type": "kolokacija",
+      "definition_ru": "буферное государство",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Mađarski premijer Viktor Orban izjavio je da Ukrajina mora ponovo postati tampon država između Rusije i NATO-a",
+          "russian": "Премьер-министр Венгрии Виктор Орбан заявил, что Украина вновь должна стать буферным государством между Россией и НАТО.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/713932/orban-ukrajina-mora-postati-tampon-drzava-izmedu-rusije-i-nato-a"
+        },
+        {
+          "serbian_latin": "Zemlja je dugo imala ulogu tampon države.",
+          "russian": "Страна долго играла роль буферного государства.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tampon država"
     },
     {
       "headword_latin": "Tandara-broć",
@@ -43150,6 +43349,32 @@
       "keyword": "med i mleko; blagostanje; izobilje"
     },
     {
+      "headword_latin": "Tempirana bomba",
+      "type": "kolokacija",
+      "definition_ru": "бомба замедленного действия",
+      "synonyms_sr": [
+        "bure baruta",
+        "opasnost koja preti"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Kada plinska boca postaje \"tempirana bomba\", šta moramo da znamo pri kupovini",
+          "russian": "Когда газовый баллон превращается в бомбу замедленного действия и что нужно знать при покупке.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4393909/kada-plinska-boca-postaje-tempirana-bomba.html"
+        },
+        {
+          "serbian_latin": "Neodržavan most je tempirana bomba.",
+          "russian": "Мост без надлежащего обслуживания — бомба замедленного действия.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tempirana bomba"
+    },
+    {
       "headword_latin": "terati / isterati mak na konac",
       "type": "глагольный фразеологизм",
       "definition_ru": "Придираться к каждой мелочи; настаивать на своём до конца; довести разбирательство до окончательного результата.",
@@ -43368,6 +43593,85 @@
       "keyword": "terati šegu s nekim"
     },
     {
+      "headword_latin": "Terati vodu na svoju vodenicu",
+      "type": "frazeologizam",
+      "definition_ru": "тянуть одеяло на себя; действовать в свою пользу",
+      "synonyms_sr": [
+        "Navraćati vodu na svoj mlin"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Ili na srpskom: terali su vodu na svoju vodenicu.",
+          "russian": "Или, как говорят по-сербски: они тянули одеяло на себя.",
+          "source": "Vreme, 2004",
+          "url": "https://vreme.com/kultura/vila-smita-za-predsednika/"
+        },
+        {
+          "serbian_latin": "U pregovorima je terao vodu na svoju vodenicu.",
+          "russian": "На переговорах он тянул одеяло на себя.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "terati vodu na svoju vodenicu"
+    },
+    {
+      "headword_latin": "Tesna pobeda",
+      "type": "kolokacija",
+      "definition_ru": "победа с минимальным перевесом",
+      "synonyms_sr": [
+        "Pobeda za prsa"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Tesna pobeda \"građana\" za prilazak Arsenalu.",
+          "russian": "Победа «горожан» с минимальным перевесом позволила приблизиться к «Арсеналу».",
+          "source": "RTS, 2025",
+          "url": "https://rts.rs/lat/sport/fudbal/lige_petice/5839475/spektakl-u-londonu-sa-devet-golova---siti-vodio-51-pa-strahovao.html"
+        },
+        {
+          "serbian_latin": "najverovatniji scenario je tesna pobeda centra-levice",
+          "russian": "Наиболее вероятный сценарий — победа левоцентристов с минимальным перевесом.",
+          "source": "RTS, 2025",
+          "url": "https://rts.rs/lat/vesti/svet/5784318/norveska-izbori-referendum-atmosfera-levica-desnica-maga-pokret.html"
+        },
+        {
+          "serbian_latin": "Naš tim je ostvario tesnu pobedu.",
+          "russian": "Наша команда одержала победу с минимальным перевесом.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tesna pobeda"
+    },
+    {
+      "headword_latin": "Teška nepravda",
+      "type": "kolokacija",
+      "definition_ru": "вопиющая несправедливость",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Teška nepravda naneta ovom čoveku donekle je ispravljena 2009. godine kada je Vlada Ilić rehabilitovan.",
+          "russian": "Вопиющая несправедливость в отношении этого человека была отчасти исправлена в 2009 году, когда Владу Илича реабилитировали.",
+          "source": "Politika, 2018",
+          "url": "https://www.politika.rs/sr/clanak/403111/veliki-grad-po-meri-malog-coveka"
+        },
+        {
+          "serbian_latin": "To je teška nepravda prema radnicima.",
+          "russian": "Это вопиющая несправедливость по отношению к работникам.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "teška nepravda"
+    },
+    {
       "headword_latin": "Teška srca",
       "type": "frazeologizam",
       "definition_ru": "скрепя сердце; с тяжёлым сердцем; крайне неохотно и с сожалением",
@@ -43394,6 +43698,79 @@
       ],
       "note": "Здесь речь не о физической тяжести или сердечном заболевании, а о сожалении и душевной боли при вынужденном решении. Форму teška srca следует запоминать целиком: это традиционная падежная конструкция, не совпадающая с ожидаемым современным согласованием прилагательного. Очень естественна модель doneti odluku teška srca.",
       "keyword": "teška srca"
+    },
+    {
+      "headword_latin": "Teška telesna povreda",
+      "type": "kolokacija",
+      "definition_ru": "тяжкие телесные повреждения",
+      "synonyms_sr": [
+        "Naneti tešku telesnu povredu kome"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Prvo osnovno javno tužilaštvo u Beogradu podnelo optužni predlog protiv L.T. (20) zbog sumnje da je izvršio krivično delo Teška telesna povreda.",
+          "russian": "Первая основная прокуратура Белграда внесла обвинительное представление в отношении Л. Т. (20 лет) по подозрению в причинении тяжкого телесного повреждения.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/optuznica-za-udaranje-kolica-s-bebom-na-pesackom-i-napad-na-oca/"
+        },
+        {
+          "serbian_latin": "Lekari su utvrdili tešku telesnu povredu.",
+          "russian": "Врачи констатировали тяжкое телесное повреждение.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "teška telesna povreda"
+    },
+    {
+      "headword_latin": "Teške posledice",
+      "type": "kolokacija",
+      "definition_ru": "тяжёлые последствия",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Građanski rat, krah ekonomije, nezabeležena inflacija, isključenje iz članstva svih međunarodnih organizacija, potpuna izolacija i oružani napad NATO alijanse, ostavili su teške posledice na stanovništvo.",
+          "russian": "Гражданская война, крах экономики, инфляция, международная изоляция и удары НАТО имели тяжёлые последствия для населения.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/tako-je-govorio-zoran-djindjic/"
+        },
+        {
+          "serbian_latin": "Odluka može imati teške posledice.",
+          "russian": "Решение может иметь тяжёлые последствия.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "teške posledice"
+    },
+    {
+      "headword_latin": "Teške reči",
+      "type": "kolokacija",
+      "definition_ru": "резкие слова; обидные слова",
+      "synonyms_sr": [
+        "Došlo je do teških reči"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Milosavljević: Nepotrebne teške reči",
+          "russian": "Милосавлевич: ненужные резкие слова.",
+          "source": "RTS, 2011",
+          "url": "https://www.rts.rs/lat/vesti/politika/841852/milosavljevic-nepotrebne-teske-reci.html"
+        },
+        {
+          "serbian_latin": "U raspravi su pale teške reči.",
+          "russian": "В споре прозвучали резкие слова.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "teške reči"
     },
     {
       "headword_latin": "Teško da",
@@ -43550,6 +43927,29 @@
       "keyword": "tetka iz Crvenke"
     },
     {
+      "headword_latin": "Ti si svoju šansu prokockao",
+      "type": "izraz",
+      "definition_ru": "ты упустил свой шанс; ты всё поставил на карту и проиграл",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Ja sam svoju šansu prokockao, za sve bi bilo najbolje da dođe novi trener.",
+          "russian": "Я упустил свой шанс; для всех будет лучше, если придёт новый тренер.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/sport/fudbal/4891544/.html?print=true"
+        },
+        {
+          "serbian_latin": "Imao si priliku, ali si svoju šansu prokockao.",
+          "russian": "У тебя была возможность, но ты упустил свой шанс.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "ti si svoju šansu prokockao"
+    },
+    {
       "headword_latin": "Tiha voda breg roni",
       "type": "poslovica",
       "definition_ru": "вода камень точит; терпение и настойчивость своё возьмут; тихая вода берега подмывает",
@@ -43605,6 +44005,67 @@
       ],
       "note": "Русский выбирает ежа, сербский — воробьёв. Устойчивее всего модель i vrapci na grani znaju, поэтому исходный заголовок стоит понимать как её вариант.",
       "keyword": "vrapci na grani"
+    },
+    {
+      "headword_latin": "To je mač sa dve oštrice",
+      "type": "replika",
+      "definition_ru": "это палка о двух концах",
+      "synonyms_sr": [
+        "dvosmisleno rešenje",
+        "i korist i rizik"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Može li ADHD dijagnoza kod starijih da bude mač sa dve oštrice?",
+          "russian": "Может ли диагноз СДВГ в старшем возрасте быть палкой о двух концах?",
+          "source": "021.rs, 2026",
+          "url": "https://www.021.rs/bbc/bbc/445623/moze-li-adhd-dijagnoza-kod-starijih-da-bude-mac-sa-dve-ostrice"
+        },
+        {
+          "serbian_latin": "To je mač sa dve oštrice, kao imaš bodovnu prednost, igraš kod kuće, titula je iza ćoška…",
+          "russian": "Это палка о двух концах: у тебя преимущество по очкам, играешь дома, титул уже близко…",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/sport/dejan-stankovic-derbi-crvena-zvezda-partizan/"
+        },
+        {
+          "serbian_latin": "To je mač sa dve oštrice jer može da ih podstakne a može da bude i kontraproduktivno.",
+          "russian": "Это палка о двух концах: может их подстегнуть, а может дать обратный эффект.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/sport/mac-sa-dve-ostrice-ili-motiv-vise-pitali-smo-vas-kako-ce-provokacije-dzake-i-sacirija-iz-2018-uticati-na-orlove-u-kataru-protiv-svajcarske/"
+        },
+        {
+          "serbian_latin": "Takva odluka je mač sa dve oštrice.",
+          "russian": "Такое решение — палка о двух концах.",
+          "source": ""
+        }
+      ],
+      "note": "Изображение обоюдоострого меча соответствует русской «палке о двух концах»: выгода сопровождается риском. В публикациях обычно mač sa dve oštrice.",
+      "keyword": "to je mač sa dve oštrice"
+    },
+    {
+      "headword_latin": "To je samo pitanje vremena",
+      "type": "replika",
+      "definition_ru": "это только вопрос времени",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Za mene, to je samo pitanje vremena.",
+          "russian": "Для меня это лишь вопрос времени.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/nauka/5791649/kleopatra-grobnica-luka-otkrice-nacionalna-geografija.html"
+        },
+        {
+          "serbian_latin": "Promena je samo pitanje vremena.",
+          "russian": "Перемены — лишь вопрос времени.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "to je samo pitanje vremena"
     },
     {
       "headword_latin": "To je skup sport",
@@ -43663,6 +44124,32 @@
       ],
       "note": "Значение — нечто совершенно неизвестное или непонятное, а не просто «сложное». Выражение пришло через немецкую фразеологию; Милан Шипка связывает сербское španska sela с немецким spanische Dörfer и обсуждает его вместе с Иваном Клайном и немецко-сербохорватской фразеографией. Популярные газетные версии происхождения заметно расходятся в деталях, поэтому конкретную красивую историю о том, кто именно «изобрёл» выражение, лучше не считать доказанным фактом. Русское «китайская грамота» — отличный функциональный эквивалент: оба языка выбирают далёкую культуру как образ непонятного.",
       "keyword": "špansko selo"
+    },
+    {
+      "headword_latin": "To su dva sveta",
+      "type": "replika",
+      "definition_ru": "это два совершенно разных мира",
+      "synonyms_sr": [
+        "potpuno različiti",
+        "svetovi za sebe"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "I prosto porediti Vladana Petrova sa Vladanom Đokićem to su dva sveta.",
+          "russian": "Сравнивать Владана Петрова с Владаном Джокичем — это два совершенно разных мира.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/drustvo/vucic-kaze-da-je-vladan-petrov-ajnstajn-za-rektora-djokica-ko-je-uticajniji-naucnik-i-da-li-je-to-vazno-u-politickoj-trci/"
+        },
+        {
+          "serbian_latin": "Njihovi životi su dva sveta.",
+          "russian": "Их жизни — два совершенно разных мира.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "to su dva sveta"
     },
     {
       "headword_latin": "To ti kažem",
@@ -44160,6 +44647,58 @@
       "keyword": "meri; seci"
     },
     {
+      "headword_latin": "Trista čuda",
+      "type": "izraz",
+      "definition_ru": "всякая всячина; чего только нет",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "još trista čuda, od nacionalnog stadiona u Beogradu do kompleksa bazena u Vrnjačkoj Banji",
+          "russian": "И ещё чего только не обещали — от национального стадиона в Белграде до комплекса бассейнов во Врнячка-Бане.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/boris-dezulovic-srbija-2050/"
+        },
+        {
+          "serbian_latin": "U radnji imaju trista čuda.",
+          "russian": "В магазине чего только нет.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "trista čuda"
+    },
+    {
+      "headword_latin": "Trka s vremenom",
+      "type": "kolokacija",
+      "definition_ru": "гонка со временем",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Trka s vremenom nakon zemljotresa u Japanu – traga se za preživelima.",
+          "russian": "Гонка со временем после землетрясения в Японии — продолжаются поиски выживших.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/svet/6008753/japan-zemljotres-zrtve-potraga-za-prezivelima-trzni-centar-kumamoto.html"
+        },
+        {
+          "serbian_latin": "Pred narodima Srednje zemlje – patuljcima, vilenjacima, ljudima i čarobnjacima – sada je trka s vremenom.",
+          "russian": "Перед народами Средиземья — гномами, эльфами, людьми и волшебниками — теперь гонка со временем.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/6006071/dosao-je-cas-moci--objavljen-tizer-za-trecu-sezonu-serije-gospodar-prstenova-prstenovi-moci.html"
+        },
+        {
+          "serbian_latin": "Spasioci vode trku s vremenom.",
+          "russian": "Спасатели ведут гонку со временем.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "trka s vremenom"
+    },
+    {
       "headword_latin": "Trla baba lan",
       "type": "izreka",
       "definition_ru": "толочь воду в ступе; вести пустую говорильню; заниматься бессмысленным делом",
@@ -44563,6 +45102,29 @@
       "keyword": "tušta i tma"
     },
     {
+      "headword_latin": "Tvrd kao kamen",
+      "type": "izraz",
+      "definition_ru": "твёрдый как камень; бесчувственный",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Prebilovčani, Hercegovci, tvrdi kao kamen i sjajni kao sunce.",
+          "russian": "Жители Пребиловцев, герцеговинцы — твёрдые как камень и сияющие как солнце.",
+          "source": "RTS, 2022",
+          "url": "https://rts.rs/lat/vesti/smatracnica/4762622/mi-znamo-sta-su-prebilovci.html"
+        },
+        {
+          "serbian_latin": "Srce mu je tvrdo kao kamen.",
+          "russian": "У него сердце каменное.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "tvrd kao kamen"
+    },
+    {
       "headword_latin": "Tvrd orah",
       "type": "frazeologizam",
       "definition_ru": "крепкий орешек; трудный противник; человек, которого нелегко сломить или переубедить",
@@ -44616,6 +45178,35 @@
       "keyword": "tvrdoglav kao mazga"
     },
     {
+      "headword_latin": "U afektu",
+      "type": "kolokacija",
+      "definition_ru": "в состоянии аффекта; сгоряча",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Odluke donete u afektu često su proizvod emocionalnog rezonovanja, a ne mudrosti stečene iskustvom.",
+          "russian": "Решения, принятые в состоянии аффекта, нередко являются результатом эмоционального рассуждения, а не мудрости опыта.",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/magazin/zivot/6033078/intuicija-osecaj-u-stomaku-nesvesne-odluke-neurobiologija.html"
+        },
+        {
+          "serbian_latin": "i u afektu odluči da ih zaključa u školskoj zgradi dok to ne urade.",
+          "russian": "И в порыве чувств она решает запереть их в здании школы, пока они этого не сделают.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/tv/rts2/5772423/pored-mene.html"
+        },
+        {
+          "serbian_latin": "To je rekao u afektu i kasnije se pokajao.",
+          "russian": "Он сказал это сгоряча и потом пожалел.",
+          "source": ""
+        }
+      ],
+      "note": "U afektu может употребляться и в юридических контекстах, но само по себе не устанавливает юридическую квалификацию действия.",
+      "keyword": "u afektu"
+    },
+    {
       "headword_latin": "U bescenje",
       "type": "izraz",
       "definition_ru": "за бесценок; за гроши; по смехотворно низкой цене",
@@ -44641,6 +45232,57 @@
       ],
       "note": "Для русского здесь почти полное совпадение с «за бесценок». Важно написание слитно: u bescenje. Очень характерно для публицистики о приватизации, продаже земли, недвижимости и имущества по цене значительно ниже реальной.",
       "keyword": "bescenje"
+    },
+    {
+      "headword_latin": "U civilu",
+      "type": "kolokacija",
+      "definition_ru": "в гражданской одежде, без формы; в гражданской жизни, вне военной службы",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Kako se može videti na snimku, osobe u civilu koje za sebe tvrde da su policajci, odvode dečaka u automobil",
+          "russian": "На записи видно, как люди в штатском, утверждающие, что они полицейские, уводят подростка к автомобилю.",
+          "source": "N1, 2025",
+          "url": "https://n1info.rs/vesti/video-hapsite-dete-osobe-u-civilu-ubacile-mladica-u-auto-u-ulici-kraljice-marije/"
+        },
+        {
+          "serbian_latin": "Policajac je bio u civilu.",
+          "russian": "Полицейский был в штатском.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Posle otpuštanja iz vojske polako se navikao na život u civilu.",
+          "russian": "После увольнения из армии он постепенно привыкал к гражданской жизни.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском u civilu употребляют и о человеке без форменной одежды (policajac u civilu), и о жизни вне военной службы (život u civilu). У исходного PDF это два значения одной формы, не два разных заголовка.",
+      "keyword": "u civilu"
+    },
+    {
+      "headword_latin": "U čabru",
+      "type": "izraz",
+      "definition_ru": "в беде; в безвыходном положении",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "svi smo mi u sličnom čabru.",
+          "russian": "Мы все в похожей передряге.",
+          "source": "City Magazine (Danas), 2022",
+          "url": "https://citymagazine.danas.rs/kolumne/gistro-price-komsiluk/"
+        },
+        {
+          "serbian_latin": "Ako se to otkrije, bićemo u čabru.",
+          "russian": "Если это вскроется, нам несдобровать.",
+          "source": ""
+        }
+      ],
+      "note": "Čabar — деревянная кадка; в выражении u čabru человек «попал в переплёт». В разговорной речи чаще biti u čabru.",
+      "keyword": "u čabru"
     },
     {
       "headword_latin": "U čemu je kvaka?",
@@ -44698,6 +45340,108 @@
       "keyword": "u četiri oka"
     },
     {
+      "headword_latin": "U ćorsokaku",
+      "type": "izraz",
+      "definition_ru": "в тупике; в безвыходном положении",
+      "synonyms_sr": [
+        "u slepoj ulici",
+        "bez izlaza"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Dijalog u Srbiji u ćorsokaku – da li je kasno za razgovor i ko diktira teme.",
+          "russian": "Диалог в Сербии в тупике — не поздно ли разговаривать и кто определяет повестку?",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/vesti/politika/5931528/takovska-10-dijalog-u-srbiji-u-corsokaku--da-li-je-kasno-za-razgovor-i-ko-diktira-teme.html"
+        },
+        {
+          "serbian_latin": "Dijalog u ćorsokaku uoči primene Zakona o strancima – Sorensen bez reči napustio Beograd i Prištinu",
+          "russian": "Диалог зашёл в тупик накануне введения Закона об иностранцах — Соренсен покинул Белград и Приштину без заявления.",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/vesti/politika/5895777/.html?print=true"
+        },
+        {
+          "serbian_latin": "Pregovori Izraela i Hamasa su u ćorsokaku, a delegacija Hamasa je napustila Kairo kako bi obavila dodatne konsultacije.",
+          "russian": "Переговоры Израиля и ХАМАС зашли в тупик, а делегация ХАМАС покинула Каир для дополнительных консультаций.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/vesti/svet/5382893/pregovori-izraela-i-hamasa-u-corsokaku-hezbolah-ispalio-rakete-na-izrael-gvozdena-kupola-ih-presrela.html"
+        },
+        {
+          "serbian_latin": "Pregovori su se našli u ćorsokaku.",
+          "russian": "Переговоры зашли в тупик.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u ćorsokaku"
+    },
+    {
+      "headword_latin": "U dobrim rukama",
+      "type": "kolokacija",
+      "definition_ru": "в надёжных руках",
+      "synonyms_sr": [
+        "na sigurnom",
+        "dobro zbrinut"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Karlos i Janik, od klinaca do titana: Tenis je u dobrim rukama",
+          "russian": "Карлос и Янник — от юнцов до титанов: теннис в надёжных руках.",
+          "source": "Sport Klub, 2025",
+          "url": "https://sportklub.n1info.rs/tenis/roland-garros/karlos-i-janik-od-klinaca-do-titana-tenis-je-u-dobrim-rukama/"
+        },
+        {
+          "serbian_latin": "Pacijent je u dobrim rukama.",
+          "russian": "Пациент в надёжных руках.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u dobrim rukama"
+    },
+    {
+      "headword_latin": "U dobru i u zlu",
+      "type": "kolokacija",
+      "definition_ru": "и в горе и в радости; в хорошие и плохие времена",
+      "synonyms_sr": [
+        "u svim prilikama",
+        "i kad je dobro i kad je loše"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Suprug je sedeo pored nje i ponavljao da su zajedno „i u dobru i u zlu“.",
+          "russian": "Муж сидел рядом и повторял, что они вместе «и в горе, и в радости».",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/5910595/norveska-skandal-epstin-intervju-princeza-mete-marit-.html"
+        },
+        {
+          "serbian_latin": "Ja se prijatelja ne odričem, i u dobru i u zlu.",
+          "russian": "Я не отказываюсь от друзей ни в радости, ни в горе.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/politika/vucic-madjar/"
+        },
+        {
+          "serbian_latin": "I u dobru i u zlu. Gospodin Gaja je došao kao podrška svojoj ženi.",
+          "russian": "И в радости, и в горе. Господин Гая пришёл поддержать свою жену.",
+          "source": "RTS, 2025",
+          "url": "https://rts.rs/lat/magazin/zivot/5837244/dijamantska-svadba-godisnjica-braka-60-proslava-jubilej-brak.html"
+        },
+        {
+          "serbian_latin": "Ostali su zajedno u dobru i u zlu.",
+          "russian": "Они остались вместе и в горе и в радости.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u dobru i u zlu"
+    },
+    {
       "headword_latin": "U dobru se ne ponesi, u zlu se ne ponizi",
       "type": "poslovica",
       "definition_ru": "в счастье не заносись, в беде не унижайся; сохраняй достоинство и в успехе, и в несчастье",
@@ -44724,6 +45468,35 @@
       "keyword": "u dobru se ne ponesi u zlu se ne ponizi"
     },
     {
+      "headword_latin": "U dubini duše",
+      "type": "kolokacija",
+      "definition_ru": "в глубине души",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Iransko rukovodstvo u dubini duše veruje da su protesti deo napora Sjedinjenih Država i Izraela",
+          "russian": "Иранское руководство в глубине души убеждено, что протесты — часть усилий США и Израиля.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/svet/iran-protesti-izrael-sad/"
+        },
+        {
+          "serbian_latin": "Mislim da ću u dubini duše uvek više voleti da sam u patikama",
+          "russian": "Думаю, в глубине души я всегда буду предпочитать ходить в кроссовках.",
+          "source": "Danas (BBC na srpskom), 2026",
+          "url": "https://www.danas.rs/bbc-news-serbian/gadno-ili-logicno-je-li-nehigijenski-nositi-cipele-u-kuci/"
+        },
+        {
+          "serbian_latin": "U dubini duše znao je da nije u pravu.",
+          "russian": "В глубине души он знал, что неправ.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u dubini duše"
+    },
+    {
       "headword_latin": "U dupe na vašar",
       "type": "replika",
       "definition_ru": "на кудыкину гору; не твоё дело, куда",
@@ -44748,6 +45521,38 @@
       ],
       "note": "Реальная функция — не сообщить место, а оборвать назойливый вопрос. Фразеологические описания также дают значения «неважно куда», «не твоё дело». Vašar — «ярмарка».",
       "keyword": "vašar"
+    },
+    {
+      "headword_latin": "U gluvo doba noći",
+      "type": "izraz",
+      "definition_ru": "глубокой ночью; в глухую ночь",
+      "synonyms_sr": [
+        "kasno noću",
+        "u sitne sate"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "U gluvo doba noći, Tane i Stanko ipak se ponovo sastaju na uviđaju.",
+          "russian": "Глубокой ночью Тане и Станко снова встречаются на осмотре места происшествия.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/tv/rts1/2915268/senke-nad-balkanom.html"
+        },
+        {
+          "serbian_latin": "U gluvo doba noći između petka i subote je ostala bez dozvole za rad i ide u stečaj.",
+          "russian": "Глубокой ночью с пятницы на субботу банк лишился лицензии и идёт к банкротству.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/6073522/.html?print=true"
+        },
+        {
+          "serbian_latin": "Vratili smo se kući u gluvo doba noći.",
+          "russian": "Мы вернулись домой глубокой ночью.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u gluvo doba noći"
     },
     {
       "headword_latin": "U hodu",
@@ -44803,6 +45608,31 @@
       ],
       "note": "Mah здесь имеет старое значение «мгновение, момент». Выражение вполне живое, особенно в письменной речи; в обычном разговоре часто заменяется на istovremeno или u isto vreme.",
       "keyword": "u isti mah"
+    },
+    {
+      "headword_latin": "U istom čamcu",
+      "type": "kolokacija",
+      "definition_ru": "в одной лодке; в одинаковом положении",
+      "synonyms_sr": [
+        "Na istim mukama"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Nalazimo se u istom čamcu i treba da pređemo na istu obalu",
+          "russian": "Мы в одной лодке, и нам нужно доплыть до одного берега.",
+          "source": "N1, 2020",
+          "url": "https://n1info.rs/vesti/a585716-Dedeic-U-ovoj-situaciji-bi-trebalo-apotekarskom-vagom-meriti-reci/"
+        },
+        {
+          "serbian_latin": "Svi smo u istom čamcu.",
+          "russian": "Мы все в одной лодке.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u istom čamcu"
     },
     {
       "headword_latin": "U jedan glas",
@@ -45052,6 +45882,33 @@
       "keyword": "u naponu snage"
     },
     {
+      "headword_latin": "U nedođiji",
+      "type": "izraz",
+      "definition_ru": "в глуши; в богом забытом месте",
+      "synonyms_sr": [
+        "u zabiti",
+        "na kraju sveta",
+        "Bogu iza nogu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "pokrenuo turizam u jednoj takoreći nedođiji, tj. selu gde se teško stiže",
+          "russian": "Он развил туризм в, можно сказать, глуши — деревне, куда трудно добраться.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/sta-nudi-seoski-turizam-u-srbiji-etno-sela-sumadija/"
+        },
+        {
+          "serbian_latin": "Završili smo u nedođiji, daleko od grada.",
+          "russian": "Мы оказались в глуши, далеко от города.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u nedođiji"
+    },
+    {
       "headword_latin": "U paramparčad",
       "type": "izraz",
       "definition_ru": "вдребезги; на куски; в клочья",
@@ -45082,6 +45939,35 @@
       ],
       "note": "Оборот легко переносится с материальных предметов на отношения, планы, психическое состояние или политическую систему: brak se raspao u paramparčad, plan se razbio u paramparčad. Слово paramparčad пришло через турецкое paramparça и содержит сам образ полного раздробления на мелкие части. Русское «вдребезги» поэтому часто оказывается самым естественным эквивалентом.",
       "keyword": "u paramparčad"
+    },
+    {
+      "headword_latin": "U pat-poziciji",
+      "type": "kolokacija",
+      "definition_ru": "в патовой ситуации; в тупике",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Ističe da REM ne može da donosi odluke bez predsednika Saveta, kao i da se sada nalazi u pat-poziciji.",
+          "russian": "Он подчёркивает, что без председателя совета РЕМ не может принимать решения и находится в тупике.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/politika/6032119/.html?print=true"
+        },
+        {
+          "serbian_latin": "Aleksandar Vučić je u pat poziciji, skup ne može baš tako da otkaže",
+          "russian": "Александр Вучич оказался в патовой ситуации: просто отменить собрание он не может.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/politika/vucic-dolazi-u-novi-sad-sns-miting/"
+        },
+        {
+          "serbian_latin": "Pregovori su u pat-poziciji.",
+          "russian": "Переговоры зашли в тупик.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u pat poziciji"
     },
     {
       "headword_latin": "U po bela dana",
@@ -45458,6 +46344,31 @@
       "keyword": "u tren oka"
     },
     {
+      "headword_latin": "U vinu je istina",
+      "type": "poslovica",
+      "definition_ru": "истина в вине",
+      "synonyms_sr": [
+        "Što trezan misli, pijan govori"
+      ],
+      "literal_ru": "",
+      "register": "poslovica",
+      "examples": [
+        {
+          "serbian_latin": "U vinu je istina – reče zaštićeni svedok i poruči novu turu.",
+          "russian": "Истина в вине, — сказал защищённый свидетель и заказал ещё по одной.",
+          "source": "Politika, 2010",
+          "url": "https://www.politika.rs/sr/clanak/128242/tema-nedelje/vinarska-srbija/brisel-zedan-rujnog-vina"
+        },
+        {
+          "serbian_latin": "U vinu je istina, kaže stara izreka.",
+          "russian": "Истина в вине, гласит старая поговорка.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "u vinu je istina"
+    },
+    {
       "headword_latin": "U više navrata",
       "type": "izraz",
       "definition_ru": "неоднократно; не раз; несколько раз",
@@ -45642,6 +46553,38 @@
       ],
       "note": "Сербский образ отличается от русского: в нём фигурируют две мухи и один удар, а не два зайца и один выстрел.",
       "keyword": "muva; udarac"
+    },
+    {
+      "headword_latin": "Učiniti medveđu uslugu kome",
+      "type": "frazeologizam",
+      "definition_ru": "оказать медвежью услугу",
+      "synonyms_sr": [
+        "naneti štetu misleći da pomažeš",
+        "loše pomoći"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "takvim izjavama, i pored vaše dobre namere, činite medveđu uslugu građanima Srbije",
+          "russian": "Такими заявлениями, несмотря на ваши благие намерения, вы оказываете гражданам Сербии медвежью услугу.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/politika/veselinovic-zabrinut-sam-zbog-izjave-bilicika-o-produktivnim-sastancima-sa-predsednikom-srbije/"
+        },
+        {
+          "serbian_latin": "Činite Tadiću medveđu uslugu",
+          "russian": "Вы оказываете Тадичу медвежью услугу.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/cinite-tadicu-medvedju-uslugu"
+        },
+        {
+          "serbian_latin": "Hteo je da pomogne, ali joj je učinio medveđu uslugu.",
+          "russian": "Он хотел помочь, но оказал ей медвежью услугу.",
+          "source": ""
+        }
+      ],
+      "note": "Значение совпадает с русской «медвежьей услугой»: помощь из лучших побуждений причиняет вред. Učiniti medveđu uslugu nekome — дательный падеж.",
+      "keyword": "učiniti medveđu uslugu kome"
     },
     {
       "headword_latin": "Ućeban džemper",
@@ -45842,6 +46785,35 @@
       "keyword": "crveno"
     },
     {
+      "headword_latin": "Ući u istoriju (kao)",
+      "type": "kolokacija",
+      "definition_ru": "войти в историю",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Da li će i današnji dan ući u istoriju i to zbog dešavanja u susednoj BiH?",
+          "russian": "Войдёт ли и сегодняшний день в историю из-за событий в соседней Боснии и Герцеговине?",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/safeta-bisevac/da-li-ce-i-danasnji-dan-uci-u-istoriju-i-to-zbog-desavanja-u-susednoj-bih/"
+        },
+        {
+          "serbian_latin": "A onda, u nekoliko sekundi, sportski trenutak prerasta u prizor koji će ući u istoriju.",
+          "russian": "А затем за несколько секунд спортивный момент превращается в сцену, которая войдёт в историю.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/sport/atletika/6062666/.html?print=true"
+        },
+        {
+          "serbian_latin": "Njegovo otkriće ušlo je u istoriju.",
+          "russian": "Его открытие вошло в историю.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "ući u istoriju kao"
+    },
+    {
       "headword_latin": "Ući u ritam",
       "type": "kolokacija",
       "definition_ru": "войти в ритм; набрать темп; втянуться",
@@ -45932,6 +46904,38 @@
       ],
       "note": "Управление: ući u trag nekome / nečemu. Может относиться к преступнику, письму, деньгам, происхождению предмета или даже историческому документу.",
       "keyword": "ući u trag"
+    },
+    {
+      "headword_latin": "Ući u trag nečemu",
+      "type": "frazeologizam",
+      "definition_ru": "напасть на след чего-либо; обнаружить",
+      "synonyms_sr": [
+        "pronaći",
+        "otkriti gde se nalazi"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Sintetičke droge postaju sve opasnije, a toksikološkim analizama sve im je teže ući u trag.",
+          "russian": "Синтетические наркотики становятся всё опаснее, а обнаружить их с помощью токсикологических анализов всё труднее.",
+          "source": "RTS, 2025",
+          "url": "https://rts.rs/lat/vesti/drustvo/5755741/nove-sinteticke-droge-zakon-sizofrenija-mladi-internet-kupovina.html"
+        },
+        {
+          "serbian_latin": "Teško je ući u trag organizatorima, među kojima, kako smo saznali, ima i žena.",
+          "russian": "Организаторов трудно разыскать, среди них, как мы выяснили, есть и женщины.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3443715/ilegalne-borbe-pasa-kako-uci-u-trag-organizatorima.html"
+        },
+        {
+          "serbian_latin": "Policija je ušla u trag ukradenom automobilu.",
+          "russian": "Полиция нашла след угнанного автомобиля.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "ući u trag nečemu"
     },
     {
       "headword_latin": "Udarac ispod pojasa",
@@ -46544,6 +47548,38 @@
       "keyword": "koštac"
     },
     {
+      "headword_latin": "Uhvatiti se u koštac sa čim",
+      "type": "frazeologizam",
+      "definition_ru": "вступить в борьбу; взяться за трудное дело",
+      "synonyms_sr": [
+        "suočiti se s problemom",
+        "započeti borbu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Uhvatiti se u koštac sa ovom nemani.",
+          "russian": "Вступить в борьбу с этим чудовищем.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/zadatak-za-2026-godinu-tri-koraka-od-sedam-milja/"
+        },
+        {
+          "serbian_latin": "samo su neki od problema sa kojima ćemo se odmah uhvatiti u koštac.",
+          "russian": "Это лишь некоторые проблемы, за решение которых мы сразу возьмёмся.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/drustvo/intervju-hirurg-aleksandar-cvetkovic-studentska-lista-tri-stvari-koje-prvo-treba-da-uradi-buduci-ministar-zdravlja/"
+        },
+        {
+          "serbian_latin": "Moramo da se uhvatimo u koštac s problemom.",
+          "russian": "Нам нужно всерьёз взяться за проблему.",
+          "source": ""
+        }
+      ],
+      "note": "Koštac буквально обозначает борьбу, схватку. Типичная конструкция uhvatiti se u koštac sa problemom — решительно взяться за сложную проблему.",
+      "keyword": "uhvatiti se u koštac sa čim"
+    },
+    {
       "headword_latin": "Ukrstiti koplja",
       "type": "frazeologizam",
       "definition_ru": "Вступить в противоборство, соревнование, спор или дебаты. Русские соответствия: «скрестить копья», «сойтись в поединке», «помериться силами».",
@@ -46595,6 +47631,31 @@
       ],
       "note": "Ukucati буквально связано с kucati «стучать, печатать», поэтому в компьютерной речи совершенно естественно значит «набрать с клавиатуры». Разговорное proguglati уже конкретно отсылает к Google, а pretraživač — родовое слово.",
       "keyword": "pretraživač"
+    },
+    {
+      "headword_latin": "Ulaziti na mala vrata",
+      "type": "izraz",
+      "definition_ru": "проникать с чёрного хода; обходить правила",
+      "synonyms_sr": [
+        "Ulaziti na zadnja/mala vrata"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "2018. Milan Radoičić i zvanično ulazi na mala vrata u politički život Kosova i Srbije",
+          "russian": "В 2018 году Милан Радоичич официально, но исподволь входит в политическую жизнь Косова и Сербии.",
+          "source": "N1, 2021",
+          "url": "https://n1info.rs/vesti/kraljevi-asfalta-i-kosmar-i-agonija-mestana-sela-ba-lesje-i-plana/"
+        },
+        {
+          "serbian_latin": "Ušli su na mala vrata, mimo pravila.",
+          "russian": "Они прошли в обход правил.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "ulaziti na mala vrata"
     },
     {
       "headword_latin": "Uljudne fraze",
@@ -46702,6 +47763,29 @@
       ],
       "note": "В сербском ćuran — самостоятельный образ надменности наряду с павлином: фиксируются uobražen kao ćuran и šepuriti se kao ćuran. Для русского образ индюка тоже хорошо понятен.",
       "keyword": "ćuran"
+    },
+    {
+      "headword_latin": "Upada u oči",
+      "type": "kolokacija",
+      "definition_ru": "бросаться в глаза",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "upada u oči ogroman broj alkoholisanih osoba i onih koje uzimaju psihoaktivne supstance",
+          "russian": "Бросается в глаза огромное число пьяных людей и тех, кто употребляет психоактивные вещества.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/6024749/hitna-mladi-alkohol.html"
+        },
+        {
+          "serbian_latin": "Odmah upada u oči koliko je sve uredno.",
+          "russian": "Сразу бросается в глаза, насколько всё аккуратно.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "upada u oči"
     },
     {
       "headword_latin": "Upasti / otići u minus",
@@ -46841,6 +47925,37 @@
       "keyword": "reč"
     },
     {
+      "headword_latin": "Upasti u zamku",
+      "type": "izraz",
+      "definition_ru": "угодить в ловушку; попасться на удочку",
+      "synonyms_sr": [
+        "Upasti u (nečiju) klopku/ zamku/ stupicu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Ako upadnete u zamku romantične prevare to može skupo da vas košta.",
+          "russian": "Если попадётесь в ловушку романтического мошенничества, это может дорого обойтись.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/magazin/Zanimljivosti/4482728/ako-upadnete-u-zamku-romanticne-prevare-to-moze-skupo-da-vas-kosta.html"
+        },
+        {
+          "serbian_latin": "Lako je upasti u zamku poređenja, skrolovanjem kroz LinkedIn uz osećaj da zaostajete.",
+          "russian": "Легко попасть в ловушку сравнений, листая LinkedIn и чувствуя, что отстаёшь.",
+          "source": "Forbes Srbija, 2026",
+          "url": "https://forbes.n1info.rs/novac/licne-finansije/da-li-vasa-plata-prati-vase-godine-vodic-za-upravljanje-novcem-tokom-karijere/"
+        },
+        {
+          "serbian_latin": "Upao je u zamku.",
+          "russian": "Он попался в ловушку.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "upasti u zamku"
+    },
+    {
       "headword_latin": "Upinjati se iz petnih žila",
       "type": "frazeologizam",
       "definition_ru": "стараться изо всех сил; лезть из кожи вон; прилагать все усилия",
@@ -46921,6 +48036,38 @@
       ],
       "note": "Очень характерное газетное клише о свадьбах известных людей. Bračne vode развивают метафору брака как нового плавания или жизненного пути.",
       "keyword": "uploviti u bračne vode"
+    },
+    {
+      "headword_latin": "Uroditi plodom",
+      "type": "izraz",
+      "definition_ru": "принести плоды; дать результат",
+      "synonyms_sr": [
+        "dati rezultat",
+        "isplatiti se"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Beograd se nada da će razgovori o tablicama uroditi plodom.",
+          "russian": "Белград надеется, что переговоры о номерных знаках принесут результат.",
+          "source": "RTS, 2022",
+          "url": "https://rts.rs/lat/vesti/politika/4935569/sporazum-o-licnim-dokumentima-bez-blokada-1-septembra--u-iscekivanju-dogovora-o-tablicama.html"
+        },
+        {
+          "serbian_latin": "tako da očekujemo da će ova nedelja uroditi plodom",
+          "russian": "Поэтому мы надеемся, что эта неделя принесёт результаты.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5827196/kraljevacki-srednjoskolci-u-akciji-dobrovoljnog-davanja-krvi.html"
+        },
+        {
+          "serbian_latin": "Dugogodišnji trud konačno je urodio plodom.",
+          "russian": "Многолетний труд наконец принёс плоды.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "uroditi plodom"
     },
     {
       "headword_latin": "Ustati na levu nogu",
@@ -47190,6 +48337,32 @@
       ],
       "note": "Mah связан с размахом, импульсом движения: процесс словно разгоняется и становится всё сильнее или шире. Поэтому перевод зависит от субъекта: болезнь širi se, протест jača, мода uzima maha. Русское «набрать обороты» часто очень близко.",
       "keyword": "uzeti maha"
+    },
+    {
+      "headword_latin": "Uzeti na zub koga",
+      "type": "frazeologizam",
+      "definition_ru": "взъесться на кого-то; невзлюбить",
+      "synonyms_sr": [
+        "okrenuti se protiv nekoga",
+        "uzeti na nišan"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "verovale da ih zbog toga Vašington neće posebno uzeti na zub.",
+          "russian": "Они полагали, что из-за этого Вашингтон не станет специально на них взъедаться.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/svet/5690152/.html?print=true"
+        },
+        {
+          "serbian_latin": "Šef ga je uzeo na zub.",
+          "russian": "Начальник на него взъелся.",
+          "source": ""
+        }
+      ],
+      "note": "В заголовке koga / nekoga обозначает изменяемый объект (винительный падеж), а не неизменную часть фразеологизма.",
+      "keyword": "uzeti na zub koga"
     },
     {
       "headword_latin": "Uzeti nekoga na zub",
@@ -48601,6 +49774,38 @@
       ],
       "note": "Очень ходовая рекламно-описательная формула. Встречается также раздельное za svakog po nešto; в сербском употреблении представлены оба типа.",
       "keyword": "ponešto"
+    },
+    {
+      "headword_latin": "Za tren oka",
+      "type": "izraz",
+      "definition_ru": "в мгновение ока",
+      "synonyms_sr": [
+        "U tren oka",
+        "U jedan tren"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "VI bi dešifrovala kod „enigma“ mašine iz Drugog svetskog rata „za tren oka“",
+          "russian": "ИИ расшифровал бы код машины «Энигма» времён Второй мировой войны в мгновение ока.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/magazin/tehnologija/5706124/enigma-masina-vestacka-inteligencija-alan-tjuring.html"
+        },
+        {
+          "serbian_latin": "koje su gotove \"za tren oka\", a što je najbolje od svega, veoma su zdrave",
+          "russian": "Они готовятся в мгновение ока и, что самое приятное, очень полезны.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/magazin/zivot/5078871/kuglice-od-urmi-gotove-za-tren-idealne-za-badnju-trpezu.html"
+        },
+        {
+          "serbian_latin": "Za tren oka je nestao iz vidokruga.",
+          "russian": "Он исчез из виду в мгновение ока.",
+          "source": ""
+        }
+      ],
+      "note": "",
+      "keyword": "za tren oka"
     },
     {
       "headword_latin": "Zabiti glavu u pesak",
