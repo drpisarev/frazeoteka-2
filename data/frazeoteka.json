@@ -31339,6 +31339,33 @@
       "keyword": "važan"
     },
     {
+      "headword_latin": "Praziluk mu iz guzice viri",
+      "type": "frazeologizam",
+      "definition_ru": "из него деревенщина так и прёт; он выскочка с претензией на столичный лоск",
+      "synonyms_sr": [
+        "glumiti gospodina",
+        "biti skorojević",
+        "biti neotesan",
+        "praviti se važan"
+      ],
+      "literal_ru": "из з*дницы у него торчит лук-порей",
+      "register": "razg., grub., podrugljivo; uvredljiva socijalna etiketa",
+      "examples": [
+        {
+          "serbian_latin": "Kupio je skup automobil i odmah počeo sve da podučava, a praziluk mu još iz guzice viri.",
+          "russian": "Купил дорогую машину и сразу принялся всех учить жизни, хотя деревенщина из него так и прёт.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne govori tako o ljudima; izraz „praziluk mu iz guzice viri“ veoma je uvredljiv.",
+          "russian": "Не говори так о людях: это выражение очень оскорбительное.",
+          "source": ""
+        }
+      ],
+      "note": "Образ высмеивает человека, который пытается казаться утончённым горожанином, но выдаёт своё происхождение или неотёсанные манеры; такая оценка социально снобистская. В разговоре также очень распространено Viri mu praziluk iz dupeta / Praziluk mu iz dupeta viri. Здесь значение не в самом сельском происхождении, а в презрительном изображении несоответствия между претензиями и поведением.",
+      "keyword": "praziluk mu iz guzice viri"
+    },
+    {
       "headword_latin": "Prazna vreća ne stoji uspravno",
       "type": "poslovica",
       "definition_ru": "голодный не работник; без средств трудно держаться; на пустой желудок далеко не уедешь",
@@ -42580,6 +42607,33 @@
       "keyword": "švorc"
     },
     {
+      "headword_latin": "Ta ti valja!",
+      "type": "replika",
+      "definition_ru": "вот это хорошо сказано!; хорошая мысль!; ну ты выдал!",
+      "synonyms_sr": [
+        "dobro si rekao",
+        "svaka ti čast",
+        "to je dobro",
+        "lepo rečeno"
+      ],
+      "literal_ru": "",
+      "register": "razg., odobravanje ili ironija prema intonaciji",
+      "examples": [
+        {
+          "serbian_latin": "„Hajde da završimo ranije pa odemo na kafu.“ — „E, ta ti valja!“",
+          "russian": "«Давай закончим пораньше и пойдём выпьем кофе». — «Вот это хорошая мысль!»",
+          "source": ""
+        },
+        {
+          "serbian_latin": "„Sve ću naučiti za pet minuta.“ — „Ta ti valja!“",
+          "russian": "«Я всё выучу за пять минут». — «Ну ты и выдал!»",
+          "source": ""
+        }
+      ],
+      "note": "Местоимение ta отсылает к только что высказанной мысли или шутке. Реакция может быть искренне одобрительной либо иронической; без интонации не всегда ясно, какой смысл имелся в виду. Близкая реплика Ova ti vredi! также относится к удачно сказанному.",
+      "keyword": "ta ti valja"
+    },
+    {
       "headword_latin": "tačan kao švajcarski sat",
       "type": "фразеологическое сравнение",
       "definition_ru": "Предельно точный, пунктуальный и надёжный; работающий без опозданий и сбоев.",
@@ -42663,6 +42717,33 @@
       "keyword": "tako je kako je"
     },
     {
+      "headword_latin": "Tako mi Bog pomogao!",
+      "type": "replika",
+      "definition_ru": "да поможет мне Бог!; да будет Бог мне свидетелем!; клянусь перед Богом",
+      "synonyms_sr": [
+        "Bog mi je svedok",
+        "kunem se pred Bogom",
+        "tako mi Boga (razg.)"
+      ],
+      "literal_ru": "так помоги мне Бог",
+      "register": "svečano, zakletva; često na kraju teksta zakletve",
+      "examples": [
+        {
+          "serbian_latin": "Tako mi Bog pomogao.",
+          "russian": "Да поможет мне Бог.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/vesti/svet/2600947/inauguracija-donalda-trampa-svecanost-pocela-u-crkvi.html"
+        },
+        {
+          "serbian_latin": "Zakletvu je završio rečima: „Tako mi Bog pomogao!“",
+          "russian": "Он закончил присягу словами: «Да поможет мне Бог!»",
+          "source": ""
+        }
+      ],
+      "note": "Это заключительная формула религиозной присяги, а не обычное пожелание удачи. В сербских материалах её часто цитируют при описании иностранных церемоний; в установленном тексте присяги президента Сербии она не является обязательной формулой. Не смешивать с разговорным Ako Bog da — «если Бог даст».",
+      "keyword": "tako mi bog pomogao"
+    },
+    {
       "headword_latin": "Tako nešto",
       "type": "izraz",
       "definition_ru": "что-то в этом роде; вроде того; примерно такое",
@@ -42687,6 +42768,137 @@
       ],
       "note": "Порядок tako nešto и nešto tako оба нормальны, но tako nešto особенно удобно как самостоятельная реакция «да, примерно это». Родственное tako nekako значит «как-то так».",
       "keyword": "tako nešto"
+    },
+    {
+      "headword_latin": "Tako prolazi slava ovog sveta",
+      "type": "krilatica",
+      "definition_ru": "так проходит земная слава; всё мирское величие преходяще",
+      "synonyms_sr": [
+        "sve je prolazno",
+        "ništa nije večno",
+        "prolazna je zemaljska slava"
+      ],
+      "literal_ru": "так проходит слава этого мира",
+      "register": "knjiški, svečano; latinski izvornik: Sic transit gloria mundi",
+      "examples": [
+        {
+          "serbian_latin": "Tako prolazi slava ovog sveta: juče je bio na vrhu, danas ga se malo ko seća.",
+          "russian": "Так проходит земная слава: вчера он был на вершине, а сегодня о нём мало кто помнит.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Dok je gledao ruševine nekadašnje palate, pomislio je: „Tako prolazi slava ovog sveta.“",
+          "russian": "Глядя на руины некогда роскошного дворца, он подумал: «Так проходит земная слава».",
+          "source": ""
+        }
+      ],
+      "note": "Это традиционное латинское изречение Sic transit gloria mundi, которое в Европе получило известность и благодаря церемонии папской коронации. В современном сербском звучит книжно или цитатно, часто с иронией по поводу утраченных славы и положения. В отличие от бытового takav je život, здесь подчёркивается именно недолговечность могущества и почестей.",
+      "keyword": "tako prolazi slava ovog sveta"
+    },
+    {
+      "headword_latin": "Tako te hoću!",
+      "type": "replika",
+      "definition_ru": "вот так-то лучше!; вот таким я тебя и хочу видеть!; молодец, так держать!",
+      "synonyms_sr": [
+        "tako treba",
+        "svaka čast",
+        "bravo",
+        "e, tako!"
+      ],
+      "literal_ru": "вот таким я тебя хочу",
+      "register": "razg., odobr.; često kao podsticaj ili pohvala",
+      "examples": [
+        {
+          "serbian_latin": "E, tako te hoću! Sad si rekao šta stvarno misliš.",
+          "russian": "Вот так-то лучше! Наконец ты сказал, что действительно думаешь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Položio si ispit iz prvog pokušaja? Tako te hoću!",
+          "russian": "Сдал экзамен с первого раза? Молодец, так держать!",
+          "source": ""
+        }
+      ],
+      "note": "Говорящий одобряет поступок, на который рассчитывал, либо подбадривает собеседника. Реплика может прозвучать немного покровительственно, особенно между незнакомыми взрослыми: подразумевается, что говорящий оценивает поведение другого. Не переводить буквально как просьбу о любви или желании.",
+      "keyword": "tako te hoću"
+    },
+    {
+      "headword_latin": "Tako ti i treba!",
+      "type": "replika",
+      "definition_ru": "так тебе и надо!; поделом тебе!; сам напросился!",
+      "synonyms_sr": [
+        "sam si kriv",
+        "zaslužio si",
+        "neka ti bude za nauk"
+      ],
+      "literal_ru": "",
+      "register": "razg., prekor, neodobravanje; često s prizvukom zluradosti",
+      "examples": [
+        {
+          "serbian_latin": "Rekao sam ti da ne ostavljaš telefon na kiši. Tako ti i treba!",
+          "russian": "Я же говорил не оставлять телефон под дождём. Вот и поделом тебе!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nisi hteo da slušaš savet, pa sad snosi posledice. Tako ti i treba.",
+          "russian": "Ты не хотел слушать совета, теперь расхлёбывай последствия. Сам напросился.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот означает, что человек сам заслужил неприятные последствия. По тону это скорее упрёк или злорадство, чем сочувствие; в ситуации настоящего несчастья может звучать жестоко. Частица i усиливает оценку: именно так ему и надо.",
+      "keyword": "tako ti i treba"
+    },
+    {
+      "headword_latin": "Takve treba svećom tražiti",
+      "type": "frazeologizam",
+      "definition_ru": "таких днём с огнём не сыщешь; таких ещё поискать; большая редкость",
+      "synonyms_sr": [
+        "teško je naći takve",
+        "takvi su retki",
+        "jedva se nalaze"
+      ],
+      "literal_ru": "таких надо искать со свечой",
+      "register": "razg., ekspresivno; najčešće pohvalno",
+      "examples": [
+        {
+          "serbian_latin": "Poštenog i pouzdanog majstora kao što je on treba svećom tražiti.",
+          "russian": "Честного и надёжного мастера вроде него днём с огнём не сыщешь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Danas je teško naći takvog mentora — takve treba svećom tražiti.",
+          "russian": "Сегодня трудно найти такого наставника — таких ещё поискать.",
+          "source": ""
+        }
+      ],
+      "note": "Svećom tražiti — искать с зажжённой свечой, то есть с огромным трудом. В сербском устойчив образ именно svećom; по-русски естественно «днём с огнём не сыщешь». Не обязательно речь о людях, но сочетание с человеком особенно частотно.",
+      "keyword": "takve treba svećom tražiti"
+    },
+    {
+      "headword_latin": "Takvi se ne rađaju svaki dan",
+      "type": "izreka",
+      "definition_ru": "такие люди рождаются не каждый день; таких единицы; человек редких качеств",
+      "synonyms_sr": [
+        "takvi su retki",
+        "takvih je malo",
+        "jedan u milion"
+      ],
+      "literal_ru": "такие не рождаются каждый день",
+      "register": "razg.-publicistički, pohvalno; može se reći i ironično",
+      "examples": [
+        {
+          "serbian_latin": "Bio je izuzetan lekar i učitelj. Takvi se ne rađaju svaki dan.",
+          "russian": "Он был выдающимся врачом и учителем. Такие люди рождаются не каждый день.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Deda je mogao sve da popravi. Takvi se ne rađaju svaki dan.",
+          "russian": "Дедушка умел починить что угодно. Таких людей ещё поискать.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно так подчёркивают редкость человеческого таланта, характера или достижений, а не буквальную частоту рождения. При ироническом произнесении похвала может оборачиваться насмешкой. Близкая самостоятельная формула — Takve treba svećom tražiti.",
+      "keyword": "takvi se ne rađaju svaki dan"
     },
     {
       "headword_latin": "Tamni vilajet",
@@ -42714,6 +42926,34 @@
       ],
       "note": "Выражение связано с известным преданием о tamni vilajet: путникам в темноте предлагают взять камни с предупреждением, что и взявшие, и не взявшие будут жалеть; на свету камни оказываются драгоценностями. Мотив пришёл через средневековый роман об Александре Великом и был записан Вуком Караджичем. Vilajet — турцизм, исторически «область, провинция».",
       "keyword": "tamni vilajet"
+    },
+    {
+      "headword_latin": "Tandara-broć",
+      "type": "uzvik",
+      "definition_ru": "чепуха!; ерунда!; вздор!",
+      "synonyms_sr": [
+        "koješta",
+        "gluposti",
+        "besmislice",
+        "tralala (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj., pomalo starinski; odbacivanje neozbiljnih reči ili priče",
+      "examples": [
+        {
+          "serbian_latin": "Najlepši na svetu ko je? Tandara broć.",
+          "russian": "Кто на свете всех красивее? Да чепуха всё это.",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/vesti/drustvo/gugl-mitologija/"
+        },
+        {
+          "serbian_latin": "Ma kakva zavera, tandara-broć! Nema nikakvih dokaza.",
+          "russian": "Да какой заговор, ерунда! Нет никаких доказательств.",
+          "source": ""
+        }
+      ],
+      "note": "Звукоподражательное шуточное слово для отмахивания от пустых разговоров. Встречается написание tandara broć без дефиса. В современных текстах оно заметно реже нейтральных gluposti и koješta и может звучать намеренно старомодно; не следует выводить его значение из английского соответствия PDF.",
+      "keyword": "tandara-broć"
     },
     {
       "headword_latin": "Tantalove muke",
@@ -42854,6 +43094,32 @@
       ],
       "note": "В отличие от обычного tata, слово tata-mata обозначает умелого, опытного или влиятельного человека, иногда с иронией. Типично управление tata-mata za nešto: tata-mata za računare. Определение PDF «самый старший и уважаемый» передаёт лишь один возможный оттенок: главным часто оказывается именно мастерство.",
       "keyword": "tata-mata"
+    },
+    {
+      "headword_latin": "Tatin sin",
+      "type": "kolokacija",
+      "definition_ru": "папенькин сынок; избалованный сын влиятельного отца; золотая молодёжь (по ситуации)",
+      "synonyms_sr": [
+        "razmaženko",
+        "tatino dete (razg.)",
+        "privilegovan sin"
+      ],
+      "literal_ru": "папин сын",
+      "register": "razg., neodobr.; o privilegijama koje dolaze od očevog položaja",
+      "examples": [
+        {
+          "serbian_latin": "Nije prošao konkurs znanjem, nego preko veze — pravi tatin sin.",
+          "russian": "Он прошёл конкурс не благодаря знаниям, а по знакомству — настоящий папенькин сынок.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Svi su radili, a tatin sin je odmah dobio direktorsko mesto.",
+          "russian": "Все работали, а сынок влиятельного папаши сразу получил директорское кресло.",
+          "source": ""
+        }
+      ],
+      "note": "В этой коллокации подразумевается не просто любовь к отцу, а незаслуженные преимущества благодаря его деньгам или положению. Нейтрально о родстве говорят sin svog oca; tatin sin с неодобрением указывает на зависимость от привилегий. Не путать с нежным tatin sinčić в семейной речи.",
+      "keyword": "tatin sin"
     },
     {
       "headword_latin": "Teći med i mleko",
@@ -43046,6 +43312,88 @@
       ],
       "note": "Смысл не просто в настойчивости, а именно в чрезмерной скрупулёзности. Часто говорится: nemoj da teraš mak na konac.",
       "keyword": "mak; konac; cepidlačenje; sitničarenje"
+    },
+    {
+      "headword_latin": "Terati po svome",
+      "type": "frazeologizam",
+      "definition_ru": "стоять на своём; поступать по-своему вопреки советам; гнуть свою линию",
+      "synonyms_sr": [
+        "raditi po svome",
+        "istrajavati na svome",
+        "ne popuštati",
+        "terati svoje"
+      ],
+      "literal_ru": "гнать по-своему",
+      "register": "razg.; često neodobr., mada može označavati i samostalnost",
+      "examples": [
+        {
+          "serbian_latin": "Svi smo ga upozoravali, ali on tera po svome.",
+          "russian": "Мы все его предупреждали, а он всё равно гнёт свою линию.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ponekad je dobro poslušati druge, a ne uvek terati po svome.",
+          "russian": "Иногда стоит прислушаться к другим, а не всегда настаивать на своём.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивое po svome означает «на свой лад, по собственному усмотрению», а terati добавляет идею настойчивого продолжения. Выражение часто критикует упрямство, но в подходящем контексте может быть похвалой независимости. Сопоставимо с terati svoje, но не обязательно означает создание конфликта.",
+      "keyword": "terati po svome"
+    },
+    {
+      "headword_latin": "Terati šegu s nekim",
+      "type": "frazeologizam",
+      "definition_ru": "подшучивать над кем-то; потешаться над кем-то; выставлять кого-то на посмешище",
+      "synonyms_sr": [
+        "podsmevati se nekome",
+        "ismevati nekoga",
+        "zbijati šale na nečiji račun",
+        "sprdati se s nekim (grub.)"
+      ],
+      "literal_ru": "устраивать шутку с кем-то",
+      "register": "razg., ekspresivno, često neodobr.; s nekim + instrumental",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da teraš šegu s njim, stvarno mu nije lako.",
+          "russian": "Не издевайся над ним, ему и так нелегко.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Celo selo je teralo šegu s njegovim novim odelom.",
+          "russian": "Вся деревня потешалась над его новым костюмом.",
+          "source": ""
+        }
+      ],
+      "note": "Šega — насмешка, шутка, часто за чужой счёт. В отличие от нейтрального šaliti se, оборот terati šegu нередко подчёркивает недобрую или грубоватую насмешку. Нормальная модель управления — terati šegu s nekim; встречается и zbijati šegu.",
+      "keyword": "terati šegu s nekim"
+    },
+    {
+      "headword_latin": "Teška srca",
+      "type": "frazeologizam",
+      "definition_ru": "скрепя сердце; с тяжёлым сердцем; крайне неохотно и с сожалением",
+      "synonyms_sr": [
+        "nerado",
+        "nevoljno",
+        "sa žaljenjem",
+        "preko volje"
+      ],
+      "literal_ru": "тяжёлого сердца",
+      "register": "neutralno-knjiški, emotivno; tipično odlučiti, prihvatiti, rastati se teška srca",
+      "examples": [
+        {
+          "serbian_latin": "Navela je da odluku donosi „teška srca“.",
+          "russian": "Она сказала, что принимает это решение с тяжёлым сердцем.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/vesti/politika/3950951/sandra-bozic-prekinula-strajk-gladju-martinovic-nastavlja.html"
+        },
+        {
+          "serbian_latin": "Teška srca smo prodali kuću u kojoj smo odrasli.",
+          "russian": "Скрепя сердце мы продали дом, в котором выросли.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь речь не о физической тяжести или сердечном заболевании, а о сожалении и душевной боли при вынужденном решении. Форму teška srca следует запоминать целиком: это традиционная падежная конструкция, не совпадающая с ожидаемым современным согласованием прилагательного. Очень естественна модель doneti odluku teška srca.",
+      "keyword": "teška srca"
     },
     {
       "headword_latin": "Teško da",
@@ -43617,6 +43965,32 @@
       "keyword": "igla u plastu sena"
     },
     {
+      "headword_latin": "Trbuh nema ušiju",
+      "type": "poslovica",
+      "definition_ru": "голодному не до разговоров; голодное брюхо разумных доводов не слушает",
+      "synonyms_sr": [
+        "gladan ne sluša savete",
+        "glad ne trpi odlaganje",
+        "trbuh ne zna za šalu (blisko)"
+      ],
+      "literal_ru": "живот не имеет ушей",
+      "register": "tradicionalna poslovica; danas više citatno nego u svakodnevnom razgovoru",
+      "examples": [
+        {
+          "serbian_latin": "Možeš mu objašnjavati koliko hoćeš, ali trbuh nema ušiju.",
+          "russian": "Можешь объяснять сколько угодно, но голодному не до твоих доводов.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Prvo nahrani ljude, pa onda drži govor — trbuh nema ušiju.",
+          "russian": "Сначала накорми людей, потом произноси речь: голодный человек слушать не станет.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица образно говорит о том, что голод и базовые нужды сильнее нравоучений или отвлечённых рассуждений. Она известна по традиционным собраниям пословиц; образ буквально связан с тем, что «живот не слышит». Родственная пословица Trbuh ne zna za šalu усиливает мысль, что голод не терпит промедления.",
+      "keyword": "trbuh nema ušiju"
+    },
+    {
       "headword_latin": "Trčati pred rudu",
       "type": "frazeologizam",
       "definition_ru": "забегать вперёд; торопить события; действовать преждевременно",
@@ -43644,6 +44018,33 @@
       ],
       "note": "Здесь ruda — не «руда» в русском смысле, а оглобля повозки. Полная старая форма — ne trči kao ždrebe pred rudu: жеребёнок не должен забегать перед оглобли и лошадей. Сегодня почти всегда употребляется сокращённое ne trči pred rudu — «не торопись, не забегай вперёд».",
       "keyword": "trčati pred rudu"
+    },
+    {
+      "headword_latin": "Treća sreća",
+      "type": "izreka",
+      "definition_ru": "бог любит троицу; на третий раз должно повезти; третья попытка — счастливая",
+      "synonyms_sr": [
+        "iz trećeg pokušaja",
+        "treći put će uspeti",
+        "treća je srećna"
+      ],
+      "literal_ru": "третье счастье",
+      "register": "razg., šaljivo-optimistično; često posle dva neuspeha",
+      "examples": [
+        {
+          "serbian_latin": "Ovo mu je treći brak i, kako kaže, treća sreća!",
+          "russian": "Это его третий брак, и, как он говорит, бог любит троицу!",
+          "source": "Večernje novosti, 2014",
+          "url": "https://www.novosti.rs/vesti/scena.147.html%3A498332-Dancuo-Uvek-sam-imao-keca-u-rukavu"
+        },
+        {
+          "serbian_latin": "Dva puta nisam položio vožnju, ali danas — treća sreća!",
+          "russian": "Дважды не сдал на права, но сегодня бог любит троицу!",
+          "source": ""
+        }
+      ],
+      "note": "Короткая формула надежды на удачу с третьей попытки; говорят и pre trećeg pokušaja, и после успеха. Русское «бог любит троицу» хорошо передаёт тот же мотив, хотя сербская реплика не обязательно религиозна. В PDF присутствует также объяснительный вариант Do tri puta Bog pomaže.",
+      "keyword": "treća sreća"
     },
     {
       "headword_latin": "Tresla se gora, rodio se miš",
@@ -43811,6 +44212,33 @@
       ],
       "note": "Очень часто употребляется сокращённая форма trla baba lan. Обычно это неодобрительная характеристика бессодержательных совещаний, повторяющихся обещаний, разговоров по кругу или имитации деятельности.",
       "keyword": "trla baba lan; prazna priča; uzalud"
+    },
+    {
+      "headword_latin": "Trljati ruke",
+      "type": "frazeologizam",
+      "definition_ru": "потирать руки от радости; предвкушать выгоду или успех; злорадно радоваться",
+      "synonyms_sr": [
+        "zadovoljno čekati",
+        "radovati se koristi",
+        "likovati",
+        "zadovoljno se smeškati"
+      ],
+      "literal_ru": "потирать руки",
+      "register": "razg., ekspresivno; pozitivno, pohlepno ili zlurado prema kontekstu",
+      "examples": [
+        {
+          "serbian_latin": "Prodavci već trljaju ruke zbog velike potražnje.",
+          "russian": "Продавцы уже потирают руки в ожидании высокого спроса.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Dok su se ostali brinuli, on je zadovoljno trljao ruke.",
+          "russian": "Пока остальные тревожились, он довольно потирал руки.",
+          "source": ""
+        }
+      ],
+      "note": "Как и в русском, возможно буквальное значение жеста, но фразеологическое trljati ruke обычно передаёт ожидание выгоды, удовлетворение или злорадство. Глагол несовершенного вида trljati подчёркивает процесс; часто встречается в заголовках о продавцах, инвесторах и победителях.",
+      "keyword": "trljati ruke"
     },
     {
       "headword_latin": "trn u oku",
@@ -44463,6 +44891,32 @@
       "keyword": "kratke crte; ukratko; sažeto"
     },
     {
+      "headword_latin": "U kući obešenog uže se ne spominje",
+      "type": "poslovica",
+      "definition_ru": "в доме повешенного о верёвке не говорят; нельзя задевать больную для собеседника тему",
+      "synonyms_sr": [
+        "ne otvarati bolnu temu",
+        "ne pominjati ono što boli",
+        "biti obazriv u razgovoru"
+      ],
+      "literal_ru": "в доме повешенного верёвку не упоминают",
+      "register": "tradicionalna poslovica; često citatno i knjiški",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj pred njim da se šališ na tu temu — u kući obešenog uže se ne spominje.",
+          "russian": "Не шути при нём на эту тему: в доме повешенного о верёвке не говорят.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad neko prolazi kroz gubitak, treba birati reči: u kući obešenog uže se ne spominje.",
+          "russian": "Когда человек переживает потерю, нужно выбирать слова: не стоит бередить рану.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица призывает учитывать личную травму, утрату или неловкое положение собеседника и избегать словесных напоминаний. Русский язык знает практически тождественную пословицу. Несмотря на жёсткий буквальный образ, выражение часто переносится на любые неприятные или стыдные обстоятельства.",
+      "keyword": "u kući obešenog uže se ne spominje"
+    },
+    {
       "headword_latin": "U laži su kratke noge",
       "type": "poslovica",
       "definition_ru": "у лжи короткие ноги; ложь далеко не уйдёт; правда всё равно обнаружится",
@@ -44539,6 +44993,32 @@
       ],
       "note": "Это обычное предложение, ставшее готовой поколенческой репликой. Оно может произноситься всерьёз, но очень часто пародирует идеализацию собственной молодости.",
       "keyword": "u moje vreme"
+    },
+    {
+      "headword_latin": "U mutnoj se vodi riba lovi",
+      "type": "poslovica",
+      "definition_ru": "в мутной воде легче рыбку ловить; на неразберихе можно нажиться",
+      "synonyms_sr": [
+        "koristiti tuđu nevolju",
+        "izvlačiti korist iz haosa",
+        "loviti u mutnom"
+      ],
+      "literal_ru": "в мутной воде ловят рыбу",
+      "register": "poslovica, neodobr.; o koristi iz nereda, nesigurnosti ili tuđe nesreće",
+      "examples": [
+        {
+          "serbian_latin": "Dok se svi svađaju, neko tiho zarađuje — u mutnoj se vodi riba lovi.",
+          "russian": "Пока все ссорятся, кто-то потихоньку зарабатывает — в мутной воде легче рыбку ловить.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kriza je prilika za prevarante: u mutnoj se vodi riba lovi.",
+          "russian": "Кризис — удобное время для мошенников: на неразберихе можно нажиться.",
+          "source": ""
+        }
+      ],
+      "note": "Значение очень близко русскому «ловить рыбу в мутной воде»: человек извлекает выгоду из хаоса, неясности или отсутствия контроля. Пословичная форма имеет инверсию u mutnoj se vodi, а в живой речи возможно и обычное loviti u mutnom. Обычно содержит неодобрение действий выгодополучателя.",
+      "keyword": "u mutnoj se vodi riba lovi"
     },
     {
       "headword_latin": "U naponu snage",
@@ -45538,6 +46018,33 @@
       "keyword": "čežnja"
     },
     {
+      "headword_latin": "Udarati u talambase",
+      "type": "frazeologizam",
+      "definition_ru": "трубить на каждом углу; поднимать шумиху; громогласно объявлять на весь свет",
+      "synonyms_sr": [
+        "objavljivati na sva zvona",
+        "razglasiti",
+        "dići veliku buku",
+        "hvaliti se na sav glas"
+      ],
+      "literal_ru": "бить в барабаны-таламбасы",
+      "register": "knjiški, arhaično-ekspresivno; ređe u savremenom razgovoru",
+      "examples": [
+        {
+          "serbian_latin": "Nema potrebe da udaraš u talambase zbog svakog malog uspeha.",
+          "russian": "Не нужно трубить на каждом углу о каждом маленьком успехе.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Vest su objavili bez pompe, nisu udarali u talambase.",
+          "russian": "Новость объявили без помпы, не стали поднимать шумиху.",
+          "source": ""
+        }
+      ],
+      "note": "Talambas — разновидность большого барабана, известная в старой балканской военной и праздничной традиции. Переносный образ — шумно и напоказ возвещать о чём-либо, особенно стараясь привлечь всеобщее внимание. Для живой речи обычно естественнее zvoniti na sva zvona, а этот оборот сохраняет книжно-старинную окраску.",
+      "keyword": "udarati u talambase"
+    },
+    {
       "headword_latin": "Udariti / lupiti šakom o sto",
       "type": "frazeologizam",
       "definition_ru": "стукнуть кулаком по столу; проявить твёрдость; властно сказать «хватит»",
@@ -46141,6 +46648,33 @@
       ],
       "note": "Klada — толстое бревно, колода. Пословица противопоставляет интеллектуальную власть грубой физической силе: сила способна двигать тяжести, но решение и руководство принадлежат уму. Для русского буквальный перевод понятен, но как пословица он не закреплён.",
       "keyword": "um; snaga"
+    },
+    {
+      "headword_latin": "Umiljato jagnje dve ovce sisa",
+      "type": "poslovica",
+      "definition_ru": "ласковый телёнок двух маток сосёт; мягкостью и обходительностью добиваются большего",
+      "synonyms_sr": [
+        "lepom rečju se mnogo postiže",
+        "ljubaznost otvara vrata",
+        "umiljatošću se lakše uspeva"
+      ],
+      "literal_ru": "ласковый ягнёнок сосёт двух овец",
+      "register": "poslovica; može biti pohvalna ili ironično-neodobravajuća",
+      "examples": [
+        {
+          "serbian_latin": "Narodna izreka kaže: „Umiljato jagnje dve ovce sisa.“",
+          "russian": "Народная пословица гласит: «Ласковый телёнок двух маток сосёт».",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/politika/sergej-trifunovic-uputio-otvoreno-pismo-vucicu/"
+        },
+        {
+          "serbian_latin": "Sa svima je ljubazan i uvek nešto dobije — umiljato jagnje dve ovce sisa.",
+          "russian": "Он со всеми обходителен и всегда чего-нибудь добивается — ласковый телёнок двух маток сосёт.",
+          "source": ""
+        }
+      ],
+      "note": "Сербский образ содержит jagnje — ягнёнка, русский — телёнка; буквальная калька хуже узнаваемой русской пословицы. Нередко выражение употребляют иронически о человеке, который любезностью старается получить выгоду с двух сторон. Поэтому оценка может колебаться от похвалы дипломатичности до упрёка в приспособленчестве.",
+      "keyword": "umiljato jagnje dve ovce sisa"
     },
     {
       "headword_latin": "Uobražen kao ćuran",
