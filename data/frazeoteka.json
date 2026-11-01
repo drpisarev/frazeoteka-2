@@ -1,6 +1,32 @@
 {
   "entries": [
     {
+      "headword_latin": "(Tamni) podočnjaci",
+      "type": "kolokacija",
+      "definition_ru": "тёмные круги под глазами",
+      "synonyms_sr": [
+        "tamni kolutovi ispod očiju",
+        "podočnjaci"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "opšte umoran izgled koji karakterišu tamni podočnjaci i bleda ili žućkasta koža",
+          "russian": "в целом усталый вид, для которого характерны тёмные круги под глазами и бледная либо желтоватая кожа",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zdravlje/zdravstvena-stanja/sta-je-feritinsko-lice-uzrok-i-simptomi-koji-ga-otkrivaju/69bk2h9"
+        },
+        {
+          "serbian_latin": "Od nespavanja su mu se pojavili tamni podočnjaci.",
+          "russian": "От недосыпа у него появились тёмные круги под глазами.",
+          "source": ""
+        }
+      ],
+      "note": "Podočnjaci называют область и изменения под глазами; tamni уточняет тёмный оттенок. В отличие от русского «мешки под глазами» выражение не обязательно подразумевает отёчность.",
+      "keyword": "tamni podočnjaci"
+    },
+    {
       "headword_latin": "Ahilova peta",
       "type": "frazeologizam",
       "definition_ru": "ахиллесова пята; слабое место; уязвимая точка",
@@ -7184,6 +7210,33 @@
       "keyword": "divlji; pitomi"
     },
     {
+      "headword_latin": "Došlo je do teških reči",
+      "type": "kolokacija",
+      "definition_ru": "дело дошло до взаимных оскорблений",
+      "synonyms_sr": [
+        "pale su teške reči",
+        "razmenjene su uvrede",
+        "došlo je do verbalnog sukoba"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Kako su zaratili kao nikada do sad, došlo je do veoma teških reči.",
+          "russian": "Поскольку они поссорились сильнее, чем когда-либо прежде, дело дошло до очень резких оскорблений.",
+          "source": "Alo, 2026",
+          "url": "https://www.alo.rs/vip/elita-9/16828491/asmin-durdzic-uzeo-motku-i-zabarikadirao-se-od-maje-marinkovic-pokusala-da-razvali-vrata.html"
+        },
+        {
+          "serbian_latin": "Između kolega je došlo do teških reči.",
+          "russian": "Между коллегами дело дошло до взаимных оскорблений.",
+          "source": ""
+        }
+      ],
+      "note": "Безличная конструкция došlo je do + родительный падеж выражает наступление события. Teške reči — не «сложные слова», а грубые, обидные высказывания.",
+      "keyword": "došlo je do teških reči"
+    },
+    {
       "headword_latin": "Dotaći se teme / pitanja",
       "type": "kolokacija",
       "definition_ru": "коснуться темы / вопроса; кратко затронуть что-либо в разговоре",
@@ -11265,6 +11318,32 @@
       ],
       "note": "Выражение подчёркивает, что человек понимает опасность или должен её понимать, но всё равно продолжает рискованные действия. Встречается также существительное igra s vatrom.",
       "keyword": "vatra"
+    },
+    {
+      "headword_latin": "Ili bar tako izgleda",
+      "type": "replika",
+      "definition_ru": "или, во всяком случае, так кажется",
+      "synonyms_sr": [
+        "ili se bar tako čini",
+        "ili makar tako deluje"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Ili bar tako izgleda, kao što i London povremeno liči na Petrograd iz 1917.",
+          "russian": "Или, по крайней мере, так кажется, подобно тому как Лондон временами напоминает Петроград 1917 года.",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/vesti/drustvo/bombasi-samoubice/"
+        },
+        {
+          "serbian_latin": "Svi su zadovoljni, ili bar tako izgleda.",
+          "russian": "Все довольны — по крайней мере, так кажется.",
+          "source": ""
+        }
+      ],
+      "note": "Вторая часть уточняет и ослабляет предыдущее утверждение: автор допускает, что действительность может отличаться от впечатления. Союз ili в начале реплики здесь не ошибка.",
+      "keyword": "ili bar tako izgleda"
     },
     {
       "headword_latin": "Ima dana za megdana",
@@ -42791,6 +42870,58 @@
       "keyword": "tajno glasanje"
     },
     {
+      "headword_latin": "Takav je kakav je",
+      "type": "replika",
+      "definition_ru": "каков есть, таков есть; его уже не переделаешь",
+      "synonyms_sr": [
+        "ne može iz svoje kože",
+        "treba ga prihvatiti takvog"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Takav je kakav je, takvi su zakoni kakvi su, ima da se poštuju.",
+          "russian": "Какой есть, такой есть; законы тоже такие, какие есть, и соблюдать их необходимо.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/politika/ponos-clanstvo-u-eu-dobro-za-gradjane/"
+        },
+        {
+          "serbian_latin": "Znam da je tvrdoglav, ali takav je kakav je.",
+          "russian": "Знаю, что он упрямый, но уж какой есть, такой есть.",
+          "source": ""
+        }
+      ],
+      "note": "Формула примирения с фактом или чужим характером. Человека можно не одобрять, но изменить трудно. Её можно употреблять не только о человеке, но и об устройстве вещей, как в газетной цитате.",
+      "keyword": "takav je kakav je"
+    },
+    {
+      "headword_latin": "Takav je svet",
+      "type": "replika",
+      "definition_ru": "таков мир; так уж устроен свет",
+      "synonyms_sr": [
+        "takav je život",
+        "tako je kako je"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Takav je svet u kojem živimo.",
+          "russian": "Таков мир, в котором мы живём.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/ekonomija/ruski-ambasador-porucuje-gradjankama-i-gradjanima-srbije-imacete-gas-i-posle-marta-po-najboljoj-ceni/"
+        },
+        {
+          "serbian_latin": "Nije uvek pravedno, ali takav je svet.",
+          "russian": "Не всегда всё справедливо, но так уж устроен мир.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно выражает смирение с неприятными реалиями или констатацию положения вещей. Не следует переводить каждое отдельное takav буквально как «такой» без учёта всей реплики.",
+      "keyword": "takav je svet"
+    },
+    {
       "headword_latin": "Takav je život",
       "type": "replika",
       "definition_ru": "такова жизнь; ничего не поделаешь",
@@ -42838,6 +42969,32 @@
       ],
       "note": "",
       "keyword": "tako blizu a ipak tako daleko"
+    },
+    {
+      "headword_latin": "Tako izgleda",
+      "type": "replika",
+      "definition_ru": "похоже на то; по всей видимости",
+      "synonyms_sr": [
+        "tako deluje",
+        "čini se da je tako"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "bar tako izgleda ono što može da se vidi na snimcima",
+          "russian": "по крайней мере, так это выглядит на видеозаписях",
+          "source": "BBC News na srpskom / Danas, 2026",
+          "url": "https://www.danas.rs/bbc-news-serbian/bugarski-voz-kako-izgleda-ringispil-glasanje/"
+        },
+        {
+          "serbian_latin": "Tako izgleda, ali još nemamo potvrdu.",
+          "russian": "Похоже на то, но подтверждения пока нет.",
+          "source": ""
+        }
+      ],
+      "note": "Говорящий оценивает видимость или косвенные признаки, но не обязательно утверждает достоверный факт. Часто сочетается с bar: bar tako izgleda — «по крайней мере, так кажется».",
+      "keyword": "tako izgleda"
     },
     {
       "headword_latin": "Tako je kako je",
@@ -42946,6 +43103,32 @@
       "keyword": "tako prolazi slava ovog sveta"
     },
     {
+      "headword_latin": "Tako stoje stvari",
+      "type": "replika",
+      "definition_ru": "так обстоят дела; вот какая ситуация",
+      "synonyms_sr": [
+        "takva je situacija",
+        "stvari tako stoje"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Tako stoje stvari i sa aktuelnom pričom o američkim sankcijama Naftnoj industriji Srbije.",
+          "russian": "Так обстоят дела и с нынешней историей об американских санкциях против нефтяной компании Сербии.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/vucic-sankcije-nis-dragomir-andjelkovic/"
+        },
+        {
+          "serbian_latin": "Ne sviđa mi se odluka, ali tako stoje stvari.",
+          "russian": "Мне не нравится решение, но так обстоят дела.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивое заключение или переход к объяснению положения дел. Здесь stoje — форма глагола stajati, а не императив; выражение нередко служит вводным оборотом.",
+      "keyword": "tako stoje stvari"
+    },
+    {
       "headword_latin": "Tako te hoću!",
       "type": "replika",
       "definition_ru": "вот так-то лучше!; вот таким я тебя и хочу видеть!; молодец, так держать!",
@@ -42997,6 +43180,113 @@
       ],
       "note": "Оборот означает, что человек сам заслужил неприятные последствия. По тону это скорее упрёк или злорадство, чем сочувствие; в ситуации настоящего несчастья может звучать жестоко. Частица i усиливает оценку: именно так ему и надо.",
       "keyword": "tako ti i treba"
+    },
+    {
+      "headword_latin": "Tako ti je to",
+      "type": "replika",
+      "definition_ru": "так уж оно есть; ничего не поделаешь",
+      "synonyms_sr": [
+        "šta da se radi",
+        "tako je kako je",
+        "to ti je život"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Tako ti je to, druže Mićo!",
+          "russian": "Так-то оно и бывает, друг Мичо!",
+          "source": "Politika, 2021",
+          "url": "https://www.politika.rs/sr/articles/amp/484483"
+        },
+        {
+          "serbian_latin": "Nismo uspeli da se dogovorimo, tako ti je to.",
+          "russian": "Договориться не удалось, так уж оно есть.",
+          "source": ""
+        }
+      ],
+      "note": "Частица ti делает реплику доверительно-разговорной; не обязательно означает обращение к конкретному человеку. В зависимости от интонации звучит примирительно, иронично или с сожалением.",
+      "keyword": "tako ti je to"
+    },
+    {
+      "headword_latin": "Tako ti je to u životu",
+      "type": "replika",
+      "definition_ru": "такова уж жизнь; ничего не поделаешь",
+      "synonyms_sr": [
+        "takav je život",
+        "šta da se radi",
+        "život je takav"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Tako ti je to u životu, pomogneš koliko možeš i daš svoj maksimum da budeš čovek.",
+          "russian": "Так уж бывает в жизни: помогаешь сколько можешь и стараешься поступать по-человечески.",
+          "source": "Večernje novosti, 2022",
+          "url": "https://www.novosti.rs/sport/tenis/1075801/novak-djokovic-najnovije-vesti-tenis-news-australian-open-2022-australija-vladimir-stimac-kosarka"
+        },
+        {
+          "serbian_latin": "Ponekad dobiješ, ponekad izgubiš — tako ti je to u životu.",
+          "russian": "Иногда выигрываешь, иногда проигрываешь — такова жизнь.",
+          "source": ""
+        }
+      ],
+      "note": "Развёрнутая реплика с философским, нередко горьким оттенком. Второе лицо единственного числа в продолжении pomogneš обозначает человека вообще: по-русски это часто передаётся обобщённо-личной конструкцией.",
+      "keyword": "tako ti je to u životu"
+    },
+    {
+      "headword_latin": "Tako to otprilike izgleda",
+      "type": "replika",
+      "definition_ru": "примерно так это и выглядит",
+      "synonyms_sr": [
+        "tako nekako izgleda",
+        "otprilike je tako"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Tako to, otprilike, izgleda gledano sa strane.",
+          "russian": "Примерно так всё выглядит со стороны.",
+          "source": "Zoomer, 2022",
+          "url": "https://zoomer.rs/presek-nedelje-ko-ovu-dramu-rezira/"
+        },
+        {
+          "serbian_latin": "Tako to otprilike izgleda kada se sve sabere.",
+          "russian": "Примерно так всё и выглядит, если подвести итог.",
+          "source": ""
+        }
+      ],
+      "note": "Otprilike сообщает приблизительность оценки; запятые вокруг наречия факультативны и зависят от интонации. Не означает, что автор полностью уверен в своей интерпретации.",
+      "keyword": "tako to otprilike izgleda"
+    },
+    {
+      "headword_latin": "Taktički manevar",
+      "type": "kolokacija",
+      "definition_ru": "тактический манёвр; хитрый ход",
+      "synonyms_sr": [
+        "taktički potez",
+        "proračunat potez",
+        "lukav potez"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Hoće li unutrašnji dijalog o litijumu biti uspešniji od onog o Kosovu ili je to samo Vučićev taktički manevar?",
+          "russian": "Будет ли внутренний диалог о литии успешнее прежнего диалога о Косове или это лишь тактический манёвр Вучича?",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/politika/hoce-li-unutrasnji-dijalog-o-litijumu-biti-uspesniji-od-onog-o-kosovu-ili-je-to-samo-vucicev-takticki-manevar/"
+        },
+        {
+          "serbian_latin": "Njegovo povlačenje bilo je samo taktički manevar.",
+          "russian": "Его отступление было лишь тактическим манёвром.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание относится к спорту, военному делу и особенно к политике. В переносном употреблении намекает, что внешнее действие преследует иную, скрытую цель.",
+      "keyword": "taktički manevar"
     },
     {
       "headword_latin": "Takve treba svećom tražiti",
@@ -43051,6 +43341,33 @@
       "keyword": "takvi se ne rađaju svaki dan"
     },
     {
+      "headword_latin": "Taman mi je",
+      "type": "replika",
+      "definition_ru": "мне как раз впору; мой размер",
+      "synonyms_sr": [
+        "baš mi je po meri",
+        "odgovara mi",
+        "ni veliko ni malo"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Ja nosim XS i taman mi je",
+          "russian": "Я ношу размер XS, и мне как раз впору.",
+          "source": "MojeKrpice.rs, 2025",
+          "url": "https://mojekrpice.rs/items/zene/12400798/nova-haljina-uni"
+        },
+        {
+          "serbian_latin": "Ne treba mi veća jakna, ova mi je taman.",
+          "russian": "Куртка побольше не нужна, эта мне как раз впору.",
+          "source": ""
+        }
+      ],
+      "note": "Разговорное taman значит «точно впору» — о размере одежды, обуви или количестве; не путать с прилагательным taman «тёмный». Конструкция mi je с дательным указывает, кому вещь подходит.",
+      "keyword": "taman mi je"
+    },
+    {
       "headword_latin": "Tamna mrlja",
       "type": "kolokacija",
       "definition_ru": "тёмное пятно; позорное пятно на репутации",
@@ -43102,6 +43419,86 @@
       ],
       "note": "Выражение связано с известным преданием о tamni vilajet: путникам в темноте предлагают взять камни с предупреждением, что и взявшие, и не взявшие будут жалеть; на свету камни оказываются драгоценностями. Мотив пришёл через средневековый роман об Александре Великом и был записан Вуком Караджичем. Vilajet — турцизм, исторически «область, провинция».",
       "keyword": "tamni vilajet"
+    },
+    {
+      "headword_latin": "Tamo gde je Bog rekao laku noć",
+      "type": "izraz",
+      "definition_ru": "на краю света; куда Макар телят не гонял",
+      "synonyms_sr": [
+        "Bogu iza leđa",
+        "u nedođiji",
+        "gde je Bog rekao laku noć"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Šta ti je, pa tamo je i Bog rekao laku noć!",
+          "russian": "Да ты что, там даже Бог сказал «спокойной ночи» — настоящая глушь!",
+          "source": "NIN, 2023",
+          "url": "https://www.nin.rs/arhiva/vesti/13041/guca-i-ostalo"
+        },
+        {
+          "serbian_latin": "Živi tamo gde je Bog rekao laku noć.",
+          "russian": "Живёт на краю света.",
+          "source": ""
+        }
+      ],
+      "note": "Образ отдалённого, богом забытого места. В живой речи возможен иной порядок слов — tamo je i Bog rekao laku noć, как в приведённой цитате. Выражение обычно ироничное или неодобрительное; распространена также форма Gde je Bog rekao laku noć.",
+      "keyword": "tamo gde je bog rekao laku noć"
+    },
+    {
+      "headword_latin": "Tamo negde",
+      "type": "izraz",
+      "definition_ru": "где-то там; в каком-то неизвестном месте",
+      "synonyms_sr": [
+        "negde tamo",
+        "na nekom udaljenom mestu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Ono što se dešava „tamo negde” obavezno se odrazi i na nas, povezali mi to ili ne.",
+          "russian": "То, что происходит «где-то там», обязательно отражается и на нас, осознаём мы эту связь или нет.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/vesti/drustvo/aleksandra-godfroa-dogadjaj-od-tamo-negde-obavezno-se-odrazi-i-na-nas/"
+        },
+        {
+          "serbian_latin": "Negde tamo, iza brda, nalazi se selo.",
+          "russian": "Где-то там, за холмом, находится деревня.",
+          "source": ""
+        }
+      ],
+      "note": "Нейтральное сочетание с неопределённостью места; в кавычках может обозначать психологически далёкие события, которые на самом деле связаны с нами. Не равно фразеологизму Bogu iza leđa.",
+      "keyword": "tamo negde"
+    },
+    {
+      "headword_latin": "Tamo-amo",
+      "type": "izraz",
+      "definition_ru": "туда-сюда; взад-вперёд",
+      "synonyms_sr": [
+        "ovamo-onamo",
+        "napred-nazad",
+        "amo-tamo"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Na talasima, nošena tamo-amo, plutaju nekakva plovila.",
+          "russian": "На волнах туда-сюда носило какие-то судёнышки.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/kolumna/vladimir-jokic/pucina/"
+        },
+        {
+          "serbian_latin": "Ceo dan je išao tamo-amo po hodniku.",
+          "russian": "Весь день он ходил по коридору туда-сюда.",
+          "source": ""
+        }
+      ],
+      "note": "Это удвоенное наречие направления: движение меняет направление туда и обратно. По сербскому правописанию пишется через дефис: tamo-amo.",
+      "keyword": "tamo amo"
     },
     {
       "headword_latin": "Tampon država",
@@ -43347,6 +43744,33 @@
       ],
       "note": "Образ изобилия. Очень часто употребляется с отрицанием или иронией: nije baš da teče med i mleko — «не то чтобы всё было прекрасно».",
       "keyword": "med i mleko; blagostanje; izobilje"
+    },
+    {
+      "headword_latin": "Temeljna promena",
+      "type": "kolokacija",
+      "definition_ru": "коренная перемена; глубокое изменение",
+      "synonyms_sr": [
+        "korenita promena",
+        "radikalna promena",
+        "duboka promena"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "ukoliko očekujemo dugoročni boljitak u medijima, to bi morala da bude temeljna promena",
+          "russian": "если мы рассчитываем на долгосрочное улучшение положения СМИ, это должно быть коренное изменение",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/drustvo/manja-grcic-ostavka-rts-posle-izbora/"
+        },
+        {
+          "serbian_latin": "U poslednjoj deceniji došlo je do temeljne promene.",
+          "russian": "За последнее десятилетие произошла коренная перемена.",
+          "source": ""
+        }
+      ],
+      "note": "Temeljna указывает на затрагивание основ, а не просто на большое количество изменений. Особенно частотно в общественно-политической и аналитической речи.",
+      "keyword": "temeljna promena"
     },
     {
       "headword_latin": "Tempirana bomba",
@@ -43672,6 +44096,33 @@
       "keyword": "teška nepravda"
     },
     {
+      "headword_latin": "Teška osoba",
+      "type": "kolokacija",
+      "definition_ru": "тяжёлый человек; человек со сложным характером",
+      "synonyms_sr": [
+        "zahtevna osoba",
+        "naporna osoba",
+        "nezgodan čovek"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Ja sam teška osoba.",
+          "russian": "Я человек с непростым характером.",
+          "source": "Blic, 2024",
+          "url": "https://www.blic.rs/zabava/ovaj-poznati-muskarac-je-bivsi-decko-milice-pavlovic-bila-sam-sa-njim-priznajem-ja/f1zw4ph"
+        },
+        {
+          "serbian_latin": "Teško je sarađivati s njim, on je teška osoba.",
+          "russian": "С ним трудно работать, у него тяжёлый характер.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь teška относится к характеру и общению, а не к массе тела. В зависимости от контекста может означать требовательность, конфликтность или то, что человеку трудно угодить.",
+      "keyword": "teška osoba"
+    },
+    {
       "headword_latin": "Teška srca",
       "type": "frazeologizam",
       "definition_ru": "скрепя сердце; с тяжёлым сердцем; крайне неохотно и с сожалением",
@@ -43723,6 +44174,33 @@
       ],
       "note": "",
       "keyword": "teška telesna povreda"
+    },
+    {
+      "headword_latin": "Teška vremena su pred nama",
+      "type": "kolokacija",
+      "definition_ru": "впереди трудные времена",
+      "synonyms_sr": [
+        "čekaju nas teška vremena",
+        "dolaze teški dani",
+        "predstoje teške godine"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Teška vremena su pred nama, mir je naš prioritet",
+          "russian": "Впереди трудные времена, сохранение мира — наш приоритет.",
+          "source": "Euronews Srbija, 2026",
+          "url": "https://www.euronews.rs/evropa/region/204376/otvorena-nova-bolnica-sveti-arhidakon-stefan-u-trebinju/vest"
+        },
+        {
+          "serbian_latin": "Teška vremena su pred nama, ali nećemo odustati.",
+          "russian": "Впереди трудные времена, но мы не отступим.",
+          "source": ""
+        }
+      ],
+      "note": "Конструкция pred nama употребляется о будущем, которое ещё предстоит пережить. Не надо понимать pred исключительно пространственно: здесь это «впереди нас по времени».",
+      "keyword": "teška vremena su pred nama"
     },
     {
       "headword_latin": "Teške posledice",
@@ -43851,6 +44329,33 @@
       "keyword": "žaba"
     },
     {
+      "headword_latin": "Teško mi pada",
+      "type": "izraz",
+      "definition_ru": "мне это тяжело даётся; я тяжело это переживаю",
+      "synonyms_sr": [
+        "teško to podnosim",
+        "bolno mi je",
+        "pogađa me"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Teško mi pada što praznike provodim bez oca, ali šta da se radi, život ide dalje.",
+          "russian": "Мне тяжело проводить праздники без отца, но что поделаешь — жизнь продолжается.",
+          "source": "Večernje novosti, 2021",
+          "url": "https://recepti.novosti.rs/scena/poznati/952005/ste-pametujete-darko-lazic-ostro-odgovorio-napade-nakon-smrti-oca-bozic-nece-biti-isti-bez-njega"
+        },
+        {
+          "serbian_latin": "Teško mi pada što se seliš.",
+          "russian": "Мне тяжело оттого, что ты переезжаешь.",
+          "source": ""
+        }
+      ],
+      "note": "Типичная конструкция teško mi pada + što / da + придаточное. Глагол padati здесь относится к эмоциональной реакции, а не к физическому падению.",
+      "keyword": "teško mi pada"
+    },
+    {
       "headword_latin": "Teško onom ko zlotvora nema",
       "type": "poslovica",
       "definition_ru": "плохо тому, у кого нет врагов; если у тебя нет недоброжелателей, значит, ты ничего не стоишь / ничем себя не проявил",
@@ -43925,6 +44430,33 @@
       ],
       "note": "Црвенка — населённый пункт в Воеводине; комизм поддерживается ассоциацией с crven «красный». Выражение действительно употреблялось как эвфемизм менструации, но сегодня может звучать старомодно или нарочито шутливо.",
       "keyword": "tetka iz Crvenke"
+    },
+    {
+      "headword_latin": "Težak zadatak",
+      "type": "kolokacija",
+      "definition_ru": "сложная задача; непростое поручение",
+      "synonyms_sr": [
+        "zahtevan zadatak",
+        "veliki izazov",
+        "težak posao"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Jasno nam je šta nas čeka, pred nama veliki i težak zadatak",
+          "russian": "Мы понимаем, что нас ждёт: перед нами большая и трудная задача.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/sport/fudbal/liga_sampiona/6067280/liga-konferencije-fk-crvena-zvezda-2026.html"
+        },
+        {
+          "serbian_latin": "Pred nama je težak zadatak.",
+          "russian": "Перед нами сложная задача.",
+          "source": ""
+        }
+      ],
+      "note": "Težak zadatak — обычное устойчивое сочетание, не идиома. Прилагательное здесь означает «трудный для выполнения», а не «тяжёлый по весу».",
+      "keyword": "težak zadatak"
     },
     {
       "headword_latin": "Ti si svoju šansu prokockao",
