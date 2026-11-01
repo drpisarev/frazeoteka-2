@@ -933,6 +933,33 @@
       "keyword": "beo kao kreč"
     },
     {
+      "headword_latin": "Besmislica",
+      "type": "imenica",
+      "definition_ru": "бессмыслица; нелепость; вздор",
+      "synonyms_sr": [
+        "glupost",
+        "apsurd",
+        "koještarija"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Besmislica do besmislice.",
+          "russian": "Сплошные нелепости, одна за другой.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/eto-sta-je-njegova-politika-batine-i-milostinja/"
+        },
+        {
+          "serbian_latin": "To što pričaš potpuna je besmislica.",
+          "russian": "То, что ты говоришь, полная бессмыслица.",
+          "source": ""
+        }
+      ],
+      "note": "Нейтральнее, чем разговорное koještarija: употребляется и в аргументированной критике, и в повседневном споре. Не путать с besmisleno, которое является наречием или формой прилагательного.",
+      "keyword": "besmislica"
+    },
+    {
       "headword_latin": "Besposlen pop i jariće krsti",
       "type": "poslovica",
       "definition_ru": "от нечего делать заниматься ерундой; у бездельника и бессмысленная работа найдётся",
@@ -16175,6 +16202,60 @@
       "keyword": "zmija; gušter"
     },
     {
+      "headword_latin": "Koješta",
+      "type": "uzvik",
+      "definition_ru": "чепуха; ерунда",
+      "synonyms_sr": [
+        "ma kakvi",
+        "gluposti",
+        "besmislice"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Koješta. Nije bilo moćnijeg čoveka u Srbiji, pedesetih i šezdesetih godina, bar u kulturi, od Dobrice.",
+          "russian": "Чепуха. В Сербии пятидесятых и шестидесятых не было человека влиятельнее Добрицы, по крайней мере в культуре.",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/kultura/disidenti-iz-srca-vlasti/"
+        },
+        {
+          "serbian_latin": "Ma koješta! Ne verujem u te priče.",
+          "russian": "Да ерунда! Не верю я этим рассказам.",
+          "source": ""
+        }
+      ],
+      "note": "Может употребляться как самостоятельная возмущённая реплика: Koješta! — «Да ерунда!»; также pričati koješta — «болтать всякую чушь». В живом языке это не только существительное, поэтому для реплики выбран тип uzvik.",
+      "keyword": "koješta"
+    },
+    {
+      "headword_latin": "Koještarija",
+      "type": "imenica",
+      "definition_ru": "вздор; чепуха; пустяки",
+      "synonyms_sr": [
+        "besmislica",
+        "glupost",
+        "koješta"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Koještarija do koještarije.",
+          "russian": "Ерунда на ерунде.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/eto-sta-je-njegova-politika-batine-i-milostinja/"
+        },
+        {
+          "serbian_latin": "Ne troši vreme na koještarije.",
+          "russian": "Не трать время на ерунду.",
+          "source": ""
+        }
+      ],
+      "note": "Разговорное существительное, обычно с неодобрением: так называют нелепое утверждение или бессодержательные разговоры. Форма множественного числа koještarije встречается, когда говорят о множестве таких высказываний.",
+      "keyword": "koještarija"
+    },
+    {
       "headword_latin": "kola su krenula nizbrdo",
       "type": "rečenični frazem",
       "definition_ru": "Дела пошли под откос; положение начало стремительно ухудшаться.",
@@ -20951,6 +21032,33 @@
       "keyword": "ne izbijati iz"
     },
     {
+      "headword_latin": "Ne izlaziti iz glave kome",
+      "type": "frazeologizam",
+      "definition_ru": "не выходить из головы",
+      "synonyms_sr": [
+        "stalno misliti na nešto",
+        "ne moći zaboraviti",
+        "vrteti se po glavi"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "rečenica uspaničenog brata „Ustaj, kuća nam gori“ – ne izlazi mi iz glave",
+          "russian": "слова испуганного брата «Вставай, наш дом горит!» не выходят у меня из головы",
+          "source": "Danas / JuGmedia, 2023",
+          "url": "https://www.danas.rs/vesti/drustvo/ustaj-kuca-nam-gori-braci-iz-sela-gagince-kod-leskovca-za-pet-minuta-do-temelja-izgorela-kuca/"
+        },
+        {
+          "serbian_latin": "Njegove reči mi ne izlaze iz glave.",
+          "russian": "Его слова не выходят у меня из головы.",
+          "source": ""
+        }
+      ],
+      "note": "Лицо, которое не может забыть что-либо, выражено дательным падежом: ne izlazi mi/ti/mu iz glave. Подлежащее — сама мысль или фраза: Njene reči mi ne izlaze iz glave.",
+      "keyword": "ne izlaziti iz glave kome"
+    },
+    {
       "headword_latin": "Ne laje kera sela radi, nego sebe radi",
       "type": "poslovica",
       "definition_ru": "Человек действует не ради общего блага, как может утверждать, а прежде всего ради собственной выгоды или интереса. По-русски: «не за других старается — свой интерес блюдёт».",
@@ -24311,6 +24419,32 @@
       ],
       "note": "Это не обычное возвратное значение nositi se «справляться; носить что-либо определённым образом», а самостоятельный грубый отсыл. По силе может быть от раздражённого «отстань» до функционального аналога русского «пошёл н***й», однако само сербское выражение не обсценное.",
       "keyword": "nosi se"
+    },
+    {
+      "headword_latin": "Novi smisao (života)",
+      "type": "kolokacija",
+      "definition_ru": "новый смысл жизни",
+      "synonyms_sr": [
+        "novi životni cilj",
+        "nova svrha u životu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "samim tim sebi dajemo novi smisao života",
+          "russian": "тем самым мы придаём своей жизни новый смысл",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/6004454/umetnost-tkanje-i-tradicija--stvaralastvo-osoba-sa-invaliditetom-u-pocerini.html"
+        },
+        {
+          "serbian_latin": "Posle selidbe pronašla je novi smisao života.",
+          "russian": "После переезда она нашла новый смысл жизни.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно сочетается с глаголами pronaći, naći, dati, otkriti. Сербское smisao života совпадает с русским «смысл жизни»; но dati sebi novi smisao života лучше переводить «обрести новый смысл», а не механически по словам.",
+      "keyword": "novi smisao života"
     },
     {
       "headword_latin": "Novinarska patka",
@@ -30943,6 +31077,32 @@
       ],
       "note": "Переносное значение непосредственно основано на ručna kočnica — ручном тормозе автомобиля: говорящего призывают остановиться, замедлиться, умерить напор или не идти дальше в выбранном направлении. В сербской разговорной и публицистической речи выражение хорошо закрепилось; встречается и короткая реплика Ručna! со значением «стоп, притормози». Не следует переводить буквально как «потянуть ручник», если речь не об автомобиле.",
       "keyword": "povući ručnu"
+    },
+    {
+      "headword_latin": "Pozlatila ti se usta!",
+      "type": "replika",
+      "definition_ru": "золотые у тебя слова!; да сбудется сказанное!",
+      "synonyms_sr": [
+        "daj Bože da bude tako",
+        "neka se obistine tvoje reči"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Usta ti se pozlatila Konuzine!",
+          "russian": "Твои бы слова да Богу в уши, Конузин!",
+          "source": "Večernje novosti (komentar), 2011",
+          "url": "https://www.novosti.rs/vesti/naslovna/aktuelno.69.html%3A345310-Konuzin-napustio-Beogradski-bezbednosni-forum"
+        },
+        {
+          "serbian_latin": "„Biće sve dobro.“ — „Pozlatila ti se usta!“",
+          "russian": "«Всё будет хорошо». — «Твои бы слова да Богу в уши!»",
+          "source": ""
+        }
+      ],
+      "note": "Реплика-отклик на желанное предсказание или доброе пожелание: «Твои бы слова да Богу в уши». Источник — читательский комментарий; в исходном тексте нет запятой перед обращением Konuzine. Возможен обратный порядок слов Usta ti se pozlatila.",
+      "keyword": "pozlatila ti se usta"
     },
     {
       "headword_latin": "Prati / oprati ruke od nečega",
@@ -41851,6 +42011,33 @@
       "keyword": "piškiti; dečja rima"
     },
     {
+      "headword_latin": "Šlajfovati",
+      "type": "glagol",
+      "definition_ru": "буксовать; стоять на месте",
+      "synonyms_sr": [
+        "tapkati u mestu",
+        "ne napredovati",
+        "vrteti se u mestu"
+      ],
+      "literal_ru": "",
+      "register": "razg.; često figurativno",
+      "examples": [
+        {
+          "serbian_latin": "njena popularnost „šlajfuje“ kako u SAD tako i u rodnoj zemlji princa Harija.",
+          "russian": "её популярность буксует как в США, так и на родине принца Гарри.",
+          "source": "RTS, 2023",
+          "url": "https://rts.rs/lat/magazin/svet-poznatih/5286887/megan-markl-imidz-nepopravljivo-ostecen.html"
+        },
+        {
+          "serbian_latin": "Ekonomija šlajfuje i ne napreduje.",
+          "russian": "Экономика буксует и не развивается.",
+          "source": ""
+        }
+      ],
+      "note": "Из немецкого schleifen через автомобильную разговорную лексику: колёса вращаются, но машина не движется. В переносном значении так говорят о работе, переговорах, рейтингах или карьере, которые перестали продвигаться.",
+      "keyword": "šlajfovati"
+    },
+    {
       "headword_latin": "Šljiva na oku",
       "type": "razgovorni izraz",
       "definition_ru": "фингал; синяк под глазом",
@@ -43394,6 +43581,33 @@
       "keyword": "tamna mrlja"
     },
     {
+      "headword_latin": "Tamni oblak (na horizontu)",
+      "type": "frazeologizam",
+      "definition_ru": "тёмная туча на горизонте; надвигающаяся беда",
+      "synonyms_sr": [
+        "preteća opasnost",
+        "nadolazeća nevolja",
+        "loš predznak"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Na horizontu se pojavljuju vrlo tamni oblaci.",
+          "russian": "На горизонте появляются очень тёмные тучи.",
+          "source": "Danas / Dojče Vele, 2026",
+          "url": "https://www.danas.rs/svet/orban-tramp-evropa-populisti/"
+        },
+        {
+          "serbian_latin": "Ekonomska kriza je tamni oblak na horizontu.",
+          "russian": "Экономический кризис — тёмная туча на горизонте.",
+          "source": ""
+        }
+      ],
+      "note": "В переносном значении предвещает неприятности; чаще встречается и множественное число tamni oblaci. Оборот na horizontu обозначает не только реальный горизонт, но и недалёкое будущее.",
+      "keyword": "tamni oblak na horizontu"
+    },
+    {
       "headword_latin": "Tamni vilajet",
       "type": "frazeologizam",
       "definition_ru": "тёмное царство; безвыходная ситуация; мрачная, запутанная среда",
@@ -43577,6 +43791,33 @@
       ],
       "note": "Тантал в древнегреческом мифе был обречён видеть воду и плоды совсем рядом, но не мог до них дотянуться. Отсюда образ мучительно близкой, но недостижимой цели.",
       "keyword": "Tantalove muke"
+    },
+    {
+      "headword_latin": "Tante za bupe",
+      "type": "izraz",
+      "definition_ru": "услуга за услугу; ты мне — я тебе; баш на баш (часто ирон.)",
+      "synonyms_sr": [
+        "tante za tante",
+        "usluga za uslugu",
+        "milo za drago"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj., ređe",
+      "examples": [
+        {
+          "serbian_latin": "Trange-frange, tante za bupe, vi nama bojkot, mi vama – cvrc!",
+          "russian": "Обмен, услуга за услугу: вы нам бойкот, а мы вам — фигушки!",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/kolumna/vladimir-jokic/vasar-u-topoli/"
+        },
+        {
+          "serbian_latin": "Dogovor je bio tante za bupe: mi njima pomoć, oni nama opremu.",
+          "russian": "Договор был по принципу «ты мне — я тебе»: мы им помощь, они нам оборудование.",
+          "source": ""
+        }
+      ],
+      "note": "Шутливая рифмованная формула обмена или ответной реакции, часто иронической. Реальное употребление подтверждено в колонке Danas; однако это заметно более редкий вариант, чем tante za tante. Выражение не всегда означает честный равноценный обмен.",
+      "keyword": "tante za bupe"
     },
     {
       "headword_latin": "Tante za kukuriku",
@@ -43771,6 +44012,60 @@
       ],
       "note": "Temeljna указывает на затрагивание основ, а не просто на большое количество изменений. Особенно частотно в общественно-политической и аналитической речи.",
       "keyword": "temeljna promena"
+    },
+    {
+      "headword_latin": "Temeljno pitanje",
+      "type": "kolokacija",
+      "definition_ru": "ключевой вопрос; основная проблема",
+      "synonyms_sr": [
+        "ključno pitanje",
+        "osnovno pitanje",
+        "suštinsko pitanje"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Kako učiniti grad humanijim okruženjem za odrastanje? – temeljno je pitanje",
+          "russian": "Как сделать город более человечной средой для взросления? — вот основополагающий вопрос.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-2/5516566/playborhood--evolucija-igre-u-gradu-i-pola-veka-umetnicke-kolonije-mileseva.html"
+        },
+        {
+          "serbian_latin": "To je temeljno pitanje cele rasprave.",
+          "russian": "Это ключевой вопрос всей дискуссии.",
+          "source": ""
+        }
+      ],
+      "note": "Temeljno относится к основаниям проблемы: это не обязательно самый трудный вопрос, а тот, от которого зависит остальное. Полезно отличать от temeljno proučiti, где то же наречие значит «досконально».",
+      "keyword": "temeljno pitanje"
+    },
+    {
+      "headword_latin": "Temeljno pretresti što",
+      "type": "izraz",
+      "definition_ru": "досконально разобрать; тщательно обсудить",
+      "synonyms_sr": [
+        "detaljno razmotriti",
+        "podrobno analizirati",
+        "pročešljati (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "trebalo temeljno pretresti sve kriterijume kako se biraju članovi REM",
+          "russian": "следовало тщательно пересмотреть все критерии отбора членов REM",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/drustvo/maksic-o-medijskoj-strategiji-kljucni-problem-biranje-clanova-rem-a/"
+        },
+        {
+          "serbian_latin": "Moramo temeljno pretresti ovaj predlog.",
+          "russian": "Нужно досконально обсудить это предложение.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол pretresti здесь означает «всесторонне разобрать, проверить», а не «встряхнуть». Совершенный вид pretresti отличается от несовершенного pretresati; существительное pretres используется также в юридическом контексте.",
+      "keyword": "temeljno pretresti što"
     },
     {
       "headword_latin": "Tempirana bomba",
@@ -44303,6 +44598,60 @@
       "keyword": "šut; rogat"
     },
     {
+      "headword_latin": "Teško je to prihvatiti",
+      "type": "izraz",
+      "definition_ru": "трудно это принять",
+      "synonyms_sr": [
+        "teško se pomiriti s tim",
+        "jedva prihvatiti",
+        "teško podneti"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Teško je bilo prihvatiti, a zatim i okolini reći da niste kao svi.",
+          "russian": "Было трудно с этим смириться, а потом ещё и сказать окружающим, что ты не такой, как все.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/smatracnica/3740250/.html?print=true"
+        },
+        {
+          "serbian_latin": "Znam da je tako, ali teško je to prihvatiti.",
+          "russian": "Знаю, что это так, но трудно с этим смириться.",
+          "source": ""
+        }
+      ],
+      "note": "После prihvatiti возможно прямое дополнение в винительном падеже: prihvatiti istinu, prihvatiti to. В отличие от poverovati, речь может быть не о недоверии, а о внутренней трудности смириться с фактом.",
+      "keyword": "teško je to prihvatiti"
+    },
+    {
+      "headword_latin": "Teško je to progutati",
+      "type": "frazeologizam",
+      "definition_ru": "трудно в это поверить; трудно это проглотить",
+      "synonyms_sr": [
+        "teško prihvatiti",
+        "teško poverovati",
+        "ne moći svariti (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Teško progutati Eskobarovu izjavu „zaboraviti narativ Kosovo je Srbija“",
+          "russian": "Трудно принять заявление Эскобара о необходимости «забыть тезис, что Косово — это Сербия».",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/politika/trajkovic-za-srbe-na-kosovu-kurti-postaje-ono-sto-je-milosevic-bio-za-kosovske-albance/"
+        },
+        {
+          "serbian_latin": "Takvo opravdanje teško je progutati.",
+          "russian": "В такое оправдание трудно поверить.",
+          "source": ""
+        }
+      ],
+      "note": "В переносном значении progutati значит не только «поверить», но и «смириться с неприятной истиной или высказыванием». Выражение особенно естественно с предметом, вызывающим возражение: takvu izjavu teško je progutati.",
+      "keyword": "teško je to progutati"
+    },
+    {
       "headword_latin": "Teško je žabu u vodu naterati",
       "type": "poslovica",
       "definition_ru": "его и уговаривать не надо; сам только этого и ждёт",
@@ -44432,6 +44781,60 @@
       "keyword": "tetka iz Crvenke"
     },
     {
+      "headword_latin": "Težak kao olovo",
+      "type": "frazeologizam",
+      "definition_ru": "тяжёлый как свинец",
+      "synonyms_sr": [
+        "veoma težak",
+        "težak kao kamen",
+        "olovno težak"
+      ],
+      "literal_ru": "",
+      "register": "poređenje, figurativno",
+      "examples": [
+        {
+          "serbian_latin": "Bio je povremeno težak kao olovo i lak kao pero.",
+          "russian": "Порой он был тяжёлым как свинец, а порой лёгким как пёрышко.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/kultura/preminuo-danko-smukov-covek-koji-nije-imao-stomak-za-nepravdu/"
+        },
+        {
+          "serbian_latin": "Posle treninga noge su mi teške kao olovo.",
+          "russian": "После тренировки ноги у меня тяжёлые как свинец.",
+          "source": ""
+        }
+      ],
+      "note": "Вещь может быть действительно тяжёлой, но сравнение употребляют и о давящем настроении или трудном характере. В газетной цитате прилагательное težak относится к человеку и противопоставлено lak kao pero.",
+      "keyword": "težak kao olovo"
+    },
+    {
+      "headword_latin": "Težak udarac",
+      "type": "kolokacija",
+      "definition_ru": "тяжёлый удар; серьёзная неудача",
+      "synonyms_sr": [
+        "ozbiljan neuspeh",
+        "veliki gubitak",
+        "bolan poraz"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Težak udarac za Merca i vladu",
+          "russian": "Тяжёлый удар для Мерца и правительства",
+          "source": "Danas / BBC na srpskom, 2026",
+          "url": "https://www.danas.rs/bbc-news-serbian/tezak-udarac-za-merca-i-vladu-velika-pobeda-desnicarske-alternative-za-nemacku-na-istoku-zemlje/"
+        },
+        {
+          "serbian_latin": "Odlazak najboljeg igrača bio je težak udarac za klub.",
+          "russian": "Уход лучшего игрока стал тяжёлым ударом для клуба.",
+          "source": ""
+        }
+      ],
+      "note": "Называет событие, которое серьёзно ослабило чьи-либо позиции или нанесло моральный урон. После za указывается пострадавшая сторона: težak udarac za nekoga; с глаголом — pretrpeti težak udarac.",
+      "keyword": "težak udarac"
+    },
+    {
       "headword_latin": "Težak zadatak",
       "type": "kolokacija",
       "definition_ru": "сложная задача; непростое поручение",
@@ -44459,6 +44862,33 @@
       "keyword": "težak zadatak"
     },
     {
+      "headword_latin": "Ti odlučuješ",
+      "type": "replika",
+      "definition_ru": "тебе решать; решение за тобой",
+      "synonyms_sr": [
+        "na tebi je odluka",
+        "ti biraš",
+        "ti imaš poslednju reč"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "ti odlučuješ – obnova demokratije",
+          "russian": "решаешь ты — возрождение демократии",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/vesti/politika/pokret-dveri-predstavio-politicki-proglas-u-pet-tacaka/"
+        },
+        {
+          "serbian_latin": "Ja sam rekao šta mislim, a ti odlučuješ.",
+          "russian": "Я сказал, что думаю, а тебе решать.",
+          "source": ""
+        }
+      ],
+      "note": "Это нейтральная реплика передачи права выбора собеседнику; в зависимости от тона может звучать как предоставление свободы или отказ от ответственности. В сербском подлежащее ti часто произносится с логическим ударением.",
+      "keyword": "ti odlučuješ"
+    },
+    {
       "headword_latin": "Ti si svoju šansu prokockao",
       "type": "izraz",
       "definition_ru": "ты упустил свой шанс; ты всё поставил на карту и проиграл",
@@ -44480,6 +44910,33 @@
       ],
       "note": "",
       "keyword": "ti si svoju šansu prokockao"
+    },
+    {
+      "headword_latin": "Tigar od hartije",
+      "type": "frazeologizam",
+      "definition_ru": "бумажный тигр; грозный с виду, слабый на деле",
+      "synonyms_sr": [
+        "prividna sila",
+        "lažni moćnik",
+        "slab protivnik"
+      ],
+      "literal_ru": "",
+      "register": "figurativno, publicistički",
+      "examples": [
+        {
+          "serbian_latin": "Na šta ovaj tigar od hartije reaguje? Od čega cvika?",
+          "russian": "На что реагирует этот бумажный тигр? Чего он боится?",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/zavrsni-okrsaj-ili-the-final-showdown/"
+        },
+        {
+          "serbian_latin": "Ispostavilo se da je taj protivnik tigar od hartije.",
+          "russian": "Оказалось, что этот противник — бумажный тигр.",
+          "source": ""
+        }
+      ],
+      "note": "Международный политический образ: выглядит грозно, но на деле слаб. Hartija в этом обороте — «бумага»; не следует понимать его как «тигр из ценных бумаг». Выражение получило широкую известность в политической риторике Мао Цзэдуна.",
+      "keyword": "tigar od hartije"
     },
     {
       "headword_latin": "Tiha voda breg roni",
@@ -44511,6 +44968,33 @@
       ],
       "note": "Разница с русским «в тихом омуте черти водятся» принципиальна. Русская фраза предупреждает, что за внешней тихостью могут скрываться неожиданные или опасные черты. Сербское Tiha voda breg roni обычно хвалит неброскую, но постоянную силу, терпение и упорство. В исследованиях его используют как метафору стратегии постепенного достижения изменений. Поэтому лучший русский эквивалент — «вода камень точит».",
       "keyword": "tiha voda breg roni"
+    },
+    {
+      "headword_latin": "To je druga priča",
+      "type": "replika",
+      "definition_ru": "это уже другой разговор; это совсем другая история",
+      "synonyms_sr": [
+        "to je nešto drugo",
+        "to menja stvar",
+        "to je druga stvar"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "U slučaju da bude neke zvanične odluke, to je druga priča",
+          "russian": "Если появится какое-либо официальное решение, тогда это уже другой разговор.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/politika/5910449/.html?print=true"
+        },
+        {
+          "serbian_latin": "Ako imamo garanciju, to je druga priča.",
+          "russian": "Если есть гарантия, это уже другой разговор.",
+          "source": ""
+        }
+      ],
+      "note": "Говорят, когда новое условие существенно меняет оценку ситуации. В русском часто естественнее «это уже другой разговор», а не буквальное «это другая история».",
+      "keyword": "to je druga priča"
     },
     {
       "headword_latin": "To je jasno i vrapcima na grani",
@@ -49382,6 +49866,33 @@
       "keyword": "vetar u jedra; podsticaj; podrška"
     },
     {
+      "headword_latin": "Vetropir",
+      "type": "imenica",
+      "definition_ru": "ветреник; легкомысленный человек",
+      "synonyms_sr": [
+        "vetrogonja",
+        "neozbiljan čovek",
+        "lakomislen čovek"
+      ],
+      "literal_ru": "",
+      "register": "razg., pomalo knjiški",
+      "examples": [
+        {
+          "serbian_latin": "možda nije bio neverni vetropir kako iz priče proizilazi.",
+          "russian": "возможно, он вовсе не был ветреным и неверным человеком, как следует из рассказа.",
+          "source": "Danas (komentar), 2021",
+          "url": "https://www.danas.rs/vesti/drustvo/kako-je-vera-pola-veka-cekala-svog-kapetana/komentari/"
+        },
+        {
+          "serbian_latin": "Ne oslanjaj se na njega, pravi je vetropir.",
+          "russian": "Не полагайся на него, он настоящий ветреник.",
+          "source": ""
+        }
+      ],
+      "note": "Книжновато-разговорное слово о непостоянном, легкомысленном человеке; часто о том, кто несерьёзен в любви. Не следует автоматически приравнивать к jebivetar: последнее заметно грубее и чаще означает никчёмного бездельника.",
+      "keyword": "vetropir"
+    },
+    {
       "headword_latin": "Videla žaba da se konji kuju, pa i ona digla nogu",
       "type": "poslovica",
       "definition_ru": "куда конь с копытом, туда и рак с клешнёй; бездумно полезть вслед за большими; неуместно подражать другим",
@@ -52123,6 +52634,33 @@
       ],
       "note": "Смысл в намеренно бессмысленном адресате: водоканал заведомо не имеет отношения к твоей жалобе. Формула настолько узнаваема, что O radio назвал ею целый цикл передач.",
       "keyword": "vodovod"
+    },
+    {
+      "headword_latin": "Žderonja",
+      "type": "imenica",
+      "definition_ru": "обжора; ненасытный едок",
+      "synonyms_sr": [
+        "proždrljivac",
+        "izelica",
+        "alavac"
+      ],
+      "literal_ru": "",
+      "register": "razg., grub., neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "omiljenu destinaciju belosvetskih pijandura, žderonja i kurvara",
+          "russian": "излюбленное место всевозможных пьянчуг, обжор и бабников",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/potemkinov-velegrad/"
+        },
+        {
+          "serbian_latin": "Nemoj sve da pojedeš, žderonjo!",
+          "russian": "Не съедай всё, обжора!",
+          "source": ""
+        }
+      ],
+      "note": "Презрительное обозначение человека, который слишком много ест; от žderati — «жрать». Слово резче нейтрального mnogo jede, а alavac шире по значению и может относиться также к жадности до денег.",
+      "keyword": "žderonja"
     },
     {
       "headword_latin": "Želudac mi se prevrnuo",
