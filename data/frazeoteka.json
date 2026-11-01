@@ -42828,6 +42828,34 @@
       "keyword": "tapkati u mestu; napredak; zastoj"
     },
     {
+      "headword_latin": "Tata-mata",
+      "type": "imenica",
+      "definition_ru": "большой дока; мастер своего дела; человек, которому в этом нет равных",
+      "synonyms_sr": [
+        "majstor",
+        "ekspert",
+        "znalac",
+        "as (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj.; često tata-mata za nešto, biti tata-mata u nečemu",
+      "examples": [
+        {
+          "serbian_latin": "Ja sam tata-mata za te opasne.",
+          "russian": "Я с такими опасными типами прекрасно умею иметь дело.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/kultura/imam-trideset-osam-godina/"
+        },
+        {
+          "serbian_latin": "Za stare automobile moj komšija je tata-mata.",
+          "russian": "В старых автомобилях мой сосед настоящий дока.",
+          "source": ""
+        }
+      ],
+      "note": "В отличие от обычного tata, слово tata-mata обозначает умелого, опытного или влиятельного человека, иногда с иронией. Типично управление tata-mata za nešto: tata-mata za računare. Определение PDF «самый старший и уважаемый» передаёт лишь один возможный оттенок: главным часто оказывается именно мастерство.",
+      "keyword": "tata-mata"
+    },
+    {
       "headword_latin": "Teći med i mleko",
       "type": "frazeologizam",
       "definition_ru": "жить в полном достатке; царить благополучию и изобилию; о месте или ситуации, где всё якобы прекрасно",
@@ -44185,6 +44213,33 @@
       ],
       "note": "Для русского здесь почти полное совпадение с «за бесценок». Важно написание слитно: u bescenje. Очень характерно для публицистики о приватизации, продаже земли, недвижимости и имущества по цене значительно ниже реальной.",
       "keyword": "bescenje"
+    },
+    {
+      "headword_latin": "U čemu je kvaka?",
+      "type": "replika",
+      "definition_ru": "в чём подвох?; в чём загвоздка?; где тут скрытая хитрость?",
+      "synonyms_sr": [
+        "u čemu je trik?",
+        "gde je caka? (razg.)",
+        "šta je problem?"
+      ],
+      "literal_ru": "в чём дверная ручка?",
+      "register": "razg.; o skrivenom uslovu, zamci ili problemu u naizgled dobroj ponudi",
+      "examples": [
+        {
+          "serbian_latin": "Primamljiva ponuda „Vizera“ – u čemu je kvaka?",
+          "russian": "Заманчивое предложение Wizz Air — в чём подвох?",
+          "source": "RTS, 2024",
+          "url": "https://rts.rs/lat/vesti/ekonomija/5519889/primamljiva-ponuda-vizera--u-cemu-je-kvaka.html"
+        },
+        {
+          "serbian_latin": "Nudi mi stan po pola cene, ali u čemu je kvaka?",
+          "russian": "Мне предлагают квартиру за полцены, но в чём подвох?",
+          "source": ""
+        }
+      ],
+      "note": "Kvaka буквально означает дверную ручку, однако в этой разговорной реплике — скрытую деталь, осложнение или подвох. Типично после слишком заманчивого предложения. Не совпадает полностью с U čemu je stvar? — нейтральным «в чём дело?» без предположения о подвохе.",
+      "keyword": "u čemu je kvaka"
     },
     {
       "headword_latin": "U četiri oka",
