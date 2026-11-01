@@ -50114,6 +50114,42 @@
       "keyword": "od danas do sutra"
     },
     {
+      "headword_latin": "Živeti od stare slave",
+      "type": "frazeologizam",
+      "definition_ru": "жить былой славой; выезжать на прежних заслугах; пользоваться когда-то заработанной репутацией",
+      "synonyms_sr": [
+        "počivati na lovorikama",
+        "oslanjati se na ranije uspehe",
+        "živeti od nekadašnje popularnosti"
+      ],
+      "literal_ru": "",
+      "register": "razg.-publicistički, često iron., neodobr.; živeti od + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "Taj restoran odavno živi od stare slave — hrana je osrednja, a cene paprene.",
+          "russian": "Этот ресторан давно живёт былой славой: еда посредственная, а цены кусаются.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Rekla bih da nisam osoba koja će da živi od „stare slave“.",
+          "russian": "Думаю, я не из тех, кто собирается почивать на прежних успехах.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Mi volimo to što radimo. Ne živimo od stare slave i želimo da zvučimo savršeno.",
+          "russian": "Мы любим своё дело. Мы не собираемся выезжать на былой славе и хотим звучать безупречно.",
+          "source": "Nedeljnik, 2024"
+        },
+        {
+          "serbian_latin": "Ja živim od stare slave jako dobro, ljudi me često zovu, jer znaju kako pevam i šta pružam.",
+          "russian": "Я вполне неплохо живу за счёт былой славы: меня часто приглашают выступать, потому что знают, как я пою и что могу предложить.",
+          "source": "Grand Online, 2021"
+        }
+      ],
+      "note": "Русское «жить былой славой» требует творительного падежа, тогда как в сербском используется živeti od + genitiv: od stare slave, а не starom slavom. Оборот чаще осуждает опору на прежние заслуги вместо новых достижений, но не обязательно означает полное бездействие: артист может продолжать выступать со старыми хитами. Počivati na lovorikama сильнее подчёркивает самодовольную остановку после успеха, а živeti od stare slave — использование прежней репутации. На Vukajlija обыгрывается двусмысленность slava: кроме «известности», слово обозначает krsna slava, семейный праздник святого покровителя; там шутят о еде, оставшейся после прошлого празднования.",
+      "keyword": "živeti od stare slave"
+    },
+    {
       "headword_latin": "Živeti u svom balonu",
       "type": "ustaljeni metaforički izraz",
       "definition_ru": "Жить в собственном замкнутом мирке: видеть преимущественно удобную картину происходящего и не замечать неприятные стороны внешней реальности. Это может касаться личных убеждений, круга общения или тщательно отобранной картины жизни в социальных сетях.",
