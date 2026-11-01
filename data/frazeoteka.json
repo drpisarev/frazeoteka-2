@@ -44705,6 +44705,33 @@
       "keyword": "teško mi pada"
     },
     {
+      "headword_latin": "Teško mu je ugoditi",
+      "type": "izraz",
+      "definition_ru": "ему трудно угодить; он вечно недоволен",
+      "synonyms_sr": [
+        "nikad nije zadovoljan",
+        "teško ga je zadovoljiti",
+        "stalno nalazi zamerke"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; ugoditi + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Teško je narodu ugoditi.",
+          "russian": "Народу трудно угодить.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/drustvo/sarcevic-zasto-sam-podrzao-sinisu-malog/"
+        },
+        {
+          "serbian_latin": "Šta god da skuvam, teško mu je ugoditi.",
+          "russian": "Что бы я ни приготовила, ему не угодишь.",
+          "source": ""
+        }
+      ],
+      "note": "Главная трудность — управление ugoditi nekome (дательный падеж): ugoditi mu, narodu, svima. В приведённом примере местоимение mu заменено существительным narodu; конструкция та же.",
+      "keyword": "teško mu je ugoditi"
+    },
+    {
       "headword_latin": "Teško onom ko zlotvora nema",
       "type": "poslovica",
       "definition_ru": "плохо тому, у кого нет врагов; если у тебя нет недоброжелателей, значит, ты ничего не стоишь / ничем себя не проявил",
@@ -44808,6 +44835,33 @@
       "keyword": "težak kao olovo"
     },
     {
+      "headword_latin": "Težak slučaj",
+      "type": "kolokacija",
+      "definition_ru": "трудный случай; сложное дело; трудный человек",
+      "synonyms_sr": [
+        "komplikovan slučaj",
+        "težak problem",
+        "nezgodan čovek"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; razg. o čoveku",
+      "examples": [
+        {
+          "serbian_latin": "Želi da mu pomogne da reši jedan neobičan i težak slučaj.",
+          "russian": "Он хочет помочь ему разобраться с одним необычным и сложным делом.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/tv/rts2/5369687/serif-i-klinac-iz-svemira.html"
+        },
+        {
+          "serbian_latin": "On je težak slučaj, stalno se sa svima svađa.",
+          "russian": "С ним тяжело: он постоянно со всеми ссорится.",
+          "source": ""
+        }
+      ],
+      "note": "Это сочетание бывает нейтральным, например о сложном расследовании или клиническом случае, и оценочным — о человеке, с которым трудно иметь дело. В отличие от русского «тяжёлый случай» значение не обязательно связано со здоровьем.",
+      "keyword": "težak slučaj"
+    },
+    {
       "headword_latin": "Težak udarac",
       "type": "kolokacija",
       "definition_ru": "тяжёлый удар; серьёзная неудача",
@@ -44862,6 +44916,33 @@
       "keyword": "težak zadatak"
     },
     {
+      "headword_latin": "Težim putem",
+      "type": "izraz",
+      "definition_ru": "на собственных ошибках; трудным путём",
+      "synonyms_sr": [
+        "na teži način",
+        "kroz sopstvene greške",
+        "uz velike teškoće"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, često uz naučiti / shvatiti",
+      "examples": [
+        {
+          "serbian_latin": "nije sve zezanje, a to naučiš težim putem.",
+          "russian": "Не всё в жизни шутки, и это понимаешь на собственном горьком опыте.",
+          "source": "Magazin Novosti, 2024",
+          "url": "https://www.magazin.novosti.rs/sr/tv-novosti/tv-zvezde/vest/povredio-sam-drage-ljude-glumac-iskren-bio-sam-nenormalno-glup-naucio-sam-to-tezim-putem-video/1555147"
+        },
+        {
+          "serbian_latin": "Do znanja je došao težim putem.",
+          "russian": "Он усвоил это трудным путём.",
+          "source": ""
+        }
+      ],
+      "note": "Нередко употребляется в конструкции naučiti nešto težim putem — «понять на собственных ошибках». Težim — сравнительная степень от težak, а putem — творительный падеж существительного put.",
+      "keyword": "težim putem"
+    },
+    {
       "headword_latin": "Ti odlučuješ",
       "type": "replika",
       "definition_ru": "тебе решать; решение за тобой",
@@ -44889,6 +44970,33 @@
       "keyword": "ti odlučuješ"
     },
     {
+      "headword_latin": "Ti si na redu",
+      "type": "replika",
+      "definition_ru": "твоя очередь; теперь твой черёд",
+      "synonyms_sr": [
+        "tvoj je red",
+        "sada je red na tebe",
+        "ti si sledeći"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, razg.; biti na redu",
+      "examples": [
+        {
+          "serbian_latin": "Rekao sam ti. Ti si na redu",
+          "russian": "Я же тебе говорил. Теперь твоя очередь.",
+          "source": "24sedam, 2024",
+          "url": "https://24sedam.rs/sport/kosarka/325567/lesor-nilikini-govorio-o-partizanu/vest"
+        },
+        {
+          "serbian_latin": "Ja sam završio, sada si ti na redu.",
+          "russian": "Я закончил, теперь твоя очередь.",
+          "source": ""
+        }
+      ],
+      "note": "Na redu относится и к очереди в магазине, и к порядку выступлений, и к наступлению чьего-либо момента. Не путать с u redu — «в порядке, хорошо».",
+      "keyword": "ti si na redu"
+    },
+    {
       "headword_latin": "Ti si svoju šansu prokockao",
       "type": "izraz",
       "definition_ru": "ты упустил свой шанс; ты всё поставил на карту и проиграл",
@@ -44910,6 +45018,33 @@
       ],
       "note": "",
       "keyword": "ti si svoju šansu prokockao"
+    },
+    {
+      "headword_latin": "Ti si šef",
+      "type": "replika",
+      "definition_ru": "ты главный; тебе решать; командуй",
+      "synonyms_sr": [
+        "ti odlučuješ",
+        "ti vodiš glavnu reč",
+        "ti imaš poslednju reč"
+      ],
+      "literal_ru": "",
+      "register": "razg., doslovno i preneseno; ponekad ironično",
+      "examples": [
+        {
+          "serbian_latin": "Pa to ti je posao, ti si šef poslaničkog kluba.",
+          "russian": "Но это же твоя работа, ты руководитель парламентской группы.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/politika/objavljeni-nastavci-prisluskivanog-razgovora-koji-je-uzrokovao-tucu-u-skupstini-kosova/"
+        },
+        {
+          "serbian_latin": "Dobro, idemo gde ti kažeš — ti si šef.",
+          "russian": "Ладно, поедем куда скажешь — ты командуешь.",
+          "source": ""
+        }
+      ],
+      "note": "В газетной цитате šef обозначает действительную должность. В разговоре реплика Ti si šef может означать «тебе решать» без всякой должности, иногда с лёгкой иронией или нежеланием спорить.",
+      "keyword": "ti si šef"
     },
     {
       "headword_latin": "Tigar od hartije",
@@ -44970,6 +45105,222 @@
       "keyword": "tiha voda breg roni"
     },
     {
+      "headword_latin": "Tim bolje",
+      "type": "replika",
+      "definition_ru": "тем лучше; и хорошо",
+      "synonyms_sr": [
+        "utoliko bolje",
+        "još bolje",
+        "odlično onda"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, razgovorna replika",
+      "examples": [
+        {
+          "serbian_latin": "E, sad, ako niste čuli šta je to, tim bolje.",
+          "russian": "Ну а если вы об этом не слышали — тем лучше.",
+          "source": "RTS / Radio Beograd 1, 2023",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-1/3454338/lilanje-u-loznickom-kraju.html"
+        },
+        {
+          "serbian_latin": "Ako stižemo pre mraka, tim bolje.",
+          "russian": "Если приедем до темноты, тем лучше.",
+          "source": ""
+        }
+      ],
+      "note": "Формула одобрения улучшившегося обстоятельства, часто как ответ на условие с ako. Tim здесь не означает «этим людям»; сочетание tim bolje нужно воспринимать целиком.",
+      "keyword": "tim bolje"
+    },
+    {
+      "headword_latin": "Tip-top",
+      "type": "prilog",
+      "definition_ru": "первоклассно; отлично; в полном порядке",
+      "synonyms_sr": [
+        "besprekorno",
+        "odlično",
+        "savršeno"
+      ],
+      "literal_ru": "",
+      "register": "razg., nepromenljivo",
+      "examples": [
+        {
+          "serbian_latin": "Siva tip-top elegancija dve kraljice u istim cipelama",
+          "russian": "Безупречная элегантность в сером: две королевы в одинаковых туфлях.",
+          "source": "RTS, 2024",
+          "url": "https://rts.rs/lat/magazin/svet-poznatih/5372248/.html?print=true"
+        },
+        {
+          "serbian_latin": "Soba je sređena tip-top.",
+          "russian": "Комната приведена в идеальный порядок.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание пишется через дефис и не изменяется по родам, числам или падежам. Может выполнять роль наречия (sve je tip-top) и определения (tip-top elegancija); в заголовке употреблено во второй функции.",
+      "keyword": "tip top"
+    },
+    {
+      "headword_latin": "To je bilo vreme!",
+      "type": "replika",
+      "definition_ru": "вот были времена!; было же время!",
+      "synonyms_sr": [
+        "to su bila vremena",
+        "nekad je bilo drugačije",
+        "eh, nekada"
+      ],
+      "literal_ru": "",
+      "register": "razg., nostalgično, uzvik",
+      "examples": [
+        {
+          "serbian_latin": "To je bilo vreme kada su se „voleli Beograd i Zagreb”",
+          "russian": "То было время, когда Белград и Загреб «любили друг друга».",
+          "source": "Magazin Politika, 2024",
+          "url": "https://magazin.politika.rs/sr/clanak/569824/to-je-bilo-vreme-kada-su-se-voleli-beograd-i-zagreb"
+        },
+        {
+          "serbian_latin": "Sećaš se tih koncerata? To je bilo vreme!",
+          "russian": "Помнишь те концерты? Вот были времена!",
+          "source": ""
+        }
+      ],
+      "note": "Отдельная реплика с восклицанием передаёт ностальгию — «Вот были времена!». В газетном заголовке оборот включён в более длинное предложение и сам по себе не обязательно несёт такую сильную эмоциональную оценку.",
+      "keyword": "to je bilo vreme"
+    },
+    {
+      "headword_latin": "To je bogu plakati",
+      "type": "frazeologizam",
+      "definition_ru": "хоть плачь; больно смотреть; просто беда",
+      "synonyms_sr": [
+        "žalosno je",
+        "za plakanje je",
+        "tuga jedna"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, žaljenje ili osuda",
+      "examples": [
+        {
+          "serbian_latin": "U kakvim uslovima oni žive to je bogu plakati",
+          "russian": "В каких условиях они живут — просто плакать хочется.",
+          "source": "Nova ekonomija, 2021",
+          "url": "https://novaekonomija.rs/vesti-iz-zemlje/mirijevski-potok-i-dalje-je-divlja-deponija-i-kanalizacija"
+        },
+        {
+          "serbian_latin": "Toliko je uloženo, a zgrada propada — to je bogu plakati.",
+          "russian": "Столько вложили, а здание разваливается — просто плакать хочется.",
+          "source": ""
+        }
+      ],
+      "note": "Восклицание выражает жалость или возмущение плачевным положением дел. Здесь bogu не обозначает адресата молитвы; в прессе встречается написание со строчной буквы, как в приведённой цитате.",
+      "keyword": "to je bogu plakati"
+    },
+    {
+      "headword_latin": "To je čas posla",
+      "type": "replika",
+      "definition_ru": "это дело минутное; в два счёта; пара пустяков",
+      "synonyms_sr": [
+        "to je začas",
+        "gotovo za tren",
+        "brzo se završava"
+      ],
+      "literal_ru": "",
+      "register": "razg., često i za čas posla",
+      "examples": [
+        {
+          "serbian_latin": "Đani je čas posla smislio FIFA Nagradu za mir",
+          "russian": "Джани в два счёта придумал премию ФИФА за мир.",
+          "source": "Sport Klub, 2026",
+          "url": "https://sportklub.rs/skener/djani-infantino-fifa-donald-tramp-politika-fudbal/"
+        },
+        {
+          "serbian_latin": "Daj mi odvijač, popraviću to za čas posla.",
+          "russian": "Дай отвёртку — я это в два счёта починю.",
+          "source": ""
+        }
+      ],
+      "note": "Вариант za čas posla означает «в два счёта» и часто употребляется внутри предложения. Здесь čas не школьный урок и не обязательно ровно час: это короткое время. В заголовочном To je čas posla оборот становится самостоятельной репликой.",
+      "keyword": "to je čas posla"
+    },
+    {
+      "headword_latin": "To je čista besmislica",
+      "type": "replika",
+      "definition_ru": "это полная бессмыслица; это чистый вздор",
+      "synonyms_sr": [
+        "to su potpune gluposti",
+        "to je obična besmislica",
+        "to nema nikakvog smisla"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg., neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "To je čista besmislica.",
+          "russian": "Это полная чепуха.",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/vesti/drustvo/hocemo-li-duznike-trojke-u-gvantanamo"
+        },
+        {
+          "serbian_latin": "Tvrdnja da je voda suva — to je čista besmislica.",
+          "russian": "Утверждение, будто вода сухая, — полная бессмыслица.",
+          "source": ""
+        }
+      ],
+      "note": "Čista здесь не «чистая» в буквальном смысле, а усилитель категорического отрицания. Формула обычно отвергает само утверждение собеседника или предложенное объяснение; звучит резче нейтрального ne slažem se.",
+      "keyword": "to je čista besmislica"
+    },
+    {
+      "headword_latin": "To je čista lutrija",
+      "type": "replika",
+      "definition_ru": "это чистая лотерея; как повезёт",
+      "synonyms_sr": [
+        "sve zavisi od sreće",
+        "potpuno je neizvesno",
+        "to je stvar slučaja"
+      ],
+      "literal_ru": "",
+      "register": "razg., figurativno",
+      "examples": [
+        {
+          "serbian_latin": "Dugoročno sam uvek optimista, ali šta će biti kratkoročno - to je čista lutrija.",
+          "russian": "В долгосрочной перспективе я всегда оптимист, но что будет в ближайшее время — чистая лотерея.",
+          "source": "B92, 2022",
+          "url": "https://www.b92.net/biz/vesti/svet/bice-jos-padova-bitkoina-kratkorocno-to-je-cista-lutrija-2094738"
+        },
+        {
+          "serbian_latin": "Kupovina polovnog automobila bez provere može biti čista lutrija.",
+          "russian": "Покупать подержанную машину без проверки — чистая лотерея.",
+          "source": ""
+        }
+      ],
+      "note": "Чаще означает непредсказуемый исход, зависящий от случая, а не участие в настоящей лотерее. В сочетании čista lutrija прилагательное čista усиливает оценку: «полная неопределённость».",
+      "keyword": "to je čista lutrija"
+    },
+    {
+      "headword_latin": "To je deo posla",
+      "type": "replika",
+      "definition_ru": "это часть работы; такова работа",
+      "synonyms_sr": [
+        "to spada u posao",
+        "to je normalno u ovom poslu",
+        "to je sastavni deo posla"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Nekad je bio zabavan, nekad dosadan, ali to je deo posla.",
+          "russian": "Иногда было весело, иногда скучно, но это часть работы.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/sport/tenis/5385796/djokovic-dobio-teniskog-oskara.html"
+        },
+        {
+          "serbian_latin": "Noćna dežurstva su naporna, ali to je deo posla.",
+          "russian": "Ночные дежурства тяжёлые, но это часть работы.",
+          "source": ""
+        }
+      ],
+      "note": "Часто так объясняют необходимость мириться с неудобствами, которые входят в профессиональные обязанности. Буквально выражение прозрачно, но в речи это готовая успокаивающая или оправдательная формула.",
+      "keyword": "to je deo posla"
+    },
+    {
       "headword_latin": "To je druga priča",
       "type": "replika",
       "definition_ru": "это уже другой разговор; это совсем другая история",
@@ -45023,6 +45374,33 @@
       "keyword": "vrapci na grani"
     },
     {
+      "headword_latin": "To je luda kuća!",
+      "type": "replika",
+      "definition_ru": "дурдом какой-то!; полный хаос!; сумасшедший дом!",
+      "synonyms_sr": [
+        "potpuni haos",
+        "pravi cirkus",
+        "opšti metež"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Ceo Hvar vam je danas pun policije, ovo je luda kuća.",
+          "russian": "Сегодня на Хваре полно полиции, это просто какой-то дурдом.",
+          "source": "Telegraf, 2024",
+          "url": "https://www.telegraf.rs/vesti/jugosfera/3936399-krv-na-sve-strane-brutalno-pretuceni-vlasnik-poznatog-restorana-na-hvaru-i-njegov-kuvar-uznemirujuce"
+        },
+        {
+          "serbian_latin": "U kancelariji svi viču jedni preko drugih — to je luda kuća!",
+          "russian": "В офисе все перекрикивают друг друга — просто дурдом!",
+          "source": ""
+        }
+      ],
+      "note": "В переносном употреблении luda kuća означает хаос, шум и неразбериху; похожее русское «сумасшедший дом» не связано с психиатрической больницей буквально. Слова встречаются также в названиях фильмов и заведений, но здесь пример именно переносный.",
+      "keyword": "to je luda kuća"
+    },
+    {
       "headword_latin": "To je mač sa dve oštrice",
       "type": "replika",
       "definition_ru": "это палка о двух концах",
@@ -45059,6 +45437,114 @@
       ],
       "note": "Изображение обоюдоострого меча соответствует русской «палке о двух концах»: выгода сопровождается риском. В публикациях обычно mač sa dve oštrice.",
       "keyword": "to je mač sa dve oštrice"
+    },
+    {
+      "headword_latin": "To je nečuveno!",
+      "type": "replika",
+      "definition_ru": "это возмутительно!; неслыханно!",
+      "synonyms_sr": [
+        "to je nedopustivo",
+        "to je skandalozno",
+        "to je za svaku osudu"
+      ],
+      "literal_ru": "",
+      "register": "ekspresivno, neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Orban: To je nečuveno i neprihvatljivo",
+          "russian": "Орбан: Это возмутительно и неприемлемо.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/vesti/region/5466124/evropski-sud-kaznio-madjarsku-sa-200-miliona-evra-orban-to-je-necuveno-i-neprihvatljivo.html"
+        },
+        {
+          "serbian_latin": "Naplatili su mu uslugu dvaput? To je nečuveno!",
+          "russian": "С него дважды взяли деньги за одну услугу? Это возмутительно!",
+          "source": ""
+        }
+      ],
+      "note": "Nečuveno в реплике — эмоциональная оценка, а не сообщение о том, что человек чего-то не слышал. Обычно произносится с возмущением по поводу несправедливого, недопустимого поступка.",
+      "keyword": "to je nečuveno"
+    },
+    {
+      "headword_latin": "To je njegovo maslo",
+      "type": "frazeologizam",
+      "definition_ru": "это его рук дело; это он подстроил",
+      "synonyms_sr": [
+        "on je to zakuvao",
+        "on stoji iza toga",
+        "njegova je to podvala"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Pa to je njegovo maslo.",
+          "russian": "Да это его рук дело.",
+          "source": "Danas (komentar), 2023",
+          "url": "https://www.danas.rs/vesti/politika/ssp-razbijeno-staklo-na-stranackim-prostorijama-u-indjiji-novi-pokusaj-zastrasivanja/komentari/"
+        },
+        {
+          "serbian_latin": "Neko je namerno pokvario dogovor; mislim da je to njegovo maslo.",
+          "russian": "Кто-то намеренно сорвал договорённость; думаю, это его рук дело.",
+          "source": ""
+        }
+      ],
+      "note": "Maslo здесь не масло в буквальном смысле, а чья-то интрига или неприятная проделка. Почти всегда предполагается отрицательная оценка. Подтверждённая газетная иллюстрация — читательский комментарий, а не текст редакции.",
+      "keyword": "to je njegovo maslo"
+    },
+    {
+      "headword_latin": "To je puka formalnost",
+      "type": "replika",
+      "definition_ru": "это чистая формальность; это только для вида",
+      "synonyms_sr": [
+        "to je samo formalnost",
+        "čisto reda radi",
+        "to je pitanje forme"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, često neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Njegovo imenovanje, kako saznajemo, bilo je „puka formalnost”, iako su članovi vlade već mesecima polemisali na ovu temu.",
+          "russian": "Его назначение, как нам стало известно, было «чистой формальностью», хотя члены правительства уже несколько месяцев спорили об этом.",
+          "source": "Politika, 2017",
+          "url": "https://www.politika.rs/sr/clanak/389720/ne-dolazim-da-se-svetim-dedinje-je-moj-zivot"
+        },
+        {
+          "serbian_latin": "Potpisivanje je puka formalnost, sve je već dogovoreno.",
+          "russian": "Подпись — чистая формальность, всё уже согласовано.",
+          "source": ""
+        }
+      ],
+      "note": "Puk / puka / puko в этом сочетании означает «всего лишь, не более чем», а не «лопнувший». Говорят о процедуре, результат которой уже фактически предрешён или которая не имеет самостоятельного значения.",
+      "keyword": "to je puka formalnost"
+    },
+    {
+      "headword_latin": "To je rđav znak",
+      "type": "replika",
+      "definition_ru": "это дурной знак; плохое предзнаменование",
+      "synonyms_sr": [
+        "to je loš znak",
+        "to ne sluti na dobro",
+        "to je loš predznak"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; i u narodnim verovanjima",
+      "examples": [
+        {
+          "serbian_latin": "Ako čuvarkuća pukne, to je rđav znak",
+          "russian": "Если пасхальное яйцо-оберег треснет, это дурной знак.",
+          "source": "Kurir, 2026",
+          "url": "https://www.kurir.rs/zabava/zivot/9963772/sta-ako-se-razbije-jaje-cuvarkuca"
+        },
+        {
+          "serbian_latin": "Njegovo iznenadno ćutanje je rđav znak.",
+          "russian": "Его внезапное молчание — дурной знак.",
+          "source": ""
+        }
+      ],
+      "note": "Rđav значит не только «испорченный», но и «дурной, неблагоприятный». В публикации речь о народной примете, связанной с čuvarkuća — первым окрашенным пасхальным яйцом; сам оборот применим и без мистического смысла.",
+      "keyword": "to je rđav znak"
     },
     {
       "headword_latin": "To je samo pitanje vremena",
@@ -45108,6 +45594,33 @@
       ],
       "note": "Первоначально сочетание совершенно буквально употребляется о дорогих видах спорта; перенос на любое затратное занятие очень естественен. В прессе skup sport регулярно встречается и буквально.",
       "keyword": "skup sport"
+    },
+    {
+      "headword_latin": "To je super!",
+      "type": "replika",
+      "definition_ru": "это здорово!; супер!; просто отлично!",
+      "synonyms_sr": [
+        "sjajno",
+        "odlično",
+        "fenomenalno"
+      ],
+      "literal_ru": "",
+      "register": "razg., odobr.",
+      "examples": [
+        {
+          "serbian_latin": "ja sam rekao to je super, daj da dodamo nešto da lepo zvuči.",
+          "russian": "Я сказал: здорово, давай что-нибудь добавим, чтобы хорошо звучало.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3042329/da-li-slogani-podsticu-radjanje.html"
+        },
+        {
+          "serbian_latin": "Dobio si slobodan dan? To je super!",
+          "russian": "Тебе дали выходной? Супер!",
+          "source": ""
+        }
+      ],
+      "note": "Super — широко употребляемое неизменяемое разговорное оценочное слово. To je super! — готовая одобрительная реплика; она не подразумевает обязательно исключительных достижений. Газетная цитата сохраняет строчную букву в начале извлечённого фрагмента.",
+      "keyword": "to je super"
     },
     {
       "headword_latin": "To je za mene špansko selo",
@@ -46116,6 +46629,33 @@
       ],
       "note": "Вне этого устойчивого сочетания tušta современному учащемуся практически не понадобится: слово сохраняется прежде всего внутри формулы tušta i tma. По смыслу это усиленное mnogo: не просто «много», а «несметное количество». Встречается и старый вариант tušta i tama, однако в современной сербской прессе хорошо представлена именно форма tušta i tma.",
       "keyword": "tušta i tma"
+    },
+    {
+      "headword_latin": "Tvoj je red",
+      "type": "replika",
+      "definition_ru": "твой черёд; твоя очередь",
+      "synonyms_sr": [
+        "ti si na redu",
+        "red je na tebe",
+        "sada si ti na potezu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, razg.",
+      "examples": [
+        {
+          "serbian_latin": "kada je tvoj red tvoj je red, ali ako nije, i dalje ostajemo u okvirima plana",
+          "russian": "когда наступает твоя очередь — действуй, а если нет, всё равно придерживаемся общего плана",
+          "source": "Sport Klub, 2018",
+          "url": "https://sportklub.n1info.rs/kosarka/nba/a248474-dand39antoni-melo-s-klupe-probacemo-razne-kombinacije/"
+        },
+        {
+          "serbian_latin": "Svi su već govorili, sada je tvoj red.",
+          "russian": "Все уже высказались, теперь твоя очередь.",
+          "source": ""
+        }
+      ],
+      "note": "Это самостоятельная реплика, близкая Ti si na redu, но акцентирует принадлежащий человеку черёд; в опубликованной спортивной цитате речь о моменте, когда игроку пора вступать в игру. Red здесь не «порядок» в абстрактном смысле, а очередь.",
+      "keyword": "tvoj je red"
     },
     {
       "headword_latin": "Tvrd kao kamen",
