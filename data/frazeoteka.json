@@ -9057,31 +9057,36 @@
       "keyword": "gladan kao vuk"
     },
     {
-      "headword_latin": "glavom bez obzira",
+      "headword_latin": "Glavom bez obzira",
       "type": "frazeologizam",
-      "definition_ru": "Бежать или спасаться как можно быстрее, не оглядываясь и не думая ни о чём другом. Русские аналоги: «бежать без оглядки», «бежать сломя голову», «удирать со всех ног».",
+      "definition_ru": "сломя голову; без оглядки; со всех ног (убегать)",
       "synonyms_sr": [
         "bežati bez osvrtanja",
+        "dati petama vetra",
         "pobeći što brže",
-        "dati se u beg",
-        "bežati kao bez duše"
+        "dati se u beg"
       ],
-      "literal_ru": "головой без оглядки",
-      "register": "razgovorno",
+      "literal_ru": "",
+      "register": "razg., ekspresivno; najčešće bežati / pobeći glavom bez obzira",
       "examples": [
         {
           "serbian_latin": "Kad nilski konj pojuri čamac, onda bežite glavom bez obzira.",
-          "russian": "Когда бегемот бросается за лодкой, тогда уже удираешь со всех ног.",
+          "russian": "Когда бегемот бросается за лодкой, остаётся только удирать со всех ног.",
           "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Međutim, problem je kamera pa svi beže glavom bez obzira, pre svega najmlađi.",
-          "russian": "Однако проблема в камере, поэтому все разбегаются без оглядки, прежде всего самые молодые.",
-          "source": "N1, 2022"
+          "serbian_latin": "Velike bele ajkule beže glavom bez obzira čim primete prisustvo orki u blizini.",
+          "russian": "Большие белые акулы удирают без оглядки, едва замечают поблизости косаток.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Čim su počeli problemi, pobegao je glavom bez obzira.",
+          "russian": "Как только начались проблемы, он удрал без оглядки.",
+          "source": ""
         }
       ],
-      "note": "Почти всегда сочетается с bežati / pobeći. В этом фразеологизме „bez obzira“ нельзя понимать как обычное «несмотря на»: всё сочетание означает быстро убегать, не оглядываясь.",
-      "keyword": "bežanje; brzo; bez osvrtanja"
+      "note": "Почти всегда употребляется с bežati или pobeći и подчёркивает поспешное бегство, иногда от страха; возможно и переносное употребление об уходе из неприятной ситуации. Не путать с обычным bez obzira na nešto — «несмотря на что-либо»: в данном обороте сохраняется образ бегства без оглядки. В отличие от нейтрального otići, выражение всегда эмоционально и предполагает большую поспешность.",
+      "keyword": "glavom bez obzira"
     },
     {
       "headword_latin": "Glavom i bradom",
@@ -12802,31 +12807,36 @@
       "keyword": "iz aviona se vidi"
     },
     {
-      "headword_latin": "iz čista mira",
+      "headword_latin": "Iz čista mira",
       "type": "frazeologizam",
-      "definition_ru": "Вдруг, совершенно неожиданно и без какой-либо видимой причины или повода. Точный русский аналог: «ни с того ни с сего». Также: «на ровном месте», «без всякого повода».",
+      "definition_ru": "ни с того ни с сего; без всякого повода; вдруг, на ровном месте",
       "synonyms_sr": [
         "bez ikakvog povoda",
-        "ničim izazvano",
+        "bez razloga",
         "odjednom",
-        "bez razloga"
+        "ničim izazvano"
       ],
-      "literal_ru": "из чистого спокойствия",
-      "register": "razgovorno",
+      "literal_ru": "из полного спокойствия",
+      "register": "razg., ekspresivno; ustaljeni izraz; ređe i iz čistog mira",
       "examples": [
         {
-          "serbian_latin": "Ptice koje u toku maja, naizgled iz čista mira, napadaju građane.",
-          "russian": "Птицы, которые в мае, на первый взгляд ни с того ни с сего, нападают на горожан.",
-          "source": "RTS, 2019"
+          "serbian_latin": "Krenu da ti zvižde iz čista mira.",
+          "russian": "Начинают тебя освистывать ни с того ни с сего.",
+          "source": "RTS, 2023"
         },
         {
           "serbian_latin": "Radimo uobičajene stvari i iz čista mira se setimo neke neprijatne situacije iz srednje škole.",
-          "russian": "Мы занимаемся обычными делами и вдруг ни с того ни с сего вспоминаем какую-нибудь неприятную ситуацию из школы.",
+          "russian": "Занимаемся обычными делами и вдруг ни с того ни с сего вспоминаем неприятный случай из школы.",
           "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Samo je ustao i iz čista mira otišao.",
+          "russian": "Он просто встал и ни с того ни с сего ушёл.",
+          "source": ""
         }
       ],
-      "note": "Очень частотное разговорное выражение. Может обозначать как неожиданность события, так и отсутствие очевидной причины: udariti nekoga iz čista mira, početi da plače iz čista mira, setiti se nečega iz čista mira.",
-      "keyword": "iznenada; bez razloga; bez povoda"
+      "note": "Mir здесь означает покой, отсутствие волнения или конфликта, а не «мир» в значении «вселенная». Форма čista — сохранившаяся в устойчивом сочетании краткая форма родительного падежа прилагательного; встречается и вариант iz čistog mira, но для словарного заголовка характернее iz čista mira. Оборот подчёркивает отсутствие видимого повода, а не только внезапность: из контекста причина может выясниться позднее.",
+      "keyword": "iz čista mira"
     },
     {
       "headword_latin": "Iz dana u dan",
@@ -12911,31 +12921,36 @@
       "keyword": "iz ove kože se ne može"
     },
     {
-      "headword_latin": "iz petnih žila",
+      "headword_latin": "Iz petnih žila",
       "type": "frazeologizam",
-      "definition_ru": "Изо всех сил, со всей возможной силой. С глаголами vikati, urlati означает «во всё горло»; с truditi se, upirati se, boriti se — «изо всех сил», «всеми силами».",
+      "definition_ru": "изо всех сил; во всё горло (о крике)",
       "synonyms_sr": [
         "iz sve snage",
         "svom snagom",
         "svim silama",
-        "koliko god može"
+        "iz sveg glasa (uz vikati)"
       ],
       "literal_ru": "из жил в пятках",
-      "register": "razgovorno",
+      "register": "razg., ekspresivno; uz vikati, derati se, truditi se, upinjati se i druge glagole intenzivnog napora",
       "examples": [
         {
-          "serbian_latin": "Vikao je iz petnih žila da vam ne daju ni krajcare.",
-          "russian": "Он кричал во всё горло, чтобы вам не дали ни гроша.",
-          "source": "RTS, 2015"
+          "serbian_latin": "Na sav glas, iz petnih žila, vikao je na mene.",
+          "russian": "Он орал на меня во всё горло.",
+          "source": "Danas, 2019"
         },
         {
-          "serbian_latin": "Iz petnih žila skupljam snagu da večeras odradim ono što mi pritiska grudi.",
-          "russian": "Я изо всех сил собираюсь с силами, чтобы сегодня вечером сделать то, что давит мне на грудь.",
-          "source": "Telegraf, 2026"
+          "serbian_latin": "Trudio se iz petnih žila Novak da kvalitetno organizuje igru.",
+          "russian": "Новак изо всех сил старался как следует организовать игру.",
+          "source": "Sportski žurnal, 2026"
+        },
+        {
+          "serbian_latin": "Derao se iz petnih žila, ali ga niko nije čuo.",
+          "russian": "Он кричал во всё горло, но его никто не услышал.",
+          "source": ""
         }
       ],
-      "note": "Очень живое выражение. Особенно часто употребляется с глаголами vikati, urlati, truditi se, upirati se.",
-      "keyword": "snaga; napor; vikati"
+      "note": "Petne žile — буквально «жилы в пятках»; образ передаёт предельное напряжение, словно человек задействует все силы до последней жилы. С vikati или derati se выражение означает «во всё горло», а с truditi se или upinjati se — «из кожи вон лезть, изо всех сил стараться». Русскому не следует искать здесь число pet («пять»): petnih образовано от peta («пятка»).",
+      "keyword": "iz petnih žila"
     },
     {
       "headword_latin": "Iz prve ruke",
@@ -18850,31 +18865,36 @@
       "keyword": "greška"
     },
     {
-      "headword_latin": "na jedvite jade",
+      "headword_latin": "Na jedvite jade",
       "type": "frazeologizam",
-      "definition_ru": "Еле-еле, с огромным трудом, едва добившись результата. Употребляется, когда что-то удалось сделать только после больших усилий или трудностей. Русские аналоги: «еле-еле», «с грехом пополам», «с большим трудом».",
+      "definition_ru": "еле-еле; с огромным трудом; с грехом пополам",
       "synonyms_sr": [
         "jedva",
-        "s mukom",
+        "s velikom mukom",
         "uz velike teškoće",
         "jedva nekako"
       ],
       "literal_ru": "",
-      "register": "neutralno, razgovorno",
+      "register": "razg., ekspresivno; ustaljeni priloški izraz, obično uz uspeti, proći, pronaći, završiti, prihvatiti",
       "examples": [
         {
-          "serbian_latin": "Mi smo na jedvite jade uspeli da se domognemo finala.",
-          "russian": "Нам еле-еле удалось пробиться в финал.",
-          "source": "RTS, 2011"
+          "serbian_latin": "Ušao je Brazil u osminu finala, ali na jedvite jade.",
+          "russian": "Бразилия вышла в одну восьмую финала, но еле-еле.",
+          "source": "Politika, 2026"
         },
         {
-          "serbian_latin": "Vlada Kirila Petkova na jedvite jade je formirana.",
-          "russian": "Правительство Кирила Петкова удалось сформировать с огромным трудом.",
-          "source": "RTS, 2022"
+          "serbian_latin": "Ulogu Kalabića je prihvatio „na jedvite jade“.",
+          "russian": "На роль Калабича он согласился с большим трудом.",
+          "source": "RTS, 2019"
+        },
+        {
+          "serbian_latin": "Na jedvite jade smo uspeli da završimo sve na vreme.",
+          "russian": "Мы еле-еле сумели всё закончить вовремя.",
+          "source": ""
         }
       ],
-      "note": "Выражение подчёркивает не просто трудность, а то, что желаемый результат был достигнут буквально с большим трудом, едва-едва.",
-      "keyword": "teškoća; jedva; napor"
+      "note": "Выражение подчёркивает, что результат получен лишь после серьёзных затруднений. В сочетании с prihvatiti или pristati может подразумевать не только сложность дела, но и нежелание человека соглашаться: «еле уговорили». Это устойчивое сочетание, а не свободная конструкция из jedva и jade; его нужно запоминать целиком.",
+      "keyword": "na jedvite jade"
     },
     {
       "headword_latin": "Na kašičicu",
@@ -19592,31 +19612,37 @@
       "keyword": "na ravnoj nozi"
     },
     {
-      "headword_latin": "na svoju ruku",
+      "headword_latin": "Na svoju ruku",
       "type": "frazeologizam",
-      "definition_ru": "Действовать самостоятельно, по собственной инициативе, не посоветовавшись с другими или не получив разрешения. В зависимости от контекста: «по собственной инициативе», «самовольно», «на своё усмотрение», «на свой страх и риск».",
+      "definition_ru": "самовольно; по собственной инициативе; на своё усмотрение",
       "synonyms_sr": [
         "samoinicijativno",
-        "samostalno",
+        "na svoju inicijativu",
         "bez dogovora",
-        "bez odobrenja"
+        "bez odobrenja",
+        "po sopstvenom nahođenju"
       ],
-      "literal_ru": "по своей руке",
-      "register": "neutralno, razgovorno",
+      "literal_ru": "",
+      "register": "razg. do neutralno, često neodobr.; raditi / odlučiti / uzimati nešto na svoju ruku; čovek na svoju ruku",
       "examples": [
         {
           "serbian_latin": "Koliko puta ste čuli da ne treba da uzimate lekove „na svoju ruku“.",
-          "russian": "Сколько раз вы слышали, что не следует принимать лекарства самостоятельно, без назначения.",
+          "russian": "Сколько раз вы слышали, что не следует принимать лекарства самостоятельно, без назначения врача.",
           "source": "RTS, 2020"
         },
         {
           "serbian_latin": "Za Stanimira se može reći da je bio prek, nepredvidljiv i čovek „na svoju ruku“.",
-          "russian": "О Станимире можно сказать, что он был резким, непредсказуемым человеком, привыкшим поступать по-своему.",
+          "russian": "О Станимире можно сказать, что он был резким, непредсказуемым и своевольным человеком.",
           "source": "Politika, 2014"
+        },
+        {
+          "serbian_latin": "Dogovorili smo se, a on je sve promenio na svoju ruku.",
+          "russian": "Мы договорились, а он всё изменил самовольно.",
+          "source": ""
         }
       ],
-      "note": "Часто имеет оттенок неодобрения: человек действует без согласования, разрешения или вопреки установленному порядку. Типичная конструкция: raditi / uraditi nešto na svoju ruku.",
-      "keyword": "samostalno; samoinicijativno; bez dozvole"
+      "note": "Самостоятельность здесь нередко оценивается отрицательно: человек действует без согласования, разрешения или совета. В медицинском контексте uzimati lekove na svoju ruku значит принимать препараты без согласования с врачом; выражение само по себе не означает «за свой счёт». Отдельная конструкция čovek na svoju ruku характеризует своевольного, независимого или непростого человека.",
+      "keyword": "na svoju ruku"
     },
     {
       "headword_latin": "Na svoju štetu",
@@ -24826,30 +24852,36 @@
       "keyword": "krv i meso; čovek; stvarnost"
     },
     {
-      "headword_latin": "od Kulina bana",
+      "headword_latin": "Od Kulina bana",
       "type": "frazeologizam",
-      "definition_ru": "Начинать рассказ с самого начала, издалека, с давних времён; подробно излагать всю предысторию. Часто употребляется иронически, когда человек слишком долго подбирается к сути. Русские аналоги: «начать от Адама и Евы», «начать издалека».",
+      "definition_ru": "с незапамятных времён; начинать рассказ издалека, от Адама и Евы",
       "synonyms_sr": [
-        "od samog početka",
-        "krenuti izdaleka",
+        "od davnina",
+        "od pamtiveka",
+        "početi priču izdaleka",
         "pričati naširoko i nadugačko"
       ],
-      "literal_ru": "от времён бана Кулина",
-      "register": "razgovorno, često šaljivo",
+      "literal_ru": "со времён бана Кулина",
+      "register": "razg., često šalj. ili iron.; obično pričati / početi priču od Kulina bana, ili još od Kulina bana",
       "examples": [
-        {
-          "serbian_latin": "Kada neko o određenoj temi počne da nam priča potanko i naširoko, reći ćemo da je krenuo „od Kulina bana“.",
-          "russian": "Когда кто-то начинает рассказывать о чём-либо подробно и пространно, мы скажем, что он начал «от Кулина бана», то есть издалека.",
-          "source": "RTS, 2020"
-        },
         {
           "serbian_latin": "Nemoj da mi pričaš od Kulina bana!",
           "russian": "Не начинай мне рассказывать от Адама и Евы!",
           "source": "Kurir, 2017"
+        },
+        {
+          "serbian_latin": "Kada neko o određenoj temi počne da nam priča potanko i naširoko, reći ćemo da je krenuo „od Kulina bana“.",
+          "russian": "Когда кто-то начинает подробно и пространно рассказывать о чём-то, мы говорим, что он начал издалека.",
+          "source": "RTS, 2020"
+        },
+        {
+          "serbian_latin": "Taj običaj postoji još od Kulina bana.",
+          "russian": "Этот обычай существует с незапамятных времён.",
+          "source": ""
         }
       ],
-      "note": "Часто встречается расширенная форма „od Kulina bana i dobrijeh dana“. Выражение связано с баном Кулином, правителем Боснии XII века. Помимо значения «начинать рассказ издалека», может обозначать очень давние времена.",
-      "keyword": "pričanje; početak; davna vremena"
+      "note": "Бан Кулин правил Боснией приблизительно в 1180–1204 годах; в народной памяти его правление связывали с благополучными временами. В современном разговоре выражение чаще иронически упрекает собеседника за чересчур длинное вступление, но может означать и просто глубокую старину. В расширенной традиционной формуле упоминаются «добрые дни» его правления; её старинная языковая форма не относится к современной экавице. Пишется Kulina bana: имя с прописной, титул со строчной буквы.",
+      "keyword": "od Kulina bana"
     },
     {
       "headword_latin": "Od nemila do nedraga",
