@@ -20298,6 +20298,32 @@
       "keyword": "namazan svim bojama"
     },
     {
+      "headword_latin": "Naneti tešku telesnu povredu kome",
+      "type": "kolokacija",
+      "definition_ru": "причинить кому-либо тяжкие телесные повреждения",
+      "synonyms_sr": [
+        "teško povrediti nekoga",
+        "naneti ozbiljne povrede"
+      ],
+      "literal_ru": "",
+      "register": "pravno, službeno; naneti nekome (dativ) tešku telesnu povredu (akuzativ)",
+      "examples": [
+        {
+          "serbian_latin": "oštećenog kome su tom prilikom naneli teške telesne povrede opasne po život.",
+          "russian": "потерпевшего, которому при этом причинили тяжкие телесные повреждения, опасные для жизни.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/hronika/6031182/uhapsen-maloletnik-osumnjicen-za-ucesce-u-otmici-u-zemunu.html"
+        },
+        {
+          "serbian_latin": "Optužen je da je oštećenom naneo tešku telesnu povredu.",
+          "russian": "Его обвиняют в причинении потерпевшему тяжких телесных повреждений.",
+          "source": ""
+        }
+      ],
+      "note": "Это юридическое сочетание. Человеку, которому причинён вред, соответствует дательный падеж: naneti mu, oštećenom, nekome; объект — tešku telesnu povredu в винительном падеже. В статье RTS употреблено множественное число teške telesne povrede, а сообщение передаёт подозрение полиции, не установленную судом вину.",
+      "keyword": "naneti tešku telesnu povredu kome"
+    },
+    {
       "headword_latin": "Naoružan do zuba",
       "type": "frazeologizam",
       "definition_ru": "Очень хорошо или чрезмерно вооружённый, снабжённый большим количеством оружия. Русский эквивалент полностью совпадает: «вооружён до зубов».",
@@ -44449,6 +44475,33 @@
       "keyword": "tesna pobeda"
     },
     {
+      "headword_latin": "Teška lova",
+      "type": "kolokacija",
+      "definition_ru": "большие деньги; куча денег",
+      "synonyms_sr": [
+        "velike pare",
+        "brdo para",
+        "masna lova (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg., često ekspresivno; lova = novac (žargon)",
+      "examples": [
+        {
+          "serbian_latin": "Dobra ponuda ili “teška” lova?",
+          "russian": "Хорошее предложение или «огромные деньги»?",
+          "source": "Vreme, 2022",
+          "url": "https://vreme.com/vesti/program-moja-prva-plata-za-visoko-obrazovane-30-000-dinara/"
+        },
+        {
+          "serbian_latin": "Za taj posao traže tešku lovu.",
+          "russian": "За эту работу требуют огромные деньги.",
+          "source": ""
+        }
+      ],
+      "note": "Lova — разговорное название денег; teška lova означает значительную сумму, а не тяжёлые монеты. В заголовке Vreme прилагательное teška взято в кавычки и употреблено иронически по отношению к невысокой оплате. В винительном падеже: tešku lovu.",
+      "keyword": "teška lova"
+    },
+    {
       "headword_latin": "Teška nepravda",
       "type": "kolokacija",
       "definition_ru": "вопиющая несправедливость",
@@ -45375,6 +45428,33 @@
       "keyword": "to dolazi sa godinama"
     },
     {
+      "headword_latin": "To donosi nesreću",
+      "type": "izraz",
+      "definition_ru": "это приносит несчастье; это плохая примета",
+      "synonyms_sr": [
+        "to je loš znak",
+        "to sluti na zlo",
+        "to donosi maler (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; često o sujeverju i predznacima",
+      "examples": [
+        {
+          "serbian_latin": "Važno je da niko ne zgazi na to što je u flaši, jer to donosi nesreću",
+          "russian": "Важно, чтобы никто не наступил на то, что находится в бутылке, потому что, по поверью, это приносит несчастье.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/1509092/.html"
+        },
+        {
+          "serbian_latin": "Veruje da mu razbijeno ogledalo donosi nesreću.",
+          "russian": "Он считает, что разбитое зеркало приносит несчастье.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот передаёт убеждение, что определённый поступок или предмет сулит беду. В газетном тексте описано народное поверье, а не доказанная причинная связь. Donositi nesreću значит «приносить несчастье», тогда как doživeti nesreću — «попасть в беду или аварию».",
+      "keyword": "to donosi nesreću"
+    },
+    {
       "headword_latin": "To ide predaleko!",
       "type": "replika",
       "definition_ru": "это заходит слишком далеко!; это уже переходит границы!",
@@ -45454,6 +45534,33 @@
       ],
       "note": "Abeceda буквально «алфавит» (особенно латинский); в переносном значении — самые простые, очевидные основы предмета. Сербское azbuka чаще связано с кириллицей, но также означает «азы». Цитата взята из читательского комментария, а не из авторского текста редакции.",
       "keyword": "to je abeceda"
+    },
+    {
+      "headword_latin": "To je bilo neumesno",
+      "type": "replika",
+      "definition_ru": "это было неуместно",
+      "synonyms_sr": [
+        "to nije bilo primereno",
+        "bilo je neprikladno",
+        "bilo je neukusno"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, neodobr.; ocena postupka ili izjave",
+      "examples": [
+        {
+          "serbian_latin": "to mahanje rukama i iščuđavanje na celu situaciju meni je bilo neumesno.",
+          "russian": "Эти взмахи руками и удивление по поводу происходящего показались мне неуместными.",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/vesti/hronika/advokat-porodica-dece-ubijene-u-ribnikaru-o-sudjenju-kecmanovicima-bilo-je-mucno/8kfeyvx"
+        },
+        {
+          "serbian_latin": "Njegovo pitanje je bilo neumesno.",
+          "russian": "Его вопрос был неуместным.",
+          "source": ""
+        }
+      ],
+      "note": "Neumesno значит «неуместно, бестактно», а не «неумно». Можно сказать neumesno pitanje, neumesna šala, neumesno ponašanje. В цитате оценка относится к поведению человека; форма meni je bilo не меняет основного значения.",
+      "keyword": "to je bilo neumesno"
     },
     {
       "headword_latin": "To je bilo vreme!",
@@ -46006,6 +46113,60 @@
       "keyword": "to je ono pravo"
     },
     {
+      "headword_latin": "To je pitanje",
+      "type": "replika",
+      "definition_ru": "это ещё вопрос; вот в чём вопрос; пока неизвестно",
+      "synonyms_sr": [
+        "ostaje da se vidi",
+        "to je otvoreno pitanje",
+        "pitanje je"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; samostalno ili u poznatom književnom citatu",
+      "examples": [
+        {
+          "serbian_latin": "Biti, ili ne biti: to je pitanje!?",
+          "russian": "Быть или не быть — вот в чём вопрос!",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/sport/fudbal/4981281/hamletovsko-pitanje-za-piksija-orlovi-24-godine-sanjaju-evropsko-prvenstvo.html"
+        },
+        {
+          "serbian_latin": "Hoćemo li uspeti do petka? To je pitanje.",
+          "russian": "Успеем ли к пятнице? Это ещё вопрос.",
+          "source": ""
+        }
+      ],
+      "note": "В обыденном разговоре To je pitanje часто выражает неопределённость: «Это ещё вопрос». В цитате RTS воспроизводится реплика из «Гамлета» Шекспира — «вот в чём вопрос»; это отдельный, узнаваемый культурный оттенок. Оба употребления нельзя механически сводить к одному русскому переводу.",
+      "keyword": "to je pitanje"
+    },
+    {
+      "headword_latin": "To je pravo ruglo",
+      "type": "replika",
+      "definition_ru": "это настоящее уродство; просто бельмо на глазу",
+      "synonyms_sr": [
+        "to je prava sramota",
+        "to izgleda užasno",
+        "to je rugoba"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "To je pravo ruglo, naročito na takvoj turističkoj lokaciji.",
+          "russian": "Это настоящее безобразие, особенно в таком туристическом месте.",
+          "source": "Kurir / RINA, 2021",
+          "url": "https://www.kurir.rs/vesti/srbija/3653175/bacali-stare-gume-u-drinu-ruglo-na-jednoj-od-najatraktivnijih-lokacija-u-srbiji-foto"
+        },
+        {
+          "serbian_latin": "Ta zgrada je pravo ruglo.",
+          "russian": "Это здание — настоящее уродство.",
+          "source": ""
+        }
+      ],
+      "note": "Ruglo обозначает то, что уродует вид места или вызывает стыд и возмущение. В отличие от ružno («некрасиво»), существительное ruglo гораздо экспрессивнее. В публикации так оценили мусор в реке; в живой речи выражение подходит и для зданий, улиц, свалок.",
+      "keyword": "to je pravo ruglo"
+    },
+    {
       "headword_latin": "To je preko svake mere!",
       "type": "replika",
       "definition_ru": "это уже слишком!; это переходит всякие границы!",
@@ -46272,6 +46433,60 @@
       "keyword": "to je tek deo priče"
     },
     {
+      "headword_latin": "To je tvoj problem!",
+      "type": "replika",
+      "definition_ru": "это твоя проблема!; сам разбирайся!",
+      "synonyms_sr": [
+        "sam se snađi",
+        "to moraš sam da rešiš",
+        "to mene ne zanima"
+      ],
+      "literal_ru": "",
+      "register": "razg., često odsečno i neprijatno",
+      "examples": [
+        {
+          "serbian_latin": "To je tvoj problem! Neću da mi neki balavci noćas luduju po kući!",
+          "russian": "Это твоя проблема! Я не собираюсь терпеть, чтобы какие-то сопляки сегодня ночью бесились у меня дома!",
+          "source": "RTS / Radio Beograd 1, 2012",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-1/1235058/odavde-do-ponoci.html"
+        },
+        {
+          "serbian_latin": "Nećeš da poslušaš savet? To je tvoj problem!",
+          "russian": "Не хочешь слушать совет? Это твоя проблема!",
+          "source": ""
+        }
+      ],
+      "note": "Реплика обычно означает отказ брать на себя чужую ответственность, а не нейтральное описание проблемы. По тону может быть довольно резкой. В примере это часть диалога радиопостановки, опубликованного на сайте RTS.",
+      "keyword": "to je tvoj problem"
+    },
+    {
+      "headword_latin": "To je već bajato",
+      "type": "replika",
+      "definition_ru": "это уже старая новость; это уже всем известно",
+      "synonyms_sr": [
+        "to je stara priča",
+        "to nije ništa novo",
+        "to je zastarelo"
+      ],
+      "literal_ru": "",
+      "register": "razg., ironično; o vestima, temama, šalama",
+      "examples": [
+        {
+          "serbian_latin": "Šarići…a ne to je već bajato, prošlo je 10-tak dana.",
+          "russian": "Шаричи... хотя нет, это уже старая история: прошло дней десять.",
+          "source": "SDCafe.rs (autorski blog), 2010",
+          "url": "https://sdcafe.rs/azdaja-rodoljubi-vulkanska-prasina-i-respect/"
+        },
+        {
+          "serbian_latin": "Ta vest je već bajata.",
+          "russian": "Эта новость уже устарела.",
+          "source": ""
+        }
+      ],
+      "note": "Bajato буквально «чёрствое, несвежее» — о хлебе и еде. Переносно обозначает тему, новость или шутку, утратившую актуальность; это разговорнее, чем zastarelo. Источник — авторский блог на сербском портале, не современная газетная цитата.",
+      "keyword": "to je već bajato"
+    },
+    {
       "headword_latin": "To je veliki znak pitanja",
       "type": "replika",
       "definition_ru": "это большой вопрос; пока ничего не ясно",
@@ -46297,6 +46512,33 @@
       ],
       "note": "Не нужно переводить znak pitanja буквально как типографский знак: в обороте он обозначает существенную неопределённость. Типичная конструкция — nešto je pod znakom pitanja, а реплика To je veliki znak pitanja усиливает сомнение.",
       "keyword": "to je veliki znak pitanja"
+    },
+    {
+      "headword_latin": "To je za mene novost",
+      "type": "replika",
+      "definition_ru": "это для меня новость",
+      "synonyms_sr": [
+        "prvi put to čujem",
+        "to mi je novo",
+        "nisam znao za to"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; novost za nekoga (akuzativ)",
+      "examples": [
+        {
+          "serbian_latin": "To je za mene bila novost.",
+          "russian": "Для меня это было новостью.",
+          "source": "Večernje novosti, 2026",
+          "url": "https://www.novosti.rs/vesti/politika/1658452/rat-ukrjaini-donald-tramp-vladimir-zelenski"
+        },
+        {
+          "serbian_latin": "Da će firma da se zatvori? To je za mene novost.",
+          "russian": "Фирма закроется? Для меня это новость.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание za mene обозначает, кому информация была неизвестна; оно не значит, что событие само по себе произошло недавно. В публикации приведена прошедшая форма To je za mene bila novost, тогда как словарный заголовок дан в настоящем времени.",
+      "keyword": "to je za mene novost"
     },
     {
       "headword_latin": "To je za mene špansko selo",
@@ -46331,6 +46573,33 @@
       "keyword": "špansko selo"
     },
     {
+      "headword_latin": "To me grize",
+      "type": "replika",
+      "definition_ru": "меня это гложет; не даёт покоя",
+      "synonyms_sr": [
+        "to me izjeda",
+        "to mi ne da mira",
+        "to me muči"
+      ],
+      "literal_ru": "",
+      "register": "razg., figurativno; gristi nekoga (akuzativ)",
+      "examples": [
+        {
+          "serbian_latin": "onaj bezobrazluk, onu nepravdu, to me grize",
+          "russian": "Та наглость, та несправедливость — меня это гложет.",
+          "source": "Kurir, 2022",
+          "url": "https://www.kurir.rs/stars/rijaliti/3908277/nenadov-rodjak-raskrinkao-ga-do-srzi-zadruga-5"
+        },
+        {
+          "serbian_latin": "To me grize već nedeljama.",
+          "russian": "Это гложет меня уже несколько недель.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол gristi буквально значит «кусать», но to me grize передаёт мучительное беспокойство, обиду или угрызения совести. Сравните grize me savest — «меня мучает совесть». В цитате переживание вызвано чужим поведением, а не собственной виной.",
+      "keyword": "to me grize"
+    },
+    {
       "headword_latin": "To me muči",
       "type": "replika",
       "definition_ru": "меня это мучает",
@@ -46356,6 +46625,33 @@
       ],
       "note": "Muči me буквально «мучает меня», но часто описывает навязчивую мысль, тревогу или неразрешённый вопрос. Речь может идти не о физической боли, а о внутреннем беспокойстве. Порядок слов свободен: To me muči или Muči me to.",
       "keyword": "to me muči"
+    },
+    {
+      "headword_latin": "To me strašno ljuti!",
+      "type": "replika",
+      "definition_ru": "это меня ужасно злит!",
+      "synonyms_sr": [
+        "to me veoma nervira",
+        "to me razbesni",
+        "to me izluđuje"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; ljutiti nekoga (akuzativ)",
+      "examples": [
+        {
+          "serbian_latin": "I to me strašno ljuti",
+          "russian": "И это меня ужасно злит.",
+          "source": "Telegraf.rs, 2026",
+          "url": "https://www.telegraf.rs/vesti/svet/4318795-ema-izgubila-sina-u-opasnom-trendu-koji-je-zaziveo-i-medju-mladima-u-srbiji-udahnuo-je-to-i-srce-mu-je-stalo"
+        },
+        {
+          "serbian_latin": "Njegova nepravda me strašno ljuti!",
+          "russian": "Его несправедливость меня ужасно злит!",
+          "source": ""
+        }
+      ],
+      "note": "Strašno в этом сочетании — усилитель степени «очень, ужасно», а не указание на страх. Глагол ljutiti здесь «злить», не путать с ljut — «острый» о еде. Выражение передаёт сильное раздражение или возмущение; в публикации это слова собеседницы, переведённые на сербский.",
+      "keyword": "to me strašno ljuti"
     },
     {
       "headword_latin": "To me tišti",
@@ -46413,6 +46709,33 @@
       "keyword": "to mi je fah"
     },
     {
+      "headword_latin": "To mi je najjača strana",
+      "type": "replika",
+      "definition_ru": "это моя сильная сторона",
+      "synonyms_sr": [
+        "to mi najbolje ide",
+        "tu sam najjači",
+        "to mi je glavna prednost"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; nekome je nešto jača/najjača strana",
+      "examples": [
+        {
+          "serbian_latin": "Moja najjača strana mislim da je višeznačnost",
+          "russian": "Думаю, моя самая сильная сторона — многозначность.",
+          "source": "Danas / BBC na srpskom, 2020",
+          "url": "https://www.danas.rs/bbc-news-serbian/lora-marling-ima-li-mesta-za-intimu-u-muzici-u-doba-epidemije-korona-virusa/"
+        },
+        {
+          "serbian_latin": "Rad s ljudima mi je najjača strana.",
+          "russian": "Работа с людьми — моя сильная сторона.",
+          "source": ""
+        }
+      ],
+      "note": "Strana здесь означает сторону способностей, не сторону предмета. В сербском одинаково естественны Moja najjača strana je... и To mi je najjača strana; вторая конструкция использует дательный mi. В газетном интервью употреблён первый вариант.",
+      "keyword": "to mi je najjača strana"
+    },
+    {
       "headword_latin": "To mi je poslednja briga",
       "type": "replika",
       "definition_ru": "это меня сейчас меньше всего волнует",
@@ -46438,6 +46761,33 @@
       ],
       "note": "Последняя забота здесь означает «то, что волнует меньше всего», а не последнюю по времени проблему. Местоимения легко заменяются: to mi/mu/nam je poslednja briga; в цитате указаны владельцы квартир.",
       "keyword": "to mi je poslednja briga"
+    },
+    {
+      "headword_latin": "To mi prosto ne leži",
+      "type": "replika",
+      "definition_ru": "мне это совершенно не подходит; это не моё",
+      "synonyms_sr": [
+        "to mi ne odgovara",
+        "to nije za mene",
+        "to mi ne prija"
+      ],
+      "literal_ru": "",
+      "register": "razg.; nešto nekome ne leži (dativ)",
+      "examples": [
+        {
+          "serbian_latin": "a da se oduševljavam kako trče za loptom, to mi prosto ne leži.",
+          "russian": "А вот восхищаться тем, как они бегают за мячом, — это совсем не по мне.",
+          "source": "B92 (komentar čitaoca), 2021",
+          "url": "https://www.b92.net/komentari?nav_id=1918325"
+        },
+        {
+          "serbian_latin": "Taj posao mi prosto ne leži.",
+          "russian": "Эта работа мне совершенно не подходит.",
+          "source": ""
+        }
+      ],
+      "note": "Ne leži mi значит «мне это не по душе, не подходит», а не «это не лежит». Дательный mi обозначает человека, которому занятие или стиль не подходит: ne leži mi fudbal, matematika, taj posao. Источник — комментарий читателя; для учебного текста восстановлены пропущенные автором диакритики.",
+      "keyword": "to mi prosto ne leži"
     },
     {
       "headword_latin": "To miriše na izdaju",
@@ -46600,6 +46950,60 @@
       ],
       "note": "Разговорное ne pije vodu — «не годится, не проходит», прежде всего об аргументации или предлагаемом решении. Синонимично ne drži vodu, которое буквально значит «не удерживает воду»; это два самостоятельных употребительных оборота.",
       "keyword": "to ne pije vodu"
+    },
+    {
+      "headword_latin": "To nije novost",
+      "type": "replika",
+      "definition_ru": "это не новость",
+      "synonyms_sr": [
+        "to nije ništa novo",
+        "to se već zna",
+        "to je stara vest"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; i ironično",
+      "examples": [
+        {
+          "serbian_latin": "Pojmovi su se, u srpskoj zbilji, deformisali, a ideje istrošile, to nije novost.",
+          "russian": "Понятия в сербской действительности исказились, а идеи износились — это уже не новость.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/vesti/drustvo/ta-teska-rec-dijalog/"
+        },
+        {
+          "serbian_latin": "Za sve nas to nije novost.",
+          "russian": "Для всех нас это не новость.",
+          "source": ""
+        }
+      ],
+      "note": "Это не всегда сообщение о СМИ или свежих новостях: так говорят о давно известном обстоятельстве, часто с оттенком усталости или иронии. Samo po sebi novost — «новость», тогда как nešto novo — «что-то новое» шире по значению.",
+      "keyword": "to nije novost"
+    },
+    {
+      "headword_latin": "To nije tvoja stvar!",
+      "type": "replika",
+      "definition_ru": "это не твоё дело!",
+      "synonyms_sr": [
+        "gledaj svoja posla",
+        "ne mešaj se",
+        "to te se ne tiče"
+      ],
+      "literal_ru": "",
+      "register": "razg., odsečno; može biti grubo",
+      "examples": [
+        {
+          "serbian_latin": "Svako može da čuva koliko hoće ljubimaca, to nije tvoja stvar",
+          "russian": "Каждый вправе держать столько домашних животных, сколько хочет: это не твоё дело.",
+          "source": "Danas (komentar čitaoca), 2023",
+          "url": "https://www.danas.rs/vesti/politika/vucic-lepo-je-da-imate-kuce-i-mace-ali-deca/komentari/"
+        },
+        {
+          "serbian_latin": "Ne mešaj se, to nije tvoja stvar!",
+          "russian": "Не вмешивайся, это не твоё дело!",
+          "source": ""
+        }
+      ],
+      "note": "Stvar здесь значит «дело, вопрос, касающийся кого-либо», а не предмет. Реплика отсекает вмешательство собеседника и нередко звучит грубовато. Источник — комментарий читателя, в котором для учебного написания восстановлены пропущенные диакритики.",
+      "keyword": "to nije tvoja stvar"
     },
     {
       "headword_latin": "To se graniči sa ludošću!",
@@ -46790,6 +47194,33 @@
       "keyword": "to ti kažem"
     },
     {
+      "headword_latin": "To ti tako kažeš",
+      "type": "replika",
+      "definition_ru": "это ты так говоришь; это ещё не значит, что так и есть",
+      "synonyms_sr": [
+        "to je tvoje mišljenje",
+        "ti tako misliš",
+        "to još ne znači da je tako"
+      ],
+      "literal_ru": "",
+      "register": "razg.; neslaganje, skepsa ili ironično pristajanje",
+      "examples": [
+        {
+          "serbian_latin": "Ok, ako ti tako kažeš, neka bude da sam bot.",
+          "russian": "Ну ладно, раз ты так говоришь, пусть будет, что я бот.",
+          "source": "Danas (komentar čitaoca), 2019",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/staljinov-lanac-samo-za-srbiju/komentari/"
+        },
+        {
+          "serbian_latin": "„Svi su saglasni.“ — „To ti tako kažeš.“",
+          "russian": "«Все согласны». — «Это ты так говоришь».",
+          "source": ""
+        }
+      ],
+      "note": "В форме To ti tako kažeš говорящий дистанцируется от чужого утверждения: «Это ты так считаешь». В источнике употреблена близкая конструкция ako ti tako kažeš, выражающая ироническую уступку; это не дословно та же самостоятельная реплика. Частица ti усиливает указание на собеседника.",
+      "keyword": "to ti tako kažeš"
+    },
+    {
       "headword_latin": "To već i vrapci znaju",
       "type": "frazeologizam",
       "definition_ru": "это уже всем известно; об этом уже и воробьи чирикают",
@@ -46817,6 +47248,32 @@
       "keyword": "to već i vrapci znaju"
     },
     {
+      "headword_latin": "Točeno pivo",
+      "type": "kolokacija",
+      "definition_ru": "разливное пиво",
+      "synonyms_sr": [
+        "pivo na točenje",
+        "pivo iz točionika"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; ugostiteljstvo",
+      "examples": [
+        {
+          "serbian_latin": "Besplatno su služeni kuvano vino, rakija i točeno pivo",
+          "russian": "Бесплатно подавали глинтвейн, ракию и разливное пиво.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/1789139/docek-nove-godine-u-srbiji.html"
+        },
+        {
+          "serbian_latin": "Molim vas jedno točeno pivo.",
+          "russian": "Одно разливное пиво, пожалуйста.",
+          "source": ""
+        }
+      ],
+      "note": "Točeno pivo — пиво, которое наливают из крана, в отличие от flaširano pivo или pivo u limenci. В кафе естественная просьба: Jedno točeno pivo, molim vas. Прилагательное točen образовано от točiti — «наливать».",
+      "keyword": "točeno pivo"
+    },
+    {
       "headword_latin": "Toga ima samo kod nas",
       "type": "replika",
       "definition_ru": "такое только у нас; ну где ещё такое увидишь",
@@ -46841,6 +47298,33 @@
       ],
       "note": "Формула сама по себе нейтральна, но в реальной речи чаще всего вводит самоироническое описание нелепости, бюрократии или местной привычки. Положительный контекст тоже возможен.",
       "keyword": "kod nas"
+    },
+    {
+      "headword_latin": "Tok misli",
+      "type": "kolokacija",
+      "definition_ru": "ход мыслей",
+      "synonyms_sr": [
+        "sled misli",
+        "tok razmišljanja",
+        "niz misli"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; tok misli, izgubiti tok misli",
+      "examples": [
+        {
+          "serbian_latin": "svaka pesma je jedna tema i onda ide taj tok misli kroz tu temu.",
+          "russian": "Каждая песня посвящена отдельной теме, и дальше разворачивается ход мысли вокруг неё.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/rts/pesma-evrovizije/Pesma-Evrovizije2022/vesti/4745688/.html?print=true"
+        },
+        {
+          "serbian_latin": "Izgubio sam tok misli kad me je prekinuo.",
+          "russian": "Я потерял нить мысли, когда меня перебили.",
+          "source": ""
+        }
+      ],
+      "note": "Tok misli — логическая или ассоциативная последовательность мыслей. В отличие от русского «поток мыслей», сербское tok misli часто обозначает именно ход рассуждения; izgubiti tok misli — «потерять нить мысли». В интервью речь идёт о способе построения песни.",
+      "keyword": "tok misli"
     },
     {
       "headword_latin": "Toliko o tome",
@@ -47063,6 +47547,32 @@
       "keyword": "transfer blama"
     },
     {
+      "headword_latin": "Tražite i naći ćete!",
+      "type": "krilatica",
+      "definition_ru": "ищите и обрящете; кто ищет, тот найдёт",
+      "synonyms_sr": [
+        "ko traži, naći će",
+        "ko traži, taj nalazi"
+      ],
+      "literal_ru": "",
+      "register": "biblijska krilatica; često kao savet ili podsticaj",
+      "examples": [
+        {
+          "serbian_latin": "tražite i naći ćete; kucajte i otvoriće vam se",
+          "russian": "Ищите и найдёте; стучите, и вам откроют.",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/drustvo/o-odricanju-od-greha-prema-sebi/"
+        },
+        {
+          "serbian_latin": "Ne odustajte od potrage: tražite i naći ćete.",
+          "russian": "Не прекращайте искать: кто ищет, тот найдёт.",
+          "source": ""
+        }
+      ],
+      "note": "Это библейская формула из Евангелия от Матфея (7:7), известная по-русски как «ищите и обрящете». В сербских переводах встречается также Ištite i daće vam se. Не обязательно употребляется в религиозном контексте: часто служит призывом не прекращать поиски.",
+      "keyword": "tražite i naći ćete"
+    },
+    {
       "headword_latin": "tražiti dlaku u jajetu",
       "type": "frazeologizam",
       "definition_ru": "Искать недостаток там, где его практически нет; намеренно выискивать мелкие изъяны и повод придраться. Русские соответствия: «искать, к чему придраться», «выискивать недостатки», «цепляться к мелочам».",
@@ -47223,6 +47733,33 @@
       ],
       "note": "Хлеб и погача в пословичном образе сопоставляют то, что уже имеется, с дополнительным требованием. В современном употреблении часто встречается отрицание ne tražiti hleba preko pogače. Обрати внимание на форму hleba: в этом выражении это родительный падеж, а не отдельный предмет поиска.",
       "keyword": "tražiti preko hleba pogače"
+    },
+    {
+      "headword_latin": "Tražiti repete",
+      "type": "kolokacija",
+      "definition_ru": "просить добавки; брать вторую порцию",
+      "synonyms_sr": [
+        "tražiti još jednu porciju",
+        "tražiti dodatak",
+        "uzeti još hrane"
+      ],
+      "literal_ru": "",
+      "register": "razg.; najčešće o dodatnoj porciji hrane",
+      "examples": [
+        {
+          "serbian_latin": "Umesto zabrinutosti, prijatnije je opustiti se i tražiti repete.",
+          "russian": "Вместо тревог приятнее расслабиться и попросить добавки.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/tajna-vecera/"
+        },
+        {
+          "serbian_latin": "Supa mu se dopala pa je tražio repete.",
+          "russian": "Ему понравился суп, и он попросил добавки.",
+          "source": ""
+        }
+      ],
+      "note": "Repete в сербском разговорном языке — дополнительная порция еды. Можно сказать tražiti repete или dobiti repete; слово не обязательно относится к повторному выступлению или музыкальному бису. В колонке Danas автор употребляет его в шутливом рассуждении о еде.",
+      "keyword": "tražiti repete"
     },
     {
       "headword_latin": "Trbuh nema ušiju",
