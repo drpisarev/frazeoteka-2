@@ -13797,6 +13797,33 @@
       "keyword": "jabuka razdora; spor; sukob; neslaganje"
     },
     {
+      "headword_latin": "Jadan ja",
+      "type": "replika",
+      "definition_ru": "бедный я!; несчастный я!; ну и бедолага же я!",
+      "synonyms_sr": [
+        "teško meni",
+        "kuku meni",
+        "jao meni"
+      ],
+      "literal_ru": "",
+      "register": "razg.; uzvik samosažaljenja, ponekad ironično",
+      "examples": [
+        {
+          "serbian_latin": "Ali uteha nije u rečima „jadan ja“.",
+          "russian": "Но утешение не в словах «бедный я».",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/drustvo/retke-bolesti/"
+        },
+        {
+          "serbian_latin": "Jadan ja, opet moram sve ispočetka!",
+          "russian": "Бедный я, опять приходится начинать всё заново!",
+          "source": ""
+        }
+      ],
+      "note": "Это готовая реплика жалобы на собственную участь, иногда с самоиронией. Отдельно jadan может означать «жалкий», «несчастный»; сочетание jadan ja обычно произносится от первого лица, а jadan ti — уже обращение к собеседнику.",
+      "keyword": "jadan ja"
+    },
+    {
       "headword_latin": "jak kao bik",
       "type": "poređenje",
       "definition_ru": "Сильный как бык; чрезвычайно крепкий и физически сильный.",
@@ -18407,6 +18434,33 @@
       ],
       "note": "Ваша фраза грамматически правильна. Для русского важно управление: dirnut pažnjom, gestom, rečima, podrškom — творительный падеж без предлога. Ganut близко по значению, но обычно звучит чуть более возвышенно и эмоционально.",
       "keyword": "dirnuta pažnjom"
+    },
+    {
+      "headword_latin": "Moć navike",
+      "type": "kolokacija",
+      "definition_ru": "сила привычки; власть привычки",
+      "synonyms_sr": [
+        "snaga navike",
+        "inercija navike",
+        "ustaljena navika"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; u objašnjavanju ustaljenog ponašanja",
+      "examples": [
+        {
+          "serbian_latin": "Postoji nešto što se zove linija manjeg otpora, postoji moć navike, uzajamnost.",
+          "russian": "Есть так называемый путь наименьшего сопротивления, есть сила привычки, взаимность.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5142771/dve-trecine-mladih-u-srbiji-zivi-sa-roditeljima-zasto-nisu-spremni-da-napuste-porodicni-dom.html"
+        },
+        {
+          "serbian_latin": "I dalje ustajem u šest, čak i nedeljom — moć navike.",
+          "russian": "Я до сих пор встаю в шесть даже по воскресеньям — сила привычки.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание объясняет поступки, которые человек повторяет автоматически. В отличие от navika — просто «привычка», moć navike подчёркивает её влияние на решения и поведение. Русское «сила привычки» также передают сочетанием snaga navike.",
+      "keyword": "moć navike"
     },
     {
       "headword_latin": "Moći na prste jedne ruke nabrojati / izbrojati",
@@ -44862,6 +44916,33 @@
       "keyword": "težak slučaj"
     },
     {
+      "headword_latin": "Težak sudar",
+      "type": "kolokacija",
+      "definition_ru": "серьёзное столкновение; тяжёлая авария",
+      "synonyms_sr": [
+        "ozbiljan sudar",
+        "teška saobraćajna nesreća",
+        "snažan sudar"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; saobraćajni kontekst",
+      "examples": [
+        {
+          "serbian_latin": "Težak sudar autobusa, kombija i automobila kod Paraćina – povređeno više osoba",
+          "russian": "Серьёзное столкновение автобуса, микроавтобуса и легкового автомобиля под Парачином — несколько пострадавших.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/vesti/hronika/5554336/saobracajna-nesreca-paracin-autobus-kombi-automobil-vozac-sudar.html"
+        },
+        {
+          "serbian_latin": "U teškom sudaru na auto-putu povređena su dva vozača.",
+          "russian": "В серьёзной аварии на автомагистрали пострадали двое водителей.",
+          "source": ""
+        }
+      ],
+      "note": "Težak здесь относится к тяжести происшествия и его последствий, а не к массе транспортных средств. В дорожных новостях говорят težak sudar, saobraćajna nesreća и udes; у последнего слова более разговорный оттенок.",
+      "keyword": "težak sudar"
+    },
+    {
       "headword_latin": "Težak udarac",
       "type": "kolokacija",
       "definition_ru": "тяжёлый удар; серьёзная неудача",
@@ -45159,6 +45240,33 @@
       "keyword": "tip top"
     },
     {
+      "headword_latin": "To im je deveta rupa na svirali!",
+      "type": "frazeologizam",
+      "definition_ru": "для них это дело десятое; их это совсем не волнует; им не до этого",
+      "synonyms_sr": [
+        "nije ih briga",
+        "nije im važno",
+        "na poslednjem im je mestu"
+      ],
+      "literal_ru": "это для них девятая дырка на свирели",
+      "register": "razg., ekspresivno, neodobr.; biti nekome deveta rupa na svirali",
+      "examples": [
+        {
+          "serbian_latin": "Da li nam je priroda deveta rupa na svirali",
+          "russian": "Неужели природа для нас — дело десятое?",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/magazin/priroda/4789274/memedovic-ciscenje-reka-jezera.html"
+        },
+        {
+          "serbian_latin": "Radnicima bezbednost ne sme da bude deveta rupa na svirali.",
+          "russian": "Для работников безопасность не должна быть делом десятым.",
+          "source": ""
+        }
+      ],
+      "note": "Непривычный русский образ «девятая дырка на свирели» означает нечто совершенно неважное. Кому именно это безразлично, передают дательным падежом: im, nam, mu, joj. В газетном заголовке используется nam, а не im.",
+      "keyword": "to im je deveta rupa na svirali"
+    },
+    {
       "headword_latin": "To je bilo vreme!",
       "type": "replika",
       "definition_ru": "вот были времена!; было же время!",
@@ -45348,6 +45456,33 @@
       "keyword": "to je druga priča"
     },
     {
+      "headword_latin": "To je drugi par rukava",
+      "type": "frazeologizam",
+      "definition_ru": "это уже другой разговор; это совсем другое дело; другой вопрос",
+      "synonyms_sr": [
+        "to je druga priča",
+        "to je druga stvar",
+        "to je nešto sasvim drugo"
+      ],
+      "literal_ru": "это другая пара рукавов",
+      "register": "razg.; često za razdvajanje dva pitanja",
+      "examples": [
+        {
+          "serbian_latin": "Koliko je moguće da vlast to prihvati, to je drugi par rukava",
+          "russian": "А вот насколько возможно, что власти это примут, — уже другой вопрос.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/politika/jedinstven-front-opozicije-studenata-i-gradjana-prelazna-vlada/"
+        },
+        {
+          "serbian_latin": "Predlog je dobar, ali ko će ga finansirati — to je drugi par rukava.",
+          "russian": "Предложение хорошее, а вот кто его оплатит — уже другой разговор.",
+          "source": ""
+        }
+      ],
+      "note": "Образ дословно связан с другой парой рукавов, но смысл не имеет отношения к одежде. Оборот отделяет обсуждаемый вопрос от нового, зачастую более сложного; нейтральный синоним — to je druga stvar.",
+      "keyword": "to je drugi par rukava"
+    },
+    {
       "headword_latin": "To je jasno i vrapcima na grani",
       "type": "frazeologizam",
       "definition_ru": "это и ежу понятно; это всем известно",
@@ -45372,6 +45507,33 @@
       ],
       "note": "Русский выбирает ежа, сербский — воробьёв. Устойчивее всего модель i vrapci na grani znaju, поэтому исходный заголовок стоит понимать как её вариант.",
       "keyword": "vrapci na grani"
+    },
+    {
+      "headword_latin": "To je jedini izlaz",
+      "type": "replika",
+      "definition_ru": "это единственный выход; иного решения нет",
+      "synonyms_sr": [
+        "nema drugog rešenja",
+        "jedino tako možemo",
+        "to je jedina mogućnost"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; i figurativno o rešenju problema",
+      "examples": [
+        {
+          "serbian_latin": "Nema dileme. I zdravstvo i ekonomija. To je jedini izlaz.",
+          "russian": "Сомнений нет. И здравоохранение, и экономика. Это единственный выход.",
+          "source": "RTS, 2021",
+          "url": "https://rts.rs/lat/vesti/koronavirus/koronavirus-u-srbiji/4315296/i-zdravstvo-i-ekonomija--to-je-jedini-izlaz-vise-razloga-za-veliki-broj-novoobolelih.html"
+        },
+        {
+          "serbian_latin": "Ako razgovori ne uspeju, sud je jedini izlaz.",
+          "russian": "Если переговоры провалятся, суд — единственный выход.",
+          "source": ""
+        }
+      ],
+      "note": "Izlaz — не только физический выход из помещения, но и способ выбраться из затруднения. Синонимичная конструкция — jedini način da...; в выражении подчёркивается отсутствие альтернатив.",
+      "keyword": "to je jedini izlaz"
     },
     {
       "headword_latin": "To je luda kuća!",
@@ -45439,6 +45601,33 @@
       "keyword": "to je mač sa dve oštrice"
     },
     {
+      "headword_latin": "To je malo čudo",
+      "type": "replika",
+      "definition_ru": "это маленькое чудо; почти невероятное событие",
+      "synonyms_sr": [
+        "pravo čudo",
+        "nešto neverovatno",
+        "srećan ishod"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, ekspresivno, obično pozitivno",
+      "examples": [
+        {
+          "serbian_latin": "Svaki put kada se neko ko je još živ izvuče iz ruševina – to je malo čudo.",
+          "russian": "Каждый раз, когда из-под обломков удаётся извлечь живого человека, — это маленькое чудо.",
+          "source": "RTS / Dojče vele, 2023",
+          "url": "https://www.rts.rs/lat/vesti/svet/5117486/.html?print=true"
+        },
+        {
+          "serbian_latin": "Posle toliko neuspešnih pokušaja, njen oporavak je malo čudo.",
+          "russian": "После стольких неудачных попыток её восстановление — настоящее маленькое чудо.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание malo čudo означает не «чудо малой важности», а удивительный результат, вероятность которого казалась невысокой. В русской речи «маленькое чудо» сохраняет такой же эмоционально-положительный оттенок.",
+      "keyword": "to je malo čudo"
+    },
+    {
       "headword_latin": "To je nečuveno!",
       "type": "replika",
       "definition_ru": "это возмутительно!; неслыханно!",
@@ -45493,6 +45682,60 @@
       "keyword": "to je njegovo maslo"
     },
     {
+      "headword_latin": "To je ono pravo!",
+      "type": "replika",
+      "definition_ru": "вот это то, что нужно!; вот это правильно!; вот это настоящее дело!",
+      "synonyms_sr": [
+        "to je pun pogodak",
+        "baš to treba",
+        "to je dobra stvar"
+      ],
+      "literal_ru": "",
+      "register": "razg., odobr.; koristi se za pravi izbor ili rešenje",
+      "examples": [
+        {
+          "serbian_latin": "nego ih uči poštovanju, samokontroli i to je ono pravo",
+          "russian": "а ещё учит их уважению и самоконтролю — вот что действительно важно",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5291813/uspesi-pirotskih-dzudista-.html"
+        },
+        {
+          "serbian_latin": "Ovaj stan ima dovoljno svetla i blizu je posla. To je ono pravo!",
+          "russian": "В этой квартире достаточно света, и она близко к работе. Вот то, что нужно!",
+          "source": ""
+        }
+      ],
+      "note": "Выражение подтверждает правильный выбор, удачное решение или главное достоинство. Не надо понимать ono как указание на далёкий предмет: это готовая оценочная реплика «вот то самое». В источнике выражение завершает более длинную мысль.",
+      "keyword": "to je ono pravo"
+    },
+    {
+      "headword_latin": "To je preko svake mere!",
+      "type": "replika",
+      "definition_ru": "это уже слишком!; это переходит всякие границы!",
+      "synonyms_sr": [
+        "to prelazi svaku meru",
+        "to je nedopustivo",
+        "to je preterano"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, neodobr.; česta varijanta: ovo je preko svake mere",
+      "examples": [
+        {
+          "serbian_latin": "ovo što je učinio peruanski golman Huan Flores zaista je preko svake mere",
+          "russian": "то, что сделал перуанский вратарь Хуан Флорес, действительно переходит всякие границы",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/sport/ostali-sportovi/1310042/.html?print=true"
+        },
+        {
+          "serbian_latin": "Takvo ponašanje je preko svake mere!",
+          "russian": "Такое поведение переходит всякие границы!",
+          "source": ""
+        }
+      ],
+      "note": "Выражение оценивает поведение как недопустимое и чрезмерное. В разговоре естественны To prelazi svaku meru! и Ovo je preko svake mere!, а в PDF исходный вариант был повреждён при наборе. Это не значит «выше любой единицы измерения».",
+      "keyword": "to je preko svake mere"
+    },
+    {
       "headword_latin": "To je puka formalnost",
       "type": "replika",
       "definition_ru": "это чистая формальность; это только для вида",
@@ -45545,6 +45788,33 @@
       ],
       "note": "Rđav значит не только «испорченный», но и «дурной, неблагоприятный». В публикации речь о народной примете, связанной с čuvarkuća — первым окрашенным пасхальным яйцом; сам оборот применим и без мистического смысла.",
       "keyword": "to je rđav znak"
+    },
+    {
+      "headword_latin": "To je recept za neuspeh",
+      "type": "frazeologizam",
+      "definition_ru": "это верный путь к неудаче; так ничего не получится; рецепт провала",
+      "synonyms_sr": [
+        "to vodi u neuspeh",
+        "to je put u propast",
+        "tako nema uspeha"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički, figurativno",
+      "examples": [
+        {
+          "serbian_latin": "to je „recept za neuspeh“",
+          "russian": "это «рецепт провала»",
+          "source": "Danas, 2019",
+          "url": "https://www.danas.rs/vesti/politika/vujacic-sto-se-vise-prica-o-razgranicenju-sve-manje-znamo-sta-to-znaci/"
+        },
+        {
+          "serbian_latin": "Pokrenuti projekat bez plana — to je recept za neuspeh.",
+          "russian": "Начинать проект без плана — верный путь к провалу.",
+          "source": ""
+        }
+      ],
+      "note": "Recept здесь не кулинарный рецепт, а способ действий, который предсказуемо приведёт к плохому результату. Конструкция recept za + винительный: recept za neuspeh, recept za katastrofu. В опубликованной цитате оборот выделен кавычками.",
+      "keyword": "to je recept za neuspeh"
     },
     {
       "headword_latin": "To je samo pitanje vremena",
@@ -45623,6 +45893,60 @@
       "keyword": "to je super"
     },
     {
+      "headword_latin": "To je tek deo priče",
+      "type": "replika",
+      "definition_ru": "это только часть истории; это ещё не всё",
+      "synonyms_sr": [
+        "to nije cela priča",
+        "ima još toga",
+        "to je samo početak"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, razg.; tek pojačava ograničenje",
+      "examples": [
+        {
+          "serbian_latin": "To je tek deo priče o njima zbog koje ćete ih posmatrati drugačije ovog leta",
+          "russian": "Это лишь часть рассказа о них, после которого вы этим летом взглянете на них иначе.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/magazin/kultura/preporuka/5218743/ovog-meseca-citamo-tri-knjige-za-jul-vladimir-kopicl-karl-uve-knausgor-drago-jancar.html"
+        },
+        {
+          "serbian_latin": "Saznali smo razloge odlaska, ali to je tek deo priče.",
+          "russian": "Мы узнали причины отъезда, но это ещё не вся история.",
+          "source": ""
+        }
+      ],
+      "note": "Частица tek означает «лишь, только» и обещает, что дальше есть дополнительные обстоятельства. В отличие от to je druga priča, выражение не меняет тему, а подчёркивает неполноту уже сказанного.",
+      "keyword": "to je tek deo priče"
+    },
+    {
+      "headword_latin": "To je veliki znak pitanja",
+      "type": "replika",
+      "definition_ru": "это большой вопрос; пока ничего не ясно",
+      "synonyms_sr": [
+        "to je neizvesno",
+        "ostaje otvoreno pitanje",
+        "to je pod znakom pitanja"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, publicistički; o neizvesnom odgovoru ili ishodu",
+      "examples": [
+        {
+          "serbian_latin": "Da li smo desetkovani? To je veliki znak pitanja.",
+          "russian": "Остались ли мы в сильно ослабленном составе? Это большой вопрос.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/sport/fudbal/reprezentacija/5524387/piksi-odgovoran-neuspeh-evro-otpis-igraci.html"
+        },
+        {
+          "serbian_latin": "Da li ćemo završiti do petka? To je veliki znak pitanja.",
+          "russian": "Успеем ли закончить к пятнице? Это большой вопрос.",
+          "source": ""
+        }
+      ],
+      "note": "Не нужно переводить znak pitanja буквально как типографский знак: в обороте он обозначает существенную неопределённость. Типичная конструкция — nešto je pod znakom pitanja, а реплика To je veliki znak pitanja усиливает сомнение.",
+      "keyword": "to je veliki znak pitanja"
+    },
+    {
       "headword_latin": "To je za mene špansko selo",
       "type": "frazeologizam",
       "definition_ru": "для меня это китайская грамота; я в этом совершенно не разбираюсь; для меня это тёмный лес",
@@ -45655,6 +45979,87 @@
       "keyword": "špansko selo"
     },
     {
+      "headword_latin": "To mu je otvorilo oči",
+      "type": "frazeologizam",
+      "definition_ru": "это открыло ему глаза; после этого он понял, как всё обстоит",
+      "synonyms_sr": [
+        "progledao je",
+        "shvatio je istinu",
+        "postalo mu je jasno"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, figurativno; otvoriti oči + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Meni je to dvostruko otvorilo oči.",
+          "russian": "Это вдвойне открыло мне глаза.",
+          "source": "RTS / Rojters, 2022",
+          "url": "https://www.rts.rs/lat/vesti/svet/4683897/rio-tinto-izvestaj-maltretiranje-seksualno-uznemiravanje-rasizam.html"
+        },
+        {
+          "serbian_latin": "Razgovor sa zaposlenima otvorio mu je oči.",
+          "russian": "Разговор с сотрудниками открыл ему глаза.",
+          "source": ""
+        }
+      ],
+      "note": "Дательный падеж обозначает, кому открылась истина: otvorilo mi/mu/joj je oči. В опубликованном примере говорящий использует meni вместо mu; это та же конструкция. Нередко речь не просто о новой информации, а о неожиданном осознании проблемы.",
+      "keyword": "to mu je otvorilo oči"
+    },
+    {
+      "headword_latin": "To ne drži vodu",
+      "type": "frazeologizam",
+      "definition_ru": "это не выдерживает критики; это неубедительно; доводы несостоятельны",
+      "synonyms_sr": [
+        "to ne pije vodu",
+        "to nije ubedljivo",
+        "to nema osnova"
+      ],
+      "literal_ru": "это не держит воду",
+      "register": "razg., figurativno; o argumentima i objašnjenjima",
+      "examples": [
+        {
+          "serbian_latin": "to veze s mozgom nema, to ne drži vodu",
+          "russian": "это совершенно бессмысленно, это не выдерживает критики",
+          "source": "Danas, 2012",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/kolaps/"
+        },
+        {
+          "serbian_latin": "Takva teorija ne drži vodu: nema nijednog dokaza.",
+          "russian": "Такая теория не выдерживает критики: нет ни одного доказательства.",
+          "source": ""
+        }
+      ],
+      "note": "Буквально «не держит воду»: в аргументации обнаруживается «дыра», из-за которой объяснение несостоятельно. Это самостоятельный оборот, близкий к ne pije vodu; оба встречаются в сербской публицистике и повседневной речи.",
+      "keyword": "to ne drži vodu"
+    },
+    {
+      "headword_latin": "To ne pije vodu",
+      "type": "frazeologizam",
+      "definition_ru": "это не выдерживает критики; это неубедительно; такое объяснение не проходит",
+      "synonyms_sr": [
+        "to ne drži vodu",
+        "to nema osnova",
+        "to nije ubedljivo"
+      ],
+      "literal_ru": "это не пьёт воду",
+      "register": "razg., figurativno; o argumentu, tvrdnji ili rešenju",
+      "examples": [
+        {
+          "serbian_latin": "To ne pije vodu.",
+          "russian": "Это не выдерживает критики.",
+          "source": "N1 Srbija, 2025",
+          "url": "https://n1info.rs/vesti/novi-sat-i-nova-rekonstrukcija-trga-republike-ali-i-jos-kruznih-tokova-u-gradu-ne-pije-vodu-privid-da-se-ozbiljno-radi/"
+        },
+        {
+          "serbian_latin": "Njegovo objašnjenje jednostavno ne pije vodu.",
+          "russian": "Его объяснение попросту не выдерживает критики.",
+          "source": ""
+        }
+      ],
+      "note": "Разговорное ne pije vodu — «не годится, не проходит», прежде всего об аргументации или предлагаемом решении. Синонимично ne drži vodu, которое буквально значит «не удерживает воду»; это два самостоятельных употребительных оборота.",
+      "keyword": "to ne pije vodu"
+    },
+    {
       "headword_latin": "To su dva sveta",
       "type": "replika",
       "definition_ru": "это два совершенно разных мира",
@@ -45679,6 +46084,33 @@
       ],
       "note": "",
       "keyword": "to su dva sveta"
+    },
+    {
+      "headword_latin": "To su trice i kučine",
+      "type": "frazeologizam",
+      "definition_ru": "это чепуха; всё это пустяки; ерунда на постном масле",
+      "synonyms_sr": [
+        "to su gluposti",
+        "to je koješta",
+        "to su sitnice"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, često potcenjivački ili ironično",
+      "examples": [
+        {
+          "serbian_latin": "Pa to su trice i kučine!",
+          "russian": "Да это же сплошная ерунда!",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/samodrzavlje-narodna-volja-i-generacijski-jaz/"
+        },
+        {
+          "serbian_latin": "Nemoj da se raspravljaš oko trica i kučina.",
+          "russian": "Не спорь из-за всякой ерунды.",
+          "source": ""
+        }
+      ],
+      "note": "Образ старого устойчивого сочетания с малознакомыми сегодня названиями малозначительных остатков и отбросов. В современном языке означает «незначительные мелочи» и может произноситься с явной иронией: журналистская цитата высмеивает попытку назвать серьёзные проблемы пустяками.",
+      "keyword": "to su trice i kučine"
     },
     {
       "headword_latin": "To ti kažem",
@@ -45707,6 +46139,33 @@
       "keyword": "to ti kažem"
     },
     {
+      "headword_latin": "To već i vrapci znaju",
+      "type": "frazeologizam",
+      "definition_ru": "это уже всем известно; об этом уже и воробьи чирикают",
+      "synonyms_sr": [
+        "to svi znaju",
+        "to je opštepoznato",
+        "i vrapci na grani znaju"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; često i i vrapci na grani znaju",
+      "examples": [
+        {
+          "serbian_latin": "To i vrapci na grani znaju, pa ne znam zašto vas to interesuje",
+          "russian": "Да об этом и воробьи на ветках знают; не понимаю, почему вас это интересует.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/drustvo/zasto-je-za-gradjane-vranja-tajna-koliko-se-placa-zakup-privatne-kuce-za-smestaj-filijale-pio/"
+        },
+        {
+          "serbian_latin": "Da je stanarina poskupela, to već i vrapci znaju.",
+          "russian": "О том, что аренда подорожала, уже и воробьи чирикают.",
+          "source": ""
+        }
+      ],
+      "note": "В живой речи чаще встречается полный образ i vrapci na grani znaju — «и воробьи на ветке знают». Автор может использовать формулу, чтобы подчеркнуть очевидность, в том числе иронически или уклоняясь от уточнений. Приведённая цитата содержит именно этот вариант.",
+      "keyword": "to već i vrapci znaju"
+    },
+    {
       "headword_latin": "Toga ima samo kod nas",
       "type": "replika",
       "definition_ru": "такое только у нас; ну где ещё такое увидишь",
@@ -45731,6 +46190,33 @@
       ],
       "note": "Формула сама по себе нейтральна, но в реальной речи чаще всего вводит самоироническое описание нелепости, бюрократии или местной привычки. Положительный контекст тоже возможен.",
       "keyword": "kod nas"
+    },
+    {
+      "headword_latin": "Toliko o tome",
+      "type": "replika",
+      "definition_ru": "на этом всё; вот и всё на эту тему; ну вот вам и ответ",
+      "synonyms_sr": [
+        "dosta o tome",
+        "time je sve rečeno",
+        "to je sve"
+      ],
+      "literal_ru": "",
+      "register": "razg., publicistički; i ironično i zaključivanje rasprave",
+      "examples": [
+        {
+          "serbian_latin": "Toliko o tome da ovi protesti nemaju veze sa stranim faktorom.",
+          "russian": "Вот вам и ответ на утверждение, будто эти протесты не связаны с иностранным фактором.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/hronika/5770107/dacic-povredjeno-42-policijska-sluzbenika-nekoliko-teze-uhapseno-37-osoba.html"
+        },
+        {
+          "serbian_latin": "Obećao je da će doći, pa se nije pojavio. Toliko o tome.",
+          "russian": "Обещал прийти, но так и не появился. Вот и всё, что можно об этом сказать.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение не только закрывает тему, но и используется иронически, когда говорящий считает предыдущие заявления опровергнутыми. Типична конструкция Toliko o tome da... — «вот вам и опровержение того, что…».",
+      "keyword": "toliko o tome"
     },
     {
       "headword_latin": "Top! Vrh! Strava!",
@@ -45979,6 +46465,33 @@
       ],
       "note": "Значение практически полностью совпадает с русским. Для русскоязычного полезно запомнить именно сербскую форму plast sena: plast — сложенная куча, стог сена. Оборот обозначает не просто трудный поиск, а поиск объекта среди огромного количества материала, когда вероятность успеха крайне мала.",
       "keyword": "igla u plastu sena"
+    },
+    {
+      "headword_latin": "Tražiti preko hleba pogače",
+      "type": "frazeologizam",
+      "definition_ru": "от добра добра искать; желать большего при уже достаточном; привередничать",
+      "synonyms_sr": [
+        "ne zadovoljiti se onim što imaš",
+        "tražiti nemoguće",
+        "izvoljevati"
+      ],
+      "literal_ru": "искать лепёшку сверх хлеба",
+      "register": "razg.; često u negaciji ne tražiti hleba preko pogače",
+      "examples": [
+        {
+          "serbian_latin": "ne bismo tražili hleba preko pogače",
+          "russian": "мы бы не стали искать добра от добра",
+          "source": "RTS, 2025",
+          "url": "https://rts.rs/lat/magazin/putujemo/5753616/.html?print=true"
+        },
+        {
+          "serbian_latin": "Dobio si odličnu ponudu; nemoj da tražiš hleba preko pogače.",
+          "russian": "Ты получил отличное предложение; не ищи добра от добра.",
+          "source": ""
+        }
+      ],
+      "note": "Хлеб и погача в пословичном образе сопоставляют то, что уже имеется, с дополнительным требованием. В современном употреблении часто встречается отрицание ne tražiti hleba preko pogače. Обрати внимание на форму hleba: в этом выражении это родительный падеж, а не отдельный предмет поиска.",
+      "keyword": "tražiti preko hleba pogače"
     },
     {
       "headword_latin": "Trbuh nema ušiju",
@@ -49703,6 +50216,33 @@
       ],
       "note": "Выражение сильнее нейтрального uplašiti. Типичная модель важна для управления: uterati nekome strah u kosti — лицо стоит в дательном падеже. По-русски степень экспрессии хорошо передают «нагнать жути», «вселить ужас», «напугать до дрожи».",
       "keyword": "strah u kosti"
+    },
+    {
+      "headword_latin": "Utoliko bolje",
+      "type": "replika",
+      "definition_ru": "тем лучше; тем более кстати",
+      "synonyms_sr": [
+        "tim bolje",
+        "još bolje",
+        "to je još povoljnije"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; često kao odgovor ili nastavak uslovne rečenice",
+      "examples": [
+        {
+          "serbian_latin": "Ako ste u prirodi sa životinjama utoliko bolje",
+          "russian": "Если вы на природе вместе с животными — тем лучше.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4053386/pola-sata-provedenih-pored-konja-kao-da-ste-celu-noc-spavali.html"
+        },
+        {
+          "serbian_latin": "Ako možemo da završimo danas, utoliko bolje.",
+          "russian": "Если мы можем закончить сегодня, тем лучше.",
+          "source": ""
+        }
+      ],
+      "note": "Utoliko bolje и tim bolje почти взаимозаменяемы, но utoliko звучит несколько более книжно и подчёркивает зависимость оценки от названного обстоятельства. Не путать с utoliko što — «постольку, поскольку».",
+      "keyword": "utoliko bolje"
     },
     {
       "headword_latin": "Uvek može bolje",
