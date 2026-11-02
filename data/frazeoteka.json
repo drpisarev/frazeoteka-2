@@ -16769,6 +16769,33 @@
       "keyword": "kucni u drvo"
     },
     {
+      "headword_latin": "Kucnuo je čas",
+      "type": "izraz",
+      "definition_ru": "пробил час; пришло время",
+      "synonyms_sr": [
+        "došlo je vreme",
+        "nastupio je trenutak",
+        "sazreo je trenutak"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; kucnuo je čas da + prezent",
+      "examples": [
+        {
+          "serbian_latin": "kucnuo je čas da stavim tačku na karijeru u reprezentaciji",
+          "russian": "пришло время поставить точку в выступлениях за сборную",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/sport/kosarka/6013859/.html?print=true"
+        },
+        {
+          "serbian_latin": "Kucnuo je čas da se donese odluka.",
+          "russian": "Пробил час принять решение.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивый образ наступившего момента для решительного действия; обычно kucnuo je čas da + prezent. Глагол kucnuti здесь не означает буквальный стук в дверь, а подчёркивает, что время пришло.",
+      "keyword": "kucnuo je čas"
+    },
+    {
       "headword_latin": "Kud koji, mili moji",
       "type": "izreka",
       "definition_ru": "кто куда; разбежались кто куда; дальше каждый своей дорогой",
@@ -46082,6 +46109,33 @@
       "keyword": "skup sport"
     },
     {
+      "headword_latin": "To je stvar navike",
+      "type": "replika",
+      "definition_ru": "это дело привычки",
+      "synonyms_sr": [
+        "to zavisi od navike",
+        "čovek se navikne",
+        "to je pitanje navike"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, često kao odgovor ili objašnjenje",
+      "examples": [
+        {
+          "serbian_latin": "To je stvar navike i okolnosti",
+          "russian": "Это дело привычки и обстоятельств",
+          "source": "Politika, 2009",
+          "url": "https://www.politika.rs/sr/clanak/101170/stititi-cirilicu-ne-potiskivati-latinicu"
+        },
+        {
+          "serbian_latin": "U početku je teško, posle je stvar navike.",
+          "russian": "Поначалу трудно, потом дело привычки.",
+          "source": ""
+        }
+      ],
+      "note": "Обычная объяснительная реплика: привычка, а не принцип или необходимость, определяет поведение. Stvar navike употребляется и без начального to je, например postalo je stvar navike.",
+      "keyword": "to je stvar navike"
+    },
+    {
       "headword_latin": "To je super!",
       "type": "replika",
       "definition_ru": "это здорово!; супер!; просто отлично!",
@@ -46223,6 +46277,33 @@
       "keyword": "to mi je fah"
     },
     {
+      "headword_latin": "To mi je poslednja briga",
+      "type": "replika",
+      "definition_ru": "это меня сейчас меньше всего волнует",
+      "synonyms_sr": [
+        "to me najmanje brine",
+        "nije mi to prioritet",
+        "imam prečih briga"
+      ],
+      "literal_ru": "",
+      "register": "razg.; nekome je nešto poslednja briga",
+      "examples": [
+        {
+          "serbian_latin": "brojnim vlasnicima stanova nepropisno curenje kondenzata iz klime je poslednja briga",
+          "russian": "для многих владельцев квартир неправильный слив конденсата из кондиционера — последнее, что их волнует",
+          "source": "Politika, 2019",
+          "url": "https://www.politika.rs/sr/clanak/436273/klime-kaplju-uprkos-visokim-kaznama"
+        },
+        {
+          "serbian_latin": "Za ručak ne brinem, to mi je poslednja briga.",
+          "russian": "Об обеде я не думаю, сейчас меня это волнует меньше всего.",
+          "source": ""
+        }
+      ],
+      "note": "Последняя забота здесь означает «то, что волнует меньше всего», а не последнюю по времени проблему. Местоимения легко заменяются: to mi/mu/nam je poslednja briga; в цитате указаны владельцы квартир.",
+      "keyword": "to mi je poslednja briga"
+    },
+    {
       "headword_latin": "To miriše na izdaju",
       "type": "replika",
       "definition_ru": "пахнет предательством; здесь можно заподозрить измену",
@@ -46275,6 +46356,33 @@
       ],
       "note": "Дательный падеж обозначает, кому открылась истина: otvorilo mi/mu/joj je oči. В опубликованном примере говорящий использует meni вместо mu; это та же конструкция. Нередко речь не просто о новой информации, а о неожиданном осознании проблемы.",
       "keyword": "to mu je otvorilo oči"
+    },
+    {
+      "headword_latin": "To mu je u krvi",
+      "type": "replika",
+      "definition_ru": "это у него в крови",
+      "synonyms_sr": [
+        "to mu je urođeno",
+        "to mu je u prirodi",
+        "ima to u sebi"
+      ],
+      "literal_ru": "",
+      "register": "razg., figurativno; nekome je nešto u krvi",
+      "examples": [
+        {
+          "serbian_latin": "Železnica nam je u krvi, moj otac je bio železničar",
+          "russian": "Железная дорога у нас в крови: мой отец был железнодорожником",
+          "source": "RTS, 2016",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/2448368/ristovski-i-radovic-zeleznica-nam-je-u-krvi.html"
+        },
+        {
+          "serbian_latin": "Ima talenat za trgovinu, to mu je u krvi.",
+          "russian": "У него талант к торговле, это у него в крови.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот подчёркивает природную склонность, глубоко укоренившееся увлечение или семейную традицию. Дательный падеж меняется: to mi/mu/nam je u krvi; в цитате использовано nam. Не означает буквальное наследование свойства через кровь.",
+      "keyword": "to mu je u krvi"
     },
     {
       "headword_latin": "To ne drži vodu",
@@ -46874,6 +46982,33 @@
       "keyword": "trčati pred rudu"
     },
     {
+      "headword_latin": "Treba pogledati istini u oči",
+      "type": "frazeologizam",
+      "definition_ru": "нужно посмотреть правде в глаза",
+      "synonyms_sr": [
+        "suočiti se sa istinom",
+        "priznati činjenice",
+        "ne zavaravati se"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; pogledati istini u oči",
+      "examples": [
+        {
+          "serbian_latin": "Treba pogledati istini u oči, dali smo jedan gol i to slučajno",
+          "russian": "Нужно посмотреть правде в глаза: мы забили один гол, да и тот случайно",
+          "source": "Nova.rs, 2024",
+          "url": "https://nova.rs/sport/fudbal/srbija-euro-2024-tomislav-sivic-kritika/"
+        },
+        {
+          "serbian_latin": "Treba pogledati istini u oči i priznati grešku.",
+          "russian": "Нужно посмотреть правде в глаза и признать ошибку.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском говорят pogledati istini u oči: istini стоит в дательном падеже, тогда как русское соответствие употребляет «правде» тоже в дательном. Фраза требует готовности признать неприятный факт и часто звучит как призыв к трезвой оценке.",
+      "keyword": "treba pogledati istini u oči"
+    },
+    {
       "headword_latin": "Treća sreća",
       "type": "izreka",
       "definition_ru": "бог любит троицу; на третий раз должно повезти; третья попытка — счастливая",
@@ -47230,6 +47365,32 @@
       "keyword": "trn"
     },
     {
+      "headword_latin": "Trnov venac",
+      "type": "krilatica",
+      "definition_ru": "терновый венец; венец страданий",
+      "synonyms_sr": [
+        "venac patnje",
+        "simbol stradanja"
+      ],
+      "literal_ru": "",
+      "register": "knjiž., biblijska aluzija; figurativno",
+      "examples": [
+        {
+          "serbian_latin": "na čijem kraju ih umesto Pulicerovog lovorovog čeka trnov venac",
+          "russian": "в конце которого вместо Пулитцеровского лаврового венка их ждёт терновый венец",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/vesti/drustvo/neda-todorovic-moja-generacija-je-prosla-laksi-put/"
+        },
+        {
+          "serbian_latin": "Za njega je ta dužnost bila trnov venac.",
+          "russian": "Для него эта обязанность стала терновым венцом.",
+          "source": ""
+        }
+      ],
+      "note": "Библейский образ тернового венца, возложенного на Иисуса Христа перед распятием, стал символом страданий и тяжёлой доли. В публицистике его могут противопоставлять lovorov venac — лавровому венку награды и славы, как в цитате.",
+      "keyword": "trnov venac"
+    },
+    {
       "headword_latin": "Trnu mi zubi",
       "type": "izraz",
       "definition_ru": "зубы сводит; оскомина на зубах",
@@ -47339,6 +47500,33 @@
       "keyword": "isti koš"
     },
     {
+      "headword_latin": "Trpati sve u isti koš",
+      "type": "frazeologizam",
+      "definition_ru": "валить всё в одну кучу; стричь всех под одну гребёнку",
+      "synonyms_sr": [
+        "izjednačavati različite stvari",
+        "sve stavljati u isti koš",
+        "ne praviti razliku"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; trpati nekoga/nešto u isti koš",
+      "examples": [
+        {
+          "serbian_latin": "veoma je neukusno sve medije trpati u isti koš",
+          "russian": "совершенно некорректно валить все СМИ в одну кучу",
+          "source": "Danas, 2017",
+          "url": "https://www.danas.rs/vesti/drustvo/skrozza-tadic-da-bude-zadovoljan-i-sa-dva-novinara/"
+        },
+        {
+          "serbian_latin": "Ne treba sve ljude trpati u isti koš.",
+          "russian": "Не надо стричь всех под одну гребёнку.",
+          "source": ""
+        }
+      ],
+      "note": "Koš здесь «корзина»: говорящий критикует несправедливое обобщение, когда разных людей или явления оценивают одинаково. После trpati употребляется винительный падеж: trpati ljude u isti koš.",
+      "keyword": "trpati sve u isti koš"
+    },
+    {
       "headword_latin": "Tu i tamo",
       "type": "prilog",
       "definition_ru": "время от времени; кое-где; то тут, то там",
@@ -47363,6 +47551,33 @@
       ],
       "note": "Это не один переносный фразеологизм, а очень употребительное наречное сочетание. Русский перевод зависит от того, распределены ли события во времени — «время от времени» — или в пространстве — «то тут, то там».",
       "keyword": "tu i tamo"
+    },
+    {
+      "headword_latin": "Tu nešto smrdi",
+      "type": "replika",
+      "definition_ru": "что-то здесь нечисто; дело пахнет жареным",
+      "synonyms_sr": [
+        "nešto nije u redu",
+        "tu ima nečeg sumnjivog",
+        "nešto se muti"
+      ],
+      "literal_ru": "",
+      "register": "razg., sumnjičavo, neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Tu nešto smrdi.",
+          "russian": "Что-то здесь нечисто.",
+          "source": "Danas (komentar čitaoca), 2026",
+          "url": "https://www.danas.rs/vesti/drustvo/roditelji-ucenika-osnovne-skole-u-mrcajevcima-protestovali-u-cacku-zbog-nasilja-u-skoli/komentari/"
+        },
+        {
+          "serbian_latin": "Nema računa ni ugovora — tu nešto smrdi.",
+          "russian": "Нет ни счёта, ни договора — что-то тут нечисто.",
+          "source": ""
+        }
+      ],
+      "note": "Smrdeti здесь переносно: «вызывать подозрение». Реплика не утверждает доказанного обмана, а передаёт интуитивное недоверие к обстоятельствам. Реальный пример взят из комментария читателя, а не редакционного материала.",
+      "keyword": "tu nešto smrdi"
     },
     {
       "headword_latin": "Tu sam po gradu",
@@ -47626,6 +47841,33 @@
       "keyword": "tvrd orah"
     },
     {
+      "headword_latin": "Tvrditi pazar",
+      "type": "frazeologizam",
+      "definition_ru": "набивать цену; ломаться для вида",
+      "synonyms_sr": [
+        "cenjkati se",
+        "podizati cenu",
+        "izvlačiti bolje uslove"
+      ],
+      "literal_ru": "",
+      "register": "razg.; o pregovorima i cenkanju",
+      "examples": [
+        {
+          "serbian_latin": "SPS će tvrditi pazar.",
+          "russian": "Социалисты будут торговаться, добиваясь условий повыгоднее.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/politika/vucic-surdulica-sps/"
+        },
+        {
+          "serbian_latin": "Nemoj da tvrdiš pazar, reci koliko tražiš.",
+          "russian": "Не набивай цену, скажи сколько хочешь.",
+          "source": ""
+        }
+      ],
+      "note": "Pazar в выражении означает торг или сделку. Tvrditi pazar — не просто обсуждать цену, а намеренно не соглашаться сразу, рассчитывая получить лучшие условия; переносное значение особенно характерно для политики.",
+      "keyword": "tvrditi pazar"
+    },
+    {
       "headword_latin": "Tvrdoglav kao mazga",
       "type": "poređenje",
       "definition_ru": "Чрезвычайно упрямый, не желающий менять мнение или поведение даже тогда, когда это было бы разумно. Русский аналог: «упрямый как осёл».",
@@ -47707,6 +47949,34 @@
       ],
       "note": "Для русского здесь почти полное совпадение с «за бесценок». Важно написание слитно: u bescenje. Очень характерно для публицистики о приватизации, продаже земли, недвижимости и имущества по цене значительно ниже реальной.",
       "keyword": "bescenje"
+    },
+    {
+      "headword_latin": "U buli",
+      "type": "sleng",
+      "definition_ru": "в затруднительном положении; без денег (жарг.)",
+      "synonyms_sr": [
+        "u problemima",
+        "u škripcu",
+        "u nevolji",
+        "u minusu"
+      ],
+      "literal_ru": "",
+      "register": "razg., žargon; biti u buli",
+      "examples": [
+        {
+          "serbian_latin": "EUropljani u buli… nasankali ih ameri i sad su bespomoćni.",
+          "russian": "Европейцы в бедственном положении: американцы их подставили, и теперь они беспомощны.",
+          "source": "Danas (komentar čitaoca), 2026",
+          "url": "https://www.danas.rs/svet/samit-eu-zavrsen-bez-odgovora-na-kljucna-pitanja-nema-dogovora-o-novcu-za-ukrajinu-ni-o-budzetu/komentari/"
+        },
+        {
+          "serbian_latin": "Ostao je bez posla i sada je u buli.",
+          "russian": "Он остался без работы и теперь в затруднительном положении.",
+          "source": ""
+        }
+      ],
+      "note": "Biti u buli значит «оказаться в тяжёлом, часто финансовом положении». Bula — жаргонное обозначение неприятностей, долгов или проигрыша; это не нейтральный официальный термин. Необычное написание EUropljani и разговорная орфография сохранены по комментарию читателя.",
+      "keyword": "u buli"
     },
     {
       "headword_latin": "U civilu",
@@ -47971,6 +48241,29 @@
       "keyword": "u dobru i u zlu"
     },
     {
+      "headword_latin": "U dobru je lako dobar biti, na muci se poznaju junaci",
+      "type": "krilatica",
+      "definition_ru": "в благополучии легко быть хорошим, а настоящие люди познаются в беде",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "knjiž., poslovično; citat iz Gorskog vijenca",
+      "examples": [
+        {
+          "serbian_latin": "u dobru je lako dobar biti, na muci se poznaju junaci",
+          "russian": "в благополучии легко быть хорошим, а настоящие герои познаются в беде",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/sport/kosarka/2914177/komtrejd-novi-sponzor-kk-partizan.html"
+        },
+        {
+          "serbian_latin": "U dobru je lako dobar biti, na muci se poznaju junaci.",
+          "russian": "В благополучии легко быть хорошим, а настоящие герои познаются в беде.",
+          "source": ""
+        }
+      ],
+      "note": "Строка из поэмы Njegoša „Gorski vijenac“, которая стала самостоятельной пословичной формулой. Смысл: о характере судят не по поведению в благополучии, а по действиям в трудных обстоятельствах. Точного общеупотребительного краткого сербского синонима у всей строки нет.",
+      "keyword": "u dobru je lako dobar biti na muci se poznaju junaci"
+    },
+    {
       "headword_latin": "U dobru se ne ponesi, u zlu se ne ponizi",
       "type": "poslovica",
       "definition_ru": "в счастье не заносись, в беде не унижайся; сохраняй достоинство и в успехе, и в несчастье",
@@ -47995,6 +48288,33 @@
       ],
       "note": "Главная трудность для русского — пара poneti se – poniziti se. Poneti se здесь не обычное «повести себя», а «возгордиться, слишком высоко о себе возомнить». Пословица требует внутреннего равновесия: успех не должен делать человека высокомерным, а беда — лишать достоинства.",
       "keyword": "u dobru se ne ponesi u zlu se ne ponizi"
+    },
+    {
+      "headword_latin": "U drugom stanju",
+      "type": "kolokacija",
+      "definition_ru": "в положении; беременна",
+      "synonyms_sr": [
+        "biti trudna",
+        "očekivati dete",
+        "biti u blagoslovenom stanju (sveč.)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, eufemistički; biti/ostati u drugom stanju",
+      "examples": [
+        {
+          "serbian_latin": "ni narednih pet godina ne može da ostane u drugom stanju",
+          "russian": "ещё пять лет не сможет забеременеть",
+          "source": "Danas / BBC na srpskom, 2026",
+          "url": "https://www.danas.rs/bbc-news-serbian/onkoloska-trudnoca-ginekolog-je-rekao-nazalost-cuju-se-otkucaji-srca/"
+        },
+        {
+          "serbian_latin": "Saznala je da je u drugom stanju.",
+          "russian": "Она узнала, что беременна.",
+          "source": ""
+        }
+      ],
+      "note": "Это деликатное, несколько эвфемистическое обозначение беременности, не имеющее отношения к «другому состоянию» психики. Различайте biti u drugom stanju («быть беременной») и ostati u drugom stanju («забеременеть»).",
+      "keyword": "u drugom stanju"
     },
     {
       "headword_latin": "U dubini duše",
@@ -48024,6 +48344,33 @@
       ],
       "note": "",
       "keyword": "u dubini duše"
+    },
+    {
+      "headword_latin": "U dugu do guše",
+      "type": "frazeologizam",
+      "definition_ru": "по уши в долгах",
+      "synonyms_sr": [
+        "grcati u dugovima",
+        "biti prezadužen",
+        "biti u dugovima do guše"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; češće u dugovima do guše",
+      "examples": [
+        {
+          "serbian_latin": "Nikolas Kejdž otkrio da je bio u dugovima do guše",
+          "russian": "Николас Кейдж рассказал, что был по уши в долгах",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/5180037/nikolas-kejdz-dugovi-6-miliona-nekretnine.html"
+        },
+        {
+          "serbian_latin": "Porodica je u dugu do guše.",
+          "russian": "Семья по уши в долгах.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение значит «иметь столько долгов, что трудно выбраться». В современных публикациях особенно естественно множественное число u dugovima do guše; форма u dugu do guše сохраняется как отдельный вариант исходного PDF. Сходный образ — до самого горла в воде.",
+      "keyword": "u dugu do guše"
     },
     {
       "headword_latin": "U dupe na vašar",
@@ -48082,6 +48429,33 @@
       ],
       "note": "",
       "keyword": "u gluvo doba noći"
+    },
+    {
+      "headword_latin": "U grubim crtama",
+      "type": "kolokacija",
+      "definition_ru": "в общих чертах",
+      "synonyms_sr": [
+        "uopšteno",
+        "u glavnim crtama",
+        "bez mnogo detalja"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; najčešće opisati/predstaviti u grubim crtama",
+      "examples": [
+        {
+          "serbian_latin": "Kontinent je, u grubim crtama, rastao od zapada ka istoku",
+          "russian": "Континент, в общих чертах, развивался с запада на восток",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/magazin/priroda/5957016/crveni-pesak-australija-geologija-voda.html"
+        },
+        {
+          "serbian_latin": "Plan je predstavljen u grubim crtama.",
+          "russian": "План представили в общих чертах.",
+          "source": ""
+        }
+      ],
+      "note": "Обозначает краткое изложение без подробностей; уместно в докладах, аналитических статьях и разговоре. Grub здесь не «грубый, невежливый», а «приблизительный, не детализированный».",
+      "keyword": "u grubim crtama"
     },
     {
       "headword_latin": "U hodu",
@@ -49170,6 +49544,33 @@
       "keyword": "učiniti medveđu uslugu kome"
     },
     {
+      "headword_latin": "Učiniti prvi korak",
+      "type": "kolokacija",
+      "definition_ru": "сделать первый шаг",
+      "synonyms_sr": [
+        "napraviti prvi korak",
+        "pokrenuti inicijativu",
+        "započeti nešto"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; učiniti prvi korak ka + dativ",
+      "examples": [
+        {
+          "serbian_latin": "učiniti prvi korak ka stvarnoj sudskoj nezavisnosti",
+          "russian": "сделать первый шаг к подлинной независимости судебной системы",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/sudija-saopstenje-drustva-sudija-srbije/"
+        },
+        {
+          "serbian_latin": "Neko mora da učini prvi korak ka pomirenju.",
+          "russian": "Кто-то должен сделать первый шаг к примирению.",
+          "source": ""
+        }
+      ],
+      "note": "В переносном значении — первым начать сближение, переговоры или перемены. Типичная конструкция učiniti/napraviti prvi korak ka nečemu, где ka требует дательного падежа: ka pomirenju, ka promeni.",
+      "keyword": "učiniti prvi korak"
+    },
+    {
       "headword_latin": "Ućeban džemper",
       "type": "kolokacija",
       "definition_ru": "свалявшийся свитер; свитер в катышках",
@@ -49397,6 +49798,33 @@
       "keyword": "ući u istoriju kao"
     },
     {
+      "headword_latin": "Ući u modu",
+      "type": "kolokacija",
+      "definition_ru": "войти в моду",
+      "synonyms_sr": [
+        "postati popularan",
+        "postati moderan",
+        "ponovo biti u trendu"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; ući u modu (svrš.), ulaziti u modu (nesvrš.)",
+      "examples": [
+        {
+          "serbian_latin": "da li će telefoni na preklapanje opet ući u modu",
+          "russian": "снова ли войдут в моду складные телефоны",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/magazin/tehnologija/3741338/motorola-rejzr-se-vratio--da-li-ce-telefoni-na-preklapanje-opet-uci-u-modu.html"
+        },
+        {
+          "serbian_latin": "Široke pantalone ponovo su ušle u modu.",
+          "russian": "Широкие брюки снова вошли в моду.",
+          "source": ""
+        }
+      ],
+      "note": "Ući u modu означает начало популярности, а biti u modi — уже существующую моду. Прилагательное moderan здесь подходит не во всех контекстах: речь бывает о распространении привычек, вещей и технологий.",
+      "keyword": "ući u modu"
+    },
+    {
       "headword_latin": "Ući u ritam",
       "type": "kolokacija",
       "definition_ru": "войти в ритм; набрать темп; втянуться",
@@ -49521,6 +49949,33 @@
       "keyword": "ući u trag nečemu"
     },
     {
+      "headword_latin": "Ući u trag nekome",
+      "type": "frazeologizam",
+      "definition_ru": "напасть на чей-то след; разыскать человека",
+      "synonyms_sr": [
+        "pronaći trag",
+        "otkriti gde je neko",
+        "pronaći nekoga"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; ući u trag nekome/nečemu (dativ)",
+      "examples": [
+        {
+          "serbian_latin": "toksikološkim analizama sve im je teže ući u trag",
+          "russian": "с помощью токсикологических анализов обнаружить их становится всё труднее",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5755741/.html?print=true"
+        },
+        {
+          "serbian_latin": "Policija je ušla u trag beguncu.",
+          "russian": "Полиция вышла на след беглеца.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском ući u trag требует дательного падежа: ući u trag beguncu, supstanci, njima. Речь не обязательно о поиске человека: в цитате пытаются обнаружить новые вещества, поэтому im относится к ним.",
+      "keyword": "ući u trag nekome"
+    },
+    {
       "headword_latin": "Udarac ispod pojasa",
       "type": "frazeologizam",
       "definition_ru": "Нечестный, подлый или особенно болезненный приём в споре, конфликте или отношениях. Русский эквивалент: «удар ниже пояса».",
@@ -49574,6 +50029,33 @@
       ],
       "note": "Обычно описывает не просто трудность, а ситуацию, где дальнейшее давление почти заведомо бесполезно.",
       "keyword": "glavom o zid"
+    },
+    {
+      "headword_latin": "Udarati glavom o zid",
+      "type": "frazeologizam",
+      "definition_ru": "биться головой о стену; безуспешно добиваться невозможного",
+      "synonyms_sr": [
+        "uzalud pokušavati",
+        "ići glavom kroz zid",
+        "boriti se s vetrenjačama"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; i udarati glavom u zid",
+      "examples": [
+        {
+          "serbian_latin": "možete glavom u zid udarati, i zidom u glavu",
+          "russian": "можете хоть головой о стену биться, хоть стеной о голову",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/681902/srbija-se-cvrsto-pridrzava-povelje-un-i-medunarodnog-javnog-prava"
+        },
+        {
+          "serbian_latin": "Uzalud udara glavom o zid, odluka se neće promeniti.",
+          "russian": "Он зря бьётся головой о стену, решение не изменится.",
+          "source": ""
+        }
+      ],
+      "note": "Так говорят о бесплодных попытках преодолеть непреодолимое препятствие или о бессмысленном упрямстве. В источнике встречается порядок glavom u zid udarati, а в словарном заголовке glavom o zid; оба передают один образ.",
+      "keyword": "udarati glavom o zid"
     },
     {
       "headword_latin": "Udarati nekome čežnju",
@@ -49883,6 +50365,33 @@
       "keyword": "mečka"
     },
     {
+      "headword_latin": "Ugristi se za jezik",
+      "type": "frazeologizam",
+      "definition_ru": "прикусить язык; вовремя промолчать",
+      "synonyms_sr": [
+        "prećutati nešto",
+        "zaustaviti se na vreme",
+        "paziti šta se govori"
+      ],
+      "literal_ru": "",
+      "register": "razg., figurativno; ugristi se za jezik",
+      "examples": [
+        {
+          "serbian_latin": "iako se odmah ugrizla za jezik",
+          "russian": "хотя она тут же прикусила язык",
+          "source": "Blic, 2026",
+          "url": "https://www.blic.rs/zabava/milica-pavlovic-odala-detalj-o-milici-todorovic-pa-se-ugrizla-za-jezik-nece-mi/bcwm1vv"
+        },
+        {
+          "serbian_latin": "Hteo je nešto da kaže, ali se ugrizao za jezik.",
+          "russian": "Он хотел что-то сказать, но прикусил язык.",
+          "source": ""
+        }
+      ],
+      "note": "Фраза означает вовремя удержаться от необдуманных слов либо пожалеть, что сказал лишнее. Совершенный вид ugristi se, несовершенный gristi se; в газетной цитате речь о том, что собеседница случайно раскрыла деталь, а затем спохватилась.",
+      "keyword": "ugristi se za jezik"
+    },
+    {
       "headword_latin": "Uhvatiti / hvatati poslednji voz",
       "type": "frazeologizam",
       "definition_ru": "воспользоваться последним шансом; успеть в последний вагон; не упустить последнюю возможность",
@@ -49963,6 +50472,33 @@
       ],
       "note": "Обычно обозначает поспешное бегство при появлении опасности, полиции или нежелательного человека.",
       "keyword": "magla"
+    },
+    {
+      "headword_latin": "Uhvatiti na delu koga",
+      "type": "frazeologizam",
+      "definition_ru": "поймать с поличным",
+      "synonyms_sr": [
+        "zateći na delu",
+        "uhvatiti na licu mesta",
+        "zateći u prekršaju"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; uhvatiti nekoga na delu (akuzativ)",
+      "examples": [
+        {
+          "serbian_latin": "aktivistima koji su ih uhvatili na delu",
+          "russian": "активистам, которые поймали их с поличным",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/politika/opstinu-bac-preplavili-predizborni-paketi-sns-lokalni-naprednjacki-funkcioneri-pretili-aktivistima-koji-su-ih-uhvatili-na-delu-video/"
+        },
+        {
+          "serbian_latin": "Uhvatili su ga na delu dok je krao.",
+          "russian": "Его поймали с поличным при краже.",
+          "source": ""
+        }
+      ],
+      "note": "Естественный порядок слов — uhvatiti nekoga na delu; объект оформляется винительным падежом: uhvatili su ga/ih. Заголовок PDF с koga обозначает переменную часть выражения. Газетное употребление передаёт описание событий участниками, а не судебное установление вины.",
+      "keyword": "uhvatiti na delu koga"
     },
     {
       "headword_latin": "Uhvatiti nekoga na delu",
