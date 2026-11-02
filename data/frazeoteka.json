@@ -44732,6 +44732,33 @@
       "keyword": "žaba"
     },
     {
+      "headword_latin": "Teško meni",
+      "type": "uzvik",
+      "definition_ru": "горе мне!; ох, беда!; бедный я!",
+      "synonyms_sr": [
+        "jao meni",
+        "kuku meni",
+        "jadan ja"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; uzvik straha, žaljenja ili samosažaljenja",
+      "examples": [
+        {
+          "serbian_latin": "Jao, teško meni! Izginusmo.",
+          "russian": "Ох, горе мне! Погибнем же!",
+          "source": "Blic, 2025",
+          "url": "https://www.blic.rs/zabava/marija-serifovic-pokazala-sta-radi-sa-jovanom-pajic-na-baliju-jao-tesko-meni/5tjvr15"
+        },
+        {
+          "serbian_latin": "Teško meni ako zakasnim na poslednji autobus!",
+          "russian": "Горе мне, если опоздаю на последний автобус!",
+          "source": ""
+        }
+      ],
+      "note": "Восклицание при испуге, неудаче или жалобе на свою участь; может быть и преувеличенно-шутливым. Дательный meni входит в устойчивую формулу. Часто перед ним стоит jao, как в приведённой реплике.",
+      "keyword": "teško meni"
+    },
+    {
       "headword_latin": "Teško mi pada",
       "type": "izraz",
       "definition_ru": "мне это тяжело даётся; я тяжело это переживаю",
@@ -45213,6 +45240,33 @@
       "keyword": "tim bolje"
     },
     {
+      "headword_latin": "Tim gore",
+      "type": "replika",
+      "definition_ru": "тем хуже; тем хуже для кого-либо",
+      "synonyms_sr": [
+        "utoliko gore",
+        "još gore",
+        "tim lošije"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, često ironično; tim gore po nekoga/nešto",
+      "examples": [
+        {
+          "serbian_latin": "Tim gore po činjenice",
+          "russian": "Тем хуже для фактов.",
+          "source": "Danas / Cenzolovka, 2022",
+          "url": "https://www.danas.rs/vesti/drustvo/cenzolovka-odluka-saveta-rem-a-o-izdavanju-nacionalinh-frekvencija-puna-laznih-i-nepotpunih-podataka/"
+        },
+        {
+          "serbian_latin": "Ako odbiješ pomoć, tim gore po tebe.",
+          "russian": "Если откажешься от помощи, тем хуже для тебя.",
+          "source": ""
+        }
+      ],
+      "note": "Краткая оценочная реплика, часто с дополнением po + винительный: tim gore po tebe, po njih. В цитате использована ироническая формула Tim gore po činjenice; её нередко связывают с анекдотом о Гегеле, но историческая достоверность атрибуции не установлена.",
+      "keyword": "tim gore"
+    },
+    {
       "headword_latin": "Tip-top",
       "type": "prilog",
       "definition_ru": "первоклассно; отлично; в полном порядке",
@@ -45240,6 +45294,60 @@
       "keyword": "tip top"
     },
     {
+      "headword_latin": "To će mu biti za nauk",
+      "type": "replika",
+      "definition_ru": "это послужит ему уроком; впредь будет умнее",
+      "synonyms_sr": [
+        "neka mu to bude lekcija",
+        "to će ga naučiti pameti",
+        "naučiće nešto iz toga"
+      ],
+      "literal_ru": "",
+      "register": "razg., često kao opomena; biti nekome za nauk",
+      "examples": [
+        {
+          "serbian_latin": "Ovo će mu biti za nauk.",
+          "russian": "Это послужит ему уроком.",
+          "source": "Srbija Danas, 2025",
+          "url": "https://www.sd.rs/vip/zadruga/produkcija-kivna-na-asmina-sa-durdzicem-obavljen-razgovor-kao-opomena-ovo-su-detalji-njegovog-ostanka-u-eliti-9-2025-10-28"
+        },
+        {
+          "serbian_latin": "Ovaj poraz će mu biti za nauk.",
+          "russian": "Это поражение послужит ему уроком.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно говорится о неприятных последствиях проступка, которые должны научить человека осторожности. Местоимение mu стоит в дательном падеже; возможно и meni, ti, joj. Za nauk — «в назидание, в качестве урока», а не название школьного предмета.",
+      "keyword": "to će mu biti za nauk"
+    },
+    {
+      "headword_latin": "To ide predaleko!",
+      "type": "replika",
+      "definition_ru": "это заходит слишком далеко!; это уже переходит границы!",
+      "synonyms_sr": [
+        "to prelazi svaku meru",
+        "to je preterivanje",
+        "ovo je nedopustivo"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; o prekoračenju prihvatljive granice",
+      "examples": [
+        {
+          "serbian_latin": "kada pravite lakomislene optužbe to ide predaleko",
+          "russian": "Когда вы выступаете с безрассудными обвинениями, это уже заходит слишком далеко.",
+          "source": "Sport Klub, 2025",
+          "url": "https://sportklub.n1info.rs/automoto/formula-1/braunu-je-drago-sto-horner-nije-vise-tu-f1-ce-biti-zdravija/"
+        },
+        {
+          "serbian_latin": "Dosta je uvreda, to ide predaleko!",
+          "russian": "Хватит оскорблений, это заходит слишком далеко!",
+          "source": ""
+        }
+      ],
+      "note": "Глагол ići здесь переносный: речь о нарушении допустимых границ в поведении или споре, а не о расстоянии. В источнике выражение следует за описанием того, что говорящий считает чрезмерным. Близкий глагольный вариант — otići predaleko.",
+      "keyword": "to ide predaleko"
+    },
+    {
       "headword_latin": "To im je deveta rupa na svirali!",
       "type": "frazeologizam",
       "definition_ru": "для них это дело десятое; их это совсем не волнует; им не до этого",
@@ -45265,6 +45373,33 @@
       ],
       "note": "Непривычный русский образ «девятая дырка на свирели» означает нечто совершенно неважное. Кому именно это безразлично, передают дательным падежом: im, nam, mu, joj. В газетном заголовке используется nam, а не im.",
       "keyword": "to im je deveta rupa na svirali"
+    },
+    {
+      "headword_latin": "To je abeceda",
+      "type": "kolokacija",
+      "definition_ru": "это азы; это элементарные основы; это азбука",
+      "synonyms_sr": [
+        "to su osnove",
+        "to je osnovno znanje",
+        "to je elementarno"
+      ],
+      "literal_ru": "",
+      "register": "razg. i publicistički, figurativno; o opštepoznatoj osnovi",
+      "examples": [
+        {
+          "serbian_latin": "To je abeceda",
+          "russian": "Это азбука, самые основы.",
+          "source": "Danas (komentar čitaoca), 2025",
+          "url": "https://www.danas.rs/sport/geric-djindjic-studentski-protesti/komentari/"
+        },
+        {
+          "serbian_latin": "To je abeceda medicine.",
+          "russian": "Это азы медицины.",
+          "source": ""
+        }
+      ],
+      "note": "Abeceda буквально «алфавит» (особенно латинский); в переносном значении — самые простые, очевидные основы предмета. Сербское azbuka чаще связано с кириллицей, но также означает «азы». Цитата взята из читательского комментария, а не из авторского текста редакции.",
+      "keyword": "to je abeceda"
     },
     {
       "headword_latin": "To je bilo vreme!",
@@ -45400,6 +45535,60 @@
       ],
       "note": "Чаще означает непредсказуемый исход, зависящий от случая, а не участие в настоящей лотерее. В сочетании čista lutrija прилагательное čista усиливает оценку: «полная неопределённость».",
       "keyword": "to je čista lutrija"
+    },
+    {
+      "headword_latin": "To je da ne poveruješ!",
+      "type": "replika",
+      "definition_ru": "невероятно!; глазам не верится!",
+      "synonyms_sr": [
+        "prosto neverovatno",
+        "ne može čovek da poveruje",
+        "da ne poveruješ"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; divljenje, neverica ili ogorčenje",
+      "examples": [
+        {
+          "serbian_latin": "Život mi je bio da ne poveruješ.",
+          "russian": "Жизнь у меня была — просто невероятная.",
+          "source": "Danas / BBC na srpskom, 2020",
+          "url": "https://www.danas.rs/bbc-news-serbian/harvi-vajnstin-i-seksualni-predatori-postoji-li-stvarno-zavisnost-od-seksa/"
+        },
+        {
+          "serbian_latin": "Pobedili su u poslednjoj sekundi — to je da ne poveruješ!",
+          "russian": "Они выиграли на последней секунде — глазам не верится!",
+          "source": ""
+        }
+      ],
+      "note": "Формула da + презенс передаёт сильное изумление, не фактический запрет верить. Может относиться и к удивительно хорошему, и к возмутительному. В газетной цитате употреблена конструкция без начального To je, но смысл тот же.",
+      "keyword": "to je da ne poveruješ"
+    },
+    {
+      "headword_latin": "To je da poludiš!",
+      "type": "replika",
+      "definition_ru": "с ума сойти можно!; хоть взвывай!; можно взбеситься!",
+      "synonyms_sr": [
+        "ovo je da poludiš",
+        "da čovek poludi",
+        "za poludeti je"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; bes, frustracija ili zaprepašćenje",
+      "examples": [
+        {
+          "serbian_latin": "Ovo je da poludiš. Publika nam se taman vratila u Pan teatar, kad opet katanac.",
+          "russian": "С ума сойти! Зрители только-только вернулись в театр «Пан», а его снова закрыли.",
+          "source": "Nova.rs, 2021",
+          "url": "https://nova.rs/kultura/olivera-viktorovic-vise-nemamo-ni-ideju-kako-da-opstanemo/"
+        },
+        {
+          "serbian_latin": "Opet su podigli cene — to je da poludiš!",
+          "russian": "Они опять подняли цены — с ума сойти можно!",
+          "source": ""
+        }
+      ],
+      "note": "Конструкция da + презенс употребляется как восклицательная оценка неприятной или нелепой ситуации. Не означает буквальное психическое заболевание. В газетной цитате стоит разговорный вариант Ovo je da poludiš — смысл тот же.",
+      "keyword": "to je da poludiš"
     },
     {
       "headword_latin": "To je deo posla",
@@ -45680,6 +45869,33 @@
       ],
       "note": "Maslo здесь не масло в буквальном смысле, а чья-то интрига или неприятная проделка. Почти всегда предполагается отрицательная оценка. Подтверждённая газетная иллюстрация — читательский комментарий, а не текст редакции.",
       "keyword": "to je njegovo maslo"
+    },
+    {
+      "headword_latin": "To je obična pljačka!",
+      "type": "replika",
+      "definition_ru": "это настоящий грабёж!; это обдираловка!",
+      "synonyms_sr": [
+        "to je čista pljačka",
+        "to je bezobrazluk",
+        "to je otimanje novca"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, neodobr.; najčešće preneseno o preteranom zahtevu",
+      "examples": [
+        {
+          "serbian_latin": "To je samo obična pljačka",
+          "russian": "Это просто настоящий грабёж.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/669956/zelenski-priteran-uz-zid-novom-trampovom-ponudom"
+        },
+        {
+          "serbian_latin": "Tolika cena za običnu kafu? To je obična pljačka!",
+          "russian": "Такие деньги за обычный кофе? Да это настоящий грабёж!",
+          "source": ""
+        }
+      ],
+      "note": "Часто это эмоциональная оценка чрезмерной цены, условий сделки или несправедливого требования, а не сообщение об уголовно наказуемом ограблении. Obična здесь усиливает обесценивание: «самая настоящая». В цитате передана оценка политического предложения, не установленный юридический факт.",
+      "keyword": "to je obična pljačka"
     },
     {
       "headword_latin": "To je ono pravo!",
@@ -45979,6 +46195,61 @@
       "keyword": "špansko selo"
     },
     {
+      "headword_latin": "To mi je fah",
+      "type": "replika",
+      "definition_ru": "это моя специальность; это по моей части; я в этом разбираюсь",
+      "synonyms_sr": [
+        "to je moja oblast",
+        "to je moj posao",
+        "u to se razumem",
+        "to je moja struka"
+      ],
+      "literal_ru": "",
+      "register": "razg.; moj / tvoj / njegov fah, ili to nije moj fah",
+      "examples": [
+        {
+          "serbian_latin": "uopšte to nije moj fah",
+          "russian": "это совершенно не по моей части",
+          "source": "N1 Srbija, 2024",
+          "url": "https://n1info.rs/vesti/jedino-ovde-ga-pretupasmo-opstina-surdulica-i-dalje-neosvojiva-za-naprednjake/"
+        },
+        {
+          "serbian_latin": "Pitaj mene za računare, to mi je fah.",
+          "russian": "Спрашивай меня о компьютерах, это моя специальность.",
+          "source": ""
+        }
+      ],
+      "note": "Fah — германизм (нем. Fach) со значением «сфера деятельности, профессиональная область»; встречается также в театре и музыке для амплуа. В статье зафиксирован отрицательный вариант to nije moj fah, тогда как заголовок даёт положительную формулу. Не переводить как «это мой предмет».",
+      "keyword": "to mi je fah"
+    },
+    {
+      "headword_latin": "To miriše na izdaju",
+      "type": "replika",
+      "definition_ru": "пахнет предательством; здесь можно заподозрить измену",
+      "synonyms_sr": [
+        "sluti na izdaju",
+        "liči na izdaju",
+        "nešto je sumnjivo"
+      ],
+      "literal_ru": "",
+      "register": "figurativno, publicistički; mirisati na + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Sa druge strane Drine sve nekako miriše na izdaju.",
+          "russian": "По ту сторону Дрины всё как-то пахнет предательством.",
+          "source": "Gledaj.rs, 2025",
+          "url": "https://gledaj.rs/2025/11/07/braunovic-sa-druge-strane-drine-mirise-na-izdaju-gospodin-zaboravio-je-da-mu-je-glava-veca-od-zadnjice-i-da-ju-je-tesko-sacuvati/"
+        },
+        {
+          "serbian_latin": "Ovo mi miriše na izdaju.",
+          "russian": "Мне кажется, тут пахнет предательством.",
+          "source": ""
+        }
+      ],
+      "note": "Mirisati na + винительный в переносном значении — «попахивать чем-либо, наводить на подозрение»: miriše na nevolju, na prevaru, na izdaju. Это оценка говорящего, а не установленный факт. Газетная цитата передаёт слова политика.",
+      "keyword": "to miriše na izdaju"
+    },
+    {
       "headword_latin": "To mu je otvorilo oči",
       "type": "frazeologizam",
       "definition_ru": "это открыло ему глаза; после этого он понял, как всё обстоит",
@@ -46031,6 +46302,33 @@
       ],
       "note": "Буквально «не держит воду»: в аргументации обнаруживается «дыра», из-за которой объяснение несостоятельно. Это самостоятельный оборот, близкий к ne pije vodu; оба встречаются в сербской публицистике и повседневной речи.",
       "keyword": "to ne drži vodu"
+    },
+    {
+      "headword_latin": "To ne pali kod mene",
+      "type": "replika",
+      "definition_ru": "со мной этот номер не пройдёт; на меня это не действует",
+      "synonyms_sr": [
+        "to kod mene ne prolazi",
+        "na mene to ne deluje",
+        "nećeš me time ubediti"
+      ],
+      "literal_ru": "",
+      "register": "razg., često odbijanje manipulacije ili pokušaja ubeđivanja",
+      "examples": [
+        {
+          "serbian_latin": "to ne pali kod mene",
+          "russian": "Со мной это не работает.",
+          "source": "Srbija Danas, 2018",
+          "url": "https://www.sd.rs/vip/zadruga/miljana-raskinula-sa-zolom-pa-potrcala-kod-njega-masaza-lazar-ce-poludeti-od-ljubomore-video-2018-12-10"
+        },
+        {
+          "serbian_latin": "To ne pali kod mene, nemoj da pokušavaš.",
+          "russian": "Со мной этот номер не пройдёт, даже не пытайся.",
+          "source": ""
+        }
+      ],
+      "note": "Paliti буквально «зажигать», но разговорное nešto pali значит «срабатывает, действует». В конструкции kod mene речь не о физическом месте, а о том, на кого направлен приём. Выражение особенно характерно для споров, ухаживания и попыток манипулировать.",
+      "keyword": "to ne pali kod mene"
     },
     {
       "headword_latin": "To ne pije vodu",
@@ -46249,6 +46547,33 @@
       ],
       "note": "Top и vrh буквально обозначают «верх, вершину» и легко превращаются в высшую похвалу. Strava буквально «ужас», но в разговорной оценке способно значить «класс, потрясающе» — примерно как русское «ужасно круто». Прилагательное stravičan при этом обычно сохраняет отрицательное значение.",
       "keyword": "top; vrh; strava"
+    },
+    {
+      "headword_latin": "Topi se u ustima",
+      "type": "izraz",
+      "definition_ru": "тает во рту; необыкновенно нежный (о еде)",
+      "synonyms_sr": [
+        "meko je kao puter",
+        "rastapa se u ustima",
+        "izuzetno je nežno"
+      ],
+      "literal_ru": "",
+      "register": "razg., pohvalno; o ukusu i teksturi hrane",
+      "examples": [
+        {
+          "serbian_latin": "Ukusna je kao bombone, topi se u ustima",
+          "russian": "Вкусная как конфеты, прямо тает во рту.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5219847/samir--poslednji-srbin-u-sudanu.html"
+        },
+        {
+          "serbian_latin": "Ovaj kolač se topi u ustima.",
+          "russian": "Этот пирог тает во рту.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно говорят о мягком мясе, выпечке или десерте, когда хочется подчеркнуть нежную текстуру и приятный вкус. Возвратный глагол topiti se относится к самой еде; это не обязательно буквальное таяние, как у льда.",
+      "keyword": "topi se u ustima"
     },
     {
       "headword_latin": "Topovsko meso",
@@ -46576,6 +46901,33 @@
       "keyword": "treća sreća"
     },
     {
+      "headword_latin": "Trenutak istine",
+      "type": "kolokacija",
+      "definition_ru": "момент истины; решающий момент",
+      "synonyms_sr": [
+        "odlučujući trenutak",
+        "čas istine",
+        "presudni trenutak"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; trenutak kada se otkriva ishod ili istina",
+      "examples": [
+        {
+          "serbian_latin": "izbori su trenutak istine za svakog ko se bavi politikom",
+          "russian": "выборы — момент истины для каждого, кто занимается политикой",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/vesti/politika/5942646/vucic-odluka-o-izborima-u-narednih-desetak-dana.html"
+        },
+        {
+          "serbian_latin": "Došao je trenutak istine: saznaćemo rezultate.",
+          "russian": "Настал момент истины: мы узнаем результаты.",
+          "source": ""
+        }
+      ],
+      "note": "Формула обозначает ситуацию, когда выясняется действительное положение дел или решается судьба начинания. Частотна в политике, спорте и деловой речи. Не путать с буквальным trenutak kada je neko rekao istinu — «мгновение, когда кто-то сказал правду».",
+      "keyword": "trenutak istine"
+    },
+    {
       "headword_latin": "Tresla se gora, rodio se miš",
       "type": "poslovica",
       "definition_ru": "гора родила мышь; много шума из ничего; замах был большой, результат ничтожный",
@@ -46605,6 +46957,33 @@
       ],
       "note": "Сербское выражение практически идеально совпадает с русским «гора родила мышь», но в сербской публицистике употребляется чрезвычайно свободно и часто как готовый итоговый комментарий: Tresla se gora, rodio se miš. Это не обязательно означает полный провал: результат может просто оказаться несоразмерно мал по сравнению с шумом, ожиданиями и обещаниями. Выражение обычно называют narodna umotvorina или narodna poslovica; частые политические переделки показывают его высокую узнаваемость.",
       "keyword": "tresla se gora rodio se miš"
+    },
+    {
+      "headword_latin": "Trešten pijan",
+      "type": "kolokacija",
+      "definition_ru": "пьяный в стельку; вдрызг пьяный",
+      "synonyms_sr": [
+        "mrtav pijan",
+        "pijan kao letva",
+        "potpuno pijan"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; trešten pojačava pridev pijan",
+      "examples": [
+        {
+          "serbian_latin": "Nišlija trešten pijan izazvao saobraćajnu nesreću",
+          "russian": "Житель Ниша, пьяный в стельку, устроил ДТП.",
+          "source": "Nova.rs, 2026",
+          "url": "https://nova.rs/vesti/hronika/u-organizmu-imao-366-promila-alkohola-nislija-tresten-pijan-izazvao-saobracajnu-nesrecu-tesko-povredjeno-njegovo-osmogodisnje-dete/"
+        },
+        {
+          "serbian_latin": "Vratio se kući trešten pijan.",
+          "russian": "Он вернулся домой пьяный в стельку.",
+          "source": ""
+        }
+      ],
+      "note": "Trešten — разговорный усилитель степени опьянения; особенно устойчиво сочетание trešten pijan. В отличие от просто pijan, передаёт крайне сильное опьянение. Не следует переносить это усилительное значение на любое прилагательное: устойчиво именно сочетание с pijan.",
+      "keyword": "trešten pijan"
     },
     {
       "headword_latin": "Tri puta meri, jednom seci",
@@ -46902,6 +47281,33 @@
       ],
       "note": "Происходит из мифа о деревянном коне, с помощью которого греки проникли в Трою. Современное переносное значение сохраняет центральную идею: опасность скрытно попадает внутрь под видом чего-то приемлемого или безобидного.",
       "keyword": "Trojanski konj; skrivena pretnja; prodor"
+    },
+    {
+      "headword_latin": "Trošiti šakom i kapom",
+      "type": "frazeologizam",
+      "definition_ru": "сорить деньгами; тратить направо и налево",
+      "synonyms_sr": [
+        "rasipati novac",
+        "trošiti nemilice",
+        "razbacivati se novcem"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, često neodobr.; trošiti / deliti šakom i kapom",
+      "examples": [
+        {
+          "serbian_latin": "pare za sličice trošiti i šakom i kapom!",
+          "russian": "тратить на наклейки деньги без счёта!",
+          "source": "Espreso, 2018",
+          "url": "https://www.espreso.co.rs/sport/fudbal/237501/u-srbiju-jos-nije-stigao-ali-espreso-ga-se-dokopao-kad-smo-ga-uzeli-u-ruku-shvatili-smo-da-ce-se-pare-za-slicice-trositi-i-sakom-i-kapom-foto"
+        },
+        {
+          "serbian_latin": "Ne troši šakom i kapom dok nemaš ušteđevinu.",
+          "russian": "Не сорь деньгами, пока нет накоплений.",
+          "source": ""
+        }
+      ],
+      "note": "Šakom i kapom — устойчивое наречное сочетание «щедро, без меры»; оно бывает и при deliti, davati, obećavati. С глаголом trošiti обычно подразумевается неразумная трата денег. Не переводить буквально как способ держать деньги.",
+      "keyword": "trošiti šakom i kapom"
     },
     {
       "headword_latin": "Trpati / staviti sve u isti koš",
@@ -47331,6 +47737,33 @@
       "keyword": "u civilu"
     },
     {
+      "headword_latin": "U cvetu mladosti",
+      "type": "kolokacija",
+      "definition_ru": "в цвете лет; в расцвете молодости",
+      "synonyms_sr": [
+        "u punoj mladosti",
+        "u najboljim godinama",
+        "u mladalačkom dobu"
+      ],
+      "literal_ru": "",
+      "register": "knjiški, publicistički; često o vrlo mladim ljudima",
+      "examples": [
+        {
+          "serbian_latin": "Mladi često misle da su besmrtni i nepobedivi jer su u \"cvetu mladosti\"",
+          "russian": "Молодые люди часто думают, что они бессмертны и непобедимы, потому что находятся в расцвете молодости.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/vesti/svet/4237783/.html?print=true"
+        },
+        {
+          "serbian_latin": "Poginuo je u cvetu mladosti.",
+          "russian": "Он погиб в цвете лет.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание обозначает раннюю пору жизненных сил и возможностей. Часто появляется в рассказах о преждевременной смерти или несбывшихся надеждах; в цитате употреблено в рассуждении об ощущении неуязвимости молодых людей. Устойчивый предлог u + locativ: u cvetu.",
+      "keyword": "u cvetu mladosti"
+    },
+    {
       "headword_latin": "U čabru",
       "type": "izraz",
       "definition_ru": "в беде; в безвыходном положении",
@@ -47352,6 +47785,33 @@
       ],
       "note": "Čabar — деревянная кадка; в выражении u čabru человек «попал в переплёт». В разговорной речи чаще biti u čabru.",
       "keyword": "u čabru"
+    },
+    {
+      "headword_latin": "U čemu je fazon?",
+      "type": "replika",
+      "definition_ru": "в чём фишка?; в чём тут секрет?; в чём смысл?",
+      "synonyms_sr": [
+        "u čemu je fora?",
+        "u čemu je trik?",
+        "gde je caka?"
+      ],
+      "literal_ru": "",
+      "register": "razg.; pitanje o neobičnoj pojavi ili načinu na koji nešto funkcioniše",
+      "examples": [
+        {
+          "serbian_latin": "Beli patlidžan potisnuo proizvodnju plavog - u čemu je fazon?",
+          "russian": "Белый баклажан вытеснил с производства синий — в чём фишка?",
+          "source": "Agroklub.rs, 2026",
+          "url": "https://www.agroklub.rs/povrtarstvo/beli-patlidzan-potisnuo-proizvodnju-plavog-u-cemu-je-fazon/114297/"
+        },
+        {
+          "serbian_latin": "U čemu je fazon s ovom aplikacijom?",
+          "russian": "В чём фишка этого приложения?",
+          "source": ""
+        }
+      ],
+      "note": "Fazon здесь «фишка, особенность, секрет», а не исключительно модный фасон. Вопрос может выражать интерес или недоумение, но не обязательно подозрение, в отличие от U čemu je kvaka? — «в чём подвох?». Пишется с вопросительным знаком как разговорная реплика.",
+      "keyword": "u čemu je fazon"
     },
     {
       "headword_latin": "U čemu je kvaka?",
@@ -48570,6 +49030,33 @@
       "keyword": "pet para"
     },
     {
+      "headword_latin": "Ubaciti peškir u ring",
+      "type": "frazeologizam",
+      "definition_ru": "выбросить полотенце; признать поражение; сдаться",
+      "synonyms_sr": [
+        "predati se",
+        "odustati od borbe",
+        "položiti oružje (figurativno)"
+      ],
+      "literal_ru": "",
+      "register": "sport, razg., figurativno; i baciti peškir",
+      "examples": [
+        {
+          "serbian_latin": "Znam da nikada neću ubaciti peškir u ring, to znamo.",
+          "russian": "Я знаю, что никогда не выброшу полотенце на ринг, это мы знаем.",
+          "source": "Espreso, 2019",
+          "url": "https://www.espreso.co.rs/sport/ostali-sportovi/370686/espreso-s-veljkom-medju-konopcima-spreman-sam-da-ostavim-glavu-u-ringu-necu-da-me-znaju-kao-cecinog-sina"
+        },
+        {
+          "serbian_latin": "Trener je odlučio da ubaci peškir u ring.",
+          "russian": "Тренер решил выбросить полотенце на ринг.",
+          "source": ""
+        }
+      ],
+      "note": "Образ из бокса: полотенце бросают в ринг, сигнализируя прекращение боя и признание поражения. Поэтому выражение переносят на любой отказ от дальнейшей борьбы. В сербском встречается и baciti peškir u ring; в цитате говорит боксёр.",
+      "keyword": "ubaciti peškir u ring"
+    },
+    {
       "headword_latin": "Ubaciti svojih pet para",
       "type": "frazeologizam",
       "definition_ru": "вставить свои пять копеек; влезть со своим мнением",
@@ -48622,6 +49109,33 @@
       ],
       "note": "Сербский образ отличается от русского: в нём фигурируют две мухи и один удар, а не два зайца и один выстрел.",
       "keyword": "muva; udarac"
+    },
+    {
+      "headword_latin": "Ubiti jednim udarcem dve muve",
+      "type": "frazeologizam",
+      "definition_ru": "убить двух зайцев одним выстрелом; решить две задачи за один раз",
+      "synonyms_sr": [
+        "ubiti dve muve jednim udarcem",
+        "jednim potezom rešiti dva problema",
+        "postići dva cilja odjednom"
+      ],
+      "literal_ru": "",
+      "register": "razg., figurativno; čest redosled: ubiti dve muve jednim udarcem",
+      "examples": [
+        {
+          "serbian_latin": "možete „ubiti dve muve jednim udarcem”",
+          "russian": "можно убить двух зайцев одним выстрелом",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/zivot/voda-od-kuvanja-testenine-nacini-da-je-iskoristite/"
+        },
+        {
+          "serbian_latin": "Tako ćemo ubiti jednim udarcem dve muve.",
+          "russian": "Так мы убьём двух зайцев одним выстрелом.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском образ основан на двух мухах, а в русском — на двух зайцах. Наиболее привычен порядок ubiti dve muve jednim udarcem, хотя исходный порядок слов из PDF тоже понятен. Выражение означает экономию усилий, а не буквальное насилие.",
+      "keyword": "ubiti jednim udarcem dve muve"
     },
     {
       "headword_latin": "Učiniti medveđu uslugu kome",
@@ -50243,6 +50757,33 @@
       ],
       "note": "Utoliko bolje и tim bolje почти взаимозаменяемы, но utoliko звучит несколько более книжно и подчёркивает зависимость оценки от названного обстоятельства. Не путать с utoliko što — «постольку, поскольку».",
       "keyword": "utoliko bolje"
+    },
+    {
+      "headword_latin": "Utoliko gore",
+      "type": "replika",
+      "definition_ru": "тем хуже; от этого ещё хуже",
+      "synonyms_sr": [
+        "tim gore",
+        "još gore",
+        "time je stvar još gora"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, nešto knjiškije od tim gore",
+      "examples": [
+        {
+          "serbian_latin": "Utoliko gore, jer je to onda odraz autocenzure",
+          "russian": "Тем хуже, ведь тогда это проявление самоцензуры.",
+          "source": "Danas, 2016",
+          "url": "https://www.danas.rs/vesti/drustvo/kaznjena-zbog-pitanja-premijeru-vucicu/"
+        },
+        {
+          "serbian_latin": "Ako se rok skrati, utoliko gore.",
+          "russian": "Если срок сократят, тем хуже.",
+          "source": ""
+        }
+      ],
+      "note": "Усиливает неблагоприятную оценку именно из-за только что названного обстоятельства. По сравнению с tim gore чаще звучит аналитически или книжно; после реплики естественно пояснение с jer — «поскольку, ведь».",
+      "keyword": "utoliko gore"
     },
     {
       "headword_latin": "Uvek može bolje",
