@@ -45348,6 +45348,33 @@
       "keyword": "to će mu biti za nauk"
     },
     {
+      "headword_latin": "To dolazi sa godinama",
+      "type": "izraz",
+      "definition_ru": "это приходит с возрастом",
+      "synonyms_sr": [
+        "to ide sa godinama",
+        "s godinama se stiče",
+        "dolazi s iskustvom"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "To dolazi sa godinama",
+          "russian": "Это приходит с годами.",
+          "source": "Magazin Politika, 2026",
+          "url": "https://magazin.politika.rs/sr/clanak/578918/drago-jovanovic-veliki-je-uspeh-biti-u-miru-sa-onim-sto-jesi"
+        },
+        {
+          "serbian_latin": "Strpljenje dolazi sa godinama.",
+          "russian": "Терпение приходит с возрастом.",
+          "source": ""
+        }
+      ],
+      "note": "Так говорят о навыках, терпении и жизненном опыте, которые постепенно появляются с возрастом. Глагол dolaziti здесь означает не физическое прибытие, а возникновение качества. Близкая самостоятельная формула — To ide sa godinama.",
+      "keyword": "to dolazi sa godinama"
+    },
+    {
       "headword_latin": "To ide predaleko!",
       "type": "replika",
       "definition_ru": "это заходит слишком далеко!; это уже переходит границы!",
@@ -45670,6 +45697,33 @@
       ],
       "note": "Говорят, когда новое условие существенно меняет оценку ситуации. В русском часто естественнее «это уже другой разговор», а не буквальное «это другая история».",
       "keyword": "to je druga priča"
+    },
+    {
+      "headword_latin": "To je drugi padež",
+      "type": "replika",
+      "definition_ru": "это совсем другое дело; другой коленкор",
+      "synonyms_sr": [
+        "to je druga stvar",
+        "to je drugi par rukava",
+        "to je druga priča"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "To što mu tata leči navijačke komplekse u 50 godina, to je drugi padež.",
+          "russian": "А то, что отец в пятьдесят лет компенсирует свои фанатские комплексы, — уже совсем другой разговор.",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/kolumna/nenad-kulacin/kad-tata-zloupotrebi-sina/"
+        },
+        {
+          "serbian_latin": "Kad imaš diplomu, to je drugi padež.",
+          "russian": "Когда у тебя есть диплом, это уже другое дело.",
+          "source": ""
+        }
+      ],
+      "note": "Шутливое переносное употребление грамматического слова padež («падеж»): дело относится к совершенно иной категории. Выражение может звучать иронично, особенно при отделении второстепенного вопроса от главной темы. По сравнению с to je druga stvar оно заметно разговорнее.",
+      "keyword": "to je drugi padež"
     },
     {
       "headword_latin": "To je drugi par rukava",
@@ -46109,6 +46163,34 @@
       "keyword": "skup sport"
     },
     {
+      "headword_latin": "To je sto posto tako",
+      "type": "replika",
+      "definition_ru": "это стопроцентно так; это абсолютно верно",
+      "synonyms_sr": [
+        "upravo tako",
+        "potpuno je tačno",
+        "nema sumnje",
+        "tako je"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "To je sto posto tako. Pozitivac sam u vezi svega.",
+          "russian": "Это совершенно точно. Я во всём стараюсь видеть хорошее.",
+          "source": "Mondo, 2026",
+          "url": "https://mondo.rs/Info/EX-YU/a2202795/ispovest-bivseg-milionera-sa-balkana-spiskao-sve-danas-skoro-pa-beskucnik.html"
+        },
+        {
+          "serbian_latin": "To je sto posto tako, lično sam video.",
+          "russian": "Это совершенно точно, я видел сам.",
+          "source": ""
+        }
+      ],
+      "note": "Sto posto — разговорное усиление уверенности, аналог русского «на сто процентов». Формула может передавать как знание, так и категоричное убеждение без доказательств. В более официальном тексте предпочтительнее potpuno je tačno или nesumnjivo.",
+      "keyword": "to je sto posto tako"
+    },
+    {
       "headword_latin": "To je stvar navike",
       "type": "replika",
       "definition_ru": "это дело привычки",
@@ -46247,6 +46329,60 @@
       ],
       "note": "Значение — нечто совершенно неизвестное или непонятное, а не просто «сложное». Выражение пришло через немецкую фразеологию; Милан Шипка связывает сербское španska sela с немецким spanische Dörfer и обсуждает его вместе с Иваном Клайном и немецко-сербохорватской фразеографией. Популярные газетные версии происхождения заметно расходятся в деталях, поэтому конкретную красивую историю о том, кто именно «изобрёл» выражение, лучше не считать доказанным фактом. Русское «китайская грамота» — отличный функциональный эквивалент: оба языка выбирают далёкую культуру как образ непонятного.",
       "keyword": "špansko selo"
+    },
+    {
+      "headword_latin": "To me muči",
+      "type": "replika",
+      "definition_ru": "меня это мучает",
+      "synonyms_sr": [
+        "to me tišti",
+        "to me izjeda",
+        "to mi ne da mira"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "ne mogu besposlen, to me muči.",
+          "russian": "Не могу сидеть без дела, это меня мучает.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/magazin/zivot/5338728/.html?print=true"
+        },
+        {
+          "serbian_latin": "Ne znam šta da odlučim, to me muči.",
+          "russian": "Не знаю, что решить, и это меня мучает.",
+          "source": ""
+        }
+      ],
+      "note": "Muči me буквально «мучает меня», но часто описывает навязчивую мысль, тревогу или неразрешённый вопрос. Речь может идти не о физической боли, а о внутреннем беспокойстве. Порядок слов свободен: To me muči или Muči me to.",
+      "keyword": "to me muči"
+    },
+    {
+      "headword_latin": "To me tišti",
+      "type": "replika",
+      "definition_ru": "меня это тяготит; давит на душу",
+      "synonyms_sr": [
+        "to me muči",
+        "to me pritiska",
+        "to mi leži na duši"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "To me tišti i muči od onda",
+          "russian": "С тех пор это меня тяготит и мучает.",
+          "source": "RTS, 2022",
+          "url": "https://rts.rs/lat/sport/atletika/4922877/vuleta-povreda-iz-berlina-me-motivise-u-minhenu.html"
+        },
+        {
+          "serbian_latin": "To me tišti već mesecima.",
+          "russian": "Это меня тяготит уже несколько месяцев.",
+          "source": ""
+        }
+      ],
+      "note": "Tištati чаще относится к продолжительному внутреннему напряжению, печали или ощущению душевного груза. В отличие от обычного mučiti, может звучать несколько литературнее. В газетной цитате оба глагола соединены для усиления переживания.",
+      "keyword": "to me tišti"
     },
     {
       "headword_latin": "To mi je fah",
@@ -46466,6 +46602,88 @@
       "keyword": "to ne pije vodu"
     },
     {
+      "headword_latin": "To se graniči sa ludošću!",
+      "type": "replika",
+      "definition_ru": "это граничит с безумием!",
+      "synonyms_sr": [
+        "to je gotovo ludost",
+        "to je skoro suludo",
+        "to prelazi granice razuma"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Ocenio je da se graniči sa ludošću kada neka od desnih političkih partija sada govori o patriotizmu",
+          "russian": "Он счёл почти безумием то, что некоторые правые партии теперь говорят о патриотизме.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/politika/5116514/dacic-u-razgovoru-sa-vucicem-dogovoren-nastavak-saradnje-sns-a-i-sps-a.html"
+        },
+        {
+          "serbian_latin": "Voziti tako brzo po snegu graniči se sa ludošću!",
+          "russian": "Ездить так быстро по снегу — почти безумие!",
+          "source": ""
+        }
+      ],
+      "note": "Глагол graničiti se sa + творительный падеж выражает близость к крайней оценке: graniči se sa ludošću, sa apsurdom. Утверждение является эмоциональной оценкой говорящего, а не медицинским диагнозом. Встречаются варианты To se graniči sa ludošću и To graniči sa ludošću.",
+      "keyword": "to se graniči sa ludošću"
+    },
+    {
+      "headword_latin": "To se ne da opisati",
+      "type": "replika",
+      "definition_ru": "это невозможно описать словами",
+      "synonyms_sr": [
+        "to je neopisivo",
+        "reči nisu dovoljne",
+        "to se teško može opisati"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "To se rečima ne da opisati.",
+          "russian": "Этого невозможно описать словами.",
+          "source": "Danas / BBC na srpskom, 2024",
+          "url": "https://www.danas.rs/bbc-news-serbian/t-b-dzosua-unutar-africke-megacrkve-mislili-smo-da-smo-u-raju-ali-onda-su-se-desile-strasne-stvari/"
+        },
+        {
+          "serbian_latin": "Pogled s vrha ne da se opisati.",
+          "russian": "Вид с вершины невозможно описать словами.",
+          "source": ""
+        }
+      ],
+      "note": "Конструкция ne da se + инфинитив выражает невозможность совершить действие: ne da se opisati — «нельзя описать». В отличие от neću da opišem, здесь речь не об отказе, а об ограниченных возможностях языка. В живой речи часто добавляют rečima.",
+      "keyword": "to se ne da opisati"
+    },
+    {
+      "headword_latin": "To stoji",
+      "type": "replika",
+      "definition_ru": "это верно; тут не поспоришь",
+      "synonyms_sr": [
+        "to je tačno",
+        "to ne sporim",
+        "tu se slažem",
+        "to važi"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Da je teško jeste teško, to stoji, ali jednostavno moramo da se borimo",
+          "russian": "Да, это тяжело, с этим не поспоришь, но нам просто необходимо бороться.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5997113/.html?print=true"
+        },
+        {
+          "serbian_latin": "To stoji, ali postoji i druga strana.",
+          "russian": "Это верно, но есть и другая сторона.",
+          "source": ""
+        }
+      ],
+      "note": "Это разговорное признание справедливости довода, часто перед возражением с ali: To stoji, ali... Глагол stajati употреблён не в буквальном пространственном смысле. Не путать с to stoji na stolu — «это стоит на столе».",
+      "keyword": "to stoji"
+    },
+    {
       "headword_latin": "To su dva sveta",
       "type": "replika",
       "definition_ru": "это два совершенно разных мира",
@@ -46517,6 +46735,33 @@
       ],
       "note": "Образ старого устойчивого сочетания с малознакомыми сегодня названиями малозначительных остатков и отбросов. В современном языке означает «незначительные мелочи» и может произноситься с явной иронией: журналистская цитата высмеивает попытку назвать серьёзные проблемы пустяками.",
       "keyword": "to su trice i kučine"
+    },
+    {
+      "headword_latin": "To ti je život",
+      "type": "replika",
+      "definition_ru": "такова жизнь",
+      "synonyms_sr": [
+        "takav je život",
+        "šta da se radi",
+        "tako ti je to"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Pa, sad, kako ko. To ti je život.",
+          "russian": "Ну, у кого как. Такова жизнь.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5243776/morava---najopevanija-srpska-reka.html"
+        },
+        {
+          "serbian_latin": "Nekad gubiš, nekad dobijaš. To ti je život.",
+          "russian": "Иногда проигрываешь, иногда выигрываешь. Такова жизнь.",
+          "source": ""
+        }
+      ],
+      "note": "Формула примирения с непредсказуемостью жизни, иногда с иронией. Частица ti делает реплику более доверительной и не требует дословного перевода «тебе». В цитате это ответ на вопрос о том, насколько удачно сложилась личная жизнь.",
+      "keyword": "to ti je život"
     },
     {
       "headword_latin": "To ti kažem",
@@ -46684,6 +46929,32 @@
       "keyword": "topi se u ustima"
     },
     {
+      "headword_latin": "Topovska hrana",
+      "type": "frazeologizam",
+      "definition_ru": "пушечное мясо",
+      "synonyms_sr": [
+        "topovsko meso",
+        "žrtvovana strana"
+      ],
+      "literal_ru": "",
+      "register": "figurativno, ekspresivno",
+      "examples": [
+        {
+          "serbian_latin": "Parižani su pokazali da neće biti tek \"topovska hrana\" ostalima",
+          "russian": "Парижане показали, что не собираются быть для остальных просто пушечным мясом.",
+          "source": "RTS, 2024",
+          "url": "https://rts.rs/lat/sport/kosarka/evroliga/5573544/tezak-zadatak-pred-partizanom---protiv-zahuhtalog-novajlije-pariza-za-prekid-loseg-niza.html"
+        },
+        {
+          "serbian_latin": "Mladi vojnici postali su topovska hrana.",
+          "russian": "Молодые солдаты стали пушечным мясом.",
+          "source": ""
+        }
+      ],
+      "note": "Исторически образ относится к солдатам, которыми командование готово пожертвовать. В современной спортивной публицистике им обозначают заведомо слабого соперника, от которого ждут лёгкого поражения, как в цитате. Более распространённая форма того же образа — topovsko meso.",
+      "keyword": "topovska hrana"
+    },
+    {
       "headword_latin": "Topovsko meso",
       "type": "frazeologizam",
       "definition_ru": "пушечное мясо; люди, которыми жертвуют или которых используют как расходный материал ради чужих целей",
@@ -46737,6 +47008,33 @@
       ],
       "note": "Поправка к исходному JSON: прежде всего это обычное буквальное сочетание «вьючный скот». Перенос на человека понятен и естественен, но это скорее разговорная метафора, чем жёстко закреплённый фразеологизм.",
       "keyword": "tovarna marva"
+    },
+    {
+      "headword_latin": "Traćiti uludo vreme",
+      "type": "izraz",
+      "definition_ru": "попусту тратить время",
+      "synonyms_sr": [
+        "gubiti vreme",
+        "traćiti vreme",
+        "trošiti vreme uzalud"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "vreme nije na našoj strani te da ga ne bi trebalo uludo traćiti",
+          "russian": "время не на нашей стороне, поэтому не следует растрачивать его впустую",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/drustvo/sad-bez-jasne-ratne-strategije"
+        },
+        {
+          "serbian_latin": "Neću da traćim uludo vreme na raspravu.",
+          "russian": "Не хочу попусту тратить время на споры.",
+          "source": ""
+        }
+      ],
+      "note": "Traćiti уже означает «бездумно расходовать, растрачивать», а uludo ещё сильнее подчёркивает бесполезность. В обычной речи проще gubiti vreme, тогда как traćiti звучит оценочно. Возможен другой порядок слов: vreme uludo traćiti.",
+      "keyword": "traćiti uludo vreme"
     },
     {
       "headword_latin": "Transfer blama",
@@ -46980,6 +47278,33 @@
       ],
       "note": "Здесь ruda — не «руда» в русском смысле, а оглобля повозки. Полная старая форма — ne trči kao ždrebe pred rudu: жеребёнок не должен забегать перед оглобли и лошадей. Сегодня почти всегда употребляется сокращённое ne trči pred rudu — «не торопись, не забегай вперёд».",
       "keyword": "trčati pred rudu"
+    },
+    {
+      "headword_latin": "Treba čuti i drugu stranu",
+      "type": "izraz",
+      "definition_ru": "надо выслушать и другую сторону",
+      "synonyms_sr": [
+        "saslušati obe strane",
+        "čuti i suprotno mišljenje",
+        "dati reč drugoj strani"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "treba čuti i drugu stranu, naročito onda kada je društvo oštro podeljeno u dva tabora.",
+          "russian": "нужно выслушать и другую сторону, особенно когда общество резко разделено на два лагеря.",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/dijalog/reakcije/strah-nelegitimne-vlasti-u-crnoj-gori/"
+        },
+        {
+          "serbian_latin": "Pre presude treba čuti i drugu stranu.",
+          "russian": "Прежде чем судить, нужно выслушать и другую сторону.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивая формула требования объективности: прежде чем судить, нужно услышать противоположную точку зрения. Strana здесь «сторона спора», а не сторона света. В юридическом контексте близка принципу выслушивания обеих сторон.",
+      "keyword": "treba čuti i drugu stranu"
     },
     {
       "headword_latin": "Treba pogledati istini u oči",
@@ -47951,6 +48276,33 @@
       "keyword": "bescenje"
     },
     {
+      "headword_latin": "U blagoslovenom stanju",
+      "type": "kolokacija",
+      "definition_ru": "в интересном положении; беременна",
+      "synonyms_sr": [
+        "u drugom stanju",
+        "biti trudna",
+        "očekivati dete"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, eufemistički",
+      "examples": [
+        {
+          "serbian_latin": "Iako u blagoslovenom stanju, i iako je u Beogradu bilo pretoplo, bila je na Trgu republike",
+          "russian": "Несмотря на беременность и сильную жару в Белграде, она пришла на Площадь Республики.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5727500/na-nacionalni-dan-donora-na-trgu-republike-1800-stolica-po-jedna-za-svako-da-koje-nedostaje.html"
+        },
+        {
+          "serbian_latin": "Ona je u blagoslovenom stanju.",
+          "russian": "Она в интересном положении.",
+          "source": ""
+        }
+      ],
+      "note": "Эвфемистическое обозначение беременности, буквально «в благословенном состоянии». Звучит мягче и иногда торжественнее, чем нейтральное trudna, но встречается и в обычной журналистике. В отличие от ostati u drugom stanju («забеременеть»), biti u blagoslovenom stanju описывает уже существующую беременность.",
+      "keyword": "u blagoslovenom stanju"
+    },
+    {
       "headword_latin": "U buli",
       "type": "sleng",
       "definition_ru": "в затруднительном положении; без денег (жарг.)",
@@ -48676,6 +49028,31 @@
       "keyword": "laž; kratke noge"
     },
     {
+      "headword_latin": "U ljubavi i ratu sve je dozvoljeno",
+      "type": "poslovica",
+      "definition_ru": "на войне и в любви все средства хороши",
+      "synonyms_sr": [
+        "u ljubavi i ratu nema pravila (blisko)"
+      ],
+      "literal_ru": "",
+      "register": "poslovica",
+      "examples": [
+        {
+          "serbian_latin": "Zaboravite izreku „u ljubavi i ratu sve je dozvoljeno“",
+          "russian": "Забудьте поговорку «на войне и в любви все средства хороши».",
+          "source": "RTS, 2022",
+          "url": "https://rts.rs/lat/magazin/zivot/4789741/svadja-sa-voljenom-osobom-je-zdrava-ako-to-uradimo-kako-treba.html"
+        },
+        {
+          "serbian_latin": "Pravdao se rečima da je u ljubavi i ratu sve dozvoljeno.",
+          "russian": "Он оправдывался тем, что на войне и в любви все средства хороши.",
+          "source": ""
+        }
+      ],
+      "note": "Международная поговорка, соответствующая английскому All is fair in love and war. В сербской речи её могут употреблять шутливо или критически; она не является оправданием причинения вреда. В приведённой статье автор прямо призывает отказаться от такого принципа в отношениях.",
+      "keyword": "u ljubavi i ratu sve je dozvoljeno"
+    },
+    {
       "headword_latin": "U minut do dvanaest",
       "type": "frazeologizam",
       "definition_ru": "в последнюю минуту; в самый последний момент; когда уже дальше тянуть нельзя",
@@ -48925,6 +49302,32 @@
       ],
       "note": "В публицистике u pola glasa может означать и «об этом тихо поговаривают»: u pola glasa se govori / spekuliše.",
       "keyword": "u pola glasa; tiho; šapat"
+    },
+    {
+      "headword_latin": "U poodmakloj trudnoći",
+      "type": "kolokacija",
+      "definition_ru": "на позднем сроке беременности",
+      "synonyms_sr": [
+        "u kasnoj trudnoći",
+        "pred kraj trudnoće"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "U automobilu je bila i žena u poodmakloj trudnoći",
+          "russian": "В автомобиле находилась также женщина на позднем сроке беременности.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/hronika/3382733/vozac-poginuo-majka-zivotno-ugrozena-beba-prebacena-u-kragujevac.html"
+        },
+        {
+          "serbian_latin": "Bila je u poodmakloj trudnoći kada se preselila.",
+          "russian": "Она была на позднем сроке беременности, когда переехала.",
+          "source": ""
+        }
+      ],
+      "note": "Poodmakla указывает, что беременность находится уже на достаточно позднем этапе; конкретное число недель из этого сочетания не следует. Типична конструкция biti u poodmakloj trudnoći. В отличие от русского «запущенное заболевание», poodmakla здесь не выражает отрицательной оценки.",
+      "keyword": "u poodmakloj trudnoći"
     },
     {
       "headword_latin": "U poslednji čas",
@@ -49571,6 +49974,58 @@
       "keyword": "učiniti prvi korak"
     },
     {
+      "headword_latin": "Učiti na svojim greškama",
+      "type": "kolokacija",
+      "definition_ru": "учиться на собственных ошибках",
+      "synonyms_sr": [
+        "izvlačiti pouke iz svojih grešaka",
+        "učiti iz sopstvenog iskustva"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Učite na svojim greškama, barem tako nas savetuju od detinjstva.",
+          "russian": "Учитесь на своих ошибках — по крайней мере, так нам советуют с детства.",
+          "source": "RTS, 2023",
+          "url": "https://rts.rs/lat/magazin/zivot/5176761/.html?print=true"
+        },
+        {
+          "serbian_latin": "Najbrže se uči na svojim greškama.",
+          "russian": "Быстрее всего учишься на собственных ошибках.",
+          "source": ""
+        }
+      ],
+      "note": "После učiti na употребляется местный падеж множественного числа: na greškama. Можно сказать učiti iz grešaka или učiti na svojim greškama; второй вариант подчёркивает источник опыта. Противопоставление — učiti na tuđim greškama.",
+      "keyword": "učiti na svojim greškama"
+    },
+    {
+      "headword_latin": "Učiti na tuđim greškama",
+      "type": "kolokacija",
+      "definition_ru": "учиться на чужих ошибках",
+      "synonyms_sr": [
+        "izvlačiti pouke iz tuđeg iskustva",
+        "ne ponavljati tuđe greške"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Neko je rekao da pametan čovek uči na tuđim greškama.",
+          "russian": "Кто-то сказал, что умный человек учится на чужих ошибках.",
+          "source": "Magazin Politika, 2026",
+          "url": "https://magazin.politika.rs/sr/clanak/578918/drago-jovanovic-veliki-je-uspeh-biti-u-miru-sa-onim-sto-jesi"
+        },
+        {
+          "serbian_latin": "Pametan čovek ume da uči na tuđim greškama.",
+          "russian": "Умный человек умеет учиться на чужих ошибках.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот означает делать выводы из чужого неудачного опыта, не повторяя тех же действий самому. Tuđim стоит в местном падеже множественного числа вместе с greškama; в сербском здесь предлог na. Сравните самостоятельную модель učiti na svojim greškama.",
+      "keyword": "učiti na tuđim greškama"
+    },
+    {
       "headword_latin": "Ućeban džemper",
       "type": "kolokacija",
       "definition_ru": "свалявшийся свитер; свитер в катышках",
@@ -49823,6 +50278,33 @@
       ],
       "note": "Ući u modu означает начало популярности, а biti u modi — уже существующую моду. Прилагательное moderan здесь подходит не во всех контекстах: речь бывает о распространении привычек, вещей и технологий.",
       "keyword": "ući u modu"
+    },
+    {
+      "headword_latin": "Ući u nečiji uži izbor",
+      "type": "kolokacija",
+      "definition_ru": "войти в шорт-лист; попасть в число финалистов",
+      "synonyms_sr": [
+        "naći se u užem izboru",
+        "biti među finalistima",
+        "ući u završni krug"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "Predlozi koji su ušli u uži izbor rezultat su konkursa za dizajn",
+          "russian": "Предложения, попавшие в финальный список, были отобраны по результатам конкурса дизайна.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/magazin/Zanimljivosti/6004710/.html?print=true"
+        },
+        {
+          "serbian_latin": "Ušla je u uži izbor za nagradu.",
+          "russian": "Она вошла в шорт-лист премии.",
+          "source": ""
+        }
+      ],
+      "note": "Uži izbor — короткий список кандидатов после предварительного отбора. Можно сказать ući u uži izbor za nagradu, konkurs, stipendiju; после ući используется винительный падеж. Притяжательное nečiji необязательно: в прессе гораздо чаще просто ući u uži izbor.",
+      "keyword": "ući u nečiji uži izbor"
     },
     {
       "headword_latin": "Ući u ritam",
@@ -50777,6 +51259,33 @@
       "keyword": "ulaziti na mala vrata"
     },
     {
+      "headword_latin": "Ulivati poverenje kome",
+      "type": "izraz",
+      "definition_ru": "внушать доверие",
+      "synonyms_sr": [
+        "buditi poverenje",
+        "ulivati sigurnost",
+        "izazivati poverenje"
+      ],
+      "literal_ru": "",
+      "register": "neutralno",
+      "examples": [
+        {
+          "serbian_latin": "sa ovlašćenjima koja će biti značajna i koja će ulivati poverenje građanima.",
+          "russian": "с полномочиями, которые будут существенными и будут внушать гражданам доверие.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/vesti/politika/5110497/sednica-skupstina-kosovo-metohija.html"
+        },
+        {
+          "serbian_latin": "Njegov miran nastup uliva poverenje.",
+          "russian": "Его спокойное поведение внушает доверие.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском ulivati poverenje nekome требует дательного падежа для того, кому внушают доверие: građanima, ljudima, roditeljima. Может употребляться и без дополнения, например Njegov nastup uliva poverenje. Буквальный образ «вливать доверие» в русском не воспроизводится.",
+      "keyword": "ulivati poverenje kome"
+    },
+    {
       "headword_latin": "Uljudne fraze",
       "type": "kolokacija",
       "definition_ru": "вежливые фразы; формулы вежливости; любезности",
@@ -50905,6 +51414,33 @@
       ],
       "note": "",
       "keyword": "upada u oči"
+    },
+    {
+      "headword_latin": "Upalila mu se lampica",
+      "type": "izraz",
+      "definition_ru": "до него дошло; у него загорелась лампочка",
+      "synonyms_sr": [
+        "sinulo mu je",
+        "najzad je shvatio",
+        "ukopčao je (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg.",
+      "examples": [
+        {
+          "serbian_latin": "Ovo je priča o ženi kojoj se u jednom trenutku „upalila lampica“",
+          "russian": "Это история о женщине, у которой в какой-то момент «загорелась лампочка».",
+          "source": "Danas / BBC na srpskom, 2026",
+          "url": "https://www.danas.rs/bbc-news-serbian/penzionerka-rasvetljava-neresene-slucajeve-pomocu-dnk-svako-telo-zasluzuje-da-mu-se-zna-ime/"
+        },
+        {
+          "serbian_latin": "Posle objašnjenja mu se konačno upalila lampica.",
+          "russian": "После объяснения до него наконец дошло.",
+          "source": ""
+        }
+      ],
+      "note": "Разговорный образ внезапного понимания или появления идеи: upalila mi/mu/joj se lampica. Дательный падеж обозначает человека, которому пришла мысль. Газетный пример относится к женщине и употребляет которой — kojoj, а не mu.",
+      "keyword": "upalila mu se lampica"
     },
     {
       "headword_latin": "Upasti / otići u minus",
