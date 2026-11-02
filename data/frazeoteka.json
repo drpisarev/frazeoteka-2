@@ -48389,6 +48389,33 @@
       "keyword": "trpati sve u isti koš"
     },
     {
+      "headword_latin": "Trula jabuka",
+      "type": "frazeologizam",
+      "definition_ru": "гнилое яблоко; человек, дурно влияющий на окружающих",
+      "synonyms_sr": [
+        "loš uticaj",
+        "loš primer",
+        "onaj koji kvari druge"
+      ],
+      "literal_ru": "",
+      "register": "razg., figurativno, neodobr.; o osobi ili uticaju",
+      "examples": [
+        {
+          "serbian_latin": "Nikada Dejan nije bio trula jabuka.",
+          "russian": "Деян никогда не был тем, кто портит атмосферу в коллективе.",
+          "source": "RTS, 2024",
+          "url": "https://www.rts.rs/lat/sport/kosarka/5363884/komemoracija-dejan-milojevic.html"
+        },
+        {
+          "serbian_latin": "Jedna trula jabuka može da pokvari celu ekipu.",
+          "russian": "Одно гнилое яблоко может испортить всю команду.",
+          "source": ""
+        }
+      ],
+      "note": "В переносном значении так называют человека, чьё поведение отрицательно влияет на коллектив. В русском и сербском образ совпадает, но сербское trula jabuka не означает просто испорченный фрукт, когда речь идёт о людях. В цитате употреблено отрицание: о спортсмене говорят с похвалой.",
+      "keyword": "trula jabuka"
+    },
+    {
       "headword_latin": "Tu i tamo",
       "type": "prilog",
       "definition_ru": "время от времени; кое-где; то тут, то там",
@@ -49288,6 +49315,33 @@
       "keyword": "vašar"
     },
     {
+      "headword_latin": "U finansijskom škripcu",
+      "type": "kolokacija",
+      "definition_ru": "в финансовом затруднении; на мели",
+      "synonyms_sr": [
+        "bez dovoljno novca",
+        "u novčanoj oskudici",
+        "u finansijskim problemima"
+      ],
+      "literal_ru": "",
+      "register": "razg.; biti/naći se u finansijskom škripcu",
+      "examples": [
+        {
+          "serbian_latin": "jer se našao u finansijskom škripcu.",
+          "russian": "поскольку он оказался в стеснённом финансовом положении.",
+          "source": "RTS / Dojče vele, 2022",
+          "url": "https://www.rts.rs/lat/vesti/svet/5061359/.html?print=true"
+        },
+        {
+          "serbian_latin": "Porodica je u finansijskom škripcu posle gubitka posla.",
+          "russian": "После потери работы семья оказалась в тяжёлом финансовом положении.",
+          "source": ""
+        }
+      ],
+      "note": "Škripac означает стеснённое положение, из которого трудно выбраться; кроме финансов говорят i biti u škripcu s vremenom. Прилагательное finansijski уточняет причину затруднения. Не путать фразеологизм u škripcu с названием музыкальной группы U škripcu.",
+      "keyword": "u finansijskom škripcu"
+    },
+    {
       "headword_latin": "U gluvo doba noći",
       "type": "izraz",
       "definition_ru": "глубокой ночью; в глухую ночь",
@@ -49565,6 +49619,33 @@
       "keyword": "laž; kratke noge"
     },
     {
+      "headword_latin": "U lošem svetlu",
+      "type": "frazeologizam",
+      "definition_ru": "в невыгодном свете; в дурном свете",
+      "synonyms_sr": [
+        "negativno prikazan",
+        "u nepovoljnom svetlu",
+        "s loše strane"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; prikazati nekoga u lošem svetlu",
+      "examples": [
+        {
+          "serbian_latin": "Tvrde da će odlazeća vlast uraditi sve da bi Studentsku listu prikazali u lošem svetlu.",
+          "russian": "Они утверждают, что уходящие власти сделают всё, чтобы представить Студенческий список в дурном свете.",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/vesti/politika/6070848/.html?print=true"
+        },
+        {
+          "serbian_latin": "Izveštaj je firmu prikazao u lošem svetlu.",
+          "russian": "Отчёт выставил компанию в невыгодном свете.",
+          "source": ""
+        }
+      ],
+      "note": "Типичная конструкция prikazati/predstaviti nekoga u lošem svetlu. Свет здесь метафора ракурса оценки, а не буквального освещения. Противопоставление — prikazati u dobrom svetlu.",
+      "keyword": "u lošem svetlu"
+    },
+    {
       "headword_latin": "U ljubavi i ratu sve je dozvoljeno",
       "type": "poslovica",
       "definition_ru": "на войне и в любви все средства хороши",
@@ -49724,6 +49805,32 @@
       ],
       "note": "",
       "keyword": "u nedođiji"
+    },
+    {
+      "headword_latin": "U nevolji se vidi ko ti je prijatelj",
+      "type": "poslovica",
+      "definition_ru": "друг познаётся в беде",
+      "synonyms_sr": [
+        "prijatelj se u nevolji poznaje",
+        "pravi prijatelj se vidi u nevolji"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; česte varijante: u nevolji se poznaje prijatelj, pravi prijatelj se vidi u nevolji",
+      "examples": [
+        {
+          "serbian_latin": "pravi prijatelj se vidi u nevolji, u teškim vremenima",
+          "russian": "настоящий друг познаётся в беде, в тяжёлые времена",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/page/magazine/sr/story/511/zanimljivosti/4257462/kineska-nova-godina-festival-beograd-novi-sad.html"
+        },
+        {
+          "serbian_latin": "Kad su svi otišli, ona je ostala uz mene — u nevolji se vidi ko ti je prijatelj.",
+          "russian": "Когда все ушли, она осталась рядом — друг познаётся в беде.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица говорит, что подлинную дружбу проверяют трудные обстоятельства. В опубликованной цитате использован самостоятельный вариант Pravi prijatelj se vidi u nevolji, а не дословный порядок слов заголовка. Лицо, которое обнаруживает, кто его друг, в заголовке обозначено дательным ti.",
+      "keyword": "u nevolji se vidi ko ti je prijatelj"
     },
     {
       "headword_latin": "U paramparčad",
@@ -49895,6 +50002,33 @@
       "keyword": "u poslednji čas"
     },
     {
+      "headword_latin": "U prvim redovima",
+      "type": "frazeologizam",
+      "definition_ru": "в первых рядах; на переднем крае борьбы или дела",
+      "synonyms_sr": [
+        "među prvima",
+        "u prvoj liniji",
+        "na čelu borbe"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; u prvim redovima borbe",
+      "examples": [
+        {
+          "serbian_latin": "Akademska zajednica će i u narednom periodu ostati u prvim redovima borbe protiv korupcije koja odnosi živote.",
+          "russian": "Академическое сообщество и дальше будет оставаться в первых рядах борьбы с коррупцией, уносящей жизни.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/drustvo/prosvetari-se-pridruzuju-u-prvim-redovima-borbe-protiv-korupcije-koja-odnosi-zivote/"
+        },
+        {
+          "serbian_latin": "Volonteri su bili u prvim redovima pomoći ugroženima.",
+          "russian": "Добровольцы были в первых рядах тех, кто помогал пострадавшим.",
+          "source": ""
+        }
+      ],
+      "note": "В прямом смысле это первые ряды людей, а переносно — участники, наиболее активно вовлечённые в борьбу или работу. Часто употребляется u prvim redovima borbe za/protiv nečega. Родительный после borbe указывает на сферу участия.",
+      "keyword": "u prvim redovima"
+    },
+    {
       "headword_latin": "U ručici doneti, u guzici odneti",
       "type": "izreka",
       "definition_ru": "принести чуть-чуть, а съесть или унести гораздо больше",
@@ -50051,6 +50185,58 @@
       "keyword": "strah; oči"
     },
     {
+      "headword_latin": "U svakoj šali ima i istine",
+      "type": "poslovica",
+      "definition_ru": "в каждой шутке есть доля правды",
+      "synonyms_sr": [
+        "u svakoj šali ima malo istine",
+        "iza šale se krije istina"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, razg.; i u svakoj šali ima malo istine",
+      "examples": [
+        {
+          "serbian_latin": "U svakoj šali ima malo i istine, ali ne bih voleo da taj natpis bude istina.",
+          "russian": "В каждой шутке есть доля правды, но мне бы не хотелось, чтобы эта надпись оказалась правдой.",
+          "source": "Danas, 2012",
+          "url": "https://www.danas.rs/vesti/politika/guca-je-za-mene-raj/"
+        },
+        {
+          "serbian_latin": "Svi su se smejali njegovoj opasci, ali u svakoj šali ima i istine.",
+          "russian": "Все смеялись над его замечанием, но в каждой шутке есть доля правды.",
+          "source": ""
+        }
+      ],
+      "note": "Самая привычная развернутая форма — U svakoj šali ima malo istine. Добавление i придаёт оттенок «и правда тоже есть». Так отвечают на шутку, которая затрагивает реальную проблему или намекает на искреннее мнение.",
+      "keyword": "u svakoj šali ima i istine"
+    },
+    {
+      "headword_latin": "U svakom zlu ima i dobra",
+      "type": "poslovica",
+      "definition_ru": "нет худа без добра",
+      "synonyms_sr": [
+        "svako zlo za neko dobro",
+        "i iz nevolje može izaći nešto dobro"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, utešno; često u obliku u svakom zlu ima i nešto dobro",
+      "examples": [
+        {
+          "serbian_latin": "da u svakom zlu ima i nešto dobro, pokazuje činjenica",
+          "russian": "то, что даже в плохом можно найти нечто хорошее, показывает тот факт",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/drustvo/kovid-virus-longkovid/"
+        },
+        {
+          "serbian_latin": "Izgubili smo rezervaciju, ali smo otkrili lepše mesto — u svakom zlu ima i dobra.",
+          "russian": "Мы потеряли бронь, зато нашли место получше — нет худа без добра.",
+          "source": ""
+        }
+      ],
+      "note": "В разговоре пословица может принимать форму U svakom zlu ima i nešto dobro либо Svako zlo za neko dobro. Это попытка увидеть положительное последствие неприятности, а не отрицание самого несчастья. Русское «нет худа без добра» передаёт смысл точнее буквальной кальки.",
+      "keyword": "u svakom zlu ima i dobra"
+    },
+    {
       "headword_latin": "U svakom žitu ima kukolja",
       "type": "poslovica",
       "definition_ru": "везде есть паршивая овца; в любой группе найдутся плохие люди; хороших без исключения не бывает",
@@ -50158,6 +50344,33 @@
       ],
       "note": "Это хороший пример почти полного смыслового совпадения при совершенно разном животном образе: по-русски «собака зарыта», по-сербски заяц сидит в кусте. Выражение обычно вводит не просто проблему, а обнаруженный скрытый смысл или настоящую причину: сначала ситуация кажется неясной, затем говорящий указывает, где находится разгадка.",
       "keyword": "u tom grmu leži zec"
+    },
+    {
+      "headword_latin": "U trci sa vremenom",
+      "type": "frazeologizam",
+      "definition_ru": "в гонке со временем; когда время поджимает",
+      "synonyms_sr": [
+        "u vremenskom tesnacu",
+        "pod pritiskom rokova",
+        "trčeći protiv vremena"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; biti u trci sa vremenom",
+      "examples": [
+        {
+          "serbian_latin": "NIS se, kako ocenjuje Putnikovićeva, nalazi u trci sa vremenom.",
+          "russian": "По оценке Путникович, нефтяная компания NIS вынуждена бороться со временем.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5889623/nis-mol-licenca-jelica-putnikovic.html"
+        },
+        {
+          "serbian_latin": "Lekari su u trci sa vremenom pokušavali da spasu pacijenta.",
+          "russian": "Врачи пытались спасти пациента, и счёт шёл на минуты.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот обозначает ситуацию, когда нужно успеть до жёсткого срока или до ухудшения обстоятельств. Часто используется с biti/naći se u trci sa vremenom, в журналистике — о спасательных работах, экономике и переговорах. Сочетание vremenski tesnac близко, но звучит более сухо.",
+      "keyword": "u trci sa vremenom"
     },
     {
       "headword_latin": "U tren oka",
@@ -51384,6 +51597,33 @@
       "keyword": "mečka"
     },
     {
+      "headword_latin": "Ugristi ruku koja te hrani",
+      "type": "frazeologizam",
+      "definition_ru": "кусать руку, которая тебя кормит; выступать против своего благодетеля",
+      "synonyms_sr": [
+        "okrenuti se protiv dobročinitelja",
+        "izneveriti onoga ko ti pomaže",
+        "biti nezahvalan"
+      ],
+      "literal_ru": "укусить руку, которая тебя кормит",
+      "register": "figurativno, često neodobr.; ugristi (svrš.), gristi (nesvrš.)",
+      "examples": [
+        {
+          "serbian_latin": "dobar novinar ponekad mora da ugrize ruku koja ga hrani.",
+          "russian": "хорошему журналисту порой приходится кусать руку, которая его кормит.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/vesti/drustvo/junak-sa-manama/"
+        },
+        {
+          "serbian_latin": "Nije lako kritikovati poslodavca, ali ponekad moraš da ugrizeš ruku koja te hrani.",
+          "russian": "Критиковать работодателя непросто, но порой приходится выступать против того, от кого зависишь.",
+          "source": ""
+        }
+      ],
+      "note": "Часто употребляется как упрёк в неблагодарности, однако может описывать принципиальную независимость от того, кто тебя содержит, как в примере о журналистике. Местоимение меняется по контексту: ruku koja te, ga, me hrani. Сочетание не требует буквального понимания.",
+      "keyword": "ugristi ruku koja te hrani"
+    },
+    {
       "headword_latin": "Ugristi se za jezik",
       "type": "frazeologizam",
       "definition_ru": "прикусить язык; вовремя промолчать",
@@ -52230,6 +52470,33 @@
       "keyword": "uploviti u bračne vode"
     },
     {
+      "headword_latin": "Urezalo mi se u sećanje",
+      "type": "izraz",
+      "definition_ru": "врезалось мне в память; навсегда запомнилось",
+      "synonyms_sr": [
+        "ostalo mi je u sećanju",
+        "nisam mogao da zaboravim",
+        "duboko sam zapamtio"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, figurativno; urezati se (svrš.) u sećanje",
+      "examples": [
+        {
+          "serbian_latin": "Tada sam prvi put video i more, što mi se urezalo u sećanje",
+          "russian": "Тогда я впервые увидел и море — это врезалось мне в память.",
+          "source": "Danas / BBC News na srpskom, 2022",
+          "url": "https://www.danas.rs/bbc-news-serbian/oluja-srbija-i-hrvatska-27-godina-kasnije-mladi-koji-su-odlucili-da-se-vrate-i-krenu-od-nule-2/"
+        },
+        {
+          "serbian_latin": "Taj razgovor mi se zauvek urezao u sećanje.",
+          "russian": "Тот разговор навсегда врезался мне в память.",
+          "source": ""
+        }
+      ],
+      "note": "Типичная конструкция nešto se nekome urezalo u sećanje: местоимение mi, ti, mu стоит в дательном падеже. Глагол urezati se означает ярко и прочно запечатлеться, часто о первом впечатлении или сильном переживании. Употребляется и urezati se u pamćenje.",
+      "keyword": "urezalo mi se u sećanje"
+    },
+    {
       "headword_latin": "Uroditi plodom",
       "type": "izraz",
       "definition_ru": "принести плоды; дать результат",
@@ -52262,6 +52529,87 @@
       "keyword": "uroditi plodom"
     },
     {
+      "headword_latin": "Usijana glava",
+      "type": "frazeologizam",
+      "definition_ru": "горячая голова; вспыльчивый, импульсивный человек",
+      "synonyms_sr": [
+        "naprasit čovek",
+        "plah čovek",
+        "nagao čovek"
+      ],
+      "literal_ru": "раскалённая голова",
+      "register": "razg., ekspresivno, uglavnom neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Iako sam usijana glava",
+          "russian": "Хотя я человек вспыльчивый",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/sport/tenis/2857254/nadal-zasto-je-fonjini-kaznjen-tek-posle-tri-dana.html"
+        },
+        {
+          "serbian_latin": "On je usijana glava, ali ume da prizna grešku.",
+          "russian": "Он горячая голова, но умеет признавать ошибки.",
+          "source": ""
+        }
+      ],
+      "note": "Usijana буквально значит «раскалённая». В переносном значении это человек, который легко выходит из себя и действует сгоряча, а не просто умный или деятельный человек. В цитате теннисист так характеризует собственный темперамент.",
+      "keyword": "usijana glava"
+    },
+    {
+      "headword_latin": "Usluga za uslugu",
+      "type": "izraz",
+      "definition_ru": "услуга за услугу; ты мне — я тебе",
+      "synonyms_sr": [
+        "uzajamne usluge",
+        "tante za tante (razg.)",
+        "razmena usluga"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; načelo uzajamne koristi",
+      "examples": [
+        {
+          "serbian_latin": "postojanje mehanizma „usluga za uslugu“",
+          "russian": "существование механизма «услуга за услугу»",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/vesti/politika/da-li-se-praksa-namestanja-izbora-u-srbiji-preliva-na-region-uhvaceni-naprednjacki-kupci-glasova-protiv-dodika-u-rs/"
+        },
+        {
+          "serbian_latin": "Dogovorili smo se: usluga za uslugu, bez novca.",
+          "russian": "Мы договорились: услуга за услугу, без денег.",
+          "source": ""
+        }
+      ],
+      "note": "Может обозначать честную взаимопомощь, но в политическом и деловом контексте иногда намекает на обмен выгодами и зависимость сторон. В отличие от neutralnog uzajamna pomoć, формула подчёркивает именно встречное предоставление. Родственная разговорная реплика — tante za tante.",
+      "keyword": "usluga za uslugu"
+    },
+    {
+      "headword_latin": "Usponi i padovi",
+      "type": "kolokacija",
+      "definition_ru": "взлёты и падения; череда успехов и неудач",
+      "synonyms_sr": [
+        "uspehi i neuspesi",
+        "dobre i loše faze",
+        "promenljiva sreća"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, često u publicistici; usponi i padovi",
+      "examples": [
+        {
+          "serbian_latin": "Usponi i padovi deo su svakodnevnog života.",
+          "russian": "Взлёты и падения — часть повседневной жизни.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/tv/rts-digital/4934282/rts-lab-pandemija-pobede-i-porazi.html"
+        },
+        {
+          "serbian_latin": "U svakoj karijeri postoje usponi i padovi.",
+          "russian": "В любой карьере бывают взлёты и падения.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание обычно употребляется во множественном числе usponi i padovi — об изменениях удачи, состояния или карьеры. Исходный PDF указывал также единственное число uspon i pad; это самостоятельный грамматический вариант. Русский образ полностью совпадает.",
+      "keyword": "usponi i padovi"
+    },
+    {
       "headword_latin": "Ustati na levu nogu",
       "type": "frazeologizam",
       "definition_ru": "встать не с той ноги; с самого утра быть не в духе",
@@ -52288,6 +52636,33 @@
       "keyword": "ustati na levu nogu"
     },
     {
+      "headword_latin": "Ustati u cik zore",
+      "type": "frazeologizam",
+      "definition_ru": "встать ни свет ни заря; подняться спозаранку",
+      "synonyms_sr": [
+        "ustati veoma rano",
+        "ustati pre svitanja",
+        "poraniti"
+      ],
+      "literal_ru": "",
+      "register": "razg., slikovito; u cik zore sa ustati/krenuti/buditi se",
+      "examples": [
+        {
+          "serbian_latin": "predlažući da se Parižani bude u cik zore, kako bi uštedeli na svećama.",
+          "russian": "предлагая парижанам просыпаться ни свет ни заря, чтобы экономить на свечах.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/magazin/nauka/2654018/letnje-racunanje-vremena.html"
+        },
+        {
+          "serbian_latin": "Moramo da ustanemo u cik zore da bismo stigli na prvi voz.",
+          "russian": "Нам придётся подняться ни свет ни заря, чтобы успеть на первый поезд.",
+          "source": ""
+        }
+      ],
+      "note": "U cik zore — «на самой заре, очень рано»; обычно сочетается с ustati, krenuti, probuditi se или buditi se. В источнике употреблён вариант buditi se u cik zore, а не глагол ustati. Выражение звучит выразительнее нейтрального veoma rano.",
+      "keyword": "ustati u cik zore"
+    },
+    {
       "headword_latin": "Uškopiti",
       "type": "glagol",
       "definition_ru": "кастрировать; оскопить; перен. лишить силы, самостоятельности",
@@ -52312,6 +52687,33 @@
       ],
       "note": "Нормальное прямое значение — «кастрировать», подтверждаемое сербскими словарными источниками. Переносное uškopljen встречается о системе, искусстве, СМИ и т. п. в смысле «обезвреженный, лишённый силы», но звучит резко.",
       "keyword": "uškopiti"
+    },
+    {
+      "headword_latin": "Uterati kome strah u kosti",
+      "type": "frazeologizam",
+      "definition_ru": "нагнать страху; вселить в кого-то ужас",
+      "synonyms_sr": [
+        "zastrašiti nekoga",
+        "uliti nekome strah",
+        "prestraviti nekoga"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; uterati nekome (dativ) strah u kosti",
+      "examples": [
+        {
+          "serbian_latin": "odabrao je reči kojima će umiriti Izraelce i uterati strah u kosti neprijateljima.",
+          "russian": "он подобрал слова, чтобы успокоить израильтян и вселить страх во врагов.",
+          "source": "Danas / BBC News na srpskom, 2025",
+          "url": "https://www.danas.rs/bbc-news-serbian/izrael-je-optuzen-za-najteze-zlocine-a-kakav-je-odgovor-drugih-zemalja-analiza-bbc-urednika/"
+        },
+        {
+          "serbian_latin": "Njegove pretnje uterale su strah u kosti komšijama.",
+          "russian": "Его угрозы нагнали страху на соседей.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивое управление — uterati strah u kosti nekome, где лицо выражено дательным падежом: neprijateljima, deci, komšijama. В словарном заголовке kome обозначает место этого дополнения. Сербский образ буквально связывает страх с костями; естественный русский перевод — «нагнать страху».",
+      "keyword": "uterati kome strah u kosti"
     },
     {
       "headword_latin": "Uterati strah u kosti",
@@ -52395,6 +52797,60 @@
       "keyword": "utoliko gore"
     },
     {
+      "headword_latin": "Utonuti u misli",
+      "type": "frazeologizam",
+      "definition_ru": "погрузиться в мысли; глубоко задуматься",
+      "synonyms_sr": [
+        "duboko se zamisliti",
+        "zadubiti se u misli",
+        "odlutati mislima"
+      ],
+      "literal_ru": "",
+      "register": "knjiž.-neutralno, figurativno; utonuti (svrš.) u misli",
+      "examples": [
+        {
+          "serbian_latin": "Za belim drvenim stolom, nalakćen i utonuo u misli – Pašić.",
+          "russian": "За белым деревянным столом, облокотившись и погрузившись в мысли, сидел Пашич.",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/vesti/drustvo/ogist-bop-od-nisa-do-krfa/"
+        },
+        {
+          "serbian_latin": "Utonuo je u misli i nije čuo pitanje.",
+          "russian": "Он погрузился в свои мысли и не услышал вопроса.",
+          "source": ""
+        }
+      ],
+      "note": "Utonuti — совершенный вид, буквально «погрузиться, утонуть», но utonuti u misli описывает глубокую задумчивость, а не физическое утопление. В опубликованном тексте оборот относится к историческому лицу; глагольная форма utonuo дана в мужском роде. Для словарной формы выбран инфинитив.",
+      "keyword": "utonuti u misli"
+    },
+    {
+      "headword_latin": "Uvek ista pesma!",
+      "type": "replika",
+      "definition_ru": "опять та же песня!; опять одно и то же!",
+      "synonyms_sr": [
+        "opet ista priča",
+        "stalno se ponavlja isto",
+        "ništa novo"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno, neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Vojska, crkva, Dodik: Pred sastanak o Kosovu uvek ista pesma",
+          "russian": "Армия, церковь, Додик: перед встречей по Косово опять всё по старой схеме.",
+          "source": "Nova.rs, 2020",
+          "url": "https://nova.rs/vesti/politika/vojska-crkva-dodik-pred-sastanak-o-kosovu-uvek-ista-pesma/"
+        },
+        {
+          "serbian_latin": "Opet kasniš i izmišljaš izgovore — uvek ista pesma!",
+          "russian": "Опять опаздываешь и придумываешь оправдания — снова та же песня!",
+          "source": ""
+        }
+      ],
+      "note": "Здесь pesma — не музыкальное произведение, а повторяющийся сценарий или уже надоевшие объяснения. Реплика обычно выражает раздражение или скепсис. Часто встречается вариант Opet ista pesma.",
+      "keyword": "uvek ista pesma"
+    },
+    {
       "headword_latin": "Uvek može bolje",
       "type": "izreka",
       "definition_ru": "всегда можно лучше; совершенству нет предела",
@@ -52419,6 +52875,60 @@
       ],
       "note": "Очень частая формула при оценке собственной работы или результата. Может звучать конструктивно, но в устах перфекциониста — как невозможность признать результат достаточно хорошим.",
       "keyword": "uvek može bolje"
+    },
+    {
+      "headword_latin": "Uvijati u oblande što",
+      "type": "frazeologizam",
+      "definition_ru": "смягчать неприятную правду; облекать резкие слова в красивые выражения",
+      "synonyms_sr": [
+        "ulepšavati istinu",
+        "ublažavati reči",
+        "govoriti uvijeno"
+      ],
+      "literal_ru": "",
+      "register": "razg., figurativno; uvijati nešto (akuzativ) u oblande",
+      "examples": [
+        {
+          "serbian_latin": "I to više ne treba uvijati u oblande.",
+          "russian": "И больше не нужно это завуалировать красивыми словами.",
+          "source": "RTS / Radio Beograd, 2020",
+          "url": "https://www.rts.rs/lat/vesti/region/3956860/gojko-perovic-joanikije-crna-gora-crkva.html"
+        },
+        {
+          "serbian_latin": "Nemoj da uvijaš kritiku u oblande, reci otvoreno šta misliš.",
+          "russian": "Не надо заворачивать критику в красивую обёртку, скажи прямо, что думаешь.",
+          "source": ""
+        }
+      ],
+      "note": "Oblande — вафельные листы, из которых делают сладости; здесь это образ приятной оболочки для неприятного содержания. Типично uvijati nešto u oblande и противопоставление govoriti otvoreno. Выражение часто появляется с отрицанием: bez uvijanja u oblande.",
+      "keyword": "uvijati u oblande što"
+    },
+    {
+      "headword_latin": "Uvući rogove",
+      "type": "frazeologizam",
+      "definition_ru": "поумерить гонор; поджать хвост; стать сговорчивее",
+      "synonyms_sr": [
+        "spustiti loptu",
+        "smanjiti zahteve",
+        "odustati od tvrdoglavosti"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; često neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Nije lako uvući rogove i progutati toliku količinu ega",
+          "russian": "Нелегко поумерить гонор и усмирить такое огромное самолюбие.",
+          "source": "Danas (komentar čitaoca), 2021",
+          "url": "https://www.danas.rs/vesti/politika/djilas-u-evopi-i-dalje-vlada-pristup-vazno-da-diktator-slusa/komentari/"
+        },
+        {
+          "serbian_latin": "Posle poraza morao je da uvuče rogove i pristane na kompromis.",
+          "russian": "После поражения ему пришлось поумерить гонор и согласиться на компромисс.",
+          "source": ""
+        }
+      ],
+      "note": "Образ отсылает к животному, которое убирает рога и перестаёт идти напролом. Может означать и снижение претензий, и отказ от агрессивного поведения. Реальный пример взят из читательского комментария и отражает разговорный регистр.",
+      "keyword": "uvući rogove"
     },
     {
       "headword_latin": "Uvući se pod kožu nekome",
@@ -52527,6 +53037,33 @@
       ],
       "note": "Сербский образ практически совпадает с русским «потрясти основы». Усилитель same temelje — «сами основы» — очень характерен для публицистики. Глагол uzdrmati не обязательно означает уничтожить систему: скорее серьёзно поколебать её устойчивость.",
       "keyword": "uzdrmati temelje"
+    },
+    {
+      "headword_latin": "Uzeli su me na zub",
+      "type": "frazeologizam",
+      "definition_ru": "на меня взъелись; меня невзлюбили и постоянно придираются",
+      "synonyms_sr": [
+        "okomiti se na nekoga",
+        "uzeti nekoga na nišan (blisko)",
+        "stalno se kačiti za nekoga"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; uzeti nekoga (akuzativ) na zub",
+      "examples": [
+        {
+          "serbian_latin": "Uzeli su me na zub i misle da mogu da rade šta god hoće, ali ja se ne dam",
+          "russian": "Они на меня взъелись и думают, что могут делать что хотят, но я не сдаюсь.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/drustvo/stanovnik-pakovraca-blokirao-radove-na-izgradnji-autoputa-trazi-isplatu-naknade-za-oduzetu-imovinu/"
+        },
+        {
+          "serbian_latin": "Šef me je uzeo na zub i stalno nalazi zamerke.",
+          "russian": "Начальник на меня взъелся и постоянно придирается.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивое uzeti nekoga na zub подразумевает целенаправленное негативное отношение и повторяющиеся придирки. В предложении объект стоит в винительном падеже: uzeli su me/ga/je na zub. В цитате говорящий так описывает отношение к себе — это его оценка ситуации.",
+      "keyword": "uzeli su me na zub"
     },
     {
       "headword_latin": "uzeti / preuzeti stvar u svoje ruke",
