@@ -4026,6 +4026,33 @@
       "keyword": "brz kao vetar"
     },
     {
+      "headword_latin": "Budi Bog s nama!",
+      "type": "uzvik",
+      "definition_ru": "господи помилуй!; ну и дела!; что же это творится!",
+      "synonyms_sr": [
+        "Bože sačuvaj!",
+        "svašta!",
+        "Bože moj!"
+      ],
+      "literal_ru": "",
+      "register": "razg., uzvik čuđenja, zgražavanja ili zaprepašćenja",
+      "examples": [
+        {
+          "serbian_latin": "I na sve strane neke kvantne šerpe, kvantna ćebad, džezve, jastuci… budi bog s nama, gde smo mi to došle!",
+          "russian": "А кругом какие-то квантовые кастрюли, одеяла, кофейники, подушки… Господи, куда же мы попали!",
+          "source": "Radio Beograd 1 / RTS, 2025",
+          "url": "https://rts.rs/lat/radio/radio-beograd-1/5774541/kvantna-prezentacija.html"
+        },
+        {
+          "serbian_latin": "Budi Bog s nama, kakve su to cene!",
+          "russian": "Господи, что же это за цены!",
+          "source": ""
+        }
+      ],
+      "note": "Это не буквальное пожелание, чтобы Бог присутствовал рядом, а эмоциональное междометие: удивление, недоумение, иногда негодование. Формулу можно услышать и без религиозного контекста. Она стала также названием раннего белградского кинопроекта 1924 года, о котором рассказывал RTS.",
+      "keyword": "budi bog s nama"
+    },
+    {
       "headword_latin": "Bulazniti kao da se najeo bunike",
       "type": "frazeologizam",
       "definition_ru": "нести околесицу; бредить; говорить как будто белены объелся",
@@ -6456,32 +6483,30 @@
     },
     {
       "headword_latin": "Dno je dobilo svoj podrum",
-      "type": "meme / metaforični izraz",
-      "definition_ru": "пробито очередное дно; ситуация оказалась ещё хуже того уровня, который уже казался пределом",
+      "type": "izraz",
+      "definition_ru": "ниже падать уже некуда, но стало ещё хуже; пробито очередное дно",
       "synonyms_sr": [
-        "probijeno je dno",
-        "novo dno",
-        "može i gore",
-        "palo se još niže"
+        "dotaknuti novo dno",
+        "pasti još niže",
+        "nema dna"
       ],
-      "literal_ru": "у дна появился собственный подвал",
-      "register": "savremeno, memno, ironično-sarkastično",
+      "literal_ru": "дно обзавелось собственным подвалом",
+      "register": "razg., iron., izrazito neodobr.; hiperbola",
       "examples": [
         {
           "serbian_latin": "Dno je dobilo svoj podrum.",
-          "russian": "У дна появился собственный подвал — пробито новое дно.",
+          "russian": "Дно пробито — и под ним обнаружилось ещё одно.",
           "source": "Nova.rs, 2024",
           "url": "https://nova.rs/zabava/showbiz/jelena-karleusa-napala-teu-tairovic/"
         },
         {
-          "serbian_latin": "Dno je dobilo svoj podrum.",
-          "russian": "Дно получило подвал — ниже уже, казалось бы, некуда.",
-          "source": "Magazin Novosti, 2024",
-          "url": "https://www.magazin.novosti.rs/sr/tv-novosti/tv-zvezde/vest/lazne-suze-jeftina-patetika-jelena-karleusa-nikad-ostrije-oplela-po-tei-tairovic-dno-je-dobilo-svoj-podrum/1554754"
+          "serbian_latin": "Mislio sam da gore ne može, ali dno je dobilo svoj podrum.",
+          "russian": "Я думал, хуже уже некуда, но оказалось, что можно опуститься ещё ниже.",
+          "source": ""
         }
       ],
-      "note": "Современная гиперболическая интернет-формула. В отличие от просто dno, она подчёркивает повторное ухудшение: казалось, что хуже уже нельзя, но оказалось, что можно.",
-      "keyword": "dno; podrum"
+      "note": "Это усиленная ироническая вариация образа «достичь дна»: под самым низом обнаруживается ещё один этаж. Выражение особенно подходит для возмущённой оценки поведения, а не для буквального описания неудач. В найденной публикации Nova.rs это слова участницы публичного конфликта, а не редакционная характеристика.",
+      "keyword": "dno podrum"
     },
     {
       "headword_latin": "Do bola",
@@ -6541,6 +6566,34 @@
       ],
       "note": "В сочетании gas do daske русский эквивалент — «газ в пол». Но do daske давно работает шире как усилитель максимальной степени: pojačati do daske, živeti do daske. Поэтому одного русского перевода нет: «до упора», «на полную», «на всю катушку». Точное происхождение расширенного употребления лучше не выводить только из современного автомобильного образа.",
       "keyword": "do daske"
+    },
+    {
+      "headword_latin": "Do jaja",
+      "type": "sleng",
+      "definition_ru": "классно; офигенно; очень круто",
+      "synonyms_sr": [
+        "vrh (sleng)",
+        "strava (sleng)",
+        "super",
+        "odlično"
+      ],
+      "literal_ru": "до яиц",
+      "register": "sleng, vulgarno poreklo, danas često pojačivač pozitivne ocene; nije za formalan govor",
+      "examples": [
+        {
+          "serbian_latin": "A ako ne pređe? Do jaja.",
+          "russian": "А если не пройдёт? Вот это будет класс!",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kolumna/marko-vidojkovic/moj-predizborni-rolerkouster/"
+        },
+        {
+          "serbian_latin": "Bilo je do jaja na koncertu!",
+          "russian": "На концерте было офигенно!",
+          "source": ""
+        }
+      ],
+      "note": "Хотя буквальная основа грубоватая, выражение в молодёжной разговорной речи служит обычной усиленной положительной оценкой. В зависимости от ситуации может звучать и иронически. Не путать с сочетаниями, где jaja означает настоящие яйца, и не употреблять в профессиональной переписке.",
+      "keyword": "do jaja"
     },
     {
       "headword_latin": "Do poslednjeg daha",
@@ -13787,6 +13840,31 @@
       "keyword": "izbaciti iz takta"
     },
     {
+      "headword_latin": "Izbirač naiđe na otirač",
+      "type": "poslovica",
+      "definition_ru": "слишком долго выбирал — остался с худшим; привередничал и прогадал",
+      "synonyms_sr": [
+        "ko hoće veće, izgubi iz vreće (delimično)",
+        "previše biranja škodi"
+      ],
+      "literal_ru": "привереда натыкается на половик",
+      "register": "poslovica, trad., šalj.-podrugljivo; naročito o izboru partnera",
+      "examples": [
+        {
+          "serbian_latin": "Toliko je birala i odbijala udvarače, pa joj sad govore: izbirač naiđe na otirač.",
+          "russian": "Она столько выбирала и отвергала женихов, что теперь ей говорят: довыбиралась.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne moraš da prihvatiš prvi posao, ali nemoj ni da biraš unedogled — izbirač naiđe na otirač.",
+          "russian": "Не обязательно соглашаться на первую работу, но и бесконечно перебирать не стоит: можно остаться у разбитого корыта.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь izbirač — тот, кто придирчиво выбирает, а otirač — половик у двери; рифма превращает совет в насмешку. Традиционно пословицу особенно часто адресовали женщинам при выборе мужа, поэтому сегодня она может звучать старомодно и сексистски. Формула зафиксирована в учебниках сербского как иностранного и в лингвистическом исследовании Университета Нови-Сада; современные газетные цитаты не обнаружены.",
+      "keyword": "izbirač otirač"
+    },
+    {
       "headword_latin": "Izbiti / izbijati nekome adute iz ruku",
       "type": "frazeologizam",
       "definition_ru": "Выбить у кого-либо козыри: лишить убедительных аргументов, выгодной позиции или средства давления. Устранить то преимущество, на которое другой человек рассчитывал в споре или соперничестве.",
@@ -14921,6 +14999,32 @@
       "keyword": "kad je bal nek je maskenbal"
     },
     {
+      "headword_latin": "Kad je džabe, i sirće je slatko",
+      "type": "poslovica",
+      "definition_ru": "на халяву и уксус сладкий; дарёному коню в зубы не смотрят",
+      "synonyms_sr": [
+        "sve je dobro kad je besplatno",
+        "poklonu se u zube ne gleda (delimično)"
+      ],
+      "literal_ru": "когда бесплатно, даже уксус сладкий",
+      "register": "poslovica, razg., ironično; varijanta: Kad je za džabe, i sirće je slatko",
+      "examples": [
+        {
+          "serbian_latin": "Kad je džabe i sirće je slatko!",
+          "russian": "На халяву и уксус сладкий!",
+          "source": "Radio Beograd 1 / RTS, 2022",
+          "url": "https://rts.rs/lat/radio/radio-beograd-1/4918591/humoristicka-emisija.html"
+        },
+        {
+          "serbian_latin": "Uzeli su i ono što im ne treba — kad je džabe, i sirće je slatko.",
+          "russian": "Набрали даже ненужного: на халяву и уксус сладкий.",
+          "source": ""
+        }
+      ],
+      "note": "Слово džabe означает «даром, бесплатно», но также «напрасно» в иных конструкциях: džabe si dolazio — «зря приходил». Здесь смысл только о бесплатном приобретении. Пословица не столько хвалит щедрость, сколько иронизирует над готовностью людей брать что угодно, лишь бы даром.",
+      "keyword": "džabe sirće slatko"
+    },
+    {
       "headword_latin": "Kad mačke nema, miševi kolo vode",
       "type": "poslovica",
       "definition_ru": "кот из дома — мыши в пляс; без начальства все распоясались",
@@ -15444,6 +15548,33 @@
       ],
       "note": "Часто входит в конструкцию zanimati / tangirati / trebati nekome kao lanjski sneg. Русский эквивалент буквально совпадает.",
       "keyword": "lanjski sneg"
+    },
+    {
+      "headword_latin": "Kao luda Nasta",
+      "type": "frazeologizam",
+      "definition_ru": "как ненормальный; как угорелый; бестолково и суетливо",
+      "synonyms_sr": [
+        "kao bez glave",
+        "kao sumanut",
+        "kao lud"
+      ],
+      "literal_ru": "",
+      "register": "razg., podsmešljivo; čest i oblik kao ludi Nasta",
+      "examples": [
+        {
+          "serbian_latin": "Šta se smeješ kao luda Nasta?",
+          "russian": "Чего смеёшься как ненормальная?",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/zivot/da-li-ste-znali-da-je-luda-nasta-bila-istorijska-licnost-iz-imucne-beogradske-porodice/"
+        },
+        {
+          "serbian_latin": "Jurca po gradu kao luda Nasta, a ništa ne završava.",
+          "russian": "Носится по городу как угорелый, а ничего не успевает.",
+          "source": ""
+        }
+      ],
+      "note": "Живая разговорная форма kao luda Nasta относится к странному, бестолковому или чрезмерно оживлённому поведению. Существует предание о белградце Анастасе по прозвищу Наста, оставшемся в городе после событий 1813 года, но происхождение оборота достоверно не установлено. Не стоит объявлять распространённый женский вариант ошибкой только на основании этого предания: встречаются оба рода.",
+      "keyword": "luda nasta"
     },
     {
       "headword_latin": "kao muva bez glave",
@@ -16002,6 +16133,33 @@
       "keyword": "bes"
     },
     {
+      "headword_latin": "Kliknuti s nekim",
+      "type": "kolokacija",
+      "definition_ru": "сразу найти общий язык; почувствовать взаимную симпатию; сойтись характерами",
+      "synonyms_sr": [
+        "naći zajednički jezik",
+        "odmah se razumeti",
+        "poklopiti se (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg., savremeno; kliknuti s nekim, sa nekim; svršeni vid",
+      "examples": [
+        {
+          "serbian_latin": "Naprosto se razumete ili drugim rečima, „kliknuli ste“.",
+          "russian": "Вы просто понимаете друг друга — иначе говоря, сразу нашли общий язык.",
+          "source": "BBC na srpskom / Danas, 2024",
+          "url": "https://www.danas.rs/bbc-news-serbian/psihologija-zasto-se-desava-da-neznanci-kliknu/"
+        },
+        {
+          "serbian_latin": "Odmah smo kliknuli i pričali celo veče.",
+          "russian": "Мы сразу нашли общий язык и проговорили весь вечер.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол kliknuti в буквальном смысле означает «щёлкнуть, кликнуть», но в общении описывает мгновенное ощущение взаимопонимания. Не обязательно речь о романтическом влечении: так могут сказать о дружбе и совместной работе. Управление: kliknuti s nekim, а не kliknuti nekoga.",
+      "keyword": "kliknuti s nekim"
+    },
+    {
       "headword_latin": "Klin se klinom izbija",
       "type": "poslovica",
       "definition_ru": "клин клином вышибают; лечить подобное подобным; бороться с чем-то тем же средством",
@@ -16160,6 +16318,32 @@
       ],
       "note": "Формула обычно произносится победителем или сторонним наблюдателем и потому легко приобретает снисходительный оттенок: «ну, проиграли — теперь сердитесь». Она не означает настоящего «права» на любое поведение после поражения. В русском точной столь же устойчивой пословицы нет.",
       "keyword": "ko gubi"
+    },
+    {
+      "headword_latin": "Ko hoće veće, izgubi iz vreće",
+      "type": "poslovica",
+      "definition_ru": "за большим погонишься — малое потеряешь; от добра добра не ищут",
+      "synonyms_sr": [
+        "ko mnogo traži, može sve da izgubi",
+        "bolje vrabac u ruci nego golub na grani (delimično)"
+      ],
+      "literal_ru": "кто большего хочет, теряет даже из мешка",
+      "register": "poslovica, šalj.-poučno; upozorenje protiv pohlepe",
+      "examples": [
+        {
+          "serbian_latin": "Ko hoće veće izgubi iz vreće? Budite zadovoljni sa onim što imate...",
+          "russian": "За большим погонишься — малое потеряешь. Цените то, что у вас уже есть.",
+          "source": "Prva televizija, 2020",
+          "url": "https://www.prva.rs/show-biz/vas_komentar.php?nav_id=2008533"
+        },
+        {
+          "serbian_latin": "Odbio je dobru ponudu i ostao bez ičega — ko hoće veće, izgubi iz vreće.",
+          "russian": "Он отверг хорошее предложение и остался ни с чем: за большим погонишься — малое потеряешь.",
+          "source": ""
+        }
+      ],
+      "note": "Рифма veće — vreće («большее — мешок») помогает запомнить пословицу. Это не запрет стремиться к лучшему, а предупреждение о жадности и неоправданном риске потерять уже имеющееся. В русском наиболее близка пословица «за двумя зайцами погонишься — ни одного не поймаешь», хотя сербская подчёркивает именно потерю наличного.",
+      "keyword": "veće vreće"
     },
     {
       "headword_latin": "Ko ne plati na mostu, platiće na ćupriji",
@@ -17329,6 +17513,32 @@
       ],
       "note": "Образ крайне узкого отверстия подчёркивает минимальный запас успеха: результат достигнут буквально едва-едва. Частая конструкция: provući se / proći kroz iglene uši.",
       "keyword": "iglene uši; jedva; za dlaku"
+    },
+    {
+      "headword_latin": "Krpež i trpež kuću drže",
+      "type": "poslovica",
+      "definition_ru": "бережливость и терпение сохраняют дом; на хозяйство нужны экономия и выдержка",
+      "synonyms_sr": [
+        "štednja čuva kuću",
+        "strpljenje i štednja održavaju domaćinstvo"
+      ],
+      "literal_ru": "штопанье и терпенье дом держат",
+      "register": "poslovica, trad.; često o domaćinstvu i štednji",
+      "examples": [
+        {
+          "serbian_latin": "„Krpež i trpež kuću drže“ misao je koja je kroz život vodila Rajku Radaković.",
+          "russian": "«Штопанье и терпенье дом держат» — этим принципом всю жизнь руководствовалась Райка Радакович.",
+          "source": "Politika, 2015",
+          "url": "https://www.politika.rs/sr/clanak/320942/Pedeseto-izvodenje-Gospodice"
+        },
+        {
+          "serbian_latin": "Nisu imali mnogo novca, ali krpež i trpež kuću drže.",
+          "russian": "Денег у них было немного, но бережливость и терпение помогают держать хозяйство.",
+          "source": ""
+        }
+      ],
+      "note": "Krpež восходит к krpiti — «латать, штопать», а trpež к trpeti — «терпеть». Это старинная формула домашней бережливости: вещи чинят вместо покупки новых, трудности переносят терпеливо. В статье Politika пословица связана с героиней романа Иво Андрича «Gospođica», для которой экономия стала жизненной одержимостью.",
+      "keyword": "krpež trpež"
     },
     {
       "headword_latin": "Kružiti / obilaziti kao kiša oko Kragujevca",
@@ -18509,6 +18719,60 @@
       ],
       "note": "Выражение входит в сербскую зоонимную фразеологию; его мотивацию исследователи связывают с территориальностью и привязанностью собаки, хотя происхождение образа не вполне прозрачно.",
       "keyword": "ljubomoran; pas"
+    },
+    {
+      "headword_latin": "Ma ko mi kaže!",
+      "type": "replika",
+      "definition_ru": "кто бы говорил!; чья бы корова мычала!",
+      "synonyms_sr": [
+        "ko bi to rekao! (iron.)",
+        "ti ćeš da mi pričaš! (iron.)",
+        "pogledaj prvo sebe!"
+      ],
+      "literal_ru": "а кто мне это говорит?!",
+      "register": "razg., iron., prekorno; odgovor osobi koja sama ima istu manu",
+      "examples": [
+        {
+          "serbian_latin": "Ma ko mi kaže… Neko ko je zaslužio svojim zlodelima da bude u najmanju ruku u zatvoru...",
+          "russian": "Кто бы говорил! Человек, которому за его дела самое место в тюрьме...",
+          "source": "Danas, komentar čitaoca, 2026",
+          "url": "https://www.danas.rs/vesti/politika/kurti-putin-zloupotrebljava-srbiju-u-svom-sporu-sa-eu-i-nato/komentari/"
+        },
+        {
+          "serbian_latin": "Kažeš da stalno kasnim? Ma ko mi kaže!",
+          "russian": "Ты говоришь, что я вечно опаздываю? Кто бы говорил!",
+          "source": ""
+        }
+      ],
+      "note": "Реплика обращает упрёк обратно к обвинителю: он сам делает то, в чём упрекает другого. Mi здесь — дательный падеж от ja, а не притяжательное местоимение. Очень важна насмешливая интонация; нейтральный вопрос Ko mi kaže? в другом контексте может буквально означать «кто мне говорит?».",
+      "keyword": "ma ko mi kaže"
+    },
+    {
+      "headword_latin": "Ma, važi!",
+      "type": "replika",
+      "definition_ru": "ага, как же!; ну да, конечно! (недоверчиво или саркастически)",
+      "synonyms_sr": [
+        "malo sutra!",
+        "ma nemoj!",
+        "kako da ne! (iron.)"
+      ],
+      "literal_ru": "",
+      "register": "razg., iron.; razlikovati od neutralnog Važi! = dogovoreno",
+      "examples": [
+        {
+          "serbian_latin": "Ma, važi.",
+          "russian": "Ага, как же!",
+          "source": "Blic, 2011; naslov",
+          "url": "https://www.blic.rs/vesti/politika/ma-vazi/cymzcds"
+        },
+        {
+          "serbian_latin": "Kaže da će sve završiti za pet minuta. — Ma, važi!",
+          "russian": "Говорит, за пять минут всё закончит. — Ага, конечно!",
+          "source": ""
+        }
+      ],
+      "note": "Без ma ответ Važi! обычно означает «договорились, хорошо». С ma и саркастической интонацией смысл может перевернуться: говорящий не верит сказанному. Это важная ловушка для русскоязычного; в письменной переписке без интонации контекст особенно важен.",
+      "keyword": "ma važi"
     },
     {
       "headword_latin": "maca ti je pojela jezik",
@@ -21269,33 +21533,31 @@
     },
     {
       "headword_latin": "Navaliti kao smrt na babu",
-      "type": "frazeologizam / poređenje",
-      "definition_ru": "назойливо и упорно пристать; не отцепляться, несмотря на отказ",
+      "type": "frazeologizam",
+      "definition_ru": "пристать как банный лист; наседать; не давать покоя",
       "synonyms_sr": [
-        "navaliti",
-        "biti dosadan",
-        "ne odustajati",
-        "gnjaviti",
-        "pritiskati nekoga"
+        "navaliti na nekoga",
+        "dosađivati nekome",
+        "ne skidati se nekome s vrata",
+        "spopasti nekoga"
       ],
-      "literal_ru": "навалиться как смерть на старуху",
-      "register": "razgovorno, šaljivo-grubo",
+      "literal_ru": "насесть, словно смерть на старуху",
+      "register": "razg., slikovito, šalj.-neodobr.; navaliti na nekoga kao smrt na babu",
       "examples": [
         {
-          "serbian_latin": "Šta si navalila k'o smrt na babu...",
-          "russian": "Что ты пристала как банный лист...",
-          "source": "Vukajlija, 2009",
-          "url": "https://vukajlija.com/navalio-la-k-o-smrt-na-babu/63161"
+          "serbian_latin": "Vesna je navalila na mene kao smrt na babu.",
+          "russian": "Весна ко мне пристала как банный лист.",
+          "source": "Grand Online, 2022",
+          "url": "https://grand.rs/zvezde-granda/svadja-voditeljke-i-bosanca-alarmirala-srbiju-navalila-je-na-mene-kao-smrt-na-babu/"
         },
         {
-          "serbian_latin": "Šta si navalio ko smrt na babu?",
-          "russian": "Что ты так привязался и не отстаёшь?",
-          "source": "Vukajlija, 2011",
-          "url": "https://vukajlija.com/navalio-ko-smrt-na-babu/520364"
+          "serbian_latin": "Prodavac je navalio na mene kao smrt na babu, jedva sam otišao.",
+          "russian": "Продавец ко мне так привязался, что я еле ушёл.",
+          "source": ""
         }
       ],
-      "note": "Устойчивое грубовато-комическое сравнение. Главное значение — чрезмерная настойчивость, которая уже раздражает окружающих.",
-      "keyword": "smrt na babu"
+      "note": "Образ подчёркивает настойчивое и нежелательное давление: человек всё пристаёт и никак не отстаёт. Сравнение известно в сербской разговорной речи и может употребляться о навязчивых просьбах, споре или чрезмерном внимании. Baba здесь создаёт фольклорный комизм, а не указывает на возраст того, к кому пристают. По-русски обычно лучше «пристать как банный лист» или «насесть».",
+      "keyword": "navaliti smrt baba"
     },
     {
       "headword_latin": "Navoditi / terati vodu na svoju vodenicu",
@@ -21691,31 +21953,29 @@
     },
     {
       "headword_latin": "Ne dam na sebe",
-      "type": "razgovorni izraz",
-      "definition_ru": "я себя в обиду не дам; не позволю собой помыкать, унижать меня или нарушать мои границы",
+      "type": "izraz",
+      "definition_ru": "себя в обиду не дам; не позволю помыкать собой; буду отстаивать свою позицию",
       "synonyms_sr": [
         "branim se",
-        "ne dam da me gaze",
-        "znam da se zauzmem za sebe",
-        "čuvam svoje dostojanstvo"
+        "ne dozvoljavam da me gaze",
+        "zauzimam se za sebe"
       ],
-      "literal_ru": "не дам на себя",
-      "register": "razgovorno, odlučno",
+      "literal_ru": "",
+      "register": "razg., ekspresivno; ne dati na sebe, ne dam na njega / nju",
       "examples": [
         {
-          "serbian_latin": "Dao sam sebe, ali ne dam na sebe.",
-          "russian": "Я отдавал себя делу, но в обиду себя не дам.",
-          "source": "Danas, 2007",
-          "url": "https://www.danas.rs/sport/nisam-marioneta/"
+          "serbian_latin": "Ne dam na sebe, na stav, mišljenje.",
+          "russian": "Я не даю себя в обиду, отстаиваю свою позицию и своё мнение.",
+          "source": "Danas, 2015",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/izdali-smo-gradjane-i-ideologiju/"
         },
         {
-          "serbian_latin": "Videli su da ne dam na sebe.",
-          "russian": "Они увидели, что я себя в обиду не дам.",
-          "source": "Blic, 2026",
-          "url": "https://www.blic.rs/zabava/lepa-brena-ovo-nije-mogla-da-trpi-potukli-smo-se-grebala-sam-ga-po-licu/5d2tdfs"
+          "serbian_latin": "Mogu da saslušam kritiku, ali ne dam na sebe.",
+          "russian": "Критику я выслушать могу, но помыкать собой не позволю.",
+          "source": ""
         }
       ],
-      "note": "Часто позитивно о способности отстаивать себя, но в некоторых контекстах может подразумевать задиристость или чрезмерную резкость.",
+      "note": "Конструкция ne dati na nekoga / nešto означает защищать человека, позицию или ценность от нападок: Ne dam na njega — «не позволю его обижать». В Ne dam na sebe местоимение se-be стоит после na; русское «не дам на себя» дословно здесь не работает. Отстаивание границ не обязательно означает агрессию.",
       "keyword": "ne dam na sebe"
     },
     {
@@ -23002,6 +23262,33 @@
       ],
       "note": "Motika — мотыга, традиционное сельскохозяйственное орудие. Образ буквально связывает хлеб с тяжёлой обработкой земли, но сегодня пословица относится к любой работе. Русский эквивалент с рыбкой совпадает по функции, но использует совершенно другой образ.",
       "keyword": "hleb; motika"
+    },
+    {
+      "headword_latin": "Nema labavo!",
+      "type": "replika",
+      "definition_ru": "без поблажек!; расслабляться некогда!; никаких послаблений!",
+      "synonyms_sr": [
+        "nema opuštanja",
+        "nema popuštanja",
+        "nema zezanja (razg.)"
+      ],
+      "literal_ru": "никакого расслабона",
+      "register": "razg., ekspresivno; često bodrenje ili naglašavanje discipline",
+      "examples": [
+        {
+          "serbian_latin": "Nema labavo bako!",
+          "russian": "Никаких поблажек, бабуля!",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/kultura/scena/intervju-kalikamo-pisem-jer-me-muci-taj-vrlo-novi-svet-oko-nas/"
+        },
+        {
+          "serbian_latin": "Ove nedelje treniramo svaki dan. Nema labavo!",
+          "russian": "На этой неделе тренируемся ежедневно. Никаких поблажек!",
+          "source": ""
+        }
+      ],
+      "note": "Labavo означает «слабо натянутый, свободный, непрочный», а в разговорной речи — «нестрогий, расслабленный». Поэтому nema labavo — требование собраться, работать или действовать без скидок. Это не обязательно угроза: формула бывает весёлым девизом или спортивным подбадриванием. Не путать с neutralnim nema problema.",
+      "keyword": "nema labavo"
     },
     {
       "headword_latin": "Nema leba od nečega / toga",
@@ -25653,28 +25940,29 @@
     {
       "headword_latin": "Oće kaki, neće kaki",
       "type": "replika",
-      "definition_ru": "то хочет, то не хочет; ни да ни нет; никак не решится",
+      "definition_ru": "то хочет, то не хочет; никак не определится; ни да ни нет",
       "synonyms_sr": [
-        "ne zna šta hoće",
-        "koleba se",
-        "čas hoće, čas neće"
+        "čas hoće, čas neće",
+        "predomišlja se",
+        "ne može da se odluči"
       ],
-      "literal_ru": "то хочет какать, то не хочет",
-      "register": "razg., grubo-šalj.; namerno nestandardno oće; dečja reč kaki",
+      "literal_ru": "",
+      "register": "razg., podrugljivo, infantilizujuće; oće je namerno razgovorno umesto hoće",
       "examples": [
         {
-          "serbian_latin": "Te oće na terasu, te oće unutra. Oće kaki, neće kaki.",
-          "russian": "То на террасу хочет, то внутрь. То хочет, то не хочет — никак не определится.",
-          "source": "NIN, 2023"
+          "serbian_latin": "Oće kaki, neće kaki.",
+          "russian": "То хочу, то не хочу — никак не решу.",
+          "source": "NIN, 2023; pravopis normalizovan",
+          "url": "https://www.nin.rs/arhiva/vesti/1288/zaludni-marsohod"
         },
         {
-          "serbian_latin": "Odluči se više, oće kaki, neće kaki.",
-          "russian": "Определись уже: то да, то нет.",
+          "serbian_latin": "Već treći put menja odluku — oće kaki, neće kaki.",
+          "russian": "Уже в третий раз меняет решение: то ему надо, то не надо.",
           "source": ""
         }
       ],
-      "note": "Формула намеренно сниженная: oće — разговорное стяжение от hoće, kaki — детское слово. Смысл не физиологический, а насмешка над нерешительностью и метаниями.",
-      "keyword": "kaki"
+      "note": "Формула имитирует детскую речь о походе на горшок, поэтому высмеивает взрослого за нерешительность. Oće — просторечное стяжение от hoće, сохраняемое именно ради комического эффекта; в нейтральном письме нужно hoće. Встречается и написание без диакритик в комментариях, но нормативное представление звуков — oće, neće.",
+      "keyword": "oće kaki neće kaki"
     },
     {
       "headword_latin": "Od A do Š",
@@ -38476,32 +38764,30 @@
     },
     {
       "headword_latin": "Slomi nogu!",
-      "type": "razgovorna formula",
-      "definition_ru": "ни пуха ни пера!; пожелание удачи перед экзаменом, выступлением или важным делом",
+      "type": "replika",
+      "definition_ru": "ни пуха ни пера!; удачи! (суеверное пожелание)",
       "synonyms_sr": [
-        "srećno",
-        "mnogo sreće",
-        "drž' se",
-        "nek je sa srećom"
+        "srećno!",
+        "držim ti palčeve",
+        "nek ti je sa srećom"
       ],
       "literal_ru": "сломай ногу!",
-      "register": "razgovorno, šaljivo; калька английского break a leg, заметно новее обычного srećno",
+      "register": "razg., šalj., naročito pred nastup, ispit ili važan događaj",
       "examples": [
         {
-          "serbian_latin": "Borrelia, slomi nogu i javi šta si uradila.",
-          "russian": "Боррелия, ни пуха ни пера, потом расскажи, как всё прошло.",
-          "source": "Ana.rs forum, pristupljeno 2026",
-          "url": "https://www.ana.rs/forum/index.php?topic=1615.6675"
+          "serbian_latin": "Umesto toga se kaže: „Slomi nogu!“",
+          "russian": "Вместо этого говорят: «Ни пуха ни пера!»",
+          "source": "Kerefeke, 2025",
+          "url": "https://www.kerefeke.org.rs/glumacka-sujeverja-ne-reci-srecno-i-nikad-ne-zvizdi-na-sceni/"
         },
         {
-          "serbian_latin": "Slomi nogu!",
-          "russian": "Ни пуха ни пера!",
-          "source": "Ana.rs forum, pristupljeno 2026",
-          "url": "https://www.ana.rs/forum/index.php?topic=158380.7965"
+          "serbian_latin": "Večeras ti je premijera? Slomi nogu!",
+          "russian": "Сегодня у тебя премьера? Ни пуха ни пера!",
+          "source": ""
         }
       ],
-      "note": "Функционально соответствует русскому 'ни пуха ни пера': вместо прямого пожелания успеха произносится нарочито плохое пожелание. Специальной ответной формулы вроде русского 'к чёрту!' обычно нет - отвечают hvala.",
-      "keyword": "noga; sreća"
+      "note": "Форма похожа на проклятие, но на деле это пожелание удачи, особенно перед выступлением. Выражение известно и в Сербии, но связано с международной театральной традицией, в частности с английским break a leg. Точное происхождение формулы спорно; не нужно объяснять его одной красивой легендой как установленный факт. Для универсального нейтрального пожелания лучше Srećno!",
+      "keyword": "slomi nogu"
     },
     {
       "headword_latin": "Slomiti nekome srce",
@@ -51231,29 +51517,30 @@
     },
     {
       "headword_latin": "U vrh glave",
-      "type": "frazeologizam",
-      "definition_ru": "самое большее; максимум; от силы",
+      "type": "izraz",
+      "definition_ru": "от силы; самое большее; максимум",
       "synonyms_sr": [
         "najviše",
-        "maksimum",
-        "najviše što može"
+        "maksimalno",
+        "ne više od"
       ],
-      "literal_ru": "до макушки",
-      "register": "razg.; obično ispred količine, roka ili cene",
+      "literal_ru": "до макушки головы",
+      "register": "razg.; najčešće uz broj, količinu ili trajanje; često odvojeno zapetama",
       "examples": [
         {
-          "serbian_latin": "Treba nam dva sata, u vrh glave tri.",
-          "russian": "Нам нужно два часа, максимум три.",
-          "source": ""
+          "serbian_latin": "Od 55 do 80 hiljada, u vrh glave do 90 hiljada dinara.",
+          "russian": "От 55 до 80 тысяч, самое большее — до 90 тысяч динаров.",
+          "source": "N1, 2022",
+          "url": "https://n1info.rs/vesti/svedocenje-prezivelog-rudara-za-n1/"
         },
         {
-          "serbian_latin": "Ima ih dvadeset, u vrh glave dvadeset pet.",
-          "russian": "Их двадцать, от силы двадцать пять.",
+          "serbian_latin": "Treba nam, u vrh glave, dvadeset minuta.",
+          "russian": "Нам понадобится от силы двадцать минут.",
           "source": ""
         }
       ],
-      "note": "Корпусные исследования подтверждают значение «максимум, самое большее». Русскому не следует понимать vrh glave буквально: вся конструкция функционирует как наречный предел количества.",
-      "keyword": "vrh glave"
+      "note": "Это цельный наречный оборот, а не сообщение о голове или росте. Обычно он ограничивает оценку сверху: u vrh glave tri dana, u vrh glave pet ljudi. Не путать с popeti se nekome na vrh glave — «надоесть кому-то до чёртиков»: там другое значение и другая грамматическая конструкция.",
+      "keyword": "u vrh glave"
     },
     {
       "headword_latin": "U zdravlje da nosiš",
@@ -51280,6 +51567,33 @@
       ],
       "note": "Очень естественная сербская формула при обновке. Встречается и шутливое расширение u zdravlje da pocepaš, pa na bolje da zameniš — пожелание долго носить вещь и со временем заменить её на ещё лучшую.",
       "keyword": "u zdravlje"
+    },
+    {
+      "headword_latin": "U zdravlje da nosiš!",
+      "type": "replika",
+      "definition_ru": "носи на здоровье!; носи с удовольствием!",
+      "synonyms_sr": [
+        "nek te dobro služi",
+        "da te dugo služi",
+        "nosio / nosila u zdravlju"
+      ],
+      "literal_ru": "чтобы носил на здоровье",
+      "register": "razg., dobronamerno; česta formula pri kupovini ili poklonu odeće i obuće",
+      "examples": [
+        {
+          "serbian_latin": "Pri svakoj kupovini dobiješ ljubazan blagoslov „U zdravlje da nosiš“.",
+          "russian": "После каждой покупки слышишь добрые слова: «Носи на здоровье».",
+          "source": "Vice Srbija, 2016",
+          "url": "https://www.vice.com/sr/article/sta-sve-mozes-da-kupis-na-buvljaku-za-hiljadu-dinara/"
+        },
+        {
+          "serbian_latin": "Baš ti lepo stoji nova jakna. U zdravlje da nosiš!",
+          "russian": "Тебе очень идёт новая куртка. Носи на здоровье!",
+          "source": ""
+        }
+      ],
+      "note": "Формула адресована тому, кто приобрёл или получил одежду, обувь или другую вещь для личного пользования. U zdravlje здесь не тост, а доброжелательное пожелание при пользовании покупкой. Обычно в ответ говорят Hvala!; продавец тоже может так попрощаться после покупки.",
+      "keyword": "u zdravlje da nosiš"
     },
     {
       "headword_latin": "U zdravom telu zdrav duh",
@@ -54124,28 +54438,29 @@
     {
       "headword_latin": "Uzmi, kume, da se ne baci",
       "type": "replika",
-      "definition_ru": "бери, а то пропадёт; доедай, не выбрасывать же",
+      "definition_ru": "бери, не пропадать же добру!; доедай, а то выбрасывать жалко",
       "synonyms_sr": [
-        "uzmi da ne propadne",
-        "pojedi da se ne baci",
-        "šteta da se baci"
+        "uzmi još malo",
+        "pojedi da ne propadne",
+        "šteta je baciti"
       ],
-      "literal_ru": "бери, кум, чтобы не выбрасывать",
-      "register": "razg., šalj.; trpezarijsko nagovaranje da se pojedu ostaci",
+      "literal_ru": "возьми, кум, чтобы не выбрасывать",
+      "register": "razg., šalj.; pri nuđenju ostataka hrane, često ironično",
       "examples": [
         {
-          "serbian_latin": "To se kaže: „Uzmi, kume, da se ne baci“.",
-          "russian": "Говорят: «Бери, кум, а то выбрасывать жалко».",
-          "source": "Vokabular.org, 2016"
+          "serbian_latin": "To se kaže „Uzmi kume da se ne baci“.",
+          "russian": "Вот как это называют: «Бери, кум, не пропадать же добру».",
+          "source": "Vokabular.org, forum, 2016",
+          "url": "https://www.vokabular.org/forum/index.php?topic=427.msg71773"
         },
         {
-          "serbian_latin": "Ima još sarme, uzmi, kume, da se ne baci.",
-          "russian": "Сарма ещё осталась, бери, не пропадать же добру.",
+          "serbian_latin": "Ostalo je još malo torte. Uzmi, kume, da se ne baci!",
+          "russian": "Осталось немного торта. Доедай, не выбрасывать же!",
           "source": ""
         }
       ],
-      "note": "Kume здесь не обязательно обращение к настоящему куму — это часть шутливой формулы гостеприимного давления на гостя. В живом обсуждении выражение употребляется именно о хозяйке, которая подсовывает остатки еды, чтобы ничего не выбрасывать.",
-      "keyword": "kume"
+      "note": "В сербском гостеприимстве это узнаваемая шутка: угощают добавкой, но мотивируют не заботой о госте, а тем, что остатки жалко выбрасывать. Kume — звательный падеж от kum; обращение может быть условным, без настоящего кумовства. Реплика иногда иронизирует над привычкой уговаривать гостей доесть всё.",
+      "keyword": "uzmi kume"
     },
     {
       "headword_latin": "Vaditi kestenje iz vatre",
@@ -57012,23 +57327,29 @@
     {
       "headword_latin": "Znati za jadac",
       "type": "frazeologizam",
-      "definition_ru": "знать, в чём подвох; быть начеку; меня не проведёшь",
+      "definition_ru": "знать подвох; быть настороже; понимать, в чём хитрость",
       "synonyms_sr": [
-        "biti na oprezu",
+        "prokljuviti trik",
         "znati u čemu je caka",
         "ne dati se prevariti"
       ],
-      "literal_ru": "",
-      "register": "razg.; često znam ja za jadac, on zna za jadac",
+      "literal_ru": "знать про вилочковую косточку",
+      "register": "razg.; obično znam ja za jadac, zna on za jadac",
       "examples": [
         {
-          "serbian_latin": "Svako ko je više puta konkurisao za posao zna za jadac.",
-          "russian": "Тот, кто не раз устраивался на работу, уже знает, где тут подвох.",
-          "source": "Danas, 2010"
+          "serbian_latin": "Ove sezone, veli Dušan, zna za jadac.",
+          "russian": "В этом сезоне, говорит Душан, он уже знает, в чём хитрость.",
+          "source": "Politika, 2009",
+          "url": "https://www.politika.rs/sr/clanak/99049/bazen-u-dvoristu-kuce-hit-leta"
+        },
+        {
+          "serbian_latin": "Ne pokušavaj da me prevariš, znam ja za jadac.",
+          "russian": "Не пытайся меня обмануть — я знаю этот трюк.",
+          "source": ""
         }
       ],
-      "note": "Jadac — раздвоенная птичья косточка и одновременно название старой игры-спора: принимая что-либо от партнёра, нужно помнить и сказать Znam za jadac, иначе проигрываешь. Такое значение и связь с игрой подтверждаются сербским диалектным словарём. Отсюда переносное «я помню о ловушке, меня врасплох не возьмёшь».",
-      "keyword": "jadac"
+      "note": "Jadac — вилочковая косточка птицы, с которой связана старая игра на желание и попытка перехитрить партнёра. Отсюда знать за jadac — понимать уловку и не попасться. В Danas (2007) этому выражению даже посвящён текст о политическом употреблении и о привычке ломать куриную косточку после еды.",
+      "keyword": "znati za jadac"
     },
     {
       "headword_latin": "Zrno po zrno pogača, kamen po kamen palača",
