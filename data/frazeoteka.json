@@ -79,6 +79,33 @@
       "keyword": "Ako Bog da"
     },
     {
+      "headword_latin": "Ako hoćeš da nasmeješ Boga, ispričaj mu svoje planove",
+      "type": "izreka",
+      "definition_ru": "хочешь рассмешить Бога — расскажи ему о своих планах; человек предполагает, а Бог располагает",
+      "synonyms_sr": [
+        "čovek snuje, Bog određuje",
+        "nikad se ne zna",
+        "život je nepredvidiv"
+      ],
+      "literal_ru": "",
+      "register": "aforistički, često šaljivo ili rezignirano; varijanta: samo mu reci svoje planove",
+      "examples": [
+        {
+          "serbian_latin": "Stara poslovica glasi: „Ako hoćeš da nasmeješ Boga, samo mu ispričaj svoje planove!“",
+          "russian": "Старая поговорка гласит: «Хочешь рассмешить Бога — расскажи ему о своих планах!»",
+          "source": "MS platforma Srbija, 2023",
+          "url": "https://msplatforma.org.rs/brak-u-zagrljaju-bolesti/"
+        },
+        {
+          "serbian_latin": "Sve sam isplanirao, a onda se sve promenilo. Ako hoćeš da nasmeješ Boga, ispričaj mu svoje planove.",
+          "russian": "Я всё распланировал, а потом всё изменилось. Человек предполагает, а Бог располагает.",
+          "source": ""
+        }
+      ],
+      "note": "Формула употребляется и верующими, и нерелигиозными людьми, обычно когда планы неожиданно рушатся. Варианты ispričaj, reci и iznesi mu svoje planove равноправно встречаются в сербской речи. Авторство часто приписывают разным знаменитостям, но надёжно установленного первоначального автора у этой ходовой международной формулы нет.",
+      "keyword": "nasmejati Boga; planovi"
+    },
+    {
       "headword_latin": "Ako laže koza, ne laže rog",
       "type": "poslovica",
       "definition_ru": "факты не врут; доказательство налицо; против фактов не попрёшь",
@@ -845,6 +872,34 @@
       ],
       "note": "В пословице batina — палка, розга, а не абстрактное наказание. Она отражает старое представление о воспитательной пользе физического воздействия. Сегодня выражение нередко цитируют именно для критики подобных представлений. Русское «розга ум острит» близко по смыслу, но не передаёт религиозного образа.",
       "keyword": "batina iz raja"
+    },
+    {
+      "headword_latin": "Bečiti se",
+      "type": "glagol",
+      "definition_ru": "таращиться; пялиться; вылуплять глаза",
+      "synonyms_sr": [
+        "buljiti",
+        "blenuti (razg.)",
+        "razrogačiti oči",
+        "zabezeknuti se (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "razg., često neodobr.; bečiti se u nekoga / nešto; takođe bečiti oči",
+      "examples": [
+        {
+          "serbian_latin": "Šta se ti bečiš?",
+          "russian": "Чего ты вытаращился?",
+          "source": "Nova.rs, 2024",
+          "url": "https://nova.rs/vesti/hronika/sta-se-ti-becis-sapic-nastavlja-da-divlja-ovog-puta-u-je-sudnici-verbalno-napao-vidojkovicevog-advokata/"
+        },
+        {
+          "serbian_latin": "Nemoj da se bečiš u mene, nisam ništa uradio.",
+          "russian": "Не пялься на меня, я ничего не сделал.",
+          "source": ""
+        }
+      ],
+      "note": "Вопрос Šta se bečiš? звучит заметно резче нейтрального Šta gledaš? Он может означать и удивлённо вытаращенные глаза, и неприятное пристальное разглядывание. Невозвратная конструкция bečiti oči обозначает само действие «таращить глаза», а bečiti se — поведение человека.",
+      "keyword": "bečiti se"
     },
     {
       "headword_latin": "Bela kuga",
@@ -3311,6 +3366,34 @@
       "keyword": "bog i batina"
     },
     {
+      "headword_latin": "Bog je prvo sebi bradu stvorio",
+      "type": "poslovica",
+      "definition_ru": "своя рубашка ближе к телу; каждый прежде всего думает о себе",
+      "synonyms_sr": [
+        "svako prvo gleda sebe",
+        "svoja košulja je najbliža",
+        "prvo sebi, pa drugima"
+      ],
+      "literal_ru": "Бог сначала себе бороду создал",
+      "register": "poslovica, razg., ironično; varijante: Bog je prvo sebi stvorio bradu; Bog je prvo sebi pustio bradu",
+      "examples": [
+        {
+          "serbian_latin": "Uostalom, Bog je prvo sebi stvorio bradu.",
+          "russian": "В конце концов, своя рубашка ближе к телу.",
+          "source": "Vranje News, 2026",
+          "url": "https://www.vranjenews.rs/komentar/2026-09-15/bog-je-prvo-sebi-stvorio-bradu"
+        },
+        {
+          "serbian_latin": "Užasno je moderno reći: „Bog je prvo sebi pustio bradu“.",
+          "russian": "Стало невероятно модно говорить: «Своя рубашка ближе к телу».",
+          "source": "021.rs, 2021",
+          "url": "https://www.021.rs/info/misljenja-i-intervjui/265739/tri-godine-bez-glogovca-cujes-li-nas-nebojsa"
+        }
+      ],
+      "note": "Пословицей оправдывают собственную выгоду или иронически обличают эгоизм. Варианты stvorio и pustio bradu встречаются в современных источниках; стяжение «сначала себе» важнее конкретного глагола. Религиозного тезиса о внешнем облике Бога эта бытовая формула не утверждает.",
+      "keyword": "Bog bradu; prvo sebi"
+    },
+    {
       "headword_latin": "Bog te mazo",
       "type": "uzvik",
       "definition_ru": "ёлки-палки!; вот это да!; чёрт возьми!",
@@ -3580,6 +3663,59 @@
       ],
       "note": "Сербское ikad буквально означает «когда-либо, когда-нибудь», поэтому буквальная конструкция — «лучше хоть когда-нибудь, чем никогда». По функции это точный эквивалент русского «лучше поздно, чем никогда», хотя слово kasno «поздно» в самой сербской пословице отсутствует. Формула широко употребляется от бытовой речи до политических комментариев и газетных заголовков.",
       "keyword": "bolje ikad nego nikad"
+    },
+    {
+      "headword_latin": "Bolje je pokliznuti nogom nego jezikom",
+      "type": "poslovica",
+      "definition_ru": "лучше оступиться ногой, чем языком; необдуманное слово может навредить сильнее ошибки",
+      "synonyms_sr": [
+        "pazi šta govoriš",
+        "meri reči",
+        "jezik kosti nema, ali kosti lomi"
+      ],
+      "literal_ru": "лучше поскользнуться ногой, чем языком",
+      "register": "poslovica, tradicionalno, poučno",
+      "examples": [
+        {
+          "serbian_latin": "Bolje je pokliznuti nogom nego jezikom.",
+          "russian": "Лучше оступиться, чем сказать лишнее.",
+          "source": "Mala škola, bez datuma",
+          "url": "https://www.mala-skola.com/narodne-poslovice-po-azbucnom-redu/"
+        },
+        {
+          "serbian_latin": "Pre nego što ga uvrediš, seti se: bolje je pokliznuti nogom nego jezikom.",
+          "russian": "Прежде чем его обидеть, вспомни: неосторожное слово бывает опаснее ошибки.",
+          "source": ""
+        }
+      ],
+      "note": "Pokliznuti — «поскользнуться, оступиться»; здесь глагол переносится на govoriti. Пословица предупреждает прежде всего о последствиях необдуманных слов, а не требует постоянного молчания. Русские «слово не воробей» и «язык мой — враг мой» передают сходную мысль, но не противопоставление ноги и языка.",
+      "keyword": "pokliznuti nogom; jezikom"
+    },
+    {
+      "headword_latin": "Bolje je s mudrim plakati nego s ludim pevati",
+      "type": "poslovica",
+      "definition_ru": "лучше горевать с умным, чем веселиться с дураком; хорошее общество важнее веселья",
+      "synonyms_sr": [
+        "bolje s mudrim orati nego s ludim vino piti",
+        "birati pametno društvo"
+      ],
+      "literal_ru": "лучше плакать с мудрым, чем петь с глупцом",
+      "register": "poslovica, tradicionalno, poučno",
+      "examples": [
+        {
+          "serbian_latin": "Bolje je sa mudrim i plakati, nego s ludim pevati.",
+          "russian": "Лучше плакать с умным, чем петь с дураком.",
+          "source": "Srbiju volimo, 2026",
+          "url": "https://srbijuvolimo.rs/moja-srbija/item/9477-april-mesec-velikih-praznika-i-srpskih-%C5%A1ala.html"
+        },
+        {
+          "serbian_latin": "Ne biraj društvo samo zato što je zabavno: bolje je s mudrim plakati nego s ludim pevati.",
+          "russian": "Не выбирай компанию только потому, что с ней весело: лучше горевать с умным, чем веселиться с дураком.",
+          "source": ""
+        }
+      ],
+      "note": "В этой пословице важнее качество человека рядом, чем настроение совместного занятия. Mudri и ludi употреблены субстантивированно («мудрый» и «глупый»), а противопоставление plakati — pevati делает совет запоминающимся. Это традиционная, слегка книжная формула, а не типичная повседневная реплика молодёжи.",
+      "keyword": "mudrim plakati; ludim pevati"
     },
     {
       "headword_latin": "Bolje mršav mir nego debela parnica",
@@ -3890,6 +4026,34 @@
       "keyword": "brz kao vetar"
     },
     {
+      "headword_latin": "Bulazniti kao da se najeo bunike",
+      "type": "frazeologizam",
+      "definition_ru": "нести околесицу; бредить; говорить как будто белены объелся",
+      "synonyms_sr": [
+        "buncati",
+        "pričati nepovezano",
+        "lupetati (razg.)",
+        "trabunjati (razg.)"
+      ],
+      "literal_ru": "болтать так, словно белены объелся",
+      "register": "razg., neodobr.; često samostalno poređenje: kao da se najeo bunike",
+      "examples": [
+        {
+          "serbian_latin": "I danas se može čuti izraz „kao da se bunike najeo“.",
+          "russian": "И сегодня можно услышать выражение «как будто белены объелся».",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/magazin/nauka/4757728/linija-izmedju-leka-i-otrova-moze-biti-nevidljiva.html"
+        },
+        {
+          "serbian_latin": "Šta to bulazniš? Kao da si se najeo bunike!",
+          "russian": "Что ты несёшь? Словно белены объелся!",
+          "source": ""
+        }
+      ],
+      "note": "Bunika — ядовитая белена, растение с веществами, способными вызывать спутанность сознания и галлюцинации. RTS приводит этот оборот именно в связи с историческими наблюдениями за действием растения; сербский этимологический словарь также фиксирует сравнение. Русское «белены объелся» совпадает по образу, но часто относится к странному поведению вообще; сербское выражение особенно естественно о бессвязной речи.",
+      "keyword": "bunika; najeo bunike"
+    },
+    {
       "headword_latin": "Bura u čaši vode",
       "type": "frazeologizam",
       "definition_ru": "буря в стакане воды; чрезмерно раздутый конфликт или шум вокруг незначительного повода",
@@ -3971,6 +4135,32 @@
       ],
       "note": "Drenovina — древесина кизила, известная твёрдостью. Если она ещё и сухая, выжать из неё что-либо невозможно. Поэтому оборот хорошо передаёт попытку получить дополнительные деньги, силы или результат из уже исчерпанного ресурса.",
       "keyword": "suva drenovina; cediti; iscrpljivanje"
+    },
+    {
+      "headword_latin": "Crkni-pukni",
+      "type": "izraz",
+      "definition_ru": "во что бы то ни стало; любой ценой; будь что будет",
+      "synonyms_sr": [
+        "po svaku cenu",
+        "kud puklo da puklo",
+        "šta bude da bude"
+      ],
+      "literal_ru": "хоть сдохни, хоть лопни",
+      "register": "razg., ekspresivno; ustaljeni par imperativa, često i bez crtice: crkni pukni",
+      "examples": [
+        {
+          "serbian_latin": "Crkni-pukni, moramo da završimo ovaj posao do petka.",
+          "russian": "Кровь из носу, но мы должны закончить эту работу к пятнице.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Rešio je da pobedi, crkni-pukni.",
+          "russian": "Он решил победить во что бы то ни стало.",
+          "source": ""
+        }
+      ],
+      "note": "Хотя crkni и pukni внешне выглядят как повеления «сдохни» и «лопни», в целом выражение служит наречным усилителем решимости. Оно может передавать позицию говорящего «любой ценой», а не пожелание зла собеседнику. Значение фиксируется в сербских толкованиях; надёжной современной газетной цитаты для именно этого употребления в этой подборке не найдено.",
+      "keyword": "crkni pukni"
     },
     {
       "headword_latin": "Crn kao gavran",
@@ -4313,6 +4503,33 @@
       ],
       "note": "Формула обычно появляется после ожидания или обещания, которое не сбылось. По-русски естественны «не тут-то было», «а вот фиг», «облом». Имя Milojko здесь часть рифмованной разговорной формулы.",
       "keyword": "cvrc Milojko"
+    },
+    {
+      "headword_latin": "Cvrc, Milojko!",
+      "type": "replika",
+      "definition_ru": "как бы не так!; не тут-то было!; вот тебе и весь результат!",
+      "synonyms_sr": [
+        "malo sutra",
+        "šipak (razg.)",
+        "nema ništa od toga"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj., iron.; uzvik razočaranja ili poricanja očekivanja",
+      "examples": [
+        {
+          "serbian_latin": "Organsku proizvodnju, npr., u tom slučaju možemo da ocenimo sa – cvrc! Milojko!",
+          "russian": "В таком случае от органического производства останется одно «ага, размечтались!».",
+          "source": "Danas, 2022",
+          "url": "https://www.danas.rs/kolumna/bozidar-andrejic/izopaceno-bratstvo/"
+        },
+        {
+          "serbian_latin": "Obećali su povišicu, a na kraju — cvrc, Milojko!",
+          "russian": "Обещали прибавку, а в итоге — как бы не так!",
+          "source": ""
+        }
+      ],
+      "note": "Cvrc — звукоподражательное междометие, выражающее насмешливое разочарование. Milojko здесь не имя реального адресата, а ритмическое шутливое добавление к реплике. Очень типично после несбывшегося обещания или чрезмерных ожиданий; дословный перевод «Милойко» ничего не даст русскому читателю.",
+      "keyword": "cvrc; milojko"
     },
     {
       "headword_latin": "Čalabrcnuti",
@@ -5166,6 +5383,32 @@
       "keyword": "da su babi muda"
     },
     {
+      "headword_latin": "Da znam gde ću pasti, seo bih",
+      "type": "poslovica",
+      "definition_ru": "знал бы, где упасть, соломки бы подстелил; заранее всех неприятностей не предугадаешь",
+      "synonyms_sr": [
+        "lako je biti pametan posle",
+        "niko ne zna šta ga čeka"
+      ],
+      "literal_ru": "если бы знал, где упаду, сел бы",
+      "register": "razg., poslovično; menja se po rodu: seo bih / sela bih",
+      "examples": [
+        {
+          "serbian_latin": "To je ono kada kažu: „Da znam gde ću pasti, ja bih sela“.",
+          "russian": "Как говорится: «Знала бы, где упаду, соломки бы подстелила».",
+          "source": "Blic, 2018",
+          "url": "https://www.blic.rs/vesti/drustvo/prva-ispovest-glumice-koju-je-ranio-hirurg-milimetri-su-me-delili-od-smrti-ali/h47v4h4"
+        },
+        {
+          "serbian_latin": "Sad je lako pričati šta je trebalo uraditi. Da znam gde ću pasti, seo bih.",
+          "russian": "Теперь легко рассуждать, как надо было поступить. Знал бы, где упаду, соломки бы подстелил.",
+          "source": ""
+        }
+      ],
+      "note": "Образ отличается от русского: серб предпочёл бы заранее сесть на опасном месте, русский — подстелить соломку. Важно согласовывать форму по роду говорящего: seo bih — мужчина, sela bih — женщина. Выражение обычно служит оправданием непредвиденной ошибки, а не призывом совсем отказаться от планирования.",
+      "keyword": "gde ću pasti; seo bih"
+    },
+    {
       "headword_latin": "Dajem glavu da...",
       "type": "frazeologizam",
       "definition_ru": "голову даю, что…; готов голову на отсечение дать; абсолютно уверен",
@@ -5779,6 +6022,33 @@
       ],
       "note": "Распространены сочетания dati, dobiti, imati и čekati zeleno svetlo. Выражение обычно обозначает официальное или неофициальное разрешение.",
       "keyword": "svetlo"
+    },
+    {
+      "headword_latin": "De si, kućo stara!",
+      "type": "replika",
+      "definition_ru": "о, кого я вижу!; сколько лет, сколько зим!; старина!",
+      "synonyms_sr": [
+        "gde si, stari druže!",
+        "gde si, legendo! (razg.)",
+        "sto godina se nismo videli"
+      ],
+      "literal_ru": "где ты, дом старый",
+      "register": "razg., prisno, šalj.; de je razgovorno od gde, kućo je vokativ",
+      "examples": [
+        {
+          "serbian_latin": "De si bre ti, kućo stara!",
+          "russian": "О, старина, кого я вижу!",
+          "source": "Forum Sveta kompjutera, 2007",
+          "url": "https://www.sk.rs/forum/archive/index.php/t-11559.html"
+        },
+        {
+          "serbian_latin": "De si, kućo stara! Nismo se videli godinama.",
+          "russian": "Сколько лет, сколько зим! Мы не виделись целую вечность.",
+          "source": ""
+        }
+      ],
+      "note": "Слово kuća здесь не обозначает здание: kućo stara — тёплое, шутливое обращение к старому знакомому. Разговорное de вместо gde особенно естественно в непринуждённой сербской речи. Так обращаются к человеку, с которым есть близость; незнакомцу или начальнику формула не подходит.",
+      "keyword": "kućo stara; de si"
     },
     {
       "headword_latin": "Debeo kao svinja",
@@ -7421,30 +7691,29 @@
     {
       "headword_latin": "Došli divlji da isteraju pitome",
       "type": "izreka",
-      "definition_ru": "пришлые или более агрессивные вытесняют тех, кто был здесь раньше и вёл себя мирно; чужие пришли и начали распоряжаться",
+      "definition_ru": "пришли чужаки и вытеснили своих; наглые вытеснили спокойных",
       "synonyms_sr": [
-        "došli novi pa isteruju stare",
-        "agresivniji potiskuju mirnije",
-        "došljaci preuzimaju mesto domaćih"
+        "novi potiskuju stare",
+        "nametnuli se došljaci",
+        "preoteti mesto domaćima"
       ],
-      "literal_ru": "пришли дикие, чтобы выгнать домашних",
-      "register": "narodno, razgovorno, ironično ili neodobravajuće",
+      "literal_ru": "пришли дикие, чтобы прогнать ручных",
+      "register": "razg.-publicistički, neodobr.; često i: došli divlji, oterali pitome",
       "examples": [
         {
-          "serbian_latin": "Došli divlji da isteraju pitome.",
-          "russian": "Пришли дикие и выгоняют мирных.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/kultura/ciji-su-filmski-susreti-nis-i-ko-ima-pravo-da-ih-bastini/"
+          "serbian_latin": "Nataša Narančić bila je u studiju kada su „došli divlji da isteraju pitome“.",
+          "russian": "Наташа Наранчич была в студии, когда пришедшие извне стали вытеснять тех, кто там работал.",
+          "source": "Cenzolovka, 2022",
+          "url": "https://www.cenzolovka.rs/pritisci-i-napadi/talasanje-srbije-dusana-masica-devetnaesto-poglavlje/"
         },
         {
-          "serbian_latin": "Ovo je situacija nekih divljih koji su oterali pitome.",
-          "russian": "Это ситуация, когда некие «дикие» вытеснили «мирных».",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/tuziteljka-bojana-savovic-o-studentima-zemunu-teskim-vremenima/"
+          "serbian_latin": "Stari zaposleni su otišli, a novi šef je doveo svoje ljude — došli divlji da isteraju pitome.",
+          "russian": "Старые сотрудники ушли, а новый начальник привёл своих: пришлые вытеснили прежних.",
+          "source": ""
         }
       ],
-      "note": "Употребляются варианты isterati и oterati pitome. Выражение часто используется в социальных и политических спорах, поэтому его оценочная окраска зависит от того, кого говорящий называет divlji и pitomi.",
-      "keyword": "divlji; pitomi"
+      "note": "Pitom здесь «ручной, мирный», divlji — «дикий, необузданный»; противопоставление оценивает не биологические свойства людей, а их поведение и притязания. Фразу используют, когда пришедшие позже вытесняют тех, кто давно занимал своё место. В спорах о приезжих она может звучать ксенофобно, поэтому важен контекст.",
+      "keyword": "došli divlji; pitome"
     },
     {
       "headword_latin": "Došlo je do teških reči",
@@ -8912,6 +9181,33 @@
       ],
       "note": "Выражение невозможно переводить одной формулой во всех ситуациях. Оно может передавать жалость («эх ты, бедолага»), укор («ну что же ты»), снисходительность или реакцию на явную глупость.",
       "keyword": "e moj ti"
+    },
+    {
+      "headword_latin": "Evo trčim!",
+      "type": "replika",
+      "definition_ru": "ага, уже бегу!; сейчас, разбежался! (иронический отказ)",
+      "synonyms_sr": [
+        "ma važi! (iron.)",
+        "samo što nisam! (iron.)",
+        "evo sve trčim!"
+      ],
+      "literal_ru": "вот, бегу",
+      "register": "razg., ironično; u izgovoru naglasak i intonacija razlikuju odbijanje od doslovne izjave",
+      "examples": [
+        {
+          "serbian_latin": "Evo trčim.",
+          "russian": "Ага, уже бегу!",
+          "source": "Ana.rs, forum, 2023",
+          "url": "https://www.ana.rs/forum/index.php?topic=327.1965"
+        },
+        {
+          "serbian_latin": "Hoćeš li da mu ponovo sve objašnjavaš? — Evo trčim!",
+          "russian": "Ты будешь ему всё объяснять ещё раз? — Ага, сейчас, разбежался!",
+          "source": ""
+        }
+      ],
+      "note": "Буквально это означает «вот я бегу», но обычно реплика подчёркивает, что говорящий вовсе не собирается спешить выполнять просьбу. Без интонации и контекста возможна буквальная трактовка, однако именно ирония делает формулу устойчивой. Вежливому отказу она не соответствует: может прозвучать резко.",
+      "keyword": "evo trčim"
     },
     {
       "headword_latin": "Fale samo od popa uši",
@@ -14139,6 +14435,33 @@
       "keyword": "javna tajna; prećutkivanje; opštepoznato; neformalno znanje"
     },
     {
+      "headword_latin": "Je l' igra bela mečka?",
+      "type": "replika",
+      "definition_ru": "чего уставился?; что, зрелище какое-то?; чего глазеешь?",
+      "synonyms_sr": [
+        "šta buljiš? (razg.)",
+        "šta bleneš? (razg.)",
+        "šta gledaš?"
+      ],
+      "literal_ru": "что, белый медведь выступает?",
+      "register": "razg., ekspresivno, podsmešljivo; pitanje upućeno onome ko uporno zuri",
+      "examples": [
+        {
+          "serbian_latin": "Zatim zagrakta: „Je l’ igra bela mečka?“",
+          "russian": "Затем она огрызнулась: «Чего уставился?»",
+          "source": "Politika, 2013",
+          "url": "https://www.politika.rs/sr/clanak/256393/fraze-i-izrazi-deo-kulturnog-nasleda"
+        },
+        {
+          "serbian_latin": "Šta ste se svi okupili? Je l' igra bela mečka?",
+          "russian": "Чего вы все собрались? У вас тут что, представление?",
+          "source": ""
+        }
+      ],
+      "note": "Не путать с обычным вопросом о животном: реплика адресована человеку, который смотрит слишком пристально или собрал толпу зевак. Образ восходит к необычному зрелищу, на которое все глазеют; детали происхождения именно этой формулы надёжно не установлены. Часто содержит упрёк за невежливое любопытство.",
+      "keyword": "bela mečka; igra"
+    },
+    {
       "headword_latin": "Jebe lud zbunjenog",
       "type": "sleng",
       "definition_ru": "полный дурдом; чёрт ногу сломит; никто не понимает, что происходит",
@@ -14467,6 +14790,33 @@
       "keyword": "jutro je pametnije"
     },
     {
+      "headword_latin": "Kad bandera olista",
+      "type": "izraz",
+      "definition_ru": "когда рак на горе свистнет; никогда; не дождёшься",
+      "synonyms_sr": [
+        "nikad",
+        "kad na vrbi rodi grožđe",
+        "malo sutra! (razg.)"
+      ],
+      "literal_ru": "когда столб покроется листьями",
+      "register": "razg., ironično; odgovor na obećanje ili malo verovatan ishod",
+      "examples": [
+        {
+          "serbian_latin": "Skupićete je kad bandera olista.",
+          "russian": "Соберёте вы её, когда рак на горе свистнет.",
+          "source": "Radar, komentar čitaoca, 2024",
+          "url": "https://radar.nova.rs/misljenja/protesti-protiv-rio-tinta-nenad-milosavljevic/komentari/"
+        },
+        {
+          "serbian_latin": "Kad će on vratiti dug? — Kad bandera olista!",
+          "russian": "Когда он отдаст долг? — Когда рак на горе свистнет!",
+          "source": ""
+        }
+      ],
+      "note": "Bandera — разговорное название уличного или электрического столба, а не флага (здесь русский легко ошибётся). Столб лишён листьев, поэтому условие заведомо невыполнимо. Фраза подходит для насмешливого ответа на пустые обещания; по функции близка более традиционному kad na vrbi rodi grožđe.",
+      "keyword": "bandera olista"
+    },
+    {
       "headword_latin": "Kad čeljad nisu besna, kuća nije tesna",
       "type": "poslovica",
       "definition_ru": "в тесноте, да не в обиде; если люди ладят, места всем хватит",
@@ -14516,6 +14866,33 @@
       ],
       "note": "Čeljad — собирательное существительное «домочадцы, люди в доме», грамматически множественное по согласованию: čeljad nisu besna. Besna здесь не обязательно «в ярости»: важнее отсутствие раздоров и взаимного недовольства. Русское «в тесноте, да не в обиде» передаёт культурный смысл почти идеально.",
       "keyword": "kad čeljad nisu besna ni kuća nije tesna"
+    },
+    {
+      "headword_latin": "Kad ja tamo, a ono međutim",
+      "type": "replika",
+      "definition_ru": "прихожу — а там неожиданность; вот так поворот!; всё обернулось совсем не так",
+      "synonyms_sr": [
+        "a kad tamo",
+        "kad ono",
+        "neočekivani obrt"
+      ],
+      "literal_ru": "прихожу туда, а там — однако",
+      "register": "razg., šalj., namerno apsurdna dosetka; često o iznenadnom preokretu",
+      "examples": [
+        {
+          "serbian_latin": "Znate onaj izraz „kad ja tamo a ono međutim“?",
+          "russian": "Знаете это выражение: «Прихожу — а там, значит, однако»?",
+          "source": "Telegraf.rs, 2025",
+          "url": "https://www.telegraf.rs/vesti/beograd/4096152-covek-samo-hteo-da-bude-solidaran-na-drumu-pa-izvakao-deblji-kraj-urnebesna-saga-poznatog-lazarevcanina"
+        },
+        {
+          "serbian_latin": "Pošao sam da pomognem, a na kraju sam ja ostao bez auta — kad ja tamo, a ono međutim!",
+          "russian": "Пошёл помогать, а в итоге сам остался без машины — вот так поворот!",
+          "source": ""
+        }
+      ],
+      "note": "Смешной эффект создаёт намеренно неправильное соединение a ono («а там оказалось») и međutim («однако, между тем»). Реплика не сообщает конкретного содержания неожиданности: её используют как готовую шутку о нелепом повороте событий. В официальном тексте такой оборот будет стилистически чужеродным, а в разговоре звучит узнаваемо.",
+      "keyword": "kad ja tamo a ono međutim"
     },
     {
       "headword_latin": "Kad je bal, nek je maskenbal",
@@ -18190,6 +18567,33 @@
       "keyword": "mačji kašalj"
     },
     {
+      "headword_latin": "Magareća klupa",
+      "type": "imenica",
+      "definition_ru": "парта для двоечников; позорная парта; место для наказанных учеников",
+      "synonyms_sr": [
+        "kaznena klupa",
+        "klupa za loše đake",
+        "poslednja klupa (delimično)"
+      ],
+      "literal_ru": "ослиная парта",
+      "register": "istorijski školski izraz; danas najčešće u prisećanjima i preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Magareća klupa, tabla, pero i mastilo, dnevnik iz 1882/3 godine...",
+          "russian": "Парта для провинившихся учеников, доска, перо и чернила, журнал за 1882/83 год...",
+          "source": "Danas, 2008",
+          "url": "https://www.danas.rs/vesti/beograd/istorija-srpskog-skolstva-od-prvog-bukvara-do-racunara/"
+        },
+        {
+          "serbian_latin": "Nekada su najlošije đake slali u magareću klupu.",
+          "russian": "Раньше самых слабых учеников сажали за позорную парту.",
+          "source": ""
+        }
+      ],
+      "note": "Раньше magareća klupa могла быть особой партой, куда усаживали наказанных, непослушных или плохо успевающих детей. Это не просто последняя парта класса: её смысл именно в публичном обозначении «плохого» ученика. Сегодня выражение чаще встречается при разговоре об истории школы, а переносно может означать унизительное положение.",
+      "keyword": "magareća klupa"
+    },
+    {
       "headword_latin": "Mahati nekome nečim pred nosom",
       "type": "frazeologizam",
       "definition_ru": "тыкать чем-то в лицо; демонстративно совать под нос; постоянно чем-то козырять",
@@ -18552,6 +18956,33 @@
       ],
       "note": "Mic вне этой и родственных разговорных конструкций почти не функционирует как обычное самостоятельное слово. Формула подчёркивает очень медленное, постепенное продвижение и может звучать как нейтрально, так и слегка нетерпеливо: napredujemo, ali mic po mic.",
       "keyword": "mic po mic"
+    },
+    {
+      "headword_latin": "Miki Maus fakultet",
+      "type": "sleng",
+      "definition_ru": "шарашкин вуз; несерьёзное учебное заведение; вуз с сомнительной репутацией",
+      "synonyms_sr": [
+        "sumnjiv fakultet",
+        "fakultet bez ugleda",
+        "neozbiljna obrazovna ustanova"
+      ],
+      "literal_ru": "факультет Микки-Мауса",
+      "register": "razg., sleng, izrazito neodobr.; naročito u internet diskusijama",
+      "examples": [
+        {
+          "serbian_latin": "Da li je neko primetio da ovaj Miki Maus fakultet ima i kurseve po promo cenama za 100e?",
+          "russian": "Кто-нибудь заметил, что у этого шарашкиного вуза ещё и курсы по акции за сто евро?",
+          "source": "Reddit, r/caosvima, 2026",
+          "url": "https://www.reddit.com/r/caosvima/comments/1tifman/fakultet/"
+        },
+        {
+          "serbian_latin": "Ne mora svaki privatni fakultet da bude Miki Maus fakultet.",
+          "russian": "Не каждый частный вуз — шарашкина контора.",
+          "source": ""
+        }
+      ],
+      "note": "Miki Maus здесь служит символом чего-то детского, игрушечного и несерьёзного; близкий образ есть в английском Mickey Mouse degree. Это оценочное, нередко несправедливое прозвище, а не юридический статус учреждения и тем более не обозначение любого частного вуза. В официальном обсуждении качества образования выражение неуместно.",
+      "keyword": "Miki Maus fakultet"
     },
     {
       "headword_latin": "Miran kao bubica",
@@ -42369,31 +42800,31 @@
     {
       "headword_latin": "Šćućuriti se",
       "type": "glagol",
-      "definition_ru": "сжаться, свернуться калачиком, притулиться; уютно или испуганно забиться в уголок",
+      "definition_ru": "съёжиться; свернуться клубочком; сжаться, примоститься в укромном месте",
       "synonyms_sr": [
         "skupiti se",
+        "sklupčati se",
         "zgrčiti se",
-        "pribiti se",
-        "sklupčati se"
+        "stisnuti se"
       ],
       "literal_ru": "",
-      "register": "razgovorno; može biti nežno, opisno ili označavati skupljanje od hladnoće/straha",
+      "register": "razg.-književno; svršeni vid; često o hladnoći, strahu, potrebi za zaklonom ili nežnosti",
       "examples": [
         {
           "serbian_latin": "Šćućurio se na stolici u sobi za posete.",
-          "russian": "Он сжался на стуле в комнате для свиданий.",
+          "russian": "Он съёжился на стуле в комнате для посетителей.",
           "source": "Danas, 2012",
           "url": "https://www.danas.rs/vesti/drustvo/od-oca-mi-je-ostao-samo-kljuc/"
         },
         {
-          "serbian_latin": "Mačak se šćućurio uz mene.",
-          "russian": "Кот прижался ко мне, свернувшись рядом.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/rts/dijaspora/vesti/2902612/najveci-posvecenik-naseg-doba.html"
+          "serbian_latin": "Šćućurio se među gledaocima.",
+          "russian": "Он примостился среди зрителей.",
+          "source": "Telegraf.rs, 2023",
+          "url": "https://www.telegraf.rs/vesti/beograd/3793540-kucu-cicka-trazi-ceo-zemun-i-nbg-od-altine-dosao-je-do-arene"
         }
       ],
-      "note": "Причастие šćućuren/šćućurena очень живое: šćućurena kuća, šćućureno dete. Слово может описывать и уют, и страх/холод.",
-      "keyword": "šćućuriti"
+      "note": "Глагол обозначает не только позу, но и стремление занять мало места или укрыться. Поэтому šćućuriti se может описывать испуганного ребёнка, замёрзшего человека или уютно свернувшегося питомца. Не всегда переводится русским «съёжиться»: иногда точнее «примоститься» или «свернуться калачиком».",
+      "keyword": "šćućuriti se"
     },
     {
       "headword_latin": "Šio mi / mu ga Đura",
@@ -56270,6 +56701,33 @@
       "keyword": "zini"
     },
     {
+      "headword_latin": "Zini da ti kažem!",
+      "type": "replika",
+      "definition_ru": "ага, сейчас расскажу!; много хочешь знать!; так я тебе и сказал!",
+      "synonyms_sr": [
+        "baš ću tebi da kažem! (iron.)",
+        "neću da ti kažem",
+        "malo sutra! (razg.)"
+      ],
+      "literal_ru": "разинь рот, чтобы я тебе сказал",
+      "register": "razg., ironično, neljubazno; uobičajeno kao podrugljiv odgovor na pitanje",
+      "examples": [
+        {
+          "serbian_latin": "Zini da ti kažem.",
+          "russian": "Ага, сейчас я тебе расскажу.",
+          "source": "Nova.rs / FoNet, 2025",
+          "url": "https://nova.rs/vesti/drustvo/zini-da-ti-kazem-roditelji-iz-jovine-gimnazije-objavili-profesionalno-obracanje-direktora-ponovo-vredjao-zaposlene/"
+        },
+        {
+          "serbian_latin": "Gde si sakrio poklon? — Zini da ti kažem!",
+          "russian": "Куда ты спрятал подарок? — Так я тебе и сказал!",
+          "source": ""
+        }
+      ],
+      "note": "Zini — повелительное наклонение от zinuti «разинуть рот». В обычной реплике это не просьба открыть рот, а насмешливый отказ раскрывать информацию. В детской игре ответ может звучать безобидно, но в рабочем или официальном разговоре — вызывающе и грубо.",
+      "keyword": "zini da ti kažem"
+    },
+    {
       "headword_latin": "Zlatna koka",
       "type": "frazeologizam",
       "definition_ru": "курица, несущая золотые яйца; золотая жила; источник стабильной прибыли",
@@ -56757,6 +57215,33 @@
       ],
       "note": "Смысл в намеренно бессмысленном адресате: водоканал заведомо не имеет отношения к твоей жалобе. Формула настолько узнаваема, что O radio назвал ею целый цикл передач.",
       "keyword": "vodovod"
+    },
+    {
+      "headword_latin": "Žali se upravi vodovoda!",
+      "type": "replika",
+      "definition_ru": "жалуйся куда хочешь; мне всё равно; твои жалобы здесь никого не волнуют",
+      "synonyms_sr": [
+        "žali se kome hoćeš",
+        "baš me briga",
+        "obrati se nekom drugom"
+      ],
+      "literal_ru": "жалуйся в управление водопровода",
+      "register": "razg., sarkastično, neodobr.; često počinje sa ma",
+      "examples": [
+        {
+          "serbian_latin": "Najčešće dobijam isti odgovor moje nerazumne okoline: ma žali se upravi vodovoda.",
+          "russian": "Чаще всего от окружающих я слышу один и тот же ответ: «Да жалуйся хоть в водоканал».",
+          "source": "O radio, 2020",
+          "url": "https://oradio.rs/sr/podcast/zali-se-upravi-vodovoda-na-birokratiju-2439.html"
+        },
+        {
+          "serbian_latin": "Nisu ti odobrili zahtev? Žali se upravi vodovoda!",
+          "russian": "Тебе отказали в заявлении? Ну и жалуйся куда хочешь!",
+          "source": ""
+        }
+      ],
+      "note": "Управление водопровода выбрано как заведомо неподходящая инстанция: жалобу туда не имеет смысла направлять. Реплика означает демонстративное нежелание помогать или выслушивать претензии. Она настолько узнаваема, что O radio использовало её как название целой серии передач о повседневных раздражителях.",
+      "keyword": "žali se upravi vodovoda"
     },
     {
       "headword_latin": "Žderonja",
