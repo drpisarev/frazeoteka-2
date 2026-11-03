@@ -53842,6 +53842,38 @@
       "keyword": "upalila mu se lampica"
     },
     {
+      "headword_latin": "Upalila se lampica",
+      "type": "frazeologizam",
+      "definition_ru": "осенило; загорелся тревожный сигнал; насторожиться",
+      "synonyms_sr": [
+        "sinuti nekome",
+        "shvatiti",
+        "posumnjati",
+        "upaliti alarm (preneseno)"
+      ],
+      "literal_ru": "загорелась лампочка",
+      "register": "razg.; upalila mi se lampica; pozitivno shvatanje ili znak upozorenja",
+      "examples": [
+        {
+          "serbian_latin": "Da se to dogodi, upalila bi mi se lampica.",
+          "russian": "Если бы это случилось, у меня бы загорелся тревожный сигнал.",
+          "source": "BBC na srpskom / Danas, 2022"
+        },
+        {
+          "serbian_latin": "Tek kad je pomenuo drugi račun, upalila mi se lampica.",
+          "russian": "Только когда он упомянул второй счёт, я заподозрил неладное.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Odjednom mu se upalila lampica i shvatio je rešenje.",
+          "russian": "Его вдруг осенило, и он понял решение.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот допускает два близких, но не тождественных значения: внезапно что-то понять («осенило») или заметить тревожный признак («насторожился»). Сербское *upalila mi se lampica* чаще требует перевода по ситуации. Кроме того, буквальное значение «загорелась лампочка» возможно в рассказе об автомобиле или приборе.",
+      "keyword": "upalila se lampica"
+    },
+    {
       "headword_latin": "Upaliti se lampica",
       "type": "frazeologizam",
       "definition_ru": "осенило; загорелся тревожный сигнал; насторожиться",
