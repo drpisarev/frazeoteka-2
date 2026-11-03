@@ -3968,6 +3968,57 @@
       "keyword": "brat bratu"
     },
     {
+      "headword_latin": "Brat je mio ma koje vere bio",
+      "type": "poslovica",
+      "definition_ru": "брат дорог, какой бы веры он ни был; человеческое родство выше конфессиональных различий",
+      "synonyms_sr": [
+        "bratstvo je iznad verskih razlika",
+        "čovek je čovek bez obzira na veru"
+      ],
+      "literal_ru": "брат мил, какой бы веры он ни был",
+      "register": "narodna poslovica, tradicionalno; često citatno",
+      "examples": [
+        {
+          "serbian_latin": "Brat je mio ma koje vere bio.",
+          "russian": "Брат дорог, какой бы веры он ни был.",
+          "source": "Srpske narodne poslovice, bez datuma"
+        },
+        {
+          "serbian_latin": "Ne pitam kojoj crkvi pripada — brat je mio ma koje vere bio.",
+          "russian": "Я не спрашиваю, к какой церкви он принадлежит: близкий человек остаётся близким независимо от веры.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот ma koje vere bio означает «какой бы веры он ни был»; ma усиливает уступительное значение, а не выражает раздражение, как в некоторых разговорных репликах. Пословица подчёркивает общность людей вопреки религиозным различиям. Это традиционная моральная формула, а не утверждение, что все конфессии одинаковы.",
+      "keyword": "brat; vera"
+    },
+    {
+      "headword_latin": "Brdo se s brdom ne može sastati, a živi se ljudi sastanu",
+      "type": "poslovica",
+      "definition_ru": "гора с горой не сходится, а человек с человеком сойдётся; ещё свидимся",
+      "synonyms_sr": [
+        "svet je mali",
+        "putevi će nam se opet ukrstiti",
+        "možda ćemo se opet sresti"
+      ],
+      "literal_ru": "гора с горой не встретится, а живые люди встретятся",
+      "register": "narodna poslovica, tradicionalno; od nade do prikrivene pretnje",
+      "examples": [
+        {
+          "serbian_latin": "Brdo se s brdom ne može sastati, a živi se ljudi sastanu.",
+          "russian": "Гора с горой не сходится, а человек с человеком сойдётся.",
+          "source": "Srpske narodne poslovice, bez datuma"
+        },
+        {
+          "serbian_latin": "Ko zna, možda se opet sretnemo. Brdo se s brdom ne može sastati, a živi se ljudi sastanu.",
+          "russian": "Кто знает, может, ещё встретимся. Мир тесен.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица может звучать тепло при расставании, но также угрожающе после ссоры: «Мы ещё встретимся». Характерная конструкция živi se ljudi sastanu означает, что пока люди живы, новая встреча возможна. Не путать с русским «гора с плеч»: образы никак не связаны.",
+      "keyword": "brdo; sastati se"
+    },
+    {
       "headword_latin": "Brigo moja, pređi na drugoga",
       "type": "izreka",
       "definition_ru": "свалить проблему на другого; спихнуть ответственность; «моя забота — теперь чужая»",
@@ -4719,6 +4770,32 @@
       ],
       "note": "Это традиционная рифмованная формула окончания детской сказки; čiča miča здесь самостоятельного современного значения практически не имеет — главное рифмованное созвучие с priča. Взрослая речь охотно переносит формулу на ситуации, которые хотят представить слишком просто завершёнными: «сделали это — и всё, вопрос закрыт». Поэтому в публицистике она часто звучит иронически. Русское продолжение «а кто слушал — молодец» является уже русской сказочной формулой и в сербское выражение не входит.",
       "keyword": "čiča miča gotova priča"
+    },
+    {
+      "headword_latin": "Čija sila, toga i pravda",
+      "type": "poslovica",
+      "definition_ru": "у кого сила, у того и право; кто сильнее, тот и прав",
+      "synonyms_sr": [
+        "jači tlači",
+        "pravo jačega",
+        "sila zakon menja (delimično)"
+      ],
+      "literal_ru": "чья сила, того и правда",
+      "register": "poslovica, neodobr.; o zameni pravde prinudom",
+      "examples": [
+        {
+          "serbian_latin": "Čija sila, toga i pravda.",
+          "russian": "Кто сильнее, тот и прав.",
+          "source": "Srpske narodne poslovice, bez datuma"
+        },
+        {
+          "serbian_latin": "U toj firmi ne odlučuju pravila, nego direktorova volja: čija sila, toga i pravda.",
+          "russian": "В этой фирме всё решают не правила, а воля директора: кто сильнее, тот и прав.",
+          "source": ""
+        }
+      ],
+      "note": "Pravda здесь означает не объективную справедливость, а то, что сильный объявляет справедливым. Пословица обычно констатирует несправедливое устройство отношений, а не обязательно одобряет его. Близкое Sila Boga ne moli подчёркивает непреодолимость силы, но не подмену правоты властью.",
+      "keyword": "sila; pravda"
     },
     {
       "headword_latin": "Čist kao suza",
@@ -5966,30 +6043,28 @@
     {
       "headword_latin": "Dati vatru tabanima",
       "type": "frazeologizam",
-      "definition_ru": "дать дёру; броситься бежать; быстро скрыться",
+      "definition_ru": "дать дёру; пуститься наутёк; сделать ноги",
       "synonyms_sr": [
-        "pobeći",
         "dati petama vetra",
-        "zbrisati",
-        "uteći"
+        "pobeći glavom bez obzira",
+        "zbrisati (razg.)",
+        "klisnuti (razg.)"
       ],
-      "literal_ru": "дать огонь пяткам",
-      "register": "razgovorno, ekspresivno; danas ređe, ali prepoznatljivo",
+      "literal_ru": "дать огня подошвам",
+      "register": "razg., slikovito; danas pomalo starinski",
       "examples": [
         {
-          "serbian_latin": "Dati vatru tabanima je fraza koja znači pobeći, uteći, klisnuti.",
-          "russian": "«Дать огонь пяткам» — фраза со значением убежать, улизнуть.",
-          "source": "MyCity.rs, 2010",
-          "url": "https://www.mycity.rs/Srpski-jezik/Univerbacija-univerbizacija-glagola.html"
+          "serbian_latin": "Čim je ugledao policiju, dao je vatru tabanima.",
+          "russian": "Как только увидел полицию, дал дёру.",
+          "source": ""
         },
         {
-          "serbian_latin": "Da si uteka k'o zec, da si dao vatru tabanima...",
-          "russian": "Чтобы ты удрал как заяц, дал дёру...",
-          "source": "Vukajlija, 2012",
-          "url": "https://vukajlija.com/pretraga/izraz?s=svetog+petra+kajganu&strana=25"
+          "serbian_latin": "Umesto da objasni šta se dogodilo, dao je vatru tabanima.",
+          "russian": "Вместо того чтобы объяснить случившееся, он сделал ноги.",
+          "source": ""
         }
       ],
-      "note": "Образ строится на очень быстром беге — словно подошвы загорелись. Близкие современные варианты: dati petama vetra, zbrisati.",
+      "note": "Taban — подошва стопы; выражение создаёт образ человека, который так быстро бежит, будто пятки горят. Глагольный оборот зафиксирован в сербской лингвистической литературе, но в повседневном употреблении dati petama vetra и zbrisati привычнее.",
       "keyword": "vatra; tabani"
     },
     {
@@ -7961,6 +8036,33 @@
       "keyword": "drvo se na drvo naslanja čovek na čoveka"
     },
     {
+      "headword_latin": "Drž' ne daj",
+      "type": "izraz",
+      "definition_ru": "суматоха; переполох; споры, суета и неразбериха",
+      "synonyms_sr": [
+        "gužva",
+        "zbrka",
+        "frka (razg.)",
+        "pometnja"
+      ],
+      "literal_ru": "держи — не отдавай",
+      "register": "razg., ekspresivno; često u nizovima događaja i prepirki",
+      "examples": [
+        {
+          "serbian_latin": "I onda je počelo: drž' ne daj, svađa oko svake sitnice.",
+          "russian": "И тут началось: шум, гам, споры по каждому пустяку.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Dok smo završili papirologiju, bilo je drž' ne daj.",
+          "russian": "Пока оформляли документы, была такая кутерьма!",
+          "source": ""
+        }
+      ],
+      "note": "Формула сложена из противоположных повелений drži и ne daj, но не является приказом что-либо удерживать. Она описывает хаотичное развитие событий, взаимные препирательства и суету. Встречается также раздельное написание drži-ne daj и сочетание с вводным i onda. Для буквального «держи крепче» нужны другие слова.",
+      "keyword": "drži ne daj"
+    },
+    {
       "headword_latin": "Držati / ne držati vodu",
       "type": "frazeologizam",
       "definition_ru": "выдерживать / не выдерживать критики; быть / не быть убедительным; сходиться логически",
@@ -8936,6 +9038,32 @@
       "keyword": "dva ovna na brvnu; tvrdoglavost; sukob"
     },
     {
+      "headword_latin": "Dva Srbina, tri partije",
+      "type": "izreka",
+      "definition_ru": "два серба — три партии; каждый тянет в свою сторону; вечные разногласия",
+      "synonyms_sr": [
+        "politička rascepkanost",
+        "nesloga",
+        "svako vuče na svoju stranu"
+      ],
+      "literal_ru": "два серба, три партии",
+      "register": "politička dosetka, iron., samoiron.",
+      "examples": [
+        {
+          "serbian_latin": "Izreka glasi „dva Srbina, tri partije“.",
+          "russian": "Как говорится: «Два серба — три партии».",
+          "source": "NIN, 2026"
+        },
+        {
+          "serbian_latin": "Ni oko jednostavne stvari ne možemo da se dogovorimo — dva Srbina, tri partije.",
+          "russian": "Даже по простому вопросу не можем договориться: два человека — три мнения.",
+          "source": ""
+        }
+      ],
+      "note": "Формула отражает популярный сербский стереотип о политической раздробленности и склонности создавать новые партии при каждом разногласии. Это сатирическое преувеличение, а не буквальное описание политической системы. В NIN выражение использовано при обсуждении истории многопартийности в Сербии.",
+      "keyword": "Srbina; partije"
+    },
+    {
       "headword_latin": "Dvostruki aršin",
       "type": "frazeologizam",
       "definition_ru": "двойные стандарты; двойная мерка",
@@ -9586,6 +9714,32 @@
       ],
       "note": "Близко уже имеющемуся Bogu iza nogu, но оттенок немного иной: Bogu iza nogu прежде всего далеко, а gde je Bog rekao laku noć добавляет ощущение заброшенности и отсутствия цивилизации. В предложении обычно употребляется как определение места: selo gde je Bog rekao laku noć.",
       "keyword": "Bog rekao laku noć"
+    },
+    {
+      "headword_latin": "Gde je mnogo baba, kilava su deca",
+      "type": "poslovica",
+      "definition_ru": "у семи нянек дитя без глазу; когда слишком много руководителей, дело страдает",
+      "synonyms_sr": [
+        "previše kuvara pokvari čorbu",
+        "previše ljudi odlučuje",
+        "niko ne preuzima odgovornost"
+      ],
+      "literal_ru": "где много бабок, там хилые дети",
+      "register": "narodna poslovica, iron.-neodobr.; varijanta: gde je puno baba",
+      "examples": [
+        {
+          "serbian_latin": "Narod je odavno rekao: „Gde je mnogo baba, kilava su deca!“",
+          "russian": "Народ давно сказал: «У семи нянек дитя без глазу!»",
+          "source": "Srpska dijaspora, 2006"
+        },
+        {
+          "serbian_latin": "Petoro ljudi vodi projekat, a niko ne donosi odluke. Gde je mnogo baba, kilava su deca.",
+          "russian": "Проектом руководят пятеро, а решений никто не принимает. У семи нянек дитя без глазу.",
+          "source": ""
+        }
+      ],
+      "note": "Прилагательное kilav означает «хилый, слабый, немощный»; в переносном употреблении — «никудышный». Пословица критикует не пожилых женщин, а отсутствие единоначалия и ответственности. Особенно естественна в рассказах о бюрократии, управлении проектами и коллективных решениях.",
+      "keyword": "babe; deca"
     },
     {
       "headword_latin": "Gde je tanko, tu se kida",
@@ -10624,6 +10778,32 @@
       ],
       "note": "Это сербская версия латинского panem et circenses из сатиры Ювенала. Речь не просто о развлечении, а о критике власти, которая обеспечивает населению минимальные блага и зрелища вместо полноценного участия в общественной жизни. Русское «хлеба и зрелищ» совпадает по функции.",
       "keyword": "hleba i igara"
+    },
+    {
+      "headword_latin": "Hoćeš još i muzičku želju?",
+      "type": "replika",
+      "definition_ru": "может, тебе ещё и музыку заказать?; чего тебе ещё не хватает?",
+      "synonyms_sr": [
+        "hoćeš još nešto? (iron.)",
+        "šta bi još hteo? (iron.)",
+        "imaš li još neku želju? (iron.)"
+      ],
+      "literal_ru": "хочешь ещё и музыкальное пожелание?",
+      "register": "razg., šalj.-iron.; odgovor na preterane zahteve",
+      "examples": [
+        {
+          "serbian_latin": "Hoćeš da ti donesem kafu u krevet? A hoćeš još i muzičku želju?",
+          "russian": "Тебе кофе в постель принести? А может, ещё и музыку заказать?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Tražiš prevoz, ručak i novac — hoćeš još i muzičku želju?",
+          "russian": "Тебе и подвезти, и накормить, и денег дать — чего тебе ещё?",
+          "source": ""
+        }
+      ],
+      "note": "Muzička želja — заявка на песню, которую слушатели передают по радио или музыкантам. Фраза иронизирует над человеком, уже получившим много услуг, но продолжающим требовать большего. Это не настоящее предложение заказать песню; интонация может быть как дружеской, так и раздражённой.",
+      "keyword": "muzička želja"
     },
     {
       "headword_latin": "hodati / biti na tankom ledu",
@@ -12159,6 +12339,32 @@
       ],
       "note": "Старый образ связан с отсечённой головой: когда жизнь человека в опасности, она словно уже отделена от тела и лежит в торбе. В источниках фиксируются nositi glavu u torbi, metnuti glavu u torbu и glava mu je u torbi. Русское «держать голову в сумке» невозможно; переводить нужно «рисковать головой / жизнью».",
       "keyword": "glava u torbi"
+    },
+    {
+      "headword_latin": "Imati bubice u glavi",
+      "type": "frazeologizam",
+      "definition_ru": "иметь тараканов в голове; быть со странностями; выдумывать себе что-то",
+      "synonyms_sr": [
+        "imati mušice u glavi",
+        "imati čudne ideje",
+        "biti pomalo otkačen (razg.)"
+      ],
+      "literal_ru": "иметь жучков в голове",
+      "register": "razg., šalj.; ponekad o zaljubljenosti",
+      "examples": [
+        {
+          "serbian_latin": "U mladosti je imao svakojake bubice u glavi.",
+          "russian": "В молодости у него были всякие тараканы в голове.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ima on svoje bubice u glavi, ali je dobar čovek.",
+          "russian": "У него свои тараканы в голове, но человек он хороший.",
+          "source": ""
+        }
+      ],
+      "note": "Bubica — уменьшительное от buba «жук, насекомое». Образ обычно менее резок, чем прямое обвинение в глупости или безумии. В контексте первой влюблённости может означать увлечённость, романтические фантазии, а не только странности характера.",
+      "keyword": "bubice; glava"
     },
     {
       "headword_latin": "Imati debelu kožu",
@@ -14685,6 +14891,32 @@
       "keyword": "jedva gledati od umora"
     },
     {
+      "headword_latin": "Jeftina roba kasu prazni",
+      "type": "poslovica",
+      "definition_ru": "скупой платит дважды; дешёвая вещь в итоге обходится дорого",
+      "synonyms_sr": [
+        "ko jeftino kupuje, dvaput plaća",
+        "jeftino često ispadne skupo",
+        "škrt plaća dvaput"
+      ],
+      "literal_ru": "дешёвый товар опустошает кассу",
+      "register": "poslovica, tradicionalno; varijanta: Jeftina roba kesu prazni",
+      "examples": [
+        {
+          "serbian_latin": "Jeftina roba kasu prazni.",
+          "russian": "Скупой платит дважды.",
+          "source": "Bašta Balkana, 2015"
+        },
+        {
+          "serbian_latin": "Kupio sam jeftinu mašinu koja se stalno kvari. Jeftina roba kasu prazni.",
+          "russian": "Купил дешёвую машину, а она постоянно ломается. Скупой платит дважды.",
+          "source": ""
+        }
+      ],
+      "note": "В сербских сборниках пословиц встречаются варианты Jeftina roba kasu prazni и Jeftina roba kesu prazni. Смысл не в том, что любой дешёвый товар плох, а в том, что экономия на качестве иногда приводит к дополнительным расходам. Kasa — касса, денежный ящик; kesa — сумка или пакет. Русский перевод «скупой платит дважды» сохраняет назидательный смысл, но не образ опустошения денег.",
+      "keyword": "jeftina roba; kasa; kesa"
+    },
+    {
       "headword_latin": "jesti kao lud",
       "type": "poređenje",
       "definition_ru": "Есть как не в себя; уплетать с огромным аппетитом; есть в больших количествах.",
@@ -16102,6 +16334,33 @@
       ],
       "note": "Обычно говорят imati keca u rukavu, когда преимущество пока скрыто, и nešto je kec u rukavu, когда предмет или решение само является козырем.",
       "keyword": "kec"
+    },
+    {
+      "headword_latin": "Kidaš!",
+      "type": "replika",
+      "definition_ru": "жжёшь!; круто получается!; ты просто огонь!",
+      "synonyms_sr": [
+        "rasturaš (sleng)",
+        "razbijaš (sleng)",
+        "svaka čast",
+        "bravo"
+      ],
+      "literal_ru": "рвёшь!",
+      "register": "sleng, odobr.; naročito za nastup, igru, muziku",
+      "examples": [
+        {
+          "serbian_latin": "Bravo, brate, kako kidaš!",
+          "russian": "Браво, брат, как же ты жжёшь!",
+          "source": "Mondo, 2022"
+        },
+        {
+          "serbian_latin": "Video sam kako si odsvirao solo — kidaš!",
+          "russian": "Я видел, как ты сыграл соло, — просто огонь!",
+          "source": ""
+        }
+      ],
+      "note": "Глагол kidati буквально означает «рвать, отрывать», а в молодёжном сленге — «выдавать потрясающий результат». Реплика Kidaš! — похвала таланту, выступлению, спорту или удачной шутке. Не путать с Kidaš me — «ты меня изводишь / разрываешь душу» в эмоциональном контексте.",
+      "keyword": "kidati; kidaš"
     },
     {
       "headword_latin": "kipeti od besa",
@@ -17541,6 +17800,33 @@
       "keyword": "krpež trpež"
     },
     {
+      "headword_latin": "Krš",
+      "type": "imenica",
+      "definition_ru": "рухлядь; хлам; развалюха",
+      "synonyms_sr": [
+        "krntija (razg.)",
+        "starudija",
+        "raspad (sleng)",
+        "đubre (o predmetu, razg.)"
+      ],
+      "literal_ru": "каменистая местность, карст",
+      "register": "razg., neodobr. za neispravnu stvar; neutralno u geografskom značenju",
+      "examples": [
+        {
+          "serbian_latin": "Krš, ali može još da tera.",
+          "russian": "Развалюха, но ещё может ездить.",
+          "source": "BBC na srpskom / Danas, 2026"
+        },
+        {
+          "serbian_latin": "Ne kupuj taj telefon, to je običan krš.",
+          "russian": "Не покупай этот телефон, это полный хлам.",
+          "source": ""
+        }
+      ],
+      "note": "У krš два разных значения: в географии — каменистый карстовый ландшафт, а в разговорной оценке — старый или некачественный предмет. Особенно часто так называют автомобили и технику. Русский «кряж» или «карст» не передаст разговорной оценки.",
+      "keyword": "krš; krntija"
+    },
+    {
       "headword_latin": "Kružiti / obilaziti kao kiša oko Kragujevca",
       "type": "frazeologizam",
       "definition_ru": "ходить вокруг да около; всячески обходить суть; избегать прямого подхода",
@@ -18476,6 +18762,33 @@
       "keyword": "loviti u mutnom"
     },
     {
+      "headword_latin": "Ložiti se na nekoga / nešto",
+      "type": "glagol",
+      "definition_ru": "западать на кого-то; сильно увлекаться чем-то; тащиться от чего-то",
+      "synonyms_sr": [
+        "paliti se na (razg.)",
+        "biti lud za (razg.)",
+        "oduševljavati se",
+        "zanositi se"
+      ],
+      "literal_ru": "разгораться от чего-то",
+      "register": "razg., sleng; ložiti se na + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "On se loži na stare automobile.",
+          "russian": "Он прямо тащится от старых автомобилей.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Mislim da se ona loži na njega.",
+          "russian": "По-моему, он ей нравится.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание ložiti se na + винительный падеж имеет два основных разговорных значения: романтический или сексуальный интерес к человеку и увлечённость предметом или занятием. Ne loži se! — отдельная реплика «не заводись, не ведись»; это не то же самое, что «не влюбляйся».",
+      "keyword": "ložiti se"
+    },
+    {
       "headword_latin": "Lud kao struja",
       "type": "frazeologizam",
       "definition_ru": "безбашенный; сумасшедший; совершенно непредсказуемый",
@@ -19303,6 +19616,33 @@
       "keyword": "mirne duše"
     },
     {
+      "headword_latin": "Misaona imenica",
+      "type": "izraz",
+      "definition_ru": "нечто существующее только в воображении; что-то практически недостижимое",
+      "synonyms_sr": [
+        "samo na papiru",
+        "neostvariva stvar",
+        "pusta želja",
+        "nema ni govora o tome (delimično)"
+      ],
+      "literal_ru": "мысленное существительное",
+      "register": "razg.-publicistički, iron.; o nečemu čega u stvarnosti nema",
+      "examples": [
+        {
+          "serbian_latin": "Misaona imenica je voda u vodovodu.",
+          "russian": "Вода в водопроводе — понятие чисто теоретическое.",
+          "source": "N1, 2024"
+        },
+        {
+          "serbian_latin": "Slobodan vikend je za mene postao misaona imenica.",
+          "russian": "Свободные выходные для меня стали чем-то из области фантастики.",
+          "source": ""
+        }
+      ],
+      "note": "В школьной грамматике misaona (apstraktna) imenica — абстрактное существительное, называющее качество, чувство или понятие. В разговорной речи оборот иронически переосмыслен: речь о вещи, которую обсуждают, но практически невозможно увидеть или получить. Русское «абстрактное существительное» в таком контексте звучит неестественно; лучше «что-то из области фантастики».",
+      "keyword": "misaona imenica"
+    },
+    {
       "headword_latin": "Misliti svojom glavom",
       "type": "frazeologizam",
       "definition_ru": "думать самостоятельно; иметь собственное суждение, а не слепо следовать чужому мнению",
@@ -19502,30 +19842,28 @@
     },
     {
       "headword_latin": "Moja kućica, moja slobodica",
-      "type": "izreka",
-      "definition_ru": "свой дом, пусть и скромный, лучше чужого; дома человек чувствует себя свободно и независимо",
+      "type": "poslovica",
+      "definition_ru": "свой дом — своя воля; хоть маленький, зато свой",
       "synonyms_sr": [
-        "svuda pođi, svojoj kući dođi",
         "svoj na svome",
-        "najlepše je kod svoje kuće"
+        "svuda pođi, kući dođi",
+        "najlepše je kod kuće"
       ],
-      "literal_ru": "мой домик — моя свобода",
-      "register": "narodno, razgovorno, emotivno",
+      "literal_ru": "мой домик — моя волюшка",
+      "register": "razg., toplo, šalj.; rima kućica — slobodica",
       "examples": [
         {
-          "serbian_latin": "Sa ostalima je isto tako: moja kućica, moja slobodica!",
-          "russian": "С остальными так же: мой домик — моя свобода!",
-          "source": "NIN, 2023",
-          "url": "https://www.nin.rs/arhiva/vesti/9283/moja-kucica-moja-slobodica"
+          "serbian_latin": "Moja kućica, moja slobodica.",
+          "russian": "Свой дом — своя воля.",
+          "source": "NIN, 2023"
         },
         {
-          "serbian_latin": "Ceo stan je moja oaza, moja kućica, moja slobodica.",
-          "russian": "Вся квартира — мой оазис: мой домик, моя свобода.",
-          "source": "Grand / Nova.rs, 2025",
-          "url": "https://grand.nova.rs/showbiz/zlata-petrovic-fontana-novca-kuca/"
+          "serbian_latin": "Stan je mali, ali je naš. Moja kućica, moja slobodica.",
+          "russian": "Квартира маленькая, зато своя. В своём доме я хозяин.",
+          "source": ""
         }
       ],
-      "note": "Русскому функционально близки «мой дом — моя крепость» и «в гостях хорошо, а дома лучше», но сербская формула подчёркивает именно свободу и независимость в собственном доме.",
+      "note": "Уменьшительные kućica и slobodica здесь выражают привязанность, а не обязательно малый размер жилья. Пословица ценит личную независимость выше роскоши; её можно сказать и о скромной квартире. Рифма делает выражение особенно тёплым и разговорным.",
       "keyword": "kućica; slobodica"
     },
     {
@@ -22003,6 +22341,33 @@
       ],
       "note": "В отличие от обращения Bože sačuvaj, здесь грамматически оформлено пожелание, чтобы событие не произошло: Ne dao Bog da... Русское «не дай бог» совпадает почти полностью. В СМИ встречается и строчное bog, особенно когда выражение воспринимается как лексикализованная разговорная формула.",
       "keyword": "Ne dao Bog"
+    },
+    {
+      "headword_latin": "Ne dati ni Bogu tamjana",
+      "type": "frazeologizam",
+      "definition_ru": "быть невероятно скупым; зимой снега не выпросишь",
+      "synonyms_sr": [
+        "biti cicija",
+        "biti škrt",
+        "biti džimrija (razg.)",
+        "stezati se za svaki dinar"
+      ],
+      "literal_ru": "не дать даже Богу ладана",
+      "register": "razg., ekspresivno, neodobr.; ne dati ni Bogu tamjana",
+      "examples": [
+        {
+          "serbian_latin": "On ne daje ni Bogu tamjana, a ima novca koliko hoćeš.",
+          "russian": "У него зимой снега не выпросишь, хотя денег полно.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne traži od njega pozajmicu — ne bi dao ni Bogu tamjana.",
+          "russian": "Не проси у него взаймы — он и за копейку удавится.",
+          "source": ""
+        }
+      ],
+      "note": "Tamjan — ладан, который используют при православном богослужении. Образ означает крайнюю скупость: человек не пожертвовал бы даже ничтожного количества ладана на святое дело. Оборот зафиксирован в сербской фразеологической литературе и упоминается в Politika при обсуждении Rečnika SANU; это не нейтральное «экономный».",
+      "keyword": "tamjan; škrtost"
     },
     {
       "headword_latin": "Ne dati ni pet para za nekoga / nešto",
@@ -45852,28 +46217,28 @@
     {
       "headword_latin": "Teško je žabu u vodu naterati",
       "type": "poslovica",
-      "definition_ru": "его и уговаривать не надо; сам только этого и ждёт",
+      "definition_ru": "его и уговаривать не надо; сам только рад; легко заставить делать то, что и так нравится",
       "synonyms_sr": [
         "jedva je dočekao",
-        "ne treba ga dvaput pitati",
-        "sam je rad"
+        "to mu ne treba dvaput reći",
+        "to mu baš odgovara"
       ],
       "literal_ru": "трудно загнать лягушку в воду",
-      "register": "poslovično, ironično; o prividnom nagovaranju nekoga na ono što i sam želi",
+      "register": "poslovica, ironično; često produžetak: kad sama u nju skače",
       "examples": [
         {
-          "serbian_latin": "Na pitanje da li će Divac još igrati, Bodiroga reče: „Teško žabu u vodu naterati…“",
-          "russian": "На вопрос, будет ли Дивац ещё играть, Бодирога ответил: «Его-то уговаривать не надо…»",
-          "source": "Vreme, 2002"
+          "serbian_latin": "Teško je žabu u vodu naterati kad sama u nju skače.",
+          "russian": "Лягушку в воду уговаривать не надо — она сама туда прыгает.",
+          "source": "Agroklub.rs, 2025"
         },
         {
-          "serbian_latin": "Pozvali ga na roštilj — teško je žabu u vodu naterati.",
-          "russian": "Позвали его на шашлыки — его дважды просить не надо.",
+          "serbian_latin": "Zvali su ga na roštilj — teško je žabu u vodu naterati!",
+          "russian": "Позвали его на шашлыки — его и уговаривать не надо!",
           "source": ""
         }
       ],
-      "note": "Ирония очевидна: лягушка сама стремится в воду. Формула остаётся живой; употребляется и сокращённое teško žabu naterati u vodu. По-русски естественнее всего «его дважды просить не надо».",
-      "keyword": "žaba"
+      "note": "Фраза выглядит как жалоба на трудное дело, но смысл прямо противоположный: человек с готовностью делает то, что ему по душе. Ирония строится на абсурдности «принуждения» лягушки войти в воду. Очень полезно запомнить продолжение kad sama u nju skače.",
+      "keyword": "žaba; voda"
     },
     {
       "headword_latin": "Teško meni",
@@ -54570,28 +54935,28 @@
     {
       "headword_latin": "Vedriti i oblačiti",
       "type": "frazeologizam",
-      "definition_ru": "всем заправлять; быть полновластным хозяином; решать всё",
+      "definition_ru": "заправлять всем; распоряжаться по своему усмотрению; быть полновластным хозяином",
       "synonyms_sr": [
-        "imati svu vlast",
-        "biti glavni",
-        "odlučivati o svemu",
-        "držati sve konce u rukama"
+        "voditi glavnu reč",
+        "imati poslednju reč",
+        "držati sve konce u rukama",
+        "biti glavni"
       ],
-      "literal_ru": "делать ясную и облачную погоду",
-      "register": "razg.-publicistički, često neodobr.; vedriti i oblačiti negde / u nečemu",
+      "literal_ru": "делать ясную и пасмурную погоду",
+      "register": "razg.-publicistički, ekspresivno; vedriti i oblačiti negde",
       "examples": [
         {
-          "serbian_latin": "On u toj firmi vedri i oblači.",
-          "russian": "В этой фирме он всем заправляет.",
-          "source": ""
+          "serbian_latin": "Bratislav Gašić „vedri i oblači“ u najvećoj kruševačkoj fabrici.",
+          "russian": "Братислав Гашич, по утверждению издания, всем заправляет на крупнейшем заводе Крушеваца.",
+          "source": "Nova.rs, 2024"
         },
         {
-          "serbian_latin": "Godinama je tamo vedrio i oblačio, niko mu se nije suprotstavljao.",
-          "russian": "Годами он там был царь и бог, никто ему не перечил.",
+          "serbian_latin": "U toj kancelariji ona vedri i oblači.",
+          "russian": "В этом офисе всё решает она.",
           "source": ""
         }
       ],
-      "note": "Значение словарно фиксируется как «иметь большую власть, проводить свою волю, быть очень могущественным». Образ — человек словно распоряжается даже погодой. Заголовок исходного файла Vedri i oblači нормализован до инфинитива.",
+      "note": "Глаголы vedriti и oblačiti буквально описывают прояснение и покрытие неба облаками. Переносное значение — настолько большая власть, будто человек сам распоряжается погодой. Часто выражает критическое отношение к неформальному влиянию: официальная должность не обязательно совпадает с реальным центром решений.",
       "keyword": "vedriti; oblačiti"
     },
     {
@@ -54880,22 +55245,28 @@
     {
       "headword_latin": "Voda sve opere osim crna obraza",
       "type": "poslovica",
-      "definition_ru": "всё можно отмыть, кроме позора; запятнанную честь не отмоешь",
+      "definition_ru": "всё можно отмыть, кроме позора; дурную славу не смыть",
       "synonyms_sr": [
-        "obraz se teško pere",
-        "ukaljan obraz se ne pere vodom"
+        "sramota se teško briše",
+        "obraz se teško vraća",
+        "ljaga ostaje"
       ],
       "literal_ru": "вода всё отмоет, кроме чёрного лица",
-      "register": "poslovica, narodna; arhaična gramatička forma crna obraza",
+      "register": "poslovica, tradicionalno; arhaični genitiv crna obraza",
       "examples": [
         {
-          "serbian_latin": "Voda sve opere osim crna obraza.",
-          "russian": "Всё можно отмыть, кроме запятнанной чести.",
+          "serbian_latin": "Voda sve opere, osim crna obraza.",
+          "russian": "Вода всё отмывает, кроме позора.",
           "source": "Religija.rs, 2026"
+        },
+        {
+          "serbian_latin": "Novac je vratio, ali sramota je ostala — voda sve opere osim crna obraza.",
+          "russian": "Деньги он вернул, но позор остался: не всё можно смыть.",
+          "source": ""
         }
       ],
-      "note": "Obraz здесь означает не часть лица, а «честь, доброе имя, совесть». Современные сербские источники объясняют crn obraz как запятнанную совесть и дурные поступки. Форму crna obraza лучше запоминать как застывшую пословичную.",
-      "keyword": "obraz"
+      "note": "Crn obraz в пословице — не цвет кожи, а символ бесчестья и запятнанной совести. Форма crna obraza представляет собой старый вариант родительного падежа; в обычной современной прозе ожидается crnog obraza. В православном культурном контексте выражение нередко сопоставляют с очищающей символикой воды.",
+      "keyword": "voda; crn obraz"
     },
     {
       "headword_latin": "Voditi glavnu reč",
@@ -57460,28 +57831,28 @@
     {
       "headword_latin": "Zvocati",
       "type": "glagol",
-      "definition_ru": "пилить; зудеть; постоянно ворчать и попрекать",
+      "definition_ru": "пилить; нудить; постоянно попрекать",
       "synonyms_sr": [
         "zanovetati",
+        "džangrizati",
         "prigovarati",
-        "gunđati",
-        "kvocati"
+        "gunđati (delimično)"
       ],
       "literal_ru": "",
-      "register": "razg., neodobr.; nesvršeni glagol; obično zvocati nekome",
+      "register": "razg., neodobr.; zvocati nekome zbog nečega",
       "examples": [
         {
-          "serbian_latin": "Nemoj mi zvocati, već sam shvatio.",
-          "russian": "Не пили меня, я уже понял.",
-          "source": ""
+          "serbian_latin": "Verovati ili zvocati.",
+          "russian": "Верить или продолжать ворчать.",
+          "source": "Danas, 2016"
         },
         {
-          "serbian_latin": "Nisam ti rekao jer sam znao da ćeš zvocati.",
-          "russian": "Я тебе не сказал, потому что знал, что ты начнёшь зудеть.",
+          "serbian_latin": "Nemoj stalno da mi zvocaš zbog sudova, opraću ih.",
+          "russian": "Не пили меня постоянно из-за посуды, я её вымою.",
           "source": ""
         }
       ],
-      "note": "Сербские словарные источники определяют zvocati как постоянно и надоедливо делать замечания, попрекать, ворчать. Для русского «пилить» очень хорошо передаёт семейно-бытовой оттенок.",
+      "note": "Zvocati обозначает повторяющиеся мелочные упрёки или назойливые замечания, особенно в быту и отношениях. Это не то же самое, что один раз сделать замечание: важна длительная, раздражающая манера. В конструкции zvocati nekome адресат стоит в дательном падеже.",
       "keyword": "zvocati"
     },
     {
