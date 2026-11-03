@@ -2575,6 +2575,34 @@
       "keyword": "desna ruka; saradnik; poverenje"
     },
     {
+      "headword_latin": "Biti nečije maslo",
+      "type": "frazeologizam",
+      "definition_ru": "быть чьих-то рук делом; быть чьей-то проделкой; быть результатом чьих-то происков",
+      "synonyms_sr": [
+        "biti nečije delo",
+        "biti nečija ujdurma",
+        "biti nečija podvala",
+        "biti nečija spletka"
+      ],
+      "literal_ru": "быть чьим-то маслом",
+      "register": "razg., neodobr.; najčešće To je njegovo / njeno maslo",
+      "examples": [
+        {
+          "serbian_latin": "Pa to je njegovo maslo.",
+          "russian": "Так это его рук дело!",
+          "source": "Danas, 2023, komentar",
+          "url": "https://www.danas.rs/vesti/politika/ssp-razbijeno-staklo-na-stranackim-prostorijama-u-indjiji-novi-pokusaj-zastrasivanja/komentari/"
+        },
+        {
+          "serbian_latin": "Neko je namerno pokvario dogovor. Siguran sam da je to njegovo maslo.",
+          "russian": "Кто-то специально сорвал договорённость. Уверен, что это его проделки.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение обычно подразумевает отрицательную оценку действий: хитрость, интригу, подстроенную неприятность. Maslo здесь нельзя понимать как обычное сливочное масло. В популярной литературе встречается объяснение через ритуальное масло, но его историческая достоверность нуждается в отдельной проверке; для современного употребления важно устойчивое значение «чья-то проделка».",
+      "keyword": "nečije maslo"
+    },
+    {
       "headword_latin": "Biti nekome na vrh jezika",
       "type": "frazeologizam",
       "definition_ru": "вертеться на языке; быть на кончике языка; быть вот-вот вспомненным или сказанным",
@@ -8008,6 +8036,33 @@
       ],
       "note": "Выражение не обязательно обозначает что-то плохое: это может быть просто другой аспект вопроса. Однако очень часто сначала называется преимущество, а затем druga strana medalje вводит цену успеха, недостаток или скрытую проблему. Русское «обратная сторона медали» почти полностью совпадает.",
       "keyword": "druga strana medalje"
+    },
+    {
+      "headword_latin": "Drugi par rukava",
+      "type": "frazeologizam",
+      "definition_ru": "совсем другое дело; другой вопрос; отдельная история",
+      "synonyms_sr": [
+        "druga stvar",
+        "sasvim drugo pitanje",
+        "druga priča"
+      ],
+      "literal_ru": "другая пара рукавов",
+      "register": "razg.-publicistički; to je drugi par rukava, sasvim drugi par rukava",
+      "examples": [
+        {
+          "serbian_latin": "Koliko je moguće da vlast to prihvati, to je drugi par rukava.",
+          "russian": "А вот насколько реально, что власти это примут, — уже совсем другой вопрос.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/politika/jedinstven-front-opozicije-studenata-i-gradjana-prelazna-vlada/"
+        },
+        {
+          "serbian_latin": "Plan je dobar, ali kako ćemo ga sprovesti, to je drugi par rukava.",
+          "russian": "План хороший, но как мы будем его осуществлять — это уже другой вопрос.",
+          "source": ""
+        }
+      ],
+      "note": "Формула отделяет один аспект проблемы от другого, не обязательно противопоставляя их. Очень естественна конструкция с придаточным: Da li je to moguće, to je drugi par rukava. Русскому не нужно сохранять образ рукавов: «это уже другой вопрос» почти всегда точнее.",
+      "keyword": "drugi par rukava"
     },
     {
       "headword_latin": "Drvo se na drvo naslanja, a čovek na čoveka",
@@ -45470,28 +45525,29 @@
     },
     {
       "headword_latin": "Tatin sin",
-      "type": "kolokacija",
-      "definition_ru": "папенькин сынок; избалованный сын влиятельного отца; золотая молодёжь (по ситуации)",
+      "type": "izraz",
+      "definition_ru": "папенькин сынок; сын влиятельного отца; папина дочка (в другом контексте)",
       "synonyms_sr": [
-        "razmaženko",
-        "tatino dete (razg.)",
-        "privilegovan sin"
+        "tatin mezimac",
+        "tatin ljubimac",
+        "razmaženi sin (delimično)"
       ],
-      "literal_ru": "папин сын",
-      "register": "razg., neodobr.; o privilegijama koje dolaze od očevog položaja",
+      "literal_ru": "",
+      "register": "razg.; ocena zavisi od konteksta: od nežne do iron.-neodobr.",
       "examples": [
         {
-          "serbian_latin": "Nije prošao konkurs znanjem, nego preko veze — pravi tatin sin.",
-          "russian": "Он прошёл конкурс не благодаря знаниям, а по знакомству — настоящий папенькин сынок.",
-          "source": ""
+          "serbian_latin": "Od malena sam bila „tatin sin“ i oprobala sam se u velikom broju sportova.",
+          "russian": "С детства я была папиной дочкой, увлекалась всякими видами спорта.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/sport/mogla-sam-da-budem-fudbalerka/"
         },
         {
-          "serbian_latin": "Svi su radili, a tatin sin je odmah dobio direktorsko mesto.",
-          "russian": "Все работали, а сынок влиятельного папаши сразу получил директорское кресло.",
+          "serbian_latin": "Navikao je da mu otac rešava sve probleme — pravi tatin sin.",
+          "russian": "Он привык, что отец решает за него все проблемы, — настоящий папенькин сынок.",
           "source": ""
         }
       ],
-      "note": "В этой коллокации подразумевается не просто любовь к отцу, а незаслуженные преимущества благодаря его деньгам или положению. Нейтрально о родстве говорят sin svog oca; tatin sin с неодобрением указывает на зависимость от привилегий. Не путать с нежным tatin sinčić в семейной речи.",
+      "note": "Выражение может обозначать избалованного сына, живущего благодаря положению отца, но не ограничивается этим значением. Девушка тоже может назвать себя tatin sin, подчёркивая, что росла близкой к отцу и разделяла его интересы, традиционно приписываемые мальчикам. Поэтому автоматически переводить его как «мажор» неправильно.",
       "keyword": "tatin sin"
     },
     {
@@ -45982,30 +46038,30 @@
     },
     {
       "headword_latin": "Teška srca",
-      "type": "frazeologizam",
-      "definition_ru": "скрепя сердце; с тяжёлым сердцем; крайне неохотно и с сожалением",
+      "type": "izraz",
+      "definition_ru": "скрепя сердце; с тяжёлым сердцем; с большой неохотой и сожалением",
       "synonyms_sr": [
         "nerado",
-        "nevoljno",
         "sa žaljenjem",
-        "preko volje"
+        "jedva se odlučivši",
+        "nevoljno"
       ],
-      "literal_ru": "тяжёлого сердца",
-      "register": "neutralno-knjiški, emotivno; tipično odlučiti, prihvatiti, rastati se teška srca",
+      "literal_ru": "с тяжёлым сердцем",
+      "register": "neutralno-publicistički, emotivno; doneti odluku, saopštiti vest teška srca",
       "examples": [
         {
-          "serbian_latin": "Navela je da odluku donosi „teška srca“.",
-          "russian": "Она сказала, что принимает это решение с тяжёлым сердцем.",
-          "source": "RTS, 2020",
-          "url": "https://www.rts.rs/lat/vesti/politika/3950951/sandra-bozic-prekinula-strajk-gladju-martinovic-nastavlja.html"
+          "serbian_latin": "Teška srca vas obaveštavamo da je Bil Pakston preminuo...",
+          "russian": "С глубоким прискорбием сообщаем вам, что Билл Пэкстон скончался.",
+          "source": "RTS, 2017",
+          "url": "https://www.rts.rs/lat/magazin/svet-poznatih/2645043/preminuo-bil-pakston.html"
         },
         {
-          "serbian_latin": "Teška srca smo prodali kuću u kojoj smo odrasli.",
-          "russian": "Скрепя сердце мы продали дом, в котором выросли.",
+          "serbian_latin": "Teška srca sam pristao da prodam porodičnu kuću.",
+          "russian": "Скрепя сердце я согласился продать семейный дом.",
           "source": ""
         }
       ],
-      "note": "Здесь речь не о физической тяжести или сердечном заболевании, а о сожалении и душевной боли при вынужденном решении. Форму teška srca следует запоминать целиком: это традиционная падежная конструкция, не совпадающая с ожидаемым современным согласованием прилагательного. Очень естественна модель doneti odluku teška srca.",
+      "note": "Teška srca в сербском часто стоит без предлога, тогда как по-русски обычно говорят «с тяжёлым сердцем» или «скрепя сердце». Оборот обозначает эмоционально трудное, но вынужденное решение либо сообщение печального известия. Не путать с teško mi je pri srcu, где акцент на переживаемом состоянии, а не на обстоятельствах действия.",
       "keyword": "teška srca"
     },
     {
@@ -49193,28 +49249,27 @@
     {
       "headword_latin": "Trbuh nema ušiju",
       "type": "poslovica",
-      "definition_ru": "голодному не до разговоров; голодное брюхо разумных доводов не слушает",
+      "definition_ru": "голодному не до уговоров; голодный живот доводов не слушает",
       "synonyms_sr": [
-        "gladan ne sluša savete",
-        "glad ne trpi odlaganje",
-        "trbuh ne zna za šalu (blisko)"
+        "gladan trbuh razloga ne čuje",
+        "glad ne zna za opravdanja"
       ],
-      "literal_ru": "живот не имеет ушей",
-      "register": "tradicionalna poslovica; danas više citatno nego u svakodnevnom razgovoru",
+      "literal_ru": "у живота нет ушей",
+      "register": "poslovica, tradic.; danas ređe od svakodnevnih izraza",
       "examples": [
         {
-          "serbian_latin": "Možeš mu objašnjavati koliko hoćeš, ali trbuh nema ušiju.",
-          "russian": "Можешь объяснять сколько угодно, но голодному не до твоих доводов.",
+          "serbian_latin": "Prvo nahrani decu, pa im objašnjavaj — trbuh nema ušiju.",
+          "russian": "Сначала накорми детей, потом объясняй: голодному не до нравоучений.",
           "source": ""
         },
         {
-          "serbian_latin": "Prvo nahrani ljude, pa onda drži govor — trbuh nema ušiju.",
-          "russian": "Сначала накорми людей, потом произноси речь: голодный человек слушать не станет.",
+          "serbian_latin": "Možeš ti njemu da pričaš šta hoćeš, trbuh nema ušiju.",
+          "russian": "Можешь ему что угодно рассказывать, но голодный живот доводов не слушает.",
           "source": ""
         }
       ],
-      "note": "Пословица образно говорит о том, что голод и базовые нужды сильнее нравоучений или отвлечённых рассуждений. Она известна по традиционным собраниям пословиц; образ буквально связан с тем, что «живот не слышит». Родственная пословица Trbuh ne zna za šalu усиливает мысль, что голод не терпит промедления.",
-      "keyword": "trbuh nema ušiju"
+      "note": "В пословице речь не о глухоте, а о том, что физиологическая потребность сильнее разумных объяснений. Это старая народная формула, зафиксированная и в сборниках пословиц Вука Караджича; как повседневная реплика она сегодня заметно менее частотна. Русское «сытый голодного не разумеет» близко по теме, но описывает другую сторону ситуации.",
+      "keyword": "trbuh; uši"
     },
     {
       "headword_latin": "Trčati pred rudu",
@@ -49818,6 +49873,33 @@
       "keyword": "trpati sve u isti koš"
     },
     {
+      "headword_latin": "Trpen — spasen",
+      "type": "poslovica",
+      "definition_ru": "терпи — и спасёшься; терпение поможет пережить трудности",
+      "synonyms_sr": [
+        "strpljen — spasen",
+        "strpljenje se isplati",
+        "izdrži pa će proći"
+      ],
+      "literal_ru": "терпеливый — спасённый",
+      "register": "poslovica, tradicionalno; često ironično o pasivnom trpljenju",
+      "examples": [
+        {
+          "serbian_latin": "Pa onda „Trpen – spasen“.",
+          "russian": "Ну а дальше — «терпи и спасёшься».",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/kolumna/vladimir-jokic/halo-beograd/"
+        },
+        {
+          "serbian_latin": "Nemoj samo da ćutiš i trpiš — nije uvek „trpen — spasen“.",
+          "russian": "Не надо всё время молчать и терпеть: терпение не всегда спасает.",
+          "source": ""
+        }
+      ],
+      "note": "Trpen — краткое пословичное образование, а не обычная современная форма причастия; формула рифмуется со spasen. Её можно употребить как серьёзный совет проявить терпение, но в общественной полемике она нередко высмеивает привычку мириться с несправедливостью. Не смешивать с «терпение и труд всё перетрут»: здесь труд не упоминается.",
+      "keyword": "trpen spasen"
+    },
+    {
       "headword_latin": "Trula jabuka",
       "type": "frazeologizam",
       "definition_ru": "гнилое яблоко; человек, дурно влияющий на окружающих",
@@ -50297,31 +50379,31 @@
     },
     {
       "headword_latin": "U buli",
-      "type": "sleng",
-      "definition_ru": "в затруднительном положении; без денег (жарг.)",
+      "type": "izraz",
+      "definition_ru": "в долгах; на мели; в серьёзных финансовых затруднениях",
       "synonyms_sr": [
-        "u problemima",
-        "u škripcu",
-        "u nevolji",
-        "u minusu"
+        "u minusu",
+        "u dugovima",
+        "u finansijskom škripcu",
+        "švorc (sleng)"
       ],
       "literal_ru": "",
-      "register": "razg., žargon; biti u buli",
+      "register": "razg.; biti u buli, naročito o novcu, budžetu i dugovima",
       "examples": [
         {
-          "serbian_latin": "EUropljani u buli… nasankali ih ameri i sad su bespomoćni.",
-          "russian": "Европейцы в бедственном положении: американцы их подставили, и теперь они беспомощны.",
-          "source": "Danas (komentar čitaoca), 2026",
-          "url": "https://www.danas.rs/svet/samit-eu-zavrsen-bez-odgovora-na-kljucna-pitanja-nema-dogovora-o-novcu-za-ukrajinu-ni-o-budzetu/komentari/"
+          "serbian_latin": "S obzirom da je državna kasa tada bila „u buli“...",
+          "russian": "Поскольку государственная казна тогда была на мели…",
+          "source": "Nova ekonomija, 2019",
+          "url": "https://novaekonomija.rs/vesti-iz-zemlje/ruske-investicije-u-srbiji-krediti-naoruzanje-i-meka-moc"
         },
         {
-          "serbian_latin": "Ostao je bez posla i sada je u buli.",
-          "russian": "Он остался без работы и теперь в затруднительном положении.",
+          "serbian_latin": "Posle popravke auta potpuno sam u buli.",
+          "russian": "После ремонта машины я совсем без денег.",
           "source": ""
         }
       ],
-      "note": "Biti u buli значит «оказаться в тяжёлом, часто финансовом положении». Bula — жаргонное обозначение неприятностей, долгов или проигрыша; это не нейтральный официальный термин. Необычное написание EUropljani и разговорная орфография сохранены по комментарию читателя.",
-      "keyword": "u buli"
+      "note": "В сербском разговорном употреблении u buli часто описывает именно финансовую нехватку, а не любую неприятность. Можно сказать firma je u buli или budžet je u buli. Это не то же самое, что безобидное u problemu: нередко подразумеваются долги и отсутствие средств.",
+      "keyword": "bula; u buli"
     },
     {
       "headword_latin": "U civilu",
@@ -50381,25 +50463,29 @@
     {
       "headword_latin": "U čabru",
       "type": "izraz",
-      "definition_ru": "в беде; в безвыходном положении",
-      "synonyms_sr": [],
-      "literal_ru": "",
-      "register": "razg.",
+      "definition_ru": "в глубокой беде; в плачевном положении; совсем плохи дела",
+      "synonyms_sr": [
+        "u velikoj nevolji",
+        "u ozbiljnim problemima",
+        "u bezizlaznoj situaciji (delimično)"
+      ],
+      "literal_ru": "в деревянной кадке",
+      "register": "razg., ekspresivno; biti u čabru; i pojačano u debelom čabru",
       "examples": [
         {
-          "serbian_latin": "svi smo mi u sličnom čabru.",
-          "russian": "Мы все в похожей передряге.",
-          "source": "City Magazine (Danas), 2022",
-          "url": "https://citymagazine.danas.rs/kolumne/gistro-price-komsiluk/"
+          "serbian_latin": "Brakus: Radio „u čabru“, pesmu Goblina „Ti si taj“ ne možete nigde da čujete.",
+          "russian": "Бракус: Радио в плачевном состоянии, песню группы Goblini нигде не услышишь.",
+          "source": "N1, 2021",
+          "url": "https://n1info.rs/vesti/brakus-radio-u-cabru-pesmu-goblina-ti-si-taj-ne-mozete-nigde-da-cujete/"
         },
         {
-          "serbian_latin": "Ako se to otkrije, bićemo u čabru.",
-          "russian": "Если это вскроется, нам несдобровать.",
+          "serbian_latin": "Bez kupaca i s velikim dugovima, mala firma je u čabru.",
+          "russian": "Без покупателей и с большими долгами маленькая фирма оказалась в тяжёлом положении.",
           "source": ""
         }
       ],
-      "note": "Čabar — деревянная кадка; в выражении u čabru человек «попал в переплёт». В разговорной речи чаще biti u čabru.",
-      "keyword": "u čabru"
+      "note": "Čabar — большая деревянная кадка; в современном переносном выражении буквальный предмет обычно не осознаётся. U čabru сильнее нейтрального u problemu и может относиться не только к деньгам, но и к кризису института, отрасли или отношений. Не путать с названием населённого пункта Čabar.",
+      "keyword": "čabar; u čabru"
     },
     {
       "headword_latin": "U čemu je fazon?",
@@ -50431,29 +50517,29 @@
     {
       "headword_latin": "U čemu je kvaka?",
       "type": "replika",
-      "definition_ru": "в чём подвох?; в чём загвоздка?; где тут скрытая хитрость?",
+      "definition_ru": "в чём подвох?; где тут загвоздка?; в чём хитрость?",
       "synonyms_sr": [
-        "u čemu je trik?",
-        "gde je caka? (razg.)",
-        "šta je problem?"
+        "u čemu je caka?",
+        "gde je trik?",
+        "u čemu je problem? (delimično)"
       ],
-      "literal_ru": "в чём дверная ручка?",
-      "register": "razg.; o skrivenom uslovu, zamci ili problemu u naizgled dobroj ponudi",
+      "literal_ru": "в чём крючок?",
+      "register": "razg.; kvaka može biti i doslovna kvaka na vratima",
       "examples": [
         {
           "serbian_latin": "Primamljiva ponuda „Vizera“ – u čemu je kvaka?",
           "russian": "Заманчивое предложение Wizz Air — в чём подвох?",
-          "source": "RTS, 2024",
-          "url": "https://rts.rs/lat/vesti/ekonomija/5519889/primamljiva-ponuda-vizera--u-cemu-je-kvaka.html"
+          "source": "RTS, 2024, naslov",
+          "url": "https://rts.rs/lat/vesti/ekonomija/5519889/.html?print=true"
         },
         {
-          "serbian_latin": "Nudi mi stan po pola cene, ali u čemu je kvaka?",
-          "russian": "Мне предлагают квартиру за полцены, но в чём подвох?",
+          "serbian_latin": "Nude neograničene letove za malu cenu. U čemu je kvaka?",
+          "russian": "Предлагают неограниченные полёты за небольшую сумму. Где подвох?",
           "source": ""
         }
       ],
-      "note": "Kvaka буквально означает дверную ручку, однако в этой разговорной реплике — скрытую деталь, осложнение или подвох. Типично после слишком заманчивого предложения. Не совпадает полностью с U čemu je stvar? — нейтральным «в чём дело?» без предположения о подвохе.",
-      "keyword": "u čemu je kvaka"
+      "note": "Kvaka буквально означает дверную ручку или щеколду, но в разговорной конструкции u čemu je kvaka? — это скрытое условие, препятствие или хитрость. Фраза особенно естественна при подозрительно выгодных предложениях. Близкое u čemu je caka? ещё разговорнее, а u čemu je problem? не обязательно предполагает скрытый подвох.",
+      "keyword": "kvaka; caka"
     },
     {
       "headword_latin": "U četiri oka",
@@ -50773,34 +50859,29 @@
     {
       "headword_latin": "U gluvo doba noći",
       "type": "izraz",
-      "definition_ru": "глубокой ночью; в глухую ночь",
+      "definition_ru": "глубокой ночью; среди ночи; в самую глухую пору",
       "synonyms_sr": [
-        "kasno noću",
-        "u sitne sate"
+        "usred noći",
+        "u sitne sate",
+        "duboko u noć (delimično)"
       ],
-      "literal_ru": "",
-      "register": "neutralno",
+      "literal_ru": "в глухое время ночи",
+      "register": "neutralno-knjiški, ekspresivno; u gluvo doba noći",
       "examples": [
         {
-          "serbian_latin": "U gluvo doba noći, Tane i Stanko ipak se ponovo sastaju na uviđaju.",
-          "russian": "Глубокой ночью Тане и Станко снова встречаются на осмотре места происшествия.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/tv/rts1/2915268/senke-nad-balkanom.html"
+          "serbian_latin": "Na Preobraženje se i nebo, u gluvo doba noći, tri puta preobražava.",
+          "russian": "По народному поверью, в ночь Преображения небо трижды меняется глубокой ночью.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/4483380/.html?print=true"
         },
         {
-          "serbian_latin": "U gluvo doba noći između petka i subote je ostala bez dozvole za rad i ide u stečaj.",
-          "russian": "Глубокой ночью с пятницы на субботу банк лишился лицензии и идёт к банкротству.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/vesti/ekonomija/6073522/.html?print=true"
-        },
-        {
-          "serbian_latin": "Vratili smo se kući u gluvo doba noći.",
-          "russian": "Мы вернулись домой глубокой ночью.",
+          "serbian_latin": "Pozvao me je u gluvo doba noći jer mu je pozlilo.",
+          "russian": "Он позвонил мне глубокой ночью, потому что ему стало плохо.",
           "source": ""
         }
       ],
-      "note": "",
-      "keyword": "u gluvo doba noći"
+      "note": "Gluvo здесь не о слухе, а о тишине и безлюдности ночных часов. В отличие от простого noću, оборот подчёркивает позднее время и необычность события. В заметке RTS он встречается в изложении народных верований о Преображении; сам оборот не имеет обязательного религиозного значения.",
+      "keyword": "gluvo doba noći"
     },
     {
       "headword_latin": "U grubim crtama",
@@ -51154,28 +51235,28 @@
     {
       "headword_latin": "U mutnoj se vodi riba lovi",
       "type": "poslovica",
-      "definition_ru": "в мутной воде легче рыбку ловить; на неразберихе можно нажиться",
+      "definition_ru": "в мутной воде легко ловить рыбу; в неразберихе удобно наживаться",
       "synonyms_sr": [
+        "loviti u mutnom",
         "koristiti tuđu nevolju",
-        "izvlačiti korist iz haosa",
-        "loviti u mutnom"
+        "izvlačiti korist iz zbrke"
       ],
-      "literal_ru": "в мутной воде ловят рыбу",
-      "register": "poslovica, neodobr.; o koristi iz nereda, nesigurnosti ili tuđe nesreće",
+      "literal_ru": "в мутной воде рыбу ловят",
+      "register": "narodna poslovica, neodobr.; srodan izraz loviti u mutnom već postoji u osnovnom rečniku",
       "examples": [
         {
-          "serbian_latin": "Dok se svi svađaju, neko tiho zarađuje — u mutnoj se vodi riba lovi.",
-          "russian": "Пока все ссорятся, кто-то потихоньку зарабатывает — в мутной воде легче рыбку ловить.",
+          "serbian_latin": "Dok se svi svađaju, on pravi unosne poslove — u mutnoj se vodi riba lovi.",
+          "russian": "Пока все спорят, он проворачивает выгодные сделки: в мутной воде удобно ловить рыбу.",
           "source": ""
         },
         {
-          "serbian_latin": "Kriza je prilika za prevarante: u mutnoj se vodi riba lovi.",
-          "russian": "Кризис — удобное время для мошенников: на неразберихе можно нажиться.",
+          "serbian_latin": "Nije slučajno što mu haos odgovara: u mutnoj se vodi riba lovi.",
+          "russian": "Не случайно ему выгоден хаос: в мутной воде рыбу ловить легче.",
           "source": ""
         }
       ],
-      "note": "Значение очень близко русскому «ловить рыбу в мутной воде»: человек извлекает выгоду из хаоса, неясности или отсутствия контроля. Пословичная форма имеет инверсию u mutnoj se vodi, а в живой речи возможно и обычное loviti u mutnom. Обычно содержит неодобрение действий выгодополучателя.",
-      "keyword": "u mutnoj se vodi riba lovi"
+      "note": "Это самостоятельная народная пословица, хотя близкий глагольный фразеологизм loviti u mutnom уже есть в базе. Оба выражения обозначают извлечение выгоды из непрозрачной ситуации, часто с отрицательной оценкой. Пословичная форма сегодня встречается реже, чем короткое loviti u mutnom.",
+      "keyword": "mutna voda; riba"
     },
     {
       "headword_latin": "U naponu snage",
@@ -51456,6 +51537,33 @@
       ],
       "note": "В прямом смысле это первые ряды людей, а переносно — участники, наиболее активно вовлечённые в борьбу или работу. Часто употребляется u prvim redovima borbe za/protiv nečega. Родительный после borbe указывает на сферу участия.",
       "keyword": "u prvim redovima"
+    },
+    {
+      "headword_latin": "U rinfuzi",
+      "type": "kolokacija",
+      "definition_ru": "на развес; без индивидуальной упаковки; наливом или россыпью",
+      "synonyms_sr": [
+        "na meru",
+        "nepakovano",
+        "u rasutom stanju (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno, trgovina; vino, med, voće, keks u rinfuzi",
+      "examples": [
+        {
+          "serbian_latin": "Tu robu preusmeravaju u Srbiju ... jer ona dolazi u rinfuzi.",
+          "russian": "Этот товар перенаправляют в Сербию, потому что он поступает без индивидуальной упаковки.",
+          "source": "021.rs / Insajder, 2026",
+          "url": "https://www.021.rs/info/biznis-i-ekonomija/443699/tehnolog-o-hepatitisu-a-u-zamrznutom-vocu-iz-srbije-postajemo-tranzitna-zona-za-spornu-hranu"
+        },
+        {
+          "serbian_latin": "Kupili smo keks u rinfuzi, po kilogramu.",
+          "russian": "Мы купили печенье на развес, по килограмму.",
+          "source": ""
+        }
+      ],
+      "note": "Это не фразеологизм в узком смысле, а очень полезное устойчивое торговое сочетание. В зависимости от товара u rinfuzi переводится «на развес» (печенье, крупа), «наливом» (вино) или «без фасовки» (сырьё). Русская калька «в ринфузе» непонятна; важен тип продукции.",
+      "keyword": "rinfuza; na meru"
     },
     {
       "headword_latin": "U ručici doneti, u guzici odneti",
@@ -53057,56 +53165,85 @@
     {
       "headword_latin": "Ugristi ruku koja te hrani",
       "type": "frazeologizam",
-      "definition_ru": "кусать руку, которая тебя кормит; выступать против своего благодетеля",
+      "definition_ru": "кусать руку, которая тебя кормит; вредить своему благодетелю",
       "synonyms_sr": [
-        "okrenuti se protiv dobročinitelja",
-        "izneveriti onoga ko ti pomaže",
-        "biti nezahvalan"
+        "raditi protiv dobročinitelja",
+        "biti nezahvalan",
+        "izneveriti onoga ko pomaže"
       ],
-      "literal_ru": "укусить руку, которая тебя кормит",
-      "register": "figurativno, često neodobr.; ugristi (svrš.), gristi (nesvrš.)",
+      "literal_ru": "кусать кормящую руку",
+      "register": "razg.-publicistički, neodobr.; ponekad pohvalno o nezavisnosti prema moćnom pokrovitelju",
       "examples": [
         {
-          "serbian_latin": "dobar novinar ponekad mora da ugrize ruku koja ga hrani.",
-          "russian": "хорошему журналисту порой приходится кусать руку, которая его кормит.",
+          "serbian_latin": "Dobar novinar ponekad mora da ugrize ruku koja ga hrani.",
+          "russian": "Хороший журналист иногда должен уметь укусить руку, которая его кормит.",
           "source": "Danas, 2013",
           "url": "https://www.danas.rs/vesti/drustvo/junak-sa-manama/"
         },
         {
-          "serbian_latin": "Nije lako kritikovati poslodavca, ali ponekad moraš da ugrizeš ruku koja te hrani.",
-          "russian": "Критиковать работодателя непросто, но порой приходится выступать против того, от кого зависишь.",
+          "serbian_latin": "Pomogao mu je da dobije posao, a ovaj ga sada ogovara — ugrizao je ruku koja ga hrani.",
+          "russian": "Он помог ему устроиться на работу, а тот теперь за его спиной злословит — кусает руку, которая его кормит.",
           "source": ""
         }
       ],
-      "note": "Часто употребляется как упрёк в неблагодарности, однако может описывать принципиальную независимость от того, кто тебя содержит, как в примере о журналистике. Местоимение меняется по контексту: ruku koja te, ga, me hrani. Сочетание не требует буквального понимания.",
-      "keyword": "ugristi ruku koja te hrani"
+      "note": "Чаще выражение осуждает неблагодарность по отношению к человеку или организации, оказывающим поддержку. Однако в контексте независимой журналистики «укусить кормящую руку» может звучать положительно: не бояться критиковать собственного работодателя или покровителя. Русское выражение почти полностью совпадает, но оценка также зависит от контекста.",
+      "keyword": "ugristi ruku koja hrani"
     },
     {
       "headword_latin": "Ugristi se za jezik",
       "type": "frazeologizam",
-      "definition_ru": "прикусить язык; вовремя промолчать",
+      "definition_ru": "прикусить язык; вовремя замолчать; пожалеть о сказанном",
       "synonyms_sr": [
-        "prećutati nešto",
+        "prećutati",
+        "suzdržati se od reči",
         "zaustaviti se na vreme",
-        "paziti šta se govori"
+        "zaćutati"
       ],
-      "literal_ru": "",
-      "register": "razg., figurativno; ugristi se za jezik",
+      "literal_ru": "укусить себя за язык",
+      "register": "razg.; svršeni vid ugristi se; često kad je nešto već izgovoreno",
       "examples": [
         {
-          "serbian_latin": "iako se odmah ugrizla za jezik",
-          "russian": "хотя она тут же прикусила язык",
-          "source": "Blic, 2026",
-          "url": "https://www.blic.rs/zabava/milica-pavlovic-odala-detalj-o-milici-todorovic-pa-se-ugrizla-za-jezik-nece-mi/bcwm1vv"
+          "serbian_latin": "Kapiten „modrih“ ugrizao se za jezik.",
+          "russian": "Капитан «сине-красных» прикусил язык.",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/josip-simunic/"
         },
         {
-          "serbian_latin": "Hteo je nešto da kaže, ali se ugrizao za jezik.",
-          "russian": "Он хотел что-то сказать, но прикусил язык.",
+          "serbian_latin": "Hteo sam da mu odgovorim, ali sam se na vreme ugrizao za jezik.",
+          "russian": "Я хотел ему ответить, но вовремя прикусил язык.",
           "source": ""
         }
       ],
-      "note": "Фраза означает вовремя удержаться от необдуманных слов либо пожалеть, что сказал лишнее. Совершенный вид ugristi se, несовершенный gristi se; в газетной цитате речь о том, что собеседница случайно раскрыла деталь, а затем спохватилась.",
+      "note": "Как и по-русски, выражение бывает о намеренном молчании, но сербское ugristi se za jezik часто употребляется и когда человек уже сказал лишнее и затем одумался. Управление фиксированное: ugristi se za jezik. Для обычной физической травмы языка возможен буквальный смысл, который определяется контекстом.",
       "keyword": "ugristi se za jezik"
+    },
+    {
+      "headword_latin": "Uhvatila me je prpa",
+      "type": "replika",
+      "definition_ru": "меня охватила паника; я перепугался; я струхнул",
+      "synonyms_sr": [
+        "uplašio sam se",
+        "spopao me strah",
+        "uhvatila me panika",
+        "stislo me oko srca (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "razg., sleng; tipična konstrukcija prpa uhvati nekoga, dativ nije potreban",
+      "examples": [
+        {
+          "serbian_latin": "Moram priznati, uhvatila me je prpa.",
+          "russian": "Должен признаться, я струхнул.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/kolumna/marko-vidojkovic/jeste-li-kupili-jod/"
+        },
+        {
+          "serbian_latin": "Pred sam ispit uhvatila me je prpa.",
+          "russian": "Прямо перед экзаменом меня охватила паника.",
+          "source": ""
+        }
+      ],
+      "note": "Prpa — разговорное «страх, паника, мандраж»; типичное предложение: uhvatila me je prpa, где prpa — подлежащее женского рода, поэтому uhvatila независимо от пола говорящего. В PDF дано Uhvatiti prpu, но в современной речи модель с «паника охватила меня» особенно естественна. Русское «взяла оторопь» подходит не всегда: часто это именно страх перед последствиями.",
+      "keyword": "prpa; uhvatila me prpa"
     },
     {
       "headword_latin": "Uhvatiti / hvatati poslednji voz",
@@ -53160,6 +53297,33 @@
       ],
       "note": "Сербский оборот чаще иронический: человек не просто удачлив, а уже решил, что достиг вершины, непогрешим или может делать что угодно. Поэтому русские «поймать удачу за хвост» и «схватить Бога за бороду» не всегда достаточны; в контексте высокомерия лучше «возомнить себя всесильным».",
       "keyword": "Boga za bradu"
+    },
+    {
+      "headword_latin": "Uhvatiti džadu",
+      "type": "frazeologizam",
+      "definition_ru": "дать дёру; смыться; сбежать",
+      "synonyms_sr": [
+        "zbrisati (razg.)",
+        "klisnuti (razg.)",
+        "uhvatiti maglu",
+        "dati petama vetra"
+      ],
+      "literal_ru": "схватить дорогу",
+      "register": "sleng, stariji razgovorni izraz; svršeni vid; često o brzom odlasku",
+      "examples": [
+        {
+          "serbian_latin": "Čim je video da dolazi kontrola, uhvatio je džadu.",
+          "russian": "Как только увидел проверяющих, смылся.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Deca su preskočila poslednji čas i uhvatila džadu.",
+          "russian": "Дети прогуляли последний урок и дали дёру.",
+          "source": ""
+        }
+      ],
+      "note": "Džada — разговорное название дороги (турцизм); выражение означает не буквальное «схватить дорогу», а поспешно уйти или сбежать. Оно зафиксировано в сербских словарях жаргона, но по тону несколько старомоднее zbrisati или zapaliti. Не путать с uhvatiti voz — «успеть на поезд».",
+      "keyword": "džada; uhvatiti džadu"
     },
     {
       "headword_latin": "uhvatiti maglu",
@@ -53676,6 +53840,39 @@
       ],
       "note": "Разговорный образ внезапного понимания или появления идеи: upalila mi/mu/joj se lampica. Дательный падеж обозначает человека, которому пришла мысль. Газетный пример относится к женщине и употребляет которой — kojoj, а не mu.",
       "keyword": "upalila mu se lampica"
+    },
+    {
+      "headword_latin": "Upaliti se lampica",
+      "type": "frazeologizam",
+      "definition_ru": "осенило; загорелся тревожный сигнал; насторожиться",
+      "synonyms_sr": [
+        "sinuti nekome",
+        "shvatiti",
+        "posumnjati",
+        "upaliti alarm (preneseno)"
+      ],
+      "literal_ru": "загорелась лампочка",
+      "register": "razg.; upalila mi se lampica; pozitivno shvatanje ili znak upozorenja",
+      "examples": [
+        {
+          "serbian_latin": "Da se to dogodi, upalila bi mi se lampica.",
+          "russian": "Если бы это случилось, у меня бы загорелся тревожный сигнал.",
+          "source": "BBC na srpskom / Danas, 2022",
+          "url": "https://www.danas.rs/bbc-news-serbian/srbija-internet-i-kupovina-koje-licne-podatke-trgovci-smeju-da-traze-prilikom-narucivanja/"
+        },
+        {
+          "serbian_latin": "Tek kad je pomenuo drugi račun, upalila mi se lampica.",
+          "russian": "Только когда он упомянул второй счёт, я заподозрил неладное.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Odjednom mu se upalila lampica i shvatio je rešenje.",
+          "russian": "Его вдруг осенило, и он понял решение.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот допускает два близких, но не тождественных значения: внезапно что-то понять («осенило») или заметить тревожный признак («насторожился»). Сербское *upalila mi se lampica* чаще требует перевода по ситуации. Кроме того, буквальное значение «загорелась лампочка» возможно в рассказе об автомобиле или приборе.",
+      "keyword": "upaliti se lampica"
     },
     {
       "headword_latin": "Upasti / otići u minus",
@@ -54362,30 +54559,59 @@
       "keyword": "uvijati u oblande što"
     },
     {
-      "headword_latin": "Uvući rogove",
+      "headword_latin": "Uviti u oblande",
       "type": "frazeologizam",
-      "definition_ru": "поумерить гонор; поджать хвост; стать сговорчивее",
+      "definition_ru": "завуалировать; подсластить неприятную правду; подать плохое в красивой упаковке",
       "synonyms_sr": [
-        "spustiti loptu",
-        "smanjiti zahteve",
-        "odustati od tvrdoglavosti"
+        "ulepšati istinu",
+        "ublažiti neprijatnu vest",
+        "upakovati u lepe reči",
+        "zašećeriti gorku pilulu"
       ],
-      "literal_ru": "",
-      "register": "razg., ekspresivno; često neodobr.",
+      "literal_ru": "завернуть в вафельные листы",
+      "register": "razg.-publicistički, neodobr.; uviti nešto u oblande, najčešće neprijatnu istinu",
       "examples": [
         {
-          "serbian_latin": "Nije lako uvući rogove i progutati toliku količinu ega",
-          "russian": "Нелегко поумерить гонор и усмирить такое огромное самолюбие.",
-          "source": "Danas (komentar čitaoca), 2021",
-          "url": "https://www.danas.rs/vesti/politika/djilas-u-evopi-i-dalje-vlada-pristup-vazno-da-diktator-slusa/komentari/"
+          "serbian_latin": "Sve je uvijeno u oblande.",
+          "russian": "Всё преподнесено в красивой обёртке.",
+          "source": "Sport Klub, 2022",
+          "url": "https://sportklub.n1info.rs/kosarka/eurobasket/lucic-i-kalinic-ne-mogu-zajedno-andjusic-je-morao-na-ep/"
         },
         {
-          "serbian_latin": "Posle poraza morao je da uvuče rogove i pristane na kompromis.",
-          "russian": "После поражения ему пришлось поумерить гонор и согласиться на компромисс.",
+          "serbian_latin": "Ne moraš da mi uvijaš loše vesti u oblande — reci otvoreno.",
+          "russian": "Не нужно подслащивать мне плохие новости — говори прямо.",
           "source": ""
         }
       ],
-      "note": "Образ отсылает к животному, которое убирает рога и перестаёт идти напролом. Может означать и снижение претензий, и отказ от агрессивного поведения. Реальный пример взят из читательского комментария и отражает разговорный регистр.",
+      "note": "Oblande — тонкие вафельные пласты, из которых в Сербии готовят домашние сладости. Образ означает «завернуть» неприятную суть в привлекательные, мягкие слова. Не путать с обычным упаковочным материалом; выражение часто встречается в журналистике и политических оценках.",
+      "keyword": "oblande; uviti"
+    },
+    {
+      "headword_latin": "Uvući rogove",
+      "type": "frazeologizam",
+      "definition_ru": "поджать хвост; умерить пыл; отступить после сопротивления",
+      "synonyms_sr": [
+        "povući se",
+        "popustiti",
+        "smiriti se",
+        "spustiti loptu (delimično)"
+      ],
+      "literal_ru": "втянуть рога",
+      "register": "razg., ekspresivno; svršeni vid, varijanta povući rogove",
+      "examples": [
+        {
+          "serbian_latin": "Uvuci te svoje rogove!",
+          "russian": "Умерь свой пыл!",
+          "source": "Kurir, 2019",
+          "url": "https://www.kurir.rs/stars/rijaliti/3346265/saska-karan-povukla-milosa-za-nos-bio-si-zaljubljen-u-mene-ti-si-magarcina-jedna-majmun-video"
+        },
+        {
+          "serbian_latin": "Kad je shvatio da nije u pravu, konačno je uvukao rogove.",
+          "russian": "Когда он понял, что неправ, наконец поджал хвост.",
+          "source": ""
+        }
+      ],
+      "note": "Образ связан с животным, которое выставляет рога при угрозе, а затем убирает их, отказываясь от столкновения. Оборот означает уступить или прекратить задиристое поведение, часто после неудачи. Не путать с набити nekome rogove, где рога относятся к супружеской неверности.",
       "keyword": "uvući rogove"
     },
     {
@@ -55164,6 +55390,34 @@
       ],
       "note": "Riba в сербском сленге давно значит «девушка, девчонка», иногда с дополнительным оттенком привлекательности; RTS отмечает, что это значение пережило несколько поколений жаргона. Поэтому исходное толкование только как «красотка» слишком узкое.",
       "keyword": "riba"
+    },
+    {
+      "headword_latin": "Viriti nekome praziluk iz dupeta",
+      "type": "frazeologizam",
+      "definition_ru": "быть деревенщиной; быть выскочкой, который пытается выглядеть столичным и утончённым",
+      "synonyms_sr": [
+        "biti skorojević",
+        "biti neotesan",
+        "glumiti gospodina",
+        "biti seljačina (grub.)"
+      ],
+      "literal_ru": "из ж*пы торчит лук-порей",
+      "register": "razg., grub., uvredljivo; varijanta: praziluk mu iz guzice viri",
+      "examples": [
+        {
+          "serbian_latin": "Jedan od najneobičnijih srpskih izraza koji sam čuo je „Viri mu praziluk iz dupeta“.",
+          "russian": "Одно из самых необычных сербских выражений, которые я слышал, — «У него из ж*пы лук торчит».",
+          "source": "24sedam, 2025",
+          "url": "https://24sedam.rs/lifestyle/dom/352110/gleb-fils-rus-koga-srbi-obozavaju/vest"
+        },
+        {
+          "serbian_latin": "Tek se doselio u Beograd, a već se pravi da je stari Beograđanin — još mu praziluk iz dupeta viri.",
+          "russian": "Только переехал в Белград, а уже изображает коренного белградца. Ещё вчера из деревни приехал!",
+          "source": ""
+        }
+      ],
+      "note": "Выражение особенно характерно для городского высмеивания человека, скрывающего своё сельское происхождение и демонстративно изображающего «элиту». Praziluk — лук-порей, традиционный доступный продукт; он символизирует простонародный быт. Это социально высокомерная и грубая реплика, которая может оскорбить человека не только за манеры, но и за происхождение.",
+      "keyword": "praziluk; dupeta"
     },
     {
       "headword_latin": "Visiti o koncu",
