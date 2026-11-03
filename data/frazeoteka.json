@@ -821,6 +821,32 @@
       "keyword": "baciti se oko vrata"
     },
     {
+      "headword_latin": "Batina je iz raja izašla",
+      "type": "poslovica",
+      "definition_ru": "розга от Бога; наказание пойдёт на пользу (традиционное оправдание телесных наказаний)",
+      "synonyms_sr": [
+        "strogo vaspitanje",
+        "vaspitavanje batinama"
+      ],
+      "literal_ru": "Палка вышла из рая.",
+      "register": "poslovica, tradicionalno; često ironično ili kritički",
+      "examples": [
+        {
+          "serbian_latin": "„Batina je iz raja izašla“ – odavno je omiljena vaspitna metoda u Srbiji.",
+          "russian": "«Розга от Бога» — телесные наказания долго считались в Сербии обычным способом воспитания.",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/3105178/zabrana-fizickog-kaznjavanja-dece-podelila-i-javnost-i-struku.html"
+        },
+        {
+          "serbian_latin": "Nekad se govorilo da je batina iz raja izašla, ali ja se s tim ne slažem.",
+          "russian": "Раньше говорили, что розга от Бога, но я с этим не согласен.",
+          "source": ""
+        }
+      ],
+      "note": "В пословице batina — палка, розга, а не абстрактное наказание. Она отражает старое представление о воспитательной пользе физического воздействия. Сегодня выражение нередко цитируют именно для критики подобных представлений. Русское «розга ум острит» близко по смыслу, но не передаёт религиозного образа.",
+      "keyword": "batina iz raja"
+    },
+    {
       "headword_latin": "Bela kuga",
       "type": "ustaljeni metaforički izraz",
       "definition_ru": "публицистическое обозначение низкой рождаемости и связанного с ней сокращения или старения населения; демографическая убыль",
@@ -1301,6 +1327,32 @@
       ],
       "note": "Сейчас выражение очень удобно для шуток о возрастных спортсменах, музыкантах, тренерах и политиках. Одновременно у него давно существует сексуальная двусмысленность; сербские источники отмечают и более грубый оттенок. Поэтому нейтрально хвалить пожилого человека этой формулой стоит только в подходящей шутливой компании.",
       "keyword": "bez starca nema udarca"
+    },
+    {
+      "headword_latin": "Bez stare koke nema dobre supe",
+      "type": "poslovica",
+      "definition_ru": "старый конь борозды не портит; возраст не помеха; у опытных есть свои преимущества",
+      "synonyms_sr": [
+        "bez starca nema udarca (šalj.)",
+        "iskustvo zlata vredi"
+      ],
+      "literal_ru": "Без старой курицы не бывает хорошего супа.",
+      "register": "razg., šalj.; često dvosmisleno",
+      "examples": [
+        {
+          "serbian_latin": "Bez stare koke nema dobre supe.",
+          "russian": "В возрасте тоже есть свои преимущества.",
+          "source": "Nova.rs, 2023",
+          "url": "https://nova.rs/zabava/showbiz/dara-bubamara-zivi-u-paralelnom-univerzumu-i-imamo-dokaz-ubedjuje-nas-da-je-ovo-ista-osoba-a-obradila-sliku-iz-emisije-kao-da-je-avatar/"
+        },
+        {
+          "serbian_latin": "Godine nisu prepreka za ljubav — bez stare koke nema dobre supe.",
+          "russian": "Возраст любви не помеха: опытная женщина знает себе цену.",
+          "source": ""
+        }
+      ],
+      "note": "В сербской речи koka может означать не только курицу, но и привлекательную женщину (разг.). Поэтому пословица легко приобретает фривольный смысл. Полная форма с dobre supe зафиксирована и в научных работах по сербской паремиологии. Для нейтральной похвалы пожилой женщине эту формулу лучше не использовать.",
+      "keyword": "stara koka supa"
     },
     {
       "headword_latin": "Bez trunke savesti",
@@ -3393,6 +3445,33 @@
       "keyword": "Bogu iza nogu"
     },
     {
+      "headword_latin": "Boj ne bije svetlo oružje, već boj bije srce u junaka",
+      "type": "poslovica",
+      "definition_ru": "побеждает не оружие, а храбрость; главное — мужество, а не техническое превосходство",
+      "synonyms_sr": [
+        "hrabrost odlučuje",
+        "srce je važnije od oružja",
+        "pobeda zavisi od hrabrosti"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, književno-patetično; epska formula, ovde u ekavici",
+      "examples": [
+        {
+          "serbian_latin": "Boj bije srce u junaka.",
+          "russian": "Победу приносит мужество.",
+          "source": "Radio Beograd 1 / RTS, 2022",
+          "url": "https://rts.rs/lat/radio/radio-beograd-1/4846413/.html?print=true"
+        },
+        {
+          "serbian_latin": "Nisu imali najbolju opremu, ali su pobedili — boj ne bije svetlo oružje, već srce u junaka.",
+          "russian": "У них не было лучшего снаряжения, но они победили: главное не оружие, а отвага.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение принадлежит к сербской героико-эпической традиции; его часто связывают с Негошем и цитируют в спортивном контексте. Boj — бой, сражение; svetlo oružje здесь означает блестящее оружие, а не лёгкое вооружение. В оригинальных литературных цитатах встречается иекавская форма; здесь она адаптирована к экавице.",
+      "keyword": "boj bije srce junaka"
+    },
+    {
       "headword_latin": "Boli me uvo",
       "type": "izraz",
       "definition_ru": "мне до лампочки; мне плевать; мне всё равно",
@@ -3501,6 +3580,32 @@
       ],
       "note": "Сербское ikad буквально означает «когда-либо, когда-нибудь», поэтому буквальная конструкция — «лучше хоть когда-нибудь, чем никогда». По функции это точный эквивалент русского «лучше поздно, чем никогда», хотя слово kasno «поздно» в самой сербской пословице отсутствует. Формула широко употребляется от бытовой речи до политических комментариев и газетных заголовков.",
       "keyword": "bolje ikad nego nikad"
+    },
+    {
+      "headword_latin": "Bolje mršav mir nego debela parnica",
+      "type": "poslovica",
+      "definition_ru": "худой мир лучше доброй ссоры; лучше договориться, чем годами судиться",
+      "synonyms_sr": [
+        "bolje se nagoditi nego suditi",
+        "dogovor je bolji od spora",
+        "bolje mir nego svađa"
+      ],
+      "literal_ru": "Лучше тощий мир, чем толстая тяжба.",
+      "register": "poslovica, tradicionalno; posebno o sudskim i imovinskim sporovima",
+      "examples": [
+        {
+          "serbian_latin": "Bolje mršav mir nego debela parnica.",
+          "russian": "Худой мир лучше доброй ссоры.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nagodili smo se oko nasledstva. Bolje mršav mir nego debela parnica.",
+          "russian": "Мы договорились по поводу наследства. Лучше худой мир, чем многолетняя судебная тяжба.",
+          "source": ""
+        }
+      ],
+      "note": "В отличие от русского «худой мир лучше доброй ссоры», сербская пословица прямо называет parnica — гражданский судебный процесс, тяжбу. Прилагательные mršav и debeo создают комический контраст: скромный, неидеальный мир предпочтительнее большого и дорогого судебного спора. Пословица зафиксирована в сербских сборниках народной мудрости.",
+      "keyword": "mršav mir debela parnica"
     },
     {
       "headword_latin": "Bolje sprečiti nego lečiti",
@@ -4210,6 +4315,59 @@
       "keyword": "cvrc Milojko"
     },
     {
+      "headword_latin": "Čalabrcnuti",
+      "type": "glagol",
+      "definition_ru": "перекусить на скорую руку; слегка заморить червячка",
+      "synonyms_sr": [
+        "prezalogajiti",
+        "gricnuti nešto",
+        "pojesti nešto na brzinu"
+      ],
+      "literal_ru": "",
+      "register": "razg., šalj.; svršeni vid",
+      "examples": [
+        {
+          "serbian_latin": "Čalabrcnuću nešto pre nego što krenemo.",
+          "russian": "Я слегка перекушу, прежде чем мы отправимся.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemam vremena za ručak, samo sam nešto čalabrcnuo.",
+          "russian": "Пообедать времени не было, лишь наскоро перехватил что-то.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно обозначает небольшой и быстрый перекус, а не полноценный обед. Слово звучит шутливо и выразительно благодаря необычному звукосочетанию; в 2026 году Danas даже рассказывал о его популярности как «необычного» сербского слова. Публикуемые в СМИ подробные этимологии не следует принимать за доказанные без лексикографической проверки.",
+      "keyword": "čalabrcnuti"
+    },
+    {
+      "headword_latin": "Čast svakom, veresije nikom",
+      "type": "poslovica",
+      "definition_ru": "уважение — всем, а в долг — никому; дружба дружбой, деньги врозь",
+      "synonyms_sr": [
+        "samo za gotovinu",
+        "ne davati na veresiju",
+        "bez prodaje na dug"
+      ],
+      "literal_ru": "Честь каждому, кредита никому.",
+      "register": "poslovica, šalj.; tradicionalna formula trgovaca",
+      "examples": [
+        {
+          "serbian_latin": "Čast svakom, veresije nikom.",
+          "russian": "Уважение всем, но в долг не даём.",
+          "source": "Moj Grad SM, 2022",
+          "url": "https://mojgradsm.rs/boris-miljkovic-cast-svakom-a-veresija-nikom/"
+        },
+        {
+          "serbian_latin": "Na vratima radnje piše: „Čast svakom, veresije nikom.“",
+          "russian": "На дверях магазина написано: «Уважаем всех, но в долг не продаём».",
+          "source": ""
+        }
+      ],
+      "note": "Veresija — продажа товара в долг, часто «под запись» в тетрадке; слово пришло через турецкий. Это не просьба о почтении, а рифмованная формула торговца, который не хочет отпускать товар без оплаты. Распространён и вариант Čast svakom, veresija nikom.",
+      "keyword": "čast veresija"
+    },
+    {
       "headword_latin": "Čašica razgovora",
       "type": "frazeologizam",
       "definition_ru": "беседа по душам; разговор за рюмкой или чашкой; приятная неформальная беседа",
@@ -4560,6 +4718,32 @@
       ],
       "note": "Русский «век живи — век учись» функционально почти совпадает, но сербская форма менее афористически рифмованная и легко включается в обычное предложение. Часто служит шутливым комментарием после того, как взрослый опытный человек узнал что-то совершенно новое.",
       "keyword": "učiti dok je živ"
+    },
+    {
+      "headword_latin": "Čovek se uči dok je živ, pa opet lud umre",
+      "type": "poslovica",
+      "definition_ru": "век живи — век учись, а всё равно дураком помрёшь; всего не узнаешь",
+      "synonyms_sr": [
+        "niko ne zna sve",
+        "čovek uči celog života",
+        "znanje nema kraja"
+      ],
+      "literal_ru": "",
+      "register": "poslovica, šaljivo-samokritično; produžetak kraće izreke",
+      "examples": [
+        {
+          "serbian_latin": "Čovek se uči dok je živ, pa opet lud umre.",
+          "russian": "Век живи — век учись, а всё равно дураком помрёшь.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Tek sad sam naučio kako to radi. Čovek se uči dok je živ, pa opet lud umre.",
+          "russian": "Только сейчас разобрался, как это работает. Век живи — век учись, а всё равно всего не узнаешь.",
+          "source": ""
+        }
+      ],
+      "note": "Это самостоятельное ироническое продолжение уже известной формулы Čovek se uči dok je živ. Добавление pa opet lud umre меняет наставительный тон на самоиронию: никакая продолжительность обучения не гарантирует всеведения. Пословица включена в собрания, обсуждаемые Владетой Еротичем.",
+      "keyword": "čovek se uči lud umre"
     },
     {
       "headword_latin": "Čovek snuje, Bog određuje",
@@ -4954,6 +5138,32 @@
       ],
       "note": "Сегодня выражение означает попытку сделать что-либо так, чтобы окружающие не заметили настоящей цели. Vlasi — исторический этноним, который в разные эпохи и регионы имел разные референции; популярные рассказы о конкретном историческом эпизоде происхождения выражения надёжно не доказаны. Для современного употребления этнический смысл обычно стёрт, но русскому полезно знать, что внутри формулы сохраняется название народа.",
       "keyword": "Vlasi se ne dosete"
+    },
+    {
+      "headword_latin": "Da su babi muda, bila bi deda",
+      "type": "izreka",
+      "definition_ru": "если бы у бабушки были яйца, она была бы дедушкой; пустое рассуждение о несбывшемся",
+      "synonyms_sr": [
+        "šta bi bilo kad bi bilo",
+        "pusti prazne pretpostavke",
+        "nema svrhe nagađati"
+      ],
+      "literal_ru": "",
+      "register": "razg., vulgarno, iron.; odgovor na beskorisno 'da je bilo'",
+      "examples": [
+        {
+          "serbian_latin": "Da smo krenuli ranije, stigli bismo. — Da su babi muda, bila bi deda.",
+          "russian": "Если бы мы вышли раньше, успели бы. — Если бы у бабушки были яйца, она была бы дедушкой.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj stalno da pričaš šta bi bilo da je bilo — da su babi muda, bila bi deda.",
+          "russian": "Хватит рассуждать, что было бы да кабы: история не знает сослагательного наклонения.",
+          "source": ""
+        }
+      ],
+      "note": "Формула обрывает бесплодные условные рассуждения, особенно когда собеседник пытается оправдать прошлую неудачу. Muda — грубоватое название мужских гениталий; выражение уместно только в фамильярной обстановке. Русский эквивалент почти дословен и сохраняет тот же сниженный оттенок.",
+      "keyword": "da su babi muda"
     },
     {
       "headword_latin": "Dajem glavu da...",
@@ -13742,6 +13952,32 @@
       "keyword": "glava"
     },
     {
+      "headword_latin": "Ja drumom, ti šumom",
+      "type": "izraz",
+      "definition_ru": "я про одно, ты про другое; говорить на разных языках; разговор глухих",
+      "synonyms_sr": [
+        "pričati svako svoje",
+        "ne razumeti se",
+        "govoriti jedno, slušati drugo"
+      ],
+      "literal_ru": "Я дорогой, ты лесом.",
+      "register": "razg., ekspresivno; varijante ja šumom, ti drumom i baba šumom, deda drumom",
+      "examples": [
+        {
+          "serbian_latin": "Ja te pitam kad stižeš, a ti pričaš o vremenu — ja drumom, ti šumom.",
+          "russian": "Я спрашиваю, когда ты приедешь, а ты рассказываешь о погоде: я про одно, ты про другое.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Opet se nismo razumeli: ja drumom, ti šumom.",
+          "russian": "Мы снова друг друга не поняли: говорили каждый о своём.",
+          "source": ""
+        }
+      ],
+      "note": "Drum — дорога, обычно проезжая; šuma — лес. Оборот описывает не просто разные взгляды, а отсутствие контакта в разговоре: один говорит об одном, второй отвечает о другом. Существуют перестановка Ja šumom, ti drumom и более фольклорная рифмованная модель Baba šumom, deda drumom.",
+      "keyword": "ja drumom ti šumom"
+    },
+    {
       "headword_latin": "Ja tebi vojvodo, ti meni serdare",
       "type": "izreka",
       "definition_ru": "взаимно нахваливать друг друга; кукушка хвалит петуха; обмениваться лестью",
@@ -16022,6 +16258,33 @@
       "keyword": "ko se zadnji smeje najslađe se smeje"
     },
     {
+      "headword_latin": "Ko te šiša!",
+      "type": "replika",
+      "definition_ru": "да ну тебя!; кому ты нужен!; мне до тебя дела нет",
+      "synonyms_sr": [
+        "baš me briga",
+        "ne zanima me",
+        "ne obazirem se na tebe"
+      ],
+      "literal_ru": "Кто тебя стрижёт?",
+      "register": "razg., fam., odbacujuće; ponekad grubo ili šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Ko te šiša?",
+          "russian": "Да ну тебя! (Также букв.: «Кто тебя стрижёт?»)",
+          "source": "RTS, 2024; naslov knjige i igre reči",
+          "url": "https://www.rts.rs/lat/magazin/zivot/5361419/ko-te-sisa--kad-frizerka-odluci-da-price-iz-salona-pretoci-u-knjigu.html"
+        },
+        {
+          "serbian_latin": "Ako nećeš da dođeš, ko te šiša!",
+          "russian": "Не хочешь приходить — да и не надо, обойдёмся без тебя!",
+          "source": ""
+        }
+      ],
+      "note": "В переносном значении это не вопрос о парикмахере, а пренебрежительная отмашка. Интонация меняет силу реплики — от дружеского «ну и ладно» до обидного «да пошёл ты». Заголовок материала RTS о книге парикмахера намеренно обыгрывает оба значения.",
+      "keyword": "ko te šiša"
+    },
+    {
       "headword_latin": "Ko tebe kamenom, ti njega hlebom",
       "type": "izreka",
       "definition_ru": "отвечать добром на зло; на зло отвечай добром",
@@ -16579,6 +16842,33 @@
       ],
       "note": "Устойчивое сравнение основано на шуточном представлении о том, что змея прячет свои несуществующие ноги. Скрываемый объект употребляется в винительном падеже: kriti verenika, identitet, dokumenta kao zmija noge.",
       "keyword": "zmija; noge"
+    },
+    {
+      "headword_latin": "Krivo sedi, pravo zbori",
+      "type": "poslovica",
+      "definition_ru": "говори правду, как бы ни сидел; будь честен и прям в своих словах",
+      "synonyms_sr": [
+        "govori istinu",
+        "reci pošteno",
+        "govori otvoreno"
+      ],
+      "literal_ru": "Сиди криво, говори прямо.",
+      "register": "poslovica, tradicionalno; zboriti = govoriti",
+      "examples": [
+        {
+          "serbian_latin": "Krivo sedi, pravo zbori.",
+          "russian": "Сиди как хочешь, а говори правду.",
+          "source": "Euronews Srbija, 2026",
+          "url": "https://www.euronews.rs/srbija/politika/245175/rasim-ljajic-za-euronews-srbija/vest"
+        },
+        {
+          "serbian_latin": "Krivo sedi, pravo zbori: nismo uradili ono što smo obećali.",
+          "russian": "Надо говорить правду: мы не сделали того, что обещали.",
+          "source": ""
+        }
+      ],
+      "note": "Krivo здесь относится к позе тела, а pravo — к правдивости речи. Контраст не требует сидеть буквально: пословица призывает говорить честно, даже если положение неудобное. Глагол zboriti — «говорить», звучит традиционнее обычного govoriti.",
+      "keyword": "krivo sedi pravo zbori"
     },
     {
       "headword_latin": "Krojiti / skrojiti nekome kapu",
@@ -21665,6 +21955,34 @@
       "keyword": "ne talasaj"
     },
     {
+      "headword_latin": "Ne talasaj!",
+      "type": "replika",
+      "definition_ru": "не раскачивай лодку; не высовывайся; не поднимай шум",
+      "synonyms_sr": [
+        "ne diži prašinu",
+        "ne pravi probleme",
+        "ne uzburkavaj stvari"
+      ],
+      "literal_ru": "Не поднимай волн.",
+      "register": "razg., često neodobr.; zabrana da se dira u postojeće stanje",
+      "examples": [
+        {
+          "serbian_latin": "Ćuti, ne talasaj!",
+          "russian": "Молчи, не высовывайся!",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/tamara-djordjevic/psihologija-cutanja-buka-kao-instrukcija"
+        },
+        {
+          "serbian_latin": "Ne talasaj, dobro je ovako.",
+          "russian": "Не раскачивай лодку, пусть остаётся как есть.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/dijalog/licni-stavovi/ne-talasaj-dobro-je-ovako/"
+        }
+      ],
+      "note": "Это не то же самое, что «не волнуйся». Talasati буквально связано с волнами, но реплика обычно означает: не спорь с начальством, не нарушай привычный порядок, не привлекай внимания. Часто имеет оттенок общественного конформизма или страха последствий.",
+      "keyword": "ne talasaj"
+    },
+    {
       "headword_latin": "Ne videti dalje od svog nosa",
       "type": "frazeologizam",
       "definition_ru": "не видеть дальше собственного носа; быть недальновидным; мыслить узко и только о ближайшей выгоде",
@@ -26105,29 +26423,30 @@
     {
       "headword_latin": "Opasuljiti se",
       "type": "glagol",
-      "definition_ru": "очухаться; прийти в себя; образумиться; наконец сообразить",
+      "definition_ru": "образумиться; прийти в себя; очухаться",
       "synonyms_sr": [
         "doći sebi",
         "urazumiti se",
         "osvestiti se",
-        "sabrati se"
+        "prenuti se"
       ],
       "literal_ru": "",
-      "register": "razg., šalj.; često u imperativu opasulji se",
+      "register": "razg., ekspresivno; svršeni vid, povratni glagol",
       "examples": [
         {
-          "serbian_latin": "„Opasulji se!“ znači: dođi sebi, urazumi se.",
-          "russian": "«Opasulji se!» значит: приди в себя, образумься.",
-          "source": "RTS, 2017"
+          "serbian_latin": "Hoćemo li se, kao narod, ikad opasuljiti i višedecenijsku koprenu skinuti s očiju?",
+          "russian": "Образумились бы мы когда-нибудь как народ и сняли с глаз многолетнюю пелену?",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/kolumna/milan-st-protic/vladavina-kriminalaca/"
         },
         {
-          "serbian_latin": "Opasulji se, čoveče, šta to radiš?",
-          "russian": "Очухайся, человек, что ты делаешь?",
+          "serbian_latin": "Opasulji se! Ne možeš sve sam.",
+          "russian": "Приди в себя! Ты не можешь всё сделать один.",
           "source": ""
         }
       ],
-      "note": "Связь со словом pasulj формально очевидна, но точное происхождение глагола надёжно не установлено. В живой речи это эмоциональное «приди в себя / сообрази наконец», нередко с оттенком раздражения.",
-      "keyword": "pasulj"
+      "note": "Выражение особенно часто звучит как призыв Opasulji se! — «Очнись, образумься!». Несмотря на узнаваемую основу pasulj «фасоль», не следует придумывать простое бытовое объяснение происхождения. В старых словарных данных отмечены и иные, сегодня малоизвестные значения глагола; в современном разговорном употреблении главное — «прийти в себя, понять ситуацию».",
+      "keyword": "opasuljiti se"
     },
     {
       "headword_latin": "Oprati obraz",
@@ -26829,28 +27148,29 @@
     {
       "headword_latin": "Otići na doboš",
       "type": "frazeologizam",
-      "definition_ru": "пойти с молотка; уйти с торгов; быть проданным за долги",
+      "definition_ru": "пойти с молотка; быть проданным на торгах, зачастую за долги",
       "synonyms_sr": [
         "biti prodat na licitaciji",
         "otići na javnu prodaju",
         "biti rasprodat zbog dugova"
       ],
-      "literal_ru": "уйти на барабан",
-      "register": "razg.-publicistički; naročito o kući, stanu, firmi ili imovini",
+      "literal_ru": "Уйти на барабан.",
+      "register": "razg.-publicistički; najčešće o imovini i nekretninama",
       "examples": [
         {
-          "serbian_latin": "Imovina Marije Milošević otišla na doboš.",
-          "russian": "Имущество Марии Милошевич пошло с молотка.",
-          "source": "Danas, 2018"
+          "serbian_latin": "I „Manjež“ i kafana u Kralja Petra 15 [...] otišli su na doboš po osnovu aktivirane hipoteke.",
+          "russian": "И «Манеж», и кафе на улице Краля Петра, 15 выставили на продажу после обращения взыскания на залог.",
+          "source": "Večernje novosti, 2018",
+          "url": "https://www.novosti.rs/vesti/beograd.74.html%3A748861-Manjez-otisao-na-dobos"
         },
         {
-          "serbian_latin": "Ako ne vrate kredit, kuća će otići na doboš.",
-          "russian": "Если они не вернут кредит, дом пойдёт с молотка.",
+          "serbian_latin": "Posle bankrota sva imovina firme otišla je na doboš.",
+          "russian": "После банкротства всё имущество фирмы пошло с молотка.",
           "source": ""
         }
       ],
-      "note": "Doboš — барабан. Выражение связано со старой практикой публичных торгов, на которые людей созывали барабанным боем; поэтому по функции сербский doboš соответствует русскому аукционному «молотку». Часты и формы dati / staviti na doboš.",
-      "keyword": "doboš"
+      "note": "Doboš — барабан, под бой которого прежде могли публично объявлять о торгах и продаже имущества. В современном выражении важен именно переход имущества к принудительной или публичной продаже, а не просто факт финансовых трудностей. Русское «пойти с молотка» передаёт другой предмет того же торгового ритуала.",
+      "keyword": "otići na doboš"
     },
     {
       "headword_latin": "otići trbuhom za kruhom",
@@ -36311,6 +36631,33 @@
       "keyword": "skrštenih ruku"
     },
     {
+      "headword_latin": "Selo gori, a baba se češlja",
+      "type": "izreka",
+      "definition_ru": "вокруг серьёзные проблемы, а человек занят пустяками; не замечать главного",
+      "synonyms_sr": [
+        "baviti se sitnicama",
+        "ne videti glavni problem",
+        "baviti se nevažnim stvarima"
+      ],
+      "literal_ru": "Село горит, а бабка причёсывается.",
+      "register": "razg., iron.; poznat naslov domaće televizijske serije",
+      "examples": [
+        {
+          "serbian_latin": "Selo gori, a baba se češlja.",
+          "russian": "Село горит, а бабка причёсывается.",
+          "source": "RTS, 2016; naslov serije",
+          "url": "https://www.rts.rs/lat/rts/rts-predstavlja/filmski-program/domace-serije/2467508/.html?print=true"
+        },
+        {
+          "serbian_latin": "Bolnica nema osnovnu opremu, a oni raspravljaju o boji zidova — selo gori, a baba se češlja.",
+          "russian": "В больнице нет самого необходимого, а они спорят о цвете стен: вокруг всё рушится, а их волнуют мелочи.",
+          "source": ""
+        }
+      ],
+      "note": "Комический эффект строится на несоразмерности бедствия и мелкой заботы о внешности. В Сербии формула особенно узнаваема благодаря одноимённому телесериалу Радоша Байича о современной сербской деревне. Распространён также вариант с kuća gori.",
+      "keyword": "selo gori baba se češlja"
+    },
+    {
       "headword_latin": "Seo kao dečja guza na nošu",
       "type": "žargonski izraz",
       "definition_ru": "подошло идеально; село как влитое, всё совпало как надо",
@@ -37756,30 +38103,28 @@
     {
       "headword_latin": "Složna braća kuću grade, a nesložna i dvore razgrađuju",
       "type": "poslovica",
-      "definition_ru": "согласие созидает, раздор разрушает; дружная семья строит дом, а недружная разрушит и хоромы",
+      "definition_ru": "согласие строит, раздор разрушает; в единстве сила",
       "synonyms_sr": [
-        "u slozi je snaga",
         "sloga kuću gradi",
-        "bez sloge nema napretka"
+        "u slozi je snaga",
+        "nesloga sve kvari"
       ],
-      "literal_ru": "дружные братья дом строят, а недружные и дворцы разрушают",
-      "register": "narodno, poslovično, poučno; употребляется о семье, коллективе и общественном единстве",
+      "literal_ru": "Дружные братья дом строят, недружные и дворцы разрушают.",
+      "register": "poslovica, narodna; varijanta: a nesložna je razgrađuju",
       "examples": [
         {
-          "serbian_latin": "Složna braća kuću grade, a nesložna grade dvije kuće!",
-          "russian": "Дружные братья строят дом, а недружные - каждый свой.",
-          "source": "Vukajlija, pristupljeno 2026",
-          "url": "https://vukajlija.com/pretraga/izraz?q=braca-braca&strana=1"
+          "serbian_latin": "Složna braća kuću grade, a nesložna i dvore razgrađuju.",
+          "russian": "Согласие созидает, а раздор разрушает.",
+          "source": ""
         },
         {
-          "serbian_latin": "Složna braća kuću grade, a nesložna razgrađuju.",
-          "russian": "Дружные братья дом строят, а недружные разрушают.",
-          "source": "Danas, komentari, pristupljeno 2026",
-          "url": "https://www.danas.rs/vesti/politika/djuric-jednostrane-odluke-ne-donose-mir/komentari/"
+          "serbian_latin": "Dok smo radili zajedno, išlo je dobro. Složna braća kuću grade.",
+          "russian": "Пока работали сообща, всё шло хорошо. В единстве сила.",
+          "source": ""
         }
       ],
-      "note": "Классическая сербская пословица, известная по сборникам Вука Караджича. В старом языке dvori здесь - не 'дворы', а богатые палаты/хоромы, что усиливает контраст.",
-      "keyword": "sloga; braća"
+      "note": "В традиционной формуле dvori — не обычный двор возле дома, а богатый дом, палаты; контраст показывает, что раздор способен разрушить даже многое уже созданное. Частотен сокращённый вариант Složna braća kuću grade, а также продолжение a nesložna je razgrađuju. Это полноценная развёрнутая пословица, хотя близкая краткая формула Sloga kuću gradi уже имеется в словаре.",
+      "keyword": "složna braća kuću grade"
     },
     {
       "headword_latin": "Smandrljati",
@@ -42851,25 +43196,27 @@
       "type": "poslovica",
       "definition_ru": "что у трезвого на уме, то у пьяного на языке",
       "synonyms_sr": [
-        "šta pijan govori, trezan misli",
-        "u vinu je istina"
+        "u vinu je istina",
+        "pijanstvo razvezuje jezik",
+        "piće otkriva misli"
       ],
       "literal_ru": "",
-      "register": "poslovica; redosled delova varira",
+      "register": "poslovica, razg.; varijanta: Šta trezan misli, to pijan govori",
       "examples": [
         {
-          "serbian_latin": "Jer, šta pijan govori, trezan misli.",
-          "russian": "Ведь что у трезвого на уме, то у пьяного на языке.",
-          "source": "Danas, 2022"
+          "serbian_latin": "Svi znaju za izreku „što trezan misli, pijan govori“.",
+          "russian": "Все знают поговорку: «Что у трезвого на уме, то у пьяного на языке».",
+          "source": "Blic, 2015",
+          "url": "https://www.blic.rs/vesti/politika/pristinski-mediji-hasim-taci-pijan-pevao-ko-to-kaze-ko-to-laze-srbija-je-mala/tmbv1qe"
         },
         {
-          "serbian_latin": "Sinoć je sve izgovorio — što trezan misli, pijan govori.",
-          "russian": "Вчера он всё выложил: что у трезвого на уме, то у пьяного на языке.",
+          "serbian_latin": "Sinoć mi je rekao šta stvarno misli o meni. Što trezan misli, pijan govori.",
+          "russian": "Вчера вечером он высказал всё, что обо мне думает. Что у трезвого на уме, то у пьяного на языке.",
           "source": ""
         }
       ],
-      "note": "Порядок частей свободно варьирует: što trezan misli, pijan govori и što pijan govori, trezan misli. Форма trezan — сербская экавская; trijezan было бы иекавским.",
-      "keyword": "trezan; pijan"
+      "note": "Смысл основан на представлении о том, что алкоголь ослабляет самоконтроль и человек выдаёт скрытые мысли. Но это пословица, а не надёжное психологическое правило: в опьянении человек может и искажать факты. По-русски существует почти точный устойчивый эквивалент.",
+      "keyword": "trezan pijan govori"
     },
     {
       "headword_latin": "Šuć-muć (pa prolij)",
@@ -50081,28 +50428,29 @@
     },
     {
       "headword_latin": "U se, na se i poda se",
-      "type": "izreka",
-      "definition_ru": "всё на еду, одежду и удовольствия; жить только для себя и телесных радостей",
+      "type": "izraz",
+      "definition_ru": "жить ради еды, нарядов и секса; думать прежде всего о собственных удовольствиях",
       "synonyms_sr": [
-        "živeti za svoja zadovoljstva",
-        "ugađati sebi",
-        "hedonisati (razg.)"
+        "gledati samo svoje zadovoljstvo",
+        "živeti za uživanje",
+        "misliti samo na sebe"
       ],
-      "literal_ru": "в себя, на себя и под себя",
-      "register": "razg., šalj.-neodobr.; ustaljena ritmička formula",
+      "literal_ru": "В себя, на себя и под себя.",
+      "register": "razg., šalj.-neodobr.; često sa seksualnom aluzijom",
       "examples": [
         {
-          "serbian_latin": "Sve što zaradi ode u se, na se i poda se.",
-          "russian": "Всё, что зарабатывает, уходит на еду, одежду и удовольствия.",
-          "source": ""
+          "serbian_latin": "„Use, nase i poda se“ je naziv novog albuma.",
+          "russian": "«В себя, на себя и под себя» — название нового альбома.",
+          "source": "Blic, 2003; naslov albuma",
+          "url": "https://www.blic.rs/zabava/u-se-na-se-i-poda-se/t99gvss"
         },
         {
-          "serbian_latin": "„U se“ znači da moraš da jedeš, „na se“ da nešto obučeš...",
-          "russian": "«В себя» — надо поесть, «на себя» — во что-то одеться...",
-          "source": "Blic, 2003"
+          "serbian_latin": "Njega zanimaju samo tri stvari: u se, na se i poda se.",
+          "russian": "Его интересуют только три вещи: поесть, принарядиться и развлечься в постели.",
+          "source": ""
         }
       ],
-      "note": "Традиционное шутливое расшифровывание: u se — еда и питьё, na se — одежда, poda se — секс. Формула обозначает приземлённый гедонистический принцип жизни. Она настолько узнаваема, что используется как название современных спектаклей.",
+      "note": "Формула строится на ритме трёх компонентов: u se — еда и питьё, na se — одежда и внешний вид, poda se — сексуальные удовольствия. В разговоре она нередко характеризует эгоистичный, потребительский образ жизни. В газетных заголовках встречается слитное шутливое написание Use, nase, но для словарной статьи удобнее раздельная форма.",
       "keyword": "u se na se poda se"
     },
     {
@@ -56130,24 +56478,30 @@
     },
     {
       "headword_latin": "Znam te, puško, dok si pištolj bila",
-      "type": "frazeologizam",
-      "definition_ru": "знаю я тебя давно; помню, с чего ты начинал; меня твоей нынешней важностью не впечатлишь",
+      "type": "izreka",
+      "definition_ru": "я-то знаю, кем ты был раньше; меня не проведёшь; знаем мы тебя насквозь",
       "synonyms_sr": [
-        "dobro te znam",
-        "znam ja tebe odavno",
-        "znam odakle si počeo"
+        "znam ja tebe",
+        "ne možeš me prevariti",
+        "znam kakav si bio"
       ],
-      "literal_ru": "знаю тебя, ружьё, ещё когда ты была пистолетом",
-      "register": "razg., ironično; često onome ko se uzdigao, uobrazio ili pokušava da ostavi važniji utisak",
+      "literal_ru": "Знаю тебя, ружьё, когда ты ещё пистолетом было.",
+      "register": "razg., iron.; o nekom ko se pravi važan ili se promenio",
       "examples": [
         {
-          "serbian_latin": "Nemoj meni da glumiš velikog šefa — znam te, puško, dok si pištolj bila.",
-          "russian": "Не строй передо мной большого начальника — я прекрасно помню, с чего ты начинал.",
+          "serbian_latin": "Naš narod kaže: znam te puško dok si pištolj bila!",
+          "russian": "В народе говорят: знаю я тебя, кем ты был раньше!",
+          "source": "Kurir, 2014",
+          "url": "https://www.kurir.rs/vesti/drustvo/1631104/mali-dokica-a-velika-lopuza"
+        },
+        {
+          "serbian_latin": "Sad se pravi važan, a ja ga znam još iz škole: znam te, puško, dok si pištolj bila.",
+          "russian": "Теперь он важничает, а я его ещё со школы знаю. Знаем мы, кто он такой!",
           "source": ""
         }
       ],
-      "note": "Формула существовала в разговорной речи и получила дополнительную узнаваемость благодаря песне grupe Riblja Čorba „Znam te (Drugoga voli)“. Смысл не просто «я тебя знаю», а «я знаю твоё прошлое, поэтому нынешний фасад меня не обманет».",
-      "keyword": "puška; pištolj"
+      "note": "Ирония адресована тому, кто теперь изображает из себя важную персону или пытается скрыть своё прошлое. Обращение puško — звательный падеж от puška; оно остаётся в формуле и при разговоре о мужчине. Контраст крупного ружья и более скромного пистолета делает намёк на прежнее положение особенно колким.",
+      "keyword": "znam te puško"
     },
     {
       "headword_latin": "Znati koliko je sati",
@@ -56273,27 +56627,29 @@
     },
     {
       "headword_latin": "Zubato sunce",
-      "type": "frazeologizam",
-      "definition_ru": "солнце светит, да не греет; обманчивое зимнее солнце",
+      "type": "kolokacija",
+      "definition_ru": "солнце светит, но не греет; холодное зимнее солнце",
       "synonyms_sr": [
         "hladno sunce",
-        "zimsko sunce koje ne greje"
+        "sunčano, ali hladno vreme",
+        "sunce bez toplote"
       ],
-      "literal_ru": "зубастое солнце",
-      "register": "razg.-slikovito; o sunčanom ali hladnom zimskom danu",
+      "literal_ru": "Зубастое солнце.",
+      "register": "razg.-publicistički; naročito u vremenskim prognozama",
       "examples": [
         {
           "serbian_latin": "Hladan dan i zubato sunce, sneg na planinama.",
-          "russian": "Холодный день и солнце, которое светит, но не греет; в горах снег.",
-          "source": "RTS, 2025"
+          "russian": "Холодный день, солнце светит, но не греет, в горах снег.",
+          "source": "RTS, 2025; naslov",
+          "url": "https://www.rts.rs/lat/vesti/vreme/5624575/vreme-prognoza-12-januar-2025-rts.html"
         },
         {
-          "serbian_latin": "Nemoj bez jakne, napolju je zubato sunce.",
-          "russian": "Не выходи без куртки: солнце обманчивое, на улице холодно.",
+          "serbian_latin": "Napolju je zubato sunce, obuci jaknu.",
+          "russian": "На улице солнце, но холодно — надень куртку.",
           "source": ""
         }
       ],
-      "note": "Образ очень живой: солнце яркое, но вместо тепла как будто «кусается». Выражение не исчезло из современной речи и употребляется даже в прогнозах погоды.",
+      "note": "Для русского буквальное «зубастое солнце» может создать неправильную ассоциацию с жгучими лучами. В сербском это как раз обманчивое зимнее или осеннее солнце: светит ярко, но на улице холодно. Выражение очень естественно в прогнозах погоды и бытовом разговоре.",
       "keyword": "zubato sunce"
     },
     {
