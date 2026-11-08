@@ -4209,6 +4209,32 @@
       "keyword": "brz kao vetar"
     },
     {
+      "headword_latin": "Brže-bolje",
+      "type": "prilog",
+      "definition_ru": "поспешно; тут же, не мешкая; второпях",
+      "synonyms_sr": [
+        "na brzinu",
+        "žurno",
+        "navrat-nanos (razg.)"
+      ],
+      "literal_ru": "",
+      "register": "razg.; često s prizvukom brzopletosti",
+      "examples": [
+        {
+          "serbian_latin": "Brže-bolje je spakovao stvari i krenuo na stanicu.",
+          "russian": "Он в спешке собрал вещи и отправился на вокзал.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Čim je čuo vest, brže-bolje je pozvao brata.",
+          "russian": "Как только он услышал новость, тут же позвонил брату.",
+          "source": ""
+        }
+      ],
+      "note": "Это наречие пишется через дефис. Оно может обозначать как просто немедленное действие, так и суетливую, непродуманную спешку. Для нейтрального «как можно скорее» обычно лучше što pre.",
+      "keyword": "brže-bolje"
+    },
+    {
       "headword_latin": "Budi Bog s nama!",
       "type": "uzvik",
       "definition_ru": "господи помилуй!; ну и дела!; что же это творится!",
@@ -5511,6 +5537,32 @@
       "keyword": "ćutanje je zlato"
     },
     {
+      "headword_latin": "Ćutati kao grob",
+      "type": "frazeologizam",
+      "definition_ru": "молчать как могила; хранить тайну; не выдать ни слова",
+      "synonyms_sr": [
+        "čuvati tajnu",
+        "ne odati ni reč",
+        "ćutati kao zaliven (delimično)"
+      ],
+      "literal_ru": "Молчать как могила.",
+      "register": "razg.; naročito o čuvanju tajne",
+      "examples": [
+        {
+          "serbian_latin": "Ne brini, ćutaću kao grob.",
+          "russian": "Не волнуйся, буду молчать как могила.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Svi su ga ispitivali, a on je ćutao kao grob.",
+          "russian": "Все его расспрашивали, а он хранил гробовое молчание.",
+          "source": ""
+        }
+      ],
+      "note": "В контексте доверенной тайны это обещание никому ничего не рассказать. Близкое ćutati kao zaliven чаще описывает человека, который упорно молчит или не отвечает на вопросы. В отличие от русского «молчать как рыба», образ могилы здесь подчёркивает абсолютную скрытность.",
+      "keyword": "ćutati kao grob"
+    },
+    {
       "headword_latin": "ćutati kao zaliven",
       "type": "сравнительный фразеологизм",
       "definition_ru": "Молчать как воды в рот набрав; не произносить ни слова.",
@@ -5538,6 +5590,32 @@
       ],
       "note": "Одно из объяснений связывает оборот с полной формой ćutati kao olovom zaliven — словно рот залит свинцом.",
       "keyword": "zaliven"
+    },
+    {
+      "headword_latin": "Da je bolje, ne bi valjalo",
+      "type": "replika",
+      "definition_ru": "лучше не бывает; всё отлично; куда уж лучше (в том числе иронически)",
+      "synonyms_sr": [
+        "bolje ne može",
+        "odlično je",
+        "nikad bolje (razg.)"
+      ],
+      "literal_ru": "Если бы было лучше, было бы уже нехорошо.",
+      "register": "razg., šalj.; odgovor na Kako si?",
+      "examples": [
+        {
+          "serbian_latin": "Kako si? — Da je bolje, ne bi valjalo!",
+          "russian": "Как дела? — Лучше не бывает!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pitaš kako nam ide? Da je bolje, ne bi valjalo — samo da potraje.",
+          "russian": "Спрашиваешь, как у нас дела? Лучше не придумаешь — лишь бы так и дальше было.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот часто звучит как шутливый ответ на Kako si? и обычно означает, что всё хорошо. В зависимости от интонации может быть и горькой иронией, особенно когда обстоятельства явно плохи. Та же формула стала названием сатирического романа сербского писателя Бояна Любеновича.",
+      "keyword": "da je bolje, ne bi valjalo"
     },
     {
       "headword_latin": "Da komšiji crkne krava",
@@ -7558,6 +7636,32 @@
       "keyword": "doći sebi"
     },
     {
+      "headword_latin": "Dođi mi da ti dođem",
+      "type": "izraz",
+      "definition_ru": "ты мне — я тебе; взаимные услуги; обмен любезностями по расчёту",
+      "synonyms_sr": [
+        "usluga za uslugu",
+        "ja tebi, ti meni",
+        "uzajamno se pomagati (neutralno)"
+      ],
+      "literal_ru": "Приди ко мне, чтобы я пришёл к тебе.",
+      "register": "razg.; često iron. o uzajamnim uslugama i klijentelizmu",
+      "examples": [
+        {
+          "serbian_latin": "Kod njih sve funkcioniše po principu: dođi mi da ti dođem.",
+          "russian": "У них всё устроено по принципу «ты мне — я тебе».",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nije bilo konkursa, samo dođi mi da ti dođem.",
+          "russian": "Никакого конкурса не было — одно сплошное «ты мне — я тебе».",
+          "source": ""
+        }
+      ],
+      "note": "Сегодня оборот нередко осуждает кумовство и обмен услугами ради выгоды. Однако в этнографических описаниях Шумадии он встречается буквально о взаимных визитах на slava: пришедшего в гости ожидали затем у себя. Поэтому изначально принцип взаимности не обязательно отрицателен.",
+      "keyword": "dođi mi da ti dođem"
+    },
+    {
       "headword_latin": "Dođoh, videh, pobedih",
       "type": "krilatica",
       "definition_ru": "пришёл, увидел, победил; быстро и уверенно добиться успеха",
@@ -7612,32 +7716,29 @@
     },
     {
       "headword_latin": "Dogorelo je do nokata",
-      "type": "frazeologizam",
-      "definition_ru": "дальше терпеть нельзя; ситуация дошла до крайней точки; припекло настолько, что действовать нужно немедленно",
+      "type": "izraz",
+      "definition_ru": "дальше терпеть невозможно; дошло до крайности; припекло",
       "synonyms_sr": [
-        "došlo je do kraja",
-        "više se ne može",
-        "situacija je krajnje ozbiljna",
-        "došlo je do guše"
+        "došlo je do krajnje granice",
+        "došlo je do guše",
+        "situacija je postala neizdrživa"
       ],
-      "literal_ru": "догорело до ногтей",
-      "register": "razgovorno-publicistički, ekspresivno",
+      "literal_ru": "Догорело до ногтей.",
+      "register": "razg.-public., ekspresivno; bezlično: dogorelo je",
       "examples": [
         {
-          "serbian_latin": "Međutim, mnogim građanima, i onim ucenjenim koje SNS kupuje sendvičima i parizerima, dogorelo je do nokata.",
-          "russian": "Однако у многих граждан ситуация уже дошла до предела.",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/vesti/politika/svetlana-ceca-bojkovic/"
+          "serbian_latin": "Dogorelo je do nokata.",
+          "russian": "Дошло до крайности.",
+          "source": "Danas, 2025"
         },
         {
-          "serbian_latin": "Diplomiranom inženjeru Živoradu Cvetkoviću, vlasniku i direktoru vrlo uspešne privatne firme „Elbi“ iz Valjeva, dogorelo je do nokata.",
-          "russian": "Для инженера Живорада Цветковича ситуация дошла до крайней точки.",
-          "source": "Politika, 2006",
-          "url": "https://www.politika.rs/sr/clanak/13078/%D0%9E%D0%B4%D0%BB%D0%B0%D0%B7%D0%B8-%D0%B7%D0%B1%D0%BE%D0%B3-%D0%BD%D0%B5%D1%83%D1%81%D0%BF%D0%B5%D1%85%D0%B0-%D0%BD%D0%B0-%D1%82%D0%B5%D0%BD%D0%B4%D0%B5%D1%80%D0%B8%D0%BC%D0%B0"
+          "serbian_latin": "Kad su ostali bez plata, radnicima je dogorelo do nokata.",
+          "russian": "Когда работники остались без зарплаты, терпение у них окончательно лопнуло.",
+          "source": ""
         }
       ],
-      "note": "Образ свечи или другого горящего предмета, который догорел почти до пальцев. Это сильнее нейтрального postalo je teško: терпение или запас возможностей практически исчерпаны.",
-      "keyword": "dogorelo do nokata"
+      "note": "Формула сообщает, что неприятности достигли предела и дальше откладывать решение нельзя. В отличие от preko glave mi je («мне всё осточертело»), здесь особенно важна критичность самой ситуации. Типична безличная конструкция dogorelo je do nokata, иногда с дательным падежом лица.",
+      "keyword": "dogorelo je do nokata"
     },
     {
       "headword_latin": "Dok dlanom o dlan",
@@ -8981,6 +9082,31 @@
       "keyword": "dug jezik; jezičav"
     },
     {
+      "headword_latin": "Duga kosa, kratka pamet",
+      "type": "poslovica",
+      "definition_ru": "волос долог, да ум короток; презрительное суждение о женском уме",
+      "synonyms_sr": [
+        "predrasuda o ženama",
+        "potcenjivati žensku pamet"
+      ],
+      "literal_ru": "Длинные волосы — короткий ум.",
+      "register": "starinska poslovica; uvredljivo, seksistički; često ironično citiranje",
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da ponavljaš ono „duga kosa, kratka pamet“ — to je ružna predrasuda.",
+          "russian": "Не повторяй это «волос долог, да ум короток» — отвратительный предрассудок.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad je čuo njenu primedbu, samo je podrugljivo rekao: „Duga kosa, kratka pamet.“",
+          "russian": "Услышав её замечание, он лишь презрительно бросил: «Волос долог, да ум короток».",
+          "source": ""
+        }
+      ],
+      "note": "Это исторически распространённая сексистская пословица, приписывающая женщинам недостаток ума. Русский аналог совпадает по смыслу, но в современном общении такая реплика звучит оскорбительно. Её полезнее узнавать в чужой речи, чем использовать самому.",
+      "keyword": "duga kosa, kratka pamet"
+    },
+    {
       "headword_latin": "Dupke pun",
       "type": "kolokacija",
       "definition_ru": "битком набит; переполнен; полон до отказа",
@@ -9578,31 +9704,28 @@
     {
       "headword_latin": "Fale samo od popa uši",
       "type": "izraz",
-      "definition_ru": "здесь уже есть всё что угодно; для полного абсурда не хватает только чего-то совсем невероятного",
+      "definition_ru": "чего тут только нет!; всё возможное уже собрано; только поповых ушей не хватает",
       "synonyms_sr": [
         "ima svega i svačega",
-        "samo još to fali",
         "svega ima",
-        "potpuni vašar"
+        "nema čega nema"
       ],
-      "literal_ru": "не хватает только поповских ушей",
-      "register": "razgovorno, šaljivo, ironično",
+      "literal_ru": "Не хватает только ушей священника.",
+      "register": "razg., šalj., ponekad podrugljivo",
       "examples": [
         {
-          "serbian_latin": "Ijuuu... pa ovde samo od popa uši fale.",
-          "russian": "Ого… здесь уже только поповских ушей не хватает.",
-          "source": "Vukajlija, 2011",
-          "url": "https://vukajlija.com/od-popa-usi/368875"
+          "serbian_latin": "Svašta se ovde definisalo, fale još samo od popa uši!",
+          "russian": "Чего тут только не понаписали — разве что поповых ушей не хватает!",
+          "source": "Vukajlija, 2010"
         },
         {
-          "serbian_latin": "Samo od popa uši fale!",
-          "russian": "Только поповских ушей и не хватает!",
-          "source": "Vukajlija, 2013",
-          "url": "https://vukajlija.com/rambov-arsenal"
+          "serbian_latin": "U toj fioci ima računa, dugmadi, starih ključeva — fale samo od popa uši.",
+          "russian": "В этом ящике счета, пуговицы, старые ключи — чего только нет.",
+          "source": ""
         }
       ],
-      "note": "Шутливая гипербола о чрезмерном количестве разнородных вещей, функций или украшений. Чаще встречается и сокращённо: samo od popa uši.",
-      "keyword": "od popa uši"
+      "note": "Это гротескное обозначение места, где скопилось всё что угодно, нередко без порядка. Упоминание ушей священника не связано с церковным обрядом; это нарочито нелепая последняя «недостающая» вещь. Русский эквивалент «только птичьего молока не хватает» хорошо передаёт устройство шутки.",
+      "keyword": "fale samo od popa uši"
     },
     {
       "headword_latin": "Fali mu daska u glavi",
@@ -15257,6 +15380,32 @@
       "keyword": "jezik kosti nema ali kosti lomi"
     },
     {
+      "headword_latin": "Još majke rađaju Obiliće",
+      "type": "krilatica",
+      "definition_ru": "богатыри ещё не перевелись; отважные люди ещё есть",
+      "synonyms_sr": [
+        "još ima junaka",
+        "hrabri ljudi nisu nestali",
+        "još se rađaju junaci"
+      ],
+      "literal_ru": "Матери ещё рождают Обиличей.",
+      "register": "patetično, nacionalno-istorijski obojeno; ponekad ironično",
+      "examples": [
+        {
+          "serbian_latin": "Još majke rađaju Obiliće.",
+          "russian": "Богатыри ещё не перевелись.",
+          "source": "BBC na srpskom / Danas, 2026"
+        },
+        {
+          "serbian_latin": "Kad je sam izvukao povređenog iz reke, neko je rekao: „Još majke rađaju Obiliće.“",
+          "russian": "Когда он один вытащил раненого из реки, кто-то сказал: «Герои ещё не перевелись».",
+          "source": ""
+        }
+      ],
+      "note": "Miloš Obilić — герой сербского косовского эпоса; согласно преданию, он убил османского султана Мурада во время Косовской битвы 1389 года. Формула возвышенная и может быть связана с националистической или политически спорной риторикой; встречается также вариант Još rađaju majke Obiliće. В повседневной нейтральной похвале естественнее reći da je neko hrabar.",
+      "keyword": "još majke rađaju obiliće"
+    },
+    {
       "headword_latin": "Jovo nanovo",
       "type": "izraz",
       "definition_ru": "опять сначала; снова-здорово; опять двадцать пять",
@@ -15813,6 +15962,32 @@
       ],
       "note": "Русский устойчивый образ — «с Луны свалился», сербский — именно s Marsa. Поэтому буквальная калька при переводе звучит менее естественно, хотя понятна. Выражение может означать и растерянность в незнакомой среде, и ироническую оторванность от очевидной реальности. Сербский источник по астрономической тематике также отмечает, что говорят именно pao s Marsa, а не с других планет.",
       "keyword": "Mars"
+    },
+    {
+      "headword_latin": "Kao da te je poplava izbacila",
+      "type": "frazeologizam",
+      "definition_ru": "выглядишь так, будто тебя из воды вытащили; вид у тебя измученный и неопрятный",
+      "synonyms_sr": [
+        "izgledati izgužvano",
+        "izgledati zapušteno",
+        "izgledati kao posle potopa"
+      ],
+      "literal_ru": "Будто тебя вынесло на берег наводнением.",
+      "register": "razg., podrugljivo, često grubo",
+      "examples": [
+        {
+          "serbian_latin": "Izgledaš kao da te je poplava izbacila.",
+          "russian": "Выглядишь так, будто тебя после потопа вытащили.",
+          "source": "Pulsonline, 2024"
+        },
+        {
+          "serbian_latin": "Gde si bio? Sav si mokar i blatnjav, kao da te je poplava izbacila.",
+          "russian": "Где ты был? Весь мокрый и в грязи, словно тебя паводком вынесло.",
+          "source": ""
+        }
+      ],
+      "note": "Сравнение описывает растрёпанный, измученный, мокрый или крайне неопрятный внешний вид. Это не нейтральный комплимент и может обидеть человека, даже если сказано в шутку. В непринуждённой речи возможна сокращённая форма ko da, но в нормативном письме следует сохранять kao da.",
+      "keyword": "kao da te je poplava izbacila"
     },
     {
       "headword_latin": "kao grom iz vedra neba",
@@ -18090,6 +18265,32 @@
       "keyword": "kiša oko Kragujevca"
     },
     {
+      "headword_latin": "Krv mu je jurnula u glavu",
+      "type": "frazeologizam",
+      "definition_ru": "кровь бросилась ему в голову; он вспыхнул от ярости или сильного волнения",
+      "synonyms_sr": [
+        "planuti",
+        "razbesneti se",
+        "pasti nekome mrak na oči (jače)"
+      ],
+      "literal_ru": "Кровь бросилась ему в голову.",
+      "register": "razg.; promenljiva zamenica u dativu: mi, ti, mu, joj",
+      "examples": [
+        {
+          "serbian_latin": "Kad je čuo uvredu, krv mu je jurnula u glavu.",
+          "russian": "Когда он услышал оскорбление, кровь бросилась ему в голову.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Od stida joj je krv jurnula u glavu.",
+          "russian": "От стыда кровь прилила ей к голове.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот может описывать не только ярость, но и стыд или внезапное сильное волнение. Лицо выражается дательным падежом: krv mi / ti / mu / joj je jurnula u glavu. Не смешивать с pocrveneti, где говорится лишь о покраснении лица без указания причины.",
+      "keyword": "krv mu je jurnula u glavu"
+    },
+    {
       "headword_latin": "Krv nije voda",
       "type": "izreka",
       "definition_ru": "кровь не водица; родство даёт о себе знать; яблоко от яблони недалеко пада",
@@ -18802,6 +19003,32 @@
       ],
       "note": "Kabal в этом фразеологизме исторически связывают не с электрическим кабелем, а со старым kabao — сосудом для воды. Для современного говорящего выражение воспринимается целиком.",
       "keyword": "lije kao iz kabla"
+    },
+    {
+      "headword_latin": "Liti kao iz kabla",
+      "type": "frazeologizam",
+      "definition_ru": "лить как из ведра; идти сплошным ливнем",
+      "synonyms_sr": [
+        "pljuštati",
+        "padati kao iz kabla",
+        "liti bez prestanka"
+      ],
+      "literal_ru": "Лить словно из ведра.",
+      "register": "razg.; najčešće o kiši, prezent: lije",
+      "examples": [
+        {
+          "serbian_latin": "Kiša lije kao iz kabla, a na snimku se može videti i kako tuče grad.",
+          "russian": "Дождь льёт как из ведра, а на видео видно, что ещё и град идёт.",
+          "source": "Telegraf, 2026"
+        },
+        {
+          "serbian_latin": "Nemoj sada da krećeš, napolju lije kao iz kabla.",
+          "russian": "Не выходи сейчас, на улице льёт как из ведра.",
+          "source": ""
+        }
+      ],
+      "note": "Kabao — старое название большого ведра или бадьи, отсюда образ дождя, который словно выливают целым ведром. Для русского перевод «как из ведра» полностью естественен, но сербское слово в выражении имеет форму kabla. Глагол обычно употребляется безлично: napolju lije.",
+      "keyword": "liti kao iz kabla"
     },
     {
       "headword_latin": "Liti krokodilske suze",
@@ -23469,6 +23696,32 @@
       ],
       "note": "Женщина говорит nisam pametna, мужчина — nisam pametan. Фраза обычно не означает буквальное признание в глупости: это формула растерянности или неопределённости.",
       "keyword": "nisam pametna"
+    },
+    {
+      "headword_latin": "Ne znati da li je došao ili pošao",
+      "type": "frazeologizam",
+      "definition_ru": "совсем растеряться; не понимать, за что хвататься; потерять ориентиры",
+      "synonyms_sr": [
+        "biti potpuno zbunjen",
+        "ne znati gde ti je glava",
+        "ne znati šta te je snašlo"
+      ],
+      "literal_ru": "Не знать, пришёл ли он или отправился.",
+      "register": "razg.; o zbunjenosti, pometnji ili rastrzanosti",
+      "examples": [
+        {
+          "serbian_latin": "Izuzetno je vaspitan, malo deluje šašavo kao da ne zna da li je došao ili pošao, ali to je ono što ga odvaja od drugih.",
+          "russian": "Он очень воспитанный, но кажется немного рассеянным, будто совсем не понимает, что к чему, и этим отличается от других.",
+          "source": "Blic, 2023"
+        },
+        {
+          "serbian_latin": "Od svih obaveza više ne znam da li sam došao ili pošao.",
+          "russian": "Из-за всех этих дел я уже не понимаю, за что хвататься.",
+          "source": ""
+        }
+      ],
+      "note": "Устойчивое противопоставление došao — pošao показывает растерянность или суматоху, а не реальное направление движения. В зависимости от говорящего меняется лицо: ne znam da li sam došao ili pošao. Выражение часто относится к человеку, которого перегрузили делами.",
+      "keyword": "ne znati da li je došao ili pošao"
     },
     {
       "headword_latin": "Ne znati gde bije",
@@ -28683,28 +28936,28 @@
     {
       "headword_latin": "Otvorena ti je radnja",
       "type": "replika",
-      "definition_ru": "у тебя ширинка расстёгнута; у тебя «магазин открыт»",
+      "definition_ru": "у тебя ширинка расстёгнута; магазин открыт (шутливое замечание)",
       "synonyms_sr": [
-        "otvoren ti je šlic",
         "otkopčan ti je šlic",
-        "zakopčaj pantalone"
+        "zakopčaj šlic",
+        "radi ti radnja (sleng)"
       ],
-      "literal_ru": "у тебя лавка открыта",
-      "register": "razg., šalj.-eufemistički; diskretan ili podsmešljiv komentar o otkopčanom šlicu",
+      "literal_ru": "У тебя магазин открыт.",
+      "register": "razg., šalj.; eufemizam, ponekad detinjasto",
       "examples": [
         {
-          "serbian_latin": "Ministru prosvete otvorena radnja.",
-          "russian": "У министра просвещения ширинка расстёгнута.",
-          "source": "Danas, 2025"
+          "serbian_latin": "Ej, otvorena ti je radnja, zakopčaj šlic!",
+          "russian": "Эй, у тебя ширинка расстёгнута, застегнись!",
+          "source": ""
         },
         {
-          "serbian_latin": "Ej, otvorena ti je radnja.",
-          "russian": "Эй, у тебя ширинка расстёгнута.",
+          "serbian_latin": "Drug mu je šapnuo da mu je otvorena radnja.",
+          "russian": "Приятель шепнул ему, что у него ширинка открыта.",
           "source": ""
         }
       ],
-      "note": "Метафора почти совпадает с русским шутливым «магазин открыт». Radnja здесь не «работа», а «магазин, лавка»; нейтрально следует сказать otvoren / otkopčan ti je šlic.",
-      "keyword": "radnja"
+      "note": "Radnja буквально означает магазин или торговое заведение. В этой шутливой реплике так называют расстёгнутую ширинку, намеренно избегая прямого слова šlic. Существует также вопрос Do kad ti radi radnja?, который особенно характерен для подростковых поддёвок.",
+      "keyword": "otvorena ti je radnja"
     },
     {
       "headword_latin": "Otvoriti četvore oči",
@@ -43392,30 +43645,29 @@
     },
     {
       "headword_latin": "Svetkom i petkom",
-      "type": "frazeologizam",
-      "definition_ru": "и в праздники, и в будни; без выходных; постоянно",
+      "type": "izraz",
+      "definition_ru": "и по праздникам, и по будням; каждый день без передышки",
       "synonyms_sr": [
         "bez prestanka",
-        "bez odmora",
-        "i radnim danom i praznikom",
-        "danonoćno (jače)"
+        "svakog dana",
+        "i radnim danom i praznikom"
       ],
-      "literal_ru": "по праздникам и по пятницам",
-      "register": "razg.; naročito o radu bez odmora; postoji i redosled petkom i svetkom",
+      "literal_ru": "В праздник и в пятницу.",
+      "register": "tradicionalno, razg.; o radu ili čestom ponavljanju",
       "examples": [
         {
-          "serbian_latin": "U Srbiji se i dalje radi „i svetkom i petkom“.",
-          "russian": "В Сербии по-прежнему работают и в праздники, и в будни — без передышки.",
-          "source": "Vreme, 2024"
+          "serbian_latin": "Radi svetkom i petkom, retko kada ima slobodan dan.",
+          "russian": "Он работает и в будни, и в праздники, почти без выходных.",
+          "source": ""
         },
         {
-          "serbian_latin": "Radi svetkom i petkom, skoro nikad nema slobodan dan.",
-          "russian": "Работает без выходных, свободных дней почти не бывает.",
+          "serbian_latin": "Nisu se viđali samo vikendom, nego svetkom i petkom.",
+          "russian": "Они виделись не только по выходным, а буквально каждый день.",
           "source": ""
         }
       ],
-      "note": "Svetak — старое слово «праздничный, святой день», сохранившееся прежде всего в этой формуле. Сегодня весь оборот означает не буквально пятницу и праздник, а «постоянно, даже тогда, когда другие отдыхают».",
-      "keyword": "petak"
+      "note": "Svetak — старое слово «праздничный день»; вне устойчивого оборота оно в сербском сегодня употребляется редко. Пара svetkom i petkom обозначает регулярность без различия между праздничным и обычным днём, особенно при описании работы без отдыха. В современной Сербии оборот звучит несколько традиционно; более нейтрально — svakog dana или i praznikom i radnim danom.",
+      "keyword": "svetkom i petkom"
     },
     {
       "headword_latin": "Svetla tačka",
@@ -47437,29 +47689,28 @@
     {
       "headword_latin": "To je da poludiš!",
       "type": "replika",
-      "definition_ru": "с ума сойти можно!; хоть взвывай!; можно взбеситься!",
+      "definition_ru": "с ума сойти!; просто кошмар!; тут и свихнуться недолго!",
       "synonyms_sr": [
-        "ovo je da poludiš",
-        "da čovek poludi",
-        "za poludeti je"
+        "da čovek poludi!",
+        "užas jedan!",
+        "to je ludilo! (delimično)"
       ],
-      "literal_ru": "",
-      "register": "razg., ekspresivno; bes, frustracija ili zaprepašćenje",
+      "literal_ru": "От этого можно сойти с ума!",
+      "register": "razg., ekspresivno; često iznervirano",
       "examples": [
         {
-          "serbian_latin": "Ovo je da poludiš. Publika nam se taman vratila u Pan teatar, kad opet katanac.",
-          "russian": "С ума сойти! Зрители только-только вернулись в театр «Пан», а его снова закрыли.",
-          "source": "Nova.rs, 2021",
-          "url": "https://nova.rs/kultura/olivera-viktorovic-vise-nemamo-ni-ideju-kako-da-opstanemo/"
+          "serbian_latin": "Treći put popravljaju istu cev i opet curi. To je da poludiš!",
+          "russian": "Третий раз чинят одну и ту же трубу, а она опять течёт. Тут с ума сойдёшь!",
+          "source": ""
         },
         {
-          "serbian_latin": "Opet su podigli cene — to je da poludiš!",
-          "russian": "Они опять подняли цены — с ума сойти можно!",
+          "serbian_latin": "Sve poskupljuje iz dana u dan, to je da poludiš.",
+          "russian": "Всё дорожает день ото дня — просто кошмар.",
           "source": ""
         }
       ],
-      "note": "Конструкция da + презенс употребляется как восклицательная оценка неприятной или нелепой ситуации. Не означает буквальное психическое заболевание. В газетной цитате стоит разговорный вариант Ovo je da poludiš — смысл тот же.",
-      "keyword": "to je da poludiš"
+      "note": "Конструкция da + prezent здесь усиливает эмоциональную реакцию, а не обозначает цель. Чаще всего это раздражение или изнеможение, хотя в другом контексте возможно и сильное удивление. В отличие от to je da ne poveruješ, акцент обычно на том, что ситуация выводит из себя.",
+      "keyword": "to je da poludiš!"
     },
     {
       "headword_latin": "To je deo posla",
@@ -49368,31 +49619,28 @@
     {
       "headword_latin": "Tražiti đavola",
       "type": "frazeologizam",
-      "definition_ru": "Самому напрашиваться на неприятности; сознательно рисковать там, где можно было бы избежать проблемы.",
+      "definition_ru": "напрашиваться на неприятности; искать приключений на свою голову; играть с огнём",
       "synonyms_sr": [
-        "izazivati nevolju",
-        "igrati se vatrom",
-        "tražiti belaja",
-        "navlačiti problem na vrat"
+        "izazivati sudbinu",
+        "tražiti nevolju",
+        "igrati se vatrom"
       ],
-      "literal_ru": "искать дьявола",
-      "register": "razgovorno, ekspresivno; često kao upozorenje: Ne traži đavola",
+      "literal_ru": "Искать чёрта.",
+      "register": "razg., ekspresivno; često uz svesno preuzimanje rizika",
       "examples": [
         {
-          "serbian_latin": "Dvojica baš mojih najbližih prosto su „tražili đavola“.",
-          "russian": "Двое моих самых близких людей буквально сами напрашивались на неприятности.",
-          "source": "RTS, 2020",
-          "url": "https://www.rts.rs/lat/magazin/kultura/intervju/4018138/tako-je-govorio-aleksandar-deroko-.html"
+          "serbian_latin": "Na primer, dvojica baš mojih najbližih prosto su „tražili đavola“.",
+          "russian": "Например, двое моих самых близких друзей буквально нарывались на беду.",
+          "source": "RTS, 2020"
         },
         {
-          "serbian_latin": "Postoji i fraza „tražiš đavola“.",
-          "russian": "Есть и выражение «сам ищешь неприятностей».",
-          "source": "Danas, 2024",
-          "url": "https://www.danas.rs/kolumna/marko-selic-marcelo/drzavna-redaljka-nad-radnicima-u-kulturi/"
+          "serbian_latin": "Ne ulazi u tu raspravu bez potrebe, samo tražiš đavola.",
+          "russian": "Не ввязывайся в этот спор без нужды — сам на неприятности напрашиваешься.",
+          "source": ""
         }
       ],
-      "note": "Смысл не религиозный: đavo здесь образ опасности и неприятностей. Реплика Ne traži đavola! близка русским «не нарывайся», «не ищи приключений на свою голову», «не играй с огнём».",
-      "keyword": "tražiti đavola; nevolja"
+      "note": "Речь о сознательном провоцировании опасности или ненужного конфликта, а не о поисках нечистой силы. Выражение может относиться и к безрассудной смелости, и к вызывающему поведению. В разговоре также встречается усиленная формула tražiti đavola svećom.",
+      "keyword": "tražiti đavola"
     },
     {
       "headword_latin": "Tražiti hlad",
@@ -49798,6 +50046,32 @@
       ],
       "note": "Trešten — разговорный усилитель степени опьянения; особенно устойчиво сочетание trešten pijan. В отличие от просто pijan, передаёт крайне сильное опьянение. Не следует переносить это усилительное значение на любое прилагательное: устойчиво именно сочетание с pijan.",
       "keyword": "trešten pijan"
+    },
+    {
+      "headword_latin": "Trgnuti jednu",
+      "type": "frazeologizam",
+      "definition_ru": "пропустить рюмочку; быстро выпить немного крепкого спиртного",
+      "synonyms_sr": [
+        "popiti jednu čašicu",
+        "cugnuti",
+        "potegnuti iz čašice"
+      ],
+      "literal_ru": "Резко опрокинуть одну (рюмку).",
+      "register": "razg.; jedna podrazumeva čašicu pića, često rakije",
+      "examples": [
+        {
+          "serbian_latin": "Hajde da trgnemo po jednu, pa idemo.",
+          "russian": "Давай пропустим по рюмочке и пойдём.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pre ručka je trgnuo jednu rakiju na brzaka.",
+          "russian": "Перед обедом он быстренько опрокинул рюмку ракии.",
+          "source": ""
+        }
+      ],
+      "note": "В такой реплике слово jednu подразумевает рюмку спиртного, чаще ракии; существительное čašicu обычно опускается. Глагол trgnuti передаёт быстрое, резкое движение и не равен нейтральному piti. Это разговорная формула, которую не стоит принимать за совет пить алкоголь.",
+      "keyword": "trgnuti jednu"
     },
     {
       "headword_latin": "Tri puta meri, jednom seci",
@@ -52389,28 +52663,28 @@
     },
     {
       "headword_latin": "U šali se deca prave",
-      "type": "izreka",
-      "definition_ru": "шутки шутками, а последствия бывают настоящими",
+      "type": "poslovica",
+      "definition_ru": "шутки шутками, а последствия могут быть настоящими; из несерьёзного может выйти серьёзное",
       "synonyms_sr": [
-        "šala može otići predaleko",
-        "od šale može postati ozbiljno"
+        "iz šale može nastati nešto ozbiljno",
+        "šala može imati posledice"
       ],
-      "literal_ru": "в шутку и дети делаются",
-      "register": "razg., šalj.; retko i slabo potvrđeno kao ustaljena izreka",
+      "literal_ru": "И в шутку дети делаются.",
+      "register": "razg., šalj.; aluzija na intimne odnose",
       "examples": [
         {
-          "serbian_latin": "Počeli su da flertuju iz šale, a sad se venčavaju — u šali se deca prave.",
-          "russian": "Начали флиртовать в шутку, а теперь женятся: шутки шутками, а последствия настоящие.",
+          "serbian_latin": "Počelo je kao zezanje, a završilo se vezom — u šali se deca prave.",
+          "russian": "Началось как прикол, а закончилось отношениями — шутки шутками, а вышло всерьёз.",
           "source": ""
         },
         {
-          "serbian_latin": "Nemoj toliko da se šališ s njom — u šali se deca prave.",
-          "russian": "Не заигрывайся с ней так сильно: шутки могут зайти далеко.",
+          "serbian_latin": "Nemoj da joj obećavaš brak iz šale; u šali se deca prave.",
+          "russian": "Не обещай ей жениться в шутку: шутки могут далеко зайти.",
           "source": ""
         }
       ],
-      "note": "В отличие от большинства соседних единиц из исходного файла, эту точную формулу не удалось надёжно подтвердить в крупных сербских источниках как устойчивую пословицу. Она понятна и возможна как народная шутливая реплика, поэтому лучше хранить её с пометой «редк./слабо подтверждено», а не выдавать за общеупотребительную пословицу.",
-      "keyword": "šala; deca"
+      "note": "Буквальный намёк на зачатие ребёнка придаёт выражению пикантный, шутливый тон. В переносном смысле оно предупреждает: игра или несерьёзный поступок могут обернуться настоящими последствиями. В формальной обстановке такую реплику лучше не использовать.",
+      "keyword": "u šali se deca prave"
     },
     {
       "headword_latin": "U šupku svemira",
@@ -55938,6 +56212,32 @@
       "keyword": "dužno poštovanje"
     },
     {
+      "headword_latin": "Uzburkati duhove",
+      "type": "frazeologizam",
+      "definition_ru": "взбудоражить общественность; вызвать бурные споры; поднять волну обсуждений",
+      "synonyms_sr": [
+        "izazvati burne reakcije",
+        "podići buru",
+        "uznemiriti javnost"
+      ],
+      "literal_ru": "Взволновать духов.",
+      "register": "public., ekspresivno; svršeni vid; nesvršeno uzburkavati",
+      "examples": [
+        {
+          "serbian_latin": "Alabar je, posredno, uzburkao duhove i u Bosni i Hercegovini.",
+          "russian": "Алабар косвенно вызвал бурные обсуждения и в Боснии и Герцеговине.",
+          "source": "Forbes Srbija, 2023"
+        },
+        {
+          "serbian_latin": "Njegova izjava ponovo je uzburkala duhove u javnosti.",
+          "russian": "Его заявление вновь взбудоражило общественность.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь duhovi не означает настоящих призраков; это образ разбуженных общественных страстей. В современных сербских публикациях обычно говорят uzburkati duhove, а не буквальное uzbuditi duhove из старого PDF. Глагол особенно характерен для новостей о спорных решениях, книгах и публичных заявлениях.",
+      "keyword": "uzburkati duhove"
+    },
+    {
       "headword_latin": "Uzdaj se u se i u svoje kljuse",
       "type": "poslovica",
       "definition_ru": "надейся прежде всего на себя; рассчитывай на собственные силы",
@@ -59280,23 +59580,28 @@
     {
       "headword_latin": "Znati sve staze i bogaze",
       "type": "frazeologizam",
-      "definition_ru": "знать все тропы; знать местность как свои пять пальцев; знать все ходы",
+      "definition_ru": "знать все тропки и закоулки; знать местность как свои пять пальцев",
       "synonyms_sr": [
-        "poznavati svaki put",
+        "poznavati svaki puteljak",
         "znati svaki ćošak",
-        "dobro poznavati teren"
+        "znati svaki prečac"
       ],
-      "literal_ru": "знать все тропы и теснины",
-      "register": "razg.-slikovito; pre svega o putevima, stazama i terenu",
+      "literal_ru": "Знать все тропы и узкие проходы.",
+      "register": "razg.-knjiž.; često o poznavanju kraja",
       "examples": [
         {
-          "serbian_latin": "Odrastao je ovde i zna sve staze i bogaze.",
-          "russian": "Он здесь вырос и знает каждую тропинку.",
+          "serbian_latin": "Odrastao je na toj planini i zna sve staze i bogaze.",
+          "russian": "Он вырос в этих горах и знает каждую тропинку.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pitaj lokalnog vodiča, on zna sve staze i bogaze po okolini.",
+          "russian": "Спроси местного проводника: он знает все окрестные тропы и проходы.",
           "source": ""
         }
       ],
-      "note": "Bogaz — старое слово со значением узкого прохода, теснины, тропы. Сербские языковые источники объясняют znati sve staze i bogaze как «хорошо знать все дороги». Русское «знать все ходы и выходы» шире и чаще относится к устройству системы, тогда как сербский образ изначально пространственный.",
-      "keyword": "staze i bogaze"
+      "note": "Bogaz — редкое слово тюркского происхождения, означающее теснину, проход или труднопроходимую тропу. В сочетании staze i bogaze речь прежде всего о реальных дорогах и закоулках, а не о тайных механизмах власти. Сегодня оборот может звучать несколько книжно или фольклорно.",
+      "keyword": "znati sve staze i bogaze"
     },
     {
       "headword_latin": "Znati za jadac",
