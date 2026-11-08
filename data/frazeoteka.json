@@ -45852,28 +45852,28 @@
     {
       "headword_latin": "Terati po svome",
       "type": "frazeologizam",
-      "definition_ru": "стоять на своём; поступать по-своему вопреки советам; гнуть свою линию",
+      "definition_ru": "поступать по-своему; упорно стоять на своём; не слушать других",
       "synonyms_sr": [
-        "raditi po svome",
-        "istrajavati na svome",
-        "ne popuštati",
-        "terati svoje"
+        "raditi po svom",
+        "isterivati svoje",
+        "ne odustajati od svoga"
       ],
-      "literal_ru": "гнать по-своему",
-      "register": "razg.; često neodobr., mada može označavati i samostalnost",
+      "literal_ru": "гнать по своему пути",
+      "register": "razg.; terati po svome / po svom; obicno neodobr.",
       "examples": [
         {
-          "serbian_latin": "Svi smo ga upozoravali, ali on tera po svome.",
-          "russian": "Мы все его предупреждали, а он всё равно гнёт свою линию.",
-          "source": ""
+          "serbian_latin": "Ona treba da govori pravilno, pravilan govor sluša sa televizije svakog dana, a opet tera po svom.",
+          "russian": "Она должна говорить литературно, каждый день слышит правильную речь по телевизору, но всё равно говорит по-своему.",
+          "source": "Vice Srbija, 2016",
+          "url": "https://www.vice.com/sr/article/zasto-su-nam-svi-akcenti-osim-beogradskog-smesni/"
         },
         {
-          "serbian_latin": "Ponekad je dobro poslušati druge, a ne uvek terati po svome.",
-          "russian": "Иногда стоит прислушаться к другим, а не всегда настаивать на своём.",
+          "serbian_latin": "Svi su se dogovorili, ali on i dalje tera po svome.",
+          "russian": "Все договорились, а он всё равно гнёт свою линию.",
           "source": ""
         }
       ],
-      "note": "Устойчивое po svome означает «на свой лад, по собственному усмотрению», а terati добавляет идею настойчивого продолжения. Выражение часто критикует упрямство, но в подходящем контексте может быть похвалой независимости. Сопоставимо с terati svoje, но не обязательно означает создание конфликта.",
+      "note": "В сербском здесь важна настойчивость, часто вопреки советам или общей договорённости. Возможны формы terati po svome и terati po svom. Популярное объяснение выражения через старую привычку гнать скот по своей дороге встречается в публицистике, но его нельзя считать доказанной этимологией.",
       "keyword": "terati po svome"
     },
     {
@@ -45902,6 +45902,33 @@
       ],
       "note": "Šega — насмешка, шутка, часто за чужой счёт. В отличие от нейтрального šaliti se, оборот terati šegu нередко подчёркивает недобрую или грубоватую насмешку. Нормальная модель управления — terati šegu s nekim; встречается и zbijati šegu.",
       "keyword": "terati šegu s nekim"
+    },
+    {
+      "headword_latin": "Terati šegu s nekim / nečim",
+      "type": "frazeologizam",
+      "definition_ru": "подшучивать над кем-то; насмехаться; разыгрывать",
+      "synonyms_sr": [
+        "šaliti se na nečiji račun",
+        "zbijati šale",
+        "sprdati se (vulg.)"
+      ],
+      "literal_ru": "устраивать шутку",
+      "register": "razg.; terati šegu s(a) + instrumental; od blage šale do ruganja",
+      "examples": [
+        {
+          "serbian_latin": "Nestorović možda „tera šegu“.",
+          "russian": "Возможно, Несторович просто шутит.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/drustvo/branimir-nestorovic-izbori-terorije-zavere/"
+        },
+        {
+          "serbian_latin": "Nemoj da teraš šegu sa mnom, ozbiljno te pitam.",
+          "russian": "Не разыгрывай меня, я тебя серьёзно спрашиваю.",
+          "source": ""
+        }
+      ],
+      "note": "Šega — шутка, забавная выходка; выражение может обозначать и безобидный юмор, и издёвку. Важно управление terati šegu s nekim / nečim, а не прямой винительный падеж. Русскому «гнать» в этом значении не соответствует никакая отдельная часть перевода.",
+      "keyword": "terati šegu"
     },
     {
       "headword_latin": "Terati vodu na svoju vodenicu",
@@ -47157,30 +47184,30 @@
     },
     {
       "headword_latin": "To je čista lutrija",
-      "type": "replika",
-      "definition_ru": "это чистая лотерея; как повезёт",
+      "type": "izraz",
+      "definition_ru": "это чистая лотерея; заранее ничего не угадаешь; как повезёт",
       "synonyms_sr": [
         "sve zavisi od sreće",
-        "potpuno je neizvesno",
-        "to je stvar slučaja"
+        "ne može se predvideti",
+        "puka slučajnost"
       ],
-      "literal_ru": "",
-      "register": "razg., figurativno",
+      "literal_ru": "это чистая лотерея",
+      "register": "razg.-publicistički; o neizvesnom ishodu",
       "examples": [
         {
           "serbian_latin": "Dugoročno sam uvek optimista, ali šta će biti kratkoročno - to je čista lutrija.",
-          "russian": "В долгосрочной перспективе я всегда оптимист, но что будет в ближайшее время — чистая лотерея.",
+          "russian": "В долгосрочной перспективе я всегда оптимист, но в ближайшее время всё совершенно непредсказуемо.",
           "source": "B92, 2022",
           "url": "https://www.b92.net/biz/vesti/svet/bice-jos-padova-bitkoina-kratkorocno-to-je-cista-lutrija-2094738"
         },
         {
-          "serbian_latin": "Kupovina polovnog automobila bez provere može biti čista lutrija.",
-          "russian": "Покупать подержанную машину без проверки — чистая лотерея.",
+          "serbian_latin": "Kupovina polovnog auta bez pregleda je čista lutrija.",
+          "russian": "Покупать подержанную машину без проверки — настоящая лотерея.",
           "source": ""
         }
       ],
-      "note": "Чаще означает непредсказуемый исход, зависящий от случая, а не участие в настоящей лотерее. В сочетании čista lutrija прилагательное čista усиливает оценку: «полная неопределённость».",
-      "keyword": "to je čista lutrija"
+      "note": "Здесь lutrija не обязательно означает настоящую денежную лотерею: оборот подчёркивает непредсказуемость результата. Часто употребляется при выборе товара, прогнозировании цен или оценке шансов. Прилагательное čista усиливает смысл, как русское «сплошная лотерея».",
+      "keyword": "čista lutrija"
     },
     {
       "headword_latin": "To je da ne poveruješ!",
@@ -47292,30 +47319,30 @@
     },
     {
       "headword_latin": "To je drugi padež",
-      "type": "replika",
-      "definition_ru": "это совсем другое дело; другой коленкор",
+      "type": "izraz",
+      "definition_ru": "это уже другое дело; другой вопрос; совсем иной случай",
       "synonyms_sr": [
+        "to je druga priča",
         "to je druga stvar",
-        "to je drugi par rukava",
-        "to je druga priča"
+        "to je drugi par rukava"
       ],
-      "literal_ru": "",
-      "register": "razg.",
+      "literal_ru": "это другой падеж",
+      "register": "razg., pomalo starinski ili regionalno obojen; nije gramatički termin u ovom značenju",
       "examples": [
         {
-          "serbian_latin": "To što mu tata leči navijačke komplekse u 50 godina, to je drugi padež.",
-          "russian": "А то, что отец в пятьдесят лет компенсирует свои фанатские комплексы, — уже совсем другой разговор.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/kolumna/nenad-kulacin/kad-tata-zloupotrebi-sina/"
+          "serbian_latin": "E, sad što se uvek nađe neki „heroj“ iz metropolu što misli da [...] ume da jede i ljuto, to je drugi padež.",
+          "russian": "А вот столичный «герой», уверенный, что ему по силам острая еда, — уже совсем другая история.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/kultura/quod-erat-demonstrandum/"
         },
         {
-          "serbian_latin": "Kad imaš diplomu, to je drugi padež.",
-          "russian": "Когда у тебя есть диплом, это уже другое дело.",
+          "serbian_latin": "Da li će on to platiti, to je već drugi padež.",
+          "russian": "А вот заплатит ли он за это — уже другой вопрос.",
           "source": ""
         }
       ],
-      "note": "Шутливое переносное употребление грамматического слова padež («падеж»): дело относится к совершенно иной категории. Выражение может звучать иронично, особенно при отделении второстепенного вопроса от главной темы. По сравнению с to je druga stvar оно заметно разговорнее.",
-      "keyword": "to je drugi padež"
+      "note": "Выражение действительно встречается в сербском тексте, но намного привычнее сегодня to je druga priča и to je drugi par rukava. Найденный газетный пример стилизован под южносербскую речь, поэтому его нельзя считать образцом нейтральной грамматики. Padež здесь не имеет отношения к правилам склонения.",
+      "keyword": "drugi padež"
     },
     {
       "headword_latin": "To je drugi par rukava",
@@ -47488,6 +47515,33 @@
       ],
       "note": "Сочетание malo čudo означает не «чудо малой важности», а удивительный результат, вероятность которого казалась невысокой. В русской речи «маленькое чудо» сохраняет такой же эмоционально-положительный оттенок.",
       "keyword": "to je malo čudo"
+    },
+    {
+      "headword_latin": "To je mila majka",
+      "type": "izraz",
+      "definition_ru": "это ещё цветочки; по сравнению с другим — просто благодать",
+      "synonyms_sr": [
+        "to je još dobro",
+        "to je sitnica u poređenju s tim",
+        "to je ništa naspram ovoga"
+      ],
+      "literal_ru": "это милая мама",
+      "register": "razg., iron.; obavezno je poređenje sa gorom situacijom ili podrazumevan kontrast",
+      "examples": [
+        {
+          "serbian_latin": "Turbo-folk bio „mila majka“ u poređenju sa onim što se može videti povremeno na TV ekranima.",
+          "russian": "Турбофолк был ещё цветочками по сравнению с тем, что порой показывают по телевидению.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/kolumna/safeta-bisevac/gledati-svoja-posla/"
+        },
+        {
+          "serbian_latin": "Ovaj ispit je mila majka u poređenju s onim iz anatomije.",
+          "russian": "Этот экзамен — просто подарок по сравнению с экзаменом по анатомии.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот парадоксален: что-то плохое называют «милой мамой», поскольку следующее оказывается ещё хуже. Обычно нужна конструкция mila majka u poređenju sa / u odnosu na. Русское «милая мама» буквально здесь совершенно не подходит; естественно «это ещё цветочки».",
+      "keyword": "mila majka"
     },
     {
       "headword_latin": "To je nečuveno!",
@@ -49222,29 +49276,55 @@
     {
       "headword_latin": "Tražiti repete",
       "type": "kolokacija",
-      "definition_ru": "просить добавки; брать вторую порцию",
+      "definition_ru": "просить добавки; попросить ещё одну порцию",
       "synonyms_sr": [
-        "tražiti još jednu porciju",
-        "tražiti dodatak",
-        "uzeti još hrane"
+        "tražiti još",
+        "tražiti dodatnu porciju",
+        "uzeti još malo"
       ],
       "literal_ru": "",
-      "register": "razg.; najčešće o dodatnoj porciji hrane",
+      "register": "razg.; u vezi s hranom; repete se obično ne menja po padežima",
       "examples": [
         {
-          "serbian_latin": "Umesto zabrinutosti, prijatnije je opustiti se i tražiti repete.",
-          "russian": "Вместо тревог приятнее расслабиться и попросить добавки.",
-          "source": "Danas, 2010",
-          "url": "https://www.danas.rs/kolumna/aleksej-kisjuhas/tajna-vecera/"
+          "serbian_latin": "Lidlov serijal o kulinarstvu uz koji će vam uvek tražiti repete.",
+          "russian": "Кулинарная серия Lidl, после которой у вас непременно попросят добавки.",
+          "source": "Telegraf, 2020",
+          "url": "https://www.telegraf.rs/zivot-i-stil/know-how/3200045-lidlov-serijal-o-kulinarstvu-uz-koji-ce-vam-uvek-traziti-repete"
         },
         {
-          "serbian_latin": "Supa mu se dopala pa je tražio repete.",
-          "russian": "Ему понравился суп, и он попросил добавки.",
+          "serbian_latin": "Supa mu se toliko dopala da je tražio repete.",
+          "russian": "Суп ему так понравился, что он попросил добавки.",
           "source": ""
         }
       ],
-      "note": "Repete в сербском разговорном языке — дополнительная порция еды. Можно сказать tražiti repete или dobiti repete; слово не обязательно относится к повторному выступлению или музыкальному бису. В колонке Danas автор употребляет его в шутливом рассуждении о еде.",
-      "keyword": "tražiti repete"
+      "note": "Repete — добавочная порция еды; особенно естественно tražiti repete и dati repete. Слово связано с идеей повторения, но в сербском не нужно говорить ponoviti porciju. В обиходе это не музыкальный «репет» и не репетиция.",
+      "keyword": "repete"
+    },
+    {
+      "headword_latin": "Trbuh ne zna za šalu",
+      "type": "poslovica",
+      "definition_ru": "голод не шутка; голодному не до шуток",
+      "synonyms_sr": [
+        "glad nije šala",
+        "gladan čovek nema strpljenja",
+        "trbuh nema ušiju (srodno)"
+      ],
+      "literal_ru": "живот не знает шуток",
+      "register": "tradicionalna poslovica; ređe u svakodnevnom govoru",
+      "examples": [
+        {
+          "serbian_latin": "Prvo da jedemo, pa ćemo razgovarati — trbuh ne zna za šalu.",
+          "russian": "Сначала поедим, потом поговорим: голод не шутка.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Deca su gladna, trbuh ne zna za šalu.",
+          "russian": "Дети голодные — им сейчас не до шуток.",
+          "source": ""
+        }
+      ],
+      "note": "В отличие от близкого trbuh nema ušiju («голодный живот доводов не слушает»), здесь прежде всего подчёркнута серьёзность голода. Пословица зафиксирована в традиционных сборниках, в том числе в PDF-источнике Frazeoteka; подтверждённой современной газетной цитаты для этой формы не найдено. Сегодня скорее скажут glad nije šala.",
+      "keyword": "trbuh; šala"
     },
     {
       "headword_latin": "Trbuh nema ušiju",
@@ -49712,28 +49792,29 @@
     },
     {
       "headword_latin": "Trnov venac",
-      "type": "krilatica",
-      "definition_ru": "терновый венец; венец страданий",
+      "type": "izraz",
+      "definition_ru": "терновый венец; символ страданий и мученичества",
       "synonyms_sr": [
-        "venac patnje",
-        "simbol stradanja"
+        "venac stradanja",
+        "simbol patnje",
+        "mučeništvo (delimično)"
       ],
-      "literal_ru": "",
-      "register": "knjiž., biblijska aluzija; figurativno",
+      "literal_ru": "венок из терновника",
+      "register": "biblijski simbol; doslovno i preneseno; književno",
       "examples": [
         {
-          "serbian_latin": "na čijem kraju ih umesto Pulicerovog lovorovog čeka trnov venac",
-          "russian": "в конце которого вместо Пулитцеровского лаврового венка их ждёт терновый венец",
-          "source": "Danas, 2016",
-          "url": "https://www.danas.rs/vesti/drustvo/neda-todorovic-moja-generacija-je-prosla-laksi-put/"
+          "serbian_latin": "I kao „luda“ stavio „trnov venac“ na svoju glavu.",
+          "russian": "И, словно безумец, сам возложил на свою голову терновый венец.",
+          "source": "Danas, 2018",
+          "url": "https://www.danas.rs/vesti/drustvo/odbrana-vrline/"
         },
         {
-          "serbian_latin": "Za njega je ta dužnost bila trnov venac.",
-          "russian": "Для него эта обязанность стала терновым венцом.",
+          "serbian_latin": "Njegova borba za istinu postala je pravi trnov venac.",
+          "russian": "Борьба за правду обернулась для него настоящим терновым венцом.",
           "source": ""
         }
       ],
-      "note": "Библейский образ тернового венца, возложенного на Иисуса Христа перед распятием, стал символом страданий и тяжёлой доли. В публицистике его могут противопоставлять lovorov venac — лавровому венку награды и славы, как в цитате.",
+      "note": "Образ связан с венцом из колючих ветвей, который, согласно Евангелию, возложили на голову Иисуса Христа при издевательстве над ним. В переносном употреблении это тяжёлое страдание, иногда осознанно принятое ради убеждений. В сербском различайте trnov venac как буквальный христианский предмет и метафору.",
       "keyword": "trnov venac"
     },
     {
@@ -50406,32 +50487,58 @@
       "keyword": "bula; u buli"
     },
     {
-      "headword_latin": "U civilu",
-      "type": "kolokacija",
-      "definition_ru": "в гражданской одежде, без формы; в гражданской жизни, вне военной службы",
-      "synonyms_sr": [],
-      "literal_ru": "",
-      "register": "neutralno",
+      "headword_latin": "U carstvu snova",
+      "type": "izraz",
+      "definition_ru": "в царстве снов; во сне; сладко спать",
+      "synonyms_sr": [
+        "u snu",
+        "dok spava",
+        "u dubokom snu (delimično)"
+      ],
+      "literal_ru": "в царстве сновидений",
+      "register": "književno, slikovito; često za usnulog čoveka",
       "examples": [
         {
-          "serbian_latin": "Kako se može videti na snimku, osobe u civilu koje za sebe tvrde da su policajci, odvode dečaka u automobil",
-          "russian": "На записи видно, как люди в штатском, утверждающие, что они полицейские, уводят подростка к автомобилю.",
-          "source": "N1, 2025",
-          "url": "https://n1info.rs/vesti/video-hapsite-dete-osobe-u-civilu-ubacile-mladica-u-auto-u-ulici-kraljice-marije/"
+          "serbian_latin": "Mnogi stanovnici gradova koji koriste javni prevoz sklope oči samo na trenutak i putovanje do kuće ili do posla nastave u carstvu snova.",
+          "russian": "Многие пассажиры городского транспорта закрывают глаза всего на мгновение и продолжают путь домой или на работу уже в царстве снов.",
+          "source": "RTS, 2013",
+          "url": "https://www.rts.rs/lat/magazin/Zanimljivosti/1246348/tiho-noci-moje-zlato-spava-u-metrou.html"
         },
         {
-          "serbian_latin": "Policajac je bio u civilu.",
-          "russian": "Полицейский был в штатском.",
-          "source": ""
-        },
-        {
-          "serbian_latin": "Posle otpuštanja iz vojske polako se navikao na život u civilu.",
-          "russian": "После увольнения из армии он постепенно привыкал к гражданской жизни.",
+          "serbian_latin": "Deca su već odavno bila u carstvu snova.",
+          "russian": "Дети уже давно сладко спали.",
           "source": ""
         }
       ],
-      "note": "В сербском u civilu употребляют и о человеке без форменной одежды (policajac u civilu), и о жизни вне военной службы (život u civilu). У исходного PDF это два значения одной формы, не два разных заголовка.",
-      "keyword": "u civilu"
+      "note": "Сочетание образное, но не обязательно о содержании сновидений: часто просто означает, что человек крепко спит. В русском «в царстве Морфея» возможно, но сербское carstvo snova не содержит имени мифологического божества. Нейтральная повседневная замена — spavati.",
+      "keyword": "carstvo snova"
+    },
+    {
+      "headword_latin": "U civilu",
+      "type": "izraz",
+      "definition_ru": "в гражданской одежде; в штатском; не в форме",
+      "synonyms_sr": [
+        "u građanskoj odeći",
+        "bez uniforme",
+        "u običnoj odeći"
+      ],
+      "literal_ru": "в гражданском",
+      "register": "neutralno; za policiju, vojsku, sportiste van opreme",
+      "examples": [
+        {
+          "serbian_latin": "Avramović se u drugom poluvremenu pojavio u dvorani „u civilu“.",
+          "russian": "Во втором тайме Аврамович появился в зале уже в обычной одежде, не в игровой форме.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/sport/kosarka/5313824/veliki-problem-za-partizan---avramovic-napustio-utakmicu-zbog-povrede-nosa.html"
+        },
+        {
+          "serbian_latin": "Nisu bili u uniformama, nego u civilu.",
+          "russian": "Они были не в форме, а в штатском.",
+          "source": ""
+        }
+      ],
+      "note": "Сербское u civilu применяется не только к полицейскому без формы, но и к военнослужащему или спортсмену вне экипировки. Поэтому перевод зависит от ситуации: «в штатском» для силовика и «в обычной одежде» для спортсмена. Русское «на гражданке» скорее относится к состоянию после службы и здесь может ввести в заблуждение.",
+      "keyword": "civil"
     },
     {
       "headword_latin": "U cvetu mladosti",
@@ -50490,29 +50597,29 @@
     {
       "headword_latin": "U čemu je fazon?",
       "type": "replika",
-      "definition_ru": "в чём фишка?; в чём тут секрет?; в чём смысл?",
+      "definition_ru": "в чём фишка?; в чём суть?; что здесь особенного?",
       "synonyms_sr": [
         "u čemu je fora?",
-        "u čemu je trik?",
-        "gde je caka?"
+        "u čemu je štos?",
+        "u čemu je caka? (delimično)"
       ],
-      "literal_ru": "",
-      "register": "razg.; pitanje o neobičnoj pojavi ili načinu na koji nešto funkcioniše",
+      "literal_ru": "в чём фасон?",
+      "register": "razg., neutralno-radoznalo ili sumnjičavo; pitanje sa u + lokativ",
       "examples": [
         {
           "serbian_latin": "Beli patlidžan potisnuo proizvodnju plavog - u čemu je fazon?",
-          "russian": "Белый баклажан вытеснил с производства синий — в чём фишка?",
+          "russian": "Белый баклажан вытеснил привычный фиолетовый — в чём его фишка?",
           "source": "Agroklub.rs, 2026",
           "url": "https://www.agroklub.rs/povrtarstvo/beli-patlidzan-potisnuo-proizvodnju-plavog-u-cemu-je-fazon/114297/"
         },
         {
-          "serbian_latin": "U čemu je fazon s ovom aplikacijom?",
-          "russian": "В чём фишка этого приложения?",
+          "serbian_latin": "Svi hvale taj restoran, a ja ne razumem u čemu je fazon.",
+          "russian": "Все хвалят этот ресторан, а я не понимаю, в чём его фишка.",
           "source": ""
         }
       ],
-      "note": "Fazon здесь «фишка, особенность, секрет», а не исключительно модный фасон. Вопрос может выражать интерес или недоумение, но не обязательно подозрение, в отличие от U čemu je kvaka? — «в чём подвох?». Пишется с вопросительным знаком как разговорная реплика.",
-      "keyword": "u čemu je fazon"
+      "note": "Это не полное соответствие уже внесённому u čemu je kvaka? Вопрос с fazon часто выражает интерес к особенностям или привлекательности чего-то, а kvaka чаще подразумевает подвох или скрытое условие. Отдельное fazon имеет также значения «манера, стиль» и «шутка».",
+      "keyword": "fazon"
     },
     {
       "headword_latin": "U čemu je kvaka?",
@@ -50746,6 +50853,32 @@
       ],
       "note": "Это деликатное, несколько эвфемистическое обозначение беременности, не имеющее отношения к «другому состоянию» психики. Различайте biti u drugom stanju («быть беременной») и ostati u drugom stanju («забеременеть»).",
       "keyword": "u drugom stanju"
+    },
+    {
+      "headword_latin": "U društvu se i kaluđer ženi",
+      "type": "poslovica",
+      "definition_ru": "за компанию и монах женится; в компании поддаются общему примеру",
+      "synonyms_sr": [
+        "u društvu sve lakše ide",
+        "poći za društvom",
+        "raditi kao i ostali"
+      ],
+      "literal_ru": "в компании даже монах женится",
+      "register": "narodna poslovica, starinski i šaljivo; danas retko",
+      "examples": [
+        {
+          "serbian_latin": "Nije hteo da ide na put, ali je ipak krenuo s nama — u društvu se i kaluđer ženi.",
+          "russian": "Он не хотел ехать, но всё-таки отправился с нами — за компанию и монах женится.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad celo društvo igra, zaigra i on: u društvu se i kaluđer ženi.",
+          "russian": "Когда все танцуют, и он начинает: за компанию и монах женится.",
+          "source": ""
+        }
+      ],
+      "note": "Kaluđer — православный монах, которому запрещён брак; именно поэтому его женитьба делает сравнение нарочито невозможным. Пословица объясняет влияние компании на поведение, не всегда отрицательное. Она зафиксирована в PDF и словарных ресурсах, но в современной городской речи редка; не следует выдавать её за повседневную реплику.",
+      "keyword": "društvo; kaluđer"
     },
     {
       "headword_latin": "U dubini duše",
@@ -51698,6 +51831,32 @@
       "keyword": "sitni sati"
     },
     {
+      "headword_latin": "U stidljiva slepca prazna torba",
+      "type": "poslovica",
+      "definition_ru": "кто стесняется просить, останется ни с чем; без просьбы помощи не дождёшься",
+      "synonyms_sr": [
+        "ko ne traži, ne dobija",
+        "bez pitanja nema odgovora",
+        "valja umeti zatražiti pomoć"
+      ],
+      "literal_ru": "у стеснительного слепца сумка пуста",
+      "register": "stara narodna poslovica, arhaičan oblik genitiva; danas vrlo retko",
+      "examples": [
+        {
+          "serbian_latin": "Ako ti treba pomoć, zamoli je: u stidljiva slepca prazna torba.",
+          "russian": "Нужна помощь — попроси: кто стесняется, останется ни с чем.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nije smeo da pita za posao; u stidljiva slepca prazna torba.",
+          "russian": "Он постеснялся спросить о работе: без просьбы ничего не получишь.",
+          "source": ""
+        }
+      ],
+      "note": "Старая пословица опирается на образ слепого нищего, чья сумка остаётся пустой, если он стесняется просить милостыню. Stidljiva slepca — старый тип родительного падежа прилагательного, в современной речи ожидалось бы stidljivog slepca. В PDF она дана как пословица; современные сербские газетные употребления не подтверждены, поэтому помета «редк.» принципиальна.",
+      "keyword": "stidljiv slepac; torba"
+    },
+    {
       "headword_latin": "U strahu su velike oči",
       "type": "poslovica",
       "definition_ru": "у страха глаза велики",
@@ -51938,6 +52097,59 @@
       "keyword": "u tren oka"
     },
     {
+      "headword_latin": "U tuči se toljaga ne bira",
+      "type": "poslovica",
+      "definition_ru": "в драке не до выбора оружия; в борьбе берут что под руку попадётся",
+      "synonyms_sr": [
+        "u borbi se ne biraju sredstva",
+        "snalaziti se kako znaš",
+        "braniti se svim sredstvima"
+      ],
+      "literal_ru": "в драке дубину не выбирают",
+      "register": "narodna poslovica, grubo slikovita; danas ređe, često o sukobu i nadmetanju",
+      "examples": [
+        {
+          "serbian_latin": "Kad je borba već počela, u tuči se toljaga ne bira.",
+          "russian": "Когда драка уже началась, выбирать оружие не приходится.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Svi se bore za opstanak, ali to ne znači da u tuči treba prihvatiti baš svaku toljagu.",
+          "russian": "Все борются за выживание, но это не значит, что годятся совершенно любые методы.",
+          "source": ""
+        }
+      ],
+      "note": "Toljaga — увесистая палка, дубина. Пословица объясняет готовность использовать доступные средства в схватке, а не обязательно морально оправдывает любые действия. Формула есть в PDF-источнике и старых сборниках, но без надёжного современного газетного примера; в живом разговоре обычнее ne birati sredstva.",
+      "keyword": "tuča; toljaga"
+    },
+    {
+      "headword_latin": "U tuđoj ruci komad veći",
+      "type": "poslovica",
+      "definition_ru": "у другого кусок всегда кажется больше; чужое кажется лучше своего",
+      "synonyms_sr": [
+        "tuđe je uvek bolje",
+        "trava je zelenija s druge strane",
+        "zavideti drugima"
+      ],
+      "literal_ru": "в чужой руке кусок больше",
+      "register": "narodna poslovica; varijanta: u tuđoj ruci uvek komad veći",
+      "examples": [
+        {
+          "serbian_latin": "U tuđoj ruci uvek komad veći.",
+          "russian": "У другого кусок всегда кажется больше.",
+          "source": "Pravda.rs, 2022",
+          "url": "https://mail.pravda.rs/lat/2022/8/24/vladimir-dimitrijevic-za-pravdu-nasa-velika-riznica-srpske-narodne-poslovice/"
+        },
+        {
+          "serbian_latin": "Njegov posao ti izgleda lakši, ali u tuđoj ruci komad veći.",
+          "russian": "Тебе кажется, что у него работа легче, но чужое всегда выглядит привлекательнее.",
+          "source": ""
+        }
+      ],
+      "note": "Компонент komad первоначально вызывает образ куска еды, который в чужой руке кажется крупнее собственного. Сегодня пословица применяется к зарплате, работе, собственности, отношениям. Сербская фразеологическая литература сопоставляет её с оборотом trava je zelenija s druge strane ograde.",
+      "keyword": "tuđa ruka; komad"
+    },
+    {
       "headword_latin": "U vinu je istina",
       "type": "poslovica",
       "definition_ru": "истина в вине",
@@ -52174,6 +52386,33 @@
       ],
       "note": "Сербский и русский образы практически совпадают: минимальная денежная сумма символизирует маленький, часто непрошеный вклад в разговор. Para — сотая доля динара; в наличном обращении такие мелкие номиналы давно практически не играют роли.",
       "keyword": "pet para"
+    },
+    {
+      "headword_latin": "Ubiti boga u nekome",
+      "type": "frazeologizam",
+      "definition_ru": "избить до полусмерти; жестоко избить; сильно покалечить побоями",
+      "synonyms_sr": [
+        "prebiti nekoga",
+        "pretući nekoga",
+        "namrtvo istući (ekspresivno)"
+      ],
+      "literal_ru": "убить бога в ком-то",
+      "register": "razg., grub., ekspresivno; ubiti boga u + lokativ",
+      "examples": [
+        {
+          "serbian_latin": "Da će da ubije boga u njemu.",
+          "russian": "Что он его изобьёт до полусмерти.",
+          "source": "N1, 2025 (citat iz svedočenja)",
+          "url": "https://n1info.rs/vesti/pozvali-policiju-zbog-razbijenog-prozora-pa-dobili-batine-i-prijave-za-napad/"
+        },
+        {
+          "serbian_latin": "Pretio mu je da će ubiti boga u njemu.",
+          "russian": "Он угрожал избить его до полусмерти.",
+          "source": ""
+        }
+      ],
+      "note": "Несмотря на слово bog, выражение не о религии: это крайне экспрессивное обозначение жестоких побоев, а часто и угроза ими. Управление неожиданно для русского: ubiti boga u nekome, например u njemu, а не прямое ubiti njega. В примере N1 приводится утверждение свидетельницы; оно не является установленным описанием произошедшего.",
+      "keyword": "ubiti boga u nekome"
     },
     {
       "headword_latin": "ubiti dve muve jednim udarcem",
@@ -54157,6 +54396,34 @@
       "keyword": "uploviti u bračne vode"
     },
     {
+      "headword_latin": "Uprskati stvar",
+      "type": "frazeologizam",
+      "definition_ru": "всё испортить; облажаться; запороть дело",
+      "synonyms_sr": [
+        "zabrljati",
+        "zeznuti stvar (razg.)",
+        "pokvariti stvar",
+        "uprljati posao (nepotpuno)"
+      ],
+      "literal_ru": "забрызгать дело",
+      "register": "razg., neodobr.; svršeni vid uprskati, perfekt uprskao / uprskala",
+      "examples": [
+        {
+          "serbian_latin": "Au, baš si uprskao stvar.",
+          "russian": "Ух, ну ты и запорол всё!",
+          "source": "BBC na srpskom / Danas, 2019",
+          "url": "https://www.danas.rs/bbc-news-serbian/tajni-zivot-tinejdzera-multimilionera-vodio-sam-posao-za-koji-niko-nije-znao"
+        },
+        {
+          "serbian_latin": "Nemoj sad da uprskaš stvar kad smo tako blizu cilja.",
+          "russian": "Не запори всё сейчас, когда мы так близки к цели.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол uprskati буквально связан с брызгами, но сочетание uprskati stvar означает не физически испачкать вещь, а провалить ситуацию неудачным действием. Это разговорная оценка более резкая, чем pogrešiti. Частотные формы: uprskao sam stvar, nemoj da uprskaš stvar.",
+      "keyword": "uprskati stvar"
+    },
+    {
       "headword_latin": "Urezalo mi se u sećanje",
       "type": "izraz",
       "definition_ru": "врезалось мне в память; навсегда запомнилось",
@@ -54321,6 +54588,33 @@
       ],
       "note": "Сербский и русский фразеологизмы практически идентичны. Образ связан с традиционным противопоставлением правой стороны как благоприятной и левой как неблагоприятной; в исследовании сербских афоризмов ustati na levu nogu прямо поясняется как быть «нерасположенным и неприятным без особой причины».",
       "keyword": "ustati na levu nogu"
+    },
+    {
+      "headword_latin": "Ustati sabajle",
+      "type": "kolokacija",
+      "definition_ru": "встать спозаранку; подняться с утра пораньше",
+      "synonyms_sr": [
+        "ustati rano",
+        "ustati u zoru",
+        "poraniti"
+      ],
+      "literal_ru": "встать ранним утром",
+      "register": "razg.; sabajle je prilog, turcizam; prirodno i krenuti sabajle, raditi sabajle",
+      "examples": [
+        {
+          "serbian_latin": "Članovi Glavnog odbora, njih 651, koji su sabajle krenuli iz svih krajeva Srbije.",
+          "russian": "Члены главного комитета, все 651 человек, с самого утра отправились из разных концов Сербии.",
+          "source": "Danas, 2021",
+          "url": "https://www.danas.rs/vesti/politika/subota-kada-je-otisao-nebojsa/"
+        },
+        {
+          "serbian_latin": "Ustao sam sabajle da izbegnem gužvu na putu.",
+          "russian": "Я встал спозаранку, чтобы не попасть в пробки.",
+          "source": ""
+        }
+      ],
+      "note": "Sabajle — разговорное «ранним утром», турцизм; оно не означает конкретно шесть или семь часов. Его употребляют не только с ustati, но и с krenuti, zvati, doći. Для русского полезно соответствие «спозаранку», а не буквальное «с утра».",
+      "keyword": "sabajle"
     },
     {
       "headword_latin": "Ustati u cik zore",
@@ -54509,6 +54803,33 @@
       ],
       "note": "Utonuti — совершенный вид, буквально «погрузиться, утонуть», но utonuti u misli описывает глубокую задумчивость, а не физическое утопление. В опубликованном тексте оборот относится к историческому лицу; глагольная форма utonuo дана в мужском роде. Для словарной формы выбран инфинитив.",
       "keyword": "utonuti u misli"
+    },
+    {
+      "headword_latin": "Uveče se dan hvali",
+      "type": "poslovica",
+      "definition_ru": "не хвали день до вечера; о результате судят по завершении дела",
+      "synonyms_sr": [
+        "ne hvali dan pre večeri",
+        "sačekaj kraj pa sudi",
+        "polako s pohvalama"
+      ],
+      "literal_ru": "день хвалят вечером",
+      "register": "narodna poslovica, tradicionalno; danas ređe",
+      "examples": [
+        {
+          "serbian_latin": "Uveče se dan hvali (pošto prođe).",
+          "russian": "День хвалят вечером, когда он уже прошёл.",
+          "source": "Vukove narodne poslovice / Banija.rs, 2017",
+          "url": "https://www.banija.rs/obicaji/16258-vukove-narodne-poslovice-o-godisnjim-dobima-suncu-snijegu-kisi-vodi-2.html"
+        },
+        {
+          "serbian_latin": "Tek je prvo poluvreme — uveče se dan hvali.",
+          "russian": "Пока прошёл только первый тайм — цыплят по осени считают.",
+          "source": ""
+        }
+      ],
+      "note": "Традиционная формула предостерегает от преждевременного оптимизма: оценивать успех следует по завершении дня или дела. В русском ближе всего «не хвали день до вечера»; пословица «цыплят по осени считают» подходит не в каждом контексте. Выражение приведено в сборниках народных пословиц Вука Караджича.",
+      "keyword": "uveče; dan"
     },
     {
       "headword_latin": "Uvek ista pesma!",
@@ -54949,6 +55270,33 @@
       ],
       "note": "Выражение не означает обязательно «не верить». Скорее информация может быть верной, но её нельзя принимать безоговорочно: нужны осторожность, проверка или учёт ограничений. В употреблении нормальны и s rezervom, и очень частое sa rezervom.",
       "keyword": "uzeti s rezervom"
+    },
+    {
+      "headword_latin": "Uzeti reč",
+      "type": "kolokacija",
+      "definition_ru": "взять слово; начать выступление; получить возможность высказаться",
+      "synonyms_sr": [
+        "početi da govori",
+        "dobiti reč (srodno)",
+        "obratiti se prisutnima"
+      ],
+      "literal_ru": "взять слово",
+      "register": "neutralno, javni govor; uzeti reč / dati nekome reč",
+      "examples": [
+        {
+          "serbian_latin": "Predstavnik Srbije u Ujedinjenim nacijama pre glasanja uzeo je reč.",
+          "russian": "Представитель Сербии в ООН взял слово перед голосованием.",
+          "source": "N2, 2022",
+          "url": "https://n2.rs/politika/srbija-glasala-za-rezoluciju-ujedinjenih-nacija-o-agresiji-rusije-na-ukrajinu/"
+        },
+        {
+          "serbian_latin": "Kada je predsedavajući završio, uzela je reč profesorka.",
+          "russian": "Когда председательствующий закончил, слово взяла преподавательница.",
+          "source": ""
+        }
+      ],
+      "note": "Не путать tri конструкции: uzeti reč — «взять слово», dati reč nekome — «предоставить слово» (либо «дать обещание» в другом контексте), držati reč — «сдержать слово». В сербском reč здесь стоит в винительном падеже без предлога. Особенно естественно в описании собраний, заседаний и публичных выступлений.",
+      "keyword": "uzeti reč"
     },
     {
       "headword_latin": "Uzeti uzde u svoje ruke",
