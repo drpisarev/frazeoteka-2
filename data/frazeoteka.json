@@ -79,6 +79,32 @@
       "keyword": "Ako Bog da"
     },
     {
+      "headword_latin": "Ako budeš most, svako će da te gazi",
+      "type": "poslovica",
+      "definition_ru": "если позволишь всем собой пользоваться, тебя затопчут; добротой будут злоупотреблять",
+      "synonyms_sr": [
+        "ne daj da te iskorišćavaju",
+        "postavi granice",
+        "ne dozvoli da ti svi idu preko glave"
+      ],
+      "literal_ru": "Будешь мостом — каждый по тебе пройдёт.",
+      "register": "tradicionalna izreka; danas ređe",
+      "examples": [
+        {
+          "serbian_latin": "Stalno radiš tuđ posao bez naknade. Ako budeš most, svako će da te gazi.",
+          "russian": "Ты постоянно бесплатно делаешь чужую работу. Если позволишь, тобой будут пользоваться.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pomagati treba, ali ne po svaku cenu — ako budeš most, svako će da te gazi.",
+          "russian": "Помогать надо, но не любой ценой: дашь всем садиться себе на шею — затопчут.",
+          "source": ""
+        }
+      ],
+      "note": "Образ моста предупреждает о злоупотреблении чужой уступчивостью. Это не призыв отказаться от помощи людям, а совет иметь личные границы. Пословица встречается в сербских подборках народных изречений, но не относится к самым частым сегодняшним репликам.",
+      "keyword": "ako budeš most, svako će da te gazi"
+    },
+    {
       "headword_latin": "Ako hoćeš da nasmeješ Boga, ispričaj mu svoje planove",
       "type": "izreka",
       "definition_ru": "хочешь рассмешить Бога — расскажи ему о своих планах; человек предполагает, а Бог располагает",
@@ -3609,6 +3635,32 @@
       "keyword": "boj bije srce junaka"
     },
     {
+      "headword_latin": "Boj se ovna, boj se govna — pa kad ćeš živeti?",
+      "type": "krilatica",
+      "definition_ru": "всего бояться — так и жизнь пройдёт; нельзя жить в постоянном страхе",
+      "synonyms_sr": [
+        "ne može se živeti u stalnom strahu",
+        "ko se svega plaši, ne živi",
+        "ne boj se baš svega"
+      ],
+      "literal_ru": "Бойся барана, бойся г*вна — когда же жить?",
+      "register": "grub., ekspresivno; poznata krilatica, pripisivana Meši Selimoviću",
+      "examples": [
+        {
+          "serbian_latin": "Boj se ovna, boj se govna, pa kad ću živeti.",
+          "russian": "Бойся барана, бойся г*вна — а когда же мне жить?",
+          "source": "Subotičke novine, 2018"
+        },
+        {
+          "serbian_latin": "Neću da odustanem od svega iz straha. Boj se ovna, boj se govna — pa kad ćeš živeti?",
+          "russian": "Не хочу отказываться от всего из-за страха. Если всего бояться, когда же жить?",
+          "source": ""
+        }
+      ],
+      "note": "Грубоватая рифмованная реплика высмеивает парализующий страх перед любой опасностью. Её часто связывают с Мешей Селимовичем и романом Tvrđava, но без сверки с оригиналом точную литературную атрибуцию утверждать нельзя. Варианты меняют лицо глагола: pa kad ću živeti / pa kad ćeš živeti.",
+      "keyword": "boj se ovna, boj se govna — pa kad ćeš živeti?"
+    },
+    {
       "headword_latin": "Boli me uvo",
       "type": "izraz",
       "definition_ru": "мне до лампочки; мне плевать; мне всё равно",
@@ -3770,6 +3822,32 @@
       ],
       "note": "В этой пословице важнее качество человека рядом, чем настроение совместного занятия. Mudri и ludi употреблены субстантивированно («мудрый» и «глупый»), а противопоставление plakati — pevati делает совет запоминающимся. Это традиционная, слегка книжная формула, а не типичная повседневная реплика молодёжи.",
       "keyword": "mudrim plakati; ludim pevati"
+    },
+    {
+      "headword_latin": "Bolje je u kolibi pevati nego u dvoru plakati",
+      "type": "poslovica",
+      "definition_ru": "лучше быть счастливым в бедности, чем несчастным в богатстве; счастье дороже роскоши",
+      "synonyms_sr": [
+        "sreća je važnija od bogatstva",
+        "bolje malo i mirno nego mnogo i tužno",
+        "novac ne donosi sreću"
+      ],
+      "literal_ru": "Лучше петь в хижине, чем плакать во дворце.",
+      "register": "narodna poslovica, tradicionalno; danas ređe",
+      "examples": [
+        {
+          "serbian_latin": "Baka je uvek govorila: „Bolje je u kolibi pevati nego u dvoru plakati.“",
+          "russian": "Бабушка всегда говорила: «Лучше петь в хижине, чем плакать во дворце».",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nisu bogati, ali su zadovoljni — bolje je u kolibi pevati nego u dvoru plakati.",
+          "russian": "Они небогаты, но довольны жизнью: счастье дороже роскоши.",
+          "source": ""
+        }
+      ],
+      "note": "В пословице противопоставлены бедное жилище koliba и богатый dvor, а пение и плач обозначают счастье и несчастье. Это традиционная сербская формула, а не буквальный совет выбирать жильё. Русский естественный перевод иногда короче: «не в деньгах счастье», но он теряет исходное яркое сопоставление.",
+      "keyword": "bolje je u kolibi pevati nego u dvoru plakati"
     },
     {
       "headword_latin": "Bolje mršav mir nego debela parnica",
@@ -7140,6 +7218,32 @@
       ],
       "note": "Форма действительно существует во фразеографических источниках как doći će cica na kolica. Но на Ana.rs носительница прямо противопоставляет srbijanska verzija: Došla maca na vratanca и bosanska verzija: Došla cica na kolica. Поэтому для сербского стандарта я бы считал maca na vratanca основной статьёй, а cica na kolica — региональным вариантом. Русское «придёт зима — снега попросишь» возможно по ситуации, но шире смысл «ещё придёт расплата / ещё сам придёшь».",
       "keyword": "doći će cica na kolica"
+    },
+    {
+      "headword_latin": "Doći do izražaja",
+      "type": "frazeologizam",
+      "definition_ru": "проявиться; раскрыться; стать особенно заметным",
+      "synonyms_sr": [
+        "ispoljiti se",
+        "pokazati se u punoj meri",
+        "isplivati na površinu (delimično)"
+      ],
+      "literal_ru": "Дойти до выражения.",
+      "register": "neutralno; doći do izražaja; naročito o talentu, kvalitetu, osobini",
+      "examples": [
+        {
+          "serbian_latin": "Njihov talenat dolazi do izražaja kada krenu u školu.",
+          "russian": "Их талант начинает проявляться, когда они идут в школу.",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Na ovom poslu tvoje znanje će konačno doći do izražaja.",
+          "russian": "На этой работе твои знания наконец проявятся в полной мере.",
+          "source": ""
+        }
+      ],
+      "note": "Важна не просто констатация существования качества, а ситуация, когда оно становится заметным. Часто подлежащее — talenat, kvalitet, iskustvo, razlika; конструкция может относиться и к недостаткам. Не переводите буквально как «дойти до выражения»: по-русски чаще «проявиться», «раскрыться».",
+      "keyword": "doći do izražaja"
     },
     {
       "headword_latin": "Doći đavo po svoje",
@@ -13298,6 +13402,32 @@
       "keyword": "imati žicu"
     },
     {
+      "headword_latin": "Inat je nesrećan zanat",
+      "type": "poslovica",
+      "definition_ru": "упрямство назло всем до добра не доведёт; делать назло себе дороже",
+      "synonyms_sr": [
+        "inat čoveka skupo košta",
+        "od inata nema koristi",
+        "terati inat na svoju štetu"
+      ],
+      "literal_ru": "Упрямство назло — несчастное ремесло.",
+      "register": "narodna poslovica, tradicionalno; šaljivo ili poučno",
+      "examples": [
+        {
+          "serbian_latin": "Prodao je auto ispod cene samo iz inata. Inat je nesrećan zanat.",
+          "russian": "Он продал машину ниже цены только из упрямства назло. Такое упрямство себе дороже.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj da odbijaš pomoć samo zato što si ljut — inat je nesrećan zanat.",
+          "russian": "Не отказывайся от помощи только потому, что злишься: делать назло себе дороже.",
+          "source": ""
+        }
+      ],
+      "note": "Inat — важное для сербской разговорной культуры понятие упрямства, часто совершаемого наперекор другому человеку. Пословица осуждает именно вредный, саморазрушительный inat, а не всякую настойчивость. Рифма inat — zanat делает формулу легко запоминающейся; это традиционная, а не исключительно современная реплика.",
+      "keyword": "inat je nesrećan zanat"
+    },
+    {
       "headword_latin": "Isisati iz malog prsta nešto",
       "type": "frazeologizam",
       "definition_ru": "высосать из пальца; выдумать без оснований; взять с потолка",
@@ -13572,6 +13702,32 @@
       ],
       "note": "Drina — реальная извилистая река, поэтому образ предельно нагляден: попытка «выпрямить» её течение требует огромных усилий и всё равно обречена. Фразеологизм особенно часто употребляется о бюрократии, исторических спорах и попытках восстановить абсолютную справедливость. Не всегда означает, что цель плоха: акцент именно на тщетности усилий.",
       "keyword": "Drina"
+    },
+    {
+      "headword_latin": "Ispusni ventil",
+      "type": "imenica",
+      "definition_ru": "отдушина; способ выпустить пар; эмоциональная разрядка",
+      "synonyms_sr": [
+        "način da se izbaci napetost",
+        "odušak",
+        "izduvni ventil (preneseno)"
+      ],
+      "literal_ru": "Выпускной клапан.",
+      "register": "neutralno-razg.; preneseno, ali i tehnički termin",
+      "examples": [
+        {
+          "serbian_latin": "Trčanje mi je najbolji ispusni ventil posle napornog dana.",
+          "russian": "Бег — моя лучшая отдушина после тяжёлого дня.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Humor im je služio kao ispusni ventil za nagomilani stres.",
+          "russian": "Юмор служил им способом снять накопившееся напряжение.",
+          "source": ""
+        }
+      ],
+      "note": "Технический образ клапана, выпускающего давление, перенесён на психологическую разрядку. В сербском можно сказать ispusni ventil za stres, bes, nezadovoljstvo; в русском в таких случаях чаще «отдушина» или «выпустить пар». Не путать с обычным механическим значением слова ventil.",
+      "keyword": "ispusni ventil"
     },
     {
       "headword_latin": "Ispustiti dušu",
@@ -21674,31 +21830,27 @@
     {
       "headword_latin": "Namazan svim bojama",
       "type": "frazeologizam",
-      "definition_ru": "тёртый калач, хитрый и очень изворотливый человек; умеет приспосабливаться и провести другого",
+      "definition_ru": "тёртый калач; хитрец; ушлый человек",
       "synonyms_sr": [
         "prepreden",
         "lukav",
-        "snalažljiv",
-        "prevrtljivac",
-        "namazan"
+        "namazan svim mastima"
       ],
-      "literal_ru": "намазан всеми красками",
-      "register": "razgovorno, često neodobravajuće",
+      "literal_ru": "Намазанный всеми красками.",
+      "register": "razg., neodobr., ponekad s priznanjem nečije snalažljivosti",
       "examples": [
         {
-          "serbian_latin": "Jest' da nije slikar, al' je namazan svim bojama.",
-          "russian": "Пусть он и не художник, зато намазан всеми красками — тот ещё пройдоха.",
-          "source": "Vukajlija, 2010",
-          "url": "https://vukajlija.com/namazan-svim-bojama"
+          "serbian_latin": "Tu je, naravno, i Amerikanac, kardinal Tremblej – namazan svim bojama.",
+          "russian": "Здесь, конечно, и американец, кардинал Тремблей — тёртый калач.",
+          "source": "Danas, 2025"
         },
         {
-          "serbian_latin": "Ovaj znak je toliko namazan svim bojama da će vas ubediti u svaku svoju priču.",
-          "russian": "Этот знак настолько хитёр и изворотлив, что убедит вас в любой своей истории.",
-          "source": "Krstarica, 2026",
-          "url": "https://www.krstarica.com/horoskop/astrologija/namazani-su-svim-bojama-najlukaviji-znak-koji-vas-gleda-u-oci-i-laze-a-da-ne-trepne/"
+          "serbian_latin": "Ne veruj mu na reč, namazan je svim bojama.",
+          "russian": "Не верь ему на слово, он ещё тот хитрец.",
+          "source": ""
         }
       ],
-      "note": "Нередко оттенок сильнее, чем у просто snalažljiv: человек ловкий, хитрый, меняет поведение по обстоятельствам, иногда лицемерен.",
+      "note": "Здесь namazan не о краске буквально, а о человеке, который умеет ловко действовать и обманывать. В отличие от русского «опытный», выражение почти всегда намекает на хитрость и не вполне честные приёмы. Родственная формула namazan svim mastima имеет близкое значение.",
       "keyword": "namazan svim bojama"
     },
     {
@@ -44437,29 +44589,28 @@
     },
     {
       "headword_latin": "Šut-karta",
-      "type": "sleng",
-      "definition_ru": "от ворот поворот; отказ; увольнение; расставание",
+      "type": "imenica",
+      "definition_ru": "от ворот поворот; отказ; увольнение или изгнание",
       "synonyms_sr": [
-        "korpa (razg., u ljubavi)",
         "otkaz",
-        "odbijanje",
-        "noga (sleng)"
+        "odbijenica",
+        "izbacivanje (delimično)"
       ],
       "literal_ru": "",
-      "register": "sleng; dobiti šut-kartu, dati nekome šut-kartu",
+      "register": "razg., ekspresivno; dobiti / dati nekome šut-kartu; piše se i šut karta",
       "examples": [
         {
-          "serbian_latin": "Dobije li neko zato „šut-kartu“?",
-          "russian": "Получает ли кто-нибудь за это от ворот поворот?",
-          "source": "Politika, 2010"
+          "serbian_latin": "Šut kartu očigledno neće dobiti.",
+          "russian": "Похоже, от ворот поворот ему не дадут.",
+          "source": "N1, 2026"
         },
         {
-          "serbian_latin": "Posle tri meseca dobio je šut-kartu.",
-          "russian": "Через три месяца ему дали от ворот поворот.",
+          "serbian_latin": "Posle tri opomene dobio je šut-kartu.",
+          "russian": "После трёх предупреждений его выставили за дверь.",
           "source": ""
         }
       ],
-      "note": "Сленговые словари фиксируют написание šut-karta и два особенно частых значения: быть брошенным партнёром и получить увольнение. Выражение остаётся живым и в современной прессе.",
+      "note": "Šut ассоциируется с пинком или ударом ногой, поэтому šut-karta обозначает резкое, бесцеремонное отстранение. В зависимости от ситуации это увольнение, отказ в отношениях или исключение из компании. В сербских СМИ встречается написание šut karta без дефиса; это не название реальной карточки.",
       "keyword": "šut-karta"
     },
     {
@@ -44598,27 +44749,27 @@
     {
       "headword_latin": "Tajne zanata",
       "type": "kolokacija",
-      "definition_ru": "секреты мастерства; профессиональные хитрости",
+      "definition_ru": "секреты мастерства; профессиональные тонкости; хитрости ремесла",
       "synonyms_sr": [
-        "zanatske tajne",
-        "majstorske cake"
+        "profesionalne tajne",
+        "finese posla",
+        "trikovi zanata"
       ],
       "literal_ru": "",
-      "register": "neutralno",
+      "register": "neutralno; otkriti, naučiti ili preneti tajne zanata",
       "examples": [
         {
-          "serbian_latin": "Tajne zanata, koji je potrebno izučavati skoro dve decenije da bi neko postao majstor, znaju svi u porodici Milošević.",
-          "russian": "Секреты ремесла, которому нужно учиться почти два десятилетия, чтобы стать мастером, знают все в семье Милошевич.",
-          "source": "RTS, 2017",
-          "url": "https://www.rts.rs/lat/magazin/Zanimljivosti/2703713/.html?print=true"
+          "serbian_latin": "...uvodeći ga u tajne zanata...",
+          "russian": "...посвящая его в секреты профессии...",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Majstor je učenicima otkrio tajne zanata.",
-          "russian": "Мастер открыл ученикам секреты ремесла.",
+          "serbian_latin": "Stariji kolega mi je otkrio neke tajne zanata.",
+          "russian": "Старший коллега открыл мне несколько профессиональных секретов.",
           "source": ""
         }
       ],
-      "note": "",
+      "note": "Zanat — не только ручное ремесло: tajne zanata говорят и о журналистике, медицине, торговле или искусстве. Часто сочетается с glagolima otkriti, naučiti, preneti и uvesti nekoga u. Буквальное русское «тайны ремесла» не всегда столь естественно, как «профессиональные тонкости».",
       "keyword": "tajne zanata"
     },
     {
@@ -45174,19 +45325,19 @@
     {
       "headword_latin": "Tamna mrlja",
       "type": "kolokacija",
-      "definition_ru": "тёмное пятно; позорное пятно на репутации",
+      "definition_ru": "тёмное пятно; позорная страница; обстоятельство, порочащее репутацию",
       "synonyms_sr": [
-        "ljaga",
-        "mrlja na ugledu"
+        "mrlja na ugledu",
+        "sramna epizoda",
+        "ružna stranica"
       ],
-      "literal_ru": "",
-      "register": "neutralno",
+      "literal_ru": "Тёмное пятно.",
+      "register": "public., neodobr.; tamna mrlja u istoriji / biografiji / odnosima",
       "examples": [
         {
-          "serbian_latin": "Tamna mrlja u odnosima svakako jesu NATO bombardovanje 1999. godine i podrška jednostranom proglašenju nezavisnosti Kosova",
-          "russian": "Тёмным пятном в отношениях остаются бомбардировки НАТО 1999 года и поддержка одностороннего провозглашения независимости Косова.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/vesti/politika/5997599/.html?print=true"
+          "serbian_latin": "Tamna mrlja u odnosima svakako jesu NATO bombardovanje 1999. godine...",
+          "russian": "Мрачной страницей этих отношений, несомненно, являются бомбардировки НАТО 1999 года...",
+          "source": "RTS, 2026"
         },
         {
           "serbian_latin": "Taj skandal ostao je tamna mrlja u njegovoj karijeri.",
@@ -45194,7 +45345,7 @@
           "source": ""
         }
       ],
-      "note": "",
+      "note": "Mrlja — буквально пятно на поверхности, но в переносном употреблении речь о репутационном или историческом изъяне. Типичны сочетания tamna mrlja u biografiji, istoriji, odnosima. Не следует переводить как «неясный момент»: здесь чаще имеется отрицательная моральная оценка.",
       "keyword": "tamna mrlja"
     },
     {
@@ -45306,30 +45457,29 @@
     },
     {
       "headword_latin": "Tamo-amo",
-      "type": "izraz",
-      "definition_ru": "туда-сюда; взад-вперёд",
+      "type": "prilog",
+      "definition_ru": "туда-сюда; взад-вперёд; по разным местам",
       "synonyms_sr": [
         "ovamo-onamo",
-        "napred-nazad",
-        "amo-tamo"
+        "gore-dole (delimično)",
+        "čas tamo, čas ovamo"
       ],
-      "literal_ru": "",
-      "register": "neutralno",
+      "literal_ru": "Туда-сюда.",
+      "register": "razg.; takođe u naslovima putopisnih tekstova",
       "examples": [
         {
-          "serbian_latin": "Na talasima, nošena tamo-amo, plutaju nekakva plovila.",
-          "russian": "На волнах туда-сюда носило какие-то судёнышки.",
-          "source": "Danas, 2023",
-          "url": "https://www.danas.rs/kolumna/vladimir-jokic/pucina/"
+          "serbian_latin": "Tamo-amo po „zlatnom gradu“.",
+          "russian": "Туда-сюда по «золотому городу».",
+          "source": "Politika, 2018"
         },
         {
-          "serbian_latin": "Ceo dan je išao tamo-amo po hodniku.",
-          "russian": "Весь день он ходил по коридору туда-сюда.",
+          "serbian_latin": "Ceo dan trčim tamo-amo i ništa nisam završio.",
+          "russian": "Весь день бегаю туда-сюда и ничего не успел сделать.",
           "source": ""
         }
       ],
-      "note": "Это удвоенное наречие направления: движение меняет направление туда и обратно. По сербскому правописанию пишется через дефис: tamo-amo.",
-      "keyword": "tamo amo"
+      "note": "Tamo-amo обозначает движение между местами без одной устойчивой точки либо суетливые перемещения. Не путать с ni tamo ni ovamo — «ни туда ни сюда», то есть неопределённое или промежуточное положение. В текстах встречается и раздельное написание tamo amo; дефис удобен для словарного заголовка.",
+      "keyword": "tamo-amo"
     },
     {
       "headword_latin": "Tampon država",
@@ -46014,29 +46164,28 @@
     },
     {
       "headword_latin": "Teška lova",
-      "type": "kolokacija",
-      "definition_ru": "большие деньги; куча денег",
+      "type": "sleng",
+      "definition_ru": "большие деньги; солидная сумма; бешеные деньги",
       "synonyms_sr": [
         "velike pare",
-        "brdo para",
+        "ozbiljan novac",
         "masna lova (razg.)"
       ],
-      "literal_ru": "",
-      "register": "razg., često ekspresivno; lova = novac (žargon)",
+      "literal_ru": "Тяжёлые деньги.",
+      "register": "razg., sleng; lova = novac",
       "examples": [
         {
-          "serbian_latin": "Dobra ponuda ili “teška” lova?",
-          "russian": "Хорошее предложение или «огромные деньги»?",
-          "source": "Vreme, 2022",
-          "url": "https://vreme.com/vesti/program-moja-prva-plata-za-visoko-obrazovane-30-000-dinara/"
+          "serbian_latin": "Za takav stan treba teška lova.",
+          "russian": "На такую квартиру нужны очень большие деньги.",
+          "source": ""
         },
         {
-          "serbian_latin": "Za taj posao traže tešku lovu.",
-          "russian": "За эту работу требуют огромные деньги.",
+          "serbian_latin": "Obećali su mu tešku lovu ako prihvati posao.",
+          "russian": "Ему обещали солидные деньги, если он согласится на работу.",
           "source": ""
         }
       ],
-      "note": "Lova — разговорное название денег; teška lova означает значительную сумму, а не тяжёлые монеты. В заголовке Vreme прилагательное teška взято в кавычки и употреблено иронически по отношению к невысокой оплате. В винительном падеже: tešku lovu.",
+      "note": "Lova — разговорное «деньги», не связанное здесь с охотой (lov). Прилагательное teška усиливает представление о большой сумме; это не обязательно «деньги, добытые тяжёлым трудом». Для деловой речи предпочтительнее velika suma novca или značajna sredstva.",
       "keyword": "teška lova"
     },
     {
@@ -46940,28 +47089,27 @@
     {
       "headword_latin": "To će mu biti za nauk",
       "type": "replika",
-      "definition_ru": "это послужит ему уроком; впредь будет умнее",
+      "definition_ru": "пусть это будет ему уроком; впредь будет знать; это послужит ему уроком",
       "synonyms_sr": [
         "neka mu to bude lekcija",
         "to će ga naučiti pameti",
-        "naučiće nešto iz toga"
+        "zapamtiće za drugi put"
       ],
-      "literal_ru": "",
-      "register": "razg., često kao opomena; biti nekome za nauk",
+      "literal_ru": "Это будет ему для научения.",
+      "register": "razg.; biti nekome za nauk; uz dativ lica",
       "examples": [
         {
-          "serbian_latin": "Ovo će mu biti za nauk.",
-          "russian": "Это послужит ему уроком.",
-          "source": "Srbija Danas, 2025",
-          "url": "https://www.sd.rs/vip/zadruga/produkcija-kivna-na-asmina-sa-durdzicem-obavljen-razgovor-kao-opomena-ovo-su-detalji-njegovog-ostanka-u-eliti-9-2025-10-28"
+          "serbian_latin": "Izgubio je novčanik jer ga nije pazio. To će mu biti za nauk.",
+          "russian": "Он потерял кошелёк из-за невнимательности. Будет ему урок.",
+          "source": ""
         },
         {
-          "serbian_latin": "Ovaj poraz će mu biti za nauk.",
-          "russian": "Это поражение послужит ему уроком.",
+          "serbian_latin": "Neka ti ovo bude za nauk da drugi put ne kasniš.",
+          "russian": "Пусть это послужит тебе уроком, чтобы в следующий раз не опаздывал.",
           "source": ""
         }
       ],
-      "note": "Обычно говорится о неприятных последствиях проступка, которые должны научить человека осторожности. Местоимение mu стоит в дательном падеже; возможно и meni, ti, joj. Za nauk — «в назидание, в качестве урока», а не название школьного предмета.",
+      "note": "Nauk здесь не «наука» как исследовательская дисциплина, а житейский урок, извлечённый из неприятности. Часто говорят neka ti bude za nauk, neka mu bude za nauk. Лицо выражается дательным падежом: meni, tebi, mu, joj.",
       "keyword": "to će mu biti za nauk"
     },
     {
@@ -47263,29 +47411,28 @@
     {
       "headword_latin": "To je da ne poveruješ!",
       "type": "replika",
-      "definition_ru": "невероятно!; глазам не верится!",
+      "definition_ru": "просто невероятно!; глазам не верится!; уму непостижимо!",
       "synonyms_sr": [
-        "prosto neverovatno",
-        "ne može čovek da poveruje",
-        "da ne poveruješ"
+        "neverovatno!",
+        "da čovek ne poveruje!",
+        "ne možeš da veruješ!"
       ],
-      "literal_ru": "",
-      "register": "razg., ekspresivno; divljenje, neverica ili ogorčenje",
+      "literal_ru": "Это так, что не поверишь.",
+      "register": "razg., ekspresivno; i o dobrom i o lošem",
       "examples": [
         {
-          "serbian_latin": "Život mi je bio da ne poveruješ.",
-          "russian": "Жизнь у меня была — просто невероятная.",
-          "source": "Danas / BBC na srpskom, 2020",
-          "url": "https://www.danas.rs/bbc-news-serbian/harvi-vajnstin-i-seksualni-predatori-postoji-li-stvarno-zavisnost-od-seksa/"
+          "serbian_latin": "Videli smo kakve su cene u Londonu i ovo je da ne poveruješ...",
+          "russian": "Мы посмотрели, какие цены в Лондоне, — и это просто невероятно...",
+          "source": "Nova.rs, 2026"
         },
         {
-          "serbian_latin": "Pobedili su u poslednjoj sekundi — to je da ne poveruješ!",
-          "russian": "Они выиграли на последней секунде — глазам не верится!",
+          "serbian_latin": "Opet su podigli cenu? To je da ne poveruješ!",
+          "russian": "Опять подняли цену? Просто уму непостижимо!",
           "source": ""
         }
       ],
-      "note": "Формула da + презенс передаёт сильное изумление, не фактический запрет верить. Может относиться и к удивительно хорошему, и к возмутительному. В газетной цитате употреблена конструкция без начального To je, но смысл тот же.",
-      "keyword": "to je da ne poveruješ"
+      "note": "Konstrukcija da + prezent здесь не передаёт цель: она усиливает эмоциональную оценку. Выражение годится как для приятного удивления, так и для возмущения. Родственная форма da čovek ne poveruje чуть менее прямолинейна, чем обращение к собеседнику с ne poveruješ.",
+      "keyword": "to je da ne poveruješ!"
     },
     {
       "headword_latin": "To je da poludiš!",
@@ -48545,6 +48692,32 @@
       "keyword": "to ne pije vodu"
     },
     {
+      "headword_latin": "To nije moj fah",
+      "type": "replika",
+      "definition_ru": "это не моя область; я в этом не специалист; это не по моей части",
+      "synonyms_sr": [
+        "nije moja struka",
+        "ne razumem se u to",
+        "nije moja oblast"
+      ],
+      "literal_ru": "Это не моя специальность.",
+      "register": "razg.; germanizam fah; često o oblasti stručnosti ili ukusa",
+      "examples": [
+        {
+          "serbian_latin": "Ne bih sarađivala sa Bubom i Džalom, to nije moj fah.",
+          "russian": "Я бы не стала сотрудничать с Бубой и Джалой — это не моя сфера.",
+          "source": "Republika, 2018"
+        },
+        {
+          "serbian_latin": "Za instalacije pitaj električara, to nije moj fah.",
+          "russian": "По поводу проводки спроси электрика, это не моя специальность.",
+          "source": ""
+        }
+      ],
+      "note": "Fah — заимствование из немецкого Fach («специальность, отрасль»), употребляемое в сербской разговорной речи. To nije moj fah может означать и отсутствие компетентности, и то, что музыкальный стиль или занятие человеку не близки. Не переводите как «это не мой вкус» без контекста.",
+      "keyword": "to nije moj fah"
+    },
+    {
       "headword_latin": "To nije novost",
       "type": "replika",
       "definition_ru": "это не новость",
@@ -49460,6 +49633,32 @@
       ],
       "note": "Устойчивая формула требования объективности: прежде чем судить, нужно услышать противоположную точку зрения. Strana здесь «сторона спора», а не сторона света. В юридическом контексте близка принципу выслушивания обеих сторон.",
       "keyword": "treba čuti i drugu stranu"
+    },
+    {
+      "headword_latin": "Treba li da ti sričem slovo po slovo?",
+      "type": "replika",
+      "definition_ru": "тебе по буквам объяснить?; сколько раз повторять?; тебе разжевать?",
+      "synonyms_sr": [
+        "da ti nacrtam?",
+        "zar moram sve da ti objašnjavam?",
+        "koliko puta da ponovim?"
+      ],
+      "literal_ru": "Нужно ли мне произнести тебе по букве?",
+      "register": "razg., ironično, često nestrpljivo; sricati slovo po slovo",
+      "examples": [
+        {
+          "serbian_latin": "Rekao sam da dođeš u pet. Treba li da ti sričem slovo po slovo?",
+          "russian": "Я сказал прийти в пять. Тебе что, по буквам объяснить?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Piše da je zabranjeno. Da ti sričem slovo po slovo?",
+          "russian": "Написано, что запрещено. Тебе по буквам прочитать?",
+          "source": ""
+        }
+      ],
+      "note": "Sricati означает произносить написанное по слогам или буквам, особенно на начальной стадии чтения. В этой реплике говорящий не собирается буквально учить собеседника читать: это раздражённое указание на очевидность сказанного. Форма sričem — настоящее время от sricati.",
+      "keyword": "treba li da ti sričem slovo po slovo?"
     },
     {
       "headword_latin": "Treba pogledati istini u oči",
@@ -54829,6 +55028,32 @@
       "keyword": "zlato; slovo"
     },
     {
+      "headword_latin": "Upisati nekome u greh",
+      "type": "frazeologizam",
+      "definition_ru": "поставить кому-то в вину; вменить в проступок; упрекнуть за что-либо",
+      "synonyms_sr": [
+        "zameriti nekome",
+        "staviti nekome na teret",
+        "pripisati nekome kao grešku"
+      ],
+      "literal_ru": "Записать кому-то в грех.",
+      "register": "knjiž., danas ređe; upisati nekome nešto u greh",
+      "examples": [
+        {
+          "serbian_latin": "Ne treba mu upisati u greh što tada nije znao istinu.",
+          "russian": "Не стоит ставить ему в вину то, что тогда он не знал правды.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Jednu grešku su mu upisali u greh, a sav trud zaboravili.",
+          "russian": "Ему поставили в вину одну ошибку, а весь его труд забыли.",
+          "source": ""
+        }
+      ],
+      "note": "Greh в переносной конструкции обозначает вину или проступок, не обязательно религиозный грех. Схема управления: upisati nekome nešto u greh, где nekome стоит в дательном падеже. Оборот зафиксирован в старой сербской лексикографии; в современной устной речи чаще zameriti nekome или uzeti za zlo.",
+      "keyword": "upisati nekome u greh"
+    },
+    {
       "headword_latin": "Uploviti u bračne vode",
       "type": "frazeologizam",
       "definition_ru": "Вступить в брак, жениться или выйти замуж. Русские соответствия: «вступить в брак», шутливо «отправиться в семейное плавание».",
@@ -54854,6 +55079,32 @@
       ],
       "note": "Очень характерное газетное клише о свадьбах известных людей. Bračne vode развивают метафору брака как нового плавания или жизненного пути.",
       "keyword": "uploviti u bračne vode"
+    },
+    {
+      "headword_latin": "Uploviti u opasne vode",
+      "type": "frazeologizam",
+      "definition_ru": "ввязаться в рискованное дело; вступить на опасную территорию; зайти слишком далеко",
+      "synonyms_sr": [
+        "upustiti se u rizik",
+        "zaći na opasan teren",
+        "ući u rizičnu situaciju"
+      ],
+      "literal_ru": "Вплыть в опасные воды.",
+      "register": "public., ekspresivno; uploviti u + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Reper je uplovio u opasne vode...",
+          "russian": "Рэпер вступил на опасную территорию...",
+          "source": "Kurir, 2013"
+        },
+        {
+          "serbian_latin": "Ako potpišeš ugovor bez advokata, uplovićeš u opasne vode.",
+          "russian": "Если подпишешь договор без юриста, рискуешь попасть в опасную ситуацию.",
+          "source": ""
+        }
+      ],
+      "note": "Морская метафора описывает рискованную область деятельности или отношений. В отличие от uploviti u bračne vode («вступить в брак»), здесь воды именно opasne, то есть потенциально опасные. Конструкция с винительным падежом: uploviti u opasne vode.",
+      "keyword": "uploviti u opasne vode"
     },
     {
       "headword_latin": "Upotrebiti tešku artiljeriju",
@@ -55368,6 +55619,32 @@
       "keyword": "utonuti u misli"
     },
     {
+      "headword_latin": "Utrapiti nekome nešto",
+      "type": "glagol",
+      "definition_ru": "всучить что-то кому-то; навязать; спихнуть ненужное",
+      "synonyms_sr": [
+        "uvaliti nekome nešto",
+        "nametnuti nekome nešto",
+        "podvaliti nekome nešto (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; svršeni vid, dativ lica + akuzativ stvari",
+      "examples": [
+        {
+          "serbian_latin": "Pokušao je da mi utrapi stari telefon kao nov.",
+          "russian": "Он попытался всучить мне старый телефон под видом нового.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Šef mi je utrapio posao koji niko drugi nije hteo.",
+          "russian": "Начальник спихнул на меня работу, за которую никто другой не хотел браться.",
+          "source": ""
+        }
+      ],
+      "note": "Utrapiti обозначает передачу вещи или обязанности, обычно против желания получателя. Конструкция имеет два дополнения: utrapiti kome šta — mi posao, mu pokvaren uređaj. По-русски оттенок лучше всего передают «всучить» или «спихнуть», а не нейтральное «дать».",
+      "keyword": "utrapiti nekome nešto"
+    },
+    {
       "headword_latin": "Utrti put",
       "type": "frazeologizam",
       "definition_ru": "проложить путь; подготовить почву; открыть дорогу чему-либо",
@@ -55879,6 +56156,32 @@
       ],
       "note": "Речь о чём-то, что другой человек почти получил или считал практически своим, но его опередили в последний момент. Для русского особенно полезен порядок слов: uzeo mu je trofej ispred nosa — буквально «взял у него трофей перед носом», естественно по-русски «увёл трофей из-под носа». Само ispred nosa может употребляться и буквально, поэтому переносное значение определяется контекстом.",
       "keyword": "uzeti ispred nosa"
+    },
+    {
+      "headword_latin": "Uzeti nekome za zlo",
+      "type": "frazeologizam",
+      "definition_ru": "поставить кому-то в вину; обидеться за что-либо; не простить поступка",
+      "synonyms_sr": [
+        "zameriti nekome",
+        "ljutiti se na nekoga zbog nečega",
+        "prebaciti nekome nešto"
+      ],
+      "literal_ru": "Принять что-то за зло.",
+      "register": "razg.-neutralno; često u negaciji: nemoj mi uzeti za zlo",
+      "examples": [
+        {
+          "serbian_latin": "...što mu se naravno neće ‘uzeti za zlo’...",
+          "russian": "...что ему, конечно, не поставят в вину...",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Nemoj mi uzeti za zlo što ti nisam odgovorio ranije.",
+          "russian": "Не обижайся, что я не ответил тебе раньше.",
+          "source": ""
+        }
+      ],
+      "note": "Особенно полезна вежливая формула nemoj mi uzeti za zlo — «не обессудь», «не держи на меня зла». Лицо стоит в дательном падеже: mi, ti, mu; причина часто вводится через što. Оборот не обязательно говорит о серьёзном зле: повод может быть совсем мелким.",
+      "keyword": "uzeti nekome za zlo"
     },
     {
       "headword_latin": "Uzeti nešto s rezervom",
