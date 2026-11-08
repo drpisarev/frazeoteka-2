@@ -3172,6 +3172,32 @@
       "keyword": "isti sos"
     },
     {
+      "headword_latin": "Biti u pat-poziciji",
+      "type": "frazeologizam",
+      "definition_ru": "оказаться в тупике; быть в патовой ситуации; не иметь возможности продвинуться.",
+      "synonyms_sr": [
+        "biti u ćorsokaku",
+        "biti u bezizlaznoj situaciji",
+        "biti u zastoju (delimično)"
+      ],
+      "literal_ru": "Быть в патовой позиции.",
+      "register": "neutralno-public.; biti / naći se u pat-poziciji",
+      "examples": [
+        {
+          "serbian_latin": "Garić: REM je u pat-poziciji, teško je doći do dogovora do početka izborne kampanje",
+          "russian": "Гарич: Регулятор находится в патовой ситуации, до начала избирательной кампании договориться трудно.",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Pregovori su u pat-poziciji: nijedna strana neće da popusti.",
+          "russian": "Переговоры зашли в тупик: ни одна сторона не хочет уступать.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение пришло из шахмат: пат — положение, при котором игрок не может сделать допустимый ход, хотя его король не под шахом. В политике и переговорах означает застой, а не непременно поражение. Пишут и u pat poziciji раздельно; дефис часто используется в журналистике.",
+      "keyword": "biti u pat-poziciji"
+    },
+    {
       "headword_latin": "Biti u svom elementu",
       "type": "frazeologizam",
       "definition_ru": "быть в своей стихии; чувствовать себя как рыба в воде; заниматься тем, что хорошо умеешь и любишь",
@@ -47841,24 +47867,27 @@
     {
       "headword_latin": "To je samo pitanje vremena",
       "type": "replika",
-      "definition_ru": "это только вопрос времени",
-      "synonyms_sr": [],
+      "definition_ru": "это лишь вопрос времени; рано или поздно это случится; осталось только дождаться.",
+      "synonyms_sr": [
+        "pre ili kasnije će se desiti",
+        "to je neminovno",
+        "samo se čeka kada će se desiti"
+      ],
       "literal_ru": "",
-      "register": "razg.",
+      "register": "neutralno; obrazac: samo je pitanje vremena kada / dok...",
       "examples": [
         {
-          "serbian_latin": "Za mene, to je samo pitanje vremena.",
-          "russian": "Для меня это лишь вопрос времени.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/magazin/nauka/5791649/kleopatra-grobnica-luka-otkrice-nacionalna-geografija.html"
+          "serbian_latin": "... i dodala da je „samo pitanje vremena“ kada će poglavlja biti otvorena.",
+          "russian": "…и добавила, что открытие переговорных глав — лишь вопрос времени.",
+          "source": "RTS, 2015"
         },
         {
-          "serbian_latin": "Promena je samo pitanje vremena.",
-          "russian": "Перемены — лишь вопрос времени.",
+          "serbian_latin": "Samo je pitanje vremena kada će stara cev pući.",
+          "russian": "Старая труба рано или поздно лопнет — это лишь вопрос времени.",
           "source": ""
         }
       ],
-      "note": "",
+      "note": "Это не вопрос, на который ждут ответа, а уверенность в неизбежности события. Типична модель samo je pitanje vremena kada će se nešto desiti; возможен и негативный прогноз. Русское «только вопрос времени» без слова «это» нередко звучит естественнее полного буквального перевода.",
       "keyword": "to je samo pitanje vremena"
     },
     {
@@ -49682,31 +49711,28 @@
     },
     {
       "headword_latin": "Trka s vremenom",
-      "type": "kolokacija",
-      "definition_ru": "гонка со временем",
-      "synonyms_sr": [],
-      "literal_ru": "",
-      "register": "neutralno",
+      "type": "frazeologizam",
+      "definition_ru": "гонка со временем; борьба за то, чтобы успеть; работа в условиях острого дефицита времени.",
+      "synonyms_sr": [
+        "borba s vremenom",
+        "žurba da se stigne na vreme",
+        "raditi pod pritiskom rokova"
+      ],
+      "literal_ru": "Гонка со временем.",
+      "register": "neutralno-public.; i: trka sa vremenom",
       "examples": [
         {
-          "serbian_latin": "Trka s vremenom nakon zemljotresa u Japanu – traga se za preživelima.",
-          "russian": "Гонка со временем после землетрясения в Японии — продолжаются поиски выживших.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/vesti/svet/6008753/japan-zemljotres-zrtve-potraga-za-prezivelima-trzni-centar-kumamoto.html"
+          "serbian_latin": "U toku je trka sa vremenom da se spasu istorijska blaga zaključana na starim disketama.",
+          "russian": "Идёт гонка со временем, чтобы спасти исторические материалы, оставшиеся на старых дискетах.",
+          "source": "RTS, 2025"
         },
         {
-          "serbian_latin": "Pred narodima Srednje zemlje – patuljcima, vilenjacima, ljudima i čarobnjacima – sada je trka s vremenom.",
-          "russian": "Перед народами Средиземья — гномами, эльфами, людьми и волшебниками — теперь гонка со временем.",
-          "source": "RTS, 2026",
-          "url": "https://www.rts.rs/lat/magazin/film-i-tv/6006071/dosao-je-cas-moci--objavljen-tizer-za-trecu-sezonu-serije-gospodar-prstenova-prstenovi-moci.html"
-        },
-        {
-          "serbian_latin": "Spasioci vode trku s vremenom.",
-          "russian": "Спасатели ведут гонку со временем.",
+          "serbian_latin": "Za lekare je to bila trka s vremenom: pacijenta je trebalo odmah operisati.",
+          "russian": "Для врачей это была гонка со временем: пациента требовалось срочно оперировать.",
           "source": ""
         }
       ],
-      "note": "",
+      "note": "В сербском употребляются оба варианта, s vremenom и sa vremenom. Оборот подразумевает угрозу не успеть, а не просто быстрый темп работы. Очень типичен для спасательных операций, медицины, журналистики и срочных проектов.",
       "keyword": "trka s vremenom"
     },
     {
@@ -49897,6 +49923,32 @@
       ],
       "note": "Происходит из мифа о деревянном коне, с помощью которого греки проникли в Трою. Современное переносное значение сохраняет центральную идею: опасность скрытно попадает внутрь под видом чего-то приемлемого или безобидного.",
       "keyword": "Trojanski konj; skrivena pretnja; prodor"
+    },
+    {
+      "headword_latin": "Trošiti reči",
+      "type": "frazeologizam",
+      "definition_ru": "попусту тратить слова; говорить зря; пытаться безрезультатно объяснять.",
+      "synonyms_sr": [
+        "govoriti uzalud",
+        "uzalud objašnjavati",
+        "rasipati reči"
+      ],
+      "literal_ru": "Тратить слова.",
+      "register": "neutralno-razg.; često s negacijom: neću da trošim reči",
+      "examples": [
+        {
+          "serbian_latin": "Neću više da trošim reči, ionako me ne sluša.",
+          "russian": "Больше не стану попусту тратить слова, он всё равно меня не слушает.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Uzalud trošiš reči pokušavajući da ga ubediš.",
+          "russian": "Ты зря тратишь слова, пытаясь его убедить.",
+          "source": ""
+        }
+      ],
+      "note": "В сербском trošiti reči устойчиво передаёт мысль о бесполезности разговора, а не о количестве произнесённых слов. Нередко встречается с uzalud или отрицанием: ne vredi trošiti reči. Семантика подтверждена исследованием сербских фразеологизмов с компонентом reč (J. Marčeta, 2024).",
+      "keyword": "trošiti reči"
     },
     {
       "headword_latin": "Trošiti šakom i kapom",
@@ -50622,6 +50674,31 @@
       "keyword": "čabar; u čabru"
     },
     {
+      "headword_latin": "U čelu stola",
+      "type": "kolokacija",
+      "definition_ru": "во главе стола; на почётном месте за столом.",
+      "synonyms_sr": [
+        "na počasnom mestu za stolom",
+        "na čelu trpeze"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; prostorna konstrukcija: u + lokativ",
+      "examples": [
+        {
+          "serbian_latin": "Novak Nedić u čelu stola, okružen ljudima iz Upravnog odbora.",
+          "russian": "Новак Недич во главе стола, в окружении членов правления.",
+          "source": "Politika, 2016"
+        },
+        {
+          "serbian_latin": "Domaćin je seo u čelu stola, a gosti sa obe strane.",
+          "russian": "Хозяин сел во главе стола, а гости — по обе стороны.",
+          "source": ""
+        }
+      ],
+      "note": "Сербское u čelu stola обозначает место за столом, обычно в его торце, и может указывать на статус хозяина или руководителя. Русскому привычнее «во главе стола», а не «в голове стола». Не путать с na čelu organizacije — «во главе организации».",
+      "keyword": "u čelu stola"
+    },
+    {
       "headword_latin": "U čemu je fazon?",
       "type": "replika",
       "definition_ru": "в чём фишка?; в чём суть?; что здесь особенного?",
@@ -51038,6 +51115,32 @@
       ],
       "note": "Gluvo здесь не о слухе, а о тишине и безлюдности ночных часов. В отличие от простого noću, оборот подчёркивает позднее время и необычность события. В заметке RTS он встречается в изложении народных верований о Преображении; сам оборот не имеет обязательного религиозного значения.",
       "keyword": "gluvo doba noći"
+    },
+    {
+      "headword_latin": "U gro planu",
+      "type": "kolokacija",
+      "definition_ru": "крупным планом; в центре внимания; на переднем плане.",
+      "synonyms_sr": [
+        "u krupnom planu",
+        "u prvom planu (preneseno)",
+        "u fokusu (preneseno)"
+      ],
+      "literal_ru": "",
+      "register": "filmski i novinarski izraz; u gro planu / u gro-planu",
+      "examples": [
+        {
+          "serbian_latin": "Berlinale 2026: Svet u krizi, porodica u gro planu",
+          "russian": "Берлинале-2026: мир в кризисе, семья — в центре внимания.",
+          "source": "NIN, 2026"
+        },
+        {
+          "serbian_latin": "Kamera je prikazala njegovo lice u gro planu.",
+          "russian": "Камера показала его лицо крупным планом.",
+          "source": ""
+        }
+      ],
+      "note": "Gro plan происходит от французского gros plan, кинематографического термина «крупный план». В сербских медиа оборот употребляется и переносно — «в фокусе внимания». В нейтральном описании съёмки возможен вариант u krupnom planu; gro plan не следует путать с пространственным выражением u prvom planu.",
+      "keyword": "u gro planu"
     },
     {
       "headword_latin": "U grubim crtama",
@@ -51525,29 +51628,54 @@
       "keyword": "u nedođiji"
     },
     {
-      "headword_latin": "U nevolji se vidi ko ti je prijatelj",
-      "type": "poslovica",
-      "definition_ru": "друг познаётся в беде",
+      "headword_latin": "U nevolji je svaka pomoć dobrodošla",
+      "type": "izreka",
+      "definition_ru": "в беде любая помощь кстати; в трудную минуту любая поддержка важна.",
       "synonyms_sr": [
-        "prijatelj se u nevolji poznaje",
-        "pravi prijatelj se vidi u nevolji"
+        "svaka pomoć znači",
+        "svaka pomoć je dragocena",
+        "pomoć je dobrodošla"
       ],
       "literal_ru": "",
-      "register": "poslovica; česte varijante: u nevolji se poznaje prijatelj, pravi prijatelj se vidi u nevolji",
+      "register": "ustaljena izreka; neutralno",
       "examples": [
         {
-          "serbian_latin": "pravi prijatelj se vidi u nevolji, u teškim vremenima",
-          "russian": "настоящий друг познаётся в беде, в тяжёлые времена",
-          "source": "RTS, 2021",
-          "url": "https://www.rts.rs/page/magazine/sr/story/511/zanimljivosti/4257462/kineska-nova-godina-festival-beograd-novi-sad.html"
+          "serbian_latin": "U nevolji je svaka pomoć dobrodošla, ne dešava se ovo svakog dana.",
+          "russian": "В беде любая помощь кстати — такое ведь случается не каждый день.",
+          "source": "Blic, 2017"
         },
         {
-          "serbian_latin": "Kad su svi otišli, ona je ostala uz mene — u nevolji se vidi ko ti je prijatelj.",
-          "russian": "Когда все ушли, она осталась рядом — друг познаётся в беде.",
+          "serbian_latin": "Kad je bolnica ostala bez opreme, svaka pomoć je bila dobrodošla.",
+          "russian": "Когда больнице не хватало оборудования, любая помощь была на вес золота.",
           "source": ""
         }
       ],
-      "note": "Пословица говорит, что подлинную дружбу проверяют трудные обстоятельства. В опубликованной цитате использован самостоятельный вариант Pravi prijatelj se vidi u nevolji, а не дословный порядок слов заголовка. Лицо, которое обнаруживает, кто его друг, в заголовке обозначено дательным ti.",
+      "note": "Здесь dobrodošla — не приветствие, а оценка помощи как желательной и своевременной. Согласование идёт по слову pomoć (женский род), поэтому dobrodošla; со sredstvo получится dobrodošlo. Выражение ближе к русскому «любая помощь кстати», чем к «любой порт в бурю».",
+      "keyword": "u nevolji je svaka pomoć dobrodošla"
+    },
+    {
+      "headword_latin": "U nevolji se vidi ko ti je prijatelj",
+      "type": "poslovica",
+      "definition_ru": "друзья познаются в беде; в трудную минуту видно, кто тебе друг.",
+      "synonyms_sr": [
+        "prijatelj se u nevolji poznaje",
+        "u nevolji se poznaju prijatelji"
+      ],
+      "literal_ru": "",
+      "register": "poslovica; tradicionalno, i danas razumljivo",
+      "examples": [
+        {
+          "serbian_latin": "Dok je imao novca, svi su mu se javljali. Kad je ostao bez posla, video je ko mu je prijatelj.",
+          "russian": "Пока у него были деньги, все с ним общались. А когда он потерял работу, стало ясно, кто ему настоящий друг.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "U nevolji se vidi ko ti je prijatelj, a ko je bio tu samo zbog koristi.",
+          "russian": "В беде видно, кто тебе друг, а кто общался с тобой только ради выгоды.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица выражает мысль, близкую русскому «друзья познаются в беде», но сербская конструкция буквально строится как «видно, кто тебе друг». Форма ti — дательный падеж, а не притяжательное прилагательное. В старых сборниках и в живой речи встречаются разные варианты, в том числе prijatelj se u nevolji poznaje.",
       "keyword": "u nevolji se vidi ko ti je prijatelj"
     },
     {
@@ -51745,6 +51873,32 @@
       ],
       "note": "В прямом смысле это первые ряды людей, а переносно — участники, наиболее активно вовлечённые в борьбу или работу. Часто употребляется u prvim redovima borbe za/protiv nečega. Родительный после borbe указывает на сферу участия.",
       "keyword": "u prvim redovima"
+    },
+    {
+      "headword_latin": "U ratara crne ruke, a bela pogača",
+      "type": "poslovica",
+      "definition_ru": "у земледельца руки чёрные от работы, зато хлеб белый; труд кормит человека.",
+      "synonyms_sr": [
+        "bez rada nema hleba",
+        "ko radi, taj i ima",
+        "rad se isplati"
+      ],
+      "literal_ru": "У пахаря чёрные руки, а белая лепёшка.",
+      "register": "tradicionalna poslovica; danas ređa",
+      "examples": [
+        {
+          "serbian_latin": "Deda je govorio: „U ratara crne ruke, a bela pogača.“",
+          "russian": "Дед говорил: «У пахаря руки чёрные, зато хлеб белый».",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne stidi se posla u njivi — u ratara crne ruke, a bela pogača.",
+          "russian": "Не стыдись полевой работы: у земледельца руки в земле, зато на столе хлеб.",
+          "source": ""
+        }
+      ],
+      "note": "Ratar — земледелец; pogača — круглый хлеб или лепёшка, важная часть сербской традиционной кухни. Противопоставление чёрных от земли рук и белого хлеба подчёркивает достоинство физического труда. Пословица зафиксирована в учебных материалах Matice srpske, но в современной разговорной речи встречается нечасто.",
+      "keyword": "u ratara crne ruke, a bela pogača"
     },
     {
       "headword_latin": "U rinfuzi",
@@ -52571,6 +52725,31 @@
       "keyword": "ubiti jednim udarcem dve muve"
     },
     {
+      "headword_latin": "Učini čoveku sto puta dobro, a jedanput ne učini — sve je zaboravljeno",
+      "type": "poslovica",
+      "definition_ru": "сто раз помоги человеку, а один раз откажи — всё хорошее будет забыто.",
+      "synonyms_sr": [
+        "ljudi brzo zaboravljaju dobro",
+        "jedna odbijena molba zaseni mnoga dobra dela"
+      ],
+      "literal_ru": "Сделай человеку сто раз добро, а один раз не сделай — всё забудется.",
+      "register": "stara poslovica; danas retka; različiti oblici rečenice",
+      "examples": [
+        {
+          "serbian_latin": "Učini čoveku sto puta dobro, a jedanput ne učini — sve je zaboravljeno.",
+          "russian": "Сто раз помоги человеку, а один раз откажи — и всё хорошее забудется.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Godinama sam mu pomagao, a sada mi zamera jedan jedini put kad nisam mogao.",
+          "russian": "Я помогал ему годами, а теперь он припоминает единственный раз, когда я не смог.",
+          "source": ""
+        }
+      ],
+      "note": "Важен контраст sto puta — jedanput: одна неоказанная услуга стирает в глазах неблагодарного человека прежние заслуги. В старых сборниках встречаются варианты jedan put и jedanput; для современного написания здесь выбрано jedanput. Пословица фиксируется в традиционных сборниках, но как готовая реплика сегодня редка.",
+      "keyword": "učini čoveku sto puta dobro, a jedanput ne učini — sve je zaboravljeno"
+    },
+    {
       "headword_latin": "Učiniti medveđu uslugu kome",
       "type": "frazeologizam",
       "definition_ru": "оказать медвежью услугу",
@@ -52605,28 +52784,27 @@
     {
       "headword_latin": "Učiniti prvi korak",
       "type": "kolokacija",
-      "definition_ru": "сделать первый шаг",
+      "definition_ru": "сделать первый шаг; проявить инициативу; начать действовать.",
       "synonyms_sr": [
         "napraviti prvi korak",
-        "pokrenuti inicijativu",
-        "započeti nešto"
+        "pokrenuti nešto",
+        "preuzeti inicijativu"
       ],
       "literal_ru": "",
-      "register": "neutralno; učiniti prvi korak ka + dativ",
+      "register": "neutralno; češće u svakodnevnom govoru: napraviti prvi korak",
       "examples": [
         {
-          "serbian_latin": "učiniti prvi korak ka stvarnoj sudskoj nezavisnosti",
-          "russian": "сделать первый шаг к подлинной независимости судебной системы",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/sudija-saopstenje-drustva-sudija-srbije/"
+          "serbian_latin": "Učiniti prvi korak, izreći novu reč, ono je čega se ljudi najviše plaše.",
+          "russian": "Сделать первый шаг, произнести новое слово — вот чего люди больше всего боятся.",
+          "source": "RTS, 2017 (цитата Ф. Достоевского в сербском переводе)"
         },
         {
           "serbian_latin": "Neko mora da učini prvi korak ka pomirenju.",
-          "russian": "Кто-то должен сделать первый шаг к примирению.",
+          "russian": "Кому-то нужно сделать первый шаг к примирению.",
           "source": ""
         }
       ],
-      "note": "В переносном значении — первым начать сближение, переговоры или перемены. Типичная конструкция učiniti/napraviti prvi korak ka nečemu, где ka требует дательного падежа: ka pomirenju, ka promeni.",
+      "note": "В обыденной речи очень распространено napraviti prvi korak, а učiniti prvi korak чуть более книжно. Обычно уточняется направление: prvi korak ka pomirenju, promenama ili rešenju. Можно говорить и о первом шаге в отношениях, и о начале проекта.",
       "keyword": "učiniti prvi korak"
     },
     {
@@ -52880,6 +53058,32 @@
       "keyword": "crveno"
     },
     {
+      "headword_latin": "Ući u istoriju",
+      "type": "kolokacija",
+      "definition_ru": "войти в историю; оставить заметный след; прославиться историческим событием.",
+      "synonyms_sr": [
+        "ostati zapamćen",
+        "ostaviti trag u istoriji",
+        "postati deo istorije"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-public.; ući u + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Njujork okrenuo novu stranicu: Mamdani ušao u istoriju.",
+          "russian": "Нью-Йорк перевернул страницу: Мамдани вошёл в историю.",
+          "source": "Politika, 2025"
+        },
+        {
+          "serbian_latin": "Ovaj gol će ući u istoriju kluba.",
+          "russian": "Этот гол войдёт в историю клуба.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот чаще подчёркивает исключительность события или поступка, но не всегда содержит похвалу: войти в историю можно и из-за провала. В русском и сербском совпадают и образ, и управление; в сербском распространено будущее время: ući će u istoriju.",
+      "keyword": "ući u istoriju"
+    },
+    {
       "headword_latin": "Ući u istoriju (kao)",
       "type": "kolokacija",
       "definition_ru": "войти в историю",
@@ -52911,28 +53115,27 @@
     {
       "headword_latin": "Ući u modu",
       "type": "kolokacija",
-      "definition_ru": "войти в моду",
+      "definition_ru": "войти в моду; стать модным; обрести популярность.",
       "synonyms_sr": [
         "postati popularan",
         "postati moderan",
         "ponovo biti u trendu"
       ],
       "literal_ru": "",
-      "register": "neutralno; ući u modu (svrš.), ulaziti u modu (nesvrš.)",
+      "register": "neutralno; svršeni vid; ući u + akuzativ",
       "examples": [
         {
-          "serbian_latin": "da li će telefoni na preklapanje opet ući u modu",
-          "russian": "снова ли войдут в моду складные телефоны",
-          "source": "RTS, 2019",
-          "url": "https://www.rts.rs/lat/magazin/tehnologija/3741338/motorola-rejzr-se-vratio--da-li-ce-telefoni-na-preklapanje-opet-uci-u-modu.html"
+          "serbian_latin": "Da li će telefoni na preklapanje opet ući u modu?",
+          "russian": "Войдут ли складные телефоны снова в моду?",
+          "source": "RTS, 2019"
         },
         {
-          "serbian_latin": "Široke pantalone ponovo su ušle u modu.",
+          "serbian_latin": "Ponovo su ušle u modu široke pantalone.",
           "russian": "Широкие брюки снова вошли в моду.",
           "source": ""
         }
       ],
-      "note": "Ući u modu означает начало популярности, а biti u modi — уже существующую моду. Прилагательное moderan здесь подходит не во всех контекстах: речь бывает о распространении привычек, вещей и технологий.",
+      "note": "Ući u modu обозначает процесс появления или возвращения моды, а biti u modi — уже сложившуюся популярность. Уместно не только об одежде, но и о технологиях, привычках и стиле жизни. В сербском после ući требуется u + винительный падеж: ući u modu.",
       "keyword": "ući u modu"
     },
     {
@@ -53138,6 +53341,32 @@
       ],
       "note": "В сербском ući u trag требует дательного падежа: ući u trag beguncu, supstanci, njima. Речь не обязательно о поиске человека: в цитате пытаются обнаружить новые вещества, поэтому im относится к ним.",
       "keyword": "ući u trag nekome"
+    },
+    {
+      "headword_latin": "Ući u uži izbor",
+      "type": "kolokacija",
+      "definition_ru": "войти в шорт-лист; попасть в окончательный круг отбора; оказаться среди финалистов.",
+      "synonyms_sr": [
+        "naći se u užem izboru",
+        "ući u finale izbora (delimično)",
+        "biti među odabranim kandidatima"
+      ],
+      "literal_ru": "",
+      "register": "neutralno; često o konkursima, nagradama, zapošljavanju",
+      "examples": [
+        {
+          "serbian_latin": "Biće kontaktirani samo kandidati koji uđu u uži izbor.",
+          "russian": "Свяжутся только с кандидатами, попавшими в короткий список.",
+          "source": "JobHunter, 2026"
+        },
+        {
+          "serbian_latin": "Njena knjiga ušla je u uži izbor za književnu nagradu.",
+          "russian": "Её книга вошла в шорт-лист литературной премии.",
+          "source": ""
+        }
+      ],
+      "note": "Uži izbor — сокращённый список претендентов после предварительного отбора. Сербское ući u uži izbor выражает переход на новый этап, а biti u užem izboru — уже достигнутый результат; падежи различаются: u + винительный и u + местный. Не всякий uži izbor означает именно тройку финалистов.",
+      "keyword": "ući u uži izbor"
     },
     {
       "headword_latin": "Udarac ispod pojasa",
@@ -53638,6 +53867,32 @@
       "keyword": "poslednji voz"
     },
     {
+      "headword_latin": "Uhvatiti bika za rogove",
+      "type": "frazeologizam",
+      "definition_ru": "взяться за дело решительно; смело встретить проблему лицом к лицу.",
+      "synonyms_sr": [
+        "odlučno se suočiti s problemom",
+        "preći na stvar",
+        "uhvatiti se u koštac s problemom"
+      ],
+      "literal_ru": "Взять быка за рога.",
+      "register": "razg.-public.; svršeni vid",
+      "examples": [
+        {
+          "serbian_latin": "Dosta smo odlagali odluku, vreme je da uhvatimo bika za rogove.",
+          "russian": "Хватит откладывать решение, пора взять быка за рога.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Umesto da se žališ, uhvati bika za rogove i razgovaraj sa šefom.",
+          "russian": "Вместо жалоб возьми быка за рога и поговори с начальником.",
+          "source": ""
+        }
+      ],
+      "note": "Русский и сербский обороты почти полностью совпадают. Важно, что он означает не просто начать дело, а активно и решительно взяться за трудную или опасную проблему. В отличие от uhvatiti Boga za bradu, где речь об удаче, здесь речь о смелом действии.",
+      "keyword": "uhvatiti bika za rogove"
+    },
+    {
       "headword_latin": "Uhvatiti Boga za bradu",
       "type": "frazeologizam",
       "definition_ru": "почувствовать себя всесильным; решить, что поймал удачу за хвост; возомнить, что теперь всё можно",
@@ -53944,6 +54199,32 @@
       ],
       "note": "Koštac буквально обозначает борьбу, схватку. Типичная конструкция uhvatiti se u koštac sa problemom — решительно взяться за сложную проблему.",
       "keyword": "uhvatiti se u koštac sa čim"
+    },
+    {
+      "headword_latin": "Uhvatiti se za glavu",
+      "type": "frazeologizam",
+      "definition_ru": "схватиться за голову; прийти в ужас; растеряться от неприятной новости.",
+      "synonyms_sr": [
+        "očajavati",
+        "zaprepastiti se",
+        "biti van sebe (delimično)"
+      ],
+      "literal_ru": "Схватиться за голову.",
+      "register": "razg.; svršeni vid; uhvatiti se za + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Kad smo saznali da je naša šansa u našim rukama, uhvatili smo se za glavu.",
+          "russian": "Когда мы узнали, что наш шанс в наших руках, мы схватились за голову.",
+          "source": "Danas, 2007"
+        },
+        {
+          "serbian_latin": "Kad je video račun za struju, uhvatio se za glavu.",
+          "russian": "Увидев счёт за электричество, он схватился за голову.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение описывает реакцию на шок, досаду, растерянность или крупную неприятность; буквальный жест может и не совершаться. Сочетание отличается от lupati se po glavi: там чаще подчёркивают сожаление о собственной ошибке. Возвратное se обязательно.",
+      "keyword": "uhvatiti se za glavu"
     },
     {
       "headword_latin": "Ukrstiti koplja",
@@ -54467,6 +54748,32 @@
       "keyword": "upasti u zamku"
     },
     {
+      "headword_latin": "Upecati se na udicu",
+      "type": "frazeologizam",
+      "definition_ru": "попасться на удочку; купиться на обман; попасть в ловушку.",
+      "synonyms_sr": [
+        "nasesti na trik",
+        "progutati udicu",
+        "nasesti na prevaru"
+      ],
+      "literal_ru": "Попасться на рыболовный крючок.",
+      "register": "razg.; svršeni glagol; upecati se na + akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "... ima li među uhapšenima i čestitih domaćina koji su se upecali na „udicu“ posrednika i njihovih „dobrih“ usluga.",
+          "russian": "…есть ли среди задержанных честные хозяева хозяйств, попавшиеся на удочку посредников и их «добрых» услуг.",
+          "source": "Agromedia, 2021"
+        },
+        {
+          "serbian_latin": "Upecao sam se na reklamu i kupio uređaj koji mi uopšte nije potreban.",
+          "russian": "Я купился на рекламу и приобрёл устройство, которое мне совершенно не нужно.",
+          "source": ""
+        }
+      ],
+      "note": "В прямом значении upecati означает «поймать рыбу», а возвратное upecati se называет того, кто сам попался на уловку. Не смешивать с upecati nekoga — «подцепить, заполучить кого-то». Близкое progutati udicu уже может существовать как отдельный фразеологизм: обе единицы самостоятельны.",
+      "keyword": "upecati se na udicu"
+    },
+    {
       "headword_latin": "Upinjati se iz petnih žila",
       "type": "frazeologizam",
       "definition_ru": "стараться изо всех сил; лезть из кожи вон; прилагать все усилия",
@@ -54549,6 +54856,32 @@
       "keyword": "uploviti u bračne vode"
     },
     {
+      "headword_latin": "Upotrebiti tešku artiljeriju",
+      "type": "frazeologizam",
+      "definition_ru": "пустить в ход тяжёлую артиллерию; применить самое сильное средство; привлечь главные силы.",
+      "synonyms_sr": [
+        "upotrebiti najjače adute",
+        "posegnuti za najjačim sredstvima",
+        "izvući najjači adut"
+      ],
+      "literal_ru": "Использовать тяжёлую артиллерию.",
+      "register": "razg.-public.; metaforički, ponekad šaljivo",
+      "examples": [
+        {
+          "serbian_latin": "Kad blaži argumenti nisu uspeli, upotrebili su tešku artiljeriju i pozvali direktora.",
+          "russian": "Когда мягкие доводы не помогли, они пустили в ход тяжёлую артиллерию и позвали директора.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Za ovaj problem ne treba odmah upotrebljavati tešku artiljeriju.",
+          "russian": "Для этой проблемы необязательно сразу прибегать к самым мощным средствам.",
+          "source": ""
+        }
+      ],
+      "note": "Военный образ обозначает решительные меры, сильные аргументы или влиятельных участников, которых подключают, когда обычных средств недостаточно. Выражение может быть и ироническим — например, о косметике. В сербской прессе teška artiljerija часто используется как метафора сильного политического или дипломатического ресурса.",
+      "keyword": "upotrebiti tešku artiljeriju"
+    },
+    {
       "headword_latin": "Uprljati ruke",
       "type": "frazeologizam",
       "definition_ru": "запачкать руки; ввязаться в грязные дела; скомпрометировать себя",
@@ -54601,6 +54934,32 @@
       ],
       "note": "Глагол uprskati буквально связан с брызгами, но сочетание uprskati stvar означает не физически испачкать вещь, а провалить ситуацию неудачным действием. Это разговорная оценка более резкая, чем pogrešiti. Частотные формы: uprskao sam stvar, nemoj da uprskaš stvar.",
       "keyword": "uprskati stvar"
+    },
+    {
+      "headword_latin": "Uputiti nešto na pogrešnu adresu",
+      "type": "frazeologizam",
+      "definition_ru": "обратиться не по адресу; предъявить претензии не тому; направить жалобу не туда.",
+      "synonyms_sr": [
+        "obratiti se pogrešnoj osobi",
+        "pogrešno usmeriti kritiku",
+        "zameriti onome ko nije odgovoran"
+      ],
+      "literal_ru": "Отправить что-либо по неправильному адресу.",
+      "register": "neutralno-public.; često: uputiti kritike / optužbe / pitanje na pogrešnu adresu",
+      "examples": [
+        {
+          "serbian_latin": "Moguće je da su obe organizacije, kritikujući Vladu Srbije, svoje kritike bar delimično uputile na pogrešnu adresu.",
+          "russian": "Возможно, обе организации, критикуя правительство Сербии, отчасти адресовали свои претензии не тому.",
+          "source": "Danas, 2008"
+        },
+        {
+          "serbian_latin": "Ako se žališ meni, uputio si prigovor na pogrešnu adresu.",
+          "russian": "Если жалуешься мне, то обращаешься не по адресу.",
+          "source": ""
+        }
+      ],
+      "note": "В переносном значении adresa обозначает человека или учреждение, которое должно отвечать за проблему. Можно говорить uputiti kritiku na pogrešnu adresu или obratiti se na pogrešnu adresu; первая конструкция требует прямого дополнения (kritiku, pitanje). Буквальная почтовая ошибка возможна, но обычно контекст сразу показывает переносное значение.",
+      "keyword": "uputiti nešto na pogrešnu adresu"
     },
     {
       "headword_latin": "Urezalo mi se u sećanje",
@@ -55090,28 +55449,27 @@
     {
       "headword_latin": "Uvek ista pesma!",
       "type": "replika",
-      "definition_ru": "опять та же песня!; опять одно и то же!",
+      "definition_ru": "опять одно и то же!; снова старая песня!; всё та же история!",
       "synonyms_sr": [
-        "opet ista priča",
-        "stalno se ponavlja isto",
+        "opet po starom",
+        "uvek ista priča",
         "ništa novo"
       ],
-      "literal_ru": "",
-      "register": "razg., ekspresivno, neodobr.",
+      "literal_ru": "Всегда одна и та же песня.",
+      "register": "razg., ironično ili nezadovoljno; gotova replika",
       "examples": [
         {
-          "serbian_latin": "Vojska, crkva, Dodik: Pred sastanak o Kosovu uvek ista pesma",
-          "russian": "Армия, церковь, Додик: перед встречей по Косово опять всё по старой схеме.",
-          "source": "Nova.rs, 2020",
-          "url": "https://nova.rs/vesti/politika/vojska-crkva-dodik-pred-sastanak-o-kosovu-uvek-ista-pesma/"
+          "serbian_latin": "Opet obećavaju da će završiti radove do petka. Uvek ista pesma!",
+          "russian": "Опять обещают закончить работы к пятнице. Старая песня!",
+          "source": ""
         },
         {
-          "serbian_latin": "Opet kasniš i izmišljaš izgovore — uvek ista pesma!",
-          "russian": "Опять опаздываешь и придумываешь оправдания — снова та же песня!",
+          "serbian_latin": "Kad ga pitaš za dug, uvek ista pesma: „Vratiću sutra.“",
+          "russian": "Когда спрашиваешь его о долге, каждый раз одно и то же: «Завтра верну».",
           "source": ""
         }
       ],
-      "note": "Здесь pesma — не музыкальное произведение, а повторяющийся сценарий или уже надоевшие объяснения. Реплика обычно выражает раздражение или скепсис. Часто встречается вариант Opet ista pesma.",
+      "note": "Речь обычно не о музыке, а об утомительно повторяющейся ситуации или оправдании. Фраза может употребляться самостоятельно, без глагола, с оттенком раздражения. Ближайшее русское «опять старая песня» хорошо передаёт интонацию.",
       "keyword": "uvek ista pesma"
     },
     {
