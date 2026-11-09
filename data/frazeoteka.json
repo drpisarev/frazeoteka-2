@@ -3360,6 +3360,32 @@
       "keyword": "čigra"
     },
     {
+      "headword_latin": "Blago onom ko rano poludi",
+      "type": "izreka",
+      "definition_ru": "счастлив тот, кто рано с ума сошёл; меньше думаешь — меньше тревог",
+      "synonyms_sr": [
+        "blago onome ko se ne opterećuje",
+        "lako je onome ko ne brine",
+        "blago budalama (šalj.)"
+      ],
+      "literal_ru": "Счастлив тот, кто рано сошёл с ума.",
+      "register": "razg., šalj., ironično; poznata pesnička formula",
+      "examples": [
+        {
+          "serbian_latin": "Blago onom ko rano poludi!",
+          "russian": "Счастлив тот, кто вовремя перестал обо всём переживать!",
+          "source": "Srbija Danas, 2014"
+        },
+        {
+          "serbian_latin": "Opet se nerviraš zbog svega? Blago onom ko rano poludi, pa nema te brige.",
+          "russian": "Опять из-за всего переживаешь? Счастлив тот, кто ни о чём не тревожится.",
+          "source": ""
+        }
+      ],
+      "note": "Это шутливая похвала беззаботности, часто с ироническим намёком: умный человек слишком много переживает. Фраза хорошо известна по песне Džeja Ramadanovskog 1992 года, но считать её авторским изобретением певца нельзя. Слово poludeti здесь может быть гиперболой, не описанием психического заболевания.",
+      "keyword": "blago onom ko rano poludi"
+    },
+    {
       "headword_latin": "Bled kao krpa",
       "type": "poređenje",
       "definition_ru": "Очень бледный; резко побледневший от страха, потрясения, болезни или сильного волнения. По-русски: «белый как полотно», «бледный как смерть».",
@@ -3930,6 +3956,31 @@
       ],
       "note": "Русский эквивалент практически идеален, меняются только птицы: сербский vrabac — golub, русский синица — журавль. Пословица не обязательно проповедует трусость или отсутствие амбиций: её основной смысл — не рисковать реальной ценностью ради неопределённой большей выгоды. Современные сербские обсуждения активно спорят с этой народной мудростью, считая её иногда рецептом чрезмерной осторожности; это хороший признак того, что пословица остаётся живой.",
       "keyword": "bolje vrabac u ruci nego golub na grani"
+    },
+    {
+      "headword_latin": "Bolje živa kukavica nego mrtav heroj",
+      "type": "poslovica",
+      "definition_ru": "лучше живой трус, чем мёртвый герой; лучше отступить, чем погибнуть",
+      "synonyms_sr": [
+        "bolje se povući nego poginuti",
+        "život je preči od junačenja"
+      ],
+      "literal_ru": "Лучше живая трусиха, чем мёртвый герой.",
+      "register": "razg., ironično ili ozbiljno; ponekad o opasnom riziku",
+      "examples": [
+        {
+          "serbian_latin": "Neću da rizikujem život zbog opklade — bolje živa kukavica nego mrtav heroj.",
+          "russian": "Не стану рисковать жизнью из-за спора: лучше быть живым трусом, чем мёртвым героем.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "On smatra da je ponekad pametnije povući se: bolje živa kukavica nego mrtav heroj.",
+          "russian": "Он считает, что иногда разумнее отступить: лучше остаться в живых, чем погибнуть героем.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица противопоставляет осторожность безрассудному героизму; в зависимости от ситуации это разумный совет или оправдание трусости. Она упоминается среди известных реплик комикса Alan Ford, популярного в бывшей Югославии, но это не доказывает происхождения выражения именно из комикса. Прилагательное živa согласовано с существительным kukavica женского рода, даже когда речь о мужчине.",
+      "keyword": "bolje živa kukavica nego mrtav heroj"
     },
     {
       "headword_latin": "boriti se do poslednje kapi krvi",
@@ -5888,6 +5939,32 @@
       ],
       "note": "Русское «день Х» функционально подходит, но происхождение и образ различаются. Dan D идёт от английского D-Day, военного обозначения дня начала операции; отсюда также D+1, D+2. В современной сербской речи это просто «решающий день».",
       "keyword": "dan D"
+    },
+    {
+      "headword_latin": "Danas jesi, sutra nisi",
+      "type": "izreka",
+      "definition_ru": "сегодня ты есть, завтра тебя нет; всё преходяще; сегодня на вершине, завтра никто",
+      "synonyms_sr": [
+        "sve je prolazno",
+        "danas si gore, sutra dole",
+        "ništa nije večno"
+      ],
+      "literal_ru": "Сегодня есть, завтра нет.",
+      "register": "razg., poslovično; o prolaznosti života ili položaja",
+      "examples": [
+        {
+          "serbian_latin": "Standardna priča je da me potcene. Danas jesi, sutra nisi.",
+          "russian": "Как обычно, меня недооценивают. Сегодня ты на вершине, а завтра — нет.",
+          "source": "Srbija Danas, 2026"
+        },
+        {
+          "serbian_latin": "Ne hvali se mnogo uspehom: danas jesi, sutra nisi.",
+          "russian": "Не хвастайся успехом: сегодня всё есть, а завтра может не остаться ничего.",
+          "source": ""
+        }
+      ],
+      "note": "Формула может напоминать и о быстротечности человеческой жизни, и о переменчивости славы, успеха или власти. Значение определяется контекстом: это не обязательно разговор о смерти. Не нужно добавлять в перевод сербское подлежащее, отсутствующее в самой лаконичной конструкции.",
+      "keyword": "danas jesi, sutra nisi"
     },
     {
       "headword_latin": "Dara je prevršila meru",
@@ -19525,6 +19602,32 @@
       "keyword": "ma ko mi kaže"
     },
     {
+      "headword_latin": "Ma nemoj!",
+      "type": "replika",
+      "definition_ru": "да ну!; неужели!; ну конечно, рассказывай!",
+      "synonyms_sr": [
+        "ma daj!",
+        "nemoj mi reći!",
+        "je l’ moguće? (neutralnije)"
+      ],
+      "literal_ru": "Да не надо же!",
+      "register": "razg., često ironično; značenje zavisi od intonacije",
+      "examples": [
+        {
+          "serbian_latin": "Ma nemoj! Baš si ti jedini koji je sve znao unapred.",
+          "russian": "Да ну! Конечно, ты у нас единственный, кто всё знал заранее.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Dobila si posao? Ma nemoj! Baš mi je drago!",
+          "russian": "Тебя взяли на работу? Да ладно! Как я рад!",
+          "source": ""
+        }
+      ],
+      "note": "Восклицание может выражать искреннее удивление, недоверие или язвительное «ну да, конечно». Начальная частица ma усиливает реакцию. Не путать с буквальным запретом nemoj! — «не делай этого!»: здесь реплика часто вообще не содержит просьбы прекратить действие.",
+      "keyword": "ma nemoj!"
+    },
+    {
       "headword_latin": "Ma, važi!",
       "type": "replika",
       "definition_ru": "ага, как же!; ну да, конечно! (недоверчиво или саркастически)",
@@ -19717,6 +19820,32 @@
       ],
       "note": "Обе формы — mali je svet и svet je mali — естественны. Часто произносится при неожиданном пересечении знакомых или обнаружении общей связи.",
       "keyword": "mali svet"
+    },
+    {
+      "headword_latin": "Mali je svet!",
+      "type": "replika",
+      "definition_ru": "мир тесен!; надо же, как тесен мир!",
+      "synonyms_sr": [
+        "kakav mali svet!",
+        "svet je baš mali",
+        "kakva slučajnost!"
+      ],
+      "literal_ru": "Мир маленький!",
+      "register": "razg.; uz neočekivan zajednički kontakt ili susret",
+      "examples": [
+        {
+          "serbian_latin": "Ispostavilo se da smo išli u istu školu. Mali je svet!",
+          "russian": "Оказалось, мы учились в одной школе. Как тесен мир!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Znaš i ti Milicu iz Novog Sada? Mali je svet!",
+          "russian": "Ты тоже знаешь Милицу из Нови-Сада? Вот уж тесен мир!",
+          "source": ""
+        }
+      ],
+      "note": "Реплика обозначает удивление неожиданной связью между людьми, а не размер Земли. Очень типична после случайной встречи или обнаружения общих знакомых. В русском её почти всегда можно перевести прямо: «мир тесен».",
+      "keyword": "mali je svet!"
     },
     {
       "headword_latin": "Malo sutra",
@@ -21640,6 +21769,32 @@
       "keyword": "na ravnoj nozi"
     },
     {
+      "headword_latin": "Na sav glas",
+      "type": "izraz",
+      "definition_ru": "во весь голос; громко, не сдерживаясь",
+      "synonyms_sr": [
+        "iz sveg glasa",
+        "iz punog grla",
+        "punim glasom"
+      ],
+      "literal_ru": "На весь голос.",
+      "register": "neutralno-razg.; pevati, vikati, dozivati na sav glas",
+      "examples": [
+        {
+          "serbian_latin": "Deca su pevala na sav glas celim putem.",
+          "russian": "Дети пели во весь голос всю дорогу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Počeo je da viče na sav glas da ga svi čuju.",
+          "russian": "Он принялся кричать во весь голос, чтобы все его услышали.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот относится прежде всего к громкости речи, крика или пения, а не к физическому усилию вообще. Типичные сочетания: pevati, vikati, urlati, dozivati na sav glas. Не путать с na sva usta, которое чаще значит «всюду, восторженно расхваливать».",
+      "keyword": "na sav glas"
+    },
+    {
       "headword_latin": "Na svoju ruku",
       "type": "frazeologizam",
       "definition_ru": "самовольно; по собственной инициативе; на своё усмотрение",
@@ -22330,6 +22485,32 @@
       "keyword": "natovariti na vrat"
     },
     {
+      "headword_latin": "Natrontati se",
+      "type": "glagol",
+      "definition_ru": "укутаться с ног до головы; надеть слишком много одежды; напялить на себя несколько слоёв",
+      "synonyms_sr": [
+        "navući mnogo odeće",
+        "obući se u više slojeva",
+        "utopliti se (neutralnije)"
+      ],
+      "literal_ru": "",
+      "register": "razg., delom regionalno; često šalj. o zimskom oblačenju",
+      "examples": [
+        {
+          "serbian_latin": "Možete se natrontati već u zatvorenom prostoru.",
+          "russian": "Можно заранее закутаться в несколько слоёв одежды ещё в помещении.",
+          "source": "Duletov blog, 2017"
+        },
+        {
+          "serbian_latin": "Natrontala se kao da ide na Severni pol, a napolju je deset stepeni.",
+          "russian": "Она укуталась так, будто едет на Северный полюс, хотя на улице десять градусов.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол подчёркивает избыток одежды: человек одет чрезмерно тепло или громоздко, часто комично. Слово хорошо известно в разговорной речи, особенно в Воеводине; в формальном тексте лучше obući se pretoplo. Возвратная форма natrontati se относится к самому человеку, а natrontati nekoga — к тому, кого так одели.",
+      "keyword": "natrontati se"
+    },
+    {
       "headword_latin": "Navaliti kao smrt na babu",
       "type": "frazeologizam",
       "definition_ru": "пристать как банный лист; наседать; не давать покоя",
@@ -22666,6 +22847,32 @@
       ],
       "note": "Не обязательно о романтической любви. В конструкции X nije u ljubavi sa Y часто речь именно о неприязни или конфликтных отношениях. Мягче, чем biti na ratnoj nozi.",
       "keyword": "ne biti u ljubavi"
+    },
+    {
+      "headword_latin": "Ne biti u ljubavi s nekim",
+      "type": "frazeologizam",
+      "definition_ru": "быть не в ладах с кем-то; не ладить; иметь натянутые отношения",
+      "synonyms_sr": [
+        "ne slagati se s nekim",
+        "biti u lošim odnosima",
+        "ne mirisati nekoga (jače)"
+      ],
+      "literal_ru": "Не быть в любви с кем-то.",
+      "register": "razg.-public.; u ljubavi s(a) + instrumental",
+      "examples": [
+        {
+          "serbian_latin": "Naravno da nismo u ljubavi, ali ni u ratu.",
+          "russian": "Разумеется, мы не в ладах, но и не воюем.",
+          "source": "Blic, 2026"
+        },
+        {
+          "serbian_latin": "On i direktor odavno nisu u ljubavi, ali uspevaju da sarađuju.",
+          "russian": "Он и директор давно не ладят, но всё же могут работать вместе.",
+          "source": ""
+        }
+      ],
+      "note": "Это не обязательно о романтической любви: оборот часто описывает политические, служебные или соседские отношения. Обычная модель — ne biti u ljubavi s nekim. Вопрос «они влюблены?» такой конструкцией лучше не передавать; для романтического чувства говорят biti zaljubljen.",
+      "keyword": "ne biti u ljubavi s nekim"
     },
     {
       "headword_latin": "Ne cvetaju ruže",
@@ -23555,6 +23762,32 @@
       "keyword": "pišljiva boba"
     },
     {
+      "headword_latin": "Ne zaklapati usta",
+      "type": "frazeologizam",
+      "definition_ru": "не закрывать рта; говорить без умолку; трещать без остановки",
+      "synonyms_sr": [
+        "ne prestajati da priča",
+        "brbljati",
+        "pričati bez predaha"
+      ],
+      "literal_ru": "Не закрывать рот.",
+      "register": "razg., često neodobr.; ne zaklapati usta",
+      "examples": [
+        {
+          "serbian_latin": "Od početka sastanka nije zaklopio usta.",
+          "russian": "С самого начала собрания он ни на минуту не закрывал рта.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pusti i druge da nešto kažu, ne zaklapaš usta!",
+          "russian": "Дай и другим что-нибудь сказать, ты же рта не закрываешь!",
+          "source": ""
+        }
+      ],
+      "note": "Глагол zaklopiti буквально означает «закрыть, захлопнуть», но в этой конструкции речь о беспрерывной болтовне. Очень часто употребляется в отрицании: ne zaklapa usta. В нейтральной похвале разговорчивости лучше reći da je neko komunikativan, поскольку оборот обычно содержит раздражение.",
+      "keyword": "ne zaklapati usta"
+    },
+    {
       "headword_latin": "Ne zna da li je došao ili pošao",
       "type": "frazeologizam",
       "definition_ru": "совсем растерялся, запутался или настолько пьян/ошарашен, что не понимает, что делает",
@@ -23667,6 +23900,32 @@
       ],
       "note": "Выпивка и расчёт здесь лишь образ. Фраза описывает ситуацию, где исчезли правила, роли и ответственность. Варианты ne zna se ko pije, ko plaća, ko pije, a ko plaća и усиленное ni ko pije ni ko plaća сосуществуют.",
       "keyword": "ko pije ko plaća"
+    },
+    {
+      "headword_latin": "Ne znam, nisam pametna",
+      "type": "replika",
+      "definition_ru": "даже не знаю, что сказать; затрудняюсь ответить; ума не приложу",
+      "synonyms_sr": [
+        "ne znam šta da kažem",
+        "nisam sigurna",
+        "teško mi je da procenim"
+      ],
+      "literal_ru": "Не знаю, я не умная.",
+      "register": "razg.; govori žena; muški oblik: nisam pametan",
+      "examples": [
+        {
+          "serbian_latin": "Da li će stvarno sniziti cene? Ne znam, nisam pametna.",
+          "russian": "Они правда снизят цены? Даже не знаю, что и думать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "S jedne strane bih prihvatila posao, a s druge se plašim. Nisam pametna.",
+          "russian": "С одной стороны, я бы согласилась на работу, а с другой — боюсь. Даже не знаю, как быть.",
+          "source": ""
+        }
+      ],
+      "note": "Это устойчивая формула сомнения, а не самооценка интеллекта. Женщина обычно говорит nisam pametna, мужчина — nisam pametan; по-русски естественнее «даже не знаю», «ума не приложу». Реплика особенно характерна, когда у обоих решений есть плюсы и минусы.",
+      "keyword": "ne znam, nisam pametna"
     },
     {
       "headword_latin": "Ne znam, nisam pametna / pametan",
@@ -24056,6 +24315,32 @@
       ],
       "note": "Frka — «паника, неприятность, напряжённая ситуация». Поэтому nema frke функционально соответствует не буквальному «нет паники», а русским «без проблем», «не парься».",
       "keyword": "frka"
+    },
+    {
+      "headword_latin": "Nema frke!",
+      "type": "replika",
+      "definition_ru": "без проблем!; не переживай!; всё нормально!",
+      "synonyms_sr": [
+        "nema problema!",
+        "bez brige!",
+        "opušteno! (sleng)"
+      ],
+      "literal_ru": "Нет паники!",
+      "register": "razg., neformalno; kao odgovor na molbu ili izvinjenje",
+      "examples": [
+        {
+          "serbian_latin": "Možeš li da mi pošalješ dokument večeras? — Nema frke!",
+          "russian": "Можешь прислать документ вечером? — Без проблем!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Izvini što kasnim. — Ma nema frke, tek sam stigao.",
+          "russian": "Извини, что опоздал. — Да ничего страшного, я сам только пришёл.",
+          "source": ""
+        }
+      ],
+      "note": "Frka в разговорном языке — суета, паника, сложная ситуация. Поэтому nema frke бывает и согласием выполнить просьбу, и успокаивающим ответом на извинение. В официальной переписке предпочтительнее nema problema или u redu je.",
+      "keyword": "nema frke!"
     },
     {
       "headword_latin": "Nema ga ni od korova",
@@ -24453,29 +24738,29 @@
     },
     {
       "headword_latin": "Nema za Marka kape",
-      "type": "izreka",
-      "definition_ru": "на него не угодишь; ничего ему не подходит; всё не то",
+      "type": "poslovica",
+      "definition_ru": "такому человеку ничем не угодишь; невозможно подобрать то, что его устроит",
       "synonyms_sr": [
+        "nikako mu ne možeš ugoditi",
         "ništa mu ne odgovara",
-        "teško mu je ugoditi",
-        "uvek nešto zamera"
+        "uvek nađe manu"
       ],
-      "literal_ru": "для Марко нет подходящей шапки",
-      "register": "razg., iron.; o veoma izbirljivoj osobi kojoj ništa nije po volji",
+      "literal_ru": "Не найдётся шапки для Марко.",
+      "register": "tradicionalna izreka, danas ređa; šaljivo-neodobr.",
       "examples": [
         {
-          "serbian_latin": "Nema za Marka kape.",
-          "russian": "На него не угодишь: всё не то.",
-          "source": "Go Speak Serbian, 2023"
+          "serbian_latin": "Obišli smo pet prodavnica, a njemu se ništa ne sviđa — nema za Marka kape.",
+          "russian": "Обошли пять магазинов, а ему всё не нравится — такому ничем не угодишь.",
+          "source": ""
         },
         {
-          "serbian_latin": "Obišli smo pet prodavnica i opet ništa — nema za Marka kape.",
-          "russian": "Мы обошли пять магазинов, и опять ничего: на него не угодишь.",
+          "serbian_latin": "Nudiš joj tri rešenja, ali nijedno ne valja. Nema za Marka kape.",
+          "russian": "Предлагаешь ей три решения, а ни одно не подходит. Что ни предложи — всё не так.",
           "source": ""
         }
       ],
-      "note": "Формула реально употребляется о чрезмерно разборчивом человеке. Встречается и вариант Nema za Rajka kapa. Марко здесь лучше воспринимать как условное рифменно-фольклорное имя: надёжного подтверждения связи с королевичем Марко нет.",
-      "keyword": "kapa"
+      "note": "Пословица высмеивает чрезмерно разборчивого человека, которому ничто не подходит. Имя Marko в ней не обязательно следует связывать с конкретным историческим лицом; надёжного объяснения происхождения формулы нет. В современной повседневной речи понятнее: ništa mu ne odgovara.",
+      "keyword": "nema za marka kape"
     },
     {
       "headword_latin": "Nema zime",
@@ -25540,28 +25825,28 @@
     {
       "headword_latin": "Ničim izazvan",
       "type": "izraz",
-      "definition_ru": "ни с того ни с сего; без всякого повода; ничем не спровоцированный",
+      "definition_ru": "ни с того ни с сего; без всякого повода; совершенно непрошено",
       "synonyms_sr": [
-        "bez povoda",
-        "bez ikakvog razloga",
-        "iz čista mira"
+        "bez ikakvog povoda",
+        "bez razloga",
+        "iz čista mira (blisko)"
       ],
-      "literal_ru": "ничем не вызванный",
-      "register": "neutralno u doslovnom značenju; razg.-iron. kada stoji kao izdvojena najava neočekivanog postupka",
+      "literal_ru": "Ничем не вызванный.",
+      "register": "neutralno, često ironično; pridevski izraz, menja rod i broj",
       "examples": [
         {
-          "serbian_latin": "Ničim izazvan, počeo je da analizira moj lik i delo.",
-          "russian": "Ни с того ни с сего он начал разбирать мою личность и творчество.",
-          "source": "Ulaznica, 2010"
+          "serbian_latin": "Ničim izazvan, samo je prišao, ja sam mu rekao da se pomeri.",
+          "russian": "Он ни с того ни с сего подошёл, и я велел ему отойти.",
+          "source": "RTS, 2024"
         },
         {
-          "serbian_latin": "Ničim izazvan, ustao je i održao govor od dvadeset minuta.",
-          "russian": "Ни с того ни с сего он встал и произнёс двадцатиминутную речь.",
+          "serbian_latin": "Usred razgovora je, ničim izazvan, počeo da nam deli savete.",
+          "russian": "Посреди разговора он вдруг, без всякой просьбы, принялся раздавать нам советы.",
           "source": ""
         }
       ],
-      "note": "В официальном стиле ničim izazvan означает буквально «ничем не спровоцированный». В разговорной и публицистической иронии оборот часто выносится перед сообщением о неожиданном поступке и соответствует русскому «ни с того ни с сего».",
-      "keyword": "izazvati"
+      "note": "В прямом значении «ничем не вызванный», но при описании человека часто иронически значит «никто не просил, а он вдруг...». Форма меняется по роду и числу: ničim izazvana, ničim izazvani. Выражение также стало названием популярной сербской музыкальной группы, что не отменяет его самостоятельного употребления.",
+      "keyword": "ničim izazvan"
     },
     {
       "headword_latin": "Nije do mene",
@@ -28805,29 +29090,29 @@
     },
     {
       "headword_latin": "Otkad je sveta i veka",
-      "type": "frazeologizam",
-      "definition_ru": "испокон веков; спокон веку; сколько существует мир",
+      "type": "izraz",
+      "definition_ru": "испокон веков; с незапамятных времён; сколько мир стоит",
       "synonyms_sr": [
         "od pamtiveka",
         "odvajkada",
-        "oduvek"
+        "od davnina"
       ],
-      "literal_ru": "с тех пор, как существуют мир и век",
-      "register": "neutralno-knjiški i razgovorno; često uz preuveličavanje",
+      "literal_ru": "С тех пор, как существуют мир и век.",
+      "register": "tradicionalno, živo i u publicistici",
       "examples": [
         {
-          "serbian_latin": "Tako je, nažalost, otkad je sveta i veka.",
-          "russian": "Так, к сожалению, было испокон веков.",
-          "source": "Danas, 2024"
+          "serbian_latin": "Zla je bilo otkad je sveta i veka.",
+          "russian": "Зло существует испокон веков.",
+          "source": "N1, 2025"
         },
         {
-          "serbian_latin": "Kod nas se to radi otkad je sveta i veka.",
-          "russian": "У нас так делают испокон веков.",
+          "serbian_latin": "Ljudi se oko novca svađaju otkad je sveta i veka.",
+          "russian": "Из-за денег люди ссорятся с незапамятных времён.",
           "source": ""
         }
       ],
-      "note": "Формула часто не утверждает реальную древность, а просто гиперболически означает «так было всегда». Близкие слова odvajkada и od pamtiveka книжнее и короче.",
-      "keyword": "vek"
+      "note": "Форма otkad объединяет значение «с тех пор как»; сочетание sveta i veka — рифмованное усиление давности. Это не точная историческая дата, а подчёркивание того, что явление существовало всегда. По-русски обычно достаточно «испокон веков».",
+      "keyword": "otkad je sveta i veka"
     },
     {
       "headword_latin": "Otkriti karte",
@@ -34646,28 +34931,28 @@
     {
       "headword_latin": "Pristajati nekome kao magarcu sedlo",
       "type": "frazeologizam",
-      "definition_ru": "идти кому-то как корове седло; совершенно не подходить",
+      "definition_ru": "идти как корове седло; совершенно не подходить; смотреться нелепо",
       "synonyms_sr": [
-        "nikako ne pristajati",
-        "ne stajati dobro",
-        "biti potpuno neprikladan"
+        "nikako ne pristajati nekome",
+        "loše stajati nekome",
+        "ne odgovarati nekome"
       ],
-      "literal_ru": "подходить как седло ослу",
-      "register": "razg., podsmešljivo; nekome + dativ",
+      "literal_ru": "Подходить как ослу седло.",
+      "register": "razg., podrugljivo; nekome (dativ) + kao magarcu sedlo",
       "examples": [
         {
-          "serbian_latin": "Ta uloga mu pristaje kao magarcu sedlo.",
-          "russian": "Эта роль ему идёт как корове седло.",
+          "serbian_latin": "To elegantno odelo mu pristaje kao magarcu sedlo.",
+          "russian": "Этот элегантный костюм ему идёт как корове седло.",
           "source": ""
         },
         {
-          "serbian_latin": "Ta kravata ti pristaje kao magarcu sedlo.",
-          "russian": "Этот галстук тебе идёт как корове седло.",
+          "serbian_latin": "Nova uloga joj pristaje kao magarcu sedlo — uopšte nije ubedljiva.",
+          "russian": "Новая роль ей совсем не подходит — выглядит совершенно неубедительно.",
           "source": ""
         }
       ],
-      "note": "Фразеологизм подтверждается и в сербских учебных материалах; речь может идти не только об одежде, но и о должности, роли или манере поведения. Русский использует тот же образ несовместимости, но обычно с коровой.",
-      "keyword": "magarac; sedlo"
+      "note": "Сравнение означает именно неподходящий, нелепый вид вещи или роли, а не просто плохое качество. Лицо стоит в дательном падеже: pristaje mu / joj kao magarcu sedlo. Выражение отмечается и в сербских публикациях о пословицах с образом магарца; для русского естественен аналог «как корове седло».",
+      "keyword": "pristajati nekome kao magarcu sedlo"
     },
     {
       "headword_latin": "Pristaje mu kao magarcu sedlo",
@@ -36771,30 +37056,28 @@
     {
       "headword_latin": "Rasti kao iz vode",
       "type": "frazeologizam",
-      "definition_ru": "расти как на дрожжах; очень быстро расти или развиваться",
+      "definition_ru": "расти как на дрожжах; очень быстро подрастать",
       "synonyms_sr": [
-        "brzo rasti",
-        "napredovati velikom brzinom",
-        "bujati"
+        "naglo rasti",
+        "brzo napredovati",
+        "rasti neverovatnom brzinom"
       ],
-      "literal_ru": "расти словно из воды",
-      "register": "razgovorno-neutralno",
+      "literal_ru": "Расти будто из воды.",
+      "register": "razg., slikovito; naročito o deci i biljkama",
       "examples": [
         {
-          "serbian_latin": "Zbog ove namirnice vaš paradajz će rasti kao iz vode.",
-          "russian": "Из-за этого продукта ваши помидоры будут расти как на дрожжах.",
-          "source": "Blic, 2026",
-          "url": "https://www.blic.rs/slobodno-vreme/ja-sam-bastovanka-i-zbog-ove-namirnice-vas-paradajz-ce-rasti-kao-iz-vode/gggzy9g"
+          "serbian_latin": "...devojčici koja, kako kažu ponosni roditelji, raste kao iz vode.",
+          "russian": "...девочке, которая, по словам родителей, растёт как на дрожжах.",
+          "source": "Blic, 2018"
         },
         {
-          "serbian_latin": "Raste kao iz vode.",
-          "russian": "Растёт как на дрожжах.",
-          "source": "Srpski Vikirečnik / Rečnik srpskih govora Vojvodine, pristupljeno 2026",
-          "url": "https://sr.wiktionary.org/sr-el/r%D0%B0sti"
+          "serbian_latin": "Nisam ga video godinu dana, a dečak raste kao iz vode!",
+          "russian": "Не видел его целый год, а мальчик растёт как на дрожжах!",
+          "source": ""
         }
       ],
-      "note": "Употребляется и буквально о детях/растениях, и переносно о ценах, городах, компаниях, популярности.",
-      "keyword": "rasti; voda"
+      "note": "В сербском образ связан с удивительно быстрым ростом, особенно детей и растений. По-русски «как из воды» в этом значении обычно не говорят, поэтому лучше «как на дрожжах». Оборот может описывать и быстро увеличивающийся город или строительство, но это уже переносное расширение.",
+      "keyword": "rasti kao iz vode"
     },
     {
       "headword_latin": "Rasturati se od posla",
@@ -41139,6 +41422,32 @@
       ],
       "note": "Русский чаще 'сжигает мосты', сербский естественно говорит и srušiti mostove и spaliti mostove.",
       "keyword": "mostovi"
+    },
+    {
+      "headword_latin": "Srušiti nekome Sneška",
+      "type": "frazeologizam",
+      "definition_ru": "разбить чьи-то иллюзии; обломать ожидания; огорчить неприятной правдой",
+      "synonyms_sr": [
+        "razbiti nekome iluzije",
+        "pokvariti nekome predstavu",
+        "razočarati nekoga"
+      ],
+      "literal_ru": "Разрушить кому-то снеговика.",
+      "register": "razg., sleng, često šaljivo; nekome (dativ) + Sneška",
+      "examples": [
+        {
+          "serbian_latin": "Moram da Vam srušim Sneška — nisu ljubavni par, samo su plesni.",
+          "russian": "Вынужден вас разочаровать: они не пара, а всего лишь партнёры по танцам.",
+          "source": "Blic, 2025"
+        },
+        {
+          "serbian_latin": "Neću da ti rušim Sneška, ali taj stan je već prodat.",
+          "russian": "Не хочу тебя расстраивать, но эту квартиру уже продали.",
+          "source": ""
+        }
+      ],
+      "note": "Sneško — разговорное имя снеговика (Sneško Belić); в переносной реплике «разрушить снеговика» значит лишить кого-то приятной иллюзии. Особенно часто говорят žao mi je što ti rušim Sneška или neću da ti rušim Sneška. Это непринуждённая современная фраза, не подходящая для официальной речи.",
+      "keyword": "srušiti nekome sneška"
     },
     {
       "headword_latin": "Stajati iza svojih reči",
@@ -56187,29 +56496,29 @@
     },
     {
       "headword_latin": "Uz dužno poštovanje",
-      "type": "izraz",
-      "definition_ru": "при всём уважении; со всем должным уважением",
+      "type": "kolokacija",
+      "definition_ru": "при всём уважении; с должным уважением (часто перед возражением)",
       "synonyms_sr": [
+        "sa svim uvažavanjem",
         "uz svo poštovanje",
-        "bez namere da uvredim (funkcionalno)",
-        "ne zamerite, ali..."
+        "bez želje da uvredim (blisko)"
       ],
-      "literal_ru": "",
-      "register": "neutralno-oficijelno; često uvodi neslaganje ili kritiku",
+      "literal_ru": "С должным уважением.",
+      "register": "formalno-razg.; često uvod u neslaganje ili kritiku",
       "examples": [
         {
-          "serbian_latin": "Uz dužno poštovanje Zemunu, postaraćemo se da pružimo maksimum.",
-          "russian": "При всём уважении к «Земуну», мы постараемся выложиться по максимуму.",
-          "source": "Politika, 2026"
+          "serbian_latin": "Uz dužno poštovanje, mislim da vaša procena nije tačna.",
+          "russian": "При всём уважении, думаю, ваша оценка неверна.",
+          "source": ""
         },
         {
-          "serbian_latin": "Uz dužno poštovanje, ne slažem se s tim zaključkom.",
-          "russian": "При всём уважении, я не согласен с этим выводом.",
+          "serbian_latin": "Uz dužno poštovanje prema kolegama, ne mogu da podržim taj predlog.",
+          "russian": "При всём уважении к коллегам, я не могу поддержать это предложение.",
           "source": ""
         }
       ],
-      "note": "Прагматически почти полностью совпадает с русским «при всём уважении» и английским with all due respect: слушатель нередко заранее ожидает возражения. RTS даже приводит её среди формул, после которых обычно следует критика.",
-      "keyword": "dužno poštovanje"
+      "note": "Формула служит вежливым вступлением к несогласию, но при резком тоне может звучать подчеркнуто иронично. После неё нередко следует противопоставление, что напоминает английское with all due respect. Существительное poštovanje требует возможного уточнения prema + dativ: uz dužno poštovanje prema kolegama.",
+      "keyword": "uz dužno poštovanje"
     },
     {
       "headword_latin": "Uzburkati duhove",
@@ -60034,23 +60343,28 @@
     {
       "headword_latin": "Živa bila, velika porasla!",
       "type": "replika",
-      "definition_ru": "расти большая и здоровая!; будь здорова, расти большая!",
+      "definition_ru": "живи-здравствуй, расти большой!; спасибо тебе, дорогая! (шутливо)",
       "synonyms_sr": [
-        "živa i zdrava bila",
-        "velika porasla",
-        "sve najbolje"
+        "živa i zdrava bila!",
+        "hvala ti od srca! (u zahvaljivanju)",
+        "sve najbolje!"
       ],
-      "literal_ru": "",
-      "register": "razg., nežno blagoslovno; naročito detetu ili mlađoj osobi",
+      "literal_ru": "Живой будь, большой вырасти.",
+      "register": "razg., srdačno, šaljivo; najčešće ženskoj osobi",
       "examples": [
         {
-          "serbian_latin": "Srećan ti prvi rođendan, živa bila i velika porasla!",
-          "russian": "С первым днём рождения! Расти большая и здоровая!",
-          "source": "Ringeraja.rs, 2011"
+          "serbian_latin": "Hvala ćerko, živa bila, velika porasla.",
+          "russian": "Спасибо, дочка, живи-здравствуй, расти большой!",
+          "source": "Grand, 2023"
+        },
+        {
+          "serbian_latin": "Dodaj mi naočare, molim te. E, živa bila, velika porasla!",
+          "russian": "Подай мне очки, пожалуйста. Вот спасибо тебе, дорогая!",
+          "source": ""
         }
       ],
-      "note": "Это традиционная ласковая благопожелательная формула, особенно естественная в поздравлениях ребёнку. В интернете она продолжает употребляться именно в пожеланиях на день рождения.",
-      "keyword": "velika porasla"
+      "note": "Первоначально это доброе пожелание ребёнку, но его шутливо адресуют и взрослой женщине в благодарность за маленькую услугу. Форма živa bila согласуется с женским родом адресата. В отличие от буквального перевода, в речи взрослых это часто просто тёплое «спасибо».",
+      "keyword": "živa bila, velika porasla!"
     },
     {
       "headword_latin": "Živa enciklopedija",
@@ -60194,28 +60508,28 @@
     {
       "headword_latin": "Živeti od danas do sutra",
       "type": "frazeologizam",
-      "definition_ru": "жить одним днём; жить от одного дня до другого; перебиваться",
+      "definition_ru": "жить одним днём; перебиваться без уверенности в завтрашнем дне; не строить долгосрочных планов",
       "synonyms_sr": [
         "živeti bez plana",
-        "sastavljati kraj s krajem",
-        "ne misliti na budućnost"
+        "sastavljati kraj s krajem (o novcu)",
+        "ne razmišljati o budućnosti"
       ],
-      "literal_ru": "жить от сегодня до завтра",
-      "register": "razg.; može označavati i neplaniranje budućnosti i materijalnu nesigurnost",
+      "literal_ru": "Жить от сегодня до завтра.",
+      "register": "razg.-public.; o nesigurnoj egzistenciji ili kratkoročnom planiranju",
       "examples": [
         {
-          "serbian_latin": "Srbi su, po nekom mom shvatanju, živi od danas do sutra.",
-          "russian": "Сербы, по моему впечатлению, живут одним днём.",
-          "source": "RTS, 2022"
+          "serbian_latin": "Nažalost, mi stvaramo na jednom prostoru u kome se živi od danas do sutra.",
+          "russian": "К сожалению, мы творим в среде, где люди живут одним днём, не зная, что будет завтра.",
+          "source": "Danas, 2019"
         },
         {
-          "serbian_latin": "Bez stalnih primanja živeli su od danas do sutra.",
-          "russian": "Без постоянного дохода они перебивались со дня на день.",
+          "serbian_latin": "Bez stalnog posla i ušteđevine žive od danas do sutra.",
+          "russian": "Без постоянной работы и сбережений они живут от зарплаты до зарплаты.",
           "source": ""
         }
       ],
-      "note": "Контекст решает, идёт ли речь о беспечности и отсутствии планов или буквально о бедности. Лингвистические исследования также дают živeti od danas do sutra как эквивалент жизни без цели и долгосрочного плана.",
-      "keyword": "od danas do sutra"
+      "note": "Выражение описывает жизнь без надёжной перспективы: из-за финансовой нестабильности, неопределённости или привычки не планировать. Не обязательно означает полную нищету — иногда речь о краткосрочном мышлении. Русское «жить одним днём» подходит, но при финансовом контексте точнее «перебиваться как придётся».",
+      "keyword": "živeti od danas do sutra"
     },
     {
       "headword_latin": "Živeti od stare slave",
