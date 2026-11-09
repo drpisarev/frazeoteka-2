@@ -132,6 +132,81 @@
       "keyword": "nasmejati Boga; planovi"
     },
     {
+      "headword_latin": "Ako hoćeš da vidiš ko je i kakav je, daj mu vlast",
+      "type": "poslovica",
+      "definition_ru": "хочешь узнать человека — дай ему власть; власть раскрывает характер",
+      "synonyms_sr": [
+        "vlast pokazuje kakav je čovek",
+        "na vlasti se vidi pravo lice čoveka"
+      ],
+      "literal_ru": "Хочешь увидеть, кто человек и каков он, — дай ему власть.",
+      "register": "poslovica, publicistički; više varijanata",
+      "examples": [
+        {
+          "serbian_latin": "Ako hoćeš da vidiš ko je i kakav je – daj mu vlast.",
+          "russian": "Хочешь узнать, каков человек на самом деле, — дай ему власть.",
+          "source": "Bašta Balkana, 2017"
+        },
+        {
+          "serbian_latin": "Dok je bio običan radnik, svi su ga hvalili. Kad je postao šef, pokazao je svoje pravo lice.",
+          "russian": "Пока он был рядовым сотрудником, все его хвалили. Став начальником, он показал своё истинное лицо.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица подразумевает, что должность и возможность распоряжаться другими обнаруживают прежде скрытые качества человека. Встречается и вариант Ako ne znaš kakav je ko, daj mu vlast из исходного словаря. Это нравоучительная формула, а не доказанный афоризм определённого исторического автора.",
+      "keyword": "ako hoćeš da vidiš ko je i kakav je, daj mu vlast"
+    },
+    {
+      "headword_latin": "Ako je i koliba, naša je",
+      "type": "poslovica",
+      "definition_ru": "хоть и хижина, зато своя; пусть скромно, зато своё",
+      "synonyms_sr": [
+        "svuda pođi, svojoj kući dođi",
+        "svoje je svoje"
+      ],
+      "literal_ru": "Хоть и хижина, зато наша.",
+      "register": "poslovica, tradicionalno; danas ređe",
+      "examples": [
+        {
+          "serbian_latin": "Mala je kuća, ali naša — ako je i koliba, naša je.",
+          "russian": "Дом маленький, но наш: пусть и хижина, зато своя.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne treba nam raskoš. Ako je i koliba, naša je.",
+          "russian": "Нам не нужна роскошь. Пусть жильё скромное, зато собственное.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица выражает привязанность к собственному дому и независимости от чужих благ. Частица i после ako усиливает уступку: «пусть даже хижина». Это традиционная формула, а не распространённая сегодня бытовая реплика; чаще скажут svoje je svoje.",
+      "keyword": "ako je i koliba, naša je"
+    },
+    {
+      "headword_latin": "Ako komšijska kuća gori, gledaj u svoju",
+      "type": "poslovica",
+      "definition_ru": "если у соседа беда, подумай о собственной безопасности; чужая беда может коснуться и тебя",
+      "synonyms_sr": [
+        "tuđa nevolja može stići i tebe",
+        "čuvaj se dok je vreme"
+      ],
+      "literal_ru": "Если горит соседский дом, смотри за своим.",
+      "register": "poslovica, tradicionalno; poučno",
+      "examples": [
+        {
+          "serbian_latin": "Požar se lako širi — ako komšijska kuća gori, gledaj u svoju.",
+          "russian": "Пожар быстро распространяется: если у соседа горит дом, подумай и о своём.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne pravi se da te se tuđ problem ne tiče. Ako komšijska kuća gori, gledaj u svoju.",
+          "russian": "Не думай, что чужая проблема тебя не касается: беда может прийти и к тебе.",
+          "source": ""
+        }
+      ],
+      "note": "Главный смысл пословицы — предупреждение: опасность, затронувшая соседей, может распространиться и на тебя. Это не призыв равнодушно наблюдать за чужим пожаром. Выражение известно по традиционным сборникам; в повседневной речи сегодня звучит довольно редко.",
+      "keyword": "ako komšijska kuća gori, gledaj u svoju"
+    },
+    {
       "headword_latin": "Ako laže koza, ne laže rog",
       "type": "poslovica",
       "definition_ru": "факты не врут; доказательство налицо; против фактов не попрёшь",
@@ -3578,6 +3653,31 @@
       ],
       "note": "Для русского важно различать bogami и буквальную клятвенную конструкцию Boga mi. Лексикализованная частица пишется слитно и часто лишь усиливает сказанное: «действительно», «ещё как», «да уж». При настоящем обращении к Богу нормативно пишут раздельно: Boga mi (moga).",
       "keyword": "bogami"
+    },
+    {
+      "headword_latin": "Bogat je ko nije dužan, a mlad ko je zdrav",
+      "type": "poslovica",
+      "definition_ru": "богат тот, у кого нет долгов, а молод тот, кто здоров; благополучие важнее денег и возраста",
+      "synonyms_sr": [
+        "ko nema dugova, mirno spava",
+        "zdravlje je najveće bogatstvo"
+      ],
+      "literal_ru": "Богат, кто никому не должен, а молод, кто здоров.",
+      "register": "poslovica, tradicionalno; danas ređe",
+      "examples": [
+        {
+          "serbian_latin": "Nema mnogo novca, ali nikome ništa ne duguje — bogat je ko nije dužan.",
+          "russian": "Денег у него немного, но никому ничего не должен — вот и настоящее богатство.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Deda se svakog jutra šeta i kaže: „Bogat je ko nije dužan, a mlad ko je zdrav.“",
+          "russian": "Дед каждое утро гуляет и говорит: «Богат, кто без долгов, а молод, кто здоров».",
+          "source": ""
+        }
+      ],
+      "note": "Пословица переосмысливает богатство как отсутствие долгов, а молодость — как наличие здоровья. Ko — относительное местоимение «кто», а не союз «как». Это традиционная народная мудрость, сегодня чаще цитируемая, чем употребляемая как спонтанная реплика.",
+      "keyword": "bogat je ko nije dužan, a mlad ko je zdrav"
     },
     {
       "headword_latin": "Bogu iza leđa",
@@ -9263,6 +9363,31 @@
       "keyword": "duša"
     },
     {
+      "headword_latin": "Dušman se hlebom udara",
+      "type": "poslovica",
+      "definition_ru": "на зло отвечай добром; врага побеждают не местью, а добрым поступком",
+      "synonyms_sr": [
+        "ko tebe kamenom, ti njega hlebom",
+        "na zlo uzvratiti dobrim"
+      ],
+      "literal_ru": "Врага ударяют хлебом.",
+      "register": "poslovica, tradicionalno; poučno",
+      "examples": [
+        {
+          "serbian_latin": "Pomozi mu iako ti je naudio — dušman se hlebom udara.",
+          "russian": "Помоги ему, хотя он тебе навредил: на зло отвечают добром.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Neću da se svetim. Moj deda je govorio da se dušman hlebom udara.",
+          "russian": "Я не стану мстить. Дед говорил, что врагу лучше ответить добром.",
+          "source": ""
+        }
+      ],
+      "note": "Существительное dušman — турцизм со значением «враг, недоброжелатель». В выражении hleb символизирует доброту и гостеприимство, а не буквальный удар. По смыслу очень близко к самостоятельной пословице Ko tebe kamenom, ti njega hlebom, но имеет другую формулу и образное построение.",
+      "keyword": "dušman se hlebom udara"
+    },
+    {
       "headword_latin": "Dušu dalo za nešto",
       "type": "frazeologizam",
       "definition_ru": "идеально подходит; самое то; как будто специально создано для чего-то",
@@ -10667,6 +10792,32 @@
       "keyword": "iz srca; iskreno; govoriti"
     },
     {
+      "headword_latin": "Govoriti u vetar",
+      "type": "frazeologizam",
+      "definition_ru": "говорить впустую; сотрясать воздух; тратить слова напрасно",
+      "synonyms_sr": [
+        "uzalud govoriti",
+        "pričati u prazno",
+        "trošiti reči"
+      ],
+      "literal_ru": "Говорить на ветер.",
+      "register": "razg.-knjiž.; nesvršeni vid",
+      "examples": [
+        {
+          "serbian_latin": "Objašnjavam mu već sat vremena, ali izgleda da govorim u vetar.",
+          "russian": "Я ему уже целый час объясняю, но, похоже, всё впустую.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ako niko ne sluša, nema smisla govoriti u vetar.",
+          "russian": "Если никто не слушает, нет смысла сотрясать воздух.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот описывает бесполезную речь, которую никто не воспринимает или не намерен учитывать. Он близок к bacati reči u vetar, но этот последний оборот может также означать «давать пустые обещания». В сербском говорить «на ветер» можно и о человеке, который просто не слушает объяснений.",
+      "keyword": "govoriti u vetar"
+    },
+    {
       "headword_latin": "Graditi kule u vazduhu",
       "type": "frazeologizam",
       "definition_ru": "Строить нереалистичные планы, мечтать о том, что не имеет прочной основы или практически неосуществимо. Русский аналог: «строить воздушные замки».",
@@ -11664,6 +11815,32 @@
       ],
       "note": "Формула I posle Tita – Tito была запущена после смерти Josipa Broza Tita 4 мая 1980 года и выражала официальную идею продолжения его политического курса, сохранения его символического присутствия и верности „Titovom putu“. RTV прямо отмечает, что лозунг был запущен в 1980 году, а научное исследование культа Тито описывает его как средство поиска легитимности власти в наследии умершего лидера в условиях нарастающего кризиса СФРЮ. С формулой тесно связана Štafeta mladosti: после смерти Тито традицию продолжили, и RTS указывает, что она шла под названием I posle Tita – Tito вплоть до 1987 года. Для русскоязычного важно, что фраза построена на намеренной эллиптической парадоксальности: никакого глагола нет, а смысл примерно «Тито физически нет, но Тито как политический принцип остаётся». Сегодня исходная формула часто употребляется исторически или иронически, а конструкция стала продуктивным шаблоном I posle X – X: так можно подчеркнуть, что человек, система или явление формально ушли, но их влияние фактически продолжается; пример I posle Miloševića – Milošević показывает, что современный сербский читатель узнаёт модель без дополнительных объяснений.",
       "keyword": "i posle Tita Tito"
+    },
+    {
+      "headword_latin": "I vrapci na grani znaju",
+      "type": "izraz",
+      "definition_ru": "это всем известно; об этом и воробьи на ветках знают; это общеизвестно",
+      "synonyms_sr": [
+        "to svi znaju",
+        "to je opštepoznato",
+        "to je svima jasno"
+      ],
+      "literal_ru": "Даже воробьи на ветке знают.",
+      "register": "razg.-public., često ironično; var. to i vrapci na grani znaju",
+      "examples": [
+        {
+          "serbian_latin": "I vrapci na grani znaju da se ta zgrada godinama ne održava.",
+          "russian": "Все знают, что это здание годами не ремонтируют.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne moraš mi to objašnjavati — to i vrapci na grani znaju.",
+          "russian": "Не нужно мне это объяснять — это и так всем известно.",
+          "source": ""
+        }
+      ],
+      "note": "Воробьи здесь обозначают даже самых неосведомлённых наблюдателей: факт якобы известен буквально всем. Встречаются варианты i vrapci na grani znaju и to i vrapci na granama znaju. Не путать с пословицей bolje vrabac u ruci nego golub na grani — она о надёжности имеющегося.",
+      "keyword": "i vrapci na grani znaju"
     },
     {
       "headword_latin": "i vuk sit i ovce na broju",
@@ -18153,6 +18330,31 @@
       "keyword": "zmija; noge"
     },
     {
+      "headword_latin": "Krivac se i senke boji",
+      "type": "poslovica",
+      "definition_ru": "на воре шапка горит; виноватый всего боится; нечистая совесть выдаёт себя",
+      "synonyms_sr": [
+        "nečista savest ne da mira",
+        "krivac se svega plaši"
+      ],
+      "literal_ru": "Виновный боится даже тени.",
+      "register": "poslovica, tradicionalno; danas ređe",
+      "examples": [
+        {
+          "serbian_latin": "Niko ga nije optužio, ali se odmah počeo pravdati — krivac se i senke boji.",
+          "russian": "Никто его не обвинял, а он сразу стал оправдываться: на воре шапка горит.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad ga je policajac nešto pitao, sav se zbunio. Krivac se i senke boji.",
+          "russian": "Когда полицейский задал ему вопрос, тот совсем растерялся. Виноватый и собственной тени боится.",
+          "source": ""
+        }
+      ],
+      "note": "Образ страха перед собственной тенью указывает на тревогу человека с нечистой совестью. Русская пословица «на воре шапка горит» обычно ближе по функции, чем буквальное сравнение. Формула старая: не следует воспринимать её как надёжный способ судить о чьей-либо виновности.",
+      "keyword": "krivac se i senke boji"
+    },
+    {
       "headword_latin": "Krivo sedi, pravo zbori",
       "type": "poslovica",
       "definition_ru": "говори правду, как бы ни сидел; будь честен и прям в своих словах",
@@ -19549,6 +19751,32 @@
       "keyword": "jegulja"
     },
     {
+      "headword_latin": "Ljubiti nekome stope",
+      "type": "frazeologizam",
+      "definition_ru": "готов быть у чьих-то ног; благоговеть перед кем-то; быть безмерно благодарным",
+      "synonyms_sr": [
+        "duboko poštovati nekoga",
+        "biti beskrajno zahvalan",
+        "klanjati se nekome (preneseno)"
+      ],
+      "literal_ru": "Целовать кому-то ступни.",
+      "register": "knjiž., patetično; ljubiti stope nekome, dativ",
+      "examples": [
+        {
+          "serbian_latin": "Posle svega što je učinila za mene, mogao bih da joj ljubim stope.",
+          "russian": "После всего, что она для меня сделала, я готов ноги ей целовать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Navijači su bili spremni da mu ljube stope posle pobedonosnog gola.",
+          "russian": "После победного гола болельщики готовы были носить его на руках.",
+          "source": ""
+        }
+      ],
+      "note": "В переносном смысле это крайне сильная благодарность или восхищение, иногда доходящие до преклонения. Лицо может выражаться дательным падежом: ljubiti joj stope, ljubiti mu stope. Оборот эмоциональный и несколько книжный; в повседневной речи обычно выбирают mnogo sam mu zahvalan.",
+      "keyword": "ljubiti nekome stope"
+    },
+    {
       "headword_latin": "Ljubomoran kao pas",
       "type": "frazeologizam",
       "definition_ru": "ревнивый как пёс; ужасно ревнивый",
@@ -20265,31 +20493,28 @@
     },
     {
       "headword_latin": "Mlatiti pare",
-      "type": "razgovorni izraz",
-      "definition_ru": "зашибать деньги; много и легко зарабатывать, получать большие суммы",
+      "type": "frazeologizam",
+      "definition_ru": "грести деньги лопатой; зарабатывать огромные суммы; заколачивать деньги",
       "synonyms_sr": [
-        "zarađivati velike pare",
-        "dobro zarađivati",
-        "uzimati velike pare",
-        "praviti pare"
+        "zgrtati novac",
+        "okretati velike pare",
+        "namlatiti se para"
       ],
-      "literal_ru": "молотить деньги",
-      "register": "razgovorno, ekspresivno; često sa prizvukom zavisti ili kritike",
+      "literal_ru": "Молотить деньги.",
+      "register": "razg., često ironično; mlatiti pare/lovu",
       "examples": [
         {
-          "serbian_latin": "Mlate pare, ali knjiga ih ne zanima.",
-          "russian": "Деньги гребут, а книги их не интересуют.",
-          "source": "Nova.rs, 2023",
-          "url": "https://nova.rs/zabava/showbiz/ovi-nasi-pevaci-nemaju-ni-srednju-skolu-mlate-pare-ali-knjiga-ih-ne-zanima/"
+          "serbian_latin": "NA LETO ĆETE MLATITI PARE",
+          "russian": "Летом будете грести деньги лопатой.",
+          "source": "Večernje novosti, 2026"
         },
         {
-          "serbian_latin": "Glume, „mlate pare“, ali ajde živi sa prosečnom platom i kritikuj vlast.",
-          "russian": "Играют, «гребут деньги», а попробуй пожить на среднюю зарплату и критиковать власть.",
-          "source": "Danas, 2026",
-          "url": "https://www.danas.rs/kolumna/safeta-bisevac/kad-niko-postane-neko/"
+          "serbian_latin": "Dok mi jedva sastavljamo kraj s krajem, on mlati pare na izdavanju stanova.",
+          "russian": "Пока мы едва сводим концы с концами, он гребёт деньги на сдаче квартир.",
+          "source": ""
         }
       ],
-      "note": "Mlatiti pare описывает поток заработка, обычно заметного или лёгкого со стороны. Не путать с ležati na parama — «сидеть на деньгах, быть богатым»: там речь о наличии денег, а не о процессе заработка.",
+      "note": "Глагол mlatiti буквально связан с молотьбой или ударами; в сочетании с pare он означает быстрое и обильное получение денег, часто с иронической оценкой. Родственная совершенная форма — namlatiti se para. Не путать с mlatiti praznu slamu, где речь о пустых разговорах, а не заработке.",
       "keyword": "mlatiti pare"
     },
     {
@@ -21442,30 +21667,27 @@
     {
       "headword_latin": "Na mlađima svet ostaje",
       "type": "izreka",
-      "definition_ru": "будущее за молодыми; именно молодому поколению предстоит продолжать начатое и принимать ответственность за будущее",
+      "definition_ru": "за молодыми будущее; молодёжи предстоит продолжать наше дело",
       "synonyms_sr": [
-        "budućnost je na mladima",
-        "mladi preuzimaju budućnost",
-        "na mladima je budućnost"
+        "budućnost pripada mladima",
+        "mladi su naša budućnost"
       ],
-      "literal_ru": "на молодых остаётся мир",
-      "register": "neutralno, poslovično; često pohvalno ili podsticajno",
+      "literal_ru": "Мир остаётся за молодыми.",
+      "register": "opšta izreka, neutralno; često u javnom govoru",
       "examples": [
         {
-          "serbian_latin": "To je budućnost, na mlađima svet ostaje.",
-          "russian": "Это будущее: мир остаётся за молодыми.",
-          "source": "RTS, 2024",
-          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5400431/.html?print=true"
+          "serbian_latin": "Vreme je da mladima damo priliku — na mlađima svet ostaje.",
+          "russian": "Пора дать молодым шанс — за ними будущее.",
+          "source": ""
         },
         {
-          "serbian_latin": "Mene su učili da na mlađima svet ostaje.",
-          "russian": "Меня учили, что будущее остаётся за молодыми.",
-          "source": "Danas, 2025",
-          "url": "https://www.danas.rs/kultura/intervju-andrija-kuzmanovic/"
+          "serbian_latin": "Na mlađima svet ostaje, ali moramo im preneti iskustvo.",
+          "russian": "Будущее за молодыми, но мы должны передать им свой опыт.",
+          "source": ""
         }
       ],
-      "note": "Устойчивое сербское изречение о преемственности поколений. Может звучать как похвала молодым, призыв дать им возможность действовать или напоминание старшим уступить место.",
-      "keyword": "mlađi; svet ostaje"
+      "note": "Здесь ostaje обозначает переход ответственности к следующему поколению, а не буквальное «оставаться на ком-то». Выражение часто используют в школе, семье и общественной речи. Русское «молодым везде у нас дорога» ближе по настроению, но прямое «за молодыми будущее» точнее по смыслу.",
+      "keyword": "na mlađima svet ostaje"
     },
     {
       "headword_latin": "Na mostu dobio, na ćupriji izgubio",
@@ -23152,6 +23374,32 @@
       "keyword": "ne izbijati iz"
     },
     {
+      "headword_latin": "Ne izbijati iz nečega",
+      "type": "frazeologizam",
+      "definition_ru": "не вылезать откуда-либо; постоянно где-то находиться; быть завсегдатаем",
+      "synonyms_sr": [
+        "stalno biti negde",
+        "ne izlaziti iz nečega",
+        "stalno se zadržavati negde"
+      ],
+      "literal_ru": "",
+      "register": "razg.; ne izbijati iz + genitiv; najčešće u negaciji",
+      "examples": [
+        {
+          "serbian_latin": "Otkad je krenuo na treninge, ne izbija iz teretane.",
+          "russian": "С тех пор как начал тренироваться, из спортзала не вылезает.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zbog prehlade već pet dana ne izbijam iz kuće.",
+          "russian": "Из-за простуды я уже пять дней из дома не выхожу.",
+          "source": ""
+        }
+      ],
+      "note": "Управление: iz + родительный падеж — iz kuće, iz biblioteke, iz teretane. При этом оборот часто имеет два оттенка: очень часто бывать где-то или совсем не выходить из определённого места. Не следует смешивать его с izbiti nekoga или izbijati adute из других устойчивых конструкций.",
+      "keyword": "ne izbijati iz nečega"
+    },
+    {
       "headword_latin": "Ne izlaziti iz glave kome",
       "type": "frazeologizam",
       "definition_ru": "не выходить из головы",
@@ -24237,30 +24485,27 @@
     {
       "headword_latin": "Nema brata dok ne rodi majka",
       "type": "poslovica",
-      "definition_ru": "настоящий брат — прежде всего родной брат; кровное родство считается особенно прочной связью",
+      "definition_ru": "нет брата ближе родного; кровное родство особенно ценно",
       "synonyms_sr": [
-        "brat je brat",
-        "krv nije voda",
-        "rođeni brat je najbliži rod"
+        "rođeni brat je najbliži",
+        "rodna braća su poseban oslonac"
       ],
-      "literal_ru": "нет брата, пока его не родит мать",
-      "register": "narodno, poslovično",
+      "literal_ru": "Нет брата, пока мать не родит.",
+      "register": "poslovica, tradicionalno; poznata i kao narodna pesma",
       "examples": [
         {
-          "serbian_latin": "Nema brata dok ne rodi majka.",
-          "russian": "Нет брата, пока его не родит мать.",
-          "source": "Predrag Živković Tozovac — zvanični sajt, 2024",
-          "url": "https://www.tozovac.rs/nema-brata-dok-ne-rodi-majka/"
+          "serbian_latin": "Kod trubača važi pravilo da „nema brata dok ne rodi majka“.",
+          "russian": "Среди трубачей действует правило: настоящая опора — родной брат.",
+          "source": "Politika, 2014"
         },
         {
-          "serbian_latin": "Nema brata dok ne rodi majka.",
-          "russian": "Родной брат — особая связь.",
-          "source": "Forum Poreklo, 2016",
-          "url": "https://forum.poreklo.rs/index.php?topic=389.0"
+          "serbian_latin": "Drugovi su važni, ali deda je ponavljao: nema brata dok ne rodi majka.",
+          "russian": "Друзья важны, но дед повторял: нет брата ближе родного.",
+          "source": ""
         }
       ],
-      "note": "Старая народная формула, известная также по народной песне в исполнении Тозовца. Не означает, что дружба не ценится; подчёркивает особую силу кровного братства.",
-      "keyword": "brat; majka"
+      "note": "Пословица подчёркивает особую ценность родного брата, не утверждая буквально, что дружба невозможна. Формула известна и как название народной песни в исполнении Предрага Живковича Тозовца. В зависимости от контекста может звучать тепло или как патриархальное противопоставление родства и дружбы.",
+      "keyword": "nema brata dok ne rodi majka"
     },
     {
       "headword_latin": "Nema cile-mile",
@@ -26090,6 +26335,32 @@
       ],
       "note": "Очень употребительная утешительная формула после ошибки, проигрыша, отказа или другой неприятности: nije prijatno, ali nije smak sveta.",
       "keyword": "nije smak sveta"
+    },
+    {
+      "headword_latin": "Nije sve smilje i bosilje",
+      "type": "izraz",
+      "definition_ru": "не всё так прекрасно; не сплошная благодать; есть и неприятная сторона",
+      "synonyms_sr": [
+        "nije sve med i mleko",
+        "nije sve sjajno i bajno",
+        "nije sve idealno"
+      ],
+      "literal_ru": "Не всё — бессмертник да базилик.",
+      "register": "razg.-knjiž.; često u negaciji i poređenju",
+      "examples": [
+        {
+          "serbian_latin": "Život u inostranstvu nije sve smilje i bosilje.",
+          "russian": "Жизнь за границей — не сплошная благодать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nova funkcija deluje privlačno, ali nije sve smilje i bosilje.",
+          "russian": "Новая должность кажется заманчивой, но не всё там так прекрасно.",
+          "source": ""
+        }
+      ],
+      "note": "Smilje (бессмертник) и bosilje (базилик) — душистые растения, вызывающие образ чего-то приятного. Оборот особенно естественен с отрицанием: nije sve smilje i bosilje, а также в сравнении с ещё худшей ситуацией. Употребляется реже нейтрального nije sve idealno; дословный перевод названий трав для русского читателя не передаёт смысл без пояснения.",
+      "keyword": "nije sve smilje i bosilje"
     },
     {
       "headword_latin": "nije šija nego vrat",
@@ -33118,31 +33389,28 @@
     {
       "headword_latin": "Posviraj, pa i za pojas zadeni",
       "type": "poslovica",
-      "definition_ru": "поиграл/пошутил - и хватит; знай меру, пора остановиться",
+      "definition_ru": "знай меру; пора остановиться; хорошего понемногу",
       "synonyms_sr": [
-        "dosta je bilo",
+        "znaj kad je dosta",
         "sve ima svoju meru",
-        "ne preteruj",
-        "stani na vreme"
+        "prestani na vreme"
       ],
-      "literal_ru": "поиграй, а потом заткни [свирель] за пояс",
-      "register": "narodno, starinskije, odmeravajuće; danas često citatno ili ironično",
+      "literal_ru": "Поиграй, да и заткни инструмент за пояс.",
+      "register": "poslovica, arhaično; danas retko",
       "examples": [
         {
-          "serbian_latin": "Sviraj, sviraj, pa za pojas zadeni.",
-          "russian": "Поиграй-поиграй, да вовремя остановись.",
-          "source": "Politika, 2022",
-          "url": "https://www.politika.rs/sr/clanak/513961/sviraj-sviraj-pa-za-pojas-zadeni"
+          "serbian_latin": "E, sad - znaš: posviraj, pa i za pojas zadeni.",
+          "russian": "Ну всё, знаешь ли: пора и меру знать.",
+          "source": "Jovan Sterija Popović, Ženidba i udadba"
         },
         {
-          "serbian_latin": "Sviraj, sviraj, pa za pojas zadeni.",
-          "russian": "Всему есть мера: поиграл - и хватит.",
-          "source": "Danas, 2020",
-          "url": "https://www.danas.rs/dijalog/licni-stavovi/savet-velike-streberke/"
+          "serbian_latin": "Šala je bila dobra, ali posviraj, pa i za pojas zadeni.",
+          "russian": "Шутка была хороша, но пора остановиться.",
+          "source": ""
         }
       ],
-      "note": "Varijante: sviraj/posviraj/zasviraj, pa za pojas zadeni. Slika je iz starog običaja da se svirala posle sviranja zatakne za pojas.",
-      "keyword": "pojas; svirati"
+      "note": "Это старая пословица о своевременном завершении развлечения или настойчивого действия. Она зафиксирована у Йована Стерии Поповича в пьесе Ženidba i udadba, где муж просит жену прекратить назойливые ласки. Сейчас формула воспринимается как старинная; без культурного контекста собеседник может её не узнать.",
+      "keyword": "posviraj, pa i za pojas zadeni"
     },
     {
       "headword_latin": "Poštapalica",
@@ -37818,30 +38086,28 @@
     },
     {
       "headword_latin": "S medom raditi, a prste ne lizati",
-      "type": "poslovica / izreka",
-      "definition_ru": "иметь дело с выгодным или чужим добром и совсем ничего себе не взять; обычно говорится о соблазне воспользоваться доступом к благам",
+      "type": "poslovica",
+      "definition_ru": "у мёда работать и пальцы не облизать трудно; трудно распоряжаться чужими благами и ничего не присвоить",
       "synonyms_sr": [
-        "ko radi s medom, liže prste",
-        "ne možeš raditi s medom a ne oblizati prste"
+        "ne može se s medom raditi a prste ne lizati",
+        "ko je blizu blaga, lako se okoristi"
       ],
-      "literal_ru": "работать с мёдом и не облизывать пальцы",
-      "register": "narodno, poslovično; često ironično",
+      "literal_ru": "Работать с мёдом, а пальцы не облизывать.",
+      "register": "tradicionalna poslovica, ironično; najčešće u negativnoj konstrukciji",
       "examples": [
         {
-          "serbian_latin": "S medom radit a prste ne lizat.",
-          "russian": "С мёдом работать — пальцы не облизывать трудно.",
-          "source": "Zelena Soba, 2011",
-          "url": "https://zelenavrata.wordpress.com/2011/10/14/narodne-poslovice-doskocice-i-uzrecice-onako-kako-su-ih-govorili-nasi-stari/"
+          "serbian_latin": "Ne može se s medom raditi, a prste ne lizati, pravdao je on svoje sitne koristi.",
+          "russian": "Нельзя с мёдом работать и пальцы не облизывать, — оправдывал он свою небольшую выгоду.",
+          "source": ""
         },
         {
-          "serbian_latin": "S medom radit a prste ne lizat.",
-          "russian": "С мёдом работать — пальцы не облизывать трудно.",
-          "source": "Smijeh X, 2013",
-          "url": "https://smijeh-x.blogspot.com/2013/09/narodne-poslovice-doskocice-i-uzrecice.html"
+          "serbian_latin": "Kad su ga pitali zašto je sebi uzeo deo novca, samo je rekao: „S medom raditi, a prste ne lizati...“",
+          "russian": "Когда его спросили, почему он взял часть денег себе, он только ответил: «У мёда быть — да не попробовать...»",
+          "source": ""
         }
       ],
-      "note": "Обычно встречается как риторическая невозможность: ne može se s medom raditi, a prste ne lizati. Может звучать как снисходительное оправдание мелкой выгоды.",
-      "keyword": "med; prsti"
+      "note": "Образ мёда означает близость к соблазнительному или ценному добру, от которого трудно не взять хотя бы немного. Чаще употребляется в форме ne može se s medom raditi, a prste ne lizati и нередко служит снисходительным оправданием корыстного поведения, а не его одобрением. Старое изречение; в современной нейтральной речи встречается редко.",
+      "keyword": "s medom raditi, a prste ne lizati"
     },
     {
       "headword_latin": "s neba pa u rebra",
@@ -52997,29 +53263,29 @@
     },
     {
       "headword_latin": "U šupku svemira",
-      "type": "sleng",
-      "definition_ru": "в ж*пе мира; у чёрта на куличках; в глухой дыре",
+      "type": "izraz",
+      "definition_ru": "у чёрта на куличках; в ж*пе мира; в крайне отдалённом или безнадёжном месте",
       "synonyms_sr": [
         "bogu iza nogu",
-        "u vukojebini (vulg.)",
-        "na kraju sveta"
+        "na kraju sveta",
+        "u nedođiji (razg.)"
       ],
-      "literal_ru": "в заднем проходе Вселенной",
-      "register": "vulg., ekspresivno-šalj.; u šupku svemira / sveta",
+      "literal_ru": "В анусе вселенной.",
+      "register": "razg., grub., vulgarno; obično o mestu ili stanju",
       "examples": [
         {
-          "serbian_latin": "Žena govori da živimo u šupku svemira.",
-          "russian": "Жена говорит, что мы живём в ж*пе мира.",
-          "source": "Benchmark Forum, 2023"
+          "serbian_latin": "... pa smo evo zaglavili u šupku svemira ...",
+          "russian": "... и вот мы застряли в полной ж*пе, на самом краю света...",
+          "source": "Vreme, 2026"
         },
         {
-          "serbian_latin": "Dali su mu stan negde u šupku svemira, dva sata od centra.",
-          "russian": "Ему дали квартиру где-то у чёрта на куличках, два часа до центра.",
+          "serbian_latin": "Stan je jeftin, ali je u šupku svemira — do centra treba sat i po.",
+          "russian": "Квартира дешёвая, но находится у чёрта на куличках — до центра полтора часа.",
           "source": ""
         }
       ],
-      "note": "В исходном источнике раньше встречалась ошибочная форма u šipku svemira; правильно šupak → u šupku. Реальное сербское интернет-употребление подтверждает именно эту форму. По грубости она заметно сильнее bogu iza nogu.",
-      "keyword": "šupak; svemir"
+      "note": "Грубый образ обозначает далёкую глушь либо безнадёжную, заброшенную ситуацию; возможны не только географические, но и социально-политические контексты. По степени грубости выражение заметно сильнее нейтральных daleko или zabačeno. В русском перевод нужно выбирать по интонации: «у чёрта на куличках» или «в ж*пе мира».",
+      "keyword": "u šupku svemira"
     },
     {
       "headword_latin": "U tom grmu leži zec",
@@ -57091,6 +57357,32 @@
       "keyword": "čujemo se"
     },
     {
+      "headword_latin": "Važi, čujemo se!",
+      "type": "replika",
+      "definition_ru": "договорились, на связи!; хорошо, созвонимся!",
+      "synonyms_sr": [
+        "dogovoreno, čujemo se!",
+        "u redu, čujemo se!",
+        "važi, javljam se!"
+      ],
+      "literal_ru": "Ладно, услышимся!",
+      "register": "razg.; tipično za kraj razgovora ili prepiske",
+      "examples": [
+        {
+          "serbian_latin": "Pošalji mi adresu kad stigneš. — Važi, čujemo se!",
+          "russian": "Пришли адрес, когда приедешь. — Хорошо, на связи!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Vidimo se u petak. — Važi, čujemo se još sutra.",
+          "russian": "Увидимся в пятницу. — Договорились, завтра ещё спишемся или созвонимся.",
+          "source": ""
+        }
+      ],
+      "note": "Čujemo se буквально связано со слухом, но в разговоре часто означает «созвонимся» или просто «будем на связи». Не обязательно предполагает конкретный следующий звонок: формулой нередко просто заканчивают беседу. Važi здесь — «согласен, договорились», а не «действительно, имеет силу».",
+      "keyword": "važi, čujemo se"
+    },
+    {
       "headword_latin": "Važno je učestvovati",
       "type": "krilatica",
       "definition_ru": "главное — участие; главное не победа, а участие",
@@ -60182,28 +60474,28 @@
     {
       "headword_latin": "Želudac mi se prevrnuo",
       "type": "frazeologizam",
-      "definition_ru": "меня чуть не стошнило; меня передёрнуло от отвращения; с души воротит",
+      "definition_ru": "меня чуть не вывернуло; меня передёрнуло от отвращения или ужаса",
       "synonyms_sr": [
         "smučilo mi se",
         "pripala mi je muka",
         "zgadilo mi se"
       ],
-      "literal_ru": "у меня перевернулся желудок",
-      "register": "razg.; i o fizičkoj mučnini i o snažnom gađenju",
+      "literal_ru": "У меня желудок перевернулся.",
+      "register": "razg., ekspresivno; dativ: mi/ti/mu/joj",
       "examples": [
         {
-          "serbian_latin": "Kako je film počeo, tako mi se želudac prevrnuo kad sam shvatio šta me čeka.",
-          "russian": "Как только фильм начался и я понял, что меня ждёт, меня чуть не стошнило.",
-          "source": "Nova.rs, 2023"
+          "serbian_latin": "Želudac mi se prevrnuo kad sam video snimak.",
+          "russian": "Меня чуть не вывернуло, когда я увидел эту запись.",
+          "source": ""
         },
         {
-          "serbian_latin": "Želudac mi se prevrne kad vidim takvu prljavštinu.",
-          "russian": "Меня выворачивает, когда я вижу такую грязь.",
+          "serbian_latin": "Na samu pomisao na tu prevaru želudac joj se prevrnuo.",
+          "russian": "От одной мысли об этом обмане её передёрнуло.",
           "source": ""
         }
       ],
-      "note": "Возможны prevrnuo mi se želudac и želudac mi se prevrnuo. Несовершенное повторяющееся ощущение естественно передаётся как prevrće mi se želudac.",
-      "keyword": "želudac"
+      "note": "Оборот может описывать и физическую тошноту, и сильное отвращение, шок либо тревогу. Лицо выражается дательным падежом: želudac mi se prevrnuo. В медицинском рассказе важно уточнять симптомы: сама эта фраза не означает диагностированную патологию желудка.",
+      "keyword": "želudac mi se prevrnuo"
     },
     {
       "headword_latin": "Žila kucavica",
@@ -60264,22 +60556,27 @@
     {
       "headword_latin": "Živ bio!",
       "type": "replika",
-      "definition_ru": "спасибо!; дай бог здоровья!; будь здоров!",
+      "definition_ru": "будь здоров!; спасибо тебе!; всего тебе доброго!",
       "synonyms_sr": [
-        "hvala ti",
-        "svaka ti čast",
-        "da si živ i zdrav"
+        "hvala ti!",
+        "svako dobro!",
+        "živ i zdrav bio!"
       ],
-      "literal_ru": "будь жив",
-      "register": "razg., toplo zahvalno ili blagoslovno; ž. živa bila, mn. živi bili",
+      "literal_ru": "Жив будь!",
+      "register": "razg., srdačno; ž. živ(a) bila; mn. živi bili",
       "examples": [
         {
-          "serbian_latin": "Hvala ti puno. Živ bio, legendo!",
-          "russian": "Большое спасибо. Дай бог тебе здоровья, легенда!",
-          "source": "Kurir, 2024"
+          "serbian_latin": "Živ bio, brate, hvala ti",
+          "russian": "Спасибо тебе, брат, будь здоров!",
+          "source": "B92, 2024"
+        },
+        {
+          "serbian_latin": "Dodaj mi onu knjigu, molim te. E, živ bio!",
+          "russian": "Подай мне ту книгу, пожалуйста. Вот спасибо, будь здоров!",
+          "source": ""
         }
       ],
-      "note": "Это не обычное прошедшее время со смыслом «был жив», а старая пожелательная формула. В учебных материалах по сербскому Živ bio! объясняется как пожелание и благодарность, особенно характерные для старших говорящих.",
+      "note": "Это доброе пожелание, которое часто служит простой благодарностью за услугу. Несмотря на форму bio, речь не о прошедшем времени: это устоявшаяся формула пожелания. При обращении к женщине говорят živa bila!, к нескольким людям — živi bili!; в официальной переписке предпочтительнее hvala vam.",
       "keyword": "živ bio"
     },
     {
