@@ -1448,6 +1448,34 @@
       "keyword": "bez kraja i konca; beskrajno"
     },
     {
+      "headword_latin": "Bez lažne skromnosti",
+      "type": "izraz",
+      "definition_ru": "без ложной скромности; без ненужного самоуничижения; не сочтите за хвастовство",
+      "synonyms_sr": [
+        "iskreno govoreći",
+        "bez nepotrebne skromnosti",
+        "otvoreno rečeno"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; često uvod u ocenu sopstvenih zasluga ili dostignuća",
+      "examples": [
+        {
+          "serbian_latin": "Bez lažne skromnosti, ovo je najveći sportski uspeh koji sam ikada imao u karijeri.",
+          "russian": "Без ложной скромности: это самое большое спортивное достижение в моей карьере.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/sport/novak-djokovic-bez-lazne-skromnosti-zlato-na-oi-najveci-sportski-uspeh-u-karijeri/"
+        },
+        {
+          "serbian_latin": "Bez lažne skromnosti on jeste postao heroj.",
+          "russian": "Без ложной скромности, он действительно стал героем.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5913303/.html?print=true"
+        }
+      ],
+      "note": "Формула обычно предваряет утверждение, которое может показаться самохвальством: говорящий как бы заранее снимает упрёк в нескромности. Она не обязательно иронична и может использоваться не только о себе, но и при похвале другого человека. Ключевое слово — lažna, то есть показная, неискренняя скромность.",
+      "keyword": "lažna skromnost"
+    },
+    {
       "headword_latin": "Bez muke nema nauke",
       "type": "poslovica",
       "definition_ru": "без труда знаний не добудешь; учёба без труда не даётся",
@@ -19092,6 +19120,35 @@
       "keyword": "kokoška"
     },
     {
+      "headword_latin": "Kola se lome na nekome",
+      "type": "frazeologizam",
+      "definition_ru": "на ком-то всё срывается; кому-то приходится отдуваться; на кого-то ложатся последствия чужих проблем",
+      "synonyms_sr": [
+        "ispaštati",
+        "platiti ceh",
+        "trpeti posledice",
+        "izvući deblji kraj"
+      ],
+      "literal_ru": "телега ломается на ком-то",
+      "register": "razg.-publicistički, ekspresivno; na + lokativ",
+      "examples": [
+        {
+          "serbian_latin": "Kola se lome upravo na direktorima.",
+          "russian": "Именно директорам и приходится за всё отдуваться.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/5660560/oko-prosveta-i-blokade--ko-ce-sta-nauciti.html"
+        },
+        {
+          "serbian_latin": "„Kola se lome“ na velikim industrijskim mlinovima i pekarama.",
+          "russian": "Основной удар приходится на крупные промышленные мельницы и хлебозаводы.",
+          "source": "Danas, 2010",
+          "url": "https://www.danas.rs/vesti/ekonomija/srpskom-psenicom-upravljaju-karteli"
+        }
+      ],
+      "note": "В центре выражения не виновник проблемы, а тот, кому достаются её последствия: рядовые сотрудники, директора, потребители. Поэтому русское «ему приходится отдуваться» часто точнее, чем «его обвиняют». Важно запомнить управление: kola se lome na nekome, а не na nekoga.",
+      "keyword": "kola se lome"
+    },
+    {
       "headword_latin": "kola su krenula nizbrdo",
       "type": "rečenični frazem",
       "definition_ru": "Дела пошли под откос; положение начало стремительно ухудшаться.",
@@ -22461,6 +22518,35 @@
       "keyword": "blef"
     },
     {
+      "headword_latin": "Na brzaka",
+      "type": "prilog",
+      "definition_ru": "по-быстрому; на скорую руку; быстренько",
+      "synonyms_sr": [
+        "nabrzinu",
+        "na brzinu",
+        "na brzu ruku",
+        "u žurbi"
+      ],
+      "literal_ru": "",
+      "register": "razg.; ponekad neodobr. kada žurba utiče na kvalitet",
+      "examples": [
+        {
+          "serbian_latin": "Malta nije zemlja gde se dolazi na tri meseca sa idejom da se zarade velike pare „na brzaka“ i da se vratiš kući.",
+          "russian": "Мальта — не та страна, куда можно приехать на три месяца, по-быстрому заработать кучу денег и вернуться домой.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/svet/3781205/zasto-je-malta-privlacna-za-ljude-iz-srbije.html"
+        },
+        {
+          "serbian_latin": "... iako je nekome hteo nešto da javi „na brzaka“.",
+          "russian": "…хотя он всего лишь хотел кому-то что-то быстренько сообщить.",
+          "source": "Danas, 2009",
+          "url": "https://www.danas.rs/vesti/ekonomija/prvi-minut-papreno-skup/"
+        }
+      ],
+      "note": "Это разговорное наречное выражение может описывать и действие за пару минут (javiti na brzaka), и попытку быстро получить результат без серьёзной подготовки (zaraditi na brzaka). Само по себе оно не обязательно означает халтуру: отрицательная оценка возникает из контекста. Нейтральнее nabrzinu или na brzinu.",
+      "keyword": "na brzaka"
+    },
+    {
       "headword_latin": "Na brzu ruku",
       "type": "priloški frazeologizam",
       "definition_ru": "на скорую руку; поспешно, быстро и без достаточной подготовки или тщательности",
@@ -23173,6 +23259,35 @@
       "keyword": "neviđeno; naslepo; bez provere"
     },
     {
+      "headword_latin": "Na o-ruk",
+      "type": "izraz",
+      "definition_ru": "с наскока; аврально; наскоро, без должной подготовки",
+      "synonyms_sr": [
+        "improvizovano",
+        "na brzinu",
+        "bez plana",
+        "na silu"
+      ],
+      "literal_ru": "по команде «раз, взяли!»",
+      "register": "razg., često iron.-neodobr.; o nepripremljenom ili improvizovanom radu",
+      "examples": [
+        {
+          "serbian_latin": "U toj fabrici automobila se već šale da „punto“ prave na o-ruk.",
+          "russian": "На этом автозаводе уже шутят, что «Пунто» собирают по принципу «навалимся — и как-нибудь сделаем».",
+          "source": "RTS, 2009",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/57772/pregled-stampe-25-04-2009.html"
+        },
+        {
+          "serbian_latin": "... to nešto onako, kako mi kažemo na „o-ruk“, neka improvizacija.",
+          "russian": "…что-то сделанное с наскока, без подготовки, сплошная импровизация.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/drustvo/udruzenje-sveti-vasilije-veliki-kragujevac/"
+        }
+      ],
+      "note": "Исходное O-ruk! — возглас, которым подбадривают людей при совместном подъёме тяжести. Переносное na o-ruk часто описывает работу «навалом», без нормальной подготовки, системы или ресурсов; поэтому перевод «дружно» не всегда подходит. В публицистике выражение может звучать иронически или неодобрительно. Такое употребление связано и с выражением ho-ruk sistem, отмеченным в словаре Matice srpske.",
+      "keyword": "o-ruk"
+    },
+    {
       "headword_latin": "Na pravdi boga",
       "type": "frazeologizam",
       "definition_ru": "ни за что; без всякой вины; совершенно невиновного",
@@ -23437,6 +23552,35 @@
       ],
       "note": "Na udaru не обязательно предполагает физическое нападение. Под «ударом» могут оказаться люди из-за критики, предприятия из-за проверок, население из-за роста цен или территория из-за непогоды. Поэтому перевод варьируется: «под ударом», «под давлением», «стать мишенью», «попасть под воздействие».",
       "keyword": "na udaru"
+    },
+    {
+      "headword_latin": "Na veresiju",
+      "type": "izraz",
+      "definition_ru": "в долг; с оплатой потом; под честное слово",
+      "synonyms_sr": [
+        "na dug",
+        "na poček",
+        "na crtu",
+        "uz odloženo plaćanje"
+      ],
+      "literal_ru": "",
+      "register": "razg., tradicionalno; kupiti, uzeti, prodati, dati na veresiju",
+      "examples": [
+        {
+          "serbian_latin": "U prodavnici u Šapcu, kaže, pazare osnovne životne namirnice na veresiju.",
+          "russian": "По его словам, в магазине в Шабаце они покупают основные продукты питания в долг.",
+          "source": "Politika, 2023",
+          "url": "https://www.politika.rs/sr/clanak/550074/braca-maric-dobrovoljci-kosmet"
+        },
+        {
+          "serbian_latin": "Oko 60 odsto robe ja i moje kolege prodajemo na veresiju.",
+          "russian": "Примерно 60 процентов товаров мы с коллегами продаём в долг.",
+          "source": "Politika, 2010",
+          "url": "https://www.politika.rs/sr/articles/amp/156891"
+        }
+      ],
+      "note": "Veresija — турцизм (от тур. veresiye); в словаре Matice srpske так называют продажу товара с отсрочкой оплаты на основе доверия. В небольших магазинах долг традиционно записывали в sveska za veresiju — тетрадь покупок в долг. Это не обязательно банковский кредит и не обязательно покупка с процентами.",
+      "keyword": "veresija"
     },
     {
       "headword_latin": "Na vrh mi je jezika",
@@ -38156,6 +38300,39 @@
       "keyword": "puna mi je kapa"
     },
     {
+      "headword_latin": "Puna usta nečega",
+      "type": "frazeologizam",
+      "definition_ru": "только и разговоров, что о чём-то; громкие слова без дела; на словах одно, на деле другое",
+      "synonyms_sr": [
+        "stalno pričati o nečemu",
+        "razmetati se rečima",
+        "držati pridike o nečemu"
+      ],
+      "literal_ru": "полон рот чего-либо",
+      "register": "razg.-publicistički, iron.-neodobr.; puna usta + genitiv",
+      "examples": [
+        {
+          "serbian_latin": "... dok su im „puna usta“ borbe protiv korupcije.",
+          "russian": "…хотя на словах у них только и разговоров, что о борьбе с коррупцией.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/vesti/politika/tajkunski-novac-vazniji-od-borbe-protiv-korupcije"
+        },
+        {
+          "serbian_latin": "... da su zvaničnicima Unije „puna usta vladavine prava“, ali da te principe „krše kad im padne na pamet“.",
+          "russian": "…что представители Евросоюза постоянно говорят о верховенстве права, но сами нарушают эти принципы, когда им вздумается.",
+          "source": "N1, 2026",
+          "url": "https://n1info.rs/vesti/vucic-o-sastanku-marte-kos-sa-rektorom-djokicem-eu-narusila-principe-vladavine-prava/"
+        },
+        {
+          "serbian_latin": "Puna su mu usta poštenja, a nikome ne vraća dugove.",
+          "russian": "На словах он такой честный, а долги никому не возвращает.",
+          "source": ""
+        }
+      ],
+      "note": "Это не похвала красноречию: говорящий произносит много высоких слов, но обычно подразумевается разрыв между словами и делами. Требуется родительный падеж: puna usta pravde, demokratije, obećanja. Не путать с hvaliti na sva usta — «расхваливать на все лады».",
+      "keyword": "puna usta"
+    },
+    {
       "headword_latin": "Punim plućima",
       "type": "frazeologizam",
       "definition_ru": "полной грудью; в полную силу; на полную катушку",
@@ -46562,6 +46739,35 @@
       ],
       "note": "Реплика из фильма Maratonci trče počasni krug (1982), первоначально — реакция на увиденную измену. В современной цитате *kume* часто адресовано вовсе не куму, а любому знакомому, совершившему нечто странное или недопустимое. *Kume* — звательный падеж от *kum*.",
       "keyword": "šta to radiš, kume?"
+    },
+    {
+      "headword_latin": "Štapom i kanapom",
+      "type": "frazeologizam",
+      "definition_ru": "на коленке; из подручных средств; кое-как, обходясь самым необходимым",
+      "synonyms_sr": [
+        "improvizovano",
+        "s minimalnim sredstvima",
+        "od onoga što se nađe",
+        "bez prave opreme"
+      ],
+      "literal_ru": "палкой и верёвкой",
+      "register": "razg., ekspresivno; od pohvale snalažljivosti do kritike loše organizacije",
+      "examples": [
+        {
+          "serbian_latin": "To je bukvalno film snimljen štapom i kanapom.",
+          "russian": "Этот фильм буквально сняли на коленке.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/magazin/film-i-tv/2139997/.html?print=true"
+        },
+        {
+          "serbian_latin": "Štapom i kanapom sam došao do Barselone 25. avgusta...",
+          "russian": "До Барселоны я добрался 25 августа практически без денег, кое-как…",
+          "source": "Danas / BBC na srpskom, 2025",
+          "url": "https://www.danas.rs/bbc-news-serbian/ucesnik-humanitarne-flotili-ka-gazi-iz-beograda-spreman-sam-i-na-najgore/"
+        }
+      ],
+      "note": "Выражение подчёркивает не просто бедность, а умение обойтись тем, что есть: без оборудования, денег или отлаженной организации. В зависимости от интонации звучит как похвала изобретательности либо критика кустарного подхода. Не переводите буквально «палкой и верёвкой»: естественнее «на коленке», «из подручных средств», «кое-как».",
+      "keyword": "štapom i kanapom"
     },
     {
       "headword_latin": "Što je babi milo, to joj se i snilo",
@@ -60248,6 +60454,39 @@
       "keyword": "nož u leđa"
     },
     {
+      "headword_latin": "Začarani krug",
+      "type": "frazeologizam",
+      "definition_ru": "замкнутый круг; порочный круг; ситуация, из которой трудно выбраться",
+      "synonyms_sr": [
+        "bezizlazni krug",
+        "krug koji se stalno ponavlja",
+        "međusobno uslovljeni problemi"
+      ],
+      "literal_ru": "заколдованный круг",
+      "register": "neutralno-publicistički; medicina, psihologija, ekonomija, društveni problemi",
+      "examples": [
+        {
+          "serbian_latin": "Građani ulaze u začarani krug večitog zaduženja.",
+          "russian": "Люди попадают в порочный круг постоянных долгов.",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/ekonomija/5903077/kes-krediti-zaduzivanje-banke-kamate-.html"
+        },
+        {
+          "serbian_latin": "... njegov algoritam uvodi korisnike u začarani krug ponavljanja sličnog sadržaja.",
+          "russian": "…его алгоритм затягивает пользователей в замкнутый круг повторения однотипного контента.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/800340/tik-toku-preti-kazna-stetni-sadrzaji-se-neprekidno-ponavljaju"
+        },
+        {
+          "serbian_latin": "Što manje spavam, to sam nervozniji, a onda još teže zaspim — začarani krug.",
+          "russian": "Чем меньше сплю, тем больше нервничаю, а потом ещё труднее заснуть — замкнутый круг.",
+          "source": ""
+        }
+      ],
+      "note": "За выражением стоит механизм самоусиления: одна проблема вызывает другую, которая затем поддерживает первую. Русский естественный эквивалент — «замкнутый круг» или «порочный круг»; буквальное «заколдованный круг» не нужно. Обычные сочетания: upasti u začarani krug, izaći iz začaranog kruga, prekinuti začarani krug.",
+      "keyword": "začarani krug"
+    },
+    {
       "headword_latin": "Začepiti nekome usta",
       "type": "frazeologizam",
       "definition_ru": "заткнуть кому рот; заставить замолчать; лишить аргументов",
@@ -62325,6 +62564,33 @@
       "keyword": "živa enciklopedija; znanje; erudicija; pamćenje"
     },
     {
+      "headword_latin": "Živa istina",
+      "type": "izraz",
+      "definition_ru": "сущая правда; чистая правда; истинная правда",
+      "synonyms_sr": [
+        "sušta istina",
+        "čista istina"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; pojačana potvrda istinitosti",
+      "examples": [
+        {
+          "serbian_latin": "Ako mogu da kažem da je najpozitivniji član svih porodica, to je živa istina.",
+          "russian": "Если я скажу, что она самый жизнерадостный человек во всей нашей родне, это будет чистая правда.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/vesti/srbija-danas/5760825/kadivka-vukovic-cetrdeset-godina-zivi-u-gerontoloskom-centru-u-nisu.html"
+        },
+        {
+          "serbian_latin": "Samo je smrt siguran posao. I to je živa istina.",
+          "russian": "Только смерть — дело верное. И это сущая правда.",
+          "source": "Danas, 2023",
+          "url": "https://www.danas.rs/vesti/drustvo/samo-je-smrt-siguran-posao-prica-nemanje-iz-vlasotinca-koji-je-postao-pogrebnik-kada-je-napunio-12-godina/"
+        }
+      ],
+      "note": "Živa здесь не означает «живая» в буквальном смысле, а усиливает утверждение: «абсолютно верно, именно так и есть». Выражение часто выступает самостоятельной репликой подтверждения: To je živa istina! Может звучать и серьёзно, и шутливо. Русское «живая правда» не будет естественным эквивалентом.",
+      "keyword": "živa istina"
+    },
+    {
       "headword_latin": "Živeti / funkcionisati na autopilotu",
       "type": "ustaljeni metaforički izraz",
       "definition_ru": "Жить или действовать на автомате: по привычке, без осознанного выбора и внимательного участия. О работе или процессе — продолжаться по заведённой схеме, без постоянного пересмотра решений.",
@@ -62625,6 +62891,34 @@
       ],
       "note": "Употребляется в сочетаниях biti žrtveni jarac, napraviti od nekoga žrtvenog jarca, tražiti žrtvenog jarca. Винительный падеж единственного числа — žrtvenog jarca; множественное число — žrtveni jarci. Выражение указывает на несправедливое возложение вины, а не просто на человека, который действительно виноват.",
       "keyword": "žrtveni jarac; krivica; odgovornost; optuživanje"
+    },
+    {
+      "headword_latin": "Žrtveno jagnje",
+      "type": "frazeologizam",
+      "definition_ru": "козёл отпущения; невинная жертва; тот, кого приносят в жертву ради других",
+      "synonyms_sr": [
+        "žrtveni jarac",
+        "dežurni krivac",
+        "nevina žrtva"
+      ],
+      "literal_ru": "жертвенный ягнёнок, агнец",
+      "register": "ekspresivno, publicistički; često o prebacivanju odgovornosti",
+      "examples": [
+        {
+          "serbian_latin": "Nisam ja bio nikakvo žrtveno jagnje.",
+          "russian": "Никаким козлом отпущения я не был.",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/vesti/politika/5985859/.html?print=true"
+        },
+        {
+          "serbian_latin": "Sagovornici N1 ocenjuju da nekadašnji saradnici traže „žrtveno jagnje“ za taj slučaj.",
+          "russian": "Собеседники N1 считают, что бывшие соратники ищут козла отпущения в этом деле.",
+          "source": "N1, 2021",
+          "url": "https://n1info.rs/vesti/hoce-li-papic-pred-sud-sagovornici-n1-smatraju-da-se-trazi-zrtveno-jagnje/"
+        }
+      ],
+      "note": "В отличие от нейтрального žrtva — «жертва», здесь часто подразумевается человек, которого сознательно выставляют крайним ради спасения других. Близкое žrtveni jarac больше подчёркивает перенос вины («козёл отпущения»), а žrtveno jagnje — беззащитность и несправедливость жертвы. В журналистике возможна ирония, когда человек сам отказывается от роли невинной жертвы.",
+      "keyword": "žrtveno jagnje"
     },
     {
       "headword_latin": "Žuditi za nečim",
