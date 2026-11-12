@@ -4154,6 +4154,31 @@
       "keyword": "bolje ikad nego nikad"
     },
     {
+      "headword_latin": "Bolje izdati knjigu nego prijatelja",
+      "type": "krilatica",
+      "definition_ru": "лучше издать книгу, чем предать друга; шутливый афоризм на игре слов",
+      "synonyms_sr": [
+        "bolje objaviti knjigu nego izdati druga (parafraza)",
+        "prijatelja ne treba izdati (smisao)"
+      ],
+      "literal_ru": "Лучше «издать» книгу, чем «выдать» друга.",
+      "register": "humor., krilatica iz stripa Alan Ford",
+      "examples": [
+        {
+          "serbian_latin": "Bolje izdati knjigu nego prijatelja.",
+          "russian": "Лучше издать книгу, чем предать друга.",
+          "source": "N1, 2015"
+        },
+        {
+          "serbian_latin": "Setih se Grunfove mudrosti: bolje izdati knjigu nego prijatelja.",
+          "russian": "Вспомнилась мудрость Грунфа: лучше издать книгу, чем предать друга.",
+          "source": ""
+        }
+      ],
+      "note": "Шутка строится на двух значениях глагола izdati: «издать книгу» и «предать человека». Её связывают с персонажем Grunf культового в бывшей Югославии комикса Alan Ford. В русском переводе игра слов частично сохраняется благодаря общему корню слов «издать» и «предать».",
+      "keyword": "bolje izdati knjigu nego prijatelja"
+    },
+    {
       "headword_latin": "Bolje je pokliznuti nogom nego jezikom",
       "type": "poslovica",
       "definition_ru": "лучше оступиться ногой, чем языком; необдуманное слово может навредить сильнее ошибки",
@@ -4779,6 +4804,32 @@
       ],
       "note": "Drenovina — древесина кизила, известная твёрдостью. Если она ещё и сухая, выжать из неё что-либо невозможно. Поэтому оборот хорошо передаёт попытку получить дополнительные деньги, силы или результат из уже исчерпанного ресурса.",
       "keyword": "suva drenovina; cediti; iscrpljivanje"
+    },
+    {
+      "headword_latin": "Cena? Prava sitnica!",
+      "type": "krilatica",
+      "definition_ru": "цена? сущие пустяки!; всего-то ничего! (иронично о дороговизне)",
+      "synonyms_sr": [
+        "ma sitnica! (iron.)",
+        "džabe, takoreći! (iron.)",
+        "nije to ništa! (iron.)"
+      ],
+      "literal_ru": "Цена? Настоящая мелочь!",
+      "register": "iron., krilatica; citat iz stripa Alan Ford",
+      "examples": [
+        {
+          "serbian_latin": "Cena? Prava sitnica.",
+          "russian": "Цена? Сущие пустяки.",
+          "source": "N1, 2015"
+        },
+        {
+          "serbian_latin": "Hiljadu evra za popravku? Cena? Prava sitnica!",
+          "russian": "Тысяча евро за ремонт? Да сущие пустяки!",
+          "source": ""
+        }
+      ],
+      "note": "Реплика персонажа Ser Olivera из комикса Alan Ford стала формулой иронии по поводу высокой цены. При буквальном переводе без интонации может показаться, что вещь дешёвая, хотя обычно подразумевается противоположное. Типичный русский эквивалент — «да сущие копейки!» с явной иронией.",
+      "keyword": "cena? prava sitnica"
     },
     {
       "headword_latin": "Crkni-pukni",
@@ -7779,6 +7830,32 @@
       "keyword": "Kolumbo"
     },
     {
+      "headword_latin": "Dobru čoveku sve dobro stoji",
+      "type": "poslovica",
+      "definition_ru": "хорошему человеку всё к лицу; доброму всё идёт",
+      "synonyms_sr": [
+        "dobrom čoveku sve lepo stoji",
+        "dobrota čoveka krasi",
+        "dobar čovek u svemu lepo izgleda"
+      ],
+      "literal_ru": "",
+      "register": "tradicionalna poslovica, danas ređa",
+      "examples": [
+        {
+          "serbian_latin": "Obukao je sasvim običnu košulju, ali dobru čoveku sve dobro stoji.",
+          "russian": "Надел самую обычную рубашку, но хорошему человеку всё к лицу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne gledaj samo odelo — dobru čoveku sve dobro stoji.",
+          "russian": "Не смотри только на одежду: доброму человеку всё к лицу.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица соединяет внешнюю привлекательность с нравственной оценкой: доброта человека как бы украшает его. Традиционная форма dobru čoveku вместо обычного современного dobrom čoveku характерна для старых формул. В живой повседневной речи чаще выразят эту мысль без пословицы.",
+      "keyword": "dobru čoveku sve dobro stoji"
+    },
+    {
       "headword_latin": "Dočekati nekoga / nešto na nož",
       "type": "frazeologizam",
       "definition_ru": "встретить в штыки; крайне враждебно, резко и заранее отрицательно воспринять человека, предложение или событие",
@@ -10459,6 +10536,32 @@
       "keyword": "farbati nekoga"
     },
     {
+      "headword_latin": "Fiks-ideja",
+      "type": "imenica",
+      "definition_ru": "идея фикс; навязчивая мысль; одержимость какой-либо идеей",
+      "synonyms_sr": [
+        "opsesija",
+        "nametljiva misao",
+        "neostvariva zamisao (ponekad)"
+      ],
+      "literal_ru": "",
+      "register": "razg.-knjiž.; ženski rod; piše se i fiks ideja",
+      "examples": [
+        {
+          "serbian_latin": "…po najvećem broju uručenih otkaza i fiks ideja u jednoj prosvetnoj godini…",
+          "russian": "…по рекордному числу увольнений и навязчивых идей за один учебный год…",
+          "source": "N1, 2026"
+        },
+        {
+          "serbian_latin": "Postalo mu je fiks-ideja da kupi kuću baš u tom kraju.",
+          "russian": "Он буквально одержим идеей купить дом именно в этом районе.",
+          "source": ""
+        }
+      ],
+      "note": "Это заимствованная конструкция, соответствующая русскому «идея фикс». В сербском встречаются написания fiks-ideja и fiks ideja, а также fiksna ideja. В повседневном употреблении речь чаще о чрезмерном увлечении одной мыслью, а не о клиническом диагнозе.",
+      "keyword": "fiks-ideja"
+    },
+    {
       "headword_latin": "Floskula",
       "type": "imenica",
       "definition_ru": "пустая фраза; избитый штамп; банальность; пустое клише",
@@ -10489,6 +10592,32 @@
       ],
       "note": "Ваше «стандартные фразы практически без смысла» передаёт суть. Но floskula — не просто привычная формула: она ощущается как заезженная, шаблонная и содержательно пустая декларация. RTS прямо называет «Život piše romane» сильно затёртой floskula, а в других текстах слово используется для общеизвестных деклараций, которые повторяются автоматически.",
       "keyword": "floskula"
+    },
+    {
+      "headword_latin": "Fora za muvanje",
+      "type": "kolokacija",
+      "definition_ru": "фраза для знакомства; способ подкатить; приём флирта",
+      "synonyms_sr": [
+        "trik za udvaranje",
+        "fora za prilazak",
+        "način da se započne flert"
+      ],
+      "literal_ru": "",
+      "register": "razg., mladalački; muvanje = flert, udvaranje",
+      "examples": [
+        {
+          "serbian_latin": "Ovih 10 fora za muvanje SIGURNO pale!",
+          "russian": "Эти десять приёмов знакомства точно сработают!",
+          "source": "Telegraf, 2015"
+        },
+        {
+          "serbian_latin": "Ta fora za muvanje je toliko stara da se svi samo nasmeju.",
+          "russian": "Этот подкат настолько старый, что все только смеются.",
+          "source": ""
+        }
+      ],
+      "note": "Muvanje — разговорное обозначение флирта и попыток завязать романтическое знакомство. Fora здесь не «фора» в спортивном смысле, а придуманный приём или фразочка. Часто звучит с иронией, особенно если способ знакомства избитый.",
+      "keyword": "fora za muvanje"
     },
     {
       "headword_latin": "Fušeraj",
@@ -10742,6 +10871,32 @@
       "keyword": "gde je tanko"
     },
     {
+      "headword_latin": "Gde si, sokole!",
+      "type": "replika",
+      "definition_ru": "здорово, орёл!; привет, дорогой!; куда пропал?",
+      "synonyms_sr": [
+        "gde si, care!",
+        "gde si, junače!",
+        "gde te nema!"
+      ],
+      "literal_ru": "Где ты, сокол!",
+      "register": "razg., prisno, šalj.; obično obraćanje muškarcu",
+      "examples": [
+        {
+          "serbian_latin": "Gde si, sokole! Sto godina se nismo videli.",
+          "russian": "Здорово, орёл! Сто лет не виделись.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "O, gde si mi ti, sokole! Sedi da popijemo kafu.",
+          "russian": "О, привет, дорогой! Садись, выпьем кофе.",
+          "source": ""
+        }
+      ],
+      "note": "Sokole — звательная форма от soko («сокол»); в обращении это ласковое или шутливое «молодец, орёл». Реплика Gde si? сама по себе часто служит приветствием, а не вопросом о местонахождении. Уместна между знакомыми; в официальной обстановке слишком фамильярна.",
+      "keyword": "gde si, sokole"
+    },
+    {
       "headword_latin": "Gde svi Turci, tu i mali Mujo",
       "type": "izreka",
       "definition_ru": "куда все, туда и я; человек следует за большинством и делает то же, что окружающие",
@@ -10769,6 +10924,32 @@
       ],
       "note": "Mujo — традиционное разговорное сокращение имени Muhamed. В современном употреблении пословица означает следование толпе и обычно не описывает реальных турок или боснийцев.",
       "keyword": "Turci; Mujo"
+    },
+    {
+      "headword_latin": "Gde ti je mladost?",
+      "type": "replika",
+      "definition_ru": "где твой молодой задор?; что ты раскис?; да ты ещё молод!",
+      "synonyms_sr": [
+        "gde ti je energija?",
+        "što si se ulenjio?",
+        "razmrda(j) se! (približno)"
+      ],
+      "literal_ru": "Где твоя молодость?",
+      "register": "razg., šalj.; ponekad zadirkujuće",
+      "examples": [
+        {
+          "serbian_latin": "Već u devet ideš da spavaš? Gde ti je mladost?",
+          "russian": "Уже в девять спать собираешься? Где твой молодой задор?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Hajde na koncert, gde ti je mladost!",
+          "russian": "Пойдём на концерт, не будь таким скучным!",
+          "source": ""
+        }
+      ],
+      "note": "Это обычно не вопрос о возрасте, а поддразнивание человека, который отказывается от развлечения или выглядит вялым. Может звучать дружески, но при неподходящих обстоятельствах воспринимается как упрёк. Притяжательное ti здесь дательный падеж, как в Gde ti je pamet?.",
+      "keyword": "gde ti je mladost"
     },
     {
       "headword_latin": "ginuti kao muve",
@@ -11644,6 +11825,57 @@
       ],
       "note": "Русская и сербская пословицы практически идентичны. Помимо буквальной кузнечной ситуации, выражение означает: не откладывай действие, если обстоятельства сейчас благоприятны. Особенно естественно о переговорах, работе, политике и использовании неожиданно возникшей возможности.",
       "keyword": "gvožđe"
+    },
+    {
+      "headword_latin": "Halo, Bing, kako brat?",
+      "type": "krilatica",
+      "definition_ru": "алло, Бинг, как брат?; шутливое вступление к сомнительной сделке",
+      "synonyms_sr": [
+        "halo, kako ide posao? (neutralno)",
+        "šta ima novo, majstore? (približno)"
+      ],
+      "literal_ru": "Алло, Бинг, как брат?",
+      "register": "šalj., iron.; aluzija na strip Alan Ford",
+      "examples": [
+        {
+          "serbian_latin": "Halo Bing, kako brat?",
+          "russian": "Алло, Бинг, как брат?",
+          "source": "N1, 2015"
+        },
+        {
+          "serbian_latin": "Kad je opet krenuo da mulja s cenom, svi su se nasmejali: „Halo, Bing, kako brat?“",
+          "russian": "Когда он снова принялся хитрить с ценой, все засмеялись: «Алло, Бинг, как брат?»",
+          "source": ""
+        }
+      ],
+      "note": "Знаменитая телефонная формула Ser Olivera из комикса Alan Ford. Часто узнаётся как шутливый намёк на мелкую аферу, торговлю с подвохом или сомнительную договорённость. Буквальный вопрос о брате здесь не главное: культурная отсылка важнее прямого значения.",
+      "keyword": "halo, bing, kako brat"
+    },
+    {
+      "headword_latin": "Harati",
+      "type": "glagol",
+      "definition_ru": "свирепствовать; бушевать; опустошать, причинять большой ущерб",
+      "synonyms_sr": [
+        "pustošiti",
+        "besneti",
+        "širiti se velikom brzinom (o bolesti)"
+      ],
+      "literal_ru": "",
+      "register": "nesvršeni vid; o epidemiji, požaru, nasilju",
+      "examples": [
+        {
+          "serbian_latin": "…virus koji hara u kolektivima…",
+          "russian": "…вирус, который распространяется в детских коллективах…",
+          "source": "RTS, 2022"
+        },
+        {
+          "serbian_latin": "Grip ove zime hara gradom.",
+          "russian": "Этой зимой грипп свирепствует в городе.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол особенно часто встречается в газетных сочетаниях epidemija hara, požar hara, kriminal hara. Он усиливает представление о масштабности и разрушительности явления, а не просто сообщает, что оно существует. Совершенное poharati чаще относится к уже совершённому опустошению или разграблению.",
+      "keyword": "harati"
     },
     {
       "headword_latin": "Hladan kao led",
@@ -14455,6 +14687,32 @@
       ],
       "note": "Для русского это важный ложный друг. Русское «из кожи вон лезть» означает прежде всего «очень стараться», а сербское iskočiti iz kože описывает сильнейшее раздражение, нервозность или состояние, которое невозможно терпеть. Сербское фразеологическое исследование прямо относит iskočiti iz kože к выражениям эмоционального гнева.",
       "keyword": "iskočiti iz kože"
+    },
+    {
+      "headword_latin": "Ispasti budala",
+      "type": "frazeologizam",
+      "definition_ru": "оказаться в дураках; выставить себя дураком; выглядеть глупо",
+      "synonyms_sr": [
+        "ispasti naivan",
+        "napraviti budalu od sebe",
+        "obrukati se (delimično)"
+      ],
+      "literal_ru": "Буквально «выйти дураком».",
+      "register": "razg.; ispasti + nominativ",
+      "examples": [
+        {
+          "serbian_latin": "Znam da sam ispao budala i to me pogađa…",
+          "russian": "Я понимаю, что оказался дураком, и меня это задевает…",
+          "source": "Blic, 2011"
+        },
+        {
+          "serbian_latin": "Svi su dobili novac, a ja sam ispao budala jer sam im verovao.",
+          "russian": "Все получили деньги, а я остался в дураках, потому что им поверил.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол ispasti в таком контексте значит «оказаться в определённом положении или впечатлении», а не физически выпасть. Оборот может описывать и собственную ошибку, и ситуацию, в которой человека обманули. Не путать с biti budala, где оценка ума более прямая и постоянная.",
+      "keyword": "ispasti budala"
     },
     {
       "headword_latin": "Ispeci, pa reci",
@@ -17969,6 +18227,32 @@
       "keyword": "ko laže, taj i krade"
     },
     {
+      "headword_latin": "Ko leti vredi, ko vredi leti, ko ne leti, ne vredi",
+      "type": "krilatica",
+      "definition_ru": "кто летает, тот чего-то стоит; кто не летает, тот ничего не стоит (псевдомудрость)",
+      "synonyms_sr": [
+        "ko leti, taj vredi (skraćeno)",
+        "lažna mudrost (opisno)",
+        "besmislena pouka (opisno)"
+      ],
+      "literal_ru": "Кто летает — тот ценен; кто ценен — летает; кто не летает — не ценен.",
+      "register": "šalj., ironično; krilatica iz stripa Alan Ford",
+      "examples": [
+        {
+          "serbian_latin": "Ko leti vredi, ko vredi leti, ko ne leti, ne vredi.",
+          "russian": "Кто летает — тот чего-то стоит, а кто не летает — ничего не стоит.",
+          "source": "N1, 2015"
+        },
+        {
+          "serbian_latin": "Tako je samouvereno objasnio svoj plan da me je podsetio na ono „ko leti vredi“.",
+          "russian": "Он так уверенно объяснял свой план, что мне вспомнилась эта «мудрость»: «кто летает — тот ценен».",
+          "source": ""
+        }
+      ],
+      "note": "Это пародия на нравоучительные максимы из комикса Alan Ford; её часто связывают с изобретателем Grunfom. Смешно то, что фраза повторяет одни и те же слова и выдаёт круговую логику за глубокий вывод. Vredi здесь значит «имеет ценность», не обязательно «стоит денег».",
+      "keyword": "ko leti vredi, ko vredi leti, ko ne leti, ne vredi"
+    },
+    {
       "headword_latin": "Ko ne plati na mostu, platiće na ćupriji",
       "type": "poslovica",
       "definition_ru": "если не заплатишь сейчас, потом заплатишь дороже; от расплаты не уйдёшь",
@@ -18780,6 +19064,32 @@
       ],
       "note": "Разговорное существительное, обычно с неодобрением: так называют нелепое утверждение или бессодержательные разговоры. Форма множественного числа koještarije встречается, когда говорят о множестве таких высказываний.",
       "keyword": "koještarija"
+    },
+    {
+      "headword_latin": "Kokoška",
+      "type": "imenica",
+      "definition_ru": "курица (о женщине, оскорбительно); пустоголовая болтушка; сплетница",
+      "synonyms_sr": [
+        "glupača (grub.)",
+        "tračara (delimično)",
+        "praznoglava žena"
+      ],
+      "literal_ru": "",
+      "register": "razg., uvredljivo i seksistički o osobi; doslovno domaća ptica",
+      "examples": [
+        {
+          "serbian_latin": "Prestani da je zoveš kokoškom samo zato što se ne slaže s tobom.",
+          "russian": "Хватит называть её курицей только за то, что она с тобой не согласна.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Tračarile su ceo dan, pa ih je neko nazvao kokoškama.",
+          "russian": "Они весь день сплетничали, и кто-то обозвал их курами.",
+          "source": ""
+        }
+      ],
+      "note": "Как и русское «курица» о человеке, слово имеет уничижительный оттенок. В сербском им могут упрекать не только в глупости, но и в пустой болтовне. Выражение сексистское и для нейтрального описания человека не подходит.",
+      "keyword": "kokoška"
     },
     {
       "headword_latin": "kola su krenula nizbrdo",
@@ -19671,6 +19981,32 @@
       "keyword": "kupiti vreme"
     },
     {
+      "headword_latin": "Kvocati",
+      "type": "glagol",
+      "definition_ru": "пилить; брюзжать; без конца ворчать и придираться",
+      "synonyms_sr": [
+        "zvocati",
+        "zanovetati",
+        "gunđati"
+      ],
+      "literal_ru": "Квохтать, как наседка.",
+      "register": "razg., neodobr.; nesvršeni vid; kvocati nekome",
+      "examples": [
+        {
+          "serbian_latin": "Ne vredi samo kvocati, treba i jaja nositi.",
+          "russian": "Мало просто ворчать, нужно ещё и дело делать.",
+          "source": "021.rs, 2013, komentar"
+        },
+        {
+          "serbian_latin": "Nemoj mi kvocati zbog svake sitnice.",
+          "russian": "Не пили меня из-за каждого пустяка.",
+          "source": ""
+        }
+      ],
+      "note": "Буквальное значение связано с квохтаньем курицы; переносное — с надоедливым повторением замечаний. Глагол применим и к мужчине, хотя культурно его часто связывают с образом ворчливой жены. В отличие от običnog žaliti se, kvocati предполагает раздражающую регулярность.",
+      "keyword": "kvocati"
+    },
+    {
       "headword_latin": "Labudova pesma",
       "type": "imenički frazeologizam",
       "definition_ru": "лебединая песня; последнее значительное выступление, произведение или яркое проявление деятельности перед её завершением",
@@ -19699,6 +20035,32 @@
       "keyword": "labudova pesma; završetak; oproštaj; poslednji nastup"
     },
     {
+      "headword_latin": "Lagati kao pas",
+      "type": "frazeologizam",
+      "definition_ru": "врать как сивый мерин; бессовестно лгать",
+      "synonyms_sr": [
+        "lagati bez pardona",
+        "lagati na sav glas (približno)",
+        "besramno lagati"
+      ],
+      "literal_ru": "Лгать как собака.",
+      "register": "razg., ekspresivno; nesvršeni lagati, prezent laže",
+      "examples": [
+        {
+          "serbian_latin": "…kada želimo da nekoga označimo kao prevaranta, kažemo da „laže kao pas“.",
+          "russian": "…когда хотим назвать кого-то обманщиком, говорим, что он «врёт как сивый мерин».",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Nemoj da mu veruješ, laže kao pas.",
+          "russian": "Не верь ему, он врёт как сивый мерин.",
+          "source": ""
+        }
+      ],
+      "note": "Сравнение усиливает обвинение во лжи и не связано с характером конкретной собаки. В сербских популярных публикациях приводят несколько версий происхождения, но надёжно доказанной этимологии нет. Русское «врёт как собака» возможно, однако привычнее «как сивый мерин».",
+      "keyword": "lagati kao pas"
+    },
+    {
       "headword_latin": "Laki je malo nervozan",
       "type": "krilatica",
       "definition_ru": "Лаки немного нервничает; кто-то явно вышел из себя (иронически)",
@@ -19723,6 +20085,58 @@
       ],
       "note": "Крылатая реплика из фильма Maratonci trče počasni krug (1982). Уменьшительное malo создаёт комический контраст с явно сильной злостью. Употребляется не только о человеке по имени Лаки — имя закрепилось в готовой цитате.",
       "keyword": "laki je malo nervozan"
+    },
+    {
+      "headword_latin": "Lako je tebi!",
+      "type": "replika",
+      "definition_ru": "тебе-то легко говорить!; тебе хорошо!; легко тебе!",
+      "synonyms_sr": [
+        "tebi je lako!",
+        "lako je tebi da pričaš!",
+        "ti nemaš taj problem"
+      ],
+      "literal_ru": "Тебе легко.",
+      "register": "razg., ponekad s prizvukom zavisti ili zamerke",
+      "examples": [
+        {
+          "serbian_latin": "„Lako je tebi, ti si glumac.“",
+          "russian": "«Тебе-то легко, ты же актёр».",
+          "source": "Danas, 2025"
+        },
+        {
+          "serbian_latin": "Lako je tebi da savetuješ, ti ne moraš svakog dana da putuješ dva sata.",
+          "russian": "Тебе легко советовать — тебе не нужно каждый день ездить по два часа.",
+          "source": ""
+        }
+      ],
+      "note": "Частица ti уже содержится в дательном падеже: lako je tebi. Реплика часто звучит как возражение чужому совету: говорящий считает, что у собеседника условия лучше. Буквальное «легко тебе» не всегда передаёт скрытое раздражение; в русском обычно добавляют «-то» или «говорить».",
+      "keyword": "lako je tebi"
+    },
+    {
+      "headword_latin": "Lasno je zdravome bolesnoga savetovati",
+      "type": "poslovica",
+      "definition_ru": "здоровому легко советовать больному; чужую беду руками разведу",
+      "synonyms_sr": [
+        "lako je zdravome bolesnoga savetovati",
+        "lako je deliti savete kada te ne boli",
+        "tuđu je muku lako savetovati"
+      ],
+      "literal_ru": "",
+      "register": "narodna poslovica, danas arhaično; lasno = lako",
+      "examples": [
+        {
+          "serbian_latin": "Lasno je zdravome bolesnoga savetovati, ali probaj sam da izdržiš taj bol.",
+          "russian": "Здоровому легко советовать больному, но попробуй сам вытерпеть такую боль.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Svi mi govore da budem strpljiv — lasno je zdravome bolesnoga savetovati.",
+          "russian": "Все говорят мне набраться терпения, но легко советовать, когда сам не болеешь.",
+          "source": ""
+        }
+      ],
+      "note": "Lasno — старое слово со значением «легко»; в современной речи чаще lako. Пословица напоминает, что давать советы со стороны проще, чем переносить чужие страдания. Формы zdravome и bolesnoga имеют более традиционную окраску; это не обычная медицинская рекомендация.",
+      "keyword": "lasno je zdravome bolesnoga savetovati"
     },
     {
       "headword_latin": "Laže čim zine",
@@ -21698,6 +22112,32 @@
       "keyword": "bakalar"
     },
     {
+      "headword_latin": "Mršav kao kostur",
+      "type": "frazeologizam",
+      "definition_ru": "худой как скелет; очень исхудавший",
+      "synonyms_sr": [
+        "sama kost i koža",
+        "mršav kao čačkalica",
+        "veoma mršav"
+      ],
+      "literal_ru": "Худой как скелет.",
+      "register": "razg., ekspresivno; često o naglom gubitku težine",
+      "examples": [
+        {
+          "serbian_latin": "Posle duge bolesti vratio se mršav kao kostur.",
+          "russian": "После долгой болезни он вернулся худым как скелет.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Jede normalno, a mršav je kao kostur.",
+          "russian": "Ест нормально, а сам худющий как скелет.",
+          "source": ""
+        }
+      ],
+      "note": "Сравнение указывает на очень выраженную худобу и иногда звучит бестактно, если сказано человеку в лицо. Близкое sama kost i koža ещё сильнее подчёркивает истощённость. Прилагательное меняется по роду: mršava kao kostur, mršavi kao kosturi.",
+      "keyword": "mršav kao kostur"
+    },
+    {
       "headword_latin": "Mrtav hladan",
       "type": "frazeologizam",
       "definition_ru": "как ни в чём не бывало; совершенно невозмутимо; с каменным спокойствием",
@@ -21915,6 +22355,32 @@
       ],
       "note": "Чаще встречается в повелительном наклонении: mućni glavom, mućnite glavom. Может звучать как дружеский совет или как упрёк в недальновидности.",
       "keyword": "glava"
+    },
+    {
+      "headword_latin": "Muk",
+      "type": "imenica",
+      "definition_ru": "гробовая тишина; мёртвое молчание; полная тишина",
+      "synonyms_sr": [
+        "potpuna tišina",
+        "mrtva tišina",
+        "grobna tišina"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-knjiž.; nastati muk, zavladati muk",
+      "examples": [
+        {
+          "serbian_latin": "Nastao je muk.",
+          "russian": "Наступила мёртвая тишина.",
+          "source": "Danas, 2016"
+        },
+        {
+          "serbian_latin": "Kad je izgovorila njegovo ime, u sali je zavladao muk.",
+          "russian": "Когда она произнесла его имя, в зале воцарилась гробовая тишина.",
+          "source": ""
+        }
+      ],
+      "note": "Важный ложный друг: muk — «молчание, тишина», а muka — «мучение, страдание». Чаще всего слово употребляется в сочетаниях nastao je muk и zavladao je muk, обычно после неожиданного или тяжёлого сообщения. Оно не обязательно означает, что человек сознательно отказывается говорить.",
+      "keyword": "muk"
     },
     {
       "headword_latin": "Muštuluk",
@@ -24827,6 +25293,32 @@
       ],
       "note": "Полезно учить сразу обе формы: poći/polaziti nekome za rukom — «удаваться» и ne polaziti za rukom — «не получаться».",
       "keyword": "polaziti za rukom"
+    },
+    {
+      "headword_latin": "Ne poželi nikome ono što samom sebi ne želiš",
+      "type": "poslovica",
+      "definition_ru": "не желай другому того, чего не желаешь себе; не делай другому зла",
+      "synonyms_sr": [
+        "ne čini drugome što ne želiš sebi",
+        "postupaj s drugima kako želiš da postupaju s tobom",
+        "ne želi drugome zlo"
+      ],
+      "literal_ru": "",
+      "register": "tradicionalna moralna pouka; zapovedni oblik ne poželi",
+      "examples": [
+        {
+          "serbian_latin": "Ne poželi nikome ono što samom sebi ne želiš.",
+          "russian": "Не желай никому того, чего не желаешь себе.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pre nego što mu u besu nešto kažeš, seti se: ne poželi nikome ono što samom sebi ne želiš.",
+          "russian": "Прежде чем сказать ему что-нибудь сгоряча, вспомни: не желай другому того, чего себе не хочешь.",
+          "source": ""
+        }
+      ],
+      "note": "Это одна из форм нравственного принципа взаимности, близкого «золотому правилу». Не следует путать её с буквальным запретом кому-либо чего-то хотеть: речь о нежелании причинять другим то, чего боишься сам. В современном сербском чаще можно услышать более короткое ne čini drugome što ne želiš sebi.",
+      "keyword": "ne poželi nikome ono što samom sebi ne želiš"
     },
     {
       "headword_latin": "Ne talasaj",
@@ -60525,6 +61017,32 @@
       ],
       "note": "Исходный заголовок был только в женском роде; для словаря удобнее базовая форма zategnut kao praćka. Zategnut также употребляется совсем иначе: zategnuti odnosi — «напряжённые отношения».",
       "keyword": "praćka"
+    },
+    {
+      "headword_latin": "Zategnuta kao praćka",
+      "type": "frazeologizam",
+      "definition_ru": "подтянутая как струна; очень стройная, спортивная (о фигуре)",
+      "synonyms_sr": [
+        "veoma zategnuta",
+        "u odličnoj formi",
+        "vitka i mišićava"
+      ],
+      "literal_ru": "Натянутая как рогатка.",
+      "register": "razg., tabloidski; često o izgledu žene; muški zategnut",
+      "examples": [
+        {
+          "serbian_latin": "Zategnuta kao praćka.",
+          "russian": "Подтянутая как струна.",
+          "source": "Blic, 2026"
+        },
+        {
+          "serbian_latin": "Posle redovnih treninga izgleda zategnuto kao praćka.",
+          "russian": "После регулярных тренировок она выглядит очень подтянутой.",
+          "source": ""
+        }
+      ],
+      "note": "Образ рогатки описывает тугую натянутость; в газетной речи оборот чаще относится к фигуре, особенно женской. В русской речи естественнее «стройная, подтянутая», а не «натянутая как рогатка». Это разговорная, нередко бестактная характеристика внешности, типичная для таблоидных заголовков.",
+      "keyword": "zategnuta kao praćka"
     },
     {
       "headword_latin": "Zatucan čovek",
