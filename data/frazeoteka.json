@@ -258,6 +258,32 @@
       "keyword": "koza; rog"
     },
     {
+      "headword_latin": "Ako mi ne možeš pomoći, nemoj mi odmagati",
+      "type": "izreka",
+      "definition_ru": "если не можешь помочь, хотя бы не мешай",
+      "synonyms_sr": [
+        "ako ne pomažeš, ne smetaj",
+        "nemoj da mi otežavaš",
+        "ne odmaži mi"
+      ],
+      "literal_ru": "Не можешь помочь — не вреди мне.",
+      "register": "razg., često kao prekor ili molba",
+      "examples": [
+        {
+          "serbian_latin": "Ako mi ne možeš pomoći, nemoj mi odmagati.",
+          "russian": "Не можешь помочь — хотя бы не мешай.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne tražim da rešiš problem, samo nemoj da mi odmažeš.",
+          "russian": "Я не прошу решить проблему, просто не мешай мне.",
+          "source": ""
+        }
+      ],
+      "note": "Глаголы pomoći и odmoći имеют противоположное значение и управляют дательным падежом: *pomoći mi, odmagati mi*. Русское «не вреди» может звучать сильнее, чем сербское *ne odmaži*, которое часто означает просто «не осложняй мне задачу». Выражение можно произнести как просьбу или резкий упрёк.",
+      "keyword": "ako mi ne možeš pomoći, nemoj mi odmagati"
+    },
+    {
       "headword_latin": "Ako ne znaš šta je dobro, uzmi šta je skupo",
       "type": "poslovica",
       "definition_ru": "не знаешь, что выбрать, — бери подороже; будто бы высокая цена гарантирует качество",
@@ -307,6 +333,32 @@
       ],
       "note": "Это не просто нейтральное «попробуем — посмотрим». Обычно подразумевается расчёт на слабый контроль: сделать что-то сомнительное, некачественное или формально спорное и надеяться, что «прокатит». Сокращение APP настолько узнаваемо, что RTS приводит его как характерную разговорную аббревиатуру.",
       "keyword": "ako prođe prođe"
+    },
+    {
+      "headword_latin": "Ala ga je opravio, svaka mu čast!",
+      "type": "krilatica",
+      "definition_ru": "ну и починил, нечего сказать!; вот это мастер! (обычно насмешливо)",
+      "synonyms_sr": [
+        "baš je dobro popravio (iron.)",
+        "upropastio je posao",
+        "svaka mu čast (iron.)"
+      ],
+      "literal_ru": "Ну и починил он его, честь ему и хвала!",
+      "register": "razg., ironično; filmska replika o lošoj popravci",
+      "examples": [
+        {
+          "serbian_latin": "Ala ga je opravio, svaka mu čast!",
+          "russian": "Ну и починил, нечего сказать!",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Posle majstora televizor više ni ne može da se uključi. Ala ga je opravio, svaka mu čast!",
+          "russian": "После мастера телевизор вообще перестал включаться. Ну и починил, нечего сказать!",
+          "source": ""
+        }
+      ],
+      "note": "Культовая фраза из фильма Maratonci trče počasni krug (1982), часто цитируемая о неудачном ремонте или халтурной работе. Хотя svaka mu čast буквально похвала, в сочетании с ala ga je opravio она нередко звучит как резкая ирония. Встречается и написание Al’ ga je opravio.",
+      "keyword": "ala ga je opravio, svaka mu čast!"
     },
     {
       "headword_latin": "Alal vera",
@@ -3374,6 +3426,32 @@
       "keyword": "isti sos"
     },
     {
+      "headword_latin": "Biti u opticaju",
+      "type": "kolokacija",
+      "definition_ru": "быть в обращении; рассматриваться как вариант; ещё не быть исключённым",
+      "synonyms_sr": [
+        "biti aktuelan",
+        "biti među mogućnostima",
+        "biti u prometu (o novcu)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-public.; biti u opticaju; o novcu, imenima, predlozima",
+      "examples": [
+        {
+          "serbian_latin": "Sve je u opticaju, jedna utakmica je u pitanju.",
+          "russian": "Всё ещё возможно: речь идёт об одном матче.",
+          "source": "Sportal, 2026"
+        },
+        {
+          "serbian_latin": "Njegovo ime je i dalje u opticaju za mesto direktora.",
+          "russian": "Его кандидатуру по-прежнему рассматривают на должность директора.",
+          "source": ""
+        }
+      ],
+      "note": "Opticaj буквально обозначает обращение, прежде всего денег. В переносном употреблении biti u opticaju — быть среди обсуждаемых вариантов или сохранять актуальность. Не следует понимать как физическое вращение; существительное в этой конструкции стоит в местном падеже после u.",
+      "keyword": "biti u opticaju"
+    },
+    {
       "headword_latin": "Biti u pat-poziciji",
       "type": "frazeologizam",
       "definition_ru": "оказаться в тупике; быть в патовой ситуации; не иметь возможности продвинуться.",
@@ -3425,6 +3503,32 @@
       ],
       "note": "Почти точный аналог русского «быть в своей стихии». Обратная конструкция nisam u svom elementu означает «я здесь не в своей тарелке / это не моя область» и тоже очень употребительна.",
       "keyword": "u svom elementu"
+    },
+    {
+      "headword_latin": "Biti u svom filmu",
+      "type": "frazeologizam",
+      "definition_ru": "быть на своей волне; жить в собственном мире; ни на что вокруг не обращать внимания",
+      "synonyms_sr": [
+        "biti u svom svetu",
+        "biti zaokupljen sobom",
+        "ne obraćati pažnju na druge"
+      ],
+      "literal_ru": "Быть в собственном фильме.",
+      "register": "razg.; biti / živeti u svom filmu",
+      "examples": [
+        {
+          "serbian_latin": "Na sastanku je bio u svom filmu i nije pratio razgovor.",
+          "russian": "На собрании он был на своей волне и не следил за разговором.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ona radi po svome, u svom filmu, i ne osvrće se na komentare.",
+          "russian": "Она действует по-своему, живёт в своём мире и не обращает внимания на комментарии.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение описывает отрешённость от окружения либо жизнь по собственному сценарию. В зависимости от интонации это и лёгкий упрёк, и уважение к независимости. Не путать с biti u svom elementu — «быть в своей стихии, чувствовать себя уверенно»; значения разные.",
+      "keyword": "biti u svom filmu"
     },
     {
       "headword_latin": "biti u škripcu",
@@ -5044,6 +5148,32 @@
       ],
       "note": "Обычно обозначает небольшой и быстрый перекус, а не полноценный обед. Слово звучит шутливо и выразительно благодаря необычному звукосочетанию; в 2026 году Danas даже рассказывал о его популярности как «необычного» сербского слова. Публикуемые в СМИ подробные этимологии не следует принимать за доказанные без лексикографической проверки.",
       "keyword": "čalabrcnuti"
+    },
+    {
+      "headword_latin": "Časna reč!",
+      "type": "replika",
+      "definition_ru": "честное слово!; клянусь!; правда-правда!",
+      "synonyms_sr": [
+        "stvarno!",
+        "kunem se!",
+        "veruj mi!"
+      ],
+      "literal_ru": "Честное слово.",
+      "register": "razg., uzvik; kao zaklinjanje ili uveravanje",
+      "examples": [
+        {
+          "serbian_latin": "Nisam ništa dirao, časna reč!",
+          "russian": "Я ничего не трогал, честное слово!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Časna reč, nisam znao da će tako ispasti.",
+          "russian": "Честное слово, я не знал, что так получится.",
+          "source": ""
+        }
+      ],
+      "note": "Это разговорное заверение в правдивости сказанного, а не указание на «честную речь» в лингвистическом смысле. Формула может звучать искренне, по-детски или иронически. Слово časna согласуется с существительным reč женского рода.",
+      "keyword": "časna reč!"
     },
     {
       "headword_latin": "Čast svakom, veresije nikom",
@@ -7990,6 +8120,32 @@
       ],
       "note": "Сербское doći sebi очень близко русскому «прийти в себя», включая оба основных значения: очнуться физически и эмоционально оправиться. Особенно часта конструкция ne mogu da dođem sebi od šoka / čuda / tuge. Не путать с doći pameti — «образумиться».",
       "keyword": "doći sebi"
+    },
+    {
+      "headword_latin": "Dođe mi da...",
+      "type": "izraz",
+      "definition_ru": "так и хочется...; меня так и тянет...; порой хочется взять и...",
+      "synonyms_sr": [
+        "poželim da...",
+        "najradije bih...",
+        "imam potrebu da..."
+      ],
+      "literal_ru": "Приходит мне, чтобы...",
+      "register": "razg., emotivno; dođe mi da + prezent",
+      "examples": [
+        {
+          "serbian_latin": "Dođe mi da sve ostavim i odem na nekoliko dana.",
+          "russian": "Так и хочется всё бросить и уехать на несколько дней.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Kad vidim koliko su cene porasle, dođe mi da zaplačem.",
+          "russian": "Когда вижу, как выросли цены, мне плакать хочется.",
+          "source": ""
+        }
+      ],
+      "note": "Важная для русскоязычного модель *dođe mi da + prezent* без инфинитива; местоимение mi — дательный падеж испытывающего чувство. Оборот передаёт внезапное сильное желание, иногда гиперболическое и не предполагающее действия. Возможны формы *došlo mi je da...* (в тот момент мне захотелось).",
+      "keyword": "dođe mi da..."
     },
     {
       "headword_latin": "Dođi mi da ti dođem",
@@ -11994,6 +12150,32 @@
       ],
       "note": "Формула I posle Tita – Tito была запущена после смерти Josipa Broza Tita 4 мая 1980 года и выражала официальную идею продолжения его политического курса, сохранения его символического присутствия и верности „Titovom putu“. RTV прямо отмечает, что лозунг был запущен в 1980 году, а научное исследование культа Тито описывает его как средство поиска легитимности власти в наследии умершего лидера в условиях нарастающего кризиса СФРЮ. С формулой тесно связана Štafeta mladosti: после смерти Тито традицию продолжили, и RTS указывает, что она шла под названием I posle Tita – Tito вплоть до 1987 года. Для русскоязычного важно, что фраза построена на намеренной эллиптической парадоксальности: никакого глагола нет, а смысл примерно «Тито физически нет, но Тито как политический принцип остаётся». Сегодня исходная формула часто употребляется исторически или иронически, а конструкция стала продуктивным шаблоном I posle X – X: так можно подчеркнуть, что человек, система или явление формально ушли, но их влияние фактически продолжается; пример I posle Miloševića – Milošević показывает, что современный сербский читатель узнаёт модель без дополнительных объяснений.",
       "keyword": "i posle Tita Tito"
+    },
+    {
+      "headword_latin": "I tata bi, sine!",
+      "type": "krilatica",
+      "definition_ru": "папа бы тоже не отказался!; и мне бы хотелось! (с лукавым намёком)",
+      "synonyms_sr": [
+        "i ja bih to voleo",
+        "i meni se hoće",
+        "ni ja ne bih odbio (šalj.)"
+      ],
+      "literal_ru": "И папа бы тоже, сынок!",
+      "register": "razg., šalj., dvosmisleno; filmska replika",
+      "examples": [
+        {
+          "serbian_latin": "„I tata bi, sine“, koju izgovara slavni Pavle Vuisić.",
+          "russian": "«И папа бы тоже, сынок», — реплика, которую произносит Павле Вуйисич.",
+          "source": "Dnevnik, 2024"
+        },
+        {
+          "serbian_latin": "Kad je čuo kakav su hotel rezervisali, nasmejao se: „I tata bi, sine!“",
+          "russian": "Услышав, какой отель они забронировали, он рассмеялся: «Папа бы тоже не отказался!»",
+          "source": ""
+        }
+      ],
+      "note": "Реплика из фильма Ko to tamo peva (1980), первоначально с сексуальным подтекстом. Может шутливо выражать желание получить то же удовольствие или благо, что и другой человек. Сочетание i ... bi содержит условное значение «я бы тоже», хотя глагол после bi опущен.",
+      "keyword": "i tata bi, sine!"
     },
     {
       "headword_latin": "I te kako",
@@ -17554,6 +17736,57 @@
       "keyword": "veće vreće"
     },
     {
+      "headword_latin": "Ko je vas poznavao, ni pakao mu neće teško pasti",
+      "type": "krilatica",
+      "definition_ru": "после знакомства с вами даже ад покажется раем; с вами хуже, чем в аду",
+      "synonyms_sr": [
+        "s vama je nepodnošljivo",
+        "gori ste od pakla",
+        "teško onome ko vas zna"
+      ],
+      "literal_ru": "Кто вас знал, тому и ад не покажется тяжёлым.",
+      "register": "razg., ironično, grubo-šalj.; filmska replika",
+      "examples": [
+        {
+          "serbian_latin": "Ko je vas poznavao, ni pakao mu neće teško pasti.",
+          "russian": "Кто вас знает, тому и ад не страшен.",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Kad su se gosti konačno razišli, domaćin se našalio: „Ko je vas poznavao, ni pakao mu neće teško pasti.“",
+          "russian": "Когда гости наконец разошлись, хозяин пошутил: «После вас даже ад не страшен».",
+          "source": ""
+        }
+      ],
+      "note": "Фраза из фильма Maratonci trče počasni krug (1982) — язвительная оценка невыносимых людей. Вас — форма винительного падежа в придаточном предложении, а mu относится к тому, кто их знал. Может звучать грубо, поэтому лучше употреблять среди людей, понимающих цитату.",
+      "keyword": "ko je vas poznavao, ni pakao mu neće teško pasti"
+    },
+    {
+      "headword_latin": "Ko laže, taj i krade",
+      "type": "poslovica",
+      "definition_ru": "кто врёт, тот и ворует; соврал раз — не доверяй и в другом",
+      "synonyms_sr": [
+        "lažov je spreman i na drugo zlo",
+        "ko ne govori istinu, nije za poverenje"
+      ],
+      "literal_ru": "Кто лжёт, тот и крадёт.",
+      "register": "tradicionalna poslovica; često kao moralna opomena",
+      "examples": [
+        {
+          "serbian_latin": "Ko laže, taj i krade!",
+          "russian": "Кто врёт, тот и ворует!",
+          "source": "RTV, 2017"
+        },
+        {
+          "serbian_latin": "Baka nas je plašila izrekom: „Ko laže, taj i krade.“",
+          "russian": "Бабушка пугала нас поговоркой: «Кто врёт, тот и ворует».",
+          "source": ""
+        }
+      ],
+      "note": "Пословица связывает ложь и воровство как ступени нравственного падения; это моральное предупреждение, а не эмпирическое правило. В живой речи бывает и без указательного taj: ko laže, i krade. У русского нет столь же привычной точной пословицы, поэтому часто нужен дословный перевод.",
+      "keyword": "ko laže, taj i krade"
+    },
+    {
       "headword_latin": "Ko ne plati na mostu, platiće na ćupriji",
       "type": "poslovica",
       "definition_ru": "если не заплатишь сейчас, потом заплатишь дороже; от расплаты не уйдёшь",
@@ -17845,6 +18078,32 @@
       ],
       "note": "Реплика намеренно сближает почти синонимичные глаголы razumeti и shvatiti и потому звучит шутливо или загадочно. Часто сопровождает намёк, который автор не хочет расшифровывать. Это узнаваемая формула современного общения, в том числе в интернете.",
       "keyword": "ko razume, shvatiće"
+    },
+    {
+      "headword_latin": "Ko s decom spava, upišan se budi",
+      "type": "poslovica",
+      "definition_ru": "с кем свяжешься, того неприятности и получишь; связался с неопытными — пеняй на себя",
+      "synonyms_sr": [
+        "s kim si, takav si (delimično)",
+        "loše društvo donosi nevolje",
+        "sam si kriv što si se upetljao"
+      ],
+      "literal_ru": "Кто спит с детьми, тот просыпается обмоченным.",
+      "register": "narodna poslovica, razg., grublje; upozorenje na loše društvo",
+      "examples": [
+        {
+          "serbian_latin": "Unajmio je potpuno neodgovorne saradnike, pa se posle čudio haosu. Ko s decom spava, upišan se budi.",
+          "russian": "Он нанял совершенно безответственных сотрудников, а потом удивлялся хаосу. С кем свяжешься, того и наберёшься.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Poverio je posao potpuno neiskusnom timu. Ko s decom spava, upišan se budi.",
+          "russian": "Он доверил работу совершенно неопытной команде. С кем свяжешься — того неприятностей и жди.",
+          "source": ""
+        }
+      ],
+      "note": "Пословица переносит бытовую ситуацию в предупреждение: общение или совместное дело с ненадёжными и незрелыми людьми может обернуться неприятностями. Грубоватое слово *upišan* буквально означает «обмоченный», но в русском переводе обычно естественнее передать общий смысл. Она не утверждает, что дети действительно ответственны за любые чужие неудачи.",
+      "keyword": "ko s decom spava, upišan se budi"
     },
     {
       "headword_latin": "Ko s đavolom tikve sadi, o glavu mu se lupaju",
@@ -19256,6 +19515,32 @@
       ],
       "note": "Не обязательно связано со смертью: речь может идти об уходе из спорта, завершении карьеры или последней попытке сохранить влияние. В оценочных политических текстах выражение нередко предсказывает конец деятельности; это позиция говорящего, а не установленный факт. Родительный падеж — labudove pesme.",
       "keyword": "labudova pesma; završetak; oproštaj; poslednji nastup"
+    },
+    {
+      "headword_latin": "Laki je malo nervozan",
+      "type": "krilatica",
+      "definition_ru": "Лаки немного нервничает; кто-то явно вышел из себя (иронически)",
+      "synonyms_sr": [
+        "malo je iznerviran",
+        "besan je",
+        "nešto je nervozan (iron.)"
+      ],
+      "literal_ru": "Лаки немного нервничает.",
+      "register": "razg., ironično; filmska krilatica",
+      "examples": [
+        {
+          "serbian_latin": "Laki je malo nervozan.",
+          "russian": "Лаки немного нервничает (иронически о человеке, который уже вышел из себя).",
+          "source": "Danas, 2023"
+        },
+        {
+          "serbian_latin": "Kad je šef počeo da lupa vratima, kolega je šapnuo: „Laki je malo nervozan.“",
+          "russian": "Когда начальник принялся хлопать дверями, коллега прошептал: «Лаки немного нервничает».",
+          "source": ""
+        }
+      ],
+      "note": "Крылатая реплика из фильма Maratonci trče počasni krug (1982). Уменьшительное malo создаёт комический контраст с явно сильной злостью. Употребляется не только о человеке по имени Лаки — имя закрепилось в готовой цитате.",
+      "keyword": "laki je malo nervozan"
     },
     {
       "headword_latin": "Laže čim zine",
@@ -20769,6 +21054,32 @@
       ],
       "note": "Bubica здесь не означает конкретное насекомое: важен образ крошечного существа, которое почти не слышно и не заметно. Выражение может быть похвалой ребёнку — «вёл себя идеально», но применительно ко взрослому нередко звучит иронически: «сидел смирно, не высовывался». Форма нормативно и лексикографически подтверждается; название Mirna kao bubica зарегистрировано даже в сербской библиографии как название переведённого романа.",
       "keyword": "bubica"
+    },
+    {
+      "headword_latin": "Mirisati kao duša",
+      "type": "frazeologizam",
+      "definition_ru": "пахнуть восхитительно; благоухать; пахнуть так, что душа радуется",
+      "synonyms_sr": [
+        "divno mirisati",
+        "mirisati prelepo",
+        "širiti prijatan miris"
+      ],
+      "literal_ru": "Пахнуть как душа.",
+      "register": "razg., izrazito pohvalno; o hrani, cveću, parfemu",
+      "examples": [
+        {
+          "serbian_latin": "Onaj što miriše kao duša, kome je korica zlatna i hrskava.",
+          "russian": "Тот самый хлеб, который пахнет восхитительно, с золотистой хрустящей корочкой.",
+          "source": "Žena/Blic, 2026"
+        },
+        {
+          "serbian_latin": "Tek pečena pogača miriše kao duša.",
+          "russian": "Свежая лепёшка пахнет просто чудесно.",
+          "source": ""
+        }
+      ],
+      "note": "Duša в этом сравнении не предмет запаха: слово усиливает положительную оценку. Особенно естественно о свежей выпечке, еде и приятных ароматах. Русская калька «пахнет как душа» звучит неестественно; лучше «пахнет божественно».",
+      "keyword": "mirisati kao duša"
     },
     {
       "headword_latin": "Mirne duše",
@@ -22735,6 +23046,32 @@
       "keyword": "sobarica"
     },
     {
+      "headword_latin": "Najblaže rečeno",
+      "type": "izraz",
+      "definition_ru": "мягко говоря; это ещё очень мягко сказано",
+      "synonyms_sr": [
+        "blago rečeno",
+        "da budem blag",
+        "da se blago izrazim"
+      ],
+      "literal_ru": "Говоря наиболее мягко.",
+      "register": "neutralno-public.; uvod u oštru ocenu",
+      "examples": [
+        {
+          "serbian_latin": "Najblaže rečeno, prevareni smo, kao i mnogo puta ranije.",
+          "russian": "Мягко говоря, нас обманули — и не в первый раз.",
+          "source": "N1, 2025"
+        },
+        {
+          "serbian_latin": "Njegov odgovor je, najblaže rečeno, bio neprimeren.",
+          "russian": "Его ответ был, мягко говоря, неуместным.",
+          "source": ""
+        }
+      ],
+      "note": "Чаще всего это вводное сочетание перед критической оценкой: говорящий показывает, что мог бы выразиться гораздо жёстче. В письменной речи обычно отделяется запятыми. Не путать с najblaži в буквальном значении «самый мягкий» о предмете или погоде.",
+      "keyword": "najblaže rečeno"
+    },
+    {
       "headword_latin": "Naklon do poda",
       "type": "izraz",
       "definition_ru": "низкий поклон; выражение очень сильного уважения, благодарности или восхищения",
@@ -22922,6 +23259,32 @@
       ],
       "note": "Napaćen обозначает того, кто много страдал или перенёс много тяжёлого: napaćen čovek, napaćen narod, napaćena zemlja, napaćena duša. В бытовой речи сочетание может быть и ироническим: Jao, napaćena duša! — примерно «ах ты, страдалец наш».",
       "keyword": "napaćena duša"
+    },
+    {
+      "headword_latin": "Napiti se do daske",
+      "type": "frazeologizam",
+      "definition_ru": "напиться до бесчувствия; напиться в стельку; сильно перепить",
+      "synonyms_sr": [
+        "napiti se kao letva",
+        "napiti se do besvesti",
+        "biti mrtav pijan"
+      ],
+      "literal_ru": "Напиться до доски (до упора).",
+      "register": "razg., ekspresivno; svršeni vid, o alkoholu",
+      "examples": [
+        {
+          "serbian_latin": "Na svadbi se napio do daske i nije mogao da se seti povratka kući.",
+          "russian": "На свадьбе он напился в стельку и не помнил, как возвращался домой.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Rekao je da će popiti samo jedno piće, a opet se napio do daske.",
+          "russian": "Он сказал, что выпьет только один бокал, а снова напился до бесчувствия.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание do daske значит «до предела, полностью» и может употребляться не только с алкоголем: *pojačati muziku do daske*. В этой конкретной коллокации значение — сильное опьянение. Для русскоязычного важно не переносить дословное «до доски»: естественно «в стельку» или «вдрызг».",
+      "keyword": "napiti se do daske"
     },
     {
       "headword_latin": "Napiti se kao svinja",
@@ -23867,6 +24230,32 @@
       ],
       "note": "Lipši — повелительная форма от lipsati «издохнуть, околеть», прежде всего о животных; поэтому внутренняя форма нарочито грубоватая и комическая. Пословица высмеивает обещание блага в столь неопределённом будущем, что получатель рискует его не дождаться. Danas прямо употребляет её как формулу о пустых обещаниях.",
       "keyword": "ne lipši magarče"
+    },
+    {
+      "headword_latin": "Ne mešati babe i žabe",
+      "type": "frazeologizam",
+      "definition_ru": "не смешивать несопоставимые вещи; не путать божий дар с яичницей",
+      "synonyms_sr": [
+        "ne mešati neuporedivo",
+        "ne poistovećivati različite stvari",
+        "ne trpati sve u isti koš"
+      ],
+      "literal_ru": "Не смешивать бабушек и лягушек.",
+      "register": "razg., šalj.; naročito imperativ: Ne mešaj babe i žabe!",
+      "examples": [
+        {
+          "serbian_latin": "Ne mešaj babe i žabe!",
+          "russian": "Не путай совершенно разные вещи!",
+          "source": "Novi magazin, 2021"
+        },
+        {
+          "serbian_latin": "Jedno je plata, a drugo honorar; nemoj da mešaš babe i žabe.",
+          "russian": "Зарплата — это одно, гонорар — другое; не смешивай совершенно разные вещи.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот построен на рифме baba — žaba, а не на реальном сравнении бабушек с лягушками. Сербская фраза обычно звучит как короткий упрёк человеку, который сравнивает несопоставимое. Русский аналог «не путать божий дар с яичницей» хорошо передаёт и смысл, и юмор.",
+      "keyword": "ne mešati babe i žabe"
     },
     {
       "headword_latin": "Ne mirisati nekoga / ne mirisati se",
@@ -27191,6 +27580,32 @@
       ],
       "note": "Формула может стоять и до неприятного сообщения, и после него. Как и по-русски, она не гарантирует, что собеседник действительно не воспримет сказанное лично.",
       "keyword": "lično"
+    },
+    {
+      "headword_latin": "Ništa lično!",
+      "type": "replika",
+      "definition_ru": "ничего личного!; без обид; я не против тебя лично",
+      "synonyms_sr": [
+        "nemoj to shvatiti lično",
+        "bez uvrede",
+        "nije protiv tebe"
+      ],
+      "literal_ru": "Ничего личного.",
+      "register": "razg., često kao ograda pre neprijatnog komentara",
+      "examples": [
+        {
+          "serbian_latin": "Ništa lično, ali mislim da predlog nije dovoljno dobar.",
+          "russian": "Ничего личного, но я считаю предложение недостаточно хорошим.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne ljuti se zbog kritike, ništa lično.",
+          "russian": "Не сердись на замечание — ничего личного.",
+          "source": ""
+        }
+      ],
+      "note": "Это формула разграничения личного отношения и критики поступка или идеи. Часто звучит перед неприятной оценкой и потому может восприниматься как неискренняя попытка смягчить удар. Сходная русская реплика совпадает по функции; в более вежливом сербском лучше *nemoj da shvatiš lično*.",
+      "keyword": "ništa lično!"
     },
     {
       "headword_latin": "Ništa posebno",
@@ -37870,6 +38285,32 @@
       "keyword": "reći u lice"
     },
     {
+      "headword_latin": "Reći nekome u brk",
+      "type": "frazeologizam",
+      "definition_ru": "сказать прямо в лицо; высказать без обиняков",
+      "synonyms_sr": [
+        "reći nekome u lice",
+        "otvoreno saopštiti",
+        "sasuti istinu u oči"
+      ],
+      "literal_ru": "Сказать кому-то в усы.",
+      "register": "razg., tradicionalno; reći kome šta u brk",
+      "examples": [
+        {
+          "serbian_latin": "Rekao mu je u brk da mu više ne veruje.",
+          "russian": "Он прямо в лицо сказал ему, что больше ему не верит.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ako imaš primedbu, reci mi je u brk, a ne iza leđa.",
+          "russian": "Если у тебя есть претензия, выскажи её мне в лицо, а не за спиной.",
+          "source": ""
+        }
+      ],
+      "note": "Оборот *u brk* означает прямое, смелое высказывание человеку, а не разговор о наличии усов. В отличие от нейтрального *reći u lice*, он чуть более образен и традиционен. После reći адресат стоит в дательном падеже: *reći mu u brk*.",
+      "keyword": "reći nekome u brk"
+    },
+    {
       "headword_latin": "reći popu pop, a bobu bob",
       "type": "пословичный фразеологизм",
       "definition_ru": "Назвать вещи своими именами; сказать каждому правду; высказаться прямо и без пристрастия.",
@@ -38785,6 +39226,32 @@
       ],
       "note": "Формула очень продуктивна: sam svoj majstor может обозначать бытовой DIY, самостоятельного предпринимателя, музыканта, издателя и вообще человека, который предпочитает не зависеть от других.",
       "keyword": "sam svoj majstor"
+    },
+    {
+      "headword_latin": "Samo tetki da odnesem lek",
+      "type": "krilatica",
+      "definition_ru": "отговорка; мне только на минутку по делу; сейчас вернусь (иронически)",
+      "synonyms_sr": [
+        "samo da nešto obavim",
+        "imam nešto hitno",
+        "izgovor za odlazak"
+      ],
+      "literal_ru": "Только отнесу тёте лекарство.",
+      "register": "razg., šalj.; filmska replika, često kao providan izgovor",
+      "examples": [
+        {
+          "serbian_latin": "„Samo tetki da odnesem lek“, jedna je od kultnih replika iz filma Balkan ekspres.",
+          "russian": "«Только тёте лекарство отнесу» — одна из культовых реплик фильма «Балкан-экспресс».",
+          "source": "RTS, 2024"
+        },
+        {
+          "serbian_latin": "Kad je došao red da plati, promrmljao je: „Samo tetki da odnesem lek“ i nestao.",
+          "russian": "Когда подошла его очередь платить, он пробормотал: «Мне только тёте лекарство отнести» — и исчез.",
+          "source": ""
+        }
+      ],
+      "note": "Реплика из фильма Balkan ekspres (1983) стала шутливым обозначением сомнительной отговорки, особенно перед уходом или попыткой уклониться от обязанности. Без знакомства с фильмом фраза выглядит невинной просьбой отлучиться. Не является общим сербским способом сообщить о настоящем визите к родственнице.",
+      "keyword": "samo tetki da odnesem lek"
     },
     {
       "headword_latin": "Saseći nešto u korenu",
@@ -45382,6 +45849,32 @@
       ],
       "note": "Выражение построено на рифме radi — estradi. Разговорные источники определяют его как шутливое Šta ima novo?, поэтому реальная эстрада обычно вообще не подразумевается.",
       "keyword": "estrada"
+    },
+    {
+      "headword_latin": "Šta to radiš, kume?",
+      "type": "krilatica",
+      "definition_ru": "ты что творишь, кум?!; что же ты делаешь?! (часто иронически)",
+      "synonyms_sr": [
+        "šta to radiš?!",
+        "jesi li normalan?! (jače)",
+        "šta ti bi?!"
+      ],
+      "literal_ru": "Что ты делаешь, кум?",
+      "register": "razg., ekspresivno; filmska krilatica",
+      "examples": [
+        {
+          "serbian_latin": "Šta to radiš, kume?",
+          "russian": "Что ты творишь, кум?!",
+          "source": "N1, 2023"
+        },
+        {
+          "serbian_latin": "Kad je kolega izbrisao ceo folder, samo sam rekao: „Šta to radiš, kume?“",
+          "russian": "Когда коллега удалил целую папку, я только и сказал: «Ну что ты творишь, кум?!»",
+          "source": ""
+        }
+      ],
+      "note": "Реплика из фильма Maratonci trče počasni krug (1982), первоначально — реакция на увиденную измену. В современной цитате *kume* часто адресовано вовсе не куму, а любому знакомому, совершившему нечто странное или недопустимое. *Kume* — звательный падеж от *kum*.",
+      "keyword": "šta to radiš, kume?"
     },
     {
       "headword_latin": "Što je babi milo, to joj se i snilo",
@@ -58174,6 +58667,32 @@
       ],
       "note": "Главное здесь — влияние, а не количество произнесённых слов. Поэтому выражение не тождественно držati banku — «завладеть общим вниманием и говорить больше всех». Ведущую роль может играть даже человек, который говорит мало, но принимает решения. Оборот также не совпадает с imati poslednju reč: последнее подчёркивает окончательное решение, а voditi glavnu reč — ведущую позицию в происходящем.",
       "keyword": "voditi glavnu reč"
+    },
+    {
+      "headword_latin": "Vozi, Miško!",
+      "type": "krilatica",
+      "definition_ru": "поехали!; давай, трогай!; жми, Мишко!",
+      "synonyms_sr": [
+        "kreći!",
+        "vozi!",
+        "hajde, pokreni se!"
+      ],
+      "literal_ru": "Веди машину, Мишко!",
+      "register": "razg., šalj.; filmska replika",
+      "examples": [
+        {
+          "serbian_latin": "„Vozi, Miško!“",
+          "russian": "«Поехали, Мишко!»",
+          "source": "NIN, 2024"
+        },
+        {
+          "serbian_latin": "Svi su se smestili u auto, a neko dobaci: „Vozi, Miško!“",
+          "russian": "Все уселись в машину, и кто-то крикнул: «Поехали, Мишко!»",
+          "source": ""
+        }
+      ],
+      "note": "Цитата из фильма Ko to tamo peva (1980), где Мишко — водитель автобуса. Сегодня это шутливый призыв тронуться с места или начать дело; имя человека за рулём может быть любым. Русскому «поехали!» достаточно для перевода, но культурный оттенок теряется.",
+      "keyword": "vozi, miško!"
     },
     {
       "headword_latin": "Vrag je odneo šalu",
