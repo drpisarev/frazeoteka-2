@@ -3506,6 +3506,33 @@
       "keyword": "biti u pat-poziciji"
     },
     {
+      "headword_latin": "Biti u sosu",
+      "type": "frazeologizam",
+      "definition_ru": "влипнуть; оказаться в передряге; попасть в неприятное положение",
+      "synonyms_sr": [
+        "biti u nevolji",
+        "biti u problemu",
+        "biti u škripcu",
+        "zaglibiti"
+      ],
+      "literal_ru": "быть в соусе",
+      "register": "razg., šalj.; ređe",
+      "examples": [
+        {
+          "serbian_latin": "Ako sazna da smo izgubili dokumenta, bićemo u sosu.",
+          "russian": "Если он узнает, что мы потеряли документы, нам несдобровать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Sad smo baš u sosu — rok ističe sutra.",
+          "russian": "Ну и влипли мы: срок истекает завтра.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение менее нейтрально и менее частотно, чем biti u problemu или biti u nevolji. Оно придаёт неприятной ситуации шутливый оттенок. Близкий русский образ — «попасть в переплёт».",
+      "keyword": "u sosu"
+    },
+    {
       "headword_latin": "Biti u svom elementu",
       "type": "frazeologizam",
       "definition_ru": "быть в своей стихии; чувствовать себя как рыба в воде; заниматься тем, что хорошо умеешь и любишь",
@@ -6839,6 +6866,34 @@
       "keyword": "dati reč"
     },
     {
+      "headword_latin": "Dati sebi oduška",
+      "type": "frazeologizam",
+      "definition_ru": "дать себе волю; позволить себе расслабиться; отвести душу",
+      "synonyms_sr": [
+        "opustiti se",
+        "dati sebi malo slobode",
+        "isprazniti se emocionalno",
+        "odušiti se"
+      ],
+      "literal_ru": "",
+      "register": "razg.; dati sebi oduška",
+      "examples": [
+        {
+          "serbian_latin": "Treba paziti šta jedeš, ali nekad dati sebi oduška.",
+          "russian": "Нужно следить за питанием, но иногда можно позволить себе расслабиться.",
+          "source": "RTS, 2021",
+          "url": "https://rts.rs/lat/magazin/Zdravlje/4597584/acin-kljuc---treba-paziti-sta-jedes-ali-nekad-dati-sebi-oduska.html"
+        },
+        {
+          "serbian_latin": "Posle naporne nedelje dali smo sebi oduška i otišli na večeru.",
+          "russian": "После тяжёлой недели мы позволили себе расслабиться и сходили в ресторан.",
+          "source": ""
+        }
+      ],
+      "note": "Odušak связан с освобождением от накопившегося давления. Выражение может относиться к эмоциям, еде, развлечениям и другим удовольствиям. Оно не всегда означает полную потерю самоконтроля; нередко речь о небольшом послаблении после напряжённого периода.",
+      "keyword": "odušak"
+    },
+    {
       "headword_latin": "Dati sve od sebe",
       "type": "frazeologizam",
       "definition_ru": "выложиться полностью; сделать всё возможное; приложить максимум усилий",
@@ -8272,6 +8327,33 @@
       ],
       "note": "Второй пример показывает более широкое разговорное значение: не обязательно ярость — иногда просто внезапный странный порыв, «взбрело в голову». Популярные статьи объясняют žuta символикой жёлтого цвета, однако надёжно установленной этимологии у оборота нет; такие объяснения лучше считать гипотезами, а не фактом.",
       "keyword": "žuta minuta"
+    },
+    {
+      "headword_latin": "Doći pameti",
+      "type": "frazeologizam",
+      "definition_ru": "образумиться; взяться за ум; одуматься",
+      "synonyms_sr": [
+        "opametiti se",
+        "urazumiti se",
+        "dozvati se pameti",
+        "uvideti grešku"
+      ],
+      "literal_ru": "прийти к разуму",
+      "register": "razg.; o promeni nerazumnog ponašanja",
+      "examples": [
+        {
+          "serbian_latin": "Nadam se da će konačno doći pameti.",
+          "russian": "Надеюсь, он наконец образумится.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Posle svega što mu se dogodilo, došao je pameti.",
+          "russian": "После всего случившегося он наконец взялся за ум.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь pamet стоит в дательном падеже без предлога: doći pameti. Более развёрнутая и частотная модель — doći sebi / dozvati se pameti, но doći sebi может также означать «прийти в себя» после шока или потери сознания. Doći pameti относится прежде всего к поведению и суждениям.",
+      "keyword": "doći pameti"
     },
     {
       "headword_latin": "Doći praznih ruku",
@@ -9852,6 +9934,34 @@
       ],
       "note": "Dupke — усилительное наречие со значением полной заполненности пространства. Особенно естественно с sala, stadion, autobus, avion, kafić. Русское «битком» почти идеально совпадает и по значению, и по стилю.",
       "keyword": "dupke pun"
+    },
+    {
+      "headword_latin": "Duplo golo",
+      "type": "izraz",
+      "definition_ru": "двойной проигрыш; ни одного плюса; сплошной провал",
+      "synonyms_sr": [
+        "potpuni promašaj",
+        "dvostruki neuspeh",
+        "nikakva korist",
+        "čist gubitak"
+      ],
+      "literal_ru": "дважды голо, двойной ноль",
+      "register": "razg., iron.-neodobr.; bez pozitivnog rezultata",
+      "examples": [
+        {
+          "serbian_latin": "Duplo golo za obične građane.",
+          "russian": "Для обычных граждан — сплошной проигрыш.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/ekonomija/sta-u-stvari-predstavlja-zakon-o-legalizaciji/"
+        },
+        {
+          "serbian_latin": "I novac smo izgubili i posao nije završen — duplo golo.",
+          "russian": "И деньги потеряли, и работу не закончили — двойной провал.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение связано с образом полного отсутствия результата, причём сразу по двум направлениям. Может использоваться как самостоятельная оценка: To je duplo golo. Не путать с duplo više — «вдвое больше»: речь не о количестве, а о безрезультатности.",
+      "keyword": "duplo golo"
     },
     {
       "headword_latin": "Duša mi je u nosu",
@@ -12123,6 +12233,34 @@
       ],
       "note": "Сербский образ отличается от обычного русского: буквально человек старается не раздавить яйца. По смыслу в русском чаще «ходить по минному полю», «как по тонкому льду», «бояться лишнее слово сказать».",
       "keyword": "kao po jajima"
+    },
+    {
+      "headword_latin": "Hodati kao po jajima",
+      "type": "frazeologizam",
+      "definition_ru": "ходить как по минному полю; действовать крайне осторожно; бояться сделать лишний шаг",
+      "synonyms_sr": [
+        "biti krajnje oprezan",
+        "paziti na svaki korak",
+        "postupati obazrivo",
+        "meriti svaku reč"
+      ],
+      "literal_ru": "ходить словно по яйцам",
+      "register": "razg., ekspresivno; o napetim odnosima i neizvesnosti",
+      "examples": [
+        {
+          "serbian_latin": "Svi hodaju kao po jajima, ne znajući šta će da se desi.",
+          "russian": "Все ведут себя крайне осторожно, не зная, что произойдёт дальше.",
+          "source": "BBC na srpskom / Danas, 2025",
+          "url": "https://www.danas.rs/bbc-news-serbian/martina-navratilova-sada-se-ne-bih-preselila-u-trampovu-ameriku/"
+        },
+        {
+          "serbian_latin": "Pred njim svi hodaju kao po jajima jer se lako naljuti.",
+          "russian": "Рядом с ним все ходят как по минному полю: он легко выходит из себя.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение предполагает не просто предусмотрительность, а напряжённую осторожность из-за возможной неприятной реакции или опасных последствий. Близко русскому «ходить на цыпочках», но сербский образ сильнее подчёркивает хрупкость ситуации.",
+      "keyword": "hodati po jajima"
     },
     {
       "headword_latin": "Hrabar kao lav",
@@ -15234,6 +15372,62 @@
       "keyword": "iz dana u dan"
     },
     {
+      "headword_latin": "Iz druge ruke",
+      "type": "izraz",
+      "definition_ru": "из вторых рук; не из первоисточника; с чужих слов; подержанный",
+      "synonyms_sr": [
+        "posredno",
+        "preko posrednika",
+        "iz posrednog izvora",
+        "polovan"
+      ],
+      "literal_ru": "из другой руки",
+      "register": "neutralno; informacije i polovna roba",
+      "examples": [
+        {
+          "serbian_latin": "Građani saznaju „iz druge ruke“, a ne od predstavnika Grada Subotice.",
+          "russian": "Жители узнают об этом из вторых рук, а не от представителей городской администрации Суботицы.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/politika/koalicija-subotica-protiv-nasilja-ko-je-birao-karleusu-da-nastupi-za-dan-grada-i-koliko-ce-kostati/"
+        },
+        {
+          "serbian_latin": "Kupio je bicikl iz druge ruke.",
+          "russian": "Он купил подержанный велосипед.",
+          "source": ""
+        }
+      ],
+      "note": "Русский эквивалент «из вторых рук» хорошо подходит для информации, но для товаров естественнее «подержанный». Противоположное iz prve ruke означает непосредственное получение информации из первоисточника, а в торговле — приобретение напрямую.",
+      "keyword": "druga ruka"
+    },
+    {
+      "headword_latin": "Iz inata",
+      "type": "izraz",
+      "definition_ru": "назло; из упрямства; наперекор кому-то",
+      "synonyms_sr": [
+        "u inat nekome",
+        "namerno uprkos nekome",
+        "iz prkosa",
+        "u znak protivljenja"
+      ],
+      "literal_ru": "",
+      "register": "razg., emocionalno; od neodobr. do pohvale upornosti",
+      "examples": [
+        {
+          "serbian_latin": "Ja sam prvi koji ću iz inata ostati ovde.",
+          "russian": "Я первым останусь здесь назло всем обстоятельствам.",
+          "source": "BBC na srpskom / Danas, 2019",
+          "url": "https://www.danas.rs/bbc-news-serbian/lopovi-izneli-skoro-sve-iz-ronilackog-kluba-u-nisu"
+        },
+        {
+          "serbian_latin": "Rekao mi je da neću uspeti, pa sam iz inata učio još više.",
+          "russian": "Он сказал, что у меня ничего не получится, и я назло стал учиться ещё усерднее.",
+          "source": ""
+        }
+      ],
+      "note": "Сербское inat — культурно значимое обозначение упрямого сопротивления, нежелания уступать давлению. Оно может оцениваться и отрицательно, как бессмысленное упрямство, и положительно, как стойкость. Поэтому iz inata не всегда означает мелочную месть: иногда точнее «наперекор всему».",
+      "keyword": "inat"
+    },
+    {
       "headword_latin": "Iz krajnosti u krajnost",
       "type": "frazeologizam",
       "definition_ru": "Переходить от одной крайности к противоположной, не находя разумной середины. Русский эквивалент: «из крайности в крайность».",
@@ -15317,6 +15511,32 @@
       ],
       "note": "Petne žile — буквально «жилы в пятках»; образ передаёт предельное напряжение, словно человек задействует все силы до последней жилы. С vikati или derati se выражение означает «во всё горло», а с truditi se или upinjati se — «из кожи вон лезть, изо всех сил стараться». Русскому не следует искать здесь число pet («пять»): petnih образовано от peta («пятка»).",
       "keyword": "iz petnih žila"
+    },
+    {
+      "headword_latin": "Iz principa",
+      "type": "izraz",
+      "definition_ru": "из принципа; по принципиальным соображениям; из убеждений",
+      "synonyms_sr": [
+        "iz uverenja",
+        "iz načelnih razloga",
+        "dosledno svojim stavovima"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; od odobravanja do ironije",
+      "examples": [
+        {
+          "serbian_latin": "Neću to da prihvatim, iz principa.",
+          "russian": "Не приму этого — из принципа.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne kupuje u toj radnji iz principa.",
+          "russian": "Он принципиально ничего не покупает в этом магазине.",
+          "source": ""
+        }
+      ],
+      "note": "Значение почти полностью совпадает с русским. Но стоит отличать iz principa от iz inata: первое указывает на убеждение или правило, второе — на упрямое сопротивление, нередко эмоциональное. Иногда говорящий прикрывает личный inat ссылкой на принцип.",
+      "keyword": "princip"
     },
     {
       "headword_latin": "Iz prve ruke",
@@ -23314,6 +23534,33 @@
       "keyword": "na pravdi boga"
     },
     {
+      "headword_latin": "Na prečac",
+      "type": "izraz",
+      "definition_ru": "наскоком; поспешно; без достаточного обдумывания",
+      "synonyms_sr": [
+        "naglo",
+        "ishitreno",
+        "bez razmišljanja",
+        "naprečac"
+      ],
+      "literal_ru": "коротким путём",
+      "register": "razg.-neutralno; često o odlukama",
+      "examples": [
+        {
+          "serbian_latin": "Ne treba donositi odluke na prečac.",
+          "russian": "Не стоит принимать решения сгоряча.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Ne može se takav problem rešiti na prečac.",
+          "russian": "Такую проблему наскоком не решить.",
+          "source": ""
+        }
+      ],
+      "note": "Prečac — короткий путь, сокращённая дорога. В переносном употреблении na prečac обозначает попытку сделать что-то сразу, минуя обычные этапы. В зависимости от контекста это может означать как поспешность, так и решительность.",
+      "keyword": "na prečac"
+    },
+    {
       "headword_latin": "Na prepad",
       "type": "priloški izraz",
       "definition_ru": "Внезапно, без предупреждения, застав противника или собеседника врасплох. В зависимости от контекста: «внезапно», «с наскока», «застав врасплох».",
@@ -23452,6 +23699,34 @@
       "keyword": "na sav glas"
     },
     {
+      "headword_latin": "Na slepo",
+      "type": "izraz",
+      "definition_ru": "вслепую; наугад; без достаточной информации",
+      "synonyms_sr": [
+        "naslepo",
+        "bez provere",
+        "bez dovoljno informacija",
+        "napamet"
+      ],
+      "literal_ru": "",
+      "register": "razg.-neutralno; i doslovno i preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Vozači autobusa GSP-a često moraju da reaguju „na slepo“.",
+          "russian": "Водителям городских автобусов часто приходится действовать практически вслепую.",
+          "source": "RTS, 2021",
+          "url": "https://www.rts.rs/page/stories/sr/story/125/drustvo/4390486/vozaci-autobusa-kamere.html"
+        },
+        {
+          "serbian_latin": "Neću da kupujem stan na slepo.",
+          "russian": "Не собираюсь покупать квартиру вслепую.",
+          "source": ""
+        }
+      ],
+      "note": "Написания na slepo и naslepo встречаются в современном употреблении; слитная форма выступает как наречие. Выражение бывает буквальным, когда человек действительно не видит происходящего, и переносным — «не имея полной информации». Устойчивое сочетание sastanak na slepo означает свидание вслепую.",
+      "keyword": "na slepo"
+    },
+    {
       "headword_latin": "Na svoju ruku",
       "type": "frazeologizam",
       "definition_ru": "самовольно; по собственной инициативе; на своё усмотрение",
@@ -23525,6 +23800,33 @@
       ],
       "note": "Усиленное по сравнению с простым na sreću. Русский обычно не передаёт svu отдельно: естественное соответствие — просто «к счастью».",
       "keyword": "sreća"
+    },
+    {
+      "headword_latin": "Na tuđ račun",
+      "type": "izraz",
+      "definition_ru": "за чужой счёт; за чужие деньги; за счёт другого",
+      "synonyms_sr": [
+        "o tuđem trošku",
+        "na račun drugih",
+        "o nečijem trošku"
+      ],
+      "literal_ru": "",
+      "register": "razg.-neutralno; često neodobr.",
+      "examples": [
+        {
+          "serbian_latin": "Osnovni moralni problem ambivalencije jeste živeti na svoj ili na tuđ račun.",
+          "russian": "Основная нравственная проблема двойственности заключается в том, жить ли за свой или за чужой счёт.",
+          "source": "Danas, 2014",
+          "url": "https://www.danas.rs/zivot/donosenje-odluka/"
+        },
+        {
+          "serbian_latin": "Ne volim da putujem na tuđ račun.",
+          "russian": "Не люблю путешествовать за чужой счёт.",
+          "source": ""
+        }
+      ],
+      "note": "Račun — не только счёт в ресторане или банке, но и расходы, ответственность, репутация. Не путать živeti na tuđ račun — «жить за чужой счёт» с šaliti se na tuđ račun — «шутить над кем-то». Одинаковый предлог скрывает разные значения.",
+      "keyword": "tuđ račun"
     },
     {
       "headword_latin": "Na udaru",
@@ -24831,6 +25133,32 @@
       ],
       "note": "Рифма lava — spava делает формулу легко запоминающейся. Функционально близко русскому «не буди лихо, пока оно тихо».",
       "keyword": "lav; spava"
+    },
+    {
+      "headword_latin": "Ne gine nekome nešto",
+      "type": "frazeologizam",
+      "definition_ru": "чего-то не миновать; кому-то что-то светит; неизбежно предстоит",
+      "synonyms_sr": [
+        "ne može se izbeći",
+        "neminovno sledi",
+        "sigurno predstoji"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; ne gine + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Ako nastaviš tako da voziš, ne gine ti kazna.",
+          "russian": "Если продолжишь так ездить, штрафа тебе не миновать.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Posle ovakvog uspeha ne gine joj unapređenje.",
+          "russian": "После такого успеха повышение ей практически обеспечено.",
+          "source": ""
+        }
+      ],
+      "note": "Особенно важно управление: ne gine mi, ne gine ti, ne gine mu. Несмотря на происхождение от ginuti — «гибнуть», в этой конструкции речь необязательно о смерти или опасности. Русское «тебе не миновать» обычно лучше буквального перевода.",
+      "keyword": "ne gine"
     },
     {
       "headword_latin": "Ne ide mi u glavu",
@@ -27032,6 +27360,33 @@
       ],
       "note": "Ягнёнок в сербской традиции символизирует нравственную чистоту и безобидность; nevin kao jagnje надёжно фиксируется и в современном сербском корпусном материале. Ироническое употребление особенно характерно с praviti se.",
       "keyword": "nevin; jagnje"
+    },
+    {
+      "headword_latin": "Ni da trepne",
+      "type": "izraz",
+      "definition_ru": "и глазом не моргнув; даже не смутившись; без малейшего колебания",
+      "synonyms_sr": [
+        "bez oklevanja",
+        "hladnokrvno",
+        "bez ustručavanja",
+        "bez reakcije"
+      ],
+      "literal_ru": "даже не моргнув",
+      "register": "razg., ekspresivno; često uz lagati, reći, odgovoriti",
+      "examples": [
+        {
+          "serbian_latin": "Slagao me je, a nije ni trepnuo.",
+          "russian": "Соврал мне и глазом не моргнул.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Rekla je „ne“ bez oklevanja, ni da trepne.",
+          "russian": "Она отказала мгновенно, даже не моргнув.",
+          "source": ""
+        }
+      ],
+      "note": "Возможны модели ne trepnuvši, nije ni trepnuo и разговорное ni da trepne. Выражение часто передаёт хладнокровие или отсутствие смущения. В сочетании с ложью обычно неодобрительно, а при описании смелости может звучать как похвала.",
+      "keyword": "trepnuti"
     },
     {
       "headword_latin": "Ni kriv ni dužan",
@@ -29267,6 +29622,33 @@
       "keyword": "od Kulina bana"
     },
     {
+      "headword_latin": "Od malih nogu",
+      "type": "izraz",
+      "definition_ru": "с малых лет; с детства; с самого раннего возраста",
+      "synonyms_sr": [
+        "od detinjstva",
+        "od najranijeg uzrasta",
+        "još kao dete"
+      ],
+      "literal_ru": "с маленьких ног",
+      "register": "neutralno, opšteupotrebljivo; vremenska odredba",
+      "examples": [
+        {
+          "serbian_latin": "Veoma sam ponosan na dugovečnost, to sam hteo od malih nogu.",
+          "russian": "Я очень горжусь тем, как долго продолжается моя карьера: об этом я мечтал с детства.",
+          "source": "RTS, 2026",
+          "url": "https://rts.rs/lat/sport/tenis/6029197/djokovic-veoma-sam-ponosan-na-dugovecenost-to-sam-hteo-od-malih-nogu.html"
+        },
+        {
+          "serbian_latin": "Od malih nogu je volela da crta.",
+          "russian": "Она любила рисовать с самого детства.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение не обязательно означает совсем раннее младенчество: речь обычно о периоде детства. Очень естественно с глаголами voleti, želeti, učiti, trenirati, baviti se. Русское «с младых ногтей» стилистически старомодно; нейтральнее «с малых лет».",
+      "keyword": "male noge"
+    },
+    {
       "headword_latin": "Od nemila do nedraga",
       "type": "frazeologizam",
       "definition_ru": "скитаться по свету; мыкаться; переходить с места на место без пристанища",
@@ -29294,6 +29676,34 @@
       ],
       "note": "Выражение не означает просто туристическое «ездить с места на место»: обычно в нём есть оттенок бесприютности, вынужденности, поиска помощи или своего места. Часто сочетается с lutati, ići, vucarati se. По-русски особенно хорошо подходят «мыкаться» и «скитаться по свету».",
       "keyword": "od nemila do nedraga"
+    },
+    {
+      "headword_latin": "Od oka",
+      "type": "izraz",
+      "definition_ru": "на глазок; приблизительно; без точных измерений",
+      "synonyms_sr": [
+        "otprilike",
+        "okvirno",
+        "po proceni",
+        "bez preciznog merenja"
+      ],
+      "literal_ru": "на глаз",
+      "register": "razg.; proceniti, odmeriti, dodati, izračunati",
+      "examples": [
+        {
+          "serbian_latin": "Kuće se prodaju „od oka”, zajedno sa placem.",
+          "russian": "Дома продают вместе с участком, оценивая стоимость приблизительно, на глаз.",
+          "source": "Politika, 2008",
+          "url": "https://www.politika.rs/sr/clanak/39105/srbi-vise-prodaju-rusi-manje-kupuju"
+        },
+        {
+          "serbian_latin": "Ne merim brašno, sve stavljam od oka.",
+          "russian": "Я не взвешиваю муку, всё добавляю на глазок.",
+          "source": ""
+        }
+      ],
+      "note": "Очень полезная бытовая конструкция, особенно при готовке, ремонте и оценке расстояний. Od oka предполагает приблизительную оценку по внешнему впечатлению, а не обязательно произвольное решение. В отличие от napamet, здесь обычно есть зрительная основа оценки.",
+      "keyword": "od oka"
     },
     {
       "headword_latin": "Od pamtiveka",
@@ -33151,6 +33561,33 @@
       "keyword": "pljunuti pa polizati"
     },
     {
+      "headword_latin": "Pljunuti u šake",
+      "type": "frazeologizam",
+      "definition_ru": "засучить рукава; взяться за дело всерьёз; приналечь на работу",
+      "synonyms_sr": [
+        "prionuti na posao",
+        "zasukati rukave",
+        "ozbiljno se prihvatiti posla"
+      ],
+      "literal_ru": "плюнуть в ладони",
+      "register": "razg., ekspresivno; početak ozbiljnog rada",
+      "examples": [
+        {
+          "serbian_latin": "Jednog lepog dana pljunuti u šake, dovatiti lopate u ruke i početi da kopa.",
+          "russian": "В один прекрасный день засучить рукава, взять лопаты и начать копать.",
+          "source": "Danas, 2011",
+          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/drazograf/"
+        },
+        {
+          "serbian_latin": "Vreme je da pljunemo u šake i završimo posao.",
+          "russian": "Пора засучить рукава и довести дело до конца.",
+          "source": ""
+        }
+      ],
+      "note": "Фразеологизм основан на реальном жесте рабочих, смачивавших ладони перед тяжёлой физической работой. Он сохранился и в переносном значении для любых серьёзных усилий. Сербское фразеологическое исследование Эдиты Андрич подтверждает именно значение готовности взяться за трудное дело.",
+      "keyword": "pljunuti u šake"
+    },
+    {
       "headword_latin": "Po cenu života",
       "type": "frazeologizam",
       "definition_ru": "Даже рискуя собственной жизнью; ценой жизни. Русский эквивалент: «ценой жизни». В гиперболическом употреблении — сделать что-либо несмотря на крайнюю опасность или огромные жертвы.",
@@ -33256,6 +33693,34 @@
       ],
       "note": "Выражение шире буквального «как начнёшь утро, так пройдёт день». Оно говорит, что первые признаки позволяют предположить дальнейший ход событий. Русское «лиха беда начало» сюда не подходит: там акцент на трудности первого шага, а здесь — на показательности начала.",
       "keyword": "po jutru se dan poznaje"
+    },
+    {
+      "headword_latin": "Po kratkom postupku",
+      "type": "izraz",
+      "definition_ru": "без долгих разговоров; быстро и решительно; не церемонясь",
+      "synonyms_sr": [
+        "bez mnogo rasprave",
+        "odmah",
+        "bez odugovlačenja",
+        "po hitnom postupku"
+      ],
+      "literal_ru": "по сокращённой процедуре",
+      "register": "razg.-publicistički; takođe pravni kontekst",
+      "examples": [
+        {
+          "serbian_latin": "Svoj trojici aktivista presuđeno je po kratkom postupku, bez regularne procedure.",
+          "russian": "Всем троим активистам вынесли решения в ускоренном порядке, без обычной процедуры.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/vesti/politika/ko-su-aktivisti-koji-su-uhapseni-nakon-blokade-prokopa/"
+        },
+        {
+          "serbian_latin": "Šef ga je po kratkom postupku izbacio iz kancelarije.",
+          "russian": "Начальник без долгих разговоров выставил его из кабинета.",
+          "source": ""
+        }
+      ],
+      "note": "Важно различать буквальное юридическое употребление и переносное. В повседневном разговоре выражение подчёркивает отсутствие обсуждений и промедления, иногда — чрезмерную жёсткость решения. Нельзя автоматически понимать его как законную ускоренную процедуру.",
+      "keyword": "kratak postupak"
     },
     {
       "headword_latin": "Po meni",
@@ -41603,6 +42068,34 @@
       "keyword": "skuvati se"
     },
     {
+      "headword_latin": "Slaba vajda",
+      "type": "izraz",
+      "definition_ru": "мало толку; проку немного; вряд ли что-то выйдет",
+      "synonyms_sr": [
+        "mala korist",
+        "nema mnogo koristi",
+        "slaba uteha",
+        "teško da će pomoći"
+      ],
+      "literal_ru": "",
+      "register": "razg., često iron.; slaba vajda od nečega",
+      "examples": [
+        {
+          "serbian_latin": "Slaba vajda od toga, jer kod nas te pare ne može da zaradi živ čovek.",
+          "russian": "Мало от этого толку: у нас такие деньги живому человеку не заработать.",
+          "source": "Radio Beograd 1 / RTS, 2024",
+          "url": "https://rts.rs/lat/radio/radio-beograd-1/5530907/humoristicka-emisija.html"
+        },
+        {
+          "serbian_latin": "Ako samo obećavaju, slaba vajda od njihove pomoći.",
+          "russian": "Если они только обещают, от их помощи толку будет немного.",
+          "source": ""
+        }
+      ],
+      "note": "Vajda — турцизм со значением пользы, выгоды, толка. Особенно характерна конструкция nema vajde od nečega. Slaba vajda — более мягкая оценка: польза может быть, но настолько незначительная, что рассчитывать на неё не стоит.",
+      "keyword": "vajda"
+    },
+    {
       "headword_latin": "Slagati se kao rogovi u vreći",
       "type": "frazeologizam",
       "definition_ru": "жить как кошка с собакой; постоянно спорить и плохо уживаться друг с другом",
@@ -43753,6 +44246,34 @@
       ],
       "note": "Kov здесь связан с образом ковки: человек словно «выкован» по прежнему образцу. Обычно выражение содержит уважительный оттенок.",
       "keyword": "kov; starog kova"
+    },
+    {
+      "headword_latin": "Stati na crtu nekome",
+      "type": "frazeologizam",
+      "definition_ru": "бросить вызов; выйти против кого-то; решиться на открытое соперничество",
+      "synonyms_sr": [
+        "suprotstaviti se",
+        "prihvatiti izazov",
+        "odmeriti snage",
+        "izaći na megdan"
+      ],
+      "literal_ru": "",
+      "register": "razg.-publicistički, ekspresivno; stati na crtu + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Nema pevajuće aplikacije koja će stati na crtu dobro uigranom timu gramofon–pojačalo–zvučnici.",
+          "russian": "Ни одно музыкальное приложение не сможет потягаться с хорошо подобранной системой из проигрывателя, усилителя и колонок.",
+          "source": "RTS, 2019",
+          "url": "https://www.rts.rs/lat/vesti/smatracnica/3605294/zasto-sam-se-razocarao-u-jutjub-mjuzik.html"
+        },
+        {
+          "serbian_latin": "Ako misliš da si bolji, stani mi na crtu.",
+          "russian": "Если считаешь себя сильнее, выходи против меня.",
+          "source": ""
+        }
+      ],
+      "note": "Образ связан с линией старта или противостояния соперников. Выражение предполагает открытое соревнование, а не просто несогласие. Stati nekome na crtu — «бросить вызов», тогда как stati nekome na put — «встать у кого-то на пути, помешать».",
+      "keyword": "stati na crtu"
     },
     {
       "headword_latin": "Stati na kraj nečemu",
@@ -61120,6 +61641,33 @@
       ],
       "note": "Zapet — «взведённый». Оборот может описывать готовность немедленно действовать, нетерпеливое ожидание или сильное внутреннее напряжение.",
       "keyword": "zapet kao puška"
+    },
+    {
+      "headword_latin": "Zapeti kao sivonja",
+      "type": "frazeologizam",
+      "definition_ru": "упереться как бык; работать как вол; налечь изо всех сил",
+      "synonyms_sr": [
+        "raditi kao konj",
+        "zapeti iz sve snage",
+        "tvrdoglavo navaliti",
+        "ne odustajati"
+      ],
+      "literal_ru": "упереться как серый вол",
+      "register": "razg., ekspresivno; upornost ili težak rad",
+      "examples": [
+        {
+          "serbian_latin": "Zapeo je kao sivonja i neće ni da sasluša druge.",
+          "russian": "Упёрся как бык и даже слушать никого не хочет.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zapenemo kao sivonje kad treba završiti posao.",
+          "russian": "Когда надо закончить работу, мы пашем как волы.",
+          "source": ""
+        }
+      ],
+      "note": "Sivonja — буквально серый вол или осёл; переносно — грубый, упрямый человек. Поэтому выражение допускает два оттенка: упорно работать и упрямо настаивать на своём. Важно не смешивать их в переводе. Сербское фразеологическое исследование фиксирует конструкцию со значением готовности к тяжёлой работе.",
+      "keyword": "sivonja"
     },
     {
       "headword_latin": "Zapetljati se kao pile u kučine",
