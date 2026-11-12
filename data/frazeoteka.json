@@ -3693,6 +3693,32 @@
       "keyword": "bled kao krpa"
     },
     {
+      "headword_latin": "Blejati",
+      "type": "glagol",
+      "definition_ru": "бездельничать; бесцельно торчать где-то; пялиться, смотреть отсутствующим взглядом",
+      "synonyms_sr": [
+        "džabalebariti (razg.)",
+        "zujati bez cilja (razg.)",
+        "besposličiti"
+      ],
+      "literal_ru": "Блеять (о животном).",
+      "register": "razg., sleng; nesvršeni vid; blejati u nešto / negde",
+      "examples": [
+        {
+          "serbian_latin": "Sedimo ispred zgrade i blejimo, nemamo nikakav plan.",
+          "russian": "Сидим перед домом, просто тусуемся без всяких планов.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Nemoj samo da blejiš u telefon, pomozi mi malo.",
+          "russian": "Хватит просто пялиться в телефон, помоги мне немного.",
+          "source": ""
+        }
+      ],
+      "note": "Буквальное значение глагола связано с блеянием животного. В молодёжной разговорной речи blejati может означать «бездельничать или просто проводить время с компанией», а blejati u nešto — «тупо смотреть во что-либо». Не всякая bleja означает скуку: это может быть приятное времяпрепровождение без цели.",
+      "keyword": "blejati"
+    },
+    {
       "headword_latin": "Blenuti kao tele u šarena vrata",
       "type": "frazeologizam",
       "definition_ru": "смотреть как баран на новые ворота; тупо таращиться; смотреть в полном недоумении",
@@ -3831,6 +3857,32 @@
       ],
       "note": "Для русского эта формула особенно интересна культурно. Упоминание России не означает здесь просто симпатию к ней: главный смысл — потенциальный защитник или помощник находится далеко и практически недоступен, поэтому приходится действовать самому. Выражение давно используется в сербской политической публицистике; точное время и обстоятельства его возникновения надёжно не установлены.",
       "keyword": "Bog visoko Rusija daleko"
+    },
+    {
+      "headword_latin": "Boga ti!",
+      "type": "uzvik",
+      "definition_ru": "да брось ты!; да ради бога!; ну скажи на милость!",
+      "synonyms_sr": [
+        "ma daj!",
+        "ma molim te!",
+        "za ime boga! (jače)"
+      ],
+      "literal_ru": "Бога тебе!",
+      "register": "razg., ekspresivno; piše se odvojeno: boga ti, boga mu, boga vam",
+      "examples": [
+        {
+          "serbian_latin": "Ma nemoj da se ljutiš zbog sitnice, boga ti!",
+          "russian": "Да не сердись ты из-за пустяка, ради бога!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Boga ti, zar stvarno misliš da će to uspeti?",
+          "russian": "Да скажи на милость, ты правда думаешь, что это получится?",
+          "source": ""
+        }
+      ],
+      "note": "В сербском boga ti пишется раздельно, в отличие от частицы bogami («ей-богу», «право же»): это разъяснялось и в языковой рубрике Danas (2024). Сочетание употребляется как междометная частица просьбы, досады или изумления, а не как буквальное упоминание божества. Выбор русского эквивалента зависит от интонации.",
+      "keyword": "boga ti"
     },
     {
       "headword_latin": "Bogami",
@@ -6053,6 +6105,32 @@
       "keyword": "komšiji crkne krava"
     },
     {
+      "headword_latin": "Da nemaš možda...?",
+      "type": "replika",
+      "definition_ru": "у тебя случайно нет…?; не найдётся ли у тебя…?; можешь одолжить…?",
+      "synonyms_sr": [
+        "imaš li možda...?",
+        "imaš li slučajno...?",
+        "možeš li da mi pozajmiš...? (konkretnije)"
+      ],
+      "literal_ru": "Чтобы у тебя, может быть, не было…?",
+      "register": "razg., učtiva molba; da + prezent, obično sa možda",
+      "examples": [
+        {
+          "serbian_latin": "Da nemaš možda punjač za telefon?",
+          "russian": "У тебя случайно нет зарядки для телефона?",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Da nemaš možda malo sitnog novca da mi razmeniš?",
+          "russian": "Не найдётся ли у тебя мелочи, чтобы разменять мне деньги?",
+          "source": ""
+        }
+      ],
+      "note": "Отрицательная форма nemaš в вопросе здесь не означает, что говорящий ожидает отрицательного ответа: она делает просьбу мягкой и ненавязчивой. Типична разговорная конструкция da + prezent, которую русский передаёт через «случайно нет…?» или «не найдётся ли…?». Частица možda усиливает вежливость и необязательность просьбы.",
+      "keyword": "da nemaš možda"
+    },
+    {
       "headword_latin": "Da se Vlasi ne dosete",
       "type": "izraz",
       "definition_ru": "чтобы никто не догадался; для отвода глаз; замаскировать истинный смысл или намерение",
@@ -6821,6 +6899,32 @@
       ],
       "note": "Слово kuća здесь не обозначает здание: kućo stara — тёплое, шутливое обращение к старому знакомому. Разговорное de вместо gde особенно естественно в непринуждённой сербской речи. Так обращаются к человеку, с которым есть близость; незнакомцу или начальнику формула не подходит.",
       "keyword": "kućo stara; de si"
+    },
+    {
+      "headword_latin": "Debela hladovina",
+      "type": "frazeologizam",
+      "definition_ru": "тёплое местечко; синекура; хорошо оплачиваемая работа без особого напряжения",
+      "synonyms_sr": [
+        "lagodan posao",
+        "dobro plaćena sinekura",
+        "posao bez mnogo obaveza"
+      ],
+      "literal_ru": "Густая тень.",
+      "register": "razg., ironično, neodobr.; često: biti u debeloj hladovini",
+      "examples": [
+        {
+          "serbian_latin": "U državnoj firmi je našao debelu hladovinu: dobra plata, a malo posla.",
+          "russian": "В государственной фирме он нашёл тёплое местечко: хорошая зарплата, а работы мало.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Dok jedni rade po ceo dan, drugi sede u debeloj hladovini.",
+          "russian": "Пока одни работают целыми днями, другие устроились на тёплых местах.",
+          "source": ""
+        }
+      ],
+      "note": "В прямом значении debela hladovina — густая прохладная тень, но о должности так называют комфортное место без тяжёлой работы. Переносное значение зафиксировано и в фразеологических исследованиях; в сербской публицистике оборот обычно ироничен. В русском «толстая тень» смысла не передаёт: требуется «тёплое местечко» или «синекура».",
+      "keyword": "debela hladovina"
     },
     {
       "headword_latin": "Debeo kao svinja",
@@ -10210,6 +10314,32 @@
       ],
       "note": "Выражение невозможно переводить одной формулой во всех ситуациях. Оно может передавать жалость («эх ты, бедолага»), укор («ну что же ты»), снисходительность или реакцию на явную глупость.",
       "keyword": "e moj ti"
+    },
+    {
+      "headword_latin": "E, to ti kažem!",
+      "type": "replika",
+      "definition_ru": "вот и я о том же!; именно это я и говорю!; вот-вот, правильно!",
+      "synonyms_sr": [
+        "upravo tako!",
+        "baš to govorim!",
+        "to sam i mislio!"
+      ],
+      "literal_ru": "Вот это я тебе говорю!",
+      "register": "razg., potvrdna replika; često: e, to ti kažem",
+      "examples": [
+        {
+          "serbian_latin": "Trebalo je odmah da tražimo račun. — E, to ti kažem!",
+          "russian": "Надо было сразу потребовать чек. — Вот и я о том же!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Bez dogovora nema ništa. — E, to ti kažem, moramo prvo da razgovaramo.",
+          "russian": "Без договорённости ничего не получится. — Именно это я и говорю: сначала надо обсудить.",
+          "source": ""
+        }
+      ],
+      "note": "Готовая реплика служит выражением согласия с чужими словами, часто с оттенком «наконец-то ты сказал то, что я имел в виду». Частица e усиливает узнавание или подтверждение мысли. Не следует переводить to ti kažem как буквальное «это тебе говорю», если речь именно о согласии с собеседником.",
+      "keyword": "e, to ti kažem"
     },
     {
       "headword_latin": "Evo trčim!",
@@ -14625,6 +14755,32 @@
       "keyword": "isterati na čistac"
     },
     {
+      "headword_latin": "Isterati pravdu",
+      "type": "kolokacija",
+      "definition_ru": "добиться справедливости; отстоять свои права; добиться восстановления правды",
+      "synonyms_sr": [
+        "izboriti se za pravdu",
+        "ostvariti svoja prava",
+        "isterati stvar na čistac (delimično)"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-public.; svršeni vid, nesvršeni: isterivati pravdu",
+      "examples": [
+        {
+          "serbian_latin": "Kad se pacijent naljuti i odluči da se nekome službeno obrati za pomoć i istera pravdu...",
+          "russian": "Когда пациент возмущается и решает официально обратиться за помощью, чтобы добиться справедливости...",
+          "source": "Politika, 2017"
+        },
+        {
+          "serbian_latin": "Godinama je išla po sudovima dok nije isterala pravdu.",
+          "russian": "Она годами ходила по судам, пока наконец не добилась справедливости.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь isterati не означает буквально «выгнать»: в сочетании с pravda глагол обозначает настойчивое достижение справедливого решения. В контексте юридических споров оборот часто подразумевает долгую борьбу. В отличие от isterati nekoga na čistac («вывести на чистую воду»), объектом служит именно pravda.",
+      "keyword": "isterati pravdu"
+    },
+    {
       "headword_latin": "Isterati svoje",
       "type": "frazeologizam",
       "definition_ru": "добиться своего; настоять на своём; всё-таки продавить своё",
@@ -17573,6 +17729,32 @@
       ],
       "note": "Русский эквивалент практически полный. Однако смысл шире «ответить тем же»: тем же или сходным воздействием пытаются устранить первоначальную проблему — например, похмелье алкоголем. Сербская формула совершенно обычна и вне буквального образа клина.",
       "keyword": "klin se klinom izbija"
+    },
+    {
+      "headword_latin": "Klot",
+      "type": "pridev",
+      "definition_ru": "простой, без добавок; голый, без всего; без украшений и дополнений",
+      "synonyms_sr": [
+        "običan",
+        "bez dodataka",
+        "sasvim prost"
+      ],
+      "literal_ru": "",
+      "register": "razg.; najčešće uz imenicu: klot pasulj, klot plata, klot kafa",
+      "examples": [
+        {
+          "serbian_latin": "Danas imamo klot pasulj, bez mesa.",
+          "russian": "Сегодня у нас фасоль без мяса, совсем простая.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "To je klot plata, bez bonusa i dodataka.",
+          "russian": "Это чистый оклад, без премий и надбавок.",
+          "source": ""
+        }
+      ],
+      "note": "Klot не следует переводить как «плохой»: слово указывает на отсутствие добавок и украшений. Сочетается с едой (*klot pasulj*), денежными выплатами (*klot plata*) и другими предметами. В русском чаще нужны разные переводы по контексту: «без всего», «простой», «голый оклад».",
+      "keyword": "klot"
     },
     {
       "headword_latin": "Knedla mi stoji u grlu",
@@ -25206,6 +25388,31 @@
       "keyword": "štucanje; spominje"
     },
     {
+      "headword_latin": "Neko te spominje!",
+      "type": "replika",
+      "definition_ru": "кто-то тебя вспоминает!; кто-то о тебе говорит!",
+      "synonyms_sr": [
+        "neko te pominje",
+        "neko priča o tebi"
+      ],
+      "literal_ru": "Кто-то тебя упоминает.",
+      "register": "razg.; često u vezi sa štucanjem ili zvonjenjem u ušima; narodno verovanje",
+      "examples": [
+        {
+          "serbian_latin": "Štucaš već pet minuta? Neko te spominje!",
+          "russian": "Уже пять минут икаешь? Кто-то тебя вспоминает!",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Zazvonilo mu je u ušima, a baka je rekla: „Neko te spominje.“",
+          "russian": "У него зазвенело в ушах, а бабушка сказала: «Кто-то тебя вспоминает».",
+          "source": ""
+        }
+      ],
+      "note": "Реплика может быть буквальной, но в бытовых суевериях её часто говорят человеку, который икает или замечает странные ощущения в ушах. Это фольклорное объяснение, а не медицинский факт. Глаголы spominjati и pominjati в такой конструкции близки по значению.",
+      "keyword": "neko te spominje"
+    },
+    {
       "headword_latin": "Nekome gori pod nogama",
       "type": "frazeologizam",
       "definition_ru": "кому-то припекло; кого-то прижало; положение стало срочным или критическим",
@@ -28017,29 +28224,29 @@
     },
     {
       "headword_latin": "Obrni-okreni",
-      "type": "izraz",
-      "definition_ru": "как ни крути; так или иначе; в конечном счёте",
+      "type": "prilog",
+      "definition_ru": "как ни крути; в конечном счёте; куда ни поверни — результат тот же",
       "synonyms_sr": [
         "kako god okreneš",
-        "u svakom slučaju",
-        "na kraju krajeva"
+        "na kraju krajeva",
+        "u svakom slučaju (delimično)"
       ],
-      "literal_ru": "поверни так, поверни эдак",
-      "register": "razg.; često kao uvod u zaključak koji se ne može izbeći",
+      "literal_ru": "Поверни — разверни.",
+      "register": "razg., ustaljena rima; piše se sa crticom",
       "examples": [
         {
-          "serbian_latin": "Na našoj javnoj sceni je obrni-okreni: ja tebi, ti meni.",
-          "russian": "На нашей публичной сцене, как ни крути: ты мне — я тебе.",
-          "source": "RTS, 2025"
+          "serbian_latin": "Obrni-okreni, to je nedelju dana hrane.",
+          "russian": "Как ни крути, это еды на целую неделю.",
+          "source": "N1, 2025"
         },
         {
-          "serbian_latin": "Obrni-okreni, neko će morati da plati račun.",
-          "russian": "Как ни крути, кому-то придётся оплатить счёт.",
+          "serbian_latin": "Obrni-okreni, bez tog dokumenta ne možemo da završimo posao.",
+          "russian": "Как ни крути, без этого документа мы работу не закончим.",
           "source": ""
         }
       ],
-      "note": "Два императива срастаются в вводно-наречную формулу. В отличие от буквально возможного okrenuti nešto, здесь речь не о физическом повороте, а о неизбежности одного и того же вывода.",
-      "keyword": "okrenuti"
+      "note": "Обычно стоит в начале реплики и подводит итог рассуждению: при любом рассмотрении остаётся тот же вывод. Это не призыв физически что-то переворачивать. Разговорная формула отмечена среди характерных сербских выражений и в публикации Politika о фразеологии (2013).",
+      "keyword": "obrni-okreni"
     },
     {
       "headword_latin": "Obrve kao morske pijavice",
@@ -34240,28 +34447,28 @@
     },
     {
       "headword_latin": "Poštovanje!",
-      "type": "replika",
-      "definition_ru": "моё почтение!; здравствуйте!; приветствую!",
+      "type": "uzvik",
+      "definition_ru": "здравствуйте!; моё почтение!; приветствую вас!",
       "synonyms_sr": [
-        "dobar dan",
-        "pozdrav",
-        "srdačan pozdrav"
+        "dobar dan!",
+        "pozdrav!",
+        "svako dobro! (pri rastanku, delimično)"
       ],
-      "literal_ru": "уважение",
-      "register": "uljudno, neutralno; pozdrav, naročito nepoznatoj ili starijoj osobi",
+      "literal_ru": "Уважение!",
+      "register": "učtivo, neutralno-formalno; pozdrav posebno pri susretu ili na početku poruke",
       "examples": [
         {
-          "serbian_latin": "Poštovanje! Izvolite, kako mogu da vam pomognem?",
-          "russian": "Здравствуйте! Слушаю вас, чем могу помочь?",
+          "serbian_latin": "Poštovanje, doktore, došao sam po rezultate analiza.",
+          "russian": "Здравствуйте, доктор, я пришёл за результатами анализов.",
           "source": ""
         },
         {
-          "serbian_latin": "Poštovanje, komšija!",
-          "russian": "Моё почтение, сосед!",
+          "serbian_latin": "Poštovanje! Zanima me da li imate slobodan termin u petak.",
+          "russian": "Здравствуйте! Хотел бы узнать, есть ли у вас свободное время для записи в пятницу.",
           "source": ""
         }
       ],
-      "note": "В современной Сербии Poštovanje! совсем не обязательно звучит старомодно: это обычное уважительное приветствие, в том числе по телефону. Буквальное существительное poštovanje означает «уважение».",
+      "note": "В Сербии Poštovanje! — самостоятельное вежливое приветствие, особенно при официальном контакте или первом обращении. Не нужно переводить его буквальным «уважение». Это не то же, что формула прощания s poštovanjem в конце письма.",
       "keyword": "poštovanje"
     },
     {
@@ -34649,32 +34856,29 @@
     },
     {
       "headword_latin": "Praviti društvo",
-      "type": "ustaljena kolokacija",
-      "definition_ru": "составлять кому-либо компанию, быть рядом, чтобы человек не оставался один",
+      "type": "kolokacija",
+      "definition_ru": "составить компанию; побыть рядом, чтобы человек не скучал или не оставался один",
       "synonyms_sr": [
-        "biti nekome društvo",
-        "družiti se s nekim",
-        "praviti nekome kompaniju",
-        "biti uz nekoga"
+        "praviti nekome društvo",
+        "biti nekome u društvu",
+        "ostati uz nekoga"
       ],
-      "literal_ru": "делать компанию",
-      "register": "neutralno, veoma često; praviti kome društvo",
+      "literal_ru": "Делать общество.",
+      "register": "neutralno-razg.; praviti društvo nekome (dativ)",
       "examples": [
         {
-          "serbian_latin": "Pošao sam s njim, da mu pravim društvo.",
-          "russian": "Я пошёл с ним, чтобы составить ему компанию.",
-          "source": "Dnevnik, 2020",
-          "url": "https://www.dnevnik.rs/lat/vojvodina/plaza-vok-u-futogu-spas-od-letne-zege-03-08-2020"
+          "serbian_latin": "Mileva, Moca i Natalija će nam praviti društvo u novogodišnjoj noći na RTS-u.",
+          "russian": "Милева, Моца и Наталия составят нам компанию в новогоднюю ночь на RTS.",
+          "source": "RTS, 2022"
         },
         {
-          "serbian_latin": "Tek da mu pravim društvo.",
-          "russian": "Просто чтобы составить ему компанию.",
-          "source": "Večernje novosti, 2012",
-          "url": "https://www.novosti.rs/vesti/naslovna/aktuelno.290.html%3A397128-Kladionice-U-paklu-traze-srecu"
+          "serbian_latin": "Ostaću još malo da ti pravim društvo dok čekaš taksi.",
+          "russian": "Я ещё немного посижу с тобой, пока ты ждёшь такси, чтобы не было скучно.",
+          "source": ""
         }
       ],
-      "note": "Upravljanje: praviti nekome društvo. Vrlo prirodna svakodnevna formula: Hoćeš da ti pravim društvo?",
-      "keyword": "društvo"
+      "note": "Здесь praviti не означает «создавать» общество или коллектив: конструкция praviti nekome društvo значит «составлять компанию». Лицо обычно ставят в дательном падеже: pravim ti društvo, pravi nam društvo. Это естественная формула предложения побыть с человеком, особенно во время ожидания.",
+      "keyword": "praviti društvo"
     },
     {
       "headword_latin": "Praviti nekome društvo",
@@ -34871,30 +35075,29 @@
     },
     {
       "headword_latin": "Praviti se važan",
-      "type": "izraz",
-      "definition_ru": "важничать; изображать из себя важную персону; выпендриваться",
+      "type": "frazeologizam",
+      "definition_ru": "важничать; задаваться; строить из себя важную персону",
       "synonyms_sr": [
-        "važničiti",
-        "praviti se bitan",
-        "dizati nos",
-        "folirati se (delimično)"
+        "uobražavati se",
+        "razmetati se",
+        "glumiti važnu osobu"
       ],
-      "literal_ru": "делать вид, что ты важный",
-      "register": "razg., neodobr.",
+      "literal_ru": "Делать из себя важного.",
+      "register": "razg., neodobr.; praviti se + pridev",
       "examples": [
         {
-          "serbian_latin": "Prestani da se praviš važan, svi te znamo.",
-          "russian": "Хватит важничать, мы тебя все знаем.",
+          "serbian_latin": "Otkad je dobio unapređenje, stalno se pravi važan.",
+          "russian": "С тех пор как его повысили, он постоянно важничает.",
           "source": ""
         },
         {
-          "serbian_latin": "Pred novim kolegama stalno se pravi važan.",
-          "russian": "Перед новыми коллегами он всё время строит из себя важную персону.",
+          "serbian_latin": "Nemoj da se praviš važna, svi znamo da si tek počela.",
+          "russian": "Не задавайся, мы все знаем, что ты только начала.",
           "source": ""
         }
       ],
-      "note": "Полезна продуктивная модель praviti se + pridev / imenica: praviti se lud — «прикидываться дурачком», praviti se pametan — «умничать, строить из себя умного».",
-      "keyword": "važan"
+      "note": "Конструкция praviti se + прилагательное описывает показное поведение: praviti se važan — не просто быть важным, а демонстрировать собственную значимость. Прилагательное согласуется с подлежащим: pravi se važna, važni. Не путать с praviti se lud («прикидываться дурачком»), где смысл другой.",
+      "keyword": "praviti se važan"
     },
     {
       "headword_latin": "Praziluk mu iz guzice viri",
@@ -35808,26 +36011,26 @@
       "type": "frazeologizam",
       "definition_ru": "говорить как заведённый; тараторить без остановки",
       "synonyms_sr": [
-        "ne zatvarati usta",
         "pričati bez prestanka",
-        "meljati (razg.)"
+        "brbljati",
+        "ne zaklapati usta"
       ],
-      "literal_ru": "говорить как заведённый механизм",
-      "register": "razg., ekspresivno; navijen / navijena se slaže sa subjektom",
+      "literal_ru": "Говорить словно заведённый механизм.",
+      "register": "razg., često blago neodobr.; poređenje sa mehaničkom igračkom",
       "examples": [
         {
-          "serbian_latin": "Sat vremena priča kao navijen, ne mogu da ga prekinem.",
-          "russian": "Он уже час говорит как заведённый, я не могу его перебить.",
+          "serbian_latin": "Čim je počeo da priča o automobilima, pričao je kao navijen.",
+          "russian": "Стоило ему заговорить об автомобилях, как он начал тараторить без остановки.",
           "source": ""
         },
         {
-          "serbian_latin": "Kad se uzbudi, priča kao navijena.",
-          "russian": "Когда она волнуется, говорит без остановки.",
+          "serbian_latin": "Priča kao navijena, jedva stižem da postavim pitanje.",
+          "russian": "Она говорит как заведённая, я едва успеваю вставить вопрос.",
           "source": ""
         }
       ],
-      "note": "Образ связан с naviti sat / mehanizam — «завести часы, механизм». Русское «как заведённый» совпадает почти полностью. В исходном JSON заголовок был Priča kao navijen; для словаря удобнее инфинитивная форма Pričati kao navijen.",
-      "keyword": "navijen"
+      "note": "Navijen первоначально относится к заведённым часам или механической игрушке. При описании человека сравнение подчёркивает непрерывность речи, иногда её излишнюю быстроту. Форма меняется по роду: pričati kao navijen, kao navijena.",
+      "keyword": "pričati kao navijen"
     },
     {
       "headword_latin": "Prihvatiti bačenu rukavicu",
@@ -37300,32 +37503,29 @@
     },
     {
       "headword_latin": "Pukim slučajem",
-      "type": "ustaljena konstrukcija",
-      "definition_ru": "по чистой случайности; совершенно случайно",
+      "type": "kolokacija",
+      "definition_ru": "по чистой случайности; совершенно случайно; по воле случая",
       "synonyms_sr": [
         "sasvim slučajno",
-        "slučajno",
-        "sticajem okolnosti",
-        "igrom slučaja"
+        "igrom slučaja",
+        "sticajem okolnosti (šire)"
       ],
-      "literal_ru": "чистым случаем",
-      "register": "neutralno-književno; veoma često u novinskom stilu",
+      "literal_ru": "Голым случаем.",
+      "register": "neutralno-knjiž.; pukim = instrumental prideva puki",
       "examples": [
         {
-          "serbian_latin": "Pojavila se na sceni šezdesetih godina, i to pukim slučajem.",
-          "russian": "Она появилась на сцене в шестидесятые совершенно случайно.",
-          "source": "RTS, 2018",
-          "url": "https://www.rts.rs/lat/rts/pesma-evrovizije/pesma-evrovizije-2018/beovizija-2018/3029616/nema-te--rambo-amadeus-i-beti-djordjevic.html"
+          "serbian_latin": "Pukim slučajem, na istom mestu u jednom momentu okupljaju se svi ostali Petlovčani.",
+          "russian": "По чистой случайности в тот же момент в одном месте собираются и все остальные жители Петловца.",
+          "source": "RTS, 2016"
         },
         {
-          "serbian_latin": "Tokom šetnje Korzom pukim slučajem tik uz njega se zadesio novinar Đakomo Skoti.",
-          "russian": "Во время прогулки по Корзо рядом с ним по чистой случайности оказался журналист Джакомо Скотти.",
-          "source": "Danas / BBC na srpskom, 2020",
-          "url": "https://www.danas.rs/bbc-news-serbian/ce-gevara-tito-i-jugoslavija-o-cemu-su-pricali-i-sta-je-sve-el-komandante-video-i-doziveo-u-zemlji-koja-je-danas-proslost/"
+          "serbian_latin": "Pukim slučajem sam saznao da se konkurs završava danas.",
+          "russian": "Совершенно случайно я узнал, что приём заявок заканчивается сегодня.",
+          "source": ""
         }
       ],
-      "note": "Puk u ovom spoju znači 'čist, potpun, sam po sebi'. Ne mešati sa imenicom puk 'regiment; narod'.",
-      "keyword": "puki; slučaj"
+      "note": "Прилагательное puk здесь значит «чистый, один только», а не «лопнувший» или «простой» в бытовом смысле. В сочетании pukim slučajem используется творительный падеж без предлога. Русский эквивалент «по чистой случайности» передаёт и значение, и усиление.",
+      "keyword": "pukim slučajem"
     },
     {
       "headword_latin": "Pun kao brod",
@@ -37385,32 +37585,29 @@
     },
     {
       "headword_latin": "Pun-puncat",
-      "type": "pojačani pridev",
-      "definition_ru": "битком набитый, полный до отказа; полным-полнёхонек",
+      "type": "pridev",
+      "definition_ru": "полным-полнёхонек; битком набитый; до краёв полный",
       "synonyms_sr": [
         "prepun",
         "krcat",
-        "pun do vrha",
-        "dupke pun"
+        "pun do vrha"
       ],
-      "literal_ru": "полный-полнейший",
-      "register": "razgovorno, ekspresivno; piše se i pun puncat",
+      "literal_ru": "Полный-полный.",
+      "register": "razg., ekspresivno; menja se po rodu i broju",
       "examples": [
         {
-          "serbian_latin": "Beograd je pun puncat raznih narkotika.",
-          "russian": "Белград битком набит самыми разными наркотиками.",
-          "source": "Danas, komentar čitaoca, 2026",
-          "url": "https://www.danas.rs/vesti/politika/zaplena-droge-gasic-vucic-sukob/komentari/"
+          "serbian_latin": "Autobus je bio pun-puncat, nije mogla igla da padne.",
+          "russian": "Автобус был забит битком, яблоку негде было упасть.",
+          "source": ""
         },
         {
-          "serbian_latin": "Pun puncat inteligencije i učenja.",
-          "russian": "До краёв наполненный умом и знаниями.",
-          "source": "Mikro knjiga, pristupljeno 2026",
-          "url": "https://www.mikroknjiga.rs/korist-pesimizma/47230"
+          "serbian_latin": "Frižider je pun-puncat, nemoj više ništa da kupuješ.",
+          "russian": "Холодильник полнёхонек, больше ничего не покупай.",
+          "source": ""
         }
       ],
-      "note": "Pojačanje je tvoreno uz puncat. Mogući oblici: puna-puncata, puno-puncato, puni-puncati. U praksi se crtica ne piše uvek dosledno.",
-      "keyword": "pun; puncat"
+      "note": "Повтор с рифмованным усилением puncat делает характеристику эмоциональной: не просто pun, а совершенно переполненный. Прилагательное согласуется с существительным: puna-puncata torba, puno-puncato dvorište. Русскому соответствует «полным-полно», «битком», но степень разговорности выше обычного pun.",
+      "keyword": "pun-puncat"
     },
     {
       "headword_latin": "Puna kapa",
@@ -37978,29 +38175,27 @@
     {
       "headword_latin": "Raf",
       "type": "imenica",
-      "definition_ru": "полка, стеллаж; особенно полка с товарами в магазине",
+      "definition_ru": "полка в магазине; торговый стеллаж; полка для товара",
       "synonyms_sr": [
         "polica",
-        "stalak",
-        "prodajna polica"
+        "prodajna polica",
+        "stalak za robu (šire)"
       ],
-      "literal_ru": "полка, стеллаж",
-      "register": "neutralno-razgovorno; veoma često u trgovini",
+      "literal_ru": "",
+      "register": "neutralno-razg., naročito u trgovini; na rafu, sa rafa",
       "examples": [
         {
-          "serbian_latin": "Na rafovima Maxi, Mega Maxi, Tempo i Shop&Go prodavnica nalaze se i proizvodi kompanije Agro Bel.",
-          "russian": "На полках магазинов Maxi, Mega Maxi, Tempo и Shop&Go есть и продукция компании Agro Bel.",
-          "source": "InStore, 2020",
-          "url": "https://www.instore.rs/sr/article/26131/jan-vilem-dokhejr-ceo-delhaize-serbia-u-poseti-malim-proizvodacima"
+          "serbian_latin": "Na rafu 299, na kasi 399 dinara.",
+          "russian": "На ценнике у полки 299 динаров, а на кассе — 399.",
+          "source": "RTS, 2026"
         },
         {
-          "serbian_latin": "Evo šta sve možete da pronađete na rafovima.",
-          "russian": "Вот что можно найти на полках.",
-          "source": "Blic Biznis, 2026",
-          "url": "https://www.blic.rs/biznis/moj-novcanik/fix-price-otvorio-pet-prodavnica-u-srbiji/1996mgt"
+          "serbian_latin": "Na rafu je pisala jedna cena, a na računu druga.",
+          "russian": "На полке была указана одна цена, а в чеке — другая.",
+          "source": ""
         }
       ],
-      "note": "В современном сербском raf особенно частотен в торговле: proizvod na rafu, prazni/puni rafovi. Не путать с pult/tezga — прилавком.",
+      "note": "Raf — употребительное в сербской торговой речи название полки, в частности той, на которой выставлены товары и указаны цены. Слово имеет турецко-арабские корни; нейтральный близкий вариант — polica. Русскому «раф» может напомнить разновидность кофе, но по-сербски здесь речь о магазинной полке.",
       "keyword": "raf"
     },
     {
@@ -46228,6 +46423,32 @@
       "keyword": "trezan pijan govori"
     },
     {
+      "headword_latin": "Šuć-muć",
+      "type": "izraz",
+      "definition_ru": "мутные дела; невнятные махинации; тихая возня без ясных объяснений",
+      "synonyms_sr": [
+        "mutljavina (razg.)",
+        "muljanje (razg.)",
+        "nejasni dogovori"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; često: nešto šuć-muć",
+      "examples": [
+        {
+          "serbian_latin": "Sve je dogovoreno nekako šuć-muć, bez zapisnika i bez objašnjenja.",
+          "russian": "Всё как-то мутно порешали, без протокола и без объяснений.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Pitao sam ko je odlučio, a oni nešto šuć-muć i menjaju temu.",
+          "russian": "Я спросил, кто принял решение, а они что-то мямлят, темнят и переводят разговор.",
+          "source": ""
+        }
+      ],
+      "note": "Рифмованное звукосочетание передаёт скрытность, сумбур или неясные манипуляции; значение зависит от контекста. Встречается как самостоятельная оценка и внутри предложений, где говорящий не может или не хочет подробно описывать действия. Сербские лингвисты упоминают šuć-muć среди закрепившихся разговорных формул (Politika, 2013).",
+      "keyword": "šuć-muć"
+    },
+    {
       "headword_latin": "Šuć-muć (pa prolij)",
       "type": "frazeologizam",
       "definition_ru": "тяп-ляп; ни то ни сё; бессмыслица; плохо сделанная мешанина",
@@ -49733,28 +49954,28 @@
     {
       "headword_latin": "To je skup sport",
       "type": "izraz",
-      "definition_ru": "это дорогое удовольствие; это недешёвое занятие",
+      "definition_ru": "это дорогое удовольствие; на это уходит много денег",
       "synonyms_sr": [
-        "mnogo košta",
+        "to mnogo košta",
         "skupa zabava",
-        "nije jeftino"
+        "preskupo je"
       ],
-      "literal_ru": "это дорогой спорт",
-      "register": "razg.-publicistički; i o stvarima koje nisu sport",
+      "literal_ru": "Это дорогой спорт.",
+      "register": "razg., često ironično; o bilo kojoj skupoj aktivnosti",
       "examples": [
         {
-          "serbian_latin": "Kućno obrazovanje je pre svega „skup sport“ za naše prilike.",
-          "russian": "Домашнее обучение для наших условий — прежде всего дорогое удовольствие.",
-          "source": "RTS, 2023"
+          "serbian_latin": "Svake godine menjati automobil? To je skup sport.",
+          "russian": "Менять машину каждый год? Дорогое удовольствие.",
+          "source": ""
         },
         {
-          "serbian_latin": "Menjati auto svake dve godine — to je skup sport.",
-          "russian": "Менять машину каждые два года — дорогое удовольствие.",
+          "serbian_latin": "Privatni časovi za troje dece su skup sport.",
+          "russian": "Частные уроки для троих детей — удовольствие не из дешёвых.",
           "source": ""
         }
       ],
-      "note": "Первоначально сочетание совершенно буквально употребляется о дорогих видах спорта; перенос на любое затратное занятие очень естественен. В прессе skup sport регулярно встречается и буквально.",
-      "keyword": "skup sport"
+      "note": "Sport здесь не обязательно связан со спортивной деятельностью: разговорно так называют почти любое занятие, требующее больших затрат. Оборот часто употребляют с иронией, когда обсуждают ремонт, путешествия или хобби. Русское «дорогое удовольствие» ближе по смыслу, чем дословное «дорогой спорт».",
+      "keyword": "to je skup sport"
     },
     {
       "headword_latin": "To je sto posto tako",
@@ -50928,28 +51149,28 @@
     },
     {
       "headword_latin": "Tovarna marva",
-      "type": "kolokacija",
-      "definition_ru": "вьючный скот; перен. ломовая лошадь, рабочая скотина",
+      "type": "izraz",
+      "definition_ru": "ломовая лошадь; рабочая скотина; человек, на которого взвалили всю тяжёлую работу",
       "synonyms_sr": [
-        "tegleća stoka",
-        "radna marva",
-        "neko ko tegli sve (pren.)"
+        "tegleća stoka (doslovno)",
+        "radni konj (preneseno)",
+        "čovek koji vuče sav teret"
       ],
-      "literal_ru": "вьючный скот",
-      "register": "doslovno neutralno; preneseno o čoveku razg., neodobr.-žalobno",
+      "literal_ru": "Вьючный скот.",
+      "register": "razg., grubo; često u negaciji: nisam ja tovarna marva",
       "examples": [
         {
-          "serbian_latin": "Alpake im služe i kao tovarna marva.",
-          "russian": "Альпаки служат им в том числе как вьючные животные.",
-          "source": "Pojačalo, 2025"
+          "serbian_latin": "Nisam ja tovarna marva da svaku kutiju nosim sam.",
+          "russian": "Я вам не ломовая лошадь, чтобы одному таскать все коробки.",
+          "source": ""
         },
         {
-          "serbian_latin": "Nisam ja tovarna marva da nosim sve njihove stvari.",
-          "russian": "Я не ломовая лошадь, чтобы таскать все их вещи.",
+          "serbian_latin": "Sve obaveze su svalili na nju, kao da je tovarna marva.",
+          "russian": "На неё свалили все обязанности, будто она рабочая скотина.",
           "source": ""
         }
       ],
-      "note": "Поправка к исходному JSON: прежде всего это обычное буквальное сочетание «вьючный скот». Перенос на человека понятен и естественен, но это скорее разговорная метафора, чем жёстко закреплённый фразеологизм.",
+      "note": "Marva — собирательное обозначение скота, а tovarna подчёркивает использование для перевозки тяжестей. В обращении к человеку выражение грубое и уничижительное; обычно употребляется в жалобе на непосильную работу. В разговоре предпочтительнее говорить о previše posla, если не хочется оскорбительного тона.",
       "keyword": "tovarna marva"
     },
     {
@@ -52161,32 +52382,29 @@
     },
     {
       "headword_latin": "Tuk na luk",
-      "type": "izreka",
-      "definition_ru": "нашла коса на камень; столкнулись две одинаково упрямые или жёсткие стороны, и ни одна не хочет уступать",
+      "type": "frazeologizam",
+      "definition_ru": "слово за слово; взаимные выпады; упорная перепалка, в которой никто не уступает",
       "synonyms_sr": [
-        "inat na inat",
-        "udarila sila na silu",
-        "niko ne popušta",
-        "tvrd na tvrdog"
+        "reč za reč",
+        "prepucavanje",
+        "uzvraćati istom merom (šire)"
       ],
       "literal_ru": "",
-      "register": "narodno, razgovorno-publicistički",
+      "register": "razg., tradicionalno, danas ređe; često: udario tuk na luk",
       "examples": [
         {
-          "serbian_latin": "Tuk na luk – jedna je od brojnih naših poslovica koje je nemoguće precizno prevesti na strani jezik.",
-          "russian": "«Tuk na luk» — одна из наших пословичных формул, которую трудно точно перевести.",
-          "source": "Politika, 2021",
-          "url": "https://www.politika.rs/sr/clanak/480922/da-li-je-jutro-pametnije-od-veceri"
+          "serbian_latin": "Niko nije hteo da popusti: tuk na luk, i svađa je trajala satima.",
+          "russian": "Никто не хотел уступать: слово за слово — и спор продолжался часами.",
+          "source": ""
         },
         {
-          "serbian_latin": "Tuk na luk.",
-          "russian": "Нашла коса на камень.",
-          "source": "Politika, 2015",
-          "url": "https://www.politika.rs/sr/clanak/326205/pogledi/tuk-na-luk"
+          "serbian_latin": "Oni stalno tako, tuk na luk, svako mora da ima poslednju reč.",
+          "russian": "У них всё время так: один другому отвечает, и каждому нужно оставить последнее слово за собой.",
+          "source": ""
         }
       ],
-      "note": "Очень сербская рифмованная формула, тесно связанная с понятием inat. Употребляется, когда одна упёртая сторона встречает столь же упёртую другую.",
-      "keyword": "tuk na luk; inat"
+      "note": "Формула обозначает взаимные ответные удары словами или действиями; в сербском нередко встречается с глаголом udariti. Она не равна буквально «лук на лук»: это ритмическая народная формула. В некоторых источниках сопоставляется с tuk na utuk; точную исходную форму и этимологию без специальных исследований утверждать нельзя.",
+      "keyword": "tuk na luk"
     },
     {
       "headword_latin": "Tuk na luk / udario tuk na luk",
