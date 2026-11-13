@@ -6211,6 +6211,34 @@
       "keyword": "komšiji crkne krava"
     },
     {
+      "headword_latin": "Da ne dužim",
+      "type": "replika",
+      "definition_ru": "короче говоря; не буду затягивать; не буду долго рассказывать",
+      "synonyms_sr": [
+        "ukratko",
+        "da skratim priču",
+        "da pređem na stvar",
+        "da ne odugovlačim"
+      ],
+      "literal_ru": "",
+      "register": "razg.; diskursna formula za prelazak na poentu",
+      "examples": [
+        {
+          "serbian_latin": "Da ne dužim. Moja malenkost je prekjuče polučila odjek i reagovanje...",
+          "russian": "Не буду затягивать. Позавчера моя скромная персона получила отклик и реакцию…",
+          "source": "Danas, 2020",
+          "url": "https://www.danas.rs/kolumna/svetislav-basara/odjecbi-i-reagovanja/"
+        },
+        {
+          "serbian_latin": "Da ne dužim, dogovorili smo se da krenemo sutra.",
+          "russian": "Короче говоря, мы договорились выехать завтра.",
+          "source": ""
+        }
+      ],
+      "note": "Глагол dužiti здесь означает «затягивать разговор», а не «быть должным». В разговорной речи формула может употребляться даже после очень длинного рассказа — иногда с самоиронией. Близкий вариант da skratim priču по функции соответствует русскому «короче».",
+      "keyword": "da ne dužim"
+    },
+    {
       "headword_latin": "Da nemaš možda...?",
       "type": "replika",
       "definition_ru": "у тебя случайно нет…?; не найдётся ли у тебя…?; можешь одолжить…?",
@@ -6237,6 +6265,34 @@
       "keyword": "da nemaš možda"
     },
     {
+      "headword_latin": "Da se ne lažemo",
+      "type": "replika",
+      "definition_ru": "будем откровенны; чего уж скрывать; не будем себя обманывать",
+      "synonyms_sr": [
+        "budimo iskreni",
+        "iskreno govoreći",
+        "ruku na srce",
+        "realno gledano"
+      ],
+      "literal_ru": "",
+      "register": "razg.; uvodna replika, često pre neprijatne istine",
+      "examples": [
+        {
+          "serbian_latin": "Ali da se ne lažemo, u tu se salu nije moglo s indeksom, pa čak ni sa dva.",
+          "russian": "Но будем откровенны: туда нельзя было попасть со студенческим билетом, даже с двумя.",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/sns-studenti-ili-su-kasno-upisali-fakultet-ili-to-uopste-nisu-a-izgleda-da-nisu-savladali-ni-vucicevu-lekciju/"
+        },
+        {
+          "serbian_latin": "Da se ne lažemo, niko od nas nije očekivao ovakav rezultat.",
+          "russian": "Чего уж скрывать, никто из нас не ожидал такого результата.",
+          "source": ""
+        }
+      ],
+      "note": "Это не буквальное обвинение собеседника во лжи. Формула приглашает отбросить условности и говорить откровенно. Часто употребляется для усиления субъективной оценки. Русское «не будем друг другу врать» обычно звучит резче, чем сербское выражение.",
+      "keyword": "da se ne lažemo"
+    },
+    {
       "headword_latin": "Da se Vlasi ne dosete",
       "type": "izraz",
       "definition_ru": "чтобы никто не догадался; для отвода глаз; замаскировать истинный смысл или намерение",
@@ -6261,6 +6317,33 @@
       ],
       "note": "Сегодня выражение означает попытку сделать что-либо так, чтобы окружающие не заметили настоящей цели. Vlasi — исторический этноним, который в разные эпохи и регионы имел разные референции; популярные рассказы о конкретном историческом эпизоде происхождения выражения надёжно не доказаны. Для современного употребления этнический смысл обычно стёрт, но русскому полезно знать, что внутри формулы сохраняется название народа.",
       "keyword": "Vlasi se ne dosete"
+    },
+    {
+      "headword_latin": "Da stvar bude gora",
+      "type": "izraz",
+      "definition_ru": "что ещё хуже; вдобавок ко всему; как назло",
+      "synonyms_sr": [
+        "što je još gore",
+        "povrh svega",
+        "kao da to nije dovoljno"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; uvodi dodatnu nepovoljnu okolnost",
+      "examples": [
+        {
+          "serbian_latin": "Da stvar bude gora, on ima i određenu ulogu na toj svadbi – on je dever!",
+          "russian": "И что ещё хуже, на этой свадьбе ему отвели особую роль — он дружка жениха!",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/tv/rts2/5819840/muke-jednog-lava.html"
+        },
+        {
+          "serbian_latin": "Kasnili smo na voz, a da stvar bude gora, taksi nije došao.",
+          "russian": "Мы опаздывали на поезд, а вдобавок такси так и не приехало.",
+          "source": ""
+        }
+      ],
+      "note": "Удобная разговорная связка для нарастания неприятностей. После неё следует новая проблема, усугубляющая предыдущую. Не путать с stvar je u tome što… — «дело в том, что…»: там речь об объяснении причины, а не об ухудшении ситуации.",
+      "keyword": "da stvar bude gora"
     },
     {
       "headword_latin": "Da su babi muda, bila bi deda",
@@ -7204,6 +7287,33 @@
       "keyword": "kao da ga kolju"
     },
     {
+      "headword_latin": "Dežurni krivac",
+      "type": "kolokacija",
+      "definition_ru": "вечный виноватый; козёл отпущения; тот, на кого привычно сваливают вину",
+      "synonyms_sr": [
+        "žrtveni jarac",
+        "večiti krivac",
+        "onaj na koga se svaljuje krivica"
+      ],
+      "literal_ru": "дежурный виновник",
+      "register": "razg.-publicistički, iron.; o stalno optuživanoj osobi",
+      "examples": [
+        {
+          "serbian_latin": "Ja sam dežurni krivac svima za sve.",
+          "russian": "Я у всех вечно виноват во всём.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/776816/vucic-podgorica-jedno-obecava-a-drugo-radi-na-godisnjicu-oluje"
+        },
+        {
+          "serbian_latin": "Kad god nešto pođe po zlu, on postane dežurni krivac.",
+          "russian": "Стоит чему-нибудь пойти не так, крайним опять оказывается он.",
+          "source": ""
+        }
+      ],
+      "note": "Dežurni здесь не значит, что человек действительно находится на дежурстве. Это ироническая метафора регулярно назначаемого виновника. В отличие от žrtveni jarac, которое подчёркивает перекладывание вины, dežurni krivac выделяет повторяемость: в любом новом скандале виноватым снова объявляют одного и того же.",
+      "keyword": "dežurni krivac"
+    },
+    {
       "headword_latin": "Dići / dignuti ruke od nekoga / nečega",
       "type": "frazeologizam",
       "definition_ru": "махнуть рукой на кого-то / что-то; отказаться; бросить попытки",
@@ -8070,6 +8180,34 @@
       ],
       "note": "Форма действительно существует во фразеографических источниках как doći će cica na kolica. Но на Ana.rs носительница прямо противопоставляет srbijanska verzija: Došla maca na vratanca и bosanska verzija: Došla cica na kolica. Поэтому для сербского стандарта я бы считал maca na vratanca основной статьёй, а cica na kolica — региональным вариантом. Русское «придёт зима — снега попросишь» возможно по ситуации, но шире смысл «ещё придёт расплата / ещё сам придёшь».",
       "keyword": "doći će cica na kolica"
+    },
+    {
+      "headword_latin": "Doći do daha",
+      "type": "frazeologizam",
+      "definition_ru": "перевести дух; отдышаться; немного передохнуть",
+      "synonyms_sr": [
+        "predahnuti",
+        "odahnuti",
+        "povratiti dah",
+        "malo se odmoriti"
+      ],
+      "literal_ru": "добраться до дыхания",
+      "register": "neutralno-razg.; svršeni vid doći; doslovno i preneseno",
+      "examples": [
+        {
+          "serbian_latin": "Pokušao sam da dođem do daha.",
+          "russian": "Я пытался отдышаться.",
+          "source": "RTS, 2025",
+          "url": "https://www.rts.rs/lat/sport/tenis/5629846/djokovicev-sou-tokom-izjava---sala-na-racun-godina-i-prica-o-zlatu-u-parizu.html"
+        },
+        {
+          "serbian_latin": "Ovih dana imamo toliko posla da ne stižemo ni da dođemo do daha.",
+          "russian": "В последние дни у нас столько работы, что даже дух перевести некогда.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение особенно полезно благодаря двум значениям: физически восстановить дыхание после нагрузки и образно получить передышку после напряжённого периода. В первом случае естественно doći do daha posle trčanja, во втором — nemati vremena da dođeš do daha.",
+      "keyword": "doći do daha"
     },
     {
       "headword_latin": "Doći do izražaja",
@@ -17937,6 +18075,34 @@
       "keyword": "rogovi u vreći"
     },
     {
+      "headword_latin": "Kao rukom odneto",
+      "type": "frazeologizam",
+      "definition_ru": "как рукой сняло; словно и не было; исчезло без следа",
+      "synonyms_sr": [
+        "potpuno nestati",
+        "iščeznuti",
+        "odjednom prestati",
+        "nestati bez traga"
+      ],
+      "literal_ru": "словно рукой унесло",
+      "register": "razg., ekspresivno; o bolu, tegobama, brigama ili neprijatnostima",
+      "examples": [
+        {
+          "serbian_latin": "Biće kao rukom odneto.",
+          "russian": "Как рукой снимет.",
+          "source": "OK Radio, 2013",
+          "url": "https://www.okradio.rs/vesti/specijali/u-fokusu/narodni-lekar-doktor-acimovic_37081.html"
+        },
+        {
+          "serbian_latin": "Posle odmora sav umor je nestao kao rukom odnet.",
+          "russian": "После отдыха всю усталость как рукой сняло.",
+          "source": ""
+        }
+      ],
+      "note": "Сербское выражение передаёт внезапное и полное исчезновение чего-либо, чаще неприятного. Возможны согласованные формы kao rukom odnet, odneta, odneto. Русский эквивалент «как рукой сняло» почти полностью совпадает по образу. В медицинском контексте это разговорное описание ощущения, а не утверждение о доказанной эффективности лечения.",
+      "keyword": "kao rukom odneto"
+    },
+    {
       "headword_latin": "Kao stvoren za",
       "type": "frazeološki izraz",
       "definition_ru": "Словно специально создан для кого-либо или чего-либо; идеально подходит.",
@@ -19238,6 +19404,33 @@
       ],
       "note": "Для сербской культурной памяти фраза особенно узнаваема благодаря сериалу Grlom u jagode: Bane Bumbar вспоминает её после неприятностей как любимую присказку старшей родственницы. Это не доказывает, что выражение возникло в сериале: оно живёт как самостоятельная разговорная формула оптимистического переосмысления неудачи.",
       "keyword": "ko zna zašto je to dobro"
+    },
+    {
+      "headword_latin": "Ko živ, ko mrtav",
+      "type": "izreka",
+      "definition_ru": "кто доживёт, кто нет; неизвестно, что будет дальше; ещё неизвестно, чем всё обернётся",
+      "synonyms_sr": [
+        "ko zna šta će biti",
+        "neizvesno je",
+        "niko ne zna šta nas čeka"
+      ],
+      "literal_ru": "кто жив, кто мёртв",
+      "register": "razg., ekspresivno; o neizvesnoj budućnosti",
+      "examples": [
+        {
+          "serbian_latin": "E moj Stevo, kažem mu, do tad ko živ ko mrtav.",
+          "russian": "Эх, Стево, говорю ему, до тех пор ещё неизвестно, кто доживёт.",
+          "source": "City Magazine / Danas, 2020",
+          "url": "https://citymagazine.danas.rs/kolumne/dnevnik-nevidljivih-04/"
+        },
+        {
+          "serbian_latin": "Pričaćemo o tome za deset godina, ako budemo živi. Ko živ, ko mrtav.",
+          "russian": "Поговорим об этом через десять лет, если доживём. Кто знает, что тогда будет.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение не обязательно связано с реальной угрозой смерти. Оно часто служит шутливо-фаталистическим замечанием о слишком далёких планах или обещаниях: «ещё неизвестно, что к тому времени будет». Однако в контексте войны или опасности буквальное значение может снова выходить на первый план.",
+      "keyword": "ko živ ko mrtav"
     },
     {
       "headword_latin": "Kocka je bačena",
@@ -25192,6 +25385,34 @@
       "keyword": "lav; spava"
     },
     {
+      "headword_latin": "Ne dolazi u obzir!",
+      "type": "replika",
+      "definition_ru": "и речи быть не может!; ни в коем случае!; исключено!",
+      "synonyms_sr": [
+        "nema govora",
+        "nikako",
+        "isključeno",
+        "ni slučajno"
+      ],
+      "literal_ru": "",
+      "register": "kategorično odbijanje; dolaziti u obzir = biti moguća opcija",
+      "examples": [
+        {
+          "serbian_latin": "Ne dolazi u obzir, gospodo.",
+          "russian": "Об этом и речи быть не может, господа.",
+          "source": "Danas, 2026",
+          "url": "https://www.danas.rs/vesti/ekonomija/tusk-ne-dolazi-u-obzir-da-eu-sada-popusti-u-sankcijama-na-rusku-naftu-i-gas/"
+        },
+        {
+          "serbian_latin": "Da sutra radimo bez pauze? Ne dolazi u obzir!",
+          "russian": "Чтобы завтра работать без перерыва? И речи быть не может!",
+          "source": ""
+        }
+      ],
+      "note": "Важно не переводить obzir как русское «обзор». Uzeti u obzir — «принять во внимание», а dolaziti u obzir — «быть допустимым вариантом». Отрицательная форма ne dolazi u obzir превращается в решительный отказ; положительная dolazi u obzir — «такой вариант возможен».",
+      "keyword": "ne dolazi u obzir"
+    },
+    {
       "headword_latin": "Ne gine nekome nešto",
       "type": "frazeologizam",
       "definition_ru": "чего-то не миновать; кому-то что-то светит; неизбежно предстоит",
@@ -25905,6 +26126,33 @@
       ],
       "note": "Это не то же самое, что «не волнуйся». Talasati буквально связано с волнами, но реплика обычно означает: не спорь с начальством, не нарушай привычный порядок, не привлекай внимания. Часто имеет оттенок общественного конформизма или страха последствий.",
       "keyword": "ne talasaj"
+    },
+    {
+      "headword_latin": "Ne videti belog dana",
+      "type": "frazeologizam",
+      "definition_ru": "света белого не видеть; работать без продыху; не выходить из четырёх стен",
+      "synonyms_sr": [
+        "ne izlaziti iz kuće",
+        "raditi bez predaha",
+        "biti prezauzet",
+        "živeti u izolaciji"
+      ],
+      "literal_ru": "не видеть белого дня",
+      "register": "ekspresivno, pomalo knjiški ili starinski; o prezauzetosti i izolaciji",
+      "examples": [
+        {
+          "serbian_latin": "Od posla ne vidim belog dana.",
+          "russian": "За работой света белого не вижу.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Mesecima nije video belog dana, samo je radio i spavao.",
+          "russian": "Месяцами он света белого не видел: только работал и спал.",
+          "source": ""
+        }
+      ],
+      "note": "В исследовании Katarine Begović (2023) на материале Rečnika SANU и фразеологических словарей выделены два значения: «жить в изоляции» и «быть настолько занятым, что некогда выйти из дома». Существует вариант ne videti belog boga. Образ противопоставляет дневной свет, свободу и благополучие замкнутому существованию. По-русски соответствие почти точное — «света белого не видеть».",
+      "keyword": "ne videti belog dana"
     },
     {
       "headword_latin": "Ne videti dalje od svog nosa",
@@ -27965,6 +28213,34 @@
       "keyword": "ni u snu"
     },
     {
+      "headword_latin": "Ni za jotu",
+      "type": "izraz",
+      "definition_ru": "ни на йоту; ни на волос; ни на малость",
+      "synonyms_sr": [
+        "nimalo",
+        "ni najmanje",
+        "ni za dlaku",
+        "ni trunku"
+      ],
+      "literal_ru": "",
+      "register": "ekspresivno, neutralno-publicistički; uz negaciju promene ili ustupka",
+      "examples": [
+        {
+          "serbian_latin": "Ni za jotu Vlada neće da popusti.",
+          "russian": "Правительство не уступит ни на йоту.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/vesti/Politika/1647515/Vu%C4%8Di%C4%87%3A%2BNe%2Bodustajem%2Bni%2Bza%2Bjotu%2Bod%2Breformi.html"
+        },
+        {
+          "serbian_latin": "Njegovo mišljenje se nije promenilo ni za jotu.",
+          "russian": "Его мнение не изменилось ни на йоту.",
+          "source": ""
+        }
+      ],
+      "note": "Jota — название греческой буквы ι, ставшей символом чего-то ничтожно малого. Выражение существует во многих европейских языках, включая русский. В сербском особенно характерны конструкции ne odstupiti ni za jotu, ne promeniti ni za jotu, ne popustiti ni za jotu.",
+      "keyword": "ni za jotu"
+    },
+    {
       "headword_latin": "Ni za lek",
       "type": "frazeologizam",
       "definition_ru": "совсем нет; не сыскать; хоть бы капельку / хоть бы одного",
@@ -29244,6 +29520,34 @@
       "keyword": "kiša; Kragujevac"
     },
     {
+      "headword_latin": "Obiti se o glavu nekome",
+      "type": "frazeologizam",
+      "definition_ru": "выйти боком; дорого обойтись; аукнуться",
+      "synonyms_sr": [
+        "loše se završiti po nekoga",
+        "imati loše posledice",
+        "vratiti se kao bumerang",
+        "skupo koštati"
+      ],
+      "literal_ru": "удариться кому-то о голову",
+      "register": "razg., ekspresivno; obiti se nekome o glavu, dativ",
+      "examples": [
+        {
+          "serbian_latin": "Nije naučio lekciju. Obilo mu se o glavu.",
+          "russian": "Он так и не усвоил урок. И это ему вышло боком.",
+          "source": "RTS, 2023",
+          "url": "https://www.rts.rs/lat/sport/kosarka/5154117/.html?print=true"
+        },
+        {
+          "serbian_latin": "Njegova tvrdoglavost mu se na kraju obila o glavu.",
+          "russian": "Его упрямство в конце концов ему же и аукнулось.",
+          "source": ""
+        }
+      ],
+      "note": "Обычно речь о собственном поступке, решении или ошибке, последствия которых оборачиваются против человека. Удобная модель: To će ti se obiti o glavu! — «Это тебе ещё аукнется!». Не путать с физическим ударом по голове: выражение обозначает прежде всего неблагоприятные последствия.",
+      "keyword": "obiti se o glavu"
+    },
+    {
       "headword_latin": "Obrati zelen bostan",
       "type": "frazeologizam",
       "definition_ru": "плохо кончить; крупно влипнуть; потерпеть полный крах",
@@ -29321,6 +29625,34 @@
       ],
       "note": "В сборниках народной поэзии формула morske pijavice действительно входит в традиционный портрет красавицы. Но как обычный современный комплимент выражение почти не живёт: сегодня оно скорее фольклорная цитата или шутливая стилизация. Поэтому переводить буквально в современном разговоре нельзя.",
       "keyword": "obrve"
+    },
+    {
+      "headword_latin": "Očas posla",
+      "type": "prilog",
+      "definition_ru": "в два счёта; в мгновение ока; моментально",
+      "synonyms_sr": [
+        "začas",
+        "vrlo brzo",
+        "za tren",
+        "dok trepneš"
+      ],
+      "literal_ru": "",
+      "register": "razg.; brzo obavljanje posla ili prolazak vremena",
+      "examples": [
+        {
+          "serbian_latin": "Dan prođe očas posla.",
+          "russian": "День пролетает в мгновение ока.",
+          "source": "RTS, 2020",
+          "url": "https://www.rts.rs/lat/magazin/kultura/intervju/3927338/anja-djordjevic-sumnjam-u-skoru-normalizaciju-povredjen-je-sistem.html"
+        },
+        {
+          "serbian_latin": "Ne brini, završićemo to očas posla.",
+          "russian": "Не переживай, мы управимся в два счёта.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение пишется раздельно: očas posla. Здесь čas — «мгновение», а не школьный урок. В отличие от na brzaka, которое иногда предполагает поспешность и небрежность, očas posla прежде всего подчёркивает краткость времени, нередко с положительной оценкой.",
+      "keyword": "očas posla"
     },
     {
       "headword_latin": "Oči veće od stomaka",
@@ -30991,6 +31323,34 @@
       ],
       "note": "Фраза особенно естественна, когда человек рассчитывал получить что-то конкретное, но не получил ничего. Русское «остаться с пустыми руками» совпадает буквально и стилистически. Близкое ostati kratkih rukava сильнее подчёркивает, что человека обошли при разделе ожидаемой выгоды.",
       "keyword": "praznih šaka"
+    },
+    {
+      "headword_latin": "Ostati pri svome",
+      "type": "frazeologizam",
+      "definition_ru": "остаться при своём; стоять на своём; не изменить решения",
+      "synonyms_sr": [
+        "ostati pri svom stavu",
+        "ne odustati",
+        "istrajati",
+        "ne promeniti mišljenje"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg.; pri + lokativ",
+      "examples": [
+        {
+          "serbian_latin": "Vimbldon je ostao „pri svome“ čak i kada je Ju-Es open 1972. godine dozvolio teniserima opremu u boji po želji.",
+          "russian": "Уимблдон остался при своём, даже когда US Open в 1972 году разрешил теннисистам самостоятельно выбирать цвет формы.",
+          "source": "RTS, 2015",
+          "url": "https://www.rts.rs/lat/sport/vimbldon-2015/vesti/1964847/.html?print=true"
+        },
+        {
+          "serbian_latin": "Svi su pokušali da ga ubede, ali je ostao pri svome.",
+          "russian": "Все пытались его переубедить, но он остался при своём.",
+          "source": ""
+        }
+      ],
+      "note": "Сочетание ostati pri svome уже содержит местоимение и не требует повторения существительного. В развёрнутой конструкции используется локатив: ostati pri svom mišljenju, pri svojoj odluci. Оценка зависит от ситуации: это может быть принципиальность либо упрямство.",
+      "keyword": "ostati pri svome"
     },
     {
       "headword_latin": "ostaviti nekoga bez daha",
@@ -33078,6 +33438,33 @@
       ],
       "note": "Родительный падеж — pete kolone; производное petokolonaš обозначает человека, отнесённого к такой группе. В политической полемике выражение часто используется для дискредитации оппонентов без доказательства реальной связи с внешним противником. Первый пример применяет этот ярлык, второй сообщает о его применении к другим. При нейтральном изложении важно указывать, кто именно выдвигает обвинение.",
       "keyword": "peta kolona; petokolonaš; politička optužba; unutrašnji protivnik"
+    },
+    {
+      "headword_latin": "Pevati iz sveg glasa",
+      "type": "izraz",
+      "definition_ru": "петь во весь голос; петь что есть мочи; петь от души, не сдерживаясь",
+      "synonyms_sr": [
+        "pevati na sav glas",
+        "pevati punim glasom",
+        "glasno pevati"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-razg., ekspresivno; o glasnom pevanju ili vikanju",
+      "examples": [
+        {
+          "serbian_latin": "... da se sluša muzika i peva iz sveg glasa...",
+          "russian": "…чтобы слушать музыку и петь во весь голос…",
+          "source": "RTS, 2026",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/6010942/privikavanje-na-vrtic--izmedju-roditeljske-krivice-i-ideala-sa-instagrama.html"
+        },
+        {
+          "serbian_latin": "Deca su u kolima pevala iz sveg glasa.",
+          "russian": "Дети в машине распевали во всё горло.",
+          "source": ""
+        }
+      ],
+      "note": "Конструкция iz sveg glasa выражает максимальную силу голоса. Не путать с jednoglasno — «единогласно»: здесь речь о громкости, а не о согласии. Близкое iz punih pluća также возможно, но для активного словаря полезнее запомнить iz sveg glasa и na sav glas.",
+      "keyword": "iz sveg glasa"
     },
     {
       "headword_latin": "Pevati koliko te grlo nosi",
@@ -39189,6 +39576,34 @@
       ],
       "note": "Poređenje se vezuje za istorijsku predstavu o veoma raširenom pušenju duvana i čibuka u Osmanskom carstvu. Danas je to pre svega ustaljena govorna slika.",
       "keyword": "pušiti; Turčin"
+    },
+    {
+      "headword_latin": "Put pod noge",
+      "type": "replika",
+      "definition_ru": "в путь!; пора отправляться; ноги в руки — и вперёд",
+      "synonyms_sr": [
+        "krenuti na put",
+        "poći",
+        "zaputiti se",
+        "dati se na put"
+      ],
+      "literal_ru": "дорогу под ноги",
+      "register": "razg., ekspresivno; poziv na polazak ili opis odlaska",
+      "examples": [
+        {
+          "serbian_latin": "Karavan je danas opravdao svoje ime, „stavio put pod noge“ i doputovao u Ivanjicu.",
+          "russian": "Сегодня «Караван» оправдал своё название, отправился в путь и добрался до Иваницы.",
+          "source": "Radio Beograd 1 / RTS, 2019",
+          "url": "https://www.rts.rs/lat/radio/radio-beograd-1/3633778/.html?print=true"
+        },
+        {
+          "serbian_latin": "Spakovali smo kofere i — put pod noge!",
+          "russian": "Собрали чемоданы — и в путь!",
+          "source": ""
+        }
+      ],
+      "note": "Реплика может быть совершенно дружелюбной, но в конструкции Kome se ne sviđa, put pod noge! приобретает резкий смысл «не нравится — проваливай». В качестве нейтральной формы лучше запомнить staviti put pod noge — «отправиться в путь». Это живой образ, не связанный обязательно с путешествием пешком.",
+      "keyword": "put pod noge"
     },
     {
       "headword_latin": "Rad je stvorio čoveka",
@@ -45411,6 +45826,34 @@
       "keyword": "stezati kaiš"
     },
     {
+      "headword_latin": "Stisnuti petlju",
+      "type": "frazeologizam",
+      "definition_ru": "набраться смелости; решиться; собраться с духом",
+      "synonyms_sr": [
+        "ohrabriti se",
+        "skupiti hrabrost",
+        "usuditi se",
+        "prelomiti"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; pred tešku odluku ili razgovor",
+      "examples": [
+        {
+          "serbian_latin": "Rekao je da je trebalo „stisnuti petlju“ i reći da je neko opljačkao, uništio Penzioni fond...",
+          "russian": "Он сказал, что нужно было набраться смелости и прямо заявить, что кто-то разграбил и разрушил Пенсионный фонд…",
+          "source": "RTS, 2018",
+          "url": "https://www.rts.rs/lat/vesti/izbori-2018/3041847/.html?print=true"
+        },
+        {
+          "serbian_latin": "Stisni petlju i reci joj šta osećaš.",
+          "russian": "Наберись смелости и скажи ей, что чувствуешь.",
+          "source": ""
+        }
+      ],
+      "note": "В основном словаре уже есть imati petlju — «иметь смелость, быть не робкого десятка». Но stisnuti petlju обозначает именно момент преодоления страха и решимость действовать. Слово petlja обычно означает петлю, но в этих разговорных выражениях передаёт отвагу; связь с буквальным значением не стоит домысливать.",
+      "keyword": "stisnuti petlju"
+    },
+    {
       "headword_latin": "Stisnuti zube",
       "type": "frazeologizam",
       "definition_ru": "стиснуть зубы; терпеть через силу; собраться и выдержать",
@@ -47485,29 +47928,29 @@
     },
     {
       "headword_latin": "Što je sigurno, sigurno je",
-      "type": "replika",
-      "definition_ru": "для верности; лучше перестраховаться; бережёного Бог бережёт",
+      "type": "izreka",
+      "definition_ru": "бережёного Бог бережёт; лучше перестраховаться; так надёжнее",
       "synonyms_sr": [
         "za svaki slučaj",
         "bolje biti oprezan",
-        "sigurnije je tako",
-        "ne rizikovati"
+        "sigurnije je tako"
       ],
       "literal_ru": "что надёжно, то надёжно",
-      "register": "ustaljena razg. replika; opravdava dodatnu meru predostrožnosti, čak i kada je možda suvišna",
+      "register": "razg., šalj.-iron.; opravdavanje predostrožnosti",
       "examples": [
         {
           "serbian_latin": "Meštani razmišljaju da ipak sačuvaju fenjere. Što je sigurno, sigurno je.",
-          "russian": "Жители всё-таки думают сохранить фонари: мало ли что, бережёного Бог бережёт.",
-          "source": "RTS, 2014"
+          "russian": "Местные жители подумывают всё-таки сохранить фонари. Бережёного Бог бережёт.",
+          "source": "RTS, 2014",
+          "url": "https://www.rts.rs/lat/vesti/drustvo/1758202/.html?print=true"
         },
         {
-          "serbian_latin": "Ali, što je sigurno, sigurno je!",
-          "russian": "Но лучше перестраховаться!",
-          "source": "Danas, 2018"
+          "serbian_latin": "Ponela sam još jednu bateriju. Što je sigurno, sigurno je.",
+          "russian": "Я взяла ещё один аккумулятор. Лучше перестраховаться.",
+          "source": ""
         }
       ],
-      "note": "Sigurno здесь соединяет значения «надёжно, безопасно» и «наверняка». Реплика особенно естественна после описания дополнительной страховки: взял зонт, сделал копию документа, перепроверил дверь — što je sigurno, sigurno je. Русское «бережёного Бог бережёт» часто передаёт функцию лучше буквального перевода.",
+      "note": "Это не утверждение очевидной истины, а готовое оправдание осторожности, иногда чрезмерной. Нередко произносится после действия, которое кажется излишним: взять запасную вещь, перепроверить документ, заранее позвонить. Русское «бережёного Бог бережёт» обычно удачно передаёт прагматический смысл.",
       "keyword": "što je sigurno sigurno je"
     },
     {
@@ -55149,6 +55592,34 @@
       "keyword": "u pat poziciji"
     },
     {
+      "headword_latin": "U pet do dvanaest",
+      "type": "izraz",
+      "definition_ru": "в последний момент; когда уже почти поздно; в самый последний срок",
+      "synonyms_sr": [
+        "u poslednjem trenutku",
+        "u zadnji čas",
+        "pred sam kraj",
+        "tik pred istek roka"
+      ],
+      "literal_ru": "без пяти двенадцать",
+      "register": "razg.-publicistički; često kritika odugovlačenja",
+      "examples": [
+        {
+          "serbian_latin": "U pet do dvanaest, odnosno foto-finišu predaje izbornih lista u Novom Sadu...",
+          "russian": "В самый последний момент, буквально на финише подачи избирательных списков в Нови-Саде…",
+          "source": "N1, 2024",
+          "url": "https://n1info.rs/vesti/gari-za-garija-nije-cuo-fantomske-liste-u-novom-sadu-reanimirane-uoci-izbora/"
+        },
+        {
+          "serbian_latin": "Nemoj sve da ostavljaš za pet do dvanaest.",
+          "russian": "Не откладывай всё на последний момент.",
+          "source": ""
+        }
+      ],
+      "note": "В отличие от буквального указания времени, это выражение обозначает крайнюю близость срока, после которого возможность будет упущена. Очень характерны конструкции čekati do pet do dvanaest, reagovati u pet do dvanaest. Русскому важно помнить, что сербское «без пяти двенадцать» — не только время на часах, но и самостоятельный образ промедления.",
+      "keyword": "pet do dvanaest"
+    },
+    {
       "headword_latin": "U po bela dana",
       "type": "frazeologizam",
       "definition_ru": "среди бела дня; прямо днём; у всех на глазах",
@@ -58984,6 +59455,34 @@
       ],
       "note": "Очень частая формула при оценке собственной работы или результата. Может звучать конструктивно, но в устах перфекциониста — как невозможность признать результат достаточно хорошим.",
       "keyword": "uvek može bolje"
+    },
+    {
+      "headword_latin": "Uvijati / uviti nešto u oblande",
+      "type": "frazeologizam",
+      "definition_ru": "завуалировать; смягчать неприятную правду; облекать слова в красивую упаковку",
+      "synonyms_sr": [
+        "ublažavati",
+        "ulepšavati",
+        "govoriti uvijeno",
+        "okolišati"
+      ],
+      "literal_ru": "заворачивать что-либо в вафельные листы",
+      "register": "razg., iron.; naročito o ublažavanju neprijatne poruke",
+      "examples": [
+        {
+          "serbian_latin": "Bez uvijanja u oblande kazao je da je spreman da pogine u borbi protiv kopanja nikla, kobalta i litijuma.",
+          "russian": "Не смягчая выражений, он заявил, что готов погибнуть в борьбе против добычи никеля, кобальта и лития.",
+          "source": "Danas, 2024",
+          "url": "https://www.danas.rs/kolumna/dragoljub-petrovic/ginucemo-kad-naredi-kusta/"
+        },
+        {
+          "serbian_latin": "Nemoj da uvijaš u oblande, reci mi šta stvarno misliš.",
+          "russian": "Не ходи вокруг да около, скажи прямо, что ты думаешь.",
+          "source": ""
+        }
+      ],
+      "note": "Oblande — тонкие вафельные листы для приготовления домашних сладостей. Образ связан с заворачиванием неприятной информации в нечто более привлекательное. Важна отрицательная конструкция bez uvijanja u oblande — «без прикрас, без обиняков». Здесь не имеется в виду ложь: человек может говорить правду, но нарочно смягчать её форму.",
+      "keyword": "uvijati u oblande"
     },
     {
       "headword_latin": "Uvijati u oblande što",
@@ -63279,6 +63778,34 @@
       ],
       "note": "Образ связан с тем, что почка окружена жировой тканью, которая служит ей защитой и опорой; отсюда представление о максимально «удобном» положении. В речи выражение нередко ироническое: человек живёт очень комфортно, особенно по сравнению с окружающими.",
       "keyword": "bubreg u loju"
+    },
+    {
+      "headword_latin": "Živeti na tuđoj grbači",
+      "type": "frazeologizam",
+      "definition_ru": "жить за чужой счёт; сидеть у кого-то на шее; паразитировать на чужом труде",
+      "synonyms_sr": [
+        "živeti na tuđ račun",
+        "biti nekome na teretu",
+        "iskorišćavati druge",
+        "živeti od tuđeg rada"
+      ],
+      "literal_ru": "жить на чужом горбу",
+      "register": "razg., izrazito neodobr.; jače od živeti na tuđ račun",
+      "examples": [
+        {
+          "serbian_latin": "... živi na tuđoj grbači i naslađuje se tuđim mukama.",
+          "russian": "…живёт на чужом горбу и ещё наслаждается чужими страданиями.",
+          "source": "Danas, 2025",
+          "url": "https://www.danas.rs/vesti/politika/zlatko-kokanovic-za-danas-odgovara-vucicu-i-otkriva-hoce-li-biti-na-studenstkoj-listi/"
+        },
+        {
+          "serbian_latin": "Odrastao je čovek, a i dalje živi na roditeljskoj grbači.",
+          "russian": "Взрослый уже человек, а всё ещё сидит у родителей на шее.",
+          "source": ""
+        }
+      ],
+      "note": "Grbača — горб, спина, на которую ложится тяжесть. В выражении присутствует явное моральное осуждение человека, который перекладывает свои расходы и обязанности на других. В отличие от ранее рассмотренного na tuđ račun, эта форма почти всегда предполагает длительную зависимость или эксплуатацию чужого труда.",
+      "keyword": "tuđa grbača"
     },
     {
       "headword_latin": "Živeti na visokoj nozi",
