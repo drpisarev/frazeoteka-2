@@ -6315,6 +6315,30 @@
       "keyword": "gde ću pasti; seo bih"
     },
     {
+      "headword_latin": "Da znate da je ukusan Pantelija!",
+      "type": "krilatica",
+      "definition_ru": "А Пантелия-то, оказывается, вкусный!; знаменитая киноцитата с чёрным юмором",
+      "synonyms_sr": [],
+      "literal_ru": "",
+      "register": "filmska replika, crni humor; Maratonci trče počasni krug (1982)",
+      "examples": [
+        {
+          "serbian_latin": "Da znate da je ukusan Pantelija!",
+          "russian": "А Пантелия-то, оказывается, вкусный!",
+          "source": "Maratonci trče počasni krug, 1982",
+          "url": ""
+        },
+        {
+          "serbian_latin": "Ukusan ovaj Konstantin!",
+          "russian": "А Константин-то вкусный!",
+          "source": "Danas, 2013",
+          "url": "https://www.danas.rs/vesti/drustvo/konstantin-veliki-od-cokolade/"
+        }
+      ],
+      "note": "Pantelija Topalović — умерший глава семьи гробовщиков из фильма по сценарию Dušana Kovačevića. После его кремации семья собирается за столом, и Đenka произносит эту реплику, пробуя жаркое. Комизм строится на чудовищном предположении, будто присутствующие едят самого покойного. Это один из характерных примеров чёрного юмора фильма. Реплику цитируют и переиначивают, рассчитывая на узнавание сцены; вне культурного контекста она выглядит бессмысленной. Вариант пользователя Ukusan je taj Pantelija понятен, но для словаря лучше сохранить узнаваемую форму Da znate da je ukusan Pantelija!",
+      "keyword": "ukusan Pantelija"
+    },
+    {
       "headword_latin": "Daj Bože zdravlja, ostalo ima kod Kineza",
       "type": "izreka",
       "definition_ru": "главное — здоровье, остальное купим; было бы здоровье, а всё прочее найдётся",
@@ -13810,6 +13834,39 @@
       ],
       "note": "Формула может быть добродушной — например, когда человек угощает друзей, — но в публицистике почти всегда иронична и намекает на показное богатство или неоправданные траты. Русское «можем себе позволить» нейтральнее; для иронического контекста лучше «шикуем», «живём широко», «деньги есть — гуляем».",
       "keyword": "ima se može se"
+    },
+    {
+      "headword_latin": "Ima slike, nema tona",
+      "type": "izraz",
+      "definition_ru": "картинка есть, а звука нет; сидит молча, словно немой; присутствует, но ничего не говорит",
+      "synonyms_sr": [
+        "ćutati kao zaliven",
+        "ne progovarati ni reč",
+        "ostati bez glasa"
+      ],
+      "literal_ru": "есть изображение, но нет звука",
+      "register": "razg., šalj., iron.; varijanta: Ima slika, nema ton",
+      "examples": [
+        {
+          "serbian_latin": "Ima slika, nema ton: Dušan Bajatović za pet godina tri puta progovorio u Skupštini!",
+          "russian": "Картинка есть, звука нет: за пять лет Душан Баятович выступил в парламенте всего три раза!",
+          "source": "Kurir, 2021",
+          "url": "https://www.kurir.rs/vesti/politika/3777457/dusan-bajatovic-za-pet-godina-tri-puta-progovorio-u-skupstini"
+        },
+        {
+          "serbian_latin": "Za trenutak, osmeh mu je ostao zaleđen po principu ima slika nema ton.",
+          "russian": "На мгновение улыбка застыла на его лице, словно изображение осталось, а звук пропал.",
+          "source": "Politika, 2025",
+          "url": "https://www.politika.rs/sr/clanak/687831/ko-je-proterao-osmeh-iz-nasih-krajeva"
+        },
+        {
+          "serbian_latin": "Vidim te na ekranu, ali te ne čujem. Ima slike, nema tona!",
+          "russian": "Я вижу тебя на экране, но не слышу. Картинка есть, звука нет!",
+          "source": ""
+        }
+      ],
+      "note": "Выражение возникло из привычной ситуации с телевизором: изображение есть, а звук отсутствует. Переносно его используют о молчаливом, неразговорчивом или не отвечающем человеке; иногда — о сильно пьяном человеке, который уже не может связно говорить. В публицистике оно бывает насмешливым обозначением публичного лица, которое появляется на публике, но ничего не говорит. Грамматически правильнее Ima slike, nema tona, однако разговорная формула Ima slika, nema ton тоже реально употребляется.",
+      "keyword": "ima slike nema tona"
     },
     {
       "headword_latin": "Imati / hteti i ovce i novce",
