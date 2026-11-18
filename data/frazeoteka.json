@@ -9767,6 +9767,40 @@
       "keyword": "palac"
     },
     {
+      "headword_latin": "Držati pridike",
+      "type": "frazeologizam",
+      "definition_ru": "читать нотации; читать мораль; поучать, наставлять свысока",
+      "synonyms_sr": [
+        "držati lekcije",
+        "soliti nekome pamet",
+        "popovati",
+        "pridikovati"
+      ],
+      "literal_ru": "",
+      "register": "razg., neodobr.; držati nekome pridike (dativ), držati pridike o nečemu",
+      "examples": [
+        {
+          "serbian_latin": "Neće mi Marta Kos držati pridike o tome ko su zločinci.",
+          "russian": "Не Марте Кос читать мне нотации о том, кто является преступником.",
+          "source": "Politika, 2026",
+          "url": "https://www.politika.rs/sr/clanak/783112/vucic-nece-mi-marta-kos-drzati-pridike-o-tome-ko-su-zlocinci"
+        },
+        {
+          "serbian_latin": "Lina se, međutim, protivi tome da joj porodica Tomović, iz koje je i njen muž Zoran, drži pridike.",
+          "russian": "Однако Лина не желает, чтобы семья Томовичей, к которой принадлежит и её муж Зоран, читала ей мораль.",
+          "source": "RTS, 2022",
+          "url": "https://www.rts.rs/lat/tv/rts1/4788811/tajne-vinove-loze.html"
+        },
+        {
+          "serbian_latin": "Nemoj da mi držiš pridike! Znam i sam šta sam pogrešio.",
+          "russian": "Не читай мне нотации! Я и сам знаю, в чём ошибся.",
+          "source": ""
+        }
+      ],
+      "note": "Pridika первоначально связана с проповедью и нравственным наставлением. В современной разговорной речи držati pridike почти всегда имеет отрицательный оттенок: человек поучает другого, нередко свысока и без приглашения. В отличие от držati predavanje — «читать лекцию», это не нейтральная передача знаний, а навязчивое морализаторство. Важно запомнить дательный падеж: drži mi pridike, drži joj pridike, drži nam pridike.",
+      "keyword": "držati pridike"
+    },
+    {
       "headword_latin": "Držati reč",
       "type": "izraz",
       "definition_ru": "держать слово; выполнять обещание; быть верным своему слову",
