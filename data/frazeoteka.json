@@ -6293,6 +6293,33 @@
       "keyword": "da se ne lažemo"
     },
     {
+      "headword_latin": "Da se razumemo",
+      "type": "replika",
+      "definition_ru": "давай уточним; чтобы не было недоразумений; сразу расставим точки над i",
+      "synonyms_sr": [
+        "da budemo jasni",
+        "da razjasnimo",
+        "da ne bude zabune",
+        "samo da pojasnim"
+      ],
+      "literal_ru": "",
+      "register": "razg.; uvodna formula pre važne ograde ili objašnjenja",
+      "examples": [
+        {
+          "serbian_latin": "Da se razumemo, ovo mudri Štimac šalje poruku...",
+          "russian": "Чтобы не было недоразумений: этим Штимац посылает определённый сигнал…",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Da se razumemo, nisam protiv predloga, samo mislim da je prerano.",
+          "russian": "Сразу уточню: я не против предложения, просто считаю, что ещё рано.",
+          "source": ""
+        }
+      ],
+      "note": "В отличие от da se ne lažemo — «будем откровенны», здесь акцент на устранении возможного недопонимания. Формула может звучать дружелюбно, но часто предвещает твёрдую позицию или возражение. Не путать с вопросом Da li se razumemo?, который иногда звучит как требование подчиниться.",
+      "keyword": "da se razumemo"
+    },
+    {
       "headword_latin": "Da se Vlasi ne dosete",
       "type": "izraz",
       "definition_ru": "чтобы никто не догадался; для отвода глаз; замаскировать истинный смысл или намерение",
@@ -8343,6 +8370,32 @@
       ],
       "note": "U srpskim izvorima potvrđeni su oblici kao kec na desetku i kao kec na deset. Oba označavaju nešto što se pojavilo u naročito pogodnom trenutku.",
       "keyword": "kec; desetka"
+    },
+    {
+      "headword_latin": "Doći kao poručen",
+      "type": "frazeologizam",
+      "definition_ru": "прийтись как нельзя кстати; появиться очень вовремя; словно по заказу",
+      "synonyms_sr": [
+        "doći u pravi čas",
+        "dobro doći",
+        "pojaviti se baš kad treba"
+      ],
+      "literal_ru": "прийти словно специально заказанный",
+      "register": "neutralno-razg.; poručen, poručena, poručeno prema rodu subjekta",
+      "examples": [
+        {
+          "serbian_latin": "Kao poručen im je došao slučaj učiteljice iz novopazarske škole.",
+          "russian": "Случай с учительницей из новопазарской школы пришёлся им как нельзя кстати.",
+          "source": "Danas, 2021"
+        },
+        {
+          "serbian_latin": "Tvoja pomoć je došla kao poručena.",
+          "russian": "Твоя помощь пришлась как нельзя кстати.",
+          "source": ""
+        }
+      ],
+      "note": "Слово poručen здесь связано с poručiti — «заказать», но выражение не предполагает реального заказа. Оно может звучать искренне благодарно или иронически, если ситуация оказалась слишком удобной для чьих-то интересов. Нужно согласовывать причастие с подлежащим: lek je došao kao poručen, pomoć je došla kao poručena.",
+      "keyword": "kao poručen"
     },
     {
       "headword_latin": "Doći na svoje",
@@ -11205,6 +11258,32 @@
       "keyword": "gde je tanko"
     },
     {
+      "headword_latin": "Gde je zapelo?",
+      "type": "replika",
+      "definition_ru": "в чём загвоздка?; что застопорилось?; где возникла проблема?",
+      "synonyms_sr": [
+        "u čemu je problem",
+        "šta koči stvar",
+        "gde je nastao zastoj"
+      ],
+      "literal_ru": "",
+      "register": "razg.; pitanje o zastoju u poslu ili procesu",
+      "examples": [
+        {
+          "serbian_latin": "Gde je zapelo u dobijanju upotrebne dozvole?",
+          "russian": "В чём возникла загвоздка с получением разрешения на эксплуатацию здания?",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Već nedelju dana čekamo ugovor. Gde je zapelo?",
+          "russian": "Уже неделю ждём договор. Что застопорилось?",
+          "source": ""
+        }
+      ],
+      "note": "Глагол zapeti может означать «зацепиться, застрять», а также «усердно взяться за дело». В реплике Gde je zapelo? реализуется первое переносное значение — процесс остановился из-за препятствия. Это естественный способ спросить о задержке без прямого обвинения собеседника.",
+      "keyword": "gde je zapelo"
+    },
+    {
       "headword_latin": "Gde si, sokole!",
       "type": "replika",
       "definition_ru": "здорово, орёл!; привет, дорогой!; куда пропал?",
@@ -13537,30 +13616,29 @@
     {
       "headword_latin": "Ići nekome od ruke",
       "type": "frazeologizam",
-      "definition_ru": "хорошо получаться, легко даваться кому-либо; быть в чём-либо умелым",
+      "definition_ru": "хорошо даваться; легко получаться; быть в чём-то способным",
       "synonyms_sr": [
-        "dobro ići",
-        "lako polaziti za rukom",
-        "biti vešt u nečemu"
+        "dobro polaziti za rukom",
+        "biti vešt u nečemu",
+        "lako savladavati nešto",
+        "dobro uspevati"
       ],
-      "literal_ru": "идти кому-либо от руки",
-      "register": "neutralno i razg.; često uz dativ: ide mi / ti / mu od ruke",
+      "literal_ru": "",
+      "register": "neutralno-razg.; ide mi, ide ti, ide mu od ruke, dativ",
       "examples": [
         {
-          "serbian_latin": "Crna komedija nam ide od ruke, kao Brazilcima fudbal.",
-          "russian": "Чёрная комедия нам удаётся так же хорошо, как бразильцам футбол.",
-          "source": "Politika, 2012",
-          "url": "https://www.politika.rs/sr/clanak/240008/crna-komedija-nam-ide-od-ruke-kao-brazilcima-fudbal"
+          "serbian_latin": "Crna komedija nam ide od ruke kao Brazilcima fudbal.",
+          "russian": "Чёрные комедии удаются нам так же хорошо, как бразильцам футбол.",
+          "source": "Politika, 2012"
         },
         {
-          "serbian_latin": "Pravopis im ide od ruke.",
-          "russian": "Правописание им даётся хорошо.",
-          "source": "Blic, 2017",
-          "url": "https://www.blic.rs/vesti/drustvo/pravopis-im-ide-od-ruke-ali-knjizevnost-osmake-na-testu-iz-srpskog-namucili-tom-sojer/dhrs4c9"
+          "serbian_latin": "Matematika mi nikada nije išla od ruke.",
+          "russian": "Математика мне никогда особенно не давалась.",
+          "source": ""
         }
       ],
-      "note": "Типичная модель: nešto nekome ide od ruke. Противоположность: ne ide mi od ruke — «у меня это плохо получается».",
-      "keyword": "ići od ruke; uspevati; veština"
+      "note": "Не путать с ići nekome na ruku — «идти навстречу, оказывать содействие»: отличается всего один предлог, а значение совсем другое. В выражении ići od ruke человек в дательном падеже — тот, у кого что-то получается: meni kuvanje ide od ruke.",
+      "keyword": "ići od ruke"
     },
     {
       "headword_latin": "Ići s kokoškama na spavanje",
@@ -16044,6 +16122,59 @@
       "keyword": "aduti iz ruku"
     },
     {
+      "headword_latin": "Izbiti na videlo",
+      "type": "frazeologizam",
+      "definition_ru": "всплыть наружу; обнаружиться; выйти на свет",
+      "synonyms_sr": [
+        "otkriti se",
+        "isplivati na površinu",
+        "izaći na videlo",
+        "postati poznato"
+      ],
+      "literal_ru": "",
+      "register": "neutralno-publicistički; o otkrivanju prikrivenih činjenica",
+      "examples": [
+        {
+          "serbian_latin": "... a i kad bi nešto izbilo na videlo, to se proglašavalo slučajnošću.",
+          "russian": "…а когда что-нибудь всё же всплывало наружу, это объявляли случайностью.",
+          "source": "Danas, 2024"
+        },
+        {
+          "serbian_latin": "Posle istrage na videlo su izbile nove činjenice.",
+          "russian": "После расследования вскрылись новые обстоятельства.",
+          "source": ""
+        }
+      ],
+      "note": "Videlo — «свет», особенно дневной, а не «то, что кто-то увидел». Выражение подчёркивает переход от скрытого к известному. Встречаются оба глагола — izbiti na videlo и izaći na videlo, но первый может сильнее передавать неожиданное или резкое обнаружение.",
+      "keyword": "izbiti na videlo"
+    },
+    {
+      "headword_latin": "Izbiti nekome nešto iz glave",
+      "type": "frazeologizam",
+      "definition_ru": "выбить что-либо из головы; заставить отказаться от замысла; отговорить",
+      "synonyms_sr": [
+        "odvratiti od namere",
+        "razuveriti",
+        "naterati nekoga da odustane"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; nekome, dativ; nešto, akuzativ",
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu da mu izbijem tu ideju iz glave.",
+          "russian": "Никак не могу выбить у него эту идею из головы.",
+          "source": ""
+        },
+        {
+          "serbian_latin": "Izbij sebi iz glave da ćeš sve završiti za jedan dan.",
+          "russian": "Выкинь из головы мысль, что закончишь всё за один день.",
+          "source": ""
+        }
+      ],
+      "note": "Русский и сербский образы близки, но стоит запомнить конструкцию с двумя дополнениями: izbiti mu to iz glave. Возвратного глагола здесь нет; даже при обращении к себе используется izbij sebi iz glave. Сочетание подтверждается и сербскими лингвистическими исследованиями фразеологии.",
+      "keyword": "izbiti iz glave"
+    },
+    {
       "headword_latin": "Izgledati kao avion",
       "type": "frazeologizam",
       "definition_ru": "Выглядеть сногсшибательно; выглядеть на все сто; быть просто отпад.",
@@ -16415,6 +16546,32 @@
       ],
       "note": "Встречаются глаголы izvući и izmaći; русскому чаще всего естественно «выбить почву из-под ног».",
       "keyword": "tepih ispod nogu"
+    },
+    {
+      "headword_latin": "Izvući asa iz rukava",
+      "type": "frazeologizam",
+      "definition_ru": "вытащить козырь из рукава; неожиданно предъявить сильный аргумент; приберечь решающий ход",
+      "synonyms_sr": [
+        "iskoristiti skriveni adut",
+        "iznenaditi protivnika",
+        "odigrati odlučujući potez"
+      ],
+      "literal_ru": "вытащить туза из рукава",
+      "register": "razg.-publicistički; o nadmetanju, pregovorima i takmičenju",
+      "examples": [
+        {
+          "serbian_latin": "Može li se Tragač nadmudriti uz dobru formulu, pravi izbor reči i poneki as iz rukava?",
+          "russian": "Можно ли перехитрить Преследователя благодаря хорошей формуле, правильному подбору слов и паре припрятанных козырей?",
+          "source": "RTS, 2026"
+        },
+        {
+          "serbian_latin": "Kad su svi mislili da je izgubila, izvukla je asa iz rukava.",
+          "russian": "Когда все решили, что она проиграла, она достала припрятанный козырь.",
+          "source": ""
+        }
+      ],
+      "note": "Образ связан с карточной игрой и скрытой до нужного момента сильной картой. Сербское as — туз, тогда как adut — козырь. Не обязательно подразумевается мошенничество: чаще речь о неожиданно использованном преимуществе.",
+      "keyword": "as iz rukava"
     },
     {
       "headword_latin": "izvući deblji kraj",
@@ -17434,6 +17591,33 @@
       ],
       "note": "Kadija — историческое название судьи в Османской империи. В современной формуле исторический контекст вторичен: главное — отсутствие независимого арбитра и очевидный конфликт интересов. Пословица очень резкая и обычно выражает недоверие к процедуре, органу власти или расследованию.",
       "keyword": "kadija te tuži kadija ti sudi"
+    },
+    {
+      "headword_latin": "Kako se uzme",
+      "type": "replika",
+      "definition_ru": "смотря как посмотреть; это как считать; вопрос спорный",
+      "synonyms_sr": [
+        "zavisi kako gledaš",
+        "kako za koga",
+        "zavisi od ugla gledanja",
+        "nije jednoznačno"
+      ],
+      "literal_ru": "",
+      "register": "razg.; samostalan odgovor koji ukazuje na relativnost procene",
+      "examples": [
+        {
+          "serbian_latin": "Para i ima i nema, kako se uzme...",
+          "russian": "Денег и хватает, и не хватает — смотря как посмотреть…",
+          "source": "Politika, 2024"
+        },
+        {
+          "serbian_latin": "Je li taj restoran skup? — Kako se uzme.",
+          "russian": "Этот ресторан дорогой? — Смотря с чем сравнивать.",
+          "source": ""
+        }
+      ],
+      "note": "Не следует переводить uzeti буквально как «взять». Реплика означает, что ответ зависит от критериев сравнения или точки зрения. Она часто позволяет мягко не согласиться с категоричным утверждением собеседника.",
+      "keyword": "kako se uzme"
     },
     {
       "headword_latin": "Kako seješ, tako žanješ",
@@ -20861,6 +21045,32 @@
       "keyword": "lepa reč; gvozdena vrata"
     },
     {
+      "headword_latin": "Lepak za budale",
+      "type": "izraz",
+      "definition_ru": "магнит для дураков; человек, к которому постоянно липнут глупцы или неприятные личности",
+      "synonyms_sr": [
+        "magnet za budale",
+        "privlačiti naporne ljude",
+        "privlačiti naivčine"
+      ],
+      "literal_ru": "клей для дураков",
+      "register": "razg., iron., neodobr.; o osobi ili situaciji koja privlači nepoželjne ljude",
+      "examples": [
+        {
+          "serbian_latin": "Ona je definitivno „lepak za budale“.",
+          "russian": "Она определённо магнит для всяких идиотов.",
+          "source": "Politika, 2013"
+        },
+        {
+          "serbian_latin": "Ne znam zašto mi se stalno javljaju takvi ljudi. Kao da sam lepak za budale.",
+          "russian": "Не понимаю, почему ко мне всё время обращаются такие люди. Как будто я специально притягиваю всяких дураков.",
+          "source": ""
+        }
+      ],
+      "note": "Образ строится на том, что к клею всё прилипает. Выражение может быть самоироничным, когда человек жалуется на неприятные знакомства. Оно грубее нейтрального privlačiti neobične ljude, поэтому лучше использовать его только в неофициальном разговоре.",
+      "keyword": "lepak za budale"
+    },
+    {
       "headword_latin": "lepiti se kao muve na govno",
       "type": "poređenje",
       "definition_ru": "липнуть как мухи к д*рьму; толпиться вокруг кого-либо из-за сильного влечения или корыстного интереса",
@@ -21877,6 +22087,33 @@
       ],
       "note": "Реплика обозначает удивление неожиданной связью между людьми, а не размер Земли. Очень типична после случайной встречи или обнаружения общих знакомых. В русском её почти всегда можно перевести прямо: «мир тесен».",
       "keyword": "mali je svet!"
+    },
+    {
+      "headword_latin": "Malo morgen!",
+      "type": "replika",
+      "definition_ru": "как бы не так!; размечтался!; фиг тебе!",
+      "synonyms_sr": [
+        "malo sutra",
+        "ma kakvi",
+        "nema šanse",
+        "neće moći"
+      ],
+      "literal_ru": "",
+      "register": "razg., iron.; kategorično odbijanje",
+      "examples": [
+        {
+          "serbian_latin": "Propašćemo? Malo morgen!",
+          "russian": "Мы пропадём? Как бы не так!",
+          "source": "BBC na srpskom / Danas, 2026"
+        },
+        {
+          "serbian_latin": "Misliš da ću ti opet pozajmiti auto? Malo morgen!",
+          "russian": "Думаешь, я опять одолжу тебе машину? Размечтался!",
+          "source": ""
+        }
+      ],
+      "note": "Это устойчивое эмоциональное отрицание, а не сочетание со словом morgen в его буквальном значении «завтра» по-немецки. Выражение стало особенно узнаваемым благодаря публичной реплике Slobodana Miloševića в 1991 году. В отличие от простого ne, оно передаёт насмешливую уверенность, что ожидаемое не произойдёт.",
+      "keyword": "malo morgen"
     },
     {
       "headword_latin": "Malo sutra",
@@ -25334,6 +25571,33 @@
       "keyword": "Ne dao Bog"
     },
     {
+      "headword_latin": "Ne dati na sebe",
+      "type": "frazeologizam",
+      "definition_ru": "не давать себя в обиду; постоять за себя; не позволять унижать себя",
+      "synonyms_sr": [
+        "braniti se",
+        "zauzeti se za sebe",
+        "ne trpeti poniženje",
+        "suprotstaviti se"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; ne dam na sebe, ne da na sebe",
+      "examples": [
+        {
+          "serbian_latin": "Građani su na ovaj način jasno rekli šta misle, da ne daju na sebe...",
+          "russian": "Таким образом граждане ясно показали свою позицию и то, что не позволят себя унижать…",
+          "source": "RTS, 2017"
+        },
+        {
+          "serbian_latin": "Ona nikome ne dozvoljava da je ponižava — ne da na sebe.",
+          "russian": "Она никому не позволяет себя унижать — умеет постоять за себя.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь dati не означает «дать кому-то вещь». Отрицание входит в привычную конструкцию, которая выражает готовность защищать свои права, достоинство или интересы. Возможно и ne dati na svoje — не позволять обижать своих близких.",
+      "keyword": "ne dati na sebe"
+    },
+    {
       "headword_latin": "Ne dati ni Bogu tamjana",
       "type": "frazeologizam",
       "definition_ru": "быть невероятно скупым; зимой снега не выпросишь",
@@ -26663,6 +26927,32 @@
       "keyword": "neće ti faliti ni dlaka s glave"
     },
     {
+      "headword_latin": "Neka visi Pedro!",
+      "type": "krilatica",
+      "definition_ru": "пусть крайним будет Педро; найти козла отпущения; свалить вину на кого-нибудь",
+      "synonyms_sr": [
+        "svaliti krivicu na nekoga",
+        "naći žrtvenog jarca",
+        "okriviti nedužnog"
+      ],
+      "literal_ru": "пусть повесят Педро",
+      "register": "krilatica, iron., crni humor; kritikovanje traženja žrtvenog jarca",
+      "examples": [
+        {
+          "serbian_latin": "Ne može se raditi po principu „neka visi Pedro“.",
+          "russian": "Нельзя действовать по принципу «назначим кого-нибудь крайним».",
+          "source": "Danas, 2026"
+        },
+        {
+          "serbian_latin": "Kad god nastane problem, nađu nekoga da odgovara. Neka visi Pedro!",
+          "russian": "Как только возникает проблема, находят того, кто за всё ответит. Пусть крайним будет Педро!",
+          "source": ""
+        }
+      ],
+      "note": "Здесь обычно не имеется в виду действительная казнь. Реплика высмеивает ситуацию, когда ради видимости справедливости кого-то назначают виновным, не разобравшись в обстоятельствах. Выражение употребляется и как сатирическая отсылка; его происхождение часто объясняют через массовую культуру, но конкретную первоначальную версию без надёжного подтверждения фиксировать не стоит.",
+      "keyword": "neka visi Pedro"
+    },
+    {
       "headword_latin": "Neko te spominje",
       "type": "narodno verovanje / razgovorna formula",
       "definition_ru": "кто-то тебя вспоминает или говорит о тебе; так шутливо говорят человеку, который икает",
@@ -27213,6 +27503,33 @@
       ],
       "note": "Trte-mrte само по себе не следует пытаться буквально переводить: это рифмованная разговорная формула, обозначающая увиливание, пустые отговорки и неопределённость. Поэтому nema trte-mrte означает, что правила ясны и возможности выкручиваться больше нет.",
       "keyword": "trte-mrte"
+    },
+    {
+      "headword_latin": "Nema tu mnogo filozofije",
+      "type": "replika",
+      "definition_ru": "тут нечего мудрить; ничего сложного; всё довольно просто",
+      "synonyms_sr": [
+        "stvar je jednostavna",
+        "nema komplikovanja",
+        "sve je jasno",
+        "nema potrebe za mudrovanjem"
+      ],
+      "literal_ru": "",
+      "register": "razg., ponekad prezrivo; o očiglednom ili jednostavnom problemu",
+      "examples": [
+        {
+          "serbian_latin": "Nema tu mnogo filozofije. Sve naše kolege su svesne da uspešan timski rad zahteva odgovornost svakog pojedinca.",
+          "russian": "Тут нечего мудрить. Все наши коллеги понимают, что успешная командная работа требует ответственности каждого.",
+          "source": "021.rs, 2021"
+        },
+        {
+          "serbian_latin": "Treba redovno vežbati i dovoljno spavati. Nema tu mnogo filozofije.",
+          "russian": "Надо регулярно заниматься и достаточно спать. Ничего сложного.",
+          "source": ""
+        }
+      ],
+      "note": "Filozofija здесь не обозначает философию как науку. Имеются в виду ненужные рассуждения, усложнение простой задачи, попытки слишком много теоретизировать. В споре выражение может звучать снисходительно, словно собеседник усложняет очевидные вещи.",
+      "keyword": "nema tu mnogo filozofije"
     },
     {
       "headword_latin": "Nema vajde",
@@ -33872,6 +34189,32 @@
       "keyword": "platiti ceh"
     },
     {
+      "headword_latin": "Platiti danak neiskustvu",
+      "type": "frazeologizam",
+      "definition_ru": "поплатиться за неопытность; совершить ошибки из-за нехватки опыта; расплатиться за недостаток практики",
+      "synonyms_sr": [
+        "ispaštati zbog neiskustva",
+        "snositi posledice neiskustva",
+        "pogrešiti zbog manjka iskustva"
+      ],
+      "literal_ru": "заплатить дань неопытности",
+      "register": "publicistički, naročito sportski; platiti danak + dativ",
+      "examples": [
+        {
+          "serbian_latin": "Platili smo danak neiskustvu.",
+          "russian": "Мы поплатились за неопытность.",
+          "source": "Danas, 2018"
+        },
+        {
+          "serbian_latin": "Mlad tim je u završnici utakmice platio danak neiskustvu.",
+          "russian": "В концовке матча молодая команда поплатилась за недостаток опыта.",
+          "source": ""
+        }
+      ],
+      "note": "Danak исторически обозначал дань, подать, обязательный платёж. В переносной конструкции platiti danak nečemu означает понести издержки из-за определённого фактора. В спорте сочетание настолько распространено, что иногда служит стандартным объяснением поражения; оно подходит и для бизнеса, медицины, повседневной жизни.",
+      "keyword": "danak neiskustvu"
+    },
+    {
       "headword_latin": "Plava krv",
       "type": "izraz",
       "definition_ru": "голубая кровь; аристократическое происхождение; знатный род",
@@ -34682,6 +35025,33 @@
       ],
       "note": "Для русского особенно коварно слово klip: здесь это не «клип» в современном русском смысле, а предмет, которым можно заклинить движение колеса. Поэтому естественный русский эквивалент — именно «вставлять палки в колёса». Полная образная форма podmetati klipove pod točkove особенно наглядна.",
       "keyword": "podmetati klipove"
+    },
+    {
+      "headword_latin": "Podmetati nogu nekome",
+      "type": "frazeologizam",
+      "definition_ru": "ставить палки в колёса; подставлять; намеренно мешать",
+      "synonyms_sr": [
+        "saplitati",
+        "ometati",
+        "sabotirati",
+        "raditi nekome iza leđa"
+      ],
+      "literal_ru": "подставлять кому-то ногу",
+      "register": "razg., neodobr.; nekome, dativ; nesvršeni vid podmetati, svršeni podmetnuti",
+      "examples": [
+        {
+          "serbian_latin": "... jednog visoko pozicioniranog člana stranke koji je navodno podmetao nogu...",
+          "russian": "…одного высокопоставленного члена партии, который якобы намеренно мешал другим…",
+          "source": "Nova.rs, 2024"
+        },
+        {
+          "serbian_latin": "Umesto da mi pomogne, stalno mi podmeće nogu.",
+          "russian": "Вместо того чтобы помочь, он постоянно ставит мне палки в колёса.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение может обозначать и буквальную подножку, и сознательное препятствование чьим-либо усилиям. Переносно оно предполагает недоброжелательное, часто скрытое действие. Podmetati nogu — несовершенный вид; podmetnuti nogu — совершенный.",
+      "keyword": "podmetati nogu"
     },
     {
       "headword_latin": "Podmetnuti kukavičje jaje",
@@ -45410,6 +45780,33 @@
       "keyword": "svršen čin"
     },
     {
+      "headword_latin": "Staviti nekome bubu u uvo",
+      "type": "frazeologizam",
+      "definition_ru": "заронить мысль; посеять сомнение; подкинуть идею",
+      "synonyms_sr": [
+        "navesti na razmišljanje",
+        "zagolicati maštu",
+        "pobuditi sumnju",
+        "ubaciti ideju"
+      ],
+      "literal_ru": "посадить кому-то жучка в ухо",
+      "register": "razg., ekspresivno; staviti nekome, dativ; varijanta: ubaciti bubu u uvo",
+      "examples": [
+        {
+          "serbian_latin": "Samo još da ubacim nekome „bubu u uvo“, da se pokrene ekipa.",
+          "russian": "Осталось только подкинуть кому-нибудь идею, чтобы вся компания собралась.",
+          "source": "Zvoncara, 2020"
+        },
+        {
+          "serbian_latin": "Stavio si mi bubu u uvo i sad stalno razmišljam o tome.",
+          "russian": "Ты заронил мне эту мысль, и теперь я постоянно об этом думаю.",
+          "source": ""
+        }
+      ],
+      "note": "Выражение не обязательно означает внушение подозрений: это может быть интересная идея, которая затем не выходит из головы. Важно сербское uvo, а не хорватское uho. По смыслу оно близко русскому «зародить мысль», но образ подчёркивает назойливость этой мысли.",
+      "keyword": "buba u uvo"
+    },
+    {
       "headword_latin": "Staviti nekome nož pod grlo",
       "type": "frazeologizam",
       "definition_ru": "приставить нож к горлу; поставить перед жёстким ультиматумом; вынудить под угрозой",
@@ -47354,6 +47751,32 @@
       "keyword": "šio mi ga Đura"
     },
     {
+      "headword_latin": "Široko ti polje!",
+      "type": "replika",
+      "definition_ru": "скатертью дорога!; никто не держит!; ступай куда хочешь!",
+      "synonyms_sr": [
+        "idi kud hoćeš",
+        "niko te ne zadržava",
+        "slobodno idi"
+      ],
+      "literal_ru": "широко тебе поле",
+      "register": "razg., prezrivo, ponekad grubo; odgovor na nezadovoljstvo ili pretnju odlaskom",
+      "examples": [
+        {
+          "serbian_latin": "Ako ti je Beograd tesan — široko ti polje.",
+          "russian": "Если тебе в Белграде тесно — скатертью дорога.",
+          "source": "Danas, komentar čitaoca, 2025"
+        },
+        {
+          "serbian_latin": "Ne sviđa ti se ovde? Široko ti polje!",
+          "russian": "Не нравится здесь? Никто тебя не держит!",
+          "source": ""
+        }
+      ],
+      "note": "Несмотря на положительно звучащий образ свободного пространства, реплика обычно недружелюбна. Её произносят, когда не намерены уговаривать человека остаться или соглашаться с ним. Не следует использовать široko ti polje вместо нейтрального пожелания доброго пути.",
+      "keyword": "široko ti polje"
+    },
+    {
       "headword_latin": "Šiškiriški, ko to tamo piški",
       "type": "dečja rima / neproverena formula",
       "definition_ru": "рифмованная детская дразнилка или считалочная формула; точное устойчивое значение не установлено",
@@ -47690,6 +48113,33 @@
       ],
       "note": "Полностью узнаваемая международная формула. Она используется не столько для настоящего вопроса о происхождении курицы, сколько для циклических проблем, где причина и следствие зависят друг от друга.",
       "keyword": "kokoška; jaje"
+    },
+    {
+      "headword_latin": "Šta je, tu je",
+      "type": "replika",
+      "definition_ru": "что есть, то есть; ничего не поделаешь; что уж теперь",
+      "synonyms_sr": [
+        "tako je kako je",
+        "nema nazad",
+        "šta da se radi",
+        "pomiriti se sa situacijom"
+      ],
+      "literal_ru": "",
+      "register": "razg.; prihvatanje već nastalih okolnosti",
+      "examples": [
+        {
+          "serbian_latin": "Šta je tu je, samo da se smirimo i što bolje spremimo da uzmemo bronzu.",
+          "russian": "Что уж теперь, главное — успокоиться и как можно лучше подготовиться к борьбе за бронзу.",
+          "source": "RTS, 2012"
+        },
+        {
+          "serbian_latin": "Propustili smo voz. Šta je, tu je, idemo sledećim.",
+          "russian": "Опоздали на поезд. Ничего не поделаешь, поедем следующим.",
+          "source": ""
+        }
+      ],
+      "note": "Здесь главное не констатация факта, а отказ бесконечно переживать о том, что уже произошло. Часто после этой реплики следует практический шаг: Šta je, tu je, idemo dalje. В отличие от nema veze, она не обязательно означает, что случившееся неважно.",
+      "keyword": "šta je tu je"
     },
     {
       "headword_latin": "Šta nema!",
@@ -48124,29 +48574,29 @@
     },
     {
       "headword_latin": "Što se mora, nije teško",
-      "type": "izreka",
-      "definition_ru": "надо так надо; что неизбежно, то не в тягость",
+      "type": "poslovica",
+      "definition_ru": "надо так надо; раз уж нужно, придётся; необходимость облегчает дело",
       "synonyms_sr": [
-        "mora se",
-        "kad moraš, moraš",
-        "nema druge"
+        "šta se mora, mora se",
+        "nema druge",
+        "treba prihvatiti obavezu"
       ],
-      "literal_ru": "то, что приходится делать, не трудно",
-      "register": "poslovično, pomirljivo; često polušaljivo",
+      "literal_ru": "",
+      "register": "poslovica; pomirljivo, ohrabrujuće ili ironično",
       "examples": [
         {
-          "serbian_latin": "Kritikovana poslovica „što se mora nije teško“ ipak važi u ovom slučaju.",
-          "russian": "Раскритикованная поговорка «надо так надо» в этом случае всё-таки работает.",
-          "source": "RTS, 2026"
+          "serbian_latin": "Ne padaju mi teško. Sigurno im se ne radujem, ali što se mora nije teško.",
+          "russian": "Мне это не в тягость. Радости, конечно, мало, но раз надо, значит надо.",
+          "source": "Danas, 2020"
         },
         {
-          "serbian_latin": "Ustajem u pet, ali što se mora, nije teško.",
-          "russian": "Встаю в пять, но надо так надо.",
+          "serbian_latin": "Opet moraš na posao u subotu? — Što se mora, nije teško.",
+          "russian": "Опять в субботу работать? — Что поделать, раз нужно.",
           "source": ""
         }
       ],
-      "note": "В реальности обязательное может быть очень тяжёлым: фраза выражает не объективную лёгкость, а установку «раз выбора нет, нечего жаловаться». Употребляется как утешение себя или другого перед неизбежной обязанностью.",
-      "keyword": "morati"
+      "note": "Пословица не утверждает, что обязательная работа объективно легка. Это способ принять неизбежное и перестать жаловаться, иногда с самоиронией. В повседневной речи чаще используется как готовая реакция, а не как серьёзное нравоучение.",
+      "keyword": "što se mora nije teško"
     },
     {
       "headword_latin": "Što trezan misli, pijan govori",
@@ -62878,6 +63328,33 @@
       ],
       "note": "Устойчивый возглас, когда человек хочет буквально «исчезнуть» от стыда или неловкости. Может также выражать шок и возмущение, но базовый образ — желание провалиться сквозь землю.",
       "keyword": "zemljo otvori se; stid; blam"
+    },
+    {
+      "headword_latin": "Zglajznuti",
+      "type": "glagol",
+      "definition_ru": "вылететь с должности; пойти под откос; потерпеть крах; попасть в немилость",
+      "synonyms_sr": [
+        "propasti",
+        "izgubiti položaj",
+        "pasti u nemilost",
+        "loše završiti"
+      ],
+      "literal_ru": "",
+      "register": "razg., ekspresivno; često o karijeri, položaju i neuspehu",
+      "examples": [
+        {
+          "serbian_latin": "Ako ćemo pošteno, svi mi smo „zglajznuli“.",
+          "russian": "Если говорить начистоту, мы все в каком-то смысле пошли под откос.",
+          "source": "Danas, 2020"
+        },
+        {
+          "serbian_latin": "Posle tog skandala potpuno je zglajznuo.",
+          "russian": "После этого скандала его карьера окончательно пошла под откос.",
+          "source": ""
+        }
+      ],
+      "note": "Выразительный разговорный глагол, передающий внезапный или серьёзный провал. Особенно характерен для политической и карьерной среды: zglajznuti s funkcije — «слететь с должности». В отличие от нейтрального izgubiti posao, слово содержит оценку падения, краха или утраты прежнего положения.",
+      "keyword": "zglajznuti"
     },
     {
       "headword_latin": "Zini da ti kažem",
